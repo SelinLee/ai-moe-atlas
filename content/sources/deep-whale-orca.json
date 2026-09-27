@@ -1,0 +1,86 @@
+{
+  "id": "deep-whale-orca",
+  "characterId": "deep-whale-orca",
+  "repository": "Small-tailqwq/dsh-deep-whale",
+  "revision": "825d02b0e569c370ae15ceed12d9393559b3e4f4",
+  "pageUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link",
+  "originalPublication": "https://www.bilibili.com/opus/1231977657712771073",
+  "collectedAt": "2026-09-28",
+  "attribution": [
+    {
+      "name": "上善无形",
+      "url": "https://space.bilibili.com/4456176",
+      "role": "original-character",
+      "publication": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "name": "Small-tailqwq",
+      "url": "https://github.com/Small-tailqwq",
+      "role": "published-adaptation"
+    }
+  ],
+  "provenanceStatus": "upstream-chain-verified",
+  "rights": {
+    "license": "CC-BY-NC-SA-4.0",
+    "scope": "artwork",
+    "display": true,
+    "redistribute": true,
+    "modify": true,
+    "commercial": false,
+    "evidenceUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/LICENSE-ARTWORK",
+    "noticeUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/NOTICE",
+    "reviewedBy": "AI Moe Atlas source review",
+    "reviewedAt": "2026-09-28"
+  },
+  "evidenceFiles": [
+    "orca-link/NOTICE",
+    "orca-link/LICENSE-ARTWORK"
+  ],
+  "files": [
+    {
+      "id": "repair",
+      "path": "orca-link/assets/boot-repair.png",
+      "label": {
+        "zh": "维修 Q 版",
+        "en": "Repair chibi",
+        "ja": "修理ミニキャラ"
+      }
+    },
+    {
+      "id": "light-hero",
+      "path": "orca-link/assets/light-hero-v4.webp",
+      "label": {
+        "zh": "浅色立绘",
+        "en": "Light portrait",
+        "ja": "ライト立ち絵"
+      }
+    },
+    {
+      "id": "dark-hero",
+      "path": "orca-link/assets/dark-hero-v2.webp",
+      "label": {
+        "zh": "深色立绘",
+        "en": "Dark portrait",
+        "ja": "ダーク立ち絵"
+      }
+    },
+    {
+      "id": "light-active",
+      "path": "orca-link/assets/light-active-concept-v3.webp",
+      "label": {
+        "zh": "浅色工作状态",
+        "en": "Light active state",
+        "ja": "ライト作業中"
+      }
+    },
+    {
+      "id": "dark-active",
+      "path": "orca-link/assets/dark-active-v2.webp",
+      "label": {
+        "zh": "深色工作状态",
+        "en": "Dark active state",
+        "ja": "ダーク作業中"
+      }
+    }
+  ]
+}

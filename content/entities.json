@@ -1,0 +1,74 @@
+[
+  {
+    "id": "chatgpt",
+    "name": "ChatGPT / GPT",
+    "provider": "OpenAI",
+    "url": "https://openai.com/chatgpt/"
+  },
+  {
+    "id": "claude",
+    "name": "Claude",
+    "provider": "Anthropic",
+    "url": "https://www.anthropic.com/claude"
+  },
+  {
+    "id": "gemini",
+    "name": "Gemini",
+    "provider": "Google",
+    "url": "https://gemini.google.com/"
+  },
+  {
+    "id": "deepseek",
+    "name": "DeepSeek",
+    "provider": "DeepSeek",
+    "url": "https://www.deepseek.com/"
+  },
+  {
+    "id": "qwen",
+    "name": "Qwen",
+    "provider": "Alibaba",
+    "url": "https://qwen.ai/"
+  },
+  {
+    "id": "doubao",
+    "name": "豆包 / Doubao",
+    "provider": "ByteDance",
+    "url": "https://www.doubao.com/"
+  },
+  {
+    "id": "kimi",
+    "name": "Kimi",
+    "provider": "Moonshot AI",
+    "url": "https://www.kimi.com/"
+  },
+  {
+    "id": "glm",
+    "name": "GLM",
+    "provider": "Z.ai",
+    "url": "https://z.ai/"
+  },
+  {
+    "id": "grok",
+    "name": "Grok",
+    "provider": "xAI",
+    "url": "https://grok.com/"
+  },
+  {
+    "id": "llama",
+    "name": "Llama",
+    "provider": "Meta",
+    "url": "https://www.llama.com/"
+  },
+  {
+    "id": "copilot",
+    "name": "Microsoft Copilot",
+    "provider": "Microsoft",
+    "url": "https://copilot.microsoft.com/"
+  },
+  {
+    "id": "minimax",
+    "name": "MiniMax",
+    "provider": "MiniMax",
+    "url": "https://www.minimax.io/"
+  }
+]

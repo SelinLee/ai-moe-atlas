@@ -1,0 +1,41 @@
+name: Source lead / 采集线索 / 収集候補
+description: Submit an existing online character and its original source.
+title: '[Source] '
+body:
+  - type: input
+    id: ai
+    attributes:
+      label: AI / 模型或产品 / モデル・製品
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Original publication URL / 原始发布链接 / 元の公開 URL
+      description: Bilibili BV/opus, creator post, or immutable repository file. Not an image-search results page.
+    validations:
+      required: true
+  - type: input
+    id: creator
+    attributes:
+      label: Original creator / 原作者 / 原作者
+      description: If unknown, say unknown. Distinguish the video uploader from the character designer.
+    validations:
+      required: true
+  - type: textarea
+    id: chain
+    attributes:
+      label: Attribution chain / 署名链 / クレジット
+      description: Original character → derivative creator → asset publisher, with links.
+  - type: textarea
+    id: rights
+    attributes:
+      label: Artwork permissions / 图片使用条件 / 画像の利用条件
+      description: Link to artwork-specific terms. A software MIT license is insufficient. Unknown terms are acceptable for source-only indexing.
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Existing image files / 已有图片 / 既存画像
+      description: Link to existing files. Do not submit newly invented characters for the atlas or propose generative redesign.

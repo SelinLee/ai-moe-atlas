@@ -1,0 +1,1417 @@
+[
+  {
+    "id": "shangshan-whale",
+    "entity": "deepseek",
+    "association": "antecedent-character",
+    "name": {
+      "zh": "鲸鱼娘 · 上善无形原作",
+      "en": "Whale Girl · Shangshan Original",
+      "ja": "クジラ娘 · 上善无形の原作"
+    },
+    "description": {
+      "zh": "“蓝色大肥鱼”衍生形象的上游角色来源，收集自原作者 B 站动态。",
+      "en": "An upstream character source for Blue Fat Fish, collected from the creator’s Bilibili post.",
+      "ja": "「青い大きな魚」の派生形象につながる原作。作者の Bilibili 投稿から収集。"
+    },
+    "story": {
+      "zh": "此处记录原始鲸鱼娘作品与后续 DeepSeek 二创的来源关系，不将原作本身标为 DeepSeek 官方形象。",
+      "en": "This entry records the original whale-girl work and its link to later DeepSeek fan interpretations. It is not an official DeepSeek character.",
+      "ja": "原作のクジラ娘と後の DeepSeek 二次創作の関係を記録します。DeepSeek の公式キャラクターではありません。"
+    },
+    "features": {
+      "zh": "蓝色长发、鲸尾与原图中的服装和配饰；加工时完整保留。",
+      "en": "Long blue hair, a whale tail, and the original clothing and accessories are retained.",
+      "ja": "青い長髪、クジラの尾、原図の衣装と装飾を保持。"
+    },
+    "kind": "collected",
+    "style": "anime",
+    "official": false,
+    "author": "上善无形",
+    "authorUrl": "https://space.bilibili.com/4456176",
+    "source": "https://www.bilibili.com/opus/1231977657712771073",
+    "sourceTitle": "上善无形 · Bilibili",
+    "originalPublication": "https://www.bilibili.com/opus/1231977657712771073",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "上善无形",
+        "url": "https://space.bilibili.com/4456176",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1231977657712771073"
+      }
+    ],
+    "method": "collected-normalized",
+    "license": "CC-BY-NC-SA-4.0",
+    "licenseUrl": "https://www.bilibili.com/opus/1231977657712771073",
+    "downloadable": true,
+    "bg": "#f8e7f0",
+    "color": "#8a6589",
+    "verifiedAt": "2026-09-28",
+    "origin": "web-collected",
+    "preview": "collected/shangshan-whale/portrait/preview.webp",
+    "assets": [
+      {
+        "id": "portrait",
+        "label": {
+          "zh": "原作插画",
+          "en": "Original illustration",
+          "ja": "原作イラスト"
+        }
+      }
+    ],
+    "provenanceNote": {
+      "zh": "直接核验原作者动态中的图片与 CC BY-NC-SA 4.0 声明。保留动态链接、原始图片地址及原图字节。",
+      "en": "The creator’s image and CC BY-NC-SA 4.0 statement were verified directly. Post URL, original image URL, and original bytes are retained.",
+      "ja": "作者の画像と CC BY-NC-SA 4.0 の声明を直接確認。投稿 URL・元画像 URL・原本を保存。"
+    }
+  },
+  {
+    "id": "deep-whale-orca",
+    "entity": "deepseek",
+    "name": {
+      "zh": "鲸鱼娘 · ORCA LINK",
+      "en": "Whale Girl · ORCA LINK",
+      "ja": "クジラ娘 · ORCA LINK"
+    },
+    "description": {
+      "zh": "收集自 ORCA LINK 的现有角色状态图。",
+      "en": "Existing character-state artwork collected from ORCA LINK.",
+      "ja": "ORCA LINK で公開されたキャラクターの状態イラスト。"
+    },
+    "story": {
+      "zh": "收集自 ORCA LINK 的现有角色状态图。",
+      "en": "Existing character-state artwork collected from ORCA LINK.",
+      "ja": "ORCA LINK で公開されたキャラクターの状態イラスト。"
+    },
+    "features": {
+      "zh": "保持采集图中的发型、服装、配色、表情及姿态，不增补设定。",
+      "en": "Preserve the collected hairstyle, clothing, colors, expression, and pose. No new character lore.",
+      "ja": "収集画像の髪型・衣装・色・表情・ポーズを維持し、設定を追加しません。"
+    },
+    "kind": "collected",
+    "style": "anime",
+    "official": false,
+    "author": "上善 / Small-tailqwq",
+    "authorUrl": "https://github.com/Small-tailqwq",
+    "source": "https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link",
+    "sourceTitle": "Small-tailqwq/dsh-deep-whale / orca-link",
+    "originalPublication": "https://www.bilibili.com/opus/1231977657712771073",
+    "sourceStatus": "upstream-chain-verified",
+    "attribution": [
+      {
+        "name": "上善无形",
+        "url": "https://space.bilibili.com/4456176",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1231977657712771073"
+      },
+      {
+        "name": "Small-tailqwq",
+        "url": "https://github.com/Small-tailqwq",
+        "role": "published-adaptation"
+      }
+    ],
+    "method": "collected-normalized",
+    "license": "CC-BY-NC-SA-4.0",
+    "licenseUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/LICENSE-ARTWORK",
+    "downloadable": true,
+    "bg": "#e3f6f6",
+    "color": "#386a84",
+    "verifiedAt": "2026-09-28",
+    "origin": "web-collected",
+    "preview": "collected/deep-whale-orca/repair/preview.webp",
+    "assets": [
+      {
+        "id": "repair",
+        "label": {
+          "zh": "维修 Q 版",
+          "en": "Repair chibi",
+          "ja": "修理ミニキャラ"
+        }
+      },
+      {
+        "id": "light-hero",
+        "label": {
+          "zh": "浅色立绘",
+          "en": "Light portrait",
+          "ja": "ライト立ち絵"
+        }
+      },
+      {
+        "id": "dark-hero",
+        "label": {
+          "zh": "深色立绘",
+          "en": "Dark portrait",
+          "ja": "ダーク立ち絵"
+        }
+      },
+      {
+        "id": "light-active",
+        "label": {
+          "zh": "浅色工作状态",
+          "en": "Light active state",
+          "ja": "ライト作業中"
+        }
+      },
+      {
+        "id": "dark-active",
+        "label": {
+          "zh": "深色工作状态",
+          "en": "Dark active state",
+          "ja": "ダーク作業中"
+        }
+      }
+    ],
+    "provenanceNote": {
+      "zh": "已核对上善无形的原始发布动态及 ZipZipPipe 的二创声明；具体采集文件来自上游素材仓库。",
+      "en": "Original creator post and ZipZipPipe’s derivative statement verified; collected files come from the credited upstream asset repository.",
+      "ja": "原作者の投稿と ZipZipPipe の二次創作声明を確認済み。収集ファイルは記載の上流素材リポジトリから取得。"
+    }
+  },
+  {
+    "id": "deep-whale-maid",
+    "entity": "deepseek",
+    "name": {
+      "zh": "鲸鱼娘 · 深海女仆工坊",
+      "en": "Whale Girl · Maid Atelier",
+      "ja": "クジラ娘 · Maid Atelier"
+    },
+    "description": {
+      "zh": "收集自深海女仆工坊的鲸鱼娘头像与立绘。",
+      "en": "Whale-girl portraits collected from Maid Atelier.",
+      "ja": "Maid Atelier で公開されたクジラ娘の立ち絵とアイコン。"
+    },
+    "story": {
+      "zh": "收集自深海女仆工坊的鲸鱼娘头像与立绘。",
+      "en": "Whale-girl portraits collected from Maid Atelier.",
+      "ja": "Maid Atelier で公開されたクジラ娘の立ち絵とアイコン。"
+    },
+    "features": {
+      "zh": "保持采集图中的发型、服装、配色、表情及姿态，不增补设定。",
+      "en": "Preserve the collected hairstyle, clothing, colors, expression, and pose. No new character lore.",
+      "ja": "収集画像の髪型・衣装・色・表情・ポーズを維持し、設定を追加しません。"
+    },
+    "kind": "collected",
+    "style": "anime",
+    "official": false,
+    "author": "上善 / ZipZipPipe / Small-tailqwq",
+    "authorUrl": "https://github.com/Small-tailqwq",
+    "source": "https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier",
+    "sourceTitle": "Small-tailqwq/dsh-deep-whale / maid-atelier",
+    "originalPublication": "https://www.bilibili.com/opus/1231977657712771073",
+    "sourceStatus": "upstream-chain-verified",
+    "attribution": [
+      {
+        "name": "上善无形",
+        "url": "https://space.bilibili.com/4456176",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1231977657712771073"
+      },
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "secondary-design",
+        "publication": "https://t.bilibili.com/1231980045693616162"
+      },
+      {
+        "name": "Small-tailqwq",
+        "url": "https://github.com/Small-tailqwq",
+        "role": "published-adaptation"
+      }
+    ],
+    "method": "collected-normalized",
+    "license": "CC-BY-NC-SA-4.0",
+    "licenseUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/LICENSE-ARTWORK",
+    "downloadable": true,
+    "bg": "#e6effc",
+    "color": "#386a84",
+    "verifiedAt": "2026-09-28",
+    "origin": "web-collected",
+    "preview": "collected/deep-whale-maid/delighted/preview.webp",
+    "assets": [
+      {
+        "id": "delighted",
+        "label": {
+          "zh": "开心",
+          "en": "Delighted",
+          "ja": "うれしい"
+        }
+      },
+      {
+        "id": "determined",
+        "label": {
+          "zh": "认真",
+          "en": "Determined",
+          "ja": "真剣"
+        }
+      },
+      {
+        "id": "sleepy",
+        "label": {
+          "zh": "困倦",
+          "en": "Sleepy",
+          "ja": "ねむい"
+        }
+      }
+    ],
+    "provenanceNote": {
+      "zh": "已核对上善无形的原始发布动态及 ZipZipPipe 的二创声明；具体采集文件来自上游素材仓库。",
+      "en": "Original creator post and ZipZipPipe’s derivative statement verified; collected files come from the credited upstream asset repository.",
+      "ja": "原作者の投稿と ZipZipPipe の二次創作声明を確認済み。収集ファイルは記載の上流素材リポジトリから取得。"
+    }
+  },
+  {
+    "id": "openpet-deepseek",
+    "entity": "deepseek",
+    "name": {
+      "zh": "DeepSeek · OpenPet",
+      "en": "DeepSeek · OpenPet",
+      "ja": "DeepSeek · OpenPet"
+    },
+    "description": {
+      "zh": "蓝发与蓝白星空服装的拟人桌宠。",
+      "en": "An anime desktop companion with blue hair and a blue-and-white outfit.",
+      "ja": "青い髪と青白の衣装が特徴の擬人化デスクトップペット。"
+    },
+    "story": {
+      "zh": "蓝发与蓝白星空服装的拟人桌宠。",
+      "en": "An anime desktop companion with blue hair and a blue-and-white outfit.",
+      "ja": "青い髪と青白の衣装が特徴の擬人化デスクトップペット。"
+    },
+    "features": {
+      "zh": "具体外观与动画请以作者项目中的预览为准。",
+      "en": "See the creator’s project for the original appearance and animation previews.",
+      "ja": "外見とアニメーションは作者のプロジェクトでご確認ください。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "AwesomeHou",
+    "authorUrl": "https://github.com/AwesomeHou",
+    "source": "https://github.com/AwesomeHou/openpet-ai-girls/tree/main/deepseek",
+    "sourceTitle": "OpenPet AI Girls",
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/AwesomeHou/openpet-ai-girls#disclaimer",
+    "downloadable": false,
+    "bg": "#f0f2f5",
+    "color": "#697488",
+    "verifiedAt": "2026-09-28",
+    "preview": null,
+    "assets": [],
+    "origin": "web-collected",
+    "attribution": [
+      {
+        "name": "AwesomeHou",
+        "url": "https://github.com/AwesomeHou",
+        "role": "publisher"
+      }
+    ],
+    "sourceStatus": "creator-published",
+    "originalPublication": "https://github.com/AwesomeHou/openpet-ai-girls/tree/main/deepseek",
+    "provenanceNote": {
+      "zh": "作者发布的项目；没有足够的图片再分发许可，仅保留出处。",
+      "en": "Creator-published project; image redistribution is not established. Source links only.",
+      "ja": "作者が公開したプロジェクト。画像の再配布許可が不明なため、出典のみ掲載。"
+    }
+  },
+  {
+    "id": "openpet-doubao",
+    "entity": "doubao",
+    "name": {
+      "zh": "豆包 · OpenPet",
+      "en": "豆包 · OpenPet",
+      "ja": "豆包 · OpenPet"
+    },
+    "description": {
+      "zh": "黑色短发与黑白服装的拟人桌宠。",
+      "en": "An anime desktop companion with short dark hair and a monochrome outfit.",
+      "ja": "黒いショートヘアとモノトーンの衣装の擬人化デスクトップペット。"
+    },
+    "story": {
+      "zh": "黑色短发与黑白服装的拟人桌宠。",
+      "en": "An anime desktop companion with short dark hair and a monochrome outfit.",
+      "ja": "黒いショートヘアとモノトーンの衣装の擬人化デスクトップペット。"
+    },
+    "features": {
+      "zh": "具体外观与动画请以作者项目中的预览为准。",
+      "en": "See the creator’s project for the original appearance and animation previews.",
+      "ja": "外見とアニメーションは作者のプロジェクトでご確認ください。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "AwesomeHou",
+    "authorUrl": "https://github.com/AwesomeHou",
+    "source": "https://github.com/AwesomeHou/openpet-ai-girls/tree/main/doubao",
+    "sourceTitle": "OpenPet AI Girls",
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/AwesomeHou/openpet-ai-girls#disclaimer",
+    "downloadable": false,
+    "bg": "#f0f2f5",
+    "color": "#697488",
+    "verifiedAt": "2026-09-28",
+    "preview": null,
+    "assets": [],
+    "origin": "web-collected",
+    "attribution": [
+      {
+        "name": "AwesomeHou",
+        "url": "https://github.com/AwesomeHou",
+        "role": "publisher"
+      }
+    ],
+    "sourceStatus": "creator-published",
+    "originalPublication": "https://github.com/AwesomeHou/openpet-ai-girls/tree/main/doubao",
+    "provenanceNote": {
+      "zh": "作者发布的项目；没有足够的图片再分发许可，仅保留出处。",
+      "en": "Creator-published project; image redistribution is not established. Source links only.",
+      "ja": "作者が公開したプロジェクト。画像の再配布許可が不明なため、出典のみ掲載。"
+    }
+  },
+  {
+    "id": "openpet-gemini",
+    "entity": "gemini",
+    "name": {
+      "zh": "Gemini · OpenPet",
+      "en": "Gemini · OpenPet",
+      "ja": "Gemini · OpenPet"
+    },
+    "description": {
+      "zh": "彩虹色头发、明快配色的拟人桌宠。",
+      "en": "An anime desktop companion with rainbow-colored hair.",
+      "ja": "虹色の髪が特徴の擬人化デスクトップペット。"
+    },
+    "story": {
+      "zh": "彩虹色头发、明快配色的拟人桌宠。",
+      "en": "An anime desktop companion with rainbow-colored hair.",
+      "ja": "虹色の髪が特徴の擬人化デスクトップペット。"
+    },
+    "features": {
+      "zh": "具体外观与动画请以作者项目中的预览为准。",
+      "en": "See the creator’s project for the original appearance and animation previews.",
+      "ja": "外見とアニメーションは作者のプロジェクトでご確認ください。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "AwesomeHou",
+    "authorUrl": "https://github.com/AwesomeHou",
+    "source": "https://github.com/AwesomeHou/openpet-ai-girls/tree/main/gemini",
+    "sourceTitle": "OpenPet AI Girls",
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/AwesomeHou/openpet-ai-girls#disclaimer",
+    "downloadable": false,
+    "bg": "#f0f2f5",
+    "color": "#697488",
+    "verifiedAt": "2026-09-28",
+    "preview": null,
+    "assets": [],
+    "origin": "web-collected",
+    "attribution": [
+      {
+        "name": "AwesomeHou",
+        "url": "https://github.com/AwesomeHou",
+        "role": "publisher"
+      }
+    ],
+    "sourceStatus": "creator-published",
+    "originalPublication": "https://github.com/AwesomeHou/openpet-ai-girls/tree/main/gemini",
+    "provenanceNote": {
+      "zh": "作者发布的项目；没有足够的图片再分发许可，仅保留出处。",
+      "en": "Creator-published project; image redistribution is not established. Source links only.",
+      "ja": "作者が公開したプロジェクト。画像の再配布許可が不明なため、出典のみ掲載。"
+    }
+  },
+  {
+    "id": "openpet-chatgpt",
+    "entity": "chatgpt",
+    "name": {
+      "zh": "ChatGPT · OpenPet",
+      "en": "ChatGPT · OpenPet",
+      "ja": "ChatGPT · OpenPet"
+    },
+    "description": {
+      "zh": "薄荷绿配色、白绿连衣裙的拟人桌宠。",
+      "en": "An anime desktop companion in a mint-and-white dress.",
+      "ja": "ミント色と白のドレスを着た擬人化デスクトップペット。"
+    },
+    "story": {
+      "zh": "薄荷绿配色、白绿连衣裙的拟人桌宠。",
+      "en": "An anime desktop companion in a mint-and-white dress.",
+      "ja": "ミント色と白のドレスを着た擬人化デスクトップペット。"
+    },
+    "features": {
+      "zh": "具体外观与动画请以作者项目中的预览为准。",
+      "en": "See the creator’s project for the original appearance and animation previews.",
+      "ja": "外見とアニメーションは作者のプロジェクトでご確認ください。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "AwesomeHou",
+    "authorUrl": "https://github.com/AwesomeHou",
+    "source": "https://github.com/AwesomeHou/openpet-ai-girls/tree/main/chatgpt",
+    "sourceTitle": "OpenPet AI Girls",
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/AwesomeHou/openpet-ai-girls#disclaimer",
+    "downloadable": false,
+    "bg": "#f0f2f5",
+    "color": "#697488",
+    "verifiedAt": "2026-09-28",
+    "preview": null,
+    "assets": [],
+    "origin": "web-collected",
+    "attribution": [
+      {
+        "name": "AwesomeHou",
+        "url": "https://github.com/AwesomeHou",
+        "role": "publisher"
+      }
+    ],
+    "sourceStatus": "creator-published",
+    "originalPublication": "https://github.com/AwesomeHou/openpet-ai-girls/tree/main/chatgpt",
+    "provenanceNote": {
+      "zh": "作者发布的项目；没有足够的图片再分发许可，仅保留出处。",
+      "en": "Creator-published project; image redistribution is not established. Source links only.",
+      "ja": "作者が公開したプロジェクト。画像の再配布許可が不明なため、出典のみ掲載。"
+    }
+  },
+  {
+    "id": "openpet-claude",
+    "entity": "claude",
+    "name": {
+      "zh": "Claude · OpenPet",
+      "en": "Claude · OpenPet",
+      "ja": "Claude · OpenPet"
+    },
+    "description": {
+      "zh": "桃橙色头发、白色裙装与橙色缎带的拟人桌宠。",
+      "en": "An anime desktop companion with peach-orange hair and orange ribbons.",
+      "ja": "桃色がかったオレンジの髪とリボンの擬人化デスクトップペット。"
+    },
+    "story": {
+      "zh": "桃橙色头发、白色裙装与橙色缎带的拟人桌宠。",
+      "en": "An anime desktop companion with peach-orange hair and orange ribbons.",
+      "ja": "桃色がかったオレンジの髪とリボンの擬人化デスクトップペット。"
+    },
+    "features": {
+      "zh": "具体外观与动画请以作者项目中的预览为准。",
+      "en": "See the creator’s project for the original appearance and animation previews.",
+      "ja": "外見とアニメーションは作者のプロジェクトでご確認ください。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "AwesomeHou",
+    "authorUrl": "https://github.com/AwesomeHou",
+    "source": "https://github.com/AwesomeHou/openpet-ai-girls/tree/main/claude",
+    "sourceTitle": "OpenPet AI Girls",
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/AwesomeHou/openpet-ai-girls#disclaimer",
+    "downloadable": false,
+    "bg": "#f0f2f5",
+    "color": "#697488",
+    "verifiedAt": "2026-09-28",
+    "preview": null,
+    "assets": [],
+    "origin": "web-collected",
+    "attribution": [
+      {
+        "name": "AwesomeHou",
+        "url": "https://github.com/AwesomeHou",
+        "role": "publisher"
+      }
+    ],
+    "sourceStatus": "creator-published",
+    "originalPublication": "https://github.com/AwesomeHou/openpet-ai-girls/tree/main/claude",
+    "provenanceNote": {
+      "zh": "作者发布的项目；没有足够的图片再分发许可，仅保留出处。",
+      "en": "Creator-published project; image redistribution is not established. Source links only.",
+      "ja": "作者が公開したプロジェクト。画像の再配布許可が不明なため、出典のみ掲載。"
+    }
+  },
+  {
+    "id": "clawd-desktop",
+    "entity": "claude",
+    "name": {
+      "zh": "Clawd · 像素桌宠",
+      "en": "Clawd · Desktop Pet",
+      "ja": "Clawd · デスクトップペット"
+    },
+    "description": {
+      "zh": "KebeliSamet0 发布的 Claude 像素桌宠。美术有独立限制，仅索引。",
+      "en": "A Claude pixel pet published by KebeliSamet0. Artwork has separate restrictions; source only.",
+      "ja": "KebeliSamet0 公開の Claude ドット絵ペット。美術は別条件のため出典のみ。"
+    },
+    "story": {
+      "zh": "KebeliSamet0 发布的 Claude 像素桌宠。美术有独立限制，仅索引。",
+      "en": "A Claude pixel pet published by KebeliSamet0. Artwork has separate restrictions; source only.",
+      "ja": "KebeliSamet0 公開の Claude ドット絵ペット。美術は別条件のため出典のみ。"
+    },
+    "features": {
+      "zh": "请查看原作者发布的图片与说明。",
+      "en": "See the creator’s published images and notes.",
+      "ja": "作者の公開画像と説明をご覧ください。"
+    },
+    "kind": "reference",
+    "style": "pixel",
+    "official": false,
+    "author": "KebeliSamet0",
+    "authorUrl": "https://github.com/KebeliSamet0",
+    "source": "https://github.com/KebeliSamet0/clawd",
+    "sourceTitle": "KebeliSamet0",
+    "originalPublication": "https://github.com/KebeliSamet0/clawd",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "KebeliSamet0",
+        "url": "https://github.com/KebeliSamet0",
+        "role": "publisher"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/KebeliSamet0/clawd/blob/master/assets/LICENSE-clawd",
+    "downloadable": false,
+    "bg": "#eff1f6",
+    "color": "#5c728a",
+    "verifiedAt": "2026-09-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "保留作者公开发布页；本站不镜像图片或扩大其使用许可。",
+      "en": "Creator publication retained; Atlas does not mirror images or broaden permissions.",
+      "ja": "作者の公開ページを記録。画像の転載や利用許可の拡張は行いません。"
+    }
+  },
+  {
+    "id": "dayu-whale",
+    "entity": "deepseek",
+    "name": {
+      "zh": "大肥鱼 · YunYueSama",
+      "en": "Da Fei Yu · YunYueSama",
+      "ja": "大肥魚 · YunYueSama"
+    },
+    "description": {
+      "zh": "围绕社区鲸鱼娘参考制作的桌宠；底层参考出处仍待补全。",
+      "en": "A community whale-girl desktop pet; underlying reference provenance remains incomplete.",
+      "ja": "コミュニティのクジラ娘を参考にしたペット。元参考資料の出典は確認待ち。"
+    },
+    "story": {
+      "zh": "围绕社区鲸鱼娘参考制作的桌宠；底层参考出处仍待补全。",
+      "en": "A community whale-girl desktop pet; underlying reference provenance remains incomplete.",
+      "ja": "コミュニティのクジラ娘を参考にしたペット。元参考資料の出典は確認待ち。"
+    },
+    "features": {
+      "zh": "请查看原作者发布的图片与说明。",
+      "en": "See the creator’s published images and notes.",
+      "ja": "作者の公開画像と説明をご覧ください。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "YunYueSama",
+    "authorUrl": "https://github.com/YunYueSama",
+    "source": "https://github.com/YunYueSama/codex-deepseek-pet",
+    "sourceTitle": "YunYueSama",
+    "originalPublication": "https://github.com/YunYueSama/codex-deepseek-pet",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "YunYueSama",
+        "url": "https://github.com/YunYueSama",
+        "role": "publisher"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/YunYueSama/codex-deepseek-pet/blob/main/ASSET_LICENSE.md",
+    "downloadable": false,
+    "bg": "#eff1f6",
+    "color": "#5c728a",
+    "verifiedAt": "2026-09-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "保留作者公开发布页；本站不镜像图片或扩大其使用许可。",
+      "en": "Creator publication retained; Atlas does not mirror images or broaden permissions.",
+      "ja": "作者の公開ページを記録。画像の転載や利用許可の拡張は行いません。"
+    }
+  },
+  {
+    "id": "yamamemo-chatgpt",
+    "entity": "chatgpt",
+    "name": {
+      "zh": "ChatGPT · yamamemo",
+      "en": "ChatGPT · yamamemo",
+      "ja": "ChatGPT · yamamemo"
+    },
+    "description": {
+      "zh": "青绿色头发的学生会长形象。",
+      "en": "A teal-haired student-council character.",
+      "ja": "青緑の髪の生徒会長。"
+    },
+    "story": {
+      "zh": "青绿色头发的学生会长形象。",
+      "en": "A teal-haired student-council character.",
+      "ja": "青緑の髪の生徒会長。"
+    },
+    "features": {
+      "zh": "请查看原作者发布的图片与说明。",
+      "en": "See the creator’s published images and notes.",
+      "ja": "作者の公開画像と説明をご覧ください。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "yamamemo",
+    "authorUrl": "https://zenn.dev/yamamemo",
+    "source": "https://zenn.dev/yamamemo/articles/gen-ai-personification#chatgpt",
+    "sourceTitle": "yamamemo",
+    "originalPublication": "https://zenn.dev/yamamemo/articles/gen-ai-personification#chatgpt",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "yamamemo",
+        "url": "https://zenn.dev/yamamemo",
+        "role": "publisher"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://zenn.dev/yamamemo/articles/gen-ai-personification",
+    "downloadable": false,
+    "bg": "#eff1f6",
+    "color": "#5c728a",
+    "verifiedAt": "2026-09-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "保留作者公开发布页；本站不镜像图片或扩大其使用许可。",
+      "en": "Creator publication retained; Atlas does not mirror images or broaden permissions.",
+      "ja": "作者の公開ページを記録。画像の転載や利用許可の拡張は行いません。"
+    }
+  },
+  {
+    "id": "yamamemo-gemini",
+    "entity": "gemini",
+    "name": {
+      "zh": "Gemini · yamamemo",
+      "en": "Gemini · yamamemo",
+      "ja": "Gemini · yamamemo"
+    },
+    "description": {
+      "zh": "渐变发色的魔法少女偶像形象。",
+      "en": "A gradient-haired magical idol.",
+      "ja": "グラデーションの髪の魔法少女アイドル。"
+    },
+    "story": {
+      "zh": "渐变发色的魔法少女偶像形象。",
+      "en": "A gradient-haired magical idol.",
+      "ja": "グラデーションの髪の魔法少女アイドル。"
+    },
+    "features": {
+      "zh": "请查看原作者发布的图片与说明。",
+      "en": "See the creator’s published images and notes.",
+      "ja": "作者の公開画像と説明をご覧ください。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "yamamemo",
+    "authorUrl": "https://zenn.dev/yamamemo",
+    "source": "https://zenn.dev/yamamemo/articles/gen-ai-personification#gemini",
+    "sourceTitle": "yamamemo",
+    "originalPublication": "https://zenn.dev/yamamemo/articles/gen-ai-personification#gemini",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "yamamemo",
+        "url": "https://zenn.dev/yamamemo",
+        "role": "publisher"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://zenn.dev/yamamemo/articles/gen-ai-personification",
+    "downloadable": false,
+    "bg": "#eff1f6",
+    "color": "#5c728a",
+    "verifiedAt": "2026-09-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "保留作者公开发布页；本站不镜像图片或扩大其使用许可。",
+      "en": "Creator publication retained; Atlas does not mirror images or broaden permissions.",
+      "ja": "作者の公開ページを記録。画像の転載や利用許可の拡張は行いません。"
+    }
+  },
+  {
+    "id": "yamamemo-claude",
+    "entity": "claude",
+    "name": {
+      "zh": "Claude · yamamemo",
+      "en": "Claude · yamamemo",
+      "ja": "Claude · yamamemo"
+    },
+    "description": {
+      "zh": "锈橙色头发、戴眼镜的文学少女形象。",
+      "en": "A rust-haired literary girl with glasses.",
+      "ja": "錆色の髪と眼鏡の文学少女。"
+    },
+    "story": {
+      "zh": "锈橙色头发、戴眼镜的文学少女形象。",
+      "en": "A rust-haired literary girl with glasses.",
+      "ja": "錆色の髪と眼鏡の文学少女。"
+    },
+    "features": {
+      "zh": "请查看原作者发布的图片与说明。",
+      "en": "See the creator’s published images and notes.",
+      "ja": "作者の公開画像と説明をご覧ください。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "yamamemo",
+    "authorUrl": "https://zenn.dev/yamamemo",
+    "source": "https://zenn.dev/yamamemo/articles/gen-ai-personification#claude",
+    "sourceTitle": "yamamemo",
+    "originalPublication": "https://zenn.dev/yamamemo/articles/gen-ai-personification#claude",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "yamamemo",
+        "url": "https://zenn.dev/yamamemo",
+        "role": "publisher"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://zenn.dev/yamamemo/articles/gen-ai-personification",
+    "downloadable": false,
+    "bg": "#eff1f6",
+    "color": "#5c728a",
+    "verifiedAt": "2026-09-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "保留作者公开发布页；本站不镜像图片或扩大其使用许可。",
+      "en": "Creator publication retained; Atlas does not mirror images or broaden permissions.",
+      "ja": "作者の公開ページを記録。画像の転載や利用許可の拡張は行いません。"
+    }
+  },
+  {
+    "id": "yamamemo-grok",
+    "entity": "grok",
+    "name": {
+      "zh": "Grok · yamamemo",
+      "en": "Grok · yamamemo",
+      "ja": "Grok · yamamemo"
+    },
+    "description": {
+      "zh": "黑发与银色挑染的哥特朋克形象。",
+      "en": "A gothic-punk character with silver-streaked dark hair.",
+      "ja": "黒髪に銀のメッシュのゴシック・パンク。"
+    },
+    "story": {
+      "zh": "黑发与银色挑染的哥特朋克形象。",
+      "en": "A gothic-punk character with silver-streaked dark hair.",
+      "ja": "黒髪に銀のメッシュのゴシック・パンク。"
+    },
+    "features": {
+      "zh": "请查看原作者发布的图片与说明。",
+      "en": "See the creator’s published images and notes.",
+      "ja": "作者の公開画像と説明をご覧ください。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "yamamemo",
+    "authorUrl": "https://zenn.dev/yamamemo",
+    "source": "https://zenn.dev/yamamemo/articles/gen-ai-personification#grok",
+    "sourceTitle": "yamamemo",
+    "originalPublication": "https://zenn.dev/yamamemo/articles/gen-ai-personification#grok",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "yamamemo",
+        "url": "https://zenn.dev/yamamemo",
+        "role": "publisher"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://zenn.dev/yamamemo/articles/gen-ai-personification",
+    "downloadable": false,
+    "bg": "#eff1f6",
+    "color": "#5c728a",
+    "verifiedAt": "2026-09-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "保留作者公开发布页；本站不镜像图片或扩大其使用许可。",
+      "en": "Creator publication retained; Atlas does not mirror images or broaden permissions.",
+      "ja": "作者の公開ページを記録。画像の転載や利用許可の拡張は行いません。"
+    }
+  },
+  {
+    "id": "yamamemo-copilot",
+    "entity": "copilot",
+    "name": {
+      "zh": "Microsoft Copilot · yamamemo",
+      "en": "Microsoft Copilot · yamamemo",
+      "ja": "Microsoft Copilot · yamamemo"
+    },
+    "description": {
+      "zh": "白色飞行服的飞行员形象。",
+      "en": "A pilot character in a white flight suit.",
+      "ja": "白いパイロットスーツのキャラクター。"
+    },
+    "story": {
+      "zh": "白色飞行服的飞行员形象。",
+      "en": "A pilot character in a white flight suit.",
+      "ja": "白いパイロットスーツのキャラクター。"
+    },
+    "features": {
+      "zh": "请查看原作者发布的图片与说明。",
+      "en": "See the creator’s published images and notes.",
+      "ja": "作者の公開画像と説明をご覧ください。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "yamamemo",
+    "authorUrl": "https://zenn.dev/yamamemo",
+    "source": "https://zenn.dev/yamamemo/articles/gen-ai-personification#microsoft-copilot",
+    "sourceTitle": "yamamemo",
+    "originalPublication": "https://zenn.dev/yamamemo/articles/gen-ai-personification#microsoft-copilot",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "yamamemo",
+        "url": "https://zenn.dev/yamamemo",
+        "role": "publisher"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://zenn.dev/yamamemo/articles/gen-ai-personification",
+    "downloadable": false,
+    "bg": "#eff1f6",
+    "color": "#5c728a",
+    "verifiedAt": "2026-09-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "保留作者公开发布页；本站不镜像图片或扩大其使用许可。",
+      "en": "Creator publication retained; Atlas does not mirror images or broaden permissions.",
+      "ja": "作者の公開ページを記録。画像の転載や利用許可の拡張は行いません。"
+    }
+  },
+  {
+    "id": "zipzippipe-deepseek",
+    "entity": "deepseek",
+    "name": {
+      "zh": "DeepSeek · ZipZipPipe",
+      "en": "DeepSeek · ZipZipPipe",
+      "ja": "DeepSeek · ZipZipPipe"
+    },
+    "description": {
+      "zh": "“大 AI 和小 AI 们”中由作者列明的拟人形象，保留视频出处。",
+      "en": "A character identified by its creator in “Big AIs and Little AIs”; video source retained.",
+      "ja": "「大AI和小AI们」で作者が明記した擬人化形象。動画の出典を保存。"
+    },
+    "story": {
+      "zh": "作者的视频简介列明九款 AI 与展示顺序。此条目仅建立来源索引，尚未从视频中提取独立素材。",
+      "en": "The creator lists nine AIs and their order in the description. This is a source index; no standalone image has been extracted from the video.",
+      "ja": "作者の説明には 9 種の AI と登場順が記載されています。出典索引のみで、動画から素材は抽出していません。"
+    },
+    "features": {
+      "zh": "以原视频中的角色为准，不自行补充设定。",
+      "en": "Refer to the video; no invented character details.",
+      "ja": "外見は元動画をご確認ください。設定の補完は行いません。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "sourceTitle": "大AI和小AI们 · Bilibili",
+    "originalPublication": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "publisher"
+      }
+    ],
+    "method": "upstream-ai-assisted",
+    "license": "source-only",
+    "licenseUrl": "https://t.bilibili.com/1231980045693616162",
+    "downloadable": false,
+    "bg": "#eaf0fa",
+    "color": "#5b7097",
+    "verifiedAt": "2026-09-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "鲸鱼娘许可声明不自动扩展到其他角色、音乐或整段视频；各素材待逐项核验。",
+      "en": "The whale-girl statement does not automatically cover other characters, music, or the full video. Asset-level verification remains pending.",
+      "ja": "クジラ娘の声明は他キャラクター・音楽・動画全体には自動適用されません。素材ごとの確認が必要です。"
+    }
+  },
+  {
+    "id": "zipzippipe-gemini",
+    "entity": "gemini",
+    "name": {
+      "zh": "Gemini · ZipZipPipe",
+      "en": "Gemini · ZipZipPipe",
+      "ja": "Gemini · ZipZipPipe"
+    },
+    "description": {
+      "zh": "“大 AI 和小 AI 们”中由作者列明的拟人形象，保留视频出处。",
+      "en": "A character identified by its creator in “Big AIs and Little AIs”; video source retained.",
+      "ja": "「大AI和小AI们」で作者が明記した擬人化形象。動画の出典を保存。"
+    },
+    "story": {
+      "zh": "作者的视频简介列明九款 AI 与展示顺序。此条目仅建立来源索引，尚未从视频中提取独立素材。",
+      "en": "The creator lists nine AIs and their order in the description. This is a source index; no standalone image has been extracted from the video.",
+      "ja": "作者の説明には 9 種の AI と登場順が記載されています。出典索引のみで、動画から素材は抽出していません。"
+    },
+    "features": {
+      "zh": "以原视频中的角色为准，不自行补充设定。",
+      "en": "Refer to the video; no invented character details.",
+      "ja": "外見は元動画をご確認ください。設定の補完は行いません。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "sourceTitle": "大AI和小AI们 · Bilibili",
+    "originalPublication": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "publisher"
+      }
+    ],
+    "method": "upstream-ai-assisted",
+    "license": "source-only",
+    "licenseUrl": "https://t.bilibili.com/1231980045693616162",
+    "downloadable": false,
+    "bg": "#eaf0fa",
+    "color": "#5b7097",
+    "verifiedAt": "2026-09-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "鲸鱼娘许可声明不自动扩展到其他角色、音乐或整段视频；各素材待逐项核验。",
+      "en": "The whale-girl statement does not automatically cover other characters, music, or the full video. Asset-level verification remains pending.",
+      "ja": "クジラ娘の声明は他キャラクター・音楽・動画全体には自動適用されません。素材ごとの確認が必要です。"
+    }
+  },
+  {
+    "id": "zipzippipe-claude",
+    "entity": "claude",
+    "name": {
+      "zh": "Claude · ZipZipPipe",
+      "en": "Claude · ZipZipPipe",
+      "ja": "Claude · ZipZipPipe"
+    },
+    "description": {
+      "zh": "“大 AI 和小 AI 们”中由作者列明的拟人形象，保留视频出处。",
+      "en": "A character identified by its creator in “Big AIs and Little AIs”; video source retained.",
+      "ja": "「大AI和小AI们」で作者が明記した擬人化形象。動画の出典を保存。"
+    },
+    "story": {
+      "zh": "作者的视频简介列明九款 AI 与展示顺序。此条目仅建立来源索引，尚未从视频中提取独立素材。",
+      "en": "The creator lists nine AIs and their order in the description. This is a source index; no standalone image has been extracted from the video.",
+      "ja": "作者の説明には 9 種の AI と登場順が記載されています。出典索引のみで、動画から素材は抽出していません。"
+    },
+    "features": {
+      "zh": "以原视频中的角色为准，不自行补充设定。",
+      "en": "Refer to the video; no invented character details.",
+      "ja": "外見は元動画をご確認ください。設定の補完は行いません。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "sourceTitle": "大AI和小AI们 · Bilibili",
+    "originalPublication": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "publisher"
+      }
+    ],
+    "method": "upstream-ai-assisted",
+    "license": "source-only",
+    "licenseUrl": "https://t.bilibili.com/1231980045693616162",
+    "downloadable": false,
+    "bg": "#eaf0fa",
+    "color": "#5b7097",
+    "verifiedAt": "2026-09-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "鲸鱼娘许可声明不自动扩展到其他角色、音乐或整段视频；各素材待逐项核验。",
+      "en": "The whale-girl statement does not automatically cover other characters, music, or the full video. Asset-level verification remains pending.",
+      "ja": "クジラ娘の声明は他キャラクター・音楽・動画全体には自動適用されません。素材ごとの確認が必要です。"
+    }
+  },
+  {
+    "id": "zipzippipe-chatgpt",
+    "entity": "chatgpt",
+    "name": {
+      "zh": "GPT · ZipZipPipe",
+      "en": "GPT · ZipZipPipe",
+      "ja": "GPT · ZipZipPipe"
+    },
+    "description": {
+      "zh": "“大 AI 和小 AI 们”中由作者列明的拟人形象，保留视频出处。",
+      "en": "A character identified by its creator in “Big AIs and Little AIs”; video source retained.",
+      "ja": "「大AI和小AI们」で作者が明記した擬人化形象。動画の出典を保存。"
+    },
+    "story": {
+      "zh": "作者的视频简介列明九款 AI 与展示顺序。此条目仅建立来源索引，尚未从视频中提取独立素材。",
+      "en": "The creator lists nine AIs and their order in the description. This is a source index; no standalone image has been extracted from the video.",
+      "ja": "作者の説明には 9 種の AI と登場順が記載されています。出典索引のみで、動画から素材は抽出していません。"
+    },
+    "features": {
+      "zh": "以原视频中的角色为准，不自行补充设定。",
+      "en": "Refer to the video; no invented character details.",
+      "ja": "外見は元動画をご確認ください。設定の補完は行いません。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "sourceTitle": "大AI和小AI们 · Bilibili",
+    "originalPublication": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "publisher"
+      }
+    ],
+    "method": "upstream-ai-assisted",
+    "license": "source-only",
+    "licenseUrl": "https://t.bilibili.com/1231980045693616162",
+    "downloadable": false,
+    "bg": "#eaf0fa",
+    "color": "#5b7097",
+    "verifiedAt": "2026-09-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "鲸鱼娘许可声明不自动扩展到其他角色、音乐或整段视频；各素材待逐项核验。",
+      "en": "The whale-girl statement does not automatically cover other characters, music, or the full video. Asset-level verification remains pending.",
+      "ja": "クジラ娘の声明は他キャラクター・音楽・動画全体には自動適用されません。素材ごとの確認が必要です。"
+    }
+  },
+  {
+    "id": "zipzippipe-grok",
+    "entity": "grok",
+    "name": {
+      "zh": "Grok · ZipZipPipe",
+      "en": "Grok · ZipZipPipe",
+      "ja": "Grok · ZipZipPipe"
+    },
+    "description": {
+      "zh": "“大 AI 和小 AI 们”中由作者列明的拟人形象，保留视频出处。",
+      "en": "A character identified by its creator in “Big AIs and Little AIs”; video source retained.",
+      "ja": "「大AI和小AI们」で作者が明記した擬人化形象。動画の出典を保存。"
+    },
+    "story": {
+      "zh": "作者的视频简介列明九款 AI 与展示顺序。此条目仅建立来源索引，尚未从视频中提取独立素材。",
+      "en": "The creator lists nine AIs and their order in the description. This is a source index; no standalone image has been extracted from the video.",
+      "ja": "作者の説明には 9 種の AI と登場順が記載されています。出典索引のみで、動画から素材は抽出していません。"
+    },
+    "features": {
+      "zh": "以原视频中的角色为准，不自行补充设定。",
+      "en": "Refer to the video; no invented character details.",
+      "ja": "外見は元動画をご確認ください。設定の補完は行いません。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "sourceTitle": "大AI和小AI们 · Bilibili",
+    "originalPublication": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "publisher"
+      }
+    ],
+    "method": "upstream-ai-assisted",
+    "license": "source-only",
+    "licenseUrl": "https://t.bilibili.com/1231980045693616162",
+    "downloadable": false,
+    "bg": "#eaf0fa",
+    "color": "#5b7097",
+    "verifiedAt": "2026-09-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "鲸鱼娘许可声明不自动扩展到其他角色、音乐或整段视频；各素材待逐项核验。",
+      "en": "The whale-girl statement does not automatically cover other characters, music, or the full video. Asset-level verification remains pending.",
+      "ja": "クジラ娘の声明は他キャラクター・音楽・動画全体には自動適用されません。素材ごとの確認が必要です。"
+    }
+  },
+  {
+    "id": "zipzippipe-glm",
+    "entity": "glm",
+    "name": {
+      "zh": "GLM · ZipZipPipe",
+      "en": "GLM · ZipZipPipe",
+      "ja": "GLM · ZipZipPipe"
+    },
+    "description": {
+      "zh": "“大 AI 和小 AI 们”中由作者列明的拟人形象，保留视频出处。",
+      "en": "A character identified by its creator in “Big AIs and Little AIs”; video source retained.",
+      "ja": "「大AI和小AI们」で作者が明記した擬人化形象。動画の出典を保存。"
+    },
+    "story": {
+      "zh": "作者的视频简介列明九款 AI 与展示顺序。此条目仅建立来源索引，尚未从视频中提取独立素材。",
+      "en": "The creator lists nine AIs and their order in the description. This is a source index; no standalone image has been extracted from the video.",
+      "ja": "作者の説明には 9 種の AI と登場順が記載されています。出典索引のみで、動画から素材は抽出していません。"
+    },
+    "features": {
+      "zh": "以原视频中的角色为准，不自行补充设定。",
+      "en": "Refer to the video; no invented character details.",
+      "ja": "外見は元動画をご確認ください。設定の補完は行いません。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "sourceTitle": "大AI和小AI们 · Bilibili",
+    "originalPublication": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "publisher"
+      }
+    ],
+    "method": "upstream-ai-assisted",
+    "license": "source-only",
+    "licenseUrl": "https://t.bilibili.com/1231980045693616162",
+    "downloadable": false,
+    "bg": "#eaf0fa",
+    "color": "#5b7097",
+    "verifiedAt": "2026-09-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "鲸鱼娘许可声明不自动扩展到其他角色、音乐或整段视频；各素材待逐项核验。",
+      "en": "The whale-girl statement does not automatically cover other characters, music, or the full video. Asset-level verification remains pending.",
+      "ja": "クジラ娘の声明は他キャラクター・音楽・動画全体には自動適用されません。素材ごとの確認が必要です。"
+    }
+  },
+  {
+    "id": "zipzippipe-kimi",
+    "entity": "kimi",
+    "name": {
+      "zh": "Kimi · ZipZipPipe",
+      "en": "Kimi · ZipZipPipe",
+      "ja": "Kimi · ZipZipPipe"
+    },
+    "description": {
+      "zh": "“大 AI 和小 AI 们”中由作者列明的拟人形象，保留视频出处。",
+      "en": "A character identified by its creator in “Big AIs and Little AIs”; video source retained.",
+      "ja": "「大AI和小AI们」で作者が明記した擬人化形象。動画の出典を保存。"
+    },
+    "story": {
+      "zh": "作者的视频简介列明九款 AI 与展示顺序。此条目仅建立来源索引，尚未从视频中提取独立素材。",
+      "en": "The creator lists nine AIs and their order in the description. This is a source index; no standalone image has been extracted from the video.",
+      "ja": "作者の説明には 9 種の AI と登場順が記載されています。出典索引のみで、動画から素材は抽出していません。"
+    },
+    "features": {
+      "zh": "以原视频中的角色为准，不自行补充设定。",
+      "en": "Refer to the video; no invented character details.",
+      "ja": "外見は元動画をご確認ください。設定の補完は行いません。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "sourceTitle": "大AI和小AI们 · Bilibili",
+    "originalPublication": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "publisher"
+      }
+    ],
+    "method": "upstream-ai-assisted",
+    "license": "source-only",
+    "licenseUrl": "https://t.bilibili.com/1231980045693616162",
+    "downloadable": false,
+    "bg": "#eaf0fa",
+    "color": "#5b7097",
+    "verifiedAt": "2026-09-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "鲸鱼娘许可声明不自动扩展到其他角色、音乐或整段视频；各素材待逐项核验。",
+      "en": "The whale-girl statement does not automatically cover other characters, music, or the full video. Asset-level verification remains pending.",
+      "ja": "クジラ娘の声明は他キャラクター・音楽・動画全体には自動適用されません。素材ごとの確認が必要です。"
+    }
+  },
+  {
+    "id": "zipzippipe-minimax",
+    "entity": "minimax",
+    "name": {
+      "zh": "MiniMax · ZipZipPipe",
+      "en": "MiniMax · ZipZipPipe",
+      "ja": "MiniMax · ZipZipPipe"
+    },
+    "description": {
+      "zh": "“大 AI 和小 AI 们”中由作者列明的拟人形象，保留视频出处。",
+      "en": "A character identified by its creator in “Big AIs and Little AIs”; video source retained.",
+      "ja": "「大AI和小AI们」で作者が明記した擬人化形象。動画の出典を保存。"
+    },
+    "story": {
+      "zh": "作者的视频简介列明九款 AI 与展示顺序。此条目仅建立来源索引，尚未从视频中提取独立素材。",
+      "en": "The creator lists nine AIs and their order in the description. This is a source index; no standalone image has been extracted from the video.",
+      "ja": "作者の説明には 9 種の AI と登場順が記載されています。出典索引のみで、動画から素材は抽出していません。"
+    },
+    "features": {
+      "zh": "以原视频中的角色为准，不自行补充设定。",
+      "en": "Refer to the video; no invented character details.",
+      "ja": "外見は元動画をご確認ください。設定の補完は行いません。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "sourceTitle": "大AI和小AI们 · Bilibili",
+    "originalPublication": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "publisher"
+      }
+    ],
+    "method": "upstream-ai-assisted",
+    "license": "source-only",
+    "licenseUrl": "https://t.bilibili.com/1231980045693616162",
+    "downloadable": false,
+    "bg": "#eaf0fa",
+    "color": "#5b7097",
+    "verifiedAt": "2026-09-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "鲸鱼娘许可声明不自动扩展到其他角色、音乐或整段视频；各素材待逐项核验。",
+      "en": "The whale-girl statement does not automatically cover other characters, music, or the full video. Asset-level verification remains pending.",
+      "ja": "クジラ娘の声明は他キャラクター・音楽・動画全体には自動適用されません。素材ごとの確認が必要です。"
+    }
+  },
+  {
+    "id": "zipzippipe-qwen",
+    "entity": "qwen",
+    "name": {
+      "zh": "Qwen · ZipZipPipe",
+      "en": "Qwen · ZipZipPipe",
+      "ja": "Qwen · ZipZipPipe"
+    },
+    "description": {
+      "zh": "“大 AI 和小 AI 们”中由作者列明的拟人形象，保留视频出处。",
+      "en": "A character identified by its creator in “Big AIs and Little AIs”; video source retained.",
+      "ja": "「大AI和小AI们」で作者が明記した擬人化形象。動画の出典を保存。"
+    },
+    "story": {
+      "zh": "作者的视频简介列明九款 AI 与展示顺序。此条目仅建立来源索引，尚未从视频中提取独立素材。",
+      "en": "The creator lists nine AIs and their order in the description. This is a source index; no standalone image has been extracted from the video.",
+      "ja": "作者の説明には 9 種の AI と登場順が記載されています。出典索引のみで、動画から素材は抽出していません。"
+    },
+    "features": {
+      "zh": "以原视频中的角色为准，不自行补充设定。",
+      "en": "Refer to the video; no invented character details.",
+      "ja": "外見は元動画をご確認ください。設定の補完は行いません。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "sourceTitle": "大AI和小AI们 · Bilibili",
+    "originalPublication": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "publisher"
+      }
+    ],
+    "method": "upstream-ai-assisted",
+    "license": "source-only",
+    "licenseUrl": "https://t.bilibili.com/1231980045693616162",
+    "downloadable": false,
+    "bg": "#eaf0fa",
+    "color": "#5b7097",
+    "verifiedAt": "2026-09-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "鲸鱼娘许可声明不自动扩展到其他角色、音乐或整段视频；各素材待逐项核验。",
+      "en": "The whale-girl statement does not automatically cover other characters, music, or the full video. Asset-level verification remains pending.",
+      "ja": "クジラ娘の声明は他キャラクター・音楽・動画全体には自動適用されません。素材ごとの確認が必要です。"
+    }
+  }
+]

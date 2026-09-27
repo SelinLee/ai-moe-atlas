@@ -1,0 +1,16 @@
+name: Correction or removal / 纠错或移除 / 訂正・削除
+description: Correct attribution, source links, usage terms, or request removal.
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry URL / 条目链接 / 項目 URL
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Request and evidence / 请求与依据 / 依頼と根拠
+      description: Do not include private identity documents or sensitive personal data in public issues.
+    validations:
+      required: true

@@ -1,0 +1,74 @@
+{
+  "id": "deep-whale-maid",
+  "characterId": "deep-whale-maid",
+  "repository": "Small-tailqwq/dsh-deep-whale",
+  "revision": "825d02b0e569c370ae15ceed12d9393559b3e4f4",
+  "pageUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier",
+  "originalPublication": "https://www.bilibili.com/opus/1231977657712771073",
+  "collectedAt": "2026-09-28",
+  "attribution": [
+    {
+      "name": "上善无形",
+      "url": "https://space.bilibili.com/4456176",
+      "role": "original-character",
+      "publication": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "name": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597",
+      "role": "secondary-design",
+      "publication": "https://t.bilibili.com/1231980045693616162"
+    },
+    {
+      "name": "Small-tailqwq",
+      "url": "https://github.com/Small-tailqwq",
+      "role": "published-adaptation"
+    }
+  ],
+  "provenanceStatus": "upstream-chain-verified",
+  "rights": {
+    "license": "CC-BY-NC-SA-4.0",
+    "scope": "artwork",
+    "display": true,
+    "redistribute": true,
+    "modify": true,
+    "commercial": false,
+    "evidenceUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/LICENSE-ARTWORK",
+    "noticeUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/NOTICE",
+    "reviewedBy": "AI Moe Atlas source review",
+    "reviewedAt": "2026-09-28"
+  },
+  "evidenceFiles": [
+    "maid-atelier/NOTICE",
+    "maid-atelier/LICENSE-ARTWORK"
+  ],
+  "files": [
+    {
+      "id": "delighted",
+      "path": "maid-atelier/assets/icons/delighted-cutout.png",
+      "label": {
+        "zh": "开心",
+        "en": "Delighted",
+        "ja": "うれしい"
+      }
+    },
+    {
+      "id": "determined",
+      "path": "maid-atelier/assets/icons/determined-cutout.png",
+      "label": {
+        "zh": "认真",
+        "en": "Determined",
+        "ja": "真剣"
+      }
+    },
+    {
+      "id": "sleepy",
+      "path": "maid-atelier/assets/icons/sleepy-cutout.png",
+      "label": {
+        "zh": "困倦",
+        "en": "Sleepy",
+        "ja": "ねむい"
+      }
+    }
+  ]
+}

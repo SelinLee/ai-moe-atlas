@@ -1,0 +1,140 @@
+{
+  "id": "deep-whale-maid",
+  "characterId": "deep-whale-maid",
+  "repository": "Small-tailqwq/dsh-deep-whale",
+  "revision": "825d02b0e569c370ae15ceed12d9393559b3e4f4",
+  "pageUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier",
+  "originalPublication": "https://www.bilibili.com/opus/1231977657712771073",
+  "collectedAt": "2026-09-28",
+  "attribution": [
+    {
+      "name": "上善无形",
+      "url": "https://space.bilibili.com/4456176",
+      "role": "original-character",
+      "publication": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "name": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597",
+      "role": "secondary-design",
+      "publication": "https://t.bilibili.com/1231980045693616162"
+    },
+    {
+      "name": "Small-tailqwq",
+      "url": "https://github.com/Small-tailqwq",
+      "role": "published-adaptation"
+    }
+  ],
+  "provenanceStatus": "upstream-chain-verified",
+  "rights": {
+    "license": "CC-BY-NC-SA-4.0",
+    "scope": "artwork",
+    "display": true,
+    "redistribute": true,
+    "modify": true,
+    "commercial": false,
+    "evidenceUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/LICENSE-ARTWORK",
+    "noticeUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/NOTICE",
+    "reviewedBy": "AI Moe Atlas source review",
+    "reviewedAt": "2026-09-28"
+  },
+  "evidenceFiles": [
+    "maid-atelier/NOTICE",
+    "maid-atelier/LICENSE-ARTWORK"
+  ],
+  "files": [
+    {
+      "id": "delighted",
+      "path": "maid-atelier/assets/icons/delighted-cutout.png",
+      "label": {
+        "zh": "开心",
+        "en": "Delighted",
+        "ja": "うれしい"
+      }
+    },
+    {
+      "id": "determined",
+      "path": "maid-atelier/assets/icons/determined-cutout.png",
+      "label": {
+        "zh": "认真",
+        "en": "Determined",
+        "ja": "真剣"
+      }
+    },
+    {
+      "id": "sleepy",
+      "path": "maid-atelier/assets/icons/sleepy-cutout.png",
+      "label": {
+        "zh": "困倦",
+        "en": "Sleepy",
+        "ja": "ねむい"
+      }
+    }
+  ],
+  "retrievedAt": "2026-09-27T17:14:05.776Z",
+  "evidence": [
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/NOTICE",
+      "localPath": "collected/deep-whale-maid/evidence/NOTICE.txt",
+      "sha256": "2da2c0db4b335b13b9f24e609d688b25cad0f94a0bf41d354114e0b53e904c3f"
+    },
+    {
+      "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/LICENSE-ARTWORK",
+      "localPath": "collected/deep-whale-maid/evidence/LICENSE-ARTWORK.txt",
+      "sha256": "52de7059eb8d02acd9ad8bb5e3a8d3b3e4f018c9c0826bd676483e54de31345e"
+    }
+  ],
+  "originals": [
+    {
+      "id": "delighted",
+      "path": "maid-atelier/assets/icons/delighted-cutout.png",
+      "label": {
+        "zh": "开心",
+        "en": "Delighted",
+        "ja": "うれしい"
+      },
+      "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/assets/icons/delighted-cutout.png",
+      "sourcePage": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/assets/icons/delighted-cutout.png",
+      "localPath": "collected/deep-whale-maid/delighted/original.png",
+      "sha256": "5f8149d52b8cbdba7b5efeacbda9d1abd9c55a1ee129551b476540452ad83ec9",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "bytes": 1669896
+    },
+    {
+      "id": "determined",
+      "path": "maid-atelier/assets/icons/determined-cutout.png",
+      "label": {
+        "zh": "认真",
+        "en": "Determined",
+        "ja": "真剣"
+      },
+      "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/assets/icons/determined-cutout.png",
+      "sourcePage": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/assets/icons/determined-cutout.png",
+      "localPath": "collected/deep-whale-maid/determined/original.png",
+      "sha256": "85628c8003043147248eeeb6ba425975c7873b08cf5da498b4ac4b9f452000d5",
+      "width": 912,
+      "height": 981,
+      "alpha": true,
+      "bytes": 700815
+    },
+    {
+      "id": "sleepy",
+      "path": "maid-atelier/assets/icons/sleepy-cutout.png",
+      "label": {
+        "zh": "困倦",
+        "en": "Sleepy",
+        "ja": "ねむい"
+      },
+      "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/assets/icons/sleepy-cutout.png",
+      "sourcePage": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/assets/icons/sleepy-cutout.png",
+      "localPath": "collected/deep-whale-maid/sleepy/original.png",
+      "sha256": "4dd731cad7b132fb47f4fedd6848efbf21b8c5acb792a9c56bc25b421a0ab3e0",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "bytes": 1542451
+    }
+  ]
+}

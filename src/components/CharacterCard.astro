@@ -1,0 +1,16 @@
+---
+import { t, type Locale } from '../lib/i18n';
+import { path } from '../lib/paths';
+import { entityName } from '../lib/data';
+import Icon from './Icon.astro';
+const { character:c, lang } = Astro.props;
+const s = t(lang as Locale);
+---
+<article class:list={['character-card',{'reference-card':!c.downloadable}]} data-card data-kind={c.kind} data-entity={c.entity} data-style={c.style} data-search={Object.values(c.name).join(' ')+' '+Object.values(c.description).join(' ')+' '+entityName(c.entity)+' '+c.author}>
+  <a class="card-art" style={`--card-bg:${c.bg};--card-color:${c.color}`} href={path(`${lang}/characters/${c.id}/`)} aria-label={`${s.details}: ${c.name[lang]}`}>
+    <span class="art-corner">{c.downloadable ? 'COLLECTED & CREDITED' : 'SOURCE ARCHIVE'}</span>
+    {c.preview ? <img src={path(c.preview)} width="512" height="512" alt={c.name[lang]} loading="lazy"/> : <div class="source-art"><Icon name="book" size={38}/><strong>{entityName(c.entity)}</strong><span>{c.author}</span></div>}
+    <span class="art-badge">{c.downloadable ? <Icon name="download" size={13}/> : <Icon name="external" size={13}/>} {c.downloadable ? s.downloadable : s.sourceOnly}</span>
+  </a>
+  <div class="card-body"><div class="card-title"><h2><a href={path(`${lang}/characters/${c.id}/`)}>{c.name[lang]}</a></h2><span class="model-label">{entityName(c.entity).split(' / ')[0]}</span></div><p>{c.description[lang]}</p><div class="card-meta"><span>{s.unofficial} · {s[c.style as 'clay'|'anime'|'pixel']}</span><a href={path(`${lang}/characters/${c.id}/`)} aria-label={`${s.details}: ${c.name[lang]}`}><Icon name="arrow" size={17}/></a></div></div>
+</article>

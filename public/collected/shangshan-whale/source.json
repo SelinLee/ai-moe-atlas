@@ -1,0 +1,80 @@
+{
+  "id": "shangshan-whale",
+  "characterId": "shangshan-whale",
+  "platform": "bilibili",
+  "revision": "opus-1231977657712771073-2026-09-28",
+  "pageUrl": "https://www.bilibili.com/opus/1231977657712771073",
+  "originalPublication": "https://www.bilibili.com/opus/1231977657712771073",
+  "collectedAt": "2026-09-28",
+  "attribution": [
+    {
+      "name": "上善无形",
+      "url": "https://space.bilibili.com/4456176",
+      "role": "original-character",
+      "publication": "https://www.bilibili.com/opus/1231977657712771073"
+    }
+  ],
+  "provenanceStatus": "creator-published",
+  "rights": {
+    "license": "CC-BY-NC-SA-4.0",
+    "scope": "artwork",
+    "display": true,
+    "redistribute": true,
+    "modify": true,
+    "commercial": false,
+    "evidenceUrl": "https://www.bilibili.com/opus/1231977657712771073",
+    "noticeUrl": "https://www.bilibili.com/opus/1231977657712771073",
+    "reviewedBy": "AI Moe Atlas source review",
+    "reviewedAt": "2026-09-28"
+  },
+  "evidenceSnapshots": [
+    {
+      "url": "https://www.bilibili.com/opus/1231977657712771073",
+      "author": "上善无形",
+      "observedAt": "2026-09-28",
+      "method": "isolated Google Chrome public page",
+      "permissionText": "鲸鱼娘形象，此内容遵守CC BY-NC-SA 4.0协议。",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+    }
+  ],
+  "files": [
+    {
+      "id": "portrait",
+      "path": "portrait.png",
+      "url": "https://i0.hdslb.com/bfs/new_dyn/3c682551e90b44b1a02c01ed337b22884456176.png",
+      "label": {
+        "zh": "原作插画",
+        "en": "Original illustration",
+        "ja": "原作イラスト"
+      }
+    }
+  ],
+  "retrievedAt": "2026-09-27T17:22:50.175Z",
+  "evidence": [
+    {
+      "sourceUrl": "https://www.bilibili.com/opus/1231977657712771073",
+      "localPath": "collected/shangshan-whale/evidence/source-statement-1.json",
+      "sha256": "5b7cb7fcd7494451ab0e25b09391d2cf3f017a71845a6e9f1447f75edbdd8ce8"
+    }
+  ],
+  "originals": [
+    {
+      "id": "portrait",
+      "path": "portrait.png",
+      "url": "https://i0.hdslb.com/bfs/new_dyn/3c682551e90b44b1a02c01ed337b22884456176.png",
+      "label": {
+        "zh": "原作插画",
+        "en": "Original illustration",
+        "ja": "原作イラスト"
+      },
+      "sourceUrl": "https://i0.hdslb.com/bfs/new_dyn/3c682551e90b44b1a02c01ed337b22884456176.png",
+      "sourcePage": "https://www.bilibili.com/opus/1231977657712771073",
+      "localPath": "collected/shangshan-whale/portrait/original.png",
+      "sha256": "527b8911e690686424415991ffeb2f9e979b5f2b87b4c56640599ec9928d9940",
+      "width": 1024,
+      "height": 1280,
+      "alpha": false,
+      "bytes": 1372289
+    }
+  ]
+}

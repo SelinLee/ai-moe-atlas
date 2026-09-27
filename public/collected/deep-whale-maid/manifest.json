@@ -1,0 +1,296 @@
+{
+  "version": 1,
+  "characterId": "deep-whale-maid",
+  "source": {
+    "id": "deep-whale-maid",
+    "characterId": "deep-whale-maid",
+    "repository": "Small-tailqwq/dsh-deep-whale",
+    "revision": "825d02b0e569c370ae15ceed12d9393559b3e4f4",
+    "pageUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier",
+    "originalPublication": "https://www.bilibili.com/opus/1231977657712771073",
+    "collectedAt": "2026-09-28",
+    "attribution": [
+      {
+        "name": "上善无形",
+        "url": "https://space.bilibili.com/4456176",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1231977657712771073"
+      },
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "secondary-design",
+        "publication": "https://t.bilibili.com/1231980045693616162"
+      },
+      {
+        "name": "Small-tailqwq",
+        "url": "https://github.com/Small-tailqwq",
+        "role": "published-adaptation"
+      }
+    ],
+    "provenanceStatus": "upstream-chain-verified",
+    "rights": {
+      "license": "CC-BY-NC-SA-4.0",
+      "scope": "artwork",
+      "display": true,
+      "redistribute": true,
+      "modify": true,
+      "commercial": false,
+      "evidenceUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/LICENSE-ARTWORK",
+      "noticeUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/NOTICE",
+      "reviewedBy": "AI Moe Atlas source review",
+      "reviewedAt": "2026-09-28"
+    },
+    "evidenceFiles": [
+      "maid-atelier/NOTICE",
+      "maid-atelier/LICENSE-ARTWORK"
+    ],
+    "files": [
+      {
+        "id": "delighted",
+        "path": "maid-atelier/assets/icons/delighted-cutout.png",
+        "label": {
+          "zh": "开心",
+          "en": "Delighted",
+          "ja": "うれしい"
+        }
+      },
+      {
+        "id": "determined",
+        "path": "maid-atelier/assets/icons/determined-cutout.png",
+        "label": {
+          "zh": "认真",
+          "en": "Determined",
+          "ja": "真剣"
+        }
+      },
+      {
+        "id": "sleepy",
+        "path": "maid-atelier/assets/icons/sleepy-cutout.png",
+        "label": {
+          "zh": "困倦",
+          "en": "Sleepy",
+          "ja": "ねむい"
+        }
+      }
+    ],
+    "retrievedAt": "2026-09-27T17:14:05.776Z",
+    "evidence": [
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/NOTICE",
+        "localPath": "collected/deep-whale-maid/evidence/NOTICE.txt",
+        "sha256": "2da2c0db4b335b13b9f24e609d688b25cad0f94a0bf41d354114e0b53e904c3f"
+      },
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/LICENSE-ARTWORK",
+        "localPath": "collected/deep-whale-maid/evidence/LICENSE-ARTWORK.txt",
+        "sha256": "52de7059eb8d02acd9ad8bb5e3a8d3b3e4f018c9c0826bd676483e54de31345e"
+      }
+    ],
+    "originals": [
+      {
+        "id": "delighted",
+        "path": "maid-atelier/assets/icons/delighted-cutout.png",
+        "label": {
+          "zh": "开心",
+          "en": "Delighted",
+          "ja": "うれしい"
+        },
+        "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/assets/icons/delighted-cutout.png",
+        "sourcePage": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/assets/icons/delighted-cutout.png",
+        "localPath": "collected/deep-whale-maid/delighted/original.png",
+        "sha256": "5f8149d52b8cbdba7b5efeacbda9d1abd9c55a1ee129551b476540452ad83ec9",
+        "width": 1254,
+        "height": 1254,
+        "alpha": true,
+        "bytes": 1669896
+      },
+      {
+        "id": "determined",
+        "path": "maid-atelier/assets/icons/determined-cutout.png",
+        "label": {
+          "zh": "认真",
+          "en": "Determined",
+          "ja": "真剣"
+        },
+        "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/assets/icons/determined-cutout.png",
+        "sourcePage": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/assets/icons/determined-cutout.png",
+        "localPath": "collected/deep-whale-maid/determined/original.png",
+        "sha256": "85628c8003043147248eeeb6ba425975c7873b08cf5da498b4ac4b9f452000d5",
+        "width": 912,
+        "height": 981,
+        "alpha": true,
+        "bytes": 700815
+      },
+      {
+        "id": "sleepy",
+        "path": "maid-atelier/assets/icons/sleepy-cutout.png",
+        "label": {
+          "zh": "困倦",
+          "en": "Sleepy",
+          "ja": "ねむい"
+        },
+        "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/assets/icons/sleepy-cutout.png",
+        "sourcePage": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/assets/icons/sleepy-cutout.png",
+        "localPath": "collected/deep-whale-maid/sleepy/original.png",
+        "sha256": "4dd731cad7b132fb47f4fedd6848efbf21b8c5acb792a9c56bc25b421a0ab3e0",
+        "width": 1254,
+        "height": 1254,
+        "alpha": true,
+        "bytes": 1542451
+      }
+    ]
+  },
+  "normalization": {
+    "tool": "sharp 0.34.5",
+    "policy": "preserve-original-identity",
+    "generative": false,
+    "notes": "Fit complete original to canvas. No new pose, expression, costume, background removal, or invented detail. 2x output is resampling, not recovered detail."
+  },
+  "assets": [
+    {
+      "id": "delighted",
+      "label": {
+        "zh": "开心",
+        "en": "Delighted",
+        "ja": "うれしい"
+      },
+      "original": "collected/deep-whale-maid/delighted/original.png",
+      "originalSha256": "5f8149d52b8cbdba7b5efeacbda9d1abd9c55a1ee129551b476540452ad83ec9",
+      "outputs": [
+        {
+          "path": "collected/deep-whale-maid/delighted/standard.png",
+          "sha256": "74278411d37e7b5ebb8c9aca568c1fe0d0c1f2ccc2e0da43cee1cd321bf8e58b",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "5f8149d52b8cbdba7b5efeacbda9d1abd9c55a1ee129551b476540452ad83ec9"
+        },
+        {
+          "path": "collected/deep-whale-maid/delighted/preview.webp",
+          "sha256": "6f7703fd0642a7eb1cbd8946c4ff30823be23a2640592c993993638c08f5a310",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "5f8149d52b8cbdba7b5efeacbda9d1abd9c55a1ee129551b476540452ad83ec9"
+        },
+        {
+          "path": "collected/deep-whale-maid/delighted/avatar.png",
+          "sha256": "3219121b2ba2c766d9851020d2f9428e63bcb826c67544c079c437a4dfde997b",
+          "width": 256,
+          "height": 256,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "5f8149d52b8cbdba7b5efeacbda9d1abd9c55a1ee129551b476540452ad83ec9"
+        },
+        {
+          "path": "collected/deep-whale-maid/delighted/large-1024.png",
+          "sha256": "ea0831f07739a104c295f72b01af61daa1d36b6d7a6426ef74f5feb868517d8d",
+          "width": 1024,
+          "height": 1024,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "5f8149d52b8cbdba7b5efeacbda9d1abd9c55a1ee129551b476540452ad83ec9"
+        }
+      ]
+    },
+    {
+      "id": "determined",
+      "label": {
+        "zh": "认真",
+        "en": "Determined",
+        "ja": "真剣"
+      },
+      "original": "collected/deep-whale-maid/determined/original.png",
+      "originalSha256": "85628c8003043147248eeeb6ba425975c7873b08cf5da498b4ac4b9f452000d5",
+      "outputs": [
+        {
+          "path": "collected/deep-whale-maid/determined/standard.png",
+          "sha256": "4fa7c0f16a0a674c6fe60aede60e9e0f8916309e324f15477162ee3f4828c84a",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "85628c8003043147248eeeb6ba425975c7873b08cf5da498b4ac4b9f452000d5"
+        },
+        {
+          "path": "collected/deep-whale-maid/determined/preview.webp",
+          "sha256": "9a04a340d176b4ce7ce6e9fa8bb2aecf71402bc9246f27961271c8144bd085cf",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "85628c8003043147248eeeb6ba425975c7873b08cf5da498b4ac4b9f452000d5"
+        },
+        {
+          "path": "collected/deep-whale-maid/determined/avatar.png",
+          "sha256": "371ae85ea34d5ea50c2b0cd0ad3ee902fa3c1a55ec610a51646317e1130b549c",
+          "width": 256,
+          "height": 256,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "85628c8003043147248eeeb6ba425975c7873b08cf5da498b4ac4b9f452000d5"
+        },
+        {
+          "path": "collected/deep-whale-maid/determined/large-1024.png",
+          "sha256": "952aac9e3b7d987f39f7f2fc356b5b7927993af76432f42a7768632f11883aa3",
+          "width": 1024,
+          "height": 1024,
+          "operation": "contain-resample",
+          "upscaled": true,
+          "parentSha256": "85628c8003043147248eeeb6ba425975c7873b08cf5da498b4ac4b9f452000d5"
+        }
+      ]
+    },
+    {
+      "id": "sleepy",
+      "label": {
+        "zh": "困倦",
+        "en": "Sleepy",
+        "ja": "ねむい"
+      },
+      "original": "collected/deep-whale-maid/sleepy/original.png",
+      "originalSha256": "4dd731cad7b132fb47f4fedd6848efbf21b8c5acb792a9c56bc25b421a0ab3e0",
+      "outputs": [
+        {
+          "path": "collected/deep-whale-maid/sleepy/standard.png",
+          "sha256": "6b8ecaa5d7c16f77328e7228ec41a81b8cefba98d59f7ad15c259c12ccd7df52",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "4dd731cad7b132fb47f4fedd6848efbf21b8c5acb792a9c56bc25b421a0ab3e0"
+        },
+        {
+          "path": "collected/deep-whale-maid/sleepy/preview.webp",
+          "sha256": "a578d5dc9cd3bf277c3b70e1f7f389988c5b9ec01884bfb2e428acb0e909b737",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "4dd731cad7b132fb47f4fedd6848efbf21b8c5acb792a9c56bc25b421a0ab3e0"
+        },
+        {
+          "path": "collected/deep-whale-maid/sleepy/avatar.png",
+          "sha256": "72f0fb6fa43a3cb8b76630111a3c6884e29aafcce564ee02180c06a59b4b3883",
+          "width": 256,
+          "height": 256,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "4dd731cad7b132fb47f4fedd6848efbf21b8c5acb792a9c56bc25b421a0ab3e0"
+        },
+        {
+          "path": "collected/deep-whale-maid/sleepy/large-1024.png",
+          "sha256": "1317df63e42d102ab4702718a7d6f3c90445519e29461b27f40480f6de8c44ad",
+          "width": 1024,
+          "height": 1024,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "4dd731cad7b132fb47f4fedd6848efbf21b8c5acb792a9c56bc25b421a0ab3e0"
+        }
+      ]
+    }
+  ]
+}

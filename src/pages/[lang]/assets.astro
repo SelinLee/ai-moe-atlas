@@ -1,0 +1,15 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import ExpressionGrid from '../../components/ExpressionGrid.astro';
+import Icon from '../../components/Icon.astro';
+import { locales, t, type Locale } from '../../lib/i18n';
+import { collected } from '../../lib/data';
+import { path } from '../../lib/paths';
+export function getStaticPaths(){return locales.map(lang=>({params:{lang}}));}
+const lang=Astro.params.lang as Locale,s=t(lang);
+---
+<Layout lang={lang} title={s.assets} description={s.assetIntro} active="assets" route="assets/">
+ <section class="page-heading"><div><p class="eyebrow">COLLECTED · NORMALIZED · CREDITED</p><h1>{s.assetTitle}</h1><p class="lead">{s.assetIntro}</p></div></section>
+ <p class="notice">{s.originNote}</p>
+ {collected.map(c=><section class="asset-section"><div class="section-title"><div class="asset-intro"><img src={path(c.preview!)} alt="" width="76" height="76"/><div><h2><a href={path(`${lang}/characters/${c.id}/`)}>{c.name[lang]}</a></h2><p>{c.assets.length} {s.assetUnit} · {c.license}</p></div></div><a class="button" download href={path(`packs/${c.id}.zip`)}><Icon name="download" size={17}/>{s.pack}</a></div><ExpressionGrid character={c} lang={lang}/><div class="file-links"><a href={path(`${lang}/characters/${c.id}/`)}>{s.provenance}</a><a download href={path(`collected/${c.id}/manifest.json`)}>{s.manifest}</a><a href={c.source} target="_blank" rel="noopener noreferrer">{s.viewSource} ↗</a></div><p class="subtle" style="margin-top:14px">{s.noncommercial} · {s.packContains}</p></section>)}
+</Layout>

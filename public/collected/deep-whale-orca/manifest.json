@@ -1,0 +1,438 @@
+{
+  "version": 1,
+  "characterId": "deep-whale-orca",
+  "source": {
+    "id": "deep-whale-orca",
+    "characterId": "deep-whale-orca",
+    "repository": "Small-tailqwq/dsh-deep-whale",
+    "revision": "825d02b0e569c370ae15ceed12d9393559b3e4f4",
+    "pageUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link",
+    "originalPublication": "https://www.bilibili.com/opus/1231977657712771073",
+    "collectedAt": "2026-09-28",
+    "attribution": [
+      {
+        "name": "上善无形",
+        "url": "https://space.bilibili.com/4456176",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1231977657712771073"
+      },
+      {
+        "name": "Small-tailqwq",
+        "url": "https://github.com/Small-tailqwq",
+        "role": "published-adaptation"
+      }
+    ],
+    "provenanceStatus": "upstream-chain-verified",
+    "rights": {
+      "license": "CC-BY-NC-SA-4.0",
+      "scope": "artwork",
+      "display": true,
+      "redistribute": true,
+      "modify": true,
+      "commercial": false,
+      "evidenceUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/LICENSE-ARTWORK",
+      "noticeUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/NOTICE",
+      "reviewedBy": "AI Moe Atlas source review",
+      "reviewedAt": "2026-09-28"
+    },
+    "evidenceFiles": [
+      "orca-link/NOTICE",
+      "orca-link/LICENSE-ARTWORK"
+    ],
+    "files": [
+      {
+        "id": "repair",
+        "path": "orca-link/assets/boot-repair.png",
+        "label": {
+          "zh": "维修 Q 版",
+          "en": "Repair chibi",
+          "ja": "修理ミニキャラ"
+        }
+      },
+      {
+        "id": "light-hero",
+        "path": "orca-link/assets/light-hero-v4.webp",
+        "label": {
+          "zh": "浅色立绘",
+          "en": "Light portrait",
+          "ja": "ライト立ち絵"
+        }
+      },
+      {
+        "id": "dark-hero",
+        "path": "orca-link/assets/dark-hero-v2.webp",
+        "label": {
+          "zh": "深色立绘",
+          "en": "Dark portrait",
+          "ja": "ダーク立ち絵"
+        }
+      },
+      {
+        "id": "light-active",
+        "path": "orca-link/assets/light-active-concept-v3.webp",
+        "label": {
+          "zh": "浅色工作状态",
+          "en": "Light active state",
+          "ja": "ライト作業中"
+        }
+      },
+      {
+        "id": "dark-active",
+        "path": "orca-link/assets/dark-active-v2.webp",
+        "label": {
+          "zh": "深色工作状态",
+          "en": "Dark active state",
+          "ja": "ダーク作業中"
+        }
+      }
+    ],
+    "retrievedAt": "2026-09-27T17:14:14.001Z",
+    "evidence": [
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/NOTICE",
+        "localPath": "collected/deep-whale-orca/evidence/NOTICE.txt",
+        "sha256": "16f50a94def15c32922eb16cdf1a6a7371887ea1c92cddde215ba4e012464022"
+      },
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/LICENSE-ARTWORK",
+        "localPath": "collected/deep-whale-orca/evidence/LICENSE-ARTWORK.txt",
+        "sha256": "52de7059eb8d02acd9ad8bb5e3a8d3b3e4f018c9c0826bd676483e54de31345e"
+      }
+    ],
+    "originals": [
+      {
+        "id": "repair",
+        "path": "orca-link/assets/boot-repair.png",
+        "label": {
+          "zh": "维修 Q 版",
+          "en": "Repair chibi",
+          "ja": "修理ミニキャラ"
+        },
+        "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/assets/boot-repair.png",
+        "sourcePage": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/assets/boot-repair.png",
+        "localPath": "collected/deep-whale-orca/repair/original.png",
+        "sha256": "99b4fba4390c0281193c104f62716c9f1c043ba09434bbfaabb90c70bf81e538",
+        "width": 819,
+        "height": 751,
+        "alpha": true,
+        "bytes": 436749
+      },
+      {
+        "id": "light-hero",
+        "path": "orca-link/assets/light-hero-v4.webp",
+        "label": {
+          "zh": "浅色立绘",
+          "en": "Light portrait",
+          "ja": "ライト立ち絵"
+        },
+        "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/assets/light-hero-v4.webp",
+        "sourcePage": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/assets/light-hero-v4.webp",
+        "localPath": "collected/deep-whale-orca/light-hero/original.webp",
+        "sha256": "b97e6a7dfda452743e4a65fefc9723a07b0a27da4b07ddd024e2f5d3dd83931c",
+        "width": 1672,
+        "height": 941,
+        "alpha": false,
+        "bytes": 89244
+      },
+      {
+        "id": "dark-hero",
+        "path": "orca-link/assets/dark-hero-v2.webp",
+        "label": {
+          "zh": "深色立绘",
+          "en": "Dark portrait",
+          "ja": "ダーク立ち絵"
+        },
+        "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/assets/dark-hero-v2.webp",
+        "sourcePage": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/assets/dark-hero-v2.webp",
+        "localPath": "collected/deep-whale-orca/dark-hero/original.webp",
+        "sha256": "56ee82ee4ae67edb4de9114cfb82ba6032dadb76dede6a8bae8e3d6037de479b",
+        "width": 1672,
+        "height": 941,
+        "alpha": false,
+        "bytes": 99078
+      },
+      {
+        "id": "light-active",
+        "path": "orca-link/assets/light-active-concept-v3.webp",
+        "label": {
+          "zh": "浅色工作状态",
+          "en": "Light active state",
+          "ja": "ライト作業中"
+        },
+        "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/assets/light-active-concept-v3.webp",
+        "sourcePage": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/assets/light-active-concept-v3.webp",
+        "localPath": "collected/deep-whale-orca/light-active/original.webp",
+        "sha256": "6d3c2361211195f632443cf721b651fe649463c49445aea4680e03a1bb7060ad",
+        "width": 1672,
+        "height": 941,
+        "alpha": false,
+        "bytes": 90336
+      },
+      {
+        "id": "dark-active",
+        "path": "orca-link/assets/dark-active-v2.webp",
+        "label": {
+          "zh": "深色工作状态",
+          "en": "Dark active state",
+          "ja": "ダーク作業中"
+        },
+        "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/assets/dark-active-v2.webp",
+        "sourcePage": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/assets/dark-active-v2.webp",
+        "localPath": "collected/deep-whale-orca/dark-active/original.webp",
+        "sha256": "a7353043b98e58cabcfb6be9f4dda0e780f9e0c09120c7a9519d300c01c07efd",
+        "width": 1672,
+        "height": 941,
+        "alpha": false,
+        "bytes": 114628
+      }
+    ]
+  },
+  "normalization": {
+    "tool": "sharp 0.34.5",
+    "policy": "preserve-original-identity",
+    "generative": false,
+    "notes": "Fit complete original to canvas. No new pose, expression, costume, background removal, or invented detail. 2x output is resampling, not recovered detail."
+  },
+  "assets": [
+    {
+      "id": "repair",
+      "label": {
+        "zh": "维修 Q 版",
+        "en": "Repair chibi",
+        "ja": "修理ミニキャラ"
+      },
+      "original": "collected/deep-whale-orca/repair/original.png",
+      "originalSha256": "99b4fba4390c0281193c104f62716c9f1c043ba09434bbfaabb90c70bf81e538",
+      "outputs": [
+        {
+          "path": "collected/deep-whale-orca/repair/standard.png",
+          "sha256": "939ca0cdbf1cb620a02fc08bd8cf468ccc7a6eb058b892db51798a5fa6440931",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "99b4fba4390c0281193c104f62716c9f1c043ba09434bbfaabb90c70bf81e538"
+        },
+        {
+          "path": "collected/deep-whale-orca/repair/preview.webp",
+          "sha256": "c95b641cc272f09bd5247ea6aedf40eb214a4a1edb22b136b8299b3407898180",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "99b4fba4390c0281193c104f62716c9f1c043ba09434bbfaabb90c70bf81e538"
+        },
+        {
+          "path": "collected/deep-whale-orca/repair/avatar.png",
+          "sha256": "a877150bd1ea1d95b0feb7250ceba8f30c626788f5d51d539b53f9402938a2b1",
+          "width": 256,
+          "height": 256,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "99b4fba4390c0281193c104f62716c9f1c043ba09434bbfaabb90c70bf81e538"
+        },
+        {
+          "path": "collected/deep-whale-orca/repair/large-1024.png",
+          "sha256": "7c4cb9f534d110b59bf907cfe3ea143b87093f30396e70e48e1b7c9e7371d73e",
+          "width": 1024,
+          "height": 1024,
+          "operation": "contain-resample",
+          "upscaled": true,
+          "parentSha256": "99b4fba4390c0281193c104f62716c9f1c043ba09434bbfaabb90c70bf81e538"
+        }
+      ]
+    },
+    {
+      "id": "light-hero",
+      "label": {
+        "zh": "浅色立绘",
+        "en": "Light portrait",
+        "ja": "ライト立ち絵"
+      },
+      "original": "collected/deep-whale-orca/light-hero/original.webp",
+      "originalSha256": "b97e6a7dfda452743e4a65fefc9723a07b0a27da4b07ddd024e2f5d3dd83931c",
+      "outputs": [
+        {
+          "path": "collected/deep-whale-orca/light-hero/standard.png",
+          "sha256": "8ba1cf6e0fc9a368da2b996524a5e7b8724a52ba309e1f74202ca10ffecefd5d",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "b97e6a7dfda452743e4a65fefc9723a07b0a27da4b07ddd024e2f5d3dd83931c"
+        },
+        {
+          "path": "collected/deep-whale-orca/light-hero/preview.webp",
+          "sha256": "4212eec1646c75428e77e7ef981a926862d5fb4028f0459534bca120c59f1d59",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "b97e6a7dfda452743e4a65fefc9723a07b0a27da4b07ddd024e2f5d3dd83931c"
+        },
+        {
+          "path": "collected/deep-whale-orca/light-hero/avatar.png",
+          "sha256": "a9289003733726c43c7accec63bc29b74238cccda643bd82507bf3d6488e399f",
+          "width": 256,
+          "height": 256,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "b97e6a7dfda452743e4a65fefc9723a07b0a27da4b07ddd024e2f5d3dd83931c"
+        },
+        {
+          "path": "collected/deep-whale-orca/light-hero/large-1024.png",
+          "sha256": "9fff05959f43821cf1c1bae4ee61a6a9a9cadc5c85d699d99044f57a28bbea31",
+          "width": 1024,
+          "height": 1024,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "b97e6a7dfda452743e4a65fefc9723a07b0a27da4b07ddd024e2f5d3dd83931c"
+        }
+      ]
+    },
+    {
+      "id": "dark-hero",
+      "label": {
+        "zh": "深色立绘",
+        "en": "Dark portrait",
+        "ja": "ダーク立ち絵"
+      },
+      "original": "collected/deep-whale-orca/dark-hero/original.webp",
+      "originalSha256": "56ee82ee4ae67edb4de9114cfb82ba6032dadb76dede6a8bae8e3d6037de479b",
+      "outputs": [
+        {
+          "path": "collected/deep-whale-orca/dark-hero/standard.png",
+          "sha256": "b8064eb84cc993500acb1aeea9ad66bd74c8d042bf4325c12deaf6b0e141abcd",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "56ee82ee4ae67edb4de9114cfb82ba6032dadb76dede6a8bae8e3d6037de479b"
+        },
+        {
+          "path": "collected/deep-whale-orca/dark-hero/preview.webp",
+          "sha256": "4d61c93bafc1d30a52d6f9bc620df3db7269d181efcd0ef9599df3d0042f103e",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "56ee82ee4ae67edb4de9114cfb82ba6032dadb76dede6a8bae8e3d6037de479b"
+        },
+        {
+          "path": "collected/deep-whale-orca/dark-hero/avatar.png",
+          "sha256": "1a4148deb20a36120b3f993625ff4b0f98bf335ee84af8649b4ef59cd9e7c7a5",
+          "width": 256,
+          "height": 256,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "56ee82ee4ae67edb4de9114cfb82ba6032dadb76dede6a8bae8e3d6037de479b"
+        },
+        {
+          "path": "collected/deep-whale-orca/dark-hero/large-1024.png",
+          "sha256": "7df90daa4d08fd6220bb8c9f3cb335faa9394fef175a0ed00923f59ff4307349",
+          "width": 1024,
+          "height": 1024,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "56ee82ee4ae67edb4de9114cfb82ba6032dadb76dede6a8bae8e3d6037de479b"
+        }
+      ]
+    },
+    {
+      "id": "light-active",
+      "label": {
+        "zh": "浅色工作状态",
+        "en": "Light active state",
+        "ja": "ライト作業中"
+      },
+      "original": "collected/deep-whale-orca/light-active/original.webp",
+      "originalSha256": "6d3c2361211195f632443cf721b651fe649463c49445aea4680e03a1bb7060ad",
+      "outputs": [
+        {
+          "path": "collected/deep-whale-orca/light-active/standard.png",
+          "sha256": "3794c3cb8f1998df4019a452ad722e84bbf21be2a5ee8d11f28df2280fc442de",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "6d3c2361211195f632443cf721b651fe649463c49445aea4680e03a1bb7060ad"
+        },
+        {
+          "path": "collected/deep-whale-orca/light-active/preview.webp",
+          "sha256": "98447544643f9a1c7498200a5bd476de3560aa8eeba1e55279e4d09404081998",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "6d3c2361211195f632443cf721b651fe649463c49445aea4680e03a1bb7060ad"
+        },
+        {
+          "path": "collected/deep-whale-orca/light-active/avatar.png",
+          "sha256": "5e96108af15c5e9cd21a3f49464e87236049acc29572a3b6f71350cf29df03d6",
+          "width": 256,
+          "height": 256,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "6d3c2361211195f632443cf721b651fe649463c49445aea4680e03a1bb7060ad"
+        },
+        {
+          "path": "collected/deep-whale-orca/light-active/large-1024.png",
+          "sha256": "05b6e850fe411a6e8cf36b50c4bf4f0519a8426b95ec3d988e0abf18e4cb82cb",
+          "width": 1024,
+          "height": 1024,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "6d3c2361211195f632443cf721b651fe649463c49445aea4680e03a1bb7060ad"
+        }
+      ]
+    },
+    {
+      "id": "dark-active",
+      "label": {
+        "zh": "深色工作状态",
+        "en": "Dark active state",
+        "ja": "ダーク作業中"
+      },
+      "original": "collected/deep-whale-orca/dark-active/original.webp",
+      "originalSha256": "a7353043b98e58cabcfb6be9f4dda0e780f9e0c09120c7a9519d300c01c07efd",
+      "outputs": [
+        {
+          "path": "collected/deep-whale-orca/dark-active/standard.png",
+          "sha256": "9acef11a884fe16cf5fcf04e422985060b2ade4eeffbc495759fed9e0607dc34",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "a7353043b98e58cabcfb6be9f4dda0e780f9e0c09120c7a9519d300c01c07efd"
+        },
+        {
+          "path": "collected/deep-whale-orca/dark-active/preview.webp",
+          "sha256": "dc6f962d4337d22078ab70a5ee2cec8c653ffb5a99a71e2599e7a8383124634c",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "a7353043b98e58cabcfb6be9f4dda0e780f9e0c09120c7a9519d300c01c07efd"
+        },
+        {
+          "path": "collected/deep-whale-orca/dark-active/avatar.png",
+          "sha256": "cedaf71398fb8119366672f10ce7e773def07f0fc0d68c66926e29983597789a",
+          "width": 256,
+          "height": 256,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "a7353043b98e58cabcfb6be9f4dda0e780f9e0c09120c7a9519d300c01c07efd"
+        },
+        {
+          "path": "collected/deep-whale-orca/dark-active/large-1024.png",
+          "sha256": "5542784d49fd765e46637b767fcc74d9d1783c8f357bb107d7aad9daa2c9d783",
+          "width": 1024,
+          "height": 1024,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "a7353043b98e58cabcfb6be9f4dda0e780f9e0c09120c7a9519d300c01c07efd"
+        }
+      ]
+    }
+  ]
+}

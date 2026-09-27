@@ -1,0 +1,5 @@
+---
+import Layout from '../../layouts/Layout.astro';import {locales,t,type Locale} from '../../lib/i18n';import {entities,characters} from '../../lib/data';import {path} from '../../lib/paths';
+export function getStaticPaths(){return locales.map(lang=>({params:{lang}}));}const lang=Astro.params.lang as Locale,s=t(lang);
+---
+<Layout lang={lang} title={s.models} description={s.modelsIntro} active="models" route="models/"><section class="page-heading"><div><p class="eyebrow">THE AI INDEX</p><h1>{s.modelsTitle}</h1><p class="lead">{s.modelsIntro}</p></div></section><div class="models-grid">{entities.map(e=>{const count=characters.filter(c=>c.entity===e.id).length;return <article class="model-card"><span class="eyebrow">{e.provider}</span><h2>{e.name}</h2><p>{count?`${count} ${s.modelCount}`:s.noneYet}</p><div class="button-row"><a class="button secondary" href={path(`${lang}/?model=${e.id}`)}>{s.explore} →</a><a class="button secondary" href={e.url} target="_blank" rel="noopener noreferrer">{s.officialSite} ↗</a></div></article>})}</div></Layout>

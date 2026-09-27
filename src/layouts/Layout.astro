@@ -1,0 +1,42 @@
+---
+import '../styles/global.css';
+import { t, locales, htmlLang, languageNames, type Locale } from '../lib/i18n';
+import { path, repo } from '../lib/paths';
+import Icon from '../components/Icon.astro';
+const { lang, title, description, active = 'atlas', route = '' } = Astro.props as {lang: Locale;title: string;description?: string;active?: string;route?: string};
+const s = t(lang);
+const nav = [{key:'atlas',url:''},{key:'assets',url:'assets/'},{key:'studio',url:'studio/'},{key:'models',url:'models/'},{key:'collectionFlow',url:'collection/'}] as const;
+---
+<!doctype html>
+<html lang={htmlLang[lang]}>
+  <head>
+    <meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <title>{title} · {s.brand}</title><meta name="description" content={description ?? s.intro}/>
+    <meta name="theme-color" content="#166b50"/><link rel="icon" type="image/svg+xml" href={path('favicon.svg')}/>
+    <link rel="canonical" href={`https://selinlee.github.io${path(`${lang}/${route}`)}`}/>
+    {locales.map(l => <link rel="alternate" hreflang={htmlLang[l]} href={`https://selinlee.github.io${path(`${l}/${route}`)}`}/>)}
+    <meta property="og:title" content={`${title} · ${s.brand}`}/><meta property="og:description" content={description ?? s.intro}/><meta property="og:type" content="website"/>
+  </head>
+  <body>
+    <a class="skip" href="#main">{s.keyboard}</a>
+    <aside class="sidebar">
+      <a class="brand" href={path(`${lang}/`)}><img src={path('favicon.svg')} width="42" height="42" alt=""/><span><strong>AI Moe Atlas<span class="brand-dot">.</span></strong><small>{s.tagline}</small></span></a>
+      <nav class="primary-nav" aria-label={s.atlas}>
+        {nav.map(n => <a href={path(`${lang}/${n.url}`)} class:list={['nav-item',{active: active===n.key}]} aria-current={active===n.key ? 'page' : undefined}><Icon name={n.key}/><span>{s[n.key]}</span>{n.key==='studio' && <span class="nav-new">LOCAL</span>}</a>)}
+      </nav>
+      <div class="sidebar-community"><p class="overline">{s.community}</p><a class:list={['nav-item',{active:active==='contribute'}]} href={path(`${lang}/contribute/`)}><Icon name="contribute"/><span>{s.contribute}</span></a><a class="nav-item" href={repo} target="_blank" rel="noopener noreferrer"><Icon name="github"/><span>GitHub</span><Icon name="external" size={14}/></a></div>
+      <div class="sidebar-bottom"><span class="edition">{s.version}</span><p>{s.open}</p><span class="tiny">中文 / English / 日本語</span></div>
+    </aside>
+    <div class="app-shell">
+      <header class="topbar"><span class="breadcrumb">ATLAS <span>/</span> {s[active as keyof typeof s]}</span><nav class="language-switch" aria-label="Language"><Icon name="globe" size={16}/>{locales.map(l => <a href={path(`${l}/${route}`)} lang={htmlLang[l]} hreflang={htmlLang[l]} aria-current={lang===l ? 'true':undefined} class:list={{selected:lang===l}}>{languageNames[l]}</a>)}</nav></header>
+      <main id="main"><slot/></main>
+      <footer class="footer"><span>AI Moe Atlas · 2026</span><p>{s.footer}</p><a href={`${repo}/blob/main/RIGHTS.md`}>{s.license} ↗</a></footer>
+    </div>
+    <script>
+      // Preserve active query filters and studio selection when changing language.
+      document.querySelectorAll<HTMLAnchorElement>('.language-switch a').forEach(a => {
+        a.search = location.search;
+      });
+    </script>
+  </body>
+</html>

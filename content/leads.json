@@ -1,0 +1,74 @@
+[
+  {
+    "id": "bili-original",
+    "title": "鲸鱼娘形象 · 上善无形",
+    "url": "https://www.bilibili.com/opus/1231977657712771073",
+    "creator": "上善无形",
+    "status": "collected",
+    "note": {
+      "zh": "原作者动态，图片与许可已核验并采集。",
+      "en": "Creator post; image and license verified and collected.",
+      "ja": "原作者投稿。画像と利用条件を確認・収集済み。"
+    }
+  },
+  {
+    "id": "bili-statement",
+    "title": "素材来源与使用声明 · ZipZipPipe",
+    "url": "https://t.bilibili.com/1231980045693616162",
+    "creator": "ZipZipPipe",
+    "status": "verified-statement",
+    "note": {
+      "zh": "原作到二创的授权与署名关系。",
+      "en": "Attribution and permissions from original to derivative.",
+      "ja": "原作から二次創作へのクレジットと利用条件。"
+    }
+  },
+  {
+    "id": "bili-nine-ai",
+    "title": "大AI和小AI们",
+    "url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "creator": "ZipZipPipe",
+    "status": "indexed",
+    "note": {
+      "zh": "含九款 AI 的大版与小版形象，需逐项获取原图。",
+      "en": "Nine AIs in full-size and chibi versions; individual source images still needed.",
+      "ja": "9 種の AI の通常版とミニ版。個別の原画像は確認待ち。"
+    }
+  },
+  {
+    "id": "bili-mmd",
+    "title": "【MMD模型配布】蓝色大肥鱼",
+    "url": "https://www.bilibili.com/video/BV1tD4X6AE7Q/",
+    "creator": "水原镜 / 耶栗Yaki / 夏紫瞳_Hitomi",
+    "status": "pending-assets",
+    "note": {
+      "zh": "简介确认模型按 CC BY-NC-SA 4.0 配布；下载文件和评论区链接待核验。",
+      "en": "Description states CC BY-NC-SA 4.0 for the model; download files and comment links still unverified.",
+      "ja": "説明ではモデルを CC BY-NC-SA 4.0 で配布。配布ファイルとコメント内リンクは未確認。"
+    }
+  },
+  {
+    "id": "bili-history",
+    "title": "蓝色大肥鱼是怎么来的？",
+    "url": "https://www.bilibili.com/video/BV1Brtc63EyW/",
+    "creator": "AI梗百科",
+    "status": "lead",
+    "note": {
+      "zh": "梗史线索，不作为原作者证明或素材授权。",
+      "en": "Historical lead, not evidence of authorship or asset permission.",
+      "ja": "由来調査の手がかり。原作者や素材許可の証明ではありません。"
+    }
+  },
+  {
+    "id": "bili-fish",
+    "title": "你怎么知道我钓到了蓝色大肥鱼？",
+    "url": "https://www.bilibili.com/video/BV1Pgt36VEeg/",
+    "creator": "ZipZipPipe",
+    "status": "lead",
+    "note": {
+      "zh": "已有二创视频；仅索引，不自动提帧或转载整段视频。",
+      "en": "Existing derivative video; indexed without automatic frame extraction or mirroring.",
+      "ja": "既存の二次創作動画。フレーム抽出・動画転載はせず索引のみ。"
+    }
+  }
+]
