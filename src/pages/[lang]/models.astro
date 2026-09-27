@@ -1,5 +1,25 @@
 ---
-import Layout from '../../layouts/Layout.astro';import {locales,t,type Locale} from '../../lib/i18n';import {entities,characters} from '../../lib/data';import {path} from '../../lib/paths';
-export function getStaticPaths(){return locales.map(lang=>({params:{lang}}));}const lang=Astro.params.lang as Locale,s=t(lang);
+import Layout from '../../layouts/Layout.astro';
+import {locales,t,type Locale} from '../../lib/i18n';
+import {baselines,baselineText} from '../../lib/baselines';
+import {path} from '../../lib/paths';
+export function getStaticPaths(){return locales.map(lang=>({params:{lang}}));}
+const lang=Astro.params.lang as Locale,s=t(lang),b=baselineText[lang];
+const counts = Object.fromEntries(['ready','candidate','missing'].map(state=>[state,baselines.filter(item=>item.state===state).length]));
 ---
-<Layout lang={lang} title={s.models} description={s.modelsIntro} active="models" route="models/"><section class="page-heading"><div><p class="eyebrow">THE AI INDEX</p><h1>{s.modelsTitle}</h1><p class="lead">{s.modelsIntro}</p></div></section><div class="models-grid">{entities.map(e=>{const count=characters.filter(c=>c.entity===e.id).length;return <article class="model-card"><span class="eyebrow">{e.provider}</span><h2>{e.name}</h2><p>{count?`${count} ${s.modelCount}`:s.noneYet}</p><div class="button-row"><a class="button secondary" href={path(`${lang}/?model=${e.id}`)}>{s.explore} →</a><a class="button secondary" href={e.url} target="_blank" rel="noopener noreferrer">{s.officialSite} ↗</a></div></article>})}</div></Layout>
+<Layout lang={lang} title={s.models} description={b.intro} active="models" route="models/">
+ <section class="page-heading"><div><p class="eyebrow">THE AI INDEX</p><h1>{b.title}</h1><p class="lead">{b.intro}</p></div></section>
+ <div class="coverage-summary">
+  <div><strong data-coverage="ready">{counts.ready} / {baselines.length}</strong><span>{b.readyCount}</span></div>
+  <div><strong data-coverage="candidate">{counts.candidate}</strong><span>{b.candidateCount}</span></div>
+  <div><strong data-coverage="missing">{counts.missing}</strong><span>{b.missingCount}</span></div>
+ </div>
+ <p class="notice">{b.notice} <a class="text-link" href={`https://github.com/SelinLee/ai-moe-atlas/blob/main/docs/BASELINES.${lang}.md`}>{b.guide} ↗</a></p>
+ <div class="models-grid">{baselines.map(({entity:e,character:c,selection,state})=><article class="model-card baseline-card" data-baseline={e.id} data-state={state}>
+  <span class="eyebrow">{e.provider}</span><h2>{e.name}</h2><span class={`baseline-status ${state}`}>{b[state as 'ready'|'candidate'|'missing']}</span>
+  {c?.preview&&<a href={path(`${lang}/characters/${c.id}/`)}><img class="baseline-preview" src={path(c.preview)} alt={c.name[lang]} width="256" height="256"/></a>}
+  {c&&<><h3>{state==='ready'?b.selected:b.proposed}</h3><a class="text-link" href={path(`${lang}/characters/${c.id}/`)}>{c.name[lang]}</a><p>{c.description[lang]}</p></>}
+  <h3>{b.next}</h3><p>{selection.nextAction[lang]}</p>
+  <div class="button-row">{c&&<a class="button secondary" href={c.source} target="_blank" rel="noopener noreferrer">{s.viewSource} ↗</a>}<a class="button secondary" href={path(`${lang}/?model=${e.id}`)}>{s.explore} →</a></div>
+ </article>)}</div>
+</Layout>

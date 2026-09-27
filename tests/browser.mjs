@@ -20,13 +20,22 @@ try {
    assert.deepEqual(await page.locator('img').evaluateAll(imgs=>imgs.filter(i=>!i.naturalWidth).map(i=>i.src)),[]);
   }
   await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});
+  await page.goto(`${origin}/${lang}/models/`,{waitUntil:'domcontentloaded'});
+  assert.equal(await page.locator('[data-baseline]').count(),12);
+  assert.equal(await page.locator('[data-state="ready"]').count(),1);
+  assert.equal(await page.locator('[data-state="candidate"]').count(),10);
+  assert.equal(await page.locator('[data-state="missing"]').count(),1);
+  assert.equal(await page.locator('[data-state="candidate"] img').count(),0);
+  await page.goto(`${origin}/${lang}/characters/zipzippipe-chatgpt/`,{waitUntil:'domcontentloaded'});
+  assert.equal(await page.locator('.observation-panel a').getAttribute('href'),'https://www.bilibili.com/video/BV14phK66Ejw/');
+  await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});
   await page.locator('#search').fill('ZipZipPipe');assert.equal(await page.locator('[data-card]:visible').count(),10);
   await page.locator('#search').fill('nothing-matches-xyz');await page.locator('#empty-state').waitFor({state:'visible'});
   await page.locator('#clear-filters').click();assert.equal(await page.locator('[data-card]:visible').count(),chars.length);
   await page.locator('[data-kind-filter="collected"]').click();assert.equal(await page.locator('[data-card]:visible').count(),3);
   await page.locator('[data-kind-filter="all"]').click();await page.screenshot({path:`.qa/atlas-${lang}-desktop.png`,fullPage:false});
   await page.setViewportSize({width:390,height:844});
-  for(const route of ['','assets/','studio/','collection/','characters/deep-whale-maid/']){
+  for(const route of ['','assets/','studio/','models/','collection/','characters/deep-whale-maid/']){
    await page.goto(`${origin}/${lang}/${route}`,{waitUntil:'domcontentloaded'});
    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1),false,`Mobile overflow: ${lang}/${route}`);
   }

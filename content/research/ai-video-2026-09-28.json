@@ -1,0 +1,132 @@
+{
+  "id": "ai-video-2026-09-28",
+  "reviewedAt": "2026-09-28",
+  "project": "ai_video",
+  "registryPath": "characters/assets/ai-models-v5/registry.json",
+  "registrySha256": "e11fa016206aab93f31d63d207f2eac4b872e82e8ecbc6b329e16ef0b27cf3f0",
+  "decision": "reuse-source-metadata-only",
+  "screenshotsPublished": false,
+  "generatedImagesPublished": false,
+  "observations": [
+    {
+      "entity": "chatgpt",
+      "characterId": "zipzippipe-chatgpt",
+      "sourceUrl": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceTitle": "各AI娘形象盘点",
+      "publisher": "想看故事的lazy",
+      "evidenceFile": "projects/tech_report_v2-2026-09-28/work/raw/ai-cast-references/cast-0.5.png",
+      "evidenceSha256": "48b75fa4a21f3960778ecd7ca2238b4dab22f8b542e7d934241528fab87693b9",
+      "evidenceKind": "browser-screenshot",
+      "features": {
+        "zh": "银白长发、龙角、龙翼与龙尾，白色长裙。",
+        "en": "Silver-white hair, dragon horns, wings and tail, and a white gown.",
+        "ja": "銀白色の長髪、竜の角・翼・尾、白いドレス。"
+      },
+      "generatedFile": "characters/assets/ai-models-v5/openai-reference.png",
+      "generatedSha256": "37bf617c72092f73a8f56d3db6d95456679fea9c5ecf1a38fc1d64c2704e6d6a",
+      "generatedDecision": "excluded-generated-adaptation",
+      "permission": "not-established",
+      "reviewedAt": "2026-09-28"
+    },
+    {
+      "entity": "gemini",
+      "characterId": "zipzippipe-gemini",
+      "sourceUrl": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceTitle": "各AI娘形象盘点",
+      "publisher": "想看故事的lazy",
+      "evidenceFile": "projects/tech_report_v2-2026-09-28/work/raw/ai-cast-references/cast-3.png",
+      "evidenceSha256": "7de6834be7a3da1395cde070a88276f67a0640488a7a813d7ef897b15aa423a5",
+      "evidenceKind": "browser-screenshot",
+      "features": {
+        "zh": "蓝紫渐变长发、猫耳猫尾、异色瞳、四角星饰物与紫色服装。",
+        "en": "Blue-purple hair, cat ears and tail, different-colored eyes, star ornaments and a purple outfit.",
+        "ja": "青紫の長髪、猫耳と尾、左右で異なる瞳、星の飾りと紫の衣装。"
+      },
+      "generatedFile": "characters/assets/ai-models-v5/gemini-reference.png",
+      "generatedSha256": "f280188303731d17205de926795a8fd0463dc8995b7342cddf4b93a5dbf50e85",
+      "generatedDecision": "excluded-generated-adaptation",
+      "permission": "not-established",
+      "reviewedAt": "2026-09-28"
+    },
+    {
+      "entity": "claude",
+      "characterId": "zipzippipe-claude",
+      "sourceUrl": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceTitle": "各AI娘形象盘点",
+      "publisher": "想看故事的lazy",
+      "evidenceFile": "projects/tech_report_v2-2026-09-28/work/raw/ai-cast-references/cast-13.png",
+      "evidenceSha256": "ab6f4fb376dbdd99966809d1826b224f533a928f3edd1262fcda9015f0429836",
+      "evidenceKind": "browser-screenshot",
+      "features": {
+        "zh": "橙色长发、日芒花饰、白黑橙配色长裙，手持书本。",
+        "en": "Long orange hair, a sunburst ornament, an ivory, black and orange dress, and a book.",
+        "ja": "オレンジの長髪、太陽形の飾り、白・黒・オレンジのドレス、手に本。"
+      },
+      "generatedFile": "characters/assets/ai-models-v5/claude-reference.png",
+      "generatedSha256": "b2d2c1a89f3cf059a8558b6fd505104f4309a0c18a96288be23a8ddd63509edb",
+      "generatedDecision": "excluded-generated-adaptation",
+      "permission": "not-established",
+      "reviewedAt": "2026-09-28"
+    },
+    {
+      "entity": "deepseek",
+      "characterId": "zipzippipe-deepseek",
+      "sourceUrl": "https://www.bilibili.com/video/BV1Brtc63EyW/",
+      "sourceTitle": "蓝色大肥鱼是怎么来的？",
+      "publisher": "AI梗百科",
+      "evidenceFile": "projects/tech_report_v2-2026-09-28/work/raw/ai-cast-references/BV1Brtc63EyW-35.png",
+      "evidenceSha256": "3729edfddd1263f3ccc609135916db1d189983464688b4ff0d6f7d97b64bdf79",
+      "evidenceKind": "browser-screenshot",
+      "features": {
+        "zh": "蓝色长发、白色发箍、蓝白女仆裙、鲸鱼图案与鲸尾。",
+        "en": "Blue hair, a white headband, a blue-and-white maid dress, a whale motif and whale tail.",
+        "ja": "青い長髪、白いヘッドドレス、青白のメイド服、クジラ模様と尾。"
+      },
+      "generatedFile": "characters/assets/ai-models-v5/deepseek-reference.png",
+      "generatedSha256": "496405b42259f7ebe3ff257325b3e3b2f36fd6d9f4faefbf1ff9c46f707bc616",
+      "generatedDecision": "excluded-generated-adaptation",
+      "permission": "not-established",
+      "reviewedAt": "2026-09-28"
+    },
+    {
+      "entity": "kimi",
+      "characterId": "zipzippipe-kimi",
+      "sourceUrl": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceTitle": "各AI娘形象盘点",
+      "publisher": "想看故事的lazy",
+      "evidenceFile": "projects/tech_report_v2-2026-09-28/work/raw/ai-cast-references/cast-30.png",
+      "evidenceSha256": "f12a47b624e687e56966cddcabbaaba5bdfb95029d93c5cd30a867b73b131c50",
+      "evidenceKind": "browser-screenshot",
+      "features": {
+        "zh": "银白长发、蓝紫长裙、月亮与星空元素，挂有 K 字饰物。",
+        "en": "Silver-white hair, an indigo dress, moon and star motifs, and a hanging K ornament.",
+        "ja": "銀白色の長髪、青紫のドレス、月と星のモチーフ、K の飾り。"
+      },
+      "generatedFile": "characters/assets/ai-models-v5/kimi-reference.png",
+      "generatedSha256": "3012cfe4b1c351ff874d4e6b1723db9a3864b8a96220cb7a8015f7e6ccf2f283",
+      "generatedDecision": "excluded-generated-adaptation",
+      "permission": "not-established",
+      "reviewedAt": "2026-09-28"
+    },
+    {
+      "entity": "qwen",
+      "characterId": "zipzippipe-qwen",
+      "sourceUrl": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceTitle": "各AI娘形象盘点",
+      "publisher": "想看故事的lazy",
+      "evidenceFile": "projects/tech_report_v2-2026-09-28/work/raw/ai-cast-references/cast-38.png",
+      "evidenceSha256": "0b25a3810f2ab00a50b10334e8bd9fed2b30e6a54f361ef4f1039651adae315c",
+      "evidenceKind": "browser-screenshot",
+      "features": {
+        "zh": "蓝紫长发与侧编发、中式头饰、蓝白长裙与披袖、折扇。",
+        "en": "Blue-purple hair with a side braid, Chinese-style headwear, a blue-and-white gown and a folding fan.",
+        "ja": "青紫の長髪と横の編み髪、中華風の髪飾り、青白の衣装、扇子。"
+      },
+      "generatedFile": "characters/assets/ai-models-v5/qwen-reference.png",
+      "generatedSha256": "818a393ee6767b65cae5a8d8d6a3dd34d8436e953760035d3dacc939ea9753fa",
+      "generatedDecision": "excluded-generated-adaptation",
+      "permission": "not-established",
+      "reviewedAt": "2026-09-28"
+    }
+  ]
+}

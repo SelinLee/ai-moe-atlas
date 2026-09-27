@@ -70,5 +70,29 @@
       "en": "Existing derivative video; indexed without automatic frame extraction or mirroring.",
       "ja": "既存の二次創作動画。フレーム抽出・動画転載はせず索引のみ。"
     }
+  },
+  {
+    "id": "bili-cast-inventory",
+    "title": "各AI娘形象盘点",
+    "url": "https://www.bilibili.com/video/BV14phK66Ejw/",
+    "creator": "想看故事的lazy",
+    "status": "identity-reviewed",
+    "note": {
+      "zh": "复用 ai_video 的截图核对 GPT、Gemini、Claude、Kimi、千问。视频注明形象来自 ZipZipPipe；独立原图与逐图许可待补。",
+      "en": "Screenshots from ai_video corroborate GPT, Gemini, Claude, Kimi and Qwen. The video credits ZipZipPipe; original image files and asset-specific terms remain pending.",
+      "ja": "ai_video のスクリーンショットで GPT・Gemini・Claude・Kimi・Qwen を照合。動画は ZipZipPipe を出典と記載。原画像と個別条件は確認待ち。"
+    }
+  },
+  {
+    "id": "bili-outsourcing",
+    "title": "让你别找千问外包，没让你找克劳德啊！",
+    "url": "https://www.bilibili.com/video/BV12yeU6KEUt/",
+    "creator": "阳光爬行者SunCreeper",
+    "status": "lead",
+    "note": {
+      "zh": "ai_video 保留的视频文字注明 AI 娘来自 ZipZipPipe；剧情视频只用作追溯线索。",
+      "en": "Saved video text in ai_video credits ZipZipPipe. Use this narrative video as a tracing lead only.",
+      "ja": "ai_video の保存テキストは ZipZipPipe を出典と記載。物語動画は出典調査の手がかりとしてのみ使用。"
+    }
   }
 ]

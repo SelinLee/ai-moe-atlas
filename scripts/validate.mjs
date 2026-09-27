@@ -2,6 +2,13 @@ import { readFile,readdir,access } from 'node:fs/promises';
 import { assertSource,sha256 } from './lib/policy.mjs';
 const chars=JSON.parse(await readFile('content/characters.json','utf8'));
 const entities=JSON.parse(await readFile('content/entities.json','utf8'));
+const baselines=JSON.parse(await readFile('content/baselines.json','utf8'));
+if(baselines.length!==entities.length||new Set(baselines.map(b=>b.entity)).size!==entities.length)throw new Error('Each AI needs exactly one baseline selection');
+for(const b of baselines){
+ if(!entities.some(e=>e.id===b.entity))throw new Error('Unknown baseline AI');
+ if(b.characterId!==null&&!chars.some(c=>c.id===b.characterId&&c.entity===b.entity))throw new Error(`Baseline character belongs to another AI or is missing: ${b.entity}`);
+ for(const lang of ['zh','en','ja'])if(!b.nextAction?.[lang]?.trim())throw new Error('Missing localized baseline next action');
+}
 const seen=new Set();let images=0;
 for(const c of chars){
  if(seen.has(c.id)||!/^[a-z0-9-]+$/.test(c.id))throw new Error(`Duplicate/invalid character: ${c.id}`);seen.add(c.id);

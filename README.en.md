@@ -60,3 +60,5 @@ Pushes to main validate, test, build, and deploy through GitHub Actions. Pull re
 ## Scope
 
 An indexed source is not automatically a downloadable asset. Nine AI designs from a Bilibili video series are indexed; standalone originals and individual permissions still need review. Animated-pet adaptation, video frame extraction, automatic cutouts, and AI super-resolution are outside this release. Never invent artwork to fill gaps.
+
+[Baseline coverage and cross-project reuse review](docs/BASELINES.en.md)

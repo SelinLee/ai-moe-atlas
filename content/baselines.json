@@ -1,0 +1,122 @@
+[
+  {
+    "entity": "chatgpt",
+    "characterId": "zipzippipe-chatgpt",
+    "reviewedAt": "2026-09-28",
+    "nextAction": {
+      "zh": "向原作者发布页追溯独立原图，逐图核对展示、修改与再分发条件。",
+      "en": "Trace standalone originals to the creator and verify display, adaptation and redistribution terms for each image.",
+      "ja": "作者の公開ページから個別の原画像をたどり、表示・改変・再配布の条件を確認します。"
+    }
+  },
+  {
+    "entity": "claude",
+    "characterId": "zipzippipe-claude",
+    "reviewedAt": "2026-09-28",
+    "nextAction": {
+      "zh": "向原作者发布页追溯独立原图，逐图核对展示、修改与再分发条件。",
+      "en": "Trace standalone originals to the creator and verify display, adaptation and redistribution terms for each image.",
+      "ja": "作者の公開ページから個別の原画像をたどり、表示・改変・再配布の条件を確認します。"
+    }
+  },
+  {
+    "entity": "gemini",
+    "characterId": "zipzippipe-gemini",
+    "reviewedAt": "2026-09-28",
+    "nextAction": {
+      "zh": "向原作者发布页追溯独立原图，逐图核对展示、修改与再分发条件。",
+      "en": "Trace standalone originals to the creator and verify display, adaptation and redistribution terms for each image.",
+      "ja": "作者の公開ページから個別の原画像をたどり、表示・改変・再配布の条件を確認します。"
+    }
+  },
+  {
+    "entity": "deepseek",
+    "characterId": "deep-whale-maid",
+    "reviewedAt": "2026-09-28",
+    "nextAction": {
+      "zh": "已有原图、来源链和素材包，可作本站默认展示。",
+      "en": "Originals, attribution and an asset pack are available for the site’s default display.",
+      "ja": "原画像・出典・素材集が揃っており、サイトの標準表示に利用できます。"
+    }
+  },
+  {
+    "entity": "qwen",
+    "characterId": "zipzippipe-qwen",
+    "reviewedAt": "2026-09-28",
+    "nextAction": {
+      "zh": "向原作者发布页追溯独立原图，逐图核对展示、修改与再分发条件。",
+      "en": "Trace standalone originals to the creator and verify display, adaptation and redistribution terms for each image.",
+      "ja": "作者の公開ページから個別の原画像をたどり、表示・改変・再配布の条件を確認します。"
+    }
+  },
+  {
+    "entity": "doubao",
+    "characterId": "openpet-doubao",
+    "reviewedAt": "2026-09-28",
+    "nextAction": {
+      "zh": "已有作者发布页，继续寻找允许展示与再分发的原图版本。",
+      "en": "A creator publication exists; find an original image with display and redistribution permission.",
+      "ja": "作者の公開ページあり。表示・再配布が許可された原画像を探します。"
+    }
+  },
+  {
+    "entity": "kimi",
+    "characterId": "zipzippipe-kimi",
+    "reviewedAt": "2026-09-28",
+    "nextAction": {
+      "zh": "向原作者发布页追溯独立原图，逐图核对展示、修改与再分发条件。",
+      "en": "Trace standalone originals to the creator and verify display, adaptation and redistribution terms for each image.",
+      "ja": "作者の公開ページから個別の原画像をたどり、表示・改変・再配布の条件を確認します。"
+    }
+  },
+  {
+    "entity": "glm",
+    "characterId": "zipzippipe-glm",
+    "reviewedAt": "2026-09-28",
+    "nextAction": {
+      "zh": "向原作者发布页追溯独立原图，逐图核对展示、修改与再分发条件。",
+      "en": "Trace standalone originals to the creator and verify display, adaptation and redistribution terms for each image.",
+      "ja": "作者の公開ページから個別の原画像をたどり、表示・改変・再配布の条件を確認します。"
+    }
+  },
+  {
+    "entity": "grok",
+    "characterId": "zipzippipe-grok",
+    "reviewedAt": "2026-09-28",
+    "nextAction": {
+      "zh": "向原作者发布页追溯独立原图，逐图核对展示、修改与再分发条件。",
+      "en": "Trace standalone originals to the creator and verify display, adaptation and redistribution terms for each image.",
+      "ja": "作者の公開ページから個別の原画像をたどり、表示・改変・再配布の条件を確認します。"
+    }
+  },
+  {
+    "entity": "llama",
+    "characterId": null,
+    "reviewedAt": "2026-09-28",
+    "nextAction": {
+      "zh": "寻找明确对应 Meta Llama 的既有角色；不把 llama.cpp 的吉祥物当作 Meta 形象。",
+      "en": "Find an existing character explicitly associated with Meta Llama; the llama.cpp mascot is a different project.",
+      "ja": "Meta Llama に対応する既存キャラクターを探します。llama.cpp のマスコットとは区別します。"
+    }
+  },
+  {
+    "entity": "copilot",
+    "characterId": "yamamemo-copilot",
+    "reviewedAt": "2026-09-28",
+    "nextAction": {
+      "zh": "已有作者发布页，继续寻找允许展示与再分发的原图版本。",
+      "en": "A creator publication exists; find an original image with display and redistribution permission.",
+      "ja": "作者の公開ページあり。表示・再配布が許可された原画像を探します。"
+    }
+  },
+  {
+    "entity": "minimax",
+    "characterId": "zipzippipe-minimax",
+    "reviewedAt": "2026-09-28",
+    "nextAction": {
+      "zh": "向原作者发布页追溯独立原图，逐图核对展示、修改与再分发条件。",
+      "en": "Trace standalone originals to the creator and verify display, adaptation and redistribution terms for each image.",
+      "ja": "作者の公開ページから個別の原画像をたどり、表示・改変・再配布の条件を確認します。"
+    }
+  }
+]
