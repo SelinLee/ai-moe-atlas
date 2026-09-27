@@ -3,8 +3,9 @@ import sharp from 'sharp';
 import JSZip from 'jszip';
 import { assertSource, sha256 } from './lib/policy.mjs';
 await mkdir('public/packs',{recursive:true});
+const requested=process.argv[2];
 const fixedDate=new Date('2026-01-01T00:00:00Z');
-for(const f of (await readdir('content/sources')).filter(f=>f.endsWith('.json'))){
+for(const f of (await readdir('content/sources')).filter(f=>f.endsWith('.json')&&(!requested||f===`${requested}.json`))){
  const s=JSON.parse(await readFile(`content/sources/${f}`,'utf8'));assertSource(s);
  const dir=`public/collected/${s.id}`;const record=JSON.parse(await readFile(`${dir}/source.json`,'utf8'));
  if(record.revision!==s.revision)throw new Error('Source revision mismatch');
@@ -23,7 +24,8 @@ for(const f of (await readdir('content/sources')).filter(f=>f.endsWith('.json'))
  }
  for(const e of record.evidence){const b=await readFile(`public/${e.localPath}`);if(sha256(b)!==e.sha256)throw new Error('License evidence changed');zip.file(`evidence/${e.localPath.split('/').at(-1)}`,b,{date:fixedDate});}
  const attribution=record.attribution.map(x=>`${x.name} — ${x.role} — ${x.url}`).join('\n');
- const readme=`# ${s.id}\n\n中文 / English / 日本語\n\n## 来源 / Source / 出典\n${s.pageUrl}\nRevision: ${s.revision}\n\n${attribution}\n\n## 使用条件 / Terms / 利用条件\n${s.rights.license}\nNon-commercial only. Attribution and ShareAlike required.\n仅限非商业使用；保留完整署名链；衍生素材以相同许可共享。\n非営利利用のみ。全作者のクレジットと同一ライセンスでの共有が必要です。\nRead the original terms and notices in evidence/; Bilibili sources include the creator’s permission statement and license link.\n\n## 加工 / Processing / 加工内容\nAI Moe Atlas only fits existing collected images to standard canvases and converts formats. Original bytes are preserved. No new character, pose, expression, or design was generated. 1024 px files may be resampled enlargements, not new image detail.\n仅进行画布规范化、等比缩放和格式转换，保留原始字节。未生成新角色、新表情或新姿态。1024 像素文件可能为插值放大，并非新增细节。\n既存の収集画像の余白・寸法・形式のみを統一しています。原本を保存し、新しいキャラクター・表情・ポーズは生成していません。1024 px 版は補間拡大の場合があり、細部の復元ではありません。\n\nSee manifest.json for source URLs, SHA-256, dimensions, transformations and permission evidence.\n`;
+ const terms=s.rights.terms?`${s.rights.terms.zh}\n${s.rights.terms.en}\n${s.rights.terms.ja}`:'Non-commercial only. Attribution and ShareAlike required.\n仅限非商业使用；保留完整署名链；衍生素材以相同许可共享。\n非営利利用のみ。全作者のクレジットと同一ライセンスでの共有が必要です。';
+ const readme=`# ${s.id}\n\n中文 / English / 日本語\n\n## 来源 / Source / 出典\n${s.pageUrl}\nRevision: ${s.revision}\n\n${attribution}\n\n## 使用条件 / Terms / 利用条件\n${s.rights.license}\n${terms}\nRead the original terms and notices in evidence/; Bilibili sources include the creator’s permission statement and license link.\n\n## 加工 / Processing / 加工内容\nAI Moe Atlas only fits existing collected images to standard canvases and converts formats. Original bytes are preserved. No new character, pose, expression, or design was generated. 1024 px files may be resampled enlargements, not new image detail.\n仅进行画布规范化、等比缩放和格式转换，保留原始字节。未生成新角色、新表情或新姿态。1024 像素文件可能为插值放大，并非新增细节。\n既存の収集画像の余白・寸法・形式のみを統一しています。原本を保存し、新しいキャラクター・表情・ポーズは生成していません。1024 px 版は補間拡大の場合があり、細部の復元ではありません。\n\nSee manifest.json for source URLs, SHA-256, dimensions, transformations and permission evidence.\n`;
  await writeFile(`${dir}/manifest.json`,JSON.stringify(manifest,null,2)+'\n');await writeFile(`${dir}/README.txt`,readme);
  zip.file('README.txt',readme,{date:fixedDate});zip.file('manifest.json',JSON.stringify(manifest,null,2),{date:fixedDate});
  await writeFile(`public/packs/${s.id}.zip`,await zip.generateAsync({type:'nodebuffer',compression:'DEFLATE',compressionOptions:{level:6}}));

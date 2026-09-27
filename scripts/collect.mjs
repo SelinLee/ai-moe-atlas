@@ -7,7 +7,7 @@ const requested=process.argv[2];
 const files=(await readdir('content/sources')).filter(f=>f.endsWith('.json')&&(!requested||f===`${requested}.json`));
 if (!files.length) throw new Error('No reviewed source found');
 async function download(url){
- const response=await fetch(url,{signal:AbortSignal.timeout(45000),redirect:'error'});
+ const response=await fetch(url,{signal:AbortSignal.timeout(45000),redirect:'error',headers:new URL(url).hostname==='i.pximg.net'?{Referer:'https://www.pixiv.net/'}:{}});
  if(!response.ok)throw new Error(`${response.status}: ${url}`);
  if(Number(response.headers.get('content-length'))>25_000_000)throw new Error('Source exceeds 25 MB');
  const chunks=[];let size=0;for await(const chunk of response.body){size+=chunk.length;if(size>25_000_000)throw new Error('Source exceeds 25 MB');chunks.push(chunk);}return Buffer.concat(chunks);
@@ -29,7 +29,8 @@ for(const file of files){
  for(const f of s.files){
   await mkdir(`${dir}/${f.id}`,{recursive:true});const ext=f.path.split('.').at(-1).toLowerCase(),url=sourceUrl(s,f.path),localPath=`${dir}/${f.id}/original.${ext}`;
   const bytes=await retain(localPath,url);const m=await sharp(bytes,{limitInputPixels:40_000_000}).metadata();
-  record.originals.push({...f,sourceUrl:url,sourcePage:s.platform==='bilibili'?s.pageUrl:`https://github.com/${s.repository}/blob/${s.revision}/${f.path}`,localPath:localPath.replace('public/',''),sha256:sha256(bytes),width:m.width,height:m.height,alpha:!!m.hasAlpha,bytes:bytes.length});
+  if(f.sha256&&sha256(bytes)!==f.sha256)throw new Error('Reviewed source hash mismatch');
+  record.originals.push({...f,sourceUrl:url,sourcePage:['bilibili','pixiv'].includes(s.platform)?s.pageUrl:`https://github.com/${s.repository}/blob/${s.revision}/${f.path}`,localPath:localPath.replace('public/',''),sha256:sha256(bytes),width:m.width,height:m.height,alpha:!!m.hasAlpha,bytes:bytes.length});
  }
  await writeFile(`${dir}/source.json`,JSON.stringify(record,null,2)+'\n');console.log(`Collected ${s.id}: ${record.originals.length} originals, attribution and license evidence retained`);
 }

@@ -1,6 +1,6 @@
 # Project instructions
 
-- Existing, publicly published online character artwork is the only source. Never create a character, invent lore, generate a new pose/expression, or redesign collected artwork for this project.
+- Existing, publicly published online character artwork is the primary source. Never invent an unrelated character or lore. User update (2026-09-28): first seek creator-published high-resolution originals; if unavailable, image generation may create a fixed depiction using collected references. Preserve identity and provenance, label generated derivatives separately, and never describe them as creator originals or recovered detail. This permission does not change upstream usage terms.
 - Use the collection pipeline: discover → trace original creator/publication → verify artwork-specific terms → retain original bytes/evidence → normalize → review → publish.
 - Preserve authors, original post URLs/BV IDs, attribution chain, acquisition date, source SHA-256 and processing history. An uploader is not necessarily the original creator.
 - Prefer creator-provided high-resolution originals. Resampling is not recovered detail. Any future super-resolution must be faithful, separately labeled, and reviewed against the original; never substitute generative redesign.

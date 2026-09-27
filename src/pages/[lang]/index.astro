@@ -5,15 +5,19 @@ import Icon from '../../components/Icon.astro';
 import { locales, t } from '../../lib/i18n';
 import { characters, entities } from '../../lib/data';
 import { path } from '../../lib/paths';
+import { baselines } from '../../lib/baselines';
 export function getStaticPaths(){return locales.map(lang=>({params:{lang}}));}
 const lang = Astro.params.lang as 'zh'|'en'|'ja';const s=t(lang);
+const readyIds=baselines.filter(b=>b.state==='ready').map(b=>b.character!.id);
+const rank=(c:typeof characters[number])=>readyIds.includes(c.id)?readyIds.indexOf(c.id):c.downloadable?readyIds.length:readyIds.length+1;
+const orderedCharacters=[...characters].sort((a,b)=>rank(a)-rank(b));
 ---
 <Layout lang={lang} title={s.atlas}>
   <section class="page-heading"><div><p class="eyebrow">{s.collection}</p><h1>{s.title}</h1><p class="lead">{s.intro}</p></div><a class="button secondary heading-action" href={path(`${lang}/assets/`)}><Icon name="download" size={17}/>{s.assets}</a></section>
   <section class="catalog" aria-label={s.atlas}>
     <div class="catalog-top"><div class="filter-tabs" role="group" aria-label={s.atlas}><button class="selected" data-kind-filter="all" aria-pressed="true">{s.all}<span>{characters.length}</span></button><button data-kind-filter="collected" aria-pressed="false">{s.originals}</button><button data-kind-filter="reference" aria-pressed="false">{s.references}</button></div><span class="result-count" aria-live="polite"><strong id="result-count">{characters.length}</strong> {s.results}</span></div>
     <div class="filter-bar"><label class="search-field"><Icon name="search" size={19}/><input id="search" type="search" placeholder={s.search} aria-label={s.search}/><kbd>/</kbd></label><select id="entity-filter" aria-label={s.allModels}><option value="all">{s.allModels}</option>{entities.map(e=><option value={e.id}>{e.name}</option>)}</select><select id="style-filter" aria-label={s.allStyles}><option value="all">{s.allStyles}</option><option value="anime">{s.anime}</option><option value="pixel">{s.pixel}</option></select></div>
-    <div class="character-grid">{characters.map(c=><CharacterCard character={c} lang={lang}/>)}</div>
+    <div class="character-grid">{orderedCharacters.map(c=><CharacterCard character={c} lang={lang}/>)}</div>
     <div class="empty-state" id="empty-state" hidden><Icon name="search" size={40}/><h2>{s.empty}</h2><p>{s.emptyHint}</p><button class="button secondary" id="clear-filters">{s.clear}</button></div>
   </section>
   <a class="contribute-strip" href={path(`${lang}/contribute/`)}><div><span class="eyebrow">GROW THE ATLAS</span><h2>{s.contributeTitle}</h2><p>{s.contributeIntro}</p></div><span class="round-arrow"><Icon name="contribute" size={24}/></span></a>

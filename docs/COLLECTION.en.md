@@ -28,3 +28,5 @@ npm run build
 Collection accepts only reviewed artwork permissions. Pin GitHub revisions. For Bilibili retain original image URLs, permission snapshots, and byte hashes; public pages are mutable, so the snapshot is evidence at collection time, not an immutability claim. Never overwrite originals; assign a new ID when they change.
 
 Resolution workflow: find the creator’s larger original → preserve it → export required dimensions. Current Lanczos enlargements are explicitly resampled. Future super-resolution must record model, settings, and before/after review without redesigning or replacing the source.
+
+For Pixiv, retain creator identity, artwork ID, image number, public original URL, caption snapshot and file hash. Use publicly accessible works only. Keep terms per image; do not extend a character-specific CC statement to the whole collection. If no high-resolution original is found, the user permits fixed depictions generated from collected references, stored with separate generation records, clear labels and original sources; generation does not change upstream terms.

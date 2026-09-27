@@ -4,12 +4,12 @@
 
 Collect one existing, traceable image that can be displayed for each AI before expanding asset variants. A site default is not an official, exclusive or universally accepted design.
 
-As of 2026-09-28: of 12 AI families, 1 has displayable, downloadable assets, 10 have source candidates, and 1 has no candidate. Source links do not count as completed image coverage.
+As of 2026-09-28: of 12 AI families, 6 have displayable, downloadable assets, 5 have source candidates, and 1 has no candidate. Source links do not count as completed image coverage.
 
 | AI | Priority version | Remaining work |
 | --- | --- | --- |
 | DeepSeek | Collected whale-maid assets | Ready; retain 上善无形 → ZipZipPipe → Small-tailqwq attribution |
-| GPT, Gemini, Claude, Kimi, Qwen | ZipZipPipe series, visually checked against ai_video screenshots | Standalone originals and per-image terms |
+| GPT, Gemini, Claude, Kimi, Qwen | ZipZipPipe’s own Pixiv collection | Five high-resolution originals and creator terms collected |
 | Grok, GLM, MiniMax | ZipZipPipe’s “大AI和小AI们” | Individual visual checks, originals and terms |
 | Doubao | OpenPet candidate | Find a version permitting display, adaptation and redistribution; links only for now |
 | Copilot | yamamemo candidate | Image usage terms; links only for now |
@@ -27,9 +27,15 @@ Screenshots of [各AI娘形象盘点](https://www.bilibili.com/video/BV14phK66Ej
 
 ## Collection order
 
-1. Trace creator originals for GPT, Gemini, Claude, Kimi and Qwen using the reviewed visual references.
+1. Completed: collect creator-published originals for GPT, Gemini, Claude, Kimi and Qwen from Pixiv.
 2. Check Grok, GLM and MiniMax individually and obtain originals and applicable terms.
 3. Find publishable Doubao and Copilot versions and a Meta Llama character.
 4. Verify existing design, AI association, original publication, artwork-specific permissions, original hashes and three-language notes before making proportional normalized images and source-preserving packs.
 
 Selections: [baselines.json](../content/baselines.json). Cross-project evidence record: [ai-video-2026-09-28.json](../content/research/ai-video-2026-09-28.json). Readiness is derived from collected assets, never manually assigned to a source-only entry.
+
+## High-resolution originals found
+
+[ZipZipPipe’s AI娘化](https://www.pixiv.net/artworks/148186519): Claude image 3, GPT image 4, Gemini image 5, Kimi image 6 and Qwen image 13. Kimi is 1152 × 2048; the other four are 3072 × 5504. White-background JPEG originals, bytes, page numbers, publication date, creator terms and SHA-256 are preserved. Collection metadata marks the creator’s work as AI-assisted; Atlas did not redraw it.
+
+The user authorized separately labeled fixed depictions generated from collected references if high-resolution originals cannot be found. All five were found, so generation was unnecessary. The ai_video review above documents the earlier tracing step.

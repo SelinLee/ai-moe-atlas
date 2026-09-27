@@ -1,0 +1,70 @@
+{
+  "id": "zipzippipe-claude",
+  "characterId": "zipzippipe-claude",
+  "platform": "pixiv",
+  "revision": "pixiv-148186519-2026-09-28",
+  "pageUrl": "https://www.pixiv.net/artworks/148186519",
+  "originalPublication": "https://www.pixiv.net/artworks/148186519",
+  "collectedAt": "2026-09-28",
+  "attribution": [
+    {
+      "name": "ZipZipPipe",
+      "url": "https://www.pixiv.net/users/18604994",
+      "role": "publisher",
+      "publication": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "provenanceStatus": "creator-published",
+  "rights": {
+    "license": "LicenseRef-ZipZipPipe-NC",
+    "scope": "artwork",
+    "display": true,
+    "redistribute": true,
+    "modify": false,
+    "normalizationOnly": true,
+    "modificationScope": "technical-format-and-size-only",
+    "commercial": false,
+    "terms": {
+      "zh": "按作者原文取用：须署名 ZipZipPipe，不可商用。本站仅做等比缩放、留边和格式转换；未确认其他改绘许可。此五张图不标作 CC BY-NC-SA，图集中的该协议说明专指 DeepSeek。",
+      "en": "Creator terms require credit to ZipZipPipe and prohibit commercial use. Atlas only resizes, pads and converts formats; broader adaptation permission is not established. These five images are not labeled CC BY-NC-SA: that statement in the collection specifically concerns DeepSeek.",
+      "ja": "作者の条件に従い ZipZipPipe のクレジットが必須で、商用利用は不可。縦横比を保つリサイズ・余白・形式変換のみ行い、それ以外の改変許可は未確認です。この5枚を CC BY-NC-SA とは表記しません。同声明は DeepSeek に関するものです。"
+    },
+    "evidenceUrl": "https://www.pixiv.net/artworks/148186519",
+    "reviewedAt": "2026-09-28",
+    "reviewedBy": "AI Moe Atlas source review",
+    "reviewNote": "Creator offers these files for everyone to take and use, with attribution and no commercial use. Only content-preserving technical processing is performed; no general creative adaptation or CC license is inferred."
+  },
+  "evidenceSnapshots": [
+    {
+      "url": "https://www.pixiv.net/artworks/148186519",
+      "apiUrl": "https://www.pixiv.net/ajax/illust/148186519",
+      "observedAt": "2026-09-28",
+      "method": "isolated Google Chrome public creator profile and public artwork metadata",
+      "author": "ZipZipPipe",
+      "authorId": "18604994",
+      "title": "AI娘化",
+      "publishedAt": "2026-08-08T16:18:00+00:00",
+      "permissionText": "作为保存用，方便所有人取用，需要标注作者，不可商用。\n\nAI娘可爱捏。\n\n其中deepseek娘形象基于用户：上善 的鲸鱼娘形象，针对deepseek特定形象进行的二次创作，遵循原作者签署的CC BY-NC-SA 4.0协议。",
+      "pageCount": 17,
+      "selectedPage": 3,
+      "originalUrl": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p2.jpg",
+      "width": 3072,
+      "height": 5504,
+      "apiResponseSha256": "fad19dcccfc93d8b908bc0290dcb7a8c3d9c3382d665b71c8af95a5761ef6cbf"
+    }
+  ],
+  "files": [
+    {
+      "id": "portrait",
+      "path": "148186519_p2.jpg",
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p2.jpg",
+      "sha256": "6fb3d6568ccd23cea1437226947276ab052bcdd47d6b7d55d8b5ca148c779782",
+      "pageNumber": 3,
+      "label": {
+        "zh": "作者发布的完整立绘",
+        "en": "Creator-published full portrait",
+        "ja": "作者公開の全身立ち絵"
+      }
+    }
+  ]
+}

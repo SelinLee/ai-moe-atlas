@@ -13,17 +13,18 @@ page.on('pageerror',e=>errors.push(e.message));
 page.on('response',r=>{if(r.url().startsWith(origin)&&r.status()>=400)errors.push(`${r.status()} ${r.url()}`);});
 try {
  for(const [lang,htmlLang] of [['zh','zh-CN'],['en','en'],['ja','ja']]){
+  console.log(`Checking ${lang} routes and downloads`);
   for(const route of ['', 'assets/','models/','collection/','contribute/',...chars.map(c=>`characters/${c.id}/`)]){
    const response=await page.goto(`${origin}/${lang}/${route}`,{waitUntil:'domcontentloaded'});assert.equal(response.status(),200);assert.equal(await page.locator('html').getAttribute('lang'),htmlLang);
    assert.ok((await page.locator('h1').textContent()).trim());
-   await page.locator('img').evaluateAll(imgs=>Promise.all(imgs.map(i=>i.decode().catch(()=>{}))));
+   await page.locator('img').evaluateAll(imgs=>Promise.all(imgs.map(i=>{i.loading='eager';return i.decode().catch(()=>{});})));
    assert.deepEqual(await page.locator('img').evaluateAll(imgs=>imgs.filter(i=>!i.naturalWidth).map(i=>i.src)),[]);
   }
   await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});
   await page.goto(`${origin}/${lang}/models/`,{waitUntil:'domcontentloaded'});
   assert.equal(await page.locator('[data-baseline]').count(),12);
-  assert.equal(await page.locator('[data-state="ready"]').count(),1);
-  assert.equal(await page.locator('[data-state="candidate"]').count(),10);
+  assert.equal(await page.locator('[data-state="ready"]').count(),6);
+  assert.equal(await page.locator('[data-state="candidate"]').count(),5);
   assert.equal(await page.locator('[data-state="missing"]').count(),1);
   assert.equal(await page.locator('[data-state="candidate"] img').count(),0);
   await page.goto(`${origin}/${lang}/characters/zipzippipe-chatgpt/`,{waitUntil:'domcontentloaded'});
@@ -32,7 +33,7 @@ try {
   await page.locator('#search').fill('ZipZipPipe');assert.equal(await page.locator('[data-card]:visible').count(),10);
   await page.locator('#search').fill('nothing-matches-xyz');await page.locator('#empty-state').waitFor({state:'visible'});
   await page.locator('#clear-filters').click();assert.equal(await page.locator('[data-card]:visible').count(),chars.length);
-  await page.locator('[data-kind-filter="collected"]').click();assert.equal(await page.locator('[data-card]:visible').count(),3);
+  await page.locator('[data-kind-filter="collected"]').click();assert.equal(await page.locator('[data-card]:visible').count(),8);
   await page.locator('[data-kind-filter="all"]').click();await page.screenshot({path:`.qa/atlas-${lang}-desktop.png`,fullPage:false});
   await page.setViewportSize({width:390,height:844});
   for(const route of ['','assets/','studio/','models/','collection/','characters/deep-whale-maid/']){
@@ -51,6 +52,17 @@ try {
   assert.ok(Object.keys(zip.files).some(p=>p==='evidence/NOTICE.txt'));const m=await sharp(await zip.file(manifest.output.file).async('nodebuffer')).metadata();assert.equal(m.width,768);assert.equal(m.format,'webp');
   const target=lang==='ja'?'en':'ja';await page.locator(`.language-switch a[hreflang="${target}"]`).click();await page.waitForFunction(()=>!document.getElementById('export-pack').disabled);assert.equal(await page.locator('#pose-select').inputValue(),'sleepy');
  }
+ await page.goto(`${origin}/en/studio/?asset=zipzippipe-chatgpt&pose=portrait`,{waitUntil:'domcontentloaded'});
+ await page.waitForFunction(()=>!document.getElementById('export-pack').disabled);
+ assert.ok((await page.locator('#usage-note').textContent()).includes('Creator terms'));
+ const originalDownload=page.waitForEvent('download');await page.click('#export-pack');await (await originalDownload).saveAs('.qa/pixiv-export.zip');
+ const originalZip=await JSZip.loadAsync(await readFile('.qa/pixiv-export.zip'));
+ assert.ok(originalZip.file('source-original.jpg'));
+ assert.deepEqual(await originalZip.file('source-original.jpg').async('nodebuffer'),await readFile('public/collected/zipzippipe-chatgpt/portrait/original.jpg'));
+ const originalManifest=JSON.parse(await originalZip.file('provenance.json').async('string'));
+ assert.equal(originalManifest.source.rights.license,'LicenseRef-ZipZipPipe-NC');
+ assert.equal(originalManifest.source.rights.modify,false);
+ assert.ok((await originalZip.file('README.txt').async('string')).includes('Creator terms'));
  await page.goto(`${origin}/en/studio/`,{waitUntil:'domcontentloaded'});await page.waitForFunction(()=>!document.getElementById('export-pack').disabled);
  await page.locator('#upload').setInputFiles('public/collected/shangshan-whale/portrait/original.png');await page.waitForFunction(()=>!document.getElementById('export-pack').disabled);
  await page.click('#export-pack');await page.waitForFunction(()=>document.getElementById('studio-status').textContent.includes('source URL'));
