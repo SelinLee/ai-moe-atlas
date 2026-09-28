@@ -1,0 +1,159 @@
+{
+  "version": 1,
+  "characterId": "zipzippipe-doubao",
+  "source": {
+    "id": "zipzippipe-doubao",
+    "characterId": "zipzippipe-doubao",
+    "platform": "pixiv",
+    "revision": "pixiv-148186519-2026-09-29",
+    "pageUrl": "https://www.pixiv.net/artworks/148186519",
+    "originalPublication": "https://www.pixiv.net/artworks/148186519",
+    "collectedAt": "2026-09-29",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "publisher",
+        "publication": "https://www.pixiv.net/artworks/148186519"
+      }
+    ],
+    "provenanceStatus": "creator-published",
+    "rights": {
+      "license": "LicenseRef-ZipZipPipe-NC",
+      "scope": "artwork",
+      "display": true,
+      "redistribute": true,
+      "modify": false,
+      "normalizationOnly": true,
+      "modificationScope": "technical-format-and-size-only",
+      "commercial": false,
+      "terms": {
+        "zh": "按作者原文取用：须署名 ZipZipPipe，不可商用。本站仅做等比缩放、留边和格式转换；未确认其他改绘许可。本图集除 DeepSeek 外的条目均不标作 CC BY-NC-SA，图集中的该协议说明专指 DeepSeek。",
+        "en": "Creator terms require credit to ZipZipPipe and prohibit commercial use. Atlas only resizes, pads and converts formats; broader adaptation permission is not established. Apart from DeepSeek, entries in this collection are not labeled CC BY-NC-SA: that statement in the collection specifically concerns DeepSeek.",
+        "ja": "作者の条件に従い ZipZipPipe のクレジットが必須で、商用利用は不可。縦横比を保つリサイズ・余白・形式変換のみを行い、それ以外の改変許可は未確認です。DeepSeek 以外の項目は CC BY-NC-SA とは表記しません。同声明は DeepSeek に関するものです。"
+      },
+      "evidenceUrl": "https://www.pixiv.net/artworks/148186519",
+      "reviewedAt": "2026-09-29",
+      "reviewedBy": "AI Moe Atlas source review",
+      "reviewNote": "Creator offers these files for everyone to take and use, with attribution and no commercial use. Only content-preserving technical processing is performed; no general creative adaptation or CC license is inferred. The page was re-checked against the whole 17-image collection so each character could be matched to its page."
+    },
+    "evidenceSnapshots": [
+      {
+        "url": "https://www.pixiv.net/artworks/148186519",
+        "apiUrl": "https://www.pixiv.net/ajax/illust/148186519",
+        "observedAt": "2026-09-29",
+        "method": "isolated Google Chrome public creator profile and public artwork metadata",
+        "author": "ZipZipPipe",
+        "authorId": "18604994",
+        "title": "AI娘化",
+        "publishedAt": "2026-08-08T16:18:00+00:00",
+        "permissionText": "作为保存用，方便所有人取用，需要标注作者，不可商用。\n\nAI娘可爱捏。\n\n其中deepseek娘形象基于用户：上善 的鲸鱼娘形象，针对deepseek特定形象进行的二次创作，遵循原作者签署的CC BY-NC-SA 4.0协议。",
+        "pageCount": 17,
+        "selectedPage": 11,
+        "originalUrl": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p10.jpg",
+        "width": 3072,
+        "height": 5504,
+        "apiResponseSha256": "1891c15b87b355a33e8f9f9432ee4e48e22792bcc0032ee59a6679f7ad68e254"
+      }
+    ],
+    "files": [
+      {
+        "id": "portrait",
+        "path": "148186519_p10.jpg",
+        "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p10.jpg",
+        "sha256": "a923dd580c161ecb0f869b8c0457deaece480a74d0f0f00e4abadf55521d99ce",
+        "pageNumber": 11,
+        "label": {
+          "zh": "作者发布的完整立绘",
+          "en": "Creator-published full portrait",
+          "ja": "作者公開の全身立ち絵"
+        }
+      }
+    ],
+    "retrievedAt": "2026-09-28T17:56:35.968Z",
+    "evidence": [
+      {
+        "sourceUrl": "https://www.pixiv.net/artworks/148186519",
+        "localPath": "collected/zipzippipe-doubao/evidence/source-statement-1.json",
+        "sha256": "b7f058ef7a9eeaefd69eaac243df2fbc641781effb88a23fa3cbc98df5b6a3ba"
+      }
+    ],
+    "originals": [
+      {
+        "id": "portrait",
+        "path": "148186519_p10.jpg",
+        "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p10.jpg",
+        "sha256": "a923dd580c161ecb0f869b8c0457deaece480a74d0f0f00e4abadf55521d99ce",
+        "pageNumber": 11,
+        "label": {
+          "zh": "作者发布的完整立绘",
+          "en": "Creator-published full portrait",
+          "ja": "作者公開の全身立ち絵"
+        },
+        "sourceUrl": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p10.jpg",
+        "sourcePage": "https://www.pixiv.net/artworks/148186519",
+        "localPath": "collected/zipzippipe-doubao/portrait/original.jpg",
+        "width": 3072,
+        "height": 5504,
+        "alpha": false,
+        "bytes": 8380978
+      }
+    ]
+  },
+  "normalization": {
+    "tool": "sharp 0.34.5",
+    "policy": "preserve-original-identity",
+    "generative": false,
+    "notes": "Fit complete original to canvas. No new pose, expression, costume, background removal, or invented detail. 2x output is resampling, not recovered detail."
+  },
+  "assets": [
+    {
+      "id": "portrait",
+      "label": {
+        "zh": "作者发布的完整立绘",
+        "en": "Creator-published full portrait",
+        "ja": "作者公開の全身立ち絵"
+      },
+      "original": "collected/zipzippipe-doubao/portrait/original.jpg",
+      "originalSha256": "a923dd580c161ecb0f869b8c0457deaece480a74d0f0f00e4abadf55521d99ce",
+      "outputs": [
+        {
+          "path": "collected/zipzippipe-doubao/portrait/standard.png",
+          "sha256": "8890b60c77ed95e7ac8608a344855b47036b87f60994794dfd2d59d96f14d4e5",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "a923dd580c161ecb0f869b8c0457deaece480a74d0f0f00e4abadf55521d99ce"
+        },
+        {
+          "path": "collected/zipzippipe-doubao/portrait/preview.webp",
+          "sha256": "51a398bb17a627b0af7fff12dabab65bf6290ab22521676d94f363a0634e2a7c",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "a923dd580c161ecb0f869b8c0457deaece480a74d0f0f00e4abadf55521d99ce"
+        },
+        {
+          "path": "collected/zipzippipe-doubao/portrait/avatar.png",
+          "sha256": "51b65f7362d2ca124086f4bfa776902989be16006136c90babba019940d04c8d",
+          "width": 256,
+          "height": 256,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "a923dd580c161ecb0f869b8c0457deaece480a74d0f0f00e4abadf55521d99ce"
+        },
+        {
+          "path": "collected/zipzippipe-doubao/portrait/large-1024.png",
+          "sha256": "82105847da946c68f17e3bf4f703134d812748ee3ec5420c14408ff5634b04e1",
+          "width": 1024,
+          "height": 1024,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "a923dd580c161ecb0f869b8c0457deaece480a74d0f0f00e4abadf55521d99ce"
+        }
+      ]
+    }
+  ]
+}

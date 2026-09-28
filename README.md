@@ -10,13 +10,13 @@
 
 ## 第一版
 
-- 中文、英文、日文界面与词条；24 个来源条目，12 个 AI 产品/系列索引。
-- 8 组可下载素材、14 张保留原始字节的原图、56 个规范化输出。其余条目只索引，未镜像原图。
+- 中文、英文、日文界面与词条；26 个来源条目，12 个 AI 产品/系列索引。
+- 13 组可下载素材、19 张保留原始字节的原图、76 个规范化输出。其余条目只索引，未镜像原图。
 - 原图、512 px PNG/WebP、256 px 头像、1024 px 插值版、来源清单和使用条件一起打包。
 - 本地工坊支持留白、尺寸、背景、比例和格式调整，导出图片 + 原图 + 来源记录 ZIP。图片不上传。
 - B 站与 GitHub 线索采集命令；搜索结果进入待核验清单，不自动发布。
 
-素材来自上善无形的 B 站原始动态、Small-tailqwq/dsh-deep-whale，以及 ZipZipPipe 本人的 [Pixiv 原图集](https://www.pixiv.net/artworks/148186519)。原有三包为 **CC BY-NC-SA 4.0**；新增 GPT、Gemini、Claude、Kimi、千问五包按作者的 **署名、非商用** 条件提供，不套用 DeepSeek 的 CC 许可。仓库代码的 MIT 许可不覆盖第三方图片。
+素材来自上善无形的 B 站原始动态、Small-tailqwq/dsh-deep-whale，以及 ZipZipPipe 本人的 [Pixiv 原图集](https://www.pixiv.net/artworks/148186519)。原有三包为 **CC BY-NC-SA 4.0**；新增 GPT、Gemini、Claude、Kimi、千问、GLM、Grok、豆包、Llama、MiniMax 十包按作者的 **署名、非商用** 条件提供，不套用 DeepSeek 的 CC 许可。仓库代码的 MIT 许可不覆盖第三方图片。
 
 ## 运行
 
@@ -62,6 +62,6 @@ GitHub 搜索需要已登录的 `gh`。首次安装 Playwright 只用于控制�
 
 ## 已知范围
 
-来源条目并不等于可下载素材。B 站九款 AI 的视频系列已建立索引；其中 GPT、Gemini、Claude、Kimi、千问已找到并采集作者独立高清原图。桌宠动画适配、视频提帧、自动抠图与 AI 超分不包含在本版中。禁止为凑数量而新造形象。
+来源条目并不等于可下载素材。B 站九款 AI 的视频系列已建立索引；其中 GPT、Gemini、Claude、Kimi、千问、GLM、Grok、豆包、Llama、MiniMax 已找到并采集作者独立高清原图。桌宠动画适配、视频提帧、自动抠图与 AI 超分不包含在本版中。禁止为凑数量而新造形象。
 
 [每个 AI 的保底形象与跨项目复用核对](docs/BASELINES.zh.md)

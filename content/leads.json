@@ -6,9 +6,9 @@
     "creator": "ZipZipPipe",
     "status": "collected",
     "note": {
-      "zh": "17 张图集中已核对并采集 GPT、Gemini、Claude、Kimi、千问五张独立高清原图。署名、非商用；保存逐图页码与原文件。",
-      "en": "Five standalone high-resolution originals collected from the 17-image collection: GPT, Gemini, Claude, Kimi and Qwen. Attribution and non-commercial terms; page numbers and original files retained.",
-      "ja": "全17枚から GPT・Gemini・Claude・Kimi・Qwen の高解像度原画像5枚を収集。クレジット必須・非商用。掲載番号と原本を保存。"
+      "zh": "17 张图集中已核对并采集十张独立高清原图：GPT、Gemini、Claude、Kimi、千问、GLM、Grok、豆包、Llama、MiniMax。署名、非商用；保存逐图页码与原文件。",
+      "en": "Ten standalone high-resolution originals collected from the 17-image collection: GPT, Gemini, Claude, Kimi, Qwen, GLM, Grok, Doubao, Llama and MiniMax. Attribution and non-commercial terms; page numbers and original files retained.",
+      "ja": "全17枚から GPT・Gemini・Claude・Kimi・Qwen・GLM・Grok・豆包・Llama・MiniMax の高解像度原画像10枚を収集。クレジット必須・非商用。掲載番号と原本を保存。"
     }
   },
   {
@@ -40,11 +40,11 @@
     "title": "大AI和小AI们",
     "url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
     "creator": "ZipZipPipe",
-    "status": "indexed",
+    "status": "identity-reviewed",
     "note": {
-      "zh": "含九款 AI 的大版与小版形象，需逐项获取原图。",
-      "en": "Nine AIs in full-size and chibi versions; individual source images still needed.",
-      "ja": "9 種の AI の通常版とミニ版。個別の原画像は確認待ち。"
+      "zh": "简介列明九款 AI 的展示顺序（DeepSeek、Gemini、Claude、GPT、Grok、GLM、Kimi、MiniMax、Qwen）。已据此在作者 Pixiv 图集中逐项对应并采集独立原图；视频本身不提帧、不转载。",
+      "en": "The description lists the nine AIs in display order (DeepSeek, Gemini, Claude, GPT, Grok, GLM, Kimi, MiniMax, Qwen). Each was matched to its page in the creator's Pixiv collection and collected as a standalone original; the video itself is neither frame-extracted nor mirrored.",
+      "ja": "説明に 9 種の AI と登場順（DeepSeek・Gemini・Claude・GPT・Grok・GLM・Kimi・MiniMax・Qwen）が記載。作者の Pixiv 作品集の各ページと照合し、個別原画像を収集しました。動画のフレーム抽出・転載は行いません。"
     }
   },
   {
@@ -90,9 +90,9 @@
     "creator": "想看故事的lazy",
     "status": "identity-reviewed",
     "note": {
-      "zh": "复用 ai_video 的截图核对 GPT、Gemini、Claude、Kimi、千问。视频注明形象来自 ZipZipPipe；独立原图与逐图许可待补。",
-      "en": "Screenshots from ai_video corroborate GPT, Gemini, Claude, Kimi and Qwen. The video credits ZipZipPipe; original image files and asset-specific terms remain pending.",
-      "ja": "ai_video のスクリーンショットで GPT・Gemini・Claude・Kimi・Qwen を照合。動画は ZipZipPipe を出典と記載。原画像と個別条件は確認待ち。"
+      "zh": "复用 ai_video 的截图核对 GPT、Gemini、Claude、Kimi、千问。视频注明形象来自 ZipZipPipe；对应独立原图已在作者 Pixiv 图集中采集。",
+      "en": "Screenshots from ai_video corroborate GPT, Gemini, Claude, Kimi and Qwen. The video credits ZipZipPipe; matching standalone originals have since been collected from the creator's Pixiv collection.",
+      "ja": "ai_video のスクリーンショットで GPT・Gemini・Claude・Kimi・Qwen を照合。動画は ZipZipPipe を出典と記載。対応する個別原画像は作者の Pixiv 作品集から収集済みです。"
     }
   },
   {
@@ -105,6 +105,30 @@
       "zh": "ai_video 保留的视频文字注明 AI 娘来自 ZipZipPipe；剧情视频只用作追溯线索。",
       "en": "Saved video text in ai_video credits ZipZipPipe. Use this narrative video as a tracing lead only.",
       "ja": "ai_video の保存テキストは ZipZipPipe を出典と記載。物語動画は出典調査の手がかりとしてのみ使用。"
+    }
+  },
+  {
+    "id": "bili-billionaires",
+    "title": "“亿万”身家的她们",
+    "url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
+    "creator": "ZipZipPipe",
+    "status": "lead",
+    "note": {
+      "zh": "公开整理提到该视频评论区有作者回复的高清原图；待逐项核验后再决定是否采集。",
+      "en": "Public write-ups mention creator-replied high-resolution originals in this video's comment section; verify individually before any collection.",
+      "ja": "公開の整理記事によると、この動画のコメント欄に作者返信の高解像度原画像があります。個別確認のうえで収集を判断します。"
+    }
+  },
+  {
+    "id": "identity-cross-check",
+    "title": "各 AI 娘的公开形象整理",
+    "url": "https://www.zhihu.com/question/2070559801474375714",
+    "creator": "公开整理（知乎 / 百度贴吧）",
+    "status": "identity-reviewed",
+    "note": {
+      "zh": "知乎与贴吧的公开整理逐个描述了 ZipZipPipe 的 AI 人设（GPT 为龙娘、GLM 为狐狸、Grok 衍生自官方形象 Ani、MiniMax 取自海螺 AI、字节为 Seed／豆包、Llama 为羊驼等）。本站仅用于与图集页码互相核对，不作为授权依据。",
+      "en": "Public write-ups on Zhihu and Baidu Tieba describe each ZipZipPipe design (GPT as a dragon, GLM as a fox, Grok derived from the official character Ani, MiniMax from Hailuo AI, ByteDance as Seed / Doubao, Llama as an alpaca). Atlas uses these only to cross-check page numbers, never as a permission basis.",
+      "ja": "知乎・百度貼吧の公開整理記事が ZipZipPipe の各デザインを説明しています（GPT は竜、GLM はキツネ、Grok は公式キャラクター Ani 由来、MiniMax は海螺 AI、字節跳動は Seed／豆包、Llama はリャマなど）。当サイトはページ番号の照合のみに用い、権利根拠とはしません。"
     }
   }
 ]

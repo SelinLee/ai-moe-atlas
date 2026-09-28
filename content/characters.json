@@ -1248,50 +1248,70 @@
       "ja": "Grok · ZipZipPipe"
     },
     "description": {
-      "zh": "“大 AI 和小 AI 们”中由作者列明的拟人形象，保留视频出处。",
-      "en": "A character identified by its creator in “Big AIs and Little AIs”; video source retained.",
-      "ja": "「大AI和小AI们」で作者が明記した擬人化形象。動画の出典を保存。"
+      "zh": "金发双马尾、黑色小翼、黑红哥特长裙，手持 X 形巨斧。",
+      "en": "Blonde twin tails, small black wings, a black-and-red gothic gown, and an X-shaped battle axe.",
+      "ja": "金髪のツインテール、黒い小翼、黒赤のゴシックドレス、X 字の大斧。"
     },
     "story": {
-      "zh": "作者的视频简介列明九款 AI 与展示顺序。此条目仅建立来源索引，尚未从视频中提取独立素材。",
-      "en": "The creator lists nine AIs and their order in the description. This is a source index; no standalone image has been extracted from the video.",
-      "ja": "作者の説明には 9 種の AI と登場順が記載されています。出典索引のみで、動画から素材は抽出していません。"
+      "zh": "采集自 ZipZipPipe 本人发布的《AI娘化》图集第 8 张，作者文件尺寸为 3072 × 5504。作者在《大AI和小AI们》简介中把 Grok 列为第五款；公开讨论认为该形象衍生自 Grok 官方形象 Ani。保留原文件，不声称该文件是作者的最早发布版本。",
+      "en": "Collected from image 8 of ZipZipPipe's own “AI娘化” collection at 3072 × 5504. The creator lists Grok fifth in the “Big AIs and Little AIs” description, and public discussion links this design to Grok's official character Ani.Original bytes are preserved; this is not a claim of earliest publication.",
+      "ja": "ZipZipPipe 本人の「AI娘化」第 8 枚を収集（3072 × 5504）。作者は「大AI和小AI们」の説明で Grok を 5 番目に挙げ、公開の議論では Grok 公式キャラクター Ani 由来とされています。原本を保存し、最初の公開版とは断定しません。"
     },
     "features": {
-      "zh": "以原视频中的角色为准，不自行补充设定。",
-      "en": "Refer to the video; no invented character details.",
-      "ja": "外見は元動画をご確認ください。設定の補完は行いません。"
+      "zh": "金发双马尾、黑色小翼、黑红哥特长裙，手持 X 形巨斧。",
+      "en": "Blonde twin tails, small black wings, a black-and-red gothic gown, and an X-shaped battle axe.",
+      "ja": "金髪のツインテール、黒い小翼、黒赤のゴシックドレス、X 字の大斧。"
     },
-    "kind": "reference",
+    "kind": "collected",
     "style": "anime",
     "official": false,
     "author": "ZipZipPipe",
-    "authorUrl": "https://space.bilibili.com/4168597",
-    "source": "https://www.bilibili.com/video/BV1tE9XBbErS/",
-    "sourceTitle": "大AI和小AI们 · Bilibili",
-    "originalPublication": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "authorUrl": "https://www.pixiv.net/users/18604994",
+    "source": "https://www.pixiv.net/artworks/148186519",
+    "sourceTitle": "AI娘化 · Pixiv",
+    "originalPublication": "https://www.pixiv.net/artworks/148186519",
     "sourceStatus": "creator-published",
     "attribution": [
       {
         "name": "ZipZipPipe",
-        "url": "https://space.bilibili.com/4168597",
-        "role": "publisher"
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "publisher",
+        "publication": "https://www.pixiv.net/artworks/148186519"
       }
     ],
     "method": "upstream-ai-assisted",
-    "license": "source-only",
-    "licenseUrl": "https://t.bilibili.com/1231980045693616162",
-    "downloadable": false,
-    "bg": "#eaf0fa",
-    "color": "#5b7097",
-    "verifiedAt": "2026-09-28",
+    "license": "LicenseRef-ZipZipPipe-NC",
+    "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+    "downloadable": true,
+    "bg": "#faf0e8",
+    "color": "#8a5a3c",
+    "verifiedAt": "2026-09-29",
     "origin": "web-collected",
-    "preview": null,
-    "assets": [],
+    "preview": "collected/zipzippipe-grok/portrait/preview.webp",
+    "assets": [
+      {
+        "id": "portrait",
+        "label": {
+          "zh": "作者发布的完整立绘",
+          "en": "Creator-published full portrait",
+          "ja": "作者公開の全身立ち絵"
+        }
+      }
+    ],
     "provenanceNote": {
-      "zh": "鲸鱼娘许可声明不自动扩展到其他角色、音乐或整段视频；各素材待逐项核验。",
-      "en": "The whale-girl statement does not automatically cover other characters, music, or the full video. Asset-level verification remains pending.",
-      "ja": "クジラ娘の声明は他キャラクター・音楽・動画全体には自動適用されません。素材ごとの確認が必要です。"
+      "zh": "作者主页、图集与独立原文件已核验。保留原始 JPG 白底，未抠图、重绘或生成新细节。",
+      "en": "Creator profile, collection and standalone original file verified. The original white-background JPEG is preserved without background removal, redrawing or generated detail.",
+      "ja": "作者プロフィール・作品集・個別原画像を確認。白背景の JPG 原本を保持し、背景除去・描き直し・細部生成は行っていません。"
+    },
+    "terms": {
+      "zh": "按作者原文取用：须署名 ZipZipPipe，不可商用。本站仅做等比缩放、留边和格式转换；未确认其他改绘许可。本图集除 DeepSeek 外的条目均不标作 CC BY-NC-SA，图集中的该协议说明专指 DeepSeek。",
+      "en": "Creator terms require credit to ZipZipPipe and prohibit commercial use. Atlas only resizes, pads and converts formats; broader adaptation permission is not established. Apart from DeepSeek, entries in this collection are not labeled CC BY-NC-SA: that statement in the collection specifically concerns DeepSeek.",
+      "ja": "作者の条件に従い ZipZipPipe のクレジットが必須で、商用利用は不可。縦横比を保つリサイズ・余白・形式変換のみを行い、それ以外の改変許可は未確認です。DeepSeek 以外の項目は CC BY-NC-SA とは表記しません。同声明は DeepSeek に関するものです。"
+    },
+    "licenseLabel": {
+      "zh": "署名 · 非商用（作者声明）",
+      "en": "Credit required · Non-commercial (creator terms)",
+      "ja": "作者表示必須・非商用（作者条件）"
     }
   },
   {
@@ -1303,50 +1323,70 @@
       "ja": "GLM · ZipZipPipe"
     },
     "description": {
-      "zh": "“大 AI 和小 AI 们”中由作者列明的拟人形象，保留视频出处。",
-      "en": "A character identified by its creator in “Big AIs and Little AIs”; video source retained.",
-      "ja": "「大AI和小AI们」で作者が明記した擬人化形象。動画の出典を保存。"
+      "zh": "黑发、黑白蕾丝长裙，头饰、书本与腰带上的“Z”标识，白色狐尾。",
+      "en": "Dark hair and a black-and-white lace gown, “Z” marks on the headpiece, book and belt, and a white fox tail.",
+      "ja": "黒髪、白黒のレースドレス、頭飾り・本・ベルトの「Z」マーク、白い狐の尾。"
     },
     "story": {
-      "zh": "作者的视频简介列明九款 AI 与展示顺序。此条目仅建立来源索引，尚未从视频中提取独立素材。",
-      "en": "The creator lists nine AIs and their order in the description. This is a source index; no standalone image has been extracted from the video.",
-      "ja": "作者の説明には 9 種の AI と登場順が記載されています。出典索引のみで、動画から素材は抽出していません。"
+      "zh": "采集自 ZipZipPipe 本人发布的《AI娘化》图集第 7 张，作者文件尺寸为 1152 × 2048。公开整理把该形象描述为作者设计的狐狸角色，与图集中的“Z”标识一致；本站只记录来源，不作官方认定。保留原文件，不声称该文件是作者的最早发布版本。",
+      "en": "Collected from image 7 of ZipZipPipe's own “AI娘化” collection at 1152 × 2048. Public write-ups describe this design as the creator's fox character, consistent with the “Z” marks in the collection. Atlas records provenance only and makes no official claim.Original bytes are preserved; this is not a claim of earliest publication.",
+      "ja": "ZipZipPipe 本人の「AI娘化」第 7 枚を収集（1152 × 2048）。公開の整理記事では作者デザインのキツネキャラクターとされ、作品集の「Z」マークと一致します。当サイトは出典の記録のみで、公式とは断定しません。原本を保存し、最初の公開版とは断定しません。"
     },
     "features": {
-      "zh": "以原视频中的角色为准，不自行补充设定。",
-      "en": "Refer to the video; no invented character details.",
-      "ja": "外見は元動画をご確認ください。設定の補完は行いません。"
+      "zh": "黑发、黑白蕾丝长裙，头饰、书本与腰带上的“Z”标识，白色狐尾。",
+      "en": "Dark hair and a black-and-white lace gown, “Z” marks on the headpiece, book and belt, and a white fox tail.",
+      "ja": "黒髪、白黒のレースドレス、頭飾り・本・ベルトの「Z」マーク、白い狐の尾。"
     },
-    "kind": "reference",
+    "kind": "collected",
     "style": "anime",
     "official": false,
     "author": "ZipZipPipe",
-    "authorUrl": "https://space.bilibili.com/4168597",
-    "source": "https://www.bilibili.com/video/BV1tE9XBbErS/",
-    "sourceTitle": "大AI和小AI们 · Bilibili",
-    "originalPublication": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "authorUrl": "https://www.pixiv.net/users/18604994",
+    "source": "https://www.pixiv.net/artworks/148186519",
+    "sourceTitle": "AI娘化 · Pixiv",
+    "originalPublication": "https://www.pixiv.net/artworks/148186519",
     "sourceStatus": "creator-published",
     "attribution": [
       {
         "name": "ZipZipPipe",
-        "url": "https://space.bilibili.com/4168597",
-        "role": "publisher"
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "publisher",
+        "publication": "https://www.pixiv.net/artworks/148186519"
       }
     ],
     "method": "upstream-ai-assisted",
-    "license": "source-only",
-    "licenseUrl": "https://t.bilibili.com/1231980045693616162",
-    "downloadable": false,
-    "bg": "#eaf0fa",
-    "color": "#5b7097",
-    "verifiedAt": "2026-09-28",
+    "license": "LicenseRef-ZipZipPipe-NC",
+    "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+    "downloadable": true,
+    "bg": "#eceff3",
+    "color": "#4d5560",
+    "verifiedAt": "2026-09-29",
     "origin": "web-collected",
-    "preview": null,
-    "assets": [],
+    "preview": "collected/zipzippipe-glm/portrait/preview.webp",
+    "assets": [
+      {
+        "id": "portrait",
+        "label": {
+          "zh": "作者发布的完整立绘",
+          "en": "Creator-published full portrait",
+          "ja": "作者公開の全身立ち絵"
+        }
+      }
+    ],
     "provenanceNote": {
-      "zh": "鲸鱼娘许可声明不自动扩展到其他角色、音乐或整段视频；各素材待逐项核验。",
-      "en": "The whale-girl statement does not automatically cover other characters, music, or the full video. Asset-level verification remains pending.",
-      "ja": "クジラ娘の声明は他キャラクター・音楽・動画全体には自動適用されません。素材ごとの確認が必要です。"
+      "zh": "作者主页、图集与独立原文件已核验。保留原始 JPG 白底，未抠图、重绘或生成新细节。",
+      "en": "Creator profile, collection and standalone original file verified. The original white-background JPEG is preserved without background removal, redrawing or generated detail.",
+      "ja": "作者プロフィール・作品集・個別原画像を確認。白背景の JPG 原本を保持し、背景除去・描き直し・細部生成は行っていません。"
+    },
+    "terms": {
+      "zh": "按作者原文取用：须署名 ZipZipPipe，不可商用。本站仅做等比缩放、留边和格式转换；未确认其他改绘许可。本图集除 DeepSeek 外的条目均不标作 CC BY-NC-SA，图集中的该协议说明专指 DeepSeek。",
+      "en": "Creator terms require credit to ZipZipPipe and prohibit commercial use. Atlas only resizes, pads and converts formats; broader adaptation permission is not established. Apart from DeepSeek, entries in this collection are not labeled CC BY-NC-SA: that statement in the collection specifically concerns DeepSeek.",
+      "ja": "作者の条件に従い ZipZipPipe のクレジットが必須で、商用利用は不可。縦横比を保つリサイズ・余白・形式変換のみを行い、それ以外の改変許可は未確認です。DeepSeek 以外の項目は CC BY-NC-SA とは表記しません。同声明は DeepSeek に関するものです。"
+    },
+    "licenseLabel": {
+      "zh": "署名 · 非商用（作者声明）",
+      "en": "Credit required · Non-commercial (creator terms)",
+      "ja": "作者表示必須・非商用（作者条件）"
     }
   },
   {
@@ -1443,50 +1483,70 @@
       "ja": "MiniMax · ZipZipPipe"
     },
     "description": {
-      "zh": "“大 AI 和小 AI 们”中由作者列明的拟人形象，保留视频出处。",
-      "en": "A character identified by its creator in “Big AIs and Little AIs”; video source retained.",
-      "ja": "「大AI和小AI们」で作者が明記した擬人化形象。動画の出典を保存。"
+      "zh": "橙色短发、白色贝雷帽、格纹半身裙，手持海螺，场记板与包上印有 MINIMAX。",
+      "en": "Short orange hair, a white beret and a plaid skirt, holding a conch, with MINIMAX printed on the slate and bag.",
+      "ja": "オレンジのショートヘア、白いベレー帽、チェックのスカート、手に巻き貝。場記板とバッグに MINIMAX の表記。"
     },
     "story": {
-      "zh": "作者的视频简介列明九款 AI 与展示顺序。此条目仅建立来源索引，尚未从视频中提取独立素材。",
-      "en": "The creator lists nine AIs and their order in the description. This is a source index; no standalone image has been extracted from the video.",
-      "ja": "作者の説明には 9 種の AI と登場順が記載されています。出典索引のみで、動画から素材は抽出していません。"
+      "zh": "采集自 ZipZipPipe 本人发布的《AI娘化》图集第 16 张，作者文件尺寸为 3072 × 5504。公开整理指出该形象来自海螺 AI，与图中的海螺道具一致。保留原文件，不声称该文件是作者的最早发布版本。",
+      "en": "Collected from image 16 of ZipZipPipe's own “AI娘化” collection at 3072 × 5504. Public write-ups trace the design to Hailuo AI, matching the conch prop in the artwork.Original bytes are preserved; this is not a claim of earliest publication.",
+      "ja": "ZipZipPipe 本人の「AI娘化」第 16 枚を収集（3072 × 5504）。公開の整理記事では海螺 AI（Hailuo AI）由来とされ、図中の巻き貝と一致します。原本を保存し、最初の公開版とは断定しません。"
     },
     "features": {
-      "zh": "以原视频中的角色为准，不自行补充设定。",
-      "en": "Refer to the video; no invented character details.",
-      "ja": "外見は元動画をご確認ください。設定の補完は行いません。"
+      "zh": "橙色短发、白色贝雷帽、格纹半身裙，手持海螺，场记板与包上印有 MINIMAX。",
+      "en": "Short orange hair, a white beret and a plaid skirt, holding a conch, with MINIMAX printed on the slate and bag.",
+      "ja": "オレンジのショートヘア、白いベレー帽、チェックのスカート、手に巻き貝。場記板とバッグに MINIMAX の表記。"
     },
-    "kind": "reference",
+    "kind": "collected",
     "style": "anime",
     "official": false,
     "author": "ZipZipPipe",
-    "authorUrl": "https://space.bilibili.com/4168597",
-    "source": "https://www.bilibili.com/video/BV1tE9XBbErS/",
-    "sourceTitle": "大AI和小AI们 · Bilibili",
-    "originalPublication": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "authorUrl": "https://www.pixiv.net/users/18604994",
+    "source": "https://www.pixiv.net/artworks/148186519",
+    "sourceTitle": "AI娘化 · Pixiv",
+    "originalPublication": "https://www.pixiv.net/artworks/148186519",
     "sourceStatus": "creator-published",
     "attribution": [
       {
         "name": "ZipZipPipe",
-        "url": "https://space.bilibili.com/4168597",
-        "role": "publisher"
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "publisher",
+        "publication": "https://www.pixiv.net/artworks/148186519"
       }
     ],
     "method": "upstream-ai-assisted",
-    "license": "source-only",
-    "licenseUrl": "https://t.bilibili.com/1231980045693616162",
-    "downloadable": false,
-    "bg": "#eaf0fa",
-    "color": "#5b7097",
-    "verifiedAt": "2026-09-28",
+    "license": "LicenseRef-ZipZipPipe-NC",
+    "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+    "downloadable": true,
+    "bg": "#fdf0ec",
+    "color": "#a86a52",
+    "verifiedAt": "2026-09-29",
     "origin": "web-collected",
-    "preview": null,
-    "assets": [],
+    "preview": "collected/zipzippipe-minimax/portrait/preview.webp",
+    "assets": [
+      {
+        "id": "portrait",
+        "label": {
+          "zh": "作者发布的完整立绘",
+          "en": "Creator-published full portrait",
+          "ja": "作者公開の全身立ち絵"
+        }
+      }
+    ],
     "provenanceNote": {
-      "zh": "鲸鱼娘许可声明不自动扩展到其他角色、音乐或整段视频；各素材待逐项核验。",
-      "en": "The whale-girl statement does not automatically cover other characters, music, or the full video. Asset-level verification remains pending.",
-      "ja": "クジラ娘の声明は他キャラクター・音楽・動画全体には自動適用されません。素材ごとの確認が必要です。"
+      "zh": "作者主页、图集与独立原文件已核验。保留原始 JPG 白底，未抠图、重绘或生成新细节。",
+      "en": "Creator profile, collection and standalone original file verified. The original white-background JPEG is preserved without background removal, redrawing or generated detail.",
+      "ja": "作者プロフィール・作品集・個別原画像を確認。白背景の JPG 原本を保持し、背景除去・描き直し・細部生成は行っていません。"
+    },
+    "terms": {
+      "zh": "按作者原文取用：须署名 ZipZipPipe，不可商用。本站仅做等比缩放、留边和格式转换；未确认其他改绘许可。本图集除 DeepSeek 外的条目均不标作 CC BY-NC-SA，图集中的该协议说明专指 DeepSeek。",
+      "en": "Creator terms require credit to ZipZipPipe and prohibit commercial use. Atlas only resizes, pads and converts formats; broader adaptation permission is not established. Apart from DeepSeek, entries in this collection are not labeled CC BY-NC-SA: that statement in the collection specifically concerns DeepSeek.",
+      "ja": "作者の条件に従い ZipZipPipe のクレジットが必須で、商用利用は不可。縦横比を保つリサイズ・余白・形式変換のみを行い、それ以外の改変許可は未確認です。DeepSeek 以外の項目は CC BY-NC-SA とは表記しません。同声明は DeepSeek に関するものです。"
+    },
+    "licenseLabel": {
+      "zh": "署名 · 非商用（作者声明）",
+      "en": "Credit required · Non-commercial (creator terms)",
+      "ja": "作者表示必須・非商用（作者条件）"
     }
   },
   {
@@ -1567,6 +1627,156 @@
       "zh": "按作者原文取用：须署名 ZipZipPipe，不可商用。本站仅做等比缩放、留边和格式转换；未确认其他改绘许可。此五张图不标作 CC BY-NC-SA，图集中的该协议说明专指 DeepSeek。",
       "en": "Creator terms require credit to ZipZipPipe and prohibit commercial use. Atlas only resizes, pads and converts formats; broader adaptation permission is not established. These five images are not labeled CC BY-NC-SA: that statement in the collection specifically concerns DeepSeek.",
       "ja": "作者の条件に従い ZipZipPipe のクレジットが必須で、商用利用は不可。縦横比を保つリサイズ・余白・形式変換のみ行い、それ以外の改変許可は未確認です。この5枚を CC BY-NC-SA とは表記しません。同声明は DeepSeek に関するものです。"
+    },
+    "licenseLabel": {
+      "zh": "署名 · 非商用（作者声明）",
+      "en": "Credit required · Non-commercial (creator terms)",
+      "ja": "作者表示必須・非商用（作者条件）"
+    }
+  },
+  {
+    "id": "zipzippipe-doubao",
+    "entity": "doubao",
+    "name": {
+      "zh": "豆包 / Doubao · ZipZipPipe",
+      "en": "Doubao · ZipZipPipe",
+      "ja": "豆包 / Doubao · ZipZipPipe"
+    },
+    "description": {
+      "zh": "紫蓝渐变双马尾、蓝白运动风服装，随身物品上印有 SEED 与蓝紫渐变标志。",
+      "en": "Purple-blue gradient twin tails and a blue-and-white sporty outfit, with SEED and a blue-purple gradient mark on her gear.",
+      "ja": "紫青のグラデーションツインテール、青白のスポーティーな衣装。所持品に SEED と青紫グラデーションのマーク。"
+    },
+    "story": {
+      "zh": "采集自 ZipZipPipe 本人发布的《AI娘化》图集第 11 张，作者文件尺寸为 3072 × 5504。公开整理把该形象归为字节跳动的 Seed／豆包；本站只记录来源，不把该设计等同于官方角色。保留原文件，不声称该文件是作者的最早发布版本。",
+      "en": "Collected from image 11 of ZipZipPipe's own “AI娘化” collection at 3072 × 5504. Public write-ups attribute this design to ByteDance's Seed / Doubao. Atlas records provenance only and does not treat the design as an official character.Original bytes are preserved; this is not a claim of earliest publication.",
+      "ja": "ZipZipPipe 本人の「AI娘化」第 11 枚を収集（3072 × 5504）。公開の整理記事では字節跳動（ByteDance）の Seed／豆包に分類されています。当サイトは出典の記録のみで、公式キャラクターとはみなしません。原本を保存し、最初の公開版とは断定しません。"
+    },
+    "features": {
+      "zh": "紫蓝渐变双马尾、蓝白运动风服装，随身物品上印有 SEED 与蓝紫渐变标志。",
+      "en": "Purple-blue gradient twin tails and a blue-and-white sporty outfit, with SEED and a blue-purple gradient mark on her gear.",
+      "ja": "紫青のグラデーションツインテール、青白のスポーティーな衣装。所持品に SEED と青紫グラデーションのマーク。"
+    },
+    "kind": "collected",
+    "style": "anime",
+    "official": false,
+    "author": "ZipZipPipe",
+    "authorUrl": "https://www.pixiv.net/users/18604994",
+    "source": "https://www.pixiv.net/artworks/148186519",
+    "sourceTitle": "AI娘化 · Pixiv",
+    "originalPublication": "https://www.pixiv.net/artworks/148186519",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "publisher",
+        "publication": "https://www.pixiv.net/artworks/148186519"
+      }
+    ],
+    "method": "upstream-ai-assisted",
+    "license": "LicenseRef-ZipZipPipe-NC",
+    "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+    "downloadable": true,
+    "bg": "#eef2fb",
+    "color": "#5a6fa8",
+    "verifiedAt": "2026-09-29",
+    "origin": "web-collected",
+    "preview": "collected/zipzippipe-doubao/portrait/preview.webp",
+    "assets": [
+      {
+        "id": "portrait",
+        "label": {
+          "zh": "作者发布的完整立绘",
+          "en": "Creator-published full portrait",
+          "ja": "作者公開の全身立ち絵"
+        }
+      }
+    ],
+    "provenanceNote": {
+      "zh": "作者主页、图集与独立原文件已核验。保留原始 JPG 白底，未抠图、重绘或生成新细节。",
+      "en": "Creator profile, collection and standalone original file verified. The original white-background JPEG is preserved without background removal, redrawing or generated detail.",
+      "ja": "作者プロフィール・作品集・個別原画像を確認。白背景の JPG 原本を保持し、背景除去・描き直し・細部生成は行っていません。"
+    },
+    "terms": {
+      "zh": "按作者原文取用：须署名 ZipZipPipe，不可商用。本站仅做等比缩放、留边和格式转换；未确认其他改绘许可。本图集除 DeepSeek 外的条目均不标作 CC BY-NC-SA，图集中的该协议说明专指 DeepSeek。",
+      "en": "Creator terms require credit to ZipZipPipe and prohibit commercial use. Atlas only resizes, pads and converts formats; broader adaptation permission is not established. Apart from DeepSeek, entries in this collection are not labeled CC BY-NC-SA: that statement in the collection specifically concerns DeepSeek.",
+      "ja": "作者の条件に従い ZipZipPipe のクレジットが必須で、商用利用は不可。縦横比を保つリサイズ・余白・形式変換のみを行い、それ以外の改変許可は未確認です。DeepSeek 以外の項目は CC BY-NC-SA とは表記しません。同声明は DeepSeek に関するものです。"
+    },
+    "licenseLabel": {
+      "zh": "署名 · 非商用（作者声明）",
+      "en": "Credit required · Non-commercial (creator terms)",
+      "ja": "作者表示必須・非商用（作者条件）"
+    }
+  },
+  {
+    "id": "zipzippipe-llama",
+    "entity": "llama",
+    "name": {
+      "zh": "Llama · ZipZipPipe",
+      "en": "Llama · ZipZipPipe",
+      "ja": "Llama · ZipZipPipe"
+    },
+    "description": {
+      "zh": "银白长发、羊驼耳与尾巴，米白卫衣与长裙，衣饰上的“∞”标识。",
+      "en": "Silver-white hair with llama ears and tail, an off-white hoodie and skirt, and “∞” marks on her clothing.",
+      "ja": "銀白色の長髪、リャマの耳と尾、生成りのパーカーとスカート、衣装の「∞」マーク。"
+    },
+    "story": {
+      "zh": "采集自 ZipZipPipe 本人发布的《AI娘化》图集第 14 张，作者文件尺寸为 3072 × 5504。公开整理指出该形象即 Meta 的羊驼角色；本站不把 llama.cpp 的吉祥物混入 Meta 条目。保留原文件，不声称该文件是作者的最早发布版本。",
+      "en": "Collected from image 14 of ZipZipPipe's own “AI娘化” collection at 3072 × 5504. Public write-ups identify this as Meta's llama character. Atlas keeps the llama.cpp mascot separate from the Meta entry.Original bytes are preserved; this is not a claim of earliest publication.",
+      "ja": "ZipZipPipe 本人の「AI娘化」第 14 枚を収集（3072 × 5504）。公開の整理記事では Meta のリャマキャラクターとされています。llama.cpp のマスコットとは区別します。原本を保存し、最初の公開版とは断定しません。"
+    },
+    "features": {
+      "zh": "银白长发、羊驼耳与尾巴，米白卫衣与长裙，衣饰上的“∞”标识。",
+      "en": "Silver-white hair with llama ears and tail, an off-white hoodie and skirt, and “∞” marks on her clothing.",
+      "ja": "銀白色の長髪、リャマの耳と尾、生成りのパーカーとスカート、衣装の「∞」マーク。"
+    },
+    "kind": "collected",
+    "style": "anime",
+    "official": false,
+    "author": "ZipZipPipe",
+    "authorUrl": "https://www.pixiv.net/users/18604994",
+    "source": "https://www.pixiv.net/artworks/148186519",
+    "sourceTitle": "AI娘化 · Pixiv",
+    "originalPublication": "https://www.pixiv.net/artworks/148186519",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "publisher",
+        "publication": "https://www.pixiv.net/artworks/148186519"
+      }
+    ],
+    "method": "upstream-ai-assisted",
+    "license": "LicenseRef-ZipZipPipe-NC",
+    "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+    "downloadable": true,
+    "bg": "#f7f2ea",
+    "color": "#8a7a62",
+    "verifiedAt": "2026-09-29",
+    "origin": "web-collected",
+    "preview": "collected/zipzippipe-llama/portrait/preview.webp",
+    "assets": [
+      {
+        "id": "portrait",
+        "label": {
+          "zh": "作者发布的完整立绘",
+          "en": "Creator-published full portrait",
+          "ja": "作者公開の全身立ち絵"
+        }
+      }
+    ],
+    "provenanceNote": {
+      "zh": "作者主页、图集与独立原文件已核验。保留原始 JPG 白底，未抠图、重绘或生成新细节。",
+      "en": "Creator profile, collection and standalone original file verified. The original white-background JPEG is preserved without background removal, redrawing or generated detail.",
+      "ja": "作者プロフィール・作品集・個別原画像を確認。白背景の JPG 原本を保持し、背景除去・描き直し・細部生成は行っていません。"
+    },
+    "terms": {
+      "zh": "按作者原文取用：须署名 ZipZipPipe，不可商用。本站仅做等比缩放、留边和格式转换；未确认其他改绘许可。本图集除 DeepSeek 外的条目均不标作 CC BY-NC-SA，图集中的该协议说明专指 DeepSeek。",
+      "en": "Creator terms require credit to ZipZipPipe and prohibit commercial use. Atlas only resizes, pads and converts formats; broader adaptation permission is not established. Apart from DeepSeek, entries in this collection are not labeled CC BY-NC-SA: that statement in the collection specifically concerns DeepSeek.",
+      "ja": "作者の条件に従い ZipZipPipe のクレジットが必須で、商用利用は不可。縦横比を保つリサイズ・余白・形式変換のみを行い、それ以外の改変許可は未確認です。DeepSeek 以外の項目は CC BY-NC-SA とは表記しません。同声明は DeepSeek に関するものです。"
     },
     "licenseLabel": {
       "zh": "署名 · 非商用（作者声明）",

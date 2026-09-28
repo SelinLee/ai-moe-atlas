@@ -10,13 +10,13 @@
 
 ## 初版
 
-- 中国語・英語・日本語の UI と項目。出典付き 24 項目、AI 製品・シリーズ 12 種の索引。
-- ダウンロード可能な 8 組、原本 14 枚、規格統一版 56 ファイル。その他は出典リンクのみ掲載。
+- 中国語・英語・日本語の UI と項目。出典付き 26 項目、AI 製品・シリーズ 12 種の索引。
+- ダウンロード可能な 13 組、原本 19 枚、規格統一版 76 ファイル。その他は出典リンクのみ掲載。
 - 原図、512 px PNG/WebP、256 px アイコン、1024 px 補間版、出典記録、利用条件を同梱。
 - ブラウザ内で余白・寸法・背景・縦横比・形式を調整。画像・原図・出典記録を ZIP で保存。画像のアップロードは行いません。
 - Bilibili と GitHub の検索結果は確認待ち一覧へ保存し、自動公開しません。
 
-上善无形の Bilibili 投稿、Small-tailqwq/dsh-deep-whale、[ZipZipPipe 本人の Pixiv 作品集](https://www.pixiv.net/artworks/148186519)から収集。従来の3組は **CC BY-NC-SA 4.0**。追加の GPT・Gemini・Claude・Kimi・Qwen の5組は作者の **クレジット必須・非商用** 条件に従い、DeepSeek の CC 許諾とは区別します。コードの MIT は第三者の画像には適用されません。
+上善无形の Bilibili 投稿、Small-tailqwq/dsh-deep-whale、[ZipZipPipe 本人の Pixiv 作品集](https://www.pixiv.net/artworks/148186519)から収集。従来の3組は **CC BY-NC-SA 4.0**。追加の GPT・Gemini・Claude・Kimi・Qwen・GLM・Grok・豆包・Llama・MiniMax の10組は作者の **クレジット必須・非商用** 条件に従い、DeepSeek の CC 許諾とは区別します。コードの MIT は第三者の画像には適用されません。
 
 ## 起動
 
@@ -59,6 +59,6 @@ main への push で検証・テスト・ビルド・GitHub Pages 公開を実�
 
 ## 対応範囲
 
-出典索引への掲載はダウンロード許可を意味しません。Bilibili の 9 種の AI 形象を索引化し、GPT・Gemini・Claude・Kimi・Qwen は作者の個別高解像度原画像を収集済みです。ペットアニメーション、動画のコマ抽出、自動切り抜き、AI 超解像は本版に含みません。数合わせのために形象を創作してはいけません。
+出典索引への掲載はダウンロード許可を意味しません。Bilibili の 9 種の AI 形象を索引化し、GPT・Gemini・Claude・Kimi・Qwen・GLM・Grok・豆包・Llama・MiniMax は作者の個別高解像度原画像を収集済みです。ペットアニメーション、動画のコマ抽出、自動切り抜き、AI 超解像は本版に含みません。数合わせのために形象を創作してはいけません。
 
 [各 AI の画像収集と再利用の確認記録](docs/BASELINES.ja.md)
