@@ -1,0 +1,32 @@
+export const discoveryText = {
+  zh: {
+    title: '你每天用的 AI，原来还有这些模样。',
+    intro: '发现不同作者笔下的 AI 角色，找到原作，并按每件作品的条件使用素材。',
+    featured: '从这些角色开始', browse: '浏览精选角色', catalog: '完整图鉴',
+    note: '不同作者的版本可以并存；这些形象不代表官方或唯一版本。',
+    indexed: '来源条目', display: '已核对本站展示用途', packs: '可下载素材包',
+    use: '在工坊中使用', share: '复制结果链接', copied: '结果链接已复制',
+    failed: '无法自动复制，请选中下方链接手动复制。', link: '当前筛选结果链接',
+    conditions: '展示条件',
+  },
+  en: {
+    title: 'Meet another side of the AI you use every day.',
+    intro: 'Discover AI characters by different artists, find their original work, and use assets under each artwork’s terms.',
+    featured: 'Start with these characters', browse: 'Browse featured characters', catalog: 'Full atlas',
+    note: 'Different artists’ versions coexist. These are neither official nor definitive designs.',
+    indexed: 'source entries', display: 'reviewed for atlas display', packs: 'downloadable packs',
+    use: 'Use in the studio', share: 'Copy results link', copied: 'Results link copied',
+    failed: 'Could not copy automatically. Select and copy the link below.', link: 'Current results link',
+    conditions: 'Display conditions',
+  },
+  ja: {
+    title: 'いつもの AI に、こんな姿も。',
+    intro: 'さまざまな作者が描く AI キャラクターと原作を見つけ、作品ごとの条件に従って素材を使えます。',
+    featured: 'まずはこちらのキャラクターから', browse: 'ピックアップを見る', catalog: 'すべての項目',
+    note: '作者ごとに異なる姿が存在します。公式や唯一のデザインを示すものではありません。',
+    indexed: '出典付き項目', display: '図鑑内の表示用途を確認済み', packs: 'ダウンロード可能な素材集',
+    use: '素材工房で使う', share: '検索結果のリンクをコピー', copied: '検索結果のリンクをコピーしました',
+    failed: '自動コピーできません。下のリンクを選択してコピーしてください。', link: '現在の検索結果リンク',
+    conditions: '表示条件',
+  },
+};

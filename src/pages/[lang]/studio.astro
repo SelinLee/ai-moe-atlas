@@ -1,22 +1,36 @@
 ---
+import { studioText } from '../../lib/studio-text';
+import { useReview } from '../../lib/usage';
 import { readFile } from 'node:fs/promises';
 import Layout from '../../layouts/Layout.astro';import {locales,t,type Locale} from '../../lib/i18n';import {collected} from '../../lib/data';import {path} from '../../lib/paths';
 export function getStaticPaths(){return locales.map(lang=>({params:{lang}}));}const lang=Astro.params.lang as Locale,s=t(lang);
-const options=await Promise.all(collected.map(async c=>({id:c.id,name:c.name[lang],manifest:JSON.parse(await readFile(`public/collected/${c.id}/manifest.json`,'utf8'))})));
-const labels={zh:{source:'原始发布链接（必填）',author:'原作者（必填）',terms:'使用条件或许可链接（必填）',required:'请补充原始发布链接、作者和使用条件后导出。'},en:{source:'Original publication URL (required)',author:'Original creator (required)',terms:'Usage terms or license link (required)',required:'Add the source URL, creator, and usage terms before export.'},ja:{source:'元の公開 URL（必須）',author:'原作者（必須）',terms:'利用条件・許諾 URL（必須）',required:'出典 URL・原作者・利用条件を入力してから書き出してください。'}}[lang];
+const options=await Promise.all(collected.map(async c=>({id:c.id,name:c.name[lang],review:useReview(c.id),manifest:JSON.parse(await readFile(`public/collected/${c.id}/manifest.json`,'utf8'))})));
+const labels=studioText[lang];
 ---
-<Layout lang={lang} title={s.studio} description={s.studioIntro} active="studio" route="studio/"><section class="page-heading"><div><p class="eyebrow">LOCAL IMAGE WORKSPACE</p><h1>{s.studioTitle}</h1><p class="lead">{s.studioIntro}</p></div></section>
- <div id="studio" data-config={JSON.stringify({lang,s,labels,options,base:path('')})} class="studio-layout">
-  <section class="panel studio-controls"><div class="form-group"><label for="character-select">{s.choose}</label><select id="character-select">{options.map(c=><option value={c.id}>{c.name}</option>)}</select></div><div class="form-group"><label for="pose-select">{s.selectExpression}</label><select id="pose-select"></select></div>
+<Layout lang={lang} title={s.studio} description={labels.intro} active="studio" route="studio/"><section class="page-heading"><div><p class="eyebrow">LOCAL IMAGE WORKSPACE</p><h1>{s.studioTitle}</h1><p class="lead">{labels.intro}</p></div></section>
+ <div id="studio" data-config={JSON.stringify({lang,s,labels,options,base:path(''),site:Astro.site!.href})} class="studio-layout">
+  <fieldset class="panel studio-controls" id="studio-controls"><div class="form-group"><label for="character-select">{s.choose}</label><select id="character-select">{options.map(c=><option value={c.id}>{c.name}</option>)}</select></div><div class="form-group"><label for="pose-select">{s.selectExpression}</label><select id="pose-select"></select></div>
    <label class="upload-box" for="upload">{s.upload}<span>{s.uploadHint}</span><span id="upload-name"></span><input id="upload" type="file" accept="image/png,image/jpeg,image/webp"/></label>
-   <div id="local-source-fields" hidden><div class="form-group"><label for="source-url">{labels.source}</label><input id="source-url" type="url" placeholder="https://…"/></div><div class="form-group"><label for="source-author">{labels.author}</label><input id="source-author" type="text"/></div><div class="form-group"><label for="source-terms">{labels.terms}</label><input id="source-terms" type="text"/></div></div>
+   <div id="local-source-fields" hidden>
+    <div class="form-group"><label for="source-type">{labels.sourceType}</label><select id="source-type"><option value="public-source">{labels.publicSource}</option><option value="unpublished-original">{labels.unpublished}</option></select></div>
+    <div class="form-group" id="source-url-field"><label for="source-url">{labels.source}</label><input id="source-url" type="url" maxlength="2048" placeholder="https://…"/></div>
+    <div class="form-group"><label for="source-author">{labels.author}</label><input id="source-author" type="text" maxlength="80"/></div>
+    <div class="form-group"><label for="source-terms">{labels.terms}</label><textarea id="source-terms" rows="3" maxlength="300"></textarea></div>
+    <label class="studio-check" id="original-confirm-field" hidden><input id="original-confirm" type="checkbox"/>{labels.originalConfirm}</label>
+    <label class="studio-check" id="composition-consent-field"><input id="composition-consent" type="checkbox"/>{labels.compositionConsent}</label>
+    <p class="subtle">{labels.unverified}</p>
+    <p class="subtle">{labels.localSession}</p>
+   </div>
+   <div class="form-group"><label for="preset">{labels.purpose}</label><select id="preset"><option value="full-portrait">{labels.full}</option><option value="avatar-canvas">{labels.avatar}</option><option value="intro-card">{labels.card}</option><option value="custom">{labels.custom}</option></select><p class="subtle">{labels.unavailable}</p><p class="subtle" id="preset-conditions"></p></div>
+   <div class="form-group" id="card-title-field" hidden><label for="card-title">{labels.title}</label><input id="card-title" type="text" maxlength="80"/><p class="subtle">{labels.titleHint}</p></div>
+   <details id="advanced-settings"><summary>{labels.advanced}</summary><p class="subtle">{labels.presetNote}</p><div class="studio-advanced">
    <div class="form-group"><label for="shape">{s.shape}</label><select id="shape"><option value="square">{s.square}</option><option value="circle">{s.circle}</option><option value="portrait">{s.portrait}</option></select></div>
    <div class="form-group"><label for="size">{s.size}</label><select id="size"><option value="256">256 px</option><option value="512" selected>512 px</option><option value="1024">1024 px</option><option value="2048">2048 px</option></select></div>
    <div class="form-group"><label for="padding">{s.padding} <output id="padding-value">12%</output></label><input id="padding" type="range" min="0" max="30" value="12"/></div>
    <div class="form-group"><label for="background">{s.background}</label><select id="background"><option value="transparent">{s.transparentOption}</option><option value="#ffffff">{s.white}</option><option value="#e5f3e8">{s.mint}</option><option value="#183e31">{s.ink}</option><option value="custom">{s.custom}</option></select><input id="custom-color" aria-label={s.custom} type="color" value="#d9eafa" hidden/></div>
-   <div class="form-group"><label for="format">{s.format}</label><select id="format"><option value="png">PNG</option><option value="webp">WebP</option><option value="jpeg">JPEG</option></select></div><button id="reset" class="button secondary">{s.reset}</button>
-  </section>
-  <section class="studio-preview"><div class="canvas-stage alpha"><canvas id="canvas" width="512" height="512" aria-label={s.displayBg}></canvas></div><div class="preview-toolbar"><span id="native-size"></span><strong id="output-size">512 × 512</strong></div><a id="source-link" class="provenance-link" href="#">{s.openSource} ↗</a><div class="button-row"><button id="export-pack" class="button" disabled>{s.manifestDownload}</button></div><p class="subtle">{s.changesText}</p><p id="jpeg-note" class="notice" hidden>{s.jpegNote}</p><p id="upscale-note" class="notice" hidden>{s.upscaleNote}</p><p class="status" id="studio-status" role="status" aria-live="polite">{s.processing}</p><p class="subtle">{s.localNote}</p><p id="usage-note" class="notice">{s.rightsText}</p></section>
+   <div class="form-group"><label for="format">{s.format}</label><select id="format"><option value="png">PNG</option><option value="webp">WebP</option><option value="jpeg">JPEG</option></select></div></div></details><button id="reset" class="button secondary">{s.reset}</button>
+  </fieldset>
+  <section class="studio-preview"><div class="canvas-stage alpha"><canvas id="canvas" width="512" height="512" aria-label={s.displayBg}></canvas></div><div class="preview-toolbar"><span id="native-size"></span><strong id="output-size">512 × 512</strong></div><a id="source-link" class="provenance-link" href="#">{s.openSource} ↗</a><div class="button-row"><button id="export-pack" class="button" disabled>{labels.export}</button></div><p class="subtle">{labels.contains}</p><p class="subtle">{labels.result}</p><p id="jpeg-note" class="notice" hidden>{s.jpegNote}</p><p id="upscale-note" class="notice" hidden>{s.upscaleNote}</p><p class="status" id="studio-status" role="status" aria-live="polite">{s.processing}</p><p class="subtle">{s.localNote}</p><p id="usage-note" class="notice">{s.rightsText}</p><section class="studio-credit"><h2>{labels.credit}</h2><pre id="export-credit" class="copy-credit" tabindex="0"></pre><button id="copy-export-credit" class="button secondary">{labels.copy}</button><p id="credit-status" role="status" class="status"></p></section></section>
  </div>
 </Layout>
 <script>import '../../scripts/studio';</script>

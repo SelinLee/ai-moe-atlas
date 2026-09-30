@@ -14,6 +14,8 @@
     "validate": "node scripts/validate.mjs",
     "test": "node --test tests/*.test.mjs",
     "test:browser": "node tests/browser.mjs",
+    "test:studio": "node tests/studio-browser.mjs",
+    "test:contribute": "node tests/contribute-browser.mjs",
     "collect": "node scripts/collect.mjs",
     "discover": "node scripts/discover.mjs"
   },

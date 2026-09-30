@@ -5,6 +5,9 @@ import { path, repo } from '../lib/paths';
 import Icon from '../components/Icon.astro';
 const { lang, title, description, active = 'atlas', route = '' } = Astro.props as {lang: Locale;title: string;description?: string;active?: string;route?: string};
 const s = t(lang);
+const pageURL = new URL(path(`${lang}/${route}`), Astro.site);
+const coverId = route.startsWith('characters/') ? route.split('/')[1] : 'index';
+const imageURL = new URL(path(`og/${lang}/${coverId}.png`), Astro.site);
 const nav = [{key:'atlas',url:''},{key:'assets',url:'assets/'},{key:'studio',url:'studio/'},{key:'models',url:'models/'},{key:'collectionFlow',url:'collection/'}] as const;
 ---
 <!doctype html>
@@ -13,9 +16,12 @@ const nav = [{key:'atlas',url:''},{key:'assets',url:'assets/'},{key:'studio',url
     <meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/>
     <title>{title} · {s.brand}</title><meta name="description" content={description ?? s.intro}/>
     <meta name="theme-color" content="#166b50"/><link rel="icon" type="image/svg+xml" href={path('favicon.svg')}/>
-    <link rel="canonical" href={`https://selinlee.github.io${path(`${lang}/${route}`)}`}/>
-    {locales.map(l => <link rel="alternate" hreflang={htmlLang[l]} href={`https://selinlee.github.io${path(`${l}/${route}`)}`}/>)}
+    <link rel="canonical" href={pageURL}/>
+    {locales.map(l => <link rel="alternate" hreflang={htmlLang[l]} href={new URL(path(`${l}/${route}`), Astro.site)}/>)}
     <meta property="og:title" content={`${title} · ${s.brand}`}/><meta property="og:description" content={description ?? s.intro}/><meta property="og:type" content="website"/>
+    <meta property="og:url" content={pageURL}/><meta property="og:image" content={imageURL}/>
+    <meta property="og:image:width" content="1200"/><meta property="og:image:height" content="630"/><meta property="og:image:type" content="image/png"/><meta property="og:image:alt" content={title}/>
+    <meta name="twitter:card" content="summary_large_image"/>
   </head>
   <body>
     <a class="skip" href="#main">{s.keyboard}</a>

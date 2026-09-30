@@ -1,0 +1,2398 @@
+[
+  {
+    "characterId": "shangshan-whale",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [
+      {
+        "assetId": "portrait",
+        "sha256": "527b8911e690686424415991ffeb2f9e979b5f2b87b4c56640599ec9928d9940"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://www.bilibili.com/opus/1231977657712771073",
+        "localPath": "collected/shangshan-whale/evidence/source-statement-1.json",
+        "sha256": "5b7cb7fcd7494451ab0e25b09391d2cf3f017a71845a6e9f1447f75edbdd8ce8"
+      }
+    ],
+    "evidenceUrl": "https://www.bilibili.com/opus/1231977657712771073",
+    "attribution": [
+      {
+        "name": "上善无形",
+        "url": "https://space.bilibili.com/4456176",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1231977657712771073"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "仅在本站非商业图鉴中完整展示，保留作者链、原作入口与逐件使用条件；本站预览仅等比缩放、留白和格式转换。其他用途需另行核验。",
+          "en": "Full-image display in this non-commercial atlas only, with the creator chain, original link and artwork-specific terms. Previews only resize, pad and convert formats. Other uses require a separate review.",
+          "ja": "本非商用図鑑で画像全体を表示し、作者チェーン・原作リンク・作品別の利用条件を保持。プレビューは比率維持のリサイズ・余白・形式変換のみ。他の用途は別途確認が必要です。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "full-portrait": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "intro-card": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "仅限非商业介绍卡：完整作品区与用户标题、署名区分开，不覆盖或裁切作品；保留完整作者链、原作链接、CC BY-NC-SA 4.0链接、既有加工说明与本次排版标记；本次排版按相同许可共享，不声称官方设定。",
+          "en": "Non-commercial introduction card only: keep the complete artwork separate from a user title and credits, without overlays or cropping. Retain all creators, original URL, CC BY-NC-SA 4.0 link, prior processing notices and the new layout record. Share this layout under the same license; do not claim official lore.",
+          "ja": "非商用の紹介カードのみ。画像全体とユーザーの見出し・クレジットを分離し、重ね描きや切り取りをしません。作者チェーン・原作URL・CC BY-NC-SA 4.0のリンク・既存の加工説明・今回のレイアウト記録を保持。同じ許諾で共有し、公式設定とは称しません。"
+        },
+        "reviewNote": "Specific non-commercial title/artwork/credit layout checked against retained artwork CC BY-NC-SA 4.0 statement and attribution chain. Original artwork remains complete; layout uses the same license."
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      }
+    }
+  },
+  {
+    "characterId": "deep-whale-orca",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [
+      {
+        "assetId": "repair",
+        "sha256": "99b4fba4390c0281193c104f62716c9f1c043ba09434bbfaabb90c70bf81e538"
+      },
+      {
+        "assetId": "light-hero",
+        "sha256": "b97e6a7dfda452743e4a65fefc9723a07b0a27da4b07ddd024e2f5d3dd83931c"
+      },
+      {
+        "assetId": "dark-hero",
+        "sha256": "56ee82ee4ae67edb4de9114cfb82ba6032dadb76dede6a8bae8e3d6037de479b"
+      },
+      {
+        "assetId": "light-active",
+        "sha256": "6d3c2361211195f632443cf721b651fe649463c49445aea4680e03a1bb7060ad"
+      },
+      {
+        "assetId": "dark-active",
+        "sha256": "a7353043b98e58cabcfb6be9f4dda0e780f9e0c09120c7a9519d300c01c07efd"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/NOTICE",
+        "localPath": "collected/deep-whale-orca/evidence/NOTICE.txt",
+        "sha256": "16f50a94def15c32922eb16cdf1a6a7371887ea1c92cddde215ba4e012464022"
+      },
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/LICENSE-ARTWORK",
+        "localPath": "collected/deep-whale-orca/evidence/LICENSE-ARTWORK.txt",
+        "sha256": "52de7059eb8d02acd9ad8bb5e3a8d3b3e4f018c9c0826bd676483e54de31345e"
+      }
+    ],
+    "evidenceUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/orca-link/LICENSE-ARTWORK",
+    "attribution": [
+      {
+        "name": "上善无形",
+        "url": "https://space.bilibili.com/4456176",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1231977657712771073"
+      },
+      {
+        "name": "Small-tailqwq",
+        "url": "https://github.com/Small-tailqwq",
+        "role": "published-adaptation"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "仅在本站非商业图鉴中完整展示，保留作者链、原作入口与逐件使用条件；本站预览仅等比缩放、留白和格式转换。其他用途需另行核验。",
+          "en": "Full-image display in this non-commercial atlas only, with the creator chain, original link and artwork-specific terms. Previews only resize, pad and convert formats. Other uses require a separate review.",
+          "ja": "本非商用図鑑で画像全体を表示し、作者チェーン・原作リンク・作品別の利用条件を保持。プレビューは比率維持のリサイズ・余白・形式変換のみ。他の用途は別途確認が必要です。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "full-portrait": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "intro-card": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "仅限非商业介绍卡：完整作品区与用户标题、署名区分开，不覆盖或裁切作品；保留完整作者链、原作链接、CC BY-NC-SA 4.0链接、既有加工说明与本次排版标记；本次排版按相同许可共享，不声称官方设定。",
+          "en": "Non-commercial introduction card only: keep the complete artwork separate from a user title and credits, without overlays or cropping. Retain all creators, original URL, CC BY-NC-SA 4.0 link, prior processing notices and the new layout record. Share this layout under the same license; do not claim official lore.",
+          "ja": "非商用の紹介カードのみ。画像全体とユーザーの見出し・クレジットを分離し、重ね描きや切り取りをしません。作者チェーン・原作URL・CC BY-NC-SA 4.0のリンク・既存の加工説明・今回のレイアウト記録を保持。同じ許諾で共有し、公式設定とは称しません。"
+        },
+        "reviewNote": "Specific non-commercial title/artwork/credit layout checked against retained artwork CC BY-NC-SA 4.0 statement and attribution chain. Original artwork remains complete; layout uses the same license."
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      }
+    }
+  },
+  {
+    "characterId": "deep-whale-maid",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [
+      {
+        "assetId": "delighted",
+        "sha256": "5f8149d52b8cbdba7b5efeacbda9d1abd9c55a1ee129551b476540452ad83ec9"
+      },
+      {
+        "assetId": "determined",
+        "sha256": "85628c8003043147248eeeb6ba425975c7873b08cf5da498b4ac4b9f452000d5"
+      },
+      {
+        "assetId": "sleepy",
+        "sha256": "4dd731cad7b132fb47f4fedd6848efbf21b8c5acb792a9c56bc25b421a0ab3e0"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/NOTICE",
+        "localPath": "collected/deep-whale-maid/evidence/NOTICE.txt",
+        "sha256": "2da2c0db4b335b13b9f24e609d688b25cad0f94a0bf41d354114e0b53e904c3f"
+      },
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/LICENSE-ARTWORK",
+        "localPath": "collected/deep-whale-maid/evidence/LICENSE-ARTWORK.txt",
+        "sha256": "52de7059eb8d02acd9ad8bb5e3a8d3b3e4f018c9c0826bd676483e54de31345e"
+      }
+    ],
+    "evidenceUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/LICENSE-ARTWORK",
+    "attribution": [
+      {
+        "name": "上善无形",
+        "url": "https://space.bilibili.com/4456176",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1231977657712771073"
+      },
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "secondary-design",
+        "publication": "https://t.bilibili.com/1231980045693616162"
+      },
+      {
+        "name": "Small-tailqwq",
+        "url": "https://github.com/Small-tailqwq",
+        "role": "published-adaptation"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "仅在本站非商业图鉴中完整展示，保留作者链、原作入口与逐件使用条件；本站预览仅等比缩放、留白和格式转换。其他用途需另行核验。",
+          "en": "Full-image display in this non-commercial atlas only, with the creator chain, original link and artwork-specific terms. Previews only resize, pad and convert formats. Other uses require a separate review.",
+          "ja": "本非商用図鑑で画像全体を表示し、作者チェーン・原作リンク・作品別の利用条件を保持。プレビューは比率維持のリサイズ・余白・形式変換のみ。他の用途は別途確認が必要です。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "full-portrait": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "intro-card": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "仅限非商业介绍卡：完整作品区与用户标题、署名区分开，不覆盖或裁切作品；保留完整作者链、原作链接、CC BY-NC-SA 4.0链接、既有加工说明与本次排版标记；本次排版按相同许可共享，不声称官方设定。",
+          "en": "Non-commercial introduction card only: keep the complete artwork separate from a user title and credits, without overlays or cropping. Retain all creators, original URL, CC BY-NC-SA 4.0 link, prior processing notices and the new layout record. Share this layout under the same license; do not claim official lore.",
+          "ja": "非商用の紹介カードのみ。画像全体とユーザーの見出し・クレジットを分離し、重ね描きや切り取りをしません。作者チェーン・原作URL・CC BY-NC-SA 4.0のリンク・既存の加工説明・今回のレイアウト記録を保持。同じ許諾で共有し、公式設定とは称しません。"
+        },
+        "reviewNote": "Specific non-commercial title/artwork/credit layout checked against retained artwork CC BY-NC-SA 4.0 statement and attribution chain. Original artwork remains complete; layout uses the same license."
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      }
+    }
+  },
+  {
+    "characterId": "openpet-deepseek",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/AwesomeHou/openpet-ai-girls/tree/main/deepseek",
+    "attribution": [
+      {
+        "name": "AwesomeHou",
+        "url": "https://github.com/AwesomeHou",
+        "role": "publisher"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "openpet-doubao",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/AwesomeHou/openpet-ai-girls/tree/main/doubao",
+    "attribution": [
+      {
+        "name": "AwesomeHou",
+        "url": "https://github.com/AwesomeHou",
+        "role": "publisher"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "openpet-gemini",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/AwesomeHou/openpet-ai-girls/tree/main/gemini",
+    "attribution": [
+      {
+        "name": "AwesomeHou",
+        "url": "https://github.com/AwesomeHou",
+        "role": "publisher"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "openpet-chatgpt",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/AwesomeHou/openpet-ai-girls/tree/main/chatgpt",
+    "attribution": [
+      {
+        "name": "AwesomeHou",
+        "url": "https://github.com/AwesomeHou",
+        "role": "publisher"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "openpet-claude",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/AwesomeHou/openpet-ai-girls/tree/main/claude",
+    "attribution": [
+      {
+        "name": "AwesomeHou",
+        "url": "https://github.com/AwesomeHou",
+        "role": "publisher"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "clawd-desktop",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/KebeliSamet0/clawd",
+    "attribution": [
+      {
+        "name": "KebeliSamet0",
+        "url": "https://github.com/KebeliSamet0",
+        "role": "publisher"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "dayu-whale",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/YunYueSama/codex-deepseek-pet",
+    "attribution": [
+      {
+        "name": "YunYueSama",
+        "url": "https://github.com/YunYueSama",
+        "role": "publisher"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "yamamemo-chatgpt",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://zenn.dev/yamamemo/articles/gen-ai-personification#chatgpt",
+    "attribution": [
+      {
+        "name": "yamamemo",
+        "url": "https://zenn.dev/yamamemo",
+        "role": "publisher"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "yamamemo-gemini",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://zenn.dev/yamamemo/articles/gen-ai-personification#gemini",
+    "attribution": [
+      {
+        "name": "yamamemo",
+        "url": "https://zenn.dev/yamamemo",
+        "role": "publisher"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "yamamemo-claude",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://zenn.dev/yamamemo/articles/gen-ai-personification#claude",
+    "attribution": [
+      {
+        "name": "yamamemo",
+        "url": "https://zenn.dev/yamamemo",
+        "role": "publisher"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "yamamemo-grok",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://zenn.dev/yamamemo/articles/gen-ai-personification#grok",
+    "attribution": [
+      {
+        "name": "yamamemo",
+        "url": "https://zenn.dev/yamamemo",
+        "role": "publisher"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "yamamemo-copilot",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://zenn.dev/yamamemo/articles/gen-ai-personification#microsoft-copilot",
+    "attribution": [
+      {
+        "name": "yamamemo",
+        "url": "https://zenn.dev/yamamemo",
+        "role": "publisher"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "zipzippipe-deepseek",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "publisher"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "zipzippipe-gemini",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [
+      {
+        "assetId": "portrait",
+        "sha256": "1353cf80c62b1841f0b59671a693aef945a297c586c9ad32f1a36efc5e3e15ab"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://www.pixiv.net/artworks/148186519",
+        "localPath": "collected/zipzippipe-gemini/evidence/source-statement-1.json",
+        "sha256": "bbfafef30b547a95a8b4d730cf822042e9be74c99ddefe241864e2eee1719065"
+      }
+    ],
+    "evidenceUrl": "https://www.pixiv.net/artworks/148186519",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "publisher",
+        "publication": "https://www.pixiv.net/artworks/148186519"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "仅在本站非商业图鉴中完整展示，保留作者链、原作入口与逐件使用条件；本站预览仅等比缩放、留白和格式转换。其他用途需另行核验。",
+          "en": "Full-image display in this non-commercial atlas only, with the creator chain, original link and artwork-specific terms. Previews only resize, pad and convert formats. Other uses require a separate review.",
+          "ja": "本非商用図鑑で画像全体を表示し、作者チェーン・原作リンク・作品別の利用条件を保持。プレビューは比率維持のリサイズ・余白・形式変換のみ。他の用途は別途確認が必要です。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "full-portrait": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      }
+    }
+  },
+  {
+    "characterId": "zipzippipe-claude",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [
+      {
+        "assetId": "portrait",
+        "sha256": "6fb3d6568ccd23cea1437226947276ab052bcdd47d6b7d55d8b5ca148c779782"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://www.pixiv.net/artworks/148186519",
+        "localPath": "collected/zipzippipe-claude/evidence/source-statement-1.json",
+        "sha256": "be1322bb3502754025abed0c967273585cc311a4c10aeae7c150bf9b72371ce3"
+      }
+    ],
+    "evidenceUrl": "https://www.pixiv.net/artworks/148186519",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "publisher",
+        "publication": "https://www.pixiv.net/artworks/148186519"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "仅在本站非商业图鉴中完整展示，保留作者链、原作入口与逐件使用条件；本站预览仅等比缩放、留白和格式转换。其他用途需另行核验。",
+          "en": "Full-image display in this non-commercial atlas only, with the creator chain, original link and artwork-specific terms. Previews only resize, pad and convert formats. Other uses require a separate review.",
+          "ja": "本非商用図鑑で画像全体を表示し、作者チェーン・原作リンク・作品別の利用条件を保持。プレビューは比率維持のリサイズ・余白・形式変換のみ。他の用途は別途確認が必要です。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "full-portrait": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      }
+    }
+  },
+  {
+    "characterId": "zipzippipe-chatgpt",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [
+      {
+        "assetId": "portrait",
+        "sha256": "c47948cd25efcf7ad4a5179288c8452445d57d6dfc379fb27ab6e809a6970157"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://www.pixiv.net/artworks/148186519",
+        "localPath": "collected/zipzippipe-chatgpt/evidence/source-statement-1.json",
+        "sha256": "f42138b5a6fcc812ded6114b6895f5a8dd1ef312e585972cf21473b62d52fde7"
+      }
+    ],
+    "evidenceUrl": "https://www.pixiv.net/artworks/148186519",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "publisher",
+        "publication": "https://www.pixiv.net/artworks/148186519"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "仅在本站非商业图鉴中完整展示，保留作者链、原作入口与逐件使用条件；本站预览仅等比缩放、留白和格式转换。其他用途需另行核验。",
+          "en": "Full-image display in this non-commercial atlas only, with the creator chain, original link and artwork-specific terms. Previews only resize, pad and convert formats. Other uses require a separate review.",
+          "ja": "本非商用図鑑で画像全体を表示し、作者チェーン・原作リンク・作品別の利用条件を保持。プレビューは比率維持のリサイズ・余白・形式変換のみ。他の用途は別途確認が必要です。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "full-portrait": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      }
+    }
+  },
+  {
+    "characterId": "zipzippipe-grok",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [
+      {
+        "assetId": "portrait",
+        "sha256": "a5a4b4c95f905034b64bf80237f1b859ade0e6e31cadf4db40f9642124e171bb"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://www.pixiv.net/artworks/148186519",
+        "localPath": "collected/zipzippipe-grok/evidence/source-statement-1.json",
+        "sha256": "f14c6b3651a7f25284435c40748a0faa860473630fa4890eb4474397bf57c0c9"
+      }
+    ],
+    "evidenceUrl": "https://www.pixiv.net/artworks/148186519",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "publisher",
+        "publication": "https://www.pixiv.net/artworks/148186519"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "仅在本站非商业图鉴中完整展示，保留作者链、原作入口与逐件使用条件；本站预览仅等比缩放、留白和格式转换。其他用途需另行核验。",
+          "en": "Full-image display in this non-commercial atlas only, with the creator chain, original link and artwork-specific terms. Previews only resize, pad and convert formats. Other uses require a separate review.",
+          "ja": "本非商用図鑑で画像全体を表示し、作者チェーン・原作リンク・作品別の利用条件を保持。プレビューは比率維持のリサイズ・余白・形式変換のみ。他の用途は別途確認が必要です。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "full-portrait": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      }
+    }
+  },
+  {
+    "characterId": "zipzippipe-glm",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [
+      {
+        "assetId": "portrait",
+        "sha256": "b15ddcb0cc9308087182da75e65e77b3ed14b8d20278b36f76e4712d2df965b8"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://www.pixiv.net/artworks/148186519",
+        "localPath": "collected/zipzippipe-glm/evidence/source-statement-1.json",
+        "sha256": "84ff09a3d135bf6f2fc38be7fd7470a7645ab3c2a2889b8dc161a6b60a5e6312"
+      }
+    ],
+    "evidenceUrl": "https://www.pixiv.net/artworks/148186519",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "publisher",
+        "publication": "https://www.pixiv.net/artworks/148186519"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "仅在本站非商业图鉴中完整展示，保留作者链、原作入口与逐件使用条件；本站预览仅等比缩放、留白和格式转换。其他用途需另行核验。",
+          "en": "Full-image display in this non-commercial atlas only, with the creator chain, original link and artwork-specific terms. Previews only resize, pad and convert formats. Other uses require a separate review.",
+          "ja": "本非商用図鑑で画像全体を表示し、作者チェーン・原作リンク・作品別の利用条件を保持。プレビューは比率維持のリサイズ・余白・形式変換のみ。他の用途は別途確認が必要です。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "full-portrait": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      }
+    }
+  },
+  {
+    "characterId": "zipzippipe-kimi",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [
+      {
+        "assetId": "portrait",
+        "sha256": "14eb96127c1c7233d3b649f946decdfd8eebb169da2b357b928dd301624186a7"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://www.pixiv.net/artworks/148186519",
+        "localPath": "collected/zipzippipe-kimi/evidence/source-statement-1.json",
+        "sha256": "72e15d444029b4cefedde6877fff5d19bbf7eed8bfeb5f5020e56235e6c9dd36"
+      }
+    ],
+    "evidenceUrl": "https://www.pixiv.net/artworks/148186519",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "publisher",
+        "publication": "https://www.pixiv.net/artworks/148186519"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "仅在本站非商业图鉴中完整展示，保留作者链、原作入口与逐件使用条件；本站预览仅等比缩放、留白和格式转换。其他用途需另行核验。",
+          "en": "Full-image display in this non-commercial atlas only, with the creator chain, original link and artwork-specific terms. Previews only resize, pad and convert formats. Other uses require a separate review.",
+          "ja": "本非商用図鑑で画像全体を表示し、作者チェーン・原作リンク・作品別の利用条件を保持。プレビューは比率維持のリサイズ・余白・形式変換のみ。他の用途は別途確認が必要です。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "full-portrait": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      }
+    }
+  },
+  {
+    "characterId": "zipzippipe-minimax",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [
+      {
+        "assetId": "portrait",
+        "sha256": "04febfc86453a5668d20cf2f2bc8ec5e80c5baeb4260df52f705a7926f9001a5"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://www.pixiv.net/artworks/148186519",
+        "localPath": "collected/zipzippipe-minimax/evidence/source-statement-1.json",
+        "sha256": "6594e853429450190366c95914c9ef3c1951ff4e5b2b9acb42f694d54346ef60"
+      }
+    ],
+    "evidenceUrl": "https://www.pixiv.net/artworks/148186519",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "publisher",
+        "publication": "https://www.pixiv.net/artworks/148186519"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "仅在本站非商业图鉴中完整展示，保留作者链、原作入口与逐件使用条件；本站预览仅等比缩放、留白和格式转换。其他用途需另行核验。",
+          "en": "Full-image display in this non-commercial atlas only, with the creator chain, original link and artwork-specific terms. Previews only resize, pad and convert formats. Other uses require a separate review.",
+          "ja": "本非商用図鑑で画像全体を表示し、作者チェーン・原作リンク・作品別の利用条件を保持。プレビューは比率維持のリサイズ・余白・形式変換のみ。他の用途は別途確認が必要です。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "full-portrait": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      }
+    }
+  },
+  {
+    "characterId": "zipzippipe-qwen",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [
+      {
+        "assetId": "portrait",
+        "sha256": "3dfe6fafc0531d1bf3fd0a72556c91d53253b377ac52355bb127e54020d55114"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://www.pixiv.net/artworks/148186519",
+        "localPath": "collected/zipzippipe-qwen/evidence/source-statement-1.json",
+        "sha256": "ded47cefb274be5cffed26c7b9569ec0e41b94437c1bd5f8043ff119be43a4ee"
+      }
+    ],
+    "evidenceUrl": "https://www.pixiv.net/artworks/148186519",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "publisher",
+        "publication": "https://www.pixiv.net/artworks/148186519"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "仅在本站非商业图鉴中完整展示，保留作者链、原作入口与逐件使用条件；本站预览仅等比缩放、留白和格式转换。其他用途需另行核验。",
+          "en": "Full-image display in this non-commercial atlas only, with the creator chain, original link and artwork-specific terms. Previews only resize, pad and convert formats. Other uses require a separate review.",
+          "ja": "本非商用図鑑で画像全体を表示し、作者チェーン・原作リンク・作品別の利用条件を保持。プレビューは比率維持のリサイズ・余白・形式変換のみ。他の用途は別途確認が必要です。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "full-portrait": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      }
+    }
+  },
+  {
+    "characterId": "zipzippipe-doubao",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [
+      {
+        "assetId": "portrait",
+        "sha256": "a923dd580c161ecb0f869b8c0457deaece480a74d0f0f00e4abadf55521d99ce"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://www.pixiv.net/artworks/148186519",
+        "localPath": "collected/zipzippipe-doubao/evidence/source-statement-1.json",
+        "sha256": "b7f058ef7a9eeaefd69eaac243df2fbc641781effb88a23fa3cbc98df5b6a3ba"
+      }
+    ],
+    "evidenceUrl": "https://www.pixiv.net/artworks/148186519",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "publisher",
+        "publication": "https://www.pixiv.net/artworks/148186519"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "仅在本站非商业图鉴中完整展示，保留作者链、原作入口与逐件使用条件；本站预览仅等比缩放、留白和格式转换。其他用途需另行核验。",
+          "en": "Full-image display in this non-commercial atlas only, with the creator chain, original link and artwork-specific terms. Previews only resize, pad and convert formats. Other uses require a separate review.",
+          "ja": "本非商用図鑑で画像全体を表示し、作者チェーン・原作リンク・作品別の利用条件を保持。プレビューは比率維持のリサイズ・余白・形式変換のみ。他の用途は別途確認が必要です。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "full-portrait": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      }
+    }
+  },
+  {
+    "characterId": "zipzippipe-llama",
+    "reviewedAt": "2026-09-29",
+    "reviewBasis": "retained-evidence-only; no new creator contact or live verification",
+    "artworks": [
+      {
+        "assetId": "portrait",
+        "sha256": "efe928d775e432353cd9067a54f4fe4cf5a5bf7a9dd3611b27fb9f2b3867a120"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://www.pixiv.net/artworks/148186519",
+        "localPath": "collected/zipzippipe-llama/evidence/source-statement-1.json",
+        "sha256": "4e59fa2db092637a0640250f3d298a72240d804c9a62a94d60c911fe36c6a478"
+      }
+    ],
+    "evidenceUrl": "https://www.pixiv.net/artworks/148186519",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "publisher",
+        "publication": "https://www.pixiv.net/artworks/148186519"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "仅在本站非商业图鉴中完整展示，保留作者链、原作入口与逐件使用条件；本站预览仅等比缩放、留白和格式转换。其他用途需另行核验。",
+          "en": "Full-image display in this non-commercial atlas only, with the creator chain, original link and artwork-specific terms. Previews only resize, pad and convert formats. Other uses require a separate review.",
+          "ja": "本非商用図鑑で画像全体を表示し、作者チェーン・原作リンク・作品別の利用条件を保持。プレビューは比率維持のリサイズ・余白・形式変換のみ。他の用途は別途確認が必要です。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "full-portrait": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-09-29",
+        "conditions": {
+          "zh": "允许非商业完整图像等比适配、留白及格式转换；头像为512×512，立绘为768×1024（含独立署名区），可调整技术参数。不得裁脸、重绘或新增角色内容。成品保留作者链、原作入口、作品条件与技术处理标记，原图和证据随包保留。",
+          "en": "Non-commercial full-image fitting, padding and format conversion: 512×512 avatar or 768×1024 portrait including a separate credit area; technical settings may vary. No face cropping, repainting or new character content. Keep creator credits, original link, artwork terms and processing marks in the image, and originals and evidence in the pack.",
+          "ja": "非商用で画像全体の比率維持リサイズ・余白・形式変換を行えます。512×512のアイコンまたは768×1024の立ち絵（別領域のクレジットを含む）で技術設定の変更可。顔の切り取り・描き直し・内容追加は不可。作者・原作リンク・条件・加工表示を画像に残し、原本と根拠を同梱します。"
+        },
+        "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
+      }
+    }
+  }
+]

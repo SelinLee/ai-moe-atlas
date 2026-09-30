@@ -1,0 +1,49 @@
+name: Rights confirmation / 用途确认 / 利用確認
+description: Confirm or correct the credit, original link, and specific permitted uses of a listed work.
+title: '[Rights] '
+labels: ['rights']
+body:
+  - type: markdown
+    attributes:
+      value: |
+        For creators, rights holders, or their representatives.
+        This form records a permission statement; a maintainer verifies it before any use record changes.
+        Do not include private identity documents or sensitive personal data in a public issue.
+  - type: input
+    id: entry
+    attributes:
+      label: Entry URL / 条目链接 / 項目 URL
+      description: The atlas page for the work you are referring to.
+    validations:
+      required: true
+  - type: input
+    id: role
+    attributes:
+      label: Your role / 你的身份 / あなたの立場
+      description: "creator (原作者・権利者), representative (代理・代理人), or user (使用者・利用者). Confirm your role before submitting."
+    validations:
+      required: true
+  - type: textarea
+    id: scope
+    attributes:
+      label: Uses covered by this statement / 本声明涵盖的用途 / 対象となる用途
+      description: Pre-filled from the form. Edit freely. Unlisted uses stay unconfirmed.
+  - type: input
+    id: decision
+    attributes:
+      label: Decision / 结论 / 結論
+      description: "allowed (允许附条件・条件付きで許可), prohibited (不允许・許可しない), or unconfirmed (暂不确认・まだ確認しない). This is an unverified statement until maintainer review."
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Terms, conditions, and evidence / 条件与依据 / 条件と根拠
+      description: Link the artwork-specific terms or state them here. Conditions travel with the asset.
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Public credit or profile URL / 可公开的署名或主页 / 公開可能なクレジット・プロフィール
+      description: Optional. Used only as the credit shown with the work.

@@ -5,34 +5,30 @@ import Icon from '../../components/Icon.astro';
 import { locales, t } from '../../lib/i18n';
 import { characters, entities } from '../../lib/data';
 import { path } from '../../lib/paths';
+import { discoveryText } from '../../lib/discovery-text';
+import { canUse, useReview } from '../../lib/usage';
 import { baselines } from '../../lib/baselines';
 export function getStaticPaths(){return locales.map(lang=>({params:{lang}}));}
 const lang = Astro.params.lang as 'zh'|'en'|'ja';const s=t(lang);
 const readyIds=baselines.filter(b=>b.state==='ready').map(b=>b.character!.id);
 const rank=(c:typeof characters[number])=>readyIds.includes(c.id)?readyIds.indexOf(c.id):c.downloadable?readyIds.length:readyIds.length+1;
+const d=discoveryText[lang];
+const featuredIds=['shangshan-whale','deep-whale-maid','deep-whale-orca','zipzippipe-chatgpt','zipzippipe-gemini','zipzippipe-claude','zipzippipe-kimi','zipzippipe-qwen'];
+const featured=featuredIds.map(id=>characters.find(c=>c.id===id)!).filter(c=>c?.preview&&canUse(c.id,'featured'));
+const displayCount=characters.filter(c=>c.preview&&canUse(c.id,'featured')).length;
 const orderedCharacters=[...characters].sort((a,b)=>rank(a)-rank(b));
 ---
-<Layout lang={lang} title={s.atlas}>
-  <section class="page-heading"><div><p class="eyebrow">{s.collection}</p><h1>{s.title}</h1><p class="lead">{s.intro}</p></div><a class="button secondary heading-action" href={path(`${lang}/assets/`)}><Icon name="download" size={17}/>{s.assets}</a></section>
-  <section class="catalog" aria-label={s.atlas}>
+<Layout lang={lang} title={s.atlas} description={d.intro}>
+  <section class="page-heading"><div><p class="eyebrow">{s.collection}</p><h1>{d.title}</h1><p class="lead">{d.intro}</p><div class="button-row"><a class="button" href="#featured">{d.browse}</a><a class="button secondary" href={path(`${lang}/studio/`)}><Icon name="studio" size={17}/>{d.use}</a></div><div class="hero-facts"><span><strong>{characters.length}</strong>{d.indexed}</span><span><strong>{displayCount}</strong>{d.display}</span><span><strong>{characters.filter(c=>c.downloadable).length}</strong>{d.packs}</span></div></div></section>
+  <section id="featured" class="featured-section" aria-labelledby="featured-title"><div class="section-title"><h2 id="featured-title">{d.featured}</h2><a class="text-link" href="#catalog">{d.catalog} ↓</a></div><p class="subtle">{d.note}</p><div class="featured-grid">{featured.map(c=><article class="featured-card"><a href={path(`${lang}/characters/${c.id}/`)}><img src={path(c.preview!)} alt={c.name[lang]} width="512" height="512" loading="lazy"/><h3>{c.name[lang]}</h3></a><p class="featured-credit">{c.attribution.map((a,i)=><>{i>0?' / ':''}<a href={a.url} target="_blank" rel="noopener noreferrer">{a.name}</a></>)}</p><a class="text-link" href={c.source} target="_blank" rel="noopener noreferrer">{s.viewSource} ↗</a><details><summary>{d.conditions}</summary><p>{useReview(c.id)!.uses.featured.conditions[lang]}</p><a class="text-link" href={c.licenseUrl} target="_blank" rel="noopener noreferrer">{c.license}</a></details></article>)}</div></section>
+  <section class="catalog" id="catalog" aria-label={s.atlas}>
+    <h2 class="catalog-title">{d.catalog}</h2>
     <div class="catalog-top"><div class="filter-tabs" role="group" aria-label={s.atlas}><button class="selected" data-kind-filter="all" aria-pressed="true">{s.all}<span>{characters.length}</span></button><button data-kind-filter="collected" aria-pressed="false">{s.originals}</button><button data-kind-filter="reference" aria-pressed="false">{s.references}</button></div><span class="result-count" aria-live="polite"><strong id="result-count">{characters.length}</strong> {s.results}</span></div>
     <div class="filter-bar"><label class="search-field"><Icon name="search" size={19}/><input id="search" type="search" placeholder={s.search} aria-label={s.search}/><kbd>/</kbd></label><select id="entity-filter" aria-label={s.allModels}><option value="all">{s.allModels}</option>{entities.map(e=><option value={e.id}>{e.name}</option>)}</select><select id="style-filter" aria-label={s.allStyles}><option value="all">{s.allStyles}</option><option value="anime">{s.anime}</option><option value="pixel">{s.pixel}</option></select></div>
+    <div class="filter-share"><button class="button secondary" id="copy-results" data-done={d.copied} data-failed={d.failed}>{d.share}</button><button class="button secondary" id="reset-filters">{s.clear}</button><span id="share-status" role="status" aria-live="polite"></span><input id="results-link" aria-label={d.link} type="url" readonly hidden/></div>
     <div class="character-grid">{orderedCharacters.map(c=><CharacterCard character={c} lang={lang}/>)}</div>
     <div class="empty-state" id="empty-state" hidden><Icon name="search" size={40}/><h2>{s.empty}</h2><p>{s.emptyHint}</p><button class="button secondary" id="clear-filters">{s.clear}</button></div>
   </section>
   <a class="contribute-strip" href={path(`${lang}/contribute/`)}><div><span class="eyebrow">GROW THE ATLAS</span><h2>{s.contributeTitle}</h2><p>{s.contributeIntro}</p></div><span class="round-arrow"><Icon name="contribute" size={24}/></span></a>
 </Layout>
-<script>
-  const search=document.querySelector<HTMLInputElement>('#search')!;
-  const entity=document.querySelector<HTMLSelectElement>('#entity-filter')!;
-  const style=document.querySelector<HTMLSelectElement>('#style-filter')!;
-  const buttons=[...document.querySelectorAll<HTMLButtonElement>('[data-kind-filter]')];
-  let kind='all';const params=new URLSearchParams(location.search);
-  if([...entity.options].some(o=>o.value===params.get('model')))entity.value=params.get('model')!;
-  search.value=params.get('q')??'';
-  function filter(){let count=0;const q=search.value.trim().normalize('NFKC').toLowerCase();document.querySelectorAll<HTMLElement>('[data-card]').forEach(card=>{const show=(!q||card.dataset.search!.normalize('NFKC').toLowerCase().includes(q))&&(kind==='all'||card.dataset.kind===kind)&&(entity.value==='all'||card.dataset.entity===entity.value)&&(style.value==='all'||card.dataset.style===style.value);card.hidden=!show;if(show)count++;});document.querySelector('#result-count')!.textContent=String(count);document.querySelector<HTMLElement>('#empty-state')!.hidden=count>0;}
-  buttons.forEach(b=>b.addEventListener('click',()=>{kind=b.dataset.kindFilter!;buttons.forEach(x=>{x.classList.toggle('selected',x===b);x.setAttribute('aria-pressed',String(x===b));});filter();}));
-  search.addEventListener('input',filter);entity.addEventListener('change',filter);style.addEventListener('change',filter);
-  document.querySelector('#clear-filters')!.addEventListener('click',()=>{search.value='';entity.value='all';style.value='all';buttons[0].click();search.focus();});
-  document.addEventListener('keydown',e=>{if(e.key==='/' && !(e.target instanceof HTMLInputElement || e.target instanceof HTMLTextAreaElement || e.target instanceof HTMLSelectElement)){e.preventDefault();search.focus();}});filter();
-</script>
+<script>import '../../scripts/catalog';</script>

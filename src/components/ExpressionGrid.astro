@@ -2,9 +2,11 @@
 import { t, type Locale } from '../lib/i18n';
 import { path } from '../lib/paths';
 import Icon from './Icon.astro';
+import { discoveryText } from '../lib/discovery-text';
 const { character:c, lang } = Astro.props;
 const s = t(lang as Locale);
+const d = discoveryText[lang as Locale];
 ---
 <div class="expression-grid">
-{c.assets.map(e => <article class="expression-card"><div class="expression-art alpha"><img src={path(`collected/${c.id}/${e.id}/preview.webp`)} alt={`${c.name[lang]} · ${e.label[lang]}`} loading="lazy" width="512" height="512"/></div><div class="expression-body"><h3>{e.label[lang]}</h3><span>512 × 512</span><div class="expression-actions"><a download href={path(`collected/${c.id}/${e.id}/standard.png`)} aria-label={`${c.name[lang]} ${e.label[lang]} ${s.png}`}>PNG <Icon name="download" size={14}/></a><a href={path(`${lang}/studio/?asset=${c.id}&pose=${e.id}`)} aria-label={`${c.name[lang]} ${e.label[lang]} ${s.edit}`}><Icon name="studio" size={16}/></a></div></div></article>)}
+{c.assets.map(e => <article class="expression-card"><div class="expression-art alpha"><img src={path(`collected/${c.id}/${e.id}/preview.webp`)} alt={`${c.name[lang]} · ${e.label[lang]}`} loading="lazy" width="512" height="512"/></div><div class="expression-body"><h3>{e.label[lang]}</h3><span>512 × 512</span><div class="expression-actions"><a download href={path(`collected/${c.id}/${e.id}/standard.png`)} aria-label={`${c.name[lang]} ${e.label[lang]} ${s.png}`}>PNG <Icon name="download" size={14}/></a><a href={path(`${lang}/studio/?asset=${c.id}&pose=${e.id}`)} aria-label={`${c.name[lang]} ${e.label[lang]} ${d.use}`}><Icon name="studio" size={16}/>{d.use}</a></div></div></article>)}
 </div>

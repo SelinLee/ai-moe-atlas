@@ -17,23 +17,40 @@ try {
   for(const route of ['', 'assets/','models/','collection/','contribute/',...chars.map(c=>`characters/${c.id}/`)]){
    const response=await page.goto(`${origin}/${lang}/${route}`,{waitUntil:'domcontentloaded'});assert.equal(response.status(),200);assert.equal(await page.locator('html').getAttribute('lang'),htmlLang);
    assert.ok((await page.locator('h1').textContent()).trim());
-   await page.locator('img').evaluateAll(imgs=>Promise.all(imgs.map(i=>{i.loading='eager';return i.decode().catch(()=>{});})));
+   const canonical=await page.locator('link[rel="canonical"]').getAttribute('href');
+   assert.equal(canonical,`https://selinlee.github.io/ai-moe-atlas/${lang}/${route}`);
+   assert.equal(await page.locator('meta[property="og:url"]').getAttribute('content'),canonical);
+   const cover=await page.locator('meta[property="og:image"]').getAttribute('content');
+   assert.equal(cover,`https://selinlee.github.io/ai-moe-atlas/og/${lang}/${route.startsWith('characters/')?route.split('/')[1]:'index'}.png`);
+   const coverResponse=await context.request.get(`${new URL(origin).origin}${new URL(cover).pathname}`);
+   assert.equal(coverResponse.status(),200);
+   const coverMeta=await sharp(await coverResponse.body()).metadata();assert.equal(coverMeta.width,1200);assert.equal(coverMeta.height,630);
+   await page.locator('img').evaluateAll(imgs=>Promise.all(imgs.map(async i=>{
+    i.loading='eager';
+    // Switching a lazy image to eager can precede its new fetch. Wait for load
+    // before decode, and fail on real load errors instead of swallowing them.
+    if(!i.complete)await new Promise((resolve,reject)=>{
+     i.addEventListener('load',resolve,{once:true});
+     i.addEventListener('error',()=>reject(new Error(`Image failed: ${i.src}`)),{once:true});
+    });
+    await i.decode();
+   })));
    assert.deepEqual(await page.locator('img').evaluateAll(imgs=>imgs.filter(i=>!i.naturalWidth).map(i=>i.src)),[]);
   }
   await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});
   await page.goto(`${origin}/${lang}/models/`,{waitUntil:'domcontentloaded'});
   assert.equal(await page.locator('[data-baseline]').count(),12);
-  assert.equal(await page.locator('[data-state="ready"]').count(),6);
-  assert.equal(await page.locator('[data-state="candidate"]').count(),5);
-  assert.equal(await page.locator('[data-state="missing"]').count(),1);
+  assert.equal(await page.locator('[data-state="ready"]').count(),11);
+  assert.equal(await page.locator('[data-state="candidate"]').count(),1);
+  assert.equal(await page.locator('[data-state="missing"]').count(),0);
   assert.equal(await page.locator('[data-state="candidate"] img').count(),0);
   await page.goto(`${origin}/${lang}/characters/zipzippipe-chatgpt/`,{waitUntil:'domcontentloaded'});
   assert.equal(await page.locator('.observation-panel a').getAttribute('href'),'https://www.bilibili.com/video/BV14phK66Ejw/');
   await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});
-  await page.locator('#search').fill('ZipZipPipe');assert.equal(await page.locator('[data-card]:visible').count(),10);
+  await page.locator('#search').fill('ZipZipPipe');assert.equal(await page.locator('[data-card]:visible').count(),12);
   await page.locator('#search').fill('nothing-matches-xyz');await page.locator('#empty-state').waitFor({state:'visible'});
   await page.locator('#clear-filters').click();assert.equal(await page.locator('[data-card]:visible').count(),chars.length);
-  await page.locator('[data-kind-filter="collected"]').click();assert.equal(await page.locator('[data-card]:visible').count(),8);
+  await page.locator('[data-kind-filter="collected"]').click();assert.equal(await page.locator('[data-card]:visible').count(),chars.filter(c=>c.kind==='collected').length);
   await page.locator('[data-kind-filter="all"]').click();await page.screenshot({path:`.qa/atlas-${lang}-desktop.png`,fullPage:false});
   await page.setViewportSize({width:390,height:844});
   for(const route of ['','assets/','studio/','models/','collection/','characters/deep-whale-maid/']){
@@ -42,9 +59,40 @@ try {
   }
   await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});await page.screenshot({path:`.qa/atlas-${lang}-mobile.png`,fullPage:false});
   await page.setViewportSize({width:1440,height:1000});
+  await page.goto(`${origin}/${lang}/?model=claude&style=pixel&kind=reference&q=Clawd`,{waitUntil:'domcontentloaded'});
+  assert.equal(await page.locator('[data-card]:visible').count(),1);
+  assert.equal(await page.locator('#style-filter').inputValue(),'pixel');
+  const saved=page.url();await page.reload();assert.equal(await page.locator('[data-card]:visible').count(),1);
+  const other=await context.newPage();await other.goto(saved);assert.equal(await other.locator('[data-card]:visible').count(),1);await other.close();
+  await page.locator('#style-filter').selectOption('anime');assert.equal(await page.locator('[data-card]:visible').count(),0);
+  await page.goBack();assert.equal(await page.locator('#style-filter').inputValue(),'pixel');assert.equal(await page.locator('[data-card]:visible').count(),1);
+  await page.goForward();assert.equal(await page.locator('#style-filter').inputValue(),'anime');
+  const to=lang==='ja'?'en':'ja';await page.locator(`.language-switch a[hreflang="${to}"]`).click();
+  assert.equal(await page.locator('#style-filter').inputValue(),'anime');assert.equal(await page.locator('#search').inputValue(),'Clawd');
+  await page.locator('#reset-filters').click();assert.equal(new URL(page.url()).search,'');assert.equal(await page.locator('[data-card]:visible').count(),chars.length);
+  await page.locator('#search').pressSequentially('Clawd');
+  await page.goBack();assert.equal(await page.locator('#search').inputValue(),'');
+  await page.goForward();assert.equal(await page.locator('#search').inputValue(),'Clawd');
+  await page.goto(`${origin}/${lang}/?model=bad&style=bad&kind=bad`);assert.equal(new URL(page.url()).search,'');
+  assert.equal(await page.locator('.featured-card').count(),8);
+  await context.grantPermissions(['clipboard-read','clipboard-write']);
+  await page.locator('#copy-results').click();assert.equal(await page.evaluate(()=>navigator.clipboard.readText()),page.url());
+  await page.evaluate(()=>Object.defineProperty(navigator.clipboard,'writeText',{configurable:true,value:()=>Promise.reject(new Error('Denied'))}));
+  await page.locator('#copy-results').click();await page.locator('#results-link').waitFor({state:'visible'});assert.equal(await page.locator('#results-link').inputValue(),page.url());
+  await page.goto(`${origin}/${lang}/characters/deep-whale-maid/`);
+  await page.locator('.detail-info a[href*="/studio/?"]').focus();await page.keyboard.press('Enter');
+  await page.waitForFunction(()=>!document.getElementById('export-pack').disabled);
+  assert.equal(await page.locator('#character-select').inputValue(),'deep-whale-maid');assert.equal(await page.locator('#pose-select').inputValue(),'delighted');
+  await page.goto(`${origin}/${lang}/characters/deep-whale-maid/`);
+  await page.setViewportSize({width:390,height:844});
+  await page.locator('.expression-actions a[href*="pose=sleepy"]').click();
+  await page.waitForFunction(()=>!document.getElementById('export-pack').disabled);assert.equal(await page.locator('#pose-select').inputValue(),'sleepy');
+  await page.setViewportSize({width:1440,height:1000});
+  await page.goto(`${origin}/${lang}/characters/clawd-desktop/`);assert.equal(await page.locator('.detail-info a[href*="/studio/?"]').count(),0);
   await page.goto(`${origin}/${lang}/studio/?asset=deep-whale-maid&pose=sleepy`,{waitUntil:'domcontentloaded'});
   await page.waitForFunction(()=>!document.getElementById('export-pack').disabled);
   assert.equal(await page.locator('#pose-select').inputValue(),'sleepy');
+  await page.locator('#advanced-settings').evaluate(e=>e.open=true);
   await page.selectOption('#size','1024');await page.selectOption('#shape','portrait');await page.selectOption('#format','webp');
   const dl=page.waitForEvent('download');await page.click('#export-pack');const download=await dl;const out=`.qa/export-${lang}.zip`;await download.saveAs(out);
   const zip=await JSZip.loadAsync(await readFile(out));const manifest=JSON.parse(await zip.file('provenance.json').async('string'));
@@ -66,7 +114,7 @@ try {
  await page.goto(`${origin}/en/studio/`,{waitUntil:'domcontentloaded'});await page.waitForFunction(()=>!document.getElementById('export-pack').disabled);
  await page.locator('#upload').setInputFiles('public/collected/shangshan-whale/portrait/original.png');await page.waitForFunction(()=>!document.getElementById('export-pack').disabled);
  await page.click('#export-pack');await page.waitForFunction(()=>document.getElementById('studio-status').textContent.includes('source URL'));
- await page.fill('#source-url','https://www.bilibili.com/opus/1231977657712771073');await page.fill('#source-author','上善无形');await page.fill('#source-terms','CC BY-NC-SA 4.0');await page.selectOption('#format','jpeg');await page.selectOption('#shape','circle');
+ await page.fill('#source-url','https://www.bilibili.com/opus/1231977657712771073');await page.fill('#source-author','上善无形');await page.fill('#source-terms','CC BY-NC-SA 4.0');await page.locator('#advanced-settings').evaluate(e=>e.open=true);await page.selectOption('#format','jpeg');await page.selectOption('#shape','circle');
  const localDL=page.waitForEvent('download');await page.click('#export-pack');await (await localDL).saveAs('.qa/local-export.zip');
  const z=await JSZip.loadAsync(await readFile('.qa/local-export.zip'));const mm=JSON.parse(await z.file('provenance.json').async('string'));assert.equal(mm.source.attribution[0].name,'上善无形');assert.ok(z.file('source-original.png'));
  await page.screenshot({path:'.qa/studio-desktop.png'});

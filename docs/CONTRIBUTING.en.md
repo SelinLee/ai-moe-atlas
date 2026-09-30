@@ -10,6 +10,18 @@ Submit only existing online characters and published works. Never generate new d
 6. Provide Chinese, English, and Japanese names, descriptions, notes, appearance, and provenance.
 7. Run tests and build; submit a pull request for review.
 
+## Three contribution routes
+
+| Route | Use | Required |
+| --- | --- | --- |
+| Source lead (`source`) | Submit an existing online character and its publication | Original artwork URL, related AI |
+| Correction or removal (`correction`) | Fix a creator, source, link, or term; request removal | Entry URL, correction and evidence |
+| Creator & permission confirmation (`rights`) | Confirm credit, original link, and specific permitted uses | Entry URL, role, decision, evidence |
+
+The lead form on the website asks only for the original artwork URL and the related AI. Creator, attribution chain, terms, and existing images sit behind “Known details”; write “unknown” rather than guessing. All three routes are GitHub issues and need a GitHub account. There is no account-free option today; if user testing shows the account is the main obstacle, another route will be considered then.
+
+The confirmation form lists every purpose the atlas reviews. Unselected purposes stay unconfirmed and never gain permission automatically. A maintainer verifies each submission before the use record changes, and unverified decisions are never published. Do not put identity documents, private contacts, or other sensitive personal data in a public form.
+
 Only faithful dimensions, canvas, and format adjustments are included. No generative redesign, automatic cutouts, or neural upscaling. Do not remove watermarks or credits. Interpolation is not recovered detail. New originals require new IDs/versions, not overwrites. Removal may require handling repository history, releases, and deployment caches, not just hiding a link.
 
 [Collection manual](COLLECTION.en.md) · [Artwork terms](../RIGHTS.md)

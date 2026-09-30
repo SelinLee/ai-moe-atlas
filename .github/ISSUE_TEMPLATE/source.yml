@@ -1,13 +1,14 @@
 name: Source lead / 采集线索 / 収集候補
 description: Submit an existing online character and its original source.
 title: '[Source] '
+labels: ['source-lead']
 body:
-  - type: input
-    id: ai
+  - type: markdown
     attributes:
-      label: AI / 模型或产品 / モデル・製品
-    validations:
-      required: true
+      value: |
+        Required: the original publication URL and the related AI. Everything else is optional — write “unknown” / “未知” / 「不明」 instead of guessing.
+        Leads enter a review queue. Nothing is published automatically, and a URL alone does not establish authorship or redistribution permission.
+        This form is hosted on GitHub and needs a GitHub account. Do not include private identity documents or sensitive personal data in a public issue.
   - type: input
     id: source
     attributes:
@@ -16,26 +17,28 @@ body:
     validations:
       required: true
   - type: input
+    id: ai
+    attributes:
+      label: AI / 模型或产品 / モデル・製品
+    validations:
+      required: true
+  - type: input
     id: creator
     attributes:
       label: Original creator / 原作者 / 原作者
-      description: If unknown, say unknown. Distinguish the video uploader from the character designer.
-    validations:
-      required: true
+      description: Optional. If unknown, say unknown. Distinguish the video uploader from the character designer.
   - type: textarea
     id: chain
     attributes:
       label: Attribution chain / 署名链 / クレジット
-      description: Original character → derivative creator → asset publisher, with links.
+      description: Optional. Original character → derivative creator → asset publisher, with links.
   - type: textarea
     id: rights
     attributes:
       label: Artwork permissions / 图片使用条件 / 画像の利用条件
-      description: Link to artwork-specific terms. A software MIT license is insufficient. Unknown terms are acceptable for source-only indexing.
-    validations:
-      required: true
+      description: Optional. Link to artwork-specific terms. A software MIT license is insufficient. Unknown terms are acceptable for source-only indexing.
   - type: textarea
     id: notes
     attributes:
       label: Existing image files / 已有图片 / 既存画像
-      description: Link to existing files. Do not submit newly invented characters for the atlas or propose generative redesign.
+      description: Optional. Link to existing files. Do not submit newly invented characters for the atlas or propose generative redesign.
