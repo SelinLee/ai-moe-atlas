@@ -2,7 +2,52 @@
 
 [中文](README.md) · [English](README.en.md) · [日本語](README.ja.md)
 
-Discover another side of the AI you use, find original creators, and bring usable assets into your work.
+What if your everyday AI had a character of its own? Explore collected AI-inspired artwork, meet the creators, and find assets with recorded usage terms.
+
+## [Explore AI Moe Atlas →](https://selinlee.github.io/ai-moe-atlas/)
+
+See full character art, trace original creators and sources, and download available asset packs. Click a character below to open its entry.
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/"><img src="public/collected/zipzippipe-chatgpt/portrait/preview.webp" width="200" alt="GPT with silver-white hair, dragon horns, wings and a white gown, by ZipZipPipe"></a><br>
+      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/"><strong>GPT</strong></a><br>
+      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-gemini/"><img src="public/collected/zipzippipe-gemini/portrait/preview.webp" width="200" alt="Gemini with blue-purple hair, cat ears and a purple outfit, by ZipZipPipe"></a><br>
+      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-gemini/"><strong>Gemini</strong></a><br>
+      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-claude/"><img src="public/collected/zipzippipe-claude/portrait/preview.webp" width="200" alt="Claude with orange hair, a long dress and a book, by ZipZipPipe"></a><br>
+      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-claude/"><strong>Claude</strong></a><br>
+      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/shangshan-whale/"><img src="public/collected/shangshan-whale/portrait/preview.webp" width="200" alt="Whale Girl with blue hair, a whale tail and a black outfit, original work by 上善无形"></a><br>
+      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/shangshan-whale/"><strong>Whale Girl · Original</strong></a><br>
+      <sub><a href="https://www.bilibili.com/opus/1231977657712771073">上善无形</a><br>Upstream design for DeepSeek fan art</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-kimi/"><img src="public/collected/zipzippipe-kimi/portrait/preview.webp" width="200" alt="Kimi full character portrait published by ZipZipPipe"></a><br>
+      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-kimi/"><strong>Kimi</strong></a><br>
+      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-qwen/"><img src="public/collected/zipzippipe-qwen/portrait/preview.webp" width="200" alt="Qwen with blue-purple hair, Chinese-style headwear and a folding fan, by ZipZipPipe"></a><br>
+      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-qwen/"><strong>Qwen</strong></a><br>
+      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
+    </td>
+  </tr>
+</table>
+
+These are collected, unofficial works. Previews only resize, pad and convert formats, without cropping or redrawing. Original files and processing records remain in the repository.
+
+<sub>GPT, Gemini, Claude, Kimi and Qwen: <a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a>, attribution required, non-commercial only. Whale Girl: <a href="https://www.bilibili.com/opus/1231977657712771073">上善无形</a>, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>. <a href="RIGHTS.md">Artwork-specific terms and evidence</a>.</sub>
 
 ## What you can do
 
@@ -13,11 +58,11 @@ Discover another side of the AI you use, find original creators, and bring usabl
 
 For discovering characters, finding artists, and preparing credited non-commercial assets. Images stay in your browser. Read each artwork’s terms.
 
-[Open the atlas](https://selinlee.github.io/ai-moe-atlas/en/) · [Local studio](https://selinlee.github.io/ai-moe-atlas/en/studio/)
-
-![Actual filtered results (link-only entry, no third-party artwork)](public/demo/discovery-en.png)
+[Browse all characters in English](https://selinlee.github.io/ai-moe-atlas/en/) · [Open the studio](https://selinlee.github.io/ai-moe-atlas/en/studio/)
 
 ## 15-second walkthrough
+
+![Actual filtered results (link-only entry, no third-party artwork)](public/demo/discovery-en.png)
 
 [15-second walkthrough · MP4](public/demo/discovery-en.mp4)
 

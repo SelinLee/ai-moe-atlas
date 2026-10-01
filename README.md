@@ -2,7 +2,52 @@
 
 [中文](README.md) · [English](README.en.md) · [日本語](README.ja.md)
 
-发现你常用 AI 的另一种模样，找到原作者，把可用素材带进自己的创作。
+当熟悉的 AI 化身为角色，会是什么模样？这里收集已有的 AI 萌化作品，让你从一张图认识角色、找到作者，再按使用条件取用素材。
+
+## [打开 AI 萌化图鉴 →](https://selinlee.github.io/ai-moe-atlas/)
+
+看完整角色图、查原作与作者、下载可用素材包。点击下方角色，直接进入对应词条。
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/"><img src="public/collected/zipzippipe-chatgpt/portrait/preview.webp" width="200" alt="GPT：银白长发、龙角、龙翼与白色长裙，ZipZipPipe 作品"></a><br>
+      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/"><strong>GPT</strong></a><br>
+      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-gemini/"><img src="public/collected/zipzippipe-gemini/portrait/preview.webp" width="200" alt="Gemini：蓝紫长发、猫耳与紫色服装，ZipZipPipe 作品"></a><br>
+      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-gemini/"><strong>Gemini</strong></a><br>
+      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-claude/"><img src="public/collected/zipzippipe-claude/portrait/preview.webp" width="200" alt="Claude：橙色长发、长裙与书本，ZipZipPipe 作品"></a><br>
+      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-claude/"><strong>Claude</strong></a><br>
+      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/shangshan-whale/"><img src="public/collected/shangshan-whale/portrait/preview.webp" width="200" alt="鲸鱼娘：蓝色长发、鲸尾与黑色服装，上善无形原作"></a><br>
+      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/shangshan-whale/"><strong>鲸鱼娘 · 上善无形原作</strong></a><br>
+      <sub><a href="https://www.bilibili.com/opus/1231977657712771073">上善无形</a><br>DeepSeek 二创的上游角色</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-kimi/"><img src="public/collected/zipzippipe-kimi/portrait/preview.webp" width="200" alt="Kimi：ZipZipPipe 发布的完整角色立绘"></a><br>
+      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-kimi/"><strong>Kimi</strong></a><br>
+      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-qwen/"><img src="public/collected/zipzippipe-qwen/portrait/preview.webp" width="200" alt="千问：青紫长发、中式发饰与折扇，ZipZipPipe 作品"></a><br>
+      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-qwen/"><strong>千问 · Qwen</strong></a><br>
+      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
+    </td>
+  </tr>
+</table>
+
+画廊展示已收集的非官方作品。预览仅做等比缩放、留边和格式转换，不裁切原图、不重绘；原文件和加工记录保留在仓库中。
+
+<sub>GPT、Gemini、Claude、Kimi、千问：<a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a>，署名、非商用；鲸鱼娘：<a href="https://www.bilibili.com/opus/1231977657712771073">上善无形</a>，<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>。<a href="RIGHTS.md">逐件使用条件与证据</a>。</sub>
 
 ## 现在可以做什么
 
@@ -13,11 +58,11 @@
 
 适合发现角色、查找作者和制作有出处的非商业素材。图片在浏览器本地处理；请逐件阅读使用条件。
 
-[打开图鉴](https://selinlee.github.io/ai-moe-atlas/zh/) · [素材工坊](https://selinlee.github.io/ai-moe-atlas/zh/studio/)
-
-![实际筛选结果预览（仅索引条目，无第三方作品图）](public/demo/discovery-zh.png)
+[浏览全部角色](https://selinlee.github.io/ai-moe-atlas/zh/) · [打开素材工坊](https://selinlee.github.io/ai-moe-atlas/zh/studio/)
 
 ## 15 秒操作演示
+
+![实际筛选结果预览（仅索引条目，无第三方作品图）](public/demo/discovery-zh.png)
 
 [15 秒操作演示 · MP4](public/demo/discovery-zh.mp4)
 

@@ -2,7 +2,52 @@
 
 [中文](README.md) · [English](README.en.md) · [日本語](README.ja.md)
 
-いつもの AI の別の姿と原作者を見つけ、利用可能な素材を自分の制作に活かせます。
+いつもの AI がキャラクターになったら？公開済みの AI 萌え作品を集めた図鑑で、気になる姿から作者と出典をたどり、利用条件を確認して素材を探せます。
+
+## [AI 萌え図鑑を開く →](https://selinlee.github.io/ai-moe-atlas/)
+
+キャラクターの全体像、原作者と出典、ダウンロード可能な素材集をチェック。下の画像から各項目へ進めます。
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/"><img src="public/collected/zipzippipe-chatgpt/portrait/preview.webp" width="200" alt="銀白の長髪、竜の角と翼、白いドレスの GPT。ZipZipPipe の作品"></a><br>
+      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/"><strong>GPT</strong></a><br>
+      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-gemini/"><img src="public/collected/zipzippipe-gemini/portrait/preview.webp" width="200" alt="青紫の長髪、猫耳、紫の衣装の Gemini。ZipZipPipe の作品"></a><br>
+      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-gemini/"><strong>Gemini</strong></a><br>
+      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-claude/"><img src="public/collected/zipzippipe-claude/portrait/preview.webp" width="200" alt="オレンジの長髪、ドレス、本を持つ Claude。ZipZipPipe の作品"></a><br>
+      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-claude/"><strong>Claude</strong></a><br>
+      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/shangshan-whale/"><img src="public/collected/shangshan-whale/portrait/preview.webp" width="200" alt="青い長髪、クジラの尾、黒い衣装のクジラ娘。上善无形の原作"></a><br>
+      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/shangshan-whale/"><strong>クジラ娘 · 上善无形の原作</strong></a><br>
+      <sub><a href="https://www.bilibili.com/opus/1231977657712771073">上善无形</a><br>DeepSeek 二次創作につながる原作</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-kimi/"><img src="public/collected/zipzippipe-kimi/portrait/preview.webp" width="200" alt="ZipZipPipe が公開した Kimi の全身立ち絵"></a><br>
+      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-kimi/"><strong>Kimi</strong></a><br>
+      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-qwen/"><img src="public/collected/zipzippipe-qwen/portrait/preview.webp" width="200" alt="青紫の長髪、中華風の髪飾り、扇子を持つ Qwen。ZipZipPipe の作品"></a><br>
+      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-qwen/"><strong>Qwen · 千問</strong></a><br>
+      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
+    </td>
+  </tr>
+</table>
+
+公開済みの非公式作品を収集したギャラリーです。プレビューは縦横比を保つリサイズ・余白・形式変換のみで、切り抜きや描き直しは行いません。原本と加工記録はリポジトリに保存しています。
+
+<sub>GPT・Gemini・Claude・Kimi・Qwen：<a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a>、作者表示必須・非商用。クジラ娘：<a href="https://www.bilibili.com/opus/1231977657712771073">上善无形</a>、<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>。<a href="RIGHTS.md">作品ごとの利用条件と根拠</a>。</sub>
 
 ## できること
 
@@ -13,11 +58,11 @@
 
 キャラクターや作者の発見、出典付き非商用素材の制作に。画像はブラウザ内で処理されます。作品ごとの利用条件をご確認ください。
 
-[図鑑を開く](https://selinlee.github.io/ai-moe-atlas/ja/) · [素材工房](https://selinlee.github.io/ai-moe-atlas/ja/studio/)
-
-![実際の絞り込み結果（出典索引のみ・第三者の作品画像なし）](public/demo/discovery-ja.png)
+[日本語で全キャラクターを見る](https://selinlee.github.io/ai-moe-atlas/ja/) · [素材工房を開く](https://selinlee.github.io/ai-moe-atlas/ja/studio/)
 
 ## 15秒の操作デモ
+
+![実際の絞り込み結果（出典索引のみ・第三者の作品画像なし）](public/demo/discovery-ja.png)
 
 [15秒の操作デモ · MP4](public/demo/discovery-ja.mp4)
 
