@@ -17,9 +17,11 @@
     "test:studio": "node tests/studio-browser.mjs",
     "test:contribute": "node tests/contribute-browser.mjs",
     "collect": "node scripts/collect.mjs",
-    "discover": "node scripts/discover.mjs"
+    "discover": "node scripts/discover.mjs",
+    "test:model": "node tests/model-preview-browser.mjs"
   },
   "dependencies": {
+    "@google/model-viewer": "4.3.1",
     "astro": "7.3.5",
     "jszip": "^3.10.1",
     "sharp": "^0.34.5"

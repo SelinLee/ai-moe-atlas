@@ -1,0 +1,55 @@
+Deep Whale Maid — stylized 3D bust prototype v0.1.0
+深海女仆鲸鱼娘 — 风格化 3D 胸像原型 v0.1.0
+深海メイドのクジラ娘 — デフォルメ3Dバスト試作 v0.1.0
+
+License / 许可 / ライセンス: CC BY-NC-SA 4.0
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Non-commercial use only; preserve complete attribution and changes; share
+adaptations under the same license. No endorsement by the original creators.
+The website code's MIT license DOES NOT cover this 3D mesh or its renders.
+
+Attribution / 署名 / クレジット
+1. 上善无形 (上善): original whale-girl character / 原角色 / キャラクター原案
+   https://www.bilibili.com/opus/1231977657712771073
+   https://www.pixiv.net/users/62155430
+2. ZipZipPipe: DeepSeek maid redesign / 女仆二创设计 / メイド二次デザイン
+   https://t.bilibili.com/1231980045693616162
+   https://www.pixiv.net/users/18604994
+3. Small-tailqwq: published reference adaptation / 参考图发布与加工 / 参考素材公開・加工
+   https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier
+4. AI Moe Atlas: new AI-assisted procedural 3D reconstruction / 全新 AI 辅助程序化 3D 重建 / 新規AI支援プロシージャル3D再構成
+   https://github.com/SelinLee/ai-moe-atlas
+
+Source artwork (existing bytes preserved separately)
+https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/assets/icons/delighted-cutout.png
+Source-specific permission and attribution:
+https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/LICENSE-ARTWORK
+https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/NOTICE
+
+Changes / 修改 / 変更 (2026-10-02)
+New volumetric stylized bust with modeled hair, fin ears, maid cap, face,
+hands, apron and plinth, built procedurally in Blender 4.3.2 and exported as GLB.
+The source is a single frontal illustration: side/back hair and costume
+volumes are inferred. These views are NOT canonical creator references.
+Static bust only: no full body, skeleton, rig, facial blendshapes, or animation.
+No existing MMD/Warudo mesh was copied or converted. The 3D mesh and render
+posters are new derivatives; they are not creator originals or recovered detail.
+
+以已授权正面插画为参考，在 Blender 中程序化建立独立的风格化胸像；包含头发、鳍耳、
+女仆头饰、表情、双手与围裙。侧后方体积由重建推断，并非官方设定。
+仅为静态胸像，不含全身、骨骼、绑定、表情变形或动画；未使用现成 MMD/Warudo 网格。
+
+許諾された正面イラストを参照し、Blender で独立したデフォルメバストを作成。
+髪、ひれ耳、メイド帽、表情、手、エプロンを立体化。側面・背面は推測であり公式設定ではない。
+静止バストのみ。全身、骨格、リグ、表情モーフ、アニメーションは未実装。
+既存の MMD/Warudo メッシュは使用していない。
+
+Build source: scripts/modeling/build-whale-maid.py in the repository.
+Hash and exact source details: manifest.json alongside this notice.
+
+Expression refinement / 表情调整 / 表情調整
+Closed omega smile and calmer eyes, using a separately supplied expression
+reference as inspiration. That reference image is not redistributed here.
+闭嘴微笑与更放松的眼神采用单独提供的表情参考作为灵感；本包不转载该参考图。
+別途提供された表情参考から着想し、口を閉じた微笑みと落ち着いた目元に調整。
+その参考画像は本パッケージには含みません。

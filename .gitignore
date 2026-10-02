@@ -10,3 +10,7 @@ dist/
 
 # Local agent workspace: session notes and machine-local paths, never published
 .workbuddy-ai/
+
+# Generated local Blender review assets
+artifacts/
+**/__pycache__/

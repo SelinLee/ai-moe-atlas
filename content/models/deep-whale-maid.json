@@ -1,0 +1,107 @@
+{
+  "id": "deep-whale-maid-bust",
+  "characterId": "deep-whale-maid",
+  "version": "0.1.0",
+  "status": "preview",
+  "rightsReviewed": true,
+  "src": "models/deep-whale-maid/v0.1.0/deep-whale-maid.glb",
+  "poster": "models/deep-whale-maid/v0.1.0/poster.webp",
+  "title": {
+    "zh": "鲸鱼娘 · 3D 胸像初版",
+    "en": "Whale Maid · 3D bust prototype",
+    "ja": "クジラ娘 · 3Dバスト試作"
+  },
+  "description": {
+    "zh": "根据已授权参考图重建的风格化静态胸像。可旋转、缩放查看；不是全身模型，尚未绑定或制作动画。",
+    "en": "A stylized static bust reconstructed from a licensed reference. Rotate and zoom to inspect it. This is not a full-body model and has no rig or animation.",
+    "ja": "許諾済み参考画像をもとに再構成したデフォルメ静止バスト。回転・ズームで確認できます。全身モデルではなく、リグとアニメーションは未実装です。"
+  },
+  "license": "CC-BY-NC-SA-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "sourceUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/assets/icons/delighted-cutout.png",
+  "reviewedAt": "2026-10-02",
+  "fileBytes": 6376860,
+  "attribution": [
+    {
+      "name": "上善无形",
+      "url": "https://www.pixiv.net/users/62155430",
+      "role": {
+        "zh": "原角色",
+        "en": "Original character",
+        "ja": "キャラクター原案"
+      }
+    },
+    {
+      "name": "ZipZipPipe",
+      "url": "https://www.pixiv.net/users/18604994",
+      "role": {
+        "zh": "女仆二创设计",
+        "en": "Maid redesign",
+        "ja": "メイド二次デザイン"
+      }
+    },
+    {
+      "name": "Small-tailqwq",
+      "url": "https://github.com/Small-tailqwq",
+      "role": {
+        "zh": "参考图发布与加工",
+        "en": "Reference adaptation",
+        "ja": "参考素材公開・加工"
+      }
+    },
+    {
+      "name": "AI Moe Atlas",
+      "url": "https://github.com/SelinLee/ai-moe-atlas",
+      "role": {
+        "zh": "AI 辅助 3D 重建",
+        "en": "AI-assisted 3D reconstruction",
+        "ja": "AI支援3D再構成"
+      }
+    }
+  ],
+  "changes": {
+    "zh": "从正面插画建立新的体积网格，包含头发、鳍耳、女仆头饰、双手与围裙。侧面和背面为推断性重建，并非官方设定；未使用现成 MMD/Warudo 网格。非商用，保留署名，衍生作品须以相同许可共享。 表情调整为闭嘴微笑与更放松的眼神。",
+    "en": "New volumetric mesh for the hair, fin ears, maid cap, hands and apron. Side and back volumes are inferred, not canonical reference views. No existing MMD/Warudo mesh was used. Non-commercial use, full attribution and ShareAlike are required. The expression has a closed smile and calmer eyes.",
+    "ja": "髪、ひれ耳、メイド帽、手、エプロンを新規メッシュで立体化。側面と背面は推測による再構成であり公式設定ではありません。既存のMMD/Warudoメッシュは未使用。非営利・作者表示・同一条件での共有が必要です。 表情は口を閉じた微笑みと落ち着いた目元に調整しました。"
+  },
+  "sha256": "a76e1f3a9db05c62ac836c6ceb268af60f91ec2a999233252c22a90840d1cc07",
+  "format": "glTF 2.0 binary",
+  "method": "AI-assisted procedural reconstruction in Blender 4.3.2",
+  "rigged": false,
+  "animated": false,
+  "fullBody": false,
+  "unseenViews": "inferred",
+  "reference": {
+    "id": "delighted",
+    "path": "maid-atelier/assets/icons/delighted-cutout.png",
+    "label": {
+      "zh": "开心",
+      "en": "Delighted",
+      "ja": "うれしい"
+    },
+    "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/assets/icons/delighted-cutout.png",
+    "sourcePage": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/assets/icons/delighted-cutout.png",
+    "localPath": "collected/deep-whale-maid/delighted/original.png",
+    "sha256": "5f8149d52b8cbdba7b5efeacbda9d1abd9c55a1ee129551b476540452ad83ec9",
+    "width": 1254,
+    "height": 1254,
+    "alpha": true,
+    "bytes": 1669896,
+    "rightsEvidenceUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/LICENSE-ARTWORK",
+    "noticeUrl": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/NOTICE",
+    "evidence": [
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/NOTICE",
+        "localPath": "collected/deep-whale-maid/evidence/NOTICE.txt",
+        "sha256": "2da2c0db4b335b13b9f24e609d688b25cad0f94a0bf41d354114e0b53e904c3f"
+      },
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/Small-tailqwq/dsh-deep-whale/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/LICENSE-ARTWORK",
+        "localPath": "collected/deep-whale-maid/evidence/LICENSE-ARTWORK.txt",
+        "sha256": "52de7059eb8d02acd9ad8bb5e3a8d3b3e4f018c9c0826bd676483e54de31345e"
+      }
+    ]
+  },
+  "notice": "models/deep-whale-maid/v0.1.0/NOTICE.txt",
+  "buildScript": "scripts/modeling/build-whale-maid.py"
+}

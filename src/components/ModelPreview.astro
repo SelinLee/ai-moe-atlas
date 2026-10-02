@@ -1,0 +1,44 @@
+---
+import { path } from '../lib/paths';
+import { modelText } from '../lib/model-text';
+import type { CharacterModel } from '../lib/models';
+import type { Locale } from '../lib/i18n';
+const { model, lang } = Astro.props as { model: CharacterModel; lang: Locale };
+const s = modelText[lang];
+const instanceId = `model-${model.id}`;
+const size = new Intl.NumberFormat(lang, { maximumFractionDigits: 1 }).format(model.fileBytes / 1024 / 1024);
+const roleName = (role: string | { zh: string; en: string; ja: string }) => typeof role === 'object' ? role[lang] : s.roles[role as keyof typeof s.roles] ?? role;
+---
+<section id="model-preview" class="model-preview-section" aria-labelledby={`${instanceId}-title`}>
+  <div class="section-title"><div><p class="eyebrow">{s.eyebrow}</p><h2 id={`${instanceId}-title`}>{s.feature}</h2></div><span class:list={['model-state', model.status]}>{model.status === 'preview' ? s.preview : s.released} · v{model.version}</span></div>
+  <div class="model-preview-layout" data-model-preview data-state="idle" data-src={path(model.src)} data-poster={path(model.poster)} data-lang={lang} data-title={model.title[lang]} data-description={model.description[lang]} data-messages={JSON.stringify({ load:s.load, loading:s.loading, ready:s.ready, idle:s.idle, error:s.error, retry:s.retry, moved:s.moved, resetDone:s.resetDone, posterDone:s.posterDone })}>
+    <div class="model-interaction">
+      <div class="model-stage" aria-busy="false" aria-describedby={`${instanceId}-status`}>
+        <span class="model-stage-label" aria-hidden="true">3D / {model.version}</span>
+        <img class="model-poster" data-model-poster src={path(model.poster)} width="800" height="800" alt={`${s.portrait}: ${model.title[lang]}`} loading="lazy"/>
+        <div class="model-canvas" data-model-mount></div>
+        <div class="model-load-overlay" data-model-overlay hidden><button class="button model-load-button" type="button" data-model-load aria-describedby={`${instanceId}-size`}><span aria-hidden="true">◈</span><span data-model-load-label>{s.load}</span></button><span id={`${instanceId}-size`}>{s.downloadSize} · {size} MB</span></div>
+      </div>
+      <p class="model-status" id={`${instanceId}-status`} role="status" aria-live="polite" aria-atomic="true" data-model-status>{s.idle}</p>
+      <div class="model-toolbar" role="group" aria-label={s.controls} data-model-controls hidden>
+        {[
+          ['left','↶',s.left], ['right','↷',s.right], ['up','↑',s.up], ['down','↓',s.down],
+          ['in','＋',s.zoomIn], ['out','−',s.zoomOut], ['reset','⟲',s.reset],
+        ].map(([action,icon,label]) => <button type="button" class="button secondary" data-model-action={action}><span aria-hidden="true">{icon}</span><span>{label}</span></button>)}
+      </div>
+      <div class="model-active-help" data-model-help hidden><p class="subtle">{s.instructions}</p><button type="button" class="text-link model-unload" data-model-unload>{s.showPoster}</button></div>
+      <noscript><p class="notice">{s.noScript}</p></noscript>
+    </div>
+    <div class="model-notes">
+      <h3>{model.title[lang]}</h3><p>{model.description[lang]}</p>
+      {model.status === 'preview' && <p class="model-prototype-note">{s.prototype}</p>}
+      <dl class="metadata"><dt>{s.version}</dt><dd>v{model.version}</dd><dt>{s.reviewed}</dt><dd><time datetime={model.reviewedAt}>{model.reviewedAt}</time></dd><dt>{s.license}</dt><dd><a class="text-link" href={model.licenseUrl} target="_blank" rel="noopener noreferrer">{model.license} ↗</a></dd></dl>
+      <h4>{s.attribution}</h4><ul class="model-credits">{model.attribution.map(a => <li><span>{roleName(a.role)}</span><a class="text-link" href={a.url} target="_blank" rel="noopener noreferrer">{a.name} ↗</a></li>)}</ul>
+      <h4>{s.changes}</h4><p>{model.changes[lang]}</p>
+      <a class="button secondary" href={model.sourceUrl} target="_blank" rel="noopener noreferrer">{s.source} ↗</a>
+      <div class="file-links">{model.notice && <a href={path(model.notice)}>{s.notice}</a>}{model.publicManifest && <a href={path(model.publicManifest)}>{s.manifest}</a>}</div>
+      <p class="model-rights-note">{s.rights}</p><a class="text-link model-vendor-credits" href={path('viewer-licenses.txt')}>{s.viewerCredits}</a>
+    </div>
+  </div>
+</section>
+<script>import '../scripts/model-preview';</script>

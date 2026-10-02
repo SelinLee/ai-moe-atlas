@@ -1,0 +1,12 @@
+---
+import { path } from '../lib/paths';
+import { modelText } from '../lib/model-text';
+import type { CharacterModel } from '../lib/models';
+import type { Locale } from '../lib/i18n';
+const { model, lang } = Astro.props as { model: CharacterModel; lang: Locale };
+const s = modelText[lang];
+---
+<a class="model-highlight" href={path(`${lang}/characters/${model.characterId}/#model-preview`)}>
+  <div class="model-highlight-art"><img src={path(model.poster)} alt={model.title[lang]} width="480" height="480" loading="lazy"/><span class="model-highlight-badge">3D · {model.status === 'preview' ? s.preview : s.released}</span><span class="model-highlight-orbit" aria-hidden="true">↻</span></div>
+  <div class="model-highlight-copy"><p class="eyebrow">{s.eyebrow}</p><h2>{s.heading}</h2><p>{s.teaser}</p><span class="button">{s.open}<span aria-hidden="true">↗</span></span></div>
+</a>

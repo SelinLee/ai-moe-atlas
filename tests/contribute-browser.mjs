@@ -5,7 +5,7 @@ import { forms, issueURL } from '../src/lib/contribution.mjs';
 const origin = process.env.ATLAS_TEST_URL ?? 'http://127.0.0.1:4322/ai-moe-atlas';
 const repo = 'https://github.com/SelinLee/ai-moe-atlas';
 await mkdir('.qa', { recursive: true });
-const browser = await chromium.launch({ channel: 'chrome', headless: true });
+const browser = await chromium.launch({ ...(process.env.CHROME_PATH ? { executablePath: process.env.CHROME_PATH } : { channel: 'chrome' }), headless: true });
 const context = await browser.newContext({ viewport: { width: 1440, height: 1100 } });
 const page = await context.newPage();
 const errors = [], external = [];
