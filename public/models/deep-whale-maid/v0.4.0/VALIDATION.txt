@@ -1,0 +1,54 @@
+Deep Whale Maid v0.4.0 — validation / 检查 / 検証
+2026-10-02
+
+Source Blender SHA-256:
+0df78bccdad618de18d4169c3638edec85d5264b5bc91ed6de559ccc7429fdf1
+GLB SHA-256:
+deb80d14756f15e2637c948b2a05d524bd2a876cca04714b7dd0bab35b636fe1
+
+English
+- Exported directly from the accepted, editable Blender scene; 185 named parts.
+- Static full-body model: two legs and a plump whale tail. No rig, animation,
+  morph targets or physics. Side/back and hidden construction are inferred.
+- glTF 2.0: 11,675,648 bytes, 14 material draw groups, 482,624 triangles.
+- Khronos glTF Validator: 0 errors, warnings, information messages or hints.
+- Export-only cleanup removes 320 exactly zero-area endpoint triangles while
+  preserving every vertex attribute. Source geometry and artwork are unchanged.
+- Stored positions/colors/normals are finite; serialized normals are unit/nonzero.
+  Very thin triangles can yield near-zero derived corner normals on Blender import.
+- Reimported in Blender and compared with the source. Front, side, back and 45°
+  renders were inspected. Rear scalp/root fit corrected; accepted face retained.
+- The .blend needs no external image or linked library. Its only packed image is
+  the approved AI-generated reference sheet. Original private uploads are absent.
+- Separate decorative surfaces are intentional. This is not a watertight print model.
+- Browser limitation: the available cloud Chrome has WebGL disabled. Actual live
+  3D rendering, rotation, zoom and reset could not be visually verified there.
+  Poster, source/rights text and graceful failure remain available without WebGL.
+
+中文
+- 直接由已确认的可编辑 Blender 场景导出，共 185 个命名分件。
+- 静态全身模型，包含双腿与饱满鲸尾；无绑定、动画、表情变形或物理。
+  侧背面和隐藏结构为推断。GLB 11,675,648 字节、14 个材质绘制组、482,624 个三角形。
+- Khronos glTF 检查：错误、警告、信息及提示均为 0。
+- 仅在导出时去除 320 个面积严格为零的端点三角形，保留所有顶点属性。
+  存储的法线为有效单位向量；极细小三角形导入 Blender 后可产生近零的派生角法线。
+- 已重导入 Blender 并对照源场景检查正面、侧面、背面与 45° 渲染。
+  修正后脑发壳及发根穿插，保留已确认的脸部。
+- .blend 无外部图片或链接库依赖，仅内嵌已确认的 AI 生成多视图；无用户原始上传图。
+- 装饰性独立曲面是有意保留的，不是封闭的 3D 打印模型。
+- 可用云端 Chrome 禁用了 WebGL，因此未能目视验证网页实时 3D 旋转、缩放和重置。
+  无 WebGL 时仍提供静态图、来源许可和明确的失败提示。
+
+日本語
+- 承認済みの編集可能な Blender シーンから直接書き出し。名前付き185パーツ。
+- 両脚と丸く太い尾を持つ静止全身モデル。リグ・アニメーション・モーフ・物理は未実装。
+  側背面と隠れた構造は推測。GLBは11,675,648バイト、14材質グループ、482,624三角形。
+- Khronos glTF Validatorのエラー・警告・情報・ヒントはすべて0。
+- 書き出し時だけ面積ゼロの端点三角形320個を除去し、全頂点属性を維持。
+  保存された法線は有効な単位ベクトル。極小面の再読込では近ゼロの派生角法線が生じ得ます。
+- Blenderへ再読込し、元シーンと正面・側面・背面・45°画像を比較。
+  後頭部の髪の交差を修正し、承認済みの顔を保持しました。
+- 外部画像やリンクライブラリは不要。承認済みAI生成参考図のみを内包し、元の私的画像は含みません。
+- 装飾用の独立曲面を含むため、水密な3Dプリント用モデルではありません。
+- 利用可能なクラウドChromeではWebGLが無効で、実際のWeb表示・回転・ズーム・リセットは目視未検証。
+  静止画像、出典・利用条件、読み込み失敗時の案内は利用できます。

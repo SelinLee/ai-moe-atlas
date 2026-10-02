@@ -53,16 +53,16 @@
 
 <table>
   <tr>
-    <th>全身3Dモデル v0.3</th>
+    <th>全身3Dモデル v0.4</th>
     <th>AI生成の多視点参考図 v2</th>
   </tr>
   <tr>
-    <td align="center" width="32%"><a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/deep-whale-maid/#model-preview"><img src="public/models/deep-whale-maid/v0.3.0/poster.webp" width="260" alt="全身3Dモデル v0.3"></a><br><a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/deep-whale-maid/#model-preview">回転できる3Dプレビューを開く</a></td>
+    <td align="center" width="32%"><a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/deep-whale-maid/#model-preview"><img src="public/models/deep-whale-maid/v0.4.0/poster.webp" width="260" alt="全身3Dモデル v0.4"></a><br><a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/deep-whale-maid/#model-preview">回転できる3Dプレビューを開く</a></td>
     <td align="center" width="68%"><a href="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png"><img src="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png" width="640" alt="AI生成の多視点参考図 v2"></a><br><a href="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png">参考図を原寸で見る</a></td>
   </tr>
 </table>
 
-全身4方向と顔3方向の建模用参考図です。側面・背面・脚・隠れた部分は解釈による補完で、作者の原設定画や寸法校正済みの正投影図ではありません。独立した参考資料として追加しており、既存の v0.3 モデルは変更していません。
+v0.4 は頭蓋・胴体・服の奥行きを増し、短く丸い顎、広めの目の間隔、青い虹彩のグラデーションを採用。リグとアニメーションは未実装の静止全身モデルです。右側の AI 参考図は全身4方向と顔3方向を収録し、今回の改良の設計参考として使用しました。側面・背面・脚・隠れた部分は推測による補完で、作者の原設定や寸法校正済みの正投影図ではありません。
 
 上善无形 → ZipZipPipe → Small-tailqwq。AI Moe Atlas による生成派生参考図。 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) · [クレジット・出典・利用上の注意](public/models/deep-whale-maid/README.md).
 

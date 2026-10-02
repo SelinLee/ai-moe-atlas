@@ -53,16 +53,16 @@ These are collected, unofficial works. Previews only resize, pad and convert for
 
 <table>
   <tr>
-    <th>Full-body 3D model v0.3</th>
+    <th>Full-body 3D model v0.4</th>
     <th>AI-generated multi-view reference v2</th>
   </tr>
   <tr>
-    <td align="center" width="32%"><a href="https://selinlee.github.io/ai-moe-atlas/en/characters/deep-whale-maid/#model-preview"><img src="public/models/deep-whale-maid/v0.3.0/poster.webp" width="260" alt="Full-body 3D model v0.3"></a><br><a href="https://selinlee.github.io/ai-moe-atlas/en/characters/deep-whale-maid/#model-preview">Open the rotatable 3D preview</a></td>
+    <td align="center" width="32%"><a href="https://selinlee.github.io/ai-moe-atlas/en/characters/deep-whale-maid/#model-preview"><img src="public/models/deep-whale-maid/v0.4.0/poster.webp" width="260" alt="Full-body 3D model v0.4"></a><br><a href="https://selinlee.github.io/ai-moe-atlas/en/characters/deep-whale-maid/#model-preview">Open the rotatable 3D preview</a></td>
     <td align="center" width="68%"><a href="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png"><img src="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png" width="640" alt="AI-generated multi-view reference v2"></a><br><a href="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png">View the full reference sheet</a></td>
   </tr>
 </table>
 
-Four full-body views and three face studies for further modeling. Side, back, legs and hidden details are designed interpretations, not creator originals or calibrated orthographic views. The sheet is a separate reference; adding it does not change the existing v0.3 model.
+v0.4 adds depth to the skull, torso and clothing, a shorter rounded chin, wider eye spacing and blue iris gradients. It remains a static full-body model with no rig or animation. The AI reference sheet on the right contains four full-body views and three face studies and guided this refinement. Side, back, legs and hidden details are inferred designs, not original creator designs or calibrated orthographic views.
 
 上善无形 → ZipZipPipe → Small-tailqwq; AI Moe Atlas generated the derivative reference. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) · [Attribution, sources and use notes](public/models/deep-whale-maid/README.md).
 
