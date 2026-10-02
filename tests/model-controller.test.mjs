@@ -1,6 +1,6 @@
 import { test, mock } from 'node:test';
 import assert from 'node:assert/strict';
-import { initializeModelPreview } from '../src/scripts/model-preview.mjs';
+import { initializeModelPreview, supportsWebGL2 } from '../src/scripts/model-preview.mjs';
 class Element {
   constructor(dataset = {}) { this.dataset=dataset; this.attributes={}; this.hidden=false; this.disabled=false; this.events=new Map(); this.children=[]; }
   addEventListener(type, callback) { this.events.set(type,[...(this.events.get(type)??[]),callback]); }
@@ -15,8 +15,8 @@ class Element {
   getCameraOrbit() { return this.orbit??{theta:0,phi:1.36,radius:2}; }
   jumpCameraToGoal() { this.jumped=true; }
 }
-function harness({load=async()=>{},reducedMotion=false}={}) {
-  const messages={load:'Load',idle:'Idle',loading:'Loading',ready:'Ready',error:'Error',retry:'Retry',moved:'Moved',resetDone:'Reset',posterDone:'Still'};
+function harness({load=async()=>{},reducedMotion=false,graphicsAvailable=()=>true}={}) {
+  const messages={load:'Load',idle:'Idle',loading:'Loading',ready:'Ready',error:'Error',unsupported:'Unsupported graphics',retry:'Retry',moved:'Moved',resetDone:'Reset',posterDone:'Still'};
   const root=new Element({messages:JSON.stringify(messages),src:'/atlas/models/whale.glb',poster:'/atlas/models/poster.webp',title:'Model',description:'Description',lang:'ja',state:'idle'});
   const nodes=Object.fromEntries(['.model-stage','[data-model-mount]','[data-model-poster]','[data-model-overlay]','[data-model-load]','[data-model-load-label]','[data-model-status]','[data-model-controls]','[data-model-help]','[data-model-unload]'].map(selector=>[selector,new Element()]));
   nodes['[data-model-controls]'].firstButton=new Element();
@@ -26,7 +26,7 @@ function harness({load=async()=>{},reducedMotion=false}={}) {
   globalThis.document={createElement(){const viewer=new Element();viewers.push(viewer);return viewer;}};
   globalThis.addEventListener=(type,callback)=>pageEvents[type]=callback;
   let loads=0;
-  initializeModelPreview(root,()=>{loads++;return load();});
+  initializeModelPreview(root,()=>{loads++;return load();},graphicsAvailable);
   return {root,nodes,viewers,pageEvents,loads:()=>loads,click:()=>nodes['[data-model-load]'].dispatch('click')};
 }
 test('preview controller defers loading, ignores double activation, and exposes deliberate controls',async()=>{
@@ -64,4 +64,21 @@ test('module-load rejection and timeout both recover, and late startup never mou
   let resolve;const slow=harness({load:()=>new Promise(done=>resolve=done)});
   const pending=slow.click();mock.timers.tick(45001);assert.equal(slow.root.dataset.state,'error');
   resolve();await pending;assert.equal(slow.viewers.length,0);mock.timers.reset();
+});
+
+test('unavailable WebGL never imports the renderer or hides the still image, and remains retryable',async()=>{
+  const h=harness({graphicsAvailable:()=>false});await h.click();
+  assert.equal(h.loads(),0);assert.equal(h.viewers.length,0);assert.equal(h.root.dataset.state,'error');
+  assert.equal(h.nodes['[data-model-status]'].textContent,'Unsupported graphics');
+  assert.equal(h.nodes['[data-model-poster]'].hidden,false);assert.equal(h.nodes['[data-model-controls]'].hidden,true);
+  assert.equal(h.nodes['[data-model-load]'].disabled,false);await h.click();assert.equal(h.loads(),0);
+});
+test('WebGL capability probe rejects missing/lost/throwing contexts and releases a supported context',()=>{
+  for(const getContext of [()=>null,()=>({isContextLost:()=>true}),()=>{throw Error('GPU unavailable');}]){globalThis.document={createElement:()=>({getContext})};assert.equal(supportsWebGL2(),false);}
+  let released=false;globalThis.document={createElement:()=>({getContext:type=>{assert.equal(type,'webgl2');return {isContextLost:()=>false,getExtension:()=>({loseContext(){released=true;}})};}})};
+  assert.equal(supportsWebGL2(),true);assert.equal(released,true);
+});
+test('camera startup failures restore the poster instead of announcing a false successful render',async()=>{
+  const h=harness();await h.click();h.viewers[0].jumpCameraToGoal=()=>{throw Error('Renderer lost');};await h.viewers[0].dispatch('load');
+  assert.equal(h.root.dataset.state,'error');assert.equal(h.nodes['[data-model-poster]'].hidden,false);
 });

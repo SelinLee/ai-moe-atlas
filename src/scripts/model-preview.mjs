@@ -12,7 +12,18 @@ const a11yLabels = {
 };
 const clamp = (value, minimum, maximum) => Math.max(minimum, Math.min(maximum, value));
 
-export function initializeModelPreview(root, viewerLoader = loadViewer) {
+export function supportsWebGL2() {
+  try {
+    const canvas = document.createElement('canvas');
+    const context = canvas.getContext('webgl2', { failIfMajorPerformanceCaveat: false });
+    if (!context || context.isContextLost()) return false;
+    // Release the small capability-check context before starting the real renderer.
+    context.getExtension('WEBGL_lose_context')?.loseContext();
+    return true;
+  } catch { return false; }
+}
+
+export function initializeModelPreview(root, viewerLoader = loadViewer, graphicsAvailable = supportsWebGL2) {
   const messages = JSON.parse(root.dataset.messages);
   const stage = root.querySelector('.model-stage');
   const mount = root.querySelector('[data-model-mount]');
@@ -63,15 +74,17 @@ export function initializeModelPreview(root, viewerLoader = loadViewer) {
     loadLabel.textContent = messages.loading;
     status.textContent = messages.loading;
     stage.setAttribute('aria-busy', 'true');
-    const fail = () => {
+    const fail = (message = messages.error) => {
       if (attempt !== generation) return;
       failures++;
-      showStill(messages.error, 'error');
+      showStill(message, 'error');
       loadButton.focus({ preventScroll: true });
     };
     // A lost connection or failed custom-element startup must not leave a spinner forever.
-    timeout = setTimeout(fail, 45000);
+    timeout = setTimeout(() => fail(), 45000);
     try {
+      // model-viewer can emit load for fetched geometry even when WebGL startup failed.
+      if (!graphicsAvailable()) { fail(messages.unsupported ?? messages.error); return; }
       await viewerLoader();
       if (attempt !== generation) return;
       const element = document.createElement('model-viewer');
@@ -93,12 +106,15 @@ export function initializeModelPreview(root, viewerLoader = loadViewer) {
       element.setAttribute('reveal', 'auto');
       element.setAttribute('poster', root.dataset.poster);
       updateMotion();
-      element.addEventListener('error', fail, { once: true });
+      element.addEventListener('error', () => fail(), { once: true });
       element.addEventListener('load', () => {
         if (attempt !== generation) return;
+        try {
+          element.jumpCameraToGoal();
+          initialOrbit = { ...element.getCameraOrbit() };
+          if (![initialOrbit.theta, initialOrbit.phi, initialOrbit.radius].every(Number.isFinite) || initialOrbit.radius <= 0) { fail(); return; }
+        } catch { fail(); return; }
         clearTimeout(timeout);
-        element.jumpCameraToGoal();
-        initialOrbit = { ...element.getCameraOrbit() };
         root.dataset.state = 'ready';
         stage.setAttribute('aria-busy', 'false');
         poster.hidden = true;

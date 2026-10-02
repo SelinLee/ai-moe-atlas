@@ -11,7 +11,7 @@ const roleName = (role: string | { zh: string; en: string; ja: string }) => type
 ---
 <section id="model-preview" class="model-preview-section" aria-labelledby={`${instanceId}-title`}>
   <div class="section-title"><div><p class="eyebrow">{s.eyebrow}</p><h2 id={`${instanceId}-title`}>{s.feature}</h2></div><span class:list={['model-state', model.status]}>{model.status === 'preview' ? s.preview : s.released} · v{model.version}</span></div>
-  <div class="model-preview-layout" data-model-preview data-state="idle" data-src={path(model.src)} data-poster={path(model.poster)} data-lang={lang} data-title={model.title[lang]} data-description={model.description[lang]} data-messages={JSON.stringify({ load:s.load, loading:s.loading, ready:s.ready, idle:s.idle, error:s.error, retry:s.retry, moved:s.moved, resetDone:s.resetDone, posterDone:s.posterDone })}>
+  <div class="model-preview-layout" data-model-preview data-state="idle" data-src={path(model.src)} data-poster={path(model.poster)} data-lang={lang} data-title={model.title[lang]} data-description={model.description[lang]} data-messages={JSON.stringify({ load:s.load, loading:s.loading, ready:s.ready, idle:s.idle, error:s.error, unsupported:s.unsupported, retry:s.retry, moved:s.moved, resetDone:s.resetDone, posterDone:s.posterDone })}>
     <div class="model-interaction">
       <div class="model-stage" aria-busy="false" aria-describedby={`${instanceId}-status`}>
         <span class="model-stage-label" aria-hidden="true">3D / {model.version}</span>
