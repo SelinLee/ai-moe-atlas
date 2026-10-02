@@ -1,0 +1,68 @@
+{
+  "id": "whale-maid-multiview-reference-v2",
+  "kind": "AI-generated character turnaround / modeling concept reference",
+  "generatedAt": "2026-10-02",
+  "file": "whale-maid-multiview-reference-v2.png",
+  "width": 1536,
+  "height": 1024,
+  "bytes": 2310093,
+  "sha256": "dfb91fd0253ec3793a84dc33350a42e7b676744d66f4d9ffcc8d6b8244d956eb",
+  "license": "CC-BY-NC-SA-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "attribution": [
+    {
+      "name": "上善无形",
+      "role": "Original whale-girl character",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "name": "ZipZipPipe",
+      "role": "DeepSeek maid redesign",
+      "url": "https://t.bilibili.com/1231980045693616162"
+    },
+    {
+      "name": "Small-tailqwq",
+      "role": "MaidAtelier reference adaptation",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier"
+    },
+    {
+      "name": "AI Moe Atlas",
+      "role": "AI-generated turnaround derivative",
+      "url": "https://github.com/SelinLee/ai-moe-atlas"
+    }
+  ],
+  "upstreamLicense": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/LICENSE-ARTWORK",
+  "upstreamNotice": "https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/NOTICE",
+  "inputReferences": {
+    "kind": "Two supplied cropped reference images, byte-identical",
+    "count": 2,
+    "uniqueImages": 1,
+    "sha256": "cd0ece07e7c9067cd237396f2d861a3c393d1fb9e4f07392d478f11e8d1f76fd",
+    "bytes": 473049,
+    "redistributed": false,
+    "observation": "Cropped before the lower legs; no original side or back views are supplied."
+  },
+  "processingHistory": [
+    {
+      "date": "2026-10-02",
+      "step": "Generated a new multi-view drawing from supplied whale-maid reference pixels using image_gen; four full-body views and three face studies."
+    },
+    {
+      "date": "2026-10-02",
+      "step": "Targeted image edit corrected the back-view tail to character anatomical left."
+    },
+    {
+      "date": "2026-10-02",
+      "step": "Published the final 1536 × 1024 PNG unchanged beside the 3D model documentation; reviewed all visible panels."
+    }
+  ],
+  "limitations": [
+    "AI-generated derivative, not an original creator production sheet or a canonical design.",
+    "Side, back, hidden costume/anatomy, legs, stockings, shoes, back apron bow and tail attachment are designed interpretations.",
+    "Illustrative modeling guidance, not calibrated orthographic measurements; the three-quarter view is shallow.",
+    "The soft illustrated side profile does not establish exact cranial, nose, cheek or chin depth.",
+    "The tail attachment is obscured by hair/skirt; hair and ahoge asymmetry require reconciliation in 3D.",
+    "Published as a separate reference asset; this documentation change does not modify any model geometry, model version or manifest."
+  ],
+  "modelGeometryChanged": false
+}

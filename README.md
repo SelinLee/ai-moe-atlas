@@ -49,6 +49,23 @@
 
 <sub>GPT、Gemini、Claude、Kimi、千问：<a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a>，署名、非商用；鲸鱼娘：<a href="https://www.bilibili.com/opus/1231977657712771073">上善无形</a>，<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>。<a href="RIGHTS.md">逐件使用条件与证据</a>。</sub>
 
+## 鲸鱼娘 · 3D 模型与多视图参考
+
+<table>
+  <tr>
+    <th>3D 全身模型 v0.3</th>
+    <th>AI 生成多视图参考 v2</th>
+  </tr>
+  <tr>
+    <td align="center" width="32%"><a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/deep-whale-maid/#model-preview"><img src="public/models/deep-whale-maid/v0.3.0/poster.webp" width="260" alt="3D 全身模型 v0.3"></a><br><a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/deep-whale-maid/#model-preview">打开可旋转 3D 预览</a></td>
+    <td align="center" width="68%"><a href="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png"><img src="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png" width="640" alt="AI 生成多视图参考 v2"></a><br><a href="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png">查看完整参考图</a></td>
+  </tr>
+</table>
+
+四个全身视角与三个脸部研究图，供后续建模对照。侧面、背面、腿部与遮挡细节为设计性补充；并非作者原始设定图或校准正交图。参考图单独提供，现有 v0.3 模型未因本次加图而改变。
+
+上善无形 → ZipZipPipe → Small-tailqwq；AI Moe Atlas 生成派生参考。 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) · [署名、来源与使用说明](public/models/deep-whale-maid/README.md).
+
 ## 现在可以做什么
 
 - 浏览 26 个来源条目、12 个 AI 产品／系列和 8 个精选角色。13 个条目的本站展示用途已按留存证据核对，13 组素材包可下载。
@@ -72,7 +89,7 @@
 
 素材来自上善无形的 B 站原始动态、Small-tailqwq/dsh-deep-whale，以及 ZipZipPipe 本人的 [Pixiv 原图集](https://www.pixiv.net/artworks/148186519)。原有三包为 **CC BY-NC-SA 4.0**；新增 GPT、Gemini、Claude、Kimi、千问、GLM、Grok、豆包、Llama、MiniMax 十包按作者的 **署名、非商用** 条件提供，不套用 DeepSeek 的 CC 许可。仓库代码的 MIT 许可不覆盖第三方图片。
 
-优先获取原作者发布的高清原图；原图不可得时，可依据已收集参考制作固定形象派生图，并单独标注生成来源、身份与加工记录，不冒充作者原图或恢复出的细节。这是项目约束允许的后续路径，尚未上线，不扩大上游许可，也不允许凭空新造无关角色或设定。
+优先获取原作者发布的高清原图；原图不可得时，可依据已收集参考制作固定形象派生图，并单独标注生成来源、身份与加工记录，不冒充作者原图或恢复出的细节。鲸鱼娘的独立生成参考图见上方 3D 区域；工坊未集成生成式处理，不扩大上游许可，也不允许凭空新造无关角色或设定。
 
 ## 资料与维护
 

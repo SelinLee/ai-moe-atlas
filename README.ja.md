@@ -49,6 +49,23 @@
 
 <sub>GPT・Gemini・Claude・Kimi・Qwen：<a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a>、作者表示必須・非商用。クジラ娘：<a href="https://www.bilibili.com/opus/1231977657712771073">上善无形</a>、<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>。<a href="RIGHTS.md">作品ごとの利用条件と根拠</a>。</sub>
 
+## クジラ娘 · 3Dモデルと多視点参考図
+
+<table>
+  <tr>
+    <th>全身3Dモデル v0.3</th>
+    <th>AI生成の多視点参考図 v2</th>
+  </tr>
+  <tr>
+    <td align="center" width="32%"><a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/deep-whale-maid/#model-preview"><img src="public/models/deep-whale-maid/v0.3.0/poster.webp" width="260" alt="全身3Dモデル v0.3"></a><br><a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/deep-whale-maid/#model-preview">回転できる3Dプレビューを開く</a></td>
+    <td align="center" width="68%"><a href="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png"><img src="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png" width="640" alt="AI生成の多視点参考図 v2"></a><br><a href="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png">参考図を原寸で見る</a></td>
+  </tr>
+</table>
+
+全身4方向と顔3方向の建模用参考図です。側面・背面・脚・隠れた部分は解釈による補完で、作者の原設定画や寸法校正済みの正投影図ではありません。独立した参考資料として追加しており、既存の v0.3 モデルは変更していません。
+
+上善无形 → ZipZipPipe → Small-tailqwq。AI Moe Atlas による生成派生参考図。 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) · [クレジット・出典・利用上の注意](public/models/deep-whale-maid/README.md).
+
 ## できること
 
 - 出典付き26項目、AI 製品・シリーズ12種、ピックアップ8項目を閲覧。13項目の図鑑内表示用途を保存済み根拠と照合し、13組の素材集を提供しています。
@@ -72,7 +89,7 @@
 
 上善无形の Bilibili 投稿、Small-tailqwq/dsh-deep-whale、[ZipZipPipe 本人の Pixiv 作品集](https://www.pixiv.net/artworks/148186519)から収集。従来の3組は **CC BY-NC-SA 4.0**。追加の GPT・Gemini・Claude・Kimi・Qwen・GLM・Grok・豆包・Llama・MiniMax の10組は作者の **クレジット必須・非商用** 条件に従い、DeepSeek の CC 許諾とは区別します。コードの MIT は第三者の画像には適用されません。
 
-作者が公開した高解像度原図を優先します。入手できない場合、収集した参照画像を基に同一の姿を保つ派生画像を生成できますが、作者・出典・加工履歴を保持し、生成派生物として別途明記します。作者の原図や復元された細部とは表記しません。この方針上の将来の処理は未実装で、上流の許諾を拡大せず、無関係なキャラクターや設定の創作も認めません。
+作者が公開した高解像度原図を優先します。入手できない場合、収集した参照画像を基に同一の姿を保つ派生画像を生成できますが、作者・出典・加工履歴を保持し、生成派生物として別途明記します。作者の原図や復元された細部とは表記しません。クジラ娘の独立した生成参考図は上の3D欄に掲載しています。工房に生成処理は組み込んでいません。上流の許諾を拡大せず、無関係なキャラクターや設定の創作も認めません。
 
 ## 維持・更新
 

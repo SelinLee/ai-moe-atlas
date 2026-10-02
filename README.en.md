@@ -49,6 +49,23 @@ These are collected, unofficial works. Previews only resize, pad and convert for
 
 <sub>GPT, Gemini, Claude, Kimi and Qwen: <a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a>, attribution required, non-commercial only. Whale Girl: <a href="https://www.bilibili.com/opus/1231977657712771073">上善无形</a>, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>. <a href="RIGHTS.md">Artwork-specific terms and evidence</a>.</sub>
 
+## Whale Maid · 3D model and multi-view reference
+
+<table>
+  <tr>
+    <th>Full-body 3D model v0.3</th>
+    <th>AI-generated multi-view reference v2</th>
+  </tr>
+  <tr>
+    <td align="center" width="32%"><a href="https://selinlee.github.io/ai-moe-atlas/en/characters/deep-whale-maid/#model-preview"><img src="public/models/deep-whale-maid/v0.3.0/poster.webp" width="260" alt="Full-body 3D model v0.3"></a><br><a href="https://selinlee.github.io/ai-moe-atlas/en/characters/deep-whale-maid/#model-preview">Open the rotatable 3D preview</a></td>
+    <td align="center" width="68%"><a href="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png"><img src="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png" width="640" alt="AI-generated multi-view reference v2"></a><br><a href="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png">View the full reference sheet</a></td>
+  </tr>
+</table>
+
+Four full-body views and three face studies for further modeling. Side, back, legs and hidden details are designed interpretations, not creator originals or calibrated orthographic views. The sheet is a separate reference; adding it does not change the existing v0.3 model.
+
+上善无形 → ZipZipPipe → Small-tailqwq; AI Moe Atlas generated the derivative reference. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) · [Attribution, sources and use notes](public/models/deep-whale-maid/README.md).
+
 ## What you can do
 
 - Browse 26 source entries, 12 AI products/families, and 8 featured characters. Atlas display uses for 13 entries were checked against retained evidence; 13 asset packs are downloadable.
@@ -72,7 +89,7 @@ Recorded in local Chrome, with five steps held for 3 seconds each: filter by sty
 
 Collected from 上善无形’s Bilibili post, Small-tailqwq/dsh-deep-whale and [ZipZipPipe’s Pixiv collection](https://www.pixiv.net/artworks/148186519). The original three packs retain **CC BY-NC-SA 4.0**. The ten new GPT, Gemini, Claude, Kimi, Qwen, GLM, Grok, Doubao, Llama and MiniMax packs use the creator’s **attribution and non-commercial** terms; they are not relabeled with DeepSeek’s CC license. The code MIT license excludes third-party artwork.
 
-Prefer creator-published high-resolution originals. If unavailable, a fixed depiction may be generated from collected references, preserving identity and provenance and labeling the generated derivative separately. It must not be presented as a creator original or recovered detail. This permitted future workflow is not an available feature, grants no additional upstream rights, and does not allow inventing unrelated characters or lore.
+Prefer creator-published high-resolution originals. If unavailable, a fixed depiction may be generated from collected references, preserving identity and provenance and labeling the generated derivative separately. It must not be presented as a creator original or recovered detail. A separate generated Whale Maid reference is available in the 3D section above; the studio does not integrate generative processing. This grants no additional upstream rights and does not allow inventing unrelated characters or lore.
 
 ## Maintain
 
