@@ -1,0 +1,75 @@
+Deep Whale Maid — stylized full-body 3D prototype v0.3.0
+深海女仆鲸鱼娘 — 风格化全身 3D 原型 v0.3.0
+深海メイドのクジラ娘 — デフォルメ全身3D試作 v0.3.0
+
+License / 许可 / ライセンス: CC BY-NC-SA 4.0
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Non-commercial use only; preserve complete attribution and changes; share
+adaptations under the same license. No endorsement by the original creators.
+The website code's MIT license DOES NOT cover this 3D mesh or its renders.
+
+Attribution / 署名 / クレジット
+1. 上善无形 (上善): original whale-girl character / 原角色 / キャラクター原案
+   https://www.bilibili.com/opus/1231977657712771073
+   https://www.pixiv.net/users/62155430
+2. ZipZipPipe: DeepSeek maid redesign / 女仆二创设计 / メイド二次デザイン
+   https://t.bilibili.com/1231980045693616162
+   https://www.pixiv.net/users/18604994
+3. Small-tailqwq: published reference adaptation / 参考图发布与加工 / 参考素材公開・加工
+   https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier
+4. AI Moe Atlas: new AI-assisted procedural 3D reconstruction / 全新 AI 辅助程序化 3D 重建 / 新規AI支援プロシージャル3D再構成
+   https://github.com/SelinLee/ai-moe-atlas
+
+Source artwork (existing bytes preserved separately)
+https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/assets/icons/delighted-cutout.png
+Source-specific permission and attribution:
+https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/LICENSE-ARTWORK
+https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/NOTICE
+
+Changes / 修改 / 変更 (2026-10-02)
+Final face selection: C, with larger rounded eyes, softer brows and a small omega
+smile. The other 166 refined parts are unchanged.
+最终采用用户选定的 C 版圆润大眼、柔和眉形与小 ω 微笑；其余 166 个细修部件保持不变。
+最終顔はユーザー選択の C（大きく丸い目・柔らかな眉・小さな ω の口）で、他の166部品を維持。
+
+A reference-fidelity refinement of the v0.2 static full-body reconstruction.
+New shallow, shaped eyes use painted vertex-color gradients rather than raised
+circular discs. Flattened swept hair clumps have finer blue tips, a thinner looped
+ahoge and softer cheek-framing locks. Headband lace, fin undersides, ribbons,
+cuffs and apron edges are thinner. The closed omega smile, hands-on-hips pose,
+navy maid dress, whale emblem and two stockinged legs/shoes remain.
+At the user's explicit request, the curved whale tail and paired flukes are
+noticeably fuller and rounder for a cuter silhouette.
+
+The supplied costume/expression reference is cropped below the skirt: legs,
+stockings, Mary Jane shoes, side/back volumes and tail depth are inferred design
+additions, not canonical creator details or recovered hidden detail.
+The supplied reference image is not included or redistributed in this pack.
+This is an AI-assisted procedural interpretation, not an original creator model
+or a canonical turnaround. Static mesh only: no skeleton, rig, facial blendshapes,
+physics or animation. No existing MMD/Warudo mesh was copied or converted.
+Generated in Blender 4.3.2. Self-contained GLB uses mesh geometry, materials and
+vertex colors, with no external texture URL or decoder dependency.
+
+v0.3 对静态全身模型进行参考图还原细修：眼睛改为贴合面部的轮廓与顶点色渐变，
+头发改为更扁平的分层曲线发束和细蓝发梢，呆毛、发箍蕾丝、鳍耳、蝴蝶结、袖口与
+围裙边缘更轻薄。保留闭嘴 ω 微笑、叉腰姿势、深蓝女仆服、鲸鱼徽章和双腿鞋袜。
+按用户明确要求，鲸尾曲线和双尾鳍加粗、加圆，呈现更饱满可爱的轮廓。
+参考图在裙摆下方截断，所以腿部、鞋袜、侧后方体积与鲸尾厚度均为推断性补充，
+并非官方设定。单独提供的参考图未同梱。此为 AI 辅助程序化衍生模型，不是原作者
+模型；无骨骼、绑定、表情变形、物理或动画；未使用现成 MMD/Warudo 网格。
+非商业使用、完整署名、相同方式共享的要求不变。
+
+v0.3 は参考画像に沿った静止全身モデルの細部改良です。目を顔に沿う形状と頂点色
+グラデーションに変更し、髪を平たい曲線状の束と細い青い毛先に、アホ毛、ヘッド
+ドレス、ひれ耳、リボン、袖口、エプロンの縁をより薄くしました。閉じた ω の口、
+腰に手を当てたポーズ、紺色のメイド服、クジラの紋章、両脚と靴は維持しています。
+ユーザーの明示的な要望により、湾曲した尾と左右の尾びれを丸く太くしています。
+参考画像に写っていない脚・靴下・靴、側背面の形状、尾の厚みは推測による追加で、
+公式設定や隠れたディテールの復元ではありません。提供参考画像自体は同梱しません。
+AI 支援のプロシージャル派生モデルであり、作者本人による公式モデルではありません。
+骨格、リグ、表情モーフ、物理、アニメーションは未実装。既存 MMD/Warudo メッシュ
+の複製・変換は未使用です。非営利・作者表示・同一条件での共有を守ってください。
+
+Build source: scripts/modeling/build-whale-maid-refined.py
+License: CC BY-NC-SA 4.0. Preserve this notice and UPSTREAM-NOTICE.txt.

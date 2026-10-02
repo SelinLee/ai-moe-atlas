@@ -51,16 +51,30 @@ test('3D reference and permission evidence still match the preserved source byte
     assert.match(notice,/non-commercial/i);assert.match(notice,/share.*same license/is);
   }
 });
-test('prototype limitations are explicit in all three languages and agree with the GLB',()=>{
-  const model=published.find(model=>model.characterId==='deep-whale-maid');
-  assert.equal(model.status,'preview');assert.equal(model.fullBody,false);assert.equal(model.rigged,false);assert.equal(model.animated,false);assert.equal(model.unseenViews,'inferred');
-  const gltf=inspectGlb(readPublic(model.src));
-  assert.equal(gltf.animations?.length??0,0);assert.equal(gltf.skins?.length??0,0);
-  assert.equal(gltf.meshes.some(mesh=>mesh.primitives.some(primitive=>primitive.targets?.length)),false);
-  assert.match(model.description.zh,/静态胸像/);assert.match(model.description.zh,/不是全身模型/);assert.match(model.description.zh,/未绑定.*动画/);
-  assert.match(model.description.en,/static bust/);assert.match(model.description.en,/not a full-body model/);assert.match(model.description.en,/no rig or animation/);
-  assert.match(model.description.ja,/静止バスト/);assert.match(model.description.ja,/全身モデルではなく/);assert.match(model.description.ja,/リグ.*アニメーション.*未実装/);
-  assert.match(model.changes.zh,/侧面.*背面.*推断/);assert.match(model.changes.en,/Side and back.*inferred/);assert.match(model.changes.ja,/側面.*背面.*推測/);
+test('localized model-shape and motion claims agree with the GLB',()=>{
+  const negativeRig={zh:/未绑定|无绑定|尚未绑定|不含[^。]*骨骼/,en:/no rig|unrigged|not (?:yet )?rigged|without (?:a )?rig/i,ja:/リグ[^。]*未実装|リグなし|未リグ|リグ[^。]*未設定/};
+  const negativeAnimation={zh:/未绑定或制作动画|无动画|未制作动画|不含[^。]*动画|尚未[^。]*动画/,en:/no rig or animation|no animation|unanimated|without animation|not animated/i,ja:/アニメーション[^。]*未実装|アニメーションなし|未アニメーション/};
+  const bodyWords={zh:/全身/,en:/full[- ]body/i,ja:/全身/};
+  const bustWords={zh:/胸像/,en:/bust/i,ja:/バスト/};
+  const deniesBody={zh:/不是全身|非全身|仅[^。]*胸像/,en:/not (?:a )?full[- ]body|bust only/i,ja:/全身モデルではなく|バストのみ/};
+  const inferred={zh:/侧面.*背面.*(?:推断|推测)|侧后.*(?:推断|推测)/,en:/side.*back.*inferred/i,ja:/側面.*背面.*推測|側背面.*推測/};
+  for(const model of published.filter(model=>model.characterId==='deep-whale-maid')){
+    for(const field of ['fullBody','rigged','animated'])assert.equal(typeof model[field],'boolean',`${model.version}: ${field} is explicit`);
+    const gltf=inspectGlb(readPublic(model.src));
+    assert.equal((gltf.skins?.length??0)>0,model.rigged,`${model.version}: rig claim matches skeleton data`);
+    assert.equal((gltf.animations?.length??0)>0,model.animated,`${model.version}: animation claim matches clips`);
+    for(const lang of ['zh','en','ja']){
+      const description=model.description[lang];const text=`${description} ${model.changes[lang]}`;
+      assert.match(description,model.fullBody?bodyWords[lang]:bustWords[lang],`${model.version}: ${lang} describes its actual shape`);
+      if(model.fullBody)assert.doesNotMatch(description,deniesBody[lang],`${lang} must not retain the old bust-only caveat`);
+      else assert.match(description,deniesBody[lang],`${lang} explicitly discloses the bust limitation`);
+      if(model.rigged)assert.doesNotMatch(text,negativeRig[lang],`${lang} must not claim an actual rig is missing`);
+      else assert.match(text,negativeRig[lang],`${lang} explicitly discloses no rig`);
+      if(model.animated)assert.doesNotMatch(text,negativeAnimation[lang],`${lang} must not claim actual clips are missing`);
+      else assert.match(text,negativeAnimation[lang],`${lang} explicitly discloses no animation`);
+      if(model.unseenViews==='inferred')assert.match(text,inferred[lang],`${lang} discloses inferred views`);
+    }
+  }
 });
 test('poster decodes, metadata links do not expose unapproved download/commerce actions, and no QA fixture remains',async()=>{
   for(const model of published){
@@ -85,4 +99,18 @@ test('GLB inspection rejects truncation, wrong versions, and corrupt lengths bef
   const badChunk=Buffer.from(bytes);badChunk.writeUInt32LE(0xffffffff,12);assert.throws(()=>inspectGlb(badChunk),/length/);
   const wrongHash={...published[0],sha256:'0'.repeat(64)};assert.ok(modelFileIssues(wrongHash).includes('sha256 mismatch'));
   const wrongLength={...published[0],fileBytes:1};assert.ok(modelFileIssues(wrongLength).includes('fileBytes mismatch'));
+});
+test('the published v0.1 bust and its public provenance remain byte-for-byte preserved',()=>{
+  const base='models/deep-whale-maid/v0.1.0';
+  const manifestBytes=readPublic(`${base}/manifest.json`);
+  assert.equal(sha256(manifestBytes),'aec7b681c58525b99cfd1303ff1b92f9d6d16c110b34c5e9ccc6b251f5fcb8e8','An upgrade must not rewrite v0.1 provenance');
+  const original=JSON.parse(manifestBytes.toString());
+  assert.equal(original.version,'0.1.0');assert.equal(original.fullBody,false);
+  assert.equal(original.src,`${base}/deep-whale-maid.glb`);
+  assert.equal(original.fileBytes,6376860);
+  assert.equal(original.sha256,'a76e1f3a9db05c62ac836c6ceb268af60f91ec2a999233252c22a90840d1cc07');
+  const modelBytes=readPublic(original.src);
+  assert.equal(modelBytes.length,original.fileBytes);assert.equal(sha256(modelBytes),original.sha256);
+  assert.deepEqual(modelFileIssues(original),[]);
+  assert.ok(readPublic(original.notice).length>0);assert.ok(readPublic(original.poster).length>0);
 });

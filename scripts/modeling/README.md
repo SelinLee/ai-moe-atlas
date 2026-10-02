@@ -1,5 +1,25 @@
 # Character model reconstruction
 
+## Current local deliverable: refined full-body v0.3.0
+
+The selected C face has larger, rounder eyes, softer brows and a small omega smile. It retains the refined layered hair, thinner cloth edges and fuller whale tail. Its editable Blender source has 181 named mesh parts. As with v0.2, legs, footwear, tail depth and unseen views are inferred; no rig or animation is included. Public deployment status is separate from this local deliverable.
+
+Run `blender --background --python scripts/modeling/build-whale-maid-refined.py -- --render-views`, review the exported mesh and all views, then run `node scripts/modeling/package-model.mjs`. Set `ATLAS_MODEL_REVIEW_DIR` to choose the local source/render directory. The script-free email pack contains the GLB, editable Blend and license documents; keep executable build scripts in a separate developer pack or this repository.
+
+全身细修 v0.3.0：选定 C 版圆眼脸部，保留细修发束、服装边缘和加粗鲸尾。181 个分件可在 Blender 编辑；腿部、鞋袜与未展示的视角为推断，无绑定或动画。
+
+全身細部改良 v0.3.0：C の丸い目の顔を採用し、改良した髪・服の縁・太い尾を維持。Blender で181部品を編集可能。脚・靴や見えない角度は推測で、リグとアニメーションは未実装です。
+
+## Full-body v0.2.0
+
+A static full-body interpretation with two separately modeled stockinged legs, Mary Jane shoes, a hands-on-hips maid costume, and a continuous whale tail with paired flukes. The approved v0.1 face is retained. The cropped reference does not establish the lower legs or footwear; these and unseen side/back volumes are explicitly inferred. There is no rig, facial morph system, physics or animation.
+
+Run `blender --background --python scripts/modeling/build-whale-maid-fullbody.py -- --render-views`, then `node scripts/modeling/package-model.mjs`. Review all views and the exact exported GLB before changing the current model manifest. Existing published version directories are immutable; create a new version for future changes. v0.1 files remain available byte-for-byte.
+
+全身 v0.2.0：双腿、长袜、玛丽珍鞋、叉腰女仆裙装与连续鲸尾。保留已确认的脸部；裁切外的腿、鞋及侧后方是推断设计，无绑定、表情系统、物理或动画。
+
+全身 v0.2.0：両脚、ストッキング、メリージェーン靴、腰に手を当てたメイド服、連続したクジラの尾。顔は v0.1 を維持。写っていない脚・靴・側背面は推測で、リグ・表情システム・物理・アニメーションは未実装です。
+
 ## Deep Whale Maid v0.1.0
 
 This is an **AI-assisted procedural stylized bust prototype**, adapted from the

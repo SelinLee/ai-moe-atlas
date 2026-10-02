@@ -1,20 +1,20 @@
 {
-  "id": "deep-whale-maid-refined",
+  "id": "deep-whale-maid-fullbody",
   "characterId": "deep-whale-maid",
-  "version": "0.3.0",
+  "version": "0.2.0",
   "status": "preview",
   "rightsReviewed": true,
-  "src": "models/deep-whale-maid/v0.3.0/deep-whale-maid.glb",
-  "poster": "models/deep-whale-maid/v0.3.0/poster.webp",
+  "src": "models/deep-whale-maid/v0.2.0/deep-whale-maid.glb",
+  "poster": "models/deep-whale-maid/v0.2.0/poster.webp",
   "title": {
-    "zh": "鲸鱼娘 · 3D 全身细修版",
-    "en": "Whale Maid · Refined full-body 3D",
-    "ja": "クジラ娘 · 全身3D細部改良版"
+    "zh": "鲸鱼娘 · 3D 全身初版",
+    "en": "Whale Maid · Full-body 3D prototype",
+    "ja": "クジラ娘 · 全身3D試作"
   },
   "description": {
-    "zh": "选用圆润大眼的 C 版表情，保留细修发束、服装边缘和更饱满鲸尾的静态全身模型。可旋转、缩放查看；尚未绑定或制作动画。",
-    "en": "A static full-body model with the selected round-eyed C expression, refined hair and cloth edges, and a fuller whale tail. Rotate and zoom to inspect it. No rig or animation.",
-    "ja": "丸く大きな目の C 表情を採用し、改良した髪・服の縁と丸く太い尾を維持した静止全身モデル。回転・ズームで確認できます。リグとアニメーションは未実装です。"
+    "zh": "风格化静态全身模型，包含双腿、鞋子和鲸鱼尾巴。可旋转、缩放查看；尚未绑定或制作动画。",
+    "en": "A stylized static full-body model with two legs, shoes and a whale tail. Rotate and zoom to inspect it. It has no rig or animation.",
+    "ja": "両脚、靴、クジラの尾を備えたデフォルメ静止全身モデル。回転・ズームで確認できます。リグとアニメーションは未実装です。"
   },
   "license": "CC-BY-NC-SA-4.0",
   "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
@@ -59,9 +59,9 @@
     }
   ],
   "changes": {
-    "zh": "在 v0.2 全身模型基础上细修分层曲线发束、细呆毛与布料边缘，鲸尾加粗、加圆；采用用户选定的 C 版脸部：圆润大眼、柔和眉形和小 ω 微笑。此次脸部选择保留其余 166 个部件不变。腿部、鞋袜、侧后方体积和鲸尾厚度为推断设计，并非官方设定。未使用现成 MMD/Warudo 网格。非商用、完整署名、相同方式共享。",
-    "en": "Refines v0.2 with swept layered hair, a thin looped ahoge, finer cloth edges and a fuller, rounder tail. Uses the user-selected C face: larger rounded eyes, softer brows and a small omega smile, preserving the other 166 parts. Legs, stockings, shoes, unseen side/back volumes and tail depth are inferred, not canonical. No existing MMD/Warudo mesh was used. Non-commercial use, full attribution and ShareAlike are required.",
-    "ja": "v0.2 の髪を層状の曲線にし、細いアホ毛と布の縁、丸く太い尾へ改良。ユーザーが選択した C の顔（大きく丸い目・柔らかな眉・小さな ω の口）を採用し、他の166部品を維持しています。脚・靴下・靴、側背面と尾の厚みは推測で公式設定ではありません。既存MMD/Warudoメッシュは未使用。非営利・作者表示・同一条件での共有が必要です。"
+    "zh": "在胸像版本的角色基础上建立全身体积网格，包括叉腰姿势、女仆裙装、围裙、双腿与鲸鱼尾巴。侧面和背面为推断性重建；参考图裁切之外的腿部、袜子和鞋子同样属于设计推断，并非官方设定。未使用现成 MMD/Warudo 网格。非商用、保留署名、以相同许可共享。",
+    "en": "Extends the bust into a full volumetric model with a hands-on-hips pose, maid dress, apron, two legs and a whale tail. Side and back volumes are inferred; legs, stockings and shoes beyond the cropped reference are also interpretive, not canonical designs. No existing MMD/Warudo mesh was used. Non-commercial use, full attribution and ShareAlike are required.",
+    "ja": "バスト版から、腰に手を当てたポーズ、メイド服、エプロン、両脚、クジラの尾を備えた全身メッシュへ拡張。側面と背面は推測で、参考画像に写っていない脚・靴下・靴も解釈によるデザインです。公式設定ではなく、既存のMMD/Warudoメッシュは未使用。非営利・作者表示・同一条件での共有が必要です。"
   },
   "format": "glTF 2.0 binary",
   "method": "AI-assisted procedural reconstruction in Blender 4.3.2",
@@ -100,9 +100,9 @@
       }
     ]
   },
-  "notice": "models/deep-whale-maid/v0.3.0/NOTICE.txt",
-  "buildScript": "scripts/modeling/build-whale-maid-refined.py",
-  "publicManifest": "models/deep-whale-maid/v0.3.0/manifest.json",
+  "notice": "models/deep-whale-maid/v0.2.0/NOTICE.txt",
+  "buildScript": "scripts/modeling/build-whale-maid-fullbody.py",
+  "publicManifest": "models/deep-whale-maid/v0.2.0/manifest.json",
   "supplementalReference": {
     "kind": "user-supplied image",
     "purpose": "expression, pose, costume and whale-tail silhouette",
@@ -113,17 +113,10 @@
       "version": "0.1.0",
       "kind": "static bust",
       "manifest": "models/deep-whale-maid/v0.1.0/manifest.json"
-    },
-    {
-      "version": "0.2.0",
-      "kind": "static full-body prototype",
-      "manifest": "models/deep-whale-maid/v0.2.0/manifest.json"
     }
   ],
-  "fileBytes": 10854796,
-  "sha256": "188f999134eb1f2dd7c1576ea3ad2a007b85ab456946eb2da7524cb86f92c8ad",
-  "posterSha256": "b872d45e7f3211e4f293912b734fbed3ecbdfab8db68e21da103eb516fa7dac5",
-  "sourceBlendSha256": "97552c8b6f1046ef80295f4b13005d2028733b5f1dbd3ffdb93ba265415490ce",
-  "buildScriptSha256": "0ec395fd1dee6fd80476ec6af456e5fdce0f0ff27bab6eb634235893a5d4f6e3",
-  "selectedFace": "C: rounded eyes, softer brows and a small omega smile"
+  "fileBytes": 9421780,
+  "sha256": "8744870a6482947bb04c57ecb52549ffa929136041e6638c2057ec5297f69c19",
+  "posterSha256": "7e16cbac999e334e3c44389a23b5a54e3caab2e08495da929efe4e3a39011b1b",
+  "sourceBlendSha256": "d387999a836459d73b8193a97b8b9e7c37825455120ad2663df9a4490db98a77"
 }

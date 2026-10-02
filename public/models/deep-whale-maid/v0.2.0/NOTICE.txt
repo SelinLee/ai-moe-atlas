@@ -1,0 +1,61 @@
+Deep Whale Maid — stylized full-body 3D prototype v0.2.0
+深海女仆鲸鱼娘 — 风格化全身 3D 原型 v0.2.0
+深海メイドのクジラ娘 — デフォルメ全身3D試作 v0.2.0
+
+License / 许可 / ライセンス: CC BY-NC-SA 4.0
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+Non-commercial use only; preserve complete attribution and changes; share
+adaptations under the same license. No endorsement by the original creators.
+The website code's MIT license DOES NOT cover this 3D mesh or its renders.
+
+Attribution / 署名 / クレジット
+1. 上善无形 (上善): original whale-girl character / 原角色 / キャラクター原案
+   https://www.bilibili.com/opus/1231977657712771073
+   https://www.pixiv.net/users/62155430
+2. ZipZipPipe: DeepSeek maid redesign / 女仆二创设计 / メイド二次デザイン
+   https://t.bilibili.com/1231980045693616162
+   https://www.pixiv.net/users/18604994
+3. Small-tailqwq: published reference adaptation / 参考图发布与加工 / 参考素材公開・加工
+   https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier
+4. AI Moe Atlas: new AI-assisted procedural 3D reconstruction / 全新 AI 辅助程序化 3D 重建 / 新規AI支援プロシージャル3D再構成
+   https://github.com/SelinLee/ai-moe-atlas
+
+Source artwork (existing bytes preserved separately)
+https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/assets/icons/delighted-cutout.png
+Source-specific permission and attribution:
+https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/LICENSE-ARTWORK
+https://github.com/Small-tailqwq/dsh-deep-whale/blob/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier/NOTICE
+
+Changes / 修改 / 変更 (2026-10-02)
+New static full-body extension of the approved v0.1.0 head and closed omega
+smile. Reconstructed hands-on-hips pose, puff-sleeved maid dress, shaped bib,
+pleated bell skirt, ruffled apron, modeled whale emblem, and one continuous
+curved whale tail with broad paired flukes. Two separate stockinged legs,
+Mary Jane shoes and side/back forms are newly inferred design additions.
+The supplied costume/expression reference is cropped below the skirt: it
+does not establish a canonical design for the legs, stockings or shoes.
+That supplied reference image is not included or redistributed in this pack.
+
+This is an AI-assisted procedural interpretation, not an original creator
+model, recovered hidden detail, or a canonical turnaround. Static mesh only:
+no skeleton, rig, facial blendshapes, physics or animation. No existing
+MMD/Warudo mesh was copied or converted. Generated with Blender 4.3.2;
+self-contained GLB uses mesh geometry, materials and vertex hair color.
+
+保留已确认 v0.1.0 的头部与闭嘴 ω 微笑，扩展为静态全身模型。包含叉腰姿势、
+蓬袖女仆裙、褶皱裙摆、荷叶边围裙、鲸鱼徽章，以及连续弯曲的宽鳍鲸尾。
+参考图在裙摆下方截断，因此双腿、长袜、玛丽珍鞋及侧后方体积为新推断设计，
+并非官方设定或恢复的隐藏细节。单独提供的参考图不在此包中转载。
+此为 AI 辅助程序化衍生模型，不是原作者模型。无骨骼、绑定、表情变形、物理或动画；
+未复制或转换现成 MMD/Warudo 网格。遵守非商业、完整署名及相同方式共享要求。
+
+承認済み v0.1.0 の頭部と口を閉じた ω 微笑みを維持し、静止全身モデルへ拡張。
+腰に手を当てたポーズ、パフ袖、プリーツスカート、フリルエプロン、クジラの紋章、
+幅広い左右の尾びれを持つ連続した湾曲尾を立体化。参考画像はスカート下で切れて
+いるため、両脚・ストッキング・メリージェーン靴・側背面形状は推測による追加で、
+公式設定や隠れたディテールの復元ではありません。提供参考画像自体は同梱しません。
+AI 支援によるプロシージャル派生モデル。骨格、リグ、表情モーフ、物理、アニメーション
+は未実装。既存 MMD/Warudo メッシュの複製・変換は行っていません。
+
+Build source: scripts/modeling/build-whale-maid-fullbody.py
+License: CC BY-NC-SA 4.0. Preserve this notice and UPSTREAM-NOTICE.txt.
