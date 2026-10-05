@@ -1,0 +1,1268 @@
+{
+  "schemaVersion": 1,
+  "metadataVersion": 1,
+  "platform": "manual",
+  "query": "Weekly review of previously discovered AI personification source groups",
+  "searchedAt": "2026-10-05T04:41:28.348Z",
+  "automaticPublication": false,
+  "reviewScope": "source-metadata-only",
+  "datePolicy": {
+    "zh": "保留页面显示日期；显示时区未标明。observedDatetime 单独记录本次看到的 HTML 时间偏移，不推定 IANA 时区。",
+    "en": "Preserve displayed dates; displayed timezone is unspecified. observedDatetime separately records the observed HTML offset without assuming an IANA timezone.",
+    "ja": "表示日付を保持し、表示上のタイムゾーンは未指定。observedDatetime は HTML の時差表記を別記し、IANA タイムゾーンは推定しません。"
+  },
+  "candidates": [
+    {
+      "id": "note-yumie-copilot-claude",
+      "title": "CopilotとClaudeを擬人化",
+      "url": "https://note.com/yumie1991/n/n10fdbd46d19e",
+      "publisher": "ゆみえ",
+      "publisherDisplayName": "ゆみえ",
+      "publicationDate": "2026-08-29",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": "2026-08-29T05:35:57.000+09:00",
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "ゆみえ",
+          "role": "publisher",
+          "url": "https://note.com/yumie1991"
+        }
+      ],
+      "products": [
+        {
+          "product": "Copilot",
+          "entityId": null,
+          "provider": null,
+          "characterNames": [],
+          "official": false
+        },
+        {
+          "product": "Claude",
+          "entityId": "claude",
+          "provider": "Anthropic",
+          "characterNames": [],
+          "official": false
+        }
+      ],
+      "grouping": "source-group",
+      "characterCount": null,
+      "relatedSources": [],
+      "generatorVariants": [],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://note.com/yumie1991/n/n10fdbd46d19e"
+        ],
+        "note": {
+          "zh": "本次只核对页面文字，未找到可确认的图片级许可；公开发布和生成器署名都不构成转载授权。",
+          "en": "Only page text was checked. No confirmed artwork-specific license was found; public publication and generator credits do not grant redistribution rights.",
+          "ja": "ページ本文のみを確認。画像単位のライセンスは確定できず、公開投稿や生成ツールの記載は転載許可を意味しません。"
+        }
+      },
+      "verification": {
+        "historical": {
+          "dateRange": [
+            "2026-09-30",
+            "2026-10-03"
+          ],
+          "basis": "user-provided prior verification; exact date per URL not recorded"
+        },
+        "current": {
+          "attemptedAt": "2026-10-05T04:37:09.033Z",
+          "method": "isolated-installed-google-chrome-text-only",
+          "httpStatus": 200,
+          "finalUrl": "https://note.com/yumie1991/n/n10fdbd46d19e",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-10-05T04:37:09.033Z",
+          "limitations": {
+            "zh": "仅核对可见文字与页面日期，不作图片身份或授权审核；未下载原图。",
+            "en": "Visible text and page dates checked only; artwork identity and permission review remains pending. No original images downloaded.",
+            "ja": "表示本文とページ日付のみ確認。画像の同一性・権利審査は保留で、原画像はダウンロードしていません。"
+          }
+        }
+      },
+      "note": {
+        "zh": "Copilot 的具体产品未确定，不映射 Microsoft 或 GitHub；本文所用 ChatGPT/Pixai 是生成工具。",
+        "en": "The Copilot product is unresolved; do not assign Microsoft or GitHub. ChatGPT/Pixai are generation tools in this source.",
+        "ja": "Copilot の製品は未特定で Microsoft・GitHub へ割り当てません。本文の ChatGPT/Pixai は生成ツールです。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、转载、修改及导出授权未确认；需核对完整署名链与具体原图条款。",
+        "en": "Artwork-specific display, redistribution, modification and export permissions are unconfirmed; review the attribution chain and exact original artwork terms.",
+        "ja": "画像ごとの表示・転載・改変・書き出し許可は未確認。クレジットの連鎖と個別原画像の条件を確認する必要があります。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false
+    },
+    {
+      "id": "note-yuki-github-copilot",
+      "title": "GitHub.Copilot擬人化キャラクター紹介",
+      "url": "https://note.com/nagi0811/n/nfeb89bb4443a",
+      "publisher": "Yuki",
+      "publisherDisplayName": "Yuki【休止中です】",
+      "publicationDate": "2025-09-24",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": "2025-09-24T20:28:56.000+09:00",
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "Yuki",
+          "role": "publisher",
+          "url": "https://note.com/nagi0811"
+        }
+      ],
+      "products": [
+        {
+          "product": "GitHub Copilot",
+          "entityId": null,
+          "provider": "GitHub",
+          "characterNames": [
+            "コピ兄さん"
+          ],
+          "official": false
+        }
+      ],
+      "grouping": "source-group",
+      "characterCount": null,
+      "relatedSources": [],
+      "generatorVariants": [],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://note.com/nagi0811/n/nfeb89bb4443a"
+        ],
+        "note": {
+          "zh": "本次只核对页面文字，未找到可确认的图片级许可；公开发布和生成器署名都不构成转载授权。",
+          "en": "Only page text was checked. No confirmed artwork-specific license was found; public publication and generator credits do not grant redistribution rights.",
+          "ja": "ページ本文のみを確認。画像単位のライセンスは確定できず、公開投稿や生成ツールの記載は転載許可を意味しません。"
+        }
+      },
+      "verification": {
+        "historical": {
+          "dateRange": [
+            "2026-09-30",
+            "2026-10-03"
+          ],
+          "basis": "user-provided prior verification; exact date per URL not recorded"
+        },
+        "current": {
+          "attemptedAt": "2026-10-05T04:37:11.479Z",
+          "method": "isolated-installed-google-chrome-text-only",
+          "httpStatus": 200,
+          "finalUrl": "https://note.com/nagi0811/n/nfeb89bb4443a",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-10-05T04:37:11.479Z",
+          "limitations": {
+            "zh": "仅核对可见文字与页面日期，不作图片身份或授权审核；未下载原图。",
+            "en": "Visible text and page dates checked only; artwork identity and permission review remains pending. No original images downloaded.",
+            "ja": "表示本文とページ日付のみ確認。画像の同一性・権利審査は保留で、原画像はダウンロードしていません。"
+          }
+        }
+      },
+      "note": {
+        "zh": "正文明确区分 GitHub Copilot 与 Microsoft Copilot；现有 copilot 实体是 Microsoft，不能合并。",
+        "en": "The text distinguishes GitHub Copilot from Microsoft Copilot. The existing copilot entity is Microsoft and cannot receive this character.",
+        "ja": "本文は GitHub Copilot と Microsoft Copilot を区別。既存 copilot エンティティは Microsoft のため統合できません。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、转载、修改及导出授权未确认；需核对完整署名链与具体原图条款。",
+        "en": "Artwork-specific display, redistribution, modification and export permissions are unconfirmed; review the attribution chain and exact original artwork terms.",
+        "ja": "画像ごとの表示・転載・改変・書き出し許可は未確認。クレジットの連鎖と個別原画像の条件を確認する必要があります。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false
+    },
+    {
+      "id": "note-suyu-three-ai",
+      "title": "「AIさんたちを擬人化してみたら、想像以上にかわいかった件」",
+      "url": "https://note.com/quiet_iguana7513/n/n72e974171721",
+      "publisher": "Suゆ",
+      "publisherDisplayName": "Suゆ",
+      "publicationDate": "2025-07-13",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": "2025-07-13T11:48:06.000+09:00",
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "Suゆ",
+          "role": "publisher",
+          "url": "https://note.com/quiet_iguana7513"
+        }
+      ],
+      "products": [
+        {
+          "product": "Microsoft Copilot",
+          "entityId": "copilot",
+          "provider": "Microsoft",
+          "characterNames": [],
+          "official": false
+        },
+        {
+          "product": "ChatGPT",
+          "entityId": "chatgpt",
+          "provider": "OpenAI",
+          "characterNames": [],
+          "official": false
+        },
+        {
+          "product": "Gemini",
+          "entityId": "gemini",
+          "provider": "Google",
+          "characterNames": [],
+          "official": false
+        }
+      ],
+      "grouping": "source-group",
+      "characterCount": null,
+      "relatedSources": [],
+      "generatorVariants": [],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://note.com/quiet_iguana7513/n/n72e974171721"
+        ],
+        "note": {
+          "zh": "本次只核对页面文字，未找到可确认的图片级许可；公开发布和生成器署名都不构成转载授权。",
+          "en": "Only page text was checked. No confirmed artwork-specific license was found; public publication and generator credits do not grant redistribution rights.",
+          "ja": "ページ本文のみを確認。画像単位のライセンスは確定できず、公開投稿や生成ツールの記載は転載許可を意味しません。"
+        }
+      },
+      "verification": {
+        "historical": {
+          "dateRange": [
+            "2026-09-30",
+            "2026-10-03"
+          ],
+          "basis": "user-provided prior verification; exact date per URL not recorded"
+        },
+        "current": {
+          "attemptedAt": "2026-10-05T04:37:12.481Z",
+          "method": "isolated-installed-google-chrome-text-only",
+          "httpStatus": 200,
+          "finalUrl": "https://note.com/quiet_iguana7513/n/n72e974171721",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-10-05T04:37:12.481Z",
+          "limitations": {
+            "zh": "仅核对可见文字与页面日期，不作图片身份或授权审核；未下载原图。",
+            "en": "Visible text and page dates checked only; artwork identity and permission review remains pending. No original images downloaded.",
+            "ja": "表示本文とページ日付のみ確認。画像の同一性・権利審査は保留で、原画像はダウンロードしていません。"
+          }
+        }
+      },
+      "note": {
+        "zh": "正文写明 Copilot by Microsoft；三个产品形象作为一组来源，逐图署名及许可待审。",
+        "en": "The text identifies Copilot by Microsoft. Keep the three product depictions in one source group; per-image attribution and terms require review.",
+        "ja": "本文は Copilot by Microsoft と明記。3 製品の描写を一つの出典グループとし、画像別クレジットと条件を審査します。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、转载、修改及导出授权未确认；需核对完整署名链与具体原图条款。",
+        "en": "Artwork-specific display, redistribution, modification and export permissions are unconfirmed; review the attribution chain and exact original artwork terms.",
+        "ja": "画像ごとの表示・転載・改変・書き出し許可は未確認。クレジットの連鎖と個別原画像の条件を確認する必要があります。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false
+    },
+    {
+      "id": "note-kt-copitan",
+      "title": "CopilotとSunoでAIアイドルをプロデュースしてみた",
+      "url": "https://note.com/kt_des/n/n947b060c4e43",
+      "publisher": "KT",
+      "publisherDisplayName": "KT",
+      "publicationDate": "2025-07-14",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": "2025-07-14T02:02:19.000+09:00",
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "KT",
+          "role": "publisher",
+          "url": "https://note.com/kt_des"
+        }
+      ],
+      "products": [
+        {
+          "product": "Microsoft Copilot",
+          "entityId": "copilot",
+          "provider": "Microsoft",
+          "characterNames": [
+            "こぴたん"
+          ],
+          "official": false
+        }
+      ],
+      "grouping": "source-group",
+      "characterCount": null,
+      "relatedSources": [],
+      "generatorVariants": [],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://note.com/kt_des/n/n947b060c4e43"
+        ],
+        "note": {
+          "zh": "本次只核对页面文字，未找到可确认的图片级许可；公开发布和生成器署名都不构成转载授权。",
+          "en": "Only page text was checked. No confirmed artwork-specific license was found; public publication and generator credits do not grant redistribution rights.",
+          "ja": "ページ本文のみを確認。画像単位のライセンスは確定できず、公開投稿や生成ツールの記載は転載許可を意味しません。"
+        }
+      },
+      "verification": {
+        "historical": {
+          "dateRange": [
+            "2026-09-30",
+            "2026-10-03"
+          ],
+          "basis": "user-provided prior verification; exact date per URL not recorded"
+        },
+        "current": {
+          "attemptedAt": "2026-10-05T04:37:13.609Z",
+          "method": "isolated-installed-google-chrome-text-only",
+          "httpStatus": 200,
+          "finalUrl": "https://note.com/kt_des/n/n947b060c4e43",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-10-05T04:37:13.609Z",
+          "limitations": {
+            "zh": "仅核对可见文字与页面日期，不作图片身份或授权审核；未下载原图。",
+            "en": "Visible text and page dates checked only; artwork identity and permission review remains pending. No original images downloaded.",
+            "ja": "表示本文とページ日付のみ確認。画像の同一性・権利審査は保留で、原画像はダウンロードしていません。"
+          }
+        }
+      },
+      "note": {
+        "zh": "こぴたん是作者的非官方设定；文中 Microsoft AI PR 部门也标为非官方，不能视为微软官方角色。",
+        "en": "Copitan is the publisher’s unofficial interpretation; the fictional Microsoft AI PR affiliation is also marked unofficial.",
+        "ja": "こぴたんは投稿者の非公式設定。作中の Microsoft AI PR 部門も非公式と明記されており、公式キャラクターとは扱いません。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、转载、修改及导出授权未确认；需核对完整署名链与具体原图条款。",
+        "en": "Artwork-specific display, redistribution, modification and export permissions are unconfirmed; review the attribution chain and exact original artwork terms.",
+        "ja": "画像ごとの表示・転載・改変・書き出し許可は未確認。クレジットの連鎖と個別原画像の条件を確認する必要があります。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false
+    },
+    {
+      "id": "note-green-thursday-claude-team",
+      "title": "52章 (2/2) Claude篇「土星探査 」 - 各生成AIをアニメ風キャラクターに擬人化！-",
+      "url": "https://note.com/glossy_stoat7085/n/ne8f51a6fb377",
+      "publisher": "Green_Thursday",
+      "publisherDisplayName": "Green_Thursday",
+      "publicationDate": "2026-09-19",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": "2026-09-19T19:55:58.000+09:00",
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "Green_Thursday",
+          "role": "publisher",
+          "url": "https://note.com/glossy_stoat7085"
+        }
+      ],
+      "products": [
+        {
+          "product": "Claude",
+          "entityId": "claude",
+          "provider": "Anthropic",
+          "characterNames": [
+            "マサミ",
+            "アスハ",
+            "ユヅキ"
+          ],
+          "official": false
+        }
+      ],
+      "grouping": "source-group",
+      "characterCount": 3,
+      "relatedSources": [],
+      "generatorVariants": [],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://note.com/glossy_stoat7085/n/ne8f51a6fb377"
+        ],
+        "note": {
+          "zh": "本次只核对页面文字，未找到可确认的图片级许可；公开发布和生成器署名都不构成转载授权。",
+          "en": "Only page text was checked. No confirmed artwork-specific license was found; public publication and generator credits do not grant redistribution rights.",
+          "ja": "ページ本文のみを確認。画像単位のライセンスは確定できず、公開投稿や生成ツールの記載は転載許可を意味しません。"
+        }
+      },
+      "verification": {
+        "historical": {
+          "dateRange": [
+            "2026-09-30",
+            "2026-10-03"
+          ],
+          "basis": "user-provided prior verification; exact date per URL not recorded"
+        },
+        "current": {
+          "attemptedAt": "2026-10-05T04:37:14.569Z",
+          "method": "isolated-installed-google-chrome-text-only",
+          "httpStatus": 200,
+          "finalUrl": "https://note.com/glossy_stoat7085/n/ne8f51a6fb377",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-10-05T04:37:14.569Z",
+          "limitations": {
+            "zh": "仅核对可见文字与页面日期，不作图片身份或授权审核；未下载原图。",
+            "en": "Visible text and page dates checked only; artwork identity and permission review remains pending. No original images downloaded.",
+            "ja": "表示本文とページ日付のみ確認。画像の同一性・権利審査は保留で、原画像はダウンロードしていません。"
+          }
+        }
+      },
+      "note": {
+        "zh": "三位是同一 Claude 来源组中的角色名，不是 Claude 版本名；本轮只整理 Claude 三人组。",
+        "en": "The three names identify characters in one Claude source group, not Claude model versions. This intake covers the Claude trio only.",
+        "ja": "3 名は同じ Claude 出典グループのキャラクター名で、モデルのバージョン名ではありません。今回は Claude の3人を整理します。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、转载、修改及导出授权未确认；需核对完整署名链与具体原图条款。",
+        "en": "Artwork-specific display, redistribution, modification and export permissions are unconfirmed; review the attribution chain and exact original artwork terms.",
+        "ja": "画像ごとの表示・転載・改変・書き出し許可は未確認。クレジットの連鎖と個別原画像の条件を確認する必要があります。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false
+    },
+    {
+      "id": "note-tsurezurew-claude-generators",
+      "title": "同じプロンプトでChatGPT・Gemini・Grokに「Claude」を擬人化させたら、AIごとの性格が絵に出た",
+      "url": "https://note.com/fair_moraea7627/n/nc7546e57b6dc",
+      "publisher": "徒然W",
+      "publisherDisplayName": "徒然W",
+      "publicationDate": "2026-09-18",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": "2026-09-18T18:38:17.000+09:00",
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "徒然W",
+          "role": "publisher",
+          "url": "https://note.com/fair_moraea7627"
+        }
+      ],
+      "products": [
+        {
+          "product": "Claude",
+          "entityId": "claude",
+          "provider": "Anthropic",
+          "characterNames": [],
+          "official": false
+        }
+      ],
+      "grouping": "generator-variants",
+      "characterCount": null,
+      "relatedSources": [],
+      "generatorVariants": [
+        {
+          "generator": "ChatGPT",
+          "sourceUrl": "https://note.com/fair_moraea7627/n/nc7546e57b6dc"
+        },
+        {
+          "generator": "Gemini",
+          "sourceUrl": "https://note.com/fair_moraea7627/n/nc7546e57b6dc"
+        },
+        {
+          "generator": "Grok",
+          "sourceUrl": "https://note.com/fair_moraea7627/n/nc7546e57b6dc"
+        }
+      ],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://note.com/fair_moraea7627/n/nc7546e57b6dc"
+        ],
+        "note": {
+          "zh": "本次只核对页面文字，未找到可确认的图片级许可；公开发布和生成器署名都不构成转载授权。",
+          "en": "Only page text was checked. No confirmed artwork-specific license was found; public publication and generator credits do not grant redistribution rights.",
+          "ja": "ページ本文のみを確認。画像単位のライセンスは確定できず、公開投稿や生成ツールの記載は転載許可を意味しません。"
+        }
+      },
+      "verification": {
+        "historical": {
+          "dateRange": [
+            "2026-09-30",
+            "2026-10-03"
+          ],
+          "basis": "user-provided prior verification; exact date per URL not recorded"
+        },
+        "current": {
+          "attemptedAt": "2026-10-05T04:37:15.693Z",
+          "method": "isolated-installed-google-chrome-text-only",
+          "httpStatus": 200,
+          "finalUrl": "https://note.com/fair_moraea7627/n/nc7546e57b6dc",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-10-05T04:37:15.693Z",
+          "limitations": {
+            "zh": "仅核对可见文字与页面日期，不作图片身份或授权审核；未下载原图。",
+            "en": "Visible text and page dates checked only; artwork identity and permission review remains pending. No original images downloaded.",
+            "ja": "表示本文とページ日付のみ確認。画像の同一性・権利審査は保留で、原画像はダウンロードしていません。"
+          }
+        }
+      },
+      "note": {
+        "zh": "本轮候选是 Claude 的生成器变体；ChatGPT、Gemini、Grok 是绘制工具，不把变体分别登记成这些产品的角色。",
+        "en": "This candidate covers generator variants of Claude. ChatGPT, Gemini and Grok are drawing tools here, not separate depicted product assignments.",
+        "ja": "今回は Claude の生成ツール別描写を候補にします。ChatGPT・Gemini・Grok は描画ツールで、別製品のキャラクターとして登録しません。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、转载、修改及导出授权未确认；需核对完整署名链与具体原图条款。",
+        "en": "Artwork-specific display, redistribution, modification and export permissions are unconfirmed; review the attribution chain and exact original artwork terms.",
+        "ja": "画像ごとの表示・転載・改変・書き出し許可は未確認。クレジットの連鎖と個別原画像の条件を確認する必要があります。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false
+    },
+    {
+      "id": "note-skuma-ai-matrix",
+      "title": "生成AIにお互いを擬人化して描かせてみたらワロタ",
+      "url": "https://note.com/clever_eel2325/n/na365499aaf49",
+      "publisher": "S_KUMA",
+      "publisherDisplayName": "S_KUMA",
+      "publicationDate": "2026-03-10",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": "2026-03-10T20:26:36.000+09:00",
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "S_KUMA",
+          "role": "publisher",
+          "url": "https://note.com/clever_eel2325"
+        }
+      ],
+      "products": [
+        {
+          "product": "ChatGPT",
+          "entityId": "chatgpt",
+          "provider": "OpenAI",
+          "characterNames": [],
+          "official": false
+        },
+        {
+          "product": "Claude",
+          "entityId": "claude",
+          "provider": "Anthropic",
+          "characterNames": [],
+          "official": false
+        },
+        {
+          "product": "Gemini",
+          "entityId": "gemini",
+          "provider": "Google",
+          "characterNames": [],
+          "official": false
+        },
+        {
+          "product": "Grok",
+          "entityId": "grok",
+          "provider": "xAI",
+          "characterNames": [],
+          "official": false
+        }
+      ],
+      "grouping": "cross-brand-matrix",
+      "characterCount": null,
+      "relatedSources": [],
+      "generatorVariants": [],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://note.com/clever_eel2325/n/na365499aaf49"
+        ],
+        "note": {
+          "zh": "本次只核对页面文字，未找到可确认的图片级许可；公开发布和生成器署名都不构成转载授权。",
+          "en": "Only page text was checked. No confirmed artwork-specific license was found; public publication and generator credits do not grant redistribution rights.",
+          "ja": "ページ本文のみを確認。画像単位のライセンスは確定できず、公開投稿や生成ツールの記載は転載許可を意味しません。"
+        }
+      },
+      "verification": {
+        "historical": {
+          "dateRange": [
+            "2026-09-30",
+            "2026-10-03"
+          ],
+          "basis": "user-provided prior verification; exact date per URL not recorded"
+        },
+        "current": {
+          "attemptedAt": "2026-10-05T04:37:16.872Z",
+          "method": "isolated-installed-google-chrome-text-only",
+          "httpStatus": 200,
+          "finalUrl": "https://note.com/clever_eel2325/n/na365499aaf49",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-10-05T04:37:16.872Z",
+          "limitations": {
+            "zh": "仅核对可见文字与页面日期，不作图片身份或授权审核；未下载原图。",
+            "en": "Visible text and page dates checked only; artwork identity and permission review remains pending. No original images downloaded.",
+            "ja": "表示本文とページ日付のみ確認。画像の同一性・権利審査は保留で、原画像はダウンロードしていません。"
+          }
+        }
+      },
+      "note": {
+        "zh": "四品牌矩阵先保留单个来源组，不拆格、不以 4×4 推定独立角色数；Claude 提供提示词由 Gemini 作图。",
+        "en": "Keep the four-brand matrix as one source group; do not crop cells or infer an independent character count from 4×4. Claude supplies prompts rendered by Gemini.",
+        "ja": "4 ブランドの行列は一つの出典グループとして保持。切り抜きや 4×4 からの個別キャラ数推定は行いません。Claude のプロンプトは Gemini が描画します。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、转载、修改及导出授权未确认；需核对完整署名链与具体原图条款。",
+        "en": "Artwork-specific display, redistribution, modification and export permissions are unconfirmed; review the attribution chain and exact original artwork terms.",
+        "ja": "画像ごとの表示・転載・改変・書き出し許可は未確認。クレジットの連鎖と個別原画像の条件を確認する必要があります。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false
+    },
+    {
+      "id": "microsoft-mico",
+      "title": "Mico — Microsoft Copilot (historical announcement)",
+      "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/2025/10/23/human-centered-ai/",
+      "publisher": "Microsoft",
+      "publisherDisplayName": "Microsoft",
+      "publicationDate": "2025-10-23",
+      "publicationDateBasis": "historical-user-provided",
+      "publicationTimeZone": null,
+      "observedDatetime": null,
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "Microsoft",
+          "role": "publisher",
+          "url": "https://www.microsoft.com/"
+        }
+      ],
+      "products": [
+        {
+          "product": "Microsoft Copilot",
+          "entityId": "copilot",
+          "provider": "Microsoft",
+          "characterNames": [
+            "Mico"
+          ],
+          "official": true,
+          "identityEvidenceUrl": "https://support.microsoft.com/en-us/groupme/what-is-mico-on-groupme"
+        }
+      ],
+      "grouping": "source-group",
+      "characterCount": null,
+      "relatedSources": [
+        {
+          "url": "https://support.microsoft.com/en-us/groupme/what-is-mico-on-groupme",
+          "role": "official-corroboration",
+          "publisher": "Microsoft",
+          "title": "What is Mico on GroupMe? | Microsoft Support",
+          "publicationDate": null,
+          "publicationTimeZone": null,
+          "observedDatetime": null,
+          "verification": {
+            "historical": {
+              "dateRange": [
+                "2026-09-30",
+                "2026-10-03"
+              ],
+              "basis": "user-provided prior verification; exact date per URL not recorded"
+            },
+            "current": {
+              "attemptedAt": "2026-10-05T04:37:21.331Z",
+              "method": "isolated-installed-google-chrome-text-only",
+              "httpStatus": 200,
+              "finalUrl": "https://support.microsoft.com/en-us/groupme/what-is-mico-on-groupme",
+              "result": "verified-metadata",
+              "verifiedAt": "2026-10-05T04:37:21.331Z",
+              "limitations": {
+                "zh": "仅核对可见文字与页面日期，不作图片身份或授权审核；未下载原图。",
+                "en": "Visible text and page dates checked only; artwork identity and permission review remains pending. No original images downloaded.",
+                "ja": "表示本文とページ日付のみ確認。画像の同一性・権利審査は保留で、原画像はダウンロードしていません。"
+              }
+            }
+          }
+        }
+      ],
+      "generatorVariants": [],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://www.microsoft.com/en-us/microsoft-copilot/blog/2025/10/23/human-centered-ai/",
+          "https://support.microsoft.com/en-us/groupme/what-is-mico-on-groupme"
+        ],
+        "note": {
+          "zh": "本次只核对页面文字，未找到可确认的图片级许可；公开发布和生成器署名都不构成转载授权。",
+          "en": "Only page text was checked. No confirmed artwork-specific license was found; public publication and generator credits do not grant redistribution rights.",
+          "ja": "ページ本文のみを確認。画像単位のライセンスは確定できず、公開投稿や生成ツールの記載は転載許可を意味しません。"
+        }
+      },
+      "verification": {
+        "historical": {
+          "dateRange": [
+            "2026-09-30",
+            "2026-10-03"
+          ],
+          "basis": "user-provided prior verification; exact date per URL not recorded"
+        },
+        "current": {
+          "attemptedAt": "2026-10-05T04:37:17.912Z",
+          "method": "isolated-installed-google-chrome-text-only",
+          "httpStatus": 200,
+          "finalUrl": "https://www.microsoft.com/en-us/copilot/blog/",
+          "result": "redirected",
+          "verifiedAt": null,
+          "limitations": {
+            "zh": "原博客重定向到博客首页；原文和 2025-10-23 日期本次未重新核实。",
+            "en": "The original blog redirects to the blog index; the original article and 2025-10-23 date were not reverified.",
+            "ja": "元ブログは一覧へ転送され、元記事と 2025-10-23 の日付は今回再確認できていません。"
+          }
+        }
+      },
+      "note": {
+        "zh": "官方支持页明确区分 Copilot 的动画 Mico 与 GroupMe 文本 AI。官方身份不等于图片许可；个人画师未知。原博客日期仅保留历史记录。",
+        "en": "Official support distinguishes the animated Copilot Mico from GroupMe’s text AI. Official identity does not grant image rights; individual artist unknown. The original blog date is historical only.",
+        "ja": "公式サポートは Copilot のアニメーション Mico と GroupMe のテキスト AI を区別。公式性は画像許可を意味せず、個人の作画者は不明。元ブログの日付は過去記録のみです。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、转载、修改及导出授权未确认；需核对完整署名链与具体原图条款。",
+        "en": "Artwork-specific display, redistribution, modification and export permissions are unconfirmed; review the attribution chain and exact original artwork terms.",
+        "ja": "画像ごとの表示・転載・改変・書き出し許可は未確認。クレジットの連鎖と個別原画像の条件を確認する必要があります。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false
+    },
+    {
+      "id": "note-yarotech-five-ai",
+      "title": "生成AIを擬人化してみた！5人のキャラクター設定を大公開",
+      "url": "https://note.com/yaoyoroztech/n/n1a54d38e1051",
+      "publisher": "YaroTech",
+      "publisherDisplayName": "YaroTech｜生成AIの傾奇者",
+      "publicationDate": "2025-12-22",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": "2025-12-22T19:41:15.000+09:00",
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "YaroTech",
+          "role": "publisher",
+          "url": "https://note.com/yaoyoroztech"
+        }
+      ],
+      "products": [
+        {
+          "product": "ChatGPT",
+          "entityId": "chatgpt",
+          "provider": "OpenAI",
+          "characterNames": [
+            "チャッピー"
+          ],
+          "official": false
+        },
+        {
+          "product": "Gemini",
+          "entityId": "gemini",
+          "provider": "Google",
+          "characterNames": [
+            "ジミー"
+          ],
+          "official": false
+        },
+        {
+          "product": "Claude Desktop",
+          "entityId": "claude",
+          "provider": "Anthropic",
+          "characterNames": [
+            "クロ助"
+          ],
+          "official": false
+        },
+        {
+          "product": "Claude Code",
+          "entityId": "claude",
+          "provider": "Anthropic",
+          "characterNames": [
+            "クロコ"
+          ],
+          "official": false
+        },
+        {
+          "product": "Microsoft Copilot",
+          "entityId": "copilot",
+          "provider": "Microsoft",
+          "characterNames": [
+            "コロ"
+          ],
+          "official": false
+        }
+      ],
+      "grouping": "generator-variants",
+      "characterCount": 5,
+      "relatedSources": [
+        {
+          "url": "https://note.com/yaoyoroztech/n/n4fcf46a3743e",
+          "role": "generator-variant",
+          "publisher": "YaroTech",
+          "title": "【投票①】チャッピー(ChatGPT)が描いたAIキャラたち｜気に入ったらスキを！｜YaroTech｜生成AIの傾奇者",
+          "publicationDate": "2025-12-22",
+          "publicationTimeZone": null,
+          "observedDatetime": "2025-12-22T19:42:59.000+09:00",
+          "verification": {
+            "historical": {
+              "dateRange": [
+                "2026-09-30",
+                "2026-10-03"
+              ],
+              "basis": "user-provided prior verification; exact date per URL not recorded"
+            },
+            "current": {
+              "attemptedAt": "2026-10-05T04:37:27.044Z",
+              "method": "isolated-installed-google-chrome-text-only",
+              "httpStatus": 200,
+              "finalUrl": "https://note.com/yaoyoroztech/n/n4fcf46a3743e",
+              "result": "verified-metadata",
+              "verifiedAt": "2026-10-05T04:37:27.044Z",
+              "limitations": {
+                "zh": "仅核对可见文字与页面日期，不作图片身份或授权审核；未下载原图。",
+                "en": "Visible text and page dates checked only; artwork identity and permission review remains pending. No original images downloaded.",
+                "ja": "表示本文とページ日付のみ確認。画像の同一性・権利審査は保留で、原画像はダウンロードしていません。"
+              }
+            }
+          }
+        },
+        {
+          "url": "https://note.com/yaoyoroztech/n/n0fce482fcd21",
+          "role": "generator-variant",
+          "publisher": "YaroTech",
+          "title": "【投票②】ジミー(Gemini)が描いたAIキャラたち｜気に入ったらスキを！｜YaroTech｜生成AIの傾奇者",
+          "publicationDate": "2025-12-22",
+          "publicationTimeZone": null,
+          "observedDatetime": "2025-12-22T19:44:35.000+09:00",
+          "verification": {
+            "historical": {
+              "dateRange": [
+                "2026-09-30",
+                "2026-10-03"
+              ],
+              "basis": "user-provided prior verification; exact date per URL not recorded"
+            },
+            "current": {
+              "attemptedAt": "2026-10-05T04:37:28.356Z",
+              "method": "isolated-installed-google-chrome-text-only",
+              "httpStatus": 200,
+              "finalUrl": "https://note.com/yaoyoroztech/n/n0fce482fcd21",
+              "result": "verified-metadata",
+              "verifiedAt": "2026-10-05T04:37:28.356Z",
+              "limitations": {
+                "zh": "仅核对可见文字与页面日期，不作图片身份或授权审核；未下载原图。",
+                "en": "Visible text and page dates checked only; artwork identity and permission review remains pending. No original images downloaded.",
+                "ja": "表示本文とページ日付のみ確認。画像の同一性・権利審査は保留で、原画像はダウンロードしていません。"
+              }
+            }
+          }
+        }
+      ],
+      "generatorVariants": [
+        {
+          "generator": "ChatGPT",
+          "sourceUrl": "https://note.com/yaoyoroztech/n/n4fcf46a3743e"
+        },
+        {
+          "generator": "Gemini",
+          "sourceUrl": "https://note.com/yaoyoroztech/n/n0fce482fcd21"
+        }
+      ],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://note.com/yaoyoroztech/n/n1a54d38e1051",
+          "https://note.com/yaoyoroztech/n/n4fcf46a3743e",
+          "https://note.com/yaoyoroztech/n/n0fce482fcd21"
+        ],
+        "note": {
+          "zh": "本次只核对页面文字，未找到可确认的图片级许可；公开发布和生成器署名都不构成转载授权。",
+          "en": "Only page text was checked. No confirmed artwork-specific license was found; public publication and generator credits do not grant redistribution rights.",
+          "ja": "ページ本文のみを確認。画像単位のライセンスは確定できず、公開投稿や生成ツールの記載は転載許可を意味しません。"
+        }
+      },
+      "verification": {
+        "historical": {
+          "dateRange": [
+            "2026-09-30",
+            "2026-10-03"
+          ],
+          "basis": "user-provided prior verification; exact date per URL not recorded"
+        },
+        "current": {
+          "attemptedAt": "2026-10-05T04:37:25.236Z",
+          "method": "isolated-installed-google-chrome-text-only",
+          "httpStatus": 200,
+          "finalUrl": "https://note.com/yaoyoroztech/n/n1a54d38e1051",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-10-05T04:37:25.236Z",
+          "limitations": {
+            "zh": "仅核对可见文字与页面日期，不作图片身份或授权审核；未下载原图。",
+            "en": "Visible text and page dates checked only; artwork identity and permission review remains pending. No original images downloaded.",
+            "ja": "表示本文とページ日付のみ確認。画像の同一性・権利審査は保留で、原画像はダウンロードしていません。"
+          }
+        }
+      },
+      "note": {
+        "zh": "定义页确认五位角色；两篇投票页是同五位的生成器变体，共五位，不翻倍。Desktop/Code 保留产品标签但不添加基线。",
+        "en": "The definition identifies five characters. Both voting pages are generator variants of those same five, not ten. Retain Desktop/Code product labels without adding baselines.",
+        "ja": "定義記事は5人を確認。二つの投票記事は同じ5人の生成ツール別描写で、10人とは数えません。Desktop/Code の製品名を保持し、ベースラインは追加しません。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、转载、修改及导出授权未确认；需核对完整署名链与具体原图条款。",
+        "en": "Artwork-specific display, redistribution, modification and export permissions are unconfirmed; review the attribution chain and exact original artwork terms.",
+        "ja": "画像ごとの表示・転載・改変・書き出し許可は未確認。クレジットの連鎖と個別原画像の条件を確認する必要があります。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false
+    },
+    {
+      "id": "note-suyu-four-ai",
+      "title": "画像生成できないAIさんに“自分の姿”を聞いてみたら、想像以上に個性があふれてた件",
+      "url": "https://note.com/quiet_iguana7513/n/ne5694ec9de28",
+      "publisher": "Suゆ",
+      "publisherDisplayName": "Suゆ",
+      "publicationDate": "2025-09-07",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": "2025-09-07T00:13:32.000+09:00",
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "Suゆ",
+          "role": "publisher",
+          "url": "https://note.com/quiet_iguana7513"
+        }
+      ],
+      "products": [
+        {
+          "product": "Perplexity",
+          "entityId": null,
+          "provider": null,
+          "characterNames": [],
+          "official": false
+        },
+        {
+          "product": "Claude",
+          "entityId": "claude",
+          "provider": "Anthropic",
+          "characterNames": [],
+          "official": false
+        },
+        {
+          "product": "Grok",
+          "entityId": "grok",
+          "provider": "xAI",
+          "characterNames": [],
+          "official": false
+        },
+        {
+          "product": "Genspark",
+          "entityId": null,
+          "provider": null,
+          "characterNames": [],
+          "official": false
+        }
+      ],
+      "grouping": "source-group",
+      "characterCount": null,
+      "relatedSources": [],
+      "generatorVariants": [
+        {
+          "generator": "ChatGPT",
+          "sourceUrl": "https://note.com/quiet_iguana7513/n/ne5694ec9de28"
+        },
+        {
+          "generator": "Gemini",
+          "sourceUrl": "https://note.com/quiet_iguana7513/n/ne5694ec9de28"
+        },
+        {
+          "generator": "Microsoft Copilot",
+          "sourceUrl": "https://note.com/quiet_iguana7513/n/ne5694ec9de28"
+        }
+      ],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://note.com/quiet_iguana7513/n/ne5694ec9de28"
+        ],
+        "note": {
+          "zh": "本次只核对页面文字，未找到可确认的图片级许可；公开发布和生成器署名都不构成转载授权。",
+          "en": "Only page text was checked. No confirmed artwork-specific license was found; public publication and generator credits do not grant redistribution rights.",
+          "ja": "ページ本文のみを確認。画像単位のライセンスは確定できず、公開投稿や生成ツールの記載は転載許可を意味しません。"
+        }
+      },
+      "verification": {
+        "historical": {
+          "dateRange": [
+            "2026-09-30",
+            "2026-10-03"
+          ],
+          "basis": "user-provided prior verification; exact date per URL not recorded"
+        },
+        "current": {
+          "attemptedAt": "2026-10-05T04:37:29.602Z",
+          "method": "isolated-installed-google-chrome-text-only",
+          "httpStatus": 200,
+          "finalUrl": "https://note.com/quiet_iguana7513/n/ne5694ec9de28",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-10-05T04:37:29.602Z",
+          "limitations": {
+            "zh": "仅核对可见文字与页面日期，不作图片身份或授权审核；未下载原图。",
+            "en": "Visible text and page dates checked only; artwork identity and permission review remains pending. No original images downloaded.",
+            "ja": "表示本文とページ日付のみ確認。画像の同一性・権利審査は保留で、原画像はダウンロードしていません。"
+          }
+        }
+      },
+      "note": {
+        "zh": "Perplexity/Genspark 尚无实体，保留为空映射候选。ChatGPT/Gemini/Copilot 是生成器，不增加到所描绘的四产品中。",
+        "en": "Perplexity/Genspark have no entities; retain null mappings. ChatGPT/Gemini/Copilot are generators, not additional depicted products.",
+        "ja": "Perplexity/Genspark のエンティティはなく、未対応候補として保持。ChatGPT/Gemini/Copilot は生成ツールで、描写対象4製品には追加しません。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、转载、修改及导出授权未确认；需核对完整署名链与具体原图条款。",
+        "en": "Artwork-specific display, redistribution, modification and export permissions are unconfirmed; review the attribution chain and exact original artwork terms.",
+        "ja": "画像ごとの表示・転載・改変・書き出し許可は未確認。クレジットの連鎖と個別原画像の条件を確認する必要があります。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false
+    },
+    {
+      "id": "note-yuki-perplexity",
+      "title": "Perplexity擬人化キャラクター紹介",
+      "url": "https://note.com/nagi0811/n/nffb14f4ac461",
+      "publisher": "Yuki",
+      "publisherDisplayName": "Yuki【休止中です】",
+      "publicationDate": "2025-09-22",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": "2025-09-22T19:16:16.000+09:00",
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "Yuki",
+          "role": "publisher",
+          "url": "https://note.com/nagi0811"
+        }
+      ],
+      "products": [
+        {
+          "product": "Perplexity",
+          "entityId": null,
+          "provider": null,
+          "characterNames": [],
+          "official": false
+        }
+      ],
+      "grouping": "source-group",
+      "characterCount": null,
+      "relatedSources": [],
+      "generatorVariants": [],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://note.com/nagi0811/n/nffb14f4ac461"
+        ],
+        "note": {
+          "zh": "本次只核对页面文字，未找到可确认的图片级许可；公开发布和生成器署名都不构成转载授权。",
+          "en": "Only page text was checked. No confirmed artwork-specific license was found; public publication and generator credits do not grant redistribution rights.",
+          "ja": "ページ本文のみを確認。画像単位のライセンスは確定できず、公開投稿や生成ツールの記載は転載許可を意味しません。"
+        }
+      },
+      "verification": {
+        "historical": {
+          "dateRange": [
+            "2026-09-30",
+            "2026-10-03"
+          ],
+          "basis": "user-provided prior verification; exact date per URL not recorded"
+        },
+        "current": {
+          "attemptedAt": "2026-10-05T04:37:30.887Z",
+          "method": "isolated-installed-google-chrome-text-only",
+          "httpStatus": 200,
+          "finalUrl": "https://note.com/nagi0811/n/nffb14f4ac461",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-10-05T04:37:30.887Z",
+          "limitations": {
+            "zh": "仅核对可见文字与页面日期，不作图片身份或授权审核；未下载原图。",
+            "en": "Visible text and page dates checked only; artwork identity and permission review remains pending. No original images downloaded.",
+            "ja": "表示本文とページ日付のみ確認。画像の同一性・権利審査は保留で、原画像はダウンロードしていません。"
+          }
+        }
+      },
+      "note": {
+        "zh": "Perplexity 尚无实体，保留候选；作者个人简介提及其他 AI 不构成此条的角色证明。",
+        "en": "Perplexity has no entity and remains a candidate. Other AIs mentioned in the publisher profile do not establish characters in this entry.",
+        "ja": "Perplexity のエンティティはなく候補に保持。プロフィールで言及される別 AI は本記事のキャラクター証拠にはしません。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、转载、修改及导出授权未确认；需核对完整署名链与具体原图条款。",
+        "en": "Artwork-specific display, redistribution, modification and export permissions are unconfirmed; review the attribution chain and exact original artwork terms.",
+        "ja": "画像ごとの表示・転載・改変・書き出し許可は未確認。クレジットの連鎖と個別原画像の条件を確認する必要があります。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false
+    },
+    {
+      "id": "note-kawamura-yoshida-gemini",
+      "title": "生成AIニュース 漫画とGeminiで解説NVIDIAの「性能の暴力」。宇宙コンピュータと1コマンドAIの恐怖【GTC 2026】",
+      "url": "https://note.com/chatgpt_ysd/n/ne8fa2107d321",
+      "publisher": "カワムラ",
+      "publisherDisplayName": "カワムラ｜AI擬人化漫画 | ChatGPTのヨシダ",
+      "publicationDate": "2026-03-18",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": "2026-03-18T06:41:28.000+09:00",
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "カワムラ",
+          "role": "publisher",
+          "url": "https://note.com/chatgpt_ysd"
+        }
+      ],
+      "products": [
+        {
+          "product": "ChatGPT",
+          "entityId": "chatgpt",
+          "provider": "OpenAI",
+          "characterNames": [
+            "ヨシダ"
+          ],
+          "official": false
+        },
+        {
+          "product": "Gemini",
+          "entityId": "gemini",
+          "provider": "Google",
+          "characterNames": [
+            "ジェミニ"
+          ],
+          "official": false
+        }
+      ],
+      "grouping": "source-group",
+      "characterCount": null,
+      "relatedSources": [],
+      "generatorVariants": [],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://note.com/chatgpt_ysd/n/ne8fa2107d321"
+        ],
+        "note": {
+          "zh": "本次只核对页面文字，未找到可确认的图片级许可；公开发布和生成器署名都不构成转载授权。",
+          "en": "Only page text was checked. No confirmed artwork-specific license was found; public publication and generator credits do not grant redistribution rights.",
+          "ja": "ページ本文のみを確認。画像単位のライセンスは確定できず、公開投稿や生成ツールの記載は転載許可を意味しません。"
+        }
+      },
+      "verification": {
+        "historical": {
+          "dateRange": [
+            "2026-09-30",
+            "2026-10-03"
+          ],
+          "basis": "user-provided prior verification; exact date per URL not recorded"
+        },
+        "current": {
+          "attemptedAt": "2026-10-05T04:37:31.936Z",
+          "method": "isolated-installed-google-chrome-text-only",
+          "httpStatus": 200,
+          "finalUrl": "https://note.com/chatgpt_ysd/n/ne8fa2107d321",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-10-05T04:37:31.936Z",
+          "limitations": {
+            "zh": "仅核对可见文字与页面日期，不作图片身份或授权审核；未下载原图。",
+            "en": "Visible text and page dates checked only; artwork identity and permission review remains pending. No original images downloaded.",
+            "ja": "表示本文とページ日付のみ確認。画像の同一性・権利審査は保留で、原画像はダウンロードしていません。"
+          }
+        }
+      },
+      "note": {
+        "zh": "正文确认ヨシダ为 ChatGPT、ジェミニ为主播；Claude 标签或提及不证明存在已确认形象。漫画的逐图署名和条款待审。",
+        "en": "The text identifies Yoshida as ChatGPT and Gemini as the caster. A Claude tag or mention does not confirm a depicted Claude character; review comic-specific attribution and terms.",
+        "ja": "本文はヨシダを ChatGPT、ジェミニをキャスターと説明。Claude のタグや言及だけでは確認済み描写としません。漫画の画像別クレジットと条件は未審査です。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、转载、修改及导出授权未确认；需核对完整署名链与具体原图条款。",
+        "en": "Artwork-specific display, redistribution, modification and export permissions are unconfirmed; review the attribution chain and exact original artwork terms.",
+        "ja": "画像ごとの表示・転載・改変・書き出し許可は未確認。クレジットの連鎖と個別原画像の条件を確認する必要があります。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false
+    }
+  ]
+}

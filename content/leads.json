@@ -54,9 +54,36 @@
     "creator": "水原镜 / 耶栗Yaki / 夏紫瞳_Hitomi",
     "status": "pending-assets",
     "note": {
-      "zh": "简介确认模型按 CC BY-NC-SA 4.0 配布；下载文件和评论区链接待核验。",
-      "en": "Description states CC BY-NC-SA 4.0 for the model; download files and comment links still unverified.",
-      "ja": "説明ではモデルを CC BY-NC-SA 4.0 で配布。配布ファイルとコメント内リンクは未確認。"
+      "zh": "视频简介声称模型按 CC BY-NC-SA 4.0 配布；该声明不能覆盖模之屋分发页的 MMD 视频用途限制。分发页本次仅部分渲染，规则区可见“禁止用于制作视频之外的用途”，模型标题和文件尚未核对。仅保留来源线索，待逐文件权限审核。",
+      "en": "The video description claims CC BY-NC-SA 4.0 for the model; it does not override the distribution page’s MMD video-only restriction. The page rendered partially: its rules panel prohibits uses outside video production, but model title and files were not verified. Retain as a source lead pending file-specific rights review.",
+      "ja": "動画説明は CC BY-NC-SA 4.0 と記載していますが、配布ページの MMD 動画用途制限を上書きしません。今回は一部のみ表示され、規則欄は動画制作以外を禁止していますが、モデル名とファイルは未照合。出典の手がかりとして保持し、ファイル別権利審査を待ちます。"
+    },
+    "riskReview": {
+      "status": "pending-review",
+      "usage": "source-only",
+      "distributionUrl": "https://www.aplaybox.com/details/model/j9z4quaACJV1",
+      "historical": {
+        "verifiedAt": null,
+        "basis": "user-provided historical evidence; verification date not supplied",
+        "claim": "distribution page limits the model to MMD video production"
+      },
+      "current": [
+        {
+          "url": "https://www.bilibili.com/video/BV1tD4X6AE7Q/",
+          "attemptedAt": "2026-10-05T04:37:33.075Z",
+          "httpStatus": 412,
+          "result": "partial-response",
+          "limitation": "HTTP 412 with visible video description; not a complete review"
+        },
+        {
+          "url": "https://www.aplaybox.com/details/model/j9z4quaACJV1",
+          "attemptedAt": "2026-10-05T04:38:37.208Z",
+          "httpStatus": 200,
+          "result": "partial-render",
+          "limitation": "Rules panel visible; model title, creator and download files not rendered/verified"
+        }
+      ],
+      "decision": "Do not apply the video CC claim to the distributed model; resolve file-specific conflicting terms before collection, preview, redistribution or Studio export."
     }
   },
   {
