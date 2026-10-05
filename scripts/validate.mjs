@@ -1,10 +1,16 @@
 import { readFile,readdir,access } from 'node:fs/promises';
 import { assertSource,sha256 } from './lib/policy.mjs';
 import { assertUsageReview } from '../src/lib/usage-policy.mjs';
+import { assertCandidateReport } from './lib/candidates.mjs';
 const reviews=JSON.parse(await readFile('content/reviews/artwork-uses.json','utf8'));
 const chars=JSON.parse(await readFile('content/characters.json','utf8'));
 const entities=JSON.parse(await readFile('content/entities.json','utf8'));
 const baselines=JSON.parse(await readFile('content/baselines.json','utf8'));
+// Parse every content JSON, including unpublished research and candidate records.
+for(const file of await readdir('content',{recursive:true}))if(file.endsWith('.json'))JSON.parse(await readFile(`content/${file}`,'utf8'));
+const sources=await Promise.all((await readdir('content/sources')).filter(f=>f.endsWith('.json')).map(async f=>JSON.parse(await readFile(`content/sources/${f}`,'utf8'))));
+let candidateCount=0;
+for(const file of (await readdir('content/candidates')).filter(f=>f.endsWith('.json')))candidateCount+=assertCandidateReport(JSON.parse(await readFile(`content/candidates/${file}`,'utf8')),{entities,characters:chars,sources,reviews});
 if(baselines.length!==entities.length||new Set(baselines.map(b=>b.entity)).size!==entities.length)throw new Error('Each AI needs exactly one baseline selection');
 for(const b of baselines){
  if(!entities.some(e=>e.id===b.entity))throw new Error('Unknown baseline AI');
@@ -35,3 +41,4 @@ for(const c of chars){
  }else if(c.assets.length||c.preview||review.artworks.length||review.evidence.length||Object.values(review.uses).some(u=>u.decision==='allowed'))throw new Error(`Unlicensed image mirrored or use allowed: ${c.id}`);
 }
 console.log(`Validated ${chars.length} sourced entries, ${entities.length} AI families, ${images} preserved originals, 3 languages, and every derivative hash.`);
+console.log(`Validated ${candidateCount} unpublished candidates and metadata-only publication boundaries.`);
