@@ -1,0 +1,105 @@
+{
+  "version": "ai-models-v5",
+  "date": "2026-09-28",
+  "status": "active-generation-references",
+  "generator": "built-in image_gen",
+  "scope": "New AI character art and cover artwork; existing rendered backgrounds are not automatically replaced.",
+  "user_reference_urls": [
+    "https://www.bilibili.com/video/BV1Brtc63EyW/",
+    "https://www.bilibili.com/video/BV12yeU6KEUt/"
+  ],
+  "supplementary_reference": "https://www.bilibili.com/video/BV14phK66Ejw/",
+  "attribution": "Community character designs credited by source videos to ZipZipPipe; DeepSeek underlying whale-girl concept credited to 上善无形. Generated adaptations are not official company mascots.",
+  "assets": [
+    {
+      "id": "openai",
+      "name": "GPT",
+      "ref": "cast-0.5.png",
+      "desc": "long silver-white hair, pale lavender eyes, curved white dragon horns, small white dragon wings and long white scaled dragon tail, elegant fully clothed flowing white high-collar gown with silver geometric knot ornaments; calm clever smile. White dragon identity, never mint green glasses researcher.",
+      "reference_image": "characters/assets/ai-models-v5/openai-reference.png",
+      "video_reference": "projects/tech_report_v2-2026-09-28/work/raw/ai-cast-references/cast-0.5.png",
+      "prompt": "Use case: stylized-concept. Create a polished anime character DESIGN REFERENCE SHEET, landscape 3:2, 1536x1024. The attached screenshot is ONLY a reference to the character pictured inside the video: ignore all web UI, subtitles, comments and watermarks. Character: GPT. Identity anchors: long silver-white hair, pale lavender eyes, curved white dragon horns, small white dragon wings and long white scaled dragon tail, elegant fully clothed flowing white high-collar gown with silver geometric knot ornaments; calm clever smile. White dragon identity, never mint green glasses researcher.. Faithfully adapt the observed community character design into the same clean anime cel shading quality used for a Chinese technology news series. Two depictions of the SAME character, full body adult standard proportions on left 55%, adorable 2.5-head chibi version on right 35%; adult identity preserved. White background with a faint small theme motif behind each figure, generous margins, no frame cutoffs, whole head hair dress feet and tail visible. GPT centered at top as only readable text. Clear silhouette and appealing expressive face; highly detailed clean linework, tasteful gold accents, same exact costume between standard and chibi; no unrelated mascots, no other people, no realistic humans, no copied web text.",
+      "source_video": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "variants": [
+        "standard",
+        "chibi"
+      ],
+      "visual_qa": "passed: identity anchors, readable name, full character, both proportions"
+    },
+    {
+      "id": "gemini",
+      "name": "Gemini",
+      "ref": "cast-3.png",
+      "desc": "long voluminous blue-purple-lavender gradient hair, cat ears and fluffy matching cat tail, one rose eye and one gold eye, purple layered fantasy astrologer outfit with white and gold trims, four-point rainbow star accessories; playful intelligent smile. Clearly feline star sorceress.",
+      "reference_image": "characters/assets/ai-models-v5/gemini-reference.png",
+      "video_reference": "projects/tech_report_v2-2026-09-28/work/raw/ai-cast-references/cast-3.png",
+      "prompt": "Use case: stylized-concept. Create a polished anime character DESIGN REFERENCE SHEET, landscape 3:2, 1536x1024. The attached screenshot is ONLY a reference to the character pictured inside the video: ignore all web UI, subtitles, comments and watermarks. Character: Gemini. Identity anchors: long voluminous blue-purple-lavender gradient hair, cat ears and fluffy matching cat tail, one rose eye and one gold eye, purple layered fantasy astrologer outfit with white and gold trims, four-point rainbow star accessories; playful intelligent smile. Clearly feline star sorceress.. Faithfully adapt the observed community character design into the same clean anime cel shading quality used for a Chinese technology news series. Two depictions of the SAME character, full body adult standard proportions on left 55%, adorable 2.5-head chibi version on right 35%; adult identity preserved. White background with a faint small theme motif behind each figure, generous margins, no frame cutoffs, whole head hair dress feet and tail visible. Gemini centered at top as only readable text. Clear silhouette and appealing expressive face; highly detailed clean linework, tasteful gold accents, same exact costume between standard and chibi; no unrelated mascots, no other people, no realistic humans, no copied web text.",
+      "source_video": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "variants": [
+        "standard",
+        "chibi"
+      ],
+      "visual_qa": "passed: identity anchors, readable name, full character, both proportions"
+    },
+    {
+      "id": "claude",
+      "name": "Claude",
+      "ref": "cast-13.png",
+      "desc": "very long straight copper-orange hair, amber eyes, small burnt-orange sunburst flower at side of hair with dark ribbon, ivory pleated floor-length scholar gown with black corset belt, orange hanging panels, bronze embroidery and sun motifs, white sleeves, holding a brown book; composed scholarly adult woman, no glasses required.",
+      "reference_image": "characters/assets/ai-models-v5/claude-reference.png",
+      "video_reference": "projects/tech_report_v2-2026-09-28/work/raw/ai-cast-references/cast-13.png",
+      "prompt": "Use case: stylized-concept. Create a polished anime character DESIGN REFERENCE SHEET, landscape 3:2, 1536x1024. The attached screenshot is ONLY a reference to the character inside the video: ignore all web UI, subtitles, comments and watermarks. Character Claude. Identity anchors: very long straight copper-orange hair, amber eyes, small burnt-orange sunburst flower at side of hair with dark ribbon, ivory pleated floor-length scholar gown with black corset belt, orange hanging panels, bronze embroidery and sun motifs, white sleeves, holding a brown book; composed scholarly adult woman, no glasses required.. Faithfully adapt the observed community design into clean anime cel shading and fine linework for a Chinese technology news series. Exactly two depictions of the SAME character: full body adult standard proportions left 55%, adorable 2.5-head chibi version right 35%; preserve adult identity. White reference-sheet background with faint small theme motif, generous margins, full head, hair, costume, hands, feet, tail visible. Claude at top as only text. Same identifiable costume in both sizes; appealing faces, elegant detailed costume, crisp contrast. This is a reusable identity sheet, not a news cover. No unrelated mascots, no other people, no web text.",
+      "source_video": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "variants": [
+        "standard",
+        "chibi"
+      ],
+      "visual_qa": "passed: identity anchors, readable name, full character, both proportions"
+    },
+    {
+      "id": "deepseek",
+      "name": "DeepSeek",
+      "ref": "BV1Brtc63EyW-35.png",
+      "desc": "long deep blue hair fading lighter at ends, blue eyes, single curved ahoge, fin-shaped side hair, large visible blue whale tail with white underside, white frilled maid headband and small blue bow, modest navy-blue ankle-length maid dress with white apron and a small whale motif; cheerful slightly mischievous whale-girl, not cat ears.",
+      "reference_image": "characters/assets/ai-models-v5/deepseek-reference.png",
+      "video_reference": "projects/tech_report_v2-2026-09-28/work/raw/ai-cast-references/BV1Brtc63EyW-35.png",
+      "prompt": "Use case: stylized-concept. Create a polished anime character DESIGN REFERENCE SHEET, landscape 3:2, 1536x1024. The attached screenshot is ONLY a reference to the character inside the video: ignore all web UI, subtitles, comments and watermarks. Character DeepSeek. Identity anchors: long deep blue hair fading lighter at ends, blue eyes, single curved ahoge, fin-shaped side hair, large visible blue whale tail with white underside, white frilled maid headband and small blue bow, modest navy-blue ankle-length maid dress with white apron and a small whale motif; cheerful slightly mischievous whale-girl, not cat ears.. Faithfully adapt the observed community design into clean anime cel shading and fine linework for a Chinese technology news series. Exactly two depictions of the SAME character: full body adult standard proportions left 55%, adorable 2.5-head chibi version right 35%; preserve adult identity. White reference-sheet background with faint small theme motif, generous margins, full head, hair, costume, hands, feet, tail visible. DeepSeek at top as only text. Same identifiable costume in both sizes; appealing faces, elegant detailed costume, crisp contrast. This is a reusable identity sheet, not a news cover. No unrelated mascots, no other people, no web text.",
+      "source_video": "https://www.bilibili.com/video/BV1Brtc63EyW/",
+      "variants": [
+        "standard",
+        "chibi"
+      ],
+      "visual_qa": "passed: identity anchors, readable name, full character, both proportions"
+    },
+    {
+      "id": "kimi",
+      "name": "Kimi",
+      "ref": "cast-30.png",
+      "desc": "long wavy silver-white hair with pale lavender shading, blue-violet eyes, crescent-moon and star hair ornament, midnight-indigo and lavender layered long academic dress, fitted dark bodice, white ruffled sleeves and blouse, small black K book or hanging card, moon and subtle piano-key/music motifs; elegant curious adult woman, no animal ears.",
+      "reference_image": "characters/assets/ai-models-v5/kimi-reference.png",
+      "video_reference": "projects/tech_report_v2-2026-09-28/work/raw/ai-cast-references/cast-30.png",
+      "prompt": "Use case: stylized-concept. Create a polished anime character DESIGN REFERENCE SHEET, landscape 3:2, 1536x1024. The attached screenshot is ONLY a reference to the character inside the video: ignore all web UI, subtitles, comments and watermarks. Character Kimi. Identity anchors: long wavy silver-white hair with pale lavender shading, blue-violet eyes, crescent-moon and star hair ornament, midnight-indigo and lavender layered long academic dress, fitted dark bodice, white ruffled sleeves and blouse, small black K book or hanging card, moon and subtle piano-key/music motifs; elegant curious adult woman, no animal ears.. Faithfully adapt the observed community design into clean anime cel shading and fine linework for a Chinese technology news series. Exactly two depictions of the SAME character: full body adult standard proportions left 55%, adorable 2.5-head chibi version right 35%; preserve adult identity. White reference-sheet background with faint small theme motif, generous margins, full head, hair, costume, hands, feet visible. Kimi at top as only text. Same identifiable costume in both sizes; appealing faces, elegant detailed costume, crisp contrast. This is a reusable identity sheet, not a news cover. No unrelated mascots, no other people, no web text.",
+      "source_video": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "variants": [
+        "standard",
+        "chibi"
+      ],
+      "visual_qa": "passed: identity anchors, readable name, full character, both proportions"
+    },
+    {
+      "id": "qwen",
+      "name": "Qwen 千问",
+      "ref": "cast-38.png",
+      "desc": "long periwinkle-blue wavy hair with a loose side braid, blue eyes, small tilted round blue Chinese headdress with white geometric star-knot ornament, modest white and blue-purple flowing Chinese-inspired gown and matching long cape with gold embroidered motifs, holding an open blue folding fan and a small tasseled bag; bright confident adult woman.",
+      "reference_image": "characters/assets/ai-models-v5/qwen-reference.png",
+      "video_reference": "projects/tech_report_v2-2026-09-28/work/raw/ai-cast-references/cast-38.png",
+      "prompt": "Use case: stylized-concept. Create a polished anime character DESIGN REFERENCE SHEET, landscape 3:2, 1536x1024. The attached screenshot is ONLY a reference to the character inside the video: ignore all web UI, subtitles, comments and watermarks. Character Qwen 千问. Identity anchors: long periwinkle-blue wavy hair with a loose side braid, blue eyes, small tilted round blue Chinese headdress with white geometric star-knot ornament, modest white and blue-purple flowing Chinese-inspired gown and matching long cape with gold embroidered motifs, holding an open blue folding fan and a small tasseled bag; bright confident adult woman.. Faithfully adapt the observed community design into clean anime cel shading and fine linework for a Chinese technology news series. Exactly two depictions of the SAME character: full body adult standard proportions left 55%, adorable 2.5-head chibi version right 35%; preserve adult identity. White reference-sheet background with faint small theme motif, generous margins, full head, hair, costume, hands, feet visible. Qwen 千问 at top as only text. Same identifiable costume in both sizes; appealing faces, elegant detailed costume, crisp contrast. This is a reusable identity sheet, not a news cover. No unrelated mascots, no other people, no web text.",
+      "source_video": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "variants": [
+        "standard",
+        "chibi"
+      ],
+      "visual_qa": "passed: identity anchors, readable name, full character, both proportions"
+    }
+  ]
+}

@@ -128,5 +128,11 @@
       "permission": "not-established",
       "reviewedAt": "2026-09-28"
     }
-  ]
+  ],
+  "followUp": {
+    "date": "2026-10-08",
+    "decision": "user-selected-homepage-generated-references",
+    "record": "public/generated/ai-models-v5/manifest.json",
+    "note": "Earlier decisions above describe the 2026-09-28 review. Current homepage display follows the explicit user request; upstream adaptation rights are not newly granted."
+  }
 }

@@ -3,6 +3,7 @@ import Layout from '../../layouts/Layout.astro';
 import CharacterCard from '../../components/CharacterCard.astro';
 import ModelHighlight from '../../components/ModelHighlight.astro';
 import { characterModels } from '../../lib/models';
+import ReferenceGallery from '../../components/ReferenceGallery.astro';
 import Icon from '../../components/Icon.astro';
 import { locales, t } from '../../lib/i18n';
 import { characters, entities } from '../../lib/data';
@@ -21,7 +22,8 @@ const displayCount=characters.filter(c=>c.preview&&canUse(c.id,'featured')).leng
 const orderedCharacters=[...characters].sort((a,b)=>rank(a)-rank(b));
 ---
 <Layout lang={lang} title={s.atlas} description={d.intro}>
-  <section class="page-heading"><div><p class="eyebrow">{s.collection}</p><h1>{d.title}</h1><p class="lead">{d.intro}</p><div class="button-row"><a class="button" href="#featured">{d.browse}</a><a class="button secondary" href={path(`${lang}/studio/`)}><Icon name="studio" size={17}/>{d.use}</a></div><div class="hero-facts"><span><strong>{characters.length}</strong>{d.indexed}</span><span><strong>{displayCount}</strong>{d.display}</span><span><strong>{characters.filter(c=>c.downloadable).length}</strong>{d.packs}</span></div></div></section>
+  <section class="page-heading"><div><p class="eyebrow">{s.collection}</p><h1>{d.title}</h1><p class="lead">{d.intro}</p><div class="button-row"><a class="button" href="#identities">{d.browse}</a><a class="button secondary" href={path(`${lang}/studio/`)}><Icon name="studio" size={17}/>{d.use}</a></div><div class="hero-facts"><span><strong>{characters.length}</strong>{d.indexed}</span><span><strong>{displayCount}</strong>{d.display}</span><span><strong>{characters.filter(c=>c.downloadable).length}</strong>{d.packs}</span></div></div></section>
+  <ReferenceGallery lang={lang}/>
   {characterModels[0] && <ModelHighlight model={characterModels[0]} lang={lang}/>}
   <section id="featured" class="featured-section" aria-labelledby="featured-title"><div class="section-title"><h2 id="featured-title">{d.featured}</h2><a class="text-link" href="#catalog">{d.catalog} ↓</a></div><p class="subtle">{d.note}</p><div class="featured-grid">{featured.map(c=><article class="featured-card"><a href={path(`${lang}/characters/${c.id}/`)}><img src={path(c.preview!)} alt={c.name[lang]} width="512" height="512" loading="lazy"/><h3>{c.name[lang]}</h3></a><p class="featured-credit">{c.attribution.map((a,i)=><>{i>0?' / ':''}<a href={a.url} target="_blank" rel="noopener noreferrer">{a.name}</a></>)}</p><a class="text-link" href={c.source} target="_blank" rel="noopener noreferrer">{s.viewSource} ↗</a><details><summary>{d.conditions}</summary><p>{useReview(c.id)!.uses.featured.conditions[lang]}</p><a class="text-link" href={c.licenseUrl} target="_blank" rel="noopener noreferrer">{c.license}</a></details></article>)}</div></section>
   <section class="catalog" id="catalog" aria-label={s.atlas}>

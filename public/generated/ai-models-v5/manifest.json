@@ -1,0 +1,532 @@
+{
+  "id": "ai-models-v5",
+  "kind": "generated-reference",
+  "generatedAt": "2026-09-28",
+  "importedAt": "2026-10-08",
+  "generator": "built-in image_gen",
+  "sourceProject": "ai_video",
+  "sourceDirectory": "characters/assets/ai-models-v5",
+  "snapshots": [
+    {
+      "path": "generated/ai-models-v5/upstream-registry.json",
+      "sha256": "e11fa016206aab93f31d63d207f2eac4b872e82e8ecbc6b329e16ef0b27cf3f0"
+    },
+    {
+      "path": "generated/ai-models-v5/upstream-README.md",
+      "sha256": "3c1deae80e75949cae16200f1fdc8c70552f2b44e6d4c660bab0f49af04af926"
+    }
+  ],
+  "displayRequest": {
+    "date": "2026-10-08",
+    "scope": [
+      "github-readme",
+      "website-home",
+      "reference-archive"
+    ],
+    "instruction": "将 ai_video/characters/assets/ai-models-v5 中的形象作为 github 主页的形象进行展示；同时将这些信息收录进项目",
+    "grantsUpstreamRights": false
+  },
+  "title": {
+    "zh": "六位 AI，六种模样",
+    "en": "Six AIs, six identities",
+    "ja": "6つの AI、6つの姿"
+  },
+  "description": {
+    "zh": "来自 ai_video 的 v5 固定形象参考：每张同时展示常规比例与 Q 版。",
+    "en": "The v5 identity references from ai_video, each showing standard and chibi proportions.",
+    "ja": "ai_video の v5 形象資料。各画像に通常頭身とちびキャラを収録。"
+  },
+  "notice": {
+    "zh": "基于社区角色生成的派生参考图，非厂商官方形象，也不是原作者原图或细节复原。按项目维护者指定用于主页展示；该选择不等于取得上游改编或再分发许可，已留存的作者条件仍适用。",
+    "en": "Generated adaptations of community character designs, not official mascots, creator originals or recovered detail. Selected by the project maintainer for homepage display; this selection grants no upstream adaptation or redistribution rights. Retained creator terms still apply.",
+    "ja": "コミュニティのキャラクターを基にした生成派生資料で、公式キャラクター・作者の原図・細部の復元ではありません。管理者の指定によりホームに表示しますが、上流の改変・再配布許可を意味しません。保存済みの作者条件は引き続き適用されます。"
+  },
+  "assets": [
+    {
+      "id": "openai",
+      "name": {
+        "zh": "GPT",
+        "en": "GPT",
+        "ja": "GPT"
+      },
+      "entity": "chatgpt",
+      "characterId": "zipzippipe-chatgpt",
+      "features": {
+        "zh": "银白长发、龙角、龙翼与龙尾，白色长裙。",
+        "en": "Silver-white hair, dragon horns, wings and tail, and a white gown.",
+        "ja": "銀白色の長髪、竜の角・翼・尾、白いドレス。"
+      },
+      "attribution": [
+        {
+          "name": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994",
+          "role": "community-design",
+          "publication": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "sourceVideo": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceVideoPublisher": "想看故事的lazy",
+      "referenceEvidence": {
+        "path": "projects/tech_report_v2-2026-09-28/work/raw/ai-cast-references/cast-0.5.png",
+        "sha256": "48b75fa4a21f3960778ecd7ca2238b4dab22f8b542e7d934241528fab87693b9",
+        "kind": "browser-screenshot",
+        "published": false
+      },
+      "prompt": "Use case: stylized-concept. Create a polished anime character DESIGN REFERENCE SHEET, landscape 3:2, 1536x1024. The attached screenshot is ONLY a reference to the character pictured inside the video: ignore all web UI, subtitles, comments and watermarks. Character: GPT. Identity anchors: long silver-white hair, pale lavender eyes, curved white dragon horns, small white dragon wings and long white scaled dragon tail, elegant fully clothed flowing white high-collar gown with silver geometric knot ornaments; calm clever smile. White dragon identity, never mint green glasses researcher.. Faithfully adapt the observed community character design into the same clean anime cel shading quality used for a Chinese technology news series. Two depictions of the SAME character, full body adult standard proportions on left 55%, adorable 2.5-head chibi version on right 35%; adult identity preserved. White background with a faint small theme motif behind each figure, generous margins, no frame cutoffs, whole head hair dress feet and tail visible. GPT centered at top as only readable text. Clear silhouette and appealing expressive face; highly detailed clean linework, tasteful gold accents, same exact costume between standard and chibi; no unrelated mascots, no other people, no realistic humans, no copied web text.",
+      "identityDescription": "long silver-white hair, pale lavender eyes, curved white dragon horns, small white dragon wings and long white scaled dragon tail, elegant fully clothed flowing white high-collar gown with silver geometric knot ornaments; calm clever smile. White dragon identity, never mint green glasses researcher.",
+      "variants": [
+        "standard",
+        "chibi"
+      ],
+      "upstreamVisualQA": "passed: identity anchors, readable name, full character, both proportions",
+      "original": {
+        "path": "generated/ai-models-v5/openai-reference.png",
+        "sha256": "37bf617c72092f73a8f56d3db6d95456679fea9c5ecf1a38fc1d64c2704e6d6a",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2201395
+      },
+      "preview": {
+        "path": "generated/ai-models-v5/openai-preview.webp",
+        "sha256": "e712541edc9a4e2f60bfa93f3705cc2029bb4a3a6816c02f5c352d42dd71d30f",
+        "parentSha256": "37bf617c72092f73a8f56d3db6d95456679fea9c5ecf1a38fc1d64c2704e6d6a"
+      },
+      "processing": [
+        {
+          "date": "2026-09-28",
+          "operation": "image-generation",
+          "generator": "built-in image_gen",
+          "promptSource": "upstream-registry.json",
+          "referenceSha256": "48b75fa4a21f3960778ecd7ca2238b4dab22f8b542e7d934241528fab87693b9"
+        },
+        {
+          "date": "2026-10-08",
+          "operation": "byte-preserving-import",
+          "sourceSha256": "37bf617c72092f73a8f56d3db6d95456679fea9c5ecf1a38fc1d64c2704e6d6a"
+        },
+        {
+          "date": "2026-10-08",
+          "operation": "resize-and-webp",
+          "width": 960,
+          "quality": 88,
+          "crop": false,
+          "generative": false
+        }
+      ],
+      "rights": {
+        "status": "adaptation-permission-not-established",
+        "license": null,
+        "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+        "evidencePath": "content/sources/zipzippipe-chatgpt.json",
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      }
+    },
+    {
+      "id": "gemini",
+      "name": {
+        "zh": "Gemini",
+        "en": "Gemini",
+        "ja": "Gemini"
+      },
+      "entity": "gemini",
+      "characterId": "zipzippipe-gemini",
+      "features": {
+        "zh": "蓝紫渐变长发、猫耳猫尾、异色瞳、四角星饰物与紫色服装。",
+        "en": "Blue-purple hair, cat ears and tail, different-colored eyes, star ornaments and a purple outfit.",
+        "ja": "青紫の長髪、猫耳と尾、左右で異なる瞳、星の飾りと紫の衣装。"
+      },
+      "attribution": [
+        {
+          "name": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994",
+          "role": "community-design",
+          "publication": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "sourceVideo": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceVideoPublisher": "想看故事的lazy",
+      "referenceEvidence": {
+        "path": "projects/tech_report_v2-2026-09-28/work/raw/ai-cast-references/cast-3.png",
+        "sha256": "7de6834be7a3da1395cde070a88276f67a0640488a7a813d7ef897b15aa423a5",
+        "kind": "browser-screenshot",
+        "published": false
+      },
+      "prompt": "Use case: stylized-concept. Create a polished anime character DESIGN REFERENCE SHEET, landscape 3:2, 1536x1024. The attached screenshot is ONLY a reference to the character pictured inside the video: ignore all web UI, subtitles, comments and watermarks. Character: Gemini. Identity anchors: long voluminous blue-purple-lavender gradient hair, cat ears and fluffy matching cat tail, one rose eye and one gold eye, purple layered fantasy astrologer outfit with white and gold trims, four-point rainbow star accessories; playful intelligent smile. Clearly feline star sorceress.. Faithfully adapt the observed community character design into the same clean anime cel shading quality used for a Chinese technology news series. Two depictions of the SAME character, full body adult standard proportions on left 55%, adorable 2.5-head chibi version on right 35%; adult identity preserved. White background with a faint small theme motif behind each figure, generous margins, no frame cutoffs, whole head hair dress feet and tail visible. Gemini centered at top as only readable text. Clear silhouette and appealing expressive face; highly detailed clean linework, tasteful gold accents, same exact costume between standard and chibi; no unrelated mascots, no other people, no realistic humans, no copied web text.",
+      "identityDescription": "long voluminous blue-purple-lavender gradient hair, cat ears and fluffy matching cat tail, one rose eye and one gold eye, purple layered fantasy astrologer outfit with white and gold trims, four-point rainbow star accessories; playful intelligent smile. Clearly feline star sorceress.",
+      "variants": [
+        "standard",
+        "chibi"
+      ],
+      "upstreamVisualQA": "passed: identity anchors, readable name, full character, both proportions",
+      "original": {
+        "path": "generated/ai-models-v5/gemini-reference.png",
+        "sha256": "f280188303731d17205de926795a8fd0463dc8995b7342cddf4b93a5dbf50e85",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2048225
+      },
+      "preview": {
+        "path": "generated/ai-models-v5/gemini-preview.webp",
+        "sha256": "8005e374ae7915a61518f3101e57f5526f937c304bbefdfe59028a5cebd2da91",
+        "parentSha256": "f280188303731d17205de926795a8fd0463dc8995b7342cddf4b93a5dbf50e85"
+      },
+      "processing": [
+        {
+          "date": "2026-09-28",
+          "operation": "image-generation",
+          "generator": "built-in image_gen",
+          "promptSource": "upstream-registry.json",
+          "referenceSha256": "7de6834be7a3da1395cde070a88276f67a0640488a7a813d7ef897b15aa423a5"
+        },
+        {
+          "date": "2026-10-08",
+          "operation": "byte-preserving-import",
+          "sourceSha256": "f280188303731d17205de926795a8fd0463dc8995b7342cddf4b93a5dbf50e85"
+        },
+        {
+          "date": "2026-10-08",
+          "operation": "resize-and-webp",
+          "width": 960,
+          "quality": 88,
+          "crop": false,
+          "generative": false
+        }
+      ],
+      "rights": {
+        "status": "adaptation-permission-not-established",
+        "license": null,
+        "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+        "evidencePath": "content/sources/zipzippipe-gemini.json",
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      }
+    },
+    {
+      "id": "claude",
+      "name": {
+        "zh": "Claude",
+        "en": "Claude",
+        "ja": "Claude"
+      },
+      "entity": "claude",
+      "characterId": "zipzippipe-claude",
+      "features": {
+        "zh": "橙色长发、日芒花饰、白黑橙配色长裙，手持书本。",
+        "en": "Long orange hair, a sunburst ornament, an ivory, black and orange dress, and a book.",
+        "ja": "オレンジの長髪、太陽形の飾り、白・黒・オレンジのドレス、手に本。"
+      },
+      "attribution": [
+        {
+          "name": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994",
+          "role": "community-design",
+          "publication": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "sourceVideo": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceVideoPublisher": "想看故事的lazy",
+      "referenceEvidence": {
+        "path": "projects/tech_report_v2-2026-09-28/work/raw/ai-cast-references/cast-13.png",
+        "sha256": "ab6f4fb376dbdd99966809d1826b224f533a928f3edd1262fcda9015f0429836",
+        "kind": "browser-screenshot",
+        "published": false
+      },
+      "prompt": "Use case: stylized-concept. Create a polished anime character DESIGN REFERENCE SHEET, landscape 3:2, 1536x1024. The attached screenshot is ONLY a reference to the character inside the video: ignore all web UI, subtitles, comments and watermarks. Character Claude. Identity anchors: very long straight copper-orange hair, amber eyes, small burnt-orange sunburst flower at side of hair with dark ribbon, ivory pleated floor-length scholar gown with black corset belt, orange hanging panels, bronze embroidery and sun motifs, white sleeves, holding a brown book; composed scholarly adult woman, no glasses required.. Faithfully adapt the observed community design into clean anime cel shading and fine linework for a Chinese technology news series. Exactly two depictions of the SAME character: full body adult standard proportions left 55%, adorable 2.5-head chibi version right 35%; preserve adult identity. White reference-sheet background with faint small theme motif, generous margins, full head, hair, costume, hands, feet, tail visible. Claude at top as only text. Same identifiable costume in both sizes; appealing faces, elegant detailed costume, crisp contrast. This is a reusable identity sheet, not a news cover. No unrelated mascots, no other people, no web text.",
+      "identityDescription": "very long straight copper-orange hair, amber eyes, small burnt-orange sunburst flower at side of hair with dark ribbon, ivory pleated floor-length scholar gown with black corset belt, orange hanging panels, bronze embroidery and sun motifs, white sleeves, holding a brown book; composed scholarly adult woman, no glasses required.",
+      "variants": [
+        "standard",
+        "chibi"
+      ],
+      "upstreamVisualQA": "passed: identity anchors, readable name, full character, both proportions",
+      "original": {
+        "path": "generated/ai-models-v5/claude-reference.png",
+        "sha256": "b2d2c1a89f3cf059a8558b6fd505104f4309a0c18a96288be23a8ddd63509edb",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2344084
+      },
+      "preview": {
+        "path": "generated/ai-models-v5/claude-preview.webp",
+        "sha256": "d56d81c17b57e0d4805c05bbbf2d9bb42a3f9be84c23c5f0a6016185116d00e7",
+        "parentSha256": "b2d2c1a89f3cf059a8558b6fd505104f4309a0c18a96288be23a8ddd63509edb"
+      },
+      "processing": [
+        {
+          "date": "2026-09-28",
+          "operation": "image-generation",
+          "generator": "built-in image_gen",
+          "promptSource": "upstream-registry.json",
+          "referenceSha256": "ab6f4fb376dbdd99966809d1826b224f533a928f3edd1262fcda9015f0429836"
+        },
+        {
+          "date": "2026-10-08",
+          "operation": "byte-preserving-import",
+          "sourceSha256": "b2d2c1a89f3cf059a8558b6fd505104f4309a0c18a96288be23a8ddd63509edb"
+        },
+        {
+          "date": "2026-10-08",
+          "operation": "resize-and-webp",
+          "width": 960,
+          "quality": 88,
+          "crop": false,
+          "generative": false
+        }
+      ],
+      "rights": {
+        "status": "adaptation-permission-not-established",
+        "license": null,
+        "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+        "evidencePath": "content/sources/zipzippipe-claude.json",
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      }
+    },
+    {
+      "id": "deepseek",
+      "name": {
+        "zh": "DeepSeek",
+        "en": "DeepSeek",
+        "ja": "DeepSeek"
+      },
+      "entity": "deepseek",
+      "characterId": "zipzippipe-deepseek",
+      "features": {
+        "zh": "蓝色长发、白色发箍、蓝白女仆裙、鲸鱼图案与鲸尾。",
+        "en": "Blue hair, a white headband, a blue-and-white maid dress, a whale motif and whale tail.",
+        "ja": "青い長髪、白いヘッドドレス、青白のメイド服、クジラ模様と尾。"
+      },
+      "attribution": [
+        {
+          "name": "上善无形",
+          "url": "https://space.bilibili.com/4456176",
+          "role": "original-character",
+          "publication": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "name": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994",
+          "role": "community-design",
+          "publication": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "sourceVideo": "https://www.bilibili.com/video/BV1Brtc63EyW/",
+      "sourceVideoPublisher": "AI梗百科",
+      "referenceEvidence": {
+        "path": "projects/tech_report_v2-2026-09-28/work/raw/ai-cast-references/BV1Brtc63EyW-35.png",
+        "sha256": "3729edfddd1263f3ccc609135916db1d189983464688b4ff0d6f7d97b64bdf79",
+        "kind": "browser-screenshot",
+        "published": false
+      },
+      "prompt": "Use case: stylized-concept. Create a polished anime character DESIGN REFERENCE SHEET, landscape 3:2, 1536x1024. The attached screenshot is ONLY a reference to the character inside the video: ignore all web UI, subtitles, comments and watermarks. Character DeepSeek. Identity anchors: long deep blue hair fading lighter at ends, blue eyes, single curved ahoge, fin-shaped side hair, large visible blue whale tail with white underside, white frilled maid headband and small blue bow, modest navy-blue ankle-length maid dress with white apron and a small whale motif; cheerful slightly mischievous whale-girl, not cat ears.. Faithfully adapt the observed community design into clean anime cel shading and fine linework for a Chinese technology news series. Exactly two depictions of the SAME character: full body adult standard proportions left 55%, adorable 2.5-head chibi version right 35%; preserve adult identity. White reference-sheet background with faint small theme motif, generous margins, full head, hair, costume, hands, feet, tail visible. DeepSeek at top as only text. Same identifiable costume in both sizes; appealing faces, elegant detailed costume, crisp contrast. This is a reusable identity sheet, not a news cover. No unrelated mascots, no other people, no web text.",
+      "identityDescription": "long deep blue hair fading lighter at ends, blue eyes, single curved ahoge, fin-shaped side hair, large visible blue whale tail with white underside, white frilled maid headband and small blue bow, modest navy-blue ankle-length maid dress with white apron and a small whale motif; cheerful slightly mischievous whale-girl, not cat ears.",
+      "variants": [
+        "standard",
+        "chibi"
+      ],
+      "upstreamVisualQA": "passed: identity anchors, readable name, full character, both proportions",
+      "original": {
+        "path": "generated/ai-models-v5/deepseek-reference.png",
+        "sha256": "496405b42259f7ebe3ff257325b3e3b2f36fd6d9f4faefbf1ff9c46f707bc616",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1978237
+      },
+      "preview": {
+        "path": "generated/ai-models-v5/deepseek-preview.webp",
+        "sha256": "9b0f546b17233dac8648a9b824a18aba43737b6d23b97958a6e46b8da0880ba7",
+        "parentSha256": "496405b42259f7ebe3ff257325b3e3b2f36fd6d9f4faefbf1ff9c46f707bc616"
+      },
+      "processing": [
+        {
+          "date": "2026-09-28",
+          "operation": "image-generation",
+          "generator": "built-in image_gen",
+          "promptSource": "upstream-registry.json",
+          "referenceSha256": "3729edfddd1263f3ccc609135916db1d189983464688b4ff0d6f7d97b64bdf79"
+        },
+        {
+          "date": "2026-10-08",
+          "operation": "byte-preserving-import",
+          "sourceSha256": "496405b42259f7ebe3ff257325b3e3b2f36fd6d9f4faefbf1ff9c46f707bc616"
+        },
+        {
+          "date": "2026-10-08",
+          "operation": "resize-and-webp",
+          "width": 960,
+          "quality": 88,
+          "crop": false,
+          "generative": false
+        }
+      ],
+      "rights": {
+        "status": "upstream-sharealike-statement",
+        "license": "CC-BY-NC-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "evidencePath": "public/collected/shangshan-whale/source.json",
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      }
+    },
+    {
+      "id": "kimi",
+      "name": {
+        "zh": "Kimi",
+        "en": "Kimi",
+        "ja": "Kimi"
+      },
+      "entity": "kimi",
+      "characterId": "zipzippipe-kimi",
+      "features": {
+        "zh": "银白长发、蓝紫长裙、月亮与星空元素，挂有 K 字饰物。",
+        "en": "Silver-white hair, an indigo dress, moon and star motifs, and a hanging K ornament.",
+        "ja": "銀白色の長髪、青紫のドレス、月と星のモチーフ、K の飾り。"
+      },
+      "attribution": [
+        {
+          "name": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994",
+          "role": "community-design",
+          "publication": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "sourceVideo": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceVideoPublisher": "想看故事的lazy",
+      "referenceEvidence": {
+        "path": "projects/tech_report_v2-2026-09-28/work/raw/ai-cast-references/cast-30.png",
+        "sha256": "f12a47b624e687e56966cddcabbaaba5bdfb95029d93c5cd30a867b73b131c50",
+        "kind": "browser-screenshot",
+        "published": false
+      },
+      "prompt": "Use case: stylized-concept. Create a polished anime character DESIGN REFERENCE SHEET, landscape 3:2, 1536x1024. The attached screenshot is ONLY a reference to the character inside the video: ignore all web UI, subtitles, comments and watermarks. Character Kimi. Identity anchors: long wavy silver-white hair with pale lavender shading, blue-violet eyes, crescent-moon and star hair ornament, midnight-indigo and lavender layered long academic dress, fitted dark bodice, white ruffled sleeves and blouse, small black K book or hanging card, moon and subtle piano-key/music motifs; elegant curious adult woman, no animal ears.. Faithfully adapt the observed community design into clean anime cel shading and fine linework for a Chinese technology news series. Exactly two depictions of the SAME character: full body adult standard proportions left 55%, adorable 2.5-head chibi version right 35%; preserve adult identity. White reference-sheet background with faint small theme motif, generous margins, full head, hair, costume, hands, feet visible. Kimi at top as only text. Same identifiable costume in both sizes; appealing faces, elegant detailed costume, crisp contrast. This is a reusable identity sheet, not a news cover. No unrelated mascots, no other people, no web text.",
+      "identityDescription": "long wavy silver-white hair with pale lavender shading, blue-violet eyes, crescent-moon and star hair ornament, midnight-indigo and lavender layered long academic dress, fitted dark bodice, white ruffled sleeves and blouse, small black K book or hanging card, moon and subtle piano-key/music motifs; elegant curious adult woman, no animal ears.",
+      "variants": [
+        "standard",
+        "chibi"
+      ],
+      "upstreamVisualQA": "passed: identity anchors, readable name, full character, both proportions",
+      "original": {
+        "path": "generated/ai-models-v5/kimi-reference.png",
+        "sha256": "3012cfe4b1c351ff874d4e6b1723db9a3864b8a96220cb7a8015f7e6ccf2f283",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2413595
+      },
+      "preview": {
+        "path": "generated/ai-models-v5/kimi-preview.webp",
+        "sha256": "a54ff5ec02f178785b439c64b8a5aa82979393dffce5768baa1ad26d7ec847ee",
+        "parentSha256": "3012cfe4b1c351ff874d4e6b1723db9a3864b8a96220cb7a8015f7e6ccf2f283"
+      },
+      "processing": [
+        {
+          "date": "2026-09-28",
+          "operation": "image-generation",
+          "generator": "built-in image_gen",
+          "promptSource": "upstream-registry.json",
+          "referenceSha256": "f12a47b624e687e56966cddcabbaaba5bdfb95029d93c5cd30a867b73b131c50"
+        },
+        {
+          "date": "2026-10-08",
+          "operation": "byte-preserving-import",
+          "sourceSha256": "3012cfe4b1c351ff874d4e6b1723db9a3864b8a96220cb7a8015f7e6ccf2f283"
+        },
+        {
+          "date": "2026-10-08",
+          "operation": "resize-and-webp",
+          "width": 960,
+          "quality": 88,
+          "crop": false,
+          "generative": false
+        }
+      ],
+      "rights": {
+        "status": "adaptation-permission-not-established",
+        "license": null,
+        "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+        "evidencePath": "content/sources/zipzippipe-kimi.json",
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      }
+    },
+    {
+      "id": "qwen",
+      "name": {
+        "zh": "Qwen 千问",
+        "en": "Qwen",
+        "ja": "Qwen 千問"
+      },
+      "entity": "qwen",
+      "characterId": "zipzippipe-qwen",
+      "features": {
+        "zh": "蓝紫长发与侧编发、中式头饰、蓝白长裙与披袖、折扇。",
+        "en": "Blue-purple hair with a side braid, Chinese-style headwear, a blue-and-white gown and a folding fan.",
+        "ja": "青紫の長髪と横の編み髪、中華風の髪飾り、青白の衣装、扇子。"
+      },
+      "attribution": [
+        {
+          "name": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994",
+          "role": "community-design",
+          "publication": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "sourceVideo": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceVideoPublisher": "想看故事的lazy",
+      "referenceEvidence": {
+        "path": "projects/tech_report_v2-2026-09-28/work/raw/ai-cast-references/cast-38.png",
+        "sha256": "0b25a3810f2ab00a50b10334e8bd9fed2b30e6a54f361ef4f1039651adae315c",
+        "kind": "browser-screenshot",
+        "published": false
+      },
+      "prompt": "Use case: stylized-concept. Create a polished anime character DESIGN REFERENCE SHEET, landscape 3:2, 1536x1024. The attached screenshot is ONLY a reference to the character inside the video: ignore all web UI, subtitles, comments and watermarks. Character Qwen 千问. Identity anchors: long periwinkle-blue wavy hair with a loose side braid, blue eyes, small tilted round blue Chinese headdress with white geometric star-knot ornament, modest white and blue-purple flowing Chinese-inspired gown and matching long cape with gold embroidered motifs, holding an open blue folding fan and a small tasseled bag; bright confident adult woman.. Faithfully adapt the observed community design into clean anime cel shading and fine linework for a Chinese technology news series. Exactly two depictions of the SAME character: full body adult standard proportions left 55%, adorable 2.5-head chibi version right 35%; preserve adult identity. White reference-sheet background with faint small theme motif, generous margins, full head, hair, costume, hands, feet visible. Qwen 千问 at top as only text. Same identifiable costume in both sizes; appealing faces, elegant detailed costume, crisp contrast. This is a reusable identity sheet, not a news cover. No unrelated mascots, no other people, no web text.",
+      "identityDescription": "long periwinkle-blue wavy hair with a loose side braid, blue eyes, small tilted round blue Chinese headdress with white geometric star-knot ornament, modest white and blue-purple flowing Chinese-inspired gown and matching long cape with gold embroidered motifs, holding an open blue folding fan and a small tasseled bag; bright confident adult woman.",
+      "variants": [
+        "standard",
+        "chibi"
+      ],
+      "upstreamVisualQA": "passed: identity anchors, readable name, full character, both proportions",
+      "original": {
+        "path": "generated/ai-models-v5/qwen-reference.png",
+        "sha256": "818a393ee6767b65cae5a8d8d6a3dd34d8436e953760035d3dacc939ea9753fa",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2084241
+      },
+      "preview": {
+        "path": "generated/ai-models-v5/qwen-preview.webp",
+        "sha256": "6cc38d799c5af97e220d9386f0462becea53101633785b07b8c85132e6ce6f85",
+        "parentSha256": "818a393ee6767b65cae5a8d8d6a3dd34d8436e953760035d3dacc939ea9753fa"
+      },
+      "processing": [
+        {
+          "date": "2026-09-28",
+          "operation": "image-generation",
+          "generator": "built-in image_gen",
+          "promptSource": "upstream-registry.json",
+          "referenceSha256": "0b25a3810f2ab00a50b10334e8bd9fed2b30e6a54f361ef4f1039651adae315c"
+        },
+        {
+          "date": "2026-10-08",
+          "operation": "byte-preserving-import",
+          "sourceSha256": "818a393ee6767b65cae5a8d8d6a3dd34d8436e953760035d3dacc939ea9753fa"
+        },
+        {
+          "date": "2026-10-08",
+          "operation": "resize-and-webp",
+          "width": 960,
+          "quality": 88,
+          "crop": false,
+          "generative": false
+        }
+      ],
+      "rights": {
+        "status": "adaptation-permission-not-established",
+        "license": null,
+        "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+        "evidencePath": "content/sources/zipzippipe-qwen.json",
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      }
+    }
+  ]
+}

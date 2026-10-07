@@ -42,3 +42,26 @@ for(const c of chars){
 }
 console.log(`Validated ${chars.length} sourced entries, ${entities.length} AI families, ${images} preserved originals, 3 languages, and every derivative hash.`);
 console.log(`Validated ${candidateCount} unpublished candidates and metadata-only publication boundaries.`);
+
+// Generated references have a separate archive; never treat them as collected originals.
+const references=JSON.parse(await readFile('public/generated/ai-models-v5/manifest.json','utf8'));
+const registry=JSON.parse(await readFile('public/generated/ai-models-v5/upstream-registry.json','utf8'));
+const research=JSON.parse(await readFile('content/research/ai-video-2026-09-28.json','utf8'));
+if(references.kind!=='generated-reference'||references.displayRequest.grantsUpstreamRights!==false)throw new Error('Generated references must retain their distinct provenance and display scope');
+if(references.assets.length!==registry.assets.length||new Set(references.assets.map(a=>a.id)).size!==6)throw new Error('Expected six distinct identity references');
+for(const key of ['title','description','notice'])for(const lang of ['zh','en','ja'])if(!references[key]?.[lang]?.trim())throw new Error(`Missing localized reference ${key}`);
+for(const snapshot of references.snapshots)if(sha256(await readFile(`public/${snapshot.path}`))!==snapshot.sha256)throw new Error('Reference source snapshot mismatch');
+for(const a of references.assets){
+ const original=registry.assets.find(r=>r.id===a.id);
+ const observation=research.observations.find(o=>o.entity===a.entity);
+ if(!original||!chars.some(c=>c.id===a.characterId&&c.entity===a.entity))throw new Error('Invalid reference character mapping');
+ if(a.original.sha256!==observation.generatedSha256||a.referenceEvidence.sha256!==observation.evidenceSha256||a.prompt!==original.prompt||a.sourceVideo!==original.source_video)throw new Error('Reference identity/provenance mismatch');
+ for(const key of ['name','features'])for(const lang of ['zh','en','ja'])if(!a[key]?.[lang]?.trim())throw new Error('Missing localized reference data');
+ for(const file of [a.original,a.preview]){
+  if(!file.path.startsWith('generated/ai-models-v5/')||file.path.includes('..'))throw new Error('Invalid reference archive path');
+  if(sha256(await readFile(`public/${file.path}`))!==file.sha256)throw new Error('Reference file hash mismatch');
+ }
+ if(a.preview.parentSha256!==a.original.sha256||a.rights.newLicenseGranted!==false||a.rights.inDownloadPacks!==false||!a.attribution.length)throw new Error('Reference processing or rights mismatch');
+ await access(a.rights.evidencePath);
+}
+console.log('Validated six separately labeled generated references, source snapshots, identity mappings and preserved hashes.');

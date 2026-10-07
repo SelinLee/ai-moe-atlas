@@ -14,7 +14,7 @@ page.on('response',r=>{if(r.url().startsWith(origin)&&r.status()>=400)errors.pus
 try {
  for(const [lang,htmlLang] of [['zh','zh-CN'],['en','en'],['ja','ja']]){
   console.log(`Checking ${lang} routes and downloads`);
-  for(const route of ['', 'assets/','models/','collection/','contribute/',...chars.map(c=>`characters/${c.id}/`)]){
+  for(const route of ['', 'references/', 'assets/','models/','collection/','contribute/',...chars.map(c=>`characters/${c.id}/`)]){
    const response=await page.goto(`${origin}/${lang}/${route}`,{waitUntil:'domcontentloaded'});assert.equal(response.status(),200);assert.equal(await page.locator('html').getAttribute('lang'),htmlLang);
    assert.ok((await page.locator('h1').textContent()).trim());
    const canonical=await page.locator('link[rel="canonical"]').getAttribute('href');
@@ -53,7 +53,7 @@ try {
   await page.locator('[data-kind-filter="collected"]').click();assert.equal(await page.locator('[data-card]:visible').count(),chars.filter(c=>c.kind==='collected').length);
   await page.locator('[data-kind-filter="all"]').click();await page.screenshot({path:`.qa/atlas-${lang}-desktop.png`,fullPage:false});
   await page.setViewportSize({width:390,height:844});
-  for(const route of ['','assets/','studio/','models/','collection/','characters/deep-whale-maid/']){
+  for(const route of ['','references/','assets/','studio/','models/','collection/','characters/deep-whale-maid/']){
    await page.goto(`${origin}/${lang}/${route}`,{waitUntil:'domcontentloaded'});
    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1),false,`Mobile overflow: ${lang}/${route}`);
   }
@@ -75,6 +75,11 @@ try {
   await page.goForward();assert.equal(await page.locator('#search').inputValue(),'Clawd');
   await page.goto(`${origin}/${lang}/?model=bad&style=bad&kind=bad`);assert.equal(new URL(page.url()).search,'');
   assert.equal(await page.locator('.featured-card').count(),8);
+  assert.equal(await page.locator('[data-reference]').count(),6);
+  await page.locator('[data-reference="openai"] .identity-art').click();
+  assert.ok(page.url().endsWith(`/${lang}/references/#openai`));
+  assert.equal(await page.locator('[data-reference-record]').count(),6);
+  await page.goto(`${origin}/${lang}/`);
   await context.grantPermissions(['clipboard-read','clipboard-write']);
   await page.locator('#copy-results').click();assert.equal(await page.evaluate(()=>navigator.clipboard.readText()),page.url());
   await page.evaluate(()=>Object.defineProperty(navigator.clipboard,'writeText',{configurable:true,value:()=>Promise.reject(new Error('Denied'))}));

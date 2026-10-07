@@ -6,48 +6,22 @@ What if your everyday AI had a character of its own? Explore collected AI-inspir
 
 ## [Explore AI Moe Atlas →](https://selinlee.github.io/ai-moe-atlas/)
 
-See full character art, trace original creators and sources, and download available asset packs. Click a character below to open its entry.
+## Homepage identities · ai-models-v5
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/"><img src="public/collected/zipzippipe-chatgpt/portrait/preview.webp" width="200" alt="GPT with silver-white hair, dragon horns, wings and a white gown, by ZipZipPipe"></a><br>
-      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/"><strong>GPT</strong></a><br>
-      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-gemini/"><img src="public/collected/zipzippipe-gemini/portrait/preview.webp" width="200" alt="Gemini with blue-purple hair, cat ears and a purple outfit, by ZipZipPipe"></a><br>
-      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-gemini/"><strong>Gemini</strong></a><br>
-      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-claude/"><img src="public/collected/zipzippipe-claude/portrait/preview.webp" width="200" alt="Claude with orange hair, a long dress and a book, by ZipZipPipe"></a><br>
-      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-claude/"><strong>Claude</strong></a><br>
-      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/shangshan-whale/"><img src="public/collected/shangshan-whale/portrait/preview.webp" width="200" alt="Whale Girl with blue hair, a whale tail and a black outfit, original work by 上善无形"></a><br>
-      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/shangshan-whale/"><strong>Whale Girl · Original</strong></a><br>
-      <sub><a href="https://www.bilibili.com/opus/1231977657712771073">上善无形</a><br>Upstream design for DeepSeek fan art</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-kimi/"><img src="public/collected/zipzippipe-kimi/portrait/preview.webp" width="200" alt="Kimi full character portrait published by ZipZipPipe"></a><br>
-      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-kimi/"><strong>Kimi</strong></a><br>
-      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-qwen/"><img src="public/collected/zipzippipe-qwen/portrait/preview.webp" width="200" alt="Qwen with blue-purple hair, Chinese-style headwear and a folding fan, by ZipZipPipe"></a><br>
-      <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-qwen/"><strong>Qwen</strong></a><br>
-      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
-    </td>
-  </tr>
-</table>
+Six fixed identity sheets from ai_video, each with standard and chibi proportions. Preserved PNGs, prompts, video sources, attribution and SHA-256 records are included.
 
-These are collected, unofficial works. Previews only resize, pad and convert formats, without cropping or redrawing. Original files and processing records remain in the repository.
+| GPT | Gemini | Claude |
+| --- | --- | --- |
+| ![GPT](public/generated/ai-models-v5/openai-preview.webp) | ![Gemini](public/generated/ai-models-v5/gemini-preview.webp) | ![Claude](public/generated/ai-models-v5/claude-preview.webp) |
+| DeepSeek | Kimi | Qwen |
+| ![DeepSeek](public/generated/ai-models-v5/deepseek-preview.webp) | ![Kimi](public/generated/ai-models-v5/kimi-preview.webp) | ![Qwen](public/generated/ai-models-v5/qwen-preview.webp) |
 
-<sub>GPT, Gemini, Claude, Kimi and Qwen: <a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a>, attribution required, non-commercial only. Whale Girl: <a href="https://www.bilibili.com/opus/1231977657712771073">上善无形</a>, <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>. <a href="RIGHTS.md">Artwork-specific terms and evidence</a>.</sub>
+Community character design: ZipZipPipe. DeepSeek original character: 上善无形; derivative design: ZipZipPipe. Generator: built-in image_gen.
+
+Generated adaptations of community character designs, not official mascots, creator originals or recovered detail. Selected by the project maintainer for homepage display; this selection grants no upstream adaptation or redistribution rights. Retained creator terms still apply.
+
+[Identity archive and sources](docs/REFERENCES.en.md) · [Files and processing records](public/generated/ai-models-v5/manifest.json)
+
 
 ## Whale Maid · 3D model and multi-view reference
 

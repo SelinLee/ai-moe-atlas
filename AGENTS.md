@@ -10,3 +10,4 @@
 - Third-party image permissions are per artwork, never inferred from a repository's code license. Unclear sources are link-only.
 - Do not overwrite originals. Keep GitHub files pinned to a commit and validate hashes. Do not place credentials in content, browser code, or public archives.
 - Run npm test, npm run build, and relevant Chrome browser checks before publication.
+- User update (2026-10-08): display the six existing ai_video/characters/assets/ai-models-v5 reference sheets on the GitHub README and website homepage. Archive them separately as generated adaptations with attribution, prompts and hashes; this specific display request does not grant new upstream rights or make them creator originals/download-pack assets.

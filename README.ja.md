@@ -6,48 +6,22 @@
 
 ## [AI 萌え図鑑を開く →](https://selinlee.github.io/ai-moe-atlas/)
 
-キャラクターの全体像、原作者と出典、ダウンロード可能な素材集をチェック。下の画像から各項目へ進めます。
+## ホームの形象 · ai-models-v5
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/"><img src="public/collected/zipzippipe-chatgpt/portrait/preview.webp" width="200" alt="銀白の長髪、竜の角と翼、白いドレスの GPT。ZipZipPipe の作品"></a><br>
-      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/"><strong>GPT</strong></a><br>
-      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-gemini/"><img src="public/collected/zipzippipe-gemini/portrait/preview.webp" width="200" alt="青紫の長髪、猫耳、紫の衣装の Gemini。ZipZipPipe の作品"></a><br>
-      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-gemini/"><strong>Gemini</strong></a><br>
-      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-claude/"><img src="public/collected/zipzippipe-claude/portrait/preview.webp" width="200" alt="オレンジの長髪、ドレス、本を持つ Claude。ZipZipPipe の作品"></a><br>
-      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-claude/"><strong>Claude</strong></a><br>
-      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/shangshan-whale/"><img src="public/collected/shangshan-whale/portrait/preview.webp" width="200" alt="青い長髪、クジラの尾、黒い衣装のクジラ娘。上善无形の原作"></a><br>
-      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/shangshan-whale/"><strong>クジラ娘 · 上善无形の原作</strong></a><br>
-      <sub><a href="https://www.bilibili.com/opus/1231977657712771073">上善无形</a><br>DeepSeek 二次創作につながる原作</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-kimi/"><img src="public/collected/zipzippipe-kimi/portrait/preview.webp" width="200" alt="ZipZipPipe が公開した Kimi の全身立ち絵"></a><br>
-      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-kimi/"><strong>Kimi</strong></a><br>
-      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-qwen/"><img src="public/collected/zipzippipe-qwen/portrait/preview.webp" width="200" alt="青紫の長髪、中華風の髪飾り、扇子を持つ Qwen。ZipZipPipe の作品"></a><br>
-      <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-qwen/"><strong>Qwen · 千問</strong></a><br>
-      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
-    </td>
-  </tr>
-</table>
+ai_video の固定形象資料6枚。各画像に通常頭身とちびキャラを収録し、元の PNG・プロンプト・参照動画・作者情報・SHA-256 を保存しています。
 
-公開済みの非公式作品を収集したギャラリーです。プレビューは縦横比を保つリサイズ・余白・形式変換のみで、切り抜きや描き直しは行いません。原本と加工記録はリポジトリに保存しています。
+| GPT | Gemini | Claude |
+| --- | --- | --- |
+| ![GPT](public/generated/ai-models-v5/openai-preview.webp) | ![Gemini](public/generated/ai-models-v5/gemini-preview.webp) | ![Claude](public/generated/ai-models-v5/claude-preview.webp) |
+| DeepSeek | Kimi | Qwen |
+| ![DeepSeek](public/generated/ai-models-v5/deepseek-preview.webp) | ![Kimi](public/generated/ai-models-v5/kimi-preview.webp) | ![Qwen 千問](public/generated/ai-models-v5/qwen-preview.webp) |
 
-<sub>GPT・Gemini・Claude・Kimi・Qwen：<a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a>、作者表示必須・非商用。クジラ娘：<a href="https://www.bilibili.com/opus/1231977657712771073">上善无形</a>、<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>。<a href="RIGHTS.md">作品ごとの利用条件と根拠</a>。</sub>
+コミュニティのキャラクターデザイン：ZipZipPipe。DeepSeek 原作者：上善无形、二次デザイン：ZipZipPipe。生成ツール：内蔵 image_gen。
+
+コミュニティのキャラクターを基にした生成派生資料で、公式キャラクター・作者の原図・細部の復元ではありません。管理者の指定によりホームに表示しますが、上流の改変・再配布許可を意味しません。保存済みの作者条件は引き続き適用されます。
+
+[形象資料と出典](docs/REFERENCES.ja.md) · [ファイルと加工記録](public/generated/ai-models-v5/manifest.json)
+
 
 ## クジラ娘 · 3Dモデルと多視点参考図
 

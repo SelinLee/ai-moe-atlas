@@ -6,48 +6,22 @@
 
 ## [打开 AI 萌化图鉴 →](https://selinlee.github.io/ai-moe-atlas/)
 
-看完整角色图、查原作与作者、下载可用素材包。点击下方角色，直接进入对应词条。
+## 主页形象 · ai-models-v5
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/"><img src="public/collected/zipzippipe-chatgpt/portrait/preview.webp" width="200" alt="GPT：银白长发、龙角、龙翼与白色长裙，ZipZipPipe 作品"></a><br>
-      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/"><strong>GPT</strong></a><br>
-      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-gemini/"><img src="public/collected/zipzippipe-gemini/portrait/preview.webp" width="200" alt="Gemini：蓝紫长发、猫耳与紫色服装，ZipZipPipe 作品"></a><br>
-      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-gemini/"><strong>Gemini</strong></a><br>
-      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-claude/"><img src="public/collected/zipzippipe-claude/portrait/preview.webp" width="200" alt="Claude：橙色长发、长裙与书本，ZipZipPipe 作品"></a><br>
-      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-claude/"><strong>Claude</strong></a><br>
-      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/shangshan-whale/"><img src="public/collected/shangshan-whale/portrait/preview.webp" width="200" alt="鲸鱼娘：蓝色长发、鲸尾与黑色服装，上善无形原作"></a><br>
-      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/shangshan-whale/"><strong>鲸鱼娘 · 上善无形原作</strong></a><br>
-      <sub><a href="https://www.bilibili.com/opus/1231977657712771073">上善无形</a><br>DeepSeek 二创的上游角色</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-kimi/"><img src="public/collected/zipzippipe-kimi/portrait/preview.webp" width="200" alt="Kimi：ZipZipPipe 发布的完整角色立绘"></a><br>
-      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-kimi/"><strong>Kimi</strong></a><br>
-      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-qwen/"><img src="public/collected/zipzippipe-qwen/portrait/preview.webp" width="200" alt="千问：青紫长发、中式发饰与折扇，ZipZipPipe 作品"></a><br>
-      <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-qwen/"><strong>千问 · Qwen</strong></a><br>
-      <sub><a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a></sub>
-    </td>
-  </tr>
-</table>
+六套固定形象来自 ai_video，每张包含常规比例与 Q 版；完整收录原始 PNG、生成提示词、视频出处、署名链与 SHA-256。
 
-画廊展示已收集的非官方作品。预览仅做等比缩放、留边和格式转换，不裁切原图、不重绘；原文件和加工记录保留在仓库中。
+| GPT | Gemini | Claude |
+| --- | --- | --- |
+| ![GPT](public/generated/ai-models-v5/openai-preview.webp) | ![Gemini](public/generated/ai-models-v5/gemini-preview.webp) | ![Claude](public/generated/ai-models-v5/claude-preview.webp) |
+| DeepSeek | Kimi | Qwen |
+| ![DeepSeek](public/generated/ai-models-v5/deepseek-preview.webp) | ![Kimi](public/generated/ai-models-v5/kimi-preview.webp) | ![Qwen 千问](public/generated/ai-models-v5/qwen-preview.webp) |
 
-<sub>GPT、Gemini、Claude、Kimi、千问：<a href="https://www.pixiv.net/artworks/148186519">ZipZipPipe</a>，署名、非商用；鲸鱼娘：<a href="https://www.bilibili.com/opus/1231977657712771073">上善无形</a>，<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>。<a href="RIGHTS.md">逐件使用条件与证据</a>。</sub>
+社区角色设计：ZipZipPipe；DeepSeek 原角色：上善无形，二创设计：ZipZipPipe。生成工具：内置 image_gen。
+
+基于社区角色生成的派生参考图，非厂商官方形象，也不是原作者原图或细节复原。按项目维护者指定用于主页展示；该选择不等于取得上游改编或再分发许可，已留存的作者条件仍适用。
+
+[形象资料与来源](docs/REFERENCES.zh.md) · [文件与处理记录](public/generated/ai-models-v5/manifest.json)
+
 
 ## 鲸鱼娘 · 3D 模型与多视图参考
 

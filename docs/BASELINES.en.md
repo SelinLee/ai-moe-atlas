@@ -1,5 +1,7 @@
 # One baseline character per AI
 
+2026-10-08 update: the user explicitly selected all six generated ai-models-v5 reference sheets for homepage display. They now have a separate generated-reference archive with provenance and generation labels. The 2026-09-28 findings below are historical; creator originals and existing download packs remain separate. [Identity archive and sources](REFERENCES.en.md)
+
 [中文](BASELINES.zh.md) · [日本語](BASELINES.ja.md)
 
 Collect one existing, traceable image that can be displayed for each AI before expanding asset variants. A site default is not an official, exclusive or universally accepted design.

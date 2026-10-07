@@ -36,3 +36,11 @@ MIT は本プロジェクトが作成したコード・スクリプト・説明�
 The creator offers the files for everyone to use, requiring attribution and prohibiting commercial use. Original files are preserved; processing is limited to technical resizing, padding and format conversion. Broader adaptation permission is not established. The collection’s CC BY-NC-SA 4.0 statement specifically concerns DeepSeek and is not applied to these five images. `LicenseRef-ZipZipPipe-NC` identifies the recorded custom terms, not a new public license.
 
 作者は誰でも利用できるよう公開し、作者表示と非商用利用を求めています。原本を保持し、サイズ・余白・形式の技術的な調整だけを行います。他の改変許可は未確認です。作品集内の CC BY-NC-SA 4.0 は DeepSeek の説明に限定し、この5枚には適用しません。`LicenseRef-ZipZipPipe-NC` は作者条件の記録名で、新しい公開ライセンスではありません。
+
+## ai-models-v5 · 2026-10-08
+
+按用户指定，主页展示六张既有生成派生参考页。它们单独存放于 `public/generated/ai-models-v5/`，不属于作者原图采集包。此展示选择不是新增的上游许可；五款角色的改编许可仍未确认，DeepSeek 保留上游 CC BY-NC-SA 4.0 声明。署名、非商用与适用的相同方式共享条件继续有效。[完整说明](docs/REFERENCES.zh.md)。
+
+The user selected six existing generated reference sheets for homepage display. They are archived separately in `public/generated/ai-models-v5/`, outside creator-original packs. This selection grants no new upstream rights. Adaptation permission for five designs remains unconfirmed; DeepSeek retains the upstream CC BY-NC-SA 4.0 statement. Attribution, non-commercial use and applicable ShareAlike conditions remain. [Details](docs/REFERENCES.en.md).
+
+ユーザー指定の生成派生資料6枚をホームに表示し、作者原図の素材パックとは別に `public/generated/ai-models-v5/` に保存します。この選択は上流の許可を追加しません。5種類の改変許可は未確認で、DeepSeek は上流の CC BY-NC-SA 4.0 声明を維持。作者表示・非商用・該当する継承条件は引き続き適用されます。[詳細](docs/REFERENCES.ja.md)。
