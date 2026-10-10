@@ -6,7 +6,7 @@
 
 ## 中文
 
-- [已发布的 3D 模型 v0.4](v0.4.0/) · [交互预览](https://selinlee.github.io/ai-moe-atlas/zh/characters/deep-whale-maid/#model-preview)
+- [最新尾部细修版 v0.5](v0.5.0/) · [保留的 v0.4 基线](v0.4.0/) · [交互预览](https://selinlee.github.io/ai-moe-atlas/zh/characters/deep-whale-maid/#model-preview)
 - [多视图参考 v2 原图](references/whale-maid-multiview-reference-v2.png)：2026-10-02 使用 AI 生成的独立建模参考，四个全身视角、三个脸部视角。不是模型渲染；参考图最初单独发布，现作为 v0.4 细修的设计参考。v0.4 加深头颅与躯干、缩短并圆润下巴、拉开眼距并加入蓝色虹膜渐变；无绑定或动画。
 - 两张输入参考是同一张裁切图的相同文件，未提供原始侧面、背面或小腿。侧后方、腿与鞋袜、围裙后蝴蝶结、尾部连接和遮挡细节均为设计性补充，不是作者原始设定或隐藏细节复原。
 - 这是概念参考，不能作为校准正交图测量。斜前视角较浅；侧面脸部轮廓柔和，建模仍须核对真实头颅、面颊、鼻和下巴体积。背视图鲸尾已修正为角色自身左侧；尾根被头发与裙子遮挡，发束和呆毛仍需在 3D 中协调。
@@ -14,7 +14,7 @@
 
 ## English
 
-- [Published 3D model v0.4](v0.4.0/) · [Interactive preview](https://selinlee.github.io/ai-moe-atlas/en/characters/deep-whale-maid/#model-preview)
+- [Latest tail refinement v0.5](v0.5.0/) · [Preserved v0.4 baseline](v0.4.0/) · [Interactive preview](https://selinlee.github.io/ai-moe-atlas/en/characters/deep-whale-maid/#model-preview)
 - [Full-resolution multi-view reference v2](references/whale-maid-multiview-reference-v2.png): a separate AI-generated modeling reference dated 2026-10-02, with four full-body views and three face studies. It is not a model render. First published separately, it now guides the v0.4 refinement: deeper skull and torso, a shorter rounded chin, wider eye spacing and blue iris gradients. The model has no rig or animation.
 - The two input references are byte-identical cropped images, with no original side, back or lower-leg designs. Side/back views, legs and footwear, back apron bow, tail attachment and hidden details are designed interpretations, not canonical creator designs or recovered detail.
 - This is concept guidance, not calibrated orthographic measurement. The three-quarter view is shallow; the very soft side profile still requires genuine skull, cheek, nose and chin depth in 3D. The back-view tail was corrected to character anatomical left. Hair and skirt obscure its attachment; hair/ahoge asymmetry needs reconciliation in 3D.
@@ -22,7 +22,7 @@
 
 ## 日本語
 
-- [公開済み3Dモデル v0.4](v0.4.0/) · [操作できるプレビュー](https://selinlee.github.io/ai-moe-atlas/ja/characters/deep-whale-maid/#model-preview)
+- [最新の尾の改良版 v0.5](v0.5.0/) · [保存済みv0.4基準版](v0.4.0/) · [操作できるプレビュー](https://selinlee.github.io/ai-moe-atlas/ja/characters/deep-whale-maid/#model-preview)
 - [多視点参考図 v2 の原寸画像](references/whale-maid-multiview-reference-v2.png)：2026-10-02 に AI で生成した独立した建模用参考図。全身4方向と顔3方向を収録。モデルのレンダリングではなく、当初は独立した参考図として公開し、現在は v0.4 の設計参考に使用しています。v0.4 は頭蓋・胴体の奥行き、短く丸い顎、広めの目の間隔、青い虹彩のグラデーションを改良。リグとアニメーションは未実装です。
 - 入力の2枚は同一バイトの切り抜き画像で、元の側面・背面・すねのデザインは示されていません。側背面・脚・靴下・靴・背中のエプロンリボン・尾の付け根・隠れた部分は解釈による補完で、公式設定や細部の復元ではありません。
 - 寸法校正済みの正投影図ではなく、構想用の参考です。斜め前の角度は浅く、柔らかな横顔でも頭蓋・頬・鼻・顎の立体的な厚みを検討してください。背面の尾はキャラクター自身の左側へ修正済み。尾の付け根は髪とスカートに隠れており、髪やアホ毛の左右差は3Dで調整が必要です。
