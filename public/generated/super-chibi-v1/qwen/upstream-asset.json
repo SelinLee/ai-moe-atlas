@@ -1,0 +1,45 @@
+{
+  "character_id": "qwen",
+  "body_form": "super-chibi",
+  "rendering_version": "super-chibi-v1",
+  "costume_id": "default",
+  "path": "characters/assets/super-chibi-v1/qwen/default/turnaround-v2.png",
+  "preview_path": "characters/assets/super-chibi-v1/qwen/default-lite/turnaround-v2.jpg",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "783f7704b60a03c7b5563f73f40378710105ccc177078613e8734c53b0d39f12",
+  "views": [
+    "front",
+    "left_profile_nose_image_left",
+    "back"
+  ],
+  "delivery_format": "one_turnaround_sheet_with_three_views",
+  "head_to_body": "approximately_two_heads_visual_estimate",
+  "proportion_policy": "exclude ears horns ahoge when judging head ratio; target approximately two heads",
+  "identity_version": "ai-models-v5",
+  "reference_inputs": [
+    "projects/art_motion_v1-2026-10-29-snap-rollback/assets/character-replacements-v2/qwen-turnaround-v2.png",
+    "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png",
+    "characters/assets/ai-models-v5/qwen-reference.png"
+  ],
+  "request_path": "characters/assets/super-chibi-v1/qwen/default/request-v2.json",
+  "visual_qa": {
+    "status": "passed_for_storyboarding",
+    "reviewer": "primary_agent_actual_image_inspection",
+    "notes": [
+      "经一次局部压短，目测约二头身；蓝发蓝眼、国风衣裙、侧辫与开扇保留。",
+      "帽子在正、左侧、背三面均存在；正面帽饰画面左、背面画面右，侧辫位于自身左侧。",
+      "本版固定为开扇状态，与v5身份一致；闭扇及持扇动作如需使用须另补。"
+    ]
+  },
+  "rigging_ready": false,
+  "style_adoption": "authorized_by_user_request",
+  "user_approval": "pending_image_review",
+  "default_for_new_chibi_work": true,
+  "verified_at": "2026-10-29T20:49:30+08:00",
+  "prop_state": "open_fan",
+  "image_revision": 2,
+  "metadata_path": "characters/assets/super-chibi-v1/qwen/default/asset-v2.json",
+  "replaces": "characters/assets/super-chibi-v1/qwen/default/turnaround-v1.png",
+  "generator": "built-in image_gen"
+}

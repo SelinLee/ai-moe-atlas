@@ -1,0 +1,44 @@
+{
+  "character_id": "gemini",
+  "body_form": "super-chibi",
+  "rendering_version": "super-chibi-v1",
+  "costume_id": "default",
+  "path": "characters/assets/super-chibi-v1/gemini/default/turnaround-v2.png",
+  "preview_path": "characters/assets/super-chibi-v1/gemini/default-lite/turnaround-v2.jpg",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "3c77ae61c247f0eb6030138d0963ee7efde3e1eb7d0910841569f50f19bc46d6",
+  "views": [
+    "front",
+    "left_profile_nose_image_left",
+    "back"
+  ],
+  "delivery_format": "one_turnaround_sheet_with_three_views",
+  "head_to_body": "approximately_two_heads_visual_estimate",
+  "proportion_policy": "exclude ears horns ahoge when judging head ratio; target approximately two heads",
+  "identity_version": "ai-models-v5",
+  "reference_inputs": [
+    "characters/assets/ai-models-v5/gemini-reference.png",
+    "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png",
+    "characters/assets/super-chibi-v1/gemini/default/turnaround-v1.png"
+  ],
+  "request_path": "characters/assets/super-chibi-v1/gemini/default/request-v2.json",
+  "visual_qa": {
+    "status": "passed_for_storyboarding",
+    "reviewer": "primary_agent_actual_image_inspection",
+    "notes": [
+      "头顶到下巴与下巴到鞋底高度接近，目测约二头身；身体比即梦候选明显缩短。",
+      "双猫耳、单猫尾、蓝紫发和星饰保留；正面左粉右金、左侧面金眼、背面无脸。",
+      "鞋仍保留原身份的短厚底/短跟；不是精确动画拆件，尾根部分被长发遮挡。"
+    ]
+  },
+  "rigging_ready": false,
+  "style_adoption": "authorized_by_user_request",
+  "user_approval": "pending_image_review",
+  "default_for_new_chibi_work": true,
+  "verified_at": "2026-10-29T20:49:30+08:00",
+  "image_revision": 2,
+  "metadata_path": "characters/assets/super-chibi-v1/gemini/default/asset-v2.json",
+  "replaces": "characters/assets/super-chibi-v1/gemini/default/turnaround-v1.png",
+  "generator": "built-in image_gen"
+}

@@ -1,0 +1,18 @@
+{
+  "tool": "built-in image_gen",
+  "mode": "generate_with_references",
+  "reference_input_mode": "referenced_image_paths",
+  "reference_paths": [
+    "characters/assets/ai-models-v5/openai-reference.png",
+    "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png"
+  ],
+  "reference_hashes": {
+    "characters/assets/ai-models-v5/openai-reference.png": "37bf617c72092f73a8f56d3db6d95456679fea9c5ecf1a38fc1d64c2704e6d6a",
+    "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png": "9b743a37c8c0edee165dd629acb90f4d4d65e58943bc30c428bd19dfe8f0900f"
+  },
+  "prompt_path": "characters/assets/super-chibi-v1/openai/default/prompt.txt",
+  "prompt": "Use case: stylized-concept. Asset type: reusable super-chibi-v1 orthographic model sheet. Create ONE white landscape 3:2 sheet containing exactly THREE same-scale, full-body views: FRONT, anatomical LEFT PROFILE (nose points IMAGE LEFT), BACK. True 90-degree profile, back with no face. Same head size and foot baseline. Very large white gutters, every ear/horn/hair/tail/foot entirely inside its own panel, no overlap between figures. Neutral standing with hands relaxed away from body. Clean 2D anime cartoon, tidy slightly bold lines, grouped hair masses, local colour and one cel shadow, no plastic 3D or plush rendering. Text: none except the required Z ornament for GLM.\nPROPORTION IS CRITICAL: the second attached image of blue whale maid defines ONLY the radically short TWO-HEAD-TALL body and 2D drawing. Draw the character from image 1 using this tiny-body style. Crown-to-chin HEAD is roughly HALF of crown-to-sole HEIGHT, excluding horns/ears/ahoge. Round wide face and low-set eyes; body below chin no taller than one head; tiny mitten hands, squat torso, extremely short legs and bean shoes. No long thighs/calves, high heels, bust, narrow waist or adult anatomy. Do not copy whale girl's hair/costume/tail to this character. Simplify dense jewellery and embroidery to a few clear identity motifs.\nImage 1 is GPT v5 IDENTITY: silver-white long hair, pale lavender eyes, exactly TWO curved white dragon horns, exactly ONE PAIR of small white dragon wings on upper back, ONE white scaled dragon tail on lower back, modest white high-collar gown with lilac shading and a few large silver geometric knot ornaments. Preserve the single golden decorative hair sweep from source only as a small flat accessory, never a third horn. Fully closed modest simplified gown to ankle, tiny white round shoes. Dragon wings and tail visible connected in side/back views, no extra wings. Use image 1's right-side chibi only for identity, NOT its tall legs or dense hanging ornaments. No placard or extra prop in neutral model sheet.",
+  "transparent_background": false,
+  "actual_output_reference": "local-generated-images/01a15866-809c-7d91-af82-d0b86cd45f63/exec-d27f5096-c232-48d0-a33a-82369bd21414.png",
+  "reference_viewed": true
+}

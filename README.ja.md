@@ -6,6 +6,38 @@
 
 ## [AI 萌え図鑑を開く →](https://selinlee.github.io/ai-moe-atlas/)
 
+## メインビジュアル · 約2頭身ちびキャラ三面図
+
+ai_video の7キャラクターを、正面・左側面・背面の三面図で紹介。Gemini・Kimi・Qwen は2026年10月29日更新の V2、それ以外は現行 V1 です。画像をクリックすると完全な PNG を表示します。
+
+<table>
+  <tr>
+    <td align="center" width="50%"><strong>GPT · V1</strong><br><a href="public/generated/super-chibi-v1/openai/turnaround-v1.png"><img src="public/generated/super-chibi-v1/openai/preview.webp" width="480" alt="GPT · 三面図全体"></a></td>
+    <td align="center" width="50%"><strong>Gemini · V2</strong><br><a href="public/generated/super-chibi-v1/gemini/turnaround-v2.png"><img src="public/generated/super-chibi-v1/gemini/preview.webp" width="480" alt="Gemini · 三面図全体"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><strong>Claude · V1</strong><br><a href="public/generated/super-chibi-v1/claude/turnaround-v1.png"><img src="public/generated/super-chibi-v1/claude/preview.webp" width="480" alt="Claude · 三面図全体"></a></td>
+    <td align="center" width="50%"><strong>DeepSeek · V1</strong><br><a href="public/generated/super-chibi-v1/deepseek/turnaround-v1.png"><img src="public/generated/super-chibi-v1/deepseek/preview.webp" width="480" alt="DeepSeek · 三面図全体"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><strong>Kimi · V2</strong><br><a href="public/generated/super-chibi-v1/kimi/turnaround-v2.png"><img src="public/generated/super-chibi-v1/kimi/preview.webp" width="480" alt="Kimi · 三面図全体"></a></td>
+    <td align="center" width="50%"><strong>Qwen 千問 · V2</strong><br><a href="public/generated/super-chibi-v1/qwen/turnaround-v2.png"><img src="public/generated/super-chibi-v1/qwen/preview.webp" width="480" alt="Qwen 千問 · 三面図全体"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><strong>GLM · V1</strong><br><a href="public/generated/super-chibi-v1/glm/turnaround-v1.png"><img src="public/generated/super-chibi-v1/glm/preview.webp" width="480" alt="GLM · 三面図全体"></a></td>
+    <td align="center"><a href="https://selinlee.github.io/ai-moe-atlas/ja/chibi/">三面図・出典・利用条件 →</a></td>
+  </tr>
+</table>
+
+GPT・Gemini・Claude・Kimi・Qwen のコミュニティデザイン：ZipZipPipe。DeepSeek：上善无形 → ZipZipPipe。GLM の狐娘は動画 BV1iDeQ6fEFi に基づき、原デザインの作者は未確認です。
+
+ai_video の生成派生三面図です。公式キャラクターや作者の原図ではありません。管理者の指定による展示で、上流の改変・再配布許可を新たに付与するものではなく、素材パックには含まれません。
+
+[三面図・出典・利用条件](docs/CHIBI.ja.md) · [ファイルと処理記録](public/generated/super-chibi-v1/manifest.json)
+
+<details>
+<summary>以前の v5 形象資料 · 通常頭身とちびキャラ</summary>
+
 ## ホームの形象 · ai-models-v5
 
 ai_video の固定形象資料6枚。各画像に通常頭身とちびキャラを収録し、元の PNG・プロンプト・参照動画・作者情報・SHA-256 を保存しています。
@@ -22,6 +54,9 @@ ai_video の固定形象資料6枚。各画像に通常頭身とちびキャラ�
 
 [形象資料と出典](docs/REFERENCES.ja.md) · [ファイルと加工記録](public/generated/ai-models-v5/manifest.json)
 
+
+
+</details>
 
 ## クジラ娘 · 3Dモデルと多視点参考図
 

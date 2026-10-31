@@ -65,3 +65,31 @@ for(const a of references.assets){
  await access(a.rights.evidencePath);
 }
 console.log('Validated six separately labeled generated references, source snapshots, identity mappings and preserved hashes.');
+
+// Chibi turnarounds keep the selected source revision, bytes and separate rights scope.
+const chibi=JSON.parse(await readFile('public/generated/super-chibi-v1/manifest.json','utf8'));
+const chibiSource=JSON.parse(await readFile('public/generated/super-chibi-v1/upstream-manifest.json','utf8'));
+if(chibi.kind!=='generated-reference'||chibi.displayRequest.grantsUpstreamRights!==false)throw new Error('Chibi display scope changed');
+if(chibi.assets.length!==7||new Set(chibi.assets.map(a=>a.id)).size!==7)throw new Error('Expected seven distinct chibi sheets');
+for(const key of ['title','description','notice','attributionNote'])for(const lang of ['zh','en','ja'])if(!chibi[key]?.[lang]?.trim())throw new Error(`Missing chibi ${key}/${lang}`);
+const checkChibiFile=async file=>{
+ if(!file.path.startsWith('generated/super-chibi-v1/')||file.path.includes('..'))throw new Error('Invalid chibi archive path');
+ if(sha256(await readFile(`public/${file.path}`))!==file.sha256)throw new Error(`Chibi hash mismatch: ${file.path}`);
+};
+for(const snapshot of chibi.snapshots)await checkChibiFile(snapshot);
+for(const a of chibi.assets){
+ const source=chibiSource.assets.find(s=>s.character_id===a.id);
+ if(!source||source.path!==a.sourcePath||source.sha256!==a.original.sha256||a.revision!==(source.image_revision??1))throw new Error('Chibi source revision mismatch');
+ if(a.views.length!==3||a.views.join()!==source.views.join())throw new Error('Missing chibi views');
+ for(const f of [a.original,a.preview,a.prompt,a.request,a.assetRecord])await checkChibiFile(f);
+ if(a.preview.parentSha256!==a.original.sha256||a.rights.newLicenseGranted!==false||a.rights.inDownloadPacks!==false)throw new Error('Chibi processing or rights mismatch');
+ for(const key of ['name','features'])for(const lang of ['zh','en','ja'])if(!a[key]?.[lang]?.trim())throw new Error('Missing localized chibi data');
+ if(a.id==='glm'){
+  if(a.attribution.length||a.characterId!==null||a.attributionStatus!=='original-creator-unverified'||a.rights.license!==null)throw new Error('Do not assign unverified GLM authorship or license');
+ }else{
+  const identity=references.assets.find(r=>r.id===a.id);
+  if(!identity||a.characterId!==identity.characterId||JSON.stringify(a.attribution)!==JSON.stringify(identity.attribution)||JSON.stringify(a.rights)!==JSON.stringify(identity.rights))throw new Error('Chibi identity attribution or terms mismatch');
+ }
+ for(const reference of a.referenceInputs)if(reference.publishedHere&&sha256(await readFile(`public/${reference.publishedHere}`))!==reference.sha256)throw new Error('Chibi identity reference hash mismatch');
+}
+console.log('Validated seven current chibi revisions, preserved PNGs, previews, prompts, source snapshots and artwork-specific attribution.');

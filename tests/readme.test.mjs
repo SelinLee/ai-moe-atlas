@@ -5,11 +5,21 @@ import {createHash} from 'node:crypto';
 
 const root = new URL('../', import.meta.url);
 const read = path => readFile(new URL(path, root), 'utf8');
+const chibi=JSON.parse(await read('public/generated/super-chibi-v1/manifest.json'));
 const references=JSON.parse(await read('public/generated/ai-models-v5/manifest.json'));
 for (const [file,lang,features] of [['README.md','zh','## 现在可以做什么'],['README.en.md','en','## What you can do'],['README.ja.md','ja','## できること']]) {
  test(`${file}: selected reference sheets lead with provenance and working local links`,async()=>{
   const markdown=await read(file);
   const gallery=markdown.slice(markdown.indexOf('## ',markdown.indexOf('## [')+3),markdown.indexOf(features));
+  assert.ok(gallery.indexOf('super-chibi-v1')<gallery.indexOf('ai-models-v5'),'Chibi sheets are the primary visual');
+  const chibiImages=[...gallery.matchAll(/<img src="(public\/generated\/super-chibi-v1\/[^"]+)"/g)];
+  assert.deepEqual(chibiImages.map(i=>i[1]),chibi.assets.map(a=>`public/${a.preview.path}`));
+  assert.ok(gallery.includes(chibi.notice[lang]));
+  assert.ok(gallery.includes(chibi.attributionNote[lang]));
+  for(const a of chibi.assets){
+   assert.ok(gallery.includes(`href="public/${a.original.path}"`),'Full turnaround is linked');
+   assert.equal(createHash('sha256').update(await readFile(new URL(`public/${a.preview.path}`,root))).digest('hex'),a.preview.sha256);
+  }
   assert.ok(gallery.includes('ai-models-v5'));
   const images=[...gallery.matchAll(/!\[[^\]]+\]\((public\/generated\/[^)]+)\)/g)];
   assert.equal(images.length,6);
