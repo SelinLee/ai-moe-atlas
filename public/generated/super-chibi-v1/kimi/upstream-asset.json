@@ -1,0 +1,44 @@
+{
+  "character_id": "kimi",
+  "body_form": "super-chibi",
+  "rendering_version": "super-chibi-v1",
+  "costume_id": "default",
+  "path": "characters/assets/super-chibi-v1/kimi/default/turnaround-v2.png",
+  "preview_path": "characters/assets/super-chibi-v1/kimi/default-lite/turnaround-v2.jpg",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "83b4a4fbea1e6e5210ea5c627d7c16fd92a274ec70b2c873a5d1ccd1da9e977e",
+  "views": [
+    "front",
+    "left_profile_nose_image_left",
+    "back"
+  ],
+  "delivery_format": "one_turnaround_sheet_with_three_views",
+  "head_to_body": "approximately_two_heads_visual_estimate",
+  "proportion_policy": "exclude ears horns ahoge when judging head ratio; target approximately two heads",
+  "identity_version": "ai-models-v5",
+  "reference_inputs": [
+    "projects/art_motion_v1-2026-10-29-snap-rollback/assets/character-replacements-v2/kimi-turnaround-v2.png",
+    "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png",
+    "characters/assets/ai-models-v5/kimi-reference.png"
+  ],
+  "request_path": "characters/assets/super-chibi-v1/kimi/default/request-v2.json",
+  "visual_qa": {
+    "status": "passed_for_storyboarding",
+    "reviewer": "primary_agent_actual_image_inspection",
+    "notes": [
+      "经一次针对身体的局部压短，头身目测约二头身，短腿和小鞋，银白发、蓝紫眼、K挂书保留。",
+      "月饰固定在自身左侧：正面画面右、左侧面可见、背面画面左，纠正旧稿方向错误。",
+      "长发和裙摆存在合理遮挡；动作绑定仍需按镜头补制。"
+    ]
+  },
+  "rigging_ready": false,
+  "style_adoption": "authorized_by_user_request",
+  "user_approval": "pending_image_review",
+  "default_for_new_chibi_work": true,
+  "verified_at": "2026-10-29T20:49:30+08:00",
+  "image_revision": 2,
+  "metadata_path": "characters/assets/super-chibi-v1/kimi/default/asset-v2.json",
+  "replaces": "characters/assets/super-chibi-v1/kimi/default/turnaround-v1.png",
+  "generator": "built-in image_gen"
+}

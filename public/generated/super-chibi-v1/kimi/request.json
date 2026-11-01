@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "mode": "generate_with_references_then_targeted_proportion_edit",
+  "model": "not_exposed_by_builtin_tool",
+  "reference_input_mode": "referenced_image_paths",
+  "reference_paths": [
+    "projects/art_motion_v1-2026-10-29-snap-rollback/assets/character-replacements-v2/kimi-turnaround-v2.png",
+    "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png",
+    "characters/assets/ai-models-v5/kimi-reference.png"
+  ],
+  "reference_hashes": {
+    "projects/art_motion_v1-2026-10-29-snap-rollback/assets/character-replacements-v2/kimi-turnaround-v2.png": "ce501d4aa77dfbe9037189763b3a3ca7b95a4983f5540a135180fd22847854fa",
+    "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png": "9b743a37c8c0edee165dd629acb90f4d4d65e58943bc30c428bd19dfe8f0900f",
+    "characters/assets/ai-models-v5/kimi-reference.png": "3012cfe4b1c351ff874d4e6b1723db9a3864b8a96220cb7a8015f7e6ccf2f283"
+  },
+  "reference_viewed": true,
+  "prompt": "Use case: precise-object-edit. Image1 is the EDIT TARGET: a white-background three-view chibi character sheet. Image2 is ONLY the tiny-body proportion reference. Image3 is ONLY the original identity palette/accessories, not its proportions. Make ONE targeted proportion correction to IMAGE1: keep the size and shape of ALL THREE HEADS unchanged, including the faces, hair crowns and facial features. REDRAW EVERYTHING BELOW EACH CHIN to be 28 PERCENT SHORTER VERTICALLY. The feet and soles must move UP noticeably, toward the chin, while keeping the crown/head size unchanged. Do NOT shrink the entire figure: only shorten the body under the chin. On each view, crown-to-chin head height should equal or slightly EXCEED chin-to-sole total body height. Match the squat, tiny whale-maid body in image2. Compress torso, dress/cape, arms and legs as a coherent NEW drawing, not a stretched bitmap. Very short torso, stubby legs with almost no exposed calves, small rounded FLAT shoes; no heel. Keep the THREE head sizes equal, views frontal / exact LEFT PROFILE nose image-left / rear with no face; same foot baseline across all three. Reposition and shorten lower hair tips/tassels as necessary so they don't extend below feet. All accessories remain consistent with the original design, but intricate embroidery may simplify to fit the new small body. Keep moon ornament on anatomical LEFT: front VIEWER RIGHT, left profile visible near-side, back VIEWER LEFT, exactly as current image. Keep the black K book, silver-white hair, blue-violet eyes and navy-white dress. Preserve pose, front-side-back order, colors, clean crisp 2D cel linework and completely white 3:2 landscape background. Preserve all three faces/orientations; do not add any character, label, text, border or measuring guide. This is a visible shortening edit, NOT a new outfit or head redesign. Exactly one corrected three-view image.",
+  "prompt_path": "characters/assets/super-chibi-v1/kimi/default/prompt-v2.txt",
+  "actual_output_reference": "local-generated-images/01a186af-c759-7a53-ad04-4e8f7acecffd/exec-9caae797-7172-49a6-97d9-f00f3c910bf7.png",
+  "actual_dimensions": [
+    1536,
+    1024
+  ],
+  "actual_output_count": 1,
+  "transparent_background": false,
+  "completed_at": "2026-10-29T20:49:30+08:00",
+  "generation_attempt_count": 2,
+  "generation_record": "projects/art_motion_v1-2026-10-29-snap-rollback/motion/character-library-replacement-v2.json",
+  "previous_dreamina_candidate": "characters/assets/super-chibi-v1/kimi/default/turnaround-v1.png",
+  "identity_source": "characters/assets/ai-models-v5/kimi-reference.png",
+  "first_builtin_attempt": {
+    "prompt": "Use case: stylized-concept. Create ONE corrected character TURNAROUND SHEET for the existing super-chibi-v1 library, landscape 3:2, white background. EXACTLY THREE full-body views evenly spaced horizontally: FRONT at left, TRUE anatomical LEFT PROFILE in the middle with nose pointing IMAGE LEFT, BACK at right with absolutely no face. Same character, same size and same foot baseline. All hair, ears, hats, tails and shoes fully inside each view with generous white gutters. No title, no labels, no panel borders and no measuring lines. Clean crisp 2D anime cel linework, simple grouped hair, controlled shadows, no plastic toy realism. Image 1 is the original v5 IDENTITY truth. Image 2 (DeepSeek whale maid) defines ONLY the target TWO-HEAD proportion and drawing style. Image 3 is an earlier candidate with errors: preserve useful costume identity, but FIX its overlong body. Do not transfer whale features or maid uniform from image 2. CRITICAL PROPORTION: HEAD from actual hair crown to chin (excluding ears/horns/hat/ahoge) takes approximately HALF the total crown-to-foot height. Body below chin INCLUDING feet must be NO TALLER than one head, preferably slightly shorter. Huge round wide head and low eyes, squat tiny torso with no narrow adult waist, extremely short arms, tiny mitten hands, practically no exposed calves, very small rounded flat shoes. No high heels or platform boots. The third reference is around 2.3-head tall: redraw it visibly more squat, matching image2's tiny-body silhouette. Keep hairstyles long but compress body and costume instead of extending the height. Fully clothed opaque costumes. Neutral standing, hands relaxed. Faithful identity and consistent asymmetries across all three views. Character Kimi: moon scholar girl, long wavy silver-white hair with subtle lavender shading, blue-violet eyes, navy and lavender short-body academic dress, white blouse and ruffled sleeves, simple tiny black K book/card at waist, small flat black shoes. No animal ears, horns, wings or tail. CORRECT asymmetric moon/star hair ornament is on HER ANATOMICAL LEFT. Therefore FRONT: ornament at VIEWER RIGHT. LEFT PROFILE (nose image-left): ornament on the near visible side. BACK: ornament at VIEWER LEFT. The third reference incorrectly puts the back ornament at viewer right: FIX THAT. Back hair flows down naturally and should not cover the moon ornament's side. Small black hanging book/card has exactly white uppercase K on front, no other readable text. Keep same moon, ribbon and star details in all views. Make the torso and dress much shorter than reference3, body below chin no taller than head.",
+    "reference_paths": [
+      "characters/assets/ai-models-v5/kimi-reference.png",
+      "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png",
+      "characters/assets/super-chibi-v1/kimi/default/turnaround-v1.png"
+    ],
+    "output_path": "assets/character-replacements-v2/kimi-turnaround-v2.png",
+    "preview_path": "assets/character-replacements-v2-lite/kimi-turnaround-v2.jpg",
+    "actual_dimensions": [
+      1536,
+      1024
+    ],
+    "builtin_output_path": "local-generated-images/01a186af-c759-7a53-ad04-4e8f7acecffd/exec-0332675f-6b3e-4a42-aaff-509d1ed620ab.png",
+    "sha256": "ce501d4aa77dfbe9037189763b3a3ca7b95a4983f5540a135180fd22847854fa",
+    "reference_hashes": {
+      "characters/assets/ai-models-v5/kimi-reference.png": "3012cfe4b1c351ff874d4e6b1723db9a3864b8a96220cb7a8015f7e6ccf2f283",
+      "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png": "9b743a37c8c0edee165dd629acb90f4d4d65e58943bc30c428bd19dfe8f0900f",
+      "characters/assets/super-chibi-v1/kimi/default/turnaround-v1.png": "565c0eb684ff9e2af0feffe691ee3eda49d55fade332c27e4d2c8101f959096d"
+    }
+  }
+}

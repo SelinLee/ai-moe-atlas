@@ -3,6 +3,8 @@ import Layout from '../../layouts/Layout.astro';
 import CharacterCard from '../../components/CharacterCard.astro';
 import ModelHighlight from '../../components/ModelHighlight.astro';
 import { characterModels } from '../../lib/models';
+import ChibiGallery from '../../components/ChibiGallery.astro';
+import { chibiCollection, chibiText } from '../../lib/chibi';
 import ReferenceGallery from '../../components/ReferenceGallery.astro';
 import Icon from '../../components/Icon.astro';
 import { locales, t } from '../../lib/i18n';
@@ -16,18 +18,20 @@ const lang = Astro.params.lang as 'zh'|'en'|'ja';const s=t(lang);
 const readyIds=baselines.filter(b=>b.state==='ready').map(b=>b.character!.id);
 const rank=(c:typeof characters[number])=>readyIds.includes(c.id)?readyIds.indexOf(c.id):c.downloadable?readyIds.length:readyIds.length+1;
 const d=discoveryText[lang];
+const ch=chibiText[lang];
 const featuredIds=['shangshan-whale','deep-whale-maid','deep-whale-orca','zipzippipe-chatgpt','zipzippipe-gemini','zipzippipe-claude','zipzippipe-kimi','zipzippipe-qwen'];
 const featured=featuredIds.map(id=>characters.find(c=>c.id===id)!).filter(c=>c?.preview&&canUse(c.id,'featured'));
 const displayCount=characters.filter(c=>c.preview&&canUse(c.id,'featured')).length;
 const orderedCharacters=[...characters].sort((a,b)=>rank(a)-rank(b));
 ---
 <Layout lang={lang} title={s.atlas} description={d.intro}>
-  <section class="page-heading"><div><p class="eyebrow">{s.collection}</p><h1>{d.title}</h1><p class="lead">{d.intro}</p><div class="button-row"><a class="button" href="#identities">{d.browse}</a><a class="button secondary" href={path(`${lang}/studio/`)}><Icon name="studio" size={17}/>{d.use}</a></div><div class="hero-facts"><span><strong>{characters.length}</strong>{d.indexed}</span><span><strong>{displayCount}</strong>{d.display}</span><span><strong>{characters.filter(c=>c.downloadable).length}</strong>{d.packs}</span></div></div></section>
-  <ReferenceGallery lang={lang}/>
+  <section class="page-heading chibi-heading"><div><p class="eyebrow">{ch.eyebrow}</p><h1>{chibiCollection.title[lang]}</h1><p class="lead">{chibiCollection.description[lang]}</p><div class="button-row"><a class="button" href="#catalog">{ch.browse} ↓</a><a class="button secondary" href={path(`${lang}/studio/`)}><Icon name="studio" size={17}/>{d.use}</a></div></div></section>
+  <ChibiGallery lang={lang}/>
+  <details class="legacy-references"><summary>{ch.legacy}</summary><ReferenceGallery lang={lang}/></details>
   {characterModels[0] && <ModelHighlight model={characterModels[0]} lang={lang}/>}
   <section id="featured" class="featured-section" aria-labelledby="featured-title"><div class="section-title"><h2 id="featured-title">{d.featured}</h2><a class="text-link" href="#catalog">{d.catalog} ↓</a></div><p class="subtle">{d.note}</p><div class="featured-grid">{featured.map(c=><article class="featured-card"><a href={path(`${lang}/characters/${c.id}/`)}><img src={path(c.preview!)} alt={c.name[lang]} width="512" height="512" loading="lazy"/><h3>{c.name[lang]}</h3></a><p class="featured-credit">{c.attribution.map((a,i)=><>{i>0?' / ':''}<a href={a.url} target="_blank" rel="noopener noreferrer">{a.name}</a></>)}</p><a class="text-link" href={c.source} target="_blank" rel="noopener noreferrer">{s.viewSource} ↗</a><details><summary>{d.conditions}</summary><p>{useReview(c.id)!.uses.featured.conditions[lang]}</p><a class="text-link" href={c.licenseUrl} target="_blank" rel="noopener noreferrer">{c.license}</a></details></article>)}</div></section>
   <section class="catalog" id="catalog" aria-label={s.atlas}>
-    <h2 class="catalog-title">{d.catalog}</h2>
+    <h2 class="catalog-title">{d.catalog}</h2><div class="hero-facts catalog-facts"><span><strong>{characters.length}</strong>{d.indexed}</span><span><strong>{displayCount}</strong>{d.display}</span><span><strong>{characters.filter(c=>c.downloadable).length}</strong>{d.packs}</span></div>
     <div class="catalog-top"><div class="filter-tabs" role="group" aria-label={s.atlas}><button class="selected" data-kind-filter="all" aria-pressed="true">{s.all}<span>{characters.length}</span></button><button data-kind-filter="collected" aria-pressed="false">{s.originals}</button><button data-kind-filter="reference" aria-pressed="false">{s.references}</button></div><span class="result-count" aria-live="polite"><strong id="result-count">{characters.length}</strong> {s.results}</span></div>
     <div class="filter-bar"><label class="search-field"><Icon name="search" size={19}/><input id="search" type="search" placeholder={s.search} aria-label={s.search}/><kbd>/</kbd></label><select id="entity-filter" aria-label={s.allModels}><option value="all">{s.allModels}</option>{entities.map(e=><option value={e.id}>{e.name}</option>)}</select><select id="style-filter" aria-label={s.allStyles}><option value="all">{s.allStyles}</option><option value="anime">{s.anime}</option><option value="pixel">{s.pixel}</option></select></div>
     <div class="filter-share"><button class="button secondary" id="copy-results" data-done={d.copied} data-failed={d.failed}>{d.share}</button><button class="button secondary" id="reset-filters">{s.clear}</button><span id="share-status" role="status" aria-live="polite"></span><input id="results-link" aria-label={d.link} type="url" readonly hidden/></div>

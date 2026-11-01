@@ -6,6 +6,38 @@ What if your everyday AI had a character of its own? Explore collected AI-inspir
 
 ## [Explore AI Moe Atlas →](https://selinlee.github.io/ai-moe-atlas/)
 
+## Main visual · Two-head chibi turnarounds
+
+Seven characters from ai_video, each with front, left-profile and back views. Gemini, Kimi and Qwen use V2 updated on October 29, 2026; the others use the current V1. Click a sheet for the full PNG.
+
+<table>
+  <tr>
+    <td align="center" width="50%"><strong>GPT · V1</strong><br><a href="public/generated/super-chibi-v1/openai/turnaround-v1.png"><img src="public/generated/super-chibi-v1/openai/preview.webp" width="480" alt="GPT · Full turnaround"></a></td>
+    <td align="center" width="50%"><strong>Gemini · V2</strong><br><a href="public/generated/super-chibi-v1/gemini/turnaround-v2.png"><img src="public/generated/super-chibi-v1/gemini/preview.webp" width="480" alt="Gemini · Full turnaround"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><strong>Claude · V1</strong><br><a href="public/generated/super-chibi-v1/claude/turnaround-v1.png"><img src="public/generated/super-chibi-v1/claude/preview.webp" width="480" alt="Claude · Full turnaround"></a></td>
+    <td align="center" width="50%"><strong>DeepSeek · V1</strong><br><a href="public/generated/super-chibi-v1/deepseek/turnaround-v1.png"><img src="public/generated/super-chibi-v1/deepseek/preview.webp" width="480" alt="DeepSeek · Full turnaround"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><strong>Kimi · V2</strong><br><a href="public/generated/super-chibi-v1/kimi/turnaround-v2.png"><img src="public/generated/super-chibi-v1/kimi/preview.webp" width="480" alt="Kimi · Full turnaround"></a></td>
+    <td align="center" width="50%"><strong>Qwen · V2</strong><br><a href="public/generated/super-chibi-v1/qwen/turnaround-v2.png"><img src="public/generated/super-chibi-v1/qwen/preview.webp" width="480" alt="Qwen · Full turnaround"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><strong>GLM · V1</strong><br><a href="public/generated/super-chibi-v1/glm/turnaround-v1.png"><img src="public/generated/super-chibi-v1/glm/preview.webp" width="480" alt="GLM · Full turnaround"></a></td>
+    <td align="center"><a href="https://selinlee.github.io/ai-moe-atlas/en/chibi/">Turnarounds, sources and usage notes →</a></td>
+  </tr>
+</table>
+
+Community designs for GPT, Gemini, Claude, Kimi and Qwen: ZipZipPipe. DeepSeek: 上善无形 → ZipZipPipe. The GLM fox-girl variant follows video BV1iDeQ6fEFi; its original designer remains unverified.
+
+Generated turnaround adaptations from ai_video, not official characters or creator originals. Displayed at the maintainer’s request; no new upstream adaptation or redistribution rights are granted. Excluded from asset download packs.
+
+[Turnarounds, sources and usage notes](docs/CHIBI.en.md) · [Files and processing records](public/generated/super-chibi-v1/manifest.json)
+
+<details>
+<summary>Earlier v5 references · Standard and chibi</summary>
+
 ## Homepage identities · ai-models-v5
 
 Six fixed identity sheets from ai_video, each with standard and chibi proportions. Preserved PNGs, prompts, video sources, attribution and SHA-256 records are included.
@@ -22,6 +54,9 @@ Generated adaptations of community character designs, not official mascots, crea
 
 [Identity archive and sources](docs/REFERENCES.en.md) · [Files and processing records](public/generated/ai-models-v5/manifest.json)
 
+
+
+</details>
 
 ## Whale Maid · 3D model and multi-view reference
 

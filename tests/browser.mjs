@@ -14,7 +14,7 @@ page.on('response',r=>{if(r.url().startsWith(origin)&&r.status()>=400)errors.pus
 try {
  for(const [lang,htmlLang] of [['zh','zh-CN'],['en','en'],['ja','ja']]){
   console.log(`Checking ${lang} routes and downloads`);
-  for(const route of ['', 'references/', 'assets/','models/','collection/','contribute/',...chars.map(c=>`characters/${c.id}/`)]){
+  for(const route of ['', 'references/','chibi/', 'assets/','models/','collection/','contribute/',...chars.map(c=>`characters/${c.id}/`)]){
    const response=await page.goto(`${origin}/${lang}/${route}`,{waitUntil:'domcontentloaded'});assert.equal(response.status(),200);assert.equal(await page.locator('html').getAttribute('lang'),htmlLang);
    assert.ok((await page.locator('h1').textContent()).trim());
    const canonical=await page.locator('link[rel="canonical"]').getAttribute('href');
@@ -53,7 +53,7 @@ try {
   await page.locator('[data-kind-filter="collected"]').click();assert.equal(await page.locator('[data-card]:visible').count(),chars.filter(c=>c.kind==='collected').length);
   await page.locator('[data-kind-filter="all"]').click();await page.screenshot({path:`.qa/atlas-${lang}-desktop.png`,fullPage:false});
   await page.setViewportSize({width:390,height:844});
-  for(const route of ['','references/','assets/','studio/','models/','collection/','characters/deep-whale-maid/']){
+  for(const route of ['','references/','chibi/','assets/','studio/','models/','collection/','characters/deep-whale-maid/']){
    await page.goto(`${origin}/${lang}/${route}`,{waitUntil:'domcontentloaded'});
    assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1),false,`Mobile overflow: ${lang}/${route}`);
   }
@@ -65,17 +65,24 @@ try {
   const saved=page.url();await page.reload();assert.equal(await page.locator('[data-card]:visible').count(),1);
   const other=await context.newPage();await other.goto(saved);assert.equal(await other.locator('[data-card]:visible').count(),1);await other.close();
   await page.locator('#style-filter').selectOption('anime');assert.equal(await page.locator('[data-card]:visible').count(),0);
-  await page.goBack();assert.equal(await page.locator('#style-filter').inputValue(),'pixel');assert.equal(await page.locator('[data-card]:visible').count(),1);
-  await page.goForward();assert.equal(await page.locator('#style-filter').inputValue(),'anime');
+  await page.goBack({waitUntil:'domcontentloaded'});assert.equal(await page.locator('#style-filter').inputValue(),'pixel');assert.equal(await page.locator('[data-card]:visible').count(),1);
+  await page.goForward({waitUntil:'domcontentloaded'});assert.equal(await page.locator('#style-filter').inputValue(),'anime');
   const to=lang==='ja'?'en':'ja';await page.locator(`.language-switch a[hreflang="${to}"]`).click();
   assert.equal(await page.locator('#style-filter').inputValue(),'anime');assert.equal(await page.locator('#search').inputValue(),'Clawd');
   await page.locator('#reset-filters').click();assert.equal(new URL(page.url()).search,'');assert.equal(await page.locator('[data-card]:visible').count(),chars.length);
   await page.locator('#search').pressSequentially('Clawd');
-  await page.goBack();assert.equal(await page.locator('#search').inputValue(),'');
-  await page.goForward();assert.equal(await page.locator('#search').inputValue(),'Clawd');
+  await page.goBack({waitUntil:'domcontentloaded'});assert.equal(await page.locator('#search').inputValue(),'');
+  await page.goForward({waitUntil:'domcontentloaded'});assert.equal(await page.locator('#search').inputValue(),'Clawd');
   await page.goto(`${origin}/${lang}/?model=bad&style=bad&kind=bad`);assert.equal(new URL(page.url()).search,'');
   assert.equal(await page.locator('.featured-card').count(),8);
   assert.equal(await page.locator('[data-reference]').count(),6);
+  assert.equal(await page.locator('[data-chibi]').count(),7);
+  await page.locator('[data-chibi="gemini"] .chibi-art').click();
+  assert.ok(page.url().endsWith(`/${lang}/chibi/#gemini`));
+  assert.equal(await page.locator('[data-chibi-record]').count(),7);
+  assert.ok((await page.locator('#gemini > a').getAttribute('href')).endsWith('turnaround-v2.png'));
+  await page.goto(`${origin}/${lang}/`);
+  await page.locator('.legacy-references > summary').click();
   await page.locator('[data-reference="openai"] .identity-art').click();
   assert.ok(page.url().endsWith(`/${lang}/references/#openai`));
   assert.equal(await page.locator('[data-reference-record]').count(),6);

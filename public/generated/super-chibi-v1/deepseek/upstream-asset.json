@@ -1,0 +1,36 @@
+{
+  "character_id": "deepseek",
+  "body_form": "super-chibi",
+  "rendering_version": "super-chibi-v1",
+  "costume_id": "default",
+  "path": "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png",
+  "width": 1536,
+  "height": 1024,
+  "sha256": "9b743a37c8c0edee165dd629acb90f4d4d65e58943bc30c428bd19dfe8f0900f",
+  "views": [
+    "front",
+    "left_profile_nose_image_left",
+    "back"
+  ],
+  "delivery_format": "one_turnaround_sheet_with_three_views",
+  "head_to_body": "approximately_two_heads_visual_estimate",
+  "proportion_policy": "exclude ears horns ahoge when judging head ratio",
+  "identity_version": "ai-models-v5",
+  "reference_inputs": [
+    "characters/assets/ai-models-v5/deepseek-reference.png"
+  ],
+  "request_path": "characters/assets/super-chibi-v1/deepseek/default/request.json",
+  "visual_qa": {
+    "status": "passed_for_storyboarding",
+    "reviewer": "primary_agent_actual_image_inspection",
+    "notes": [
+      "大头极短身、蓝白女仆装、鲸图案、单条鲸尾、呆毛和鳍状侧发。",
+      "继承工作区已生成的新版图，本轮实际目检后归入新集合；头身目测略短于另外三位，统一按约二头身使用。"
+    ]
+  },
+  "rigging_ready": false,
+  "style_adoption": "authorized_by_user_request",
+  "user_approval": "pending_image_review",
+  "default_for_new_chibi_work": true,
+  "verified_at": "2026-10-20T16:43:40+08:00"
+}

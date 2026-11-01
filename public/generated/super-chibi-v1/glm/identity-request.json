@@ -1,0 +1,26 @@
+{
+  "schema_version": "glm-video-v1-request",
+  "job_id": "glm.chibi.default",
+  "tool": "built-in image_gen",
+  "mode": "generate_with_references",
+  "prompt": "Use case: stylized-concept\nAsset type: animation production character turnaround master.\nPrimary request: Create the CHIBI animation turnaround of the GLM fox girl visible in the MOST RECENT attached browser screenshot from the user's Bilibili reference BV1iDeQ6fEFi at approximately 18 seconds. The reference character is the black-haired fox girl in the video center, holding a gray tablet. Ignore every other part of the website: all web text, video subtitles, watermarks, computer screens, and furniture.\nInput images: Most recent conversation image is the user's GLM visual identity source. Preserve that specific fox girl. This is a design adaptation from the supplied video, not an unrelated new mascot.\nIdentity locks: dark charcoal-black long hair with visible deep cobalt-blue gradient at ends; slightly fluffy grouped locks; large black fox ears with cream-white inner fur; cool gray-violet eyes; a single voluminous charcoal fox tail with a broad cream-white tip; black sleeping mask with embroidered closed-eye lashes resting ON TOP OF FOREHEAD, so both real eyes remain visible; white frilled maid headband behind the sleeping mask; small black square Z charm and exactly two silver bells hanging at CHARACTER'S LEFT TEMPLE, visible on image right in front view. White side ribbons. No cat tail, whale tail, horns, or wings.\nBody proportions: exactly about 2.7 heads tall excluding ears. A large round head with short but usable arms and legs; same fully clothed female character and identical costume in all three views.\nStyle/medium: clean-2d-v1 refined cute anime animation model sheet, confident dark outlines, grouped hair masses, flat base colors plus one crisp shadow family, sparse restrained highlights, expressive readable face, minimal micro lace and no glitter.\nCostume and anatomy: black and white maid costume seen in the video: modest high white collar and white sleeves with black bow details, dark fitted bodice, short flared black skirt with simple white apron and white frilled hem, opaque charcoal tights, plain black Mary Jane shoes. A small dark blue waist bow. The source video obscures the lower body, so the skirt hem, tights, shoes, rear apron tie and lower-back tail opening are restrained production-design completions, not extra new motifs. Keep hands free and relaxed; NO tablet, egg, gun or other handheld props. The one tail attaches at lower back through a consistent opening; side and back views keep the root visible by grouping the hair to the sides.\nComposition/framing: landscape 3:2 white sheet, EXACTLY THREE separate equal-width full-body columns: FRONT, CHARACTER'S LEFT SIDE with nose pointing to IMAGE LEFT, BACK. True orthographic 90-degree side profile with just one visible eye; exact rear view with no visible face. Quiet matching neutral standing pose; arms relaxed slightly away from torso. Same head size, crown height and shoe baseline. Generous whitespace and gaps; no overlap between panels; entire ears, hair, hands, feet and tail in frame. In the left profile, the Z charm and bells are on the visible side; in rear view they are on image left, preserving anatomical left. FRONT tail may curve toward image left. Side tail projects toward image right behind the figure. Rear tail root and single tail visible.\nLighting/mood: diffuse neutral studio light, readable white against pure white by dark contours.\nText: only the exact small letter Z on the temple charm. No titles, panel labels, captions, color swatches, website UI, watermarks or explanatory text.\nAvoid: 3/4 face instead of true side view; extra face on rear view; moving mask over eyes; missing blue hair tips; duplicated tail; mirror-flipped Z accessory; merged panels; figurine or plastic 3D style; photo skin; ungrounded feet; 4-head or mature long-body proportions.\n",
+  "reference_input_mode": "num_last_images_to_include",
+  "num_last_images_to_include": 1,
+  "reference_paths": [],
+  "reference_hashes": {},
+  "reference_viewed": true,
+  "reference_context": {
+    "source_url": "https://www.bilibili.com/video/BV1iDeQ6fEFi/",
+    "video_time_s": 18,
+    "image_description": "Most recent conversation image: actual Chrome browser screenshot of GLM fox girl at 18 seconds, prior to generation call."
+  },
+  "transparent_background": false,
+  "intended_output_path": "characters/assets/animation-v1/glm/chibi/default/turnaround-v1.png",
+  "attempts": [
+    {
+      "attempt": 1,
+      "status": "succeeded",
+      "actual_output_reference": "generated_images/exec-2e9179ac-92fd-4bcc-b551-ab77b323161e.png"
+    }
+  ]
+}

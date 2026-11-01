@@ -1,0 +1,63 @@
+{
+  "schema_version": "glm-video-v1-asset",
+  "job_id": "glm.chibi.default",
+  "character_id": "glm",
+  "body_form": "chibi",
+  "rendering_version": "clean-2d-v1",
+  "costume_id": "default",
+  "image_path": "characters/assets/animation-v1/glm/chibi/default/turnaround-v1.png",
+  "sha256": "16cd93f14be34efa407c04716d58ad60538609a1875f6e6a97db82f1e3db4ad5",
+  "width": 1536,
+  "height": 1024,
+  "source": {
+    "tool": "built-in image_gen",
+    "actual_output_reference": "generated_images/exec-2e9179ac-92fd-4bcc-b551-ab77b323161e.png"
+  },
+  "prompt_path": "characters/assets/animation-v1/glm/chibi/default/prompt.txt",
+  "request_path": "characters/assets/animation-v1/glm/chibi/default/request.json",
+  "views": [
+    {
+      "view": "front",
+      "panel_index": 0,
+      "verified": true
+    },
+    {
+      "view": "left_profile",
+      "panel_index": 1,
+      "verified": true
+    },
+    {
+      "view": "back",
+      "panel_index": 2,
+      "verified": true
+    }
+  ],
+  "visual_qa": {
+    "status": "passed",
+    "reviewer": "primary agent; actual image visual inspection",
+    "checks": {
+      "identity": true,
+      "proportions": true,
+      "true_profile": true,
+      "back_no_face": true,
+      "aligned_scale_baseline": true,
+      "anatomy_connections": true,
+      "asymmetric_accessories": true,
+      "consistent_costume": true,
+      "readable_clean_2d": true,
+      "allowed_text_only": true
+    },
+    "notes": [
+      "正面/鼻子向画面左的侧面/无脸背面完整；头身约2.7；单狐尾与白尖保留。",
+      "Z饰和双铃位于角色左侧；侧面可见，背面在画面左；眼罩在额上，双眼未被遮住。",
+      "尾根接在下背围裙结下方；鞋、袜、后裙和尾根开口是源视频未清晰展示的设计补全。"
+    ]
+  },
+  "user_approval": "pending_review",
+  "new_design_notes": [
+    "opaque tights and Mary Jane shoes",
+    "short skirt hem and rear apron bow",
+    "tail opening under rear bow"
+  ],
+  "generated_at": "2026-10-20T15:36:49+08:00"
+}

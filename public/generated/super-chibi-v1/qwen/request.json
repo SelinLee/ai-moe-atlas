@@ -1,0 +1,52 @@
+{
+  "tool": "built-in image_gen",
+  "mode": "generate_with_references_then_targeted_proportion_edit",
+  "model": "not_exposed_by_builtin_tool",
+  "reference_input_mode": "referenced_image_paths",
+  "reference_paths": [
+    "projects/art_motion_v1-2026-10-29-snap-rollback/assets/character-replacements-v2/qwen-turnaround-v2.png",
+    "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png",
+    "characters/assets/ai-models-v5/qwen-reference.png"
+  ],
+  "reference_hashes": {
+    "projects/art_motion_v1-2026-10-29-snap-rollback/assets/character-replacements-v2/qwen-turnaround-v2.png": "824035ac0938f833beb29ad3eb4c615633dbe9820681e1bef8a40a0d750c925f",
+    "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png": "9b743a37c8c0edee165dd629acb90f4d4d65e58943bc30c428bd19dfe8f0900f",
+    "characters/assets/ai-models-v5/qwen-reference.png": "818a393ee6767b65cae5a8d8d6a3dd34d8436e953760035d3dacc939ea9753fa"
+  },
+  "reference_viewed": true,
+  "prompt": "Use case: precise-object-edit. Image1 is the EDIT TARGET: a white-background three-view chibi character sheet. Image2 is ONLY the tiny-body proportion reference. Image3 is ONLY the original identity palette/accessories, not its proportions. Make ONE targeted proportion correction to IMAGE1: keep the size and shape of ALL THREE HEADS unchanged, including the faces, hair crowns and facial features. REDRAW EVERYTHING BELOW EACH CHIN to be 22 PERCENT SHORTER VERTICALLY. The feet and soles must move UP noticeably, toward the chin, while keeping the crown/head size unchanged. Do NOT shrink the entire figure: only shorten the body under the chin. On each view, crown-to-chin head height should equal or slightly EXCEED chin-to-sole total body height. Match the squat, tiny whale-maid body in image2. Compress torso, dress/cape, arms and legs as a coherent NEW drawing, not a stretched bitmap. Very short torso, stubby legs with almost no exposed calves, small rounded FLAT shoes; no heel. Keep the THREE head sizes equal, views frontal / exact LEFT PROFILE nose image-left / rear with no face; same foot baseline across all three. Reposition and shorten lower hair tips/tassels as necessary so they don't extend below feet. All accessories remain consistent with the original design, but intricate embroidery may simplify to fit the new small body. Keep the hat in ALL three views, exactly as current image. Keep side braid on anatomical LEFT (front VIEWER RIGHT), hat tilt anatomical RIGHT (front VIEWER LEFT/back VIEWER RIGHT), small OPEN blue fan and white-blue gown. Preserve pose, front-side-back order, colors, clean crisp 2D cel linework and completely white 3:2 landscape background. Preserve all three faces/orientations; do not add any character, label, text, border or measuring guide. This is a visible shortening edit, NOT a new outfit or head redesign. Exactly one corrected three-view image.",
+  "prompt_path": "characters/assets/super-chibi-v1/qwen/default/prompt-v2.txt",
+  "actual_output_reference": "local-generated-images/01a186af-c759-7a53-ad04-4e8f7acecffd/exec-459184e1-5051-4a92-b810-cd71557728ea.png",
+  "actual_dimensions": [
+    1536,
+    1024
+  ],
+  "actual_output_count": 1,
+  "transparent_background": false,
+  "completed_at": "2026-10-29T20:49:30+08:00",
+  "generation_attempt_count": 2,
+  "generation_record": "projects/art_motion_v1-2026-10-29-snap-rollback/motion/character-library-replacement-v2.json",
+  "previous_dreamina_candidate": "characters/assets/super-chibi-v1/qwen/default/turnaround-v1.png",
+  "identity_source": "characters/assets/ai-models-v5/qwen-reference.png",
+  "first_builtin_attempt": {
+    "prompt": "Use case: stylized-concept. Create ONE corrected character TURNAROUND SHEET for the existing super-chibi-v1 library, landscape 3:2, white background. EXACTLY THREE full-body views evenly spaced horizontally: FRONT at left, TRUE anatomical LEFT PROFILE in the middle with nose pointing IMAGE LEFT, BACK at right with absolutely no face. Same character, same size and same foot baseline. All hair, ears, hats, tails and shoes fully inside each view with generous white gutters. No title, no labels, no panel borders and no measuring lines. Clean crisp 2D anime cel linework, simple grouped hair, controlled shadows, no plastic toy realism. Image 1 is the original v5 IDENTITY truth. Image 2 (DeepSeek whale maid) defines ONLY the target TWO-HEAD proportion and drawing style. Image 3 is an earlier candidate with errors: preserve useful costume identity, but FIX its overlong body. Do not transfer whale features or maid uniform from image 2. CRITICAL PROPORTION: HEAD from actual hair crown to chin (excluding ears/horns/hat/ahoge) takes approximately HALF the total crown-to-foot height. Body below chin INCLUDING feet must be NO TALLER than one head, preferably slightly shorter. Huge round wide head and low eyes, squat tiny torso with no narrow adult waist, extremely short arms, tiny mitten hands, practically no exposed calves, very small rounded flat shoes. No high heels or platform boots. The third reference is around 2.3-head tall: redraw it visibly more squat, matching image2's tiny-body silhouette. Keep hairstyles long but compress body and costume instead of extending the height. Fully clothed opaque costumes. Neutral standing, hands relaxed. Faithful identity and consistent asymmetries across all three views. Character Qwen: Chinese-style scholar girl, long periwinkle-blue hair with a loose side braid on HER ANATOMICAL LEFT (FRONT VIEWER RIGHT), blue eyes, a small tilted ROUND BLUE CHINESE HAT with white geometric star-knot ornament, positioned toward HER ANATOMICAL RIGHT (FRONT VIEWER LEFT; BACK VIEWER RIGHT). IMPORTANT: the HAT MUST APPEAR IN ALL THREE VIEWS, including the LEFT PROFILE: show its crown and tilt from the side even though its ornament may be on the far side. Never remove the hat in profile. White-blue-purple Chinese gown and short cape with sparse gold motifs, tiny flat round blue shoes. A SMALL OPEN BLUE FOLDING FAN held in her anatomical RIGHT hand (FRONT VIEWER LEFT), matching original v5 prop state; do NOT switch to closed fan. The relaxed fan is at hip level and must not cover her face. Short braid lies over front of anatomical left shoulder, matching source identity; left profile shows it, back shows its consistent hair origin but no fake braid across the back. Preserve the small tassel. No horns, wings, animal ears or tail. Simplify dense gold motifs; make skirt/cape very short-bodied rather than stretching down a long torso.",
+    "reference_paths": [
+      "characters/assets/ai-models-v5/qwen-reference.png",
+      "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png",
+      "characters/assets/super-chibi-v1/qwen/default/turnaround-v1.png"
+    ],
+    "output_path": "assets/character-replacements-v2/qwen-turnaround-v2.png",
+    "preview_path": "assets/character-replacements-v2-lite/qwen-turnaround-v2.jpg",
+    "actual_dimensions": [
+      1536,
+      1024
+    ],
+    "builtin_output_path": "local-generated-images/01a186af-c759-7a53-ad04-4e8f7acecffd/exec-8ae87ba1-8f7c-4390-954c-aa95dd12535a.png",
+    "sha256": "824035ac0938f833beb29ad3eb4c615633dbe9820681e1bef8a40a0d750c925f",
+    "reference_hashes": {
+      "characters/assets/ai-models-v5/qwen-reference.png": "818a393ee6767b65cae5a8d8d6a3dd34d8436e953760035d3dacc939ea9753fa",
+      "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png": "9b743a37c8c0edee165dd629acb90f4d4d65e58943bc30c428bd19dfe8f0900f",
+      "characters/assets/super-chibi-v1/qwen/default/turnaround-v1.png": "3a4b910fbfdf53d50c6669c7f7caa1bf8a8f13e35a7088b9ef4fb40dfabddc27"
+    }
+  }
+}

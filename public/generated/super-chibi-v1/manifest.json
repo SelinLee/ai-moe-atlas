@@ -1,0 +1,1019 @@
+{
+  "id": "super-chibi-v1",
+  "kind": "generated-reference",
+  "sourceProject": "ai_video",
+  "sourceDirectory": "characters/assets/super-chibi-v1",
+  "sourceRevision": {
+    "kind": "local-snapshot",
+    "gitCommit": null,
+    "note": "Source project has no Git repository; selected files are identified by SHA-256 and the saved manifest."
+  },
+  "importedAt": "2026-10-31",
+  "upstreamUpdatedAt": "2026-10-29T20:49:30+08:00",
+  "generator": "built-in image_gen",
+  "displayRequest": {
+    "date": "2026-10-31",
+    "scope": [
+      "github-readme",
+      "website-home",
+      "reference-archive"
+    ],
+    "instruction": "将 ai_video 项目不同角色的 Q 版二头身三视图更新到本项目，作为 GitHub 主页与网站的主要视觉。",
+    "grantsUpstreamRights": false
+  },
+  "title": {
+    "zh": "小小 AI，三面登场。",
+    "en": "Tiny AIs. Three sides to every character.",
+    "ja": "小さな AI、3つの姿。"
+  },
+  "description": {
+    "zh": "7 位熟悉的 AI 角色，约二头身 Q 版。正面、左侧面、背面，一张看全。",
+    "en": "Seven familiar AI characters in approximately two-head chibi proportions. Front, left profile and back, together on each sheet.",
+    "ja": "おなじみの AI キャラクター7人を約2頭身に。正面・左側面・背面を1枚で。"
+  },
+  "notice": {
+    "zh": "来自 ai_video 的生成派生三视图，非官方形象或作者原图。按维护者指定展示，不新增上游改编或再分发许可，不纳入素材下载包。",
+    "en": "Generated turnaround adaptations from ai_video, not official characters or creator originals. Displayed at the maintainer’s request; no new upstream adaptation or redistribution rights are granted. Excluded from asset download packs.",
+    "ja": "ai_video の生成派生三面図です。公式キャラクターや作者の原図ではありません。管理者の指定による展示で、上流の改変・再配布許可を新たに付与するものではなく、素材パックには含まれません。"
+  },
+  "attributionNote": {
+    "zh": "GPT、Gemini、Claude、Kimi、Qwen 的社区设计：ZipZipPipe；DeepSeek：上善无形 → ZipZipPipe。GLM 狐娘依据视频 BV1iDeQ6fEFi，原设计作者尚未确认。",
+    "en": "Community designs for GPT, Gemini, Claude, Kimi and Qwen: ZipZipPipe. DeepSeek: 上善无形 → ZipZipPipe. The GLM fox-girl variant follows video BV1iDeQ6fEFi; its original designer remains unverified.",
+    "ja": "GPT・Gemini・Claude・Kimi・Qwen のコミュニティデザイン：ZipZipPipe。DeepSeek：上善无形 → ZipZipPipe。GLM の狐娘は動画 BV1iDeQ6fEFi に基づき、原デザインの作者は未確認です。"
+  },
+  "snapshots": [
+    {
+      "path": "generated/super-chibi-v1/upstream-manifest.json",
+      "sha256": "702bf14402da1ffa503f7a4165a1a8e150c5e2800fd6a50af85459564a6ea229",
+      "sourcePath": "characters/assets/super-chibi-v1/manifest.json",
+      "sourceSha256": "329e8f9ea7c8552b475d08b3baca183c2009d816d9765ef0a52fd2414b1a0ba2",
+      "processing": "Local absolute paths normalized; all other source metadata retained."
+    },
+    {
+      "path": "generated/super-chibi-v1/openai/request.json",
+      "sha256": "76616ec09631d1d0bd5b1cd589590bab0a506ef91c66ae1fca3050f31bc35768",
+      "sourcePath": "characters/assets/super-chibi-v1/openai/default/request.json",
+      "sourceSha256": "50e4e323c5a720e92084e6d552d37a137640b1856b327d30fb040bbb9b383f8d",
+      "processing": "Local absolute paths normalized; all other source metadata retained."
+    },
+    {
+      "path": "generated/super-chibi-v1/openai/upstream-asset.json",
+      "sha256": "cefc85b83245ffed61ef1e57a41913a320cc6e06e444ff59404d501e67b99ed7",
+      "sourcePath": "characters/assets/super-chibi-v1/openai/default/asset.json",
+      "sourceSha256": "cefc85b83245ffed61ef1e57a41913a320cc6e06e444ff59404d501e67b99ed7",
+      "processing": "Local absolute paths normalized; all other source metadata retained."
+    },
+    {
+      "path": "generated/super-chibi-v1/gemini/request.json",
+      "sha256": "fabba3108076f4241384042f4e03b550f6f39401b2f69856ee256e4d309e28cc",
+      "sourcePath": "characters/assets/super-chibi-v1/gemini/default/request-v2.json",
+      "sourceSha256": "ee2d888799223ec887dc2dc52fe767f0f975f7193ee9b3e449c389d20a6310dc",
+      "processing": "Local absolute paths normalized; all other source metadata retained."
+    },
+    {
+      "path": "generated/super-chibi-v1/gemini/upstream-asset.json",
+      "sha256": "78cd81e481fb0f41ad7ecbc3cd8e03e83e521ff4b776b60b99a5a8494d3d22ee",
+      "sourcePath": "characters/assets/super-chibi-v1/gemini/default/asset-v2.json",
+      "sourceSha256": "02498f8951a8ad34aeca11d3482b5eea474f2ed9d165d44564818368c316a628",
+      "processing": "Local absolute paths normalized; all other source metadata retained."
+    },
+    {
+      "path": "generated/super-chibi-v1/claude/request.json",
+      "sha256": "60c92b4d28ab0e76a6d9c1766a6b3249ad1d5d0a5012761d0ce39ff98de41678",
+      "sourcePath": "characters/assets/super-chibi-v1/claude/default/request.json",
+      "sourceSha256": "6f34ff8b6cf821208cf3eaaf9c5a807a8b20097a6756ece5ce5b1e27c91b549d",
+      "processing": "Local absolute paths normalized; all other source metadata retained."
+    },
+    {
+      "path": "generated/super-chibi-v1/claude/upstream-asset.json",
+      "sha256": "81b6ce659f0a46e727df04725e1fe28e05e0e7e294ed49165aef5fc3cf7bd751",
+      "sourcePath": "characters/assets/super-chibi-v1/claude/default/asset.json",
+      "sourceSha256": "81b6ce659f0a46e727df04725e1fe28e05e0e7e294ed49165aef5fc3cf7bd751",
+      "processing": "Local absolute paths normalized; all other source metadata retained."
+    },
+    {
+      "path": "generated/super-chibi-v1/deepseek/request.json",
+      "sha256": "9dae9fea1c1918a332142de75294243dbe9710ce727d2167c62a3459bccbdeb9",
+      "sourcePath": "characters/assets/super-chibi-v1/deepseek/default/request.json",
+      "sourceSha256": "cc91383b97c174141e15dc7c7ecba9386192915452db1922390470ed2b056418",
+      "processing": "Local absolute paths normalized; all other source metadata retained."
+    },
+    {
+      "path": "generated/super-chibi-v1/deepseek/upstream-asset.json",
+      "sha256": "f68027db8b632672f4f9a7e5bbb47cd17e8274addccfb964021624f39256e455",
+      "sourcePath": "characters/assets/super-chibi-v1/deepseek/default/asset.json",
+      "sourceSha256": "f68027db8b632672f4f9a7e5bbb47cd17e8274addccfb964021624f39256e455",
+      "processing": "Local absolute paths normalized; all other source metadata retained."
+    },
+    {
+      "path": "generated/super-chibi-v1/kimi/request.json",
+      "sha256": "983c3ed6b7bb91f4a7ff767b74a570b2b867500477b3f2e3049b00d5430958ba",
+      "sourcePath": "characters/assets/super-chibi-v1/kimi/default/request-v2.json",
+      "sourceSha256": "3389bc5afca4991da56c0fdcc99c8cd300ce4c3c4e3809956c60f5d1d63f54e2",
+      "processing": "Local absolute paths normalized; all other source metadata retained."
+    },
+    {
+      "path": "generated/super-chibi-v1/kimi/upstream-asset.json",
+      "sha256": "11ae7b0fe26e740f35c68eb0f623e9debfe4790ffa11b8b1a487bdd5a5843152",
+      "sourcePath": "characters/assets/super-chibi-v1/kimi/default/asset-v2.json",
+      "sourceSha256": "330ea69132405835ddb7c4848feea6246c653e23109bf450048a813134858145",
+      "processing": "Local absolute paths normalized; all other source metadata retained."
+    },
+    {
+      "path": "generated/super-chibi-v1/qwen/request.json",
+      "sha256": "91e397f62ac42428457acbc354d6f653a989619e75813000c2580efefb84326c",
+      "sourcePath": "characters/assets/super-chibi-v1/qwen/default/request-v2.json",
+      "sourceSha256": "ab7c2c3b63f38cb3789db0c08d9555f825e16a4d09c20175e291fcb690fcd5ca",
+      "processing": "Local absolute paths normalized; all other source metadata retained."
+    },
+    {
+      "path": "generated/super-chibi-v1/qwen/upstream-asset.json",
+      "sha256": "377b9eb623180701792ea04637bffe47b6ffdb2909e1426ad66dcd44ee96d8da",
+      "sourcePath": "characters/assets/super-chibi-v1/qwen/default/asset-v2.json",
+      "sourceSha256": "f1458ccf7e13b8e9f485d59e7c02916cfcae89ec058d42d71b2b6d1502c2b6b8",
+      "processing": "Local absolute paths normalized; all other source metadata retained."
+    },
+    {
+      "path": "generated/super-chibi-v1/glm/request.json",
+      "sha256": "88356ce2128b5df0e8f4a377fe4dfd59a3d1b658514bae34dcd567a44972c0d7",
+      "sourcePath": "characters/assets/super-chibi-v1/glm/default/request.json",
+      "sourceSha256": "ca1ecc2c667757b8efcbac9e344a19ac57dc1bd25f5e3cd00c6420b4fcc90616",
+      "processing": "Local absolute paths normalized; all other source metadata retained."
+    },
+    {
+      "path": "generated/super-chibi-v1/glm/upstream-asset.json",
+      "sha256": "011d9613973bd5c47142fb94a46e1255b47760c16b39c062743e20e5d100bcb8",
+      "sourcePath": "characters/assets/super-chibi-v1/glm/default/asset.json",
+      "sourceSha256": "011d9613973bd5c47142fb94a46e1255b47760c16b39c062743e20e5d100bcb8",
+      "processing": "Local absolute paths normalized; all other source metadata retained."
+    },
+    {
+      "path": "generated/super-chibi-v1/glm/identity-request.json",
+      "sha256": "15866e4987d743c1a1c36da45ac2b053b4e55cff402863062438f11a28307d7f",
+      "sourcePath": "characters/assets/animation-v1/glm/chibi/default/request.json",
+      "sourceSha256": "65e051a7b9f61129e06f64faa0892dad6182df974c478b9cd8a79e6d82597a1b",
+      "processing": "Local absolute paths normalized; all other source metadata retained."
+    },
+    {
+      "path": "generated/super-chibi-v1/glm/identity-asset.json",
+      "sha256": "40fbda29fe11fd64c65d38da0f766c00e6f9f579834d353845a36ce872422d75",
+      "sourcePath": "characters/assets/animation-v1/glm/chibi/default/asset.json",
+      "sourceSha256": "d07aa034541956e677580cc654403403bae4eedaf65a3b745f4acf1857501f8e",
+      "processing": "Local absolute paths normalized; all other source metadata retained."
+    }
+  ],
+  "assets": [
+    {
+      "id": "openai",
+      "name": {
+        "zh": "GPT",
+        "en": "GPT",
+        "ja": "GPT"
+      },
+      "entity": "chatgpt",
+      "characterId": "zipzippipe-chatgpt",
+      "features": {
+        "zh": "银白长发、龙角、龙翼与龙尾，白色长裙。",
+        "en": "Silver-white hair, dragon horns, wings and tail, and a white gown.",
+        "ja": "銀白色の長髪、竜の角・翼・尾、白いドレス。"
+      },
+      "attribution": [
+        {
+          "name": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994",
+          "role": "community-design",
+          "publication": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "attributionStatus": "inherited-from-v5",
+      "sourceVideo": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceVideoPublisher": "想看故事的lazy",
+      "sourceProject": "ai_video",
+      "sourcePath": "characters/assets/super-chibi-v1/openai/default/turnaround-v1.png",
+      "identityVersion": "ai-models-v5",
+      "revision": 1,
+      "views": [
+        "front",
+        "left_profile_nose_image_left",
+        "back"
+      ],
+      "generatedAt": "2026-10-20",
+      "importedAt": "2026-10-31",
+      "generator": "built-in image_gen",
+      "original": {
+        "path": "generated/super-chibi-v1/openai/turnaround-v1.png",
+        "sha256": "354cd19c293391a92693a4a1a9b99e5125e9f73bb85c2709492ebaacab5a31d9",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1808922
+      },
+      "preview": {
+        "path": "generated/super-chibi-v1/openai/preview.webp",
+        "sha256": "59eae0599667745ce352e08764d74a51446cb209b1271168cf93c62f763cfd6c",
+        "parentSha256": "354cd19c293391a92693a4a1a9b99e5125e9f73bb85c2709492ebaacab5a31d9",
+        "width": 1200,
+        "height": 800
+      },
+      "prompt": {
+        "path": "generated/super-chibi-v1/openai/prompt.txt",
+        "sha256": "1c3a3fa84d772d8451dfe0248da736bd33be490128d06c98956d3407c2b3452a",
+        "sourcePath": "characters/assets/super-chibi-v1/openai/default/prompt.txt"
+      },
+      "request": {
+        "path": "generated/super-chibi-v1/openai/request.json",
+        "sha256": "76616ec09631d1d0bd5b1cd589590bab0a506ef91c66ae1fca3050f31bc35768",
+        "sourcePath": "characters/assets/super-chibi-v1/openai/default/request.json",
+        "sourceSha256": "50e4e323c5a720e92084e6d552d37a137640b1856b327d30fb040bbb9b383f8d",
+        "processing": "Local absolute paths normalized; all other source metadata retained."
+      },
+      "assetRecord": {
+        "path": "generated/super-chibi-v1/openai/upstream-asset.json",
+        "sha256": "cefc85b83245ffed61ef1e57a41913a320cc6e06e444ff59404d501e67b99ed7",
+        "sourcePath": "characters/assets/super-chibi-v1/openai/default/asset.json",
+        "sourceSha256": "cefc85b83245ffed61ef1e57a41913a320cc6e06e444ff59404d501e67b99ed7",
+        "processing": "Local absolute paths normalized; all other source metadata retained."
+      },
+      "referenceInputs": [
+        {
+          "sourcePath": "characters/assets/ai-models-v5/openai-reference.png",
+          "sha256": "37bf617c72092f73a8f56d3db6d95456679fea9c5ecf1a38fc1d64c2704e6d6a",
+          "publishedHere": "generated/ai-models-v5/openai-reference.png"
+        },
+        {
+          "sourcePath": "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png",
+          "sha256": "9b743a37c8c0edee165dd629acb90f4d4d65e58943bc30c428bd19dfe8f0900f",
+          "publishedHere": null
+        }
+      ],
+      "upstreamVisualQA": {
+        "status": "passed_for_storyboarding",
+        "reviewer": "primary_agent_actual_image_inspection",
+        "notes": [
+          "银白发、淡紫眼、白龙双角/双翼/单尾；正、左侧、背面成立。",
+          "大头短身约二头身，精细挂饰仍较多；翼根/尾根局部被长发遮住，不能视为拆件绑定图。"
+        ]
+      },
+      "upstreamUserApproval": "pending_image_review",
+      "visualReview": {
+        "date": "2026-10-31",
+        "method": "actual-image-inspection",
+        "result": "Three full-body views visible; approximately two-head proportions. Existing image preserved without redrawing."
+      },
+      "rights": {
+        "status": "adaptation-permission-not-established",
+        "license": null,
+        "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+        "evidencePath": "content/sources/zipzippipe-chatgpt.json",
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      },
+      "processing": [
+        {
+          "date": "2026-10-31",
+          "operation": "byte-preserving-import",
+          "sourceSha256": "354cd19c293391a92693a4a1a9b99e5125e9f73bb85c2709492ebaacab5a31d9"
+        },
+        {
+          "date": "2026-10-31",
+          "operation": "resize-and-webp",
+          "width": 1200,
+          "quality": 88,
+          "crop": false,
+          "generative": false
+        }
+      ]
+    },
+    {
+      "id": "gemini",
+      "name": {
+        "zh": "Gemini",
+        "en": "Gemini",
+        "ja": "Gemini"
+      },
+      "entity": "gemini",
+      "characterId": "zipzippipe-gemini",
+      "features": {
+        "zh": "蓝紫渐变长发、猫耳猫尾、异色瞳、四角星饰物与紫色服装。",
+        "en": "Blue-purple hair, cat ears and tail, different-colored eyes, star ornaments and a purple outfit.",
+        "ja": "青紫の長髪、猫耳と尾、左右で異なる瞳、星の飾りと紫の衣装。"
+      },
+      "attribution": [
+        {
+          "name": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994",
+          "role": "community-design",
+          "publication": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "attributionStatus": "inherited-from-v5",
+      "sourceVideo": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceVideoPublisher": "想看故事的lazy",
+      "sourceProject": "ai_video",
+      "sourcePath": "characters/assets/super-chibi-v1/gemini/default/turnaround-v2.png",
+      "identityVersion": "ai-models-v5",
+      "revision": 2,
+      "views": [
+        "front",
+        "left_profile_nose_image_left",
+        "back"
+      ],
+      "generatedAt": "2026-10-29",
+      "importedAt": "2026-10-31",
+      "generator": "built-in image_gen",
+      "original": {
+        "path": "generated/super-chibi-v1/gemini/turnaround-v2.png",
+        "sha256": "3c77ae61c247f0eb6030138d0963ee7efde3e1eb7d0910841569f50f19bc46d6",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1933166
+      },
+      "preview": {
+        "path": "generated/super-chibi-v1/gemini/preview.webp",
+        "sha256": "d9e085603c57c7864af0108e84cfa00dbe13a516880b2edb9d8c64c7ea86d422",
+        "parentSha256": "3c77ae61c247f0eb6030138d0963ee7efde3e1eb7d0910841569f50f19bc46d6",
+        "width": 1200,
+        "height": 800
+      },
+      "prompt": {
+        "path": "generated/super-chibi-v1/gemini/prompt.txt",
+        "sha256": "7064b34d84e70240cd61d298c4ca025c1906b6001d86a46549af06ed50a230e1",
+        "sourcePath": "characters/assets/super-chibi-v1/gemini/default/prompt-v2.txt"
+      },
+      "request": {
+        "path": "generated/super-chibi-v1/gemini/request.json",
+        "sha256": "fabba3108076f4241384042f4e03b550f6f39401b2f69856ee256e4d309e28cc",
+        "sourcePath": "characters/assets/super-chibi-v1/gemini/default/request-v2.json",
+        "sourceSha256": "ee2d888799223ec887dc2dc52fe767f0f975f7193ee9b3e449c389d20a6310dc",
+        "processing": "Local absolute paths normalized; all other source metadata retained."
+      },
+      "assetRecord": {
+        "path": "generated/super-chibi-v1/gemini/upstream-asset.json",
+        "sha256": "78cd81e481fb0f41ad7ecbc3cd8e03e83e521ff4b776b60b99a5a8494d3d22ee",
+        "sourcePath": "characters/assets/super-chibi-v1/gemini/default/asset-v2.json",
+        "sourceSha256": "02498f8951a8ad34aeca11d3482b5eea474f2ed9d165d44564818368c316a628",
+        "processing": "Local absolute paths normalized; all other source metadata retained."
+      },
+      "referenceInputs": [
+        {
+          "sourcePath": "characters/assets/ai-models-v5/gemini-reference.png",
+          "sha256": "f280188303731d17205de926795a8fd0463dc8995b7342cddf4b93a5dbf50e85",
+          "publishedHere": "generated/ai-models-v5/gemini-reference.png"
+        },
+        {
+          "sourcePath": "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png",
+          "sha256": "9b743a37c8c0edee165dd629acb90f4d4d65e58943bc30c428bd19dfe8f0900f",
+          "publishedHere": null
+        },
+        {
+          "sourcePath": "characters/assets/super-chibi-v1/gemini/default/turnaround-v1.png",
+          "sha256": "1ffdbf400d657da377f347bf64fbda6897a8a2c5a157434c6911aa6f0fdd2e8c",
+          "publishedHere": null
+        }
+      ],
+      "upstreamVisualQA": {
+        "status": "passed_for_storyboarding",
+        "reviewer": "primary_agent_actual_image_inspection",
+        "notes": [
+          "头顶到下巴与下巴到鞋底高度接近，目测约二头身；身体比即梦候选明显缩短。",
+          "双猫耳、单猫尾、蓝紫发和星饰保留；正面左粉右金、左侧面金眼、背面无脸。",
+          "鞋仍保留原身份的短厚底/短跟；不是精确动画拆件，尾根部分被长发遮挡。"
+        ]
+      },
+      "upstreamUserApproval": "pending_image_review",
+      "visualReview": {
+        "date": "2026-10-31",
+        "method": "actual-image-inspection",
+        "result": "Three full-body views visible; approximately two-head proportions. Existing image preserved without redrawing."
+      },
+      "rights": {
+        "status": "adaptation-permission-not-established",
+        "license": null,
+        "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+        "evidencePath": "content/sources/zipzippipe-gemini.json",
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      },
+      "processing": [
+        {
+          "date": "2026-10-31",
+          "operation": "byte-preserving-import",
+          "sourceSha256": "3c77ae61c247f0eb6030138d0963ee7efde3e1eb7d0910841569f50f19bc46d6"
+        },
+        {
+          "date": "2026-10-31",
+          "operation": "resize-and-webp",
+          "width": 1200,
+          "quality": 88,
+          "crop": false,
+          "generative": false
+        }
+      ]
+    },
+    {
+      "id": "claude",
+      "name": {
+        "zh": "Claude",
+        "en": "Claude",
+        "ja": "Claude"
+      },
+      "entity": "claude",
+      "characterId": "zipzippipe-claude",
+      "features": {
+        "zh": "橙色长发、日芒花饰、白黑橙配色长裙，手持书本。",
+        "en": "Long orange hair, a sunburst ornament, an ivory, black and orange dress, and a book.",
+        "ja": "オレンジの長髪、太陽形の飾り、白・黒・オレンジのドレス、手に本。"
+      },
+      "attribution": [
+        {
+          "name": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994",
+          "role": "community-design",
+          "publication": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "attributionStatus": "inherited-from-v5",
+      "sourceVideo": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceVideoPublisher": "想看故事的lazy",
+      "sourceProject": "ai_video",
+      "sourcePath": "characters/assets/super-chibi-v1/claude/default/turnaround-v1.png",
+      "identityVersion": "ai-models-v5",
+      "revision": 1,
+      "views": [
+        "front",
+        "left_profile_nose_image_left",
+        "back"
+      ],
+      "generatedAt": "2026-10-20",
+      "importedAt": "2026-10-31",
+      "generator": "built-in image_gen",
+      "original": {
+        "path": "generated/super-chibi-v1/claude/turnaround-v1.png",
+        "sha256": "09df59c8e6889c3e439291b928c30f2cb4f87a692c994637440bd670aab29fed",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1780199
+      },
+      "preview": {
+        "path": "generated/super-chibi-v1/claude/preview.webp",
+        "sha256": "8957ddd0da738c7a5429d35267a1251949882b485aa4a4c163d6f15d01dd5d8b",
+        "parentSha256": "09df59c8e6889c3e439291b928c30f2cb4f87a692c994637440bd670aab29fed",
+        "width": 1200,
+        "height": 800
+      },
+      "prompt": {
+        "path": "generated/super-chibi-v1/claude/prompt.txt",
+        "sha256": "2947ad12d4ad778b6b6b62cecdea98989f348fddf6628938d2e4929d6d90b5c4",
+        "sourcePath": "characters/assets/super-chibi-v1/claude/default/prompt.txt"
+      },
+      "request": {
+        "path": "generated/super-chibi-v1/claude/request.json",
+        "sha256": "60c92b4d28ab0e76a6d9c1766a6b3249ad1d5d0a5012761d0ce39ff98de41678",
+        "sourcePath": "characters/assets/super-chibi-v1/claude/default/request.json",
+        "sourceSha256": "6f34ff8b6cf821208cf3eaaf9c5a807a8b20097a6756ece5ce5b1e27c91b549d",
+        "processing": "Local absolute paths normalized; all other source metadata retained."
+      },
+      "assetRecord": {
+        "path": "generated/super-chibi-v1/claude/upstream-asset.json",
+        "sha256": "81b6ce659f0a46e727df04725e1fe28e05e0e7e294ed49165aef5fc3cf7bd751",
+        "sourcePath": "characters/assets/super-chibi-v1/claude/default/asset.json",
+        "sourceSha256": "81b6ce659f0a46e727df04725e1fe28e05e0e7e294ed49165aef5fc3cf7bd751",
+        "processing": "Local absolute paths normalized; all other source metadata retained."
+      },
+      "referenceInputs": [
+        {
+          "sourcePath": "characters/assets/ai-models-v5/claude-reference.png",
+          "sha256": "b2d2c1a89f3cf059a8558b6fd505104f4309a0c18a96288be23a8ddd63509edb",
+          "publishedHere": "generated/ai-models-v5/claude-reference.png"
+        },
+        {
+          "sourcePath": "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png",
+          "sha256": "9b743a37c8c0edee165dd629acb90f4d4d65e58943bc30c428bd19dfe8f0900f",
+          "publishedHere": null
+        }
+      ],
+      "upstreamVisualQA": {
+        "status": "passed_for_storyboarding",
+        "reviewer": "primary_agent_actual_image_inspection",
+        "notes": [
+          "橙发、琥珀眼、左侧日芒花饰；米白黑橙学者裙和闭合书保留。",
+          "约二头身，侧面单眼、背面无脸；书夹属于生产设计补全。"
+        ]
+      },
+      "upstreamUserApproval": "pending_image_review",
+      "visualReview": {
+        "date": "2026-10-31",
+        "method": "actual-image-inspection",
+        "result": "Three full-body views visible; approximately two-head proportions. Existing image preserved without redrawing."
+      },
+      "rights": {
+        "status": "adaptation-permission-not-established",
+        "license": null,
+        "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+        "evidencePath": "content/sources/zipzippipe-claude.json",
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      },
+      "processing": [
+        {
+          "date": "2026-10-31",
+          "operation": "byte-preserving-import",
+          "sourceSha256": "09df59c8e6889c3e439291b928c30f2cb4f87a692c994637440bd670aab29fed"
+        },
+        {
+          "date": "2026-10-31",
+          "operation": "resize-and-webp",
+          "width": 1200,
+          "quality": 88,
+          "crop": false,
+          "generative": false
+        }
+      ]
+    },
+    {
+      "id": "deepseek",
+      "name": {
+        "zh": "DeepSeek",
+        "en": "DeepSeek",
+        "ja": "DeepSeek"
+      },
+      "entity": "deepseek",
+      "characterId": "zipzippipe-deepseek",
+      "features": {
+        "zh": "蓝色长发、白色发箍、蓝白女仆裙、鲸鱼图案与鲸尾。",
+        "en": "Blue hair, a white headband, a blue-and-white maid dress, a whale motif and whale tail.",
+        "ja": "青い長髪、白いヘッドドレス、青白のメイド服、クジラ模様と尾。"
+      },
+      "attribution": [
+        {
+          "name": "上善无形",
+          "url": "https://space.bilibili.com/4456176",
+          "role": "original-character",
+          "publication": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "name": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994",
+          "role": "community-design",
+          "publication": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "attributionStatus": "inherited-from-v5",
+      "sourceVideo": "https://www.bilibili.com/video/BV1Brtc63EyW/",
+      "sourceVideoPublisher": "AI梗百科",
+      "sourceProject": "ai_video",
+      "sourcePath": "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png",
+      "identityVersion": "ai-models-v5",
+      "revision": 1,
+      "views": [
+        "front",
+        "left_profile_nose_image_left",
+        "back"
+      ],
+      "generatedAt": "2026-10-20",
+      "importedAt": "2026-10-31",
+      "generator": "built-in image_gen",
+      "original": {
+        "path": "generated/super-chibi-v1/deepseek/turnaround-v1.png",
+        "sha256": "9b743a37c8c0edee165dd629acb90f4d4d65e58943bc30c428bd19dfe8f0900f",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1529056
+      },
+      "preview": {
+        "path": "generated/super-chibi-v1/deepseek/preview.webp",
+        "sha256": "c2bffe5fac002fc52ebc804e18055a448313b2d58e4f1a8d873969fc81787f83",
+        "parentSha256": "9b743a37c8c0edee165dd629acb90f4d4d65e58943bc30c428bd19dfe8f0900f",
+        "width": 1200,
+        "height": 800
+      },
+      "prompt": {
+        "path": "generated/super-chibi-v1/deepseek/prompt.txt",
+        "sha256": "57ec080c52979b201be93f151c32b7725767bef312b0121b7960866c2a8a1401",
+        "sourcePath": "characters/assets/super-chibi-v1/deepseek/default/prompt.txt"
+      },
+      "request": {
+        "path": "generated/super-chibi-v1/deepseek/request.json",
+        "sha256": "9dae9fea1c1918a332142de75294243dbe9710ce727d2167c62a3459bccbdeb9",
+        "sourcePath": "characters/assets/super-chibi-v1/deepseek/default/request.json",
+        "sourceSha256": "cc91383b97c174141e15dc7c7ecba9386192915452db1922390470ed2b056418",
+        "processing": "Local absolute paths normalized; all other source metadata retained."
+      },
+      "assetRecord": {
+        "path": "generated/super-chibi-v1/deepseek/upstream-asset.json",
+        "sha256": "f68027db8b632672f4f9a7e5bbb47cd17e8274addccfb964021624f39256e455",
+        "sourcePath": "characters/assets/super-chibi-v1/deepseek/default/asset.json",
+        "sourceSha256": "f68027db8b632672f4f9a7e5bbb47cd17e8274addccfb964021624f39256e455",
+        "processing": "Local absolute paths normalized; all other source metadata retained."
+      },
+      "referenceInputs": [
+        {
+          "sourcePath": "characters/assets/ai-models-v5/deepseek-reference.png",
+          "sha256": "496405b42259f7ebe3ff257325b3e3b2f36fd6d9f4faefbf1ff9c46f707bc616",
+          "publishedHere": "generated/ai-models-v5/deepseek-reference.png"
+        }
+      ],
+      "upstreamVisualQA": {
+        "status": "passed_for_storyboarding",
+        "reviewer": "primary_agent_actual_image_inspection",
+        "notes": [
+          "大头极短身、蓝白女仆装、鲸图案、单条鲸尾、呆毛和鳍状侧发。",
+          "继承工作区已生成的新版图，本轮实际目检后归入新集合；头身目测略短于另外三位，统一按约二头身使用。"
+        ]
+      },
+      "upstreamUserApproval": "pending_image_review",
+      "visualReview": {
+        "date": "2026-10-31",
+        "method": "actual-image-inspection",
+        "result": "Three full-body views visible; approximately two-head proportions. Existing image preserved without redrawing."
+      },
+      "rights": {
+        "status": "upstream-sharealike-statement",
+        "license": "CC-BY-NC-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "evidencePath": "public/collected/shangshan-whale/source.json",
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      },
+      "processing": [
+        {
+          "date": "2026-10-31",
+          "operation": "byte-preserving-import",
+          "sourceSha256": "9b743a37c8c0edee165dd629acb90f4d4d65e58943bc30c428bd19dfe8f0900f"
+        },
+        {
+          "date": "2026-10-31",
+          "operation": "resize-and-webp",
+          "width": 1200,
+          "quality": 88,
+          "crop": false,
+          "generative": false
+        }
+      ]
+    },
+    {
+      "id": "kimi",
+      "name": {
+        "zh": "Kimi",
+        "en": "Kimi",
+        "ja": "Kimi"
+      },
+      "entity": "kimi",
+      "characterId": "zipzippipe-kimi",
+      "features": {
+        "zh": "银白长发、蓝紫长裙、月亮与星空元素，挂有 K 字饰物。",
+        "en": "Silver-white hair, an indigo dress, moon and star motifs, and a hanging K ornament.",
+        "ja": "銀白色の長髪、青紫のドレス、月と星のモチーフ、K の飾り。"
+      },
+      "attribution": [
+        {
+          "name": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994",
+          "role": "community-design",
+          "publication": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "attributionStatus": "inherited-from-v5",
+      "sourceVideo": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceVideoPublisher": "想看故事的lazy",
+      "sourceProject": "ai_video",
+      "sourcePath": "characters/assets/super-chibi-v1/kimi/default/turnaround-v2.png",
+      "identityVersion": "ai-models-v5",
+      "revision": 2,
+      "views": [
+        "front",
+        "left_profile_nose_image_left",
+        "back"
+      ],
+      "generatedAt": "2026-10-29",
+      "importedAt": "2026-10-31",
+      "generator": "built-in image_gen",
+      "original": {
+        "path": "generated/super-chibi-v1/kimi/turnaround-v2.png",
+        "sha256": "83b4a4fbea1e6e5210ea5c627d7c16fd92a274ec70b2c873a5d1ccd1da9e977e",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 2079407
+      },
+      "preview": {
+        "path": "generated/super-chibi-v1/kimi/preview.webp",
+        "sha256": "9e8386c6868d9ab41080fe36e6b5a7340c0da1e5515e75d64bc809206e814c8e",
+        "parentSha256": "83b4a4fbea1e6e5210ea5c627d7c16fd92a274ec70b2c873a5d1ccd1da9e977e",
+        "width": 1200,
+        "height": 800
+      },
+      "prompt": {
+        "path": "generated/super-chibi-v1/kimi/prompt.txt",
+        "sha256": "90b34402ef6a7e0eaab613df613294eaeaa73b1f43b9b69bebb9e2e14d28114a",
+        "sourcePath": "characters/assets/super-chibi-v1/kimi/default/prompt-v2.txt"
+      },
+      "request": {
+        "path": "generated/super-chibi-v1/kimi/request.json",
+        "sha256": "983c3ed6b7bb91f4a7ff767b74a570b2b867500477b3f2e3049b00d5430958ba",
+        "sourcePath": "characters/assets/super-chibi-v1/kimi/default/request-v2.json",
+        "sourceSha256": "3389bc5afca4991da56c0fdcc99c8cd300ce4c3c4e3809956c60f5d1d63f54e2",
+        "processing": "Local absolute paths normalized; all other source metadata retained."
+      },
+      "assetRecord": {
+        "path": "generated/super-chibi-v1/kimi/upstream-asset.json",
+        "sha256": "11ae7b0fe26e740f35c68eb0f623e9debfe4790ffa11b8b1a487bdd5a5843152",
+        "sourcePath": "characters/assets/super-chibi-v1/kimi/default/asset-v2.json",
+        "sourceSha256": "330ea69132405835ddb7c4848feea6246c653e23109bf450048a813134858145",
+        "processing": "Local absolute paths normalized; all other source metadata retained."
+      },
+      "referenceInputs": [
+        {
+          "sourcePath": "projects/art_motion_v1-2026-10-29-snap-rollback/assets/character-replacements-v2/kimi-turnaround-v2.png",
+          "sha256": "ce501d4aa77dfbe9037189763b3a3ca7b95a4983f5540a135180fd22847854fa",
+          "publishedHere": null
+        },
+        {
+          "sourcePath": "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png",
+          "sha256": "9b743a37c8c0edee165dd629acb90f4d4d65e58943bc30c428bd19dfe8f0900f",
+          "publishedHere": null
+        },
+        {
+          "sourcePath": "characters/assets/ai-models-v5/kimi-reference.png",
+          "sha256": "3012cfe4b1c351ff874d4e6b1723db9a3864b8a96220cb7a8015f7e6ccf2f283",
+          "publishedHere": "generated/ai-models-v5/kimi-reference.png"
+        }
+      ],
+      "upstreamVisualQA": {
+        "status": "passed_for_storyboarding",
+        "reviewer": "primary_agent_actual_image_inspection",
+        "notes": [
+          "经一次针对身体的局部压短，头身目测约二头身，短腿和小鞋，银白发、蓝紫眼、K挂书保留。",
+          "月饰固定在自身左侧：正面画面右、左侧面可见、背面画面左，纠正旧稿方向错误。",
+          "长发和裙摆存在合理遮挡；动作绑定仍需按镜头补制。"
+        ]
+      },
+      "upstreamUserApproval": "pending_image_review",
+      "visualReview": {
+        "date": "2026-10-31",
+        "method": "actual-image-inspection",
+        "result": "Three full-body views visible; approximately two-head proportions. Existing image preserved without redrawing."
+      },
+      "rights": {
+        "status": "adaptation-permission-not-established",
+        "license": null,
+        "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+        "evidencePath": "content/sources/zipzippipe-kimi.json",
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      },
+      "processing": [
+        {
+          "date": "2026-10-31",
+          "operation": "byte-preserving-import",
+          "sourceSha256": "83b4a4fbea1e6e5210ea5c627d7c16fd92a274ec70b2c873a5d1ccd1da9e977e"
+        },
+        {
+          "date": "2026-10-31",
+          "operation": "resize-and-webp",
+          "width": 1200,
+          "quality": 88,
+          "crop": false,
+          "generative": false
+        }
+      ]
+    },
+    {
+      "id": "qwen",
+      "name": {
+        "zh": "Qwen 千问",
+        "en": "Qwen",
+        "ja": "Qwen 千問"
+      },
+      "entity": "qwen",
+      "characterId": "zipzippipe-qwen",
+      "features": {
+        "zh": "蓝紫长发与侧编发、中式头饰、蓝白长裙与披袖、折扇。",
+        "en": "Blue-purple hair with a side braid, Chinese-style headwear, a blue-and-white gown and a folding fan.",
+        "ja": "青紫の長髪と横の編み髪、中華風の髪飾り、青白の衣装、扇子。"
+      },
+      "attribution": [
+        {
+          "name": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994",
+          "role": "community-design",
+          "publication": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "attributionStatus": "inherited-from-v5",
+      "sourceVideo": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceVideoPublisher": "想看故事的lazy",
+      "sourceProject": "ai_video",
+      "sourcePath": "characters/assets/super-chibi-v1/qwen/default/turnaround-v2.png",
+      "identityVersion": "ai-models-v5",
+      "revision": 2,
+      "views": [
+        "front",
+        "left_profile_nose_image_left",
+        "back"
+      ],
+      "generatedAt": "2026-10-29",
+      "importedAt": "2026-10-31",
+      "generator": "built-in image_gen",
+      "original": {
+        "path": "generated/super-chibi-v1/qwen/turnaround-v2.png",
+        "sha256": "783f7704b60a03c7b5563f73f40378710105ccc177078613e8734c53b0d39f12",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1894664
+      },
+      "preview": {
+        "path": "generated/super-chibi-v1/qwen/preview.webp",
+        "sha256": "4405104543d5b423a3b79fe03c6cb517ded18fa8f55f16a85ca7cfa2268b954b",
+        "parentSha256": "783f7704b60a03c7b5563f73f40378710105ccc177078613e8734c53b0d39f12",
+        "width": 1200,
+        "height": 800
+      },
+      "prompt": {
+        "path": "generated/super-chibi-v1/qwen/prompt.txt",
+        "sha256": "ed00fd8958a742591443cf09d56718a9cad70c5608999667bac46739a4bc7117",
+        "sourcePath": "characters/assets/super-chibi-v1/qwen/default/prompt-v2.txt"
+      },
+      "request": {
+        "path": "generated/super-chibi-v1/qwen/request.json",
+        "sha256": "91e397f62ac42428457acbc354d6f653a989619e75813000c2580efefb84326c",
+        "sourcePath": "characters/assets/super-chibi-v1/qwen/default/request-v2.json",
+        "sourceSha256": "ab7c2c3b63f38cb3789db0c08d9555f825e16a4d09c20175e291fcb690fcd5ca",
+        "processing": "Local absolute paths normalized; all other source metadata retained."
+      },
+      "assetRecord": {
+        "path": "generated/super-chibi-v1/qwen/upstream-asset.json",
+        "sha256": "377b9eb623180701792ea04637bffe47b6ffdb2909e1426ad66dcd44ee96d8da",
+        "sourcePath": "characters/assets/super-chibi-v1/qwen/default/asset-v2.json",
+        "sourceSha256": "f1458ccf7e13b8e9f485d59e7c02916cfcae89ec058d42d71b2b6d1502c2b6b8",
+        "processing": "Local absolute paths normalized; all other source metadata retained."
+      },
+      "referenceInputs": [
+        {
+          "sourcePath": "projects/art_motion_v1-2026-10-29-snap-rollback/assets/character-replacements-v2/qwen-turnaround-v2.png",
+          "sha256": "824035ac0938f833beb29ad3eb4c615633dbe9820681e1bef8a40a0d750c925f",
+          "publishedHere": null
+        },
+        {
+          "sourcePath": "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png",
+          "sha256": "9b743a37c8c0edee165dd629acb90f4d4d65e58943bc30c428bd19dfe8f0900f",
+          "publishedHere": null
+        },
+        {
+          "sourcePath": "characters/assets/ai-models-v5/qwen-reference.png",
+          "sha256": "818a393ee6767b65cae5a8d8d6a3dd34d8436e953760035d3dacc939ea9753fa",
+          "publishedHere": "generated/ai-models-v5/qwen-reference.png"
+        }
+      ],
+      "upstreamVisualQA": {
+        "status": "passed_for_storyboarding",
+        "reviewer": "primary_agent_actual_image_inspection",
+        "notes": [
+          "经一次局部压短，目测约二头身；蓝发蓝眼、国风衣裙、侧辫与开扇保留。",
+          "帽子在正、左侧、背三面均存在；正面帽饰画面左、背面画面右，侧辫位于自身左侧。",
+          "本版固定为开扇状态，与v5身份一致；闭扇及持扇动作如需使用须另补。"
+        ]
+      },
+      "upstreamUserApproval": "pending_image_review",
+      "visualReview": {
+        "date": "2026-10-31",
+        "method": "actual-image-inspection",
+        "result": "Three full-body views visible; approximately two-head proportions. Existing image preserved without redrawing."
+      },
+      "rights": {
+        "status": "adaptation-permission-not-established",
+        "license": null,
+        "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+        "evidencePath": "content/sources/zipzippipe-qwen.json",
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      },
+      "processing": [
+        {
+          "date": "2026-10-31",
+          "operation": "byte-preserving-import",
+          "sourceSha256": "783f7704b60a03c7b5563f73f40378710105ccc177078613e8734c53b0d39f12"
+        },
+        {
+          "date": "2026-10-31",
+          "operation": "resize-and-webp",
+          "width": 1200,
+          "quality": 88,
+          "crop": false,
+          "generative": false
+        }
+      ]
+    },
+    {
+      "id": "glm",
+      "name": {
+        "zh": "GLM",
+        "en": "GLM",
+        "ja": "GLM"
+      },
+      "entity": "glm",
+      "characterId": null,
+      "features": {
+        "zh": "黑蓝长发、狐耳与白尖狐尾、额上眼罩、Z 饰与双铃、黑白女仆装。",
+        "en": "Black-to-blue hair, fox ears and a white-tipped tail, a forehead sleep mask, Z charm, twin bells and a black-and-white maid outfit.",
+        "ja": "黒から青へ変わる長髪、狐耳と白い尾先、額のアイマスク、Z飾りと二つの鈴、白黒のメイド服。"
+      },
+      "attribution": [],
+      "attributionStatus": "original-creator-unverified",
+      "sourceVideo": "https://www.bilibili.com/video/BV1iDeQ6fEFi/",
+      "sourceVideoPublisher": null,
+      "sourceProject": "ai_video",
+      "sourcePath": "characters/assets/super-chibi-v1/glm/default/turnaround-v1.png",
+      "identityVersion": "glm-video-v1",
+      "revision": 1,
+      "views": [
+        "front",
+        "left_profile_nose_image_left",
+        "back"
+      ],
+      "generatedAt": "2026-10-20",
+      "importedAt": "2026-10-31",
+      "generator": "built-in image_gen",
+      "original": {
+        "path": "generated/super-chibi-v1/glm/turnaround-v1.png",
+        "sha256": "3d8c3ee0b420d4d5c8262dc42bf3a6282cb46816dc01a1cde4235132776d3c7e",
+        "width": 1536,
+        "height": 1024,
+        "bytes": 1702032
+      },
+      "preview": {
+        "path": "generated/super-chibi-v1/glm/preview.webp",
+        "sha256": "d6b46f6db23c88e645fe2938f672ac97e45bc14bbbfd6b7926e569accb3eaee3",
+        "parentSha256": "3d8c3ee0b420d4d5c8262dc42bf3a6282cb46816dc01a1cde4235132776d3c7e",
+        "width": 1200,
+        "height": 800
+      },
+      "prompt": {
+        "path": "generated/super-chibi-v1/glm/prompt.txt",
+        "sha256": "17cfd159e134fd824f1eee58df35233286584e281cf2a2776f87c84e36e865cf",
+        "sourcePath": "characters/assets/super-chibi-v1/glm/default/prompt.txt"
+      },
+      "request": {
+        "path": "generated/super-chibi-v1/glm/request.json",
+        "sha256": "88356ce2128b5df0e8f4a377fe4dfd59a3d1b658514bae34dcd567a44972c0d7",
+        "sourcePath": "characters/assets/super-chibi-v1/glm/default/request.json",
+        "sourceSha256": "ca1ecc2c667757b8efcbac9e344a19ac57dc1bd25f5e3cd00c6420b4fcc90616",
+        "processing": "Local absolute paths normalized; all other source metadata retained."
+      },
+      "assetRecord": {
+        "path": "generated/super-chibi-v1/glm/upstream-asset.json",
+        "sha256": "011d9613973bd5c47142fb94a46e1255b47760c16b39c062743e20e5d100bcb8",
+        "sourcePath": "characters/assets/super-chibi-v1/glm/default/asset.json",
+        "sourceSha256": "011d9613973bd5c47142fb94a46e1255b47760c16b39c062743e20e5d100bcb8",
+        "processing": "Local absolute paths normalized; all other source metadata retained."
+      },
+      "referenceInputs": [
+        {
+          "sourcePath": "characters/assets/animation-v1/glm/chibi/default/turnaround-v1.png",
+          "sha256": "16cd93f14be34efa407c04716d58ad60538609a1875f6e6a97db82f1e3db4ad5",
+          "publishedHere": null
+        },
+        {
+          "sourcePath": "characters/assets/super-chibi-v1/deepseek/default/turnaround-v1.png",
+          "sha256": "9b743a37c8c0edee165dd629acb90f4d4d65e58943bc30c428bd19dfe8f0900f",
+          "publishedHere": null
+        }
+      ],
+      "upstreamVisualQA": {
+        "status": "passed_for_storyboarding",
+        "reviewer": "primary_agent_actual_image_inspection",
+        "notes": [
+          "狐耳白内耳、黑蓝长发、灰紫眼、白尖单狐尾；额上眼罩、左侧Z和双铃保留。",
+          "已缩为约二头身，短腿圆鞋；侧背尾部与围裙结可读。"
+        ]
+      },
+      "upstreamUserApproval": "pending_image_review",
+      "visualReview": {
+        "date": "2026-10-31",
+        "method": "actual-image-inspection",
+        "result": "Three full-body views visible; approximately two-head proportions. Existing image preserved without redrawing."
+      },
+      "rights": {
+        "status": "creator-and-adaptation-permission-unverified",
+        "license": null,
+        "licenseUrl": null,
+        "evidencePath": null,
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      },
+      "processing": [
+        {
+          "date": "2026-10-31",
+          "operation": "byte-preserving-import",
+          "sourceSha256": "3d8c3ee0b420d4d5c8262dc42bf3a6282cb46816dc01a1cde4235132776d3c7e"
+        },
+        {
+          "date": "2026-10-31",
+          "operation": "resize-and-webp",
+          "width": 1200,
+          "quality": 88,
+          "crop": false,
+          "generative": false
+        }
+      ]
+    }
+  ]
+}

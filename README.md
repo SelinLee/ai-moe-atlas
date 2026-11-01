@@ -6,6 +6,38 @@
 
 ## [打开 AI 萌化图鉴 →](https://selinlee.github.io/ai-moe-atlas/)
 
+## 主页主视觉 · Q 版二头身三视图
+
+来自 ai_video 的 7 位角色，每张均为正面、左侧面、背面三视图。Gemini、Kimi、Qwen 采用 2026-10-29 更新的 V2，其余采用当前 V1；点击图片查看完整 PNG。
+
+<table>
+  <tr>
+    <td align="center" width="50%"><strong>GPT · V1</strong><br><a href="public/generated/super-chibi-v1/openai/turnaround-v1.png"><img src="public/generated/super-chibi-v1/openai/preview.webp" width="480" alt="GPT · 完整三视图"></a></td>
+    <td align="center" width="50%"><strong>Gemini · V2</strong><br><a href="public/generated/super-chibi-v1/gemini/turnaround-v2.png"><img src="public/generated/super-chibi-v1/gemini/preview.webp" width="480" alt="Gemini · 完整三视图"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><strong>Claude · V1</strong><br><a href="public/generated/super-chibi-v1/claude/turnaround-v1.png"><img src="public/generated/super-chibi-v1/claude/preview.webp" width="480" alt="Claude · 完整三视图"></a></td>
+    <td align="center" width="50%"><strong>DeepSeek · V1</strong><br><a href="public/generated/super-chibi-v1/deepseek/turnaround-v1.png"><img src="public/generated/super-chibi-v1/deepseek/preview.webp" width="480" alt="DeepSeek · 完整三视图"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><strong>Kimi · V2</strong><br><a href="public/generated/super-chibi-v1/kimi/turnaround-v2.png"><img src="public/generated/super-chibi-v1/kimi/preview.webp" width="480" alt="Kimi · 完整三视图"></a></td>
+    <td align="center" width="50%"><strong>Qwen 千问 · V2</strong><br><a href="public/generated/super-chibi-v1/qwen/turnaround-v2.png"><img src="public/generated/super-chibi-v1/qwen/preview.webp" width="480" alt="Qwen 千问 · 完整三视图"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><strong>GLM · V1</strong><br><a href="public/generated/super-chibi-v1/glm/turnaround-v1.png"><img src="public/generated/super-chibi-v1/glm/preview.webp" width="480" alt="GLM · 完整三视图"></a></td>
+    <td align="center"><a href="https://selinlee.github.io/ai-moe-atlas/zh/chibi/">三视图、来源与使用说明 →</a></td>
+  </tr>
+</table>
+
+GPT、Gemini、Claude、Kimi、Qwen 的社区设计：ZipZipPipe；DeepSeek：上善无形 → ZipZipPipe。GLM 狐娘依据视频 BV1iDeQ6fEFi，原设计作者尚未确认。
+
+来自 ai_video 的生成派生三视图，非官方形象或作者原图。按维护者指定展示，不新增上游改编或再分发许可，不纳入素材下载包。
+
+[三视图、来源与使用说明](docs/CHIBI.zh.md) · [文件与处理记录](public/generated/super-chibi-v1/manifest.json)
+
+<details>
+<summary>早期 v5 参考图 · 常规比例与 Q 版</summary>
+
 ## 主页形象 · ai-models-v5
 
 六套固定形象来自 ai_video，每张包含常规比例与 Q 版；完整收录原始 PNG、生成提示词、视频出处、署名链与 SHA-256。
@@ -22,6 +54,9 @@
 
 [形象资料与来源](docs/REFERENCES.zh.md) · [文件与处理记录](public/generated/ai-models-v5/manifest.json)
 
+
+
+</details>
 
 ## 鲸鱼娘 · 3D 模型与多视图参考
 
