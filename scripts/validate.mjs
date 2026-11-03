@@ -93,3 +93,36 @@ for(const a of chibi.assets){
  for(const reference of a.referenceInputs)if(reference.publishedHere&&sha256(await readFile(`public/${reference.publishedHere}`))!==reference.sha256)throw new Error('Chibi identity reference hash mismatch');
 }
 console.log('Validated seven current chibi revisions, preserved PNGs, previews, prompts, source snapshots and artwork-specific attribution.');
+
+// Doodle previews preserve the selected identities and their artwork-specific records.
+const doodles=JSON.parse(await readFile('public/generated/rough-doodle-v1/manifest.json','utf8'));
+const generation=JSON.parse(await readFile('public/generated/rough-doodle-v1/generation-record.json','utf8'));
+if(doodles.kind!=='generated-style-adaptation'||doodles.displayRequest.grantsUpstreamRights!==false)throw new Error('Doodle display scope changed');
+if(doodles.assets.length!==chibi.assets.length||new Set(doodles.assets.map(a=>a.id)).size!==chibi.assets.length)throw new Error('Expected seven distinct doodles');
+const checkDoodleFile=async file=>{
+ if(!file.path.startsWith('generated/rough-doodle-v1/')||file.path.includes('..'))throw new Error('Invalid doodle archive path');
+ if(sha256(await readFile(`public/${file.path}`))!==file.sha256)throw new Error(`Doodle hash mismatch: ${file.path}`);
+};
+await checkDoodleFile(doodles.stylePrompt);
+await checkDoodleFile(doodles.generationRecord);
+for(const lang of ['zh','en','ja']){
+ if(!doodles.notice[lang]?.trim())throw new Error('Missing localized doodle notice');
+ await access(doodles.templates[lang]);
+}
+for(const a of doodles.assets){
+ const reference=chibi.assets.find(item=>item.id===a.id);
+ const generated=generation.assets.find(item=>item.id===a.id);
+ if(!reference||!generated||a.original.sha256!==generated.image.sha256)throw new Error('Doodle generation record mismatch');
+ if(a.reference.sha256!==reference.original.sha256||a.reference.path!==`public/${reference.original.path}`||a.reference.revision!==reference.revision)throw new Error('Doodle reference mismatch');
+ const pinned=`https://github.com/SelinLee/ai-moe-atlas/blob/${doodles.sourceCollection.commit}/${a.reference.path}`;
+ if(a.reference.url!==pinned||a.reference.commit!==doodles.sourceCollection.commit)throw new Error('Doodle reference must be pinned to its source commit');
+ if(a.prompt.sha256!==generated.prompt.sha256)throw new Error('Actual doodle prompt changed');
+ if(JSON.stringify(a.attribution)!==JSON.stringify(reference.attribution)||JSON.stringify(a.rights)!==JSON.stringify(reference.rights))throw new Error('Doodle attribution or terms mismatch');
+ if(a.preview.parentSha256!==a.original.sha256||a.original.width!==a.original.height)throw new Error('Doodle dimensions or preview parent mismatch');
+ for(const file of [a.original,a.preview,a.prompt,a.request])await checkDoodleFile(file);
+ const request=JSON.parse(await readFile(`public/${a.request.path}`,'utf8'));
+ const prompt=await readFile(`public/${a.prompt.path}`,'utf8');
+ if(request.prompt.trimEnd()!==prompt.trimEnd()||request.reference_sha256!==a.reference.sha256||request.output.sha256!==a.original.sha256)throw new Error('Doodle request mismatch');
+}
+if(sha256(await readFile(doodles.sourceCollection.path))!==doodles.sourceCollection.sha256)throw new Error('Doodle source collection changed');
+console.log('Validated seven doodles, exact generation bytes and prompts, pinned references, previews and localized templates.');

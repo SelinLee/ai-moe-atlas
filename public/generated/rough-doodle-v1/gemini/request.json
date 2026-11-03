@@ -1,0 +1,59 @@
+{
+  "id": "gemini",
+  "kind": "generated-style-adaptation",
+  "status": "generated-and-visually-reviewed",
+  "requestedAt": "2026-11-03",
+  "generator": "built-in image_gen",
+  "mode": "style-transfer",
+  "reference_input_mode": "referenced_image_paths",
+  "reference_paths": [
+    "public/generated/super-chibi-v1/gemini/turnaround-v2.png"
+  ],
+  "reference_viewed": true,
+  "transparent_background": false,
+  "prompt": "Use case: style-transfer.\n输入图片是角色身份参考，不是要沿用的画风。只画其中正面角色的一张半身像，禁止复刻三视图或多个角色。\n\n将参考图片中的角色转换为日系粗糙数字涂鸦风格。\n\n整体画风：\n一张极其随意、粗糙、稚拙的日系萌系动漫人物数字涂鸦，仿佛使用普通绘画软件中的粗糙蜡笔、马克笔快速绘制完成。保留原角色的辨识度、发型、发色、五官特征、服装、配饰和标志性表情。\n\n线稿：\n* 使用明显的黑色粗糙笔触勾勒人物。\n* 线条粗细极不均匀，部分突然加粗，部分断开。\n* 轮廓松散、不准确、略微歪斜。\n* 线条具有明显的手绘颗粒感和涂抹感。\n* 不追求精准描边，允许线条错位、重叠和不完整。\n* 禁止精细流畅的矢量线稿。\n\n上色：\n* 使用大面积不透明的简单平涂。\n* 颜色略微溢出轮廓，允许漏涂和白色空隙。\n* 阴影使用少量粗糙的灰色或同色系深色笔触。\n* 高光使用随意涂抹的白色短笔触。\n* 保留蜡笔、粉彩和马克笔混合的粗糙质感。\n* 不使用复杂渐变、精细光影和丰富色彩层次。\n\n人物五官：\n* 保留原角色的眼睛颜色、眼型和标志性神态。\n* 五官适当简化，眼睛使用粗黑线条和简单色块表现。\n* 嘴巴尽量简洁，鼻子可以省略。\n* 面部可以添加少量随意的粉色腮红笔触。\n* 表情保留原角色特点，不要擅自改变性格气质。\n\n头发与服装：\n* 完整保留原角色最具辨识度的发型和发色。\n* 头发由几块大面积色块构成，不绘制大量细碎发丝。\n* 服装保留原有颜色、轮廓和标志性配饰。\n* 衣服褶皱和装饰高度简化。\n* 不要擅自更换服装或增加原图不存在的配饰。\n\n构图：\n* 1:1 正方形画布。\n* 角色半身像，头部比例略大。\n* 人物居中，保留自然的白色留白。\n* 纯白背景，不添加文字、复杂场景或装饰边框。\n\n最重要的风格限制：\n画面必须粗糙、潦草、简单、稚拙，像随手画出来的可爱动漫涂鸦，而不是精致插画刻意模仿草稿。\n\n禁止自动精修，禁止精细线稿，禁止复杂头发结构，禁止细腻渐变，禁止3D效果，禁止过度光影，禁止增加复杂服装细节。\n\n最终效果：低完成度、粗黑轮廓、大色块平涂、随意白色高光、明显蜡笔颗粒感的日系动漫数字涂鸦。\n\n执行补充：正方形纯白画布，唯一角色，画到腰部附近，头部略大，角、耳、帽饰等完整留在画布内。减少笔画数量，而不只是给精致插画叠加噪点：头发只用几整块，衣服装饰只保留识别所需的粗略几笔。必须明显幼拙、松散、有歪斜的真涂鸦感。头发原有双色关系用分区平涂表示，不画细腻渐变。不要标题、签名、水印或散落文字。\n\n角色身份锁定（以参考正面图为准）：\n角色 Gemini 猫娘：蓝色长发及紫丁香色发梢，用两三大块平涂而非渐变；双猫耳，白色内耳毛，头顶一根弯曲呆毛，两侧小发髻与四角星发饰。正面眼睛颜色不能互换：画面左眼玫红色，画面右眼金黄色。保留参考正面的开心小张嘴。紫蓝色、白色和少量金色的原服装，四角星形领饰，一条蓝紫猫尾可在半身边缘露出。只留几颗必要星饰，不画复杂挂链。",
+  "target": {
+    "aspectRatio": "1:1",
+    "framing": "half-body",
+    "background": "white"
+  },
+  "publicationStatus": "github-display-requested-2026-11-03",
+  "replacesOriginal": false,
+  "archivedAt": "2026-11-03T19:37:19+08:00",
+  "reference_sha256": "3c77ae61c247f0eb6030138d0963ee7efde3e1eb7d0910841569f50f19bc46d6",
+  "reference_archive": {
+    "url": "https://github.com/SelinLee/ai-moe-atlas/blob/a3b0e05ddfb54d91961ee7f3c8ad57578a5332e1/public/generated/super-chibi-v1/gemini/turnaround-v2.png",
+    "sha256": "3c77ae61c247f0eb6030138d0963ee7efde3e1eb7d0910841569f50f19bc46d6"
+  },
+  "output": {
+    "path": "generated/rough-doodle-v1/gemini/doodle-v1.png",
+    "sha256": "a4a9c6cde4cc93825980310d5484ef98f98cec836eab04946af388ac313ab0a7",
+    "width": 1254,
+    "height": 1254,
+    "bytes": 2098586
+  },
+  "attribution": [
+    {
+      "name": "ZipZipPipe",
+      "url": "https://www.pixiv.net/users/18604994",
+      "role": "community-design",
+      "publication": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "sourceVideo": "https://www.bilibili.com/video/BV14phK66Ejw/",
+  "sourceVideoPublisher": "想看故事的lazy",
+  "upstreamRights": {
+    "status": "adaptation-permission-not-established",
+    "license": null,
+    "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+    "evidencePath": "content/sources/zipzippipe-gemini.json",
+    "newLicenseGranted": false,
+    "inDownloadPacks": false
+  },
+  "visualReview": {
+    "method": "actual-image-inspection",
+    "identity": "Hair palette, eye colors, original expression, costume and key accessories retained. K and Z lettering omitted to follow the no-text instruction.",
+    "style": "Rough dark contours, grouped opaque color blocks and visible crayon texture. Hair silhouettes remain more regular than the extreme casual-doodle target. White background with narrow margins.",
+    "approval": "pending-user-review"
+  }
+}

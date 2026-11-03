@@ -6,6 +6,33 @@ What if your everyday AI had a character of its own? Explore collected AI-inspir
 
 ## [Explore AI Moe Atlas →](https://selinlee.github.io/ai-moe-atlas/)
 
+## Rough anime digital doodles · Prompt template
+
+November 3, 2026 · Generated style adaptations of seven existing characters, each a 1254 × 1254 half-body portrait on white. Created with built-in image_gen using the front view of the current chibi sheets as the identity reference.
+
+<table>
+  <tr>
+    <td align="center" width="33%"><strong>GPT</strong><br><a href="public/generated/rough-doodle-v1/openai/doodle-v1.png"><img src="public/generated/rough-doodle-v1/openai/preview.webp" width="280" alt="GPT · Rough anime digital doodles · Prompt template"></a></td>
+    <td align="center" width="33%"><strong>Gemini</strong><br><a href="public/generated/rough-doodle-v1/gemini/doodle-v1.png"><img src="public/generated/rough-doodle-v1/gemini/preview.webp" width="280" alt="Gemini · Rough anime digital doodles · Prompt template"></a></td>
+    <td align="center" width="33%"><strong>Claude</strong><br><a href="public/generated/rough-doodle-v1/claude/doodle-v1.png"><img src="public/generated/rough-doodle-v1/claude/preview.webp" width="280" alt="Claude · Rough anime digital doodles · Prompt template"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><strong>DeepSeek</strong><br><a href="public/generated/rough-doodle-v1/deepseek/doodle-v1.png"><img src="public/generated/rough-doodle-v1/deepseek/preview.webp" width="280" alt="DeepSeek · Rough anime digital doodles · Prompt template"></a></td>
+    <td align="center" width="33%"><strong>Kimi</strong><br><a href="public/generated/rough-doodle-v1/kimi/doodle-v1.png"><img src="public/generated/rough-doodle-v1/kimi/preview.webp" width="280" alt="Kimi · Rough anime digital doodles · Prompt template"></a></td>
+    <td align="center" width="33%"><strong>Qwen</strong><br><a href="public/generated/rough-doodle-v1/qwen/doodle-v1.png"><img src="public/generated/rough-doodle-v1/qwen/preview.webp" width="280" alt="Qwen · Rough anime digital doodles · Prompt template"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><strong>GLM</strong><br><a href="public/generated/rough-doodle-v1/glm/doodle-v1.png"><img src="public/generated/rough-doodle-v1/glm/preview.webp" width="280" alt="GLM · Rough anime digital doodles · Prompt template"></a></td>
+    <td align="center" colspan="2"><a href="docs/DOODLE.en.md">Copyable template →</a></td>
+  </tr>
+</table>
+
+Style adaptations generated from existing character references, displayed on GitHub at the maintainer’s request with artwork-specific attribution and rights records.
+
+Community designs for GPT, Gemini, Claude, Kimi and Qwen are by ZipZipPipe. DeepSeek follows the attribution chain 上善无形 → ZipZipPipe. The GLM fox-girl variant follows video BV1iDeQ6fEFi. Its original designer remains unverified.
+
+[Copyable template](docs/DOODLE.en.md) · [Files, SHA-256 and processing records](public/generated/rough-doodle-v1/manifest.json)
+
 ## Main visual · Two-head chibi turnarounds
 
 Seven characters from ai_video, each with front, left-profile and back views. Gemini, Kimi and Qwen use V2 updated on October 29, 2026; the others use the current V1. Click a sheet for the full PNG.

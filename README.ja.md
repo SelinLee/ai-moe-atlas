@@ -6,6 +6,33 @@
 
 ## [AI 萌え図鑑を開く →](https://selinlee.github.io/ai-moe-atlas/)
 
+## ラフな萌えキャラ落書き · プロンプトテンプレート
+
+2026年11月3日 · 既存の7キャラクターから生成した画風派生画像です。各画像は 1254 × 1254 の白背景・上半身。内蔵 image_gen を使い、現行ちびキャラ三面図の正面を形象の参照にしています。
+
+<table>
+  <tr>
+    <td align="center" width="33%"><strong>GPT</strong><br><a href="public/generated/rough-doodle-v1/openai/doodle-v1.png"><img src="public/generated/rough-doodle-v1/openai/preview.webp" width="280" alt="GPT · ラフな萌えキャラ落書き · プロンプトテンプレート"></a></td>
+    <td align="center" width="33%"><strong>Gemini</strong><br><a href="public/generated/rough-doodle-v1/gemini/doodle-v1.png"><img src="public/generated/rough-doodle-v1/gemini/preview.webp" width="280" alt="Gemini · ラフな萌えキャラ落書き · プロンプトテンプレート"></a></td>
+    <td align="center" width="33%"><strong>Claude</strong><br><a href="public/generated/rough-doodle-v1/claude/doodle-v1.png"><img src="public/generated/rough-doodle-v1/claude/preview.webp" width="280" alt="Claude · ラフな萌えキャラ落書き · プロンプトテンプレート"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><strong>DeepSeek</strong><br><a href="public/generated/rough-doodle-v1/deepseek/doodle-v1.png"><img src="public/generated/rough-doodle-v1/deepseek/preview.webp" width="280" alt="DeepSeek · ラフな萌えキャラ落書き · プロンプトテンプレート"></a></td>
+    <td align="center" width="33%"><strong>Kimi</strong><br><a href="public/generated/rough-doodle-v1/kimi/doodle-v1.png"><img src="public/generated/rough-doodle-v1/kimi/preview.webp" width="280" alt="Kimi · ラフな萌えキャラ落書き · プロンプトテンプレート"></a></td>
+    <td align="center" width="33%"><strong>Qwen 千問</strong><br><a href="public/generated/rough-doodle-v1/qwen/doodle-v1.png"><img src="public/generated/rough-doodle-v1/qwen/preview.webp" width="280" alt="Qwen 千問 · ラフな萌えキャラ落書き · プロンプトテンプレート"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><strong>GLM</strong><br><a href="public/generated/rough-doodle-v1/glm/doodle-v1.png"><img src="public/generated/rough-doodle-v1/glm/preview.webp" width="280" alt="GLM · ラフな萌えキャラ落書き · プロンプトテンプレート"></a></td>
+    <td align="center" colspan="2"><a href="docs/DOODLE.ja.md">コピー用テンプレート →</a></td>
+  </tr>
+</table>
+
+既存のキャラクター資料に基づく画風派生画像です。管理者の依頼で GitHub に展示し、作品ごとの作者情報と利用条件を記録しています。
+
+GPT・Gemini・Claude・Kimi・Qwen のコミュニティデザインは ZipZipPipe によります。DeepSeek の作者連鎖は上善无形 → ZipZipPipe。GLM の狐娘は動画 BV1iDeQ6fEFi に基づき、原デザインの作者は未確認です。
+
+[コピー用テンプレート](docs/DOODLE.ja.md) · [ファイル、SHA-256、処理記録](public/generated/rough-doodle-v1/manifest.json)
+
 ## メインビジュアル · 約2頭身ちびキャラ三面図
 
 ai_video の7キャラクターを、正面・左側面・背面の三面図で紹介。Gemini・Kimi・Qwen は2026年10月29日更新の V2、それ以外は現行 V1 です。画像をクリックすると完全な PNG を表示します。

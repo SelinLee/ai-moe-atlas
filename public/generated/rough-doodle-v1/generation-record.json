@@ -1,0 +1,543 @@
+{
+  "id": "rough-doodle-v1-2026-11-03",
+  "kind": "generated-style-adaptation",
+  "archivedAt": "2026-11-03T19:37:19+08:00",
+  "generator": "built-in image_gen",
+  "publicationStatus": "local-preview-only",
+  "sourceRepositoryCommit": "a3b0e05ddfb54d91961ee7f3c8ad57578a5332e1",
+  "stylePrompt": {
+    "path": "style-prompt.txt",
+    "sha256": "21a5f076cc3825de7dcdf1cd8381d10a452592dcf0bdec05867470a1ec82d4a1"
+  },
+  "assets": [
+    {
+      "id": "openai",
+      "name": {
+        "zh": "GPT",
+        "en": "GPT",
+        "ja": "GPT"
+      },
+      "image": {
+        "path": "openai/doodle-v1.png",
+        "sha256": "45d109267fbd21362eb236725fdad1725ba63365dc119404de49caad95fd2f29",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 1881969
+      },
+      "reference": {
+        "path": "openai/reference.png",
+        "sourcePath": "public/generated/super-chibi-v1/openai/turnaround-v1.png",
+        "sha256": "354cd19c293391a92693a4a1a9b99e5125e9f73bb85c2709492ebaacab5a31d9",
+        "upstreamRevision": 1
+      },
+      "attribution": [
+        {
+          "name": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994",
+          "role": "community-design",
+          "publication": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "sourceVideo": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceVideoPublisher": "想看故事的lazy",
+      "rights": {
+        "status": "adaptation-permission-not-established",
+        "license": null,
+        "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+        "evidencePath": "content/sources/zipzippipe-chatgpt.json",
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      },
+      "prompt": {
+        "path": "openai/prompt.txt",
+        "sha256": "f0212bee0bbcc623415f2ced246c4835548e63c2363eccd1e6ec249aae979816"
+      },
+      "request": {
+        "path": "openai/request.json",
+        "sha256": "c46af5053ff8dbfa5fb76b5a1e0d1b804990f07fbf874b2985a2dcb6a2d48561"
+      },
+      "processing": [
+        {
+          "operation": "image-generation-style-transfer",
+          "generator": "built-in image_gen",
+          "parentSha256": "354cd19c293391a92693a4a1a9b99e5125e9f73bb85c2709492ebaacab5a31d9",
+          "promptSha256": "f0212bee0bbcc623415f2ced246c4835548e63c2363eccd1e6ec249aae979816"
+        },
+        {
+          "operation": "byte-preserving-copy",
+          "sourceSha256": "45d109267fbd21362eb236725fdad1725ba63365dc119404de49caad95fd2f29",
+          "outputSha256": "45d109267fbd21362eb236725fdad1725ba63365dc119404de49caad95fd2f29",
+          "resized": false,
+          "cropped": false,
+          "retouched": false
+        }
+      ],
+      "visualReview": {
+        "method": "actual-image-inspection",
+        "identity": "Hair palette, eye colors, original expression, costume and key accessories retained. K and Z lettering omitted to follow the no-text instruction.",
+        "style": "Rough dark contours, grouped opaque color blocks and visible crayon texture. Hair silhouettes remain more regular than the extreme casual-doodle target. White background with narrow margins.",
+        "approval": "pending-user-review"
+      }
+    },
+    {
+      "id": "gemini",
+      "name": {
+        "zh": "Gemini",
+        "en": "Gemini",
+        "ja": "Gemini"
+      },
+      "image": {
+        "path": "gemini/doodle-v1.png",
+        "sha256": "a4a9c6cde4cc93825980310d5484ef98f98cec836eab04946af388ac313ab0a7",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 2098586
+      },
+      "reference": {
+        "path": "gemini/reference.png",
+        "sourcePath": "public/generated/super-chibi-v1/gemini/turnaround-v2.png",
+        "sha256": "3c77ae61c247f0eb6030138d0963ee7efde3e1eb7d0910841569f50f19bc46d6",
+        "upstreamRevision": 2
+      },
+      "attribution": [
+        {
+          "name": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994",
+          "role": "community-design",
+          "publication": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "sourceVideo": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceVideoPublisher": "想看故事的lazy",
+      "rights": {
+        "status": "adaptation-permission-not-established",
+        "license": null,
+        "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+        "evidencePath": "content/sources/zipzippipe-gemini.json",
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      },
+      "prompt": {
+        "path": "gemini/prompt.txt",
+        "sha256": "714af4a26d9506095c276498968b7e73effb040b39dc84d93bb6faf4a9bd7452"
+      },
+      "request": {
+        "path": "gemini/request.json",
+        "sha256": "ea191b300f82fb90a9c5b5ebad7f3e1fd774b4aa55f2e78b97e757e324235539"
+      },
+      "processing": [
+        {
+          "operation": "image-generation-style-transfer",
+          "generator": "built-in image_gen",
+          "parentSha256": "3c77ae61c247f0eb6030138d0963ee7efde3e1eb7d0910841569f50f19bc46d6",
+          "promptSha256": "714af4a26d9506095c276498968b7e73effb040b39dc84d93bb6faf4a9bd7452"
+        },
+        {
+          "operation": "byte-preserving-copy",
+          "sourceSha256": "a4a9c6cde4cc93825980310d5484ef98f98cec836eab04946af388ac313ab0a7",
+          "outputSha256": "a4a9c6cde4cc93825980310d5484ef98f98cec836eab04946af388ac313ab0a7",
+          "resized": false,
+          "cropped": false,
+          "retouched": false
+        }
+      ],
+      "visualReview": {
+        "method": "actual-image-inspection",
+        "identity": "Hair palette, eye colors, original expression, costume and key accessories retained. K and Z lettering omitted to follow the no-text instruction.",
+        "style": "Rough dark contours, grouped opaque color blocks and visible crayon texture. Hair silhouettes remain more regular than the extreme casual-doodle target. White background with narrow margins.",
+        "approval": "pending-user-review"
+      }
+    },
+    {
+      "id": "claude",
+      "name": {
+        "zh": "Claude",
+        "en": "Claude",
+        "ja": "Claude"
+      },
+      "image": {
+        "path": "claude/doodle-v1.png",
+        "sha256": "5d17ab4782714a4a175e7128b1d09933b48d2d174357aef32e8e1c3e2b092111",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 2333013
+      },
+      "reference": {
+        "path": "claude/reference.png",
+        "sourcePath": "public/generated/super-chibi-v1/claude/turnaround-v1.png",
+        "sha256": "09df59c8e6889c3e439291b928c30f2cb4f87a692c994637440bd670aab29fed",
+        "upstreamRevision": 1
+      },
+      "attribution": [
+        {
+          "name": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994",
+          "role": "community-design",
+          "publication": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "sourceVideo": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceVideoPublisher": "想看故事的lazy",
+      "rights": {
+        "status": "adaptation-permission-not-established",
+        "license": null,
+        "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+        "evidencePath": "content/sources/zipzippipe-claude.json",
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      },
+      "prompt": {
+        "path": "claude/prompt.txt",
+        "sha256": "be4e90771ab54c73a83039f12e81a9fbca4c544744f9ecd1408b5ca8d38887b5"
+      },
+      "request": {
+        "path": "claude/request.json",
+        "sha256": "823012777855cb1a8ce1ce3e8910bfc5d48ad0efdb950aa90ff4792e79e73a3c"
+      },
+      "processing": [
+        {
+          "operation": "image-generation-style-transfer",
+          "generator": "built-in image_gen",
+          "parentSha256": "09df59c8e6889c3e439291b928c30f2cb4f87a692c994637440bd670aab29fed",
+          "promptSha256": "be4e90771ab54c73a83039f12e81a9fbca4c544744f9ecd1408b5ca8d38887b5"
+        },
+        {
+          "operation": "byte-preserving-copy",
+          "sourceSha256": "5d17ab4782714a4a175e7128b1d09933b48d2d174357aef32e8e1c3e2b092111",
+          "outputSha256": "5d17ab4782714a4a175e7128b1d09933b48d2d174357aef32e8e1c3e2b092111",
+          "resized": false,
+          "cropped": false,
+          "retouched": false
+        }
+      ],
+      "visualReview": {
+        "method": "actual-image-inspection",
+        "identity": "Hair palette, eye colors, original expression, costume and key accessories retained. K and Z lettering omitted to follow the no-text instruction.",
+        "style": "Rough dark contours, grouped opaque color blocks and visible crayon texture. Hair silhouettes remain more regular than the extreme casual-doodle target. White background with narrow margins.",
+        "approval": "pending-user-review"
+      }
+    },
+    {
+      "id": "deepseek",
+      "name": {
+        "zh": "DeepSeek",
+        "en": "DeepSeek",
+        "ja": "DeepSeek"
+      },
+      "image": {
+        "path": "deepseek/doodle-v1.png",
+        "sha256": "2fcd648594e495ceb0a1ec7aec957c4e2f53ef17b49e16ec74aec72416a58e9a",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 1915113
+      },
+      "reference": {
+        "path": "deepseek/reference.png",
+        "sourcePath": "public/generated/super-chibi-v1/deepseek/turnaround-v1.png",
+        "sha256": "9b743a37c8c0edee165dd629acb90f4d4d65e58943bc30c428bd19dfe8f0900f",
+        "upstreamRevision": 1
+      },
+      "attribution": [
+        {
+          "name": "上善无形",
+          "url": "https://space.bilibili.com/4456176",
+          "role": "original-character",
+          "publication": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "name": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994",
+          "role": "community-design",
+          "publication": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "sourceVideo": "https://www.bilibili.com/video/BV1Brtc63EyW/",
+      "sourceVideoPublisher": "AI梗百科",
+      "rights": {
+        "status": "upstream-sharealike-statement",
+        "license": "CC-BY-NC-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "evidencePath": "public/collected/shangshan-whale/source.json",
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      },
+      "prompt": {
+        "path": "deepseek/prompt.txt",
+        "sha256": "40948af2db5966d5d12fad0f94119f1e06aa8f03f0f64e24750e25a8c7820d56"
+      },
+      "request": {
+        "path": "deepseek/request.json",
+        "sha256": "7fada82e20d8fb7947cb83401e589babeeb7d5fda054d6e2f8393bbef77ee120"
+      },
+      "processing": [
+        {
+          "operation": "image-generation-style-transfer",
+          "generator": "built-in image_gen",
+          "parentSha256": "9b743a37c8c0edee165dd629acb90f4d4d65e58943bc30c428bd19dfe8f0900f",
+          "promptSha256": "40948af2db5966d5d12fad0f94119f1e06aa8f03f0f64e24750e25a8c7820d56"
+        },
+        {
+          "operation": "byte-preserving-copy",
+          "sourceSha256": "2fcd648594e495ceb0a1ec7aec957c4e2f53ef17b49e16ec74aec72416a58e9a",
+          "outputSha256": "2fcd648594e495ceb0a1ec7aec957c4e2f53ef17b49e16ec74aec72416a58e9a",
+          "resized": false,
+          "cropped": false,
+          "retouched": false
+        }
+      ],
+      "visualReview": {
+        "method": "actual-image-inspection",
+        "identity": "Hair palette, eye colors, original expression, costume and key accessories retained. K and Z lettering omitted to follow the no-text instruction.",
+        "style": "Rough dark contours, grouped opaque color blocks and visible crayon texture. Hair silhouettes remain more regular than the extreme casual-doodle target. White background with narrow margins.",
+        "approval": "pending-user-review"
+      }
+    },
+    {
+      "id": "kimi",
+      "name": {
+        "zh": "Kimi",
+        "en": "Kimi",
+        "ja": "Kimi"
+      },
+      "image": {
+        "path": "kimi/doodle-v1.png",
+        "sha256": "f139a8ce606415a7f6ffc02810f721eb56e1dfba7059d3d5b520e3f75590c828",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 2129948
+      },
+      "reference": {
+        "path": "kimi/reference.png",
+        "sourcePath": "public/generated/super-chibi-v1/kimi/turnaround-v2.png",
+        "sha256": "83b4a4fbea1e6e5210ea5c627d7c16fd92a274ec70b2c873a5d1ccd1da9e977e",
+        "upstreamRevision": 2
+      },
+      "attribution": [
+        {
+          "name": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994",
+          "role": "community-design",
+          "publication": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "sourceVideo": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceVideoPublisher": "想看故事的lazy",
+      "rights": {
+        "status": "adaptation-permission-not-established",
+        "license": null,
+        "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+        "evidencePath": "content/sources/zipzippipe-kimi.json",
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      },
+      "prompt": {
+        "path": "kimi/prompt.txt",
+        "sha256": "64032dce1cb8403f4f6c1e0ea7f31b0139cbe5d58ab69d7bb2141769802f65b0"
+      },
+      "request": {
+        "path": "kimi/request.json",
+        "sha256": "0e6bd90b89e95e061e1fb9d92a3ef893a4e3fb70b1950a408f55f3c98eab8d5b"
+      },
+      "processing": [
+        {
+          "operation": "image-generation-style-transfer",
+          "generator": "built-in image_gen",
+          "parentSha256": "83b4a4fbea1e6e5210ea5c627d7c16fd92a274ec70b2c873a5d1ccd1da9e977e",
+          "promptSha256": "64032dce1cb8403f4f6c1e0ea7f31b0139cbe5d58ab69d7bb2141769802f65b0"
+        },
+        {
+          "operation": "byte-preserving-copy",
+          "sourceSha256": "f139a8ce606415a7f6ffc02810f721eb56e1dfba7059d3d5b520e3f75590c828",
+          "outputSha256": "f139a8ce606415a7f6ffc02810f721eb56e1dfba7059d3d5b520e3f75590c828",
+          "resized": false,
+          "cropped": false,
+          "retouched": false
+        }
+      ],
+      "visualReview": {
+        "method": "actual-image-inspection",
+        "identity": "Hair palette, eye colors, original expression, costume and key accessories retained. K and Z lettering omitted to follow the no-text instruction.",
+        "style": "Rough dark contours, grouped opaque color blocks and visible crayon texture. Hair silhouettes remain more regular than the extreme casual-doodle target. White background with narrow margins.",
+        "approval": "pending-user-review"
+      }
+    },
+    {
+      "id": "qwen",
+      "name": {
+        "zh": "Qwen 千问",
+        "en": "Qwen",
+        "ja": "Qwen 千問"
+      },
+      "image": {
+        "path": "qwen/doodle-v1.png",
+        "sha256": "247391e772ee474a1da322c7c8af83e9dc02feda7e545c606baf3def597f03b8",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 1991016
+      },
+      "reference": {
+        "path": "qwen/reference.png",
+        "sourcePath": "public/generated/super-chibi-v1/qwen/turnaround-v2.png",
+        "sha256": "783f7704b60a03c7b5563f73f40378710105ccc177078613e8734c53b0d39f12",
+        "upstreamRevision": 2
+      },
+      "attribution": [
+        {
+          "name": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994",
+          "role": "community-design",
+          "publication": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "sourceVideo": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "sourceVideoPublisher": "想看故事的lazy",
+      "rights": {
+        "status": "adaptation-permission-not-established",
+        "license": null,
+        "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+        "evidencePath": "content/sources/zipzippipe-qwen.json",
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      },
+      "prompt": {
+        "path": "qwen/prompt.txt",
+        "sha256": "f5d491fe7c3abd23608c2ece4794a29b9dfefc09624523ae8bfa501a3ce9eaa6"
+      },
+      "request": {
+        "path": "qwen/request.json",
+        "sha256": "76d4f960927e52137a178595e881a5da5348e82466a104ef9bb3e47326f053df"
+      },
+      "processing": [
+        {
+          "operation": "image-generation-style-transfer",
+          "generator": "built-in image_gen",
+          "parentSha256": "783f7704b60a03c7b5563f73f40378710105ccc177078613e8734c53b0d39f12",
+          "promptSha256": "f5d491fe7c3abd23608c2ece4794a29b9dfefc09624523ae8bfa501a3ce9eaa6"
+        },
+        {
+          "operation": "byte-preserving-copy",
+          "sourceSha256": "247391e772ee474a1da322c7c8af83e9dc02feda7e545c606baf3def597f03b8",
+          "outputSha256": "247391e772ee474a1da322c7c8af83e9dc02feda7e545c606baf3def597f03b8",
+          "resized": false,
+          "cropped": false,
+          "retouched": false
+        }
+      ],
+      "visualReview": {
+        "method": "actual-image-inspection",
+        "identity": "Hair palette, eye colors, original expression, costume and key accessories retained. K and Z lettering omitted to follow the no-text instruction.",
+        "style": "Rough dark contours, grouped opaque color blocks and visible crayon texture. Hair silhouettes remain more regular than the extreme casual-doodle target. White background with narrow margins.",
+        "approval": "pending-user-review"
+      }
+    },
+    {
+      "id": "glm",
+      "name": {
+        "zh": "GLM",
+        "en": "GLM",
+        "ja": "GLM"
+      },
+      "image": {
+        "path": "glm/doodle-v1.png",
+        "sha256": "d1e714bbd16e8436c42ec3348aea4b91f49327a7b9ef6904415f5985e760cadd",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 2116003
+      },
+      "reference": {
+        "path": "glm/reference.png",
+        "sourcePath": "public/generated/super-chibi-v1/glm/turnaround-v1.png",
+        "sha256": "3d8c3ee0b420d4d5c8262dc42bf3a6282cb46816dc01a1cde4235132776d3c7e",
+        "upstreamRevision": 1
+      },
+      "attribution": [],
+      "sourceVideo": "https://www.bilibili.com/video/BV1iDeQ6fEFi/",
+      "sourceVideoPublisher": null,
+      "rights": {
+        "status": "creator-and-adaptation-permission-unverified",
+        "license": null,
+        "licenseUrl": null,
+        "evidencePath": null,
+        "newLicenseGranted": false,
+        "inDownloadPacks": false
+      },
+      "prompt": {
+        "path": "glm/prompt.txt",
+        "sha256": "facb050802d4db065e824d904c694ba22701bc6796ae6997235921f09194a034"
+      },
+      "request": {
+        "path": "glm/request.json",
+        "sha256": "482ea43daf8cab6a73d69b5b86477c82657925ed8bd8a92eb10af36ed44e674c"
+      },
+      "processing": [
+        {
+          "operation": "image-generation-style-transfer",
+          "generator": "built-in image_gen",
+          "parentSha256": "3d8c3ee0b420d4d5c8262dc42bf3a6282cb46816dc01a1cde4235132776d3c7e",
+          "promptSha256": "facb050802d4db065e824d904c694ba22701bc6796ae6997235921f09194a034"
+        },
+        {
+          "operation": "byte-preserving-copy",
+          "sourceSha256": "d1e714bbd16e8436c42ec3348aea4b91f49327a7b9ef6904415f5985e760cadd",
+          "outputSha256": "d1e714bbd16e8436c42ec3348aea4b91f49327a7b9ef6904415f5985e760cadd",
+          "resized": false,
+          "cropped": false,
+          "retouched": false
+        }
+      ],
+      "visualReview": {
+        "method": "actual-image-inspection",
+        "identity": "Hair palette, eye colors, original expression, costume and key accessories retained. K and Z lettering omitted to follow the no-text instruction.",
+        "style": "Rough dark contours, grouped opaque color blocks and visible crayon texture. Hair silhouettes remain more regular than the extreme casual-doodle target. White background with narrow margins.",
+        "approval": "pending-user-review"
+      }
+    }
+  ],
+  "sourceSnapshots": [
+    {
+      "sourcePath": "content/sources/shangshan-whale.json",
+      "path": "provenance/content/sources/shangshan-whale.json",
+      "sha256": "4093866614ee45b97e45f95904ffb91288fa3fdabe112fa53866267c51e4cd64"
+    },
+    {
+      "sourcePath": "content/sources/zipzippipe-chatgpt.json",
+      "path": "provenance/content/sources/zipzippipe-chatgpt.json",
+      "sha256": "4d6621aa68e879d61e3922d0198852457dbfa71a515b6e5ee8b6386b8baf4503"
+    },
+    {
+      "sourcePath": "content/sources/zipzippipe-claude.json",
+      "path": "provenance/content/sources/zipzippipe-claude.json",
+      "sha256": "e6499e7c92d8d4dcff0b378dc4dc6a0ac0147b617536fd5480889144e5e703dc"
+    },
+    {
+      "sourcePath": "content/sources/zipzippipe-gemini.json",
+      "path": "provenance/content/sources/zipzippipe-gemini.json",
+      "sha256": "5bc4d6c6e306f5f031d9e31bbd77d15ebce76824c5915cbe889dca7be290891e"
+    },
+    {
+      "sourcePath": "content/sources/zipzippipe-kimi.json",
+      "path": "provenance/content/sources/zipzippipe-kimi.json",
+      "sha256": "03804a7cb61c11aeee3cd9732ae83d981dba485d35214eb5b15e1e13297c7b5b"
+    },
+    {
+      "sourcePath": "content/sources/zipzippipe-qwen.json",
+      "path": "provenance/content/sources/zipzippipe-qwen.json",
+      "sha256": "53e62796b7e405cdd77e139e5b8063a8bab0987fd1f27729321f676f56218aef"
+    },
+    {
+      "sourcePath": "public/generated/ai-models-v5/manifest.json",
+      "path": "provenance/public/generated/ai-models-v5/manifest.json",
+      "sha256": "b6a77ccceb6330fb30a8fd0b09673e8dae98bafc7c2e5a520cde96d3d8845851"
+    },
+    {
+      "sourcePath": "public/generated/super-chibi-v1/glm/identity-asset.json",
+      "path": "provenance/public/generated/super-chibi-v1/glm/identity-asset.json",
+      "sha256": "40fbda29fe11fd64c65d38da0f766c00e6f9f579834d353845a36ce872422d75"
+    },
+    {
+      "sourcePath": "public/generated/super-chibi-v1/manifest.json",
+      "path": "provenance/public/generated/super-chibi-v1/manifest.json",
+      "sha256": "8f65956e29cdc4df49ed001f585301501c6a1461d38933f20d21fd80568f4637"
+    }
+  ]
+}

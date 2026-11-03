@@ -6,6 +6,33 @@
 
 ## [打开 AI 萌化图鉴 →](https://selinlee.github.io/ai-moe-atlas/)
 
+## 日系粗糙数字涂鸦 · 提示词模板
+
+2026-11-03 · 七位现有角色的生成派生展示图，统一为 1254 × 1254 白底半身像。使用内置 image_gen，以当前 Q 版三视图中的正面形象为身份参考。
+
+<table>
+  <tr>
+    <td align="center" width="33%"><strong>GPT</strong><br><a href="public/generated/rough-doodle-v1/openai/doodle-v1.png"><img src="public/generated/rough-doodle-v1/openai/preview.webp" width="280" alt="GPT · 日系粗糙数字涂鸦 · 提示词模板"></a></td>
+    <td align="center" width="33%"><strong>Gemini</strong><br><a href="public/generated/rough-doodle-v1/gemini/doodle-v1.png"><img src="public/generated/rough-doodle-v1/gemini/preview.webp" width="280" alt="Gemini · 日系粗糙数字涂鸦 · 提示词模板"></a></td>
+    <td align="center" width="33%"><strong>Claude</strong><br><a href="public/generated/rough-doodle-v1/claude/doodle-v1.png"><img src="public/generated/rough-doodle-v1/claude/preview.webp" width="280" alt="Claude · 日系粗糙数字涂鸦 · 提示词模板"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><strong>DeepSeek</strong><br><a href="public/generated/rough-doodle-v1/deepseek/doodle-v1.png"><img src="public/generated/rough-doodle-v1/deepseek/preview.webp" width="280" alt="DeepSeek · 日系粗糙数字涂鸦 · 提示词模板"></a></td>
+    <td align="center" width="33%"><strong>Kimi</strong><br><a href="public/generated/rough-doodle-v1/kimi/doodle-v1.png"><img src="public/generated/rough-doodle-v1/kimi/preview.webp" width="280" alt="Kimi · 日系粗糙数字涂鸦 · 提示词模板"></a></td>
+    <td align="center" width="33%"><strong>Qwen 千问</strong><br><a href="public/generated/rough-doodle-v1/qwen/doodle-v1.png"><img src="public/generated/rough-doodle-v1/qwen/preview.webp" width="280" alt="Qwen 千问 · 日系粗糙数字涂鸦 · 提示词模板"></a></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><strong>GLM</strong><br><a href="public/generated/rough-doodle-v1/glm/doodle-v1.png"><img src="public/generated/rough-doodle-v1/glm/preview.webp" width="280" alt="GLM · 日系粗糙数字涂鸦 · 提示词模板"></a></td>
+    <td align="center" colspan="2"><a href="docs/DOODLE.zh.md">可复制模板 →</a></td>
+  </tr>
+</table>
+
+基于现有角色参考生成的风格派生图。按维护者本次要求用于 GitHub 展示，逐件保留署名与许可状态。
+
+GPT、Gemini、Claude、Kimi、千问的社区设计出自 ZipZipPipe。DeepSeek 的署名链为上善无形 → ZipZipPipe。GLM 狐娘依据视频 BV1iDeQ6fEFi，原设计作者尚未确认。
+
+[可复制模板](docs/DOODLE.zh.md) · [文件、SHA-256 与处理记录](public/generated/rough-doodle-v1/manifest.json)
+
 ## 主页主视觉 · Q 版二头身三视图
 
 来自 ai_video 的 7 位角色，每张均为正面、左侧面、背面三视图。Gemini、Kimi、Qwen 采用 2026-10-29 更新的 V2，其余采用当前 V1；点击图片查看完整 PNG。
