@@ -2,11 +2,43 @@
 
 [中文](README.md) · [English](README.en.md) · [日本語](README.ja.md)
 
-What if your everyday AI had a character of its own? Explore collected AI-inspired artwork, meet the creators, and find assets with recorded usage terms.
+Find AI character designs and their creators, download assets under each artwork’s terms, or make credited avatars, portraits and introduction cards in your browser.
 
-## [Explore AI Moe Atlas →](https://selinlee.github.io/ai-moe-atlas/)
+[Find a character or artist](https://selinlee.github.io/ai-moe-atlas/en/) · [Download asset packs](https://selinlee.github.io/ai-moe-atlas/en/assets/) · [Open the studio](https://selinlee.github.io/ai-moe-atlas/en/studio/)
 
-## Rough anime digital doodles · Prompt template
+<p>
+  <a href="public/generated/rough-doodle-v1/openai/doodle-v1.png"><img src="public/generated/rough-doodle-v1/openai/preview.webp" width="96" alt="GPT"></a>
+  <a href="public/generated/rough-doodle-v1/gemini/doodle-v1.png"><img src="public/generated/rough-doodle-v1/gemini/preview.webp" width="96" alt="Gemini"></a>
+  <a href="public/generated/rough-doodle-v1/claude/doodle-v1.png"><img src="public/generated/rough-doodle-v1/claude/preview.webp" width="96" alt="Claude"></a>
+</p>
+
+GPT, Gemini and Claude are based on community designs by ZipZipPipe. The doodles above are AI-generated adaptations. [Sources and terms](docs/DOODLE.en.md)
+
+## Resource directory
+
+| What you want to do | Where to start |
+| --- | --- |
+| Find a character or artist | Filter the [character atlas](https://selinlee.github.io/ai-moe-atlas/en/) by AI product or art style, then follow an entry to the original work. |
+| Download artwork | The [asset library](https://selinlee.github.io/ai-moe-atlas/en/assets/) offers 13 ZIP packs with originals, processing records and credits. Check the [terms for each artwork](RIGHTS.md) before use. |
+| Make an avatar, portrait or introduction card | Choose artwork and a layout in the [studio](https://selinlee.github.io/ai-moe-atlas/en/studio/), preview the result and export it with credits. You can also work locally with your own unpublished art. [Studio guide](docs/STUDIO.en.md) |
+| Inspect a design | Compare [7 chibi turnarounds](https://selinlee.github.io/ai-moe-atlas/en/chibi/) and [6 standard and chibi reference sheets](https://selinlee.github.io/ai-moe-atlas/en/references/), or rotate the [Whale Maid 3D model](https://selinlee.github.io/ai-moe-atlas/en/characters/deep-whale-maid/#model-preview). |
+| Draw a similar doodle | The [doodle prompt template](docs/DOODLE.en.md) includes a copyable prompt and examples of character features. |
+| Contribute a source | Check the [source records](content/sources/), then follow the [contribution guide](docs/CONTRIBUTING.en.md) to submit an original post or creator statement. |
+
+## Timeline and open items
+
+| Date / status | Progress |
+| --- | --- |
+| 2026-09-29 · Collected | Artwork was available to view and download for 11 of 12 AI products. Copilot had a source link only. [Coverage record](docs/BASELINES.en.md) |
+| 2026-10 · Published | Six character reference sheets were archived on Oct 8. Whale Maid v0.5 followed on Oct 11 and seven chibi turnarounds on Oct 31. |
+| 2026-11-03 · Published | Seven character doodles and their prompt template were added. |
+| Open · Copilot | Find a high-resolution creator original and verify display and redistribution terms before adding assets. [Candidate record](docs/BASELINES.en.md) |
+| Open · GLM fox-girl | Trace the design in video BV1iDeQ6fEFi to its original artist and verify adaptation terms. [Attribution record](docs/CHIBI.en.md) |
+
+## Character galleries
+
+<details>
+<summary>7 character doodles and their prompt</summary>
 
 November 3, 2026 · Generated style adaptations of seven existing characters, each a 1254 × 1254 half-body portrait on white. Created with built-in image_gen using the front view of the current chibi sheets as the identity reference.
 
@@ -33,7 +65,10 @@ Community designs for GPT, Gemini, Claude, Kimi and Qwen are by ZipZipPipe. Deep
 
 [Copyable template](docs/DOODLE.en.md) · [Files, SHA-256 and processing records](public/generated/rough-doodle-v1/manifest.json)
 
-## Main visual · Two-head chibi turnarounds
+</details>
+
+<details>
+<summary>7 chibi turnarounds</summary>
 
 Seven characters from ai_video, each with front, left-profile and back views. Gemini, Kimi and Qwen use V2 updated on October 29, 2026; the others use the current V1. Click a sheet for the full PNG.
 
@@ -62,10 +97,10 @@ Generated turnaround adaptations from ai_video, not official characters or creat
 
 [Turnarounds, sources and usage notes](docs/CHIBI.en.md) · [Files and processing records](public/generated/super-chibi-v1/manifest.json)
 
+</details>
+
 <details>
 <summary>Earlier v5 references · Standard and chibi</summary>
-
-## Homepage identities · ai-models-v5
 
 Six fixed identity sheets from ai_video, each with standard and chibi proportions. Preserved PNGs, prompts, video sources, attribution and SHA-256 records are included.
 
@@ -81,45 +116,38 @@ Generated adaptations of community character designs, not official mascots, crea
 
 [Identity archive and sources](docs/REFERENCES.en.md) · [Files and processing records](public/generated/ai-models-v5/manifest.json)
 
-
-
 </details>
 
-## Whale Maid · 3D model and multi-view reference
+<details>
+<summary>Whale Maid 3D model and multi-view reference</summary>
 
 <table>
   <tr>
-    <th>Full-body 3D model v0.4</th>
+    <th>Full-body 3D model v0.5</th>
     <th>AI-generated multi-view reference v2</th>
   </tr>
   <tr>
-    <td align="center" width="32%"><a href="https://selinlee.github.io/ai-moe-atlas/en/characters/deep-whale-maid/#model-preview"><img src="public/models/deep-whale-maid/v0.4.0/poster.webp" width="260" alt="Full-body 3D model v0.4"></a><br><a href="https://selinlee.github.io/ai-moe-atlas/en/characters/deep-whale-maid/#model-preview">Open the rotatable 3D preview</a></td>
+    <td align="center" width="32%"><a href="https://selinlee.github.io/ai-moe-atlas/en/characters/deep-whale-maid/#model-preview"><img src="public/models/deep-whale-maid/v0.5.0/poster.webp" width="260" alt="Full-body 3D model v0.5"></a><br><a href="https://selinlee.github.io/ai-moe-atlas/en/characters/deep-whale-maid/#model-preview">Open the rotatable 3D preview</a></td>
     <td align="center" width="68%"><a href="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png"><img src="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png" width="640" alt="AI-generated multi-view reference v2"></a><br><a href="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png">View the full reference sheet</a></td>
   </tr>
 </table>
 
-v0.4 adds depth to the skull, torso and clothing, a shorter rounded chin, wider eye spacing and blue iris gradients. It remains a static full-body model with no rig or animation. The AI reference sheet on the right contains four full-body views and three face studies and guided this refinement. Side, back, legs and hidden details are inferred designs, not original creator designs or calibrated orthographic views.
+Whale Maid v0.5 is a static full-body model you can rotate and zoom. This release refines the backward curve of the tail. The AI-generated modeling reference on the right contains four body views and three face studies. Side, rear and obscured details are inferred.
 
 上善无形 → ZipZipPipe → Small-tailqwq; AI Moe Atlas generated the derivative reference. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) · [Attribution, sources and use notes](public/models/deep-whale-maid/README.md).
 
-## What you can do
+</details>
 
-- Browse 26 source entries, 12 AI products/families, and 8 featured characters. Atlas display uses for 13 entries were checked against retained evidence; 13 asset packs are downloadable.
-- Share search, product, style, and entry-type filters in a link; restore them across reloads, browser history, and language changes.
-- The studio offers full-portrait and avatar canvases, reviewed introduction cards, and custom settings. Export matches the visibly credited preview; the ZIP preserves originals, evidence and processing records.
-- Unpublished original work needs no public URL. Supply a creator, usage statement and original-work confirmation; it stays in the local export and is never added to the public atlas.
-
-For discovering characters, finding artists, and preparing credited non-commercial assets. Images stay in your browser. Read each artwork’s terms.
-
-[Browse all characters in English](https://selinlee.github.io/ai-moe-atlas/en/) · [Open the studio](https://selinlee.github.io/ai-moe-atlas/en/studio/)
-
-## 15-second walkthrough
+<details>
+<summary>15-second walkthrough</summary>
 
 ![Actual filtered results (link-only entry, no third-party artwork)](public/demo/discovery-en.png)
 
 [15-second walkthrough · MP4](public/demo/discovery-en.mp4)
 
 Recorded in local Chrome, with five steps held for 3 seconds each: filter by style → choose a product → search and copy → reopen results → view the entry. The example is link-only and contains no third-party artwork. This is not a full export tutorial.
+
+</details>
 
 ## Terms and provenance
 

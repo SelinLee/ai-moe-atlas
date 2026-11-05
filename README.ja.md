@@ -2,11 +2,43 @@
 
 [中文](README.md) · [English](README.en.md) · [日本語](README.ja.md)
 
-いつもの AI がキャラクターになったら？公開済みの AI 萌え作品を集めた図鑑で、気になる姿から作者と出典をたどり、利用条件を確認して素材を探せます。
+AI の擬人化キャラクターと作者を探し、作品ごとの利用条件を確認して素材をダウンロードできます。ブラウザ上でクレジット付きのアイコン、立ち絵、紹介カードも作れます。
 
-## [AI 萌え図鑑を開く →](https://selinlee.github.io/ai-moe-atlas/)
+[キャラクターと作者を探す](https://selinlee.github.io/ai-moe-atlas/ja/) · [素材パックを入手する](https://selinlee.github.io/ai-moe-atlas/ja/assets/) · [素材工房を開く](https://selinlee.github.io/ai-moe-atlas/ja/studio/)
 
-## ラフな萌えキャラ落書き · プロンプトテンプレート
+<p>
+  <a href="public/generated/rough-doodle-v1/openai/doodle-v1.png"><img src="public/generated/rough-doodle-v1/openai/preview.webp" width="96" alt="GPT"></a>
+  <a href="public/generated/rough-doodle-v1/gemini/doodle-v1.png"><img src="public/generated/rough-doodle-v1/gemini/preview.webp" width="96" alt="Gemini"></a>
+  <a href="public/generated/rough-doodle-v1/claude/doodle-v1.png"><img src="public/generated/rough-doodle-v1/claude/preview.webp" width="96" alt="Claude"></a>
+</p>
+
+上の3点は、ZipZipPipe による GPT・Gemini・Claude のキャラクターデザインをもとに AI で生成したイラストです。 [出典と利用条件](docs/DOODLE.ja.md)
+
+## リソース一覧
+
+| やりたいこと | リンク・使い方 |
+| --- | --- |
+| キャラクターや作者を探す | [キャラクター図鑑](https://selinlee.github.io/ai-moe-atlas/ja/)を AI 製品や画風で絞り込み、各項目から原作をたどれます。 |
+| 素材を入手する | [素材ライブラリ](https://selinlee.github.io/ai-moe-atlas/ja/assets/)には原画像・加工記録・クレジットを含む ZIP が13組あります。利用前に[作品ごとの条件](RIGHTS.md)をご確認ください。 |
+| アイコン・立ち絵・紹介カードを作る | [素材工房](https://selinlee.github.io/ai-moe-atlas/ja/studio/)で作品とレイアウトを選び、プレビューを確認してクレジット付きで書き出せます。自分の未公開作品はローカルで加工できます。[工房ガイド](docs/STUDIO.ja.md) |
+| キャラクターの造形を調べる | [ちびキャラ三面図7点](https://selinlee.github.io/ai-moe-atlas/ja/chibi/)と[通常頭身・ちびキャラの設定資料6点](https://selinlee.github.io/ai-moe-atlas/ja/references/)を見比べたり、[クジラ娘の3Dモデル](https://selinlee.github.io/ai-moe-atlas/ja/characters/deep-whale-maid/#model-preview)を回転させて確認したりできます。 |
+| 同じ画風で描く | [落書き用プロンプト](docs/DOODLE.ja.md)に、コピー用テンプレートとキャラクターの特徴を記入する例があります。 |
+| 出典を提供する | [既存の出典記録](content/sources/)を確認し、[投稿ガイド](docs/CONTRIBUTING.ja.md)に沿って原作のリンクや作者の声明をお寄せください。 |
+
+## 収録の経緯と今後の調査項目
+
+| 時期・状況 | 内容 |
+| --- | --- |
+| 2026-09-29 · 収録済み | AI 製品12種のうち11種で画像の閲覧・ダウンロードが可能に。Copilot は出典リンクのみ。[収録記録](docs/BASELINES.ja.md) |
+| 2026-10 · 公開済み | 10月8日にキャラクター設定資料6点を収録。11日にクジラ娘の3Dモデル v0.5、31日にちびキャラ三面図7点を公開しました。 |
+| 2026-11-03 · 公開済み | キャラクターの落書き7点とプロンプトテンプレートを追加しました。 |
+| 要調査 · Copilot | 作者公開の高解像度原画を探し、表示と再配布の条件を確認してから素材を収録します。[候補記録](docs/BASELINES.ja.md) |
+| 要調査 · GLM の狐娘 | 動画 BV1iDeQ6fEFi から原案者をたどり、この姿の改変条件を確認します。[クレジット記録](docs/CHIBI.ja.md) |
+
+## キャラクターギャラリー
+
+<details>
+<summary>キャラクターの落書き7点とプロンプト</summary>
 
 2026年11月3日 · 既存の7キャラクターから生成した画風派生画像です。各画像は 1254 × 1254 の白背景・上半身。内蔵 image_gen を使い、現行ちびキャラ三面図の正面を形象の参照にしています。
 
@@ -33,7 +65,10 @@ GPT・Gemini・Claude・Kimi・Qwen のコミュニティデザインは ZipZipP
 
 [コピー用テンプレート](docs/DOODLE.ja.md) · [ファイル、SHA-256、処理記録](public/generated/rough-doodle-v1/manifest.json)
 
-## メインビジュアル · 約2頭身ちびキャラ三面図
+</details>
+
+<details>
+<summary>ちびキャラ三面図7点</summary>
 
 ai_video の7キャラクターを、正面・左側面・背面の三面図で紹介。Gemini・Kimi・Qwen は2026年10月29日更新の V2、それ以外は現行 V1 です。画像をクリックすると完全な PNG を表示します。
 
@@ -62,10 +97,10 @@ ai_video の生成派生三面図です。公式キャラクターや作者の�
 
 [三面図・出典・利用条件](docs/CHIBI.ja.md) · [ファイルと処理記録](public/generated/super-chibi-v1/manifest.json)
 
+</details>
+
 <details>
 <summary>以前の v5 形象資料 · 通常頭身とちびキャラ</summary>
-
-## ホームの形象 · ai-models-v5
 
 ai_video の固定形象資料6枚。各画像に通常頭身とちびキャラを収録し、元の PNG・プロンプト・参照動画・作者情報・SHA-256 を保存しています。
 
@@ -81,45 +116,38 @@ ai_video の固定形象資料6枚。各画像に通常頭身とちびキャラ�
 
 [形象資料と出典](docs/REFERENCES.ja.md) · [ファイルと加工記録](public/generated/ai-models-v5/manifest.json)
 
-
-
 </details>
 
-## クジラ娘 · 3Dモデルと多視点参考図
+<details>
+<summary>クジラ娘の3Dモデルと多視点資料</summary>
 
 <table>
   <tr>
-    <th>全身3Dモデル v0.4</th>
+    <th>全身3Dモデル v0.5</th>
     <th>AI生成の多視点参考図 v2</th>
   </tr>
   <tr>
-    <td align="center" width="32%"><a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/deep-whale-maid/#model-preview"><img src="public/models/deep-whale-maid/v0.4.0/poster.webp" width="260" alt="全身3Dモデル v0.4"></a><br><a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/deep-whale-maid/#model-preview">回転できる3Dプレビューを開く</a></td>
+    <td align="center" width="32%"><a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/deep-whale-maid/#model-preview"><img src="public/models/deep-whale-maid/v0.5.0/poster.webp" width="260" alt="全身3Dモデル v0.5"></a><br><a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/deep-whale-maid/#model-preview">回転できる3Dプレビューを開く</a></td>
     <td align="center" width="68%"><a href="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png"><img src="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png" width="640" alt="AI生成の多視点参考図 v2"></a><br><a href="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png">参考図を原寸で見る</a></td>
   </tr>
 </table>
 
-v0.4 は頭蓋・胴体・服の奥行きを増し、短く丸い顎、広めの目の間隔、青い虹彩のグラデーションを採用。リグとアニメーションは未実装の静止全身モデルです。右側の AI 参考図は全身4方向と顔3方向を収録し、今回の改良の設計参考として使用しました。側面・背面・脚・隠れた部分は推測による補完で、作者の原設定や寸法校正済みの正投影図ではありません。
+クジラ娘 v0.5 は回転・拡大して確認できる静止全身モデルです。尾が後ろへ曲がる形を調整しました。右は AI で生成したモデリング資料で、全身4方向と顔の習作3点を収録しています。側面・背面・隠れた部分の造形には推測を含みます。
 
 上善无形 → ZipZipPipe → Small-tailqwq。AI Moe Atlas による生成派生参考図。 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) · [クレジット・出典・利用上の注意](public/models/deep-whale-maid/README.md).
 
-## できること
+</details>
 
-- 出典付き26項目、AI 製品・シリーズ12種、ピックアップ8項目を閲覧。13項目の図鑑内表示用途を保存済み根拠と照合し、13組の素材集を提供しています。
-- 検索語・製品・スタイル・収録種別をリンクに保存。再読み込み、履歴移動、言語切り替えでも復元できます。
-- 工房で立ち絵・アイコン用キャンバス・用途確認済み紹介カード・カスタム設定を選択。クレジット付きプレビューと同じ画像を出力し、原本・根拠・加工記録を ZIP に保持します。
-- 本人の未公開作品は公開 URL 不要。作者・利用声明・オリジナル確認が必須です。ローカル出力のみで、公開図鑑には追加しません。
-
-キャラクターや作者の発見、出典付き非商用素材の制作に。画像はブラウザ内で処理されます。作品ごとの利用条件をご確認ください。
-
-[日本語で全キャラクターを見る](https://selinlee.github.io/ai-moe-atlas/ja/) · [素材工房を開く](https://selinlee.github.io/ai-moe-atlas/ja/studio/)
-
-## 15秒の操作デモ
+<details>
+<summary>15秒の操作デモ</summary>
 
 ![実際の絞り込み結果（出典索引のみ・第三者の作品画像なし）](public/demo/discovery-ja.png)
 
 [15秒の操作デモ · MP4](public/demo/discovery-ja.mp4)
 
 ローカル Chrome の実画面を各3秒ずつ表示する5ステップ：スタイルで絞る → 製品を選ぶ → 検索してリンクをコピー → 結果を開き直す → 項目を確認。出典リンクのみの項目を使用し、第三者の作品画像は含みません。書き出し全体のチュートリアルではありません。
+
+</details>
 
 ## 利用条件と出典
 
