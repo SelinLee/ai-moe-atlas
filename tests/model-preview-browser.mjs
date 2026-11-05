@@ -7,8 +7,27 @@ const model = JSON.parse(await readFile(manifestPath, 'utf8'));
 const executablePath = process.env.CHROME_PATH;
 const browser = await chromium.launch(executablePath ? { executablePath, headless: true } : { channel: 'chrome', headless: true });
 await mkdir('.qa', { recursive: true });
-const errors = [];
-try {
+async function checkArchivedWhaleMaid() {
+  const page = await browser.newPage();
+  for (const lang of ['zh', 'en', 'ja']) {
+    for (const route of ['', 'characters/deep-whale-maid/#model-preview']) {
+      const response = await page.goto(`${origin}/${lang}/${route}`);
+      assert.equal(response.status(), 200);
+      const archiveLinks = '[href*="models/deep-whale-maid"], [src*="models/deep-whale-maid"], [href*="deep-whale-maid/#model-preview"]';
+      assert.equal(await page.locator(archiveLinks).count(), 0);
+      if (route) {
+        assert.equal(await page.locator('#model-preview, [href="#model-preview"], model-viewer').count(), 0);
+        assert.ok(await page.locator('.detail-art img').isVisible());
+      } else {
+        assert.equal(await page.locator('[data-card] a[href*="deep-whale-maid"] .card-3d-badge').count(), 0);
+      }
+    }
+  }
+  console.log('Whale Maid is shown as 2D artwork only in all three locales.');
+}
+
+async function checkInteractivePreview() {
+  const errors = [];
   for (const lang of ['zh', 'en', 'ja']) {
     const context = await browser.newContext({ viewport: { width: 1440, height: 1000 }, reducedMotion: 'reduce' });
     const page = await context.newPage();
@@ -81,4 +100,9 @@ try {
   await noScript.close();
   assert.deepEqual(errors, []);
   console.log('3D preview: no-JavaScript fallback and uncaught-error check passed');
+}
+
+try {
+  if (model.characterId === 'deep-whale-maid') await checkArchivedWhaleMaid();
+  else await checkInteractivePreview();
 } finally { await browser.close(); }

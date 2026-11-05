@@ -21,7 +21,7 @@ AI の擬人化キャラクターと作者を探し、作品ごとの利用条�
 | キャラクターや作者を探す | [キャラクター図鑑](https://selinlee.github.io/ai-moe-atlas/ja/)を AI 製品や画風で絞り込み、各項目から原作をたどれます。 |
 | 素材を入手する | [素材ライブラリ](https://selinlee.github.io/ai-moe-atlas/ja/assets/)には原画像・加工記録・クレジットを含む ZIP が13組あります。利用前に[作品ごとの条件](RIGHTS.md)をご確認ください。 |
 | アイコン・立ち絵・紹介カードを作る | [素材工房](https://selinlee.github.io/ai-moe-atlas/ja/studio/)で作品とレイアウトを選び、プレビューを確認してクレジット付きで書き出せます。自分の未公開作品はローカルで加工できます。[工房ガイド](docs/STUDIO.ja.md) |
-| キャラクターの造形を調べる | [ちびキャラ三面図7点](https://selinlee.github.io/ai-moe-atlas/ja/chibi/)と[通常頭身・ちびキャラの設定資料6点](https://selinlee.github.io/ai-moe-atlas/ja/references/)を見比べたり、[クジラ娘の3Dモデル](https://selinlee.github.io/ai-moe-atlas/ja/characters/deep-whale-maid/#model-preview)を回転させて確認したりできます。 |
+| キャラクターの造形を調べる | [ちびキャラ三面図7点](https://selinlee.github.io/ai-moe-atlas/ja/chibi/)と[通常頭身・ちびキャラの設定資料6点](https://selinlee.github.io/ai-moe-atlas/ja/references/)を見比べられます。 |
 | 同じ画風で描く | [落書き用プロンプト](docs/DOODLE.ja.md)に、コピー用テンプレートとキャラクターの特徴を記入する例があります。 |
 | 出典を提供する | [既存の出典記録](content/sources/)を確認し、[投稿ガイド](docs/CONTRIBUTING.ja.md)に沿って原作のリンクや作者の声明をお寄せください。 |
 
@@ -30,7 +30,7 @@ AI の擬人化キャラクターと作者を探し、作品ごとの利用条�
 | 時期・状況 | 内容 |
 | --- | --- |
 | 2026-09-29 · 収録済み | AI 製品12種のうち11種で画像の閲覧・ダウンロードが可能に。Copilot は出典リンクのみ。[収録記録](docs/BASELINES.ja.md) |
-| 2026-10 · 公開済み | 10月8日にキャラクター設定資料6点を収録。11日にクジラ娘の3Dモデル v0.5、31日にちびキャラ三面図7点を公開しました。 |
+| 2026-10 · 公開済み | 10月8日にキャラクター設定資料6点を収録。31日にちびキャラ三面図7点を公開しました。 |
 | 2026-11-03 · 公開済み | キャラクターの落書き7点とプロンプトテンプレートを追加しました。 |
 | 要調査 · Copilot | 作者公開の高解像度原画を探し、表示と再配布の条件を確認してから素材を収録します。[候補記録](docs/BASELINES.ja.md) |
 | 要調査 · GLM の狐娘 | 動画 BV1iDeQ6fEFi から原案者をたどり、この姿の改変条件を確認します。[クレジット記録](docs/CHIBI.ja.md) |
@@ -119,26 +119,6 @@ ai_video の固定形象資料6枚。各画像に通常頭身とちびキャラ�
 </details>
 
 <details>
-<summary>クジラ娘の3Dモデルと多視点資料</summary>
-
-<table>
-  <tr>
-    <th>全身3Dモデル v0.5</th>
-    <th>AI生成の多視点参考図 v2</th>
-  </tr>
-  <tr>
-    <td align="center" width="32%"><a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/deep-whale-maid/#model-preview"><img src="public/models/deep-whale-maid/v0.5.0/poster.webp" width="260" alt="全身3Dモデル v0.5"></a><br><a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/deep-whale-maid/#model-preview">回転できる3Dプレビューを開く</a></td>
-    <td align="center" width="68%"><a href="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png"><img src="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png" width="640" alt="AI生成の多視点参考図 v2"></a><br><a href="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png">参考図を原寸で見る</a></td>
-  </tr>
-</table>
-
-クジラ娘 v0.5 は回転・拡大して確認できる静止全身モデルです。尾が後ろへ曲がる形を調整しました。右は AI で生成したモデリング資料で、全身4方向と顔の習作3点を収録しています。側面・背面・隠れた部分の造形には推測を含みます。
-
-上善无形 → ZipZipPipe → Small-tailqwq。AI Moe Atlas による生成派生参考図。 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) · [クレジット・出典・利用上の注意](public/models/deep-whale-maid/README.md).
-
-</details>
-
-<details>
 <summary>15秒の操作デモ</summary>
 
 ![実際の絞り込み結果（出典索引のみ・第三者の作品画像なし）](public/demo/discovery-ja.png)
@@ -153,7 +133,7 @@ ai_video の固定形象資料6枚。各画像に通常頭身とちびキャラ�
 
 上善无形の Bilibili 投稿、Small-tailqwq/dsh-deep-whale、[ZipZipPipe 本人の Pixiv 作品集](https://www.pixiv.net/artworks/148186519)から収集。従来の3組は **CC BY-NC-SA 4.0**。追加の GPT・Gemini・Claude・Kimi・Qwen・GLM・Grok・豆包・Llama・MiniMax の10組は作者の **クレジット必須・非商用** 条件に従い、DeepSeek の CC 許諾とは区別します。コードの MIT は第三者の画像には適用されません。
 
-作者が公開した高解像度原図を優先します。入手できない場合、収集した参照画像を基に同一の姿を保つ派生画像を生成できますが、作者・出典・加工履歴を保持し、生成派生物として別途明記します。作者の原図や復元された細部とは表記しません。クジラ娘の独立した生成参考図は上の3D欄に掲載しています。工房に生成処理は組み込んでいません。上流の許諾を拡大せず、無関係なキャラクターや設定の創作も認めません。
+作者が公開した高解像度原図を優先します。入手できない場合、収集した参照画像を基に同一の姿を保つ派生画像を生成できますが、作者・出典・加工履歴を保持し、生成派生物として別途明記します。作者の原図や復元された細部とは表記しません。工房に生成処理は組み込んでいません。上流の許諾を拡大せず、無関係なキャラクターや設定の創作も認めません。
 
 ## 維持・更新
 

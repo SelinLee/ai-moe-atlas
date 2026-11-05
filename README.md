@@ -21,7 +21,7 @@ GPT、Gemini、Claude 的社区角色设计出自 ZipZipPipe。上图为 AI 生�
 | 找角色、查作者 | [角色图鉴](https://selinlee.github.io/ai-moe-atlas/zh/)可按 AI 产品和画风筛选，词条附原作出处。 |
 | 找可用素材 | [素材库](https://selinlee.github.io/ai-moe-atlas/zh/assets/)提供 13 组 ZIP，内含原图、加工记录和署名说明。使用前请核对[逐件使用条件](RIGHTS.md)。 |
 | 做头像、立绘或介绍卡 | 在[素材工坊](https://selinlee.github.io/ai-moe-atlas/zh/studio/)选择作品和版式，预览并导出带署名的图片。也可在本地处理自己的未公开原创作品。[工坊指南](docs/STUDIO.zh.md) |
-| 查角色造型 | 对照 [7 套 Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/)和 [6 套常规比例与 Q 版参考图](https://selinlee.github.io/ai-moe-atlas/zh/references/)，或旋转查看[鲸鱼娘 3D 模型](https://selinlee.github.io/ai-moe-atlas/zh/characters/deep-whale-maid/#model-preview)。 |
+| 查角色造型 | 对照 [7 套 Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/)和 [6 套常规比例与 Q 版参考图](https://selinlee.github.io/ai-moe-atlas/zh/references/)。 |
 | 画同款涂鸦 | [涂鸦提示词模板](docs/DOODLE.zh.md)含可复制的提示词及角色特征填写示例。 |
 | 提供新线索 | 按[投稿指南](CONTRIBUTING.md)提交原作链接或作者声明，可先查阅[已有来源记录](content/sources/)。 |
 
@@ -30,7 +30,7 @@ GPT、Gemini、Claude 的社区角色设计出自 ZipZipPipe。上图为 AI 生�
 | 时间 / 状态 | 进展 |
 | --- | --- |
 | 2026-09-29 · 已收录 | 12 个 AI 产品中，11 个已有可展示、下载的形象。Copilot 暂列原作链接。[收录记录](docs/BASELINES.zh.md) |
-| 2026-10 · 已发布 | 10 月 8 日归档 6 套角色参考图，11 日发布鲸鱼娘 3D 模型 v0.5，31 日加入 7 套 Q 版三视图。 |
+| 2026-10 · 已发布 | 10 月 8 日归档 6 套角色参考图，31 日加入 7 套 Q 版三视图。 |
 | 2026-11-03 · 已发布 | 加入 7 张角色涂鸦及配套提示词模板。 |
 | 待补 · Copilot | 寻找作者发布的高清原图，核实展示和再分发条件后再收录素材。[候选记录](docs/BASELINES.zh.md) |
 | 待补 · GLM 狐娘 | 从视频 BV1iDeQ6fEFi 追溯该版本的原设计作者及改编条件。[现有署名记录](docs/CHIBI.zh.md) |
@@ -119,26 +119,6 @@ GPT、Gemini、Claude、Kimi、Qwen 的社区设计：ZipZipPipe；DeepSeek：�
 </details>
 
 <details>
-<summary>鲸鱼娘 3D 模型与多视图参考</summary>
-
-<table>
-  <tr>
-    <th>3D 全身模型 v0.5</th>
-    <th>AI 生成多视图参考 v2</th>
-  </tr>
-  <tr>
-    <td align="center" width="32%"><a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/deep-whale-maid/#model-preview"><img src="public/models/deep-whale-maid/v0.5.0/poster.webp" width="260" alt="3D 全身模型 v0.5"></a><br><a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/deep-whale-maid/#model-preview">打开可旋转 3D 预览</a></td>
-    <td align="center" width="68%"><a href="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png"><img src="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png" width="640" alt="AI 生成多视图参考 v2"></a><br><a href="public/models/deep-whale-maid/references/whale-maid-multiview-reference-v2.png">查看完整参考图</a></td>
-  </tr>
-</table>
-
-鲸鱼娘 v0.5 是可旋转、缩放的静态全身模型，此版微调了鲸尾向后弯曲的姿态。右侧为 AI 生成的建模参考，四个全身视角与三个脸部研究图中的侧后方及遮挡细节为推断设计。
-
-上善无形 → ZipZipPipe → Small-tailqwq；AI Moe Atlas 生成派生参考。 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) · [署名、来源与使用说明](public/models/deep-whale-maid/README.md).
-
-</details>
-
-<details>
 <summary>15 秒操作演示</summary>
 
 ![实际筛选结果预览（仅索引条目，无第三方作品图）](public/demo/discovery-zh.png)
@@ -153,7 +133,7 @@ GPT、Gemini、Claude、Kimi、Qwen 的社区设计：ZipZipPipe；DeepSeek：�
 
 素材来自上善无形的 B 站原始动态、Small-tailqwq/dsh-deep-whale，以及 ZipZipPipe 本人的 [Pixiv 原图集](https://www.pixiv.net/artworks/148186519)。原有三包为 **CC BY-NC-SA 4.0**；新增 GPT、Gemini、Claude、Kimi、千问、GLM、Grok、豆包、Llama、MiniMax 十包按作者的 **署名、非商用** 条件提供，不套用 DeepSeek 的 CC 许可。仓库代码的 MIT 许可不覆盖第三方图片。
 
-优先获取原作者发布的高清原图；原图不可得时，可依据已收集参考制作固定形象派生图，并单独标注生成来源、身份与加工记录，不冒充作者原图或恢复出的细节。鲸鱼娘的独立生成参考图见上方 3D 区域；工坊未集成生成式处理，不扩大上游许可，也不允许凭空新造无关角色或设定。
+优先获取原作者发布的高清原图；原图不可得时，可依据已收集参考制作固定形象派生图，并单独标注生成来源、身份与加工记录，不冒充作者原图或恢复出的细节。工坊未集成生成式处理，不扩大上游许可，也不允许凭空新造无关角色或设定。
 
 ## 资料与维护
 

@@ -12,7 +12,6 @@ const layouts = [
  ['README.en.md', 'en', 'Resource directory', 'Timeline and open items', 'Character galleries'],
  ['README.ja.md', 'ja', 'リソース一覧', '収録の経緯と今後の調査項目', 'キャラクターギャラリー']
 ];
-const model = JSON.parse(await read('content/models/deep-whale-maid.json'));
 for (const [file, lang, directory, timeline, galleries] of layouts) {
  test(`${file}: selected reference sheets lead with provenance and working local links`,async()=>{
   const markdown=await read(file);
@@ -44,7 +43,7 @@ for (const [file, lang, directory, timeline, galleries] of layouts) {
    assert.equal(createHash('sha256').update(bytes).digest('hex'),a.preview.sha256);
    for(const author of a.attribution)assert.ok(gallery.includes(author.name));
   }
-  assert.ok(markdown.includes(`public/${model.poster}`),'Existing model showcase is retained');
+  assert.doesNotMatch(markdown, /models\/deep-whale-maid|#model-preview/);
   assert.ok(markdown.includes('RIGHTS.md'));
   for(const [,target] of markdown.matchAll(/(?:\]\(|(?:href|src)=")([^\s"\)]+)/g)){
    if(/^(?:https?:|#)/.test(target))continue;
