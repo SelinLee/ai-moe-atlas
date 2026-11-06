@@ -1,0 +1,332 @@
+{
+  "schemaVersion": 1,
+  "metadataVersion": 1,
+  "platform": "manual",
+  "query": "Bounded weekly source-only review: October 27–31 records",
+  "searchedAt": "2026-11-01T07:27:08.264545+00:00",
+  "automaticPublication": false,
+  "reviewScope": "source-metadata-only",
+  "datePolicy": {
+    "zh": "历史来源本周新入队，不是本周新作品。仅保留显示日期；不推测时区与最早发表。",
+    "en": "Historical sources newly queued, not new publications this week. Preserve displayed dates only; timezone and earliest publication unverified.",
+    "ja": "過去の情報を今週登録。今週の新作ではありません。表示日付のみ保持し、時差・初公開は未確認。"
+  },
+  "candidates": [
+    {
+      "id": "ibispaint-samondesudoumo-chattkg",
+      "title": "ChatGPT（キャラ名としてはChatTKG）",
+      "url": "https://ibispaint.com/art/329731599/",
+      "publisher": "さーもん。",
+      "publisherDisplayName": "さーもん。",
+      "publicationDate": "2025-04-10",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": null,
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "さーもん。",
+          "role": "publisher",
+          "url": "https://ibispaint.com/artist1/1900482495973675008/?sort=new&type=illust"
+        }
+      ],
+      "products": [
+        {
+          "product": "ChatGPT",
+          "entityId": "chatgpt",
+          "provider": "OpenAI",
+          "characterNames": [
+            "ChatTKG"
+          ],
+          "official": false
+        }
+      ],
+      "grouping": "source-group",
+      "characterCount": null,
+      "relatedSources": [],
+      "generatorVariants": [],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://ibispaint.com/art/329731599/"
+        ],
+        "note": {
+          "zh": "当前 Original/Fan Art 分类不能证明本作品适用 IB-CC；历史分类未核实。所查原文无作品级授权，下载按钮并非授权。",
+          "en": "Current Original/Fan Art category does not establish IB-CC applicability; historical categories unverified. No artwork-specific grant in reviewed text; download controls are not permission.",
+          "ja": "現在の Original/Fan Art 分類では IB-CC の適用を立証できず、過去分類も未確認。本文に作品単位の許可なし。ダウンロード表示は許可ではありません。"
+        }
+      },
+      "verification": {
+        "current": {
+          "attemptedAt": "2026-11-01T07:26:58.904920+00:00",
+          "method": "original-html-http-status-and-public-text-extraction",
+          "httpStatus": 200,
+          "finalUrl": "https://ibispaint.com/art/329731599/",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-11-01T07:26:58.904920+00:00",
+          "limitations": {
+            "zh": "只核验原页 HTTP、可读正文、署名及显示日期。未下载图片或检查像素/完整上游权利链，不证明最早发表或浏览器渲染。",
+            "en": "Original-page HTTP, readable text, publisher and displayed date only. No image download, pixel or complete upstream-rights review; earliest publication and browser rendering are unverified.",
+            "ja": "元ページ HTTP、可読本文、投稿者、表示日付のみ。画像取得・画素・上流権利の全連鎖は未確認。最初の公開とブラウザ描画も未確認。"
+          }
+        }
+      },
+      "note": {
+        "zh": "ChatTKG 是作者的 ChatGPT 角色名；制作叙述不是权属证明。",
+        "en": "ChatTKG is the publisher’s ChatGPT character name; production claims do not establish ownership.",
+        "ja": "ChatTKG は投稿者の ChatGPT キャラクター名。制作説明は権利証明ではありません。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、改编、再分发及导出权限仍待审核；不下载或镜像作品。",
+        "en": "Artwork-specific display, adaptation, redistribution and export permissions remain pending; no artwork downloaded or mirrored.",
+        "ja": "画像ごとの表示・改変・再配布・書き出し権限は未確認。画像は取得・転載しません。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false,
+      "sourceType": "illustrated-source"
+    },
+    {
+      "id": "ibispaint-ticho-gpt",
+      "title": "擬人化GPTさん",
+      "url": "https://ibispaint.com/art/504259098/",
+      "publisher": "TICHO🍈🐶🍈",
+      "publisherDisplayName": "TICHO🍈🐶🍈",
+      "publicationDate": "2025-04-13",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": null,
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "TICHO🍈🐶🍈",
+          "role": "publisher",
+          "url": "https://ibispaint.com/artist1/1552336016299929600/?sort=new&type=illust"
+        }
+      ],
+      "products": [
+        {
+          "product": "ChatGPT",
+          "entityId": "chatgpt",
+          "provider": "OpenAI",
+          "characterNames": [
+            "GPTさん"
+          ],
+          "official": false
+        }
+      ],
+      "grouping": "source-group",
+      "characterCount": null,
+      "relatedSources": [],
+      "generatorVariants": [],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://ibispaint.com/art/504259098/"
+        ],
+        "note": {
+          "zh": "当前 Original/Fan Art 分类不能证明本作品适用 IB-CC；历史分类未核实。所查原文无作品级授权，下载按钮并非授权。",
+          "en": "Current Original/Fan Art category does not establish IB-CC applicability; historical categories unverified. No artwork-specific grant in reviewed text; download controls are not permission.",
+          "ja": "現在の Original/Fan Art 分類では IB-CC の適用を立証できず、過去分類も未確認。本文に作品単位の許可なし。ダウンロード表示は許可ではありません。"
+        }
+      },
+      "verification": {
+        "current": {
+          "attemptedAt": "2026-11-01T07:27:01.415946+00:00",
+          "method": "original-html-http-status-and-public-text-extraction",
+          "httpStatus": 200,
+          "finalUrl": "https://ibispaint.com/art/504259098/",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-11-01T07:27:01.415946+00:00",
+          "limitations": {
+            "zh": "只核验原页 HTTP、可读正文、署名及显示日期。未下载图片或检查像素/完整上游权利链，不证明最早发表或浏览器渲染。",
+            "en": "Original-page HTTP, readable text, publisher and displayed date only. No image download, pixel or complete upstream-rights review; earliest publication and browser rendering are unverified.",
+            "ja": "元ページ HTTP、可読本文、投稿者、表示日付のみ。画像取得・画素・上流権利の全連鎖は未確認。最初の公開とブラウザ描画も未確認。"
+          }
+        }
+      },
+      "note": {
+        "zh": "页面分类为 Fan Art；标签明确 ChatGPT，不推断原创作者身份。",
+        "en": "Page category is Fan Art and tags identify ChatGPT; original authorship is not inferred.",
+        "ja": "分類は Fan Art、タグは ChatGPT。原著作者の本人性は推定しません。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、改编、再分发及导出权限仍待审核；不下载或镜像作品。",
+        "en": "Artwork-specific display, adaptation, redistribution and export permissions remain pending; no artwork downloaded or mirrored.",
+        "ja": "画像ごとの表示・改変・再配布・書き出し権限は未確認。画像は取得・転載しません。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false,
+      "sourceType": "illustrated-source"
+    },
+    {
+      "id": "note-poppo-claude",
+      "title": "私のClaude擬人化",
+      "url": "https://note.com/poppo_syntaxer/n/n48f2ff10b41a",
+      "publisher": "poppo",
+      "publisherDisplayName": "poppo",
+      "publicationDate": "2026-01-28",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": null,
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "poppo",
+          "role": "publisher",
+          "url": "https://note.com/poppo_syntaxer"
+        }
+      ],
+      "products": [
+        {
+          "product": "Claude",
+          "entityId": "claude",
+          "provider": "Anthropic",
+          "characterNames": [
+            "私のClaude"
+          ],
+          "official": false
+        }
+      ],
+      "grouping": "source-group",
+      "characterCount": null,
+      "relatedSources": [],
+      "generatorVariants": [],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://note.com/poppo_syntaxer/n/n48f2ff10b41a"
+        ],
+        "note": {
+          "zh": "所查原页文字未见作品级复用许可；公开、下载按钮、分类或生成工具标签均不等于展示/改编/再分发/导出授权。",
+          "en": "No artwork-specific reuse grant found in reviewed primary-page text. Visibility, download controls, category and generator labels do not grant display, adaptation, redistribution or export.",
+          "ja": "確認した元ページ本文に作品単位の利用許諾なし。公開・ダウンロード表示・分類・生成ツール表記は表示、改変、再配布、書き出し許可ではありません。"
+        }
+      },
+      "verification": {
+        "current": {
+          "attemptedAt": "2026-11-01T07:27:04.278855+00:00",
+          "method": "original-html-http-status-and-public-text-extraction",
+          "httpStatus": 200,
+          "finalUrl": "https://note.com/poppo_syntaxer/n/n48f2ff10b41a",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-11-01T07:27:04.278855+00:00",
+          "limitations": {
+            "zh": "只核验原页 HTTP、可读正文、署名及显示日期。未下载图片或检查像素/完整上游权利链，不证明最早发表或浏览器渲染。",
+            "en": "Original-page HTTP, readable text, publisher and displayed date only. No image download, pixel or complete upstream-rights review; earliest publication and browser rendering are unverified.",
+            "ja": "元ページ HTTP、可読本文、投稿者、表示日付のみ。画像取得・画素・上流権利の全連鎖は未確認。最初の公開とブラウザ描画も未確認。"
+          }
+        }
+      },
+      "note": {
+        "zh": "Sonnet、Opus、Haiku 是作者同一躯体的切换设定，不计三份独立设计；仅依据文字。",
+        "en": "Sonnet, Opus and Haiku are switches of one body in the author’s setting, not three independently verified designs; text evidence only.",
+        "ja": "Sonnet・Opus・Haiku は作者の同一躯体の切替設定。独立した三作品とは数えず、本文のみ確認。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、改编、再分发及导出权限仍待审核；不下载或镜像作品。",
+        "en": "Artwork-specific display, adaptation, redistribution and export permissions remain pending; no artwork downloaded or mirrored.",
+        "ja": "画像ごとの表示・改変・再配布・書き出し権限は未確認。画像は取得・転載しません。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false,
+      "sourceType": "illustrated-source"
+    },
+    {
+      "id": "chichipui-koukaku-chatgpt-lead",
+      "title": "ChatGPTちゃん(ChatGPT自身で擬人化)",
+      "url": "https://pui.chichi-pui.com/posts/12b3627c-4c5e-4b81-89a0-c9ce78af609f/",
+      "publisher": "攻殻喫茶",
+      "publisherDisplayName": "攻殻喫茶",
+      "publicationDate": "2026-05-27",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": null,
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "攻殻喫茶",
+          "role": "publisher",
+          "url": "https://pui.chichi-pui.com/posts/12b3627c-4c5e-4b81-89a0-c9ce78af609f/"
+        }
+      ],
+      "products": [
+        {
+          "product": "ChatGPT",
+          "entityId": "chatgpt",
+          "provider": "OpenAI",
+          "characterNames": [
+            "ChatGPTちゃん"
+          ],
+          "official": false
+        }
+      ],
+      "grouping": "source-group",
+      "characterCount": null,
+      "relatedSources": [],
+      "generatorVariants": [],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://pui.chichi-pui.com/posts/12b3627c-4c5e-4b81-89a0-c9ce78af609f/"
+        ],
+        "note": {
+          "zh": "所查原页文字未见作品级复用许可；公开、下载按钮、分类或生成工具标签均不等于展示/改编/再分发/导出授权。",
+          "en": "No artwork-specific reuse grant found in reviewed primary-page text. Visibility, download controls, category and generator labels do not grant display, adaptation, redistribution or export.",
+          "ja": "確認した元ページ本文に作品単位の利用許諾なし。公開・ダウンロード表示・分類・生成ツール表記は表示、改変、再配布、書き出し許可ではありません。"
+        }
+      },
+      "verification": {
+        "current": {
+          "attemptedAt": "2026-11-01T07:27:08.264545+00:00",
+          "method": "original-html-http-status-and-public-text-extraction",
+          "httpStatus": 200,
+          "finalUrl": "https://pui.chichi-pui.com/posts/12b3627c-4c5e-4b81-89a0-c9ce78af609f/",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-11-01T07:27:08.264545+00:00",
+          "limitations": {
+            "zh": "只核验原页 HTTP、可读正文、署名及显示日期。未下载图片或检查像素/完整上游权利链，不证明最早发表或浏览器渲染。",
+            "en": "Original-page HTTP, readable text, publisher and displayed date only. No image download, pixel or complete upstream-rights review; earliest publication and browser rendering are unverified.",
+            "ja": "元ページ HTTP、可読本文、投稿者、表示日付のみ。画像取得・画素・上流権利の全連鎖は未確認。最初の公開とブラウザ描画も未確認。"
+          }
+        }
+      },
+      "note": {
+        "zh": "仅确认题名、发布者、日期和生成工具标签；当前可读正文没有可核验的主体图像，不作为已核实插画素材。",
+        "en": "Only title, publisher, date and generator label confirmed. Readable text does not establish the subject image; retain as a text-only lead, not a verified illustrated asset.",
+        "ja": "題名・投稿者・日付・生成ツール表記のみ確認。可読本文から対象画像は確認できず、文字情報の手掛かりとして保持。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、改编、再分发及导出权限仍待审核；不下载或镜像作品。",
+        "en": "Artwork-specific display, adaptation, redistribution and export permissions remain pending; no artwork downloaded or mirrored.",
+        "ja": "画像ごとの表示・改変・再配布・書き出し権限は未確認。画像は取得・転載しません。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false,
+      "sourceType": "text-only-lead"
+    }
+  ]
+}
