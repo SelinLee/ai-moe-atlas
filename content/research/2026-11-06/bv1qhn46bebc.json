@@ -1,0 +1,19 @@
+{
+  "url": "https://www.bilibili.com/video/BV1qhn46bEBC/",
+  "finalUrl": "https://www.bilibili.com/video/BV1qhn46bEBC/",
+  "accessedAt": "2026-11-06T06:20:42.179Z",
+  "httpStatus": 412,
+  "scope": "Browser metadata extract. Video not watched end-to-end or downloaded; no frame/artwork review.",
+  "metadata": {
+    "bvid": "BV1qhn46bEBC",
+    "title": "蓝色大肥鱼？！《Let Me Go》？！",
+    "owner": {
+      "mid": 626516424,
+      "name": "---星-月---"
+    },
+    "pubdate": 1792732300,
+    "desc": "给蓝色大肥鱼做了一支《Let Me Go》动画 MV！让鲸鱼娘从海底舞台出发，穿过霓虹、星空与海浪，唱歌、打字、修 Bug，再一路摇摆到黎明。视觉设计与 MV 制作：StarMoon，AI 协作完成，4K／60fps。\n\n提示词摘要：蓝白金海洋幻想、Q 版鲸鱼娘、轻快 Swing；动作贴合歌词，加入句内小剧情、动态水面与游鲸、多样顺滑转场、自然中文意译和 StarMoon 星月署名。\n\n工具与模型：Codex（gpt-6.1-sol、gpt-6-astra）协作分镜、动画代码与校对；内置 ImageGen 绘制角色、背景及分层素材；Remotion 4.0.537＋React／TypeScript＋WebGL／GLSL／SVG 制作动画合成；Python（NumPy、SciPy）分析节拍；FFmpeg＋NVIDIA NVENC 导出 H.264／H.265。\n\nToken 记录：累计约 1.86 亿，其中缓存输入约 1.83 亿、非缓存输入约 271 万、输出约 65 万。统计本项目主任务与 13 个子任务的本地语言模型日志；缓存已包含在总量内，图像服务未披露的用量未计入。\n\n歌曲：罐装毕加索《Let Me Go（共创版）》。感谢鲸鱼娘原始角色作者上善无形（上善）、DeepSeek 女仆形象二次设计 ZipZipPipe、Q 版造型参考 YunYueSama；感谢木子恶魔、drliuhuan 提供姿态参考，以及小猪P_、涼_i 的译词语气与 2D 表现启发。\n\n角色与参考来源：\nZipZipPipe：https://www.pixiv.net/artworks/148186519\nYunYueSama：https://github.com/YunYueSama/codex-deepseek-pet\n木子恶魔：https://www.aplaybox.com/details/model/ayXkRzVflmnd\ndrliuhuan：https://github.com/drliuhuan/dsh-plugin-vrmpet3d\n小猪P_：https://www.bilibili.com/video/BV1mThC6LEbA/\n涼_i：https://www.bilibili.com/video/BV1T6pY6eEB6/\n\n非官方、非商业同人作品。角色衍生部分遵循 CC BY-NC-SA 4.0，并保留上游角色及参考素材的署名与适用许可。\n",
+    "duration": 125,
+    "copyright": 1
+  }
+}

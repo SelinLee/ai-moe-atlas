@@ -8,7 +8,7 @@ const s = t(lang);
 const pageURL = new URL(path(`${lang}/${route}`), Astro.site);
 const coverId = route.startsWith('characters/') ? route.split('/')[1] : 'index';
 const imageURL = new URL(path(`og/${lang}/${coverId}.png`), Astro.site);
-const nav = [{key:'atlas',url:''},{key:'assets',url:'assets/'},{key:'studio',url:'studio/'},{key:'models',url:'models/'},{key:'collectionFlow',url:'collection/'}] as const;
+const nav = [{key:'atlas',url:''},{key:'resources',url:'resources/'},{key:'assets',url:'assets/'},{key:'studio',url:'studio/'},{key:'models',url:'models/'},{key:'collectionFlow',url:'collection/'}] as const;
 ---
 <!doctype html>
 <html lang={htmlLang[lang]}>

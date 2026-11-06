@@ -1,0 +1,37 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import {locales,type Locale} from '../../lib/i18n';
+import {resourceText} from '../../lib/resource-text';
+import {resources,directoryCategories,resourceCounts,verificationLabel} from '../../lib/resources';
+export function getStaticPaths(){return locales.map(lang=>({params:{lang}}));}
+const lang=Astro.params.lang as Locale,s=resourceText[lang];
+const ordered=[...resources].sort((a,b)=>(b.publicationDate??'').localeCompare(a.publicationDate??'')||a.id.localeCompare(b.id));
+---
+<Layout lang={lang} title={s.directory} description={s.directoryIntro} active="resources" route="resources/">
+  <section class="page-heading"><div><p class="eyebrow">2026-11-06</p><h1>{s.directory}</h1><p class="lead">{s.directoryIntro}</p></div></section>
+  <div class="resource-filters" role="group" aria-label={s.categories}>
+    <button class="selected" data-resource-filter="all" aria-pressed="true">{s.all} <span>{resources.length}</span></button>
+    {directoryCategories.map(c=><button data-resource-filter={c} aria-pressed="false">{s.category[c].title} <span>{resourceCounts[c]}</span></button>)}
+  </div>
+  <div class="filter-bar"><label class="search-field"><input id="resource-search" type="search" placeholder={s.search} aria-label={s.search}/></label><button class="button secondary" id="resource-reset">{s.clear}</button></div>
+  <p class="subtle" role="status"><strong id="resource-count">{resources.length}</strong> {s.results}</p>
+  <div class="resource-list" id="resource-list">
+    {ordered.map(r=><article class="resource-record" id={r.id} data-resource-category={r.category} data-resource-search={`${r.title.zh} ${r.title.en} ${r.title.ja} ${r.sourceTitle??''} ${r.publisher} ${r.bvid??''} ${r.summary[lang]}`}>
+      <div class="resource-record-top"><span class="pill">{s.category[r.category].title}</span>{r.subtype&&<span class="resource-subtype">{s.types[r.subtype as keyof typeof s.types]}</span>}</div>
+      <h2><a href={r.url} target="_blank" rel="noopener noreferrer">{r.title[lang]} ↗</a></h2>
+      <p class="resource-byline">{s.publisher} · {r.publisher} {r.publicationDate&&<> · {s.published} <time datetime={r.publicationDate}>{r.publicationDate}</time></>}{r.bvid&&<> · {r.bvid}</>}</p>
+      <p>{r.summary[lang]}</p>
+      <span class:list={['resource-verification',{'partial':r.verification&&r.verification.result!=='metadata-verified'}]}>{verificationLabel(r,lang)}</span>
+      <details><summary>{s.more}</summary>
+        {r.sourceTitle&&<p>{s.originals} · {r.sourceTitle}</p>}
+        <p>{r.verification?s.scope:s.inherited}</p>
+        {r.addedAt&&<p>{s.added} · <time datetime={r.addedAt}>{r.addedAt}</time></p>}
+        <h3>{s.rights}</h3><p>{r.rights[lang]}</p>
+        {r.relations.length>0&&<><h3>{s.relations}</h3><ul>{r.relations.map(link=><li><a class="text-link" href={link.url} target="_blank" rel="noopener noreferrer">{link.title} ↗</a></li>)}</ul></>}
+      </details>
+      <a class="text-link resource-original" href={r.url} target="_blank" rel="noopener noreferrer">{s.visit} ↗</a>
+    </article>)}
+  </div>
+  <p class="empty-state" id="resource-empty" hidden>{s.empty}</p>
+</Layout>
+<script>import '../../scripts/resources';</script>

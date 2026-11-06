@@ -1,0 +1,18 @@
+---
+import Icon from './Icon.astro';
+import {categories,categoryURL,resourceCounts} from '../lib/resources';
+import {resourceText} from '../lib/resource-text';
+import type {Locale} from '../lib/i18n';
+const {lang}=Astro.props as {lang:Locale};const s=resourceText[lang];
+const icons={characters:'atlas',assets:'download',references:'assets',animation:'play',interactive:'models',sources:'book'};
+---
+<section class="resource-navigation" aria-labelledby="resource-categories-title">
+  <h2 id="resource-categories-title">{s.categories}</h2>
+  <div class="resource-category-grid">
+    {categories.map(category=><a class="resource-category" data-category-link={category} href={categoryURL(category,lang)}>
+      <span class="resource-category-icon"><Icon name={icons[category]} size={23}/></span>
+      <div><h3>{s.category[category].title}</h3><p>{s.category[category].description}</p><span class="resource-category-count"><strong>{resourceCounts[category]}</strong> {s.category[category].unit}</span></div>
+      <span class="resource-category-arrow"><Icon name="arrow" size={18}/></span>
+    </a>)}
+  </div>
+</section>

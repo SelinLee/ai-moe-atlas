@@ -2,40 +2,125 @@
 
 [中文](README.md) · [English](README.en.md) · [日本語](README.ja.md)
 
-用这套图鉴查找 AI 拟人角色和原作者，按作品的使用条件下载素材，或在浏览器里制作带署名的头像、立绘和介绍卡。
+收集有出处的 AI 拟人角色、可用素材和社区二创。先选一个分类，或向下看看可爱的角色们。
 
-[查角色与作者](https://selinlee.github.io/ai-moe-atlas/zh/) · [下载素材包](https://selinlee.github.io/ai-moe-atlas/zh/assets/) · [打开素材工坊](https://selinlee.github.io/ai-moe-atlas/zh/studio/)
+[打开在线图鉴](https://selinlee.github.io/ai-moe-atlas/zh/) · [下载素材包](https://selinlee.github.io/ai-moe-atlas/zh/assets/) · [打开素材工坊](https://selinlee.github.io/ai-moe-atlas/zh/studio/)
 
-<p>
-  <a href="public/generated/rough-doodle-v1/openai/doodle-v1.png"><img src="public/generated/rough-doodle-v1/openai/preview.webp" width="96" alt="GPT"></a>
-  <a href="public/generated/rough-doodle-v1/gemini/doodle-v1.png"><img src="public/generated/rough-doodle-v1/gemini/preview.webp" width="96" alt="Gemini"></a>
-  <a href="public/generated/rough-doodle-v1/claude/doodle-v1.png"><img src="public/generated/rough-doodle-v1/claude/preview.webp" width="96" alt="Claude"></a>
+<p align="center">
+  <a href="public/generated/rough-doodle-v1/openai/doodle-v1.png"><img src="public/generated/rough-doodle-v1/openai/preview.webp" width="84" alt="GPT"></a>
+  <a href="public/generated/rough-doodle-v1/gemini/doodle-v1.png"><img src="public/generated/rough-doodle-v1/gemini/preview.webp" width="84" alt="Gemini"></a>
+  <a href="public/generated/rough-doodle-v1/claude/doodle-v1.png"><img src="public/generated/rough-doodle-v1/claude/preview.webp" width="84" alt="Claude"></a>
+  <a href="public/generated/rough-doodle-v1/deepseek/doodle-v1.png"><img src="public/generated/rough-doodle-v1/deepseek/preview.webp" width="84" alt="DeepSeek"></a>
+  <a href="public/generated/rough-doodle-v1/kimi/doodle-v1.png"><img src="public/generated/rough-doodle-v1/kimi/preview.webp" width="84" alt="Kimi"></a>
+  <a href="public/generated/rough-doodle-v1/qwen/doodle-v1.png"><img src="public/generated/rough-doodle-v1/qwen/preview.webp" width="84" alt="Qwen"></a>
 </p>
 
-GPT、Gemini、Claude 的社区角色设计出自 ZipZipPipe。上图为 AI 生成的涂鸦展示图。 [来源与使用条件](docs/DOODLE.zh.md)
+以上六张为 AI 生成的涂鸦派生图。GPT、Gemini、Claude、Kimi、千问的社区设计：ZipZipPipe；DeepSeek 署名链：上善无形 → ZipZipPipe。 [来源与使用条件](docs/DOODLE.zh.md)
 
 ## 资源目录
 
-| 想做什么 | 从这里开始 |
-| --- | --- |
-| 找角色、查作者 | [角色图鉴](https://selinlee.github.io/ai-moe-atlas/zh/)可按 AI 产品和画风筛选，词条附原作出处。 |
-| 找可用素材 | [素材库](https://selinlee.github.io/ai-moe-atlas/zh/assets/)提供 13 组 ZIP，内含原图、加工记录和署名说明。使用前请核对[逐件使用条件](RIGHTS.md)。 |
-| 做头像、立绘或介绍卡 | 在[素材工坊](https://selinlee.github.io/ai-moe-atlas/zh/studio/)选择作品和版式，预览并导出带署名的图片。也可在本地处理自己的未公开原创作品。[工坊指南](docs/STUDIO.zh.md) |
-| 查角色造型 | 对照 [7 套 Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/)和 [6 套常规比例与 Q 版参考图](https://selinlee.github.io/ai-moe-atlas/zh/references/)。 |
-| 画同款涂鸦 | [涂鸦提示词模板](docs/DOODLE.zh.md)含可复制的提示词及角色特征填写示例。 |
-| 提供新线索 | 按[投稿指南](CONTRIBUTING.md)提交原作链接或作者声明，可先查阅[已有来源记录](content/sources/)。 |
+<table>
+  <tr>
+    <td width="33%" valign="top"><a href="#characters"><strong>🎨 角色图鉴</strong></a><br><strong>26</strong> 个词条<br><sub>按产品、作者和画风找角色</sub></td>
+    <td width="33%" valign="top"><a href="#assets"><strong>📦 可下载素材</strong></a><br><strong>13</strong> 组素材<br><sub>原图、署名、加工记录与使用说明</sub></td>
+    <td width="33%" valign="top"><a href="#references"><strong>🧸 三视图与派生参考</strong></a><br><strong>20</strong> 张参考图<br><sub>Q 版三视图、参考图与涂鸦模板</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="#animations"><strong>🎬 动画与视频二创</strong></a><br><strong>8</strong> 条记录<br><sub>OP、MV、剧情、舞蹈与二创点评</sub></td>
+    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 桌宠与交互项目</strong></a><br><strong>4</strong> 个项目<br><sub>桌面角色、状态动画与项目来源</sub></td>
+    <td width="33%" valign="top"><a href="#sources"><strong>📚 作者作品与出处</strong></a><br><strong>15</strong> 条来源<br><sub>原作图集、作者声明与待核线索</sub></td>
+  </tr>
+</table>
+
+点击分类跳到本页对应内容；各节也提供在线浏览和原始资料入口。
+
+<a id="characters"></a>
+
+### 🎨 角色图鉴
+
+从 12 个 AI 产品中查角色、作者和原作。
+
+[在线筛选](https://selinlee.github.io/ai-moe-atlas/zh/#catalog) · [三语角色资料](content/characters.json) · [产品索引](content/entities.json)
+
+<a id="assets"></a>
+
+### 📦 可下载素材
+
+13 组素材包包含原图、规范化文件、来源与署名说明。
+
+[查看素材包目录](public/packs/) · [逐件使用条件](RIGHTS.md) · [制作头像与介绍卡](https://selinlee.github.io/ai-moe-atlas/zh/studio/) · [工坊指南](docs/STUDIO.zh.md)
+
+<a id="references"></a>
+
+### 🧸 三视图与派生参考
+
+20 张均为生成派生展示图，保留参考出处、署名和生成记录。
+
+[7 套 Q 版三视图](#chibi-gallery) · [6 套常规比例与 Q 版参考](#v5-gallery) · [7 张角色涂鸦与提示词](#doodle-gallery)
+
+<a id="animations"></a>
+
+### 🎬 动画与视频二创
+
+直接打开原视频；前序作品与角色参考关系见 [完整记录](content/resources.json)。
+
+| 日期 | 作品 | 发布者 | 资料核对 |
+| --- | --- | --- | --- |
+| 2026-10-24 | [新角色：大肥鱼](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | 页面受限 · 部分核对 |
+| 2026-10-23 | [龙娘看二创 · 名次先不争，借我张凳子](https://www.bilibili.com/video/BV1YFn46SEEr/) | chatgpt小龙娘在运营 | 页面资料已核对 |
+| 2026-10-23 | [蓝色大肥鱼？！《Let Me Go》？！](https://www.bilibili.com/video/BV1qhn46bEBC/) | ---星-月--- | 页面受限 · 部分核对 |
+| 2026-10-23 | [大肥鱼，你怎么穿着 Claude 的衣服](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | 页面受限 · 部分核对 |
+| 2026-10-23 | [当 AI 娘们参加赛跑比赛？](https://www.bilibili.com/video/BV1AAnt6qEek/) | 挚一梓宝 | 页面资料已核对 |
+| 2026-10-14 | [AI 娘的文艺复兴](https://www.bilibili.com/video/BV1hdpC6PETf/) | 桃莉鸭 | 页面资料已核对 |
+| 2026-10-05 | [尼古鲸鲸 OP · AI 模型娘替换](https://www.bilibili.com/video/BV1TBHp6AEAC/) | 风音日日日日和 | 页面受限 · 部分核对 |
+| 2026-10-03 | [全员 AI 娘 · 千炼万花 OP](https://www.bilibili.com/video/BV18kaS6zEgi/) | hihihihi202 | 页面资料已核对 |
+
+本次核对发布页文字和元数据，尚未逐镜头审阅；作品使用条件待逐件确认，暂保留原作链接。
+
+<a id="desktop-pets"></a>
+
+### 🐾 桌宠与交互项目
+
+| 项目 | 内容 | 发布者 |
+| --- | --- | --- |
+| [OpenPet · AI Girls](https://github.com/AwesomeHou/openpet-ai-girls) | 多位 AI 角色的桌宠素材项目 | AwesomeHou |
+| [Clawd](https://github.com/KebeliSamet0/clawd) | Claude 像素桌宠 | KebeliSamet0 |
+| [Codex DeepSeek Pet](https://github.com/YunYueSama/codex-deepseek-pet) | 社区鲸鱼娘桌宠；参考出处待补全 | YunYueSama |
+| [CrossPet](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | 随 AI 产品与工作状态切换形象和动作 | lokicorvus / CrossPet contributors |
+
+以上为来源索引；各项目美术按其原作条件核对，代码许可不自动覆盖角色图片。
+
+<a id="sources"></a>
+
+### 📚 作者作品与出处
+
+原作与署名链： [上善无形 · 鲸鱼娘原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI 娘化图集](https://www.pixiv.net/artworks/148186519) · [来源与使用声明](https://t.bilibili.com/1231980045693616162)
+
+本次补充：
+
+- [一些更新 · 作者后续图集](https://www.pixiv.net/artworks/150718881) — 作者后续 20 页图集；作者标记为 AI 生成。
+- [AI 娘第二批 · Seed 与 RWKV 等](https://www.bilibili.com/opus/1236803362705375305) — 作者第二批动态，含 Seed、RWKV 等线索。
+- [娘化 MiMo · 甶丶](https://www.bilibili.com/opus/1242097128919007239) — MiMo 拟人发布记录。
+- [Mico · 官方角色与迁移说明](https://support.microsoft.com/en-us/microsoft-365-copilot/frequently-asked-questions-about-retired-copilot-features) — Mico 官方身份与迁移说明。
+
+[已有来源清单](content/leads.json) · [本次新增资料](content/resources.json) · [核验与证据](content/research/2026-11-06/) · [提供新线索](CONTRIBUTING.md)
 
 ## 收录时间线与待补项
 
 | 时间 / 状态 | 进展 |
 | --- | --- |
+| 2026-11-06 · 本地更新 | 主页新增六类入口；新增 13 条来源资料，其中 8 条为动画二创。逐条保留核验范围、使用条件和[证据校验](content/research/2026-11-06/)。 |
 | 2026-09-29 · 已收录 | 12 个 AI 产品中，11 个已有可展示、下载的形象。Copilot 暂列原作链接。[收录记录](docs/BASELINES.zh.md) |
 | 2026-10 · 已发布 | 10 月 8 日归档 6 套角色参考图，31 日加入 7 套 Q 版三视图。 |
 | 2026-11-03 · 已发布 | 加入 7 张角色涂鸦及配套提示词模板。 |
 | 待补 · Copilot | 寻找作者发布的高清原图，核实展示和再分发条件后再收录素材。[候选记录](docs/BASELINES.zh.md) |
 | 待补 · GLM 狐娘 | 从视频 BV1iDeQ6fEFi 追溯该版本的原设计作者及改编条件。[现有署名记录](docs/CHIBI.zh.md) |
 
+动画记录依据发布页文字与元数据整理；本次未逐镜头审阅或下载视频。4 条视频页面返回 HTTP 412，但可读部分内嵌资料，已标注为部分核验。公开投稿、平台“自制”标记或软件 MIT 许可均不构成素材再分发授权。ZipZipPipe《一些更新》由作者标记为 AI 生成；Mico 的官方身份与图片使用许可分别核对。
+
 ## 角色图集
+
+<a id="doodle-gallery"></a>
 
 <details>
 <summary>7 张角色涂鸦与提示词</summary>
@@ -66,6 +151,8 @@ GPT、Gemini、Claude、Kimi、千问的社区设计出自 ZipZipPipe。DeepSeek
 [可复制模板](docs/DOODLE.zh.md) · [文件、SHA-256 与处理记录](public/generated/rough-doodle-v1/manifest.json)
 
 </details>
+
+<a id="chibi-gallery"></a>
 
 <details>
 <summary>7 套 Q 版三视图</summary>
@@ -98,6 +185,8 @@ GPT、Gemini、Claude、Kimi、Qwen 的社区设计：ZipZipPipe；DeepSeek：�
 [三视图、来源与使用说明](docs/CHIBI.zh.md) · [文件与处理记录](public/generated/super-chibi-v1/manifest.json)
 
 </details>
+
+<a id="v5-gallery"></a>
 
 <details>
 <summary>早期 v5 参考图 · 常规比例与 Q 版</summary>

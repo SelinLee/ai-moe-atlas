@@ -1,0 +1,109 @@
+{
+  "reviewedAt": "2026-11-06",
+  "scope": "source-metadata-only",
+  "queries": [
+    "ZipZipPipe AI 拟人 新 2026 Copilot",
+    "GLM 狐娘 作者",
+    "ZipZipPipe 150718881",
+    "site.bilibili.com/video AI娘 2026-10 动画",
+    "site.bilibili.com/video 大肥鱼 你怎么穿着Claude的衣服"
+  ],
+  "newRecords": 13,
+  "animationRecords": 8,
+  "sourceOnly": true,
+  "rawMediaCollected": false,
+  "datePolicy": {
+    "zh": "视频日期按原页 pubdate 转为亚洲/上海时区；收集日期与发布日期分开记录。搜索索引可能存在时区或缓存差异。",
+    "en": "Video dates use the original pubdate converted to Asia/Shanghai. Collection and publication dates are separate. Search indexes may differ due to timezone or cache.",
+    "ja": "動画の公開日は原ページのpubdateをAsia/Shanghaiに変換。収集日と公開日を区別。検索結果には時差・キャッシュの差があり得ます。"
+  },
+  "limitations": {
+    "zh": "仅核对文字、作者说明及内嵌元数据，未完整观看或下载视频、未核验每帧角色身份。4条视频HTTP 412但有内嵌资料，保留部分核验状态。GLM参考视频仍受限，不能确认当前狐娘变体原设计作者。",
+    "en": "Text, publisher statements and embedded metadata only. Videos were not fully watched or downloaded, and per-frame character identity was not reviewed. Four video responses were HTTP 412 with readable embedded metadata and retain partial status. The GLM reference remains blocked; the fox-girl variant’s original designer is unresolved.",
+    "ja": "本文・投稿者の説明・内嵌メタデータのみ確認。動画の全編視聴・取得・各フレームの同一性審査は未実施。4件はHTTP 412でも内嵌情報を読めたため部分確認。GLM参照動画は制限され、狐娘差分の原作者は未確定。"
+  },
+  "unresolvedGLMEvidence": {
+    "path": "content/research/2026-11-06/glm-video-attempt.json",
+    "sha256": "e62a72f8d4af01372282397bf3b856727b096284d8e9370a0c5706cd91255b21"
+  },
+  "evidence": [
+    {
+      "id": "zipzippipe-updates",
+      "path": "content/research/2026-11-06/zipzippipe-updates.json",
+      "sha256": "b1f03a6a1fe556eea3c4f26ae82967f4da0682a02aea1a7d18e4ea7f6dcc55ca",
+      "kind": "browser-metadata-extract"
+    },
+    {
+      "id": "bili-update",
+      "path": "content/research/2026-11-06/bili-update.json",
+      "sha256": "a1482e55341bb3d1599a96f324fa6449b7b56f84bbd27e0eaae80e52ee3f1c06",
+      "kind": "browser-metadata-extract"
+    },
+    {
+      "id": "mimo",
+      "path": "content/research/2026-11-06/mimo.json",
+      "sha256": "feba8279f2820ff69a4507b224809f960de63c61ce0adafea4da40d7948f4716",
+      "kind": "browser-metadata-extract"
+    },
+    {
+      "id": "microsoft-mico-status",
+      "path": "content/research/2026-11-06/microsoft-mico-status.json",
+      "sha256": "5fc43c717a4b1ce2b5c35851e50acdf505a8588cd2d44f7c57e88a1713a2de1f",
+      "kind": "browser-metadata-extract"
+    },
+    {
+      "id": "crosspet",
+      "path": "content/research/2026-11-06/crosspet.json",
+      "sha256": "49c66155bae837e1594c976cff4f89d20f3b0ae4b898bdfc037577ca18a0b815",
+      "kind": "browser-metadata-extract"
+    },
+    {
+      "id": "bv1qhn46bebc",
+      "path": "content/research/2026-11-06/bv1qhn46bebc.json",
+      "sha256": "0cdfe909187803ffc3ccd0fedf6d12bc96737ff7001e0d9c4d743879528f3fc1",
+      "kind": "browser-metadata-extract"
+    },
+    {
+      "id": "bv1tbhp6aeac",
+      "path": "content/research/2026-11-06/bv1tbhp6aeac.json",
+      "sha256": "6822be987dfc680d6a0f1c5787566d0caf5a5e77af950bbd0c3d33cdb06e29d7",
+      "kind": "browser-metadata-extract"
+    },
+    {
+      "id": "bv18kas6zegi",
+      "path": "content/research/2026-11-06/bv18kas6zegi.json",
+      "sha256": "723fe0776f2d74ae0230d13ba5634b734f64057c953234f784b6a23c2d530eab",
+      "kind": "browser-metadata-extract"
+    },
+    {
+      "id": "bv1yfn46seer",
+      "path": "content/research/2026-11-06/bv1yfn46seer.json",
+      "sha256": "610901cf7a870e6d01863f9bdc93e0045717a000ffb816b3f412fe28f1591a58",
+      "kind": "browser-metadata-extract"
+    },
+    {
+      "id": "bv1aant6qeek",
+      "path": "content/research/2026-11-06/bv1aant6qeek.json",
+      "sha256": "778dba33922144309b0e9c72ba85339d4b6dc7bb11b55bb6cbc23b29d6072f33",
+      "kind": "browser-metadata-extract"
+    },
+    {
+      "id": "bv1hdpc6petf",
+      "path": "content/research/2026-11-06/bv1hdpc6petf.json",
+      "sha256": "79a143056789864a2058606416dd43b9de67186013068570ddfe5513c822ddeb",
+      "kind": "browser-metadata-extract"
+    },
+    {
+      "id": "bv1lbnb6aerv",
+      "path": "content/research/2026-11-06/bv1lbnb6aerv.json",
+      "sha256": "318ad92b0f5b95ffe3748e705598eccc714120dd77e4ff3a9c186e997efebb75",
+      "kind": "browser-metadata-extract"
+    },
+    {
+      "id": "bv1gvha6mebs",
+      "path": "content/research/2026-11-06/bv1gvha6mebs.json",
+      "sha256": "fd7195c0ef21308ced1f9f47985befdf54be0328dc8680b1819c495283bfe6a6",
+      "kind": "browser-metadata-extract"
+    }
+  ]
+}

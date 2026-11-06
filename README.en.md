@@ -2,40 +2,125 @@
 
 [中文](README.md) · [English](README.en.md) · [日本語](README.ja.md)
 
-Find AI character designs and their creators, download assets under each artwork’s terms, or make credited avatars, portraits and introduction cards in your browser.
+Explore AI character designs, usable assets and community fan works with traceable sources. Pick a category, or meet the characters below.
 
-[Find a character or artist](https://selinlee.github.io/ai-moe-atlas/en/) · [Download asset packs](https://selinlee.github.io/ai-moe-atlas/en/assets/) · [Open the studio](https://selinlee.github.io/ai-moe-atlas/en/studio/)
+[Open the character atlas](https://selinlee.github.io/ai-moe-atlas/en/) · [Download asset packs](https://selinlee.github.io/ai-moe-atlas/en/assets/) · [Open the studio](https://selinlee.github.io/ai-moe-atlas/en/studio/)
 
-<p>
-  <a href="public/generated/rough-doodle-v1/openai/doodle-v1.png"><img src="public/generated/rough-doodle-v1/openai/preview.webp" width="96" alt="GPT"></a>
-  <a href="public/generated/rough-doodle-v1/gemini/doodle-v1.png"><img src="public/generated/rough-doodle-v1/gemini/preview.webp" width="96" alt="Gemini"></a>
-  <a href="public/generated/rough-doodle-v1/claude/doodle-v1.png"><img src="public/generated/rough-doodle-v1/claude/preview.webp" width="96" alt="Claude"></a>
+<p align="center">
+  <a href="public/generated/rough-doodle-v1/openai/doodle-v1.png"><img src="public/generated/rough-doodle-v1/openai/preview.webp" width="84" alt="GPT"></a>
+  <a href="public/generated/rough-doodle-v1/gemini/doodle-v1.png"><img src="public/generated/rough-doodle-v1/gemini/preview.webp" width="84" alt="Gemini"></a>
+  <a href="public/generated/rough-doodle-v1/claude/doodle-v1.png"><img src="public/generated/rough-doodle-v1/claude/preview.webp" width="84" alt="Claude"></a>
+  <a href="public/generated/rough-doodle-v1/deepseek/doodle-v1.png"><img src="public/generated/rough-doodle-v1/deepseek/preview.webp" width="84" alt="DeepSeek"></a>
+  <a href="public/generated/rough-doodle-v1/kimi/doodle-v1.png"><img src="public/generated/rough-doodle-v1/kimi/preview.webp" width="84" alt="Kimi"></a>
+  <a href="public/generated/rough-doodle-v1/qwen/doodle-v1.png"><img src="public/generated/rough-doodle-v1/qwen/preview.webp" width="84" alt="Qwen"></a>
 </p>
 
-GPT, Gemini and Claude are based on community designs by ZipZipPipe. The doodles above are AI-generated adaptations. [Sources and terms](docs/DOODLE.en.md)
+These six doodles are AI-generated adaptations. Community designs for GPT, Gemini, Claude, Kimi and Qwen: ZipZipPipe. DeepSeek attribution: 上善无形 → ZipZipPipe. [Sources and usage terms](docs/DOODLE.en.md)
 
 ## Resource directory
 
-| What you want to do | Where to start |
-| --- | --- |
-| Find a character or artist | Filter the [character atlas](https://selinlee.github.io/ai-moe-atlas/en/) by AI product or art style, then follow an entry to the original work. |
-| Download artwork | The [asset library](https://selinlee.github.io/ai-moe-atlas/en/assets/) offers 13 ZIP packs with originals, processing records and credits. Check the [terms for each artwork](RIGHTS.md) before use. |
-| Make an avatar, portrait or introduction card | Choose artwork and a layout in the [studio](https://selinlee.github.io/ai-moe-atlas/en/studio/), preview the result and export it with credits. You can also work locally with your own unpublished art. [Studio guide](docs/STUDIO.en.md) |
-| Inspect a design | Compare [7 chibi turnarounds](https://selinlee.github.io/ai-moe-atlas/en/chibi/) and [6 standard and chibi reference sheets](https://selinlee.github.io/ai-moe-atlas/en/references/). |
-| Draw a similar doodle | The [doodle prompt template](docs/DOODLE.en.md) includes a copyable prompt and examples of character features. |
-| Contribute a source | Check the [source records](content/sources/), then follow the [contribution guide](docs/CONTRIBUTING.en.md) to submit an original post or creator statement. |
+<table>
+  <tr>
+    <td width="33%" valign="top"><a href="#characters"><strong>🎨 Character atlas</strong></a><br><strong>26</strong> entries<br><sub>Find designs by AI product, creator and style</sub></td>
+    <td width="33%" valign="top"><a href="#assets"><strong>📦 Downloadable assets</strong></a><br><strong>13</strong> packs<br><sub>Originals, credits, processing records and terms</sub></td>
+    <td width="33%" valign="top"><a href="#references"><strong>🧸 Turnarounds & adaptations</strong></a><br><strong>20</strong> reference images<br><sub>Chibi sheets, references and doodle prompts</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><a href="#animations"><strong>🎬 Animation & fan videos</strong></a><br><strong>8</strong> records<br><sub>OPs, MVs, stories, dance and commentary</sub></td>
+    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 Desktop companions</strong></a><br><strong>4</strong> projects<br><sub>Desktop characters, state animations and projects</sub></td>
+    <td width="33%" valign="top"><a href="#sources"><strong>📚 Creator works & sources</strong></a><br><strong>15</strong> sources<br><sub>Creator collections, statements and research leads</sub></td>
+  </tr>
+</table>
+
+Choose a category to jump to its section here. Each section also links to online tools and source files.
+
+<a id="characters"></a>
+
+### 🎨 Character atlas
+
+Find characters, creators and original works across 12 AI products.
+
+[Filter online](https://selinlee.github.io/ai-moe-atlas/en/#catalog) · [Trilingual character records](content/characters.json) · [AI product index](content/entities.json)
+
+<a id="assets"></a>
+
+### 📦 Downloadable assets
+
+13 packs include originals, normalized files, source records and credits.
+
+[Browse asset packs](public/packs/) · [Artwork-specific terms](RIGHTS.md) · [Make an avatar or introduction card](https://selinlee.github.io/ai-moe-atlas/en/studio/) · [Studio guide](docs/STUDIO.en.md)
+
+<a id="references"></a>
+
+### 🧸 Turnarounds & adaptations
+
+All 20 images are generated adaptations with references, credits and generation records.
+
+[7 chibi turnarounds](#chibi-gallery) · [6 standard and chibi sheets](#v5-gallery) · [7 doodles and prompt templates](#doodle-gallery)
+
+<a id="animations"></a>
+
+### 🎬 Animation & fan videos
+
+Open the original video directly. Earlier works and character references are in the [full records](content/resources.json).
+
+| Date | Work | Publisher | Metadata review |
+| --- | --- | --- | --- |
+| 2026-10-24 | [New character: Fat Fish](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | Restricted · partial check |
+| 2026-10-23 | [Dragon-girl commentary · A seat before the rankings](https://www.bilibili.com/video/BV1YFn46SEEr/) | chatgpt小龙娘在运营 | Page metadata checked |
+| 2026-10-23 | [Blue Fat Fish · Let Me Go MV](https://www.bilibili.com/video/BV1qhn46bEBC/) | ---星-月--- | Restricted · partial check |
+| 2026-10-23 | [Fat Fish, why are you wearing Claude’s clothes?](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | Restricted · partial check |
+| 2026-10-23 | [What if AI girls joined a race?](https://www.bilibili.com/video/BV1AAnt6qEek/) | 挚一梓宝 | Page metadata checked |
+| 2026-10-14 | [AI girls Renaissance](https://www.bilibili.com/video/BV1hdpC6PETf/) | 桃莉鸭 | Page metadata checked |
+| 2026-10-05 | [Nico Whale OP · AI character replacement](https://www.bilibili.com/video/BV1TBHp6AEAC/) | 风音日日日日和 | Restricted · partial check |
+| 2026-10-03 | [All AI girls · Senren Banka OP](https://www.bilibili.com/video/BV18kaS6zEgi/) | hihihihi202 | Page metadata checked |
+
+These records cover publication text and metadata; frame-by-frame review remains pending. Reuse terms require artwork-specific review, so these entries link to their originals.
+
+<a id="desktop-pets"></a>
+
+### 🐾 Desktop companions
+
+| Project | Content | Publisher |
+| --- | --- | --- |
+| [OpenPet · AI Girls](https://github.com/AwesomeHou/openpet-ai-girls) | Desktop companion assets for multiple AI characters | AwesomeHou |
+| [Clawd](https://github.com/KebeliSamet0/clawd) | Claude pixel companion | KebeliSamet0 |
+| [Codex DeepSeek Pet](https://github.com/YunYueSama/codex-deepseek-pet) | Community whale-girl companion; reference provenance incomplete | YunYueSama |
+| [CrossPet](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | Switches characters and actions with AI products and work states | lokicorvus / CrossPet contributors |
+
+Source links only. Artwork follows its own upstream terms; code licenses do not automatically cover character images.
+
+<a id="sources"></a>
+
+### 📚 Creator works & sources
+
+Original works and attribution: [Shangshan · whale-girl original](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI-girl collection](https://www.pixiv.net/artworks/148186519) · [Source and usage statement](https://t.bilibili.com/1231980045693616162)
+
+Newly added:
+
+- [Some updates · creator collection](https://www.pixiv.net/artworks/150718881) — Later 20-page creator collection, marked AI-generated.
+- [AI girls, second batch · Seed and RWKV](https://www.bilibili.com/opus/1236803362705375305) — Second-batch creator post, including Seed and RWKV leads.
+- [MiMo personification · 甶丶](https://www.bilibili.com/opus/1242097128919007239) — MiMo personification post.
+- [Mico · official character and migration](https://support.microsoft.com/en-us/microsoft-365-copilot/frequently-asked-questions-about-retired-copilot-features) — Mico official identity and migration notice.
+
+[Existing source leads](content/leads.json) · [New resource records](content/resources.json) · [Review and evidence](content/research/2026-11-06/) · [Contribute a source](docs/CONTRIBUTING.en.md)
 
 ## Timeline and open items
 
 | Date / status | Progress |
 | --- | --- |
+| 2026-11-06 · Local update | Six homepage categories and 13 new source records, including 8 animated fan works. Verification scope, usage terms and [hashed evidence](content/research/2026-11-06/) are retained. |
 | 2026-09-29 · Collected | Artwork was available to view and download for 11 of 12 AI products. Copilot had a source link only. [Coverage record](docs/BASELINES.en.md) |
 | 2026-10 · Published | Six character reference sheets were archived on Oct 8. Seven chibi turnarounds followed on Oct 31. |
 | 2026-11-03 · Published | Seven character doodles and their prompt template were added. |
 | Open · Copilot | Find a high-resolution creator original and verify display and redistribution terms before adding assets. [Candidate record](docs/BASELINES.en.md) |
 | Open · GLM fox-girl | Trace the design in video BV1iDeQ6fEFi to its original artist and verify adaptation terms. [Attribution record](docs/CHIBI.en.md) |
 
+Animation records are based on publication text and metadata; videos were not downloaded or reviewed frame by frame. Four video pages returned HTTP 412 with readable embedded metadata and are labeled partially checked. Public posting, a platform originality flag or an MIT code license does not authorize asset redistribution. ZipZipPipe marks Some updates as AI-generated. Mico’s official identity and artwork reuse permission are assessed separately.
+
 ## Character galleries
+
+<a id="doodle-gallery"></a>
 
 <details>
 <summary>7 character doodles and their prompt</summary>
@@ -66,6 +151,8 @@ Community designs for GPT, Gemini, Claude, Kimi and Qwen are by ZipZipPipe. Deep
 [Copyable template](docs/DOODLE.en.md) · [Files, SHA-256 and processing records](public/generated/rough-doodle-v1/manifest.json)
 
 </details>
+
+<a id="chibi-gallery"></a>
 
 <details>
 <summary>7 chibi turnarounds</summary>
@@ -98,6 +185,8 @@ Generated turnaround adaptations from ai_video, not official characters or creat
 [Turnarounds, sources and usage notes](docs/CHIBI.en.md) · [Files and processing records](public/generated/super-chibi-v1/manifest.json)
 
 </details>
+
+<a id="v5-gallery"></a>
 
 <details>
 <summary>Earlier v5 references · Standard and chibi</summary>
