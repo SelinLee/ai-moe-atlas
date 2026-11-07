@@ -1,0 +1,26 @@
+{
+  "url": "https://github.com/zuishi2006-pixel/dsh-whale-pet/blob/89e06e73abcb2dbc8e846b449ded33d4970a1173/README.md",
+  "publisher": "zuishi2006-pixel",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T16:47:16.389Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/zuishi2006-pixel/dsh-whale-pet/blob/89e06e73abcb2dbc8e846b449ded33d4970a1173/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/zuishi2006-pixel/dsh-whale-pet/89e06e73abcb2dbc8e846b449ded33d4970a1173/README.md",
+    "commit": "89e06e73abcb2dbc8e846b449ded33d4970a1173",
+    "sourceSha256": "3f55fafbfab22178111567e29aa6ac70cc5d6f5f5e0e00e0945ab04072b5cb6b"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/zuishi2006-pixel/dsh-whale-pet/blob/89e06e73abcb2dbc8e846b449ded33d4970a1173/NOTICE",
+      "rawUrl": "https://raw.githubusercontent.com/zuishi2006-pixel/dsh-whale-pet/89e06e73abcb2dbc8e846b449ded33d4970a1173/NOTICE",
+      "commit": "89e06e73abcb2dbc8e846b449ded33d4970a1173",
+      "sourceSha256": "9521e459beff487fcb70b43f716a22af4ec9b56896ccf3d1e109fdd27752ea72"
+    }
+  ],
+  "findings": {
+    "artworkSource": "Sutera-Diffusus/dsh-whale-musume",
+    "audioSource": "aceice01/dsh-whale-pet",
+    "audioScope": "Local noncommercial demonstration according to NOTICE"
+  }
+}

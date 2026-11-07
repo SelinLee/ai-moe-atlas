@@ -1,0 +1,33 @@
+{
+  "url": "https://www.bilibili.com/video/BV1dmxu6HEBB/",
+  "publisher": "灰箱子official",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dmxu6HEBB",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:47:04.215Z",
+  "scope": "Official metadata and publicly published cover checked. Video and cover remain linked at the original source.",
+  "metadata": {
+    "bvid": "BV1dmxu6HEBB",
+    "title": "想要吃掉你储存的千问大小姐喜欢吗？",
+    "owner": {
+      "name": "灰箱子official",
+      "mid": 125986499
+    },
+    "pubdate": 1793103004
+  },
+  "credits": [],
+  "coverObservation": {
+    "bvid": "BV1dmxu6HEBB",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dmxu6HEBB",
+    "httpStatus": 200,
+    "code": 0,
+    "cover": "http://i2.hdslb.com/bfs/archive/d7d3389dca2cd4c5b70bf4494fc67325fe767c04.jpg",
+    "coverHttpStatus": 200,
+    "accessedAt": "2026-11-07T16:50:09.710Z",
+    "sha256": "782c04ab65662303c20e46296c1afad9247c67c2d5b62a29ceee6b12444acb50",
+    "bytes": 189956,
+    "width": 1920,
+    "height": 1080,
+    "finding": "Public cover shows a Qwen personification and smaller versions"
+  }
+}

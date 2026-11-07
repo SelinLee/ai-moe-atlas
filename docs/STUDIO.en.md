@@ -5,7 +5,7 @@
 Use the studio link on a character or asset, or choose a local image in the studio. Processing stays in the browser. Local images, creators and declarations are not uploaded or added to the public atlas.
 
 1. Select an artwork and asset, then a full portrait (768 × 1024), avatar canvas (512 × 512), introduction card or custom settings. Dimensions include credits and are site defaults, not platform specifications.
-2. Presets require a review for that specific use. Currently 13 collections allow full-image fitting and 3 CC BY-NC-SA collections allow introduction cards. Downloadability does not grant card permission. Personal card titles do not represent official lore.
+2. Presets require a review for that specific use. Currently 14 collections allow full-image fitting and 3 CC BY-NC-SA collections allow introduction cards. Downloadability does not grant card permission. Personal card titles do not represent official lore.
 3. Advanced settings adjust aspect ratio, size, padding, background and format; editing them switches to Custom. The complete image is fitted proportionally, including its corners inside circular canvases. Upscaling does not recover detail.
 4. Inspect the final credited preview. Credits occupy a separate area without covering the artwork. If text does not fit, increase the size or shorten local text; nothing is silently truncated.
 5. Export a ZIP containing the credited image, original bytes, source and processing records, and retained evidence for collected assets. Keep visible credits and conditions when sharing. Full credits can also be copied. Generating a download does not prove it was permanently saved to disk.

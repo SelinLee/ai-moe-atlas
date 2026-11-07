@@ -1,0 +1,33 @@
+{
+  "url": "https://www.bilibili.com/video/BV1R2hk6fERs/",
+  "publisher": "the-good-time",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1R2hk6fERs",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:47:04.659Z",
+  "scope": "Official metadata and publicly published cover checked. Video and cover remain linked at the original source.",
+  "metadata": {
+    "bvid": "BV1R2hk6fERs",
+    "title": "mimov2.6出了雷总再来一次百亿补贴吧",
+    "owner": {
+      "name": "the-good-time",
+      "mid": 494367631
+    },
+    "pubdate": 1790042959
+  },
+  "credits": [],
+  "coverObservation": {
+    "bvid": "BV1R2hk6fERs",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1R2hk6fERs",
+    "httpStatus": 200,
+    "code": 0,
+    "cover": "http://i1.hdslb.com/bfs/archive/1815b901a6cab602d6e294d2326901762d1eb85e.jpg",
+    "coverHttpStatus": 200,
+    "accessedAt": "2026-11-07T16:50:09.660Z",
+    "sha256": "5f11e73c33b0da47adf4e2e3b55096a1f0eecb5f701e79066dd3db3fbba311e5",
+    "bytes": 2008738,
+    "width": 2160,
+    "height": 1620,
+    "finding": "Public cover shows a MiMo personification"
+  }
+}

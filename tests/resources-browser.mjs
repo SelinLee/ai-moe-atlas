@@ -47,6 +47,8 @@ try{
   assert.match(await visibleAnimations.first().innerText(),new RegExp(ranked[0].likes.count.toLocaleString(lang)));
   assert.ok(await visibleAnimations.first().locator(`a[href="${ranked[0].likes.sourceUrl}"]`).first().isVisible());
   assert.equal(await page.locator('.resource-list img,.resource-list video,.resource-list iframe').count(),0);
+  await page.locator('#resource-search').fill('花水r_Official');
+  assert.ok(await page.locator('#bv1rkje6geh2').isVisible());
   await page.locator('#resource-search').fill('BV1YFn46SEEr');
   assert.equal(await page.locator('[data-resource-category]:visible').count(),1);
   assert.ok((await page.locator('.language-switch a').first().getAttribute('href')).includes('q=BV1YFn46SEEr'));

@@ -37,6 +37,17 @@ The creator offers the files for everyone to use, requiring attribution and proh
 
 作者は誰でも利用できるよう公開し、作者表示と非商用利用を求めています。原本を保持し、サイズ・余白・形式の技術的な調整だけを行います。他の改変許可は未確認です。作品集内の CC BY-NC-SA 4.0 は DeepSeek の説明に限定し、この5枚には適用しません。`LicenseRef-ZipZipPipe-NC` は作者条件の記録名で、新しい公開ライセンスではありません。
 
+## Copilot · ai-school-op
+
+ai-school-op 的 Copilot 校园版设定图以 CC BY-NC 4.0 发布。限非商业使用，保留作者署名、原图和许可链接，并注明改动。素材包保留 1024 × 1536 原始 PNG，规范化图只做等比缩放、留边与格式转换。片头原作画面、音乐和产品标识各有使用条件。[素材许可][school-op-art] · [CC BY-NC 4.0][cc-by-nc]
+
+The ai-school-op Copilot school design uses CC BY-NC 4.0. Noncommercial use only. Keep creator credit, original and license links, and indicate changes. The pack preserves the original 1024 × 1536 PNG. Normalized images use proportional resizing, padding and format conversion. The source anime, music and product marks have separate terms. [Artwork terms][school-op-art] · [CC BY-NC 4.0][cc-by-nc]
+
+ai-school-op の Copilot 学園版は CC BY-NC 4.0 で公開されています。非商用に限り、作者名、原図とライセンスへのリンクを保持し、変更を明記してください。素材パックは 1024 × 1536 の PNG 原本を保持し、規格統一版は比率維持のリサイズ、余白追加、形式変換のみ行っています。原作アニメ、音楽、製品の標識は個別の条件に従います。[素材の利用条件][school-op-art] · [CC BY-NC 4.0][cc-by-nc]
+
+[school-op-art]: https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/LICENSE
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+
 ## Category preview artwork
 
 两张鲸鱼娘分类图按 CC BY-NC-SA 4.0 作非商业展示。原设为上善无形的「溟月」，女仆版设计来自 ZipZipPipe。桌宠图为 CrossPet 重绘的待机素材，动画图为 Small-tailqwq 的立绘，由 MisakaZentai 收入 PV 制作包。图鉴保留来源文件原字节，预览图只等比缩放、补透明边距并转换编码。[CrossPet 美术声明][crosspet-art] · [PV 素材声明][misaka-art] · [文件及校验记录][preview-art]

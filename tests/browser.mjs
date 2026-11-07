@@ -40,8 +40,8 @@ try {
   await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});
   await page.goto(`${origin}/${lang}/models/`,{waitUntil:'domcontentloaded'});
   assert.equal(await page.locator('[data-baseline]').count(),12);
-  assert.equal(await page.locator('[data-state="ready"]').count(),11);
-  assert.equal(await page.locator('[data-state="candidate"]').count(),1);
+  assert.equal(await page.locator('[data-state="ready"]').count(),12);
+  assert.equal(await page.locator('[data-state="candidate"]').count(),0);
   assert.equal(await page.locator('[data-state="missing"]').count(),0);
   assert.equal(await page.locator('[data-state="candidate"] img').count(),0);
   await page.goto(`${origin}/${lang}/characters/zipzippipe-chatgpt/`,{waitUntil:'domcontentloaded'});

@@ -1,0 +1,127 @@
+{
+  "id": "school-op-copilot",
+  "characterId": "school-op-copilot",
+  "repository": "lshhhhhhh/ai-school-op",
+  "revision": "379e83eebe0f5c34eefa81ca4ef8203c1c54ae64",
+  "pageUrl": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/README.md",
+  "originalPublication": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/copilot.png",
+  "collectedAt": "2026-11-08",
+  "attribution": [
+    {
+      "name": "ai-school-op · lshhhhhhh",
+      "url": "https://github.com/lshhhhhhh/ai-school-op",
+      "role": "publisher",
+      "publication": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/copilot.png"
+    }
+  ],
+  "provenanceStatus": "creator-published-github-file",
+  "rights": {
+    "license": "CC-BY-NC-4.0",
+    "scope": "artwork",
+    "display": true,
+    "redistribute": true,
+    "modify": true,
+    "commercial": false,
+    "evidenceUrl": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/LICENSE",
+    "reviewedBy": "AI Moe Atlas source review",
+    "reviewedAt": "2026-11-08",
+    "terms": {
+      "zh": "以 CC BY-NC 4.0 提供此校园版设定图。限非商业使用，保留作者、作品出处、许可链接并标明改动。图鉴仅进行等比缩放、留边和格式转换。原动画、音乐与产品标识各有使用条件。",
+      "en": "This school-version design sheet uses CC BY-NC 4.0. Noncommercial use only. Preserve creator credit, source and license links, and identify changes. Atlas only resizes proportionally, pads and converts formats. The original anime, music and product branding have separate terms.",
+      "ja": "この学園版の設定画は CC BY-NC 4.0 です。非商用に限り、作者名・出典・ライセンスを示し、変更を明記してください。図鑑での処理は比率維持のリサイズ、余白追加、形式変換のみ。原作アニメ、音楽、製品の標識は個別の条件に従います。"
+    }
+  },
+  "evidenceSnapshots": [
+    {
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/lshhhhhhh/ai-school-op/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/README.md",
+      "commit": "379e83eebe0f5c34eefa81ca4ef8203c1c54ae64",
+      "retrievedAt": "2026-11-07T16:47:15.852Z",
+      "sha256": "038e45d72d96b2d8889a5c9d2a758ba2e5bdcfebd3f449180ee07f1de6c7037f",
+      "licenseStatement": "人设图、提示词和文档：CC BY-NC 4.0。",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+      "scope": "Standalone character design artwork in cast/designs"
+    },
+    {
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/lshhhhhhh/ai-school-op/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/README.md",
+      "commit": "379e83eebe0f5c34eefa81ca4ef8203c1c54ae64",
+      "retrievedAt": "2026-11-07T16:47:15.976Z",
+      "sha256": "9ce2992a8cec33e6faa9f50fa6d69c9095b7f3cac7ef39e5adba65864de6fee5",
+      "entry": "Copilot",
+      "file": "cast/designs/copilot.png",
+      "video": "https://www.bilibili.com/video/BV1Nfag6xEHQ/",
+      "method": "Upstream GPT image generation. The same repository identifies the original Copilot school design."
+    },
+    {
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/copilot.prompt.txt",
+      "rawUrl": "https://raw.githubusercontent.com/lshhhhhhh/ai-school-op/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/copilot.prompt.txt",
+      "commit": "379e83eebe0f5c34eefa81ca4ef8203c1c54ae64",
+      "retrievedAt": "2026-11-07T16:47:16.186Z",
+      "sha256": "9e434c73c181ca5397ec3107d2582c2d58d4a0cd0e149b2fd04f88bfce9e0bbc",
+      "referenceScope": "Shared school uniform construction and drawing style"
+    },
+    {
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/lshhhhhhh/ai-school-op/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/LICENSE",
+      "commit": "379e83eebe0f5c34eefa81ca4ef8203c1c54ae64",
+      "accessedAt": "2026-11-07T16:47:15.848Z",
+      "sourceSha256": "8760ba7060e10f137b752e94ccb64009286939d15bbfd2bc5c6e55abab39a755",
+      "scope": "The creator license expressly lists the artwork in cast/designs/ under CC BY-NC 4.0."
+    }
+  ],
+  "files": [
+    {
+      "id": "portrait",
+      "path": "cast/designs/copilot.png",
+      "sha256": "da26d83b68e2efc8f9153661dbc354e167f76b710501b4b73193c7141e483ab9",
+      "label": {
+        "zh": "校园版原始全身立绘",
+        "en": "Original school-version full portrait",
+        "ja": "学園版の全身立ち絵原本"
+      }
+    }
+  ],
+  "retrievedAt": "2026-11-07T16:48:56.557Z",
+  "evidence": [
+    {
+      "sourceUrl": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/README.md",
+      "localPath": "collected/school-op-copilot/evidence/source-statement-1.json",
+      "sha256": "a166c11ce7ad9cc7cc4c4a4c6fee441beb66a9cbc93008d3c96e608c112e8c79"
+    },
+    {
+      "sourceUrl": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/README.md",
+      "localPath": "collected/school-op-copilot/evidence/source-statement-2.json",
+      "sha256": "434bba504e6a4a6a324695fb58a16fc6a3bc66adc1226e9aaa302b776deee5f6"
+    },
+    {
+      "sourceUrl": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/copilot.prompt.txt",
+      "localPath": "collected/school-op-copilot/evidence/source-statement-3.json",
+      "sha256": "d434cd8846ed56aabeb56476980045dd3d7f9255cc2d710a7c577a120967622f"
+    },
+    {
+      "sourceUrl": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/LICENSE",
+      "localPath": "collected/school-op-copilot/evidence/source-statement-4.json",
+      "sha256": "34717fe637260340a421b5f596470e6d44eed57e36daaf83526b6c00036e7cf3"
+    }
+  ],
+  "originals": [
+    {
+      "id": "portrait",
+      "path": "cast/designs/copilot.png",
+      "sha256": "da26d83b68e2efc8f9153661dbc354e167f76b710501b4b73193c7141e483ab9",
+      "label": {
+        "zh": "校园版原始全身立绘",
+        "en": "Original school-version full portrait",
+        "ja": "学園版の全身立ち絵原本"
+      },
+      "sourceUrl": "https://raw.githubusercontent.com/lshhhhhhh/ai-school-op/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/copilot.png",
+      "sourcePage": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/copilot.png",
+      "localPath": "collected/school-op-copilot/portrait/original.png",
+      "width": 1024,
+      "height": 1536,
+      "alpha": false,
+      "bytes": 1630127
+    }
+  ]
+}

@@ -36,7 +36,11 @@ const pending=await readPendingAnimationCandidates(registry,new URL('../../../',
     </ul>
   </details>}
   <div class="resource-list" id="resource-list">
-    {ordered.map(r=><article class="resource-record" id={r.id} data-resource-category={r.category} data-resource-type={r.subtype} data-resource-search={`${r.title.zh} ${r.title.en} ${r.title.ja} ${r.sourceTitle??''} ${r.publisher} ${r.bvid??''} ${r.summary[lang]}`}>
+    {ordered.map(r=><article class="resource-record" id={r.id} data-resource-category={r.category} data-resource-type={r.subtype}
+      data-resource-search={[
+        r.title.zh,r.title.en,r.title.ja,r.sourceTitle,r.publisher,r.bvid,r.summary[lang],
+        ...r.relations.map(link=>link.title),
+      ].join(' ')}>
       <div class="resource-record-top"><span class="pill">{s.category[r.category].title}</span>{r.subtype&&<span class="resource-subtype">{s.types[r.subtype as keyof typeof s.types]}</span>}</div>
       <h2><a href={r.url} target="_blank" rel="noopener noreferrer">{r.title[lang]} ↗</a></h2>
       <p class="resource-byline">{s.publisher} · {r.publisher} {r.publicationDate&&<> · {s.published} <time datetime={r.publicationDate}>{r.publicationDate}</time></>}{r.bvid&&<> · {r.bvid}</>}</p>
