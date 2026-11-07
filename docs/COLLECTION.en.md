@@ -38,3 +38,5 @@ node scripts/collect-bilibili-likes.mjs > /tmp/atlas-bilibili-likes.json
 ```
 
 The command uses an isolated headless Chrome session to collect official cumulative likes for cataloged fan videos. Add candidate BV IDs after the script name to check them in the same run. The JSON output is a draft. When the command exits with status 1, check the BV IDs in its error output. Verify each title, uploader, BV ID and publication date. Keep the last valid observation when a refresh fails. Save reviewed evidence under `content/research/` and record its path and SHA-256 in `content/resources.json`. Run `node scripts/update-readme-rankings.mjs` to sync the ranking and fan-video count across the three READMEs.
+
+`pendingAnimationEvidence` points to evidence for candidates awaiting a recheck. Each capture retries these BV IDs and lists them under `trackedCandidateIds`. Any unresolved IDs appear in the error output. The command exits with status 1 when a cataloged or explicitly supplied video fails verification. When a candidate becomes available, review the original post before moving it into the catalog.

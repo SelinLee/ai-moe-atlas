@@ -1,14 +1,17 @@
 import { readFile } from 'node:fs/promises';
 import { chromium } from 'playwright';
+import { readPendingAnimationCandidates } from './lib/resources.mjs';
 
 const supplied = process.argv.slice(2);
 if (supplied.some(id => !/^BV[0-9A-Za-z]{10}$/.test(id))) {
   throw new Error('Arguments must be Bilibili BV IDs');
 }
 
-const registry = JSON.parse(await readFile(new URL('../content/resources.json', import.meta.url), 'utf8'));
+const root = new URL('../', import.meta.url);
+const registry = JSON.parse(await readFile(new URL('content/resources.json', root), 'utf8'));
 const ids = new Set(registry.records.filter(record => record.category === 'animation').map(record => record.bvid));
-const leads = [...new Set(supplied)].filter(id => !ids.has(id));
+const tracked = (await readPendingAnimationCandidates(registry, root)).map(row => row.bvid);
+const leads = [...new Set([...tracked, ...supplied])].filter(id => !ids.has(id));
 const browser = await chromium.launch({ channel: 'chrome', headless: true });
 
 const isVerified = row => row.httpStatus === 200 && row.code === 0 && row.metadata?.bvid === row.bvid
@@ -47,6 +50,7 @@ try {
     method: 'isolated-headless-google-chrome', contextUrl: page.url(), contextHttpStatus: response.status(),
     capturedAt: new Date().toISOString(), metric: 'total-likes', source: 'bilibili-view-api', field: 'data.stat.like',
     videos: observations.filter(row => ids.has(row.bvid)),
+    trackedCandidateIds: tracked,
     candidates: observations.filter(row => !ids.has(row.bvid)),
   };
   process.stdout.write(JSON.stringify(snapshot, null, 2) + '\n');
@@ -54,7 +58,7 @@ try {
   const unverified = observations.filter(row => !isVerified(row));
   if (unverified.length) {
     process.stderr.write(`Unverified observations: ${unverified.map(row => row.bvid).join(', ')}\n`);
-    process.exitCode = 1;
+    if (unverified.some(row => ids.has(row.bvid) || supplied.includes(row.bvid))) process.exitCode = 1;
   }
 } finally {
   await browser.close();

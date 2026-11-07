@@ -1,7 +1,8 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
-import {assertResources} from '../scripts/lib/resources.mjs';
+import {createHash} from 'node:crypto';
+import {assertResources,readPendingAnimationCandidates} from '../scripts/lib/resources.mjs';
 const root=new URL('../',import.meta.url);
 const registry=JSON.parse(await readFile(new URL('content/resources.json',root),'utf8'));
 test('new resources retain source chains, video metadata and hashed evidence',async()=>{
@@ -15,4 +16,14 @@ test('source-only records reject artwork exports, missing languages and false ve
     const copy=structuredClone(registry);mutate(copy.records.find(r=>r.verification.result==='metadata-verified'));
     await assert.rejects(()=>assertResources(copy,root));
   }
+});
+test('pending animation evidence is checked and cannot duplicate cataloged BV IDs',async()=>{
+  const path='content/research/2026-11-07/bilibili-cumulative-likes-provenance.json';
+  const bytes=await readFile(new URL(path,root));
+  const pendingAnimationEvidence={path,kind:'browser-metadata-extract',sha256:createHash('sha256').update(bytes).digest('hex')};
+  const draft={records:[],pendingAnimationEvidence};
+  const candidates=await readPendingAnimationCandidates(draft,root);
+  assert.deepEqual(candidates.map(row=>row.bvid),['BV1rfsf6PEiQ','BV1NL4u6MEGE']);
+  await assert.rejects(()=>readPendingAnimationCandidates({...draft,records:[{bvid:candidates[0].bvid}]},root),/duplicate/);
+  await assert.rejects(()=>readPendingAnimationCandidates({...draft,pendingAnimationEvidence:{...pendingAnimationEvidence,sha256:'0'.repeat(64)}},root),/hash mismatch/);
 });

@@ -1,0 +1,34 @@
+{
+  "url": "https://www.bilibili.com/video/BV186pc65E68/",
+  "publisher": "真寻Mahiro",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV186pc65E68",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:27:58.929Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV186pc65E68",
+    "title": "【4K60】用10亿token 13017帧 画出Claude眼中的世界 | world.execute(me);",
+    "owner": {
+      "name": "真寻Mahiro",
+      "mid": 56474986
+    },
+    "pubdate": 1791293870
+  },
+  "credits": [
+    {
+      "role": "production-project",
+      "title": "Nyankomintsu · world-execute-me-lyric-mv",
+      "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv/blob/93ac63775ee58b33ff102167514f2603a48940cc/README.md"
+    },
+    {
+      "role": "music-terms",
+      "title": "Mili · Copyright Guidelines",
+      "url": "https://projectmili.com/copyright-guidelines"
+    }
+  ],
+  "findings": {
+    "music": "Mili original song",
+    "sourceLayers": "video, software, character artwork and song have separate terms"
+  }
+}

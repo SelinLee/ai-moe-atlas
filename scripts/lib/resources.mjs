@@ -11,8 +11,27 @@ async function readEvidence(evidence,root){
   return JSON.parse(bytes);
 }
 
+export async function readPendingAnimationCandidates(registry, root) {
+  if (!registry.pendingAnimationEvidence) return [];
+  const snapshot = await readEvidence(registry.pendingAnimationEvidence, root);
+  if (snapshot.source !== 'bilibili-view-api' || snapshot.metric !== 'total-likes' || !Array.isArray(snapshot.pendingCandidates)) {
+    throw new Error('Invalid pending animation evidence');
+  }
+  const ids = new Set(registry.records.map(record => record.bvid));
+  for (const row of snapshot.pendingCandidates) {
+    if (!/^BV[0-9A-Za-z]{10}$/.test(row.bvid) || ids.has(row.bvid) || row.likes !== null ||
+      !['source-unavailable', 'likes-unavailable'].includes(row.status) || !Number.isFinite(Date.parse(row.observedAt)) ||
+      row.requestUrl !== 'https://api.bilibili.com/x/web-interface/view?bvid=' + row.bvid) {
+      throw new Error('Invalid or duplicate pending animation candidate');
+    }
+    ids.add(row.bvid);
+  }
+  return snapshot.pendingCandidates;
+}
+
 export async function assertResources(registry,root){
   if(registry.schemaVersion!==1||registry.scope!=='source-metadata-only'||!/^\d{4}-\d{2}-\d{2}$/.test(registry.updatedAt)||!Array.isArray(registry.records))throw new Error('Invalid resource registry');
+  await readPendingAnimationCandidates(registry, root);
   const ids=new Set(),urls=new Set();
   for(const r of registry.records){
     if(!/^[a-z0-9-]+$/.test(r.id)||ids.has(r.id)||urls.has(r.url)||!https(r.url))throw new Error('Invalid or duplicate resource identity');ids.add(r.id);urls.add(r.url);

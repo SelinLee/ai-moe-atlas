@@ -38,3 +38,5 @@ node scripts/collect-bilibili-likes.mjs > /tmp/atlas-bilibili-likes.json
 ```
 
 命令用独立无头 Chrome 采集现有二创的官方累计点赞。在脚本名后加上候选作品的 BV 号，即可一并核查。输出是待审核的 JSON，退出状态为 1 时检查错误输出列出的 BV 号。逐条核对标题、投稿人、BV 号和发布日期，采集失败时保留上次的有效观测。审核后的数据保存到 `content/research/`，在 `content/resources.json` 中记录证据路径和 SHA-256，再运行 `node scripts/update-readme-rankings.mjs` 同步三语 README 的榜单及二创数量。
+
+`pendingAnimationEvidence` 指向待复查候选的证据。每次采集都会自动查询这些 BV 号，并在报告的 `trackedCandidateIds` 中列出。仍取不到数据的待复查候选会在错误输出中列出，已收录或本次手动指定的作品核验失败时命令返回状态 1。候选恢复后先核对原投稿，再从待复查清单移入作品目录。

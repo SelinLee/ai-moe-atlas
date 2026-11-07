@@ -1,0 +1,35 @@
+{
+  "url": "https://www.bilibili.com/video/BV14R4X68EFZ/",
+  "publisher": "ZipZipPipe",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV14R4X68EFZ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:26:39.733Z",
+  "scope": "Creator’s official video metadata and description checked. Video and still artwork were not acquired.",
+  "metadata": {
+    "bvid": "BV14R4X68EFZ",
+    "title": "AI娘结算画面",
+    "owner": {
+      "name": "ZipZipPipe",
+      "mid": 4168597
+    },
+    "pubdate": 1788074837
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    }
+  ],
+  "findings": {
+    "creatorDeclaredLicense": "CC BY-NC-SA 4.0",
+    "declaredLicenseScope": "whale-girl adaptation",
+    "otherCharacters": "no item-specific grant found in description"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://github.com/Gryphus-Triune/Claude-Niang/blob/2987949fb1afd3ce02f1ee4300e22315cbcab73d/README.md",
+  "publisher": "Gryphus-Triune",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T15:27:52.005Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/Gryphus-Triune/Claude-Niang/blob/2987949fb1afd3ce02f1ee4300e22315cbcab73d/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Gryphus-Triune/Claude-Niang/2987949fb1afd3ce02f1ee4300e22315cbcab73d/README.md",
+    "commit": "2987949fb1afd3ce02f1ee4300e22315cbcab73d",
+    "sourceSha256": "90a9882b8f1c4fbe7bb03cd4d083f9bbd253a801f0a76fae828b5407a777b9ed"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/Gryphus-Triune/Claude-Niang/blob/2987949fb1afd3ce02f1ee4300e22315cbcab73d/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Gryphus-Triune/Claude-Niang/2987949fb1afd3ce02f1ee4300e22315cbcab73d/LICENSE",
+      "commit": "2987949fb1afd3ce02f1ee4300e22315cbcab73d",
+      "sourceSha256": "165322578e2fc27607607226d7da72e8b1b5575fd03f5500f9a6fe5ad81b7f5e"
+    }
+  ],
+  "findings": {
+    "mitScope": [
+      "code",
+      "built-in quotes",
+      "click sounds"
+    ],
+    "defaultArtwork": "separate from MIT, credited to repository author"
+  }
+}

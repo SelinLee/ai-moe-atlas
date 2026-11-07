@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV159nc6mEsm/",
+  "publisher": "Grok大小姐在运营",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV159nc6mEsm",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:26:40.136Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV159nc6mEsm",
+    "title": "【Day 0】Grok 大小姐来了｜@grok 这是真的吗？是真的。",
+    "owner": {
+      "name": "Grok大小姐在运营",
+      "mid": 3706934297364867
+    },
+    "pubdate": 1792487197
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}
