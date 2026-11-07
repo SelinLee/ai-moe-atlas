@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Mmno6FEdf/",
+  "publisher": "末浒丨",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Mmno6FEdf",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:36:51.272Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1Mmno6FEdf",
+    "title": "龙娘GPT的手势舞~",
+    "owner": {
+      "name": "末浒丨",
+      "mid": 4379269
+    },
+    "pubdate": 1793024671
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "workflow-reference",
+      "title": "手势舞制作参考 · BV1u5J16FEbi",
+      "url": "https://www.bilibili.com/video/BV1u5J16FEbi/"
+    }
+  ]
+}

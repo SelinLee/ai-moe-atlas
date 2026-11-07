@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bilibili.com/video/BV1p3JU6ZE8Z/",
+  "publisher": "红メ月",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1p3JU6ZE8Z",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:36:51.271Z",
+  "scope": "Creator’s official video metadata and description checked. The linked cloud files were not acquired.",
+  "metadata": {
+    "bvid": "BV1p3JU6ZE8Z",
+    "title": "当GPT降智时候的样子",
+    "owner": {
+      "name": "红メ月",
+      "mid": 628537
+    },
+    "pubdate": 1792089914
+  },
+  "credits": [],
+  "findings": {
+    "creatorDeclaredAssets": [
+      "turnaround",
+      "stickers"
+    ],
+    "underlyingDesignSource": "not specified in description",
+    "independentRedistributionTerms": "not established"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://github.com/yifanchen12/wrap-me-in-plastic-gpt-codex-pv/blob/c6d0c0acd1ca31d21cd193a008c2bd249cf8dd2f/README.md",
+  "publisher": "yifanchen12",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T15:38:54.453Z",
+  "scope": "Pinned project README, notice and inherited source documentation checked. No artwork, motion or audio files acquired.",
+  "pinnedDocument": {
+    "url": "https://github.com/yifanchen12/wrap-me-in-plastic-gpt-codex-pv/blob/c6d0c0acd1ca31d21cd193a008c2bd249cf8dd2f/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/yifanchen12/wrap-me-in-plastic-gpt-codex-pv/c6d0c0acd1ca31d21cd193a008c2bd249cf8dd2f/README.md",
+    "commit": "c6d0c0acd1ca31d21cd193a008c2bd249cf8dd2f",
+    "sourceSha256": "381baf661397a92ccb978b78435c84b9b08bf7e13a882dae6cf830474bf56443"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/yifanchen12/wrap-me-in-plastic-gpt-codex-pv/blob/c6d0c0acd1ca31d21cd193a008c2bd249cf8dd2f/docs/ASSET_SOURCES.md",
+      "rawUrl": "https://raw.githubusercontent.com/yifanchen12/wrap-me-in-plastic-gpt-codex-pv/c6d0c0acd1ca31d21cd193a008c2bd249cf8dd2f/docs/ASSET_SOURCES.md",
+      "commit": "c6d0c0acd1ca31d21cd193a008c2bd249cf8dd2f",
+      "sourceSha256": "fa41a1aad22fc355e38811a4d6c252879b7fedde1d2ddf39e6e24d86c10053cd"
+    },
+    {
+      "url": "https://github.com/yifanchen12/wrap-me-in-plastic-gpt-codex-pv/blob/c6d0c0acd1ca31d21cd193a008c2bd249cf8dd2f/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/yifanchen12/wrap-me-in-plastic-gpt-codex-pv/c6d0c0acd1ca31d21cd193a008c2bd249cf8dd2f/NOTICE.md",
+      "commit": "c6d0c0acd1ca31d21cd193a008c2bd249cf8dd2f",
+      "sourceSha256": "cfd21f68c82557d4dca7706029aef7e80e8ef41bed8e9bfbd187d62aeb5acfa2"
+    },
+    {
+      "url": "https://github.com/yifanchen12/wrap-me-in-plastic-gpt-codex-pv/blob/c6d0c0acd1ca31d21cd193a008c2bd249cf8dd2f/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/yifanchen12/wrap-me-in-plastic-gpt-codex-pv/c6d0c0acd1ca31d21cd193a008c2bd249cf8dd2f/LICENSE",
+      "commit": "c6d0c0acd1ca31d21cd193a008c2bd249cf8dd2f",
+      "sourceSha256": "502c17108e7df567055dba82595ae9650c6a8bfb6440959eda5474fe61d74624"
+    }
+  ],
+  "findings": {
+    "currentMusic": "CHROMANCE · Wrap Me In Plastic",
+    "upstreamMusicReference": "Mili, inherited documentation only",
+    "code": "MIT",
+    "gptArtwork": "separate artwork terms",
+    "upstreamWhaleAssets": "retained separately under their own attribution chain"
+  }
+}

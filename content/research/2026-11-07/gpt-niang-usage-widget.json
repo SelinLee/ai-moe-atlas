@@ -1,0 +1,32 @@
+{
+  "url": "https://github.com/T7moris/GPT-Niang/blob/43f20dee539b642902e56819747a605b3fdddf44/README.md",
+  "publisher": "T7moris",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T15:38:54.075Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/T7moris/GPT-Niang/blob/43f20dee539b642902e56819747a605b3fdddf44/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/T7moris/GPT-Niang/43f20dee539b642902e56819747a605b3fdddf44/README.md",
+    "commit": "43f20dee539b642902e56819747a605b3fdddf44",
+    "sourceSha256": "a221a655cc69b6ddab632b2091f1178e040d2575ec12eef79046950d03f60260"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/T7moris/GPT-Niang/blob/43f20dee539b642902e56819747a605b3fdddf44/gpt-niang-usage/assets/CHARACTER-NOTICE.txt",
+      "rawUrl": "https://raw.githubusercontent.com/T7moris/GPT-Niang/43f20dee539b642902e56819747a605b3fdddf44/gpt-niang-usage/assets/CHARACTER-NOTICE.txt",
+      "commit": "43f20dee539b642902e56819747a605b3fdddf44",
+      "sourceSha256": "7eab05ebad20731f2c02e7a196f9345fd3d031e71e0134b6901f38d379447528"
+    },
+    {
+      "url": "https://github.com/T7moris/GPT-Niang/blob/43f20dee539b642902e56819747a605b3fdddf44/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/T7moris/GPT-Niang/43f20dee539b642902e56819747a605b3fdddf44/LICENSE",
+      "commit": "43f20dee539b642902e56819747a605b3fdddf44",
+      "sourceSha256": "259d12b976d418d9b65a1b612c14a23ebd175e39054851376cb54f0543bf28ff"
+    }
+  ],
+  "findings": {
+    "characterArt": "ImageGen with user-supplied character reference",
+    "software": "MIT",
+    "artworkGrant": "with noncommercial project copies only to the extent the maintainer holds rights"
+  }
+}

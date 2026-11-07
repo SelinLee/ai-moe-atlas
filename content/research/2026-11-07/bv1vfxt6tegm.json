@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1vFxt6TEgm/",
+  "publisher": "希茶TVTEA",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vFxt6TEgm",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:36:51.274Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1vFxt6TEgm",
+    "title": "毕竟是御三家大模型嘛（under my heel）",
+    "owner": {
+      "name": "希茶TVTEA",
+      "mid": 3546947782707530
+    },
+    "pubdate": 1793582400
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "music-reference",
+      "title": "Under My Heel · MIKU dashi",
+      "url": "https://www.bilibili.com/video/BV1gmReBDEHS/"
+    }
+  ]
+}

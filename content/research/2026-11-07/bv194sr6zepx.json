@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV194sR6zEPx/",
+  "publisher": "阿凉燃良茶",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV194sR6zEPx",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:36:51.693Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV194sR6zEPx",
+    "title": "GPT近期重置be like：",
+    "owner": {
+      "name": "阿凉燃良茶",
+      "mid": 15263078
+    },
+    "pubdate": 1793228400
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "inspiration",
+      "title": "发布者列出的参考视频 · BV1d5JQ6pEFS",
+      "url": "https://www.bilibili.com/video/BV1d5JQ6pEFS/"
+    }
+  ]
+}

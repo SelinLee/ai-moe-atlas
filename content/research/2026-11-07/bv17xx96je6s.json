@@ -1,0 +1,19 @@
+{
+  "url": "https://www.bilibili.com/video/BV17xx96jE6s/",
+  "publisher": "一只贝雷塔",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17xx96jE6s",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:36:51.793Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV17xx96jE6s",
+    "title": "人家gpt都没额度了，你还tm逗人家",
+    "owner": {
+      "name": "一只贝雷塔",
+      "mid": 596264462
+    },
+    "pubdate": 1793790104
+  },
+  "credits": []
+}

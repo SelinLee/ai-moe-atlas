@@ -1,0 +1,19 @@
+{
+  "url": "https://www.bilibili.com/video/BV1CxYr6GEtM/",
+  "publisher": "奶糕兽",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CxYr6GEtM",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:36:50.790Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1CxYr6GEtM",
+    "title": "GPT擒住了大肥鱼",
+    "owner": {
+      "name": "奶糕兽",
+      "mid": 128013
+    },
+    "pubdate": 1789357718
+  },
+  "credits": []
+}

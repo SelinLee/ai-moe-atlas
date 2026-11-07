@@ -1,0 +1,32 @@
+{
+  "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/blob/5247dd6813d6e4430728f39ccc63d43cda046022/README.md",
+  "publisher": "MeteorNOX",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T15:38:54.619Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/blob/5247dd6813d6e4430728f39ccc63d43cda046022/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/5247dd6813d6e4430728f39ccc63d43cda046022/README.md",
+    "commit": "5247dd6813d6e4430728f39ccc63d43cda046022",
+    "sourceSha256": "62d6be14ed7a4d0310817fa9e38e7ac9f56cd6f96244dd699871697056b9504d"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/blob/5247dd6813d6e4430728f39ccc63d43cda046022/PROVENANCE.md",
+      "rawUrl": "https://raw.githubusercontent.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/5247dd6813d6e4430728f39ccc63d43cda046022/PROVENANCE.md",
+      "commit": "5247dd6813d6e4430728f39ccc63d43cda046022",
+      "sourceSha256": "d3651cbc73c835dac5de127b844c43b99ef0741386d130cbe3e02893a2fdfaaa"
+    },
+    {
+      "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/blob/5247dd6813d6e4430728f39ccc63d43cda046022/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/5247dd6813d6e4430728f39ccc63d43cda046022/LICENSE",
+      "commit": "5247dd6813d6e4430728f39ccc63d43cda046022",
+      "sourceSha256": "a1e46acc1349f63e9d1e26a8a600823e010fedcaff20fc1eceb6564432bf829b"
+    }
+  ],
+  "findings": {
+    "software": "MIT",
+    "artwork": "distributed as-is for plugin operation",
+    "defaultWhale": "AI-generated, original tool and source unidentified in project documentation"
+  }
+}
