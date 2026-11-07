@@ -37,6 +37,18 @@ The creator offers the files for everyone to use, requiring attribution and proh
 
 作者は誰でも利用できるよう公開し、作者表示と非商用利用を求めています。原本を保持し、サイズ・余白・形式の技術的な調整だけを行います。他の改変許可は未確認です。作品集内の CC BY-NC-SA 4.0 は DeepSeek の説明に限定し、この5枚には適用しません。`LicenseRef-ZipZipPipe-NC` は作者条件の記録名で、新しい公開ライセンスではありません。
 
+## Category preview artwork
+
+两张鲸鱼娘分类图按 CC BY-NC-SA 4.0 作非商业展示。原设为上善无形的「溟月」，女仆版设计来自 ZipZipPipe。桌宠图为 CrossPet 重绘的待机素材，动画图为 Small-tailqwq 的立绘，由 MisakaZentai 收入 PV 制作包。图鉴保留来源文件原字节，预览图只等比缩放、补透明边距并转换编码。[CrossPet 美术声明][crosspet-art] · [PV 素材声明][misaka-art] · [文件及校验记录][preview-art]
+
+These two Whale Girl previews are displayed noncommercially under CC BY-NC-SA 4.0. 上善无形 created 溟月 and ZipZipPipe designed the maid version. CrossPet redrew the idle artwork. Small-tailqwq created the portrait included in MisakaZentai’s PV production files. The source bytes are preserved. The previews were proportionally resized, transparently padded and re-encoded. [CrossPet artwork terms][crosspet-art] · [PV artwork notice][misaka-art] · [File and hash records][preview-art]
+
+クジラ娘の分類画像2点は CC BY-NC-SA 4.0 に従って非営利で掲載しています。原案「溟月」は 上善无形、メイド版は ZipZipPipe。待機素材は CrossPet の描き直しで、PV 制作素材に含まれる立ち絵は Small-tailqwq 作、制作は MisakaZentai です。元のファイルを保持し、プレビューは縦横比を保った縮小、透明余白の追加、再エンコードのみ行いました。[CrossPet の美術規約][crosspet-art] · [PV の素材告知][misaka-art] · [ファイルとハッシュの記録][preview-art]
+
+[crosspet-art]: https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/LICENSE.md
+[misaka-art]: https://github.com/MisakaZentai/world-execute-me-dsh-pv/blob/a598092a1b1db91fa43961a81269353d13419f6f/NOTICE.md
+[preview-art]: content/category-preview-artwork.json
+
 ## ai-models-v5 · 2026-10-08
 
 按用户指定，主页展示六张既有生成派生参考页。它们单独存放于 `public/generated/ai-models-v5/`，不属于作者原图采集包。此展示选择不是新增的上游许可；五款角色的改编许可仍未确认，DeepSeek 保留上游 CC BY-NC-SA 4.0 声明。署名、非商用与适用的相同方式共享条件继续有效。[完整说明](docs/REFERENCES.zh.md)。

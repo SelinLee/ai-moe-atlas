@@ -3,8 +3,34 @@ import { assertSource,sha256 } from './lib/policy.mjs';
 import { assertUsageReview } from '../src/lib/usage-policy.mjs';
 import { assertCandidateReport } from './lib/candidates.mjs';
 import { assertResources } from './lib/resources.mjs';
-const resourceCount=await assertResources(JSON.parse(await readFile('content/resources.json','utf8')),new URL('../',import.meta.url));
+const resources=JSON.parse(await readFile('content/resources.json','utf8'));
+const resourceCount=await assertResources(resources,new URL('../',import.meta.url));
 console.log(`Validated ${resourceCount} source-only resource records, localized metadata and retained evidence hashes.`);
+
+const categoryArtwork=JSON.parse(await readFile('content/category-preview-artwork.json','utf8'));
+if (categoryArtwork.schemaVersion !== 1 || categoryArtwork.scope !== 'noncommercial-category-display') {
+  throw new Error('Invalid category artwork scope');
+}
+for (const {id,target,source,terms,license,original,preview} of categoryArtwork.assets) {
+  const {commit,sourceSha256} = source;
+  if (!/^[a-z0-9-]+$/.test(id) || !/^[a-f0-9]{40}$/.test(commit) ||
+      !source.url.includes(`/blob/${commit}/`) || !source.rawUrl.includes(`/${commit}/`) ||
+      !terms.includes(`/blob/${commit}/`)) {
+    throw new Error(`Category artwork must retain pinned sources: ${id}`);
+  }
+  if (!resources.records.some(record => record.id === target) ||
+      license !== 'https://creativecommons.org/licenses/by-nc-sa/4.0/' ||
+      preview.parentSha256 !== sourceSha256 || original.sha256 !== sourceSha256) {
+    throw new Error(`Category artwork attribution or provenance mismatch: ${id}`);
+  }
+  for (const [name,file] of [['original',original],['preview',preview]]) {
+    const path = `category-previews/${id}/${name}.webp`;
+    if (file.path !== path || sha256(await readFile(`public/${path}`)) !== file.sha256) {
+      throw new Error(`Category artwork file mismatch: ${id}/${name}`);
+    }
+  }
+}
+
 const reviews=JSON.parse(await readFile('content/reviews/artwork-uses.json','utf8'));
 const chars=JSON.parse(await readFile('content/characters.json','utf8'));
 const entities=JSON.parse(await readFile('content/entities.json','utf8'));

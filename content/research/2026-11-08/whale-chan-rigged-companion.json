@@ -1,0 +1,24 @@
+{
+  "url": "https://github.com/jiaming1145/deepSeek-pet/blob/a7270586bc5bc55d435d87f31e06706dad70c436/README.md",
+  "publisher": "jiaming1145",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T16:10:18.932Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/jiaming1145/deepSeek-pet/blob/a7270586bc5bc55d435d87f31e06706dad70c436/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/jiaming1145/deepSeek-pet/a7270586bc5bc55d435d87f31e06706dad70c436/README.md",
+    "commit": "a7270586bc5bc55d435d87f31e06706dad70c436",
+    "sourceSha256": "05a3c07dc1af6bcba802135ccdbc508fde1c03a16831ab0db211db94a312ccf1"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/jiaming1145/deepSeek-pet/blob/a7270586bc5bc55d435d87f31e06706dad70c436/NOTICE",
+      "rawUrl": "https://raw.githubusercontent.com/jiaming1145/deepSeek-pet/a7270586bc5bc55d435d87f31e06706dad70c436/NOTICE",
+      "commit": "a7270586bc5bc55d435d87f31e06706dad70c436",
+      "sourceSha256": "c6e79ab5c17c5814f7edc2cdeb73267679d288c8aa6d673181e9e637b1e0d33b"
+    }
+  ],
+  "findings": {
+    "characterArtwork": "Credited to the project author and excluded from the MIT code license"
+  }
+}

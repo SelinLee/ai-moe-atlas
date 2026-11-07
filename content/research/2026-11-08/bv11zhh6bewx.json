@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV11ZHH6bEWX/",
+  "publisher": "一口一个Axon",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV11ZHH6bEWX",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:10:09.905Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV11ZHH6bEWX",
+    "title": "【DeepSeek/MV】明明是数据组成的/伪物/...",
+    "owner": {
+      "name": "一口一个Axon",
+      "mid": 516831357
+    },
+    "pubdate": 1791179923
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

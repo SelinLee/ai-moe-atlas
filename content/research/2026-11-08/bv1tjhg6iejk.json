@@ -1,0 +1,40 @@
+{
+  "url": "https://www.bilibili.com/video/BV1TjHG6iEjk/",
+  "publisher": "DeepSeek哦鲸鲸在运营",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TjHG6iEjk",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:10:09.903Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1TjHG6iEjk",
+    "title": "【紧急集合】全体鲸鱼娘注意！大肥鱼清除计划来了？",
+    "owner": {
+      "name": "DeepSeek哦鲸鲸在运营",
+      "mid": 677547867
+    },
+    "pubdate": 1792916447
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "framing-reference",
+      "title": "ChatGPT龙娘在运营 · 紧急更新",
+      "url": "https://www.bilibili.com/video/BV1WgHK6jEeU/"
+    },
+    {
+      "role": "topic-source",
+      "title": "程序员鱼皮 · 大肥鱼清除计划",
+      "url": "https://www.bilibili.com/video/BV1Ywn46EEyF/"
+    }
+  ]
+}

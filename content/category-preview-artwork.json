@@ -1,0 +1,74 @@
+{
+  "schemaVersion": 1,
+  "scope": "noncommercial-category-display",
+  "assets": [
+    {
+      "id": "crosspet-whale",
+      "target": "crosspet",
+      "usage": "Original CrossPet AI-assisted whale girl idle artwork. Original design by 上善无形, maid design by ZipZipPipe, project redraw by CrossPet.",
+      "source": {
+        "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/deepseek/idle.webp",
+        "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/deepseek/idle.webp",
+        "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+        "path": "characters/deepseek/idle.webp",
+        "gitBlobSha1": "58fdeb97160b4260a5e00e0be88b2e5154b79a36",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-07T16:12:25.806Z",
+        "sourceSha256": "4d827db8f758afd35dbbbbedba1924721bf8a29090554ede1e1607acfaa80378",
+        "bytes": 80316,
+        "width": 616,
+        "height": 640,
+        "format": "webp",
+        "hasAlpha": true
+      },
+      "terms": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/LICENSE.md",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "original": {
+        "path": "category-previews/crosspet-whale/original.webp",
+        "sha256": "4d827db8f758afd35dbbbbedba1924721bf8a29090554ede1e1607acfaa80378"
+      },
+      "preview": {
+        "path": "category-previews/crosspet-whale/preview.webp",
+        "sha256": "eca1aaf078ce1af17163afc1b57010790785804e9988dbc3afbf60fee5a77e01",
+        "parentSha256": "4d827db8f758afd35dbbbbedba1924721bf8a29090554ede1e1607acfaa80378",
+        "width": 192,
+        "height": 192,
+        "process": "Proportional scaling and transparent padding to 192 × 192, then WebP encoding. No cropping."
+      }
+    },
+    {
+      "id": "misaka-dsh-whale",
+      "target": "bv1xcai6ae9g",
+      "usage": "Whale girl portrait used in MisakaZentai’s PV production. Original design by 上善无形, maid design by ZipZipPipe, portrait by Small-tailqwq / dsh-deep-whale.",
+      "source": {
+        "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv/blob/a598092a1b1db91fa43961a81269353d13419f6f/film/third_party_references/whale_maid_expanded_20260926/maid-left.webp",
+        "rawUrl": "https://raw.githubusercontent.com/MisakaZentai/world-execute-me-dsh-pv/a598092a1b1db91fa43961a81269353d13419f6f/film/third_party_references/whale_maid_expanded_20260926/maid-left.webp",
+        "commit": "a598092a1b1db91fa43961a81269353d13419f6f",
+        "path": "film/third_party_references/whale_maid_expanded_20260926/maid-left.webp",
+        "gitBlobSha1": "2e916e33fdb4f92f0772fca330f2f530f987be2d",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-07T16:13:37.401Z",
+        "sourceSha256": "af7bfd2e18505fc9d6f94cefd9febc92b31c1b2b66c756982d91fc7b93fb184c",
+        "bytes": 286224,
+        "width": 1122,
+        "height": 2019,
+        "format": "webp",
+        "hasAlpha": true
+      },
+      "terms": "https://github.com/MisakaZentai/world-execute-me-dsh-pv/blob/a598092a1b1db91fa43961a81269353d13419f6f/NOTICE.md",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "original": {
+        "path": "category-previews/misaka-dsh-whale/original.webp",
+        "sha256": "af7bfd2e18505fc9d6f94cefd9febc92b31c1b2b66c756982d91fc7b93fb184c"
+      },
+      "preview": {
+        "path": "category-previews/misaka-dsh-whale/preview.webp",
+        "sha256": "17e0db891123f0026c9d451f035948d2d9f8dadb7983533e30a9161b1a583fa4",
+        "parentSha256": "af7bfd2e18505fc9d6f94cefd9febc92b31c1b2b66c756982d91fc7b93fb184c",
+        "width": 192,
+        "height": 192,
+        "process": "Proportional scaling and transparent padding to 192 × 192, then WebP encoding. No cropping."
+      }
+    }
+  ]
+}
