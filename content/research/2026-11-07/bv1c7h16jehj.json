@@ -1,0 +1,49 @@
+{
+  "url": "https://www.bilibili.com/video/BV1C7h16jEHJ/",
+  "publisher": "polaris0",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1C7h16jEHJ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:19:24.964Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1C7h16jEHJ",
+    "title": "大肥鱼摸鱼歌《Let Me Go》动画MV｜Claude Opus 5.5 一句话制作",
+    "owner": {
+      "name": "polaris0",
+      "mid": 3047933
+    },
+    "pubdate": 1790315813
+  },
+  "credits": [
+    {
+      "role": "production-notes",
+      "title": "beidou070 · Let Me Go code MV",
+      "url": "https://github.com/beidou070/let-me-go-code-mv/blob/9cfba6f73e31390b442734a3fa3e7651c78244ae/README.md"
+    },
+    {
+      "role": "music-reference",
+      "title": "罐装毕加索 · Let Me Go（共创版）",
+      "url": "https://www.bilibili.com/video/BV1XbY66nEWr/"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    }
+  ],
+  "findings": {
+    "rankedUnit": "one BV with two parts",
+    "partOrder": [
+      "V2 revised character",
+      "V1 initial version"
+    ],
+    "characterTermsDeclaredByUploader": "CC BY-NC-SA 4.0",
+    "musicTerms": "separate"
+  }
+}

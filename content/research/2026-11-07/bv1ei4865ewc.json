@@ -1,0 +1,23 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ei4865Ewc/",
+  "publisher": "jwlslab",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ei4865Ewc",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:19:25.581Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1ei4865Ewc",
+    "title": "傻傻的大肥鱼和傻傻的白龙娘",
+    "owner": {
+      "name": "jwlslab",
+      "mid": 1764362935
+    },
+    "pubdate": 1793896530
+  },
+  "credits": [],
+  "findings": {
+    "description": "empty",
+    "characterSource": "pending"
+  }
+}

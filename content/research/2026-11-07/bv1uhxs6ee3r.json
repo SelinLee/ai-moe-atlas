@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Uhxs6EE3r/",
+  "publisher": "小猪P_",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Uhxs6EE3r",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:19:26.051Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1Uhxs6EE3r",
+    "title": "免费白饭的代价！？",
+    "owner": {
+      "name": "小猪P_",
+      "mid": 2283296
+    },
+    "pubdate": 1793512733
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

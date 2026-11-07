@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV17hJX6hEyb/",
+  "publisher": "晚安鑫果",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17hJX6hEyb",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:19:24.963Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV17hJX6hEyb",
+    "title": "大肥鱼与Claude/Love Story",
+    "owner": {
+      "name": "晚安鑫果",
+      "mid": 518287760
+    },
+    "pubdate": 1792140897
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    }
+  ]
+}

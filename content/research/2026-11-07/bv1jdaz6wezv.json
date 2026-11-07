@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1jDaz6WEZv/",
+  "publisher": "阿生生活",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jDaz6WEZv",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:19:25.603Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1jDaz6WEZv",
+    "title": "明明只是做个鹈鹕测试，怎么大肥鱼变成鹈鹕了？",
+    "owner": {
+      "name": "阿生生活",
+      "mid": 545668484
+    },
+    "pubdate": 1790866799
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

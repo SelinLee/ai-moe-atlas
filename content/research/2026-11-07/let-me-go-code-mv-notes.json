@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/beidou070/let-me-go-code-mv/blob/9cfba6f73e31390b442734a3fa3e7651c78244ae/README.md",
+  "publisher": "beidou070",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T14:23:11.050Z",
+  "scope": "Pinned project documentation and linked terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/beidou070/let-me-go-code-mv/blob/9cfba6f73e31390b442734a3fa3e7651c78244ae/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/beidou070/let-me-go-code-mv/9cfba6f73e31390b442734a3fa3e7651c78244ae/README.md",
+    "commit": "9cfba6f73e31390b442734a3fa3e7651c78244ae",
+    "sourceSha256": "ca73c33a542029fe5b23ff5f3e7dff3a25545279988b817f9553a3385954a212"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/beidou070/let-me-go-code-mv/blob/9cfba6f73e31390b442734a3fa3e7651c78244ae/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/beidou070/let-me-go-code-mv/9cfba6f73e31390b442734a3fa3e7651c78244ae/THIRD_PARTY_NOTICES.md",
+      "commit": "9cfba6f73e31390b442734a3fa3e7651c78244ae",
+      "sourceSha256": "3c79010a36d602ce1aaf5ad65715b9aff24d1a1b1df881044ab06b2bbe234b35"
+    }
+  ],
+  "findings": {
+    "parts": [
+      "V2 revised character",
+      "V1 initial version"
+    ],
+    "projectCode": "publicly viewable, no general open-source grant",
+    "characterDerivativeTerms": "CC BY-NC-SA 4.0 as declared",
+    "musicTerms": "separate"
+  }
+}

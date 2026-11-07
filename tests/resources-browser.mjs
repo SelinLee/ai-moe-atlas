@@ -43,7 +43,9 @@ try{
   await page.locator('[data-resource-filter="interactive"]').click();assert.equal(await page.locator('[data-resource-category]:visible').count(),interactiveCount);
   await page.locator('#resource-search').fill('no-such-work-xyz');assert.ok(await page.locator('#resource-empty').isVisible());
   await page.locator('#resource-reset').click();assert.equal(await page.locator('[data-resource-category]:visible').count(),registry.records.length+14);
-  await page.goto(`${origin}/${lang}/resources/?category=unknown&q=CrossPet`);assert.equal(await page.locator('[data-resource-category]:visible').count(),1);
+  await page.goto(`${origin}/${lang}/resources/?category=unknown&q=BV1C7h16jEHJ`);
+  assert.equal(await page.locator('[data-resource-category]:visible').count(),1);
+  assert.ok(await page.locator('#bv1c7h16jehj').isVisible());
   for(const width of [390,768]){
    await page.setViewportSize({width,height:844});
    for(const route of ['', 'resources/?category=animation','resources/?category=interactive']){

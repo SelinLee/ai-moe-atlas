@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ukMd6hEBz/",
+  "publisher": "黄瓜喂小祥",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ukMd6hEBz",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:19:24.964Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1ukMd6hEBz",
+    "title": "大肥鱼斩杀线",
+    "owner": {
+      "name": "黄瓜喂小祥",
+      "mid": 3546757243865496
+    },
+    "pubdate": 1785783712
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · “亿万”身家的她们",
+      "url": "https://www.bilibili.com/video/BV1bARXBYEZz/"
+    }
+  ]
+}

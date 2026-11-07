@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/vlln/whale-girl/blob/9c32d7a39a45148076f8ad2fdaad2dc2420eedb3/README.zh.md",
+  "publisher": "vlln",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T14:23:11.420Z",
+  "scope": "Pinned project documentation and linked terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/vlln/whale-girl/blob/9c32d7a39a45148076f8ad2fdaad2dc2420eedb3/README.zh.md",
+    "rawUrl": "https://raw.githubusercontent.com/vlln/whale-girl/9c32d7a39a45148076f8ad2fdaad2dc2420eedb3/README.zh.md",
+    "commit": "9c32d7a39a45148076f8ad2fdaad2dc2420eedb3",
+    "sourceSha256": "4e8db0d574bbfe2c385a2d23bca75800e005b79b3f15013a9c662e88aac02cd0"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/vlln/whale-girl/blob/9c32d7a39a45148076f8ad2fdaad2dc2420eedb3/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/vlln/whale-girl/9c32d7a39a45148076f8ad2fdaad2dc2420eedb3/LICENSE",
+      "commit": "9c32d7a39a45148076f8ad2fdaad2dc2420eedb3",
+      "sourceSha256": "c54724c121bf852962c289ad21462be8148e16d47ded3e39051dcb21c268598d"
+    }
+  ],
+  "findings": {
+    "projectLicenseFile": "MIT",
+    "characterReference": "ZipZipPipe whale-girl sticker design",
+    "sprites": "generated from character design",
+    "artworkRedistributionTerms": "not-established"
+  }
+}
