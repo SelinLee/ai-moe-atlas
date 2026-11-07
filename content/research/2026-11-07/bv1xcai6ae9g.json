@@ -1,0 +1,37 @@
+{
+  "url": "https://www.bilibili.com/video/BV1xCai6aE9g/",
+  "publisher": "西西弗斯的风车",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xCai6aE9g",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:08:40.238Z",
+  "scope": "Official video metadata checked. Original video and reuse terms were not independently reviewed.",
+  "metadata": {
+    "bvid": "BV1xCai6aE9g",
+    "title": "【4K】如果聊天窗口就是她的整个世界 —— world.execute(me)",
+    "owner": {
+      "name": "西西弗斯的风车",
+      "mid": 6992634
+    },
+    "pubdate": 1790571477
+  },
+  "credits": [
+    {
+      "title": "野生大K · GPT6-Astra眼中的world.execute(me)",
+      "url": "https://www.bilibili.com/video/BV1Jwhy6BEMJ/",
+      "role": "inspiration"
+    }
+  ],
+  "linkedPublicationEvidence": [
+    {
+      "bvid": "BV1Jwhy6BEMJ",
+      "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Jwhy6BEMJ",
+      "httpStatus": 200,
+      "code": 0,
+      "accessedAt": "2026-11-07T14:09:42.591Z",
+      "title": "GPT6-Astra眼中的world.execute(me)",
+      "publisher": "野生大K",
+      "pubdate": 1790325405
+    }
+  ]
+}
