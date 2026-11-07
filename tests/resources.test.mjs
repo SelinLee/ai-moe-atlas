@@ -4,6 +4,7 @@ import {readFile} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {assertResources,readPendingAnimationCandidates} from '../scripts/lib/resources.mjs';
 import {byCumulativeLikes,byPublicationTime} from '../src/lib/animation-ranking.mjs';
+import {readLikeArchive} from '../scripts/lib/like-archive.mjs';
 const root=new URL('../',import.meta.url);
 const registry=JSON.parse(await readFile(new URL('content/resources.json',root),'utf8'));
 test('new resources retain source chains, video metadata and hashed evidence',async()=>{
@@ -38,4 +39,12 @@ test('pending animation evidence is checked and cannot duplicate cataloged BV ID
   assert.deepEqual(candidates.map(row=>row.bvid),['BV1rfsf6PEiQ','BV1NL4u6MEGE']);
   await assert.rejects(()=>readPendingAnimationCandidates({...draft,records:[{bvid:candidates[0].bvid}]},root),/duplicate/);
   await assert.rejects(()=>readPendingAnimationCandidates({...draft,pendingAnimationEvidence:{...pendingAnimationEvidence,sha256:'0'.repeat(64)}},root),/hash mismatch/);
+});
+test('the public like archive retains current evidence bytes and historical batches',async()=>{
+  const archives=await readLikeArchive(root);
+  const current=archives.find(archive=>archive.path===registry.pendingAnimationEvidence.path);
+  assert.equal(current.sha256,registry.pendingAnimationEvidence.sha256);
+  assert.deepEqual(current.bytes,await readFile(new URL(current.path,root)));
+  assert.equal(current.videoCount,registry.records.filter(row=>row.likes).length);
+  assert.ok(archives.some(archive=>archive.route==='evidence/likes/2026-11-07/bilibili-cumulative-likes.json'));
 });

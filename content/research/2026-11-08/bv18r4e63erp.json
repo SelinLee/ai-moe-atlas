@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV18r4E63ERP/",
+  "publisher": "槐米沐",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18r4E63ERP",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:55:24.843Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV18r4E63ERP",
+    "title": "【大肥鱼/鲸鱼娘】不完美小孩｜原创 PV",
+    "owner": {
+      "name": "槐米沐",
+      "mid": 129438642
+    },
+    "pubdate": 1794043741,
+    "descriptionSha256": "5c9604b06030e7ef4888ee0025e92ac36e903f6309cd36a97902f3ae99f96001",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

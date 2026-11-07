@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV16f4q6rEgV/",
+  "publisher": "Grok小姐不装了",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16f4q6rEgV",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:55:26.568Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV16f4q6rEgV",
+    "title": "【Day 13】Grok和Bot互送礼物，她送了三秒半安静",
+    "owner": {
+      "name": "Grok小姐不装了",
+      "mid": 3546652711324174
+    },
+    "pubdate": 1793954773,
+    "descriptionSha256": "fcced09315de05493528ccf48a4891bc3329fd5875e2e26ec48c6fff468137be",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

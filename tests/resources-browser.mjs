@@ -1,5 +1,6 @@
 import {chromium} from 'playwright';
 import assert from 'node:assert/strict';
+import {createHash} from 'node:crypto';
 import {readFile,mkdir} from 'node:fs/promises';
 import {readPendingAnimationCandidates} from '../scripts/lib/resources.mjs';
 import {byPublicationTime,publicationTime} from '../src/lib/animation-ranking.mjs';
@@ -47,6 +48,12 @@ try{
   }
   assert.match(await visibleAnimations.first().innerText(),new RegExp(ranked[0].likes.count.toLocaleString(lang)));
   assert.ok(await visibleAnimations.first().locator(`a[href="${ranked[0].likes.sourceUrl}"]`).first().isVisible());
+  const saved=visibleAnimations.first().locator('a[href*="/evidence/likes/"]');
+  const savedResponse=await page.request.get(await saved.evaluate(link=>link.href));
+  assert.equal(savedResponse.status(),200);
+  assert.equal(createHash('sha256').update(await savedResponse.body()).digest('hex'),ranked[0].likes.evidence.sha256);
+  const snapshot=await savedResponse.json();
+  assert.equal(snapshot.videos.find(row=>row.bvid===ranked[0].bvid).likes,ranked[0].likes.count);
   const exactPublication=visibleAnimations.first().locator(`time[datetime="${ranked[0].publishedAt}"]`);
   assert.equal(await exactPublication.innerText(),publicationTime.format(new Date(ranked[0].publishedAt)));
   assert.equal(await page.locator('.resource-list img,.resource-list video,.resource-list iframe').count(),0);
@@ -101,6 +108,7 @@ try{
   }
   await page.locator('[data-resource-filter="interactive"]').click();assert.equal(await page.locator('[data-resource-category]:visible').count(),interactiveCount);
   assert.ok(await page.locator('#pending-animation-evidence').isHidden());
+  assert.ok(await page.locator('#like-evidence').isHidden());
   assert.ok(await page.locator('#resource-types').isHidden());
   assert.equal(new URL(page.url()).searchParams.has('type'),false);
   await page.locator('#resource-search').fill('no-such-work-xyz');assert.ok(await page.locator('#resource-empty').isVisible());
@@ -108,6 +116,11 @@ try{
   await page.goto(`${origin}/${lang}/resources/?category=unknown&q=BV1C7h16jEHJ`);
   assert.equal(await page.locator('[data-resource-category]:visible').count(),1);
   assert.ok(await page.locator('#bv1c7h16jehj').isVisible());
+  await page.goto(`${origin}/${lang}/resources/?category=animation#like-evidence`);
+  const archive=page.locator('#like-evidence[open]');
+  await archive.waitFor({state:'visible'});
+  assert.ok(await archive.locator('a[href$="/2026-11-07/bilibili-cumulative-likes.json"]').isVisible());
+  assert.ok((await archive.locator('code').first().innerText()).includes(registry.pendingAnimationEvidence.sha256));
   for(const width of [390,768]){
    await page.setViewportSize({width,height:844});
    for(const route of ['', 'resources/?category=animation&type=mv','resources/?category=interactive']){

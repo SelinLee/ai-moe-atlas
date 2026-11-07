@@ -15,7 +15,7 @@ const text = {
   zh: {
     file: 'README.md', header: '| 排名 | 作品 | 发布者 | 累计点赞（观测日） |',
     intro: '这里列出 B 站官方累计点赞前十名。同赞按发布日期、BV 号排序。每条数据附官方链接和观测日（北京时间）。',
-    browse: '打开在线完整榜单', evidence: '点赞观测证据',
+    browse: '打开在线完整榜单', evidence: '点赞观测证据', archive: '历史快照',
     candidateLabel: '待核点赞的候选', recent: '看最新投稿',
     quickTypes: ['看 MV', '看剧情短片', '看舞蹈'],
     pending: count => `${count} 条作品的累计点赞待核，详情见在线榜单。`,
@@ -23,7 +23,7 @@ const text = {
   en: {
     file: 'README.en.md', header: '| Rank | Work | Uploader | Total likes (observed) |',
     intro: 'The top ten by Bilibili’s official cumulative likes. Ties use publication date and BV ID. Each count links to the official endpoint and gives its observation date in Beijing time.',
-    browse: 'Open the full online ranking', evidence: 'Like observation evidence',
+    browse: 'Open the full online ranking', evidence: 'Like observation evidence', archive: 'Snapshot archive',
     candidateLabel: 'Candidates awaiting like verification', recent: 'Browse newest uploads',
     quickTypes: ['Browse MVs', 'Browse story shorts', 'Browse dance videos'],
     pending: count => `${count} entries await like verification. See the online ranking for details.`,
@@ -31,7 +31,7 @@ const text = {
   ja: {
     file: 'README.ja.md', header: '| 順位 | 作品 | 投稿者 | 累計いいね（観測日） |',
     intro: 'Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日と BV ID の順。各数値に公式リンクと観測日（北京時間）を掲載。',
-    browse: 'オンラインで全順位を見る', evidence: 'いいね数の観測記録',
+    browse: 'オンラインで全順位を見る', evidence: 'いいね数の観測記録', archive: '過去の観測記録',
     candidateLabel: 'いいね数の確認待ち候補', recent: '新しい投稿を見る',
     quickTypes: ['MV を見る', '物語の短編を見る', 'ダンスを見る'],
     pending: count => `${count} 件のいいね数は確認待ち。詳細はオンラインランキングへ。`,
@@ -56,7 +56,7 @@ for (const [lang, copy] of Object.entries(text)) {
     return `| ${index + 1} | [${cell(record.title[lang])}](${record.url}) | ${cell(record.publisher)} | [${count.toLocaleString(lang)}](${sourceUrl}) · ${date} |`;
   });
   const online = `https://selinlee.github.io/ai-moe-atlas/${lang}/resources/?category=animation`;
-  const parts = [copy.intro, `[${copy.browse}](${online}) · [${copy.evidence}](${evidenceUrl})`];
+  const parts = [copy.intro, `[${copy.browse}](${online}) · [${copy.evidence}](${evidenceUrl}) · [${copy.archive}](${online}#like-evidence)`];
   const quickLinks = ['mv', 'story', 'dance'].map((type, index) => `[${copy.quickTypes[index]}](${online}&type=${type})`);
   parts.push([`[${copy.recent}](${online}&sort=recent)`, ...quickLinks].join(' · '));
   if (pendingCandidates.length) parts[2] += ` · [${copy.candidateLabel}](${online}#pending-animation-evidence)`;

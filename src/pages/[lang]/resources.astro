@@ -2,14 +2,19 @@
 import Layout from '../../layouts/Layout.astro';
 import {locales,type Locale} from '../../lib/i18n';
 import {resourceText} from '../../lib/resource-text';
+import {path} from '../../lib/paths';
 import {resources,animations,animationRanks,byPublicationDate,byPublicationTime,directoryCategories,resourceCounts,resourcesUpdatedAt,likesObservedDate,publicationTime,verificationLabel} from '../../lib/resources';
 import registry from '../../../content/resources.json';
 import {readPendingAnimationCandidates} from '../../../scripts/lib/resources.mjs';
+import {readLikeArchive} from '../../../scripts/lib/like-archive.mjs';
 export function getStaticPaths(){return locales.map(lang=>({params:{lang}}));}
 const lang=Astro.params.lang as Locale,s=resourceText[lang];
 const ordered=[...animations,...resources.filter(r=>r.category!=='animation').sort(byPublicationDate)];
 const recentOrder=new Map([...animations].sort(byPublicationTime).map((r,index)=>[r.id,index]));
-const pending=await readPendingAnimationCandidates(registry,new URL('../../../',import.meta.url));
+const root=new URL('../../../',import.meta.url);
+const [pending,archives]=await Promise.all([readPendingAnimationCandidates(registry,root),readLikeArchive(root)]);
+const archiveByPath=new Map(archives.map(archive=>[archive.path,archive]));
+const pendingArchive=archiveByPath.get(registry.pendingAnimationEvidence?.path);
 ---
 <Layout lang={lang} title={s.directory} description={s.directoryIntro} active="resources" route="resources/">
   <section class="page-heading"><div><p class="eyebrow">{resourcesUpdatedAt}</p><h1>{s.directory}</h1><p class="lead">{s.directoryIntro} {s.latestIntro}</p></div></section>
@@ -32,9 +37,20 @@ const pending=await readPendingAnimationCandidates(registry,new URL('../../../',
     <button class="button secondary" id="resource-reset">{s.clear}</button>
   </div>
   <p class="subtle" role="status"><strong id="resource-count">{resources.length}</strong> {s.results}</p>
-  {pending.length>0&&<details class="resource-record pending-animation-evidence" id="pending-animation-evidence">
+  {archives.length>0&&<details class="resource-record animation-evidence-panel" id="like-evidence">
+    <summary>{s.likeArchive.title} ({archives.length})</summary>
+    <p>{s.likeArchive.intro}</p>
+    <ul>
+      {archives.map(archive=><li>
+        <a class="text-link" href={path(archive.route)}><time datetime={archive.capturedAt}>{publicationTime.format(new Date(archive.capturedAt))}</time> · JSON</a>
+        <span> · {archive.videoCount} {s.category.animation.unit}{archive.pendingCount>0&&<> · {archive.pendingCount} {s.likeArchive.pending}</>}</span>
+        <code>SHA-256 {archive.sha256}</code>
+      </li>)}
+    </ul>
+  </details>}
+  {pending.length>0&&<details class="resource-record animation-evidence-panel" id="pending-animation-evidence">
     <summary>{s.pendingAnimation.title} (<span id="pending-animation-count">{pending.length}</span>)</summary>
-    <p>{s.pendingAnimation.intro}</p>
+    <p>{s.pendingAnimation.intro}{pendingArchive&&<> <a class="text-link" href={path(pendingArchive.route)}>{s.snapshot}</a></>}</p>
     <ul>
       {pending.map(row=><li data-pending-search={`${row.discoveredTitle} ${row.bvid}`}>
         <a class="text-link" href={`https://www.bilibili.com/video/${row.bvid}/`} target="_blank" rel="noopener noreferrer">{row.discoveredTitle} ↗</a>
@@ -46,7 +62,9 @@ const pending=await readPendingAnimationCandidates(registry,new URL('../../../',
     </ul>
   </details>}
   <div class="resource-list" id="resource-list">
-    {ordered.map(r=><article class="resource-record" id={r.id} data-resource-category={r.category} data-resource-type={r.subtype} data-recent-order={recentOrder.get(r.id)}
+    {ordered.map(r=>{
+      const saved=r.likes?.evidence&&archiveByPath.get(r.likes.evidence.path);
+      return <article class="resource-record" id={r.id} data-resource-category={r.category} data-resource-type={r.subtype} data-recent-order={recentOrder.get(r.id)}
       data-resource-search={[
         r.title.zh,r.title.en,r.title.ja,r.sourceTitle,r.publisher,r.bvid,r.summary[lang],
         ...r.relations.map(link=>link.title),
@@ -55,7 +73,7 @@ const pending=await readPendingAnimationCandidates(registry,new URL('../../../',
       <h2><a href={r.url} target="_blank" rel="noopener noreferrer">{r.title[lang]} ↗</a></h2>
       <p class="resource-byline">{s.publisher} · {r.publisher} {r.publicationDate&&<> · {s.published} <time datetime={r.publishedAt??r.publicationDate}>{r.publishedAt?publicationTime.format(new Date(r.publishedAt)):r.publicationDate}</time>{r.publishedAt&&<> ({s.publicationZone})</>}</>}{r.bvid&&<> · {r.bvid}</>}</p>
       {r.category==='animation'&&<p class="resource-byline">{r.likes
-        ? <><strong>#{animationRanks.get(r.id)} · {r.likes.count.toLocaleString(lang)} {s.likes}</strong> · <time datetime={r.likes.observedAt}>{likesObservedDate.format(new Date(r.likes.observedAt))}</time> · <a class="text-link" href={r.likes.sourceUrl} target="_blank" rel="noopener noreferrer">{s.snapshot} ↗</a></>
+        ? <><strong>#{animationRanks.get(r.id)} · {r.likes.count.toLocaleString(lang)} {s.likes}</strong> · <time datetime={r.likes.observedAt}>{likesObservedDate.format(new Date(r.likes.observedAt))}</time>{saved&&<> · <a class="text-link" href={path(saved.route)}>{s.snapshot}</a></>} · <a class="text-link" href={r.likes.sourceUrl} target="_blank" rel="noopener noreferrer">{s.liveLikes} ↗</a></>
         : s.unranked}</p>}
       <p>{r.summary[lang]}</p>
       <span class:list={['resource-verification',{'partial':r.verification?.result==='partial-response'||r.verification?.result==='blocked'}]}>{verificationLabel(r,lang)}</span>
@@ -67,15 +85,17 @@ const pending=await readPendingAnimationCandidates(registry,new URL('../../../',
         {r.relations.length>0&&<><h3>{s.relations}</h3><ul>{r.relations.map(link=><li><a class="text-link" href={link.url} target="_blank" rel="noopener noreferrer">{link.title} ↗</a></li>)}</ul></>}
       </details>
       <a class="text-link resource-original" href={r.url} target="_blank" rel="noopener noreferrer">{s.visit} ↗</a>
-    </article>)}
+    </article>})}
   </div>
   <p class="empty-state" id="resource-empty" hidden>{s.empty}</p>
 </Layout>
 <style>
   .resource-type-filters{margin-top:12px}
   .resource-sort{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:13px}
-  .pending-animation-evidence{margin-block:12px}
-  .pending-animation-evidence summary{cursor:pointer;font-weight:600}
-  .pending-animation-evidence ul{padding-inline-start:1.35em}
+  .animation-evidence-panel{margin-block:12px;scroll-margin-top:22px}
+  .animation-evidence-panel summary{cursor:pointer;font-weight:600}
+  .animation-evidence-panel ul{padding-inline-start:1.35em}
+  #like-evidence li+li{margin-top:10px}
+  #like-evidence code{display:block;overflow-wrap:anywhere;font-size:.78em;color:var(--muted)}
 </style>
 <script>import '../../scripts/resources';</script>

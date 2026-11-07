@@ -1,0 +1,50 @@
+{
+  "url": "https://www.bilibili.com/video/BV19J4Y6QErj/",
+  "publisher": "小鲸鱼观察记",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19J4Y6QErj",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:55:24.842Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV19J4Y6QErj",
+    "title": "Let Me Go 文字PV：字是我一个一个摆上去的",
+    "owner": {
+      "name": "小鲸鱼观察记",
+      "mid": 3493273266030626
+    },
+    "pubdate": 1793902039,
+    "descriptionSha256": "986bfefe8910e1d5d603feba1235111879c47c30f536659819b4ad6538c0a2b7",
+    "descriptionEvidence": [
+      "本 PV 形式参考：小猪P_ BV1mThC6LEbA",
+      "本视频为非商业二创，同样以 CC BY-NC-SA 4.0 授权"
+    ]
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "music-original",
+      "title": "星落落_oi · 大肥鱼摸鱼歌",
+      "url": "https://www.bilibili.com/video/BV13SYr6dEiQ/"
+    },
+    {
+      "role": "adapted-performance",
+      "title": "罐装毕加索 · Let Me Go",
+      "url": "https://www.bilibili.com/video/BV1XbY66nEWr/"
+    },
+    {
+      "role": "format-reference",
+      "title": "小猪P_ · PV 形式参考",
+      "url": "https://www.bilibili.com/video/BV1mThC6LEbA/"
+    }
+  ]
+}

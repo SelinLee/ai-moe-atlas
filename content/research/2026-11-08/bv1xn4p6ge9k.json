@@ -1,0 +1,23 @@
+{
+  "url": "https://www.bilibili.com/video/BV1xn4p6GE9k/",
+  "publisher": "大肥鱼共同运营账号",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xn4p6GE9k",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:55:24.437Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1xn4p6GE9k",
+    "title": "我也是见到雪了！欧鲸鲸！！",
+    "owner": {
+      "name": "大肥鱼共同运营账号",
+      "mid": 248635778
+    },
+    "pubdate": 1794071708,
+    "descriptionSha256": "9f6f33307ba41306a5bf1459edefb205a53f813eda41ca453504208fb988d99e",
+    "descriptionEvidence": [
+      "AI 生成，工具 updream"
+    ]
+  },
+  "credits": []
+}

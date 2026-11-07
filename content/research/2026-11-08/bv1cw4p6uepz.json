@@ -1,0 +1,23 @@
+{
+  "url": "https://www.bilibili.com/video/BV1CW4p6uEPZ/",
+  "publisher": "铃沐木_",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CW4p6uEPZ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:55:24.464Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1CW4p6uEPZ",
+    "title": "南柯一梦：遇见大肥鱼的2077",
+    "owner": {
+      "name": "铃沐木_",
+      "mid": 21142919
+    },
+    "pubdate": 1794072202,
+    "descriptionSha256": "9434f2e5e52870d6bd455f609528aef2c2298e1fa0fa5d3fccc9c6a622138c19",
+    "descriptionEvidence": [
+      "本期为UP原创剧情短片"
+    ]
+  },
+  "credits": []
+}

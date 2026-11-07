@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1fU4H6AERh/",
+  "publisher": "创果",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fU4H6AERh",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:55:24.434Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1fU4H6AERh",
+    "title": "《夜里那碗饭》15秒AI动画｜碗后面那个没睡醒的蓝毛鱼姐",
+    "owner": {
+      "name": "创果",
+      "mid": 7630028
+    },
+    "pubdate": 1794073056,
+    "descriptionSha256": "01b4adc405dbf9203448efe72cbd2efc0df2709f5e300e399880f34407539e71",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

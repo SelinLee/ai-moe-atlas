@@ -18,7 +18,7 @@ export type Resource={
   id:string;category:'animation'|'interactive'|'sources';title:Localized;url:string;publisher:string;
   summary:Localized;rights:Localized;publicationDate:string|null;publishedAt?:string;addedAt?:string;sourceTitle?:string;
   verification?:{result:string;scope:string};bvid?:string;subtype?:string;durationSeconds?:number|null;
-  likes?:{count:number;observedAt:string;sourceUrl:string};
+  likes?:{count:number;observedAt:string;sourceUrl:string;evidence?:{path:string;sha256:string}};
   relations:{title:string;url:string;role:string}[];
 };
 const external:Resource[]=registry.records as Resource[];

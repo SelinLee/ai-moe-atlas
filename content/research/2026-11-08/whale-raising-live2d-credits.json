@@ -1,0 +1,29 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Kn4p6GE7d/",
+  "publisher": "不自动售货机",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Kn4p6GE7d",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:55:24.440Z",
+  "scope": "Official release metadata and the credited Live2D artists checked.",
+  "metadata": {
+    "bvid": "BV1Kn4p6GE7d",
+    "title": "【大肥鱼育成计划试玩版】家里准备好大米再领取女仆哦",
+    "owner": {
+      "name": "不自动售货机",
+      "mid": 599298
+    },
+    "pubdate": 1794071633,
+    "descriptionSha256": "c30efc7fecbd03e7ec9b8c81583360afedb4bb75a28e00f3595aed4032a2b9ff",
+    "descriptionEvidence": [
+      "live2d模型来自@神宫凉子  @霓虹猫_NeonNeko"
+    ]
+  },
+  "credits": [
+    {
+      "role": "related-model-notes",
+      "title": "DSH Live2D Pet · DeepSeek-chan",
+      "url": "https://github.com/hjw200775-ops/dsh-live2d-pet/blob/e4752c2cadd561ee2ae1804d81d1a410458a8f2c/README.md"
+    }
+  ]
+}

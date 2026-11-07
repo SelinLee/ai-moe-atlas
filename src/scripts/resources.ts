@@ -8,6 +8,7 @@ const sortLabel = document.querySelector<HTMLElement>('#resource-sort-label')!;
 const list = document.querySelector<HTMLElement>('#resource-list')!;
 const countOutput = document.querySelector<HTMLElement>('#resource-count')!;
 const empty = document.querySelector<HTMLElement>('#resource-empty')!;
+const archive = document.querySelector<HTMLDetailsElement>('#like-evidence');
 const pending = document.querySelector<HTMLDetailsElement>('#pending-animation-evidence');
 const pendingCount = document.querySelector<HTMLElement>('#pending-animation-count');
 const pendingRows = [...document.querySelectorAll<HTMLElement>('[data-pending-search]')];
@@ -26,6 +27,7 @@ function readURL() {
     : 'all';
   sort.value = category === 'animation' && params.get('sort') === 'recent' ? 'recent' : 'likes';
   input.value = (params.get('q') ?? '').slice(0, 200);
+  if (archive && location.hash === '#like-evidence') archive.open = true;
   if (pending && location.hash === '#pending-animation-evidence') pending.open = true;
 }
 
@@ -52,6 +54,7 @@ function update(writeURL = true) {
   }
   typeGroup.hidden = category !== 'animation';
   sortLabel.hidden = category !== 'animation';
+  if (archive) archive.hidden = category !== 'all' && category !== 'animation';
   if (pending && pendingCount) {
     for (const row of pendingRows) row.hidden = !row.dataset.pendingSearch!.toLocaleLowerCase().includes(search);
     const matches = pendingRows.filter(row => !row.hidden).length;
