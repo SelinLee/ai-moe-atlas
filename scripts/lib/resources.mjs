@@ -4,6 +4,13 @@ const localized=x=>['zh','en','ja'].every(l=>typeof x?.[l]==='string'&&x[l].trim
 const https=x=>{try{const u=new URL(x);return u.protocol==='https:'&&!u.username&&!u.password;}catch{return false;}};
 const sha256=b=>createHash('sha256').update(b).digest('hex');
 
+async function readEvidence(evidence,root){
+  if(!/^content\/research\/\d{4}-\d{2}-\d{2}\/[a-z0-9]+(?:-[a-z0-9]+)*\.json$/.test(evidence?.path)||evidence.kind!=='browser-metadata-extract')throw new Error('Invalid resource evidence path');
+  const bytes=await readFile(new URL(evidence.path,root));
+  if(sha256(bytes)!==evidence.sha256)throw new Error('Resource evidence hash mismatch');
+  return JSON.parse(bytes);
+}
+
 export async function assertResources(registry,root){
   if(registry.schemaVersion!==1||registry.scope!=='source-metadata-only'||!/^\d{4}-\d{2}-\d{2}$/.test(registry.updatedAt)||!Array.isArray(registry.records))throw new Error('Invalid resource registry');
   const ids=new Set(),urls=new Set();
@@ -17,18 +24,21 @@ export async function assertResources(registry,root){
     if(!['metadata-verified','index-verified','partial-response','blocked'].includes(v?.result)||!v.method?.includes('google-chrome')||!Number.isInteger(v.httpStatus)||!v.scope?.trim()||!Number.isFinite(Date.parse(v.attemptedAt)))throw new Error('Missing resource verification scope');
     if(['metadata-verified','index-verified'].includes(v.result)&&v.httpStatus!==200)throw new Error('Restricted source cannot claim verified metadata');
     if(r.category==='animation'&&(!/^BV[0-9A-Za-z]{10}$/.test(r.bvid)||!r.url.includes(r.bvid)||!['op','mv','story','commentary','dance','game'].includes(r.subtype)))throw new Error('Video record requires its BV ID and subtype');
-    const e=r.evidence;
-    if(!/^content\/research\/\d{4}-\d{2}-\d{2}\/[a-z0-9-]+\.json$/.test(e?.path)||e.kind!=='browser-metadata-extract')throw new Error('Invalid resource evidence path');
-    const bytes=await readFile(new URL(e.path,root));if(sha256(bytes)!==e.sha256)throw new Error('Resource evidence hash mismatch');
-    const snapshot=JSON.parse(bytes);if(snapshot.httpStatus!==v.httpStatus||snapshot.accessedAt!==v.attemptedAt)throw new Error('Resource evidence disagrees with verification');
+    const snapshot=await readEvidence(r.evidence,root);
+    if(snapshot.httpStatus!==v.httpStatus||snapshot.accessedAt!==v.attemptedAt)throw new Error('Resource evidence disagrees with verification');
     const indexedVideo=snapshot.videos?.find(video=>video.bvid===r.bvid);
     if(v.result==='index-verified'&&(!indexedVideo||indexedVideo.url!==r.url||indexedVideo.title!==r.sourceTitle||indexedVideo.publisher!==r.publisher||indexedVideo.publicationDate!==r.publicationDate))throw new Error('Video identity differs from the retained index');
     if(r.likes){
-      const {count,observedAt,sourceUrl}=r.likes;
+      const {count,observedAt,sourceUrl,evidence}=r.likes;
+      const likeSnapshot=evidence?await readEvidence(evidence,root):snapshot;
+      const observation=likeSnapshot.videos?.find(video=>video.bvid===r.bvid);
       if(r.category!=='animation'||!Number.isSafeInteger(count)||count<0||
-        !Number.isFinite(Date.parse(observedAt))||snapshot.metric!=='total-likes'||
-        indexedVideo?.likes!==count||indexedVideo.observedAt!==observedAt||
-        sourceUrl!==indexedVideo.snapshotUrl||!https(sourceUrl))throw new Error('Like count requires matching cumulative evidence');
+        !Number.isFinite(Date.parse(observedAt))||likeSnapshot.metric!=='total-likes'||
+        observation?.likes!==count||observation.observedAt!==observedAt||
+        sourceUrl!==observation.snapshotUrl||!https(sourceUrl))throw new Error('Like count requires matching cumulative evidence');
+      if(evidence&&(likeSnapshot.source!=='bilibili-view-api'||observation.httpStatus!==200||observation.code!==0||
+        observation.publisher!==r.publisher||observation.title!==r.sourceTitle||observation.publicationDate!==r.publicationDate||
+        sourceUrl!=='https://api.bilibili.com/x/web-interface/view?bvid='+r.bvid))throw new Error('Bilibili like evidence must match the video and a successful official response');
     }
     if(snapshot.pinnedDocument){
       const {commit,url,rawUrl,sourceSha256}=snapshot.pinnedDocument;

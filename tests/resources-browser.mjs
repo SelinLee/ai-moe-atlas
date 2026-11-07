@@ -3,7 +3,8 @@ import assert from 'node:assert/strict';
 import {readFile,mkdir} from 'node:fs/promises';
 const registry=JSON.parse(await readFile('content/resources.json','utf8'));
 const animationCount=registry.records.filter(r=>r.category==='animation').length;
-const ranked=registry.records.filter(r=>r.likes).sort((a,b)=>b.likes.count-a.likes.count);
+const ranked=registry.records.filter(r=>r.likes).sort((a,b)=>
+  b.likes.count-a.likes.count||b.publicationDate.localeCompare(a.publicationDate)||a.id.localeCompare(b.id));
 const interactiveCount=registry.records.filter(r=>r.category==='interactive').length+3;
 const origin=process.env.ATLAS_TEST_URL??'http://127.0.0.1:4322/ai-moe-atlas';
 await mkdir('.qa',{recursive:true});
@@ -26,7 +27,7 @@ try{
   const visibleAnimations=page.locator('[data-resource-category="animation"]:visible');
   assert.deepEqual(await visibleAnimations.evaluateAll((cards,count)=>cards.map(card=>card.id).slice(0,count),ranked.length),ranked.map(r=>r.id));
   assert.match(await visibleAnimations.first().innerText(),new RegExp(ranked[0].likes.count.toLocaleString(lang)));
-  assert.ok(await visibleAnimations.first().locator('a[href*="inaugural-001"]').first().isVisible());
+  assert.ok(await visibleAnimations.first().locator(`a[href="${ranked[0].likes.sourceUrl}"]`).first().isVisible());
   assert.equal(await page.locator('.resource-list img,.resource-list video,.resource-list iframe').count(),0);
   await page.locator('#resource-search').fill('BV1YFn46SEEr');
   assert.equal(await page.locator('[data-resource-category]:visible').count(),1);

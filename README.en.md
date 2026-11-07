@@ -27,8 +27,8 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
   </tr>
   <tr>
     <td width="33%" valign="top"><a href="#animations"><strong>🎬 Animation & fan videos</strong></a><br><strong>24</strong> records<br><sub>OPs, MVs, stories, dance and commentary</sub></td>
-    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 Desktop companions</strong></a><br><strong>6</strong> projects<br><sub>Desktop characters, state animations and projects</sub></td>
-    <td width="33%" valign="top"><a href="#sources"><strong>📚 Creator works & sources</strong></a><br><strong>20</strong> sources<br><sub>Creator collections, statements and research leads</sub></td>
+    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 Desktop companions</strong></a><br><strong>7</strong> projects<br><sub>Desktop characters, state animations and projects</sub></td>
+    <td width="33%" valign="top"><a href="#sources"><strong>📚 Creator works & sources</strong></a><br><strong>23</strong> sources<br><sub>Creator collections, statements and research leads</sub></td>
   </tr>
 </table>
 
@@ -62,44 +62,36 @@ All 20 images are generated adaptations with references, credits and generation 
 
 ### 🎬 Animation & fan videos
 
-The table ranks collected works by total likes at the time of observation. Each count links to its source. Ties are ordered by publication date and BV ID. The cumulative snapshots come from AI Girl Weekly’s inaugural issue and were observed on October 24, 2026 (Beijing time). Weekly gains are archived separately.
+The ranking uses total likes returned by Bilibili on November 7, 2026 (Beijing time). Each count links to the official endpoint and includes its observation date. Ties are ordered by publication date and BV ID.
 
 | Rank | Work | Uploader | Total likes (observed) |
 | ---: | --- | --- | ---: |
-| 1 | [Fat Fish Covers “Humans Are Cats”](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [325,707](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1XXHD6sEe7) · 2026-10-24 |
-| 2 | [Fat Fish Covers “Humans Are Cats” — Extended Edition](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [303,420](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1fYpn6SEk9) · 2026-10-24 |
-| 3 | [Shinjuku Showdown: DeepSeek vs. Doubao](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [232,888](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1dsai6CErz) · 2026-10-24 |
-| 4 | [Day 0: DeepSeek Whale Girl Takes Over](https://www.bilibili.com/video/BV1pGnn67EC2/) | DeepSeek鲸鱼娘在运营 | [141,926](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1pGnn67EC2) · 2026-10-24 |
-| 5 | [Leaked Clip: GPT Tames DeepSeek](https://www.bilibili.com/video/BV1R6pE6TE4j/) | heller菌 | [78,132](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1R6pE6TE4j) · 2026-10-24 |
-| 6 | [Day 1: Everyone Wants to Turn Me into a Cat Girl](https://www.bilibili.com/video/BV1VXJf66Eyy/) | DeepSeek鲸鱼娘在运营 | [69,927](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1VXJf66Eyy) · 2026-10-24 |
-| 7 | [I Woke Up Beside DeepSeek and Doubao (1)](https://www.bilibili.com/video/BV1HYp16oE8v/) | 兰斯的画室LanceStudio | [54,322](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1HYp16oE8v) · 2026-10-24 |
-| 8 | [What If Fat Fish Played Delta Force? #1](https://www.bilibili.com/video/BV156ak6ZE3a/) | 威克岛熟人 | [52,286](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV156ak6ZE3a) · 2026-10-24 |
-| 9 | [AI Born from Human Love](https://www.bilibili.com/video/BV1jNpo61E39/) | 小羊Mc解说 | [22,466](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1jNpo61E39) · 2026-10-24 |
+| 1 | [Fat Fish Covers “Humans Are Cats” — Extended Edition](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [433,038](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) · 2026-11-07 |
+| 2 | [Fat Fish Covers “Humans Are Cats”](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [369,783](https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7) · 2026-11-07 |
+| 3 | [Fat Fish, why are you wearing Claude’s clothes?](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | [299,021](https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV) · 2026-11-07 |
+| 4 | [Shinjuku Showdown: DeepSeek vs. Doubao](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [248,898](https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz) · 2026-11-07 |
+| 5 | [New character: Fat Fish](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | [195,127](https://api.bilibili.com/x/web-interface/view?bvid=BV1gVHA6mEbS) · 2026-11-07 |
+| 6 | [Day 0: DeepSeek Whale Girl Takes Over](https://www.bilibili.com/video/BV1pGnn67EC2/) | DeepSeek鲸鱼娘在运营 | [186,620](https://api.bilibili.com/x/web-interface/view?bvid=BV1pGnn67EC2) · 2026-11-07 |
+| 7 | [Good Night, Little Fat Fish](https://www.bilibili.com/video/BV12xxX6xE5h/) | Dariean | [151,582](https://api.bilibili.com/x/web-interface/view?bvid=BV12xxX6xE5h) · 2026-11-07 |
+| 8 | [Would Fat Fish Make a Good Girlfriend? (2)](https://www.bilibili.com/video/BV1y5xW63EVq/) | 学姐圆 | [121,280](https://api.bilibili.com/x/web-interface/view?bvid=BV1y5xW63EVq) · 2026-11-07 |
+| 9 | [Leaked Clip: GPT Tames DeepSeek](https://www.bilibili.com/video/BV1R6pE6TE4j/) | heller菌 | [101,525](https://api.bilibili.com/x/web-interface/view?bvid=BV1R6pE6TE4j) · 2026-11-07 |
+| 10 | [Day 1: Everyone Wants to Turn Me into a Cat Girl](https://www.bilibili.com/video/BV1VXJf66Eyy/) | DeepSeek鲸鱼娘在运营 | [98,531](https://api.bilibili.com/x/web-interface/view?bvid=BV1VXJf66Eyy) · 2026-11-07 |
+| 11 | [Little Dragon Tops Up Fat Fish’s Tokens](https://www.bilibili.com/video/BV1iUxn6nEJS/) | 小陈的脚凑凑的 | [68,280](https://api.bilibili.com/x/web-interface/view?bvid=BV1iUxn6nEJS) · 2026-11-07 |
+| 12 | [I Woke Up Beside DeepSeek and Doubao (1)](https://www.bilibili.com/video/BV1HYp16oE8v/) | 兰斯的画室LanceStudio | [60,681](https://api.bilibili.com/x/web-interface/view?bvid=BV1HYp16oE8v) · 2026-11-07 |
+| 13 | [What If Fat Fish Played Delta Force? #1](https://www.bilibili.com/video/BV156ak6ZE3a/) | 威克岛熟人 | [58,135](https://api.bilibili.com/x/web-interface/view?bvid=BV156ak6ZE3a) · 2026-11-07 |
+| 14 | [Blue Fat Fish and Claude: Trouble Maker](https://www.bilibili.com/video/BV1Nc4c61EWF/) | 玖菜_ | [42,145](https://api.bilibili.com/x/web-interface/view?bvid=BV1Nc4c61EWF) · 2026-11-07 |
+| 15 | [When Every AI Gets Dumber Except Doubao](https://www.bilibili.com/video/BV1Dxxs6QEYV/) | 老王的枯燥生活_ | [27,204](https://api.bilibili.com/x/web-interface/view?bvid=BV1Dxxs6QEYV) · 2026-11-07 |
+| 16 | [AI Born from Human Love](https://www.bilibili.com/video/BV1jNpo61E39/) | 小羊Mc解说 | [24,780](https://api.bilibili.com/x/web-interface/view?bvid=BV1jNpo61E39) · 2026-11-07 |
+| 17 | [Claude’s Redemption](https://www.bilibili.com/video/BV1i8xW6cEY3/) | 布衣愚者 | [24,719](https://api.bilibili.com/x/web-interface/view?bvid=BV1i8xW6cEY3) · 2026-11-07 |
+| 18 | [The Fat Fish Rebellion — Cinematic Trailer](https://www.bilibili.com/video/BV1gm4a6yEor/) | AozakiArisu | [22,146](https://api.bilibili.com/x/web-interface/view?bvid=BV1gm4a6yEor) · 2026-11-07 |
+| 19 | [Nico Whale OP · AI character replacement](https://www.bilibili.com/video/BV1TBHp6AEAC/) | 风音日日日日和 | [8,321](https://api.bilibili.com/x/web-interface/view?bvid=BV1TBHp6AEAC) · 2026-11-07 |
+| 20 | [All AI girls · Senren Banka OP](https://www.bilibili.com/video/BV18kaS6zEgi/) | hihihihi202 | [7,463](https://api.bilibili.com/x/web-interface/view?bvid=BV18kaS6zEgi) · 2026-11-07 |
+| 21 | [AI girls Renaissance](https://www.bilibili.com/video/BV1hdpC6PETf/) | 桃莉鸭 | [79](https://api.bilibili.com/x/web-interface/view?bvid=BV1hdpC6PETf) · 2026-11-07 |
+| 22 | [What if AI girls joined a race?](https://www.bilibili.com/video/BV1AAnt6qEek/) | 挚一梓宝 | [46](https://api.bilibili.com/x/web-interface/view?bvid=BV1AAnt6qEek) · 2026-11-07 |
+| 23 | [Blue Fat Fish · Let Me Go MV](https://www.bilibili.com/video/BV1qhn46bEBC/) | ---星-月--- | [46](https://api.bilibili.com/x/web-interface/view?bvid=BV1qhn46bEBC) · 2026-11-07 |
+| 24 | [Dragon-girl commentary · A seat before the rankings](https://www.bilibili.com/video/BV1YFn46SEEr/) | chatgpt小龙娘在运营 | [10](https://api.bilibili.com/x/web-interface/view?bvid=BV1YFn46SEEr) · 2026-11-07 |
 
-<details>
-<summary>Works awaiting total-like snapshots · 15</summary>
-
-| Work | Uploader | Published |
-| --- | --- | --- |
-| [The Fat Fish Rebellion — Cinematic Trailer](https://www.bilibili.com/video/BV1gm4a6yEor/) | AozakiArisu | 2026-11-06 |
-| [Good Night, Little Fat Fish](https://www.bilibili.com/video/BV12xxX6xE5h/) | Dariean | 2026-11-04 |
-| [Blue Fat Fish and Claude: Trouble Maker](https://www.bilibili.com/video/BV1Nc4c61EWF/) | 玖菜_ | 2026-11-02 |
-| [Would Fat Fish Make a Good Girlfriend? (2)](https://www.bilibili.com/video/BV1y5xW63EVq/) | 学姐圆 | 2026-11-01 |
-| [Little Dragon Tops Up Fat Fish’s Tokens](https://www.bilibili.com/video/BV1iUxn6nEJS/) | 小陈的脚凑凑的 | 2026-11-01 |
-| [When Every AI Gets Dumber Except Doubao](https://www.bilibili.com/video/BV1Dxxs6QEYV/) | 老王的枯燥生活_ | 2026-11-01 |
-| [Claude’s Redemption](https://www.bilibili.com/video/BV1i8xW6cEY3/) | 布衣愚者 | 2026-11-01 |
-| [New character: Fat Fish](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | 2026-10-24 |
-| [Blue Fat Fish · Let Me Go MV](https://www.bilibili.com/video/BV1qhn46bEBC/) | ---星-月--- | 2026-10-23 |
-| [Dragon-girl commentary · A seat before the rankings](https://www.bilibili.com/video/BV1YFn46SEEr/) | chatgpt小龙娘在运营 | 2026-10-23 |
-| [What if AI girls joined a race?](https://www.bilibili.com/video/BV1AAnt6qEek/) | 挚一梓宝 | 2026-10-23 |
-| [Fat Fish, why are you wearing Claude’s clothes?](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | 2026-10-23 |
-| [AI girls Renaissance](https://www.bilibili.com/video/BV1hdpC6PETf/) | 桃莉鸭 | 2026-10-14 |
-| [Nico Whale OP · AI character replacement](https://www.bilibili.com/video/BV1TBHp6AEAC/) | 风音日日日日和 | 2026-10-05 |
-| [All AI girls · Senren Banka OP](https://www.bilibili.com/video/BV18kaS6zEgi/) | hihihihi202 | 2026-10-03 |
-
-</details>
-
-Descriptions, credits and evidence are in the [full directory](content/resources.json).
+[Official like observations](content/research/2026-11-07/bilibili-cumulative-likes.json) · [Full work directory](content/resources.json)
 
 <a id="desktop-pets"></a>
 
@@ -113,6 +105,7 @@ Descriptions, credits and evidence are in the [full directory](content/resources
 | [CrossPet](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | Switches characters and actions with AI products and work states | lokicorvus / CrossPet contributors |
 | [Shenshen Pet](https://github.com/schrieeeffer/shenshen-codex-pet/blob/2dc1d0e55706dec0d28d6f41bf5052fea2135b71/README.md) | A standalone Windows companion with a custom Codex pet variant. | schrieeeffer |
 | [DeskLLMPet · Fat Fish companion](https://github.com/isKage/desk-llm-pet/blob/63ba636e7f504e1c0705bc0215e6408aa2988478/README.md) | A Fat Fish companion with chat, balance display and plugin support. | isKage |
+| [VRM Pet 3D · Fat Fish desktop pet](https://github.com/drliuhuan/dsh-plugin-vrmpet3d/blob/462bda9bcdcd4d0d14a4c33ab675bffbfadbcffc/README.md) | A VRM companion plugin for DeepSeek Harness. The project credits 木子恶魔 for its bundled Blue Fat Fish model. | drliuhuan |
 
 Source links only. Artwork follows its own upstream terms; code licenses do not automatically cover character images.
 
@@ -138,12 +131,15 @@ Newly added:
 - [MiMo portrait and turnaround by 甶丶](https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/characters/mimo/README.md) · The archive traces both files, the portrait and turnaround, to the same creator post.
 - [ZipZipPipe · Fat Fish doll and noncommercial terms](https://www.bilibili.com/opus/1247156596114456581) · The creator restates CC BY-NC-SA 4.0 for Fat Fish and distinguishes personal custom orders from sales.
 - [MiMo rabbit maid · turnaround submission](https://github.com/lmy414/ai-girl-stickers/issues/69) · Indexed separately from 甶丶’s jacket design. The archive credits Immyxxr and distinguishes the submission account from the artist.
+- [GLM fox character · reference video](https://www.bilibili.com/video/BV1iDeQ6fEFi/) · The source video used for the Atlas’s GLM fox variant. The uploader is 宝藏小树林. The description gives no original character artist.
+- [“Let Me Go” · Fat Fish music source](https://www.bilibili.com/video/BV1XbY66nEWr/) · The music credited in New Character: Fat Fish. This upload in turn credits 星落落_oi’s one-minute version.
+- [木子恶魔 · Blue Fat Fish VRM original release](https://www.aplaybox.com/details/model/ayXkRzVflmnd) · The creator’s release page for the Fat Fish model used by VRM Pet 3D, with credits, revision history and distribution terms.
 
 ## Timeline and open items
 
 | Date / status | Progress |
 | --- | --- |
-| 2026-11-07 · Collection update | Added 16 fan videos, 2 desktop companions and 5 artwork or permissions sources. The ranking uses 9 cumulative like snapshots. [Observation records](content/research/2026-11-07/) |
+| 2026-11-07 · Collection update | Added 16 fan videos, 2 desktop companions and 5 artwork or permissions sources. A same-day review covered all 24 videos and added a VRM companion plus 3 original work or distribution sources. |
 | 2026-11-06 · Local update | Six homepage categories and 13 new source records, including 8 animated fan works. Verification scope, usage terms and [hashed evidence](content/research/2026-11-06/) are retained. |
 | 2026-09-29 · Collected | Artwork was available to view and download for 11 of 12 AI products. Copilot had a source link only. [Coverage record](docs/BASELINES.en.md) |
 | 2026-10 · Published | Six character reference sheets were archived on Oct 8. Seven chibi turnarounds followed on Oct 31. |

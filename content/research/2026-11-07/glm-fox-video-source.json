@@ -1,0 +1,18 @@
+{
+  "url": "https://www.bilibili.com/video/BV1iDeQ6fEFi/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1iDeQ6fEFi",
+  "accessedAt": "2026-11-07T14:00:37.174Z",
+  "httpStatus": 200,
+  "code": 0,
+  "scope": "Official video metadata checked. No original artwork attribution was identified in the description.",
+  "metadata": {
+    "bvid": "BV1iDeQ6fEFi",
+    "title": "GLM小狐娘用zcode偷传用户数据",
+    "owner": {
+      "name": "宝藏小树林",
+      "mid": 277780873
+    },
+    "pubdate": 1789781483,
+    "description": "-"
+  }
+}

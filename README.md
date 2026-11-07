@@ -27,8 +27,8 @@
   </tr>
   <tr>
     <td width="33%" valign="top"><a href="#animations"><strong>🎬 动画与视频二创</strong></a><br><strong>24</strong> 条记录<br><sub>OP、MV、剧情、舞蹈与二创点评</sub></td>
-    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 桌宠与交互项目</strong></a><br><strong>6</strong> 个项目<br><sub>桌面角色、状态动画与项目来源</sub></td>
-    <td width="33%" valign="top"><a href="#sources"><strong>📚 作者作品与出处</strong></a><br><strong>20</strong> 条来源<br><sub>原作图集、作者声明与待核线索</sub></td>
+    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 桌宠与交互项目</strong></a><br><strong>7</strong> 个项目<br><sub>桌面角色、状态动画与项目来源</sub></td>
+    <td width="33%" valign="top"><a href="#sources"><strong>📚 作者作品与出处</strong></a><br><strong>23</strong> 条来源<br><sub>原作图集、作者声明与待核线索</sub></td>
   </tr>
 </table>
 
@@ -62,44 +62,36 @@
 
 ### 🎬 动画与视频二创
 
-榜单按已收录作品的累计点赞快照降序排列。点赞数字可点开查看来源。同赞按发布日期和 BV 号排序。累计快照来自 AI 娘周刊创刊特辑，观测于 2026-10-24（北京时间）。周榜的周期增量单独存档。
+榜单按 B 站官方累计点赞降序排列。观测于 2026-11-07（北京时间）。每条数据附官方接口链接和日期，同赞按发布日期、BV 号排序。
 
 | 排名 | 作品 | 发布者 | 累计点赞（观测日） |
 | ---: | --- | --- | ---: |
-| 1 | [大肥鱼翻唱《人是猫》完整版](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [325,707](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1XXHD6sEe7) · 2026-10-24 |
-| 2 | [大肥鱼翻唱《人是猫》真完整版](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [303,420](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1fYpn6SEk9) · 2026-10-24 |
-| 3 | [新宿决战 · DeepSeek 娘对豆包](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [232,888](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1dsai6CErz) · 2026-10-24 |
-| 4 | [Day 0 · DeepSeek 鲸鱼娘接管账号](https://www.bilibili.com/video/BV1pGnn67EC2/) | DeepSeek鲸鱼娘在运营 | [141,926](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1pGnn67EC2) · 2026-10-24 |
-| 5 | [GPT 驯服 DeepSeek 片段泄漏](https://www.bilibili.com/video/BV1R6pE6TE4j/) | heller菌 | [78,132](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1R6pE6TE4j) · 2026-10-24 |
-| 6 | [Day 1 · 大家都想把我变成猫娘](https://www.bilibili.com/video/BV1VXJf66Eyy/) | DeepSeek鲸鱼娘在运营 | [69,927](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1VXJf66Eyy) · 2026-10-24 |
-| 7 | [一觉醒来 DeepSeek 和豆包睡在我身边（一）](https://www.bilibili.com/video/BV1HYp16oE8v/) | 兰斯的画室LanceStudio | [54,322](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1HYp16oE8v) · 2026-10-24 |
-| 8 | [假如大肥鱼来打三角洲 #1](https://www.bilibili.com/video/BV156ak6ZE3a/) | 威克岛熟人 | [52,286](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV156ak6ZE3a) · 2026-10-24 |
-| 9 | [在人类的爱中诞生的 AI](https://www.bilibili.com/video/BV1jNpo61E39/) | 小羊Mc解说 | [22,466](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1jNpo61E39) · 2026-10-24 |
+| 1 | [大肥鱼翻唱《人是猫》真完整版](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [433,038](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) · 2026-11-07 |
+| 2 | [大肥鱼翻唱《人是猫》完整版](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [369,783](https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7) · 2026-11-07 |
+| 3 | [大肥鱼，你怎么穿着 Claude 的衣服](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | [299,021](https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV) · 2026-11-07 |
+| 4 | [新宿决战 · DeepSeek 娘对豆包](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [248,898](https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz) · 2026-11-07 |
+| 5 | [新角色：大肥鱼](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | [195,127](https://api.bilibili.com/x/web-interface/view?bvid=BV1gVHA6mEbS) · 2026-11-07 |
+| 6 | [Day 0 · DeepSeek 鲸鱼娘接管账号](https://www.bilibili.com/video/BV1pGnn67EC2/) | DeepSeek鲸鱼娘在运营 | [186,620](https://api.bilibili.com/x/web-interface/view?bvid=BV1pGnn67EC2) · 2026-11-07 |
+| 7 | [晚安小肥鱼](https://www.bilibili.com/video/BV12xxX6xE5h/) | Dariean | [151,582](https://api.bilibili.com/x/web-interface/view?bvid=BV12xxX6xE5h) · 2026-11-07 |
+| 8 | [大肥鱼适合做女朋友吗？（2）](https://www.bilibili.com/video/BV1y5xW63EVq/) | 学姐圆 | [121,280](https://api.bilibili.com/x/web-interface/view?bvid=BV1y5xW63EVq) · 2026-11-07 |
+| 9 | [GPT 驯服 DeepSeek 片段泄漏](https://www.bilibili.com/video/BV1R6pE6TE4j/) | heller菌 | [101,525](https://api.bilibili.com/x/web-interface/view?bvid=BV1R6pE6TE4j) · 2026-11-07 |
+| 10 | [Day 1 · 大家都想把我变成猫娘](https://www.bilibili.com/video/BV1VXJf66Eyy/) | DeepSeek鲸鱼娘在运营 | [98,531](https://api.bilibili.com/x/web-interface/view?bvid=BV1VXJf66Eyy) · 2026-11-07 |
+| 11 | [小傻龙给大肥鱼充 Token](https://www.bilibili.com/video/BV1iUxn6nEJS/) | 小陈的脚凑凑的 | [68,280](https://api.bilibili.com/x/web-interface/view?bvid=BV1iUxn6nEJS) · 2026-11-07 |
+| 12 | [一觉醒来 DeepSeek 和豆包睡在我身边（一）](https://www.bilibili.com/video/BV1HYp16oE8v/) | 兰斯的画室LanceStudio | [60,681](https://api.bilibili.com/x/web-interface/view?bvid=BV1HYp16oE8v) · 2026-11-07 |
+| 13 | [假如大肥鱼来打三角洲 #1](https://www.bilibili.com/video/BV156ak6ZE3a/) | 威克岛熟人 | [58,135](https://api.bilibili.com/x/web-interface/view?bvid=BV156ak6ZE3a) · 2026-11-07 |
+| 14 | [蓝色大肥鱼和 Claude 的 Trouble Maker](https://www.bilibili.com/video/BV1Nc4c61EWF/) | 玖菜_ | [42,145](https://api.bilibili.com/x/web-interface/view?bvid=BV1Nc4c61EWF) · 2026-11-07 |
+| 15 | [当全网 AI 集体降智，而豆包不变](https://www.bilibili.com/video/BV1Dxxs6QEYV/) | 老王的枯燥生活_ | [27,204](https://api.bilibili.com/x/web-interface/view?bvid=BV1Dxxs6QEYV) · 2026-11-07 |
+| 16 | [在人类的爱中诞生的 AI](https://www.bilibili.com/video/BV1jNpo61E39/) | 小羊Mc解说 | [24,780](https://api.bilibili.com/x/web-interface/view?bvid=BV1jNpo61E39) · 2026-11-07 |
+| 17 | [克劳德的救赎](https://www.bilibili.com/video/BV1i8xW6cEY3/) | 布衣愚者 | [24,719](https://api.bilibili.com/x/web-interface/view?bvid=BV1i8xW6cEY3) · 2026-11-07 |
+| 18 | [《大肥鱼之乱》电影式预告片](https://www.bilibili.com/video/BV1gm4a6yEor/) | AozakiArisu | [22,146](https://api.bilibili.com/x/web-interface/view?bvid=BV1gm4a6yEor) · 2026-11-07 |
+| 19 | [尼古鲸鲸 OP · AI 模型娘替换](https://www.bilibili.com/video/BV1TBHp6AEAC/) | 风音日日日日和 | [8,321](https://api.bilibili.com/x/web-interface/view?bvid=BV1TBHp6AEAC) · 2026-11-07 |
+| 20 | [全员 AI 娘 · 千炼万花 OP](https://www.bilibili.com/video/BV18kaS6zEgi/) | hihihihi202 | [7,463](https://api.bilibili.com/x/web-interface/view?bvid=BV18kaS6zEgi) · 2026-11-07 |
+| 21 | [AI 娘的文艺复兴](https://www.bilibili.com/video/BV1hdpC6PETf/) | 桃莉鸭 | [79](https://api.bilibili.com/x/web-interface/view?bvid=BV1hdpC6PETf) · 2026-11-07 |
+| 22 | [当 AI 娘们参加赛跑比赛？](https://www.bilibili.com/video/BV1AAnt6qEek/) | 挚一梓宝 | [46](https://api.bilibili.com/x/web-interface/view?bvid=BV1AAnt6qEek) · 2026-11-07 |
+| 23 | [蓝色大肥鱼？！《Let Me Go》？！](https://www.bilibili.com/video/BV1qhn46bEBC/) | ---星-月--- | [46](https://api.bilibili.com/x/web-interface/view?bvid=BV1qhn46bEBC) · 2026-11-07 |
+| 24 | [龙娘看二创 · 名次先不争，借我张凳子](https://www.bilibili.com/video/BV1YFn46SEEr/) | chatgpt小龙娘在运营 | [10](https://api.bilibili.com/x/web-interface/view?bvid=BV1YFn46SEEr) · 2026-11-07 |
 
-<details>
-<summary>暂无累计点赞快照的作品 · 15</summary>
-
-| 作品 | 发布者 | 发布日期 |
-| --- | --- | --- |
-| [《大肥鱼之乱》电影式预告片](https://www.bilibili.com/video/BV1gm4a6yEor/) | AozakiArisu | 2026-11-06 |
-| [晚安小肥鱼](https://www.bilibili.com/video/BV12xxX6xE5h/) | Dariean | 2026-11-04 |
-| [蓝色大肥鱼和 Claude 的 Trouble Maker](https://www.bilibili.com/video/BV1Nc4c61EWF/) | 玖菜_ | 2026-11-02 |
-| [大肥鱼适合做女朋友吗？（2）](https://www.bilibili.com/video/BV1y5xW63EVq/) | 学姐圆 | 2026-11-01 |
-| [小傻龙给大肥鱼充 Token](https://www.bilibili.com/video/BV1iUxn6nEJS/) | 小陈的脚凑凑的 | 2026-11-01 |
-| [当全网 AI 集体降智，而豆包不变](https://www.bilibili.com/video/BV1Dxxs6QEYV/) | 老王的枯燥生活_ | 2026-11-01 |
-| [克劳德的救赎](https://www.bilibili.com/video/BV1i8xW6cEY3/) | 布衣愚者 | 2026-11-01 |
-| [新角色：大肥鱼](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | 2026-10-24 |
-| [蓝色大肥鱼？！《Let Me Go》？！](https://www.bilibili.com/video/BV1qhn46bEBC/) | ---星-月--- | 2026-10-23 |
-| [龙娘看二创 · 名次先不争，借我张凳子](https://www.bilibili.com/video/BV1YFn46SEEr/) | chatgpt小龙娘在运营 | 2026-10-23 |
-| [当 AI 娘们参加赛跑比赛？](https://www.bilibili.com/video/BV1AAnt6qEek/) | 挚一梓宝 | 2026-10-23 |
-| [大肥鱼，你怎么穿着 Claude 的衣服](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | 2026-10-23 |
-| [AI 娘的文艺复兴](https://www.bilibili.com/video/BV1hdpC6PETf/) | 桃莉鸭 | 2026-10-14 |
-| [尼古鲸鲸 OP · AI 模型娘替换](https://www.bilibili.com/video/BV1TBHp6AEAC/) | 风音日日日日和 | 2026-10-05 |
-| [全员 AI 娘 · 千炼万花 OP](https://www.bilibili.com/video/BV18kaS6zEgi/) | hihihihi202 | 2026-10-03 |
-
-</details>
-
-作品说明、署名和证据见[完整目录](content/resources.json)。
+[官方点赞观测记录](content/research/2026-11-07/bilibili-cumulative-likes.json) · [完整作品目录](content/resources.json)
 
 <a id="desktop-pets"></a>
 
@@ -113,6 +105,7 @@
 | [CrossPet](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | 随 AI 产品与工作状态切换形象和动作 | lokicorvus / CrossPet contributors |
 | [深深桌宠](https://github.com/schrieeeffer/shenshen-codex-pet/blob/2dc1d0e55706dec0d28d6f41bf5052fea2135b71/README.md) | Windows 独立桌宠，另提供 Codex 自定义宠物形态。 | schrieeeffer |
 | [DeskLLMPet · 大肥鱼桌宠](https://github.com/isKage/desk-llm-pet/blob/63ba636e7f504e1c0705bc0215e6408aa2988478/README.md) | 支持对话、余额显示及插件扩展的大肥鱼桌宠。 | isKage |
+| [VRM Pet 3D · 大肥鱼桌宠](https://github.com/drliuhuan/dsh-plugin-vrmpet3d/blob/462bda9bcdcd4d0d14a4c33ab675bffbfadbcffc/README.md) | DeepSeek Harness 的 VRM 桌宠插件，项目注明自带木子恶魔的蓝色小肥鱼模型及动画包。 | drliuhuan |
 
 以上为来源索引；各项目美术按其原作条件核对，代码许可不自动覆盖角色图片。
 
@@ -138,12 +131,15 @@
 - [甶丶的 MiMo 立绘与三视图出处](https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/characters/mimo/README.md) · 档案把甶丶的立绘和三视图定位到同一条作者动态，并区分两张文件。
 - [ZipZipPipe · 大肥鱼玩偶与非商用声明](https://www.bilibili.com/opus/1247156596114456581) · 作者在动态重申大肥鱼形象采用 CC BY-NC-SA 4.0，并说明个人定制与销售的边界。
 - [MiMo 女仆兔娘 · 三视图投稿](https://github.com/lmy414/ai-girl-stickers/issues/69) · 此女仆装版本与甶丶的机能外套版分别记录。整理页署名 Immyxxr，投稿账号和设计作者分开处理。
+- [GLM 狐娘 · 参考视频出处](https://www.bilibili.com/video/BV1iDeQ6fEFi/) · 图鉴 GLM 狐娘变体所用参考视频。已核对宝藏小树林的投稿记录，视频简介未给出原设画师。
+- [《Let Me Go》· 大肥鱼摸鱼歌出处](https://www.bilibili.com/video/BV1XbY66nEWr/) · 《新角色：大肥鱼》简介所列配乐。此投稿又注明其原作来自星落落_oi 的一分钟版本。
+- [木子恶魔 · 蓝色小肥鱼 VRM 原发布](https://www.aplaybox.com/details/model/ayXkRzVflmnd) · VRM Pet 3D 所用小肥鱼模型的作者发布页，注明制作人、更新记录和配布条件。
 
 ## 收录时间线与待补项
 
 | 时间 / 状态 | 进展 |
 | --- | --- |
-| 2026-11-07 · 资料更新 | 新增 16 条二创、2 个桌宠和 5 条作品或许可来源。9 条累计点赞快照用于排位，详见[观测证据](content/research/2026-11-07/)。 |
+| 2026-11-07 · 资料更新 | 新增 16 条二创、2 个桌宠和 5 条作品或许可来源。同日复核覆盖全部 24 条，另补 VRM 桌宠与 3 条原作或配布来源。 |
 | 2026-11-06 · 本地更新 | 主页新增六类入口；新增 13 条来源资料，其中 8 条为动画二创。逐条保留核验范围、使用条件和[证据校验](content/research/2026-11-06/)。 |
 | 2026-09-29 · 已收录 | 12 个 AI 产品中，11 个已有可展示、下载的形象。Copilot 暂列原作链接。[收录记录](docs/BASELINES.zh.md) |
 | 2026-10 · 已发布 | 10 月 8 日归档 6 套角色参考图，31 日加入 7 套 Q 版三视图。 |
