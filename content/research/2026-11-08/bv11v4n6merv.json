@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV11V4n6MERv/",
+  "publisher": "Mistral法棍猫在运营",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV11V4n6MERv",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:15:03.053Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV11V4n6MERv",
+    "title": "笨鱼的提问，是独一份与claude的温柔告白",
+    "owner": {
+      "name": "Mistral法棍猫在运营",
+      "mid": 9126506
+    },
+    "pubdate": 1794057056,
+    "descriptionSha256": "91182211ec411c7461a9291e6a13cddcd2eb30a059eb97a09bf7bfbc38ccff27",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

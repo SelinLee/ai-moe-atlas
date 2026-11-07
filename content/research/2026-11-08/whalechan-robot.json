@@ -1,0 +1,32 @@
+{
+  "url": "https://github.com/cyanseek/deepseek-whalechan-robot/blob/10d4193d441a5d565cd251683c9ba074ae911f76/README.md",
+  "publisher": "cyanseek",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T17:15:42.777Z",
+  "scope": "Pinned publication, relevant terms and original links checked.",
+  "pinnedDocument": {
+    "url": "https://github.com/cyanseek/deepseek-whalechan-robot/blob/10d4193d441a5d565cd251683c9ba074ae911f76/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/cyanseek/deepseek-whalechan-robot/10d4193d441a5d565cd251683c9ba074ae911f76/README.md",
+    "commit": "10d4193d441a5d565cd251683c9ba074ae911f76",
+    "sourceSha256": "b32eecac6e52b10a62860cf06a26ee84049636ac37993c0f6387179db0114594"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/cyanseek/deepseek-whalechan-robot/blob/10d4193d441a5d565cd251683c9ba074ae911f76/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/cyanseek/deepseek-whalechan-robot/10d4193d441a5d565cd251683c9ba074ae911f76/NOTICE.md",
+      "commit": "10d4193d441a5d565cd251683c9ba074ae911f76",
+      "sourceSha256": "567986cf9123733993d38b4b968fac9106c6eb226a52b97da9e75bbf94f98f8b"
+    },
+    {
+      "url": "https://github.com/cyanseek/deepseek-whalechan-robot/blob/10d4193d441a5d565cd251683c9ba074ae911f76/docs/ASSETS.md",
+      "rawUrl": "https://raw.githubusercontent.com/cyanseek/deepseek-whalechan-robot/10d4193d441a5d565cd251683c9ba074ae911f76/docs/ASSETS.md",
+      "commit": "10d4193d441a5d565cd251683c9ba074ae911f76",
+      "sourceSha256": "edc03b4bd2d384e6ff1fbca70d81c9d73f567ce1880beb6e2c754f2b72df1af1"
+    }
+  ],
+  "findings": {
+    "modelCreator": "木子恶魔",
+    "software": "MIT",
+    "modelTerms": "separate source terms"
+  }
+}

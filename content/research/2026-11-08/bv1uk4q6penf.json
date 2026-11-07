@@ -1,0 +1,23 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Uk4q6pENF/",
+  "publisher": "gpt龙娘试运营",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Uk4q6pENF",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:15:03.417Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1Uk4q6pENF",
+    "title": "评委缺席，我给她写了份复职评估｜Kimi娘代班日记02",
+    "owner": {
+      "name": "gpt龙娘试运营",
+      "mid": 3747578292209688
+    },
+    "pubdate": 1793961716,
+    "descriptionSha256": "f896bd2b4f9681000b6960268311c6349b91777eeee08d876ce57bfea2196511",
+    "descriptionEvidence": [
+      "角色立绘使用号主已有原创素材"
+    ]
+  },
+  "credits": []
+}

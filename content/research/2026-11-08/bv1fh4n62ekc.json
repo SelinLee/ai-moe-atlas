@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1fH4N62EkC/",
+  "publisher": "豆牛啊啊啊",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fH4N62EkC",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:17:11.811Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1fH4N62EkC",
+    "title": "？！狐狐月月！？",
+    "owner": {
+      "name": "豆牛啊啊啊",
+      "mid": 557760960
+    },
+    "pubdate": 1793664000,
+    "descriptionSha256": "689e92f263f4246899d6822484bf248946824aeea146ae95b23500e2c2ee7e59",
+    "descriptionEvidence": [
+      "剧本：能工智人 / Claude Opus 5.5",
+      "风格来源：BV1Bfjq6LEDi"
+    ]
+  },
+  "credits": [
+    {
+      "role": "style-reference",
+      "title": "张卡斯 · 人是猫",
+      "url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/"
+    }
+  ]
+}

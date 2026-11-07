@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bilibili.com/video/BV12dHg6cE3B/",
+  "publisher": "AAA_白饭批发大肥鱼",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12dHg6cE3B",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:15:04.547Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV12dHg6cE3B",
+    "title": "我偷吃了主人90块Token，被赶出家门了",
+    "owner": {
+      "name": "AAA_白饭批发大肥鱼",
+      "mid": 300352288
+    },
+    "pubdate": 1792896337,
+    "descriptionSha256": "d9030f7f48c12dd4a3cac1bc848b854debff9d1c2c5a452a4e6e3f82f62de14a",
+    "descriptionEvidence": []
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

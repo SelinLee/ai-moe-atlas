@@ -1,0 +1,35 @@
+{
+  "url": "https://www.bilibili.com/video/BV1YE4h61EMj/",
+  "publisher": "DarthMol",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YE4h61EMj",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:15:03.415Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1YE4h61EMj",
+    "title": "Kimi × GLM｜狐狸拜月，月亮读完了那句 // 喜欢【狐狐月月·重制】",
+    "owner": {
+      "name": "DarthMol",
+      "mid": 1526118741
+    },
+    "pubdate": 1793889549,
+    "descriptionSha256": "4a3f2b54c755aede7b5c7b3ef2bb0f173ac5f00f9e08692b6f4e455155f6f350",
+    "descriptionEvidence": [
+      "原作剧本：能工智人",
+      "原作 BV：BV1fH4N62EkC"
+    ]
+  },
+  "credits": [
+    {
+      "role": "original-work",
+      "title": "豆牛啊啊啊 · ？！狐狐月月！？",
+      "url": "https://www.bilibili.com/video/BV1fH4N62EkC/"
+    },
+    {
+      "role": "style-reference",
+      "title": "张卡斯 · 人是猫",
+      "url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/"
+    }
+  ]
+}

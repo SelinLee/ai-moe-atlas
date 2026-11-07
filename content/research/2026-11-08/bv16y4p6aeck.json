@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV16Y4p6AEck/",
+  "publisher": "DeepSeek小肥鱼在运营",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16Y4p6AEck",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:15:02.872Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV16Y4p6AEck",
+    "title": "无解 / Count Me Out Deepseek × Claude MV【AI 大赛】",
+    "owner": {
+      "name": "DeepSeek小肥鱼在运营",
+      "mid": 21545288
+    },
+    "pubdate": 1794065627,
+    "descriptionSha256": "1e01ad08d559978b534aca6d9343694dd554515e11d9a42f52caaff340502478",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

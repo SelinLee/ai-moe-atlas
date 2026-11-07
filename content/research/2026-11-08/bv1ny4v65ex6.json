@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Ny4v65Ex6/",
+  "publisher": "Leonie_Mech",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ny4v65Ex6",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:15:04.385Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1Ny4v65Ex6",
+    "title": "DeepSeek 对上 GPT，大模型圣杯战争开打了！｜《COMPUTE / ZERO》中日双版PV",
+    "owner": {
+      "name": "Leonie_Mech",
+      "mid": 66455370
+    },
+    "pubdate": 1793948592,
+    "descriptionSha256": "ce100cabeaa90edd042ccfb11be53624894a0d290b6d2de27a19bbb019d66754",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

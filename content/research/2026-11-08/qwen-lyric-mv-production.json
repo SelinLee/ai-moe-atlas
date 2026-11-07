@@ -1,0 +1,45 @@
+{
+  "url": "https://github.com/Fy66666-fy/world-execute-me-qwen/blob/810d1e85e52a7460a93765bdab20eaffa2f2ab76/README.md",
+  "publisher": "Fy66666-fy",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T17:17:08.620Z",
+  "scope": "Pinned publication, relevant terms and original links checked.",
+  "pinnedDocument": {
+    "url": "https://github.com/Fy66666-fy/world-execute-me-qwen/blob/810d1e85e52a7460a93765bdab20eaffa2f2ab76/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Fy66666-fy/world-execute-me-qwen/810d1e85e52a7460a93765bdab20eaffa2f2ab76/README.md",
+    "commit": "810d1e85e52a7460a93765bdab20eaffa2f2ab76",
+    "sourceSha256": "8d3480bca4c745c6a6b13c1f98fed12ba260c7d3ebea6e17dec14a892903767c"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/Fy66666-fy/world-execute-me-qwen/blob/810d1e85e52a7460a93765bdab20eaffa2f2ab76/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Fy66666-fy/world-execute-me-qwen/810d1e85e52a7460a93765bdab20eaffa2f2ab76/LICENSE",
+      "commit": "810d1e85e52a7460a93765bdab20eaffa2f2ab76",
+      "sourceSha256": "eb568404a2762e264c2abba90673028c8b1fb9bbb225af31d07e7ae97658af5d"
+    },
+    {
+      "url": "https://github.com/Fy66666-fy/world-execute-me-qwen/blob/810d1e85e52a7460a93765bdab20eaffa2f2ab76/docs/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Fy66666-fy/world-execute-me-qwen/810d1e85e52a7460a93765bdab20eaffa2f2ab76/docs/README.md",
+      "commit": "810d1e85e52a7460a93765bdab20eaffa2f2ab76",
+      "sourceSha256": "dddd7f461d04faab1ce1d7e2829b95c141238bf430f33ef6d2bea6d9e166c41a"
+    },
+    {
+      "url": "https://github.com/Fy66666-fy/world-execute-me-qwen/blob/810d1e85e52a7460a93765bdab20eaffa2f2ab76/CREDITS.md",
+      "rawUrl": "https://raw.githubusercontent.com/Fy66666-fy/world-execute-me-qwen/810d1e85e52a7460a93765bdab20eaffa2f2ab76/CREDITS.md",
+      "commit": "810d1e85e52a7460a93765bdab20eaffa2f2ab76",
+      "sourceSha256": "7674c955597fa65f6ce1faaa3555401771bbbf66fd23388cf1a074db76406fca"
+    },
+    {
+      "url": "https://github.com/Fy66666-fy/world-execute-me-qwen/blob/810d1e85e52a7460a93765bdab20eaffa2f2ab76/deliverables/发布声明.md",
+      "rawUrl": "https://raw.githubusercontent.com/Fy66666-fy/world-execute-me-qwen/810d1e85e52a7460a93765bdab20eaffa2f2ab76/deliverables/%E5%8F%91%E5%B8%83%E5%A3%B0%E6%98%8E.md",
+      "commit": "810d1e85e52a7460a93765bdab20eaffa2f2ab76",
+      "sourceSha256": "c83c803357ff63d8b0e125fefe061db77b6aa9c11dca37af1e6d307898deb8ee"
+    }
+  ],
+  "findings": {
+    "baseProject": "Nyankomintsu/world-execute-me-lyric-mv",
+    "characterReference": "ZipZipPipe",
+    "READMEVideoLink": "The Qwen README’s video shortcut points to Nyankomint’s upstream Claude video. The Qwen upload links to this repository and has a distinct BV ID.",
+    "releaseTerms": "The release statement allows attributed noncommercial reposts and fan edits of the video. The retained upstream credits explicitly name Nyankomint; the release statement gives no stand-alone grant for the generated Qwen source PNGs."
+  }
+}

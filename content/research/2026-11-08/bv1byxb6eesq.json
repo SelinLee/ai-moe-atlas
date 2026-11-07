@@ -1,0 +1,40 @@
+{
+  "url": "https://www.bilibili.com/video/BV1bYxb6eESQ/",
+  "publisher": "可爱大肥鱼的潜水日志",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bYxb6eESQ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:15:03.887Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1bYxb6eESQ",
+    "title": "【4K/60 已开源】【Qwen】她的爱被困于窗口之中 | World.execute(me);_千问版_4K60",
+    "owner": {
+      "name": "可爱大肥鱼的潜水日志",
+      "mid": 1672766912
+    },
+    "pubdate": 1793542853,
+    "descriptionSha256": "c21395e294e5cc151f7d832f32a58c340c7c0823b4f75d8297b454ed35e455f4",
+    "descriptionEvidence": [
+      "https://github.com/Fy66666-fy/world-execute-me-qwen",
+      "AI娘形象由画师zipzip绘制"
+    ]
+  },
+  "credits": [
+    {
+      "role": "production-repository",
+      "title": "World.execute(me); · Qwen production",
+      "url": "https://github.com/Fy66666-fy/world-execute-me-qwen/blob/810d1e85e52a7460a93765bdab20eaffa2f2ab76/README.md"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "music-rights",
+      "title": "Mili · Copyright Guidelines",
+      "url": "https://projectmili.com/copyright-guidelines"
+    }
+  ]
+}

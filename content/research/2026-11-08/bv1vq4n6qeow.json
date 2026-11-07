@@ -1,0 +1,23 @@
+{
+  "url": "https://www.bilibili.com/video/BV1vq4n6QEow/",
+  "publisher": "A15-Crusader",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vq4n6QEow",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:15:03.418Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1vq4n6QEow",
+    "title": "[KIMI] 我们的世界不应该只剩彼此吗",
+    "owner": {
+      "name": "A15-Crusader",
+      "mid": 326791185
+    },
+    "pubdate": 1794052904,
+    "descriptionSha256": "105e4d194e923b228c0144775dcc8cae3c57d48d8adc5a143d5deb6b44f9a1ed",
+    "descriptionEvidence": [
+      "Motion：tencha.3d"
+    ]
+  },
+  "credits": []
+}

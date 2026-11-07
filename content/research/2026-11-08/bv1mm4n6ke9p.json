@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1MM4n6kE9p/",
+  "publisher": "Mistral法棍猫在运营",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1MM4n6kE9p",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:15:03.974Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1MM4n6kE9p",
+    "title": "大肥鱼与Gemini小剧场故事",
+    "owner": {
+      "name": "Mistral法棍猫在运营",
+      "mid": 9126506
+    },
+    "pubdate": 1794057944,
+    "descriptionSha256": "b45b55aa5348ba5cd6091fe0523904a5917f094d5623c48155bf2b9fda8183ba",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

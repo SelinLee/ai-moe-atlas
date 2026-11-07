@@ -1,0 +1,83 @@
+{
+  "url": "https://github.com/capricornus9527/workbuddy-whale-pet/blob/09c97b64e9c626a1817b04fc7d1d033b9458f6ee/README.md",
+  "publisher": "capricornus9527",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T17:15:42.542Z",
+  "scope": "Pinned project notice, upstream license and exact static artwork lineage checked.",
+  "pinnedDocument": {
+    "url": "https://github.com/capricornus9527/workbuddy-whale-pet/blob/09c97b64e9c626a1817b04fc7d1d033b9458f6ee/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/capricornus9527/workbuddy-whale-pet/09c97b64e9c626a1817b04fc7d1d033b9458f6ee/README.md",
+    "commit": "09c97b64e9c626a1817b04fc7d1d033b9458f6ee",
+    "sourceSha256": "2489ed4aa622e6a1dc871a8e7d99e7b15f7096bcb11cc7be4fda5f9054a02d93"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/capricornus9527/workbuddy-whale-pet/blob/09c97b64e9c626a1817b04fc7d1d033b9458f6ee/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/capricornus9527/workbuddy-whale-pet/09c97b64e9c626a1817b04fc7d1d033b9458f6ee/NOTICE.md",
+      "commit": "09c97b64e9c626a1817b04fc7d1d033b9458f6ee",
+      "sourceSha256": "a46905d91265a0f4f823432b6983cb700ac07f5e62972cc678e7b98eaa30f61c"
+    },
+    {
+      "url": "https://github.com/capricornus9527/workbuddy-whale-pet/blob/09c97b64e9c626a1817b04fc7d1d033b9458f6ee/src/assets_prep.py",
+      "rawUrl": "https://raw.githubusercontent.com/capricornus9527/workbuddy-whale-pet/09c97b64e9c626a1817b04fc7d1d033b9458f6ee/src/assets_prep.py",
+      "commit": "09c97b64e9c626a1817b04fc7d1d033b9458f6ee",
+      "sourceSha256": "3404e92dbebea523dbfc4e8edc008f1b82490630be8296c01041aa1875a451c0"
+    },
+    {
+      "url": "https://github.com/capricornus9527/workbuddy-whale-pet/blob/09c97b64e9c626a1817b04fc7d1d033b9458f6ee/assets/pet/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/capricornus9527/workbuddy-whale-pet/09c97b64e9c626a1817b04fc7d1d033b9458f6ee/assets/pet/index.json",
+      "commit": "09c97b64e9c626a1817b04fc7d1d033b9458f6ee",
+      "sourceSha256": "76f24cdde7b4d11d73dfad586e9e0b5db93ee529be6e89282b2507cd06ff0af2"
+    },
+    {
+      "url": "https://github.com/Vast-Beyond-Space/pet-app/blob/3777c9a969be67d201288a0fea82ac10ae4cc529/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Vast-Beyond-Space/pet-app/3777c9a969be67d201288a0fea82ac10ae4cc529/LICENSE",
+      "commit": "3777c9a969be67d201288a0fea82ac10ae4cc529",
+      "sourceSha256": "de6571476702ef22fce2ab4117daf50bea723d673a66aa6b3360824ad7249746"
+    },
+    {
+      "url": "https://github.com/capricornus9527/workbuddy-whale-pet/blob/09c97b64e9c626a1817b04fc7d1d033b9458f6ee/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/capricornus9527/workbuddy-whale-pet/09c97b64e9c626a1817b04fc7d1d033b9458f6ee/LICENSE",
+      "commit": "09c97b64e9c626a1817b04fc7d1d033b9458f6ee",
+      "sourceSha256": "5ded6ceb3b1d03c64c8c43943b17756243e1ea9861336822c685ae3f74e16541"
+    }
+  ],
+  "findings": {
+    "staticArtwork": "CC BY-NC-SA 4.0, Vast-Beyond-Space/pet-app",
+    "frameAnimations": "permission unconfirmed"
+  },
+  "artworkTrace": {
+    "projectFile": {
+      "url": "https://github.com/capricornus9527/workbuddy-whale-pet/blob/09c97b64e9c626a1817b04fc7d1d033b9458f6ee/assets/pet/curious.png",
+      "rawUrl": "https://raw.githubusercontent.com/capricornus9527/workbuddy-whale-pet/09c97b64e9c626a1817b04fc7d1d033b9458f6ee/assets/pet/curious.png",
+      "commit": "09c97b64e9c626a1817b04fc7d1d033b9458f6ee",
+      "path": "assets/pet/curious.png",
+      "gitBlobSha1": "501b3dc3ca5f1d5e54c166f20097dabf71a4a5af",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-07T17:21:25.570Z",
+      "sourceSha256": "d1e0bcc0662e9723d8a36be97c2bb0c4bb7b390cabdf9eca321e5777510525e8",
+      "bytes": 173250,
+      "width": 264,
+      "height": 460,
+      "format": "png",
+      "hasAlpha": true
+    },
+    "upstreamFile": {
+      "url": "https://github.com/Vast-Beyond-Space/pet-app/blob/3777c9a969be67d201288a0fea82ac10ae4cc529/electron-lite/img/%E5%A5%B3%E4%BB%86%E8%A3%85/mood_%E5%A5%BD%E5%A5%87.png",
+      "rawUrl": "https://raw.githubusercontent.com/Vast-Beyond-Space/pet-app/3777c9a969be67d201288a0fea82ac10ae4cc529/electron-lite/img/%E5%A5%B3%E4%BB%86%E8%A3%85/mood_%E5%A5%BD%E5%A5%87.png",
+      "commit": "3777c9a969be67d201288a0fea82ac10ae4cc529",
+      "path": "electron-lite/img/女仆装/mood_好奇.png",
+      "gitBlobSha1": "6ad0ccbbf7e96f93a4a72de652c8e0172f9196d5",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-07T17:21:26.837Z",
+      "sourceSha256": "cb769c53bb4d5a6b2fa21c1f4958f0fd4391bb3eb4f4d425338d54311ee21544",
+      "bytes": 3764447,
+      "width": 1599,
+      "height": 2790,
+      "format": "png",
+      "hasAlpha": true
+    },
+    "mapping": "src/assets_prep.py maps mood_好奇 to curious. The project notice records alpha trimming, proportional sizing and renaming.",
+    "previewRegistry": "content/category-preview-artwork.json"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://www.bilibili.com/video/BV16W4n6hE1J/",
+  "publisher": "月满w",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16W4n6hE1J",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:15:04.385Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV16W4n6hE1J",
+    "title": "克劳德，我带你去月球",
+    "owner": {
+      "name": "月满w",
+      "mid": 399620237
+    },
+    "pubdate": 1794058506,
+    "descriptionSha256": "4ef666a2142b151e7ac086496f79c9cb678fc0f5e4b855d3dd23982453f40372",
+    "descriptionEvidence": [
+      "角色形象来自@ZipZipPipe"
+    ]
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

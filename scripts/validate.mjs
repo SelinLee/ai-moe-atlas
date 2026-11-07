@@ -11,9 +11,10 @@ const categoryArtwork=JSON.parse(await readFile('content/category-preview-artwor
 if (categoryArtwork.schemaVersion !== 1 || categoryArtwork.scope !== 'noncommercial-category-display') {
   throw new Error('Invalid category artwork scope');
 }
-for (const {id,target,source,terms,license,original,preview} of categoryArtwork.assets) {
-  const {commit,sourceSha256} = source;
+for (const {id,target,source,terms,license,original,preview,notices=[]} of categoryArtwork.assets) {
+  const {commit,sourceSha256,format} = source;
   if (!/^[a-z0-9-]+$/.test(id) || !/^[a-f0-9]{40}$/.test(commit) ||
+      !['webp','png'].includes(format) || !source.rawUrl.endsWith(`.${format}`) ||
       !source.url.includes(`/blob/${commit}/`) || !source.rawUrl.includes(`/${commit}/`) ||
       !terms.includes(`/blob/${commit}/`)) {
     throw new Error(`Category artwork must retain pinned sources: ${id}`);
@@ -24,9 +25,16 @@ for (const {id,target,source,terms,license,original,preview} of categoryArtwork.
     throw new Error(`Category artwork attribution or provenance mismatch: ${id}`);
   }
   for (const [name,file] of [['original',original],['preview',preview]]) {
-    const path = `category-previews/${id}/${name}.webp`;
+    const extension = name === 'original' ? format : 'webp';
+    const path = `category-previews/${id}/${name}.${extension}`;
     if (file.path !== path || sha256(await readFile(`public/${path}`)) !== file.sha256) {
       throw new Error(`Category artwork file mismatch: ${id}/${name}`);
+    }
+  }
+  const noticePaths = ['NOTICE.md','LICENSE'].map(name=>`category-previews/${id}/${name}`);
+  for (const {path,sha256:expectedHash} of notices) {
+    if (!noticePaths.includes(path) || sha256(await readFile(`public/${path}`)) !== expectedHash) {
+      throw new Error(`Category artwork notice mismatch: ${id}`);
     }
   }
 }

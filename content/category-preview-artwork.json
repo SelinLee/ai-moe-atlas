@@ -103,6 +103,84 @@
         "height": 192,
         "process": "Proportional scaling and transparent padding to 192 × 192, then WebP encoding. No cropping."
       }
+    },
+    {
+      "id": "nyankomint-claude-silhouette",
+      "target": "bv186pc65e68",
+      "usage": "Nyankomint’s AI-generated Claude fan-art profile for the fourth version of the lyric MV.",
+      "source": {
+        "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv/blob/93ac63775ee58b33ff102167514f2603a48940cc/assets/character/f_profile.png",
+        "rawUrl": "https://raw.githubusercontent.com/Nyankomintsu/world-execute-me-lyric-mv/93ac63775ee58b33ff102167514f2603a48940cc/assets/character/f_profile.png",
+        "commit": "93ac63775ee58b33ff102167514f2603a48940cc",
+        "path": "assets/character/f_profile.png",
+        "gitBlobSha1": "ad6f7bcab98c37ce2f17a0125e568572cefa631f",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-07T17:21:25.789Z",
+        "sourceSha256": "524f3f1bc30a7b6659f5c9842a9f6d2d3ba80d015079b7b7c95befb920c34157",
+        "bytes": 1269994,
+        "width": 1086,
+        "height": 1448,
+        "format": "png",
+        "hasAlpha": true
+      },
+      "terms": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv/blob/93ac63775ee58b33ff102167514f2603a48940cc/CREDITS.md",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "original": {
+        "path": "category-previews/nyankomint-claude-silhouette/original.png",
+        "sha256": "524f3f1bc30a7b6659f5c9842a9f6d2d3ba80d015079b7b7c95befb920c34157"
+      },
+      "preview": {
+        "path": "category-previews/nyankomint-claude-silhouette/preview.webp",
+        "sha256": "ba3f32921daa1d65a2d79fa1a38f4bff362da3da147903ac8911617858b120b0",
+        "parentSha256": "524f3f1bc30a7b6659f5c9842a9f6d2d3ba80d015079b7b7c95befb920c34157",
+        "width": 192,
+        "height": 192,
+        "process": "Proportional scaling and transparent padding to 192 × 192, then WebP encoding. No cropping."
+      }
+    },
+    {
+      "id": "workbuddy-whale-curious",
+      "target": "workbuddy-whale-pet",
+      "usage": "Curious pose from the WorkBuddy project’s processed static artwork. Original design by 上善无形, maid design by ZipZipPipe, source art compiled by Vast-Beyond-Space/pet-app, and technical preparation by capricornus9527.",
+      "source": {
+        "url": "https://github.com/capricornus9527/workbuddy-whale-pet/blob/09c97b64e9c626a1817b04fc7d1d033b9458f6ee/assets/pet/curious.png",
+        "rawUrl": "https://raw.githubusercontent.com/capricornus9527/workbuddy-whale-pet/09c97b64e9c626a1817b04fc7d1d033b9458f6ee/assets/pet/curious.png",
+        "commit": "09c97b64e9c626a1817b04fc7d1d033b9458f6ee",
+        "path": "assets/pet/curious.png",
+        "gitBlobSha1": "501b3dc3ca5f1d5e54c166f20097dabf71a4a5af",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-07T17:21:25.570Z",
+        "sourceSha256": "d1e0bcc0662e9723d8a36be97c2bb0c4bb7b390cabdf9eca321e5777510525e8",
+        "bytes": 173250,
+        "width": 264,
+        "height": 460,
+        "format": "png",
+        "hasAlpha": true
+      },
+      "terms": "https://github.com/capricornus9527/workbuddy-whale-pet/blob/09c97b64e9c626a1817b04fc7d1d033b9458f6ee/NOTICE.md",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "original": {
+        "path": "category-previews/workbuddy-whale-curious/original.png",
+        "sha256": "d1e0bcc0662e9723d8a36be97c2bb0c4bb7b390cabdf9eca321e5777510525e8"
+      },
+      "preview": {
+        "path": "category-previews/workbuddy-whale-curious/preview.webp",
+        "sha256": "4f697d15f9f3f5d3378f066264d8c0cf3f85b88bbaf9a353818af09ab6b7c6fe",
+        "parentSha256": "d1e0bcc0662e9723d8a36be97c2bb0c4bb7b390cabdf9eca321e5777510525e8",
+        "width": 192,
+        "height": 192,
+        "process": "Proportional scaling and transparent padding to 192 × 192, then WebP encoding. No cropping."
+      },
+      "notices": [
+        {
+          "path": "category-previews/workbuddy-whale-curious/NOTICE.md",
+          "sha256": "a46905d91265a0f4f823432b6983cb700ac07f5e62972cc678e7b98eaa30f61c"
+        },
+        {
+          "path": "category-previews/workbuddy-whale-curious/LICENSE",
+          "sha256": "5ded6ceb3b1d03c64c8c43943b17756243e1ea9861336822c685ae3f74e16541"
+        }
+      ]
     }
   ]
 }
