@@ -1,0 +1,36 @@
+{
+  "url": "https://github.com/Loping151/dsh-nekowhale-stickers/blob/b7b58c0ff347d639fabe87d90d6716c4b3cad185/README.md",
+  "publisher": "Loping151",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T14:33:02.350Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/Loping151/dsh-nekowhale-stickers/blob/b7b58c0ff347d639fabe87d90d6716c4b3cad185/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Loping151/dsh-nekowhale-stickers/b7b58c0ff347d639fabe87d90d6716c4b3cad185/README.md",
+    "commit": "b7b58c0ff347d639fabe87d90d6716c4b3cad185",
+    "sourceSha256": "6f6148ea8b61b3f5def6479289d7f1ed8cc1e70bc0818f525186c40ff93c8df7"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/Loping151/dsh-nekowhale-stickers/blob/b7b58c0ff347d639fabe87d90d6716c4b3cad185/LICENSE-ASSETS",
+      "rawUrl": "https://raw.githubusercontent.com/Loping151/dsh-nekowhale-stickers/b7b58c0ff347d639fabe87d90d6716c4b3cad185/LICENSE-ASSETS",
+      "commit": "b7b58c0ff347d639fabe87d90d6716c4b3cad185",
+      "sourceSha256": "5072bd776f3668bad9cfdd365075b42c28589808886e1d9deba80988e0e56153"
+    },
+    {
+      "url": "https://github.com/Loping151/dsh-nekowhale-stickers/blob/b7b58c0ff347d639fabe87d90d6716c4b3cad185/NOTICE",
+      "rawUrl": "https://raw.githubusercontent.com/Loping151/dsh-nekowhale-stickers/b7b58c0ff347d639fabe87d90d6716c4b3cad185/NOTICE",
+      "commit": "b7b58c0ff347d639fabe87d90d6716c4b3cad185",
+      "sourceSha256": "9309e0f623078f76390320505d1777ac9d5354ead2fe3179a2f0ed7a45258dd8"
+    }
+  ],
+  "findings": {
+    "annotationDataLicense": "CC BY-NC 4.0",
+    "annotationScope": [
+      "meta/",
+      "tools/annotate/data/"
+    ],
+    "stickerArtist": "可以叫我云大人 / 雾雪",
+    "gifAndLive2D": "separate creator terms"
+  }
+}

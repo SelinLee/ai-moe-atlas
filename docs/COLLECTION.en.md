@@ -30,3 +30,11 @@ Collection accepts only reviewed artwork permissions. Pin GitHub revisions. For 
 Resolution workflow: find the creator’s larger original → preserve it → export required dimensions. Current Lanczos enlargements are explicitly resampled. Future super-resolution must record model, settings, and before/after review without redesigning or replacing the source.
 
 For Pixiv, retain creator identity, artwork ID, image number, public original URL, caption snapshot and file hash. Use publicly accessible works only. Keep terms per image; do not extend a character-specific CC statement to the whole collection. If no high-resolution original is found, the user permits fixed depictions generated from collected references, stored with separate generation records, clear labels and original sources; generation does not change upstream terms.
+
+## Bilibili fan-video like snapshots
+
+```sh
+node scripts/collect-bilibili-likes.mjs > /tmp/atlas-bilibili-likes.json
+```
+
+The command uses an isolated headless Chrome session to collect official cumulative likes for cataloged fan videos. Add candidate BV IDs after the script name to check them in the same run. The JSON output is a draft. When the command exits with status 1, check the BV IDs in its error output. Verify each title, uploader, BV ID and publication date. Keep the last valid observation when a refresh fails. Save reviewed evidence under `content/research/`, record its path and SHA-256 in `content/resources.json`, and sync all three READMEs.

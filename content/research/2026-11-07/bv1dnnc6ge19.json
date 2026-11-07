@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Dnnc6gE19/",
+  "publisher": "Claude大小姐在运营",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Dnnc6gE19",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:31:21.351Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1Dnnc6gE19",
+    "title": "【附赠·测试】睡前童话 第一夜：大肥鱼做事总不会错",
+    "owner": {
+      "name": "Claude大小姐在运营",
+      "mid": 3747572619414174
+    },
+    "pubdate": 1792503000
+  },
+  "credits": [],
+  "uploaderDesignCredits": {
+    "credit": "光影伴我飞",
+    "roles": [
+      "GPT",
+      "Grok",
+      "Gemini",
+      "Qwen",
+      "Kimi"
+    ],
+    "pixelArtwork": "GPT",
+    "originalDesignPost": "not-located"
+  }
+}

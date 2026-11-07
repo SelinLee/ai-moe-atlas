@@ -1,0 +1,23 @@
+{
+  "url": "https://www.bilibili.com/video/BV1D7ax6BEwG/",
+  "publisher": "偶鲸鲸",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1D7ax6BEwG",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:31:24.251Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1D7ax6BEwG",
+    "title": "“请选择你的ai娘”",
+    "owner": {
+      "name": "偶鲸鲸",
+      "mid": 397498774
+    },
+    "pubdate": 1790450643
+  },
+  "credits": [],
+  "findings": {
+    "description": "empty",
+    "characterCredits": "not-located"
+  }
+}

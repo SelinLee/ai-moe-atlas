@@ -1,0 +1,34 @@
+{
+  "url": "https://www.bilibili.com/video/BV15X3n6mEWy/",
+  "publisher": "蒙德砍壬",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15X3n6mEWy",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:31:21.449Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV15X3n6mEWy",
+    "title": "大肥鱼 炸盆子",
+    "owner": {
+      "name": "蒙德砍壬",
+      "mid": 1931150416
+    },
+    "pubdate": 1785334247
+  },
+  "credits": [
+    {
+      "role": "inspiration",
+      "title": "小熊貓max80072 · 流萤 炸盆子",
+      "url": "https://www.bilibili.com/video/BV17PPazyEEu/"
+    }
+  ],
+  "linkedInspiration": {
+    "bvid": "BV17PPazyEEu",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17PPazyEEu",
+    "observedAt": "2026-11-07T14:31:22.860Z",
+    "httpStatus": 200,
+    "code": 0,
+    "title": "流萤 炸盆子",
+    "publisher": "小熊貓max80072"
+  }
+}

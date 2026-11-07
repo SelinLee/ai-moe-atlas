@@ -1,0 +1,38 @@
+{
+  "url": "https://www.bilibili.com/video/BV1mwRzBdEzk/",
+  "publisher": "ZipZipPipe",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T14:33:12.066Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mwRzBdEzk",
+  "code": 0,
+  "scope": "Official video metadata, uploader description and linked source references checked. No video or artwork copied.",
+  "metadata": {
+    "bvid": "BV1mwRzBdEzk",
+    "title": "AI娘的日常（大概?）",
+    "owner": {
+      "name": "ZipZipPipe",
+      "mid": 4168597
+    },
+    "pubdate": 1777910286
+  },
+  "findings": {
+    "coverCharacterIdentifications": {
+      "blueHair": "Baidu ERNIE",
+      "orangeHair": "Claude"
+    },
+    "statedLicenseScope": "whale-girl adaptation",
+    "coverRedistributionTerms": "not-established"
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    }
+  ]
+}

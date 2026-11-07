@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Hfet6KEug/",
+  "publisher": "土豆AX",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Hfet6KEug",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:31:24.837Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1Hfet6KEug",
+    "title": "当全球AI娘聚在一起（GPT，deepseek，Claude们的温馨日常）",
+    "owner": {
+      "name": "土豆AX",
+      "mid": 510979050
+    },
+    "pubdate": 1789814199
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}
