@@ -40,14 +40,11 @@
 
 ### 🎨 角色图鉴
 
-<!-- category-preview:characters -->
-<p>
-  <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/"><img src="public/collected/zipzippipe-chatgpt/portrait/preview.webp" width="96" alt="GPT · ZipZipPipe" title="GPT · ZipZipPipe"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-gemini/"><img src="public/collected/zipzippipe-gemini/portrait/preview.webp" width="96" alt="Gemini · ZipZipPipe" title="Gemini · ZipZipPipe"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/zh/characters/shangshan-whale/"><img src="public/collected/shangshan-whale/portrait/preview.webp" width="96" alt="溟月 · 上善无形" title="溟月 · 上善无形"></a>
-</p>
+<!-- category-picks:characters -->
 
-<sub>代表角色 · GPT、Gemini、溟月</sub>
+- [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/) — 银白长发、龙角和白裙。
+- [Gemini · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-gemini/) — 蓝紫长发、猫耳和星形饰物。
+- [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/zh/characters/shangshan-whale/) — 鲸鱼娘原设与「蓝色大肥鱼」二创的出处。
 
 从 12 个 AI 产品中查角色、作者和原作。
 
@@ -57,29 +54,23 @@
 
 ### 🎵 歌曲
 
-<!-- category-preview:songs -->
-<p>
-  <a href="https://selinlee.github.io/ai-moe-atlas/zh/songs/#humans-are-cats"><img src="public/collected/deep-whale-maid/delighted/preview.webp" width="96" alt="人是猫 · 角色参考图" title="人是猫 · 角色参考图"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/zh/songs/#let-me-go"><img src="public/collected/shangshan-whale/portrait/preview.webp" width="96" alt="Let Me Go · 大肥鱼摸鱼歌 · 角色参考图" title="Let Me Go · 大肥鱼摸鱼歌 · 角色参考图"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/zh/songs/#world-execute-me"><img src="public/category-previews/nyankomint-claude-silhouette/preview.webp" width="96" alt="world.execute(me); · MV 制作图" title="world.execute(me); · MV 制作图"></a>
-</p>
+<!-- category-picks:songs -->
 
-<sub>点击图片浏览该歌曲的原曲和二创版本。</sub>
+- [人是猫](https://selinlee.github.io/ai-moe-atlas/zh/songs/#humans-are-cats) — 洛天依原唱与鲸鱼娘翻唱。
+- [Let Me Go · 大肥鱼摸鱼歌](https://selinlee.github.io/ai-moe-atlas/zh/songs/#let-me-go) — 星落落_oi 的初版、改编与歌词 MV。
+- [world.execute(me);](https://selinlee.github.io/ai-moe-atlas/zh/songs/#world-execute-me) — Mili 原曲与 Claude、鲸鱼娘、千问的同人 MV。
 
-[打开歌曲目录](https://selinlee.github.io/ai-moe-atlas/zh/songs/) · [预览图署名与许可](RIGHTS.md)
+[打开歌曲目录](https://selinlee.github.io/ai-moe-atlas/zh/songs/)
 
 <a id="references"></a>
 
 ### 🧸 三视图与派生参考
 
-<!-- category-preview:references -->
-<p>
-  <a href="public/generated/ai-models-v5/claude-reference.png"><img src="public/generated/ai-models-v5/claude-preview.webp" width="96" alt="Claude 常规比例与 Q 版参考" title="Claude 常规比例与 Q 版参考"></a>
-  <a href="public/generated/super-chibi-v1/deepseek/turnaround-v1.png"><img src="public/generated/super-chibi-v1/deepseek/preview.webp" width="96" alt="DeepSeek Q 版三视图" title="DeepSeek Q 版三视图"></a>
-  <a href="public/generated/super-chibi-v1/qwen/turnaround-v2.png"><img src="public/generated/super-chibi-v1/qwen/preview.webp" width="96" alt="千问 Q 版三视图" title="千问 Q 版三视图"></a>
-</p>
+<!-- category-picks:references -->
 
-<sub>派生参考 · Claude 常规比例与 Q 版、DeepSeek 三视图、千问三视图</sub>
+- [Claude 角色参考图](https://selinlee.github.io/ai-moe-atlas/zh/references/#claude) — 同一张图里对照常规比例与 Q 版。
+- [DeepSeek Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#deepseek) — 鲸鱼娘的正面、侧面和背面。
+- [千问 Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#qwen) — 千问的正面、侧面和背面。
 
 20 张均为生成派生展示图，保留参考出处、署名和生成记录。
 
@@ -89,14 +80,11 @@
 
 ### 🎬 动画与视频二创
 
-<!-- category-preview:animations -->
-<p>
-  <a href="https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1xcai6ae9g"><img src="public/category-previews/misaka-dsh-whale/preview.webp" width="96" alt="《world.execute(me)》制作素材 · 鲸鱼娘立绘" title="《world.execute(me)》制作素材 · 鲸鱼娘立绘"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv186pc65e68"><img src="public/category-previews/nyankomint-claude-silhouette/preview.webp" width="96" alt="《world.execute(me);》· Claude 三色剪影" title="《world.execute(me);》· Claude 三色剪影"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1nfag6xehq"><img src="public/collected/school-op-copilot/portrait/preview.webp" width="96" alt="《败犬 AI 太多了！》· Copilot 校园设定" title="《败犬 AI 太多了！》· Copilot 校园设定"></a>
-</p>
+<!-- category-picks:animations -->
 
-<sub>从左到右是鲸鱼娘 PV 制作立绘、Claude 歌词 MV 三色剪影、Copilot 校园 PV 设定。点图看作品。<a href="RIGHTS.md#category-preview-artwork">鲸鱼娘与 Claude 素材许可</a> · <a href="RIGHTS.md#copilot--ai-school-op">Copilot 设定许可</a></sub>
+- [如果聊天窗口就是她的整个世界](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1xcai6ae9g) — 以聊天窗口为主题的鲸鱼娘 MV。
+- [败犬 AI 太多了！· 正式 PV](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1nfag6xehq) — DeepSeek、Gemini、Claude 和 GPT 的校园群像。
+- [Claude × DeepSeek · 把明天跑通](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1rd476leux) — Claude 娘与鲸鱼娘的剧情短片。
 
 <!-- animation-ranking:start -->
 
@@ -125,14 +113,11 @@
 
 ### 🐾 桌宠与交互项目
 
-<!-- category-preview:desktop-pets -->
-<p>
-  <a href="https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#crosspet"><img src="public/category-previews/crosspet-whale/preview.webp" width="96" alt="CrossPet 项目实图 · 鲸鱼娘待机" title="CrossPet 项目实图 · 鲸鱼娘待机"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#deep-whale-day-night"><img src="public/category-previews/whale-night-companion/preview.webp" width="96" alt="昼夜工坊 · 鲸鱼娘夜间桌宠" title="昼夜工坊 · 鲸鱼娘夜间桌宠"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#workbuddy-whale-pet"><img src="public/category-previews/workbuddy-whale-curious/preview.webp" width="96" alt="WorkBuddy · 鲸鱼娘好奇差分" title="WorkBuddy · 鲸鱼娘好奇差分"></a>
-</p>
+<!-- category-picks:desktop-pets -->
 
-<sub>从左到右是 CrossPet 待机、昼夜工坊夜间桌宠、WorkBuddy 好奇差分。点图看项目。<a href="RIGHTS.md#category-preview-artwork">署名与许可</a></sub>
+- [CrossPet · 跨 AI 桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#crosspet) — 随 AI 产品和工作状态切换角色与动作。
+- [Deep Whale Day & Night · 昼夜工坊](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#deep-whale-day-night) — 鲸鱼娘的昼夜场景与侧栏桌宠。
+- [WorkBuddy 鲸鱼娘桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#workbuddy-whale-pet) — 在 Windows 桌面查看 WorkBuddy 用量和余额。
 
 | 项目 | 内容 | 发布者 |
 | --- | --- | --- |
@@ -201,16 +186,13 @@
 
 ### 📚 作者作品与出处
 
-<!-- category-preview:sources -->
-<p>
-  <a href="https://www.bilibili.com/opus/1231977657712771073"><img src="public/collected/shangshan-whale/portrait/preview.webp" width="96" alt="溟月 · 上善无形" title="溟月 · 上善无形"></a>
-  <a href="https://www.pixiv.net/artworks/148186519"><img src="public/collected/zipzippipe-claude/portrait/preview.webp" width="96" alt="Claude · ZipZipPipe" title="Claude · ZipZipPipe"></a>
-  <a href="https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier"><img src="public/collected/deep-whale-maid/delighted/preview.webp" width="96" alt="鲸鱼娘女仆素材 · Small-tailqwq" title="鲸鱼娘女仆素材 · Small-tailqwq"></a>
-</p>
+<!-- category-picks:sources -->
 
-<sub>已收录图像 · 点图打开对应出处</sub>
+- [上善无形 · 鲸鱼娘原作](https://www.bilibili.com/opus/1231977657712771073) — 查看溟月的原始设定与作者发布。
+- [ZipZipPipe · AI 娘化图集](https://www.pixiv.net/artworks/148186519) — 收录 GPT、Gemini、Claude 等角色的作者图集。
+- [Small-tailqwq · 鲸鱼娘女仆素材](https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier) — 女仆造型的表情差分及原作者署名。
 
-原作与署名链： [上善无形 · 鲸鱼娘原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI 娘化图集](https://www.pixiv.net/artworks/148186519) · [来源与使用声明](https://t.bilibili.com/1231980045693616162)
+另见 ZipZipPipe 的[来源与使用声明](https://t.bilibili.com/1231980045693616162)。
 
 本次补充：
 

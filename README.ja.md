@@ -40,14 +40,11 @@
 
 ### 🎨 キャラクター図鑑
 
-<!-- category-preview:characters -->
-<p>
-  <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/"><img src="public/collected/zipzippipe-chatgpt/portrait/preview.webp" width="96" alt="GPT · ZipZipPipe" title="GPT · ZipZipPipe"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-gemini/"><img src="public/collected/zipzippipe-gemini/portrait/preview.webp" width="96" alt="Gemini · ZipZipPipe" title="Gemini · ZipZipPipe"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/ja/characters/shangshan-whale/"><img src="public/collected/shangshan-whale/portrait/preview.webp" width="96" alt="溟月 · 上善无形" title="溟月 · 上善无形"></a>
-</p>
+<!-- category-picks:characters -->
 
-<sub>代表キャラクター · GPT、Gemini、溟月</sub>
+- [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/) — 銀白色の長髪、竜の角、白いドレス。
+- [Gemini · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-gemini/) — 青紫の長髪、猫耳、星の飾り。
+- [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/ja/characters/shangshan-whale/) — 「青い大きな魚」の二次創作につながるクジラ娘の原案。
 
 AI 製品12種からキャラクター、作者、原作を探せます。
 
@@ -57,29 +54,23 @@ AI 製品12種からキャラクター、作者、原作を探せます。
 
 ### 🎵 楽曲
 
-<!-- category-preview:songs -->
-<p>
-  <a href="https://selinlee.github.io/ai-moe-atlas/ja/songs/#humans-are-cats"><img src="public/collected/deep-whale-maid/delighted/preview.webp" width="96" alt="人は猫 · キャラクター資料" title="人は猫 · キャラクター資料"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/ja/songs/#let-me-go"><img src="public/collected/shangshan-whale/portrait/preview.webp" width="96" alt="Let Me Go · 大きな魚のサボり歌 · キャラクター資料" title="Let Me Go · 大きな魚のサボり歌 · キャラクター資料"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/ja/songs/#world-execute-me"><img src="public/category-previews/nyankomint-claude-silhouette/preview.webp" width="96" alt="world.execute(me); · MV 制作素材" title="world.execute(me); · MV 制作素材"></a>
-</p>
+<!-- category-picks:songs -->
 
-<sub>画像から原曲と二次創作の一覧へ。</sub>
+- [人は猫](https://selinlee.github.io/ai-moe-atlas/ja/songs/#humans-are-cats) — 洛天依の原曲とクジラ娘のカバー。
+- [Let Me Go · 大きな魚のサボり歌](https://selinlee.github.io/ai-moe-atlas/ja/songs/#let-me-go) — 星落落_oi の初版、アレンジ、歌詞 MV。
+- [world.execute(me);](https://selinlee.github.io/ai-moe-atlas/ja/songs/#world-execute-me) — Mili の原曲と Claude、クジラ娘、千問の二次創作 MV。
 
-[楽曲一覧を開く](https://selinlee.github.io/ai-moe-atlas/ja/songs/) · [画像のクレジットと利用条件](RIGHTS.md)
+[楽曲一覧を開く](https://selinlee.github.io/ai-moe-atlas/ja/songs/)
 
 <a id="references"></a>
 
 ### 🧸 三面図と生成派生資料
 
-<!-- category-preview:references -->
-<p>
-  <a href="public/generated/ai-models-v5/claude-reference.png"><img src="public/generated/ai-models-v5/claude-preview.webp" width="96" alt="Claude の通常頭身・ちび版資料" title="Claude の通常頭身・ちび版資料"></a>
-  <a href="public/generated/super-chibi-v1/deepseek/turnaround-v1.png"><img src="public/generated/super-chibi-v1/deepseek/preview.webp" width="96" alt="DeepSeek のちび三面図" title="DeepSeek のちび三面図"></a>
-  <a href="public/generated/super-chibi-v1/qwen/turnaround-v2.png"><img src="public/generated/super-chibi-v1/qwen/preview.webp" width="96" alt="千問のちび三面図" title="千問のちび三面図"></a>
-</p>
+<!-- category-picks:references -->
 
-<sub>派生資料 · Claude の資料、DeepSeek と千問の三面図</sub>
+- [Claude のキャラクター資料](https://selinlee.github.io/ai-moe-atlas/ja/references/#claude) — 通常頭身とちびキャラを一枚で比較。
+- [DeepSeek のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#deepseek) — クジラ娘の正面・側面・背面。
+- [千問のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#qwen) — 千問の正面・側面・背面。
 
 20枚は生成派生の展示画像です。参照元・作者表示・生成記録を保持しています。
 
@@ -89,14 +80,11 @@ AI 製品12種からキャラクター、作者、原作を探せます。
 
 ### 🎬 アニメ・動画二次創作
 
-<!-- category-preview:animations -->
-<p>
-  <a href="https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1xcai6ae9g"><img src="public/category-previews/misaka-dsh-whale/preview.webp" width="96" alt="world.execute(me) 制作素材 · クジラ娘の立ち絵" title="world.execute(me) 制作素材 · クジラ娘の立ち絵"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv186pc65e68"><img src="public/category-previews/nyankomint-claude-silhouette/preview.webp" width="96" alt="World.execute(me); · Claude の三色シルエット" title="World.execute(me); · Claude の三色シルエット"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1nfag6xehq"><img src="public/collected/school-op-copilot/portrait/preview.webp" width="96" alt="負けヒロイン AI が多すぎる！ · Copilot 学園版" title="負けヒロイン AI が多すぎる！ · Copilot 学園版"></a>
-</p>
+<!-- category-picks:animations -->
 
-<sub>左からクジラ娘 PV の立ち絵、Claude の歌詞 MV の三色シルエット、Copilot の学園 PV 設定。画像から作品へ。<a href="RIGHTS.md#category-preview-artwork">クジラ娘と Claude の素材利用条件</a> · <a href="RIGHTS.md#copilot--ai-school-op">Copilot の設定画の利用条件</a></sub>
+- [チャット画面が彼女の世界のすべてだったら](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1xcai6ae9g) — チャット画面を題材にしたクジラ娘の MV。
+- [負けヒロイン AI が多すぎる！ · PV](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1nfag6xehq) — DeepSeek、Gemini、Claude、GPT が登場する学園群像 PV。
+- [Claude × DeepSeek · 明日を動かす](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1rd476leux) — Claude 娘とクジラ娘が登場する短編。
 
 <!-- animation-ranking:start -->
 
@@ -125,14 +113,11 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 
 ### 🐾 ペット・インタラクティブ作品
 
-<!-- category-preview:desktop-pets -->
-<p>
-  <a href="https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#crosspet"><img src="public/category-previews/crosspet-whale/preview.webp" width="96" alt="CrossPet の実素材 · クジラ娘の待機" title="CrossPet の実素材 · クジラ娘の待機"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#deep-whale-day-night"><img src="public/category-previews/whale-night-companion/preview.webp" width="96" alt="昼夜工房 · 夜のクジラ娘ペット" title="昼夜工房 · 夜のクジラ娘ペット"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#workbuddy-whale-pet"><img src="public/category-previews/workbuddy-whale-curious/preview.webp" width="96" alt="WorkBuddy · クジラ娘の好奇心差分" title="WorkBuddy · クジラ娘の好奇心差分"></a>
-</p>
+<!-- category-picks:desktop-pets -->
 
-<sub>左から CrossPet の待機素材、昼夜工房の夜のペット、WorkBuddy の好奇心差分。画像から作品へ。<a href="RIGHTS.md#category-preview-artwork">クレジットとライセンス</a></sub>
+- [CrossPet · 複数 AI 対応のデスクトップペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#crosspet) — AI 製品や作業状態に合わせてキャラクターと動きが変わる。
+- [Deep Whale Day & Night · 昼夜工房](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#deep-whale-day-night) — クジラ娘の昼夜の背景とサイドバーのペット。
+- [WorkBuddy クジラ娘のデスクトップペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#workbuddy-whale-pet) — Windows のデスクトップで WorkBuddy の使用量と残高を表示。
 
 | プロジェクト | 内容 | 投稿者 |
 | --- | --- | --- |
@@ -201,16 +186,13 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 
 ### 📚 作者の作品と出典
 
-<!-- category-preview:sources -->
-<p>
-  <a href="https://www.bilibili.com/opus/1231977657712771073"><img src="public/collected/shangshan-whale/portrait/preview.webp" width="96" alt="溟月 · 上善无形" title="溟月 · 上善无形"></a>
-  <a href="https://www.pixiv.net/artworks/148186519"><img src="public/collected/zipzippipe-claude/portrait/preview.webp" width="96" alt="Claude · ZipZipPipe" title="Claude · ZipZipPipe"></a>
-  <a href="https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier"><img src="public/collected/deep-whale-maid/delighted/preview.webp" width="96" alt="メイドのクジラ娘素材 · Small-tailqwq" title="メイドのクジラ娘素材 · Small-tailqwq"></a>
-</p>
+<!-- category-picks:sources -->
 
-<sub>収録画像 · 対応する出典を開く</sub>
+- [上善无形 · クジラ娘の原作](https://www.bilibili.com/opus/1231977657712771073) — 溟月の原案を掲載した作者本人の投稿。
+- [ZipZipPipe · AI 娘化作品集](https://www.pixiv.net/artworks/148186519) — GPT、Gemini、Claude などを収録した作者本人の作品集。
+- [Small-tailqwq · クジラ娘のメイド素材](https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier) — メイド衣装の表情差分と原作者のクレジット。
 
-原作と作者の連鎖： [上善无形 · クジラ娘の原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI娘作品集](https://www.pixiv.net/artworks/148186519) · [出典と利用声明](https://t.bilibili.com/1231980045693616162)
+ZipZipPipe の[出典と利用声明](https://t.bilibili.com/1231980045693616162)も参照できます。
 
 今回追加した出典：
 

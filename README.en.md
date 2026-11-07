@@ -40,14 +40,11 @@ Choose a category to jump to its section here. Each section also links to online
 
 ### 🎨 Character atlas
 
-<!-- category-preview:characters -->
-<p>
-  <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/"><img src="public/collected/zipzippipe-chatgpt/portrait/preview.webp" width="96" alt="GPT · ZipZipPipe" title="GPT · ZipZipPipe"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-gemini/"><img src="public/collected/zipzippipe-gemini/portrait/preview.webp" width="96" alt="Gemini · ZipZipPipe" title="Gemini · ZipZipPipe"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/en/characters/shangshan-whale/"><img src="public/collected/shangshan-whale/portrait/preview.webp" width="96" alt="Mingyue · Shangshan" title="Mingyue · Shangshan"></a>
-</p>
+<!-- category-picks:characters -->
 
-<sub>Featured characters · GPT, Gemini and Mingyue</sub>
+- [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/) — Silver-white hair, dragon horns and a white gown.
+- [Gemini · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-gemini/) — Blue-purple hair, cat ears and star ornaments.
+- [Mingyue · Shangshan](https://selinlee.github.io/ai-moe-atlas/en/characters/shangshan-whale/) — The original Whale Girl design behind Blue Fat Fish fan works.
 
 Find characters, creators and original works across 12 AI products.
 
@@ -57,29 +54,23 @@ Find characters, creators and original works across 12 AI products.
 
 ### 🎵 Songs
 
-<!-- category-preview:songs -->
-<p>
-  <a href="https://selinlee.github.io/ai-moe-atlas/en/songs/#humans-are-cats"><img src="public/collected/deep-whale-maid/delighted/preview.webp" width="96" alt="Humans Are Cats · Character reference" title="Humans Are Cats · Character reference"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/en/songs/#let-me-go"><img src="public/collected/shangshan-whale/portrait/preview.webp" width="96" alt="Let Me Go · Fat Fish’s Slacking Song · Character reference" title="Let Me Go · Fat Fish’s Slacking Song · Character reference"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/en/songs/#world-execute-me"><img src="public/category-previews/nyankomint-claude-silhouette/preview.webp" width="96" alt="world.execute(me); · MV production art" title="world.execute(me); · MV production art"></a>
-</p>
+<!-- category-picks:songs -->
 
-<sub>Select an image to find the original and fan versions.</sub>
+- [Humans Are Cats](https://selinlee.github.io/ai-moe-atlas/en/songs/#humans-are-cats) — Luo Tianyi’s original and Whale Girl covers.
+- [Let Me Go · Fat Fish’s Slacking Song](https://selinlee.github.io/ai-moe-atlas/en/songs/#let-me-go) — 星落落_oi’s original release, an arrangement and lyric MVs.
+- [world.execute(me);](https://selinlee.github.io/ai-moe-atlas/en/songs/#world-execute-me) — Mili’s original and fan MVs featuring Claude, Whale Girl and Qwen.
 
-[Open the song directory](https://selinlee.github.io/ai-moe-atlas/en/songs/) · [Preview credits and terms](RIGHTS.md)
+[Open the song directory](https://selinlee.github.io/ai-moe-atlas/en/songs/)
 
 <a id="references"></a>
 
 ### 🧸 Turnarounds & adaptations
 
-<!-- category-preview:references -->
-<p>
-  <a href="public/generated/ai-models-v5/claude-reference.png"><img src="public/generated/ai-models-v5/claude-preview.webp" width="96" alt="Claude standard and chibi sheet" title="Claude standard and chibi sheet"></a>
-  <a href="public/generated/super-chibi-v1/deepseek/turnaround-v1.png"><img src="public/generated/super-chibi-v1/deepseek/preview.webp" width="96" alt="DeepSeek chibi turnaround" title="DeepSeek chibi turnaround"></a>
-  <a href="public/generated/super-chibi-v1/qwen/turnaround-v2.png"><img src="public/generated/super-chibi-v1/qwen/preview.webp" width="96" alt="Qwen chibi turnaround" title="Qwen chibi turnaround"></a>
-</p>
+<!-- category-picks:references -->
 
-<sub>Adaptation previews · Claude reference sheet, DeepSeek and Qwen turnarounds</sub>
+- [Claude reference sheet](https://selinlee.github.io/ai-moe-atlas/en/references/#claude) — Full-proportion and chibi designs on one sheet.
+- [DeepSeek chibi turnaround](https://selinlee.github.io/ai-moe-atlas/en/chibi/#deepseek) — Front, side and back views of Whale Girl.
+- [Qwen chibi turnaround](https://selinlee.github.io/ai-moe-atlas/en/chibi/#qwen) — Front, side and back views of Qwen.
 
 All 20 images are generated adaptations with references, credits and generation records.
 
@@ -89,14 +80,11 @@ All 20 images are generated adaptations with references, credits and generation 
 
 ### 🎬 Animation & fan videos
 
-<!-- category-preview:animations -->
-<p>
-  <a href="https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1xcai6ae9g"><img src="public/category-previews/misaka-dsh-whale/preview.webp" width="96" alt="world.execute(me) production artwork · Whale Girl portrait" title="world.execute(me) production artwork · Whale Girl portrait"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv186pc65e68"><img src="public/category-previews/nyankomint-claude-silhouette/preview.webp" width="96" alt="World.execute(me); · Claude tricolor silhouette" title="World.execute(me); · Claude tricolor silhouette"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1nfag6xehq"><img src="public/collected/school-op-copilot/portrait/preview.webp" width="96" alt="Too Many Losing AIs! · Copilot school design" title="Too Many Losing AIs! · Copilot school design"></a>
-</p>
+<!-- category-picks:animations -->
 
-<sub>From left to right, the Whale Girl PV portrait, the Claude lyric MV silhouette, and the Copilot school PV design. Select an image to open the work. <a href="RIGHTS.md#category-preview-artwork">Whale Girl and Claude artwork terms</a> · <a href="RIGHTS.md#copilot--ai-school-op">Copilot design terms</a></sub>
+- [What If the Chat Window Were Her Whole World?](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1xcai6ae9g) — A Whale Girl MV set around a chat window.
+- [Too Many Losing AIs! · Fan PV](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1nfag6xehq) — A school-ensemble PV with DeepSeek, Gemini, Claude and GPT.
+- [Claude × DeepSeek · Making Tomorrow Work](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1rd476leux) — A narrative short featuring Claude Girl and Whale Girl.
 
 <!-- animation-ranking:start -->
 
@@ -125,14 +113,11 @@ The top ten by Bilibili’s official cumulative likes. Ties use publication date
 
 ### 🐾 Pets & interactive projects
 
-<!-- category-preview:desktop-pets -->
-<p>
-  <a href="https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#crosspet"><img src="public/category-previews/crosspet-whale/preview.webp" width="96" alt="CrossPet project artwork · Whale Girl idle" title="CrossPet project artwork · Whale Girl idle"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#deep-whale-day-night"><img src="public/category-previews/whale-night-companion/preview.webp" width="96" alt="Deep Whale Day & Night · night companion" title="Deep Whale Day & Night · night companion"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#workbuddy-whale-pet"><img src="public/category-previews/workbuddy-whale-curious/preview.webp" width="96" alt="WorkBuddy · Curious Whale Girl pose" title="WorkBuddy · Curious Whale Girl pose"></a>
-</p>
+<!-- category-picks:desktop-pets -->
 
-<sub>From left to right, CrossPet idle art, the Day & Night companion, and WorkBuddy’s curious pose. Select an image to open the project. <a href="RIGHTS.md#category-preview-artwork">Credits and license</a></sub>
+- [CrossPet · Multi-AI desktop pet](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#crosspet) — Characters and actions change with the AI product and work state.
+- [Deep Whale Day & Night](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#deep-whale-day-night) — Day and night scenes with a Whale Girl sidebar companion.
+- [WorkBuddy Whale Girl desktop pet](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#workbuddy-whale-pet) — Shows WorkBuddy usage and balance on the Windows desktop.
 
 | Project | Content | Publisher |
 | --- | --- | --- |
@@ -201,16 +186,13 @@ Source links only. Artwork follows its own upstream terms; code licenses do not 
 
 ### 📚 Creator works & sources
 
-<!-- category-preview:sources -->
-<p>
-  <a href="https://www.bilibili.com/opus/1231977657712771073"><img src="public/collected/shangshan-whale/portrait/preview.webp" width="96" alt="Mingyue · Shangshan" title="Mingyue · Shangshan"></a>
-  <a href="https://www.pixiv.net/artworks/148186519"><img src="public/collected/zipzippipe-claude/portrait/preview.webp" width="96" alt="Claude · ZipZipPipe" title="Claude · ZipZipPipe"></a>
-  <a href="https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier"><img src="public/collected/deep-whale-maid/delighted/preview.webp" width="96" alt="Maid whale-girl artwork · Small-tailqwq" title="Maid whale-girl artwork · Small-tailqwq"></a>
-</p>
+<!-- category-picks:sources -->
 
-<sub>Collected artwork · Open the corresponding source</sub>
+- [Shangshan · Whale Girl original](https://www.bilibili.com/opus/1231977657712771073) — The creator’s post with Mingyue’s original design.
+- [ZipZipPipe · AI Girl collection](https://www.pixiv.net/artworks/148186519) — The creator’s collection featuring GPT, Gemini, Claude and more.
+- [Small-tailqwq · Whale Girl maid artwork](https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier) — Maid expressions and credits for the original artwork.
 
-Original works and attribution: [Shangshan · whale-girl original](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI-girl collection](https://www.pixiv.net/artworks/148186519) · [Source and usage statement](https://t.bilibili.com/1231980045693616162)
+See also ZipZipPipe’s [source and usage statement](https://t.bilibili.com/1231980045693616162).
 
 Newly added:
 
