@@ -1,5 +1,6 @@
 import registry from '../../content/resources.json';
 import leads from '../../content/leads.json';
+import songs from '../../content/songs.json';
 import { characters } from './data';
 import chibi from '../../public/generated/super-chibi-v1/manifest.json';
 import references from '../../public/generated/ai-models-v5/manifest.json';
@@ -11,7 +12,7 @@ import type { Locale } from './i18n';
 
 export { byPublicationDate, byPublicationTime, likesObservedDate, publicationTime } from './animation-ranking.mjs';
 
-export const categories=['characters','assets','references','animation','interactive','sources'] as const;
+export const categories=['characters','songs','references','animation','interactive','sources'] as const;
 export type Category=typeof categories[number];
 type Localized={zh:string;en:string;ja:string};
 export type Resource={
@@ -47,14 +48,14 @@ export const rankedAnimations=animations.filter(r=>r.likes);
 export const animationRanks=new Map(rankedAnimations.map((r,i)=>[r.id,i+1]));
 export const resourcesUpdatedAt=registry.updatedAt;
 export const resourceCounts:Record<Category,number>={
-  characters:characters.length,assets:characters.filter(c=>c.downloadable).length,
+  characters:characters.length,songs:songs.length,
   references:chibi.assets.length+references.assets.length+doodles.assets.length,
   animation:animations.length,interactive:resources.filter(r=>r.category==='interactive').length,
   sources:resources.filter(r=>r.category==='sources').length,
 };
 export function categoryURL(category:Category,lang:Locale){
   if(category==='characters')return path(`${lang}/#catalog`);
-  if(category==='assets')return path(`${lang}/assets/`);
+  if(category==='songs')return path(`${lang}/songs/`);
   if(category==='references')return path(`${lang}/#reference-resources`);
   return path(`${lang}/resources/?category=${category}`);
 }

@@ -4,6 +4,8 @@
 
 Explore AI character designs, usable assets and community fan works with traceable sources. Pick a category, or meet the characters below.
 
+<a id="assets"></a>
+
 [Open the character atlas](https://selinlee.github.io/ai-moe-atlas/en/) · [Download asset packs](https://selinlee.github.io/ai-moe-atlas/en/assets/) · [Open the studio](https://selinlee.github.io/ai-moe-atlas/en/studio/)
 
 <p align="center">
@@ -22,7 +24,7 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 <table>
   <tr>
     <td width="33%" valign="top"><a href="#characters"><strong>🎨 Character atlas</strong></a><br><strong>27</strong> entries<br><sub>Find designs by AI product, creator and style</sub></td>
-    <td width="33%" valign="top"><a href="#assets"><strong>📦 Downloadable assets</strong></a><br><strong>14</strong> packs<br><sub>Originals, credits, processing records and terms</sub></td>
+    <td width="33%" valign="top"><a href="#songs"><strong>🎵 Songs</strong></a><br><strong>7</strong> tracks<br><sub>Originals, covers, arrangements and fan MVs</sub></td>
     <td width="33%" valign="top"><a href="#references"><strong>🧸 Turnarounds & adaptations</strong></a><br><strong>20</strong> reference images<br><sub>Chibi sheets, references and doodle prompts</sub></td>
   </tr>
   <tr>
@@ -51,22 +53,20 @@ Find characters, creators and original works across 12 AI products.
 
 [Filter online](https://selinlee.github.io/ai-moe-atlas/en/#catalog) · [Trilingual character records](content/characters.json) · [AI product index](content/entities.json)
 
-<a id="assets"></a>
+<a id="songs"></a>
 
-### 📦 Downloadable assets
+### 🎵 Songs
 
-<!-- category-preview:assets -->
+<!-- category-preview:songs -->
 <p>
-  <a href="public/packs/zipzippipe-kimi.zip"><img src="public/collected/zipzippipe-kimi/portrait/preview.webp" width="96" alt="Kimi" title="Kimi"></a>
-  <a href="public/packs/zipzippipe-qwen.zip"><img src="public/collected/zipzippipe-qwen/portrait/preview.webp" width="96" alt="Qwen" title="Qwen"></a>
-  <a href="public/packs/school-op-copilot.zip"><img src="public/collected/school-op-copilot/portrait/preview.webp" width="96" alt="Copilot · ai-school-op" title="Copilot · ai-school-op"></a>
+  <a href="https://selinlee.github.io/ai-moe-atlas/en/songs/#humans-are-cats"><img src="public/collected/deep-whale-maid/delighted/preview.webp" width="96" alt="Humans Are Cats · Character reference" title="Humans Are Cats · Character reference"></a>
+  <a href="https://selinlee.github.io/ai-moe-atlas/en/songs/#let-me-go"><img src="public/collected/shangshan-whale/portrait/preview.webp" width="96" alt="Let Me Go · Fat Fish’s Slacking Song · Character reference" title="Let Me Go · Fat Fish’s Slacking Song · Character reference"></a>
+  <a href="https://selinlee.github.io/ai-moe-atlas/en/songs/#world-execute-me"><img src="public/category-previews/nyankomint-claude-silhouette/preview.webp" width="96" alt="world.execute(me); · MV production art" title="world.execute(me); · MV production art"></a>
 </p>
 
-<sub>Pack previews · Kimi, Qwen and Copilot (ai-school-op)</sub>
+<sub>Select an image to find the original and fan versions.</sub>
 
-14 packs include originals, normalized files, source records and credits.
-
-[Browse asset packs](public/packs/) · [Artwork-specific terms](RIGHTS.md) · [Make an avatar or introduction card](https://selinlee.github.io/ai-moe-atlas/en/studio/) · [Studio guide](docs/STUDIO.en.md) · [More sources for turnarounds, expressions and character assets](#sources)
+[Open the song directory](https://selinlee.github.io/ai-moe-atlas/en/songs/) · [Preview credits and terms](RIGHTS.md)
 
 <a id="references"></a>
 

@@ -41,6 +41,25 @@ for (const {id,target,source,terms,license,original,preview,notices=[]} of categ
 
 const reviews=JSON.parse(await readFile('content/reviews/artwork-uses.json','utf8'));
 const chars=JSON.parse(await readFile('content/characters.json','utf8'));
+const songs=JSON.parse(await readFile('content/songs.json','utf8'));
+const songVersions=new Map(resources.records.map(record=>[record.id,record.url]));
+const displayableSongImages=chars.filter(character=>reviews.find(review=>review.characterId===character.id)?.uses.featured.decision==='allowed');
+const songImages=new Set([...displayableSongImages.map(character=>character.preview),...categoryArtwork.assets.map(asset=>asset.preview.path)]);
+const songIds=new Set();
+const publicLink=value=>{
+ const url=new URL(value);
+ return url.protocol==='https:'&&!url.username&&!url.password;
+};
+for(const song of songs){
+ if(!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(song.id)||songIds.has(song.id)||
+   !['zh','en','ja'].every(lang=>song.title?.[lang]?.trim())||!song.original?.credit?.trim()||!publicLink(song.original.url))throw new Error(`Invalid song source: ${song.id}`);
+ songIds.add(song.id);
+ if(!song.versions.length||new Set(song.versions.map(version=>version.id)).size!==song.versions.length||
+   song.versions.some(version=>!songVersions.has(version.id)||songVersions.get(version.id)===song.original.url||
+    !['cover','arrangement','mv','remix'].includes(version.type)))throw new Error(`Invalid song versions: ${song.id}`);
+ if(song.image&&(!songImages.has(song.image.path)||!['characterReference','productionArt'].includes(song.image.kind)||
+   !song.image.credit?.trim()||!publicLink(song.image.source)))throw new Error(`Invalid song artwork: ${song.id}`);
+}
 const entities=JSON.parse(await readFile('content/entities.json','utf8'));
 const baselines=JSON.parse(await readFile('content/baselines.json','utf8'));
 // Parse every content JSON, including unpublished research and candidate records.

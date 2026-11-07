@@ -4,6 +4,8 @@
 
 出典のある AI 擬人化キャラクター、素材、二次創作を集めています。分類から探したり、下のかわいいキャラクターたちをご覧ください。
 
+<a id="assets"></a>
+
 [オンライン図鑑を開く](https://selinlee.github.io/ai-moe-atlas/ja/) · [素材パックを見る](https://selinlee.github.io/ai-moe-atlas/ja/assets/) · [素材工房を開く](https://selinlee.github.io/ai-moe-atlas/ja/studio/)
 
 <p align="center">
@@ -22,7 +24,7 @@
 <table>
   <tr>
     <td width="33%" valign="top"><a href="#characters"><strong>🎨 キャラクター図鑑</strong></a><br><strong>27</strong> 項目<br><sub>AI 製品・作者・画風から探す</sub></td>
-    <td width="33%" valign="top"><a href="#assets"><strong>📦 ダウンロード素材</strong></a><br><strong>14</strong> パック<br><sub>原画像・作者表示・加工記録・利用案内</sub></td>
+    <td width="33%" valign="top"><a href="#songs"><strong>🎵 楽曲</strong></a><br><strong>7</strong> 曲<br><sub>原曲、カバー、アレンジ、二次創作 MV</sub></td>
     <td width="33%" valign="top"><a href="#references"><strong>🧸 三面図と生成派生資料</strong></a><br><strong>20</strong> 枚<br><sub>ちびキャラ三面図・資料・落書きテンプレート</sub></td>
   </tr>
   <tr>
@@ -51,22 +53,20 @@ AI 製品12種からキャラクター、作者、原作を探せます。
 
 [オンラインで絞り込む](https://selinlee.github.io/ai-moe-atlas/ja/#catalog) · [三言語のキャラクター資料](content/characters.json) · [AI 製品一覧](content/entities.json)
 
-<a id="assets"></a>
+<a id="songs"></a>
 
-### 📦 ダウンロード素材
+### 🎵 楽曲
 
-<!-- category-preview:assets -->
+<!-- category-preview:songs -->
 <p>
-  <a href="public/packs/zipzippipe-kimi.zip"><img src="public/collected/zipzippipe-kimi/portrait/preview.webp" width="96" alt="Kimi" title="Kimi"></a>
-  <a href="public/packs/zipzippipe-qwen.zip"><img src="public/collected/zipzippipe-qwen/portrait/preview.webp" width="96" alt="千問" title="千問"></a>
-  <a href="public/packs/school-op-copilot.zip"><img src="public/collected/school-op-copilot/portrait/preview.webp" width="96" alt="Copilot · ai-school-op" title="Copilot · ai-school-op"></a>
+  <a href="https://selinlee.github.io/ai-moe-atlas/ja/songs/#humans-are-cats"><img src="public/collected/deep-whale-maid/delighted/preview.webp" width="96" alt="人は猫 · キャラクター資料" title="人は猫 · キャラクター資料"></a>
+  <a href="https://selinlee.github.io/ai-moe-atlas/ja/songs/#let-me-go"><img src="public/collected/shangshan-whale/portrait/preview.webp" width="96" alt="Let Me Go · 大きな魚のサボり歌 · キャラクター資料" title="Let Me Go · 大きな魚のサボり歌 · キャラクター資料"></a>
+  <a href="https://selinlee.github.io/ai-moe-atlas/ja/songs/#world-execute-me"><img src="public/category-previews/nyankomint-claude-silhouette/preview.webp" width="96" alt="world.execute(me); · MV 制作素材" title="world.execute(me); · MV 制作素材"></a>
 </p>
 
-<sub>素材パックのプレビュー · Kimi、千問、Copilot（ai-school-op）</sub>
+<sub>画像から原曲と二次創作の一覧へ。</sub>
 
-14パックに原画像・規格統一版・出典・クレジットを同梱。
-
-[素材パック一覧](public/packs/) · [作品ごとの利用条件](RIGHTS.md) · [アイコンや紹介カードを作る](https://selinlee.github.io/ai-moe-atlas/ja/studio/) · [工房ガイド](docs/STUDIO.ja.md) · [三面図・表情・キャラクター素材の追加出典](#sources)
+[楽曲一覧を開く](https://selinlee.github.io/ai-moe-atlas/ja/songs/) · [画像のクレジットと利用条件](RIGHTS.md)
 
 <a id="references"></a>
 

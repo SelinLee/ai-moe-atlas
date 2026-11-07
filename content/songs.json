@@ -1,0 +1,80 @@
+[
+  {
+    "id": "humans-are-cats",
+    "title": {"zh": "人是猫", "en": "Humans Are Cats", "ja": "人は猫"},
+    "original": {"credit": "张卡斯 · 洛天依", "url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/"},
+    "image": {
+      "path": "collected/deep-whale-maid/delighted/preview.webp",
+      "kind": "characterReference",
+      "credit": "上善无形 → ZipZipPipe → Small-tailqwq",
+      "source": "https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier"
+    },
+    "versions": [
+      {"id": "bv1fypn6sek9", "type": "cover"},
+      {"id": "bv1xxhd6see7", "type": "cover"}
+    ]
+  },
+  {
+    "id": "let-me-go",
+    "title": {"zh": "Let Me Go · 大肥鱼摸鱼歌", "en": "Let Me Go · Fat Fish’s Slacking Song", "ja": "Let Me Go · 大きな魚のサボり歌"},
+    "original": {"credit": "星落落_oi", "url": "https://www.bilibili.com/video/BV13SYr6dEiQ/"},
+    "image": {
+      "path": "collected/shangshan-whale/portrait/preview.webp",
+      "kind": "characterReference",
+      "credit": "上善无形",
+      "source": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    "versions": [
+      {"id": "let-me-go-music-source", "type": "arrangement"},
+      {"id": "bv1xm4i6oegk", "type": "mv"},
+      {"id": "bv19j4y6qerj", "type": "mv"},
+      {"id": "bv1c7h16jehj", "type": "mv"},
+      {"id": "bv1qhn46bebc", "type": "mv"}
+    ]
+  },
+  {
+    "id": "world-execute-me",
+    "title": {"zh": "world.execute(me);", "en": "world.execute(me);", "ja": "world.execute(me);"},
+    "original": {"credit": "Mili", "url": "https://www.youtube.com/watch?v=ESx_hy1n7HA"},
+    "image": {
+      "path": "category-previews/nyankomint-claude-silhouette/preview.webp",
+      "kind": "productionArt",
+      "credit": "Nyankomint",
+      "source": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv/blob/93ac63775ee58b33ff102167514f2603a48940cc/CREDITS.md"
+    },
+    "versions": [
+      {"id": "bv186pc65e68", "type": "mv"},
+      {"id": "bv1xcai6ae9g", "type": "mv"},
+      {"id": "bv1byxb6eesq", "type": "mv"},
+      {"id": "bv1j5nu6se4d", "type": "mv"},
+      {"id": "bv1qene6vex3", "type": "mv"}
+    ]
+  },
+  {
+    "id": "rainie-love",
+    "title": {"zh": "雨爱", "en": "Rainie Love", "ja": "雨愛"},
+    "original": {"credit": "楊丞琳 · Rainie Yang", "url": "https://www.youtube.com/watch?v=oec9R5ypf-o"},
+    "versions": [
+      {"id": "bv1u64q69eym", "type": "cover"},
+      {"id": "bv1dw4q6vegq", "type": "cover"}
+    ]
+  },
+  {
+    "id": "big-fish",
+    "title": {"zh": "大鱼", "en": "Big Fish", "ja": "大魚"},
+    "original": {"credit": "周深 · Zhou Shen", "url": "https://music.apple.com/us/song/1810963487"},
+    "versions": [{"id": "bv1ton46rewv", "type": "mv"}]
+  },
+  {
+    "id": "racing-into-the-night",
+    "title": {"zh": "夜に駆ける", "en": "Racing into the Night", "ja": "夜に駆ける"},
+    "original": {"credit": "YOASOBI", "url": "https://www.youtube.com/watch?v=by4SYYWlhEs"},
+    "versions": [{"id": "bv1rn4h6yeje", "type": "remix"}]
+  },
+  {
+    "id": "learn-to-meow",
+    "title": {"zh": "学猫叫", "en": "Learn to Meow", "ja": "学猫叫"},
+    "original": {"credit": "小潘潘 · 小峰峰", "url": "https://www.qobuz.com/us-en/album/-/h1b9f19uzjloa"},
+    "versions": [{"id": "bv1wx4i6lexm", "type": "cover"}]
+  }
+]

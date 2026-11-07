@@ -4,6 +4,8 @@
 
 收集有出处的 AI 拟人角色、可用素材和社区二创。先选一个分类，或向下看看可爱的角色们。
 
+<a id="assets"></a>
+
 [打开在线图鉴](https://selinlee.github.io/ai-moe-atlas/zh/) · [下载素材包](https://selinlee.github.io/ai-moe-atlas/zh/assets/) · [打开素材工坊](https://selinlee.github.io/ai-moe-atlas/zh/studio/)
 
 <p align="center">
@@ -22,7 +24,7 @@
 <table>
   <tr>
     <td width="33%" valign="top"><a href="#characters"><strong>🎨 角色图鉴</strong></a><br><strong>27</strong> 个词条<br><sub>按产品、作者和画风找角色</sub></td>
-    <td width="33%" valign="top"><a href="#assets"><strong>📦 可下载素材</strong></a><br><strong>14</strong> 组素材<br><sub>原图、署名、加工记录与使用说明</sub></td>
+    <td width="33%" valign="top"><a href="#songs"><strong>🎵 歌曲</strong></a><br><strong>7</strong> 首曲目<br><sub>按歌找原曲、翻唱、改编和同人 MV</sub></td>
     <td width="33%" valign="top"><a href="#references"><strong>🧸 三视图与派生参考</strong></a><br><strong>20</strong> 张参考图<br><sub>Q 版三视图、参考图与涂鸦模板</sub></td>
   </tr>
   <tr>
@@ -51,22 +53,20 @@
 
 [在线筛选](https://selinlee.github.io/ai-moe-atlas/zh/#catalog) · [三语角色资料](content/characters.json) · [产品索引](content/entities.json)
 
-<a id="assets"></a>
+<a id="songs"></a>
 
-### 📦 可下载素材
+### 🎵 歌曲
 
-<!-- category-preview:assets -->
+<!-- category-preview:songs -->
 <p>
-  <a href="public/packs/zipzippipe-kimi.zip"><img src="public/collected/zipzippipe-kimi/portrait/preview.webp" width="96" alt="Kimi" title="Kimi"></a>
-  <a href="public/packs/zipzippipe-qwen.zip"><img src="public/collected/zipzippipe-qwen/portrait/preview.webp" width="96" alt="千问" title="千问"></a>
-  <a href="public/packs/school-op-copilot.zip"><img src="public/collected/school-op-copilot/portrait/preview.webp" width="96" alt="Copilot · ai-school-op" title="Copilot · ai-school-op"></a>
+  <a href="https://selinlee.github.io/ai-moe-atlas/zh/songs/#humans-are-cats"><img src="public/collected/deep-whale-maid/delighted/preview.webp" width="96" alt="人是猫 · 角色参考图" title="人是猫 · 角色参考图"></a>
+  <a href="https://selinlee.github.io/ai-moe-atlas/zh/songs/#let-me-go"><img src="public/collected/shangshan-whale/portrait/preview.webp" width="96" alt="Let Me Go · 大肥鱼摸鱼歌 · 角色参考图" title="Let Me Go · 大肥鱼摸鱼歌 · 角色参考图"></a>
+  <a href="https://selinlee.github.io/ai-moe-atlas/zh/songs/#world-execute-me"><img src="public/category-previews/nyankomint-claude-silhouette/preview.webp" width="96" alt="world.execute(me); · MV 制作图" title="world.execute(me); · MV 制作图"></a>
 </p>
 
-<sub>素材包预览 · Kimi、千问、Copilot（ai-school-op）</sub>
+<sub>点击图片浏览该歌曲的原曲和二创版本。</sub>
 
-14 组素材包包含原图、规范化文件、来源与署名说明。
-
-[查看素材包目录](public/packs/) · [逐件使用条件](RIGHTS.md) · [制作头像与介绍卡](https://selinlee.github.io/ai-moe-atlas/zh/studio/) · [工坊指南](docs/STUDIO.zh.md) · [三视图、表情与角色素材的补充来源](#sources)
+[打开歌曲目录](https://selinlee.github.io/ai-moe-atlas/zh/songs/) · [预览图署名与许可](RIGHTS.md)
 
 <a id="references"></a>
 

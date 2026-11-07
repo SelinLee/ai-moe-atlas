@@ -6,6 +6,7 @@ import {readPendingAnimationCandidates} from '../scripts/lib/resources.mjs';
 import {byPublicationTime,publicationTime} from '../src/lib/animation-ranking.mjs';
 const registry=JSON.parse(await readFile('content/resources.json','utf8'));
 const leads=JSON.parse(await readFile('content/leads.json','utf8'));
+const songs=JSON.parse(await readFile('content/songs.json','utf8'));
 const pending=await readPendingAnimationCandidates(registry,new URL('../',import.meta.url));
 const animationCount=registry.records.filter(r=>r.category==='animation').length;
 const ranked=registry.records.filter(r=>r.likes).sort((a,b)=>
@@ -25,6 +26,19 @@ try{
   const cards=await page.locator('[data-category-link]').evaluateAll(links=>links.map(a=>a.href));
   for(const url of cards){const r=await context.request.get(url);assert.equal(r.status(),200,url);}
   await page.screenshot({path:`.qa/resources-home-${lang}-desktop.png`});
+  await page.locator('[data-category-link="songs"]').click();
+  assert.ok(page.url().endsWith(`/${lang}/songs/`));
+  assert.deepEqual(await page.locator('[data-song]').evaluateAll(cards=>cards.map(card=>card.id)),songs.map(song=>song.id));
+  for(const song of songs){
+   const card=page.locator('#'+song.id);
+   assert.equal(await card.locator('[data-song-original]').getAttribute('href'),song.original.url);
+   assert.deepEqual(await card.locator('[data-song-version]').evaluateAll(links=>links.map(link=>link.href)),
+    song.versions.map(version=>registry.records.find(record=>record.id===version.id).url));
+  }
+  await page.locator('.language-switch a').filter({hasText:lang==='ja'?'English':'日本語'}).click();
+  assert.ok(page.url().endsWith('/songs/'));
+  assert.equal(await page.locator('[data-song]').count(),songs.length);
+  await page.goto(`${origin}/${lang}/`);
   await page.locator('[data-category-link="animation"]').click();
   await page.waitForSelector('[data-resource-category="sources"][hidden]',{state:'attached'});
   assert.equal(await page.locator('[data-resource-category]:visible').count(),animationCount);
@@ -123,7 +137,7 @@ try{
   assert.ok((await archive.locator('code').first().innerText()).includes(registry.pendingAnimationEvidence.sha256));
   for(const width of [390,768]){
    await page.setViewportSize({width,height:844});
-   for(const route of ['', 'resources/?category=animation&type=mv','resources/?category=interactive']){
+   for(const route of ['', 'songs/', 'resources/?category=animation&type=mv','resources/?category=interactive']){
     await page.goto(`${origin}/${lang}/${route}`,{waitUntil:'networkidle'});
     assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1),false,`${lang}/${route} overflows ${width}px`);
    }
