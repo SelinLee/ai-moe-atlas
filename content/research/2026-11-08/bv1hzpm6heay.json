@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Hzpm6hEaY/",
+  "publisher": "风霜秋雨",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Hzpm6hEaY",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:01:23.884Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1Hzpm6hEaY",
+    "title": "Claude热唱：《您的账号已被封禁》",
+    "owner": {
+      "name": "风霜秋雨",
+      "mid": 472150
+    },
+    "pubdate": 1791990256
+  },
+  "credits": [],
+  "uploaderAttribution": {
+    "lyrics": "Opus 5.5",
+    "composition": "Suno V6",
+    "image": "GPT",
+    "pv": "Opus 5.5"
+  }
+}

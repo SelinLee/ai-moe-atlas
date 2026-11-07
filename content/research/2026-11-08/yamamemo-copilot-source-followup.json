@@ -1,0 +1,39 @@
+{
+  "url": "https://zenn.dev/yamamemo/articles/gen-ai-personification#microsoft-copilot",
+  "publisher": "yamamemo",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T16:01:36.793Z",
+  "articleTitle": "生成AIサービスを擬人化してみた",
+  "scope": "Creator article and two published PNG files checked. Source dimensions and SHA-256 recorded. No image-specific redistribution grant located in the article.",
+  "images": [
+    {
+      "variant": "regular",
+      "sourceUrl": "https://static.zenn.studio/user-upload/deployed-images/03507686e994eb06ba996a15.png?sha=275887310a852b9554310b8a4f1353db8ea66c9c",
+      "finalUrl": "https://static.zenn.studio/user-upload/deployed-images/03507686e994eb06ba996a15.png?sha=275887310a852b9554310b8a4f1353db8ea66c9c",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-07T16:01:35.414Z",
+      "alt": "",
+      "sha256": "5791388a8f3eb340d4350ad42d55035f6b1dbf1b527cc1e7253d9153e1c192dd",
+      "bytes": 81334,
+      "width": 512,
+      "height": 768
+    },
+    {
+      "variant": "sd",
+      "sourceUrl": "https://static.zenn.studio/user-upload/deployed-images/5510b21f171e0352961aa881.png?sha=970d9506e80aac808154125559cdf1a0ab3f0f39",
+      "finalUrl": "https://static.zenn.studio/user-upload/deployed-images/5510b21f171e0352961aa881.png?sha=970d9506e80aac808154125559cdf1a0ab3f0f39",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-07T16:01:36.788Z",
+      "alt": "",
+      "sha256": "6960f3033a264336882722fc578105a01b283cc9998c437bb6264672b09000db",
+      "bytes": 86508,
+      "width": 512,
+      "height": 768
+    }
+  ],
+  "priorEvidence": {
+    "path": "content/research/2026-11-07/yamamemo-copilot-source.json",
+    "sha256": "81426656a6d70a0651ebf8886788897f6fc9929121e196f70afb33c8099d3640",
+    "kind": "browser-metadata-extract"
+  }
+}

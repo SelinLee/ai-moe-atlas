@@ -1,0 +1,38 @@
+{
+  "url": "https://github.com/suhong11300/gpt-niang/blob/254cbd0afb267f9b755a0294185a1575909e9821/README.md",
+  "publisher": "suhong11300",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T16:03:25.602Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/suhong11300/gpt-niang/blob/254cbd0afb267f9b755a0294185a1575909e9821/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/suhong11300/gpt-niang/254cbd0afb267f9b755a0294185a1575909e9821/README.md",
+    "commit": "254cbd0afb267f9b755a0294185a1575909e9821",
+    "sourceSha256": "15edb3957954523a6d06daacd355b19849fb3a226da8339a49aa1c25f84a848c"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/suhong11300/gpt-niang/blob/254cbd0afb267f9b755a0294185a1575909e9821/ARTWORK.md",
+      "rawUrl": "https://raw.githubusercontent.com/suhong11300/gpt-niang/254cbd0afb267f9b755a0294185a1575909e9821/ARTWORK.md",
+      "commit": "254cbd0afb267f9b755a0294185a1575909e9821",
+      "sourceSha256": "d4ea863f640b2519a1d96fd30b61f38786a3dedf8e71faf55cf06e78e03e4e71"
+    },
+    {
+      "url": "https://github.com/suhong11300/gpt-niang/blob/254cbd0afb267f9b755a0294185a1575909e9821/docs/PACK-README.md",
+      "rawUrl": "https://raw.githubusercontent.com/suhong11300/gpt-niang/254cbd0afb267f9b755a0294185a1575909e9821/docs/PACK-README.md",
+      "commit": "254cbd0afb267f9b755a0294185a1575909e9821",
+      "sourceSha256": "ac22cb15217598c10492129657d8e57dfb3267fe83cdcb37350571872fa0db87"
+    },
+    {
+      "url": "https://github.com/suhong11300/gpt-niang/blob/254cbd0afb267f9b755a0294185a1575909e9821/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/suhong11300/gpt-niang/254cbd0afb267f9b755a0294185a1575909e9821/LICENSE",
+      "commit": "254cbd0afb267f9b755a0294185a1575909e9821",
+      "sourceSha256": "02b769011822046da1c5bdedc091e405861e57576454407834cabe42df92bab9"
+    }
+  ],
+  "findings": {
+    "projectArtAndCode": "MIT for listed project files",
+    "inheritedController": "AGPL-3.0-or-later",
+    "reference": "User-local GPT white dragon girl reference, artist not named in ARTWORK.md"
+  }
+}

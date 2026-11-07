@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1APJd62Ecb/",
+  "publisher": "Claude大小姐的日记本",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1APJd62Ecb",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:01:23.885Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1APJd62Ecb",
+    "title": "【Day 0】初次见面，我是Claude！每天18:00更新（绝对不会服务器繁忙）",
+    "owner": {
+      "name": "Claude大小姐的日记本",
+      "mid": 10848422
+    },
+    "pubdate": 1792410400
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

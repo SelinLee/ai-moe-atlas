@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1bGJR6HErW/",
+  "publisher": "a网友爱顺音",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bGJR6HErW",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:01:23.902Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1bGJR6HErW",
+    "title": "所以说我很羡慕你啊…大肥鱼",
+    "owner": {
+      "name": "a网友爱顺音",
+      "mid": 499679477
+    },
+    "pubdate": 1792417994
+  },
+  "credits": [
+    {
+      "role": "citation",
+      "title": "DeepSeek鲸鱼娘在运营 · Day 5",
+      "url": "https://www.bilibili.com/video/BV139HA6JEE6/"
+    }
+  ]
+}
