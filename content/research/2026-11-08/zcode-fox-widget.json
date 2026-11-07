@@ -1,0 +1,32 @@
+{
+  "url": "https://github.com/pigeon189/zcode-fox-widget/blob/abc0d3d0080996cd07b1cc70cccb46730e9e34f1/README.md",
+  "publisher": "pigeon189",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T16:22:43.136Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/pigeon189/zcode-fox-widget/blob/abc0d3d0080996cd07b1cc70cccb46730e9e34f1/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/pigeon189/zcode-fox-widget/abc0d3d0080996cd07b1cc70cccb46730e9e34f1/README.md",
+    "commit": "abc0d3d0080996cd07b1cc70cccb46730e9e34f1",
+    "sourceSha256": "01f51f5c994af28aefe36a6ae3d4fa3080a85648dabee1d304c4443138851584"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/pigeon189/zcode-fox-widget/blob/abc0d3d0080996cd07b1cc70cccb46730e9e34f1/NOTICE",
+      "rawUrl": "https://raw.githubusercontent.com/pigeon189/zcode-fox-widget/abc0d3d0080996cd07b1cc70cccb46730e9e34f1/NOTICE",
+      "commit": "abc0d3d0080996cd07b1cc70cccb46730e9e34f1",
+      "sourceSha256": "0b3db271338a65943747fbfd88b66ce117ba705ab60e816cca4fcf51a5526e8a"
+    }
+  ],
+  "findings": {
+    "originalWidget": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+    "port": "nb10yyds/zcode-whale-widget",
+    "ownedPortraits": [
+      "GLM.png",
+      "gpt.png",
+      "kimi.png",
+      "gemini.png"
+    ],
+    "separateThirdPartyPortrait": "xiaoke.png from aklnaaw/dsh-xiaoke-widget"
+  }
+}

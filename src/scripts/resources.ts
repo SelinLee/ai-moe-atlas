@@ -5,6 +5,7 @@ const typeGroup = document.querySelector<HTMLElement>('#resource-types')!;
 const input = document.querySelector<HTMLInputElement>('#resource-search')!;
 const countOutput = document.querySelector<HTMLElement>('#resource-count')!;
 const empty = document.querySelector<HTMLElement>('#resource-empty')!;
+const pending = document.querySelector<HTMLDetailsElement>('#pending-animation-evidence');
 let category = 'all';
 let type = 'all';
 
@@ -15,6 +16,7 @@ function readURL() {
     ? typeFilters.find(button => button.dataset.resourceTypeFilter === params.get('type'))?.dataset.resourceTypeFilter ?? 'all'
     : 'all';
   input.value = (params.get('q') ?? '').slice(0, 200);
+  if (pending && location.hash === '#pending-animation-evidence') pending.open = true;
 }
 
 function markSelected(button: HTMLButtonElement, selected: boolean) {
@@ -33,6 +35,7 @@ function update(writeURL = true) {
     if (!card.hidden) count++;
   }
   typeGroup.hidden = category !== 'animation';
+  if (pending) pending.hidden = category !== 'all' && category !== 'animation';
   for (const button of filters) markSelected(button, button.dataset.resourceFilter === category);
   for (const button of typeFilters) markSelected(button, button.dataset.resourceTypeFilter === type);
   countOutput.textContent = String(count);

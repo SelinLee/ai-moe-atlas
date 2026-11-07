@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1eMeS6SETU/",
+  "publisher": "冬冰",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eMeS6SETU",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:25:58.343Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1eMeS6SETU",
+    "title": "新室友DeepSeek报到！五个AI住一起会发生什么",
+    "owner": {
+      "name": "冬冰",
+      "mid": 44748304
+    },
+    "pubdate": 1789744151
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "character-reference",
+      "title": "这个刀子真甜 · Bilibili",
+      "url": "https://space.bilibili.com/23315338"
+    }
+  ]
+}

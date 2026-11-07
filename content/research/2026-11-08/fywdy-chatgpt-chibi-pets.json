@@ -1,0 +1,26 @@
+{
+  "url": "https://github.com/fywdy/chatgpt-chibi-pets/blob/d5bbb27c79e5c08e8b8ab44d4023cd35a67418e2/README.md",
+  "publisher": "fywdy",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T16:22:43.310Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/fywdy/chatgpt-chibi-pets/blob/d5bbb27c79e5c08e8b8ab44d4023cd35a67418e2/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/fywdy/chatgpt-chibi-pets/d5bbb27c79e5c08e8b8ab44d4023cd35a67418e2/README.md",
+    "commit": "d5bbb27c79e5c08e8b8ab44d4023cd35a67418e2",
+    "sourceSha256": "2d146c50b2ac52f48861bf83b0c37f5f7f40bbc82399d123f12948796c6c280f"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/fywdy/chatgpt-chibi-pets/blob/d5bbb27c79e5c08e8b8ab44d4023cd35a67418e2/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/fywdy/chatgpt-chibi-pets/d5bbb27c79e5c08e8b8ab44d4023cd35a67418e2/NOTICE.md",
+      "commit": "d5bbb27c79e5c08e8b8ab44d4023cd35a67418e2",
+      "sourceSha256": "18590cb91c023dfec4e8a92c927213e0caa826e1a3264c8387cb20353c8299c0"
+    }
+  ],
+  "findings": {
+    "projectArt": "CC BY-NC 4.0",
+    "scriptsAndToolOutputs": "MIT",
+    "upstream": "Community fan-design references; item-level terms require separate review"
+  }
+}

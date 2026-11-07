@@ -3,9 +3,12 @@ import Layout from '../../layouts/Layout.astro';
 import {locales,type Locale} from '../../lib/i18n';
 import {resourceText} from '../../lib/resource-text';
 import {resources,animations,animationRanks,byPublicationDate,directoryCategories,resourceCounts,resourcesUpdatedAt,likesObservedDate,verificationLabel} from '../../lib/resources';
+import registry from '../../../content/resources.json';
+import {readPendingAnimationCandidates} from '../../../scripts/lib/resources.mjs';
 export function getStaticPaths(){return locales.map(lang=>({params:{lang}}));}
 const lang=Astro.params.lang as Locale,s=resourceText[lang];
 const ordered=[...animations,...resources.filter(r=>r.category!=='animation').sort(byPublicationDate)];
+const pending=await readPendingAnimationCandidates(registry,new URL('../../../',import.meta.url));
 ---
 <Layout lang={lang} title={s.directory} description={s.directoryIntro} active="resources" route="resources/">
   <section class="page-heading"><div><p class="eyebrow">{resourcesUpdatedAt}</p><h1>{s.directory}</h1><p class="lead">{s.directoryIntro} {s.latestIntro}</p></div></section>
@@ -19,6 +22,19 @@ const ordered=[...animations,...resources.filter(r=>r.category!=='animation').so
   </div>
   <div class="filter-bar"><label class="search-field"><input id="resource-search" type="search" placeholder={s.search} aria-label={s.search}/></label><button class="button secondary" id="resource-reset">{s.clear}</button></div>
   <p class="subtle" role="status"><strong id="resource-count">{resources.length}</strong> {s.results}</p>
+  {pending.length>0&&<details class="resource-record pending-animation-evidence" id="pending-animation-evidence">
+    <summary>{s.pendingAnimation.title} ({pending.length})</summary>
+    <p>{s.pendingAnimation.intro}</p>
+    <ul>
+      {pending.map(row=><li>
+        <a class="text-link" href={`https://www.bilibili.com/video/${row.bvid}/`} target="_blank" rel="noopener noreferrer">{row.discoveredTitle} ↗</a>
+        <p class="resource-byline">{row.bvid} · {row.status==='source-unavailable'?s.pendingAnimation.sourceUnavailable:s.unranked}
+          {' · '}{s.pendingAnimation.checked} <time datetime={row.observedAt}>{likesObservedDate.format(new Date(row.observedAt))}</time>
+          {' · '}<a class="text-link" href={row.requestUrl} target="_blank" rel="noopener noreferrer">{s.pendingAnimation.query} ↗</a>
+        </p>
+      </li>)}
+    </ul>
+  </details>}
   <div class="resource-list" id="resource-list">
     {ordered.map(r=><article class="resource-record" id={r.id} data-resource-category={r.category} data-resource-type={r.subtype} data-resource-search={`${r.title.zh} ${r.title.en} ${r.title.ja} ${r.sourceTitle??''} ${r.publisher} ${r.bvid??''} ${r.summary[lang]}`}>
       <div class="resource-record-top"><span class="pill">{s.category[r.category].title}</span>{r.subtype&&<span class="resource-subtype">{s.types[r.subtype as keyof typeof s.types]}</span>}</div>
@@ -41,5 +57,10 @@ const ordered=[...animations,...resources.filter(r=>r.category!=='animation').so
   </div>
   <p class="empty-state" id="resource-empty" hidden>{s.empty}</p>
 </Layout>
-<style>.resource-type-filters{margin-top:12px}</style>
+<style>
+  .resource-type-filters{margin-top:12px}
+  .pending-animation-evidence{margin-block:12px}
+  .pending-animation-evidence summary{cursor:pointer;font-weight:600}
+  .pending-animation-evidence ul{padding-inline-start:1.35em}
+</style>
 <script>import '../../scripts/resources';</script>

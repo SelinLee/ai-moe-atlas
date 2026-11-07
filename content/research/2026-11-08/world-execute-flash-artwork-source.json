@@ -1,0 +1,17 @@
+{
+  "url": "https://github.com/mokongnuo/world-execute-me-flash/blob/d2bef4b0a490a2692dd745b38a3a241d0b9bd66d/README.md",
+  "publisher": "mokongnuo",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T16:22:43.283Z",
+  "scope": "Pinned project documentation and attribution checked in Chrome.",
+  "pinnedDocument": {
+    "url": "https://github.com/mokongnuo/world-execute-me-flash/blob/d2bef4b0a490a2692dd745b38a3a241d0b9bd66d/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/mokongnuo/world-execute-me-flash/d2bef4b0a490a2692dd745b38a3a241d0b9bd66d/README.md",
+    "commit": "d2bef4b0a490a2692dd745b38a3a241d0b9bd66d",
+    "sourceSha256": "acd16ae614fb48c3ea574a0c318a1ca69d610bbe00d00f14118f77671db6ef83"
+  },
+  "findings": {
+    "artwork": "Project identifies ai-girls / ZipZipPipe as source and Doubao’s existing avatar separately",
+    "music": "Audio and lyrics excluded from the source repository"
+  }
+}

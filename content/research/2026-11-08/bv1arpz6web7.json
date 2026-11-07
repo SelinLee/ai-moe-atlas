@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ARpZ6wEB7/",
+  "publisher": "默空诺",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ARpZ6wEB7",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:25:57.045Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1ARpZ6wEB7",
+    "title": "大肥鱼吃了我3亿token做出来的—九位AI娘化｜world.execute(me)【DeepSeek V4.1 Flash】",
+    "owner": {
+      "name": "默空诺",
+      "mid": 1901981447
+    },
+    "pubdate": 1791822008
+  },
+  "credits": [
+    {
+      "role": "inspiration",
+      "title": "Galen563 · DeepSeek V4.1 Flash",
+      "url": "https://www.bilibili.com/video/BV1qceS6sEbu/"
+    },
+    {
+      "role": "production-source",
+      "title": "mokongnuo · world-execute-me-flash",
+      "url": "https://github.com/mokongnuo/world-execute-me-flash/blob/d2bef4b0a490a2692dd745b38a3a241d0b9bd66d/README.md"
+    }
+  ]
+}

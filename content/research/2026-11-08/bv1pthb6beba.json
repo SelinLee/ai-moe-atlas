@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1PTHB6BEbA/",
+  "publisher": "戛然而纸",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PTHB6BEbA",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:25:57.810Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1PTHB6BEbA",
+    "title": "什么叫Claude对DeepSeek表白了？？",
+    "owner": {
+      "name": "戛然而纸",
+      "mid": 511403115
+    },
+    "pubdate": 1791061988
+  },
+  "credits": [
+    {
+      "role": "series-entry",
+      "title": "戛然而纸 · 鲸鱼娘和小龙娘是女同事吗？",
+      "url": "https://www.bilibili.com/video/BV1WUhE63En4/"
+    }
+  ]
+}

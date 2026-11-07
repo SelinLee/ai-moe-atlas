@@ -1,8 +1,10 @@
 import {chromium} from 'playwright';
 import assert from 'node:assert/strict';
 import {readFile,mkdir} from 'node:fs/promises';
+import {readPendingAnimationCandidates} from '../scripts/lib/resources.mjs';
 const registry=JSON.parse(await readFile('content/resources.json','utf8'));
 const leads=JSON.parse(await readFile('content/leads.json','utf8'));
+const pending=await readPendingAnimationCandidates(registry,new URL('../',import.meta.url));
 const animationCount=registry.records.filter(r=>r.category==='animation').length;
 const ranked=registry.records.filter(r=>r.likes).sort((a,b)=>
   b.likes.count-a.likes.count||b.publicationDate.localeCompare(a.publicationDate)||a.id.localeCompare(b.id));
@@ -27,6 +29,21 @@ try{
   assert.equal(await page.locator('#resource-count').innerText(),String(animationCount));
   const visibleAnimations=page.locator('[data-resource-category="animation"]:visible');
   assert.deepEqual(await visibleAnimations.evaluateAll((cards,count)=>cards.map(card=>card.id).slice(0,count),ranked.length),ranked.map(r=>r.id));
+  if(pending.length){
+   const panel=page.locator('#pending-animation-evidence');
+   assert.ok(await panel.isVisible());
+   assert.equal(await panel.getAttribute('open'),null);
+   await panel.locator('summary').click();
+   const candidates=await panel.locator('li').evaluateAll(rows=>rows.map(row=>({
+    original:row.querySelector('a')?.href,
+    source:row.querySelector('p a')?.href,
+    checked:row.querySelector('time')?.dateTime,
+   })));
+   assert.deepEqual(candidates,pending.map(row=>({
+    original:`https://www.bilibili.com/video/${row.bvid}/`,source:row.requestUrl,checked:row.observedAt,
+   })));
+   assert.equal(await page.locator('#resource-count').innerText(),String(animationCount));
+  }
   assert.match(await visibleAnimations.first().innerText(),new RegExp(ranked[0].likes.count.toLocaleString(lang)));
   assert.ok(await visibleAnimations.first().locator(`a[href="${ranked[0].likes.sourceUrl}"]`).first().isVisible());
   assert.equal(await page.locator('.resource-list img,.resource-list video,.resource-list iframe').count(),0);
@@ -39,7 +56,8 @@ try{
   const languageLink=page.locator('.language-switch a').filter({hasText:lang==='ja'?'English':'日本語'});await languageLink.click();
   assert.equal(await page.locator('[data-resource-category]:visible').count(),1);
   assert.ok(page.url().includes('category=animation'));
-  await page.goto(`${origin}/${lang}/resources/?category=animation`,{waitUntil:'networkidle'});
+  await page.goto(`${origin}/${lang}/resources/?category=animation#pending-animation-evidence`,{waitUntil:'networkidle'});
+  if(pending.length)assert.ok(await page.locator('#pending-animation-evidence').evaluate(panel=>panel.open));
   await page.screenshot({path:`.qa/resources-animation-${lang}-desktop.png`});
   const mvFilter=page.locator('[data-resource-type-filter="mv"]');
   const rankedMvs=ranked.filter(r=>r.subtype==='mv');
@@ -58,6 +76,7 @@ try{
   assert.equal(await page.locator('[data-resource-category]:visible').count(),1);
   await page.locator('#resource-search').fill('');
   await page.locator('[data-resource-filter="interactive"]').click();assert.equal(await page.locator('[data-resource-category]:visible').count(),interactiveCount);
+  assert.ok(await page.locator('#pending-animation-evidence').isHidden());
   assert.ok(await page.locator('#resource-types').isHidden());
   assert.equal(new URL(page.url()).searchParams.has('type'),false);
   await page.locator('#resource-search').fill('no-such-work-xyz');assert.ok(await page.locator('#resource-empty').isVisible());

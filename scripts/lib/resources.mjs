@@ -20,6 +20,7 @@ export async function readPendingAnimationCandidates(registry, root) {
   const ids = new Set(registry.records.map(record => record.bvid));
   for (const row of snapshot.pendingCandidates) {
     if (!/^BV[0-9A-Za-z]{10}$/.test(row.bvid) || ids.has(row.bvid) || row.likes !== null ||
+      typeof row.discoveredTitle !== 'string' || !row.discoveredTitle.trim() ||
       !['source-unavailable', 'likes-unavailable'].includes(row.status) || !Number.isFinite(Date.parse(row.observedAt)) ||
       row.requestUrl !== 'https://api.bilibili.com/x/web-interface/view?bvid=' + row.bvid) {
       throw new Error('Invalid or duplicate pending animation candidate');

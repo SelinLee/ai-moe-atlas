@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1AEh162ETh/",
+  "publisher": "那就那就打断",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AEh162ETh",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:25:57.070Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1AEh162ETh",
+    "title": "大肥鱼：原来是哈基米~",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1790315561
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "meme-source",
+      "title": "精致分享 · 小瘪三",
+      "url": "https://www.bilibili.com/video/BV1GF411c7e4/"
+    }
+  ]
+}
