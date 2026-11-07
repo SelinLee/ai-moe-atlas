@@ -6,7 +6,10 @@ import references from '../../public/generated/ai-models-v5/manifest.json';
 import doodles from '../../public/generated/rough-doodle-v1/manifest.json';
 import { path } from './paths';
 import { resourceText } from './resource-text';
+import { byCumulativeLikes } from './animation-ranking.mjs';
 import type { Locale } from './i18n';
+
+export { byPublicationDate, likesObservedDate } from './animation-ranking.mjs';
 
 export const categories=['characters','assets','references','animation','interactive','sources'] as const;
 export type Category=typeof categories[number];
@@ -44,13 +47,10 @@ const projects:Resource[]=projectIds.map(id=>{
 });
 export const resources:Resource[]=[...external,...projects,...sourceRecords];
 export const directoryCategories=['animation','interactive','sources'] as const;
-export const byPublicationDate=(a:Resource,b:Resource)=>(b.publicationDate??'').localeCompare(a.publicationDate??'')||a.id.localeCompare(b.id);
-export const animations=resources.filter(r=>r.category==='animation').sort((a,b)=>
-  (b.likes?.count??-1)-(a.likes?.count??-1)||byPublicationDate(a,b));
+export const animations=resources.filter(r=>r.category==='animation').sort(byCumulativeLikes);
 export const rankedAnimations=animations.filter(r=>r.likes);
 export const animationRanks=new Map(rankedAnimations.map((r,i)=>[r.id,i+1]));
 export const resourcesUpdatedAt=registry.updatedAt;
-export const likesObservedDate=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Shanghai',year:'numeric',month:'2-digit',day:'2-digit'});
 export const resourceCounts:Record<Category,number>={
   characters:characters.length,assets:characters.filter(c=>c.downloadable).length,
   references:chibi.assets.length+references.assets.length+doodles.assets.length,

@@ -1,0 +1,19 @@
+{
+  "url": "https://www.bilibili.com/video/BV1XPp86hEcM/",
+  "publisher": "AI画画啦",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XPp86hEcM",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:41:49.308Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1XPp86hEcM",
+    "title": "大肥鱼(最近受她照顾了)",
+    "owner": {
+      "name": "AI画画啦",
+      "mid": 11007905
+    },
+    "pubdate": 1791543911
+  },
+  "credits": []
+}

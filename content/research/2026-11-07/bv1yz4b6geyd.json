@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1YZ4b6gEyd/",
+  "publisher": "莫快莫慢",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YZ4b6gEyd",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:41:43.910Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1YZ4b6gEyd",
+    "title": "不要留大肥鱼一个人在家",
+    "owner": {
+      "name": "莫快莫慢",
+      "mid": 10078784
+    },
+    "pubdate": 1793876400
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

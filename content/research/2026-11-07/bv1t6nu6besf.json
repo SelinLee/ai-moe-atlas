@@ -1,0 +1,35 @@
+{
+  "url": "https://www.bilibili.com/video/BV1t6nu6bEsf/",
+  "publisher": "冬冰",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1t6nu6bEsf",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:41:41.663Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1t6nu6bEsf",
+    "title": "压力一只大肥鱼？",
+    "owner": {
+      "name": "冬冰",
+      "mid": 44748304
+    },
+    "pubdate": 1792311025
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "uploader-profile",
+      "title": "这个刀子真甜 · Bilibili",
+      "url": "https://space.bilibili.com/23315338"
+    },
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    }
+  ]
+}

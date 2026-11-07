@@ -1,0 +1,35 @@
+{
+  "url": "https://www.bilibili.com/video/BV1oLnt6tEVA/",
+  "publisher": "蝶月",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oLnt6tEVA",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:41:42.316Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1oLnt6tEVA",
+    "title": "怎么出门旅游还有人抢大肥鱼啊！",
+    "owner": {
+      "name": "蝶月",
+      "mid": 3972402
+    },
+    "pubdate": 1792724751
+  },
+  "credits": [
+    {
+      "role": "uploader-profile",
+      "title": "这个刀子真甜 · Bilibili",
+      "url": "https://space.bilibili.com/23315338"
+    },
+    {
+      "role": "inspiration",
+      "title": "这个刀子真甜 · 完了，出去买个菜大肥鱼被抢走了",
+      "url": "https://www.bilibili.com/video/BV1SsYi6qEws/"
+    }
+  ],
+  "uploaderCredits": {
+    "model": "这个刀子真甜",
+    "storyInspiration": "绫月汐Shio",
+    "videoReference": "BV1SsYi6qEws"
+  }
+}
