@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Jwhy6BEMJ/",
+  "publisher": "野生大K",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Jwhy6BEMJ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:47:10.711Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1Jwhy6BEMJ",
+    "title": "GPT6-Astra眼中的world.execute(me)",
+    "owner": {
+      "name": "野生大K",
+      "mid": 167439
+    },
+    "pubdate": 1790325405
+  },
+  "credits": [
+    {
+      "role": "music-terms",
+      "title": "Mili · Copyright Guidelines",
+      "url": "https://projectmili.com/copyright-guidelines"
+    }
+  ]
+}

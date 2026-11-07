@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1tLe16bEF7/",
+  "publisher": "小猪P_",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tLe16bEF7",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:47:09.919Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1tLe16bEF7",
+    "title": "别带大肥鱼吃自助餐",
+    "owner": {
+      "name": "小猪P_",
+      "mid": 2283296
+    },
+    "pubdate": 1789721686
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

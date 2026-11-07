@@ -1,0 +1,82 @@
+{
+  "url": "https://github.com/hjw200775-ops/dsh-live2d-pet/releases/tag/v0.6.5",
+  "publisher": "hjw200775-ops",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T15:48:03.173Z",
+  "scope": "Release page checked in isolated headless Chrome. Read original English and Japanese model and PSD terms from the verified archive and hashed the exact text files.",
+  "releaseHtmlSha256": "6655f24c268550278f1b88a3873eb5fa9cd88a99f882156192c2ce1fc4857848",
+  "archiveTerms": {
+    "releaseTag": "v0.6.5",
+    "commit": "c09d637ac8da033d470eeaaff1c036268414cc5f",
+    "archiveUrl": "https://github.com/hjw200775-ops/dsh-live2d-pet/releases/download/v0.6.5/DeepSeek-chan_model_for_dsh-live2d-pet_v1.zip",
+    "releaseUrl": "https://github.com/hjw200775-ops/dsh-live2d-pet/releases/tag/v0.6.5",
+    "assetId": 696077460,
+    "archiveBytes": 50024237,
+    "archiveSha256": "e661bad675bc1d29213b2906dde8a1e1069ee5b721e9c06a71b6e9317db892bc",
+    "checkedAt": "2026-11-07T15:47:21.859831+00:00",
+    "documents": [
+      {
+        "path": "DeepSeek-chan/DeepSeek-chan  Free Live2D Model – Terms of Use & Setup Guide.txt",
+        "sha256": "46be18ca18ea5d9f2a4b7741534e34a197ddef59bd93c0c6fff2c6f05ae7b83a",
+        "bytes": 5890
+      },
+      {
+        "path": "DeepSeek-chan/DeepSeek-chan  無料Live2Dモデル 利用規約・導入ガイド.txt",
+        "sha256": "c792f8e1c6350a92c026bbebb0621b113be4dd42bd156db375f08831ab63a27a",
+        "bytes": 7482
+      },
+      {
+        "path": "DeepSeek-chan/DeepSeek-chan_Free_Model_PSD_Usage_Guidelines_EN.txt",
+        "sha256": "0c84c2207ced83689ea2f0ca7f2d4bc6502220a0c683001ac37621d8455d4750",
+        "bytes": 4894
+      },
+      {
+        "path": "DeepSeek-chan/DeepSeekちゃん_無料Live2Dモデル_PSD利用ガイドライン_日本語.txt",
+        "sha256": "d8b18da372e6ee4456a71ad69a4708a012e12a90b2e26a4c341e3c30fcbc1f90",
+        "bytes": 6163
+      },
+      {
+        "path": "DeepSeek-chan/NOTICE.txt",
+        "sha256": "7a1d3e895a992c7160fb21399ce3b9ec3ec513e3265771218a6cfd5691aa8c17",
+        "bytes": 1261
+      }
+    ],
+    "digestMatchedPublishedAsset": true,
+    "findings": {
+      "model": {
+        "allows": [
+          "personal streams and videos",
+          "ordinary platform monetization",
+          "personal derivative works with credit"
+        ],
+        "requiresSeparatePermission": [
+          "commercial campaigns and product inclusion",
+          "redistribution of full model files"
+        ],
+        "prohibits": [
+          "resale or transfer of usage rights",
+          "claiming original authorship"
+        ]
+      },
+      "psd": {
+        "allows": [
+          "personal modeling practice",
+          "credited public showcases",
+          "promotion of own modeling services using own completed work"
+        ],
+        "prohibits": [
+          "resale or unauthorized redistribution of the original PSD"
+        ],
+        "originalPsdInThisArchive": false
+      },
+      "repositoryNotice": "The maintainer reports permission for this repository’s GitHub Release only. The private grant itself was not inspected.",
+      "hashes": "SHA-256 of downloaded archive and exact embedded terms bytes"
+    }
+  },
+  "repositoryGrantDocument": {
+    "url": "https://github.com/hjw200775-ops/dsh-live2d-pet/blob/c09d637ac8da033d470eeaaff1c036268414cc5f/docs/permission.md",
+    "rawUrl": "https://raw.githubusercontent.com/hjw200775-ops/dsh-live2d-pet/c09d637ac8da033d470eeaaff1c036268414cc5f/docs/permission.md",
+    "commit": "c09d637ac8da033d470eeaaff1c036268414cc5f",
+    "sourceSha256": "9bc8e59a7e48e534c3411bf03a9432faa99866bcf88cbf30dbe9cdef18f68c71"
+  }
+}

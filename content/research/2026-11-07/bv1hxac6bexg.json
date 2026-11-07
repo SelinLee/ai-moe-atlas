@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1hXac6BExg/",
+  "publisher": "超级瓜的瓜",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hXac6BExg",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:47:10.746Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1hXac6BExg",
+    "title": "不要戏弄大肥鱼",
+    "owner": {
+      "name": "超级瓜的瓜",
+      "mid": 402315458
+    },
+    "pubdate": 1790226242
+  },
+  "credits": [
+    {
+      "role": "uploader-profile",
+      "title": "这个刀子真甜 · Bilibili",
+      "url": "https://space.bilibili.com/23315338"
+    }
+  ]
+}

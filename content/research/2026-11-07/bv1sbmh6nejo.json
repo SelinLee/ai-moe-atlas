@@ -1,0 +1,41 @@
+{
+  "url": "https://www.bilibili.com/video/BV1SBMH6NEJo/",
+  "publisher": "这个刀子真甜",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SBMH6NEJo",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:47:10.224Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1SBMH6NEJo",
+    "title": "DeepSeek迎来新的成员了",
+    "owner": {
+      "name": "这个刀子真甜",
+      "mid": 23315338
+    },
+    "pubdate": 1783625536
+  },
+  "credits": [
+    {
+      "role": "uploader-profile",
+      "title": "这个刀子真甜 · Bilibili",
+      "url": "https://space.bilibili.com/23315338"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "coverObservation": {
+    "url": "https://i1.hdslb.com/bfs/archive/ef15c92e3f98acba037cf777aedb0499496e9fa6.jpg",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-07T15:48:54.656Z",
+    "sha256": "6b94d45f540133c4d0aea34ed97672c0e069f021aec8f8c195fb3fb267834970",
+    "bytes": 155635,
+    "width": 1920,
+    "height": 1080,
+    "finding": "Chibi whale-girl depiction visible in the uploader cover",
+    "publicationStatus": "early verified post; first standalone sheet not established"
+  }
+}
