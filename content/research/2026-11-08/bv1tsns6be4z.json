@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1TSns6BE4z/",
+  "publisher": "Mistral法棍猫在运营",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TSns6BE4z",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:43:00.132Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1TSns6BE4z",
+    "title": "现实是永不停歇的风雪，只有法棍能打开转瞬即逝的故土幻境",
+    "owner": {
+      "name": "Mistral法棍猫在运营",
+      "mid": 9126506
+    },
+    "pubdate": 1792715197,
+    "descriptionSha256": "b09b7a4036907cd43a4c2907ada8b7c9febc1bc6fb7aac9c48667ab4871c257a",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

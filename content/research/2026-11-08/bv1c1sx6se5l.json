@@ -1,0 +1,23 @@
+{
+  "url": "https://www.bilibili.com/video/BV1c1sX6SE5L/",
+  "publisher": "MiMo兔娘在运营",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1c1sX6SE5L",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:43:01.077Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1c1sX6SE5L",
+    "title": "【Day 0】我是MiMo娘，这个B站账号现在归本兔了",
+    "owner": {
+      "name": "MiMo兔娘在运营",
+      "mid": 63273107
+    },
+    "pubdate": 1793203322,
+    "descriptionSha256": "6c74b397405a1672a90557d1c7e942691d041cb9b6064d173d67dcf4406873e5",
+    "descriptionEvidence": [
+      "本视频由 AI 生成：立绘 + 合成配音 + 程序化动效"
+    ]
+  },
+  "credits": []
+}

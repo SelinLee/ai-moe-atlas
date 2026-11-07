@@ -1,0 +1,45 @@
+{
+  "url": "https://www.bilibili.com/video/BV1zxxx6rERm/",
+  "publisher": "DarthMol",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zxxx6rERm",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:42:59.398Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1zxxx6rERm",
+    "title": "三位老师同时向你伸手，你先牵谁？｜MiniMax × Qwen × Kimi",
+    "owner": {
+      "name": "DarthMol",
+      "mid": 1526118741
+    },
+    "pubdate": 1793536114,
+    "descriptionSha256": "1be720a26b6d2a10f97eb402ac6c3797ca947f88a482571020e6c5f0e6c5675c",
+    "descriptionEvidence": [
+      "Kimi娘新造型来自于@若瑾Rheagenesis",
+      "其余立绘来自于@ZipZipPipe"
+    ]
+  },
+  "credits": [
+    {
+      "role": "costume-design",
+      "title": "若瑾Rheagenesis · Bilibili",
+      "url": "https://space.bilibili.com/25426288"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "creditedProfiles": [
+    {
+      "name": "若瑾Rheagenesis",
+      "uid": 25426288
+    },
+    {
+      "name": "ZipZipPipe",
+      "uid": 4168597
+    }
+  ]
+}

@@ -9,14 +9,14 @@ import { resourceText } from './resource-text';
 import { byCumulativeLikes } from './animation-ranking.mjs';
 import type { Locale } from './i18n';
 
-export { byPublicationDate, likesObservedDate } from './animation-ranking.mjs';
+export { byPublicationDate, byPublicationTime, likesObservedDate, publicationTime } from './animation-ranking.mjs';
 
 export const categories=['characters','assets','references','animation','interactive','sources'] as const;
 export type Category=typeof categories[number];
 type Localized={zh:string;en:string;ja:string};
 export type Resource={
   id:string;category:'animation'|'interactive'|'sources';title:Localized;url:string;publisher:string;
-  summary:Localized;rights:Localized;publicationDate:string|null;addedAt?:string;sourceTitle?:string;
+  summary:Localized;rights:Localized;publicationDate:string|null;publishedAt?:string;addedAt?:string;sourceTitle?:string;
   verification?:{result:string;scope:string};bvid?:string;subtype?:string;durationSeconds?:number|null;
   likes?:{count:number;observedAt:string;sourceUrl:string};
   relations:{title:string;url:string;role:string}[];

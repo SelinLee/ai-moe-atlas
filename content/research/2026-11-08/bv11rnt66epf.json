@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV11rnt66EPf/",
+  "publisher": "跳舞的帅气松鼠",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV11rnt66EPf",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:42:59.938Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV11rnt66EPf",
+    "title": "小熊（文心）和千问大小姐过去的幸福时光",
+    "owner": {
+      "name": "跳舞的帅气松鼠",
+      "mid": 1765945450
+    },
+    "pubdate": 1792752054,
+    "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

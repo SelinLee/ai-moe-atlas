@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1dLx46TEZT/",
+  "publisher": "Muto_66",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dLx46TEZT",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:42:59.513Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1dLx46TEZT",
+    "title": "【科普向】《睡一觉就被做成种子了？Llama酱全网泄露！》",
+    "owner": {
+      "name": "Muto_66",
+      "mid": 15475629
+    },
+    "pubdate": 1793527963,
+    "descriptionSha256": "a4ba94869e4374fe065e73b83a8684eb2abcbd0242e9d6a990fa3772888ca9b6",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

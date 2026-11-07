@@ -1,0 +1,29 @@
+{
+  "url": "https://www.bilibili.com/video/BV17Bxt63EMR/",
+  "publisher": "甶丶",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17Bxt63EMR",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:43:00.555Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV17Bxt63EMR",
+    "title": "冷门 AI 娘盘点｜这七个国产大模型的拟人，你认得几个",
+    "owner": {
+      "name": "甶丶",
+      "mid": 1758596086
+    },
+    "pubdate": 1793552089,
+    "descriptionSha256": "6ed8489b01855c73000b299ee5332b5d2e495196ce6ef7066e684148e63a1c7a",
+    "descriptionEvidence": [
+      "七个不太被做过的国产大模型拟人，一张图一个"
+    ]
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "甶丶 · 娘化 MiMo",
+      "url": "https://www.bilibili.com/opus/1242097128919007239"
+    }
+  ]
+}

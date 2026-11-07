@@ -2,7 +2,7 @@ import {chromium} from 'playwright';
 import assert from 'node:assert/strict';
 import {readFile,mkdir} from 'node:fs/promises';
 import {readPendingAnimationCandidates} from '../scripts/lib/resources.mjs';
-import {byPublicationDate} from '../src/lib/animation-ranking.mjs';
+import {byPublicationTime,publicationTime} from '../src/lib/animation-ranking.mjs';
 const registry=JSON.parse(await readFile('content/resources.json','utf8'));
 const leads=JSON.parse(await readFile('content/leads.json','utf8'));
 const pending=await readPendingAnimationCandidates(registry,new URL('../',import.meta.url));
@@ -47,6 +47,8 @@ try{
   }
   assert.match(await visibleAnimations.first().innerText(),new RegExp(ranked[0].likes.count.toLocaleString(lang)));
   assert.ok(await visibleAnimations.first().locator(`a[href="${ranked[0].likes.sourceUrl}"]`).first().isVisible());
+  const exactPublication=visibleAnimations.first().locator(`time[datetime="${ranked[0].publishedAt}"]`);
+  assert.equal(await exactPublication.innerText(),publicationTime.format(new Date(ranked[0].publishedAt)));
   assert.equal(await page.locator('.resource-list img,.resource-list video,.resource-list iframe').count(),0);
   await page.locator('#resource-search').fill('花水r_Official');
   assert.ok(await page.locator('#bv1rkje6geh2').isVisible());
@@ -73,7 +75,7 @@ try{
   assert.deepEqual(shownRanks.map(value=>Number(value.match(/^#(\d+)/)?.[1])),rankedMvs.map(r=>ranked.indexOf(r)+1));
   const sort=page.locator('#resource-sort');
   await sort.selectOption('recent');
-  const recentMvs=[...rankedMvs].sort(byPublicationDate);
+  const recentMvs=[...rankedMvs].sort(byPublicationTime);
   assert.equal(new URL(page.url()).searchParams.get('sort'),'recent');
   assert.deepEqual(await visibleAnimations.evaluateAll(cards=>cards.map(card=>card.id)),recentMvs.map(r=>r.id));
   assert.deepEqual((await visibleAnimations.locator('.resource-byline strong').allTextContents())

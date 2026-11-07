@@ -1,0 +1,34 @@
+{
+  "url": "https://www.bilibili.com/video/BV1uFtp6SEb5/",
+  "publisher": "想看故事的lazy",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1uFtp6SEb5",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:43:00.562Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1uFtp6SEb5",
+    "title": "各AI娘形象盘点2.0（打破豆奶刻板印象！）",
+    "owner": {
+      "name": "想看故事的lazy",
+      "mid": 667193391
+    },
+    "pubdate": 1788087550,
+    "descriptionSha256": "cad3bf9be999ddcee9f3b9ffbebaa410512496fa56f1200538e27b7af35e8410",
+    "descriptionEvidence": [
+      "图片作者分别来自@ZipZipPipe  、@上善无形"
+    ]
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

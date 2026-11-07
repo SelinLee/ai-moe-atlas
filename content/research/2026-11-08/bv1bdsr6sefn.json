@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1BdsR6SEfn/",
+  "publisher": "Kairos_C",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BdsR6SEfn",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:43:00.029Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1BdsR6SEfn",
+    "title": "Meta Llama —— “开源牧场的瞌睡羊驼娘”",
+    "owner": {
+      "name": "Kairos_C",
+      "mid": 36437798
+    },
+    "pubdate": 1793242743,
+    "descriptionSha256": "eaa2833d546de544c907e87140a117b8c6682f5f782519ed5b5a92f329697dd1",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

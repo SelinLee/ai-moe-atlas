@@ -3,6 +3,7 @@ import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {assertResources,readPendingAnimationCandidates} from '../scripts/lib/resources.mjs';
+import {byCumulativeLikes,byPublicationTime} from '../src/lib/animation-ranking.mjs';
 const root=new URL('../',import.meta.url);
 const registry=JSON.parse(await readFile(new URL('content/resources.json',root),'utf8'));
 test('new resources retain source chains, video metadata and hashed evidence',async()=>{
@@ -16,6 +17,17 @@ test('source-only records reject artwork exports, missing languages and false ve
     const copy=structuredClone(registry);mutate(copy.records.find(r=>r.verification.result==='metadata-verified'));
     await assert.rejects(()=>assertResources(copy,root));
   }
+});
+test('same-day uploads sort by official time while equal likes use the BV ID',async()=>{
+  const first={id:'bv1a',publicationDate:'2026-11-08',publishedAt:'2026-11-07T17:00:00.000Z',likes:{count:10}};
+  const last={...first,id:'bv1z',publishedAt:'2026-11-07T18:00:00.000Z'};
+  const dateOnly={...first,id:'bv10',publishedAt:undefined};
+  assert.deepEqual([first,dateOnly,last].sort(byPublicationTime),[last,first,dateOnly]);
+  assert.deepEqual([last,first].sort(byCumulativeLikes),[first,last]);
+  const copy=structuredClone(registry);
+  const video=copy.records.find(row=>row.publishedAt);
+  video.publishedAt=new Date(Date.parse(video.publishedAt)-1000).toISOString();
+  await assert.rejects(()=>assertResources(copy,root),/Publication time differs/);
 });
 test('pending animation evidence is checked and cannot duplicate cataloged BV IDs',async()=>{
   const path='content/research/2026-11-07/bilibili-cumulative-likes-provenance.json';

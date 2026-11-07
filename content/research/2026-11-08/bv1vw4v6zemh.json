@@ -1,0 +1,35 @@
+{
+  "url": "https://www.bilibili.com/video/BV1VW4v6ZEmh/",
+  "publisher": "DarthMol",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VW4v6ZEmh",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:42:58.453Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1VW4v6ZEmh",
+    "title": "Kimi酱：可爱不是罪过~",
+    "owner": {
+      "name": "DarthMol",
+      "mid": 1526118741
+    },
+    "pubdate": 1793947146,
+    "descriptionSha256": "65fd7e5a50fdadc7e57bc81f7d9d72def1dc5f8e1264dd1ae35ff16d12df1a6e",
+    "descriptionEvidence": [
+      "原视频：BV1yi4h6AEah",
+      "感谢开源立绘@ZipZipPipe"
+    ]
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "inspiration",
+      "title": "Behemoth西時流 · Bilibili",
+      "url": "https://www.bilibili.com/video/BV1yi4h6AEah/"
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 import {readFile} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
+import {likesObservedDate} from '../../src/lib/animation-ranking.mjs';
 const localized=x=>['zh','en','ja'].every(l=>typeof x?.[l]==='string'&&x[l].trim());
 const https=x=>{try{const u=new URL(x);return u.protocol==='https:'&&!u.username&&!u.password;}catch{return false;}};
 const sha256=b=>createHash('sha256').update(b).digest('hex');
@@ -48,6 +49,7 @@ export async function assertResources(registry,root){
     if(snapshot.httpStatus!==v.httpStatus||snapshot.accessedAt!==v.attemptedAt)throw new Error('Resource evidence disagrees with verification');
     const indexedVideo=snapshot.videos?.find(video=>video.bvid===r.bvid);
     if(v.result==='index-verified'&&(!indexedVideo||indexedVideo.url!==r.url||indexedVideo.title!==r.sourceTitle||indexedVideo.publisher!==r.publisher||indexedVideo.publicationDate!==r.publicationDate))throw new Error('Video identity differs from the retained index');
+    if(r.publishedAt!==undefined&&!r.likes?.evidence)throw new Error('Exact publication time requires official video evidence');
     if(r.likes){
       const {count,observedAt,sourceUrl,evidence}=r.likes;
       const likeSnapshot=evidence?await readEvidence(evidence,root):snapshot;
@@ -59,13 +61,19 @@ export async function assertResources(registry,root){
       if(evidence&&(likeSnapshot.source!=='bilibili-view-api'||observation.httpStatus!==200||observation.code!==0||
         observation.publisher!==r.publisher||observation.title!==r.sourceTitle||observation.publicationDate!==r.publicationDate||
         sourceUrl!=='https://api.bilibili.com/x/web-interface/view?bvid='+r.bvid))throw new Error('Bilibili like evidence must match the video and a successful official response');
+      if(r.publishedAt!==undefined){
+        const published=new Date(r.publishedAt);
+        if(!Number.isSafeInteger(observation.pubdate)||published.getTime()!==observation.pubdate*1000||
+          published.toISOString()!==r.publishedAt||likesObservedDate.format(published)!==r.publicationDate||
+          published.getTime()>Date.parse(observedAt))throw new Error('Publication time differs from the retained official video evidence');
+      }
     }
     if(snapshot.pinnedDocument){
       const {commit,url,rawUrl,sourceSha256}=snapshot.pinnedDocument;
       if(!/^[a-f0-9]{40}$/.test(commit)||url!==r.url||!https(rawUrl)||!url.includes('/blob/'+commit+'/')||!rawUrl.includes('/'+commit+'/')||!/^[a-f0-9]{64}$/.test(sourceSha256))throw new Error('Invalid pinned document evidence');
     }
     if(snapshot.metadata?.pubdate){
-      const date=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Shanghai',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(snapshot.metadata.pubdate*1000));
+      const date=likesObservedDate.format(new Date(snapshot.metadata.pubdate*1000));
       if(date!==r.publicationDate||snapshot.metadata.owner.name!==r.publisher||snapshot.metadata.bvid!==r.bvid)throw new Error('Video identity or publication date differs from retained metadata');
     }
     if(snapshot.pinnedSource){
