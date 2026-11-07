@@ -2,6 +2,7 @@ import {chromium} from 'playwright';
 import assert from 'node:assert/strict';
 import {readFile,mkdir} from 'node:fs/promises';
 import {readPendingAnimationCandidates} from '../scripts/lib/resources.mjs';
+import {byPublicationDate} from '../src/lib/animation-ranking.mjs';
 const registry=JSON.parse(await readFile('content/resources.json','utf8'));
 const leads=JSON.parse(await readFile('content/leads.json','utf8'));
 const pending=await readPendingAnimationCandidates(registry,new URL('../',import.meta.url));
@@ -70,13 +71,32 @@ try{
   assert.deepEqual(await visibleAnimations.evaluateAll((cards,count)=>cards.map(card=>card.id).slice(0,count),rankedMvs.length),rankedMvs.map(r=>r.id));
   const shownRanks=await visibleAnimations.locator('.resource-byline strong').allTextContents();
   assert.deepEqual(shownRanks.map(value=>Number(value.match(/^#(\d+)/)?.[1])),rankedMvs.map(r=>ranked.indexOf(r)+1));
+  const sort=page.locator('#resource-sort');
+  await sort.selectOption('recent');
+  const recentMvs=[...rankedMvs].sort(byPublicationDate);
+  assert.equal(new URL(page.url()).searchParams.get('sort'),'recent');
+  assert.deepEqual(await visibleAnimations.evaluateAll(cards=>cards.map(card=>card.id)),recentMvs.map(r=>r.id));
+  assert.deepEqual((await visibleAnimations.locator('.resource-byline strong').allTextContents())
+   .map(value=>Number(value.match(/^#(\d+)/)?.[1])),recentMvs.map(r=>ranked.indexOf(r)+1));
   await page.locator('#resource-search').fill('BV1C7h16jEHJ');
   await page.reload();
   assert.ok(await page.locator('#bv1c7h16jehj').isVisible());
   await languageLink.click();
   assert.equal(await mvFilter.getAttribute('aria-pressed'),'true');
+  assert.equal(await sort.inputValue(),'recent');
   assert.equal(await page.locator('[data-resource-category]:visible').count(),1);
   await page.locator('#resource-search').fill('');
+  await sort.selectOption('likes');
+  assert.deepEqual(await visibleAnimations.evaluateAll(cards=>cards.map(card=>card.id)),rankedMvs.map(r=>r.id));
+  if(pending.length){
+   await page.locator('#resource-search').fill(pending[0].bvid);
+   assert.ok(await page.locator('#pending-animation-evidence[open]').isVisible());
+   assert.equal(await page.locator('[data-pending-search]:visible').count(),1);
+   assert.equal(await page.locator('#pending-animation-count').innerText(),'1');
+   assert.equal(await page.locator('#resource-count').innerText(),'0');
+   assert.ok(await page.locator('#resource-empty').isHidden());
+   await page.locator('#resource-search').fill('');
+  }
   await page.locator('[data-resource-filter="interactive"]').click();assert.equal(await page.locator('[data-resource-category]:visible').count(),interactiveCount);
   assert.ok(await page.locator('#pending-animation-evidence').isHidden());
   assert.ok(await page.locator('#resource-types').isHidden());

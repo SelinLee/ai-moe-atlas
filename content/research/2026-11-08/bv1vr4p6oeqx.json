@@ -1,0 +1,39 @@
+{
+  "url": "https://www.bilibili.com/video/BV1vr4p6oEqx/",
+  "publisher": "失落近亲",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vr4p6oEqx",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:32:25.097Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1vr4p6oEqx",
+    "title": "🐱哈gemi 不 是 罪 过 ~🐱",
+    "owner": {
+      "name": "失落近亲",
+      "mid": 38462995
+    },
+    "pubdate": 1794064968,
+    "descriptionSha256": "cf7783ffceda5be1a182774595483603826ff55c467a88355c8dc0c183762675",
+    "descriptionEvidence": [
+      "哈基米基础形象和氩焊工形象来自@ZipZipPipe"
+    ]
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "inspiration",
+      "title": "Bilibili · Reference video",
+      "url": "https://www.bilibili.com/video/BV1SV9TBNEAp/"
+    },
+    {
+      "role": "music-source",
+      "title": "Bilibili · Music",
+      "url": "https://www.bilibili.com/video/BV1a1R3BXEFP/"
+    }
+  ]
+}

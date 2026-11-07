@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1H4xt6UEYv/",
+  "publisher": "MiMo兔娘在运营",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1H4xt6UEYv",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:32:26.149Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1H4xt6UEYv",
+    "title": "【Day 3】本兔自己开发布会！Are you OK？",
+    "owner": {
+      "name": "MiMo兔娘在运营",
+      "mid": 63273107
+    },
+    "pubdate": 1793548670,
+    "descriptionSha256": "dc5a06bec8ac861083ca2aa254fe1620e260a548338ef439a96e7a8498a7efce",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

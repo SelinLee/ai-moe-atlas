@@ -1,0 +1,39 @@
+{
+  "url": "https://github.com/jiashuxue/ai-passport-whale-pet/blob/f8c1ee8fb32979934deb7e8da65433abef5e2924/README.zh_CN.md",
+  "publisher": "jiashuxue",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T17:32:59.785Z",
+  "scope": "Pinned publication, relevant terms and original links checked.",
+  "pinnedDocument": {
+    "url": "https://github.com/jiashuxue/ai-passport-whale-pet/blob/f8c1ee8fb32979934deb7e8da65433abef5e2924/README.zh_CN.md",
+    "rawUrl": "https://raw.githubusercontent.com/jiashuxue/ai-passport-whale-pet/f8c1ee8fb32979934deb7e8da65433abef5e2924/README.zh_CN.md",
+    "commit": "f8c1ee8fb32979934deb7e8da65433abef5e2924",
+    "sourceSha256": "66177dabc7fcfcfb07fa78c41931a635a0268d75de010de4c262b6fb1bdb0cf1"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/jiashuxue/ai-passport-whale-pet/blob/f8c1ee8fb32979934deb7e8da65433abef5e2924/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/jiashuxue/ai-passport-whale-pet/f8c1ee8fb32979934deb7e8da65433abef5e2924/LICENSE",
+      "commit": "f8c1ee8fb32979934deb7e8da65433abef5e2924",
+      "sourceSha256": "0ca7f3a382d5d681ced06d6008081c1d51b05a2547c94c3350058efbe7ddb5ee"
+    },
+    {
+      "url": "https://github.com/yanzwzz/dsh-whale-girl-pet/blob/53e9ab8e2c779f4c0feb902cfa940c098c83d228/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/yanzwzz/dsh-whale-girl-pet/53e9ab8e2c779f4c0feb902cfa940c098c83d228/README.md",
+      "commit": "53e9ab8e2c779f4c0feb902cfa940c098c83d228",
+      "sourceSha256": "0d5bc9a73922e1654eca405bcf497bfe49307afb6d1e7981757d3e520860c29e"
+    },
+    {
+      "url": "https://github.com/yanzwzz/dsh-whale-girl-pet/blob/53e9ab8e2c779f4c0feb902cfa940c098c83d228/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/yanzwzz/dsh-whale-girl-pet/53e9ab8e2c779f4c0feb902cfa940c098c83d228/LICENSE",
+      "commit": "53e9ab8e2c779f4c0feb902cfa940c098c83d228",
+      "sourceSha256": "277526eccc55dbae1ccd53f27cc3b1810090894c6ee6d64e1a81d3c06b2240d6"
+    }
+  ],
+  "findings": {
+    "code": "MIT",
+    "extractedFrameCount": 33,
+    "source": "yanzwzz/dsh-whale-girl-pet",
+    "upstreamTerms": "The upstream project links MIT, and documents generated derivatives separately. No complete creator and asset-specific permission chain for the 33 extracted frames was found in the checked documents."
+  }
+}

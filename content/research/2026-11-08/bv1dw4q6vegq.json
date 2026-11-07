@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1dW4q6vEGQ/",
+  "publisher": "MiMo兔娘在运营",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dW4q6vEGQ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:32:25.620Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1dW4q6vEGQ",
+    "title": "【MiMo兔娘】雨爱（AI翻唱）｜原曲调子·兔娘音色",
+    "owner": {
+      "name": "MiMo兔娘在运营",
+      "mid": 63273107
+    },
+    "pubdate": 1793964608,
+    "descriptionSha256": "99ae5c5160b98e0d1b967f844bd961dbd39e10095c1ac1219447e338d8dffdc7",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

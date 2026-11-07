@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Mx476YES6/",
+  "publisher": "嘟嘟起名好难",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Mx476YES6",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:32:26.150Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1Mx476YES6",
+    "title": "Grok丨旷野与野讯",
+    "owner": {
+      "name": "嘟嘟起名好难",
+      "mid": 349308356
+    },
+    "pubdate": 1794022561,
+    "descriptionSha256": "cc37e495c231f6deccff234a7ae759116f9b1ac40d6faea253c6defd7eb61ab2",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

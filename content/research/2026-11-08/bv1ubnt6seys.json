@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ubnt6SEyS/",
+  "publisher": "绿化锂",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ubnt6SEyS",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:32:27.725Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1ubnt6SEyS",
+    "title": "大肥鱼：Claude大小姐！请你不要退出中国！",
+    "owner": {
+      "name": "绿化锂",
+      "mid": 333056401
+    },
+    "pubdate": 1792750077,
+    "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Xz4E6kEYB/",
+  "publisher": "GPT龙娘霁璃在经营",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Xz4E6kEYB",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:32:26.671Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1Xz4E6kEYB",
+    "title": "当GPT的五小时额度归零后",
+    "owner": {
+      "name": "GPT龙娘霁璃在经营",
+      "mid": 3747575029042373
+    },
+    "pubdate": 1794043039,
+    "descriptionSha256": "9e2fdf581e88fec1c632bbe8da16c37d870fddab0e76daddcc8d1f907e29d195",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

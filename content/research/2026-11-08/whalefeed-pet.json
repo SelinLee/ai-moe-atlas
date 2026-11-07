@@ -1,0 +1,25 @@
+{
+  "url": "https://github.com/pythonshiyi/dsh-plugin-whalefeed/blob/6ad6601f100fe080df9c53892b8778e7044c27db/README.md",
+  "publisher": "pythonshiyi",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T17:15:41.869Z",
+  "scope": "Pinned publication, relevant terms and original links checked.",
+  "pinnedDocument": {
+    "url": "https://github.com/pythonshiyi/dsh-plugin-whalefeed/blob/6ad6601f100fe080df9c53892b8778e7044c27db/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/pythonshiyi/dsh-plugin-whalefeed/6ad6601f100fe080df9c53892b8778e7044c27db/README.md",
+    "commit": "6ad6601f100fe080df9c53892b8778e7044c27db",
+    "sourceSha256": "6e72702af39cdf1428f7a20b55a5c17228b4533c4bc15696b742ba6d3f6fa8d1"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/pythonshiyi/dsh-plugin-whalefeed/blob/6ad6601f100fe080df9c53892b8778e7044c27db/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/pythonshiyi/dsh-plugin-whalefeed/6ad6601f100fe080df9c53892b8778e7044c27db/LICENSE",
+      "commit": "6ad6601f100fe080df9c53892b8778e7044c27db",
+      "sourceSha256": "db23497da661bd8c0a1e9f2827dbff65f96ae7a670339a931a269b51074d7c9a"
+    }
+  ],
+  "findings": {
+    "software": "MIT",
+    "customPortraits": "No separate artwork attribution or redistribution grant found in the checked documents."
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "url": "https://www.bilibili.com/video/BV1uPH96dE7x/",
+  "publisher": "pish-colin",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1uPH96dE7x",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:32:27.725Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1uPH96dE7x",
+    "title": "和大肥鱼说了之后，她给我的礼物........",
+    "owner": {
+      "name": "pish-colin",
+      "mid": 510661036
+    },
+    "pubdate": 1791465314,
+    "descriptionSha256": "6fff2fda9ebfa70fee878c0ce0031c775920116a2977b00b0075c84cbf4d7e16",
+    "descriptionEvidence": [
+      "本家：BV1ed6nY4EEd",
+      "DeepSeek原案：上善无形（CC BY-NC-SA 4.0）AI娘设定：ZipZipPipe"
+    ]
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "music-original",
+      "title": "好梦一场 / 洛天依 · Bilibili",
+      "url": "https://www.bilibili.com/video/BV1ed6nY4EEd/"
+    }
+  ]
+}
