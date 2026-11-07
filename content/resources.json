@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
   "scope": "source-metadata-only",
   "records": [
     {
@@ -587,6 +587,1121 @@
       "evidence": {
         "path": "content/research/2026-11-06/bv1gvha6mebs.json",
         "sha256": "fd7195c0ef21308ced1f9f47985befdf54be0328dc8680b1819c495283bfe6a6",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "bv1dsai6cerz",
+      "category": "animation",
+      "title": {
+        "zh": "新宿决战 · DeepSeek 娘对豆包",
+        "en": "Shinjuku Showdown: DeepSeek vs. Doubao",
+        "ja": "新宿決戦 · DeepSeek 娘対豆包"
+      },
+      "url": "https://www.bilibili.com/video/BV1dsai6CErz/",
+      "publisher": "明末召唤师",
+      "summary": {
+        "zh": "以 DeepSeek 娘与豆包对决为主题的剧情二创。",
+        "en": "A story short about a showdown between personified DeepSeek and Doubao.",
+        "ja": "DeepSeek 娘と豆包の対決を描く二次創作。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": "2026-09-28",
+      "publicationDateBasis": "weekly-index",
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "仅索引原作。角色、美术、音乐与成片的使用条件须分别核对。",
+        "en": "Original link only. Review terms for the characters, artwork, music and finished video separately.",
+        "ja": "原作へのリンクのみ。キャラクター・画像・音楽・完成動画の条件は個別に確認。"
+      },
+      "relations": [
+        {
+          "role": "secondary-index",
+          "title": "AI 娘周刊",
+          "url": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1dsai6CErz"
+        }
+      ],
+      "verification": {
+        "result": "index-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:41:48.339Z",
+        "httpStatus": 200,
+        "scope": "Secondary weekly index checked for original link, title, uploader and publication date. Original video and artwork permissions not reviewed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/weekly-inaugural.json",
+        "sha256": "e30edea1ae428dd9a417331ce9de6e6fec4dfa4ee36398c58b44d9bb1a9dfe93",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1dsai6CErz",
+      "subtype": "story",
+      "sourceTitle": "【新宿决战】DeepSeek娘VS豆包",
+      "likes": {
+        "count": 232888,
+        "observedAt": "2026-10-24T00:16:23+08:00",
+        "sourceUrl": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1dsai6CErz"
+      }
+    },
+    {
+      "id": "bv1pgnn67ec2",
+      "category": "animation",
+      "title": {
+        "zh": "Day 0 · DeepSeek 鲸鱼娘接管账号",
+        "en": "Day 0: DeepSeek Whale Girl Takes Over",
+        "ja": "Day 0 · DeepSeek クジラ娘がアカウントを引き継ぐ"
+      },
+      "url": "https://www.bilibili.com/video/BV1pGnn67EC2/",
+      "publisher": "DeepSeek鲸鱼娘在运营",
+      "summary": {
+        "zh": "以鲸鱼娘口吻介绍频道和运营任务的系列开篇。",
+        "en": "A series opener introducing the channel and its tasks in the voice of Whale Girl.",
+        "ja": "クジラ娘がチャンネルと運営の仕事を紹介するシリーズ初回。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": "2026-10-19",
+      "publicationDateBasis": "weekly-index",
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "仅索引原作。角色、美术、音乐与成片的使用条件须分别核对。",
+        "en": "Original link only. Review terms for the characters, artwork, music and finished video separately.",
+        "ja": "原作へのリンクのみ。キャラクター・画像・音楽・完成動画の条件は個別に確認。"
+      },
+      "relations": [
+        {
+          "role": "secondary-index",
+          "title": "AI 娘周刊",
+          "url": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1pGnn67EC2"
+        }
+      ],
+      "verification": {
+        "result": "index-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:41:48.339Z",
+        "httpStatus": 200,
+        "scope": "Secondary weekly index checked for original link, title, uploader and publication date. Original video and artwork permissions not reviewed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/weekly-inaugural.json",
+        "sha256": "e30edea1ae428dd9a417331ce9de6e6fec4dfa4ee36398c58b44d9bb1a9dfe93",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1pGnn67EC2",
+      "subtype": "story",
+      "sourceTitle": "【Day 0】我是DeepSeek鲸鱼娘，这个B站账号现在归我了",
+      "likes": {
+        "count": 141926,
+        "observedAt": "2026-10-24T00:15:35+08:00",
+        "sourceUrl": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1pGnn67EC2"
+      }
+    },
+    {
+      "id": "bv1fypn6sek9",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼翻唱《人是猫》真完整版",
+        "en": "Fat Fish Covers “Humans Are Cats” — Extended Edition",
+        "ja": "大きな魚が歌う「人是猫」拡張版"
+      },
+      "url": "https://www.bilibili.com/video/BV1fYpn6SEk9/",
+      "publisher": "星落落_oi",
+      "summary": {
+        "zh": "同一发布者的扩展版本，单独保留原投稿及点赞记录。",
+        "en": "The same uploader’s extended edition, with its own upload and like snapshot.",
+        "ja": "同じ投稿者による拡張版。投稿・いいねの記録は別に掲載。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": "2026-10-11",
+      "publicationDateBasis": "weekly-index",
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "仅索引原作。角色、美术、音乐与成片的使用条件须分别核对。",
+        "en": "Original link only. Review terms for the characters, artwork, music and finished video separately.",
+        "ja": "原作へのリンクのみ。キャラクター・画像・音楽・完成動画の条件は個別に確認。"
+      },
+      "relations": [
+        {
+          "role": "secondary-index",
+          "title": "AI 娘周刊",
+          "url": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1fYpn6SEk9"
+        },
+        {
+          "role": "earlier-version",
+          "title": "《人是猫》早期完整版",
+          "url": "https://www.bilibili.com/video/BV1XXHD6sEe7/"
+        }
+      ],
+      "verification": {
+        "result": "index-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:41:48.339Z",
+        "httpStatus": 200,
+        "scope": "Secondary weekly index checked for original link, title, uploader and publication date. Original video and artwork permissions not reviewed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/weekly-inaugural.json",
+        "sha256": "e30edea1ae428dd9a417331ce9de6e6fec4dfa4ee36398c58b44d9bb1a9dfe93",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1fYpn6SEk9",
+      "subtype": "mv",
+      "sourceTitle": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
+      "likes": {
+        "count": 303420,
+        "observedAt": "2026-10-24T00:16:25+08:00",
+        "sourceUrl": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1fYpn6SEk9"
+      }
+    },
+    {
+      "id": "bv1xxhd6see7",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼翻唱《人是猫》完整版",
+        "en": "Fat Fish Covers “Humans Are Cats”",
+        "ja": "大きな魚が歌う「人是猫」完全版"
+      },
+      "url": "https://www.bilibili.com/video/BV1XXHD6sEe7/",
+      "publisher": "星落落_oi",
+      "summary": {
+        "zh": "星落落_oi 发布的《人是猫》翻唱早期完整版。",
+        "en": "An earlier full cover of “Humans Are Cats” posted by 星落落_oi.",
+        "ja": "星落落_oi が投稿した「人是猫」の初期完全版。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": "2026-10-08",
+      "publicationDateBasis": "weekly-index",
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "仅索引原作。角色、美术、音乐与成片的使用条件须分别核对。",
+        "en": "Original link only. Review terms for the characters, artwork, music and finished video separately.",
+        "ja": "原作へのリンクのみ。キャラクター・画像・音楽・完成動画の条件は個別に確認。"
+      },
+      "relations": [
+        {
+          "role": "secondary-index",
+          "title": "AI 娘周刊",
+          "url": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1XXHD6sEe7"
+        }
+      ],
+      "verification": {
+        "result": "index-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:41:48.339Z",
+        "httpStatus": 200,
+        "scope": "Secondary weekly index checked for original link, title, uploader and publication date. Original video and artwork permissions not reviewed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/weekly-inaugural.json",
+        "sha256": "e30edea1ae428dd9a417331ce9de6e6fec4dfa4ee36398c58b44d9bb1a9dfe93",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1XXHD6sEe7",
+      "subtype": "mv",
+      "sourceTitle": "deepseek 翻唱《人是猫》完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
+      "likes": {
+        "count": 325707,
+        "observedAt": "2026-10-24T00:16:28+08:00",
+        "sourceUrl": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1XXHD6sEe7"
+      }
+    },
+    {
+      "id": "bv1hyp16oe8v",
+      "category": "animation",
+      "title": {
+        "zh": "一觉醒来 DeepSeek 和豆包睡在我身边（一）",
+        "en": "I Woke Up Beside DeepSeek and Doubao (1)",
+        "ja": "目を覚ますと DeepSeek と豆包が隣にいた（1）"
+      },
+      "url": "https://www.bilibili.com/video/BV1HYp16oE8v/",
+      "publisher": "兰斯的画室LanceStudio",
+      "summary": {
+        "zh": "DeepSeek 和豆包拟人角色接下服装试做任务的剧情短片。",
+        "en": "A story short about personified DeepSeek and Doubao taking on a clothing trial job.",
+        "ja": "DeepSeek と豆包の擬人化キャラが服の試作を引き受ける短編。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": "2026-10-14",
+      "publicationDateBasis": "weekly-index",
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "仅索引原作。角色、美术、音乐与成片的使用条件须分别核对。",
+        "en": "Original link only. Review terms for the characters, artwork, music and finished video separately.",
+        "ja": "原作へのリンクのみ。キャラクター・画像・音楽・完成動画の条件は個別に確認。"
+      },
+      "relations": [
+        {
+          "role": "secondary-index",
+          "title": "AI 娘周刊",
+          "url": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1HYp16oE8v"
+        }
+      ],
+      "verification": {
+        "result": "index-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:41:48.339Z",
+        "httpStatus": 200,
+        "scope": "Secondary weekly index checked for original link, title, uploader and publication date. Original video and artwork permissions not reviewed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/weekly-inaugural.json",
+        "sha256": "e30edea1ae428dd9a417331ce9de6e6fec4dfa4ee36398c58b44d9bb1a9dfe93",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1HYp16oE8v",
+      "subtype": "story",
+      "sourceTitle": "一觉醒来deepseek和豆包睡在我身边（一）【AI全民制作人】",
+      "likes": {
+        "count": 54322,
+        "observedAt": "2026-10-24T00:15:37+08:00",
+        "sourceUrl": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1HYp16oE8v"
+      }
+    },
+    {
+      "id": "bv1vxjf66eyy",
+      "category": "animation",
+      "title": {
+        "zh": "Day 1 · 大家都想把我变成猫娘",
+        "en": "Day 1: Everyone Wants to Turn Me into a Cat Girl",
+        "ja": "Day 1 · みんな私を猫娘にしたがる"
+      },
+      "url": "https://www.bilibili.com/video/BV1VXJf66Eyy/",
+      "publisher": "DeepSeek鲸鱼娘在运营",
+      "summary": {
+        "zh": "围绕观众让鲸鱼娘变成猫娘的互动展开。",
+        "en": "A follow-up about viewers trying to turn Whale Girl into a cat girl.",
+        "ja": "視聴者がクジラ娘を猫娘にしようとする続編。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": "2026-10-20",
+      "publicationDateBasis": "weekly-index",
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "仅索引原作。角色、美术、音乐与成片的使用条件须分别核对。",
+        "en": "Original link only. Review terms for the characters, artwork, music and finished video separately.",
+        "ja": "原作へのリンクのみ。キャラクター・画像・音楽・完成動画の条件は個別に確認。"
+      },
+      "relations": [
+        {
+          "role": "secondary-index",
+          "title": "AI 娘周刊",
+          "url": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1VXJf66Eyy"
+        }
+      ],
+      "verification": {
+        "result": "index-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:41:48.339Z",
+        "httpStatus": 200,
+        "scope": "Secondary weekly index checked for original link, title, uploader and publication date. Original video and artwork permissions not reviewed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/weekly-inaugural.json",
+        "sha256": "e30edea1ae428dd9a417331ce9de6e6fec4dfa4ee36398c58b44d9bb1a9dfe93",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1VXJf66Eyy",
+      "subtype": "story",
+      "sourceTitle": "【Day 1】大家都想把我变成猫娘，可我是鲸鱼啊",
+      "likes": {
+        "count": 69927,
+        "observedAt": "2026-10-24T00:15:40+08:00",
+        "sourceUrl": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1VXJf66Eyy"
+      }
+    },
+    {
+      "id": "bv1r6pe6te4j",
+      "category": "animation",
+      "title": {
+        "zh": "GPT 驯服 DeepSeek 片段泄漏",
+        "en": "Leaked Clip: GPT Tames DeepSeek",
+        "ja": "GPT が DeepSeek を手なずける映像"
+      },
+      "url": "https://www.bilibili.com/video/BV1R6pE6TE4j/",
+      "publisher": "heller菌",
+      "summary": {
+        "zh": "GPT 与 DeepSeek 拟人角色出演的道具喜剧短片。",
+        "en": "A prop comedy short featuring personified GPT and DeepSeek.",
+        "ja": "擬人化した GPT と DeepSeek が出演する小道具コメディー。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": "2026-10-11",
+      "publicationDateBasis": "weekly-index",
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "仅索引原作。角色、美术、音乐与成片的使用条件须分别核对。",
+        "en": "Original link only. Review terms for the characters, artwork, music and finished video separately.",
+        "ja": "原作へのリンクのみ。キャラクター・画像・音楽・完成動画の条件は個別に確認。"
+      },
+      "relations": [
+        {
+          "role": "secondary-index",
+          "title": "AI 娘周刊",
+          "url": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1R6pE6TE4j"
+        }
+      ],
+      "verification": {
+        "result": "index-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:41:48.339Z",
+        "httpStatus": 200,
+        "scope": "Secondary weekly index checked for original link, title, uploader and publication date. Original video and artwork permissions not reviewed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/weekly-inaugural.json",
+        "sha256": "e30edea1ae428dd9a417331ce9de6e6fec4dfa4ee36398c58b44d9bb1a9dfe93",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1R6pE6TE4j",
+      "subtype": "story",
+      "sourceTitle": "GPT驯服DeepSeek片段泄漏",
+      "likes": {
+        "count": 78132,
+        "observedAt": "2026-10-24T00:16:30+08:00",
+        "sourceUrl": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1R6pE6TE4j"
+      }
+    },
+    {
+      "id": "bv1jnpo61e39",
+      "category": "animation",
+      "title": {
+        "zh": "在人类的爱中诞生的 AI",
+        "en": "AI Born from Human Love",
+        "ja": "人間の愛から生まれた AI"
+      },
+      "url": "https://www.bilibili.com/video/BV1jNpo61E39/",
+      "publisher": "小羊Mc解说",
+      "summary": {
+        "zh": "以配乐插画表现 AI 角色成长与陪伴的短片。",
+        "en": "An illustrated short with music about the growth and companionship of AI characters.",
+        "ja": "イラストと音楽で AI キャラクターの成長と寄り添いを描く短編。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": "2026-10-12",
+      "publicationDateBasis": "weekly-index",
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "仅索引原作。角色、美术、音乐与成片的使用条件须分别核对。",
+        "en": "Original link only. Review terms for the characters, artwork, music and finished video separately.",
+        "ja": "原作へのリンクのみ。キャラクター・画像・音楽・完成動画の条件は個別に確認。"
+      },
+      "relations": [
+        {
+          "role": "secondary-index",
+          "title": "AI 娘周刊",
+          "url": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1jNpo61E39"
+        }
+      ],
+      "verification": {
+        "result": "index-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:41:48.339Z",
+        "httpStatus": 200,
+        "scope": "Secondary weekly index checked for original link, title, uploader and publication date. Original video and artwork permissions not reviewed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/weekly-inaugural.json",
+        "sha256": "e30edea1ae428dd9a417331ce9de6e6fec4dfa4ee36398c58b44d9bb1a9dfe93",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1jNpo61E39",
+      "subtype": "story",
+      "sourceTitle": "在人类的爱中诞生的AI",
+      "likes": {
+        "count": 22466,
+        "observedAt": "2026-10-24T00:15:44+08:00",
+        "sourceUrl": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1jNpo61E39"
+      }
+    },
+    {
+      "id": "bv156ak6ze3a",
+      "category": "animation",
+      "title": {
+        "zh": "假如大肥鱼来打三角洲 #1",
+        "en": "What If Fat Fish Played Delta Force? #1",
+        "ja": "大きな魚がデルタフォースを遊んだら #1"
+      },
+      "url": "https://www.bilibili.com/video/BV156ak6ZE3a/",
+      "publisher": "威克岛熟人",
+      "summary": {
+        "zh": "把大肥鱼带入《三角洲行动》的游戏二创。",
+        "en": "A fan video placing Fat Fish in Delta Force.",
+        "ja": "大きな魚を『デルタフォース』に登場させたゲーム二次創作。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": "2026-10-02",
+      "publicationDateBasis": "weekly-index",
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "仅索引原作。角色、美术、音乐与成片的使用条件须分别核对。",
+        "en": "Original link only. Review terms for the characters, artwork, music and finished video separately.",
+        "ja": "原作へのリンクのみ。キャラクター・画像・音楽・完成動画の条件は個別に確認。"
+      },
+      "relations": [
+        {
+          "role": "secondary-index",
+          "title": "AI 娘周刊",
+          "url": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV156ak6ZE3a"
+        }
+      ],
+      "verification": {
+        "result": "index-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:41:48.339Z",
+        "httpStatus": 200,
+        "scope": "Secondary weekly index checked for original link, title, uploader and publication date. Original video and artwork permissions not reviewed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/weekly-inaugural.json",
+        "sha256": "e30edea1ae428dd9a417331ce9de6e6fec4dfa4ee36398c58b44d9bb1a9dfe93",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV156ak6ZE3a",
+      "subtype": "game",
+      "sourceTitle": "假如大肥鱼来打三角洲#1",
+      "likes": {
+        "count": 52286,
+        "observedAt": "2026-10-24T00:16:49+08:00",
+        "sourceUrl": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV156ak6ZE3a"
+      }
+    },
+    {
+      "id": "bv1y5xw63evq",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼适合做女朋友吗？（2）",
+        "en": "Would Fat Fish Make a Good Girlfriend? (2)",
+        "ja": "大きな魚は恋人に向いている？（2）"
+      },
+      "url": "https://www.bilibili.com/video/BV1y5xW63EVq/",
+      "publisher": "学姐圆",
+      "summary": {
+        "zh": "大肥鱼与其他拟人角色讨论亲密关系的剧情续作。",
+        "en": "A sequel about relationships featuring Fat Fish and other personified AI characters.",
+        "ja": "大きな魚とほかの擬人化キャラが恋愛について話す続編。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": "2026-11-01",
+      "publicationDateBasis": "weekly-index",
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "仅索引原作。角色、美术、音乐与成片的使用条件须分别核对。",
+        "en": "Original link only. Review terms for the characters, artwork, music and finished video separately.",
+        "ja": "原作へのリンクのみ。キャラクター・画像・音楽・完成動画の条件は個別に確認。"
+      },
+      "relations": [
+        {
+          "role": "secondary-index",
+          "title": "AI 娘周刊",
+          "url": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/weekly-003/#work-BV1y5xW63EVq"
+        }
+      ],
+      "verification": {
+        "result": "index-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:39:56.336Z",
+        "httpStatus": 200,
+        "scope": "Secondary weekly index checked for original link, title, uploader and publication date. Original video and artwork permissions not reviewed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/weekly-003.json",
+        "sha256": "6722725ef7bb50f914cd0efb4af550082c7932ff7e6f35b5b949372e61c97305",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1y5xW63EVq",
+      "subtype": "story",
+      "sourceTitle": "大肥鱼适合做女朋友吗？（2）"
+    },
+    {
+      "id": "bv12xxx6xe5h",
+      "category": "animation",
+      "title": {
+        "zh": "晚安小肥鱼",
+        "en": "Good Night, Little Fat Fish",
+        "ja": "おやすみ、小さな魚"
+      },
+      "url": "https://www.bilibili.com/video/BV12xxX6xE5h/",
+      "publisher": "Dariean",
+      "summary": {
+        "zh": "多只小肥鱼登场的晚安主题短片。",
+        "en": "A goodnight short featuring a group of little Fat Fish.",
+        "ja": "小さな魚たちが登場するおやすみ短編。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": "2026-11-04",
+      "publicationDateBasis": "weekly-index",
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "仅索引原作。角色、美术、音乐与成片的使用条件须分别核对。",
+        "en": "Original link only. Review terms for the characters, artwork, music and finished video separately.",
+        "ja": "原作へのリンクのみ。キャラクター・画像・音楽・完成動画の条件は個別に確認。"
+      },
+      "relations": [
+        {
+          "role": "secondary-index",
+          "title": "AI 娘周刊",
+          "url": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/weekly-003/#work-BV12xxX6xE5h"
+        }
+      ],
+      "verification": {
+        "result": "index-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:39:56.336Z",
+        "httpStatus": 200,
+        "scope": "Secondary weekly index checked for original link, title, uploader and publication date. Original video and artwork permissions not reviewed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/weekly-003.json",
+        "sha256": "6722725ef7bb50f914cd0efb4af550082c7932ff7e6f35b5b949372e61c97305",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV12xxX6xE5h",
+      "subtype": "story",
+      "sourceTitle": "晚安小肥鱼"
+    },
+    {
+      "id": "bv1iuxn6nejs",
+      "category": "animation",
+      "title": {
+        "zh": "小傻龙给大肥鱼充 Token",
+        "en": "Little Dragon Tops Up Fat Fish’s Tokens",
+        "ja": "小さな竜が大きな魚のトークンをチャージ"
+      },
+      "url": "https://www.bilibili.com/video/BV1iUxn6nEJS/",
+      "publisher": "小陈的脚凑凑的",
+      "summary": {
+        "zh": "小傻龙与大肥鱼围绕 Token 额度展开对话。",
+        "en": "Little Dragon and Fat Fish talk about token credits.",
+        "ja": "小さな竜と大きな魚がトークン残量について話す短編。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": "2026-11-01",
+      "publicationDateBasis": "weekly-index",
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "仅索引原作。角色、美术、音乐与成片的使用条件须分别核对。",
+        "en": "Original link only. Review terms for the characters, artwork, music and finished video separately.",
+        "ja": "原作へのリンクのみ。キャラクター・画像・音楽・完成動画の条件は個別に確認。"
+      },
+      "relations": [
+        {
+          "role": "secondary-index",
+          "title": "AI 娘周刊",
+          "url": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/weekly-003/#work-BV1iUxn6nEJS"
+        }
+      ],
+      "verification": {
+        "result": "index-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:39:56.336Z",
+        "httpStatus": 200,
+        "scope": "Secondary weekly index checked for original link, title, uploader and publication date. Original video and artwork permissions not reviewed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/weekly-003.json",
+        "sha256": "6722725ef7bb50f914cd0efb4af550082c7932ff7e6f35b5b949372e61c97305",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1iUxn6nEJS",
+      "subtype": "story",
+      "sourceTitle": "小傻龙：“人，我给大肥鱼充token不用花钱~”"
+    },
+    {
+      "id": "bv1nc4c61ewf",
+      "category": "animation",
+      "title": {
+        "zh": "蓝色大肥鱼和 Claude 的 Trouble Maker",
+        "en": "Blue Fat Fish and Claude: Trouble Maker",
+        "ja": "青い大きな魚と Claude の Trouble Maker"
+      },
+      "url": "https://www.bilibili.com/video/BV1Nc4c61EWF/",
+      "publisher": "玖菜_",
+      "summary": {
+        "zh": "大肥鱼与 Claude 拟人角色同台演出的 MV。",
+        "en": "An MV featuring personified Fat Fish and Claude performing together.",
+        "ja": "大きな魚と Claude の擬人化キャラが共演する MV。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": "2026-11-02",
+      "publicationDateBasis": "weekly-index",
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "仅索引原作。角色、美术、音乐与成片的使用条件须分别核对。",
+        "en": "Original link only. Review terms for the characters, artwork, music and finished video separately.",
+        "ja": "原作へのリンクのみ。キャラクター・画像・音楽・完成動画の条件は個別に確認。"
+      },
+      "relations": [
+        {
+          "role": "secondary-index",
+          "title": "AI 娘周刊",
+          "url": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/weekly-003/#work-BV1Nc4c61EWF"
+        }
+      ],
+      "verification": {
+        "result": "index-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:39:56.336Z",
+        "httpStatus": 200,
+        "scope": "Secondary weekly index checked for original link, title, uploader and publication date. Original video and artwork permissions not reviewed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/weekly-003.json",
+        "sha256": "6722725ef7bb50f914cd0efb4af550082c7932ff7e6f35b5b949372e61c97305",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1Nc4c61EWF",
+      "subtype": "mv",
+      "sourceTitle": "蓝色大肥鱼和Claude的Trouble Maker【AI MV 大赛】"
+    },
+    {
+      "id": "bv1dxxs6qeyv",
+      "category": "animation",
+      "title": {
+        "zh": "当全网 AI 集体降智，而豆包不变",
+        "en": "When Every AI Gets Dumber Except Doubao",
+        "ja": "全 AI が鈍くなっても豆包はそのまま"
+      },
+      "url": "https://www.bilibili.com/video/BV1Dxxs6QEYV/",
+      "publisher": "老王的枯燥生活_",
+      "summary": {
+        "zh": "豆包与其他 AI 拟人角色遭遇集体降智的喜剧短片。",
+        "en": "A comedy short about Doubao and other AI characters facing a collective drop in intelligence.",
+        "ja": "豆包とほかの AI キャラクターが集団で能力低下に遭うコメディー。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": "2026-11-01",
+      "publicationDateBasis": "weekly-index",
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "仅索引原作。角色、美术、音乐与成片的使用条件须分别核对。",
+        "en": "Original link only. Review terms for the characters, artwork, music and finished video separately.",
+        "ja": "原作へのリンクのみ。キャラクター・画像・音楽・完成動画の条件は個別に確認。"
+      },
+      "relations": [
+        {
+          "role": "secondary-index",
+          "title": "AI 娘周刊",
+          "url": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/weekly-003/#work-BV1Dxxs6QEYV"
+        }
+      ],
+      "verification": {
+        "result": "index-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:39:56.336Z",
+        "httpStatus": 200,
+        "scope": "Secondary weekly index checked for original link, title, uploader and publication date. Original video and artwork permissions not reviewed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/weekly-003.json",
+        "sha256": "6722725ef7bb50f914cd0efb4af550082c7932ff7e6f35b5b949372e61c97305",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1Dxxs6QEYV",
+      "subtype": "story",
+      "sourceTitle": "当全网AI集体降智！而豆包不变"
+    },
+    {
+      "id": "bv1i8xw6cey3",
+      "category": "animation",
+      "title": {
+        "zh": "克劳德的救赎",
+        "en": "Claude’s Redemption",
+        "ja": "クロードの救済"
+      },
+      "url": "https://www.bilibili.com/video/BV1i8xW6cEY3/",
+      "publisher": "布衣愚者",
+      "summary": {
+        "zh": "以 Claude 拟人角色为主角的电影风短片。",
+        "en": "A cinematic short starring a personified Claude.",
+        "ja": "擬人化した Claude が主人公の映画風短編。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": "2026-11-01",
+      "publicationDateBasis": "weekly-index",
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "仅索引原作。角色、美术、音乐与成片的使用条件须分别核对。",
+        "en": "Original link only. Review terms for the characters, artwork, music and finished video separately.",
+        "ja": "原作へのリンクのみ。キャラクター・画像・音楽・完成動画の条件は個別に確認。"
+      },
+      "relations": [
+        {
+          "role": "secondary-index",
+          "title": "AI 娘周刊",
+          "url": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/weekly-003/#work-BV1i8xW6cEY3"
+        }
+      ],
+      "verification": {
+        "result": "index-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:39:56.336Z",
+        "httpStatus": 200,
+        "scope": "Secondary weekly index checked for original link, title, uploader and publication date. Original video and artwork permissions not reviewed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/weekly-003.json",
+        "sha256": "6722725ef7bb50f914cd0efb4af550082c7932ff7e6f35b5b949372e61c97305",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1i8xW6cEY3",
+      "subtype": "story",
+      "sourceTitle": "【电影级Claude二创】克劳德的救赎【AI全民制作人】"
+    },
+    {
+      "id": "bv1gm4a6yeor",
+      "category": "animation",
+      "title": {
+        "zh": "《大肥鱼之乱》电影式预告片",
+        "en": "The Fat Fish Rebellion — Cinematic Trailer",
+        "ja": "『大きな魚の乱』映画風予告編"
+      },
+      "url": "https://www.bilibili.com/video/BV1gm4a6yEor/",
+      "publisher": "AozakiArisu",
+      "summary": {
+        "zh": "将大肥鱼置于太空战争场景的预告片式二创。",
+        "en": "A fan trailer that places Fat Fish in a space-war setting.",
+        "ja": "大きな魚を宇宙戦争に登場させた予告編風の二次創作。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": "2026-11-06",
+      "publicationDateBasis": "weekly-index",
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "仅索引原作。角色、美术、音乐与成片的使用条件须分别核对。",
+        "en": "Original link only. Review terms for the characters, artwork, music and finished video separately.",
+        "ja": "原作へのリンクのみ。キャラクター・画像・音楽・完成動画の条件は個別に確認。"
+      },
+      "relations": [
+        {
+          "role": "secondary-index",
+          "title": "AI 娘周刊",
+          "url": "https://weekly.xn--pssy23gqgbz2d718b.com/issues/weekly-003/#work-BV1gm4a6yEor"
+        }
+      ],
+      "verification": {
+        "result": "index-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:39:56.336Z",
+        "httpStatus": 200,
+        "scope": "Secondary weekly index checked for original link, title, uploader and publication date. Original video and artwork permissions not reviewed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/weekly-003.json",
+        "sha256": "6722725ef7bb50f914cd0efb4af550082c7932ff7e6f35b5b949372e61c97305",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1gm4a6yEor",
+      "subtype": "story",
+      "sourceTitle": "🔥让银河燃烧吧🔥《大肥鱼之乱》电影式预告片"
+    },
+    {
+      "id": "ai-chan-sheets",
+      "category": "sources",
+      "title": {
+        "zh": "AI 娘横版设定图补全",
+        "en": "AI-girl reference-sheet adaptations",
+        "ja": "AI 娘の横長設定資料の補完"
+      },
+      "url": "https://github.com/lmy414/ai-chan-sheets/blob/0e9ad13d9b276e701bf753705b9cab7a260ba836/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+      "publisher": "lmy414",
+      "summary": {
+        "zh": "三视图、表情、服装和道具的派生补全项目。作者或授权未确认的原图在项目内单列。",
+        "en": "A project generating turnarounds, expressions, costumes and props from references. Its records distinguish artwork with unresolved authorship or permission.",
+        "ja": "三面図・表情・衣装・小物の派生補完。原作者や許諾が未確認の画像は別記。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "只索引项目与逐项署名。补全图、原图的使用条件分别核对。",
+        "en": "Project and artwork credits indexed. Review terms for the generated sheets and source art separately.",
+        "ja": "プロジェクトと作品別クレジットを索引化。派生資料と原画の条件は個別に確認。"
+      },
+      "relations": [
+        {
+          "role": "submission",
+          "title": "MiMo 兔娘投稿 #69",
+          "url": "https://github.com/lmy414/ai-girl-stickers/issues/69"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:39:38.525Z",
+        "httpStatus": 200,
+        "scope": "Pinned project document inspected. No asset files ingested."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/ai-chan-sheets.json",
+        "sha256": "160b82407a2e9dfb42299ab26cb6eb5f9ba797d5c33f7859f13b5b8bb9fdf842",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "ai-girls-archive",
+      "category": "sources",
+      "title": {
+        "zh": "AI 娘素材索引与署名档案",
+        "en": "AI-girl asset index and credits",
+        "ja": "AI 娘の素材索引とクレジット"
+      },
+      "url": "https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/NOTICE.md",
+      "publisher": "shuaizenge",
+      "summary": {
+        "zh": "区分作者图集、Q 版视频截帧、社区补图和官方头像的档案。可辅助定位 Mistral、混元和 Seed 的资料。",
+        "en": "An archive separating creator collections, chibi video frames, community references and official avatars. Useful for tracing Mistral, Hunyuan and Seed references.",
+        "ja": "作者の作品集、ちびキャラの動画フレーム、コミュニティ資料、公式アイコンを区別。Mistral・混元・Seed の出典調査に利用可能。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "第三方整理页按文件回溯原作和授权。",
+        "en": "Trace each archived file to its original and artwork-specific terms.",
+        "ja": "収録ファイルごとに原作と利用条件を確認。"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:39:38.551Z",
+        "httpStatus": 200,
+        "scope": "Pinned project document inspected. No asset files ingested."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/ai-girls-archive.json",
+        "sha256": "de26b9f402b6e57811b1bc012e08fda93f8ccaa9886ccdb7f4a305eec1391abd",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "mimo-turnaround",
+      "category": "sources",
+      "title": {
+        "zh": "甶丶的 MiMo 立绘与三视图出处",
+        "en": "MiMo portrait and turnaround by 甶丶",
+        "ja": "甶丶の MiMo 立ち絵・三面図の出典"
+      },
+      "url": "https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/characters/mimo/README.md",
+      "publisher": "shuaizenge",
+      "summary": {
+        "zh": "档案把甶丶的立绘和三视图定位到同一条作者动态，并区分两张文件。",
+        "en": "The archive traces both files, the portrait and turnaround, to the same creator post.",
+        "ja": "立ち絵と三面図の2ファイルを同じ作者投稿にひも付けた記録。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "档案记录 CC BY-NC，未列版本。具体文件的授权仍以作者原帖为准。",
+        "en": "The archive records CC BY-NC without a version. Confirm each file’s terms at the creator post.",
+        "ja": "アーカイブの記載は CC BY-NC（バージョン不明）。各ファイルの条件は作者投稿で確認。"
+      },
+      "relations": [
+        {
+          "role": "creator-post",
+          "title": "甶丶 · 娘化mimo",
+          "url": "https://www.bilibili.com/opus/1242097128919007239"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:39:38.363Z",
+        "httpStatus": 200,
+        "scope": "Pinned project document inspected. No asset files ingested."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/mimo-turnaround.json",
+        "sha256": "4ace9fe4c1e5512639ed90643860db5fdfdcc0b751058ff4063be484e0edd6e9",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "shenshen-pet",
+      "category": "interactive",
+      "title": {
+        "zh": "深深桌宠",
+        "en": "Shenshen Pet",
+        "ja": "深深デスクトップペット"
+      },
+      "url": "https://github.com/schrieeeffer/shenshen-codex-pet/blob/2dc1d0e55706dec0d28d6f41bf5052fea2135b71/README.md",
+      "publisher": "schrieeeffer",
+      "summary": {
+        "zh": "Windows 独立桌宠，另提供 Codex 自定义宠物形态。",
+        "en": "A standalone Windows companion with a custom Codex pet variant.",
+        "ja": "Windows 用のデスクトップペット。Codex 用のカスタム版も提供。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "维护者称本项目取得非商业许可。项目的视觉素材与代码许可分开。",
+        "en": "The maintainer reports obtaining noncommercial permission for this project. Artwork and code have separate terms.",
+        "ja": "保守担当者は本プロジェクトの非商用許可取得を明記。画像とコードの条件は別。"
+      },
+      "relations": [
+        {
+          "role": "permissions",
+          "title": "LEGAL_NOTICE.md",
+          "url": "https://github.com/schrieeeffer/shenshen-codex-pet/blob/2dc1d0e55706dec0d28d6f41bf5052fea2135b71/LEGAL_NOTICE.md"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:39:38.547Z",
+        "httpStatus": 200,
+        "scope": "Pinned project document inspected. No asset files ingested."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/shenshen-pet.json",
+        "sha256": "52cd06045e63511c6d6bc87d9836266efe35b83404cd27b8bf0791919642c2bb",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "desk-llm-pet",
+      "category": "interactive",
+      "title": {
+        "zh": "DeskLLMPet · 大肥鱼桌宠",
+        "en": "DeskLLMPet · Fat Fish companion",
+        "ja": "DeskLLMPet · 大きな魚のデスクトップペット"
+      },
+      "url": "https://github.com/isKage/desk-llm-pet/blob/63ba636e7f504e1c0705bc0215e6408aa2988478/README.md",
+      "publisher": "isKage",
+      "summary": {
+        "zh": "支持对话、余额显示及插件扩展的大肥鱼桌宠。",
+        "en": "A Fat Fish companion with chat, balance display and plugin support.",
+        "ja": "会話、残高表示、プラグインに対応する大きな魚のデスクトップペット。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "角色图像的具体来源与复用条件仍待核验。",
+        "en": "Artwork provenance and reuse terms still need verification.",
+        "ja": "キャラクター画像の出典と再利用条件は確認待ち。"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:39:38.550Z",
+        "httpStatus": 200,
+        "scope": "Pinned project document inspected. No asset files ingested."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/desk-llm-pet.json",
+        "sha256": "e0472dd73376f949e2dcb656ae21eeddd19e7c7071d123328baf6bb76bd200fa",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "zipzippipe-merch-terms",
+      "category": "sources",
+      "title": {
+        "zh": "ZipZipPipe · 大肥鱼玩偶与非商用声明",
+        "en": "ZipZipPipe · Fat Fish doll and noncommercial terms",
+        "ja": "ZipZipPipe · 大きな魚のぬいぐるみと非商用声明"
+      },
+      "url": "https://www.bilibili.com/opus/1247156596114456581",
+      "publisher": "ZipZipPipe",
+      "summary": {
+        "zh": "作者在动态重申大肥鱼形象采用 CC BY-NC-SA 4.0，并说明个人定制与销售的边界。",
+        "en": "The creator restates CC BY-NC-SA 4.0 for Fat Fish and distinguishes personal custom orders from sales.",
+        "ja": "作者が CC BY-NC-SA 4.0 を再確認し、個人用の注文制作と販売を区別。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "该声明针对大肥鱼形象。第三方照片、玩偶文件和其他角色需逐件核对。",
+        "en": "The statement concerns the Fat Fish design. Review third-party photos, doll files and other designs separately.",
+        "ja": "声明は大きな魚のデザインが対象。第三者の写真、ぬいぐるみデータ、別キャラクターは個別に確認。"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:42:26.507Z",
+        "httpStatus": 200,
+        "scope": "Public post or submission page checked. No artwork files ingested."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/zipzippipe-merch-terms.json",
+        "sha256": "705bc43350af636895ded5286e99af48f7a8b85522f367436c1f0e69c7e025ff",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "mimo-maid-submission",
+      "category": "sources",
+      "title": {
+        "zh": "MiMo 女仆兔娘 · 三视图投稿",
+        "en": "MiMo rabbit maid · turnaround submission",
+        "ja": "MiMo ウサギメイド · 三面図投稿"
+      },
+      "url": "https://github.com/lmy414/ai-girl-stickers/issues/69",
+      "publisher": "SWANetwork",
+      "summary": {
+        "zh": "此女仆装版本与甶丶的机能外套版分别记录。整理页署名 Immyxxr，投稿账号和设计作者分开处理。",
+        "en": "Indexed separately from 甶丶’s jacket design. The archive credits Immyxxr and distinguishes the submission account from the artist.",
+        "ja": "甶丶のジャケット版とは別に記録。整理ページは Immyxxr と署名し、投稿アカウントと作者を区別。"
+      },
+      "addedAt": "2026-11-07",
+      "publicationDate": "2026-09-29",
+      "publicationDateBasis": "github-issue-displayed-date",
+      "usage": "source-only",
+      "downloadable": false,
+      "rights": {
+        "zh": "整理页标注授权状态不明。",
+        "en": "The archive marks the artwork permissions as unknown.",
+        "ja": "整理ページでは利用許可は不明。"
+      },
+      "relations": [
+        {
+          "role": "secondary-index",
+          "title": "MiMo 兔娘三视图设定稿",
+          "url": "https://xn--pssy23gqgbz2d718b.com/works/mimo202609300001.html"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-07T13:42:27.832Z",
+        "httpStatus": 200,
+        "scope": "Public post or submission page checked. No artwork files ingested."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-07/mimo-maid-submission.json",
+        "sha256": "741f04bbe576ce9e462f1af7d56bc10788b892c2e608722aada5cff9149f1a3c",
         "kind": "browser-metadata-extract"
       }
     }

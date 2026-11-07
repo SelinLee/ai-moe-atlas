@@ -14,13 +14,26 @@ export async function assertResources(registry,root){
     if(!/^\d{4}-\d{2}-\d{2}$/.test(r.addedAt)||r.addedAt>registry.updatedAt||r.publicationDate!==null&&(!/^\d{4}-\d{2}-\d{2}$/.test(r.publicationDate)||r.publicationDate>r.addedAt))throw new Error('Invalid resource dates');
     if(!Array.isArray(r.relations)||r.relations.some(l=>!https(l.url)||!l.title?.trim()||!l.role?.trim()))throw new Error('Invalid resource source chain');
     const v=r.verification;
-    if(!['metadata-verified','partial-response','blocked'].includes(v?.result)||!v.method?.includes('google-chrome')||!Number.isInteger(v.httpStatus)||!v.scope?.trim()||!Number.isFinite(Date.parse(v.attemptedAt)))throw new Error('Missing resource verification scope');
-    if(v.result==='metadata-verified'&&v.httpStatus!==200)throw new Error('Restricted source cannot claim full metadata verification');
+    if(!['metadata-verified','index-verified','partial-response','blocked'].includes(v?.result)||!v.method?.includes('google-chrome')||!Number.isInteger(v.httpStatus)||!v.scope?.trim()||!Number.isFinite(Date.parse(v.attemptedAt)))throw new Error('Missing resource verification scope');
+    if(['metadata-verified','index-verified'].includes(v.result)&&v.httpStatus!==200)throw new Error('Restricted source cannot claim verified metadata');
     if(r.category==='animation'&&(!/^BV[0-9A-Za-z]{10}$/.test(r.bvid)||!r.url.includes(r.bvid)||!['op','mv','story','commentary','dance','game'].includes(r.subtype)))throw new Error('Video record requires its BV ID and subtype');
     const e=r.evidence;
-    if(!/^content\/research\/2026-11-06\/[a-z0-9-]+\.json$/.test(e?.path)||e.kind!=='browser-metadata-extract')throw new Error('Invalid resource evidence path');
+    if(!/^content\/research\/\d{4}-\d{2}-\d{2}\/[a-z0-9-]+\.json$/.test(e?.path)||e.kind!=='browser-metadata-extract')throw new Error('Invalid resource evidence path');
     const bytes=await readFile(new URL(e.path,root));if(sha256(bytes)!==e.sha256)throw new Error('Resource evidence hash mismatch');
     const snapshot=JSON.parse(bytes);if(snapshot.httpStatus!==v.httpStatus||snapshot.accessedAt!==v.attemptedAt)throw new Error('Resource evidence disagrees with verification');
+    const indexedVideo=snapshot.videos?.find(video=>video.bvid===r.bvid);
+    if(v.result==='index-verified'&&(!indexedVideo||indexedVideo.url!==r.url||indexedVideo.title!==r.sourceTitle||indexedVideo.publisher!==r.publisher||indexedVideo.publicationDate!==r.publicationDate))throw new Error('Video identity differs from the retained index');
+    if(r.likes){
+      const {count,observedAt,sourceUrl}=r.likes;
+      if(r.category!=='animation'||!Number.isSafeInteger(count)||count<0||
+        !Number.isFinite(Date.parse(observedAt))||snapshot.metric!=='total-likes'||
+        indexedVideo?.likes!==count||indexedVideo.observedAt!==observedAt||
+        sourceUrl!==indexedVideo.snapshotUrl||!https(sourceUrl))throw new Error('Like count requires matching cumulative evidence');
+    }
+    if(snapshot.pinnedDocument){
+      const {commit,url,rawUrl,sourceSha256}=snapshot.pinnedDocument;
+      if(!/^[a-f0-9]{40}$/.test(commit)||url!==r.url||!https(rawUrl)||!url.includes('/blob/'+commit+'/')||!rawUrl.includes('/'+commit+'/')||!/^[a-f0-9]{64}$/.test(sourceSha256))throw new Error('Invalid pinned document evidence');
+    }
     if(snapshot.metadata?.pubdate){
       const date=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Shanghai',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date(snapshot.metadata.pubdate*1000));
       if(date!==r.publicationDate||snapshot.metadata.owner.name!==r.publisher||snapshot.metadata.bvid!==r.bvid)throw new Error('Video identity or publication date differs from retained metadata');

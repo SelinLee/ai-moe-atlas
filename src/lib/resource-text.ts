@@ -2,7 +2,9 @@ export const resourceText = {
   zh: {
     homeTitle:'AI 萌化百科', homeIntro:'查角色、找素材、看动画二创。从你感兴趣的分类开始。',
     categories:'按分类浏览', directory:'资源分类', directoryIntro:'作者作品、动画二创和桌宠项目，附原作链接、署名与使用条件。',
-    latest:'新收集的动画二创', latestIntro:'按作品发布日期排序 · 本批收集于 2026-11-06', allAnimations:'查看全部动画记录',
+    latest:'动画二创点赞榜', latestIntro:'按收录作品的累计点赞快照排序。每条附观测日期和来源。', allAnimations:'查看全部动画记录',
+    likes:'累计点赞', unranked:'暂无累计点赞快照', indexed:'已核对周刊索引', snapshot:'点赞数据来源',
+    indexScope:'作品名、发布者、日期及原视频链接来自周刊索引。原视频内容与逐件许可待核对。',
     all:'全部记录', search:'搜索作品、作者或关键词', results:'条记录', empty:'没有符合条件的记录', clear:'清除筛选',
     visit:'查看原作', publisher:'发布者', published:'发布', added:'收集', unknownDate:'发布日期未标明',
     metadata:'已核对页面资料', partial:'页面受限 · 部分资料可读', archived:'已有来源记录',
@@ -24,7 +26,9 @@ export const resourceText = {
   en: {
     homeTitle:'AI Moe Atlas',homeIntro:'Find characters, collect assets and explore animated fan works. Start with a category.',
     categories:'Browse by category',directory:'Resource directory',directoryIntro:'Creator publications, animated fan works and desktop companions, with sources, credits and terms.',
-    latest:'Newly collected animated works',latestIntro:'Sorted by publication date · Collected on November 6, 2026',allAnimations:'View all animation records',
+    latest:'Animated fan works by likes',latestIntro:'Ranked by observed total likes. Each snapshot includes its date and source.',allAnimations:'View all animation records',
+    likes:'total likes',unranked:'No total-like snapshot',indexed:'Weekly index checked',snapshot:'Like count source',
+    indexScope:'Title, uploader, date and original link come from the weekly index. The video and individual reuse terms await review.',
     all:'All records',search:'Search works, publishers or keywords',results:'records',empty:'No matching records',clear:'Clear filters',
     visit:'Visit original',publisher:'Publisher',published:'Published',added:'Collected',unknownDate:'Publication date not stated',
     metadata:'Page metadata checked',partial:'Restricted page · partial metadata',archived:'Existing source record',
@@ -46,7 +50,9 @@ export const resourceText = {
   ja: {
     homeTitle:'AI 萌え図鑑',homeIntro:'キャラクター、素材、アニメ二次創作。気になる分類から探せます。',
     categories:'分類から探す',directory:'リソース分類',directoryIntro:'作者の作品、アニメ二次創作、デスクトップペットの出典・クレジット・利用条件。',
-    latest:'新たに収集したアニメ二次創作',latestIntro:'公開日の新しい順 · 2026年11月6日収集',allAnimations:'すべての動画記録を見る',
+    latest:'アニメ二次創作のいいねランキング',latestIntro:'収録作品を累計いいね数の観測値で順位付け。各作品に観測日と出典を掲載。',allAnimations:'すべての動画記録を見る',
+    likes:'累計いいね',unranked:'累計いいね数の記録なし',indexed:'週刊索引を確認済み',snapshot:'いいね数の出典',
+    indexScope:'作品名、投稿者、公開日、原動画へのリンクは週刊索引に基づきます。動画の内容と個別の利用条件は確認待ちです。',
     all:'すべて',search:'作品・投稿者・キーワードを検索',results:'件',empty:'該当する記録はありません',clear:'絞り込みを解除',
     visit:'原作を見る',publisher:'投稿者',published:'公開',added:'収集',unknownDate:'公開日不明',
     metadata:'ページ情報を確認済み',partial:'アクセス制限 · 一部情報のみ',archived:'既存の出典記録',

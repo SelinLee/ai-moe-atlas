@@ -26,9 +26,9 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
     <td width="33%" valign="top"><a href="#references"><strong>🧸 Turnarounds & adaptations</strong></a><br><strong>20</strong> reference images<br><sub>Chibi sheets, references and doodle prompts</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><a href="#animations"><strong>🎬 Animation & fan videos</strong></a><br><strong>8</strong> records<br><sub>OPs, MVs, stories, dance and commentary</sub></td>
-    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 Desktop companions</strong></a><br><strong>4</strong> projects<br><sub>Desktop characters, state animations and projects</sub></td>
-    <td width="33%" valign="top"><a href="#sources"><strong>📚 Creator works & sources</strong></a><br><strong>15</strong> sources<br><sub>Creator collections, statements and research leads</sub></td>
+    <td width="33%" valign="top"><a href="#animations"><strong>🎬 Animation & fan videos</strong></a><br><strong>24</strong> records<br><sub>OPs, MVs, stories, dance and commentary</sub></td>
+    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 Desktop companions</strong></a><br><strong>6</strong> projects<br><sub>Desktop characters, state animations and projects</sub></td>
+    <td width="33%" valign="top"><a href="#sources"><strong>📚 Creator works & sources</strong></a><br><strong>20</strong> sources<br><sub>Creator collections, statements and research leads</sub></td>
   </tr>
 </table>
 
@@ -48,7 +48,7 @@ Find characters, creators and original works across 12 AI products.
 
 13 packs include originals, normalized files, source records and credits.
 
-[Browse asset packs](public/packs/) · [Artwork-specific terms](RIGHTS.md) · [Make an avatar or introduction card](https://selinlee.github.io/ai-moe-atlas/en/studio/) · [Studio guide](docs/STUDIO.en.md)
+[Browse asset packs](public/packs/) · [Artwork-specific terms](RIGHTS.md) · [Make an avatar or introduction card](https://selinlee.github.io/ai-moe-atlas/en/studio/) · [Studio guide](docs/STUDIO.en.md) · [More sources for turnarounds, expressions and character assets](#sources)
 
 <a id="references"></a>
 
@@ -62,20 +62,44 @@ All 20 images are generated adaptations with references, credits and generation 
 
 ### 🎬 Animation & fan videos
 
-Open the original video directly. Earlier works and character references are in the [full records](content/resources.json).
+The table ranks collected works by total likes at the time of observation. Each count links to its source. Ties are ordered by publication date and BV ID. The cumulative snapshots come from AI Girl Weekly’s inaugural issue and were observed on October 24, 2026 (Beijing time). Weekly gains are archived separately.
 
-| Date | Work | Publisher | Metadata review |
-| --- | --- | --- | --- |
-| 2026-10-24 | [New character: Fat Fish](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | Restricted · partial check |
-| 2026-10-23 | [Dragon-girl commentary · A seat before the rankings](https://www.bilibili.com/video/BV1YFn46SEEr/) | chatgpt小龙娘在运营 | Page metadata checked |
-| 2026-10-23 | [Blue Fat Fish · Let Me Go MV](https://www.bilibili.com/video/BV1qhn46bEBC/) | ---星-月--- | Restricted · partial check |
-| 2026-10-23 | [Fat Fish, why are you wearing Claude’s clothes?](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | Restricted · partial check |
-| 2026-10-23 | [What if AI girls joined a race?](https://www.bilibili.com/video/BV1AAnt6qEek/) | 挚一梓宝 | Page metadata checked |
-| 2026-10-14 | [AI girls Renaissance](https://www.bilibili.com/video/BV1hdpC6PETf/) | 桃莉鸭 | Page metadata checked |
-| 2026-10-05 | [Nico Whale OP · AI character replacement](https://www.bilibili.com/video/BV1TBHp6AEAC/) | 风音日日日日和 | Restricted · partial check |
-| 2026-10-03 | [All AI girls · Senren Banka OP](https://www.bilibili.com/video/BV18kaS6zEgi/) | hihihihi202 | Page metadata checked |
+| Rank | Work | Uploader | Total likes (observed) |
+| ---: | --- | --- | ---: |
+| 1 | [Fat Fish Covers “Humans Are Cats”](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [325,707](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1XXHD6sEe7) · 2026-10-24 |
+| 2 | [Fat Fish Covers “Humans Are Cats” — Extended Edition](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [303,420](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1fYpn6SEk9) · 2026-10-24 |
+| 3 | [Shinjuku Showdown: DeepSeek vs. Doubao](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [232,888](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1dsai6CErz) · 2026-10-24 |
+| 4 | [Day 0: DeepSeek Whale Girl Takes Over](https://www.bilibili.com/video/BV1pGnn67EC2/) | DeepSeek鲸鱼娘在运营 | [141,926](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1pGnn67EC2) · 2026-10-24 |
+| 5 | [Leaked Clip: GPT Tames DeepSeek](https://www.bilibili.com/video/BV1R6pE6TE4j/) | heller菌 | [78,132](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1R6pE6TE4j) · 2026-10-24 |
+| 6 | [Day 1: Everyone Wants to Turn Me into a Cat Girl](https://www.bilibili.com/video/BV1VXJf66Eyy/) | DeepSeek鲸鱼娘在运营 | [69,927](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1VXJf66Eyy) · 2026-10-24 |
+| 7 | [I Woke Up Beside DeepSeek and Doubao (1)](https://www.bilibili.com/video/BV1HYp16oE8v/) | 兰斯的画室LanceStudio | [54,322](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1HYp16oE8v) · 2026-10-24 |
+| 8 | [What If Fat Fish Played Delta Force? #1](https://www.bilibili.com/video/BV156ak6ZE3a/) | 威克岛熟人 | [52,286](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV156ak6ZE3a) · 2026-10-24 |
+| 9 | [AI Born from Human Love](https://www.bilibili.com/video/BV1jNpo61E39/) | 小羊Mc解说 | [22,466](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1jNpo61E39) · 2026-10-24 |
 
-These records cover publication text and metadata; frame-by-frame review remains pending. Reuse terms require artwork-specific review, so these entries link to their originals.
+<details>
+<summary>Works awaiting total-like snapshots · 15</summary>
+
+| Work | Uploader | Published |
+| --- | --- | --- |
+| [The Fat Fish Rebellion — Cinematic Trailer](https://www.bilibili.com/video/BV1gm4a6yEor/) | AozakiArisu | 2026-11-06 |
+| [Good Night, Little Fat Fish](https://www.bilibili.com/video/BV12xxX6xE5h/) | Dariean | 2026-11-04 |
+| [Blue Fat Fish and Claude: Trouble Maker](https://www.bilibili.com/video/BV1Nc4c61EWF/) | 玖菜_ | 2026-11-02 |
+| [Would Fat Fish Make a Good Girlfriend? (2)](https://www.bilibili.com/video/BV1y5xW63EVq/) | 学姐圆 | 2026-11-01 |
+| [Little Dragon Tops Up Fat Fish’s Tokens](https://www.bilibili.com/video/BV1iUxn6nEJS/) | 小陈的脚凑凑的 | 2026-11-01 |
+| [When Every AI Gets Dumber Except Doubao](https://www.bilibili.com/video/BV1Dxxs6QEYV/) | 老王的枯燥生活_ | 2026-11-01 |
+| [Claude’s Redemption](https://www.bilibili.com/video/BV1i8xW6cEY3/) | 布衣愚者 | 2026-11-01 |
+| [New character: Fat Fish](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | 2026-10-24 |
+| [Blue Fat Fish · Let Me Go MV](https://www.bilibili.com/video/BV1qhn46bEBC/) | ---星-月--- | 2026-10-23 |
+| [Dragon-girl commentary · A seat before the rankings](https://www.bilibili.com/video/BV1YFn46SEEr/) | chatgpt小龙娘在运营 | 2026-10-23 |
+| [What if AI girls joined a race?](https://www.bilibili.com/video/BV1AAnt6qEek/) | 挚一梓宝 | 2026-10-23 |
+| [Fat Fish, why are you wearing Claude’s clothes?](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | 2026-10-23 |
+| [AI girls Renaissance](https://www.bilibili.com/video/BV1hdpC6PETf/) | 桃莉鸭 | 2026-10-14 |
+| [Nico Whale OP · AI character replacement](https://www.bilibili.com/video/BV1TBHp6AEAC/) | 风音日日日日和 | 2026-10-05 |
+| [All AI girls · Senren Banka OP](https://www.bilibili.com/video/BV18kaS6zEgi/) | hihihihi202 | 2026-10-03 |
+
+</details>
+
+Descriptions, credits and evidence are in the [full directory](content/resources.json).
 
 <a id="desktop-pets"></a>
 
@@ -87,6 +111,8 @@ These records cover publication text and metadata; frame-by-frame review remains
 | [Clawd](https://github.com/KebeliSamet0/clawd) | Claude pixel companion | KebeliSamet0 |
 | [Codex DeepSeek Pet](https://github.com/YunYueSama/codex-deepseek-pet) | Community whale-girl companion; reference provenance incomplete | YunYueSama |
 | [CrossPet](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | Switches characters and actions with AI products and work states | lokicorvus / CrossPet contributors |
+| [Shenshen Pet](https://github.com/schrieeeffer/shenshen-codex-pet/blob/2dc1d0e55706dec0d28d6f41bf5052fea2135b71/README.md) | A standalone Windows companion with a custom Codex pet variant. | schrieeeffer |
+| [DeskLLMPet · Fat Fish companion](https://github.com/isKage/desk-llm-pet/blob/63ba636e7f504e1c0705bc0215e6408aa2988478/README.md) | A Fat Fish companion with chat, balance display and plugin support. | isKage |
 
 Source links only. Artwork follows its own upstream terms; code licenses do not automatically cover character images.
 
@@ -105,10 +131,19 @@ Newly added:
 
 [Existing source leads](content/leads.json) · [New resource records](content/resources.json) · [Review and evidence](content/research/2026-11-06/) · [Contribute a source](docs/CONTRIBUTING.en.md)
 
+**Sources checked in this update**
+
+- [AI-girl reference-sheet adaptations](https://github.com/lmy414/ai-chan-sheets/blob/0e9ad13d9b276e701bf753705b9cab7a260ba836/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md) · A project generating turnarounds, expressions, costumes and props from references. Its records distinguish artwork with unresolved authorship or permission.
+- [AI-girl asset index and credits](https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/NOTICE.md) · An archive separating creator collections, chibi video frames, community references and official avatars. Useful for tracing Mistral, Hunyuan and Seed references.
+- [MiMo portrait and turnaround by 甶丶](https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/characters/mimo/README.md) · The archive traces both files, the portrait and turnaround, to the same creator post.
+- [ZipZipPipe · Fat Fish doll and noncommercial terms](https://www.bilibili.com/opus/1247156596114456581) · The creator restates CC BY-NC-SA 4.0 for Fat Fish and distinguishes personal custom orders from sales.
+- [MiMo rabbit maid · turnaround submission](https://github.com/lmy414/ai-girl-stickers/issues/69) · Indexed separately from 甶丶’s jacket design. The archive credits Immyxxr and distinguishes the submission account from the artist.
+
 ## Timeline and open items
 
 | Date / status | Progress |
 | --- | --- |
+| 2026-11-07 · Collection update | Added 16 fan videos, 2 desktop companions and 5 artwork or permissions sources. The ranking uses 9 cumulative like snapshots. [Observation records](content/research/2026-11-07/) |
 | 2026-11-06 · Local update | Six homepage categories and 13 new source records, including 8 animated fan works. Verification scope, usage terms and [hashed evidence](content/research/2026-11-06/) are retained. |
 | 2026-09-29 · Collected | Artwork was available to view and download for 11 of 12 AI products. Copilot had a source link only. [Coverage record](docs/BASELINES.en.md) |
 | 2026-10 · Published | Six character reference sheets were archived on Oct 8. Seven chibi turnarounds followed on Oct 31. |

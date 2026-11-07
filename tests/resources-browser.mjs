@@ -3,6 +3,8 @@ import assert from 'node:assert/strict';
 import {readFile,mkdir} from 'node:fs/promises';
 const registry=JSON.parse(await readFile('content/resources.json','utf8'));
 const animationCount=registry.records.filter(r=>r.category==='animation').length;
+const ranked=registry.records.filter(r=>r.likes).sort((a,b)=>b.likes.count-a.likes.count);
+const interactiveCount=registry.records.filter(r=>r.category==='interactive').length+3;
 const origin=process.env.ATLAS_TEST_URL??'http://127.0.0.1:4322/ai-moe-atlas';
 await mkdir('.qa',{recursive:true});
 const browser=await chromium.launch({channel:'chrome',headless:true});
@@ -21,6 +23,10 @@ try{
   await page.waitForSelector('[data-resource-category="sources"][hidden]',{state:'attached'});
   assert.equal(await page.locator('[data-resource-category]:visible').count(),animationCount);
   assert.equal(await page.locator('#resource-count').innerText(),String(animationCount));
+  const visibleAnimations=page.locator('[data-resource-category="animation"]:visible');
+  assert.deepEqual(await visibleAnimations.evaluateAll((cards,count)=>cards.map(card=>card.id).slice(0,count),ranked.length),ranked.map(r=>r.id));
+  assert.match(await visibleAnimations.first().innerText(),new RegExp(ranked[0].likes.count.toLocaleString(lang)));
+  assert.ok(await visibleAnimations.first().locator('a[href*="inaugural-001"]').first().isVisible());
   assert.equal(await page.locator('.resource-list img,.resource-list video,.resource-list iframe').count(),0);
   await page.locator('#resource-search').fill('BV1YFn46SEEr');
   assert.equal(await page.locator('[data-resource-category]:visible').count(),1);
@@ -33,7 +39,7 @@ try{
   assert.ok(page.url().includes('category=animation'));
   await page.goto(`${origin}/${lang}/resources/?category=animation`,{waitUntil:'networkidle'});
   await page.screenshot({path:`.qa/resources-animation-${lang}-desktop.png`});
-  await page.locator('[data-resource-filter="interactive"]').click();assert.equal(await page.locator('[data-resource-category]:visible').count(),4);
+  await page.locator('[data-resource-filter="interactive"]').click();assert.equal(await page.locator('[data-resource-category]:visible').count(),interactiveCount);
   await page.locator('#resource-search').fill('no-such-work-xyz');assert.ok(await page.locator('#resource-empty').isVisible());
   await page.locator('#resource-reset').click();assert.equal(await page.locator('[data-resource-category]:visible').count(),registry.records.length+14);
   await page.goto(`${origin}/${lang}/resources/?category=unknown&q=CrossPet`);assert.equal(await page.locator('[data-resource-category]:visible').count(),1);

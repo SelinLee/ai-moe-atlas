@@ -15,6 +15,7 @@ export type Resource={
   id:string;category:'animation'|'interactive'|'sources';title:Localized;url:string;publisher:string;
   summary:Localized;rights:Localized;publicationDate:string|null;addedAt?:string;sourceTitle?:string;
   verification?:{result:string;scope:string};bvid?:string;subtype?:string;durationSeconds?:number|null;
+  likes?:{count:number;observedAt:string;sourceUrl:string};
   relations:{title:string;url:string;role:string}[];
 };
 const external:Resource[]=registry.records as Resource[];
@@ -43,7 +44,13 @@ const projects:Resource[]=projectIds.map(id=>{
 });
 export const resources:Resource[]=[...external,...projects,...sourceRecords];
 export const directoryCategories=['animation','interactive','sources'] as const;
-export const animations=resources.filter(r=>r.category==='animation').sort((a,b)=>(b.publicationDate??'').localeCompare(a.publicationDate??'')||a.id.localeCompare(b.id));
+export const byPublicationDate=(a:Resource,b:Resource)=>(b.publicationDate??'').localeCompare(a.publicationDate??'')||a.id.localeCompare(b.id);
+export const animations=resources.filter(r=>r.category==='animation').sort((a,b)=>
+  (b.likes?.count??-1)-(a.likes?.count??-1)||byPublicationDate(a,b));
+export const rankedAnimations=animations.filter(r=>r.likes);
+export const animationRanks=new Map(rankedAnimations.map((r,i)=>[r.id,i+1]));
+export const resourcesUpdatedAt=registry.updatedAt;
+export const likesObservedDate=new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Shanghai',year:'numeric',month:'2-digit',day:'2-digit'});
 export const resourceCounts:Record<Category,number>={
   characters:characters.length,assets:characters.filter(c=>c.downloadable).length,
   references:chibi.assets.length+references.assets.length+doodles.assets.length,
@@ -58,5 +65,6 @@ export function categoryURL(category:Category,lang:Locale){
 }
 export function verificationLabel(r:Resource,lang:Locale){
   const s=resourceText[lang];
+  if(r.verification?.result==='index-verified')return s.indexed;
   return r.verification?.result==='metadata-verified'?s.metadata:r.verification?s.partial:s.archived;
 }

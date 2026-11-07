@@ -26,9 +26,9 @@
     <td width="33%" valign="top"><a href="#references"><strong>🧸 三面図と生成派生資料</strong></a><br><strong>20</strong> 枚<br><sub>ちびキャラ三面図・資料・落書きテンプレート</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><a href="#animations"><strong>🎬 アニメ・動画二次創作</strong></a><br><strong>8</strong> 件<br><sub>OP・MV・短編・ダンス・コメント作品</sub></td>
-    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 デスクトップペット</strong></a><br><strong>4</strong> プロジェクト<br><sub>デスクトップキャラ・状態アニメ・出典</sub></td>
-    <td width="33%" valign="top"><a href="#sources"><strong>📚 作者の作品と出典</strong></a><br><strong>15</strong> 件<br><sub>作者作品集・声明・確認待ちの手がかり</sub></td>
+    <td width="33%" valign="top"><a href="#animations"><strong>🎬 アニメ・動画二次創作</strong></a><br><strong>24</strong> 件<br><sub>OP・MV・短編・ダンス・コメント作品</sub></td>
+    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 デスクトップペット</strong></a><br><strong>6</strong> プロジェクト<br><sub>デスクトップキャラ・状態アニメ・出典</sub></td>
+    <td width="33%" valign="top"><a href="#sources"><strong>📚 作者の作品と出典</strong></a><br><strong>20</strong> 件<br><sub>作者作品集・声明・確認待ちの手がかり</sub></td>
   </tr>
 </table>
 
@@ -48,7 +48,7 @@ AI 製品12種からキャラクター、作者、原作を探せます。
 
 13パックに原画像・規格統一版・出典・クレジットを同梱。
 
-[素材パック一覧](public/packs/) · [作品ごとの利用条件](RIGHTS.md) · [アイコンや紹介カードを作る](https://selinlee.github.io/ai-moe-atlas/ja/studio/) · [工房ガイド](docs/STUDIO.ja.md)
+[素材パック一覧](public/packs/) · [作品ごとの利用条件](RIGHTS.md) · [アイコンや紹介カードを作る](https://selinlee.github.io/ai-moe-atlas/ja/studio/) · [工房ガイド](docs/STUDIO.ja.md) · [三面図・表情・キャラクター素材の追加出典](#sources)
 
 <a id="references"></a>
 
@@ -62,20 +62,44 @@ AI 製品12種からキャラクター、作者、原作を探せます。
 
 ### 🎬 アニメ・動画二次創作
 
-原動画を直接開けます。先行作品とキャラクターの参照元は [詳細記録](content/resources.json)。
+収録作品の累計いいね数を観測時点の値で降順に掲載します。数値をクリックすると出典を確認できます。同数の場合は公開日と BV ID で並べます。累計値は「AI 娘周刊」創刊特集の 2026-10-24（北京時間）時点の観測値です。週次増加数は別に記録しています。
 
-| 公開日 | 作品 | 投稿者 | 資料の確認 |
-| --- | --- | --- | --- |
-| 2026-10-24 | [新キャラクター：大きな魚](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | アクセス制限・一部確認 |
-| 2026-10-23 | [竜娘の二次創作鑑賞 · 順位より椅子](https://www.bilibili.com/video/BV1YFn46SEEr/) | chatgpt小龙娘在运营 | ページ情報を確認済み |
-| 2026-10-23 | [青い大きな魚 · Let Me Go MV](https://www.bilibili.com/video/BV1qhn46bEBC/) | ---星-月--- | アクセス制限・一部確認 |
-| 2026-10-23 | [大きな魚、なぜClaudeの服を着ているの？](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | アクセス制限・一部確認 |
-| 2026-10-23 | [AI娘たちが競走したら？](https://www.bilibili.com/video/BV1AAnt6qEek/) | 挚一梓宝 | ページ情報を確認済み |
-| 2026-10-14 | [AI娘のルネサンス](https://www.bilibili.com/video/BV1hdpC6PETf/) | 桃莉鸭 | ページ情報を確認済み |
-| 2026-10-05 | [ニコくじら OP · AIキャラクター置換](https://www.bilibili.com/video/BV1TBHp6AEAC/) | 风音日日日日和 | アクセス制限・一部確認 |
-| 2026-10-03 | [全員AI娘 · 千恋万花 OP](https://www.bilibili.com/video/BV18kaS6zEgi/) | hihihihi202 | ページ情報を確認済み |
+| 順位 | 作品 | 投稿者 | 累計いいね（観測日） |
+| ---: | --- | --- | ---: |
+| 1 | [大きな魚が歌う「人是猫」完全版](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [325,707](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1XXHD6sEe7) · 2026-10-24 |
+| 2 | [大きな魚が歌う「人是猫」拡張版](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [303,420](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1fYpn6SEk9) · 2026-10-24 |
+| 3 | [新宿決戦 · DeepSeek 娘対豆包](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [232,888](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1dsai6CErz) · 2026-10-24 |
+| 4 | [Day 0 · DeepSeek クジラ娘がアカウントを引き継ぐ](https://www.bilibili.com/video/BV1pGnn67EC2/) | DeepSeek鲸鱼娘在运营 | [141,926](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1pGnn67EC2) · 2026-10-24 |
+| 5 | [GPT が DeepSeek を手なずける映像](https://www.bilibili.com/video/BV1R6pE6TE4j/) | heller菌 | [78,132](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1R6pE6TE4j) · 2026-10-24 |
+| 6 | [Day 1 · みんな私を猫娘にしたがる](https://www.bilibili.com/video/BV1VXJf66Eyy/) | DeepSeek鲸鱼娘在运营 | [69,927](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1VXJf66Eyy) · 2026-10-24 |
+| 7 | [目を覚ますと DeepSeek と豆包が隣にいた（1）](https://www.bilibili.com/video/BV1HYp16oE8v/) | 兰斯的画室LanceStudio | [54,322](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1HYp16oE8v) · 2026-10-24 |
+| 8 | [大きな魚がデルタフォースを遊んだら #1](https://www.bilibili.com/video/BV156ak6ZE3a/) | 威克岛熟人 | [52,286](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV156ak6ZE3a) · 2026-10-24 |
+| 9 | [人間の愛から生まれた AI](https://www.bilibili.com/video/BV1jNpo61E39/) | 小羊Mc解说 | [22,466](https://weekly.xn--pssy23gqgbz2d718b.com/issues/inaugural-001/#work-BV1jNpo61E39) · 2026-10-24 |
 
-投稿本文とメタデータの確認記録です。各シーンの審査は未実施。利用条件は作品ごとに確認する必要があり、ここでは原作へのリンクを掲載します。
+<details>
+<summary>累計いいね数の記録がない作品 · 15</summary>
+
+| 作品 | 投稿者 | 公開日 |
+| --- | --- | --- |
+| [『大きな魚の乱』映画風予告編](https://www.bilibili.com/video/BV1gm4a6yEor/) | AozakiArisu | 2026-11-06 |
+| [おやすみ、小さな魚](https://www.bilibili.com/video/BV12xxX6xE5h/) | Dariean | 2026-11-04 |
+| [青い大きな魚と Claude の Trouble Maker](https://www.bilibili.com/video/BV1Nc4c61EWF/) | 玖菜_ | 2026-11-02 |
+| [大きな魚は恋人に向いている？（2）](https://www.bilibili.com/video/BV1y5xW63EVq/) | 学姐圆 | 2026-11-01 |
+| [小さな竜が大きな魚のトークンをチャージ](https://www.bilibili.com/video/BV1iUxn6nEJS/) | 小陈的脚凑凑的 | 2026-11-01 |
+| [全 AI が鈍くなっても豆包はそのまま](https://www.bilibili.com/video/BV1Dxxs6QEYV/) | 老王的枯燥生活_ | 2026-11-01 |
+| [クロードの救済](https://www.bilibili.com/video/BV1i8xW6cEY3/) | 布衣愚者 | 2026-11-01 |
+| [新キャラクター：大きな魚](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | 2026-10-24 |
+| [青い大きな魚 · Let Me Go MV](https://www.bilibili.com/video/BV1qhn46bEBC/) | ---星-月--- | 2026-10-23 |
+| [竜娘の二次創作鑑賞 · 順位より椅子](https://www.bilibili.com/video/BV1YFn46SEEr/) | chatgpt小龙娘在运营 | 2026-10-23 |
+| [AI娘たちが競走したら？](https://www.bilibili.com/video/BV1AAnt6qEek/) | 挚一梓宝 | 2026-10-23 |
+| [大きな魚、なぜClaudeの服を着ているの？](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | 2026-10-23 |
+| [AI娘のルネサンス](https://www.bilibili.com/video/BV1hdpC6PETf/) | 桃莉鸭 | 2026-10-14 |
+| [ニコくじら OP · AIキャラクター置換](https://www.bilibili.com/video/BV1TBHp6AEAC/) | 风音日日日日和 | 2026-10-05 |
+| [全員AI娘 · 千恋万花 OP](https://www.bilibili.com/video/BV18kaS6zEgi/) | hihihihi202 | 2026-10-03 |
+
+</details>
+
+作品の説明・クレジット・証拠は[全記録](content/resources.json)に掲載。
 
 <a id="desktop-pets"></a>
 
@@ -87,6 +111,8 @@ AI 製品12種からキャラクター、作者、原作を探せます。
 | [Clawd](https://github.com/KebeliSamet0/clawd) | Claude のドット絵ペット | KebeliSamet0 |
 | [Codex DeepSeek Pet](https://github.com/YunYueSama/codex-deepseek-pet) | コミュニティのクジラ娘ペット。参照元は確認待ち | YunYueSama |
 | [CrossPet](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | AI 製品と作業状態に合わせて姿と動作を変更 | lokicorvus / CrossPet contributors |
+| [深深デスクトップペット](https://github.com/schrieeeffer/shenshen-codex-pet/blob/2dc1d0e55706dec0d28d6f41bf5052fea2135b71/README.md) | Windows 用のデスクトップペット。Codex 用のカスタム版も提供。 | schrieeeffer |
+| [DeskLLMPet · 大きな魚のデスクトップペット](https://github.com/isKage/desk-llm-pet/blob/63ba636e7f504e1c0705bc0215e6408aa2988478/README.md) | 会話、残高表示、プラグインに対応する大きな魚のデスクトップペット。 | isKage |
 
 出典へのリンクです。画像には各原作の条件が適用され、コードのライセンスはキャラクター画像を自動的には許諾しません。
 
@@ -105,10 +131,19 @@ AI 製品12種からキャラクター、作者、原作を探せます。
 
 [既存の出典一覧](content/leads.json) · [新規リソース記録](content/resources.json) · [確認記録と証拠](content/research/2026-11-06/) · [新しい出典を提供する](docs/CONTRIBUTING.ja.md)
 
+**今回確認した出典**
+
+- [AI 娘の横長設定資料の補完](https://github.com/lmy414/ai-chan-sheets/blob/0e9ad13d9b276e701bf753705b9cab7a260ba836/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md) · 三面図・表情・衣装・小物の派生補完。原作者や許諾が未確認の画像は別記。
+- [AI 娘の素材索引とクレジット](https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/NOTICE.md) · 作者の作品集、ちびキャラの動画フレーム、コミュニティ資料、公式アイコンを区別。Mistral・混元・Seed の出典調査に利用可能。
+- [甶丶の MiMo 立ち絵・三面図の出典](https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/characters/mimo/README.md) · 立ち絵と三面図の2ファイルを同じ作者投稿にひも付けた記録。
+- [ZipZipPipe · 大きな魚のぬいぐるみと非商用声明](https://www.bilibili.com/opus/1247156596114456581) · 作者が CC BY-NC-SA 4.0 を再確認し、個人用の注文制作と販売を区別。
+- [MiMo ウサギメイド · 三面図投稿](https://github.com/lmy414/ai-girl-stickers/issues/69) · 甶丶のジャケット版とは別に記録。整理ページは Immyxxr と署名し、投稿アカウントと作者を区別。
+
 ## 収録の経緯と今後の調査項目
 
 | 時期・状況 | 内容 |
 | --- | --- |
+| 2026-11-07 · 収録更新 | 二次創作動画16件、デスクトップペット2件、作品・許諾の出典5件を追加。累計いいね数9件で順位付け。[観測記録](content/research/2026-11-07/) |
 | 2026-11-06 · ローカル更新 | ホームの6分類と新規出典13件（アニメ二次創作8件を含む）を追加。確認範囲・利用条件・[ハッシュ付き証拠](content/research/2026-11-06/)を保存。 |
 | 2026-09-29 · 収録済み | AI 製品12種のうち11種で画像の閲覧・ダウンロードが可能に。Copilot は出典リンクのみ。[収録記録](docs/BASELINES.ja.md) |
 | 2026-10 · 公開済み | 10月8日にキャラクター設定資料6点を収録。31日にちびキャラ三面図7点を公開しました。 |
