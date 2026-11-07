@@ -1,0 +1,38 @@
+{
+  "url": "https://github.com/YunYueSama/codex-deepseek-pet/blob/7661c8b304c5400701f91da01b1a643a207331de/README.md",
+  "publisher": "YunYueSama",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T15:18:36.431Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/YunYueSama/codex-deepseek-pet/blob/7661c8b304c5400701f91da01b1a643a207331de/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/YunYueSama/codex-deepseek-pet/7661c8b304c5400701f91da01b1a643a207331de/README.md",
+    "commit": "7661c8b304c5400701f91da01b1a643a207331de",
+    "sourceSha256": "9e000981d9dd0c12f1f5e4d955f08664c062780935729ccc24106d5968caf96e"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/YunYueSama/codex-deepseek-pet/blob/7661c8b304c5400701f91da01b1a643a207331de/ASSET_LICENSE.md",
+      "rawUrl": "https://raw.githubusercontent.com/YunYueSama/codex-deepseek-pet/7661c8b304c5400701f91da01b1a643a207331de/ASSET_LICENSE.md",
+      "commit": "7661c8b304c5400701f91da01b1a643a207331de",
+      "sourceSha256": "6ec5e61796b95f10eec94d46ec48c287a708fabdd494241f0d1d6cc64864625c"
+    },
+    {
+      "url": "https://github.com/YunYueSama/codex-deepseek-pet/blob/7661c8b304c5400701f91da01b1a643a207331de/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/YunYueSama/codex-deepseek-pet/7661c8b304c5400701f91da01b1a643a207331de/LICENSE",
+      "commit": "7661c8b304c5400701f91da01b1a643a207331de",
+      "sourceSha256": "a8191ae2c7517f8cb2326d37cd62f84cfd9c2e18cefe113077897c642dc7912b"
+    },
+    {
+      "url": "https://github.com/YunYueSama/codex-deepseek-pet/blob/7661c8b304c5400701f91da01b1a643a207331de/docs/角色设定.md",
+      "rawUrl": "https://raw.githubusercontent.com/YunYueSama/codex-deepseek-pet/7661c8b304c5400701f91da01b1a643a207331de/docs/%E8%A7%92%E8%89%B2%E8%AE%BE%E5%AE%9A.md",
+      "commit": "7661c8b304c5400701f91da01b1a643a207331de",
+      "sourceSha256": "587f1b97036fbe38653ac62cfc634b0b9ff5572a8c769d5425e6ad0415f5c782"
+    }
+  ],
+  "findings": {
+    "licensedProjectContribution": "custom Attribution License 1.0",
+    "thirdPartyReferenceArt": "excluded from the project grant",
+    "remainingUnknown": "original creator and terms of the community inspiration image"
+  }
+}

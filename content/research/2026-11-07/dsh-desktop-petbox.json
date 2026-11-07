@@ -1,0 +1,32 @@
+{
+  "url": "https://github.com/HoppoChan0721/dsh-desktop-petbox/blob/f763fd799cab1ce49886355299f2c2dffbb7e37d/README.md",
+  "publisher": "HoppoChan0721",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T15:18:36.586Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/HoppoChan0721/dsh-desktop-petbox/blob/f763fd799cab1ce49886355299f2c2dffbb7e37d/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/HoppoChan0721/dsh-desktop-petbox/f763fd799cab1ce49886355299f2c2dffbb7e37d/README.md",
+    "commit": "f763fd799cab1ce49886355299f2c2dffbb7e37d",
+    "sourceSha256": "9393555f737f3290b5bd4f137d52aaa03d93af573252366a85923dc0e1f97e16"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/HoppoChan0721/dsh-desktop-petbox/blob/f763fd799cab1ce49886355299f2c2dffbb7e37d/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/HoppoChan0721/dsh-desktop-petbox/f763fd799cab1ce49886355299f2c2dffbb7e37d/LICENSE",
+      "commit": "f763fd799cab1ce49886355299f2c2dffbb7e37d",
+      "sourceSha256": "4906bfec2bc416115cebfe0dd221a886e4dd416674dec00589e6ec21e0e2abc2"
+    },
+    {
+      "url": "https://github.com/HoppoChan0721/dsh-desktop-petbox/blob/f763fd799cab1ce49886355299f2c2dffbb7e37d/THIRD-PARTY.txt",
+      "rawUrl": "https://raw.githubusercontent.com/HoppoChan0721/dsh-desktop-petbox/f763fd799cab1ce49886355299f2c2dffbb7e37d/THIRD-PARTY.txt",
+      "commit": "f763fd799cab1ce49886355299f2c2dffbb7e37d",
+      "sourceSha256": "fecc07156cbf8acd4cb0c7be97f67ce2d87740450bc71326a52f3bb5f37f17f4"
+    }
+  ],
+  "findings": {
+    "shellCode": "MIT",
+    "jingyu": "external stage dependency",
+    "modelsAndCubismCore": "obtained separately from their own sources"
+  }
+}

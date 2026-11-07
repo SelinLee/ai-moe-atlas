@@ -2,10 +2,11 @@ import {chromium} from 'playwright';
 import assert from 'node:assert/strict';
 import {readFile,mkdir} from 'node:fs/promises';
 const registry=JSON.parse(await readFile('content/resources.json','utf8'));
+const leads=JSON.parse(await readFile('content/leads.json','utf8'));
 const animationCount=registry.records.filter(r=>r.category==='animation').length;
 const ranked=registry.records.filter(r=>r.likes).sort((a,b)=>
   b.likes.count-a.likes.count||b.publicationDate.localeCompare(a.publicationDate)||a.id.localeCompare(b.id));
-const interactiveCount=registry.records.filter(r=>r.category==='interactive').length+3;
+const interactiveCount=registry.records.filter(r=>r.category==='interactive').length;
 const origin=process.env.ATLAS_TEST_URL??'http://127.0.0.1:4322/ai-moe-atlas';
 await mkdir('.qa',{recursive:true});
 const browser=await chromium.launch({channel:'chrome',headless:true});
@@ -47,7 +48,8 @@ try{
   assert.equal(new URL(page.url()).searchParams.get('type'),'mv');
   assert.equal(await visibleAnimations.count(),registry.records.filter(r=>r.category==='animation'&&r.subtype==='mv').length);
   assert.deepEqual(await visibleAnimations.evaluateAll((cards,count)=>cards.map(card=>card.id).slice(0,count),rankedMvs.length),rankedMvs.map(r=>r.id));
-  assert.match(await visibleAnimations.first().innerText(),new RegExp('#'+(ranked.indexOf(rankedMvs[0])+1)+' ·'));
+  const shownRanks=await visibleAnimations.locator('.resource-byline strong').allTextContents();
+  assert.deepEqual(shownRanks.map(value=>Number(value.match(/^#(\d+)/)?.[1])),rankedMvs.map(r=>ranked.indexOf(r)+1));
   await page.locator('#resource-search').fill('BV1C7h16jEHJ');
   await page.reload();
   assert.ok(await page.locator('#bv1c7h16jehj').isVisible());
@@ -59,7 +61,7 @@ try{
   assert.ok(await page.locator('#resource-types').isHidden());
   assert.equal(new URL(page.url()).searchParams.has('type'),false);
   await page.locator('#resource-search').fill('no-such-work-xyz');assert.ok(await page.locator('#resource-empty').isVisible());
-  await page.locator('#resource-reset').click();assert.equal(await page.locator('[data-resource-category]:visible').count(),registry.records.length+14);
+  await page.locator('#resource-reset').click();assert.equal(await page.locator('[data-resource-category]:visible').count(),registry.records.length+leads.length);
   await page.goto(`${origin}/${lang}/resources/?category=unknown&q=BV1C7h16jEHJ`);
   assert.equal(await page.locator('[data-resource-category]:visible').count(),1);
   assert.ok(await page.locator('#bv1c7h16jehj').isVisible());

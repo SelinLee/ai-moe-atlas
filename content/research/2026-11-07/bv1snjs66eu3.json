@@ -1,0 +1,35 @@
+{
+  "url": "https://www.bilibili.com/video/BV1SnJS66EU3/",
+  "publisher": "Kanasuke_",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SnJS66EU3",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:16:27.660Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1SnJS66EU3",
+    "title": "大肥鱼：我不饿（尾巴不这么想） | 日常11",
+    "owner": {
+      "name": "Kanasuke_",
+      "mid": 3546761083751172
+    },
+    "pubdate": 1792107231
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "uploader-profile",
+      "title": "这个刀子真甜 · Bilibili",
+      "url": "https://space.bilibili.com/23315338"
+    }
+  ]
+}

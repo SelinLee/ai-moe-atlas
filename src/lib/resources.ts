@@ -40,12 +40,7 @@ const sourceRecords:Resource[]=leads.map(l=>({
   summary:l.note,rights:{zh:'按原作逐件使用条件核对；已有收录状态详见来源档案。',en:'Check artwork-specific terms at the original. Existing collection status is documented in the source archive.',ja:'原作の作品別利用条件を確認してください。収録状況は既存の出典記録を参照。'},
   publicationDate:null,relations:[],
 }));
-const projectIds=['openpet-deepseek','clawd-desktop','dayu-whale'];
-const projects:Resource[]=projectIds.map(id=>{
-  const c=characters.find(c=>c.id===id)!;
-  return {id:id==='openpet-deepseek'?'openpet-project':id,category:'interactive',title:c.name,url:c.source.replace(/\/tree\/main\/deepseek$/,''),publisher:c.author,summary:c.description,rights:c.provenanceNote,publicationDate:null,relations:[]};
-});
-export const resources:Resource[]=[...external,...projects,...sourceRecords];
+export const resources:Resource[]=[...external,...sourceRecords];
 export const directoryCategories=['animation','interactive','sources'] as const;
 export const animations=resources.filter(r=>r.category==='animation').sort(byCumulativeLikes);
 export const rankedAnimations=animations.filter(r=>r.likes);

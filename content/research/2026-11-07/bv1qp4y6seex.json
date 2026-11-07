@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Qp4Y6SEex/",
+  "publisher": "-闪电提丰批-",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Qp4Y6SEex",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:16:28.182Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1Qp4Y6SEex",
+    "title": "【AI机娘】豆包机娘变身SEED魔法少女",
+    "owner": {
+      "name": "-闪电提丰批-",
+      "mid": 4922745
+    },
+    "pubdate": 1793902651
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "机娘设定 · 当各个 AI 大模型变为机娘",
+      "url": "https://www.bilibili.com/video/BV1eix26sE59/"
+    }
+  ]
+}

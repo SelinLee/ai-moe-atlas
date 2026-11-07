@@ -26,9 +26,9 @@
     <td width="33%" valign="top"><a href="#references"><strong>🧸 三面図と生成派生資料</strong></a><br><strong>20</strong> 枚<br><sub>ちびキャラ三面図・資料・落書きテンプレート</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><a href="#animations"><strong>🎬 アニメ・動画二次創作</strong></a><br><strong>85</strong> 件<br><sub>OP・MV・短編・ダンス・コメント作品</sub></td>
-    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 デスクトップペット</strong></a><br><strong>19</strong> プロジェクト<br><sub>デスクトップキャラ・状態アニメ・出典</sub></td>
-    <td width="33%" valign="top"><a href="#sources"><strong>📚 作者の作品と出典</strong></a><br><strong>32</strong> 件<br><sub>作者作品集・声明・確認待ちの手がかり</sub></td>
+    <td width="33%" valign="top"><a href="#animations"><strong>🎬 アニメ・動画二次創作</strong></a><br><strong>93</strong> 件<br><sub>OP・MV・短編・ダンス・コメント作品</sub></td>
+    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 デスクトップペット</strong></a><br><strong>20</strong> プロジェクト<br><sub>デスクトップキャラ・状態アニメ・出典</sub></td>
+    <td width="33%" valign="top"><a href="#sources"><strong>📚 作者の作品と出典</strong></a><br><strong>34</strong> 件<br><sub>作者作品集・声明・確認待ちの手がかり</sub></td>
   </tr>
 </table>
 
@@ -66,22 +66,22 @@ AI 製品12種からキャラクター、作者、原作を探せます。
 
 Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日と BV ID の順。各数値に公式リンクと観測日（北京時間）を掲載。
 
-[オンラインで全順位を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation) · [いいね数の観測記録](content/research/2026-11-07/bilibili-cumulative-likes-types.json)
+[オンラインで全順位を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation) · [いいね数の観測記録](content/research/2026-11-07/bilibili-cumulative-likes-provenance.json)
 
 [MV を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation&type=mv) · [物語の短編を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation&type=story) · [ダンスを見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation&type=dance)
 
 | 順位 | 作品 | 投稿者 | 累計いいね（観測日） |
 | ---: | --- | --- | ---: |
-| 1 | [大きな魚が歌う「人是猫」拡張版](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [433,557](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) · 2026-11-07 |
-| 2 | [大きな魚が歌う「人是猫」完全版](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [369,858](https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7) · 2026-11-07 |
-| 3 | [大きな魚、なぜClaudeの服を着ているの？](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | [299,247](https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV) · 2026-11-07 |
-| 4 | [新宿決戦 · DeepSeek 娘対豆包](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [248,955](https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz) · 2026-11-07 |
-| 5 | [ナイロンと豆包「Trouble Maker」· トークン切れ](https://www.bilibili.com/video/BV1stsZ6iESz/) | 青时晚 | [203,149](https://api.bilibili.com/x/web-interface/view?bvid=BV1stsZ6iESz) · 2026-11-07 |
-| 6 | [新キャラクター：大きな魚](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | [195,212](https://api.bilibili.com/x/web-interface/view?bvid=BV1gVHA6mEbS) · 2026-11-07 |
-| 7 | [大きな魚 · 洗い桶が爆発](https://www.bilibili.com/video/BV15X3n6mEWy/) | 蒙德砍壬 | [194,149](https://api.bilibili.com/x/web-interface/view?bvid=BV15X3n6mEWy) · 2026-11-07 |
-| 8 | [Day 0 · DeepSeek クジラ娘がアカウントを引き継ぐ](https://www.bilibili.com/video/BV1pGnn67EC2/) | DeepSeek鲸鱼娘在运营 | [186,633](https://api.bilibili.com/x/web-interface/view?bvid=BV1pGnn67EC2) · 2026-11-07 |
-| 9 | [大きな魚：自由のアメリクジラ](https://www.bilibili.com/video/BV1YdxR6CE79/) | 真誠最高 | [160,711](https://api.bilibili.com/x/web-interface/view?bvid=BV1YdxR6CE79) · 2026-11-07 |
-| 10 | [おやすみ、小さな魚](https://www.bilibili.com/video/BV12xxX6xE5h/) | Dariean | [152,574](https://api.bilibili.com/x/web-interface/view?bvid=BV12xxX6xE5h) · 2026-11-07 |
+| 1 | [大きな魚が歌う「人是猫」拡張版](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [433,779](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) · 2026-11-07 |
+| 2 | [大きな魚が歌う「人是猫」完全版](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [369,887](https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7) · 2026-11-07 |
+| 3 | [大きな魚、なぜClaudeの服を着ているの？](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | [299,320](https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV) · 2026-11-07 |
+| 4 | [新宿決戦 · DeepSeek 娘対豆包](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [248,976](https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz) · 2026-11-07 |
+| 5 | [ナイロンと豆包「Trouble Maker」· トークン切れ](https://www.bilibili.com/video/BV1stsZ6iESz/) | 青时晚 | [203,309](https://api.bilibili.com/x/web-interface/view?bvid=BV1stsZ6iESz) · 2026-11-07 |
+| 6 | [新キャラクター：大きな魚](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | [195,249](https://api.bilibili.com/x/web-interface/view?bvid=BV1gVHA6mEbS) · 2026-11-07 |
+| 7 | [大きな魚 · 洗い桶が爆発](https://www.bilibili.com/video/BV15X3n6mEWy/) | 蒙德砍壬 | [194,182](https://api.bilibili.com/x/web-interface/view?bvid=BV15X3n6mEWy) · 2026-11-07 |
+| 8 | [Day 0 · DeepSeek クジラ娘がアカウントを引き継ぐ](https://www.bilibili.com/video/BV1pGnn67EC2/) | DeepSeek鲸鱼娘在运营 | [186,636](https://api.bilibili.com/x/web-interface/view?bvid=BV1pGnn67EC2) · 2026-11-07 |
+| 9 | [大きな魚：自由のアメリクジラ](https://www.bilibili.com/video/BV1YdxR6CE79/) | 真誠最高 | [161,137](https://api.bilibili.com/x/web-interface/view?bvid=BV1YdxR6CE79) · 2026-11-07 |
+| 10 | [おやすみ、小さな魚](https://www.bilibili.com/video/BV12xxX6xE5h/) | Dariean | [152,894](https://api.bilibili.com/x/web-interface/view?bvid=BV12xxX6xE5h) · 2026-11-07 |
 
 <!-- animation-ranking:end -->
 
@@ -91,9 +91,9 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 
 | プロジェクト | 内容 | 投稿者 |
 | --- | --- | --- |
-| [OpenPet · AI Girls](https://github.com/AwesomeHou/openpet-ai-girls) | 複数の AI キャラクターのペット素材 | AwesomeHou |
-| [Clawd](https://github.com/KebeliSamet0/clawd) | Claude のドット絵ペット | KebeliSamet0 |
-| [Codex DeepSeek Pet](https://github.com/YunYueSama/codex-deepseek-pet) | コミュニティのクジラ娘ペット。参照元は確認待ち | YunYueSama |
+| [OpenPet · AI Girls](https://github.com/AwesomeHou/openpet-ai-girls/blob/72677712a7991b32f87c219dd8a6d86e5cc4f672/README.zh-CN.md) | AwesomeHou が公開した5種類の AI 擬人化ペット素材。OpenPet と Codex ペット形式に対応し、製品名・ロゴ・ブランドの印象を基にした二次創作と説明。 | AwesomeHou |
+| [Clawd · Claude のドット絵ペット](https://github.com/KebeliSamet0/clawd/blob/ba50a8053e2c6e46211fcf4433ba224af0fa95ad/README.md) | KebeliSamet0 が公開した Windows のドット絵ペット。説明に入力、組み立て、ジャグリング、喜び、睡眠の動作を掲載。 | KebeliSamet0 |
+| [Codex DeepSeek Pet · 大きな魚のペット](https://github.com/YunYueSama/codex-deepseek-pet/blob/7661c8b304c5400701f91da01b1a643a207331de/README.md) | YunYueSama の独立ペット。Codex 用外観パックを出力でき、固定版はキャラクター設定、生成素材、第三者の参考画像を区別。 | YunYueSama |
 | [CrossPet](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | AI 製品と作業状態に合わせて姿と動作を変更 | lokicorvus / CrossPet contributors |
 | [深深デスクトップペット](https://github.com/schrieeeffer/shenshen-codex-pet/blob/2dc1d0e55706dec0d28d6f41bf5052fea2135b71/README.md) | Windows 用のデスクトップペット。Codex 用のカスタム版も提供。 | schrieeeffer |
 | [DeskLLMPet · 大きな魚のデスクトップペット](https://github.com/isKage/desk-llm-pet/blob/63ba636e7f504e1c0705bc0215e6408aa2988478/README.md) | 会話、残高表示、プラグインに対応する大きな魚のデスクトップペット。 | isKage |
@@ -110,6 +110,7 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 | [Desktop Companion · クジラ娘 Live2D ペット](https://github.com/cashm6430-gif/Desktop-Companion/blob/67c39ef6f50e9bdd744e32527696ab82ad0def1a/README.md) | Codex や Claude などの状態に反応する Windows Live2D ペット。キャラクター美術とモデルは作者自作と記載。 | cashm6430-gif |
 | [星語 · Gemini 猫娘デスクトップペット](https://github.com/Monokumakuki/Antigravity-Star-Suite/blob/b3735d17af22fe78f61d74a5c688d46043c1d99d/README.md) | Windows 向けの Antigravity ペットとスキン。素材文書は Gemini 猫娘の参考元と AI 支援の立ち絵・壁紙を区別。 | Monokumakuki |
 | [デスクトップ大きな魚 · dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md) | PC2005-cloud/dsh-pet のクロスプラットフォーム版。第三者素材の説明はクジラ娘アニメーションの上流を個別に記載。 | MerZlin |
+| [DSH Desktop Petbox · Live2D ペット外枠](https://github.com/HoppoChan0721/dsh-desktop-petbox/blob/f763fd799cab1ce49886355299f2c2dffbb7e37d/README.md) | HoppoChan0721 のデスクトップペット外枠。鯨語のステージ・動作システムと連携。Live2D モデルとランタイムはそれぞれの配布元から取得。 | HoppoChan0721 |
 
 出典へのリンクです。画像には各原作の条件が適用され、コードのライセンスはキャラクター画像を自動的には許諾しません。
 
@@ -147,11 +148,14 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 - [神宫凉子 · DeepSeek-chan Live2D 作者配布](https://www.bilibili.com/video/BV1KmxY66EZ3/) · 神宫凉子 による Live2D・PSD 配布。イラスト、モデリング、動画編集、上流のキャラクター原案を個別に記載。 作者投稿はモデルを使った二次創作・配信を認め、同梱の利用規約を確認するよう案内。規約全文は独立確認待ち。
 - [灿灿同学 · 動画のキャラクター作品集](https://www.bilibili.com/opus/1259662694779191301) · 投稿者はキャラクター名11件を掲載。原案の多くを ZipZipPipe と記載し、掲載画像は GPT による派生と説明。 作品集は全体の出典を記載。キャラクターごとの出典と画像の再配布条件は確認待ち。
 - [莫末陌寞 · Gemini チャットスタンプの原投稿](https://www.bilibili.com/video/BV1F34G6BEVA/) · Gemini チャットスタンプの作者投稿。題名に64点と記載し、デザインは ZipZipPipe を出典としている。 投稿は入手先を案内。独立した再配布とスタンプごとの条件は確認待ち。
+- [-闪电提丰批- · AI メカ娘の原案](https://www.bilibili.com/video/BV1eix26sE59/) · AI メカ娘の原投稿。上善无形 と ZipZipPipe をデザイン資料とし、作者画像の入手先を案内。 投稿者は商用利用を明確に禁止。サイトをまたぐ再配布と画像ごとの条件は確認待ち。
+- [hihihihi202 · AI 娘のセルルック3D制作デモ](https://www.bilibili.com/video/BV1pjnp6pEqG/) · AI 擬人化キャラクター10人のセルルック3Dデモ。生成・モデル調整・描画の流れと制作方法を掲載。 制作資料への案内あり。モデルとテクスチャーの個別再配布条件は確認待ち。
 
 ## 収録の経緯と今後の調査項目
 
 | 時期・状況 | 内容 |
 | --- | --- |
+| 2026-11-07 · ペットの出典と作者投稿 | 二次創作8件、デスクトップペット1件、作者出典2件を追加。既存ペット3件の固定版資料と素材条件を確認。全93件の公式累計いいね数を確認。 |
 | 2026-11-07 · 作品タイプの絞り込みと出典 | 二次創作11件、デスクトップペット2件、作者の出典2件を追加。全85件の公式累計いいね数を確認。 |
 | 2026-11-07 · ランキングと Live2D の出典 | 二次創作11件、デスクトップペット3件、作者の原投稿1件を追加。全74件の公式累計いいね数を確認。 |
 | 2026-11-07 · キャラクターと対話作品を追加 | 二次創作14件、対話プロジェクト3件、作者出典2件を追加。全63件の公式累計いいね数を確認。 |
