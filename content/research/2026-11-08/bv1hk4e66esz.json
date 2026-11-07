@@ -1,0 +1,29 @@
+{
+  "url": "https://www.bilibili.com/video/BV1hk4E66EsZ/",
+  "publisher": "A15-Crusader",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hk4E66EsZ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:01:06.273Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1hk4E66EsZ",
+    "title": "[GLM]小狐狸躲在冰箱不出来",
+    "owner": {
+      "name": "A15-Crusader",
+      "mid": 326791185
+    },
+    "pubdate": 1794043556,
+    "descriptionSha256": "c83f057080cbb5d60729a79cc84f509c45706120ad692e80fb39c379942052a8",
+    "descriptionEvidence": [
+      "创作来源：BV1KQun6hEXU"
+    ]
+  },
+  "credits": [
+    {
+      "role": "inspiration",
+      "title": "Bilibili · BV1KQun6hEXU",
+      "url": "https://www.bilibili.com/video/BV1KQun6hEXU/"
+    }
+  ]
+}

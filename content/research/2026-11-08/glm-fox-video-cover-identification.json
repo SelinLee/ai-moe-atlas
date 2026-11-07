@@ -1,0 +1,43 @@
+{
+  "url": "https://www.bilibili.com/video/BV1iDeQ6fEFi/",
+  "publisher": "宝藏小树林",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1iDeQ6fEFi",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:01:07.435Z",
+  "scope": "Official video metadata and the public cover were checked. The visible eye mask, Z charm and twin bells identify this video depiction. No original artist was confirmed for these elements.",
+  "metadata": {
+    "bvid": "BV1iDeQ6fEFi",
+    "title": "GLM小狐娘用zcode偷传用户数据",
+    "owner": {
+      "name": "宝藏小树林",
+      "mid": 277780873
+    },
+    "pubdate": 1789781483
+  },
+  "credits": [],
+  "coverObservation": {
+    "bvid": "BV1iDeQ6fEFi",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1iDeQ6fEFi",
+    "httpStatus": 200,
+    "code": 0,
+    "cover": "http://i0.hdslb.com/bfs/archive/71d6c6e3e4551a78705bc77f03a8de82dde0aa6b.jpg",
+    "coverHttpStatus": 200,
+    "accessedAt": "2026-11-07T16:59:37.211Z",
+    "sha256": "de7582efcdff886c8de3c8042f7c3ac2cb2e68d7d36af49ade7d245fc629ceee",
+    "bytes": 323947,
+    "width": 2560,
+    "height": 1680,
+    "features": [
+      "Forehead sleep mask",
+      "Z charm",
+      "Twin bells"
+    ],
+    "finding": "Visual similarity to other GLM fox portrayals does not establish creator identity."
+  },
+  "priorEvidence": {
+    "path": "content/research/2026-11-08/glm-fox-video-source-followup.json",
+    "sha256": "dcc8353c14799777301a904e9b0bdb0290345fa472a68e89e9815193acd0732f",
+    "kind": "browser-metadata-extract"
+  }
+}

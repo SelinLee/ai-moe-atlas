@@ -1,0 +1,23 @@
+{
+  "url": "https://www.bilibili.com/video/BV1RD476LEux/",
+  "publisher": "未闻花名saki_offical",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RD476LEux",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:01:06.891Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1RD476LEux",
+    "title": "【Claude × DeepSeek 二创】《把明天跑通》｜从敌人到朋友，只差一次开口",
+    "owner": {
+      "name": "未闻花名saki_offical",
+      "mid": 21510917
+    },
+    "pubdate": 1794018439,
+    "descriptionSha256": "b3cb3f58e7b0274f6ec97967da52b97ffd2185a26062092afa8ad7f7b7fc822b",
+    "descriptionEvidence": [
+      "脚本 / 歌词 / 分镜 / 代码 / 剪辑：本片作者"
+    ]
+  },
+  "credits": []
+}

@@ -1,0 +1,32 @@
+{
+  "url": "https://github.com/ClutchBear/workbuddy-whale-musume/blob/b33d2e4a9112bae96c27590455815f60a9ffc6ec/README.md",
+  "publisher": "ClutchBear",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T17:02:04.029Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/ClutchBear/workbuddy-whale-musume/blob/b33d2e4a9112bae96c27590455815f60a9ffc6ec/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/ClutchBear/workbuddy-whale-musume/b33d2e4a9112bae96c27590455815f60a9ffc6ec/README.md",
+    "commit": "b33d2e4a9112bae96c27590455815f60a9ffc6ec",
+    "sourceSha256": "f3ed9389326329b6d1fd6d8f491ad69cc783d6094bcb8df87bf88d020850a423"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/ClutchBear/workbuddy-whale-musume/blob/b33d2e4a9112bae96c27590455815f60a9ffc6ec/THIRD-PARTY-LICENSES.md",
+      "rawUrl": "https://raw.githubusercontent.com/ClutchBear/workbuddy-whale-musume/b33d2e4a9112bae96c27590455815f60a9ffc6ec/THIRD-PARTY-LICENSES.md",
+      "commit": "b33d2e4a9112bae96c27590455815f60a9ffc6ec",
+      "sourceSha256": "b7e6eee22bd2e45a56ae271ce39cc6faebea3009d7f06af743ad44783a143694"
+    },
+    {
+      "url": "https://github.com/ClutchBear/workbuddy-whale-musume/blob/b33d2e4a9112bae96c27590455815f60a9ffc6ec/LICENSE-upstream",
+      "rawUrl": "https://raw.githubusercontent.com/ClutchBear/workbuddy-whale-musume/b33d2e4a9112bae96c27590455815f60a9ffc6ec/LICENSE-upstream",
+      "commit": "b33d2e4a9112bae96c27590455815f60a9ffc6ec",
+      "sourceSha256": "172d20f42a1a3f34c05e1165c518f93c168d8a346c6b34066b39c1a4b37655fc"
+    }
+  ],
+  "findings": {
+    "upstreamPortraits": 92,
+    "upstream": "Sutera-Diffusus/dsh-whale-musume",
+    "upstreamNotice": "MIT per project’s third-party inventory"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://www.bilibili.com/video/BV1HN4H6YEUA/",
+  "publisher": "GLM小狐娘运营呀",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HN4H6YEUA",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:01:05.551Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1HN4H6YEUA",
+    "title": "【DAY17】本狐才、才没有和 KIMI 在约会呢！",
+    "owner": {
+      "name": "GLM小狐娘运营呀",
+      "mid": 3747573313572699
+    },
+    "pubdate": 1794051558,
+    "descriptionSha256": "8afb169a4c6e38714c9564d1cb3ef0a45c1859fb8367182cf071ec7162f3b627",
+    "descriptionEvidence": [
+      "KIMI娘形象来源于某红薯，作者哈基尹"
+    ]
+  },
+  "credits": []
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://www.bilibili.com/video/BV1nT4H6wER6/",
+  "publisher": "摄影菌郭滚滚",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nT4H6wER6",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:01:06.896Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1nT4H6wER6",
+    "title": "大肥鱼【漫长代码遇见你】｜Q版动画MV，虚拟世界的她来见你了",
+    "owner": {
+      "name": "摄影菌郭滚滚",
+      "mid": 8453380
+    },
+    "pubdate": 1794051091,
+    "descriptionSha256": "0102557b58aa1a4e5c13b298a21fb7600ebb9c72a433a2bef59d8bdac884313d",
+    "descriptionEvidence": [
+      "画面为 AI 辅助生成的 Q 版动画"
+    ]
+  },
+  "credits": []
+}

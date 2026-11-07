@@ -26,9 +26,9 @@
     <td width="33%" valign="top"><a href="#references"><strong>🧸 三视图与派生参考</strong></a><br><strong>20</strong> 张参考图<br><sub>Q 版三视图、参考图与涂鸦模板</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><a href="#animations"><strong>🎬 动画与视频二创</strong></a><br><strong>177</strong> 条记录<br><sub>OP、MV、剧情、舞蹈与二创点评</sub></td>
-    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 桌宠与交互项目</strong></a><br><strong>40</strong> 个项目<br><sub>桌面角色、状态动画、同人游戏与制作工具</sub></td>
-    <td width="33%" valign="top"><a href="#sources"><strong>📚 作者作品与出处</strong></a><br><strong>47</strong> 条来源<br><sub>原作图集、作者声明与待核线索</sub></td>
+    <td width="33%" valign="top"><a href="#animations"><strong>🎬 动画与视频二创</strong></a><br><strong>188</strong> 条记录<br><sub>OP、MV、剧情、舞蹈与二创点评</sub></td>
+    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 桌宠与交互项目</strong></a><br><strong>43</strong> 个项目<br><sub>桌面角色、状态动画、同人游戏与制作工具</sub></td>
+    <td width="33%" valign="top"><a href="#sources"><strong>📚 作者作品与出处</strong></a><br><strong>48</strong> 条来源<br><sub>原作图集、作者声明与待核线索</sub></td>
   </tr>
 </table>
 
@@ -93,31 +93,31 @@
 <p>
   <a href="https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1xcai6ae9g"><img src="public/category-previews/misaka-dsh-whale/preview.webp" width="96" alt="《world.execute(me)》制作素材 · 鲸鱼娘立绘" title="《world.execute(me)》制作素材 · 鲸鱼娘立绘"></a>
   <a href="https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1lbnb6aerv"><img src="public/generated/rough-doodle-v1/claude/preview.webp" width="96" alt="Claude · 大肥鱼换装短片" title="Claude · 大肥鱼换装短片"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1qene6vex3"><img src="public/generated/rough-doodle-v1/openai/preview.webp" width="96" alt="GPT · 龙娘同人 MV" title="GPT · 龙娘同人 MV"></a>
+  <a href="https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1nfag6xehq"><img src="public/collected/school-op-copilot/portrait/preview.webp" width="96" alt="《败犬 AI 太多了！》· Copilot 校园设定" title="《败犬 AI 太多了！》· Copilot 校园设定"></a>
 </p>
 
-<sub>首图为 PV 制作素材，另两张为角色参考。点图看作品。<a href="RIGHTS.md#category-preview-artwork">署名与许可</a></sub>
+<sub>从左到右是《world.execute(me)》制作立绘、Claude 角色参考、《败犬 AI 太多了！》的 Copilot 设定。点图看作品。<a href="RIGHTS.md#category-preview-artwork">鲸鱼娘立绘许可</a> · <a href="RIGHTS.md#copilot--ai-school-op">Copilot 设定许可</a></sub>
 
 <!-- animation-ranking:start -->
 
 这里列出 B 站官方累计点赞前十名。同赞按发布日期、BV 号排序。每条数据附官方链接和观测日（北京时间）。
 
-[打开在线完整榜单](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation) · [点赞观测证据](content/research/2026-11-08/bilibili-cumulative-likes-credits-and-copilot.json)
+[打开在线完整榜单](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation) · [点赞观测证据](content/research/2026-11-08/bilibili-cumulative-likes-november-glm-and-live2d.json)
 
 [看 MV](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation&type=mv) · [看剧情短片](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation&type=story) · [看舞蹈](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation&type=dance) · [待核点赞的候选](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#pending-animation-evidence)
 
 | 排名 | 作品 | 发布者 | 累计点赞（观测日） |
 | ---: | --- | --- | ---: |
-| 1 | [大肥鱼翻唱《人是猫》真完整版](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [434,558](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) · 2026-11-08 |
-| 2 | [大肥鱼翻唱《人是猫》完整版](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [370,020](https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7) · 2026-11-08 |
-| 3 | [大肥鱼，你怎么穿着 Claude 的衣服](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | [299,636](https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV) · 2026-11-08 |
-| 4 | [新宿决战 · DeepSeek 娘对豆包](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [249,034](https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz) · 2026-11-08 |
-| 5 | [奶龙与豆包《Trouble Maker》· Token 没啦](https://www.bilibili.com/video/BV1stsZ6iESz/) | 青时晚 | [203,861](https://api.bilibili.com/x/web-interface/view?bvid=BV1stsZ6iESz) · 2026-11-08 |
-| 6 | [新角色：大肥鱼](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | [195,334](https://api.bilibili.com/x/web-interface/view?bvid=BV1gVHA6mEbS) · 2026-11-08 |
-| 7 | [大肥鱼 · 炸盆子](https://www.bilibili.com/video/BV15X3n6mEWy/) | 蒙德砍壬 | [194,300](https://api.bilibili.com/x/web-interface/view?bvid=BV15X3n6mEWy) · 2026-11-08 |
-| 8 | [Day 0 · DeepSeek 鲸鱼娘接管账号](https://www.bilibili.com/video/BV1pGnn67EC2/) | DeepSeek鲸鱼娘在运营 | [186,656](https://api.bilibili.com/x/web-interface/view?bvid=BV1pGnn67EC2) · 2026-11-08 |
-| 9 | [大肥鱼：自由美利鲸](https://www.bilibili.com/video/BV1YdxR6CE79/) | 真誠最高 | [162,814](https://api.bilibili.com/x/web-interface/view?bvid=BV1YdxR6CE79) · 2026-11-08 |
-| 10 | [晚安小肥鱼](https://www.bilibili.com/video/BV12xxX6xE5h/) | Dariean | [154,442](https://api.bilibili.com/x/web-interface/view?bvid=BV12xxX6xE5h) · 2026-11-08 |
+| 1 | [大肥鱼翻唱《人是猫》真完整版](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [434,662](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) · 2026-11-08 |
+| 2 | [大肥鱼翻唱《人是猫》完整版](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [370,041](https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7) · 2026-11-08 |
+| 3 | [大肥鱼，你怎么穿着 Claude 的衣服](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | [299,681](https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV) · 2026-11-08 |
+| 4 | [新宿决战 · DeepSeek 娘对豆包](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [249,042](https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz) · 2026-11-08 |
+| 5 | [奶龙与豆包《Trouble Maker》· Token 没啦](https://www.bilibili.com/video/BV1stsZ6iESz/) | 青时晚 | [203,924](https://api.bilibili.com/x/web-interface/view?bvid=BV1stsZ6iESz) · 2026-11-08 |
+| 6 | [新角色：大肥鱼](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | [195,350](https://api.bilibili.com/x/web-interface/view?bvid=BV1gVHA6mEbS) · 2026-11-08 |
+| 7 | [大肥鱼 · 炸盆子](https://www.bilibili.com/video/BV15X3n6mEWy/) | 蒙德砍壬 | [194,313](https://api.bilibili.com/x/web-interface/view?bvid=BV15X3n6mEWy) · 2026-11-08 |
+| 8 | [Day 0 · DeepSeek 鲸鱼娘接管账号](https://www.bilibili.com/video/BV1pGnn67EC2/) | DeepSeek鲸鱼娘在运营 | [186,659](https://api.bilibili.com/x/web-interface/view?bvid=BV1pGnn67EC2) · 2026-11-08 |
+| 9 | [大肥鱼：自由美利鲸](https://www.bilibili.com/video/BV1YdxR6CE79/) | 真誠最高 | [163,031](https://api.bilibili.com/x/web-interface/view?bvid=BV1YdxR6CE79) · 2026-11-08 |
+| 10 | [晚安小肥鱼](https://www.bilibili.com/video/BV12xxX6xE5h/) | Dariean | [154,680](https://api.bilibili.com/x/web-interface/view?bvid=BV12xxX6xE5h) · 2026-11-08 |
 
 <!-- animation-ranking:end -->
 
@@ -128,11 +128,11 @@
 <!-- category-preview:desktop-pets -->
 <p>
   <a href="https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#crosspet"><img src="public/category-previews/crosspet-whale/preview.webp" width="96" alt="CrossPet 项目实图 · 鲸鱼娘待机" title="CrossPet 项目实图 · 鲸鱼娘待机"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#antigravity-star-suite"><img src="public/generated/ai-models-v5/gemini-preview.webp" width="96" alt="Gemini · 星语挂件项目" title="Gemini · 星语挂件项目"></a>
+  <a href="https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#deep-whale-day-night"><img src="public/category-previews/whale-night-companion/preview.webp" width="96" alt="昼夜工坊 · 鲸鱼娘夜间桌宠" title="昼夜工坊 · 鲸鱼娘夜间桌宠"></a>
   <a href="https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#gpt-niang-usage-widget"><img src="public/generated/ai-models-v5/openai-preview.webp" width="96" alt="GPT · 龙娘用量挂件项目" title="GPT · 龙娘用量挂件项目"></a>
 </p>
 
-<sub>首图为 CrossPet 待机素材，另两张为角色参考。点图看项目。<a href="RIGHTS.md#category-preview-artwork">署名与许可</a></sub>
+<sub>前两张为 CrossPet 待机和昼夜工坊的夜间桌宠素材，末张为角色参考。点图看项目。<a href="RIGHTS.md#category-preview-artwork">署名与许可</a></sub>
 
 | 项目 | 内容 | 发布者 |
 | --- | --- | --- |
@@ -176,6 +176,9 @@
 | [DSH Whale Musume · 鲸鱼娘桌宠](https://github.com/Sutera-Diffusus/dsh-whale-musume/blob/df31dd9c3e8cd8d7b371930deb928bba6b1988c6/README.md) | Sutera-Diffusus 的鲸鱼娘桌宠，可按任务状态切换立绘。项目将立绘与表现层主要实现署名给 SuteraWu。 | Sutera-Diffusus |
 | [DSH Whale Pet · 语音桌宠](https://github.com/aceice01/dsh-whale-pet/blob/18fec904ec3b4fd3958b6fb8c2fa9c209679328f/README.md) | aceice01 发布的 DSH 鲸鱼娘桌宠。说明区分动作素材的上游与预合成语音的来源。 | aceice01 |
 | [鲸鱼娘 · DSH 网页语音浮层](https://github.com/zuishi2006-pixel/dsh-whale-pet/blob/89e06e73abcb2dbc8e846b449ded33d4970a1173/README.md) | zuishi2006-pixel 发布的鲸鱼娘网页插件，按工作状态换图并播语音。第三方声明逐项列出立绘和语音上游。 | zuishi2006-pixel |
+| [DSH 鲸鱼娘 · 氵六青 Live2D 版](https://github.com/Andersen216/dsh-whale-girl-live2d/blob/f977bef508690e75ba6535cd8f4ce18e7f6ba9b0/README.md) | Andersen216 的桌宠插件，逐项署名上善无形的原型、ZipZipPipe 的女仆设计和氵六青的模型绑定。 | Andersen216 |
+| [Deep Whale Day & Night · 昼夜工坊](https://github.com/GGBond2424648901/deep-whale-day-night-theme/blob/3f6c4f14716d1e500f585be0c0d3c139c7a8a90b/README.md) | 鲸鱼娘昼夜主题包含两套场景、侧栏桌宠和装饰素材，第三方声明逐级保留作者署名。 | GGBond2424648901 |
+| [WorkBuddy 鲸鱼娘 · Windows 桌宠](https://github.com/ClutchBear/workbuddy-whale-musume/blob/b33d2e4a9112bae96c27590455815f60a9ffc6ec/README.md) | ClutchBear 发布的 Windows 桌宠移植，保留 dsh-whale-musume 的立绘、成就与台词来源。 | ClutchBear |
 
 以上为来源索引；各项目美术按其原作条件核对，代码许可不自动覆盖角色图片。
 
@@ -210,7 +213,7 @@
 - [甶丶的 MiMo 立绘与三视图出处](https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/characters/mimo/README.md) · 档案把甶丶的立绘和三视图定位到同一条作者动态，并区分两张文件。
 - [ZipZipPipe · 大肥鱼玩偶与非商用声明](https://www.bilibili.com/opus/1247156596114456581) · 作者在动态重申大肥鱼形象采用 CC BY-NC-SA 4.0，并说明个人定制与销售的边界。
 - [MiMo 女仆兔娘 · 三视图投稿](https://github.com/lmy414/ai-girl-stickers/issues/69) · 此女仆装版本与甶丶的机能外套版分别记录。整理页署名 Immyxxr，投稿账号和设计作者分开处理。
-- [GLM 狐娘 · 参考视频出处](https://www.bilibili.com/video/BV1iDeQ6fEFi/) · 图鉴所用参考来自宝藏小树林的投稿。在简介和本次查到的公开回复里，未见发布者注明原设画师。原设作者和素材使用条件待核验。
+- [GLM 狐娘 · 参考视频出处](https://www.bilibili.com/video/BV1iDeQ6fEFi/) · 宝藏小树林投稿的公开封面可见眼罩、Z 字挂饰和双铃。图鉴的 GLM 狐娘差分参考此视频。原设作者和素材使用条件待核验。
 - [《Let Me Go》· 大肥鱼摸鱼歌出处](https://www.bilibili.com/video/BV1XbY66nEWr/) · 《新角色：大肥鱼》简介所列配乐。此投稿又注明其原作来自星落落_oi 的一分钟版本。
 - [木子恶魔 · 蓝色小肥鱼 VRM 原发布](https://www.aplaybox.com/details/model/ayXkRzVflmnd) · VRM Pet 3D 所用小肥鱼模型的作者发布页，注明制作人、更新记录和配布条件。
 - [yamamemo · Copilot 飞行员设定出处](https://zenn.dev/yamamemo/articles/gen-ai-personification#microsoft-copilot) · 作者原文中的常规版与 SD 版均为 512 × 768，复核文件校验值一致。作者公开发布列表中未发现另发的高清版。文章未注明适用于该作品图片的再分发许可。
@@ -237,11 +240,13 @@
 - [蓝色大肥鱼档案馆 · 表情与立绘索引](https://github.com/EDMOK/blue-fish-archive/blob/40789a1e8a641bdb00906cd8d989127e118383aa/README.md) · EDMOK 发布的社区素材索引，分别整理角色立绘、表情包与标签，并注明鲸鱼娘原型和女仆版署名。索引保留各创作者权利。逐张确认作者与使用条件后再取用。
 - [TreapGoGo · Q 版鲸鱼娘社区三视图](https://github.com/TreapGoGo/deepseek-whale-girl/blob/1a47dcdbe33beb1da1b342024675cd1bc9620ed5/README.md) · 社区项目发布的 Q 版参考三视图，固定版本文件为 1448 × 1086。另有图库逐图将该文件的出处标回 TreapGoGo。项目说明要求按文件核对设定图许可。此条提供社区参考出处，逐图再分发条件与原始 Q 版设定稿仍待核。
 - [ai-school-op · Copilot 校园版设定出处](https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/README.md) · 制作方发布的 Copilot 校园版全身设定为 1024 × 1536，并单列生成提示词与演员表。角色设定图为 CC BY-NC 4.0，原动画画面、音乐及标识各有使用条件。
+- [GLM 狐娘 · 卡牌与立绘出处](https://github.com/tingyumian662/glm-niang-kit/blob/2fc1cedd12b4e52a681e864c6d49e741fc7c2523/README.md) · GLM 娘素材指引将拟人卡牌、黑白狐耳立绘和 ZipZipPipe 署名全身图分开。已核对三个图档详情。指引的 MIT 适用于代码与文档结构。三张图的归档页均标注授权状态不明，使用条件需回原发布逐件核实。
 
 ## 收录时间线与待补项
 
 | 时间 / 状态 | 进展 |
 | --- | --- |
+| 2026-11-08 · GLM 出处与鲸鱼娘桌宠 | 新增 11 条二创、3 个交互项目和 1 条 GLM 出处，复核 GLM 狐娘视频封面。188 条入榜作品均有官方累计点赞。 |
 | 2026-11-08 · Copilot 校园版与署名搜索 | 收录 1024 × 1536 校园版原图与素材包，12 个产品均有可下载形象。新增 10 条二创、3 个桌宠和 1 条出处。177 条入榜作品均有官方累计点赞。 |
 | 2026-11-08 · Q 版参考与制作出处 | 新增 11 条二创、2 个交互项目和 1 条三视图出处。复核 Copilot 作者发布列表与两张原帖图。167 条入榜作品均有官方累计点赞。 |
 | 2026-11-08 · 待核区与更多角色 | 新增 13 条二创、4 个交互项目和 2 条出处。156 条入榜作品已核对官方累计点赞，2 条候选在网站待核区单列。 |

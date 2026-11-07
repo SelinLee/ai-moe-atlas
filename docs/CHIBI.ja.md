@@ -78,6 +78,8 @@ GPT・Gemini・Claude・Kimi・Qwen のコミュニティデザイン：ZipZipPi
 
 黒から青へ変わる長髪、狐耳と白い尾先、額のアイマスク、Z飾りと二つの鈴、白黒のメイド服。
 
+公開サムネイルでアイマスク、Z の飾り、二つの鈴を確認。[カードと立ち絵の出典](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=sources#glm-niang-kit-design-sources)も参照。動画版の原デザインの作者は確認待ち。
+
 [参照動画](https://www.bilibili.com/video/BV1iDeQ6fEFi/) · [生成プロンプト](../public/generated/super-chibi-v1/glm/prompt.txt) · [JSON](../public/generated/super-chibi-v1/glm/request.json)
 
 1536 × 1024 · SHA-256: `3d8c3ee0b420d4d5c8262dc42bf3a6282cb46816dc01a1cde4235132776d3c7e`

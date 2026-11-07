@@ -78,6 +78,8 @@ GPT、Gemini、Claude、Kimi、Qwen 的社区设计：ZipZipPipe；DeepSeek：�
 
 黑蓝长发、狐耳与白尖狐尾、额上眼罩、Z 饰与双铃、黑白女仆装。
 
+公开封面可见眼罩、Z 字挂饰和双铃。另有[卡牌与立绘出处](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=sources#glm-niang-kit-design-sources)，视频形象的原设计作者待核。
+
 [参考视频](https://www.bilibili.com/video/BV1iDeQ6fEFi/) · [生成提示词](../public/generated/super-chibi-v1/glm/prompt.txt) · [JSON](../public/generated/super-chibi-v1/glm/request.json)
 
 1536 × 1024 · SHA-256: `3d8c3ee0b420d4d5c8262dc42bf3a6282cb46816dc01a1cde4235132776d3c7e`

@@ -50,14 +50,15 @@ ai-school-op の Copilot 学園版は CC BY-NC 4.0 で公開されています�
 
 ## Category preview artwork
 
-两张鲸鱼娘分类图按 CC BY-NC-SA 4.0 作非商业展示。原设为上善无形的「溟月」，女仆版设计来自 ZipZipPipe。桌宠图为 CrossPet 重绘的待机素材，动画图为 Small-tailqwq 的立绘，由 MisakaZentai 收入 PV 制作包。图鉴保留来源文件原字节，预览图只等比缩放、补透明边距并转换编码。[CrossPet 美术声明][crosspet-art] · [PV 素材声明][misaka-art] · [文件及校验记录][preview-art]
+三张鲸鱼娘分类图按 CC BY-NC-SA 4.0 作非商业展示。上善无形创作原设「溟月」，ZipZipPipe 设计女仆版。CrossPet 重绘了待机素材。Small-tailqwq 创作的立绘由 MisakaZentai 收入 PV 制作包，另为昼夜工坊制作了生成派生的夜间桌宠图。原文件逐张留存，预览图只做等比缩放、补透明边距和转换编码。[CrossPet 美术声明][crosspet-art] · [PV 素材声明][misaka-art] · [昼夜工坊素材声明][day-night-art] · [文件及校验记录][preview-art]
 
-These two Whale Girl previews are displayed noncommercially under CC BY-NC-SA 4.0. 上善无形 created 溟月 and ZipZipPipe designed the maid version. CrossPet redrew the idle artwork. Small-tailqwq created the portrait included in MisakaZentai’s PV production files. The source bytes are preserved. The previews were proportionally resized, transparently padded and re-encoded. [CrossPet artwork terms][crosspet-art] · [PV artwork notice][misaka-art] · [File and hash records][preview-art]
+Three Whale Girl previews are displayed noncommercially under CC BY-NC-SA 4.0. 上善无形 created 溟月 and ZipZipPipe designed the maid version. CrossPet redrew the idle artwork. Small-tailqwq created the portrait included in MisakaZentai’s PV production files and made the separate AI-generated night companion for Deep Whale Day & Night. The original files are preserved. The previews were proportionally resized, transparently padded and re-encoded. [CrossPet artwork terms][crosspet-art] · [PV artwork notice][misaka-art] · [Day & Night artwork notice][day-night-art] · [File and hash records][preview-art]
 
-クジラ娘の分類画像2点は CC BY-NC-SA 4.0 に従って非営利で掲載しています。原案「溟月」は 上善无形、メイド版は ZipZipPipe。待機素材は CrossPet の描き直しで、PV 制作素材に含まれる立ち絵は Small-tailqwq 作、制作は MisakaZentai です。元のファイルを保持し、プレビューは縦横比を保った縮小、透明余白の追加、再エンコードのみ行いました。[CrossPet の美術規約][crosspet-art] · [PV の素材告知][misaka-art] · [ファイルとハッシュの記録][preview-art]
+クジラ娘の分類画像3点は CC BY-NC-SA 4.0 に従って非営利で掲載しています。原案「溟月」は 上善无形、メイド版は ZipZipPipe が制作しました。待機素材は CrossPet が描き直しました。Small-tailqwq は MisakaZentai の PV 制作素材に含まれる立ち絵と、昼夜工房の AI 生成による夜のペットを制作しました。元のファイルを保持し、プレビューは縦横比を保った縮小、透明余白の追加、再エンコードのみ行いました。[CrossPet の美術規約][crosspet-art] · [PV の素材告知][misaka-art] · [昼夜工房の素材告知][day-night-art] · [ファイルとハッシュの記録][preview-art]
 
 [crosspet-art]: https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/LICENSE.md
 [misaka-art]: https://github.com/MisakaZentai/world-execute-me-dsh-pv/blob/a598092a1b1db91fa43961a81269353d13419f6f/NOTICE.md
+[day-night-art]: https://github.com/GGBond2424648901/deep-whale-day-night-theme/blob/3f6c4f14716d1e500f585be0c0d3c139c7a8a90b/NOTICE
 [preview-art]: content/category-preview-artwork.json
 
 ## ai-models-v5 · 2026-10-08

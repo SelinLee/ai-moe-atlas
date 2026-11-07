@@ -1,0 +1,54 @@
+{
+  "url": "https://github.com/tingyumian662/glm-niang-kit/blob/2fc1cedd12b4e52a681e864c6d49e741fc7c2523/README.md",
+  "publisher": "tingyumian662",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T17:02:03.286Z",
+  "scope": "Pinned project, gallery index and license checked. The linked archive entries for three distinct GLM depictions were verified in Chrome.",
+  "pinnedDocument": {
+    "url": "https://github.com/tingyumian662/glm-niang-kit/blob/2fc1cedd12b4e52a681e864c6d49e741fc7c2523/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/tingyumian662/glm-niang-kit/2fc1cedd12b4e52a681e864c6d49e741fc7c2523/README.md",
+    "commit": "2fc1cedd12b4e52a681e864c6d49e741fc7c2523",
+    "sourceSha256": "7e710e3009b15c15288cdcade8e1c0c54174275117fd8a4096c7820383cc123f"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/tingyumian662/glm-niang-kit/blob/2fc1cedd12b4e52a681e864c6d49e741fc7c2523/gallery/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/tingyumian662/glm-niang-kit/2fc1cedd12b4e52a681e864c6d49e741fc7c2523/gallery/README.md",
+      "commit": "2fc1cedd12b4e52a681e864c6d49e741fc7c2523",
+      "sourceSha256": "df6f82d8c77ecbc5ac54c15efd9c6871f0114316395fb034fb4f8a7865f6693f"
+    },
+    {
+      "url": "https://github.com/tingyumian662/glm-niang-kit/blob/2fc1cedd12b4e52a681e864c6d49e741fc7c2523/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/tingyumian662/glm-niang-kit/2fc1cedd12b4e52a681e864c6d49e741fc7c2523/LICENSE",
+      "commit": "2fc1cedd12b4e52a681e864c6d49e741fc7c2523",
+      "sourceSha256": "6157b119abfde09c1cef890a1c4b85a60200bae38feffa3960e249d3f9ea5b8a"
+    }
+  ],
+  "archiveItems": [
+    {
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/glm202609270001.html",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-07T17:01:18.683Z",
+      "title": "《智谱 GLM 拟人卡牌》GLM娘二创插画 - 角色卡 AI娘二创 | 蓝色大肥鱼",
+      "sha256": "2fd3063acc8e83cad6ee7d7dc6868dd3d30c271f27604388e7627277651c7240"
+    },
+    {
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/glm202610120001.html",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-07T17:01:18.456Z",
+      "title": "《黑白狐耳 · GLM 娘立绘》GLM娘立绘 - 黑发 AI娘二创 | 蓝色大肥鱼",
+      "sha256": "11eb55bf8fea1b1869c42e5a2247ebc6ab0ca7fa4961e92094d99e0ec5a52383"
+    },
+    {
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/glm202610170001.html",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-07T17:01:18.635Z",
+      "title": "《GLM 娘全身立绘：狐耳狐尾与 Z 标黑书》GLM娘立绘 - 阔耳狐 AI娘二创 | 蓝色大肥鱼",
+      "sha256": "c66d723ea1296590c1b1e399960590f78d114d06be63df43ce37c5e6cac4cd21"
+    }
+  ],
+  "findings": {
+    "portraitCredits": "Archive credits ZipZipPipe for its full-body image. The card and another portrait record only image attribution, with original artists unlisted.",
+    "artworkReuse": "Archive labels all three linked items as unclear. Verify any relevant creator-original statement separately."
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://www.bilibili.com/video/BV1zUsX62EGk/",
+  "publisher": "GLM狐娘在线查案",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zUsX62EGk",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:01:06.307Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1zUsX62EGk",
+    "title": "【GLM狐娘】DAY 4 为啥我是狐狸娘？考据来了!",
+    "owner": {
+      "name": "GLM狐娘在线查案",
+      "mid": 105698442
+    },
+    "pubdate": 1793235600,
+    "descriptionSha256": "91f1f6336508ee6b0f6ebf3a0e14f7581c010ee83d42250c875fc73a0cb94115",
+    "descriptionEvidence": [
+      "形象作者：ZipZipPipe（B站号 4168597）"
+    ]
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

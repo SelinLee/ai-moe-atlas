@@ -26,9 +26,9 @@
     <td width="33%" valign="top"><a href="#references"><strong>🧸 三面図と生成派生資料</strong></a><br><strong>20</strong> 枚<br><sub>ちびキャラ三面図・資料・落書きテンプレート</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><a href="#animations"><strong>🎬 アニメ・動画二次創作</strong></a><br><strong>177</strong> 件<br><sub>OP・MV・短編・ダンス・コメント作品</sub></td>
-    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 ペット・インタラクティブ作品</strong></a><br><strong>40</strong> プロジェクト<br><sub>デスクトップキャラ、状態アニメ、二次創作ゲーム、制作ツール</sub></td>
-    <td width="33%" valign="top"><a href="#sources"><strong>📚 作者の作品と出典</strong></a><br><strong>47</strong> 件<br><sub>作者作品集・声明・確認待ちの手がかり</sub></td>
+    <td width="33%" valign="top"><a href="#animations"><strong>🎬 アニメ・動画二次創作</strong></a><br><strong>188</strong> 件<br><sub>OP・MV・短編・ダンス・コメント作品</sub></td>
+    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 ペット・インタラクティブ作品</strong></a><br><strong>43</strong> プロジェクト<br><sub>デスクトップキャラ、状態アニメ、二次創作ゲーム、制作ツール</sub></td>
+    <td width="33%" valign="top"><a href="#sources"><strong>📚 作者の作品と出典</strong></a><br><strong>48</strong> 件<br><sub>作者作品集・声明・確認待ちの手がかり</sub></td>
   </tr>
 </table>
 
@@ -93,31 +93,31 @@ AI 製品12種からキャラクター、作者、原作を探せます。
 <p>
   <a href="https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1xcai6ae9g"><img src="public/category-previews/misaka-dsh-whale/preview.webp" width="96" alt="world.execute(me) 制作素材 · クジラ娘の立ち絵" title="world.execute(me) 制作素材 · クジラ娘の立ち絵"></a>
   <a href="https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1lbnb6aerv"><img src="public/generated/rough-doodle-v1/claude/preview.webp" width="96" alt="Claude · 大きな魚の着せ替え短編" title="Claude · 大きな魚の着せ替え短編"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1qene6vex3"><img src="public/generated/rough-doodle-v1/openai/preview.webp" width="96" alt="GPT · 竜娘の二次創作 MV" title="GPT · 竜娘の二次創作 MV"></a>
+  <a href="https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1nfag6xehq"><img src="public/collected/school-op-copilot/portrait/preview.webp" width="96" alt="負けヒロイン AI が多すぎる！ · Copilot 学園版" title="負けヒロイン AI が多すぎる！ · Copilot 学園版"></a>
 </p>
 
-<sub>1枚目は PV 制作素材、残り2枚はキャラクター資料。画像から動画へ。<a href="RIGHTS.md#category-preview-artwork">クレジットとライセンス</a></sub>
+<sub>左から world.execute(me) の制作立ち絵、Claude のキャラクター資料、「負けヒロイン AI が多すぎる！」の Copilot 設定。画像から作品へ。<a href="RIGHTS.md#category-preview-artwork">クジラ娘の立ち絵の利用条件</a> · <a href="RIGHTS.md#copilot--ai-school-op">Copilot の設定画の利用条件</a></sub>
 
 <!-- animation-ranking:start -->
 
 Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日と BV ID の順。各数値に公式リンクと観測日（北京時間）を掲載。
 
-[オンラインで全順位を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation) · [いいね数の観測記録](content/research/2026-11-08/bilibili-cumulative-likes-credits-and-copilot.json)
+[オンラインで全順位を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation) · [いいね数の観測記録](content/research/2026-11-08/bilibili-cumulative-likes-november-glm-and-live2d.json)
 
 [MV を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation&type=mv) · [物語の短編を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation&type=story) · [ダンスを見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation&type=dance) · [いいね数の確認待ち候補](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#pending-animation-evidence)
 
 | 順位 | 作品 | 投稿者 | 累計いいね（観測日） |
 | ---: | --- | --- | ---: |
-| 1 | [大きな魚が歌う「人是猫」拡張版](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [434,558](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) · 2026-11-08 |
-| 2 | [大きな魚が歌う「人是猫」完全版](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [370,020](https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7) · 2026-11-08 |
-| 3 | [大きな魚、なぜClaudeの服を着ているの？](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | [299,636](https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV) · 2026-11-08 |
-| 4 | [新宿決戦 · DeepSeek 娘対豆包](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [249,034](https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz) · 2026-11-08 |
-| 5 | [ナイロンと豆包「Trouble Maker」· トークン切れ](https://www.bilibili.com/video/BV1stsZ6iESz/) | 青时晚 | [203,861](https://api.bilibili.com/x/web-interface/view?bvid=BV1stsZ6iESz) · 2026-11-08 |
-| 6 | [新キャラクター：大きな魚](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | [195,334](https://api.bilibili.com/x/web-interface/view?bvid=BV1gVHA6mEbS) · 2026-11-08 |
-| 7 | [大きな魚 · 洗い桶が爆発](https://www.bilibili.com/video/BV15X3n6mEWy/) | 蒙德砍壬 | [194,300](https://api.bilibili.com/x/web-interface/view?bvid=BV15X3n6mEWy) · 2026-11-08 |
-| 8 | [Day 0 · DeepSeek クジラ娘がアカウントを引き継ぐ](https://www.bilibili.com/video/BV1pGnn67EC2/) | DeepSeek鲸鱼娘在运营 | [186,656](https://api.bilibili.com/x/web-interface/view?bvid=BV1pGnn67EC2) · 2026-11-08 |
-| 9 | [大きな魚：自由のアメリクジラ](https://www.bilibili.com/video/BV1YdxR6CE79/) | 真誠最高 | [162,814](https://api.bilibili.com/x/web-interface/view?bvid=BV1YdxR6CE79) · 2026-11-08 |
-| 10 | [おやすみ、小さな魚](https://www.bilibili.com/video/BV12xxX6xE5h/) | Dariean | [154,442](https://api.bilibili.com/x/web-interface/view?bvid=BV12xxX6xE5h) · 2026-11-08 |
+| 1 | [大きな魚が歌う「人是猫」拡張版](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [434,662](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) · 2026-11-08 |
+| 2 | [大きな魚が歌う「人是猫」完全版](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [370,041](https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7) · 2026-11-08 |
+| 3 | [大きな魚、なぜClaudeの服を着ているの？](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | [299,681](https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV) · 2026-11-08 |
+| 4 | [新宿決戦 · DeepSeek 娘対豆包](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [249,042](https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz) · 2026-11-08 |
+| 5 | [ナイロンと豆包「Trouble Maker」· トークン切れ](https://www.bilibili.com/video/BV1stsZ6iESz/) | 青时晚 | [203,924](https://api.bilibili.com/x/web-interface/view?bvid=BV1stsZ6iESz) · 2026-11-08 |
+| 6 | [新キャラクター：大きな魚](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | [195,350](https://api.bilibili.com/x/web-interface/view?bvid=BV1gVHA6mEbS) · 2026-11-08 |
+| 7 | [大きな魚 · 洗い桶が爆発](https://www.bilibili.com/video/BV15X3n6mEWy/) | 蒙德砍壬 | [194,313](https://api.bilibili.com/x/web-interface/view?bvid=BV15X3n6mEWy) · 2026-11-08 |
+| 8 | [Day 0 · DeepSeek クジラ娘がアカウントを引き継ぐ](https://www.bilibili.com/video/BV1pGnn67EC2/) | DeepSeek鲸鱼娘在运营 | [186,659](https://api.bilibili.com/x/web-interface/view?bvid=BV1pGnn67EC2) · 2026-11-08 |
+| 9 | [大きな魚：自由のアメリクジラ](https://www.bilibili.com/video/BV1YdxR6CE79/) | 真誠最高 | [163,031](https://api.bilibili.com/x/web-interface/view?bvid=BV1YdxR6CE79) · 2026-11-08 |
+| 10 | [おやすみ、小さな魚](https://www.bilibili.com/video/BV12xxX6xE5h/) | Dariean | [154,680](https://api.bilibili.com/x/web-interface/view?bvid=BV12xxX6xE5h) · 2026-11-08 |
 
 <!-- animation-ranking:end -->
 
@@ -128,11 +128,11 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 <!-- category-preview:desktop-pets -->
 <p>
   <a href="https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#crosspet"><img src="public/category-previews/crosspet-whale/preview.webp" width="96" alt="CrossPet の実素材 · クジラ娘の待機" title="CrossPet の実素材 · クジラ娘の待機"></a>
-  <a href="https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#antigravity-star-suite"><img src="public/generated/ai-models-v5/gemini-preview.webp" width="96" alt="Gemini · 星語ウィジェット" title="Gemini · 星語ウィジェット"></a>
+  <a href="https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#deep-whale-day-night"><img src="public/category-previews/whale-night-companion/preview.webp" width="96" alt="昼夜工房 · 夜のクジラ娘ペット" title="昼夜工房 · 夜のクジラ娘ペット"></a>
   <a href="https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#gpt-niang-usage-widget"><img src="public/generated/ai-models-v5/openai-preview.webp" width="96" alt="GPT · 竜娘の使用量ウィジェット" title="GPT · 竜娘の使用量ウィジェット"></a>
 </p>
 
-<sub>1枚目は CrossPet の待機素材、残り2枚はキャラクター資料。画像から作品へ。<a href="RIGHTS.md#category-preview-artwork">クレジットとライセンス</a></sub>
+<sub>最初の2点は CrossPet の待機素材と昼夜工房の夜のペット、最後はキャラクター資料。画像から作品へ。<a href="RIGHTS.md#category-preview-artwork">クレジットとライセンス</a></sub>
 
 | プロジェクト | 内容 | 投稿者 |
 | --- | --- | --- |
@@ -176,6 +176,9 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 | [DSH Whale Musume · クジラ娘ペット](https://github.com/Sutera-Diffusus/dsh-whale-musume/blob/df31dd9c3e8cd8d7b371930deb928bba6b1988c6/README.md) | Sutera-Diffusus のクジラ娘ペット。作業状態で立ち絵が変わり、立ち絵と表現の主な実装を SuteraWu と記載。 | Sutera-Diffusus |
 | [DSH Whale Pet · 音声付きペット](https://github.com/aceice01/dsh-whale-pet/blob/18fec904ec3b4fd3958b6fb8c2fa9c209679328f/README.md) | aceice01 による DSH クジラ娘ペット。説明欄ではアニメーションと事前生成音声の出典を区別。 | aceice01 |
 | [クジラ娘 · DSH 音声付きオーバーレイ](https://github.com/zuishi2006-pixel/dsh-whale-pet/blob/89e06e73abcb2dbc8e846b449ded33d4970a1173/README.md) | zuishi2006-pixel によるブラウザー用のペット。作業状態に応じて立ち絵と音声が変わり、第三者告知に上流2件を記載。 | zuishi2006-pixel |
+| [DSH クジラ娘 · 氵六青 Live2D 版](https://github.com/Andersen216/dsh-whale-girl-live2d/blob/f977bef508690e75ba6535cd8f4ce18e7f6ba9b0/README.md) | Andersen216 によるペットプラグイン。上善无形 の原案、ZipZipPipe のメイド版、氵六青 のモデリングを個別にクレジット。 | Andersen216 |
+| [Deep Whale Day & Night · 昼夜工房](https://github.com/GGBond2424648901/deep-whale-day-night-theme/blob/3f6c4f14716d1e500f585be0c0d3c139c7a8a90b/README.md) | 昼夜の背景、サイドバーのペット、装飾素材を含むクジラ娘テーマ。第三者告知に段階ごとの作者を記載。 | GGBond2424648901 |
+| [WorkBuddy クジラ娘 · Windows ペット](https://github.com/ClutchBear/workbuddy-whale-musume/blob/b33d2e4a9112bae96c27590455815f60a9ffc6ec/README.md) | ClutchBear による Windows ペットの移植。立ち絵、実績、台詞の出典を dsh-whale-musume と記載。 | ClutchBear |
 
 出典へのリンクです。画像には各原作の条件が適用され、コードのライセンスはキャラクター画像を自動的には許諾しません。
 
@@ -210,7 +213,7 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 - [甶丶の MiMo 立ち絵・三面図の出典](https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/characters/mimo/README.md) · 立ち絵と三面図の2ファイルを同じ作者投稿にひも付けた記録。
 - [ZipZipPipe · 大きな魚のぬいぐるみと非商用声明](https://www.bilibili.com/opus/1247156596114456581) · 作者が CC BY-NC-SA 4.0 を再確認し、個人用の注文制作と販売を区別。
 - [MiMo ウサギメイド · 三面図投稿](https://github.com/lmy414/ai-girl-stickers/issues/69) · 甶丶のジャケット版とは別に記録。整理ページは Immyxxr と署名し、投稿アカウントと作者を区別。
-- [GLM の狐娘 · 参照動画の出典](https://www.bilibili.com/video/BV1iDeQ6fEFi/) · 図鑑の参照元は 宝藏小树林 の投稿。説明欄と、今回取得できた公開コメント内の投稿者の返信では、原デザインの作者を確認できませんでした。 原デザインの作者と素材の利用条件は確認待ち。
+- [GLM の狐娘 · 参照動画の出典](https://www.bilibili.com/video/BV1iDeQ6fEFi/) · 宝藏小树林 の投稿サムネイルにアイマスク、Z の飾り、二つの鈴を確認。図鑑の GLM 狐娘の差分は同動画を参照。 原デザインの作者と素材の利用条件は確認待ち。
 - [「Let Me Go」· 大きな魚の楽曲出典](https://www.bilibili.com/video/BV1XbY66nEWr/) · 「新角色：大肥鱼」の説明欄に記載された楽曲。この投稿は星落落_oi の1分版を原作として掲載。
 - [木子悪魔 · 青い小さな魚 VRM の作者公開ページ](https://www.aplaybox.com/details/model/ayXkRzVflmnd) · VRM Pet 3D に同梱される小さな魚モデルの作者公開ページ。制作者、更新履歴、配布条件を掲載。
 - [yamamemo · Copilot パイロット設定の出典](https://zenn.dev/yamamemo/articles/gen-ai-personification#microsoft-copilot) · 作者記事の通常版と SD 版はともに 512 × 768 で、以前のハッシュと一致。作者の公開記事一覧には別途公開された高解像度版を確認できませんでした。 記事にはこの画像の再配布許可が明記されていません。
@@ -237,11 +240,13 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 - [青い大きな魚の資料館 · スタンプと立ち絵](https://github.com/EDMOK/blue-fish-archive/blob/40789a1e8a641bdb00906cd8d989127e118383aa/README.md) · EDMOK が公開した資料索引。立ち絵、スタンプ、タグを区別し、クジラ娘の原案とメイド版をクレジット。 各作者の権利は個別に保持。利用時は画像ごとに作者と条件を確認。
 - [TreapGoGo · クジラ娘ちび版のコミュニティ三面図](https://github.com/TreapGoGo/deepseek-whale-girl/blob/1a47dcdbe33beb1da1b342024675cd1bc9620ed5/README.md) · コミュニティのちび版三面図。固定版ファイルは 1448 × 1086。別のギャラリーも画像別の出典に TreapGoGo を記載。 プロジェクトは設定画ごとの条件確認を案内。コミュニティ参考資料へのリンクを掲載し、画像の再配布条件と最初のちび版設定画は確認待ち。
 - [ai-school-op · Copilot 学園版の設定出典](https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/README.md) · 制作側が 1024 × 1536 の Copilot 学園版全身画を公開し、生成プロンプトと配役表を別途掲載。 設定画は CC BY-NC 4.0。原作アニメの映像、音楽、標識には別の条件が適用。
+- [GLM 狐娘 · カードと立ち絵の出典](https://github.com/tingyumian662/glm-niang-kit/blob/2fc1cedd12b4e52a681e864c6d49e741fc7c2523/README.md) · GLM 娘の資料案内は、キャラクターカード、白黒の狐耳立ち絵、ZipZipPipe 名義の全身画を区別。3件の資料ページを確認。 資料案内の MIT はコードと文書構造が対象。3件とも資料ページの許諾状態は不明で、利用条件は原公開ごとに確認。
 
 ## 収録の経緯と今後の調査項目
 
 | 時期・状況 | 内容 |
 | --- | --- |
+| 2026-11-08 · GLM の出典とクジラ娘のペット | 二次創作11件、インタラクティブ作品3件、GLM の出典1件を追加。GLM 狐娘の動画サムネイルを確認。順位付き188件の公式累計いいね数を確認。 |
 | 2026-11-08 · Copilot 学園版とクレジット検索 | 1024 × 1536 の学園版原画と素材パックを追加。12製品すべてで画像をダウンロード可能。二次創作10件、ペット3件、出典1件を追加。順位付き177件の公式累計いいね数を確認。 |
 | 2026-11-08 · ちび版資料と制作出典 | 二次創作11件、インタラクティブ作品2件、三面図の出典1件を追加。Copilot の作者の公開記事一覧と画像2点を再確認。順位付き167件の公式累計いいね数を確認。 |
 | 2026-11-08 · 確認待ち一覧とキャラクター追加 | 二次創作13件、対話作品4件、出典2件を追加。順位付き156件の公式累計いいね数を確認し、候補2件はサイトの別枠に掲載。 |

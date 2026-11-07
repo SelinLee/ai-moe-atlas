@@ -1,0 +1,23 @@
+{
+  "url": "https://www.bilibili.com/video/BV1vi4n6pEA6/",
+  "publisher": "本本皇叔",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vi4n6pEA6",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:01:06.895Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1vi4n6pEA6",
+    "title": "大肥鱼可爱捏，2D日常动画测试",
+    "owner": {
+      "name": "本本皇叔",
+      "mid": 1790305
+    },
+    "pubdate": 1794052227,
+    "descriptionSha256": "2feb509b963b3fd7cbc446ca65a40be661987313c3d88c745c7bb8a6e79c88c6",
+    "descriptionEvidence": [
+      "继续尝试用AI做日系2D日常动画"
+    ]
+  },
+  "credits": []
+}

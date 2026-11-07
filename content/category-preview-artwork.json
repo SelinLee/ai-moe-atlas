@@ -69,6 +69,40 @@
         "height": 192,
         "process": "Proportional scaling and transparent padding to 192 × 192, then WebP encoding. No cropping."
       }
+    },
+    {
+      "id": "whale-night-companion",
+      "target": "deep-whale-day-night",
+      "usage": "Night sidebar companion from Deep Whale Day & Night. Original design by 上善无形, maid design by ZipZipPipe, generated theme adaptation by Small-tailqwq (dsh-external/dsh-deep-whale).",
+      "source": {
+        "url": "https://github.com/GGBond2424648901/deep-whale-day-night-theme/blob/3f6c4f14716d1e500f585be0c0d3c139c7a8a90b/assets/deep-whale-night-companion-v1.webp",
+        "rawUrl": "https://raw.githubusercontent.com/GGBond2424648901/deep-whale-day-night-theme/3f6c4f14716d1e500f585be0c0d3c139c7a8a90b/assets/deep-whale-night-companion-v1.webp",
+        "commit": "3f6c4f14716d1e500f585be0c0d3c139c7a8a90b",
+        "path": "assets/deep-whale-night-companion-v1.webp",
+        "gitBlobSha1": "2ce300f52f41bd4bd825964d3c46406f6e3c11e3",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-07T17:07:44.548Z",
+        "sourceSha256": "250ef507e7638c1cd6c5292a5742afb6a8bba1b377687817c2210bfc6f4e64b8",
+        "bytes": 103088,
+        "width": 420,
+        "height": 418,
+        "format": "webp",
+        "hasAlpha": true
+      },
+      "terms": "https://github.com/GGBond2424648901/deep-whale-day-night-theme/blob/3f6c4f14716d1e500f585be0c0d3c139c7a8a90b/NOTICE",
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "original": {
+        "path": "category-previews/whale-night-companion/original.webp",
+        "sha256": "250ef507e7638c1cd6c5292a5742afb6a8bba1b377687817c2210bfc6f4e64b8"
+      },
+      "preview": {
+        "path": "category-previews/whale-night-companion/preview.webp",
+        "sha256": "cfefa52da33225855c4cad008c458238332addafe81a34e8c163773f69917cf4",
+        "parentSha256": "250ef507e7638c1cd6c5292a5742afb6a8bba1b377687817c2210bfc6f4e64b8",
+        "width": 192,
+        "height": 192,
+        "process": "Proportional scaling and transparent padding to 192 × 192, then WebP encoding. No cropping."
+      }
     }
   ]
 }
