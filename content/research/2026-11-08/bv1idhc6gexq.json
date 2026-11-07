@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1idHC6gEXq/",
+  "publisher": "MuoK平知音",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1idHC6gEXq",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:36:42.076Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1idHC6gEXq",
+    "title": "🐳DeepSeek大肥鱼🐳影色舞",
+    "owner": {
+      "name": "MuoK平知音",
+      "mid": 58829752
+    },
+    "pubdate": 1791363430
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "music-source",
+      "title": "MyGO!!!!! · 影色舞",
+      "url": "https://www.bilibili.com/video/BV1gP411u7kS/"
+    }
+  ]
+}

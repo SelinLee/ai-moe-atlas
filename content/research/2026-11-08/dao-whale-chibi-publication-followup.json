@@ -1,0 +1,70 @@
+{
+  "url": "https://www.bilibili.com/video/BV1SBMH6NEJo/",
+  "publisher": "这个刀子真甜",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SBMH6NEJo",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:36:37.461Z",
+  "scope": "Official early post metadata and its earlier public cover evidence were checked against the uploader’s later post and public replies. The uploader feed was restricted. No standalone sheet was identified in the returned replies.",
+  "metadata": {
+    "bvid": "BV1SBMH6NEJo",
+    "title": "DeepSeek迎来新的成员了",
+    "owner": {
+      "name": "这个刀子真甜",
+      "mid": 23315338
+    },
+    "pubdate": 1783625536
+  },
+  "credits": [
+    {
+      "role": "uploader-profile",
+      "title": "这个刀子真甜 · Bilibili",
+      "url": "https://space.bilibili.com/23315338"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "uploaderReplyChecks": [
+    {
+      "bvid": "BV1SBMH6NEJo",
+      "url": "https://api.bilibili.com/x/v2/reply/main?type=1&mode=3&oid=116891678935078",
+      "httpStatus": 200,
+      "code": 0,
+      "accessedAt": "2026-11-07T16:35:00.996Z",
+      "commentsExamined": 4,
+      "uploaderMatches": []
+    },
+    {
+      "bvid": "BV1jg866XEC8",
+      "url": "https://api.bilibili.com/x/v2/reply/main?type=1&mode=3&oid=117135133117506",
+      "httpStatus": 200,
+      "code": 0,
+      "accessedAt": "2026-11-07T16:35:00.996Z",
+      "commentsExamined": 4,
+      "uploaderMatches": []
+    },
+    {
+      "bvid": "BV17rxT6UEpH",
+      "url": "https://api.bilibili.com/x/v2/reply/main?type=1&mode=3&oid=117512352110518",
+      "httpStatus": 200,
+      "code": 0,
+      "accessedAt": "2026-11-07T16:35:00.765Z",
+      "commentsExamined": 4,
+      "uploaderMatches": []
+    }
+  ],
+  "creatorFeedCheck": {
+    "url": "https://api.bilibili.com/x/polymer/web-dynamic/v1/feed/space?host_mid=23315338",
+    "httpStatus": 412,
+    "accessedAt": "2026-11-07T16:35:00.464Z",
+    "scanned": 0
+  },
+  "priorEvidence": {
+    "path": "content/research/2026-11-07/bv1sbmh6nejo.json",
+    "sha256": "920d7e909077e0a0ef75b4f577b6c337bb844e433f7dd599eba92be02bbc09f3",
+    "kind": "browser-metadata-extract"
+  }
+}

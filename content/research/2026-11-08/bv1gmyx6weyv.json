@@ -1,0 +1,35 @@
+{
+  "url": "https://www.bilibili.com/video/BV1GMYX6WEYv/",
+  "publisher": "Alston_Channel",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1GMYX6WEYv",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:36:42.073Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1GMYX6WEYv",
+    "title": "【原创大肥鱼歌曲】胖鱼谣~人工智能之歌~",
+    "owner": {
+      "name": "Alston_Channel",
+      "mid": 540936
+    },
+    "pubdate": 1789184929
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "chibi-reference",
+      "title": "这个刀子真甜 · Q 版鲸鱼娘投稿",
+      "url": "https://www.bilibili.com/video/BV1SBMH6NEJo/"
+    }
+  ]
+}
