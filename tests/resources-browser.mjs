@@ -40,7 +40,24 @@ try{
   assert.ok(page.url().includes('category=animation'));
   await page.goto(`${origin}/${lang}/resources/?category=animation`,{waitUntil:'networkidle'});
   await page.screenshot({path:`.qa/resources-animation-${lang}-desktop.png`});
+  const mvFilter=page.locator('[data-resource-type-filter="mv"]');
+  const rankedMvs=ranked.filter(r=>r.subtype==='mv');
+  await mvFilter.click();
+  assert.equal(await mvFilter.getAttribute('aria-pressed'),'true');
+  assert.equal(new URL(page.url()).searchParams.get('type'),'mv');
+  assert.equal(await visibleAnimations.count(),registry.records.filter(r=>r.category==='animation'&&r.subtype==='mv').length);
+  assert.deepEqual(await visibleAnimations.evaluateAll((cards,count)=>cards.map(card=>card.id).slice(0,count),rankedMvs.length),rankedMvs.map(r=>r.id));
+  assert.match(await visibleAnimations.first().innerText(),new RegExp('#'+(ranked.indexOf(rankedMvs[0])+1)+' ·'));
+  await page.locator('#resource-search').fill('BV1C7h16jEHJ');
+  await page.reload();
+  assert.ok(await page.locator('#bv1c7h16jehj').isVisible());
+  await languageLink.click();
+  assert.equal(await mvFilter.getAttribute('aria-pressed'),'true');
+  assert.equal(await page.locator('[data-resource-category]:visible').count(),1);
+  await page.locator('#resource-search').fill('');
   await page.locator('[data-resource-filter="interactive"]').click();assert.equal(await page.locator('[data-resource-category]:visible').count(),interactiveCount);
+  assert.ok(await page.locator('#resource-types').isHidden());
+  assert.equal(new URL(page.url()).searchParams.has('type'),false);
   await page.locator('#resource-search').fill('no-such-work-xyz');assert.ok(await page.locator('#resource-empty').isVisible());
   await page.locator('#resource-reset').click();assert.equal(await page.locator('[data-resource-category]:visible').count(),registry.records.length+14);
   await page.goto(`${origin}/${lang}/resources/?category=unknown&q=BV1C7h16jEHJ`);
@@ -48,7 +65,7 @@ try{
   assert.ok(await page.locator('#bv1c7h16jehj').isVisible());
   for(const width of [390,768]){
    await page.setViewportSize({width,height:844});
-   for(const route of ['', 'resources/?category=animation','resources/?category=interactive']){
+   for(const route of ['', 'resources/?category=animation&type=mv','resources/?category=interactive']){
     await page.goto(`${origin}/${lang}/${route}`,{waitUntil:'networkidle'});
     assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1),false,`${lang}/${route} overflows ${width}px`);
    }

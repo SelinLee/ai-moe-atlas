@@ -13,10 +13,14 @@ const ordered=[...animations,...resources.filter(r=>r.category!=='animation').so
     <button class="selected" data-resource-filter="all" aria-pressed="true">{s.all} <span>{resources.length}</span></button>
     {directoryCategories.map(c=><button data-resource-filter={c} aria-pressed="false">{s.category[c].title} <span>{resourceCounts[c]}</span></button>)}
   </div>
+  <div class="resource-filters resource-type-filters" id="resource-types" role="group" aria-label={s.videoTypes} hidden>
+    <button class="selected" data-resource-type-filter="all" aria-pressed="true">{s.allVideoTypes}</button>
+    {Object.entries(s.types).map(([type,label])=><button data-resource-type-filter={type} aria-pressed="false">{label} <span>{animations.filter(r=>r.subtype===type).length}</span></button>)}
+  </div>
   <div class="filter-bar"><label class="search-field"><input id="resource-search" type="search" placeholder={s.search} aria-label={s.search}/></label><button class="button secondary" id="resource-reset">{s.clear}</button></div>
   <p class="subtle" role="status"><strong id="resource-count">{resources.length}</strong> {s.results}</p>
   <div class="resource-list" id="resource-list">
-    {ordered.map(r=><article class="resource-record" id={r.id} data-resource-category={r.category} data-resource-search={`${r.title.zh} ${r.title.en} ${r.title.ja} ${r.sourceTitle??''} ${r.publisher} ${r.bvid??''} ${r.summary[lang]}`}>
+    {ordered.map(r=><article class="resource-record" id={r.id} data-resource-category={r.category} data-resource-type={r.subtype} data-resource-search={`${r.title.zh} ${r.title.en} ${r.title.ja} ${r.sourceTitle??''} ${r.publisher} ${r.bvid??''} ${r.summary[lang]}`}>
       <div class="resource-record-top"><span class="pill">{s.category[r.category].title}</span>{r.subtype&&<span class="resource-subtype">{s.types[r.subtype as keyof typeof s.types]}</span>}</div>
       <h2><a href={r.url} target="_blank" rel="noopener noreferrer">{r.title[lang]} ↗</a></h2>
       <p class="resource-byline">{s.publisher} · {r.publisher} {r.publicationDate&&<> · {s.published} <time datetime={r.publicationDate}>{r.publicationDate}</time></>}{r.bvid&&<> · {r.bvid}</>}</p>
@@ -37,4 +41,5 @@ const ordered=[...animations,...resources.filter(r=>r.category!=='animation').so
   </div>
   <p class="empty-state" id="resource-empty" hidden>{s.empty}</p>
 </Layout>
+<style>.resource-type-filters{margin-top:12px}</style>
 <script>import '../../scripts/resources';</script>

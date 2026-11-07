@@ -1,0 +1,25 @@
+{
+  "url": "https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md",
+  "publisher": "MerZlin",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T14:58:08.445Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/MerZlin/dsh-pet-indesktop/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md",
+    "commit": "34d810b1eadd98d00e7cb9b3b51428a45b5bf03e",
+    "sourceSha256": "0dc28c0fd11736e47fd5808aee94a255137aae4fbeb47261f7c6dbc53dc975a0"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/MerZlin/dsh-pet-indesktop/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/THIRD_PARTY_NOTICES.md",
+      "commit": "34d810b1eadd98d00e7cb9b3b51428a45b5bf03e",
+      "sourceSha256": "d08637f7405b2edafe9d5d9578ca3dc5d1a5c5f88d0e8dca6172fc4b945518ac"
+    }
+  ],
+  "findings": {
+    "upstreamAnimationRepository": "PC2005-cloud/dsh-pet",
+    "assetTerms": "noncommercial as described in project notices"
+  }
+}

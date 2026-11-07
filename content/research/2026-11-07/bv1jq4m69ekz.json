@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1jQ4M69EKZ/",
+  "publisher": "莱落sama",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jQ4M69EKZ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:55:22.508Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1jQ4M69EKZ",
+    "title": "盘点各ai娘形象的由来",
+    "owner": {
+      "name": "莱落sama",
+      "mid": 39532101
+    },
+    "pubdate": 1793683422
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

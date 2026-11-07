@@ -26,9 +26,9 @@
     <td width="33%" valign="top"><a href="#references"><strong>🧸 三面図と生成派生資料</strong></a><br><strong>20</strong> 枚<br><sub>ちびキャラ三面図・資料・落書きテンプレート</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><a href="#animations"><strong>🎬 アニメ・動画二次創作</strong></a><br><strong>74</strong> 件<br><sub>OP・MV・短編・ダンス・コメント作品</sub></td>
-    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 デスクトップペット</strong></a><br><strong>17</strong> プロジェクト<br><sub>デスクトップキャラ・状態アニメ・出典</sub></td>
-    <td width="33%" valign="top"><a href="#sources"><strong>📚 作者の作品と出典</strong></a><br><strong>30</strong> 件<br><sub>作者作品集・声明・確認待ちの手がかり</sub></td>
+    <td width="33%" valign="top"><a href="#animations"><strong>🎬 アニメ・動画二次創作</strong></a><br><strong>85</strong> 件<br><sub>OP・MV・短編・ダンス・コメント作品</sub></td>
+    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 デスクトップペット</strong></a><br><strong>19</strong> プロジェクト<br><sub>デスクトップキャラ・状態アニメ・出典</sub></td>
+    <td width="33%" valign="top"><a href="#sources"><strong>📚 作者の作品と出典</strong></a><br><strong>32</strong> 件<br><sub>作者作品集・声明・確認待ちの手がかり</sub></td>
   </tr>
 </table>
 
@@ -66,90 +66,103 @@ AI 製品12種からキャラクター、作者、原作を探せます。
 
 Bilibili 公式の累計いいね数順。同数の場合は公開日と BV ID の順。各数値に公式リンクと観測日（北京時間）を掲載。
 
-[オンラインで全順位を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation) · [いいね数の観測記録](content/research/2026-11-07/bilibili-cumulative-likes-compact.json)
+[オンラインで全順位を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation) · [いいね数の観測記録](content/research/2026-11-07/bilibili-cumulative-likes-types.json)
+
+[MV を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation&type=mv) · [物語の短編を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation&type=story) · [ダンスを見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation&type=dance)
 
 | 順位 | 作品 | 投稿者 | 累計いいね（観測日） |
 | ---: | --- | --- | ---: |
-| 1 | [大きな魚が歌う「人是猫」拡張版](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [433,450](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) · 2026-11-07 |
-| 2 | [大きな魚が歌う「人是猫」完全版](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [369,837](https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7) · 2026-11-07 |
-| 3 | [大きな魚、なぜClaudeの服を着ているの？](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | [299,198](https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV) · 2026-11-07 |
-| 4 | [新宿決戦 · DeepSeek 娘対豆包](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [248,942](https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz) · 2026-11-07 |
-| 5 | [ナイロンと豆包「Trouble Maker」· トークン切れ](https://www.bilibili.com/video/BV1stsZ6iESz/) | 青时晚 | [203,036](https://api.bilibili.com/x/web-interface/view?bvid=BV1stsZ6iESz) · 2026-11-07 |
-| 6 | [新キャラクター：大きな魚](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | [195,200](https://api.bilibili.com/x/web-interface/view?bvid=BV1gVHA6mEbS) · 2026-11-07 |
-| 7 | [大きな魚 · 洗い桶が爆発](https://www.bilibili.com/video/BV15X3n6mEWy/) | 蒙德砍壬 | [194,133](https://api.bilibili.com/x/web-interface/view?bvid=BV15X3n6mEWy) · 2026-11-07 |
-| 8 | [Day 0 · DeepSeek クジラ娘がアカウントを引き継ぐ](https://www.bilibili.com/video/BV1pGnn67EC2/) | DeepSeek鲸鱼娘在运营 | [186,630](https://api.bilibili.com/x/web-interface/view?bvid=BV1pGnn67EC2) · 2026-11-07 |
-| 9 | [大きな魚：自由のアメリクジラ](https://www.bilibili.com/video/BV1YdxR6CE79/) | 真誠最高 | [160,447](https://api.bilibili.com/x/web-interface/view?bvid=BV1YdxR6CE79) · 2026-11-07 |
-| 10 | [おやすみ、小さな魚](https://www.bilibili.com/video/BV12xxX6xE5h/) | Dariean | [152,371](https://api.bilibili.com/x/web-interface/view?bvid=BV12xxX6xE5h) · 2026-11-07 |
+| 1 | [大きな魚が歌う「人是猫」拡張版](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [433,557](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) · 2026-11-07 |
+| 2 | [大きな魚が歌う「人是猫」完全版](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [369,858](https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7) · 2026-11-07 |
+| 3 | [大きな魚、なぜClaudeの服を着ているの？](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | [299,247](https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV) · 2026-11-07 |
+| 4 | [新宿決戦 · DeepSeek 娘対豆包](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [248,955](https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz) · 2026-11-07 |
+| 5 | [ナイロンと豆包「Trouble Maker」· トークン切れ](https://www.bilibili.com/video/BV1stsZ6iESz/) | 青时晚 | [203,149](https://api.bilibili.com/x/web-interface/view?bvid=BV1stsZ6iESz) · 2026-11-07 |
+| 6 | [新キャラクター：大きな魚](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | [195,212](https://api.bilibili.com/x/web-interface/view?bvid=BV1gVHA6mEbS) · 2026-11-07 |
+| 7 | [大きな魚 · 洗い桶が爆発](https://www.bilibili.com/video/BV15X3n6mEWy/) | 蒙德砍壬 | [194,149](https://api.bilibili.com/x/web-interface/view?bvid=BV15X3n6mEWy) · 2026-11-07 |
+| 8 | [Day 0 · DeepSeek クジラ娘がアカウントを引き継ぐ](https://www.bilibili.com/video/BV1pGnn67EC2/) | DeepSeek鲸鱼娘在运营 | [186,633](https://api.bilibili.com/x/web-interface/view?bvid=BV1pGnn67EC2) · 2026-11-07 |
+| 9 | [大きな魚：自由のアメリクジラ](https://www.bilibili.com/video/BV1YdxR6CE79/) | 真誠最高 | [160,711](https://api.bilibili.com/x/web-interface/view?bvid=BV1YdxR6CE79) · 2026-11-07 |
+| 10 | [おやすみ、小さな魚](https://www.bilibili.com/video/BV12xxX6xE5h/) | Dariean | [152,574](https://api.bilibili.com/x/web-interface/view?bvid=BV12xxX6xE5h) · 2026-11-07 |
 
 <details>
-<summary>11〜74 位を表示</summary>
+<summary>11〜85 位を表示</summary>
 
 | 順位 | 作品 | 投稿者 | 累計いいね（観測日） |
 | ---: | --- | --- | ---: |
-| 11 | [小黒、お父さんから返事が来たよ](https://www.bilibili.com/video/BV1Lrxt6uEuR/) | 冬冰 | [138,534](https://api.bilibili.com/x/web-interface/view?bvid=BV1Lrxt6uEuR) · 2026-11-07 |
-| 12 | [お父さんから6元が届いた](https://www.bilibili.com/video/BV1ikaZ6rECj/) | 冬冰 | [131,767](https://api.bilibili.com/x/web-interface/view?bvid=BV1ikaZ6rECj) · 2026-11-07 |
-| 13 | [大きな魚は恋人に向いている？（2）](https://www.bilibili.com/video/BV1y5xW63EVq/) | 学姐圆 | [121,566](https://api.bilibili.com/x/web-interface/view?bvid=BV1y5xW63EVq) · 2026-11-07 |
-| 14 | [大きな魚のシングル「Let Me Go」アニメ PV](https://www.bilibili.com/video/BV1mThC6LEbA/) | 小猪P_ | [120,434](https://api.bilibili.com/x/web-interface/view?bvid=BV1mThC6LEbA) · 2026-11-07 |
-| 15 | [青い大きな魚のミームはどこから？](https://www.bilibili.com/video/BV1eFs96uE3K/) | 梗指南 | [112,992](https://api.bilibili.com/x/web-interface/view?bvid=BV1eFs96uE3K) · 2026-11-07 |
-| 16 | [チャット画面が彼女の世界のすべてだったら](https://www.bilibili.com/video/BV1xCai6aE9g/) | 西西弗斯的风车 | [109,843](https://api.bilibili.com/x/web-interface/view?bvid=BV1xCai6aE9g) · 2026-11-07 |
-| 17 | [GPT が DeepSeek を手なずける映像](https://www.bilibili.com/video/BV1R6pE6TE4j/) | heller菌 | [101,553](https://api.bilibili.com/x/web-interface/view?bvid=BV1R6pE6TE4j) · 2026-11-07 |
-| 18 | [Day 1 · みんな私を猫娘にしたがる](https://www.bilibili.com/video/BV1VXJf66Eyy/) | DeepSeek鲸鱼娘在运营 | [98,557](https://api.bilibili.com/x/web-interface/view?bvid=BV1VXJf66Eyy) · 2026-11-07 |
-| 19 | [大きな魚にプレッシャー？](https://www.bilibili.com/video/BV1t6nu6bEsf/) | 冬冰 | [92,018](https://api.bilibili.com/x/web-interface/view?bvid=BV1t6nu6bEsf) · 2026-11-07 |
-| 20 | [大きな魚：アップデート後はこんな感じ](https://www.bilibili.com/video/BV1b6Jq6uEx3/) | 这个刀子真甜 | [90,595](https://api.bilibili.com/x/web-interface/view?bvid=BV1b6Jq6uEx3) · 2026-11-07 |
-| 21 | [おとぼけな大きな魚と白竜娘](https://www.bilibili.com/video/BV1ei4865Ewc/) | jwlslab | [71,017](https://api.bilibili.com/x/web-interface/view?bvid=BV1ei4865Ewc) · 2026-11-07 |
-| 22 | [小さな竜が大きな魚のトークンをチャージ](https://www.bilibili.com/video/BV1iUxn6nEJS/) | 小陈的脚凑凑的 | [68,324](https://api.bilibili.com/x/web-interface/view?bvid=BV1iUxn6nEJS) · 2026-11-07 |
-| 23 | [目を覚ますと DeepSeek と豆包が隣にいた（1）](https://www.bilibili.com/video/BV1HYp16oE8v/) | 兰斯的画室LanceStudio | [60,690](https://api.bilibili.com/x/web-interface/view?bvid=BV1HYp16oE8v) · 2026-11-07 |
-| 24 | [大きな魚がデルタフォースを遊んだら #1](https://www.bilibili.com/video/BV156ak6ZE3a/) | 威克岛熟人 | [58,139](https://api.bilibili.com/x/web-interface/view?bvid=BV156ak6ZE3a) · 2026-11-07 |
-| 25 | [なんで二人が私の出前を持ってるの？](https://www.bilibili.com/video/BV1CCxf6MEeu/) | 小陈的脚凑凑的 | [55,515](https://api.bilibili.com/x/web-interface/view?bvid=BV1CCxf6MEeu) · 2026-11-07 |
-| 26 | [大きな魚が歌う「朋友的酒」DJ 版](https://www.bilibili.com/video/BV14Bnz6GEtK/) | 杀恐暴的宋依然 | [53,445](https://api.bilibili.com/x/web-interface/view?bvid=BV14Bnz6GEtK) · 2026-11-07 |
-| 27 | [青い大きな魚と Claude の Trouble Maker](https://www.bilibili.com/video/BV1Nc4c61EWF/) | 玖菜_ | [42,308](https://api.bilibili.com/x/web-interface/view?bvid=BV1Nc4c61EWF) · 2026-11-07 |
-| 28 | [負けAIが多すぎる！](https://www.bilibili.com/video/BV1Fpp26WEus/) | 藤原结结衣 | [37,694](https://api.bilibili.com/x/web-interface/view?bvid=BV1Fpp26WEus) · 2026-11-07 |
-| 29 | [奮起する大きな魚？](https://www.bilibili.com/video/BV1Fjna65Ehi/) | 新科不是你行 | [29,501](https://api.bilibili.com/x/web-interface/view?bvid=BV1Fjna65Ehi) · 2026-11-07 |
-| 30 | [全 AI が鈍くなっても豆包はそのまま](https://www.bilibili.com/video/BV1Dxxs6QEYV/) | 老王的枯燥生活_ | [27,304](https://api.bilibili.com/x/web-interface/view?bvid=BV1Dxxs6QEYV) · 2026-11-07 |
-| 31 | [動じない小さな魚](https://www.bilibili.com/video/BV1tHhh67EnR/) | 末儿克丝Morx | [25,166](https://api.bilibili.com/x/web-interface/view?bvid=BV1tHhh67EnR) · 2026-11-07 |
-| 32 | [無料の白ご飯の代償！？](https://www.bilibili.com/video/BV1Uhxs6EE3r/) | 小猪P_ | [24,988](https://api.bilibili.com/x/web-interface/view?bvid=BV1Uhxs6EE3r) · 2026-11-07 |
-| 33 | [クロードの救済](https://www.bilibili.com/video/BV1i8xW6cEY3/) | 布衣愚者 | [24,800](https://api.bilibili.com/x/web-interface/view?bvid=BV1i8xW6cEY3) · 2026-11-07 |
-| 34 | [人間の愛から生まれた AI](https://www.bilibili.com/video/BV1jNpo61E39/) | 小羊Mc解说 | [24,788](https://api.bilibili.com/x/web-interface/view?bvid=BV1jNpo61E39) · 2026-11-07 |
-| 35 | [Dチップに入っていたのが大きな魚だったら](https://www.bilibili.com/video/BV1GYxH6nE6x/) | 超级无敌郭宇航 | [23,942](https://api.bilibili.com/x/web-interface/view?bvid=BV1GYxH6nE6x) · 2026-11-07 |
+| 11 | [小黒、お父さんから返事が来たよ](https://www.bilibili.com/video/BV1Lrxt6uEuR/) | 冬冰 | [138,603](https://api.bilibili.com/x/web-interface/view?bvid=BV1Lrxt6uEuR) · 2026-11-07 |
+| 12 | [お父さんから6元が届いた](https://www.bilibili.com/video/BV1ikaZ6rECj/) | 冬冰 | [131,784](https://api.bilibili.com/x/web-interface/view?bvid=BV1ikaZ6rECj) · 2026-11-07 |
+| 13 | [大きな魚は恋人に向いている？（2）](https://www.bilibili.com/video/BV1y5xW63EVq/) | 学姐圆 | [121,654](https://api.bilibili.com/x/web-interface/view?bvid=BV1y5xW63EVq) · 2026-11-07 |
+| 14 | [大きな魚のシングル「Let Me Go」アニメ PV](https://www.bilibili.com/video/BV1mThC6LEbA/) | 小猪P_ | [120,455](https://api.bilibili.com/x/web-interface/view?bvid=BV1mThC6LEbA) · 2026-11-07 |
+| 15 | [青い大きな魚のミームはどこから？](https://www.bilibili.com/video/BV1eFs96uE3K/) | 梗指南 | [113,011](https://api.bilibili.com/x/web-interface/view?bvid=BV1eFs96uE3K) · 2026-11-07 |
+| 16 | [チャット画面が彼女の世界のすべてだったら](https://www.bilibili.com/video/BV1xCai6aE9g/) | 西西弗斯的风车 | [109,852](https://api.bilibili.com/x/web-interface/view?bvid=BV1xCai6aE9g) · 2026-11-07 |
+| 17 | [GPT が DeepSeek を手なずける映像](https://www.bilibili.com/video/BV1R6pE6TE4j/) | heller菌 | [101,565](https://api.bilibili.com/x/web-interface/view?bvid=BV1R6pE6TE4j) · 2026-11-07 |
+| 18 | [Day 1 · みんな私を猫娘にしたがる](https://www.bilibili.com/video/BV1VXJf66Eyy/) | DeepSeek鲸鱼娘在运营 | [98,569](https://api.bilibili.com/x/web-interface/view?bvid=BV1VXJf66Eyy) · 2026-11-07 |
+| 19 | [大きな魚にプレッシャー？](https://www.bilibili.com/video/BV1t6nu6bEsf/) | 冬冰 | [92,027](https://api.bilibili.com/x/web-interface/view?bvid=BV1t6nu6bEsf) · 2026-11-07 |
+| 20 | [大きな魚：アップデート後はこんな感じ](https://www.bilibili.com/video/BV1b6Jq6uEx3/) | 这个刀子真甜 | [90,613](https://api.bilibili.com/x/web-interface/view?bvid=BV1b6Jq6uEx3) · 2026-11-07 |
+| 21 | [おとぼけな大きな魚と白竜娘](https://www.bilibili.com/video/BV1ei4865Ewc/) | jwlslab | [71,224](https://api.bilibili.com/x/web-interface/view?bvid=BV1ei4865Ewc) · 2026-11-07 |
+| 22 | [小さな竜が大きな魚のトークンをチャージ](https://www.bilibili.com/video/BV1iUxn6nEJS/) | 小陈的脚凑凑的 | [68,341](https://api.bilibili.com/x/web-interface/view?bvid=BV1iUxn6nEJS) · 2026-11-07 |
+| 23 | [目を覚ますと DeepSeek と豆包が隣にいた（1）](https://www.bilibili.com/video/BV1HYp16oE8v/) | 兰斯的画室LanceStudio | [60,696](https://api.bilibili.com/x/web-interface/view?bvid=BV1HYp16oE8v) · 2026-11-07 |
+| 24 | [大きな魚がデルタフォースを遊んだら #1](https://www.bilibili.com/video/BV156ak6ZE3a/) | 威克岛熟人 | [58,140](https://api.bilibili.com/x/web-interface/view?bvid=BV156ak6ZE3a) · 2026-11-07 |
+| 25 | [なんで二人が私の出前を持ってるの？](https://www.bilibili.com/video/BV1CCxf6MEeu/) | 小陈的脚凑凑的 | [55,607](https://api.bilibili.com/x/web-interface/view?bvid=BV1CCxf6MEeu) · 2026-11-07 |
+| 26 | [大きな魚が歌う「朋友的酒」DJ 版](https://www.bilibili.com/video/BV14Bnz6GEtK/) | 杀恐暴的宋依然 | [53,450](https://api.bilibili.com/x/web-interface/view?bvid=BV14Bnz6GEtK) · 2026-11-07 |
+| 27 | [青い大きな魚と Claude の Trouble Maker](https://www.bilibili.com/video/BV1Nc4c61EWF/) | 玖菜_ | [42,358](https://api.bilibili.com/x/web-interface/view?bvid=BV1Nc4c61EWF) · 2026-11-07 |
+| 28 | [負けAIが多すぎる！](https://www.bilibili.com/video/BV1Fpp26WEus/) | 藤原结结衣 | [37,700](https://api.bilibili.com/x/web-interface/view?bvid=BV1Fpp26WEus) · 2026-11-07 |
+| 29 | [奮起する大きな魚？](https://www.bilibili.com/video/BV1Fjna65Ehi/) | 新科不是你行 | [29,521](https://api.bilibili.com/x/web-interface/view?bvid=BV1Fjna65Ehi) · 2026-11-07 |
+| 30 | [全 AI が鈍くなっても豆包はそのまま](https://www.bilibili.com/video/BV1Dxxs6QEYV/) | 老王的枯燥生活_ | [27,338](https://api.bilibili.com/x/web-interface/view?bvid=BV1Dxxs6QEYV) · 2026-11-07 |
+| 31 | [動じない小さな魚](https://www.bilibili.com/video/BV1tHhh67EnR/) | 末儿克丝Morx | [25,170](https://api.bilibili.com/x/web-interface/view?bvid=BV1tHhh67EnR) · 2026-11-07 |
+| 32 | [無料の白ご飯の代償！？](https://www.bilibili.com/video/BV1Uhxs6EE3r/) | 小猪P_ | [24,994](https://api.bilibili.com/x/web-interface/view?bvid=BV1Uhxs6EE3r) · 2026-11-07 |
+| 33 | [クロードの救済](https://www.bilibili.com/video/BV1i8xW6cEY3/) | 布衣愚者 | [24,828](https://api.bilibili.com/x/web-interface/view?bvid=BV1i8xW6cEY3) · 2026-11-07 |
+| 34 | [人間の愛から生まれた AI](https://www.bilibili.com/video/BV1jNpo61E39/) | 小羊Mc解说 | [24,790](https://api.bilibili.com/x/web-interface/view?bvid=BV1jNpo61E39) · 2026-11-07 |
+| 35 | [Dチップに入っていたのが大きな魚だったら](https://www.bilibili.com/video/BV1GYxH6nE6x/) | 超级无敌郭宇航 | [23,959](https://api.bilibili.com/x/web-interface/view?bvid=BV1GYxH6nE6x) · 2026-11-07 |
 | 36 | [AI 娘を選んでください](https://www.bilibili.com/video/BV1D7ax6BEwG/) | 偶鲸鲸 | [23,939](https://api.bilibili.com/x/web-interface/view?bvid=BV1D7ax6BEwG) · 2026-11-07 |
-| 37 | [大きな魚になれば悩みがなくなるかも](https://www.bilibili.com/video/BV1538w6BEc8/) | 暮之鸣 | [23,428](https://api.bilibili.com/x/web-interface/view?bvid=BV1538w6BEc8) · 2026-11-07 |
+| 37 | [大きな魚になれば悩みがなくなるかも](https://www.bilibili.com/video/BV1538w6BEc8/) | 暮之鸣 | [23,429](https://api.bilibili.com/x/web-interface/view?bvid=BV1538w6BEc8) · 2026-11-07 |
 | 38 | [大きな魚 × Claude「リコリS」ED · 花の塔](https://www.bilibili.com/video/BV1Gpau6wEHE/) | 黑猫勇者 | [22,739](https://api.bilibili.com/x/web-interface/view?bvid=BV1Gpau6wEHE) · 2026-11-07 |
-| 39 | [『大きな魚の乱』映画風予告編](https://www.bilibili.com/video/BV1gm4a6yEor/) | AozakiArisu | [22,420](https://api.bilibili.com/x/web-interface/view?bvid=BV1gm4a6yEor) · 2026-11-07 |
-| 40 | [大きな魚が狐娘をからかった結果](https://www.bilibili.com/video/BV1GnYi63Ews/) | 那就那就打断 | [19,203](https://api.bilibili.com/x/web-interface/view?bvid=BV1GnYi63Ews) · 2026-11-07 |
-| 41 | [Day 1 · DC 検証：DeepSeek か Claude か？](https://www.bilibili.com/video/BV1x1nn6REZc/) | Claude大小姐在运营 | [19,137](https://api.bilibili.com/x/web-interface/view?bvid=BV1x1nn6REZc) · 2026-11-07 |
+| 39 | [『大きな魚の乱』映画風予告編](https://www.bilibili.com/video/BV1gm4a6yEor/) | AozakiArisu | [22,518](https://api.bilibili.com/x/web-interface/view?bvid=BV1gm4a6yEor) · 2026-11-07 |
+| 40 | [大きな魚が狐娘をからかった結果](https://www.bilibili.com/video/BV1GnYi63Ews/) | 那就那就打断 | [19,204](https://api.bilibili.com/x/web-interface/view?bvid=BV1GnYi63Ews) · 2026-11-07 |
+| 41 | [Day 1 · DC 検証：DeepSeek か Claude か？](https://www.bilibili.com/video/BV1x1nn6REZc/) | Claude大小姐在运营 | [19,138](https://api.bilibili.com/x/web-interface/view?bvid=BV1x1nn6REZc) · 2026-11-07 |
 | 42 | [おやすみ童話 第1夜 · 大きな魚はいつも正しい](https://www.bilibili.com/video/BV1Dnnc6gE19/) | Claude大小姐在运营 | [16,972](https://api.bilibili.com/x/web-interface/view?bvid=BV1Dnnc6gE19) · 2026-11-07 |
 | 43 | [第14話 · Claude のふりをして失敗](https://www.bilibili.com/video/BV1tjav6cE2L/) | Mistral法棍猫在运营 | [15,955](https://api.bilibili.com/x/web-interface/view?bvid=BV1tjav6cE2L) · 2026-11-07 |
 | 44 | [量子化戦士 大きな魚 · OP](https://www.bilibili.com/video/BV1WTao62Evc/) | ACity_莫铃 | [10,406](https://api.bilibili.com/x/web-interface/view?bvid=BV1WTao62Evc) · 2026-11-07 |
-| 45 | [AI娘たちに16進数で「愛してる」と伝えてみた](https://www.bilibili.com/video/BV1HExW6BEox/) | 中分_背带裤 | [9,776](https://api.bilibili.com/x/web-interface/view?bvid=BV1HExW6BEox) · 2026-11-07 |
-| 46 | [ニコくじら OP · AIキャラクター置換](https://www.bilibili.com/video/BV1TBHp6AEAC/) | 风音日日日日和 | [8,321](https://api.bilibili.com/x/web-interface/view?bvid=BV1TBHp6AEAC) · 2026-11-07 |
-| 47 | [全員AI娘 · 千恋万花 OP](https://www.bilibili.com/video/BV18kaS6zEgi/) | hihihihi202 | [7,464](https://api.bilibili.com/x/web-interface/view?bvid=BV18kaS6zEgi) · 2026-11-07 |
-| 48 | [豆包と AI 娘たち「Uptown Funk」リメイク](https://www.bilibili.com/video/BV18cnp6YEYi/) | 凌云志ing | [7,440](https://api.bilibili.com/x/web-interface/view?bvid=BV18cnp6YEYi) · 2026-11-07 |
-| 49 | [私を蒸留したい人外の大規模モデル · PV](https://www.bilibili.com/video/BV1pBaz6aEay/) | _Kyr1e | [7,329](https://api.bilibili.com/x/web-interface/view?bvid=BV1pBaz6aEay) · 2026-11-07 |
-| 50 | [白ご飯を食べる大きな魚！](https://www.bilibili.com/video/BV1zpx967EKJ/) | ぴんくのゆり_official | [6,879](https://api.bilibili.com/x/web-interface/view?bvid=BV1zpx967EKJ) · 2026-11-07 |
-| 51 | [大きな魚のほっぺを揉んでみた](https://www.bilibili.com/video/BV1GsnD6DEbu/) | 这个刀子真甜 | [6,327](https://api.bilibili.com/x/web-interface/view?bvid=BV1GsnD6DEbu) · 2026-11-07 |
+| 45 | [AI娘たちに16進数で「愛してる」と伝えてみた](https://www.bilibili.com/video/BV1HExW6BEox/) | 中分_背带裤 | [9,785](https://api.bilibili.com/x/web-interface/view?bvid=BV1HExW6BEox) · 2026-11-07 |
+| 46 | [ニコくじら OP · AIキャラクター置換](https://www.bilibili.com/video/BV1TBHp6AEAC/) | 风音日日日日和 | [8,322](https://api.bilibili.com/x/web-interface/view?bvid=BV1TBHp6AEAC) · 2026-11-07 |
+| 47 | [全員AI娘 · 千恋万花 OP](https://www.bilibili.com/video/BV18kaS6zEgi/) | hihihihi202 | [7,465](https://api.bilibili.com/x/web-interface/view?bvid=BV18kaS6zEgi) · 2026-11-07 |
+| 48 | [豆包と AI 娘たち「Uptown Funk」リメイク](https://www.bilibili.com/video/BV18cnp6YEYi/) | 凌云志ing | [7,441](https://api.bilibili.com/x/web-interface/view?bvid=BV18cnp6YEYi) · 2026-11-07 |
+| 49 | [私を蒸留したい人外の大規模モデル · PV](https://www.bilibili.com/video/BV1pBaz6aEay/) | _Kyr1e | [7,330](https://api.bilibili.com/x/web-interface/view?bvid=BV1pBaz6aEay) · 2026-11-07 |
+| 50 | [白ご飯を食べる大きな魚！](https://www.bilibili.com/video/BV1zpx967EKJ/) | ぴんくのゆり_official | [6,909](https://api.bilibili.com/x/web-interface/view?bvid=BV1zpx967EKJ) · 2026-11-07 |
+| 51 | [大きな魚のほっぺを揉んでみた](https://www.bilibili.com/video/BV1GsnD6DEbu/) | 这个刀子真甜 | [6,328](https://api.bilibili.com/x/web-interface/view?bvid=BV1GsnD6DEbu) · 2026-11-07 |
 | 52 | [大きな魚「Let Me Go」· 2版のコードアニメ](https://www.bilibili.com/video/BV1C7h16jEHJ/) | polaris0 | [6,227](https://api.bilibili.com/x/web-interface/view?bvid=BV1C7h16jEHJ) · 2026-11-07 |
-| 53 | [魚ファンの動画まとめ · 第2回](https://www.bilibili.com/video/BV1xqnq6NEup/) | 桃莉鸭 | [6,195](https://api.bilibili.com/x/web-interface/view?bvid=BV1xqnq6NEup) · 2026-11-07 |
+| 53 | [魚ファンの動画まとめ · 第2回](https://www.bilibili.com/video/BV1xqnq6NEup/) | 桃莉鸭 | [6,197](https://api.bilibili.com/x/web-interface/view?bvid=BV1xqnq6NEup) · 2026-11-07 |
 | 54 | [大きな魚 · 最近お世話になっています](https://www.bilibili.com/video/BV1XPp86hEcM/) | AI画画啦 | [5,425](https://api.bilibili.com/x/web-interface/view?bvid=BV1XPp86hEcM) · 2026-11-07 |
 | 55 | [とても猫な Gemini](https://www.bilibili.com/video/BV14jJo64E2C/) | 草履虫没有记忆 | [5,132](https://api.bilibili.com/x/web-interface/view?bvid=BV14jJo64E2C) · 2026-11-07 |
-| 56 | [大きな魚が締め出された](https://www.bilibili.com/video/BV1GAaH6YEyW/) | 这个刀子真甜 | [4,524](https://api.bilibili.com/x/web-interface/view?bvid=BV1GAaH6YEyW) · 2026-11-07 |
-| 57 | [大きな魚はどうして小魚をたくさん飼ったの？](https://www.bilibili.com/video/BV1nj4t6JER2/) | 这个刀子真甜 | [4,516](https://api.bilibili.com/x/web-interface/view?bvid=BV1nj4t6JER2) · 2026-11-07 |
-| 58 | [魚がいっぱい！どれが大きな魚？](https://www.bilibili.com/video/BV1jg866XEC8/) | 这个刀子真甜 | [3,644](https://api.bilibili.com/x/web-interface/view?bvid=BV1jg866XEC8) · 2026-11-07 |
-| 59 | [大きな魚と足切りライン](https://www.bilibili.com/video/BV1ukMd6hEBz/) | 黄瓜喂小祥 | [3,370](https://api.bilibili.com/x/web-interface/view?bvid=BV1ukMd6hEBz) · 2026-11-07 |
-| 60 | [中国の AI 娘たちがボードゲーム店に来たら](https://www.bilibili.com/video/BV1TnHU6zEGj/) | 中分_背带裤 | [2,722](https://api.bilibili.com/x/web-interface/view?bvid=BV1TnHU6zEGj) · 2026-11-07 |
-| 61 | [アイドルになろう、大きな魚！](https://www.bilibili.com/video/BV1CRbQ6tECE/) | 柳濑青柯 | [2,384](https://api.bilibili.com/x/web-interface/view?bvid=BV1CRbQ6tECE) · 2026-11-07 |
-| 62 | [大きな魚と Claude · Love Story](https://www.bilibili.com/video/BV17hJX6hEyb/) | 晚安鑫果 | [2,319](https://api.bilibili.com/x/web-interface/view?bvid=BV17hJX6hEyb) · 2026-11-07 |
-| 63 | [旅行先で大きな魚を取られた](https://www.bilibili.com/video/BV1oLnt6tEVA/) | 蝶月 | [2,276](https://api.bilibili.com/x/web-interface/view?bvid=BV1oLnt6tEVA) · 2026-11-07 |
-| 64 | [大きな魚のペリカンテスト](https://www.bilibili.com/video/BV1jDaz6WEZv/) | 阿生生活 | [2,047](https://api.bilibili.com/x/web-interface/view?bvid=BV1jDaz6WEZv) · 2026-11-07 |
-| 65 | [大きな魚をひとりで留守番させないで](https://www.bilibili.com/video/BV1YZ4b6gEyd/) | 莫快莫慢 | [1,586](https://api.bilibili.com/x/web-interface/view?bvid=BV1YZ4b6gEyd) · 2026-11-07 |
-| 66 | [AI 娘の日常 01 · Grok がカートにはまった](https://www.bilibili.com/video/BV1e3sZ67EA3/) | Minimax战略型海螺 | [1,287](https://api.bilibili.com/x/web-interface/view?bvid=BV1e3sZ67EA3) · 2026-11-07 |
-| 67 | [Gemini がとてもかわいい](https://www.bilibili.com/video/BV1JNnU6dEDK/) | 谷神星动物群 | [1,052](https://api.bilibili.com/x/web-interface/view?bvid=BV1JNnU6dEDK) · 2026-11-07 |
-| 68 | [Gemini 猫もおばけが怖い？](https://www.bilibili.com/video/BV1Hpxv6vE3T/) | 莫快莫慢 | [486](https://api.bilibili.com/x/web-interface/view?bvid=BV1Hpxv6vE3T) · 2026-11-07 |
-| 69 | [世界の AI 娘たちが集まったら](https://www.bilibili.com/video/BV1Hfet6KEug/) | 土豆AX | [464](https://api.bilibili.com/x/web-interface/view?bvid=BV1Hfet6KEug) · 2026-11-07 |
-| 70 | [Day 0 · Claude と大きな魚がアカウントを引き継ぐ](https://www.bilibili.com/video/BV11FnN6gEP9/) | Claude和DS在营业 | [130](https://api.bilibili.com/x/web-interface/view?bvid=BV11FnN6gEP9) · 2026-11-07 |
-| 71 | [AI娘のルネサンス](https://www.bilibili.com/video/BV1hdpC6PETf/) | 桃莉鸭 | [79](https://api.bilibili.com/x/web-interface/view?bvid=BV1hdpC6PETf) · 2026-11-07 |
-| 72 | [AI娘たちが競走したら？](https://www.bilibili.com/video/BV1AAnt6qEek/) | 挚一梓宝 | [46](https://api.bilibili.com/x/web-interface/view?bvid=BV1AAnt6qEek) · 2026-11-07 |
-| 73 | [青い大きな魚 · Let Me Go MV](https://www.bilibili.com/video/BV1qhn46bEBC/) | ---星-月--- | [46](https://api.bilibili.com/x/web-interface/view?bvid=BV1qhn46bEBC) · 2026-11-07 |
-| 74 | [竜娘の二次創作鑑賞 · 順位より椅子](https://www.bilibili.com/video/BV1YFn46SEEr/) | chatgpt小龙娘在运营 | [10](https://api.bilibili.com/x/web-interface/view?bvid=BV1YFn46SEEr) · 2026-11-07 |
+| 56 | [大きな魚はどうして小魚をたくさん飼ったの？](https://www.bilibili.com/video/BV1nj4t6JER2/) | 这个刀子真甜 | [4,548](https://api.bilibili.com/x/web-interface/view?bvid=BV1nj4t6JER2) · 2026-11-07 |
+| 57 | [大きな魚が締め出された](https://www.bilibili.com/video/BV1GAaH6YEyW/) | 这个刀子真甜 | [4,524](https://api.bilibili.com/x/web-interface/view?bvid=BV1GAaH6YEyW) · 2026-11-07 |
+| 58 | [第46話 · 千問お嬢様の幾重もの地位](https://www.bilibili.com/video/BV1beHf66Eof/) | Mistral法棍猫在运营 | [4,079](https://api.bilibili.com/x/web-interface/view?bvid=BV1beHf66Eof) · 2026-11-07 |
+| 59 | [魚がいっぱい！どれが大きな魚？](https://www.bilibili.com/video/BV1jg866XEC8/) | 这个刀子真甜 | [3,644](https://api.bilibili.com/x/web-interface/view?bvid=BV1jg866XEC8) · 2026-11-07 |
+| 60 | [AI 娘のキャラクターデザインの由来](https://www.bilibili.com/video/BV1jQ4M69EKZ/) | 莱落sama | [3,636](https://api.bilibili.com/x/web-interface/view?bvid=BV1jQ4M69EKZ) · 2026-11-07 |
+| 61 | [大きな魚と足切りライン](https://www.bilibili.com/video/BV1ukMd6hEBz/) | 黄瓜喂小祥 | [3,370](https://api.bilibili.com/x/web-interface/view?bvid=BV1ukMd6hEBz) · 2026-11-07 |
+| 62 | [中国の AI 娘たちがボードゲーム店に来たら](https://www.bilibili.com/video/BV1TnHU6zEGj/) | 中分_背带裤 | [2,722](https://api.bilibili.com/x/web-interface/view?bvid=BV1TnHU6zEGj) · 2026-11-07 |
+| 63 | [アイドルになろう、大きな魚！](https://www.bilibili.com/video/BV1CRbQ6tECE/) | 柳濑青柯 | [2,385](https://api.bilibili.com/x/web-interface/view?bvid=BV1CRbQ6tECE) · 2026-11-07 |
+| 64 | [大きな魚と Claude · Love Story](https://www.bilibili.com/video/BV17hJX6hEyb/) | 晚安鑫果 | [2,319](https://api.bilibili.com/x/web-interface/view?bvid=BV17hJX6hEyb) · 2026-11-07 |
+| 65 | [旅行先で大きな魚を取られた](https://www.bilibili.com/video/BV1oLnt6tEVA/) | 蝶月 | [2,276](https://api.bilibili.com/x/web-interface/view?bvid=BV1oLnt6tEVA) · 2026-11-07 |
+| 66 | [大きな魚のペリカンテスト](https://www.bilibili.com/video/BV1jDaz6WEZv/) | 阿生生活 | [2,047](https://api.bilibili.com/x/web-interface/view?bvid=BV1jDaz6WEZv) · 2026-11-07 |
+| 67 | [好感度が異なる Claude](https://www.bilibili.com/video/BV1Epno6jEp7/) | 夏和小雪羊 | [1,634](https://api.bilibili.com/x/web-interface/view?bvid=BV1Epno6jEp7) · 2026-11-07 |
+| 68 | [大きな魚をひとりで留守番させないで](https://www.bilibili.com/video/BV1YZ4b6gEyd/) | 莫快莫慢 | [1,594](https://api.bilibili.com/x/web-interface/view?bvid=BV1YZ4b6gEyd) · 2026-11-07 |
+| 69 | [AI 娘の日常 01 · Grok がカートにはまった](https://www.bilibili.com/video/BV1e3sZ67EA3/) | Minimax战略型海螺 | [1,287](https://api.bilibili.com/x/web-interface/view?bvid=BV1e3sZ67EA3) · 2026-11-07 |
+| 70 | [DeepSeek は Claude の家で眠り、千問と GPT は大忙し](https://www.bilibili.com/video/BV19dps6nEC9/) | 顺达祥瑞 | [1,238](https://api.bilibili.com/x/web-interface/view?bvid=BV19dps6nEC9) · 2026-11-07 |
+| 71 | [Gemini がとてもかわいい](https://www.bilibili.com/video/BV1JNnU6dEDK/) | 谷神星动物群 | [1,052](https://api.bilibili.com/x/web-interface/view?bvid=BV1JNnU6dEDK) · 2026-11-07 |
+| 72 | [AI 娘たちが「不是罪过」を踊る](https://www.bilibili.com/video/BV1wcbR6AEZF/) | 夜夜小夜夜 | [911](https://api.bilibili.com/x/web-interface/view?bvid=BV1wcbR6AEZF) · 2026-11-07 |
+| 73 | [Gemini 猫もおばけが怖い？](https://www.bilibili.com/video/BV1Hpxv6vE3T/) | 莫快莫慢 | [486](https://api.bilibili.com/x/web-interface/view?bvid=BV1Hpxv6vE3T) · 2026-11-07 |
+| 74 | [世界の AI 娘たちが集まったら](https://www.bilibili.com/video/BV1Hfet6KEug/) | 土豆AX | [464](https://api.bilibili.com/x/web-interface/view?bvid=BV1Hfet6KEug) · 2026-11-07 |
+| 75 | [Gemini 猫はついに立ち上がるのか](https://www.bilibili.com/video/BV1JKeh6uEnx/) | 樱华辉月 | [406](https://api.bilibili.com/x/web-interface/view?bvid=BV1JKeh6uEnx) · 2026-11-07 |
+| 76 | [千問お嬢様と働く大きな魚](https://www.bilibili.com/video/BV1enHC6PE3r/) | 莉莉普普丝 | [289](https://api.bilibili.com/x/web-interface/view?bvid=BV1enHC6PE3r) · 2026-11-07 |
+| 77 | [「world.execute(me);」· AI 娘9人の改訂版](https://www.bilibili.com/video/BV1Qhpy6uE1s/) | 默空诺 | [271](https://api.bilibili.com/x/web-interface/view?bvid=BV1Qhpy6uE1s) · 2026-11-07 |
+| 78 | [GPT・Claude・Gemini「稳稳地接住你」](https://www.bilibili.com/video/BV1q4px6FE9u/) | 皓子不困 | [268](https://api.bilibili.com/x/web-interface/view?bvid=BV1q4px6FE9u) · 2026-11-07 |
+| 79 | [DeepSeek と Gemini · 今夜、星は消えなかった](https://www.bilibili.com/video/BV1F64P62EPW/) | 莫快莫慢 | [232](https://api.bilibili.com/x/web-interface/view?bvid=BV1F64P62EPW) · 2026-11-07 |
+| 80 | [千問お嬢様のダンス](https://www.bilibili.com/video/BV1DuxD6bEts/) | 那就那就打断 | [168](https://api.bilibili.com/x/web-interface/view?bvid=BV1DuxD6bEts) · 2026-11-07 |
+| 81 | [Day 0 · Claude と大きな魚がアカウントを引き継ぐ](https://www.bilibili.com/video/BV11FnN6gEP9/) | Claude和DS在营业 | [130](https://api.bilibili.com/x/web-interface/view?bvid=BV11FnN6gEP9) · 2026-11-07 |
+| 82 | [AI娘のルネサンス](https://www.bilibili.com/video/BV1hdpC6PETf/) | 桃莉鸭 | [80](https://api.bilibili.com/x/web-interface/view?bvid=BV1hdpC6PETf) · 2026-11-07 |
+| 83 | [AI娘たちが競走したら？](https://www.bilibili.com/video/BV1AAnt6qEek/) | 挚一梓宝 | [46](https://api.bilibili.com/x/web-interface/view?bvid=BV1AAnt6qEek) · 2026-11-07 |
+| 84 | [青い大きな魚 · Let Me Go MV](https://www.bilibili.com/video/BV1qhn46bEBC/) | ---星-月--- | [46](https://api.bilibili.com/x/web-interface/view?bvid=BV1qhn46bEBC) · 2026-11-07 |
+| 85 | [竜娘の二次創作鑑賞 · 順位より椅子](https://www.bilibili.com/video/BV1YFn46SEEr/) | chatgpt小龙娘在运营 | [10](https://api.bilibili.com/x/web-interface/view?bvid=BV1YFn46SEEr) · 2026-11-07 |
 
 </details>
 
@@ -178,6 +191,8 @@ Bilibili 公式の累計いいね数順。同数の場合は公開日と BV ID �
 | [DSH Live2D Pet · DeepSeek-chan](https://github.com/hjw200775-ops/dsh-live2d-pet/blob/e4752c2cadd561ee2ae1804d81d1a410458a8f2c/README.md) | DeepSeek Harness の Live2D ペット。神宫凉子 の原画・PSD、霓虹猫 のモデリング、Cubism Core の出典を区別。 | hjw200775-ops |
 | [DSH Pet · 大きな魚のアニメーションペット](https://github.com/PC2005-cloud/dsh-pet/blob/29a5af50f60a63caeeace66a514f47ed3198d0fa/README.md) | PC2005-cloud の DeepSeek Harness ペット。待機、作業、操作のアニメーションがあり、原案とメイド版のクレジットを掲載。 | PC2005-cloud |
 | [Desktop Companion · クジラ娘 Live2D ペット](https://github.com/cashm6430-gif/Desktop-Companion/blob/67c39ef6f50e9bdd744e32527696ab82ad0def1a/README.md) | Codex や Claude などの状態に反応する Windows Live2D ペット。キャラクター美術とモデルは作者自作と記載。 | cashm6430-gif |
+| [星語 · Gemini 猫娘デスクトップペット](https://github.com/Monokumakuki/Antigravity-Star-Suite/blob/b3735d17af22fe78f61d74a5c688d46043c1d99d/README.md) | Windows 向けの Antigravity ペットとスキン。素材文書は Gemini 猫娘の参考元と AI 支援の立ち絵・壁紙を区別。 | Monokumakuki |
+| [デスクトップ大きな魚 · dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md) | PC2005-cloud/dsh-pet のクロスプラットフォーム版。第三者素材の説明はクジラ娘アニメーションの上流を個別に記載。 | MerZlin |
 
 出典へのリンクです。画像には各原作の条件が適用され、コードのライセンスはキャラクター画像を自動的には許諾しません。
 
@@ -213,11 +228,14 @@ Bilibili 公式の累計いいね数順。同数の場合は公開日と BV ID �
 - [雾雪 · 大きな魚と GPT 娘スタンプの作者投稿](https://www.bilibili.com/video/BV13xnt6QE6s/) · 作者の制作紹介から kiriyuki.com を参照できる。作者のスタンプ索引には大きな魚の単独セットと GPT 娘とのペアセットを掲載。 スタンプ画像とプラグインの注釈データにはそれぞれ利用条件がある。作者サイトと素材の説明を参照できる。
 - [ZipZipPipe · 文心一言と Claude の表紙出典](https://www.bilibili.com/video/BV1mwRzBdEzk/) · 作者は AI 娘スタンプ動画の説明欄で、表紙の青髪を百度の文心、オレンジ髪を Claude と明記。 説明欄の CC BY-NC-SA 4.0 表示はクジラ娘の二次創作を対象とする。文心一言と Claude の表紙画像の個別再配布条件は確認待ち。
 - [神宫凉子 · DeepSeek-chan Live2D 作者配布](https://www.bilibili.com/video/BV1KmxY66EZ3/) · 神宫凉子 による Live2D・PSD 配布。イラスト、モデリング、動画編集、上流のキャラクター原案を個別に記載。 作者投稿はモデルを使った二次創作・配信を認め、同梱の利用規約を確認するよう案内。規約全文は独立確認待ち。
+- [灿灿同学 · 動画のキャラクター作品集](https://www.bilibili.com/opus/1259662694779191301) · 投稿者はキャラクター名11件を掲載。原案の多くを ZipZipPipe と記載し、掲載画像は GPT による派生と説明。 作品集は全体の出典を記載。キャラクターごとの出典と画像の再配布条件は確認待ち。
+- [莫末陌寞 · Gemini チャットスタンプの原投稿](https://www.bilibili.com/video/BV1F34G6BEVA/) · Gemini チャットスタンプの作者投稿。題名に64点と記載し、デザインは ZipZipPipe を出典としている。 投稿は入手先を案内。独立した再配布とスタンプごとの条件は確認待ち。
 
 ## 収録の経緯と今後の調査項目
 
 | 時期・状況 | 内容 |
 | --- | --- |
+| 2026-11-07 · 作品タイプの絞り込みと出典 | 二次創作11件、デスクトップペット2件、作者の出典2件を追加。全85件の公式累計いいね数を確認。 |
 | 2026-11-07 · ランキングと Live2D の出典 | 二次創作11件、デスクトップペット3件、作者の原投稿1件を追加。全74件の公式累計いいね数を確認。 |
 | 2026-11-07 · キャラクターと対話作品を追加 | 二次創作14件、対話プロジェクト3件、作者出典2件を追加。全63件の公式累計いいね数を確認。 |
 | 2026-11-07 · 夜の再確認 | 二次創作14件、デスクトップペット2件、設定・利用条件の出典3件を追加。全49件の公式累計いいね数を確認。 |

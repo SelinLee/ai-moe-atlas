@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1F64P62EPW/",
+  "publisher": "莫快莫慢",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1F64P62EPW",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:55:23.858Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1F64P62EPW",
+    "title": "deepseek&gemini 今夜星星没有熄灭",
+    "owner": {
+      "name": "莫快莫慢",
+      "mid": 10078784
+    },
+    "pubdate": 1793622852
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "url": "https://github.com/Monokumakuki/Antigravity-Star-Suite/blob/b3735d17af22fe78f61d74a5c688d46043c1d99d/README.md",
+  "publisher": "Monokumakuki",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T14:58:08.426Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/Monokumakuki/Antigravity-Star-Suite/blob/b3735d17af22fe78f61d74a5c688d46043c1d99d/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Monokumakuki/Antigravity-Star-Suite/b3735d17af22fe78f61d74a5c688d46043c1d99d/README.md",
+    "commit": "b3735d17af22fe78f61d74a5c688d46043c1d99d",
+    "sourceSha256": "01e775c4e363884d26f31e6e907dee8d63043212b20b265efccc37db71e321e0"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/Monokumakuki/Antigravity-Star-Suite/blob/b3735d17af22fe78f61d74a5c688d46043c1d99d/ASSETS.md",
+      "rawUrl": "https://raw.githubusercontent.com/Monokumakuki/Antigravity-Star-Suite/b3735d17af22fe78f61d74a5c688d46043c1d99d/ASSETS.md",
+      "commit": "b3735d17af22fe78f61d74a5c688d46043c1d99d",
+      "sourceSha256": "6934796be4f6bbeabd804149d69c51cf0bf097782cd713d82d2fc13474a51753"
+    },
+    {
+      "url": "https://github.com/Monokumakuki/Antigravity-Star-Suite/blob/b3735d17af22fe78f61d74a5c688d46043c1d99d/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Monokumakuki/Antigravity-Star-Suite/b3735d17af22fe78f61d74a5c688d46043c1d99d/LICENSE",
+      "commit": "b3735d17af22fe78f61d74a5c688d46043c1d99d",
+      "sourceSha256": "d221f54ffb626ced9848d9d0aa3556ce4ef17265c8f31bf3f7f081cf5cfa5168"
+    },
+    {
+      "url": "https://github.com/Monokumakuki/Antigravity-Star-Suite/blob/b3735d17af22fe78f61d74a5c688d46043c1d99d/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/Monokumakuki/Antigravity-Star-Suite/b3735d17af22fe78f61d74a5c688d46043c1d99d/NOTICE.md",
+      "commit": "b3735d17af22fe78f61d74a5c688d46043c1d99d",
+      "sourceSha256": "96e534ed66004e1a92d9d0d54faa9ba2eab594ef8f61077afe1848616d6be8dd"
+    }
+  ],
+  "findings": {
+    "software": "MIT",
+    "designReference": "ZipZipPipe Gemini cat-girl, as credited by the project",
+    "artwork": "AI-assisted portraits and wallpaper",
+    "independentRedistribution": "requires separate rights verification"
+  }
+}
