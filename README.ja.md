@@ -113,11 +113,25 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 
 ### 🐾 ペット・インタラクティブ作品
 
-<!-- category-picks:desktop-pets -->
+2026-11-09 に確認した GitHub Star 数の上位10件です。同数の場合はリポジトリ名順です。
 
-- [CrossPet · 複数 AI 対応のデスクトップペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#crosspet) — AI 製品や作業状態に合わせてキャラクターと動きが変わる。
-- [Deep Whale Day & Night · 昼夜工房](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#deep-whale-day-night) — クジラ娘の昼夜の背景とサイドバーのペット。
-- [WorkBuddy クジラ娘のデスクトップペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#workbuddy-whale-pet) — Windows のデスクトップで WorkBuddy の使用量と残高を表示。
+| 順位 | プロジェクト | GitHub Star 数 |
+| ---: | --- | ---: |
+| 1 | [小さなクジラ · DeepSeek 残高ウィジェット](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/blob/5247dd6813d6e4430728f39ccc63d43cda046022/README.md) | [7,051](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) |
+| 2 | [Clawd on Desk · クジラ娘テーマ](https://github.com/rullerzhou-afk/clawd-on-desk/blob/323da9f17a9872e1b1ceca6c9c9783e0eaa83a72/README.zh-CN.md) | [6,700](https://github.com/rullerzhou-afk/clawd-on-desk) |
+| 3 | [DSH Pet · 大きな魚のアニメーションペット](https://github.com/PC2005-cloud/dsh-pet/blob/29a5af50f60a63caeeace66a514f47ed3198d0fa/README.md) | [5,917](https://github.com/PC2005-cloud/dsh-pet) |
+| 4 | [デスクトップ大きな魚 · dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md) | [3,187](https://github.com/MerZlin/dsh-pet-indesktop) |
+| 5 | [Coopanion · デスクトップペットと外観パック](https://github.com/Pal-AI-Lab/Coopanion/blob/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/README_zh.md) | [2,988](https://github.com/Pal-AI-Lab/Coopanion) |
+| 6 | [CrossPet · 複数AI対応デスクトップペット](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | [435](https://github.com/lokicorvus/crosspet) |
+| 7 | [Whale Girl · Web・デスクトップペット](https://github.com/vlln/whale-girl/blob/9c32d7a39a45148076f8ad2fdaad2dc2420eedb3/README.zh.md) | [405](https://github.com/vlln/whale-girl) |
+| 8 | [GPT 娘 · 使用量ウィジェット](https://github.com/T7moris/GPT-Niang/blob/43f20dee539b642902e56819747a605b3fdddf44/README.md) | [284](https://github.com/T7moris/GPT-Niang) |
+| 9 | [DSH Whale Musume · クジラ娘ペット](https://github.com/Sutera-Diffusus/dsh-whale-musume/blob/df31dd9c3e8cd8d7b371930deb928bba6b1988c6/README.md) | [209](https://github.com/Sutera-Diffusus/dsh-whale-musume) |
+| 10 | [大きな魚スタンプ · DSH プラグイン](https://github.com/Loping151/dsh-nekowhale-stickers/blob/b7b58c0ff347d639fabe87d90d6716c4b3cad185/README.md) | [169](https://github.com/Loping151/dsh-nekowhale-stickers) |
+
+[ペット・インタラクティブ作品をすべて見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive) · [Star 数の確認記録](content/research/2026-11-09/github-interactive-stars.json)
+
+<details>
+<summary>全58件のプロジェクトと出典を表示</summary>
 
 | プロジェクト | 内容 | 投稿者 |
 | --- | --- | --- |
@@ -182,6 +196,8 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 
 出典へのリンクです。画像には各原作の条件が適用され、コードのライセンスはキャラクター画像を自動的には許諾しません。
 
+</details>
+
 <a id="sources"></a>
 
 ### 📚 作者の作品と出典
@@ -193,6 +209,11 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 - [Small-tailqwq · クジラ娘のメイド素材](https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier) — メイド衣装の表情差分と原作者のクレジット。
 
 ZipZipPipe の[出典と利用声明](https://t.bilibili.com/1231980045693616162)も参照できます。
+
+[作者の作品と出典をすべて見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=sources)
+
+<details>
+<summary>追加の出典と確認記録を表示</summary>
 
 今回追加した出典：
 
@@ -243,6 +264,8 @@ ZipZipPipe の[出典と利用声明](https://t.bilibili.com/1231980045693616162
 - [小魚の家 · クジラ娘の自画像](https://github.com/wenxiaoyufish/xiaoyu-home/blob/e034b959ba3c3350e3afe4c1769cb12938078b9c/README.md) · イラストと物語を分けて公開。クジラ娘の全身図 600 × 1000 とポートレート 640 × 800 を確認。 2点の単独再配布条件は原公開に記載なし。原ファイルへのリンクを掲載。
 - [GPT 竜娘とクジラ娘 · スプライトの出典](https://github.com/tqlearning/ai-girl-chatgpt-pets/blob/3afe14603b40e24c75e87e097cbfee1bfc10290d/README.md) · tqlearning が再生成した2組の動作スプライトとクレジットを公開。WorkBuddy ペットがアニメの上流として記載。 MIT は自作文書とレイアウトデータが対象。キャラクター画像を対象とする公開ライセンスは確認待ち。
 - [大きな魚の育成計画 · Live2D クレジット](https://www.bilibili.com/video/BV1Kn4p6GE7d/) · 体験版のデモで Live2D モデルを 神宫凉子 と 霓虹猫_NeonNeko にクレジット。 原投稿に体験版の入手方法を掲載。モデルと部品の単独再配布条件は確認待ち。
+
+</details>
 
 ## 収録の経緯と今後の調査項目
 

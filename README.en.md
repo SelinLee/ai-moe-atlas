@@ -113,11 +113,25 @@ The top ten by Bilibili’s official cumulative likes. Ties use publication date
 
 ### 🐾 Pets & interactive projects
 
-<!-- category-picks:desktop-pets -->
+The top ten by GitHub stars as checked on 2026-11-09. Ties are sorted by repository name.
 
-- [CrossPet · Multi-AI desktop pet](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#crosspet) — Characters and actions change with the AI product and work state.
-- [Deep Whale Day & Night](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#deep-whale-day-night) — Day and night scenes with a Whale Girl sidebar companion.
-- [WorkBuddy Whale Girl desktop pet](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#workbuddy-whale-pet) — Shows WorkBuddy usage and balance on the Windows desktop.
+| Rank | Project | GitHub stars |
+| ---: | --- | ---: |
+| 1 | [Little Whale · DeepSeek balance widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/blob/5247dd6813d6e4430728f39ccc63d43cda046022/README.md) | [7,051](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) |
+| 2 | [Clawd on Desk · Whale-chan theme](https://github.com/rullerzhou-afk/clawd-on-desk/blob/323da9f17a9872e1b1ceca6c9c9783e0eaa83a72/README.zh-CN.md) | [6,700](https://github.com/rullerzhou-afk/clawd-on-desk) |
+| 3 | [DSH Pet · animated Fat Fish companion](https://github.com/PC2005-cloud/dsh-pet/blob/29a5af50f60a63caeeace66a514f47ed3198d0fa/README.md) | [5,917](https://github.com/PC2005-cloud/dsh-pet) |
+| 4 | [Fat Fish on Desktop · dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md) | [3,187](https://github.com/MerZlin/dsh-pet-indesktop) |
+| 5 | [Coopanion · desktop pet and figure-pack host](https://github.com/Pal-AI-Lab/Coopanion/blob/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/README_zh.md) | [2,988](https://github.com/Pal-AI-Lab/Coopanion) |
+| 6 | [CrossPet · multi-AI desktop companion](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | [435](https://github.com/lokicorvus/crosspet) |
+| 7 | [Whale Girl · web and desktop companion](https://github.com/vlln/whale-girl/blob/9c32d7a39a45148076f8ad2fdaad2dc2420eedb3/README.zh.md) | [405](https://github.com/vlln/whale-girl) |
+| 8 | [GPT Girl · usage widget](https://github.com/T7moris/GPT-Niang/blob/43f20dee539b642902e56819747a605b3fdddf44/README.md) | [284](https://github.com/T7moris/GPT-Niang) |
+| 9 | [DSH Whale Musume · Whale girl companion](https://github.com/Sutera-Diffusus/dsh-whale-musume/blob/df31dd9c3e8cd8d7b371930deb928bba6b1988c6/README.md) | [209](https://github.com/Sutera-Diffusus/dsh-whale-musume) |
+| 10 | [Nekowhale Stickers · DSH plugin](https://github.com/Loping151/dsh-nekowhale-stickers/blob/b7b58c0ff347d639fabe87d90d6716c4b3cad185/README.md) | [169](https://github.com/Loping151/dsh-nekowhale-stickers) |
+
+[Browse all pets and interactive projects](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-09/github-interactive-stars.json)
+
+<details>
+<summary>Show all 58 projects and sources</summary>
 
 | Project | Content | Publisher |
 | --- | --- | --- |
@@ -182,6 +196,8 @@ The top ten by Bilibili’s official cumulative likes. Ties use publication date
 
 Source links only. Artwork follows its own upstream terms; code licenses do not automatically cover character images.
 
+</details>
+
 <a id="sources"></a>
 
 ### 📚 Creator works & sources
@@ -193,6 +209,11 @@ Source links only. Artwork follows its own upstream terms; code licenses do not 
 - [Small-tailqwq · Whale Girl maid artwork](https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier) — Maid expressions and credits for the original artwork.
 
 See also ZipZipPipe’s [source and usage statement](https://t.bilibili.com/1231980045693616162).
+
+[Browse all creator works and sources](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources)
+
+<details>
+<summary>Show additional sources and review notes</summary>
 
 Newly added:
 
@@ -243,6 +264,8 @@ Newly added:
 - [Xiaoyu’s Home · Whale Girl self-portraits](https://github.com/wenxiaoyufish/xiaoyu-home/blob/e034b959ba3c3350e3afe4c1769cb12938078b9c/README.md) · The repository separates artwork from stories and publishes two Whale Girl self-portraits. The 600 × 1000 full-body and 640 × 800 portrait files were checked. The publication gives no separate redistribution terms for the two images. Links point to the original files.
 - [GPT Dragon Girl and Whale Girl · Sprite-sheet sources](https://github.com/tqlearning/ai-girl-chatgpt-pets/blob/3afe14603b40e24c75e87e097cbfee1bfc10290d/README.md) · tqlearning documents two regenerated sprite sheets and their credits. A WorkBuddy companion identifies this set as its animation source. MIT covers original documentation and layout metadata. The project reports that an open license covering the character art is unconfirmed.
 - [Whale Raising Project · Live2D credits](https://www.bilibili.com/video/BV1Kn4p6GE7d/) · The trial demo credits 神宫凉子 and 霓虹猫_NeonNeko for its Live2D model. The post provides trial access. Separate redistribution terms for the model and its components remain pending.
+
+</details>
 
 ## Timeline and open items
 
