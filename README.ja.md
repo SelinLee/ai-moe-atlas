@@ -54,13 +54,19 @@ AI 製品12種からキャラクター、作者、原作を探せます。
 
 ### 🎵 楽曲
 
-<!-- category-picks:songs -->
+各曲で収録済みの Bilibili 二次創作のうち、いいねが最多の動画を掲載し、その数で並べています（2026-11-08、北京時間）。
 
-- [人は猫](https://selinlee.github.io/ai-moe-atlas/ja/songs/#humans-are-cats) — 洛天依の原曲とクジラ娘のカバー。
-- [Let Me Go · 大きな魚のサボり歌](https://selinlee.github.io/ai-moe-atlas/ja/songs/#let-me-go) — 星落落_oi の初版、アレンジ、歌詞 MV。
-- [world.execute(me);](https://selinlee.github.io/ai-moe-atlas/ja/songs/#world-execute-me) — Mili の原曲と Claude、クジラ娘、千問の二次創作 MV。
+| 楽曲 | 原曲・原唱 | 代表的な二次創作 | Bilibili のいいね |
+| --- | --- | --- | ---: |
+| [人は猫](https://selinlee.github.io/ai-moe-atlas/ja/songs/#humans-are-cats) | [张卡斯 · 洛天依](https://www.bilibili.com/video/BV1Bfjq6LEDi/) | [クジラ娘カバー](https://www.bilibili.com/video/BV1fYpn6SEk9/) | [435,034](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) |
+| [world.execute(me);](https://selinlee.github.io/ai-moe-atlas/ja/songs/#world-execute-me) | [Mili](https://www.youtube.com/watch?v=ESx_hy1n7HA) | [クジラ娘のチャット画面 MV](https://www.bilibili.com/video/BV1xCai6aE9g/) | [109,923](https://api.bilibili.com/x/web-interface/view?bvid=BV1xCai6aE9g) |
+| [Let Me Go · 大きな魚のサボり歌](https://selinlee.github.io/ai-moe-atlas/ja/songs/#let-me-go) | [星落落_oi](https://www.bilibili.com/video/BV13SYr6dEiQ/) | [2バージョンのコードアニメ](https://www.bilibili.com/video/BV1C7h16jEHJ/) | [6,229](https://api.bilibili.com/x/web-interface/view?bvid=BV1C7h16jEHJ) |
+| [大魚](https://selinlee.github.io/ai-moe-atlas/ja/songs/#big-fish) | [周深 · Zhou Shen](https://music.apple.com/us/song/1810963487) | [Claude × DeepSeek MV](https://www.bilibili.com/video/BV1Ton46rEwv/) | [4,975](https://api.bilibili.com/x/web-interface/view?bvid=BV1Ton46rEwv) |
+| [雨愛](https://selinlee.github.io/ai-moe-atlas/ja/songs/#rainie-love) | [楊丞琳 · Rainie Yang](https://www.youtube.com/watch?v=oec9R5ypf-o) | [GLM 狐娘カバー](https://www.bilibili.com/video/BV1U64q69EYm/) | [148](https://api.bilibili.com/x/web-interface/view?bvid=BV1U64q69EYm) |
+| [学猫叫](https://selinlee.github.io/ai-moe-atlas/ja/songs/#learn-to-meow) | [小潘潘 · 小峰峰](https://www.qobuz.com/us-en/album/-/h1b9f19uzjloa) | [Gemini 猫娘カバー](https://www.bilibili.com/video/BV1Wx4i6LExm/) | [54](https://api.bilibili.com/x/web-interface/view?bvid=BV1Wx4i6LExm) |
+| [夜に駆ける](https://selinlee.github.io/ai-moe-atlas/ja/songs/#racing-into-the-night) | [YOASOBI](https://www.youtube.com/watch?v=by4SYYWlhEs) | [GPT 龍娘リミックス](https://www.bilibili.com/video/BV1rN4H6YEje/) | [3](https://api.bilibili.com/x/web-interface/view?bvid=BV1rN4H6YEje) |
 
-[楽曲一覧を開く](https://selinlee.github.io/ai-moe-atlas/ja/songs/)
+[楽曲一覧ですべてのバージョンを見る](https://selinlee.github.io/ai-moe-atlas/ja/songs/) · [いいね数の確認記録](content/research/2026-11-08/bilibili-cumulative-likes-archive-and-lyric-pv.json)
 
 <a id="references"></a>
 

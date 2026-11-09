@@ -54,13 +54,19 @@ Find characters, creators and original works across 12 AI products.
 
 ### 🎵 Songs
 
-<!-- category-picks:songs -->
+Tracks are ordered by the Bilibili likes on their most-liked cataloged fan version (2026-11-08 snapshot, Beijing time).
 
-- [Humans Are Cats](https://selinlee.github.io/ai-moe-atlas/en/songs/#humans-are-cats) — Luo Tianyi’s original and Whale Girl covers.
-- [Let Me Go · Fat Fish’s Slacking Song](https://selinlee.github.io/ai-moe-atlas/en/songs/#let-me-go) — 星落落_oi’s original release, an arrangement and lyric MVs.
-- [world.execute(me);](https://selinlee.github.io/ai-moe-atlas/en/songs/#world-execute-me) — Mili’s original and fan MVs featuring Claude, Whale Girl and Qwen.
+| Track | Original | Featured fan version | Bilibili likes |
+| --- | --- | --- | ---: |
+| [Humans Are Cats](https://selinlee.github.io/ai-moe-atlas/en/songs/#humans-are-cats) | [张卡斯 · 洛天依](https://www.bilibili.com/video/BV1Bfjq6LEDi/) | [Whale Girl cover](https://www.bilibili.com/video/BV1fYpn6SEk9/) | [435,034](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) |
+| [world.execute(me);](https://selinlee.github.io/ai-moe-atlas/en/songs/#world-execute-me) | [Mili](https://www.youtube.com/watch?v=ESx_hy1n7HA) | [Whale Girl chat-window MV](https://www.bilibili.com/video/BV1xCai6aE9g/) | [109,923](https://api.bilibili.com/x/web-interface/view?bvid=BV1xCai6aE9g) |
+| [Let Me Go · Fat Fish’s Slacking Song](https://selinlee.github.io/ai-moe-atlas/en/songs/#let-me-go) | [星落落_oi](https://www.bilibili.com/video/BV13SYr6dEiQ/) | [Two-version code animation](https://www.bilibili.com/video/BV1C7h16jEHJ/) | [6,229](https://api.bilibili.com/x/web-interface/view?bvid=BV1C7h16jEHJ) |
+| [Big Fish](https://selinlee.github.io/ai-moe-atlas/en/songs/#big-fish) | [周深 · Zhou Shen](https://music.apple.com/us/song/1810963487) | [Claude × DeepSeek MV](https://www.bilibili.com/video/BV1Ton46rEwv/) | [4,975](https://api.bilibili.com/x/web-interface/view?bvid=BV1Ton46rEwv) |
+| [Rainie Love](https://selinlee.github.io/ai-moe-atlas/en/songs/#rainie-love) | [楊丞琳 · Rainie Yang](https://www.youtube.com/watch?v=oec9R5ypf-o) | [GLM fox-girl cover](https://www.bilibili.com/video/BV1U64q69EYm/) | [148](https://api.bilibili.com/x/web-interface/view?bvid=BV1U64q69EYm) |
+| [Learn to Meow](https://selinlee.github.io/ai-moe-atlas/en/songs/#learn-to-meow) | [小潘潘 · 小峰峰](https://www.qobuz.com/us-en/album/-/h1b9f19uzjloa) | [Gemini catgirl cover](https://www.bilibili.com/video/BV1Wx4i6LExm/) | [54](https://api.bilibili.com/x/web-interface/view?bvid=BV1Wx4i6LExm) |
+| [Racing into the Night](https://selinlee.github.io/ai-moe-atlas/en/songs/#racing-into-the-night) | [YOASOBI](https://www.youtube.com/watch?v=by4SYYWlhEs) | [GPT dragon-girl remix](https://www.bilibili.com/video/BV1rN4H6YEje/) | [3](https://api.bilibili.com/x/web-interface/view?bvid=BV1rN4H6YEje) |
 
-[Open the song directory](https://selinlee.github.io/ai-moe-atlas/en/songs/)
+[Browse every version in the song directory](https://selinlee.github.io/ai-moe-atlas/en/songs/) · [Like count snapshot](content/research/2026-11-08/bilibili-cumulative-likes-archive-and-lyric-pv.json)
 
 <a id="references"></a>
 
