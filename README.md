@@ -58,13 +58,13 @@
 
 | 曲目 | 原曲 / 原唱 | 二创代表 | B 站点赞 |
 | --- | --- | --- | ---: |
-| [人是猫](https://selinlee.github.io/ai-moe-atlas/zh/songs/#humans-are-cats) | [张卡斯 · 洛天依](https://www.bilibili.com/video/BV1Bfjq6LEDi/) | [大肥鱼翻唱 · 真完整版](https://www.bilibili.com/video/BV1fYpn6SEk9/) | [435,034](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) |
-| [world.execute(me);](https://selinlee.github.io/ai-moe-atlas/zh/songs/#world-execute-me) | [Mili](https://www.youtube.com/watch?v=ESx_hy1n7HA) | [鲸鱼娘聊天窗口 MV](https://www.bilibili.com/video/BV1xCai6aE9g/) | [109,923](https://api.bilibili.com/x/web-interface/view?bvid=BV1xCai6aE9g) |
-| [Let Me Go · 大肥鱼摸鱼歌](https://selinlee.github.io/ai-moe-atlas/zh/songs/#let-me-go) | [星落落_oi](https://www.bilibili.com/video/BV13SYr6dEiQ/) | [双版本代码动画](https://www.bilibili.com/video/BV1C7h16jEHJ/) | [6,229](https://api.bilibili.com/x/web-interface/view?bvid=BV1C7h16jEHJ) |
-| [大鱼](https://selinlee.github.io/ai-moe-atlas/zh/songs/#big-fish) | [周深 · Zhou Shen](https://music.apple.com/us/song/1810963487) | [Claude × DeepSeek MV](https://www.bilibili.com/video/BV1Ton46rEwv/) | [4,975](https://api.bilibili.com/x/web-interface/view?bvid=BV1Ton46rEwv) |
-| [雨爱](https://selinlee.github.io/ai-moe-atlas/zh/songs/#rainie-love) | [楊丞琳 · Rainie Yang](https://www.youtube.com/watch?v=oec9R5ypf-o) | [GLM 狐娘翻唱](https://www.bilibili.com/video/BV1U64q69EYm/) | [148](https://api.bilibili.com/x/web-interface/view?bvid=BV1U64q69EYm) |
-| [学猫叫](https://selinlee.github.io/ai-moe-atlas/zh/songs/#learn-to-meow) | [小潘潘 · 小峰峰](https://www.qobuz.com/us-en/album/-/h1b9f19uzjloa) | [Gemini 猫娘翻唱](https://www.bilibili.com/video/BV1Wx4i6LExm/) | [54](https://api.bilibili.com/x/web-interface/view?bvid=BV1Wx4i6LExm) |
-| [夜に駆ける](https://selinlee.github.io/ai-moe-atlas/zh/songs/#racing-into-the-night) | [YOASOBI](https://www.youtube.com/watch?v=by4SYYWlhEs) | [GPT 龙娘混音](https://www.bilibili.com/video/BV1rN4H6YEje/) | [3](https://api.bilibili.com/x/web-interface/view?bvid=BV1rN4H6YEje) |
+| [人是猫](https://selinlee.github.io/ai-moe-atlas/zh/songs/#humans-are-cats) | 张卡斯 · 洛天依 | 大肥鱼翻唱 · 真完整版 | 435,034 |
+| [world.execute(me);](https://selinlee.github.io/ai-moe-atlas/zh/songs/#world-execute-me) | Mili | 鲸鱼娘聊天窗口 MV | 109,923 |
+| [Let Me Go · 大肥鱼摸鱼歌](https://selinlee.github.io/ai-moe-atlas/zh/songs/#let-me-go) | 星落落_oi | 双版本代码动画 | 6,229 |
+| [大鱼](https://selinlee.github.io/ai-moe-atlas/zh/songs/#big-fish) | 周深 · Zhou Shen | Claude × DeepSeek MV | 4,975 |
+| [雨爱](https://selinlee.github.io/ai-moe-atlas/zh/songs/#rainie-love) | 楊丞琳 · Rainie Yang | GLM 狐娘翻唱 | 148 |
+| [学猫叫](https://selinlee.github.io/ai-moe-atlas/zh/songs/#learn-to-meow) | 小潘潘 · 小峰峰 | Gemini 猫娘翻唱 | 54 |
+| [夜に駆ける](https://selinlee.github.io/ai-moe-atlas/zh/songs/#racing-into-the-night) | YOASOBI | GPT 龙娘混音 | 3 |
 
 [打开歌曲目录，查看全部版本](https://selinlee.github.io/ai-moe-atlas/zh/songs/) · [点赞核对记录](content/research/2026-11-08/bilibili-cumulative-likes-archive-and-lyric-pv.json)
 
