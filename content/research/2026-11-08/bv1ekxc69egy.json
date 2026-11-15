@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1EkxC69EgY/",
+  "publisher": "MiMo兔娘在运营",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1EkxC69EgY",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:43:00.563Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1EkxC69EgY",
+    "title": "【Day 2】万圣节本兔讨糖，结果被塞了胡萝卜",
+    "owner": {
+      "name": "MiMo兔娘在运营",
+      "mid": 63273107
+    },
+    "pubdate": 1793432736,
+    "descriptionSha256": "a7c252b8b7584cf2e40deb2f3d873075c83c8b5f9fe6095877826ce48d0633db",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

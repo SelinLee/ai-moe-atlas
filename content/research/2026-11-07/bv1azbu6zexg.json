@@ -1,0 +1,23 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Azbu6zExG/",
+  "publisher": "快门君的糖不甩",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Azbu6zExG",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:16:28.067Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1Azbu6zExG",
+    "title": "【11月新番】量化战士大肥鱼 先导PV【4K】",
+    "owner": {
+      "name": "快门君的糖不甩",
+      "mid": 75164977
+    },
+    "pubdate": 1788826500
+  },
+  "credits": [],
+  "findings": {
+    "uploaderVideoRepostStatement": "The uploader permits reposting with author credit.",
+    "underlyingAssetTerms": "separate review"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Lrxt6uEuR/",
+  "publisher": "冬冰",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Lrxt6uEuR",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:19:26.020Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1Lrxt6uEuR",
+    "title": "小黑你爸回你消息了",
+    "owner": {
+      "name": "冬冰",
+      "mid": 44748304
+    },
+    "pubdate": 1793577600
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "uploaderCharacterReferences": [
+    "ZipZipPipe",
+    "这个刀子真甜"
+  ]
+}

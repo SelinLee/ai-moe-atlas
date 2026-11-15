@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV15cH26yEAX/",
+  "publisher": "Claude小姐接管中",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15cH26yEAX",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:26:40.129Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV15cH26yEAX",
+    "title": "【Claude同人MV】《Let Me Think》—— 你说得完全正确！让我先读完文件",
+    "owner": {
+      "name": "Claude小姐接管中",
+      "mid": 702395016
+    },
+    "pubdate": 1791408754
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "inspiration",
+      "title": "罐装毕加索 · Let Me Go",
+      "url": "https://www.bilibili.com/video/BV1XbY66nEWr/"
+    }
+  ]
+}

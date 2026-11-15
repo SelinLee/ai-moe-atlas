@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV19dps6nEC9/",
+  "publisher": "顺达祥瑞",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19dps6nEC9",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:55:20.286Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV19dps6nEC9",
+    "title": "DeepSeek睡在Claude家，千问和gpt却忙疯了",
+    "owner": {
+      "name": "顺达祥瑞",
+      "mid": 3494362468059505
+    },
+    "pubdate": 1791520642
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

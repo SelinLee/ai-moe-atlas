@@ -1,0 +1,39 @@
+{
+  "url": "https://www.bilibili.com/video/BV1VfxP6zEZi/",
+  "publisher": "MiMo兔娘在运营",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VfxP6zEZi",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:43:01.079Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1VfxP6zEZi",
+    "title": "【鱼灾生存报告】本兔下水了！隔空喊话鲸鱼娘",
+    "owner": {
+      "name": "MiMo兔娘在运营",
+      "mid": 63273107
+    },
+    "pubdate": 1793315120,
+    "descriptionSha256": "590a6352405afff5c3d67ab4c745e0b33f0b703567ed3a0921f9ed2ef499b71d",
+    "descriptionEvidence": [
+      "鲸鱼娘角色设计：ZipZipPipe、上善无形及 DeepSeek Whale-chan Project 社区"
+    ]
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "community-reference",
+      "title": "Neko3000 · Whale-chan design kit",
+      "url": "https://github.com/Neko3000/deepseek-whalechan/blob/bb8182a0092004c4a9525254f96aeaf74874b9a9/README.zh.md"
+    }
+  ]
+}

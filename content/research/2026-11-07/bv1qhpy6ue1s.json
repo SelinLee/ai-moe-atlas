@@ -1,0 +1,33 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Qhpy6uE1s/",
+  "publisher": "默空诺",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Qhpy6uE1s",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:55:21.083Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1Qhpy6uE1s",
+    "title": "GPT-6 Astra 龙娘看了大肥鱼做的视频后怒改--九位AI娘化｜《world.execute(me);》",
+    "owner": {
+      "name": "默空诺",
+      "mid": 1901981447
+    },
+    "pubdate": 1791952042
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "uploaderCredits": {
+    "song": "Mili · world.execute(me);",
+    "characterReferences": [
+      "ZipZipPipe",
+      "existing Doubao avatar"
+    ],
+    "productionRepositoryLead": "https://github.com/mokongnuo/world-execute-me-flash"
+  }
+}

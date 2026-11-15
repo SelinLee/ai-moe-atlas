@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV16Xux6NEda/",
+  "publisher": "真不会取名丶",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16Xux6NEda",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:47:09.918Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV16Xux6NEda",
+    "title": "🐋大肥鱼只是想多吃点",
+    "owner": {
+      "name": "真不会取名丶",
+      "mid": 244087218
+    },
+    "pubdate": 1786081536
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "uploader-profile",
+      "title": "这个刀子真甜 · Bilibili",
+      "url": "https://space.bilibili.com/23315338"
+    }
+  ]
+}

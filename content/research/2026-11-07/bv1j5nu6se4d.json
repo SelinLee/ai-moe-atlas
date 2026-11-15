@@ -1,0 +1,39 @@
+{
+  "url": "https://www.bilibili.com/video/BV1j5nU6SE4D/",
+  "publisher": "泡影世间",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1j5nU6SE4D",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:26:40.130Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1j5nU6SE4D",
+    "title": "【Kimi K3.1】world.execute(me);4k60",
+    "owner": {
+      "name": "泡影世间",
+      "mid": 13823376
+    },
+    "pubdate": 1792949363
+  },
+  "credits": [
+    {
+      "role": "inspiration",
+      "title": "真寻Mahiro · world.execute(me);",
+      "url": "https://www.bilibili.com/video/BV186pc65E68/"
+    },
+    {
+      "role": "production-project",
+      "title": "Nyankomintsu · world-execute-me-lyric-mv",
+      "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv/blob/93ac63775ee58b33ff102167514f2603a48940cc/README.md"
+    },
+    {
+      "role": "music-terms",
+      "title": "Mili · Copyright Guidelines",
+      "url": "https://projectmili.com/copyright-guidelines"
+    }
+  ],
+  "findings": {
+    "music": "Mili original song",
+    "sourceLayers": "video, software, character artwork and song have separate terms"
+  }
+}

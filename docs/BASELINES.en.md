@@ -8,6 +8,8 @@ Collect one existing, traceable image that can be displayed for each AI before e
 
 As of 2026-09-29: of 12 AI families, 11 have displayable, downloadable assets and 1 (Copilot) has source links only. Source links do not count as completed image coverage.
 
+November 8, 2026. The ai-school-op Copilot school design is collected with its 1024 × 1536 original and CC BY-NC 4.0 terms. All 12 products now have displayable, downloadable artwork.
+
 | AI | Priority version | Remaining work |
 | --- | --- | --- |
 | DeepSeek | Collected whale-maid assets | Ready; retain 上善无形 → ZipZipPipe → Small-tailqwq attribution |
@@ -15,7 +17,7 @@ As of 2026-09-29: of 12 AI families, 11 have displayable, downloadable assets an
 | GLM, Grok, MiniMax | ZipZipPipe’s own Pixiv collection | Three high-resolution originals and creator terms collected |
 | Doubao | ZipZipPipe’s own Pixiv collection | High-resolution original collected; the OpenPet candidate stays link-only |
 | Meta Llama | ZipZipPipe’s own Pixiv collection | Alpaca-character high-resolution original collected |
-| Copilot | yamamemo candidate | Image usage terms; links only for now |
+| Copilot | ai-school-op school design | School design collected. High-resolution artwork and terms for yamamemo’s pilot design remain open |
 
 ## Page-by-page mapping of the collection
 
@@ -36,7 +38,7 @@ Screenshots of [各AI娘形象盘点](https://www.bilibili.com/video/BV14phK66Ej
 ## Collection order
 
 1. Completed: collect creator-published originals for GPT, Gemini, Claude, Kimi, Qwen, GLM, Grok, Doubao, Llama and MiniMax from Pixiv.
-2. Find a Copilot original with display and redistribution permission; links only for now.
+2. The Copilot school design is collected under CC BY-NC 4.0. Continue tracing high-resolution artwork and item-specific terms for yamamemo’s pilot design.
 3. Leave the uncollected Mistral and 文心一言 designs alone — those AIs are not in `entities.json`, and the index is not padded for count.
 4. Verify existing design, AI association, original publication, artwork-specific permissions, original hashes and three-language notes before making proportional normalized images and source-preserving packs.
 

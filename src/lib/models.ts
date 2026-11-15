@@ -17,6 +17,8 @@ export const characterModels: CharacterModel[] = existsSync(directory) ? readdir
   let model: CharacterModel;
   try { model = JSON.parse(readFileSync(resolve(directory, file), 'utf8')); }
   catch { console.warn(`[3D] Ignoring unreadable manifest: ${file}`); return []; }
+  // Keep the Whale Maid releases in the archive only.
+  if (model.characterId === 'deep-whale-maid') return [];
   const issues = modelIssues(model);
   if (!characters.some(character => character.id === model.characterId)) issues.push('unknown character');
   if (!issues.length) {

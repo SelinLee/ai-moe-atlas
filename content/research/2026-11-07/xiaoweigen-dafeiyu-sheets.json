@@ -1,0 +1,44 @@
+{
+  "url": "https://github.com/xiaoweigen/deepseek-dafeiyu-assets/blob/7e7a888845877b30314d36a7f274dc3bd6f330b1/README.md",
+  "publisher": "xiaoweigen",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T14:23:11.293Z",
+  "scope": "Pinned project documentation and linked terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/xiaoweigen/deepseek-dafeiyu-assets/blob/7e7a888845877b30314d36a7f274dc3bd6f330b1/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/xiaoweigen/deepseek-dafeiyu-assets/7e7a888845877b30314d36a7f274dc3bd6f330b1/README.md",
+    "commit": "7e7a888845877b30314d36a7f274dc3bd6f330b1",
+    "sourceSha256": "d133a120ba4edd54bf5e0194a4f3b1a157314d3ab469b3f44108b3742b596ff2"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/xiaoweigen/deepseek-dafeiyu-assets/blob/7e7a888845877b30314d36a7f274dc3bd6f330b1/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/xiaoweigen/deepseek-dafeiyu-assets/7e7a888845877b30314d36a7f274dc3bd6f330b1/NOTICE.md",
+      "commit": "7e7a888845877b30314d36a7f274dc3bd6f330b1",
+      "sourceSha256": "583770973bd0e3ecce8d6e885a69dcfd4e3c109748d9b6e58676b862fa6b11bf"
+    },
+    {
+      "url": "https://github.com/xiaoweigen/deepseek-dafeiyu-assets/blob/7e7a888845877b30314d36a7f274dc3bd6f330b1/licenses/YunYueSama-ASSET_LICENSE.md",
+      "rawUrl": "https://raw.githubusercontent.com/xiaoweigen/deepseek-dafeiyu-assets/7e7a888845877b30314d36a7f274dc3bd6f330b1/licenses/YunYueSama-ASSET_LICENSE.md",
+      "commit": "7e7a888845877b30314d36a7f274dc3bd6f330b1",
+      "sourceSha256": "6ec5e61796b95f10eec94d46ec48c287a708fabdd494241f0d1d6cc64864625c"
+    },
+    {
+      "url": "https://github.com/YunYueSama/codex-deepseek-pet/blob/7661c8b304c5400701f91da01b1a643a207331de/ASSET_LICENSE.md",
+      "rawUrl": "https://raw.githubusercontent.com/YunYueSama/codex-deepseek-pet/7661c8b304c5400701f91da01b1a643a207331de/ASSET_LICENSE.md",
+      "commit": "7661c8b304c5400701f91da01b1a643a207331de",
+      "sourceSha256": "6ec5e61796b95f10eec94d46ec48c287a708fabdd494241f0d1d6cc64864625c"
+    }
+  ],
+  "findings": {
+    "method": "AI-assisted adaptations as described by publisher",
+    "localContributionLicense": "CC BY-NC-SA 4.0",
+    "creditChain": [
+      "上善无形",
+      "ZipZipPipe",
+      "YunYueSama",
+      "xiaoweigen"
+    ],
+    "upstreamTerms": "YunYueSama custom attribution license applies to their contribution"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1zp4E6WEDo/",
+  "publisher": "白河豚战士",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zp4E6WEDo",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:55:25.291Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1zp4E6WEDo",
+    "title": "大肥鱼赚到token啦，和claude约会，开心(*¯︶¯*)",
+    "owner": {
+      "name": "白河豚战士",
+      "mid": 412863108
+    },
+    "pubdate": 1794046900,
+    "descriptionSha256": "1fa24ef30c09970d11ac6a8533f661bc4671d63877adce9122728b963a469906",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

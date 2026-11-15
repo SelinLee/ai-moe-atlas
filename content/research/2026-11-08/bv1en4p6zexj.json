@@ -1,0 +1,29 @@
+{
+  "url": "https://www.bilibili.com/video/BV1eN4P6zEXJ/",
+  "publisher": "帆船不翻船-_-",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eN4P6zEXJ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:32:25.621Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1eN4P6zEXJ",
+    "title": "mimo娘的超可爱动作展示！第一弹",
+    "owner": {
+      "name": "帆船不翻船-_-",
+      "mid": 354872830
+    },
+    "pubdate": 1793633004,
+    "descriptionSha256": "b2ae09d0214db6196fb19e6e0dfe4718abfa5707cffeca5c2173c5b75eea4ca4",
+    "descriptionEvidence": [
+      "形象来源：@甶丶"
+    ]
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "甶丶 · 娘化 MiMo",
+      "url": "https://www.bilibili.com/opus/1242097128919007239"
+    }
+  ]
+}

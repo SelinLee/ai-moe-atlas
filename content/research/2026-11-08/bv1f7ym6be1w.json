@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1f7YM6BE1w/",
+  "publisher": "土豆AX",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1f7YM6BE1w",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:25:57.043Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1f7YM6BE1w",
+    "title": "当全球AI娘聚在一起，会发生什么？（GPT，deepseek，Claude们的温馨日常）",
+    "owner": {
+      "name": "土豆AX",
+      "mid": 510979050
+    },
+    "pubdate": 1789020355
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

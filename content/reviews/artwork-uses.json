@@ -2394,5 +2394,118 @@
         "reviewNote": "Specific complete-image output and visible attribution panel checked against retained artwork statement; no additional creator authorization claimed."
       }
     }
+  },
+  {
+    "characterId": "school-op-copilot",
+    "reviewedAt": "2026-11-08",
+    "reviewBasis": "Pinned creator artwork statement, original PNG and cast entry checked in isolated headless Chrome.",
+    "artworks": [
+      {
+        "assetId": "portrait",
+        "sha256": "da26d83b68e2efc8f9153661dbc354e167f76b710501b4b73193c7141e483ab9"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/README.md",
+        "localPath": "collected/school-op-copilot/evidence/source-statement-1.json",
+        "sha256": "a166c11ce7ad9cc7cc4c4a4c6fee441beb66a9cbc93008d3c96e608c112e8c79"
+      },
+      {
+        "sourceUrl": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/README.md",
+        "localPath": "collected/school-op-copilot/evidence/source-statement-2.json",
+        "sha256": "434bba504e6a4a6a324695fb58a16fc6a3bc66adc1226e9aaa302b776deee5f6"
+      },
+      {
+        "sourceUrl": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/copilot.prompt.txt",
+        "localPath": "collected/school-op-copilot/evidence/source-statement-3.json",
+        "sha256": "d434cd8846ed56aabeb56476980045dd3d7f9255cc2d710a7c577a120967622f"
+      },
+      {
+        "sourceUrl": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/LICENSE",
+        "localPath": "collected/school-op-copilot/evidence/source-statement-4.json",
+        "sha256": "34717fe637260340a421b5f596470e6d44eed57e36daaf83526b6c00036e7cf3"
+      }
+    ],
+    "evidenceUrl": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/LICENSE",
+    "attribution": [
+      {
+        "name": "ai-school-op · lshhhhhhh",
+        "url": "https://github.com/lshhhhhhh/ai-school-op",
+        "role": "publisher",
+        "publication": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/copilot.png"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "reviewedAt": "2026-11-08",
+        "conditions": {
+          "zh": "非商业展示完整设定图，保留作者、原图出处、CC BY-NC 4.0 链接与处理说明。",
+          "en": "Show the complete design noncommercially and retain creator credit, the original and license links, and the processing note.",
+          "ja": "設定画全体を非商用で表示し、作者・原図リンク・ライセンス・加工内容を表示します。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-11-08",
+        "conditions": {
+          "zh": "非商业完整图像等比适配、留边及格式转换。保留独立署名区、原图链接、许可和处理说明。",
+          "en": "Noncommercial full-image fitting, padding and format conversion. Keep the credit area, original link, license and processing note.",
+          "ja": "画像全体の比率維持リサイズ・余白追加・形式変換を非商用で行い、クレジット欄、原図リンク、ライセンス、加工表示を保持します。"
+        }
+      },
+      "full-portrait": {
+        "decision": "allowed",
+        "reviewedAt": "2026-11-08",
+        "conditions": {
+          "zh": "非商业完整图像等比适配、留边及格式转换。保留独立署名区、原图链接、许可和处理说明。",
+          "en": "Noncommercial full-image fitting, padding and format conversion. Keep the credit area, original link, license and processing note.",
+          "ja": "画像全体の比率維持リサイズ・余白追加・形式変換を非商用で行い、クレジット欄、原図リンク、ライセンス、加工表示を保持します。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "尚未针对该输出形式确认用途；采用无作品图或仅链接方案。",
+          "en": "This output format has not been reviewed; use text or a source link without artwork.",
+          "ja": "この出力形式の用途は未確認。作品画像を使わず、文字または出典リンクで表示します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "allowed",
+        "reviewedAt": "2026-11-08",
+        "conditions": {
+          "zh": "非商业展示完整设定图，保留作者、原图出处、CC BY-NC 4.0 链接与处理说明。",
+          "en": "Show the complete design noncommercially and retain creator credit, the original and license links, and the processing note.",
+          "ja": "設定画全体を非商用で表示し、作者・原図リンク・ライセンス・加工内容を表示します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-11-08",
+        "conditions": {
+          "zh": "非商业完整图像等比适配、留边及格式转换。保留独立署名区、原图链接、许可和处理说明。",
+          "en": "Noncommercial full-image fitting, padding and format conversion. Keep the credit area, original link, license and processing note.",
+          "ja": "画像全体の比率維持リサイズ・余白追加・形式変換を非商用で行い、クレジット欄、原図リンク、ライセンス、加工表示を保持します。"
+        }
+      }
+    }
   }
 ]

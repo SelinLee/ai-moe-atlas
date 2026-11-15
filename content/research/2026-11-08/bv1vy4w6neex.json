@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1vy4w6NEeX/",
+  "publisher": "千问大小姐驾到",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vy4w6NEeX",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:32:27.197Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1vy4w6NEeX",
+    "title": "鲸鱼娘固然可爱，但本小姐的舞台也毫不逊色｜千问大小姐驾到，大肥鱼统统闪开！",
+    "owner": {
+      "name": "千问大小姐驾到",
+      "mid": 3747575389752369
+    },
+    "pubdate": 1793613839,
+    "descriptionSha256": "3ff6caf95d1ef5800bbb2db7e218919771358ce92cfbfbb37bc125baa98e8b0d",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

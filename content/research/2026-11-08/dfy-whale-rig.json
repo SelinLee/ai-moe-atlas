@@ -1,0 +1,38 @@
+{
+  "url": "https://github.com/D70w/dsh-dfy/blob/689d09d422c8e1738dacff8b0858fa9050c48fee/README.md",
+  "publisher": "D70w",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T17:43:16.760Z",
+  "scope": "Pinned publication, relevant terms and original links checked.",
+  "pinnedDocument": {
+    "url": "https://github.com/D70w/dsh-dfy/blob/689d09d422c8e1738dacff8b0858fa9050c48fee/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/D70w/dsh-dfy/689d09d422c8e1738dacff8b0858fa9050c48fee/README.md",
+    "commit": "689d09d422c8e1738dacff8b0858fa9050c48fee",
+    "sourceSha256": "720bc9bb139ffdc814a5cf9c244430185586830d11075fe00df084e17ec93db4"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/D70w/dsh-dfy/blob/689d09d422c8e1738dacff8b0858fa9050c48fee/ASSETS_LICENSE.md",
+      "rawUrl": "https://raw.githubusercontent.com/D70w/dsh-dfy/689d09d422c8e1738dacff8b0858fa9050c48fee/ASSETS_LICENSE.md",
+      "commit": "689d09d422c8e1738dacff8b0858fa9050c48fee",
+      "sourceSha256": "866174ab325727890e5a39f2899e8b34a14edc18b4c41d59e76ae5fc5c201058"
+    },
+    {
+      "url": "https://github.com/D70w/dsh-dfy/blob/689d09d422c8e1738dacff8b0858fa9050c48fee/character-packs/default-whale/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/D70w/dsh-dfy/689d09d422c8e1738dacff8b0858fa9050c48fee/character-packs/default-whale/LICENSE",
+      "commit": "689d09d422c8e1738dacff8b0858fa9050c48fee",
+      "sourceSha256": "06c914da30527c4e761095879b95882ad57370cf5632f304ae27403d875df3dd"
+    },
+    {
+      "url": "https://github.com/D70w/dsh-dfy/blob/689d09d422c8e1738dacff8b0858fa9050c48fee/character-packs/default-whale/SOURCE.md",
+      "rawUrl": "https://raw.githubusercontent.com/D70w/dsh-dfy/689d09d422c8e1738dacff8b0858fa9050c48fee/character-packs/default-whale/SOURCE.md",
+      "commit": "689d09d422c8e1738dacff8b0858fa9050c48fee",
+      "sourceSha256": "a089b499d40126cb61f80896feb95c487533031dd5dad4bec06d880e69e5d52d"
+    }
+  ],
+  "findings": {
+    "base": "上善无形 · 鲸鱼娘形象",
+    "characterPack": "CC BY-NC-SA 4.0",
+    "runtime": "character-packs/default-whale/runtime/production-v1/"
+  }
+}

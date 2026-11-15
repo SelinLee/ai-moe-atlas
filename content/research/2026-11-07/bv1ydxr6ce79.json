@@ -1,0 +1,29 @@
+{
+  "url": "https://www.bilibili.com/video/BV1YdxR6CE79/",
+  "publisher": "真誠最高",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YdxR6CE79",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:19:26.082Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1YdxR6CE79",
+    "title": "大肥鱼：自 由 美 利 鲸",
+    "owner": {
+      "name": "真誠最高",
+      "mid": 570592
+    },
+    "pubdate": 1793869200
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "uploaderCharacterReferences": [
+    "ZipZipPipe",
+    "这个刀子真甜"
+  ]
+}

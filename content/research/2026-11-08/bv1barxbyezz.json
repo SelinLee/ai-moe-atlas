@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1bARXBYEZz/",
+  "publisher": "ZipZipPipe",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bARXBYEZz",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:10:10.397Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1bARXBYEZz",
+    "title": "“亿万”身家的她们",
+    "owner": {
+      "name": "ZipZipPipe",
+      "mid": 4168597
+    },
+    "pubdate": 1778304094
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

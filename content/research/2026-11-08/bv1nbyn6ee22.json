@@ -1,0 +1,29 @@
+{
+  "url": "https://www.bilibili.com/video/BV1nbYN6eE22/",
+  "publisher": "小猪P_",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nbYN6eE22",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:15:04.915Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1nbYN6eE22",
+    "title": "大肥鱼 vs 豆包",
+    "owner": {
+      "name": "小猪P_",
+      "mid": 2283296
+    },
+    "pubdate": 1789014481,
+    "descriptionSha256": "cb9ab96656f3ff6d75b2b8355b40efac060f60ca3fb61e160ddd1114aaffe7c6",
+    "descriptionEvidence": [
+      "依CC BY-NC-SA 4.0非商业使用"
+    ]
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    }
+  ]
+}

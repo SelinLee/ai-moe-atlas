@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1qceS6sEbu/",
+  "publisher": "Galen563",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qceS6sEbu",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:25:57.714Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1qceS6sEbu",
+    "title": "【DeepSeekV4.1Flash】world.execute (me) ;",
+    "owner": {
+      "name": "Galen563",
+      "mid": 3546597281499321
+    },
+    "pubdate": 1789744383
+  },
+  "credits": [
+    {
+      "role": "cited-by",
+      "title": "默空诺 · 九位 AI 娘",
+      "url": "https://www.bilibili.com/video/BV1ARpZ6wEB7/"
+    }
+  ]
+}

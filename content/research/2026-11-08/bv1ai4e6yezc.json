@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ai4E6yEzC/",
+  "publisher": "小五是莪",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ai4E6yEzC",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:15:03.416Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1ai4E6yEzC",
+    "title": "当豆包千问鲸鱼娘成了世界主宰",
+    "owner": {
+      "name": "小五是莪",
+      "mid": 3546887755925718
+    },
+    "pubdate": 1794040487,
+    "descriptionSha256": "6266384d5d693c069530312a42909330fde9959095d701a158e1ef8f2022793e",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

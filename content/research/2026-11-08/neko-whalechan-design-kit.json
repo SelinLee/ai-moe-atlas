@@ -1,0 +1,26 @@
+{
+  "url": "https://github.com/Neko3000/deepseek-whalechan/blob/bb8182a0092004c4a9525254f96aeaf74874b9a9/README.zh.md",
+  "publisher": "Neko3000",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T17:15:42.100Z",
+  "scope": "Pinned publication, relevant terms and original links checked.",
+  "pinnedDocument": {
+    "url": "https://github.com/Neko3000/deepseek-whalechan/blob/bb8182a0092004c4a9525254f96aeaf74874b9a9/README.zh.md",
+    "rawUrl": "https://raw.githubusercontent.com/Neko3000/deepseek-whalechan/bb8182a0092004c4a9525254f96aeaf74874b9a9/README.zh.md",
+    "commit": "bb8182a0092004c4a9525254f96aeaf74874b9a9",
+    "sourceSha256": "5b00046463a5a6234b2b89a4255d0adc3f3d6309df3767992000e499d5c27cae"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/Neko3000/deepseek-whalechan/blob/bb8182a0092004c4a9525254f96aeaf74874b9a9/THIRD-PARTY-NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/Neko3000/deepseek-whalechan/bb8182a0092004c4a9525254f96aeaf74874b9a9/THIRD-PARTY-NOTICES.md",
+      "commit": "bb8182a0092004c4a9525254f96aeaf74874b9a9",
+      "sourceSha256": "2529f49c4d45ae7411a8c9057cbab188d6210c7f651f0476ced587d08c1a5a77"
+    }
+  ],
+  "findings": {
+    "software": "MIT",
+    "projectSpecifications": "CC BY-NC-SA 4.0",
+    "referenceImages": "separate terms"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1xT4t6xEfE/",
+  "publisher": "GLM小狐娘运营呀",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xT4t6xEfE",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:32:25.620Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1xT4t6xEfE",
+    "title": "【DAY14】本狐掏空人类钱包仿了个pv，人类现在还在哭",
+    "owner": {
+      "name": "GLM小狐娘运营呀",
+      "mid": 3747573313572699
+    },
+    "pubdate": 1793855886,
+    "descriptionSha256": "76c89ce298042e5cad978aabae6794f556b69258d9606fb682c362f543b59b64",
+    "descriptionEvidence": [
+      "本狐看上了一个PV：BV1ib411b7zj",
+      "「GLM 小狐娘」为自设角色"
+    ]
+  },
+  "credits": [
+    {
+      "role": "inspiration",
+      "title": "Bilibili · Reference PV",
+      "url": "https://www.bilibili.com/video/BV1ib411b7zj/"
+    }
+  ]
+}

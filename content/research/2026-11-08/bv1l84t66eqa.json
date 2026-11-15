@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1L84t66EQA/",
+  "publisher": "Sakirs落笙",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1L84t66EQA",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:42:58.878Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1L84t66EQA",
+    "title": "小狐狸和kimi联手，这下大肥鱼可惨了",
+    "owner": {
+      "name": "Sakirs落笙",
+      "mid": 1146906191
+    },
+    "pubdate": 1793853166,
+    "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

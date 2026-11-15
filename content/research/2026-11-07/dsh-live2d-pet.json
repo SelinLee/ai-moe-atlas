@@ -1,0 +1,32 @@
+{
+  "url": "https://github.com/hjw200775-ops/dsh-live2d-pet/blob/e4752c2cadd561ee2ae1804d81d1a410458a8f2c/README.md",
+  "publisher": "hjw200775-ops",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T14:45:00.661Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/hjw200775-ops/dsh-live2d-pet/blob/e4752c2cadd561ee2ae1804d81d1a410458a8f2c/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/hjw200775-ops/dsh-live2d-pet/e4752c2cadd561ee2ae1804d81d1a410458a8f2c/README.md",
+    "commit": "e4752c2cadd561ee2ae1804d81d1a410458a8f2c",
+    "sourceSha256": "f2b88cafcc576c8cd741f86178d14c4704663f89e5022e1a0acbb171c32ddd42"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/hjw200775-ops/dsh-live2d-pet/blob/e4752c2cadd561ee2ae1804d81d1a410458a8f2c/docs/THIRD-PARTY.md",
+      "rawUrl": "https://raw.githubusercontent.com/hjw200775-ops/dsh-live2d-pet/e4752c2cadd561ee2ae1804d81d1a410458a8f2c/docs/THIRD-PARTY.md",
+      "commit": "e4752c2cadd561ee2ae1804d81d1a410458a8f2c",
+      "sourceSha256": "80bb762b5a2e915b64cbd001052ad72240b4709cb964c3aa977d4e50bf439fc4"
+    },
+    {
+      "url": "https://github.com/hjw200775-ops/dsh-live2d-pet/blob/e4752c2cadd561ee2ae1804d81d1a410458a8f2c/docs/permission.md",
+      "rawUrl": "https://raw.githubusercontent.com/hjw200775-ops/dsh-live2d-pet/e4752c2cadd561ee2ae1804d81d1a410458a8f2c/docs/permission.md",
+      "commit": "e4752c2cadd561ee2ae1804d81d1a410458a8f2c",
+      "sourceSha256": "9bc8e59a7e48e534c3411bf03a9432faa99866bcf88cbf30dbe9cdef18f68c71"
+    }
+  ],
+  "findings": {
+    "repositoryDistributionGrantReportedByMaintainer": "2026-10-31, GitHub Release of this repository only",
+    "primaryPrivateGrant": "not independently reviewed",
+    "codeAndRuntime": "distinct from artwork and model"
+  }
+}

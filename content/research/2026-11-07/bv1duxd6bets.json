@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1DuxD6bEts/",
+  "publisher": "那就那就打断",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1DuxD6bEts",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:55:22.511Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1DuxD6bEts",
+    "title": "看千问大小姐跳舞",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1793757372
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

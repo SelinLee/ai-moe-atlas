@@ -1,0 +1,28 @@
+{
+  "url": "https://github.com/GarfieldZhung/DeepSeek-Whale-Girl/blob/fce93bc9eb6b32c348119e8a88c6848bcc80a240/README.md",
+  "publisher": "GarfieldZhung",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T14:23:10.988Z",
+  "scope": "Pinned project documentation and linked terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/GarfieldZhung/DeepSeek-Whale-Girl/blob/fce93bc9eb6b32c348119e8a88c6848bcc80a240/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/GarfieldZhung/DeepSeek-Whale-Girl/fce93bc9eb6b32c348119e8a88c6848bcc80a240/README.md",
+    "commit": "fce93bc9eb6b32c348119e8a88c6848bcc80a240",
+    "sourceSha256": "370cdfdb33af14ffa028243840117656d01d7a70b709171934ba8f81c9bdb809"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/GarfieldZhung/DeepSeek-Whale-Girl/blob/fce93bc9eb6b32c348119e8a88c6848bcc80a240/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/GarfieldZhung/DeepSeek-Whale-Girl/fce93bc9eb6b32c348119e8a88c6848bcc80a240/THIRD_PARTY_NOTICES.md",
+      "commit": "fce93bc9eb6b32c348119e8a88c6848bcc80a240",
+      "sourceSha256": "cd6815344271c3e3321407d58da512e680da5589649703885a4d44caa62b4339"
+    }
+  ],
+  "findings": {
+    "code": "MIT",
+    "baseImage": "supplied by project initiator",
+    "baseImageCreator": "unverified",
+    "discoveryLead": "Douyin short link named in third-party notices",
+    "stateImages": "generated from base image"
+  }
+}

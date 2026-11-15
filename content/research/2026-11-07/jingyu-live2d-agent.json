@@ -1,0 +1,29 @@
+{
+  "url": "https://github.com/InariNGT-Ofiicial/jingyu-live2d-agent/blob/b5a64a1ab5c6d3f6806795c353158dc006dd1be7/README.md",
+  "publisher": "InariNGT-Ofiicial",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T15:48:00.703Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/InariNGT-Ofiicial/jingyu-live2d-agent/blob/b5a64a1ab5c6d3f6806795c353158dc006dd1be7/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/InariNGT-Ofiicial/jingyu-live2d-agent/b5a64a1ab5c6d3f6806795c353158dc006dd1be7/README.md",
+    "commit": "b5a64a1ab5c6d3f6806795c353158dc006dd1be7",
+    "sourceSha256": "77610e1afd7871c3614d7887fba800b4f5e2ca85b4121098aa4526cde42a16af"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/InariNGT-Ofiicial/jingyu-live2d-agent/blob/b5a64a1ab5c6d3f6806795c353158dc006dd1be7/LICENSE.txt",
+      "rawUrl": "https://raw.githubusercontent.com/InariNGT-Ofiicial/jingyu-live2d-agent/b5a64a1ab5c6d3f6806795c353158dc006dd1be7/LICENSE.txt",
+      "commit": "b5a64a1ab5c6d3f6806795c353158dc006dd1be7",
+      "sourceSha256": "c26f076f0d838a116145ac4608cb5e1968c4ae71e096fb0ee517abd1db6a8206"
+    }
+  ],
+  "findings": {
+    "code": "MIT",
+    "modelExampleCredits": [
+      "神宫凉子",
+      "霓虹猫_NeonNeko"
+    ],
+    "modelAndRuntimeTerms": "separate"
+  }
+}

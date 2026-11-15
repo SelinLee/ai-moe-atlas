@@ -1,0 +1,47 @@
+{
+  "url": "https://www.bilibili.com/video/BV1mThC6LEbA/",
+  "publisher": "小猪P_",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mThC6LEbA",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:08:40.852Z",
+  "scope": "Official video metadata checked. Original video and reuse terms were not independently reviewed.",
+  "metadata": {
+    "bvid": "BV1mThC6LEbA",
+    "title": "大肥鱼单曲 - Let Me Go 动画PV 【AI MV大赛】",
+    "owner": {
+      "name": "小猪P_",
+      "mid": 2283296
+    },
+    "pubdate": 1790067600
+  },
+  "credits": [
+    {
+      "title": "罐装毕加索 · Let Me Go",
+      "url": "https://www.bilibili.com/video/BV1XbY66nEWr/",
+      "role": "music-reference"
+    },
+    {
+      "title": "星落落_oi · Let me go大肥鱼和用户深情对唱",
+      "url": "https://www.bilibili.com/video/BV13SYr6dEiQ/",
+      "role": "credited-upstream-version"
+    },
+    {
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073",
+      "role": "character-original"
+    }
+  ],
+  "linkedPublicationEvidence": [
+    {
+      "bvid": "BV13SYr6dEiQ",
+      "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV13SYr6dEiQ",
+      "httpStatus": 200,
+      "code": 0,
+      "accessedAt": "2026-11-07T14:09:42.693Z",
+      "title": "Let me go大肥鱼和用户深情对唱",
+      "publisher": "星落落_oi",
+      "pubdate": 1789353559
+    }
+  ]
+}

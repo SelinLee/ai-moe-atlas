@@ -1,0 +1,65 @@
+{
+  "url": "https://github.com/HABAI182/ai-girls-atlas/blob/21fa0746ab6cdee2f19c0c99828f87e063b13565/characters/deepseek/README.md",
+  "publisher": "HABAI182",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T16:13:38.097Z",
+  "scope": "Pinned archive, catalog and supplied PNG checked. The repository labels it as a five-second frame from the creator video, not a standalone original sheet.",
+  "pinnedDocument": {
+    "url": "https://github.com/HABAI182/ai-girls-atlas/blob/21fa0746ab6cdee2f19c0c99828f87e063b13565/characters/deepseek/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/HABAI182/ai-girls-atlas/21fa0746ab6cdee2f19c0c99828f87e063b13565/characters/deepseek/README.md",
+    "commit": "21fa0746ab6cdee2f19c0c99828f87e063b13565",
+    "sourceSha256": "601e8016441f9fd69f4d9fa99b691a24ddbd508e3dba8dd7108612c3047220db"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/HABAI182/ai-girls-atlas/blob/21fa0746ab6cdee2f19c0c99828f87e063b13565/data/assets.json",
+      "rawUrl": "https://raw.githubusercontent.com/HABAI182/ai-girls-atlas/21fa0746ab6cdee2f19c0c99828f87e063b13565/data/assets.json",
+      "commit": "21fa0746ab6cdee2f19c0c99828f87e063b13565",
+      "sourceSha256": "8791cbea455deb7b7d59441f05dca39cccae4f08aebb8585651f8af24430bb49"
+    }
+  ],
+  "indexedFrame": {
+    "path": "assets/zipzippipe/deepseek/video-frame-zipzippipe-BV1tE9XBbErS-05s.png",
+    "bytes": 712701,
+    "sha256": "cbcd4b58b2115b8dbc7ece8271026841928be7ac594705693357ade8e8baacef",
+    "id": "zipzippipe-BV1tE9XBbErS-05s",
+    "character_id": "deepseek",
+    "collection": "zipzippipe",
+    "title": "作者原版Q版展示截帧",
+    "kind": "video-frame",
+    "creators": [
+      "上善无形（角色原型）",
+      "ZipZipPipe（女仆二次设计）"
+    ],
+    "width": 720,
+    "height": 1280,
+    "source_url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+    "retrieved_url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/71defe761164407514c1db9bac582d74eab4cdac/characters/deepseek/chibi/zipzippipe-BV1tE9XBbErS-05s.png",
+    "supplier": "shuaizenge/ai-girls",
+    "supplier_tree_sha": "71defe761164407514c1db9bac582d74eab4cdac",
+    "upstream_path": "characters/deepseek/chibi/zipzippipe-BV1tE9XBbErS-05s.png",
+    "license": {
+      "status": "author_declared",
+      "identifier": "CC-BY-NC-SA-4.0",
+      "evidence_url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+      "note": "上善无形原角色 → ZipZipPipe 女仆二次设计；社区补充图的具体绘制者仍未核实。"
+    },
+    "modifications": "原文件字节保留；仅调整本仓库路径。截帧由上游制作，非原始Q版立绘。",
+    "source_timestamp_seconds": 5
+  },
+  "observedFrame": {
+    "url": "https://github.com/HABAI182/ai-girls-atlas/blob/21fa0746ab6cdee2f19c0c99828f87e063b13565/assets/zipzippipe/deepseek/video-frame-zipzippipe-BV1tE9XBbErS-05s.png",
+    "rawUrl": "https://raw.githubusercontent.com/HABAI182/ai-girls-atlas/21fa0746ab6cdee2f19c0c99828f87e063b13565/assets/zipzippipe/deepseek/video-frame-zipzippipe-BV1tE9XBbErS-05s.png",
+    "commit": "21fa0746ab6cdee2f19c0c99828f87e063b13565",
+    "path": "assets/zipzippipe/deepseek/video-frame-zipzippipe-BV1tE9XBbErS-05s.png",
+    "gitBlobSha1": "7a7787255b4c3f8ce73b2cd85ac6412a75c544cb",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-07T16:14:06.435Z",
+    "sourceSha256": "cbcd4b58b2115b8dbc7ece8271026841928be7ac594705693357ade8e8baacef",
+    "bytes": 712701,
+    "width": 720,
+    "height": 1280,
+    "format": "png",
+    "hasAlpha": false
+  }
+}

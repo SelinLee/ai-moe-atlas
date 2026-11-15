@@ -1,3 +1,6 @@
+import { assertSource } from './policy.mjs';
+import { assertUsageReview } from '../../src/lib/usage-policy.mjs';
+
 // Discovery records stay outside the published artwork and export pipelines.
 const date = value => typeof value === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(value) && !Number.isNaN(Date.parse(value));
 const timestamp = value => typeof value === 'string' && !Number.isNaN(Date.parse(value)) && value.includes('T');
@@ -67,7 +70,24 @@ export function assertCandidateReport(report, { entities, characters = [], sourc
       if (product.official && !sourceURLs.includes(product.identityEvidenceUrl)) throw new Error('Official identity requires a linked source, not an image license');
     }
     if (!c.generatorVariants.every(v => text(v.generator) && sourceURLs.includes(v.sourceUrl))) throw new Error('Generator variants must reference their source group');
-    if ([...characters, ...sources].some(record => record.id === c.id || sourceURLs.includes(record.source) || sourceURLs.includes(record.originalPublication) || sourceURLs.includes(record.pageUrl)) || reviews.some(r => r.characterId === c.id)) throw new Error('Pending candidate leaked into the published artwork pipeline');
+    // A group page can also cite one independently reviewed artwork. This relation
+    // documents that exact artwork; it grants nothing to the pending group.
+    const reviewedIds = new Set();
+    if (c.reviewedPublications !== undefined) {
+      if (c.grouping !== 'source-group' || !Array.isArray(c.reviewedPublications) || !c.reviewedPublications.length) throw new Error('Reviewed publications require an explicit source-group relation');
+      for (const publication of c.reviewedPublications) {
+        const id = publication?.characterId, original = publication?.originalPublication;
+        if (!text(id) || id === c.id || reviewedIds.has(id) || !https(original) || sourceURLs.includes(original)) throw new Error('Invalid reviewed artwork relation');
+        const character = characters.find(record => record.id === id);
+        const source = sources.find(record => record.id === id && record.characterId === id);
+        const review = reviews.find(record => record.characterId === id);
+        if (!character || !source || !review || !sourceURLs.includes(character.source) || !sourceURLs.includes(source.pageUrl) || character.originalPublication !== original || source.originalPublication !== original || !review.artworks?.length || !review.evidence?.length) throw new Error('Reviewed artwork relation must match independent publication and retained evidence');
+        assertSource(source);
+        assertUsageReview(review);
+        reviewedIds.add(id);
+      }
+    }
+    if ([...characters, ...sources].some(record => record.id === c.id || sourceURLs.includes(record.originalPublication) || (!reviewedIds.has(record.id) && (sourceURLs.includes(record.source) || sourceURLs.includes(record.pageUrl)))) || reviews.some(r => r.characterId === c.id)) throw new Error('Pending candidate leaked into the published artwork pipeline');
   }
   return report.candidates.length;
 }

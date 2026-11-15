@@ -1,0 +1,38 @@
+{
+  "url": "https://www.bilibili.com/video/BV1XbY66nEWr/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XbY66nEWr",
+  "accessedAt": "2026-11-07T14:00:37.172Z",
+  "httpStatus": 200,
+  "code": 0,
+  "scope": "Official video metadata and upstream track credit checked. No audio or lyrics reproduced.",
+  "metadata": {
+    "bvid": "BV1XbY66nEWr",
+    "title": "[AI] 大肥鱼摸鱼歌《Let Me Go》",
+    "owner": {
+      "name": "罐装毕加索",
+      "mid": 290500073
+    },
+    "pubdate": 1789330345
+  },
+  "earlierPublication": {
+    "url": "https://www.bilibili.com/video/BV1R5YL69EC5/",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1R5YL69EC5",
+    "accessedAt": "2026-11-07T14:02:14.760Z",
+    "httpStatus": 200,
+    "code": 0,
+    "scope": "Official video metadata checked.",
+    "metadata": {
+      "bvid": "BV1R5YL69EC5",
+      "title": "音鲸干活唱歌1分钟纯享版",
+      "owner": {
+        "name": "星落落_oi",
+        "mid": 30584746
+      },
+      "pubdate": 1789114189
+    }
+  },
+  "credits": {
+    "originalUploader": "星落落_oi",
+    "characterBackgroundCredit": "ZipZipPipe"
+  }
+}

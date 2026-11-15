@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1JKeh6uEnx/",
+  "publisher": "樱华辉月",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JKeh6uEnx",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:55:23.803Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1JKeh6uEnx",
+    "title": "我们的哈基米Gemini，终于要站起来了吗",
+    "owner": {
+      "name": "樱华辉月",
+      "mid": 2015579
+    },
+    "pubdate": 1789825371
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

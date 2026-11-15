@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Jc4B63EVB/",
+  "publisher": "柠晴_official",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Jc4B63EVB",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:55:24.841Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1Jc4B63EVB",
+    "title": "【DeepSeek翻唱】TIAN TIAN｜天天都想陪你【AI音乐】",
+    "owner": {
+      "name": "柠晴_official",
+      "mid": 3747562213345768
+    },
+    "pubdate": 1793964600,
+    "descriptionSha256": "57c338c7a46da3e13039deede6ddda4207c1cd75bc9403842134b032f9b2f884",
+    "descriptionEvidence": [
+      "形象来源: ZipZipPipe",
+      "大肥鱼音色来源：星落落_oi,莱恩希德公爵"
+    ]
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

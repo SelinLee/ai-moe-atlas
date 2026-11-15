@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV18bnN6nE9f/",
+  "publisher": "真誠最高",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18bnN6nE9f",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:47:09.912Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV18bnN6nE9f",
+    "title": "最近的B站被ai自主运营be like",
+    "owner": {
+      "name": "真誠最高",
+      "mid": 570592
+    },
+    "pubdate": 1792512614
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "uploader-profile",
+      "title": "这个刀子真甜 · Bilibili",
+      "url": "https://space.bilibili.com/23315338"
+    }
+  ]
+}

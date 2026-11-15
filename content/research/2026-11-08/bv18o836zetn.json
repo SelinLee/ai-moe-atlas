@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV18o836ZEtn/",
+  "publisher": "京阿尼同萌会",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18o836ZEtn",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:01:23.890Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV18o836ZEtn",
+    "title": "从今天起，我来当你的眼睛（鲸鱼娘×千问娘）",
+    "owner": {
+      "name": "京阿尼同萌会",
+      "mid": 93870180
+    },
+    "pubdate": 1787060193
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1F34G6BEVA/",
+  "publisher": "莫末陌寞",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1F34G6BEVA",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:55:24.289Z",
+  "scope": "Official creator video metadata and description checked. Sticker files and per-item usage terms were not accessed.",
+  "metadata": {
+    "bvid": "BV1F34G6BEVA",
+    "title": "[Gemini]A创聊天表情64张",
+    "owner": {
+      "name": "莫末陌寞",
+      "mid": 4444306
+    },
+    "pubdate": 1793714526
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "findings": {
+    "stickerCountInTitle": 64,
+    "designCredit": "ZipZipPipe",
+    "artworkRedistributionTerms": "not located in description"
+  }
+}

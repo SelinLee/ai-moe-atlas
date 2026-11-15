@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Hpxv6vE3T/",
+  "publisher": "莫快莫慢",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Hpxv6vE3T",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:31:23.397Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1Hpxv6vE3T",
+    "title": "gemini猫猫难到也怕鬼吗？！",
+    "owner": {
+      "name": "莫快莫慢",
+      "mid": 10078784
+    },
+    "pubdate": 1793358000
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

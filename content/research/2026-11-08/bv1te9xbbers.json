@@ -1,0 +1,35 @@
+{
+  "url": "https://www.bilibili.com/video/BV1tE9XBbErS/",
+  "publisher": "ZipZipPipe",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tE9XBbErS",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:10:09.233Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1tE9XBbErS",
+    "title": "大AI和小AI们",
+    "owner": {
+      "name": "ZipZipPipe",
+      "mid": 4168597
+    },
+    "pubdate": 1777740613
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "archived-frame-index",
+      "title": "HABAI182 · DeepSeek reference index",
+      "url": "https://github.com/HABAI182/ai-girls-atlas/blob/21fa0746ab6cdee2f19c0c99828f87e063b13565/characters/deepseek/README.md"
+    }
+  ]
+}

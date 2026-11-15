@@ -1,0 +1,31 @@
+{
+  "url": "https://www.aplaybox.com/details/model/j9z4quaACJV1",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T15:38:49.247Z",
+  "title": "蓝色大肥鱼MMD模型",
+  "publisher": "水原镜",
+  "scope": "Creator distribution page, model title, credits, date and rules checked. Model files and bundled terms were not downloaded.",
+  "responseHtmlSha256": "db95f4c5d9955d48b709accb99d10df9966b26f88ce360c7342e9c2bc94e9edd",
+  "publicationDate": "2026-11-03",
+  "modelId": "j9z4quaACJV1",
+  "credits": {
+    "modeling": "水原镜",
+    "conversionAndRigging": "耶栗Yaki"
+  },
+  "terms": [
+    "禁止商业使用",
+    "禁止用于非MMD视频制作的用途",
+    "禁止二次配布",
+    "允许修改模型",
+    "使用需书写完整借物表"
+  ],
+  "linkedVideo": {
+    "bvid": "BV1tD4X6AE7Q",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tD4X6AE7Q",
+    "observedAt": "2026-11-07T15:36:50.782Z",
+    "publisher": "水原镜",
+    "httpStatus": 200,
+    "code": 0,
+    "creatorStatement": "CC BY-NC-SA 4.0 and noncommercial use stated in video description"
+  }
+}

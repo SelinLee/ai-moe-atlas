@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1CRbQ6tECE/",
+  "publisher": "柳濑青柯",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CRbQ6tECE",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:19:25.568Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1CRbQ6tECE",
+    "title": "成为偶像吧！大肥鱼！",
+    "owner": {
+      "name": "柳濑青柯",
+      "mid": 456624284
+    },
+    "pubdate": 1786885176
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "findings": {
+    "characterReference": "ZipZipPipe",
+    "cover": "GPT-generated",
+    "danceReference": "Zenless Zone Zero"
+  }
+}

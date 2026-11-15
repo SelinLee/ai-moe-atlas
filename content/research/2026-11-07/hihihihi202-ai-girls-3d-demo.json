@@ -1,0 +1,47 @@
+{
+  "url": "https://www.bilibili.com/video/BV1pjnp6pEqG/",
+  "publisher": "hihihihi202",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pjnp6pEqG",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:16:28.055Z",
+  "scope": "Uploader’s official video metadata and modeling notes checked. No 3D model or textures acquired.",
+  "metadata": {
+    "bvid": "BV1pjnp6pEqG",
+    "title": "GPT6建模AI娘全家桶 （大肥鱼，claude, gpt, 豆包，glm, grok, gemini, kimi, minimax, qwen）三渲二",
+    "owner": {
+      "name": "hihihihi202",
+      "mid": 3546568969947566
+    },
+    "pubdate": 1792675296
+  },
+  "credits": [
+    {
+      "role": "production-method",
+      "title": "CXP-2024 · Character Forge",
+      "url": "https://github.com/CXP-2024/cxp-character-forge/blob/db9f7a2318a350a0c8542790fe3af7e338f72b93/README.md"
+    }
+  ],
+  "findings": {
+    "scope": "3D modeling demonstration",
+    "modelsInTitle": [
+      "DeepSeek",
+      "Claude",
+      "GPT",
+      "Doubao",
+      "GLM",
+      "Grok",
+      "Gemini",
+      "Kimi",
+      "MiniMax",
+      "Qwen"
+    ],
+    "methodDoc": {
+      "url": "https://github.com/CXP-2024/cxp-character-forge/blob/db9f7a2318a350a0c8542790fe3af7e338f72b93/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/CXP-2024/cxp-character-forge/db9f7a2318a350a0c8542790fe3af7e338f72b93/README.md",
+      "commit": "db9f7a2318a350a0c8542790fe3af7e338f72b93",
+      "sourceSha256": "05526eafa238f2de1b5bc73c20b0ab44223b8ec28f05438034d82c2cbb48d35e"
+    },
+    "modelRedistributionTerms": "not stated in the checked caption"
+  }
+}

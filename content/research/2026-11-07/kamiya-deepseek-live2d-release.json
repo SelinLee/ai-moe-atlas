@@ -1,0 +1,43 @@
+{
+  "url": "https://www.bilibili.com/video/BV1KmxY66EZ3/",
+  "publisher": "神宫凉子",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T14:45:06.245Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KmxY66EZ3",
+  "code": 0,
+  "scope": "Creator’s official video metadata and description checked. Package terms and private grant evidence were not independently accessed.",
+  "metadata": {
+    "bvid": "BV1KmxY66EZ3",
+    "title": "【免费live2D模型】大肥鱼人手一只的时代到了！？｜Deepseek小鲸鱼｜连带psd一起分享！",
+    "owner": {
+      "name": "神宫凉子",
+      "mid": 13737731
+    },
+    "pubdate": 1793343600
+  },
+  "findings": {
+    "artAndPSD": "神宫凉子",
+    "rig": "霓虹猫_NeonNeko",
+    "videoEditing": "泣零7ero",
+    "characterDesignCredits": [
+      "ZipZipPipe",
+      "上善无形"
+    ],
+    "creatorDescription": "Fan creations using the model, including livestreams, are welcomed. Read the package instructions before use.",
+    "packageTerms": "not independently reviewed",
+    "relatedTermsRecords": [
+      {
+        "url": "https://github.com/hjw200775-ops/dsh-live2d-pet/blob/e4752c2cadd561ee2ae1804d81d1a410458a8f2c/docs/THIRD-PARTY.md",
+        "rawUrl": "https://raw.githubusercontent.com/hjw200775-ops/dsh-live2d-pet/e4752c2cadd561ee2ae1804d81d1a410458a8f2c/docs/THIRD-PARTY.md",
+        "commit": "e4752c2cadd561ee2ae1804d81d1a410458a8f2c",
+        "sourceSha256": "80bb762b5a2e915b64cbd001052ad72240b4709cb964c3aa977d4e50bf439fc4"
+      },
+      {
+        "url": "https://github.com/hjw200775-ops/dsh-live2d-pet/blob/e4752c2cadd561ee2ae1804d81d1a410458a8f2c/docs/permission.md",
+        "rawUrl": "https://raw.githubusercontent.com/hjw200775-ops/dsh-live2d-pet/e4752c2cadd561ee2ae1804d81d1a410458a8f2c/docs/permission.md",
+        "commit": "e4752c2cadd561ee2ae1804d81d1a410458a8f2c",
+        "sourceSha256": "9bc8e59a7e48e534c3411bf03a9432faa99866bcf88cbf30dbe9cdef18f68c71"
+      }
+    ]
+  }
+}

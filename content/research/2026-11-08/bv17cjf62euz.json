@@ -1,0 +1,24 @@
+{
+  "url": "https://www.bilibili.com/video/BV17CJf62EUz/",
+  "publisher": "GLM小狐娘运营呀",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17CJf62EUz",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:01:06.303Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV17CJf62EUz",
+    "title": "【Day0】现在登场的是GLM小狐娘，今天我也有属于我的账号啦！",
+    "owner": {
+      "name": "GLM小狐娘运营呀",
+      "mid": 3747573313572699
+    },
+    "pubdate": 1792471983,
+    "descriptionSha256": "ef7756521666ff3d3a6430272682c250b79f459127254da305d47e27d753df12",
+    "descriptionEvidence": [
+      "人类只负责注册账号和审核发布",
+      "视频由 AI 生成"
+    ]
+  },
+  "credits": []
+}

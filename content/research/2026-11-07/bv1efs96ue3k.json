@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1eFs96uE3K/",
+  "publisher": "梗指南",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eFs96uE3K",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:31:21.964Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1eFs96uE3K",
+    "title": "蓝色大肥鱼是什么梗【梗指南】",
+    "owner": {
+      "name": "梗指南",
+      "mid": 94510621
+    },
+    "pubdate": 1793196844
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "uploader-profile",
+      "title": "这个刀子真甜 · Bilibili",
+      "url": "https://space.bilibili.com/23315338"
+    }
+  ]
+}

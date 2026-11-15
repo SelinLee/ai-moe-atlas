@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ikaZ6rECj/",
+  "publisher": "冬冰",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ikaZ6rECj",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:08:40.860Z",
+  "scope": "Official video metadata checked. Original video and reuse terms were not independently reviewed.",
+  "metadata": {
+    "bvid": "BV1ikaZ6rECj",
+    "title": "我爸给我发了6块钱",
+    "owner": {
+      "name": "冬冰",
+      "mid": 44748304
+    },
+    "pubdate": 1790758493
+  },
+  "credits": [
+    {
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519",
+      "role": "character-reference"
+    },
+    {
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073",
+      "role": "character-original"
+    }
+  ]
+}

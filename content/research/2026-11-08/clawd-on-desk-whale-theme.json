@@ -1,0 +1,32 @@
+{
+  "url": "https://github.com/rullerzhou-afk/clawd-on-desk/blob/323da9f17a9872e1b1ceca6c9c9783e0eaa83a72/README.zh-CN.md",
+  "publisher": "rullerzhou-afk",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T16:10:18.465Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/rullerzhou-afk/clawd-on-desk/blob/323da9f17a9872e1b1ceca6c9c9783e0eaa83a72/README.zh-CN.md",
+    "rawUrl": "https://raw.githubusercontent.com/rullerzhou-afk/clawd-on-desk/323da9f17a9872e1b1ceca6c9c9783e0eaa83a72/README.zh-CN.md",
+    "commit": "323da9f17a9872e1b1ceca6c9c9783e0eaa83a72",
+    "sourceSha256": "9d22465907291e1051362a8a5c6e95323896df6971e442a18e20e7961365c825"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/rullerzhou-afk/clawd-on-desk/blob/323da9f17a9872e1b1ceca6c9c9783e0eaa83a72/assets/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/rullerzhou-afk/clawd-on-desk/323da9f17a9872e1b1ceca6c9c9783e0eaa83a72/assets/LICENSE",
+      "commit": "323da9f17a9872e1b1ceca6c9c9783e0eaa83a72",
+      "sourceSha256": "9b718644846eb2c2098eec0c12f8f8cf78ab89b9dec11d7e3987b18f0d280482"
+    },
+    {
+      "url": "https://github.com/rullerzhou-afk/clawd-on-desk/blob/323da9f17a9872e1b1ceca6c9c9783e0eaa83a72/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/rullerzhou-afk/clawd-on-desk/323da9f17a9872e1b1ceca6c9c9783e0eaa83a72/NOTICE.md",
+      "commit": "323da9f17a9872e1b1ceca6c9c9783e0eaa83a72",
+      "sourceSha256": "b7ebe8961ca717458704389df857da4ff7f4538c12d7145012073bc97f082db5"
+    }
+  ],
+  "findings": {
+    "newThemeMotionAndEffects": "CC BY-NC-SA 4.0",
+    "upstreamDesignAndArtwork": "Separate rights retained",
+    "bundledArtwork": "Assets LICENSE reserves rights with listed exceptions"
+  }
+}

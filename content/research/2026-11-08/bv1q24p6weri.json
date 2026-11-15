@@ -1,0 +1,24 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Q24p6WERi/",
+  "publisher": "大肥鱼动画official",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Q24p6WERi",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:32:25.101Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1Q24p6WERi",
+    "title": "大肥鱼喝前摇一摇~🤤",
+    "owner": {
+      "name": "大肥鱼动画official",
+      "mid": 3706988898814442
+    },
+    "pubdate": 1794068506,
+    "descriptionSha256": "5538156d4fcd620907c87efb9dea047a168e347d6c3d473f9693d43725af421f",
+    "descriptionEvidence": [
+      "角色卡：Istia",
+      "场景卡：Erena"
+    ]
+  },
+  "credits": []
+}

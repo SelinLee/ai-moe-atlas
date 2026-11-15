@@ -1,0 +1,35 @@
+{
+  "url": "https://github.com/Pal-AI-Lab/Coopanion/blob/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/README_zh.md",
+  "publisher": "Pal-AI-Lab",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T15:27:52.536Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/Pal-AI-Lab/Coopanion/blob/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/README_zh.md",
+    "rawUrl": "https://raw.githubusercontent.com/Pal-AI-Lab/Coopanion/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/README_zh.md",
+    "commit": "5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03",
+    "sourceSha256": "229206a168f0bece8444663b18e2e305bd0b4ae92c2d521c0f5c7e0cd9702023"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/Pal-AI-Lab/Coopanion/blob/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/packages/cortico-world-desktop-pet/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/Pal-AI-Lab/Coopanion/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/packages/cortico-world-desktop-pet/THIRD_PARTY_NOTICES.md",
+      "commit": "5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03",
+      "sourceSha256": "208f4538f04e5ece0b58b49a1522c922f2e3d45f7632d8bfdb359e550779c2cc"
+    },
+    {
+      "url": "https://github.com/Pal-AI-Lab/Coopanion/blob/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Pal-AI-Lab/Coopanion/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/LICENSE",
+      "commit": "5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03",
+      "sourceSha256": "2a39b11c2934a81bff40f9f7af03b25939d44f6907028c3359d729f259c85968"
+    }
+  ],
+  "findings": {
+    "code": "AGPL-3.0-or-later per LICENSE",
+    "whaleArtwork": "ChatGPT-generated from references, separate from AGPL",
+    "designCredits": [
+      "上善无形",
+      "ZipZipPipe"
+    ]
+  }
+}

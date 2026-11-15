@@ -1,0 +1,32 @@
+{
+  "url": "https://github.com/drfai/dsh-whale-pet/blob/02fe948194a8ebb0f0331dd7ad0ed215152062a0/README.md",
+  "publisher": "drfai",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T17:43:17.133Z",
+  "scope": "Pinned publication, relevant terms and original links checked.",
+  "pinnedDocument": {
+    "url": "https://github.com/drfai/dsh-whale-pet/blob/02fe948194a8ebb0f0331dd7ad0ed215152062a0/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/drfai/dsh-whale-pet/02fe948194a8ebb0f0331dd7ad0ed215152062a0/README.md",
+    "commit": "02fe948194a8ebb0f0331dd7ad0ed215152062a0",
+    "sourceSha256": "f9288a1a8c81c15bd79d2c346f117cc3f398e5b08bc91a32e6ffc68b04fe1afa"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/drfai/dsh-whale-pet/blob/02fe948194a8ebb0f0331dd7ad0ed215152062a0/assets/COOPANION-ATTRIBUTION.md",
+      "rawUrl": "https://raw.githubusercontent.com/drfai/dsh-whale-pet/02fe948194a8ebb0f0331dd7ad0ed215152062a0/assets/COOPANION-ATTRIBUTION.md",
+      "commit": "02fe948194a8ebb0f0331dd7ad0ed215152062a0",
+      "sourceSha256": "7d6d0e49825d06ff3fec7f65948a6585c5a287181b450127491eaf6f184d149d"
+    },
+    {
+      "url": "https://github.com/drfai/dsh-whale-pet/blob/02fe948194a8ebb0f0331dd7ad0ed215152062a0/assets/coopanion/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/drfai/dsh-whale-pet/02fe948194a8ebb0f0331dd7ad0ed215152062a0/assets/coopanion/THIRD_PARTY_NOTICES.md",
+      "commit": "02fe948194a8ebb0f0331dd7ad0ed215152062a0",
+      "sourceSha256": "6d247d0f22fb124353d2aa269d5623ee764c760e1d8b4d328a62480b6934c961"
+    }
+  ],
+  "findings": {
+    "pinnedUpstream": "Pal-AI-Lab/Coopanion @ 54dbe58391d8c3d482d3fd199d14e04559aafa52",
+    "includedAssets": 403,
+    "paletteCount": 8
+  }
+}

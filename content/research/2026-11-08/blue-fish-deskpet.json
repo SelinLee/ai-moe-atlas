@@ -1,0 +1,27 @@
+{
+  "url": "https://github.com/himoew/DeepSeekPet/blob/24f533c40eb5fc212e5754915ff57b6e04178026/DeepSeekPet/README.md",
+  "publisher": "himoew",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T16:10:18.630Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/himoew/DeepSeekPet/blob/24f533c40eb5fc212e5754915ff57b6e04178026/DeepSeekPet/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/himoew/DeepSeekPet/24f533c40eb5fc212e5754915ff57b6e04178026/DeepSeekPet/README.md",
+    "commit": "24f533c40eb5fc212e5754915ff57b6e04178026",
+    "sourceSha256": "f9459370c8ab1702f1f056c5bb9198d2fac6e4b749dc62b3e62f81f072810248"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/himoew/DeepSeekPet/blob/24f533c40eb5fc212e5754915ff57b6e04178026/DeepSeekPet/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/himoew/DeepSeekPet/24f533c40eb5fc212e5754915ff57b6e04178026/DeepSeekPet/THIRD_PARTY_NOTICES.md",
+      "commit": "24f533c40eb5fc212e5754915ff57b6e04178026",
+      "sourceSha256": "d58332b6c38ad3b3aec4b49fc3e30e796c2e1f5f10ecc7e152ae51c3d01ebf3a"
+    }
+  ],
+  "findings": {
+    "upstream": "Coopanion",
+    "original": "上善无形 · 溟月",
+    "maidRedesign": "ZipZipPipe",
+    "artwork": "Character textures excluded from AGPL"
+  }
+}

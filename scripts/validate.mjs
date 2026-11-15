@@ -2,8 +2,64 @@ import { readFile,readdir,access } from 'node:fs/promises';
 import { assertSource,sha256 } from './lib/policy.mjs';
 import { assertUsageReview } from '../src/lib/usage-policy.mjs';
 import { assertCandidateReport } from './lib/candidates.mjs';
+import { assertResources } from './lib/resources.mjs';
+const resources=JSON.parse(await readFile('content/resources.json','utf8'));
+const resourceCount=await assertResources(resources,new URL('../',import.meta.url));
+console.log(`Validated ${resourceCount} source-only resource records, localized metadata and retained evidence hashes.`);
+
+const categoryArtwork=JSON.parse(await readFile('content/category-preview-artwork.json','utf8'));
+if (categoryArtwork.schemaVersion !== 1 || categoryArtwork.scope !== 'noncommercial-category-display') {
+  throw new Error('Invalid category artwork scope');
+}
+for (const {id,target,source,terms,license,original,preview,notices=[]} of categoryArtwork.assets) {
+  const {commit,sourceSha256,format} = source;
+  if (!/^[a-z0-9-]+$/.test(id) || !/^[a-f0-9]{40}$/.test(commit) ||
+      !['webp','png'].includes(format) || !source.rawUrl.endsWith(`.${format}`) ||
+      !source.url.includes(`/blob/${commit}/`) || !source.rawUrl.includes(`/${commit}/`) ||
+      !terms.includes(`/blob/${commit}/`)) {
+    throw new Error(`Category artwork must retain pinned sources: ${id}`);
+  }
+  if (!resources.records.some(record => record.id === target) ||
+      license !== 'https://creativecommons.org/licenses/by-nc-sa/4.0/' ||
+      preview.parentSha256 !== sourceSha256 || original.sha256 !== sourceSha256) {
+    throw new Error(`Category artwork attribution or provenance mismatch: ${id}`);
+  }
+  for (const [name,file] of [['original',original],['preview',preview]]) {
+    const extension = name === 'original' ? format : 'webp';
+    const path = `category-previews/${id}/${name}.${extension}`;
+    if (file.path !== path || sha256(await readFile(`public/${path}`)) !== file.sha256) {
+      throw new Error(`Category artwork file mismatch: ${id}/${name}`);
+    }
+  }
+  const noticePaths = ['NOTICE.md','LICENSE'].map(name=>`category-previews/${id}/${name}`);
+  for (const {path,sha256:expectedHash} of notices) {
+    if (!noticePaths.includes(path) || sha256(await readFile(`public/${path}`)) !== expectedHash) {
+      throw new Error(`Category artwork notice mismatch: ${id}`);
+    }
+  }
+}
+
 const reviews=JSON.parse(await readFile('content/reviews/artwork-uses.json','utf8'));
 const chars=JSON.parse(await readFile('content/characters.json','utf8'));
+const songs=JSON.parse(await readFile('content/songs.json','utf8'));
+const songVersions=new Map(resources.records.map(record=>[record.id,record.url]));
+const displayableSongImages=chars.filter(character=>reviews.find(review=>review.characterId===character.id)?.uses.featured.decision==='allowed');
+const songImages=new Set([...displayableSongImages.map(character=>character.preview),...categoryArtwork.assets.map(asset=>asset.preview.path)]);
+const songIds=new Set();
+const publicLink=value=>{
+ const url=new URL(value);
+ return url.protocol==='https:'&&!url.username&&!url.password;
+};
+for(const song of songs){
+ if(!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(song.id)||songIds.has(song.id)||
+   !['zh','en','ja'].every(lang=>song.title?.[lang]?.trim())||!song.original?.credit?.trim()||!publicLink(song.original.url))throw new Error(`Invalid song source: ${song.id}`);
+ songIds.add(song.id);
+ if(!song.versions.length||new Set(song.versions.map(version=>version.id)).size!==song.versions.length||
+   song.versions.some(version=>!songVersions.has(version.id)||songVersions.get(version.id)===song.original.url||
+    !['cover','arrangement','mv','remix'].includes(version.type)))throw new Error(`Invalid song versions: ${song.id}`);
+ if(song.image&&(!songImages.has(song.image.path)||!['characterReference','productionArt'].includes(song.image.kind)||
+   !song.image.credit?.trim()||!publicLink(song.image.source)))throw new Error(`Invalid song artwork: ${song.id}`);
+}
 const entities=JSON.parse(await readFile('content/entities.json','utf8'));
 const baselines=JSON.parse(await readFile('content/baselines.json','utf8'));
 // Parse every content JSON, including unpublished research and candidate records.
@@ -93,3 +149,36 @@ for(const a of chibi.assets){
  for(const reference of a.referenceInputs)if(reference.publishedHere&&sha256(await readFile(`public/${reference.publishedHere}`))!==reference.sha256)throw new Error('Chibi identity reference hash mismatch');
 }
 console.log('Validated seven current chibi revisions, preserved PNGs, previews, prompts, source snapshots and artwork-specific attribution.');
+
+// Doodle previews preserve the selected identities and their artwork-specific records.
+const doodles=JSON.parse(await readFile('public/generated/rough-doodle-v1/manifest.json','utf8'));
+const generation=JSON.parse(await readFile('public/generated/rough-doodle-v1/generation-record.json','utf8'));
+if(doodles.kind!=='generated-style-adaptation'||doodles.displayRequest.grantsUpstreamRights!==false)throw new Error('Doodle display scope changed');
+if(doodles.assets.length!==chibi.assets.length||new Set(doodles.assets.map(a=>a.id)).size!==chibi.assets.length)throw new Error('Expected seven distinct doodles');
+const checkDoodleFile=async file=>{
+ if(!file.path.startsWith('generated/rough-doodle-v1/')||file.path.includes('..'))throw new Error('Invalid doodle archive path');
+ if(sha256(await readFile(`public/${file.path}`))!==file.sha256)throw new Error(`Doodle hash mismatch: ${file.path}`);
+};
+await checkDoodleFile(doodles.stylePrompt);
+await checkDoodleFile(doodles.generationRecord);
+for(const lang of ['zh','en','ja']){
+ if(!doodles.notice[lang]?.trim())throw new Error('Missing localized doodle notice');
+ await access(doodles.templates[lang]);
+}
+for(const a of doodles.assets){
+ const reference=chibi.assets.find(item=>item.id===a.id);
+ const generated=generation.assets.find(item=>item.id===a.id);
+ if(!reference||!generated||a.original.sha256!==generated.image.sha256)throw new Error('Doodle generation record mismatch');
+ if(a.reference.sha256!==reference.original.sha256||a.reference.path!==`public/${reference.original.path}`||a.reference.revision!==reference.revision)throw new Error('Doodle reference mismatch');
+ const pinned=`https://github.com/SelinLee/ai-moe-atlas/blob/${doodles.sourceCollection.commit}/${a.reference.path}`;
+ if(a.reference.url!==pinned||a.reference.commit!==doodles.sourceCollection.commit)throw new Error('Doodle reference must be pinned to its source commit');
+ if(a.prompt.sha256!==generated.prompt.sha256)throw new Error('Actual doodle prompt changed');
+ if(JSON.stringify(a.attribution)!==JSON.stringify(reference.attribution)||JSON.stringify(a.rights)!==JSON.stringify(reference.rights))throw new Error('Doodle attribution or terms mismatch');
+ if(a.preview.parentSha256!==a.original.sha256||a.original.width!==a.original.height)throw new Error('Doodle dimensions or preview parent mismatch');
+ for(const file of [a.original,a.preview,a.prompt,a.request])await checkDoodleFile(file);
+ const request=JSON.parse(await readFile(`public/${a.request.path}`,'utf8'));
+ const prompt=await readFile(`public/${a.prompt.path}`,'utf8');
+ if(request.prompt.trimEnd()!==prompt.trimEnd()||request.reference_sha256!==a.reference.sha256||request.output.sha256!==a.original.sha256)throw new Error('Doodle request mismatch');
+}
+if(sha256(await readFile(doodles.sourceCollection.path))!==doodles.sourceCollection.sha256)throw new Error('Doodle source collection changed');
+console.log('Validated seven doodles, exact generation bytes and prompts, pinned references, previews and localized templates.');

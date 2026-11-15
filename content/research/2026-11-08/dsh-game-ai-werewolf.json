@@ -1,0 +1,31 @@
+{
+  "url": "https://github.com/luckui/dsh-game/blob/a0cf8afa4bf90baf52b3067abe0530175e57f0b9/README.md",
+  "publisher": "luckui",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T16:22:43.002Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/luckui/dsh-game/blob/a0cf8afa4bf90baf52b3067abe0530175e57f0b9/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/luckui/dsh-game/a0cf8afa4bf90baf52b3067abe0530175e57f0b9/README.md",
+    "commit": "a0cf8afa4bf90baf52b3067abe0530175e57f0b9",
+    "sourceSha256": "cf201a7697746145b9decc3e0907981be53cf3554213de74cdaddc4b3d26e108"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/luckui/dsh-game/blob/a0cf8afa4bf90baf52b3067abe0530175e57f0b9/packages/dsh-game/assets/dafeiyu/LICENSE.md",
+      "rawUrl": "https://raw.githubusercontent.com/luckui/dsh-game/a0cf8afa4bf90baf52b3067abe0530175e57f0b9/packages/dsh-game/assets/dafeiyu/LICENSE.md",
+      "commit": "a0cf8afa4bf90baf52b3067abe0530175e57f0b9",
+      "sourceSha256": "1066639c0bab27eca105d63d03c0d839d766da4babce31bd9983f3f0fc5149c0"
+    }
+  ],
+  "findings": {
+    "software": "MIT per README",
+    "whaleAnimations": "11 transparent WebM files under CC BY-NC-SA 4.0",
+    "creditedDesigns": [
+      "上善无形",
+      "ZipZipPipe",
+      "YunYueSama",
+      "xiaoweigen"
+    ]
+  }
+}

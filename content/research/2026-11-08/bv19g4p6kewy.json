@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV19g4P6KEWY/",
+  "publisher": "千问娘今天也在记账",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19g4P6KEWY",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:42:58.883Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV19g4P6KEWY",
+    "title": "【Day 12 · No.4】千问娘×大肥鱼：谁才是劳工？下周一定见！",
+    "owner": {
+      "name": "千问娘今天也在记账",
+      "mid": 322047773
+    },
+    "pubdate": 1793628084,
+    "descriptionSha256": "3d84782a9fcd36648dd7fed526b50fa4613aebf471e7c5f4d6ceca1076d2022e",
+    "descriptionEvidence": [
+      "千问娘原形象：@ZipZipPipe",
+      "大肥鱼为自用设计"
+    ]
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

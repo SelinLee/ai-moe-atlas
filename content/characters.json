@@ -865,6 +865,81 @@
     }
   },
   {
+    "id": "school-op-copilot",
+    "entity": "copilot",
+    "name": {
+      "zh": "Copilot · 校园版",
+      "en": "Copilot · School edition",
+      "ja": "Copilot · 学園版"
+    },
+    "description": {
+      "zh": "青绿色高马尾、三色蝴蝶结与缎带环徽章的校园版 Copilot。",
+      "en": "A school-version Copilot with a turquoise ponytail, three colored bows and a looped ribbon emblem.",
+      "ja": "青緑のポニーテール、三色のリボン、輪になったリボンの徽章を持つ学園版 Copilot。"
+    },
+    "story": {
+      "zh": "出自 ai-school-op 的 18 角色校园同人片头。作者以共享校服为参考，用 GPT 生图制作该版全身设定。",
+      "en": "One of 18 characters in the ai-school-op fan opening. The creator used GPT image generation for the full-body design, with the production’s shared uniform as reference.",
+      "ja": "ai-school-op の二次創作 OP に登場する18キャラクターの1人。作者は共通の制服を参考に、GPT の画像生成で全身設定画を制作。"
+    },
+    "features": {
+      "zh": "青绿高马尾、蓝绿瞳、灰蓝百褶裙，胸前有蓝、绿、珊瑚色的三枚蝴蝶结。",
+      "en": "A turquoise high ponytail, blue-green eyes and a gray-blue pleated skirt, with blue, green and coral bows.",
+      "ja": "青緑の高いポニーテール、青緑の瞳、灰青のプリーツスカートと、青・緑・コーラルのリボン。"
+    },
+    "kind": "collected",
+    "style": "anime",
+    "official": false,
+    "author": "ai-school-op · lshhhhhhh",
+    "authorUrl": "https://github.com/lshhhhhhh/ai-school-op",
+    "source": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/README.md",
+    "sourceTitle": "ai-school-op · Cast",
+    "originalPublication": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/copilot.png",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ai-school-op · lshhhhhhh",
+        "url": "https://github.com/lshhhhhhh/ai-school-op",
+        "role": "publisher",
+        "publication": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/copilot.png"
+      }
+    ],
+    "method": "upstream-ai-assisted",
+    "license": "CC-BY-NC-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "downloadable": true,
+    "bg": "#edf5f6",
+    "color": "#29646e",
+    "verifiedAt": "2026-11-08",
+    "origin": "web-collected",
+    "preview": "collected/school-op-copilot/portrait/preview.webp",
+    "assets": [
+      {
+        "id": "portrait",
+        "label": {
+          "zh": "校园版原始全身立绘",
+          "en": "Original school-version full portrait",
+          "ja": "学園版の全身立ち絵原本"
+        }
+      }
+    ],
+    "provenanceNote": {
+      "zh": "作者发布的校园版 PNG 原件为 1024 × 1536。图鉴记录固定版本、生成提示词出处和美术声明，并保留原始文件。飞行员版另见 yamamemo 的原帖。",
+      "en": "The creator-published school PNG is 1024 × 1536. Atlas preserves the exact file and records the pinned version, generation prompt source and artwork terms. The pilot design is documented separately in yamamemo’s article.",
+      "ja": "作者公開の学園版 PNG 原本は 1024 × 1536。図鑑は原本を保持し、固定版・生成プロンプトの出典・美術規約を記録。パイロット版は yamamemo の原記事に別記。"
+    },
+    "terms": {
+      "zh": "以 CC BY-NC 4.0 提供此校园版设定图。限非商业使用，保留作者、作品出处、许可链接并标明改动。图鉴仅进行等比缩放、留边和格式转换。原动画、音乐与产品标识各有使用条件。",
+      "en": "This school-version design sheet uses CC BY-NC 4.0. Noncommercial use only. Preserve creator credit, source and license links, and identify changes. Atlas only resizes proportionally, pads and converts formats. The original anime, music and product branding have separate terms.",
+      "ja": "この学園版の設定画は CC BY-NC 4.0 です。非商用に限り、作者名・出典・ライセンスを示し、変更を明記してください。図鑑での処理は比率維持のリサイズ、余白追加、形式変換のみ。原作アニメ、音楽、製品の標識は個別の条件に従います。"
+    },
+    "licenseLabel": {
+      "zh": "CC BY-NC 4.0 · 署名、非商业",
+      "en": "CC BY-NC 4.0 · Attribution, noncommercial",
+      "ja": "CC BY-NC 4.0 · 作者表示、非商用"
+    }
+  },
+  {
     "id": "yamamemo-copilot",
     "entity": "copilot",
     "name": {

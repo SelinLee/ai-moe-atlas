@@ -1,0 +1,29 @@
+{
+  "url": "https://www.bilibili.com/video/BV1e64n6SEhF/",
+  "publisher": "A15-Crusader",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1e64n6SEhF",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:15:02.874Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1e64n6SEhF",
+    "title": "[清华组]智芬呐智芬 月断不了情根",
+    "owner": {
+      "name": "A15-Crusader",
+      "mid": 326791185
+    },
+    "pubdate": 1794055500,
+    "descriptionSha256": "0c1cce4dad9b44fb33be2bd36f3d1e92d52fd0a9fb3231f62bcf309322848fd3",
+    "descriptionEvidence": [
+      "创作来源：BV1DtpM6vEXs"
+    ]
+  },
+  "credits": [
+    {
+      "role": "inspiration",
+      "title": "玉芬和彪哥 · Bilibili",
+      "url": "https://www.bilibili.com/video/BV1DtpM6vEXs/"
+    }
+  ]
+}

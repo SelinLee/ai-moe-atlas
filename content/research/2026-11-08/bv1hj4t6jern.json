@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Hj4t6JErN/",
+  "publisher": "蓝色大肥鱼是好女孩",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Hj4t6JErN",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:55:26.198Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1Hj4t6JErN",
+    "title": "人，我也想看看春夏秋冬...",
+    "owner": {
+      "name": "蓝色大肥鱼是好女孩",
+      "mid": 3747573317766075
+    },
+    "pubdate": 1793859417,
+    "descriptionSha256": "4ce1cd9cb9260fb7ade4b75fd0298827ad010ba7ab02263bb1b18ca8fa40d8a1",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

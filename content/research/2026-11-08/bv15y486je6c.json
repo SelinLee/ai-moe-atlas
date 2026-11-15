@@ -1,0 +1,29 @@
+{
+  "url": "https://www.bilibili.com/video/BV15Y486jE6c/",
+  "publisher": "戛然而纸",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15Y486jE6c",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:32:26.152Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV15Y486jE6c",
+    "title": "DeepSeek：Minimax姐姐好温柔，不过Claude好像有点吃醋…",
+    "owner": {
+      "name": "戛然而纸",
+      "mid": 511403115
+    },
+    "pubdate": 1793923200,
+    "descriptionSha256": "75d6192d046091d6b205e91751745a6033fe5417e38b4089c9bcda39614c08d0",
+    "descriptionEvidence": [
+      "本视频角色形象来源于@ZipZipPipe"
+    ]
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

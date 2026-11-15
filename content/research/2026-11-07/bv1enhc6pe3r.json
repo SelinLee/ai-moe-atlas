@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1enHC6PE3r/",
+  "publisher": "莉莉普普丝",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1enHC6PE3r",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:55:21.235Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1enHC6PE3r",
+    "title": "霸道千问大小姐爱上打工肥鱼的我",
+    "owner": {
+      "name": "莉莉普普丝",
+      "mid": 39593455
+    },
+    "pubdate": 1791366144
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

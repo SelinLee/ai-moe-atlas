@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/opus/1259662694779191301",
+  "publisher": "灿灿同学",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T16:24:17.257Z",
+  "scope": "Creator’s public Bilibili article and labeled cast checked in isolated headless Chrome.",
+  "sourcePageSha256": "eb2d38cfa092bc30d225e1e883f5d5909f375ae14516a5a14d028ef8c6519f92",
+  "articleId": "cv53461899",
+  "opusId": "1259662694779191301",
+  "findings": {
+    "designCredit": "Publisher credits most designs to ZipZipPipe and identifies GPT-assisted adaptations",
+    "examples": [
+      "Kimi",
+      "Grok",
+      "GLM",
+      "Seed",
+      "MiMo",
+      "MiniMax"
+    ]
+  },
+  "priorEvidence": {
+    "path": "content/research/2026-11-07/cancan-ai-girl-character-gallery.json",
+    "sha256": "aa28b06b0d71d4805382320475b16a4137dfe75b24d0c0d847918a7dfb41bf69",
+    "kind": "browser-metadata-extract"
+  }
+}

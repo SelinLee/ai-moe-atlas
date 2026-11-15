@@ -1,0 +1,72 @@
+{
+  "url": "https://www.bilibili.com/video/BV13xnt6QE6s/",
+  "publisher": "可以叫我云大人",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T14:33:12.183Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13xnt6QE6s",
+  "code": 0,
+  "scope": "Official video metadata, uploader description and linked source references checked. No video or artwork copied.",
+  "metadata": {
+    "bvid": "BV13xnt6QE6s",
+    "title": "消耗32万token，我把我的大肥鱼表情包做成了dsh插件！",
+    "owner": {
+      "name": "可以叫我云大人",
+      "mid": 103739
+    },
+    "pubdate": 1792751649
+  },
+  "findings": {
+    "creatorKit": {
+      "url": "https://kiriyuki.com/meme/kit/nekowhale.json",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-07T14:33:02.744Z",
+      "sourceSha256": "7b5b8c404ecfc787ee694fbd1ec5c0c98ac8a300c8b87b739472b9f16e538717",
+      "schema": "sticker-kit/1",
+      "kit": "nekowhale",
+      "version": "2026-10-23T10:02Z",
+      "attribution": {
+        "author": "可以叫我云大人",
+        "links": [
+          {
+            "label": "Bilibili",
+            "url": "https://space.bilibili.com/103739"
+          },
+          {
+            "label": "kiriyuki.com",
+            "url": "https://kiriyuki.com"
+          }
+        ],
+        "text": "表情包作者：B站 可以叫我云大人（space.bilibili.com/103739），kiriyuki.com 制作，欢迎约原稿同款表情包！"
+      },
+      "packs": [
+        {
+          "title": "大肥鱼",
+          "showcase": "https://kiriyuki.com/showcase?p=%E5%A4%A7%E8%82%A5%E9%B1%BC"
+        },
+        {
+          "title": "大肥鱼和GPT娘",
+          "showcase": "https://kiriyuki.com/showcase?p=%E5%A4%A7%E8%82%A5%E9%B1%BC%E5%92%8CGPT%E5%A8%98"
+        }
+      ],
+      "stickerEntries": 322
+    },
+    "artworkTerms": "separate from annotation data"
+  },
+  "credits": [
+    {
+      "role": "creator-site",
+      "title": "雾雪 · kiriyuki.com",
+      "url": "https://kiriyuki.com/"
+    },
+    {
+      "role": "creator-sticker-index",
+      "title": "雾雪 · Nekowhale sticker kit",
+      "url": "https://kiriyuki.com/meme/kit/nekowhale.json"
+    },
+    {
+      "role": "artwork-terms",
+      "title": "DSH Nekowhale Stickers · LICENSE-ASSETS",
+      "url": "https://github.com/Loping151/dsh-nekowhale-stickers/blob/b7b58c0ff347d639fabe87d90d6716c4b3cad185/LICENSE-ASSETS"
+    }
+  ]
+}

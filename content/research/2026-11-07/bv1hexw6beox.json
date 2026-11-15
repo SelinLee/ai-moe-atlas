@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1HExW6BEox/",
+  "publisher": "中分_背带裤",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HExW6BEox",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:19:26.192Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1HExW6BEox",
+    "title": "当你对不同ai娘说十六进制的我爱你",
+    "owner": {
+      "name": "中分_背带裤",
+      "mid": 3706939525564443
+    },
+    "pubdate": 1793492831
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://github.com/DawnVerge/dsh-whale/blob/140a7b9379fe6ca4c6e7d98998853aa930d656f3/README.md",
+  "publisher": "DawnVerge",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T14:09:37.065Z",
+  "scope": "Pinned project README and artwork notices checked. No project binaries or artwork downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/DawnVerge/dsh-whale/blob/140a7b9379fe6ca4c6e7d98998853aa930d656f3/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/DawnVerge/dsh-whale/140a7b9379fe6ca4c6e7d98998853aa930d656f3/README.md",
+    "commit": "140a7b9379fe6ca4c6e7d98998853aa930d656f3",
+    "sourceSha256": "717fece21c0b66c31c234fb58e190ce6109ab002284c5b87f998752325d653cc"
+  },
+  "termsDocument": {
+    "url": "https://github.com/DawnVerge/dsh-whale/blob/140a7b9379fe6ca4c6e7d98998853aa930d656f3/THIRD_PARTY_NOTICES.md",
+    "rawUrl": "https://raw.githubusercontent.com/DawnVerge/dsh-whale/140a7b9379fe6ca4c6e7d98998853aa930d656f3/THIRD_PARTY_NOTICES.md",
+    "commit": "140a7b9379fe6ca4c6e7d98998853aa930d656f3",
+    "sourceSha256": "7d81d1fb883a68bf4683df8cd7fef8473da4ed9bb9e3fd0cea7ffc1a43a3cb13"
+  },
+  "findings": {
+    "upstreamCommit": "9c32d7a39a45148076f8ad2fdaad2dc2420eedb3",
+    "characterCredit": "ZipZipPipe",
+    "code": "MIT",
+    "originalArtworkLicense": "not-established"
+  }
+}

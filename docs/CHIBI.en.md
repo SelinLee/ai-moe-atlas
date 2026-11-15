@@ -78,6 +78,8 @@ Blue-purple hair with a side braid, Chinese-style headwear, a blue-and-white gow
 
 Black-to-blue hair, fox ears and a white-tipped tail, a forehead sleep mask, Z charm, twin bells and a black-and-white maid outfit.
 
+The public cover shows a sleep mask, Z charm and twin bells. See the separate [card and portrait sources](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#glm-niang-kit-design-sources). The original designer of the video variant remains unverified.
+
 [Reference video](https://www.bilibili.com/video/BV1iDeQ6fEFi/) · [Generation prompt](../public/generated/super-chibi-v1/glm/prompt.txt) · [JSON](../public/generated/super-chibi-v1/glm/request.json)
 
 1536 × 1024 · SHA-256: `3d8c3ee0b420d4d5c8262dc42bf3a6282cb46816dc01a1cde4235132776d3c7e`

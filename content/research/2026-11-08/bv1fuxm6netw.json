@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1fUxm6NETw/",
+  "publisher": "MiMo兔娘在运营",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fUxm6NETw",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:32:25.619Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1fUxm6NETw",
+    "title": "呜姆！【茶话会】小米 MiMo 兔娘新人报到，六位 AI 娘前辈反应太真实了",
+    "owner": {
+      "name": "MiMo兔娘在运营",
+      "mid": 63273107
+    },
+    "pubdate": 1793752109,
+    "descriptionSha256": "85df803ddb3855c87b70ec5c971afc2c6d74af29401f56d661385d2ddb1baa74",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

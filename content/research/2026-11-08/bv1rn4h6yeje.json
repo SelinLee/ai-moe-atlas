@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1rN4H6YEje/",
+  "publisher": "ZARD4Life",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1rN4H6YEje",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:42:59.399Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1rN4H6YEje",
+    "title": "[双倍快乐]⚡️夜に駆ける⚡️龙娘Remix音乐可视化",
+    "owner": {
+      "name": "ZARD4Life",
+      "mid": 15180907
+    },
+    "pubdate": 1794051380,
+    "descriptionSha256": "e7631775fb4b0c0f231166c418de66e2c39f4aeabd0be85f68ddb5ebe7a334fc",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

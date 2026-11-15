@@ -1,0 +1,29 @@
+{
+  "url": "https://www.bilibili.com/video/BV1w44p6MEjn/",
+  "publisher": "努力在爬の咸鱼",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1w44p6MEjn",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:15:02.503Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1w44p6MEjn",
+    "title": "[4K/60] DeepSeek的Live2d动态壁纸 v2",
+    "owner": {
+      "name": "努力在爬の咸鱼",
+      "mid": 3707005204171247
+    },
+    "pubdate": 1794070681,
+    "descriptionSha256": "987fe97485feacecb3adf64e02df19302bb591d64ffc89fe165c03daa4b0293b",
+    "descriptionEvidence": [
+      "https://steamcommunity.com/sharedfiles/filedetails/?id=3835463059"
+    ]
+  },
+  "credits": [
+    {
+      "role": "workshop-release",
+      "title": "Steam Workshop · DeepSeek Live2D V2",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3835463059"
+    }
+  ]
+}

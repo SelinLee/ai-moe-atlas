@@ -1,0 +1,44 @@
+{
+  "url": "https://www.bilibili.com/video/BV139HA6JEE6/",
+  "publisher": "DeepSeek鲸鱼娘在运营",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV139HA6JEE6",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:01:23.881Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV139HA6JEE6",
+    "title": "【Day 5】全人类都在嗑我和 Claude 的 CP，只有本鲸鱼娘最后才知道？！",
+    "owner": {
+      "name": "DeepSeek鲸鱼娘在运营",
+      "mid": 3747573030456892
+    },
+    "pubdate": 1792832364
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "quoted-video",
+      "title": "风霜秋雨 · Claude热唱：《您的账号已被封禁》",
+      "url": "https://www.bilibili.com/video/BV1Hzpm6hEaY/"
+    },
+    {
+      "role": "quoted-video",
+      "title": "a网友爱顺音 · 所以说我很羡慕你啊…大肥鱼",
+      "url": "https://www.bilibili.com/video/BV1bGJR6HErW/"
+    }
+  ],
+  "uploaderAttribution": {
+    "fanIllustration": "_Kyrle, via X account @Jason_Dean",
+    "ninePanelCollage": "X account @GZhan57"
+  }
+}

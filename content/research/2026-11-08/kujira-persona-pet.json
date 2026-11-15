@@ -1,0 +1,30 @@
+{
+  "url": "https://github.com/Tests4gptplay/dsh-kujira-persona/blob/7540e90c48cbacf2e4b2d95e4b1eec8239b33e3d/README.md",
+  "publisher": "Tests4gptplay",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T17:15:42.670Z",
+  "scope": "Pinned publication, relevant terms and original links checked.",
+  "pinnedDocument": {
+    "url": "https://github.com/Tests4gptplay/dsh-kujira-persona/blob/7540e90c48cbacf2e4b2d95e4b1eec8239b33e3d/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/dsh-kujira-persona/7540e90c48cbacf2e4b2d95e4b1eec8239b33e3d/README.md",
+    "commit": "7540e90c48cbacf2e4b2d95e4b1eec8239b33e3d",
+    "sourceSha256": "431475531bb9c2768c16571ec204cccb560867b3b9e0e0063215678507ec9e63"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/Tests4gptplay/dsh-kujira-persona/blob/7540e90c48cbacf2e4b2d95e4b1eec8239b33e3d/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/dsh-kujira-persona/7540e90c48cbacf2e4b2d95e4b1eec8239b33e3d/NOTICE.md",
+      "commit": "7540e90c48cbacf2e4b2d95e4b1eec8239b33e3d",
+      "sourceSha256": "0cf01b87b331f6a2daadc4e7729831f211bba915da1b40e962be8ea3459b2b39"
+    },
+    {
+      "url": "https://github.com/Tests4gptplay/dsh-kujira-persona/blob/7540e90c48cbacf2e4b2d95e4b1eec8239b33e3d/pet/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/dsh-kujira-persona/7540e90c48cbacf2e4b2d95e4b1eec8239b33e3d/pet/NOTICE.md",
+      "commit": "7540e90c48cbacf2e4b2d95e4b1eec8239b33e3d",
+      "sourceSha256": "d870ff550217ae923fc7a5dddd87844d7df036e83d37c6de0385410c6f8c0f23"
+    }
+  ],
+  "findings": {
+    "notes": "Generated sprite sheets and reference sources separately documented."
+  }
+}

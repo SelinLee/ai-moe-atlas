@@ -1,0 +1,123 @@
+{
+  "schemaVersion": 1,
+  "metadataVersion": 1,
+  "platform": "manual",
+  "query": "Bounded November 15 weekly intake: R.Nori source recheck and queue deduplication",
+  "searchedAt": "2026-11-15T07:37:46Z",
+  "automaticPublication": false,
+  "reviewScope": "source-metadata-only",
+  "datePolicy": {
+    "zh": "保留页面显示日期与时间，不推断最早发表或独立核实的时区。入队日不是作品发表日。",
+    "en": "Keep the displayed publication day and time; earliest publication and timezone are not independently verified. Intake date is not publication date.",
+    "ja": "ページの表示日時を保持。初公開とタイムゾーンは独立未確認。登録日を公開日とは扱いません。"
+  },
+  "candidates": [
+    {
+      "id": "note-modern-peony538-five-ai",
+      "title": "AIを美少女にしていたら、休日が溶けた。",
+      "url": "https://note.com/modern_peony538/n/nb19b2c2811c6",
+      "publisher": "modern_peony538",
+      "publisherDisplayName": "R.Nori",
+      "publicationDate": "2026-11-10",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": null,
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "R.Nori (modern_peony538)",
+          "role": "publisher",
+          "url": "https://note.com/modern_peony538"
+        }
+      ],
+      "products": [
+        {
+          "product": "ChatGPT",
+          "entityId": "chatgpt",
+          "provider": "OpenAI",
+          "characterNames": [],
+          "official": false
+        },
+        {
+          "product": "Claude",
+          "entityId": "claude",
+          "provider": "Anthropic",
+          "characterNames": [],
+          "official": false
+        },
+        {
+          "product": "Gemini",
+          "entityId": "gemini",
+          "provider": "Google",
+          "characterNames": [],
+          "official": false
+        },
+        {
+          "product": "Muse",
+          "entityId": null,
+          "provider": null,
+          "characterNames": [],
+          "official": false
+        },
+        {
+          "product": "Grok",
+          "entityId": "grok",
+          "provider": "xAI",
+          "characterNames": [],
+          "official": false
+        }
+      ],
+      "grouping": "source-group",
+      "characterCount": 5,
+      "relatedSources": [],
+      "generatorVariants": [],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://note.com/modern_peony538/n/nb19b2c2811c6"
+        ],
+        "note": {
+          "zh": "所查原文未见适用于图片的转载、改编、再分发或导出许可。AI 辅助制作说明不是授权，发布者也不等于已核实的完整权利人。",
+          "en": "No artwork-specific copying, adaptation, redistribution or export grant found in the reviewed text. AI-assisted production is not permission; publisher credit does not establish the complete rights chain.",
+          "ja": "確認した本文に画像の転載・改変・再配布・書き出し許諾は見当たりません。AI 補助制作の説明は許可ではなく、投稿者表記だけでは権利連鎖を確認できません。"
+        }
+      },
+      "verification": {
+        "current": {
+          "attemptedAt": "2026-11-15T07:37:46Z",
+          "method": "original-html-http-status-and-public-text-extraction",
+          "httpStatus": 200,
+          "finalUrl": "https://note.com/modern_peony538/n/nb19b2c2811c6",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-11-15T07:37:46Z",
+          "htmlSha256": "19e29e0a6595e05a55fb36705eb8b1c2adee013dd6715b00d4bed60f77bd441c",
+          "displayedDateTime": "2026-11-10 13:05",
+          "limitations": {
+            "zh": "仅核对原文、署名、显示日期与 HTTP 状态；核验时间取自抓取完成后的会话 UTC 时钟。未读取图片像素，不核证原创性、完整权利链或最早发表。时区未独立核验。",
+            "en": "Original text, publisher, displayed date and HTTP status only; verification time is the session UTC clock read after retrieval. No image pixels, originality, complete rights chain or earliest-publication review. Timezone not independently verified.",
+            "ja": "本文・投稿者・表示日時・HTTP 状態のみ。確認時刻は取得完了後のセッション UTC 時計。画像の画素、独創性、権利連鎖、初公開は未確認。時差も独立未確認。"
+          }
+        }
+      },
+      "note": {
+        "zh": "作者自述用 AI 辅助设计和迭代五位拟人角色；角色数量依据正文，不是五项已审核素材。角色性格是创作设定，不作为产品能力证据。Muse 的产品身份未独立核实，不新增实体或推定提供方；生成工具不记作全部作品作者。",
+        "en": "The publisher describes AI-assisted design and iteration of five personifications. Count follows the text, not five reviewed assets. Personalities are fictional, not product-capability evidence. Muse identity is unverified; no entity or provider inferred. Tools are not credited as the author of all works.",
+        "ja": "投稿者は AI 補助による五人の擬人化と反復制作を説明。人数は本文に基づき、審査済み素材数ではありません。性格は創作で、製品能力の証拠ではありません。Muse の製品同定は未確認、提供元や新規エンティティを推定せず、生成ツールを全作品の著者としません。"
+      },
+      "reviewReasons": {
+        "zh": "维持 source-only / pending-review / rights-unknown。需逐图核验权利与署名后才能考虑展示、改编、下载或工坊导出；本次不联系作者。",
+        "en": "Keep source-only / pending-review / rights-unknown. Artwork-specific rights and attribution must be reviewed before display, adaptation, download or Studio export; no author contact in this pass.",
+        "ja": "source-only / pending-review / rights-unknown を維持。表示・改変・ダウンロード・Studio 書き出しの前に画像ごとの権利と帰属の確認が必要。今回は作者に連絡しません。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false,
+      "sourceType": "illustrated-source"
+    }
+  ]
+}

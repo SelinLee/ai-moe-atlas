@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1cTHV6aEmk/",
+  "publisher": "涼_i",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cTHV6aEmk",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:36:42.864Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1cTHV6aEmk",
+    "title": "【大肥鱼 MV】我只是翻了个身，整片海都翻了天 ！| DeepSeek",
+    "owner": {
+      "name": "涼_i",
+      "mid": 3493107511331714
+    },
+    "pubdate": 1792907873
+  },
+  "credits": [
+    {
+      "role": "music-source",
+      "title": "小伙伴Ko · 跑得慢被大肥鱼配",
+      "url": "https://www.bilibili.com/video/BV1zDHw6aEio/"
+    }
+  ]
+}

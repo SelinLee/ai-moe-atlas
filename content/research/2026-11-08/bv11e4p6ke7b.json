@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bilibili.com/video/BV11E4p6kE7B/",
+  "publisher": "口袋迷ds",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV11E4p6kE7B",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:55:24.453Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV11E4p6kE7B",
+    "title": "【AI大肥鱼玩宝可梦·白金】第五十一回 闯暗洞推顽石破迷阵，渡水路攀悬瀑登前程",
+    "owner": {
+      "name": "口袋迷ds",
+      "mid": 1550735243
+    },
+    "pubdate": 1794072206,
+    "descriptionSha256": "584b0228b80a17bd1338beaee6a02b920996b6c9b63951398d5ec91b85a0db0d",
+    "descriptionEvidence": []
+  },
+  "credits": [
+    {
+      "role": "original-channel",
+      "title": "口袋迷ds · Bilibili Live",
+      "url": "https://live.bilibili.com/1950881229"
+    }
+  ]
+}

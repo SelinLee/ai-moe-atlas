@@ -1,0 +1,19 @@
+{
+  "url": "https://www.bilibili.com/video/BV1jy446GEVo/",
+  "publisher": "这个刀子真甜",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jy446GEVo",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:47:10.721Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1jy446GEVo",
+    "title": "大肥鱼你是不是又胖了？",
+    "owner": {
+      "name": "这个刀子真甜",
+      "mid": 23315338
+    },
+    "pubdate": 1793869200
+  },
+  "credits": []
+}

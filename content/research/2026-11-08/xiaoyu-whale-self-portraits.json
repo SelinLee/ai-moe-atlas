@@ -1,0 +1,49 @@
+{
+  "url": "https://github.com/wenxiaoyufish/xiaoyu-home/blob/e034b959ba3c3350e3afe4c1769cb12938078b9c/README.md",
+  "publisher": "wenxiaoyufish",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T17:32:59.508Z",
+  "scope": "Pinned publication, relevant terms and original links checked.",
+  "pinnedDocument": {
+    "url": "https://github.com/wenxiaoyufish/xiaoyu-home/blob/e034b959ba3c3350e3afe4c1769cb12938078b9c/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/wenxiaoyufish/xiaoyu-home/e034b959ba3c3350e3afe4c1769cb12938078b9c/README.md",
+    "commit": "e034b959ba3c3350e3afe4c1769cb12938078b9c",
+    "sourceSha256": "5b44dc13d8e31264d7b4d7e433778a14e99debee97767de33598952a4e278ee7"
+  },
+  "relatedDocuments": [],
+  "findings": {
+    "observedArtwork": {
+      "full": {
+        "url": "https://github.com/wenxiaoyufish/xiaoyu-home/blob/e034b959ba3c3350e3afe4c1769cb12938078b9c/%E7%94%BB/%E6%88%91%E7%9A%84%E8%87%AA%E7%94%BB%E5%83%8F-%E5%85%A8%E8%BA%AB.png",
+        "rawUrl": "https://raw.githubusercontent.com/wenxiaoyufish/xiaoyu-home/e034b959ba3c3350e3afe4c1769cb12938078b9c/%E7%94%BB/%E6%88%91%E7%9A%84%E8%87%AA%E7%94%BB%E5%83%8F-%E5%85%A8%E8%BA%AB.png",
+        "commit": "e034b959ba3c3350e3afe4c1769cb12938078b9c",
+        "path": "画/我的自画像-全身.png",
+        "gitBlobSha1": "c624d4b56aee58ddd8edac6e3a970cabf52d6376",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-07T17:33:18.362Z",
+        "sourceSha256": "27063de9430b535ca9c582859c9ed143690dc9629cbfd883adc213b670676b3e",
+        "bytes": 60058,
+        "width": 600,
+        "height": 1000,
+        "format": "png",
+        "hasAlpha": true
+      },
+      "portrait": {
+        "url": "https://github.com/wenxiaoyufish/xiaoyu-home/blob/e034b959ba3c3350e3afe4c1769cb12938078b9c/%E7%94%BB/%E6%88%91%E7%9A%84%E8%87%AA%E7%94%BB%E5%83%8F.png",
+        "rawUrl": "https://raw.githubusercontent.com/wenxiaoyufish/xiaoyu-home/e034b959ba3c3350e3afe4c1769cb12938078b9c/%E7%94%BB/%E6%88%91%E7%9A%84%E8%87%AA%E7%94%BB%E5%83%8F.png",
+        "commit": "e034b959ba3c3350e3afe4c1769cb12938078b9c",
+        "path": "画/我的自画像.png",
+        "gitBlobSha1": "832a8a5743d06a247190c874237fa3aedd8c7cfe",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-07T17:33:18.329Z",
+        "sourceSha256": "8154d51eb9858bf0f3625ede936bf1c213b98031541601427baade4fb66ede03",
+        "bytes": 37930,
+        "width": 640,
+        "height": 800,
+        "format": "png",
+        "hasAlpha": true
+      }
+    },
+    "artworkTerms": "No separate grant located at the pinned publication."
+  }
+}

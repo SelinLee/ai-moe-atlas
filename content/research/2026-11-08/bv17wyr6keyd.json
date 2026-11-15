@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV17wYR6KEYd/",
+  "publisher": "布衣愚者",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17wYR6KEYd",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:10:09.922Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV17wYR6KEYd",
+    "title": "【刘慈欣小说改编】《朝闻道：但是来的是AI》【全民AI制作人】",
+    "owner": {
+      "name": "布衣愚者",
+      "mid": 362809
+    },
+    "pubdate": 1789257600
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

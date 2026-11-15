@@ -1,0 +1,26 @@
+{
+  "url": "https://github.com/Sutera-Diffusus/dsh-whale-musume/blob/df31dd9c3e8cd8d7b371930deb928bba6b1988c6/README.md",
+  "publisher": "Sutera-Diffusus",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T16:47:15.851Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/Sutera-Diffusus/dsh-whale-musume/blob/df31dd9c3e8cd8d7b371930deb928bba6b1988c6/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Sutera-Diffusus/dsh-whale-musume/df31dd9c3e8cd8d7b371930deb928bba6b1988c6/README.md",
+    "commit": "df31dd9c3e8cd8d7b371930deb928bba6b1988c6",
+    "sourceSha256": "d8043df93bce542f84b4dada8e1d807d1055a1137af671f210ac8bd727bf5964"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/Sutera-Diffusus/dsh-whale-musume/blob/df31dd9c3e8cd8d7b371930deb928bba6b1988c6/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Sutera-Diffusus/dsh-whale-musume/df31dd9c3e8cd8d7b371930deb928bba6b1988c6/LICENSE",
+      "commit": "df31dd9c3e8cd8d7b371930deb928bba6b1988c6",
+      "sourceSha256": "172d20f42a1a3f34c05e1165c518f93c168d8a346c6b34066b39c1a4b37655fc"
+    }
+  ],
+  "findings": {
+    "repositoryLicense": "MIT",
+    "projectArtworkCredit": "SuteraWu",
+    "artworkReuse": "Verify original design and third-party terms by item"
+  }
+}

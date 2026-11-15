@@ -1,0 +1,28 @@
+{
+  "url": "https://www.bilibili.com/opus/1259662694779191301",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T14:58:10.828Z",
+  "sourceSha256": "09c036c824a691e6d84e6299efc7492b95480b5d60585a1540c8d7fcc44597b3",
+  "title": "视频中用到的Ai娘形象 - 哔哩哔哩",
+  "publisher": "灿灿同学",
+  "scope": "Creator article title, author, date, caption and listed character labels checked. Images and item-specific terms were not collected.",
+  "findings": {
+    "articleId": "cv53461899",
+    "designSource": "Most original designs credited to ZipZipPipe",
+    "adaptation": "GPT, as disclosed by publisher",
+    "characterLabels": [
+      "DeepSeek",
+      "KIMI",
+      "GPT",
+      "Claude",
+      "Qwen",
+      "哈基米",
+      "GLM",
+      "Grok",
+      "Seed",
+      "Mimo",
+      "Minimax"
+    ],
+    "individualMapping": "not stated"
+  }
+}

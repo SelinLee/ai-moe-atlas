@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV17xnp6jE1d/",
+  "publisher": "跳舞的帅气松鼠",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17xnp6jE1d",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:43:00.562Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV17xnp6jE1d",
+    "title": "小熊（文心大模型）生病了！",
+    "owner": {
+      "name": "跳舞的帅气松鼠",
+      "mid": 1765945450
+    },
+    "pubdate": 1792674657,
+    "descriptionSha256": "325ee46b1518896fff3eeaa0af7c3bb2393d24b89d042239f916ff9b46cae6ee",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

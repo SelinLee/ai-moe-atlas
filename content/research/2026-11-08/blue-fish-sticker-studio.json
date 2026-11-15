@@ -1,0 +1,31 @@
+{
+  "url": "https://github.com/Eynnzerr/blue-fish-studio/blob/80731e416944303d053efbea964710d3c1447d4a/README.md",
+  "publisher": "Eynnzerr",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T17:15:42.506Z",
+  "scope": "Pinned publication, relevant terms and original links checked.",
+  "pinnedDocument": {
+    "url": "https://github.com/Eynnzerr/blue-fish-studio/blob/80731e416944303d053efbea964710d3c1447d4a/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Eynnzerr/blue-fish-studio/80731e416944303d053efbea964710d3c1447d4a/README.md",
+    "commit": "80731e416944303d053efbea964710d3c1447d4a",
+    "sourceSha256": "92a6ae21ccfc36efefa59d37beb12fee0c4ef82e4f5feee31e265f765ae06448"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/Eynnzerr/blue-fish-studio/blob/80731e416944303d053efbea964710d3c1447d4a/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/Eynnzerr/blue-fish-studio/80731e416944303d053efbea964710d3c1447d4a/THIRD_PARTY_NOTICES.md",
+      "commit": "80731e416944303d053efbea964710d3c1447d4a",
+      "sourceSha256": "94a648ae27e2dbde9b4e140fbca829e7d4e17c23ca9e71170d33632aaa695604"
+    },
+    {
+      "url": "https://github.com/Eynnzerr/blue-fish-studio/blob/80731e416944303d053efbea964710d3c1447d4a/ASSET_SOURCES.md",
+      "rawUrl": "https://raw.githubusercontent.com/Eynnzerr/blue-fish-studio/80731e416944303d053efbea964710d3c1447d4a/ASSET_SOURCES.md",
+      "commit": "80731e416944303d053efbea964710d3c1447d4a",
+      "sourceSha256": "f19392fedcdf1c87799e414d7f71f77b41d0341c721f852c5a5e0e1342db99bb"
+    }
+  ],
+  "findings": {
+    "archive": "EDMOK/blue-fish-archive",
+    "projectAdditions": "4 cutouts and 4 new compositions at this revision"
+  }
+}

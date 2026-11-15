@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV17eh46XE5T/",
+  "publisher": "冬冰",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17eh46XE5T",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:26:39.729Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV17eh46XE5T",
+    "title": "蓝色大肥🐟起床了！",
+    "owner": {
+      "name": "冬冰",
+      "mid": 44748304
+    },
+    "pubdate": 1790162450
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "uploader-profile",
+      "title": "这个刀子真甜 · Bilibili",
+      "url": "https://space.bilibili.com/23315338"
+    }
+  ]
+}

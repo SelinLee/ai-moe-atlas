@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1qM4J6XEYJ/",
+  "publisher": "小伙伴Ko",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qM4J6XEYJ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:15:03.886Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1qM4J6XEYJ",
+    "title": "[4K][Gemini角色主题曲]对不起，______",
+    "owner": {
+      "name": "小伙伴Ko",
+      "mid": 105330745
+    },
+    "pubdate": 1794038219,
+    "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

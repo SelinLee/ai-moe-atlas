@@ -1,0 +1,23 @@
+{
+  "url": "https://www.bilibili.com/video/BV1x1nn6REZc/",
+  "publisher": "Claude大小姐在运营",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1x1nn6REZc",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:08:40.882Z",
+  "scope": "Official video metadata checked. Original video and reuse terms were not independently reviewed.",
+  "metadata": {
+    "bvid": "BV1x1nn6REZc",
+    "title": "【Day 1】DC验证：DeepSeek 还是 Claude？",
+    "owner": {
+      "name": "Claude大小姐在运营",
+      "mid": 3747572619414174
+    },
+    "pubdate": 1792395507
+  },
+  "credits": [],
+  "uploaderCredits": [
+    "光影伴我飞 (GPT character design)",
+    "GPT (pixel artwork)"
+  ]
+}

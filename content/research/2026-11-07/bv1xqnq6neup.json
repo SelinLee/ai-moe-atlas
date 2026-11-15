@@ -1,0 +1,45 @@
+{
+  "url": "https://www.bilibili.com/video/BV1xqnq6NEup/",
+  "publisher": "桃莉鸭",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xqnq6NEup",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:08:41.306Z",
+  "scope": "Official video metadata checked. Original video and reuse terms were not independently reviewed.",
+  "metadata": {
+    "bvid": "BV1xqnq6NEup",
+    "title": "鱼人众视频盘点第二期",
+    "owner": {
+      "name": "桃莉鸭",
+      "mid": 1513368379
+    },
+    "pubdate": 1792564764
+  },
+  "credits": [
+    {
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519",
+      "role": "character-reference"
+    },
+    {
+      "title": "西西弗斯的风车 · world.execute(me)",
+      "url": "https://www.bilibili.com/video/BV1xCai6aE9g/",
+      "role": "featured-work"
+    },
+    {
+      "title": "黑猫勇者 · 莉克丽S ED",
+      "url": "https://www.bilibili.com/video/BV1Gpau6wEHE/",
+      "role": "featured-work"
+    },
+    {
+      "title": "那就那就打断 · 大肥鱼欺负小狐娘的后果",
+      "url": "https://www.bilibili.com/video/BV1GnYi63Ews/",
+      "role": "featured-work"
+    },
+    {
+      "title": "星落落_oi · 人是猫真完整版",
+      "url": "https://www.bilibili.com/video/BV1fYpn6SEk9/",
+      "role": "featured-work"
+    }
+  ]
+}

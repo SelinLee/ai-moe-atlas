@@ -1,0 +1,35 @@
+{
+  "url": "https://www.bilibili.com/video/BV1bgpE6ZE5n/",
+  "publisher": "西西弗斯的风车",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bgpE6ZE5n",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:36:42.856Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1bgpE6ZE5n",
+    "title": "【制作分享】大肥鱼的 PV 是怎么做出来的",
+    "owner": {
+      "name": "西西弗斯的风车",
+      "mid": 6992634
+    },
+    "pubdate": 1791715119
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "original-pv",
+      "title": "西西弗斯的风车 · world.execute(me)",
+      "url": "https://www.bilibili.com/video/BV1xCai6aE9g/"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://www.bilibili.com/video/BV1jg866XEC8/",
+  "publisher": "这个刀子真甜",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jg866XEC8",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:41:40.910Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1jg866XEC8",
+    "title": "好多鱼！哪条是大肥鱼？",
+    "owner": {
+      "name": "这个刀子真甜",
+      "mid": 23315338
+    },
+    "pubdate": 1787352900
+  },
+  "credits": [
+    {
+      "role": "uploader-profile",
+      "title": "这个刀子真甜 · Bilibili",
+      "url": "https://space.bilibili.com/23315338"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    }
+  ],
+  "findings": {
+    "creator": "这个刀子真甜",
+    "variant": "小公主大肥鱼",
+    "uploaderDeclaredReference": "ZipZipPipe maid design",
+    "firstChibiPublication": "not-established",
+    "separateArtworkGrant": "not-located"
+  }
+}

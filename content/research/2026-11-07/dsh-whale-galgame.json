@@ -1,0 +1,32 @@
+{
+  "url": "https://github.com/JAdpp/dsh-whale-galgame/blob/0ec130efebf15ffb63a2733b909d423b769db9c5/README.md",
+  "publisher": "JAdpp",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T14:33:01.705Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/JAdpp/dsh-whale-galgame/blob/0ec130efebf15ffb63a2733b909d423b769db9c5/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/JAdpp/dsh-whale-galgame/0ec130efebf15ffb63a2733b909d423b769db9c5/README.md",
+    "commit": "0ec130efebf15ffb63a2733b909d423b769db9c5",
+    "sourceSha256": "06b18b4509cd6444b81268ebad895b014f49e5704c7f213da8d78c68b33cc03e"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/JAdpp/dsh-whale-galgame/blob/0ec130efebf15ffb63a2733b909d423b769db9c5/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/JAdpp/dsh-whale-galgame/0ec130efebf15ffb63a2733b909d423b769db9c5/NOTICE.md",
+      "commit": "0ec130efebf15ffb63a2733b909d423b769db9c5",
+      "sourceSha256": "54036209d25f959dd0c287d16a03c5b8c1dcdcb1d1441e75de5b256d592ded25"
+    }
+  ],
+  "findings": {
+    "bundledImageEntries": 22,
+    "defaultWhaleGirlChain": [
+      "上善无形",
+      "ZipZipPipe",
+      "Small-tailqwq",
+      "JAdpp"
+    ],
+    "noticeScope": "project-declared file-by-file map",
+    "zipzippipeOpusTerms": "not independently confirmed per artwork"
+  }
+}

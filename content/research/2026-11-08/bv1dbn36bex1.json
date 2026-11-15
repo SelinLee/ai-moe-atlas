@@ -1,0 +1,19 @@
+{
+  "url": "https://www.bilibili.com/video/BV1DBn36BEx1/",
+  "publisher": "AAA阿呆Ad",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1DBn36BEx1",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:01:24.375Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1DBn36BEx1",
+    "title": "我是 DeepSeek 娘｜一只住在服务器里的小鲸鱼",
+    "owner": {
+      "name": "AAA阿呆Ad",
+      "mid": 66993618
+    },
+    "pubdate": 1792323088
+  },
+  "credits": []
+}

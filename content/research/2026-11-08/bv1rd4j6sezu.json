@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Rd4J6SEZU/",
+  "publisher": "_黄小小_",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Rd4J6SEZU",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:55:26.208Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1Rd4J6SEZU",
+    "title": "落日见证梁圣、大肥鱼、豆包的相逢。",
+    "owner": {
+      "name": "_黄小小_",
+      "mid": 3493139983633297
+    },
+    "pubdate": 1794064089,
+    "descriptionSha256": "bfbaf683e6d75bd0daa41dfd71ba4e8f4582f1b4b5dbe7c9efe899b1595c2868",
+    "descriptionEvidence": []
+  },
+  "credits": []
+}

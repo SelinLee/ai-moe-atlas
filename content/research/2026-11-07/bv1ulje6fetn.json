@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ULJe6fEtN/",
+  "publisher": "藤原结结衣",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ULJe6fEtN",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:26:39.728Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1ULJe6fEtN",
+    "title": "肥鱼不语，只是一味的OS",
+    "owner": {
+      "name": "藤原结结衣",
+      "mid": 393326290
+    },
+    "pubdate": 1792228562
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    }
+  ]
+}

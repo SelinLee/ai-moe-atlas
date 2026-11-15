@@ -933,16 +933,22 @@
         "ja": "18ブランドを1組として扱う。全て GPT 生成、6種はコミュニティ由来、12種は独自という作者の主張。上流の署名・互換性・画像別権利は未確認。"
       },
       "reviewReasons": {
-        "zh": "图片级展示、改编、再分发及导出权限仍待审核；不下载或镜像作品。",
-        "en": "Artwork-specific display, adaptation, redistribution and export permissions remain pending; no artwork downloaded or mirrored.",
-        "ja": "画像ごとの表示・改変・再配布・書き出し権限は未確認。画像は取得・転載しません。"
+        "zh": "图片级展示、改编、再分发及导出权限仍待审核；不下载或镜像作品。 2026-11-15 对齐：main 已独立审核其中的 school-op-copilot 单图，权限仅见该条目的逐图记录，不传递给本待审组或其他角色。",
+        "en": "Artwork-specific display, adaptation, redistribution and export permissions remain pending; no artwork downloaded or mirrored. November 15 reconciliation: main independently reviewed the school-op-copilot image. Only its artwork-specific record governs that image; no permission transfers to this pending group or other characters.",
+        "ja": "画像ごとの表示・改変・再配布・書き出し権限は未確認。画像は取得・転載しません。 11月15日整合：main は school-op-copilot の単独画像を個別審査済み。その画像の記録のみが適用され、この未審査グループや他キャラクターへ許可を拡張しません。"
       },
       "downloadable": false,
       "preview": null,
       "assets": [],
       "studioExport": false,
       "sourceType": "illustrated-source",
-      "publicationEvidenceUrl": "https://github.com/lshhhhhhh/ai-school-op/commit/ed9131d09a5e61492042ded67523900a4adc5197"
+      "publicationEvidenceUrl": "https://github.com/lshhhhhhh/ai-school-op/commit/ed9131d09a5e61492042ded67523900a4adc5197",
+      "reviewedPublications": [
+        {
+          "characterId": "school-op-copilot",
+          "originalPublication": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/copilot.png"
+        }
+      ]
     },
     {
       "id": "note-protocolfour-ai",

@@ -1,0 +1,47 @@
+{
+  "url": "https://www.bilibili.com/video/BV17rxT6UEpH/",
+  "publisher": "腾讯QQ",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17rxT6UEpH",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:31:22.522Z",
+  "scope": "QQ publisher video metadata and description checked. In-app availability, artwork files and terms were not independently tested.",
+  "metadata": {
+    "bvid": "BV17rxT6UEpH",
+    "title": "听说最近大家都在QQ养大肥鱼！",
+    "owner": {
+      "name": "腾讯QQ",
+      "mid": 396691357
+    },
+    "pubdate": 1793096452
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "uploader-profile",
+      "title": "这个刀子真甜 · Bilibili",
+      "url": "https://space.bilibili.com/23315338"
+    },
+    {
+      "role": "creator-publication",
+      "title": "这个刀子真甜 · 大肥鱼把自己关外面了",
+      "url": "https://www.bilibili.com/video/BV1GAaH6YEyW/"
+    }
+  ],
+  "findings": {
+    "characterOriginal": "上善无形",
+    "maidRedesign": "ZipZipPipe",
+    "chibiDesignReference": "这个刀子真甜",
+    "firstChibiPublication": "not-verified",
+    "artworkRedistributionTerms": "not-located-in-publisher-description"
+  }
+}

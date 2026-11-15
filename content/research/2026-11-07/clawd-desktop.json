@@ -1,0 +1,26 @@
+{
+  "url": "https://github.com/KebeliSamet0/clawd/blob/ba50a8053e2c6e46211fcf4433ba224af0fa95ad/README.md",
+  "publisher": "KebeliSamet0",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T15:18:36.583Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/KebeliSamet0/clawd/blob/ba50a8053e2c6e46211fcf4433ba224af0fa95ad/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/KebeliSamet0/clawd/ba50a8053e2c6e46211fcf4433ba224af0fa95ad/README.md",
+    "commit": "ba50a8053e2c6e46211fcf4433ba224af0fa95ad",
+    "sourceSha256": "11294b6fef702e0e6e3cbe34a065e1ec489ecf29f8f368039329528aedc8b5af"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/KebeliSamet0/clawd/blob/ba50a8053e2c6e46211fcf4433ba224af0fa95ad/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/KebeliSamet0/clawd/ba50a8053e2c6e46211fcf4433ba224af0fa95ad/LICENSE",
+      "commit": "ba50a8053e2c6e46211fcf4433ba224af0fa95ad",
+      "sourceSha256": "002d579486ee6401c72b80cc21b60992578f3ae160e586339e7b9a4a75801144"
+    }
+  ],
+  "findings": {
+    "softwareLicense": "MIT",
+    "originalPixelArtworkCreator": "not established by pinned README",
+    "artworkRedistributionTerms": "not established"
+  }
+}

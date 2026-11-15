@@ -1,0 +1,24 @@
+{
+  "url": "https://www.bilibili.com/video/BV1SM4n6rEAj/",
+  "publisher": "是劲劲子",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SM4n6rEAj",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:01:06.895Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1SM4n6rEAj",
+    "title": "如果大肥鱼去了尼尔世界（远古之歌翻唱）动画预览",
+    "owner": {
+      "name": "是劲劲子",
+      "mid": 27926763
+    },
+    "pubdate": 1794057864,
+    "descriptionSha256": "91c55d39be23f5fe0e443482724a141959f859f706be26b36488ac6ccc48d392",
+    "descriptionEvidence": [
+      "原曲《远古之歌》",
+      "编曲：普乐AI"
+    ]
+  },
+  "credits": []
+}

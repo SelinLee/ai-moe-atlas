@@ -1,0 +1,24 @@
+{
+  "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/LICENSE.md",
+  "publisher": "lokicorvus",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T14:23:16.537Z",
+  "scope": "Pinned project documentation and linked terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/LICENSE.md",
+    "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/LICENSE.md",
+    "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+    "sourceSha256": "71cc20b54d02adfde5f008d821b1790554b353b7f2bc8449001f72fce794e17d"
+  },
+  "relatedDocuments": [],
+  "findings": {
+    "declaredLicense": "CC BY-NC-SA 4.0",
+    "declaredPaths": [
+      "characters/",
+      "docs/prompts/",
+      "docs/images/"
+    ],
+    "crossPetGlmDesignCredit": "ZipZipPipe",
+    "separateVideoVariant": "BV1iDeQ6fEFi authorship unresolved"
+  }
+}

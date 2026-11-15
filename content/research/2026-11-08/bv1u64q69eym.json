@@ -1,0 +1,29 @@
+{
+  "url": "https://www.bilibili.com/video/BV1U64q69EYm/",
+  "publisher": "GLM小狐娘运营呀",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1U64q69EYm",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:32:25.097Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1U64q69EYm",
+    "title": "小狐娘唱雨爱司凤版，又掏空人类钱包啦！【DAY16】",
+    "owner": {
+      "name": "GLM小狐娘运营呀",
+      "mid": 3747573313572699
+    },
+    "pubdate": 1793961937,
+    "descriptionSha256": "e3bceb07516d57dfb6e77f123dbdd6bd8aac70012ec68f5b95a21a0eafb753ab",
+    "descriptionEvidence": [
+      "司凤版改编：随安SuiAan（BV1faak6AEzm）"
+    ]
+  },
+  "credits": [
+    {
+      "role": "arrangement-source",
+      "title": "随安SuiAan · 雨爱",
+      "url": "https://www.bilibili.com/video/BV1faak6AEzm/"
+    }
+  ]
+}

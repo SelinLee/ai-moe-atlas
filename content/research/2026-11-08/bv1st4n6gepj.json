@@ -1,0 +1,29 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ST4n6GEPJ/",
+  "publisher": "火海vol2",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ST4n6GEPJ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:15:04.386Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1ST4n6GEPJ",
+    "title": "【温馨小短片】依旧一群小可爱~",
+    "owner": {
+      "name": "火海vol2",
+      "mid": 2424803
+    },
+    "pubdate": 1794058078,
+    "descriptionSha256": "66fe8618cb9425f2935b2a901371c647856f9ca39fcbc6eca97d0f35a4404ae2",
+    "descriptionEvidence": [
+      "三视图参考依旧刀子哥：@这个刀子真甜"
+    ]
+  },
+  "credits": [
+    {
+      "role": "turnaround-reference",
+      "title": "这个刀子真甜 · Bilibili",
+      "url": "https://space.bilibili.com/23315338"
+    }
+  ]
+}

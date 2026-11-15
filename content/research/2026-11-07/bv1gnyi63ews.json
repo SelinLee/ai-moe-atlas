@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1GnYi63Ews/",
+  "publisher": "那就那就打断",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1GnYi63Ews",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T14:08:40.267Z",
+  "scope": "Official video metadata checked. Original video and reuse terms were not independently reviewed.",
+  "metadata": {
+    "bvid": "BV1GnYi63Ews",
+    "title": "大肥鱼欺负小狐娘的后果",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1789305200
+  },
+  "credits": [
+    {
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519",
+      "role": "character-reference"
+    }
+  ],
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "这个刀子真甜"
+  ],
+  "characterMapping": "not-specified"
+}

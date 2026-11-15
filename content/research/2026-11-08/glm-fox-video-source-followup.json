@@ -1,0 +1,40 @@
+{
+  "url": "https://www.bilibili.com/video/BV1iDeQ6fEFi/",
+  "publisher": "宝藏小树林",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1iDeQ6fEFi",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:01:30.814Z",
+  "scope": "Official video metadata, description and comments returned by two public reply requests checked. No original artwork credit was found in the description or among the visible uploader replies.",
+  "metadata": {
+    "bvid": "BV1iDeQ6fEFi",
+    "title": "GLM小狐娘用zcode偷传用户数据",
+    "owner": {
+      "name": "宝藏小树林",
+      "mid": 277780873
+    },
+    "pubdate": 1789781483
+  },
+  "description": "-",
+  "replies": [
+    {
+      "url": "https://api.bilibili.com/x/v2/reply/main?type=1&mode=3&oid=117295103942364",
+      "httpStatus": 200,
+      "code": 0,
+      "commentsExamined": 3,
+      "uploaderCreditNotes": []
+    },
+    {
+      "url": "https://api.bilibili.com/x/v2/reply?type=1&sort=2&oid=117295103942364",
+      "httpStatus": 200,
+      "code": 0,
+      "commentsExamined": 3,
+      "uploaderCreditNotes": []
+    }
+  ],
+  "priorEvidence": {
+    "path": "content/research/2026-11-07/glm-fox-video-source.json",
+    "sha256": "6caaa5a6af6d057fba01e7bf72003936a04bd5b583198f4448631003b5332fcf",
+    "kind": "browser-metadata-extract"
+  }
+}

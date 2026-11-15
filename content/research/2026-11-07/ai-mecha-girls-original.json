@@ -1,0 +1,40 @@
+{
+  "url": "https://www.bilibili.com/video/BV1eix26sE59/",
+  "publisher": "-闪电提丰批-",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eix26sE59",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:18:41.385Z",
+  "scope": "Creator’s official video metadata and caption checked. No model, illustrations or cloud files acquired.",
+  "metadata": {
+    "bvid": "BV1eix26sE59",
+    "title": "当各个AI大模型变为机娘",
+    "owner": {
+      "name": "-闪电提丰批-",
+      "mid": 4922745
+    },
+    "pubdate": 1793754000
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "findings": {
+    "designSeries": "AI mecha girls",
+    "references": [
+      "上善无形",
+      "ZipZipPipe"
+    ],
+    "creatorTerms": "commercial use prohibited",
+    "independentRedistributionTerms": "not specified in the checked caption",
+    "derivativeReferencesThisPost": "BV1Qp4Y6SEex"
+  }
+}

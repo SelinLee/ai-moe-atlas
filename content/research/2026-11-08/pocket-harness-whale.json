@@ -1,0 +1,24 @@
+{
+  "url": "https://github.com/regrevia/pocket-harness/blob/05fd2ebeb909baff03faf56f4acc6f5c52a5780a/README.md",
+  "publisher": "regrevia",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T17:15:42.992Z",
+  "scope": "Pinned publication, relevant terms and original links checked.",
+  "pinnedDocument": {
+    "url": "https://github.com/regrevia/pocket-harness/blob/05fd2ebeb909baff03faf56f4acc6f5c52a5780a/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/regrevia/pocket-harness/05fd2ebeb909baff03faf56f4acc6f5c52a5780a/README.md",
+    "commit": "05fd2ebeb909baff03faf56f4acc6f5c52a5780a",
+    "sourceSha256": "dd05adb18bf703fc356efe60bd2531c3e8ffb17ce66fa04011e96a29989fff2b"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/regrevia/pocket-harness/blob/05fd2ebeb909baff03faf56f4acc6f5c52a5780a/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/regrevia/pocket-harness/05fd2ebeb909baff03faf56f4acc6f5c52a5780a/LICENSE",
+      "commit": "05fd2ebeb909baff03faf56f4acc6f5c52a5780a",
+      "sourceSha256": "ffa3277a094469a83727935025ccb0826083b503d210fc4e949dbba6a711b83d"
+    }
+  ],
+  "findings": {
+    "projectPixelAssets": "MIT as stated by regrevia"
+  }
+}

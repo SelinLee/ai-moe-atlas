@@ -1,0 +1,26 @@
+{
+  "url": "https://github.com/savanna0425/llm-pet/blob/fdd821feb49b294ea8abe42c9cf41e6c52e3aacf/README.md",
+  "publisher": "savanna0425",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T16:22:43.299Z",
+  "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded.",
+  "pinnedDocument": {
+    "url": "https://github.com/savanna0425/llm-pet/blob/fdd821feb49b294ea8abe42c9cf41e6c52e3aacf/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/savanna0425/llm-pet/fdd821feb49b294ea8abe42c9cf41e6c52e3aacf/README.md",
+    "commit": "fdd821feb49b294ea8abe42c9cf41e6c52e3aacf",
+    "sourceSha256": "5727567ac8d2cee633024a7c92f9838bc48d3a27b5d9eb8b1f86c32508d51610"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/savanna0425/llm-pet/blob/fdd821feb49b294ea8abe42c9cf41e6c52e3aacf/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/savanna0425/llm-pet/fdd821feb49b294ea8abe42c9cf41e6c52e3aacf/NOTICE.md",
+      "commit": "fdd821feb49b294ea8abe42c9cf41e6c52e3aacf",
+      "sourceSha256": "9a01fc4cfb10427273ea49c361dd1df159ea08dc8bbc6ccaf88e71c494ed5647"
+    }
+  ],
+  "findings": {
+    "projectNotice": "Attribution and noncommercial use",
+    "deepseek": "CC BY-NC-SA 4.0 with both original credits",
+    "otherDesigns": "Publisher credits ZipZipPipe at collection level; item-level identity and terms pending"
+  }
+}

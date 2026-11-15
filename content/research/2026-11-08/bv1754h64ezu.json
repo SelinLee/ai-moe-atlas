@@ -1,0 +1,39 @@
+{
+  "url": "https://www.bilibili.com/video/BV1754H64EzU/",
+  "publisher": "带了伞雨就不来",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1754H64EzU",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:42:58.452Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1754H64EzU",
+    "title": "当大肥鱼在等待迟迟没有下班的你",
+    "owner": {
+      "name": "带了伞雨就不来",
+      "mid": 705051
+    },
+    "pubdate": 1794051061,
+    "descriptionSha256": "1c27340de50fb0fc498af356c9bd187f70cc7069eacd598c64f44ab5104433c6",
+    "descriptionEvidence": [
+      "人设：@ZipZipPipe   @这个刀子真甜   @上善无形"
+    ]
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "turnaround-reference",
+      "title": "这个刀子真甜 · Bilibili",
+      "url": "https://space.bilibili.com/23315338"
+    }
+  ]
+}

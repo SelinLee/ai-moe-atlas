@@ -1,0 +1,68 @@
+{
+  "url": "https://zenn.dev/yamamemo/articles/gen-ai-personification#microsoft-copilot",
+  "publisher": "yamamemo",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T16:37:43.737Z",
+  "articleTitle": "生成AIサービスを擬人化してみた",
+  "scope": "The creator article, both published PNGs, public profile and RSS publication list were checked. The PNG hashes matched the prior observations. No higher-resolution file or artwork redistribution grant was identified in these sources.",
+  "images": [
+    {
+      "variant": "regular",
+      "sourceUrl": "https://static.zenn.studio/user-upload/deployed-images/03507686e994eb06ba996a15.png?sha=275887310a852b9554310b8a4f1353db8ea66c9c",
+      "finalUrl": "https://static.zenn.studio/user-upload/deployed-images/03507686e994eb06ba996a15.png?sha=275887310a852b9554310b8a4f1353db8ea66c9c",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-07T16:37:41.851Z",
+      "alt": "",
+      "sha256": "5791388a8f3eb340d4350ad42d55035f6b1dbf1b527cc1e7253d9153e1c192dd",
+      "bytes": 81334,
+      "width": 512,
+      "height": 768
+    },
+    {
+      "variant": "sd",
+      "sourceUrl": "https://static.zenn.studio/user-upload/deployed-images/5510b21f171e0352961aa881.png?sha=970d9506e80aac808154125559cdf1a0ab3f0f39",
+      "finalUrl": "https://static.zenn.studio/user-upload/deployed-images/5510b21f171e0352961aa881.png?sha=970d9506e80aac808154125559cdf1a0ab3f0f39",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-07T16:37:43.726Z",
+      "alt": "",
+      "sha256": "6960f3033a264336882722fc578105a01b283cc9998c437bb6264672b09000db",
+      "bytes": 86508,
+      "width": 512,
+      "height": 768
+    }
+  ],
+  "creatorProfile": {
+    "url": "https://zenn.dev/yamamemo",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-07T16:34:54.781Z",
+    "sha256": "e5ebc5adbecc0142637b3d10a9ea21f5923040bf4a96a2efdfa61797ccbd8909"
+  },
+  "creatorFeed": {
+    "url": "https://zenn.dev/yamamemo/feed",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-07T16:36:41.895Z",
+    "sha256": "c788b8a1302b054a0a488caa8c763e078203f3e968c97540c4ee38d82614c54c",
+    "items": [
+      {
+        "title": "AWS Advanced Networking Specialty (ANS-C01) の勉強法",
+        "link": "https://zenn.dev/yamamemo/articles/aws-advanced-networking-specialty-passed",
+        "publication": "Mon, 12 Jan 2026 08:26:05 GMT"
+      },
+      {
+        "title": "生成AIサービスを擬人化してみた",
+        "link": "https://zenn.dev/yamamemo/articles/gen-ai-personification",
+        "publication": "Sat, 03 Jan 2026 02:13:29 GMT"
+      },
+      {
+        "title": "Hacker Newsを追うのが辛いので、LLMとGASで「ニュース要約Bot」を作った話",
+        "link": "https://zenn.dev/yamamemo/articles/news-summary-bot-gas-llm",
+        "publication": "Tue, 30 Dec 2025 00:25:31 GMT"
+      }
+    ]
+  },
+  "priorEvidence": {
+    "path": "content/research/2026-11-08/yamamemo-copilot-source-followup.json",
+    "sha256": "428923a0db9a6007fd5b2cf4b5f01c9afd6c72756a0e7c90ce8029fe826fecd6",
+    "kind": "browser-metadata-extract"
+  }
+}

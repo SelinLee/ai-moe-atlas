@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1aHbp6tEuw/",
+  "publisher": "尹紫鹭幻想社",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1aHbp6tEuw",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:36:42.876Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1aHbp6tEuw",
+    "title": "[DeepSeek] 肥鱼之大，一锅炖不下",
+    "owner": {
+      "name": "尹紫鹭幻想社",
+      "mid": 1008958826
+    },
+    "pubdate": 1788688800
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

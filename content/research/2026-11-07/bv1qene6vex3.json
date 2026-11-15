@@ -1,0 +1,39 @@
+{
+  "url": "https://www.bilibili.com/video/BV1qEnE6vEX3/",
+  "publisher": "我的名字叫橘良橘影",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qEnE6vEX3",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:36:51.268Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1qEnE6vEX3",
+    "title": "GPT龙娘的 world.execute(me);",
+    "owner": {
+      "name": "我的名字叫橘良橘影",
+      "mid": 432550066
+    },
+    "pubdate": 1792387098
+  },
+  "credits": [
+    {
+      "role": "music-terms",
+      "title": "Mili · Copyright Guidelines",
+      "url": "https://projectmili.com/copyright-guidelines"
+    },
+    {
+      "role": "inspiration",
+      "title": "西西弗斯的风车 · world.execute(me)",
+      "url": "https://www.bilibili.com/video/BV1xCai6aE9g/"
+    },
+    {
+      "role": "inspiration",
+      "title": "真寻Mahiro · world.execute(me)",
+      "url": "https://www.bilibili.com/video/BV186pc65E68/"
+    }
+  ],
+  "findings": {
+    "music": "Mili original song",
+    "sourceLayers": "video, software, character artwork and song have separate terms"
+  }
+}

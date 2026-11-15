@@ -1,0 +1,23 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Wx4i6LExm/",
+  "publisher": "家妻是一里",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Wx4i6LExm",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:55:25.671Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1Wx4i6LExm",
+    "title": "【Opus5.5/哈基米】Gemini专属的《学猫叫》",
+    "owner": {
+      "name": "家妻是一里",
+      "mid": 394862112
+    },
+    "pubdate": 1793940574,
+    "descriptionSha256": "3b0ab5519937f6aafb6d98c0fe1335b3d7337c686a10a98b7de9f704825d06bc",
+    "descriptionEvidence": [
+      "原作：小潘潘 小峰峰 《学猫叫》"
+    ]
+  },
+  "credits": []
+}

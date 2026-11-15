@@ -1,0 +1,35 @@
+{
+  "url": "https://www.bilibili.com/video/BV1JaJo6jEqH/",
+  "publisher": "失心",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JaJo6jEqH",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:36:41.656Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1JaJo6jEqH",
+    "title": "偷看DeepSeek娘的深度思考，写了又删的全是“想你”｜原创歌曲《已深度想你》大肥鱼 4K Hi-Res【AI MV大赛】",
+    "owner": {
+      "name": "失心",
+      "mid": 7599814
+    },
+    "pubdate": 1792501500
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "chibi-reference",
+      "title": "这个刀子真甜 · Q 版鲸鱼娘投稿",
+      "url": "https://www.bilibili.com/video/BV1SBMH6NEJo/"
+    }
+  ]
+}

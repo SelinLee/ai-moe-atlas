@@ -1,0 +1,23 @@
+{
+  "url": "https://www.bilibili.com/video/BV1mbxs6SE2S/",
+  "publisher": "星澪_Mio",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mbxs6SE2S",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:42:59.513Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1mbxs6SE2S",
+    "title": "DeepSeek把情书外包给千问，结果乙方把自己交付了｜AI公寓百合小剧场01",
+    "owner": {
+      "name": "星澪_Mio",
+      "mid": 398485629
+    },
+    "pubdate": 1793538000,
+    "descriptionSha256": "5325f1431850817636ec11b36591f03d380781bcea509be5658da85e918edd19",
+    "descriptionEvidence": [
+      "立绘、配音为 AI 生成"
+    ]
+  },
+  "credits": []
+}

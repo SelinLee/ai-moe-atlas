@@ -1,0 +1,59 @@
+{
+  "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv/blob/93ac63775ee58b33ff102167514f2603a48940cc/README.md",
+  "publisher": "Nyankomintsu",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T17:21:24.030Z",
+  "scope": "Pinned credits name f_profile.png among the eight creator-published V4 CC BY-NC-SA 4.0 silhouettes. Checked the exact PNG bytes.",
+  "pinnedDocument": {
+    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv/blob/93ac63775ee58b33ff102167514f2603a48940cc/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Nyankomintsu/world-execute-me-lyric-mv/93ac63775ee58b33ff102167514f2603a48940cc/README.md",
+    "commit": "93ac63775ee58b33ff102167514f2603a48940cc",
+    "sourceSha256": "10bc74a0e46b553c0c68fe527045725f47f5b9c91ab2d220a1a2d7b0748bbc66"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv/blob/93ac63775ee58b33ff102167514f2603a48940cc/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Nyankomintsu/world-execute-me-lyric-mv/93ac63775ee58b33ff102167514f2603a48940cc/LICENSE",
+      "commit": "93ac63775ee58b33ff102167514f2603a48940cc",
+      "sourceSha256": "eb568404a2762e264c2abba90673028c8b1fb9bbb225af31d07e7ae97658af5d"
+    }
+  ],
+  "findings": {
+    "codeAndProjectDocs": "MIT",
+    "projectSilhouettes": "CC BY-NC-SA 4.0, credit Nyankomint",
+    "songAndLyrics": "separate Mili terms",
+    "musicGuidelines": {
+      "url": "https://projectmili.com/copyright-guidelines",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-07T15:29:31.380Z",
+      "sourceSha256": "0f5e59b8914d344e3328e7472ccf02cf195c4b55f9a6bd59c678d97279d9b874",
+      "title": "Copyright Guidelines — Mili Official Website"
+    }
+  },
+  "priorEvidence": {
+    "path": "content/research/2026-11-07/nyankomint-lyric-mv-source.json",
+    "sha256": "10cb1ae6e1430b727c7e2f5f28b974ffd51235034ba51db0f1ed9e19892ea75a",
+    "kind": "browser-metadata-extract"
+  },
+  "artworkCredit": {
+    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv/blob/93ac63775ee58b33ff102167514f2603a48940cc/CREDITS.md",
+    "rawUrl": "https://raw.githubusercontent.com/Nyankomintsu/world-execute-me-lyric-mv/93ac63775ee58b33ff102167514f2603a48940cc/CREDITS.md",
+    "commit": "93ac63775ee58b33ff102167514f2603a48940cc",
+    "sourceSha256": "7674c955597fa65f6ce1faaa3555401771bbbf66fd23388cf1a074db76406fca"
+  },
+  "observedArtwork": {
+    "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv/blob/93ac63775ee58b33ff102167514f2603a48940cc/assets/character/f_profile.png",
+    "rawUrl": "https://raw.githubusercontent.com/Nyankomintsu/world-execute-me-lyric-mv/93ac63775ee58b33ff102167514f2603a48940cc/assets/character/f_profile.png",
+    "commit": "93ac63775ee58b33ff102167514f2603a48940cc",
+    "path": "assets/character/f_profile.png",
+    "gitBlobSha1": "ad6f7bcab98c37ce2f17a0125e568572cefa631f",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-07T17:21:25.789Z",
+    "sourceSha256": "524f3f1bc30a7b6659f5c9842a9f6d2d3ba80d015079b7b7c95befb920c34157",
+    "bytes": 1269994,
+    "width": 1086,
+    "height": 1448,
+    "format": "png",
+    "hasAlpha": true
+  }
+}

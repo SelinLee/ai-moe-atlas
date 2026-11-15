@@ -1,0 +1,31 @@
+{
+  "url": "https://github.com/xkk6663/dsh-live2d-mao/blob/21b9db21d0abfc974fe88b155517563d155e9c51/README.md",
+  "publisher": "xkk6663",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-07T17:57:49.757Z",
+  "scope": "Pinned publication, relevant terms and original links checked.",
+  "pinnedDocument": {
+    "url": "https://github.com/xkk6663/dsh-live2d-mao/blob/21b9db21d0abfc974fe88b155517563d155e9c51/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/xkk6663/dsh-live2d-mao/21b9db21d0abfc974fe88b155517563d155e9c51/README.md",
+    "commit": "21b9db21d0abfc974fe88b155517563d155e9c51",
+    "sourceSha256": "3f595e751d5dcfa000789a78b6ef8ae2a714dde62697b763dce1d767333dea33"
+  },
+  "relatedDocuments": [
+    {
+      "url": "https://github.com/xkk6663/dsh-live2d-mao/blob/21b9db21d0abfc974fe88b155517563d155e9c51/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/xkk6663/dsh-live2d-mao/21b9db21d0abfc974fe88b155517563d155e9c51/THIRD_PARTY_NOTICES.md",
+      "commit": "21b9db21d0abfc974fe88b155517563d155e9c51",
+      "sourceSha256": "6d16893105ae06efb7bacc63094f3d6b457c784f81c4dcb921d96da771e2f613"
+    },
+    {
+      "url": "https://github.com/xkk6663/dsh-live2d-mao/blob/21b9db21d0abfc974fe88b155517563d155e9c51/packages/dsh-live2d-mao/PROVENANCE.md",
+      "rawUrl": "https://raw.githubusercontent.com/xkk6663/dsh-live2d-mao/21b9db21d0abfc974fe88b155517563d155e9c51/packages/dsh-live2d-mao/PROVENANCE.md",
+      "commit": "21b9db21d0abfc974fe88b155517563d155e9c51",
+      "sourceSha256": "75563838c10c41811494b1fcd048d579a116254d46e4fb832f2f88174c2a3883"
+    }
+  ],
+  "findings": {
+    "pluginAssets": "Icon and screenshots under CC BY-NC-SA 4.0",
+    "model": "separate distribution"
+  }
+}

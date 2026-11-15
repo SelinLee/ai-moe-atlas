@@ -1,0 +1,35 @@
+{
+  "url": "https://www.bilibili.com/video/BV1TEpX6nEn9/",
+  "publisher": "杉映杉",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TEpX6nEn9",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:36:42.069Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1TEpX6nEn9",
+    "title": "大肥鱼:Let Me Go MV 我自己做",
+    "owner": {
+      "name": "杉映杉",
+      "mid": 3546868829129052
+    },
+    "pubdate": 1791776532
+  },
+  "credits": [
+    {
+      "role": "character-original",
+      "title": "上善无形 · 鲸鱼娘原作",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "music-source",
+      "title": "罐装毕加索 · Let Me Go",
+      "url": "https://www.bilibili.com/video/BV1XbY66nEWr/"
+    }
+  ]
+}

@@ -8,6 +8,8 @@
 
 截至 2026-09-29：12 个 AI 中，11 个已具备展示与下载素材，1 个（Copilot）仅有来源链接。来源链接不算完成图片覆盖。
 
+2026-11-08：ai-school-op 的 Copilot 校园版已入库，原图为 1024 × 1536，许可为 CC BY-NC 4.0。当前 12 个产品均有可展示、下载的形象。
+
 | AI | 优先版本 | 当前缺口 |
 | --- | --- | --- |
 | DeepSeek | 已入库的鲸鱼娘女仆素材 | 已可用；保留上善无形 → ZipZipPipe → Small-tailqwq 署名链 |
@@ -15,7 +17,7 @@
 | GLM、Grok、MiniMax | ZipZipPipe 本人 Pixiv 原图集 | 已采集三张高清原图及作者条件 |
 | 豆包 | ZipZipPipe 本人 Pixiv 原图集 | 已采集高清原图；OpenPet 候选仅保留出处 |
 | Meta Llama | ZipZipPipe 本人 Pixiv 原图集 | 已采集羊驼形象高清原图 |
-| Copilot | yamamemo 候选 | 原图使用条件；当前仅来源链接 |
+| Copilot | ai-school-op 校园版 | 校园版已入库。yamamemo 飞行员版继续核对高清原图和许可 |
 
 ## 图集页码归属
 
@@ -36,7 +38,7 @@
 ## 接下来按这个顺序收集
 
 1. 已完成 GPT、Gemini、Claude、Kimi、千问、GLM、Grok、豆包、Llama、MiniMax：从作者 Pixiv 图集采集高清原图。
-2. 为 Copilot 寻找允许展示与再分发的原图版本；当前仍只有来源链接。
+2. 校园版 Copilot 已按 CC BY-NC 4.0 收录。继续寻找 yamamemo 飞行员版的高清图与逐图许可。
 3. 图集中尚未采集的 Mistral、文心一言等角色先不处理——`entities.json` 里没有这些 AI，不为凑数量扩充索引。
 4. 每项通过“已有角色、AI 对应准确、原始出处、作品级使用条件、原图校验、三语说明”检查后，生成等比规范化图片与附来源的素材包。
 

@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV18dbN63EMw/",
+  "publisher": "那就那就打断",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18dbN63EMw",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T15:47:09.983Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV18dbN63EMw",
+    "title": "大肥鱼欺负小毛咪，glm刚结束优惠，ds就宣布降价",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1788777553
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "uploader-profile",
+      "title": "这个刀子真甜 · Bilibili",
+      "url": "https://space.bilibili.com/23315338"
+    }
+  ]
+}

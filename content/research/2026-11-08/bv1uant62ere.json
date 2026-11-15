@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Uant62ERe/",
+  "publisher": "Claude大小姐在运营",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Uant62ERe",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:47:03.570Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1Uant62ERe",
+    "title": "【睡前童话·第二夜】三个问题",
+    "owner": {
+      "name": "Claude大小姐在运营",
+      "mid": 3747572619414174
+    },
+    "pubdate": 1792762200
+  },
+  "credits": [
+    {
+      "role": "earlier-episode",
+      "title": "Claude大小姐在运营 · 大肥鱼做事总不会错",
+      "url": "https://www.bilibili.com/video/BV1Dnnc6gE19/"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://www.bilibili.com/video/BV1m3n46GES6/",
+  "publisher": "Muto_66",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1m3n46GES6",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:43:00.031Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1m3n46GES6",
+    "title": "【科普向】《发布会？那种东西Mistral酱不需要哦！》",
+    "owner": {
+      "name": "Muto_66",
+      "mid": 15475629
+    },
+    "pubdate": 1792730175,
+    "descriptionSha256": "3621950bb8f028732e229f1a56a03883d9b626a500cc6107b59683a6b258c22b",
+    "descriptionEvidence": [
+      "https://mistral.ai/news/announcing-mistral-7b"
+    ]
+  },
+  "credits": [
+    {
+      "role": "historical-reference",
+      "title": "Mistral AI · Announcing Mistral 7B",
+      "url": "https://mistral.ai/news/announcing-mistral-7b"
+    }
+  ]
+}

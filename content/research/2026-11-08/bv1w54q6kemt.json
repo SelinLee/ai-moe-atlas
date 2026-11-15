@@ -1,0 +1,29 @@
+{
+  "url": "https://www.bilibili.com/video/BV1w54q6kEMT/",
+  "publisher": "小龙娘_Cc",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1w54q6kEMT",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T17:55:24.841Z",
+  "scope": "Official video metadata and uploader description checked.",
+  "metadata": {
+    "bvid": "BV1w54q6kEMT",
+    "title": "【角色PV】初次见面，Cc报到！｜本龙的人间打工档案",
+    "owner": {
+      "name": "小龙娘_Cc",
+      "mid": 3546892422089198
+    },
+    "pubdate": 1793965130,
+    "descriptionSha256": "0c6e59319e45c548856250eedd4782a8b6f5c3fe3994e1658dd9fdd2ab41b55c",
+    "descriptionEvidence": [
+      "角色原设：ZipZipPipe"
+    ]
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

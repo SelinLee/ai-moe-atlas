@@ -1,0 +1,30 @@
+{
+  "url": "https://www.bilibili.com/video/BV1RkJe6gEH2/",
+  "publisher": "钟晴的少女心事",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RkJe6gEH2",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-07T16:36:42.861Z",
+  "scope": "Official video metadata and uploader description checked. No video downloaded or frame-by-frame review.",
+  "metadata": {
+    "bvid": "BV1RkJe6gEH2",
+    "title": "【大肥鱼】《大肥鱼无电波讯号》",
+    "owner": {
+      "name": "钟晴的少女心事",
+      "mid": 1178227438
+    },
+    "pubdate": 1792225241
+  },
+  "credits": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · AI娘化",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "music-source",
+      "title": "花水r_Official · 南京夜无电波讯号",
+      "url": "https://www.bilibili.com/video/BV1NcuUzJESu/"
+    }
+  ]
+}
