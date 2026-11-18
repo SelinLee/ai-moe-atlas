@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:49:21.334Z",
+  "url": "https://www.bilibili.com/video/BV1cVsw6zEnE/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cVsw6zEnE",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1cVsw6zEnE",
+    "title": "【GPT原创曲】做 题 威 龙",
+    "owner": {
+      "name": "苌萌萌",
+      "mid": 109431227
+    },
+    "pubdate": 1794812409,
+    "duration": 200
+  },
+  "descriptionSha256": "7ee1cabfbec8fa257945d15ac20d75baf50fa19f98b5b3fc9857d88d705b8bf1",
+  "uploaderCredits": [
+    "Suno"
+  ],
+  "linkedVideos": []
+}

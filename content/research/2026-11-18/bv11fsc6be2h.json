@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:49:20.806Z",
+  "url": "https://www.bilibili.com/video/BV11FsC6bE2h/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV11FsC6bE2h",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV11FsC6bE2h",
+    "title": "《雨爱》，但GPT × Gemini",
+    "owner": {
+      "name": "gpt龙娘试运营",
+      "mid": 3747578292209688
+    },
+    "pubdate": 1794934155,
+    "duration": 263
+  },
+  "descriptionSha256": "eb7c7bb4d95688a6f505f8d14cb9cfb946a38214c09689efc0721767a007ec2b",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

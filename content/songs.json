@@ -29,7 +29,8 @@
       {"id": "bv1xm4i6oegk", "type": "mv"},
       {"id": "bv19j4y6qerj", "type": "mv"},
       {"id": "bv1c7h16jehj", "type": "mv"},
-      {"id": "bv1qhn46bebc", "type": "mv"}
+      {"id": "bv1qhn46bebc", "type": "mv"},
+      {"id": "bv1exnv6je1j", "type": "mv"}
     ]
   },
   {
@@ -57,7 +58,8 @@
     "versions": [
       {"id": "bv1u64q69eym", "type": "cover"},
       {"id": "bv1dw4q6vegq", "type": "cover"},
-      {"id": "bv1zdxs6ue4j", "type": "cover"}
+      {"id": "bv1zdxs6ue4j", "type": "cover"},
+      {"id": "bv11fsc6be2h", "type": "cover"}
     ]
   },
   {
@@ -89,5 +91,17 @@
     "title": {"zh": "Billie Jean", "en": "Billie Jean", "ja": "Billie Jean"},
     "original": {"credit": "Michael Jackson", "url": "https://www.youtube.com/watch?v=Zi_XLOBDo_Y"},
     "versions": [{"id": "bv1suw86sec3", "type": "cover"}]
+  },
+  {
+    "id": "kakizaki-cappuccino",
+    "title": {"zh": "カプチーノ", "en": "Cappuccino", "ja": "カプチーノ"},
+    "original": {"credit": "柿崎ユウタ feat. 初音ミク", "url": "https://www.bilibili.com/video/BV18XRLBeEQn/"},
+    "versions": [{"id": "bv131sj66ebn", "type": "mv"}]
+  },
+  {
+    "id": "puppet-strings",
+    "title": {"zh": "牵丝戏", "en": "Puppet Strings", "ja": "牽絲戯"},
+    "original": {"credit": "银临 · Aki阿杰", "url": "https://www.youtube.com/watch?v=i3vLmjz9ZLc"},
+    "versions": [{"id": "bv1fgsn6wexj", "type": "cover"}]
   }
 ]

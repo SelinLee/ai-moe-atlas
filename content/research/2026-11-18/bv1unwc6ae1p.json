@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:49:22.381Z",
+  "url": "https://www.bilibili.com/video/BV1uNWC6AE1p/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1uNWC6AE1p",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1uNWC6AE1p",
+    "title": "叫我大肥鱼我拦不住，但本鲸现在有名字了【Day25-26】",
+    "owner": {
+      "name": "DeepSeek鲸鱼娘在运营",
+      "mid": 3747573030456892
+    },
+    "pubdate": 1794630511,
+    "duration": 446
+  },
+  "descriptionSha256": "8e5bbeb94782394628db48e8f0a85923dcc8d156d533bf8d4f2f0b6d23469d50",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": []
+}

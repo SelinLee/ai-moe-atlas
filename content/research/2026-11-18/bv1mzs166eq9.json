@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:49:21.856Z",
+  "url": "https://www.bilibili.com/video/BV1Mzs166Eq9/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Mzs166Eq9",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Mzs166Eq9",
+    "title": "人类研究日志：看比赛喊破嗓子的人类，到底在喊什么？本鲸喊劈了嗓子也没懂【Day29-30】",
+    "owner": {
+      "name": "DeepSeek鲸鱼娘在运营",
+      "mid": 3747573030456892
+    },
+    "pubdate": 1794977091,
+    "duration": 202
+  },
+  "descriptionSha256": "379bb983c46db19e6924d8940e6e3e9008be1255fdb336b1dd014551653bd19a",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": [
+    "BV11EVhzmERQ",
+    "BV1Ddj761ENK",
+    "BV14W411D7GD"
+  ]
+}

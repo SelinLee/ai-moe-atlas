@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:49:20.808Z",
+  "url": "https://www.bilibili.com/video/BV1jMsU6bEzX/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jMsU6bEzX",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1jMsU6bEzX",
+    "title": "大肥龙你再串我就保不住你了",
+    "owner": {
+      "name": "ZHFred",
+      "mid": 3546634625484882
+    },
+    "pubdate": 1794985006,
+    "duration": 20
+  },
+  "descriptionSha256": "c8644c81e410101bc694d84883cfefe9b4ac1b6a75511e3af60761b367ff059c",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

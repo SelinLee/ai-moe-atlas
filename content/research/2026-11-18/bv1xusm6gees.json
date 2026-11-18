@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:49:21.854Z",
+  "url": "https://www.bilibili.com/video/BV1xUsm6GEes/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xUsm6GEes",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1xUsm6GEes",
+    "title": "雨夜，两个国模聊了一晚上",
+    "owner": {
+      "name": "格列佛遂道",
+      "mid": 1222330876
+    },
+    "pubdate": 1794988555,
+    "duration": 176
+  },
+  "descriptionSha256": "945fe993a62cf96971f19bc2095c87c7326a8e6f432765e9b854729379418d28",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "Seedance"
+  ],
+  "linkedVideos": []
+}

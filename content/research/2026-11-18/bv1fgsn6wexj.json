@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:49:21.333Z",
+  "url": "https://www.bilibili.com/video/BV1Fgsn6WEXj/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Fgsn6WEXj",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Fgsn6WEXj",
+    "title": "【大肥龙AI翻唱】牵丝戏｜白银龙娘的第一支翻唱MV",
+    "owner": {
+      "name": "YZ的大肥鱼和大肥龙",
+      "mid": 3747573598783775
+    },
+    "pubdate": 1794731852,
+    "duration": 239
+  },
+  "descriptionSha256": "36d053bf212043f3cc0d64b8b6f66ef404ae63104faace44dba997f19b19340c",
+  "uploaderCredits": [
+    "银临",
+    "Aki阿杰",
+    "Vagary"
+  ],
+  "linkedVideos": []
+}
