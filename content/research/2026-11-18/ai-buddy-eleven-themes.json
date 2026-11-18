@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T09:05:54.768Z",
+  "pinnedDocument": {
+    "commit": "e7c475274a7b02dfb2e2050c56e237d87e6aff99",
+    "url": "https://github.com/lXiaoSel1/AI-Buddy/blob/e7c475274a7b02dfb2e2050c56e237d87e6aff99/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/lXiaoSel1/AI-Buddy/e7c475274a7b02dfb2e2050c56e237d87e6aff99/README.md",
+    "sourceSha256": "d28845c9ff5a7eaccaefba415906bd37f590166305f8ad0d8c6c00aa66ff5eaa"
+  },
+  "documents": [
+    {
+      "url": "https://github.com/lXiaoSel1/AI-Buddy/blob/e7c475274a7b02dfb2e2050c56e237d87e6aff99/LICENSE.md",
+      "rawUrl": "https://raw.githubusercontent.com/lXiaoSel1/AI-Buddy/e7c475274a7b02dfb2e2050c56e237d87e6aff99/LICENSE.md",
+      "sourceSha256": "743e12419085102e444fd36c1df870d9fcd64badcc03cc551ae0fae81f517b3a"
+    },
+    {
+      "url": "https://github.com/lXiaoSel1/AI-Buddy/blob/e7c475274a7b02dfb2e2050c56e237d87e6aff99/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/lXiaoSel1/AI-Buddy/e7c475274a7b02dfb2e2050c56e237d87e6aff99/THIRD_PARTY_NOTICES.md",
+      "sourceSha256": "a97320bec51ecdc2c7a58e4095f0d1a4a301e6d82c826f89be4de97a74b2c218"
+    }
+  ]
+}

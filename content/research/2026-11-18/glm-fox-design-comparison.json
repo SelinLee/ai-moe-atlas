@@ -1,0 +1,53 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T09:05:25.670Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1iDeQ6fEFi",
+  "metadata": {
+    "bvid": "BV1iDeQ6fEFi",
+    "title": "GLM小狐娘用zcode偷传用户数据",
+    "owner": {
+      "name": "宝藏小树林",
+      "mid": 277780873
+    },
+    "pubdate": 1789781483
+  },
+  "description": "-",
+  "metadataSha256": "45468638b1eff657da999afcd23dcaa7af6bbb44f90dd878ff782895d1b844de",
+  "commentCheck": {
+    "requestUrl": "https://api.bilibili.com/x/v2/reply/main?type=1&mode=3&oid=117295103942364",
+    "httpStatus": 200,
+    "code": 0,
+    "commentsReturned": 3,
+    "uploaderTexts": []
+  },
+  "cover": {
+    "url": "https://i0.hdslb.com/bfs/archive/71d6c6e3e4551a78705bc77f03a8de82dde0aa6b.jpg",
+    "httpStatus": 200,
+    "sourceSha256": "de7582efcdff886c8de3c8042f7c3ac2cb2e68d7d36af49ade7d245fc629ceee"
+  },
+  "comparedArtwork": {
+    "url": "https://www.pixiv.net/artworks/148186519",
+    "author": "ZipZipPipe",
+    "pageNumber": 7,
+    "sourceSha256": "b15ddcb0cc9308087182da75e65e77b3ed14b8d20278b36f76e4712d2df965b8"
+  },
+  "url": "https://www.bilibili.com/video/BV1iDeQ6fEFi/",
+  "comparison": {
+    "commonFeatures": [
+      "Eyelash sleep mask with ruffled edge",
+      "Z plaque and two hanging bells on the same side of the head",
+      "Dark blue hair and black-and-white maid outfit",
+      "Dark fox ears with light inner fur"
+    ],
+    "visibleDifferences": [
+      "The video depicts a close-up in an office with a clipboard",
+      "The creator gallery shows a full-length standing pose holding a black book"
+    ],
+    "classification": "Close visual match to a known creator design; the uploader description and three returned comments do not establish direct attribution for the video rendition."
+  },
+  "priorEvidence": {
+    "path": "content/research/2026-11-08/glm-fox-video-cover-identification.json",
+    "sha256": "5de2b06ce80dbe0f57ebef1c8ad9fc1bc5deb90cf771b2fa9ed5e9add32e91a2",
+    "kind": "browser-metadata-extract"
+  }
+}

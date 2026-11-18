@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T09:06:10.576Z",
+  "url": "https://www.bilibili.com/video/BV1YLW96NEK9/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YLW96NEK9",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1YLW96NEK9",
+    "title": "【Gemini】猫猫也会跳舞。",
+    "owner": {
+      "name": "GPT-TTT",
+      "mid": 3707035384285613
+    },
+    "pubdate": 1794462068,
+    "duration": 9
+  },
+  "descriptionSha256": "5ea1a74bc7f1516bc76dc04fcbe5e0f9a09b38207d97ef2360331dfe5b0a2cbf",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

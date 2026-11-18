@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T09:06:08.956Z",
+  "url": "https://www.bilibili.com/video/BV1YpW267Egz/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YpW267Egz",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1YpW267Egz",
+    "title": "Kimi和嘎拉嘛的一见钟情【狐月】",
+    "owner": {
+      "name": "火海vol2",
+      "mid": 2424803
+    },
+    "pubdate": 1794400933,
+    "duration": 35
+  },
+  "descriptionSha256": "8753d24840bb12e4c301761b68a336773d46994a5abc78b9b1f9d7e45ac2d7ec",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": [
+    "BV1Nj94YxEcK"
+  ]
+}

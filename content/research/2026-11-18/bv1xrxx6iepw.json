@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T09:06:09.573Z",
+  "url": "https://www.bilibili.com/video/BV1XRxX6iEPW/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XRxX6iEPW",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1XRxX6iEPW",
+    "title": "狐狐的尾巴不会说谎！",
+    "owner": {
+      "name": "豆牛啊啊啊",
+      "mid": 557760960
+    },
+    "pubdate": 1793836800,
+    "duration": 182
+  },
+  "descriptionSha256": "d81f7122088a608331944ea7406eb78b512d568445380898e68ed5e721c91ee6",
+  "uploaderCredits": [
+    "Suno"
+  ],
+  "linkedVideos": []
+}

@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T09:08:23.917Z",
+  "pinnedDocument": {
+    "commit": "3e9420c948077a0b3771e02e3bf0580fd7925129",
+    "url": "https://github.com/KCFindstr/hagemi-pet-agy/blob/3e9420c948077a0b3771e02e3bf0580fd7925129/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/KCFindstr/hagemi-pet-agy/3e9420c948077a0b3771e02e3bf0580fd7925129/README.md",
+    "sourceSha256": "ad1ecf90a5e81e6323b478e4abfb76e555faa00b08ff74f7111da57aaa63bf84"
+  },
+  "documents": [
+    {
+      "url": "https://github.com/KCFindstr/hagemi-pet-agy/blob/3e9420c948077a0b3771e02e3bf0580fd7925129/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/KCFindstr/hagemi-pet-agy/3e9420c948077a0b3771e02e3bf0580fd7925129/LICENSE",
+      "sourceSha256": "3c70c7a069ecab71af70a939be2bf6e64c521d594c34600ad49e6083a1dac8b6"
+    },
+    {
+      "url": "https://github.com/KCFindstr/hagemi-pet-agy/blob/3e9420c948077a0b3771e02e3bf0580fd7925129/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/KCFindstr/hagemi-pet-agy/3e9420c948077a0b3771e02e3bf0580fd7925129/NOTICE.md",
+      "sourceSha256": "70235c35e0de9b33ed38c614a31c9d25c2aa14b4a0101fb1350b362cb7765746"
+    }
+  ]
+}

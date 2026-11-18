@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T09:06:10.052Z",
+  "url": "https://www.bilibili.com/video/BV1qzWP6vEHW/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qzWP6vEHW",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1qzWP6vEHW",
+    "title": "千千寻猫记",
+    "owner": {
+      "name": "凉木淅",
+      "mid": 24860785
+    },
+    "pubdate": 1794356880,
+    "duration": 63
+  },
+  "descriptionSha256": "9fdfa6f02bb8a5715fc72f3604aa05a80cd0a7e911f6ed7e399fa91fd3e2abd4",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T09:06:09.456Z",
+  "url": "https://www.bilibili.com/video/BV1onHB6ZErD/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1onHB6ZErD",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1onHB6ZErD",
+    "title": "GLM你看什么！",
+    "owner": {
+      "name": "这个刀子真甜",
+      "mid": 23315338
+    },
+    "pubdate": 1791073800,
+    "duration": 59
+  },
+  "descriptionSha256": "c55c3b6bc21e99dc5c84da49b39dab26ac6343d359c6ae3c45601a4c21bcff04",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": []
+}

@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T09:06:08.944Z",
+  "url": "https://www.bilibili.com/video/BV1vvWC6rEpU/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vvWC6rEpU",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1vvWC6rEpU",
+    "title": "[GLM]只是暂时帮你保管",
+    "owner": {
+      "name": "A15-Crusader",
+      "mid": 326791185
+    },
+    "pubdate": 1794629411,
+    "duration": 18
+  },
+  "descriptionSha256": "42fc2aa1fdb4c2148996c72e7647bb21914808cf03ee018bccb09f1be1ab8f77",
+  "uploaderCredits": [],
+  "linkedVideos": [
+    "BV15u4765Eay"
+  ]
+}

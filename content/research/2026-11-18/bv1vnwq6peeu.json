@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T09:06:10.576Z",
+  "url": "https://www.bilibili.com/video/BV1vNWQ6PEEU/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vNWQ6PEEU",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1vNWQ6PEEU",
+    "title": "【Gemini】鼠标归我了。【AI MV大赛】",
+    "owner": {
+      "name": "GPT-TTT",
+      "mid": 3707035384285613
+    },
+    "pubdate": 1794456420,
+    "duration": 77
+  },
+  "descriptionSha256": "3e14f8fb15bdeee72618b23076e263a1f902e2c094a4cc7019ec6d18ef759cef",
+  "uploaderCredits": [
+    "初音ミク"
+  ],
+  "linkedVideos": []
+}

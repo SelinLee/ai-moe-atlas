@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T09:06:09.573Z",
+  "url": "https://www.bilibili.com/video/BV1x4hk6CErj/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1x4hk6CErj",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1x4hk6CErj",
+    "title": "国产flash模型就是快啊",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1790049474,
+    "duration": 62
+  },
+  "descriptionSha256": "6dfa0a322c49be60bd8744528133312578d961685a572d4a4b5a876eb57296d5",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": []
+}

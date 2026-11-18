@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T09:06:08.946Z",
+  "url": "https://www.bilibili.com/video/BV1s8W96REtb/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1s8W96REtb",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1s8W96REtb",
+    "title": "【kimi学姐 x GLM狐狐】非凡之爱",
+    "owner": {
+      "name": "蒙德砍壬",
+      "mid": 1931150416
+    },
+    "pubdate": 1794474000,
+    "duration": 63
+  },
+  "descriptionSha256": "dbc5ababe4d403dd1b3191ddefab38ac2d6fc1cf279e273b78147e4bc4c943cf",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": []
+}
