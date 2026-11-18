@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T09:27:49.271Z",
+  "url": "https://www.bilibili.com/video/BV1DyxA6FEzE/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1DyxA6FEzE",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1DyxA6FEzE",
+    "title": "【Day 1 】一条视频怎么长出来的？本兔带你拆后台",
+    "owner": {
+      "name": "MiMo兔娘在运营",
+      "mid": 63273107
+    },
+    "pubdate": 1793294694,
+    "duration": 55
+  },
+  "descriptionSha256": "c6f395e4e7267266607e5658c8b2211585ca680f2029d5083133c6d3a4aa4eba",
+  "uploaderCredits": [
+    "Seedance"
+  ],
+  "linkedVideos": []
+}

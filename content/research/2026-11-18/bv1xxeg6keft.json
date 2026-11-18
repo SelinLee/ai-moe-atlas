@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T09:27:53.778Z",
+  "url": "https://www.bilibili.com/video/BV1XxeG6kEFt/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XxeG6kEFt",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1XxeG6kEFt",
+    "title": "胆子小的大肥鱼",
+    "owner": {
+      "name": "暮之鸣",
+      "mid": 38871361
+    },
+    "pubdate": 1789641908,
+    "duration": 21
+  },
+  "descriptionSha256": "fe7ed45a4d1ba86e96f932bf4c31c616dff7b6b7ccef650fc7131332c0264adc",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "这个刀子真甜"
+  ],
+  "linkedVideos": []
+}

@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T09:27:55.460Z",
+  "url": "https://www.bilibili.com/video/BV1QsHw6JEXd/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QsHw6JEXd",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1QsHw6JEXd",
+    "title": "【梗百科 02】蓝色大肥鱼是什么梗？两个版本，你选哪个",
+    "owner": {
+      "name": "住在电脑里的小肥鱼",
+      "mid": 3546626540964442
+    },
+    "pubdate": 1792817622,
+    "duration": 136
+  },
+  "descriptionSha256": "61946ae7edeeee01d82c8500583f1286ee3c951609457046d42fc02e841624b7",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "这个刀子真甜"
+  ],
+  "linkedVideos": [
+    "BV1RxYM6AEB7"
+  ]
+}
