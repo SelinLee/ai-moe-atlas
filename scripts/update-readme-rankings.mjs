@@ -9,7 +9,9 @@ const pendingCandidates = await readPendingAnimationCandidates(registry, root);
 const animations = records.filter(record => record.category === 'animation');
 const ranked = animations.filter(record => record.likes).sort(byCumulativeLikes);
 const evidencePaths = new Set(ranked.map(record => record.likes.evidence?.path ?? record.evidence.path));
-const evidenceUrl = evidencePaths.size === 1 ? [...evidencePaths][0] : 'content/research/';
+const currentEvidence = registry.pendingAnimationEvidence?.path;
+const evidenceUrl = evidencePaths.has(currentEvidence)
+  ? currentEvidence : evidencePaths.size === 1 ? [...evidencePaths][0] : 'content/research/';
 const previewCount = 10;
 const text = {
   zh: {

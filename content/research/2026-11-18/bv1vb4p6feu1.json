@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:24:13.659Z",
+  "url": "https://www.bilibili.com/video/BV1vB4p6fEu1/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vB4p6fEu1",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1vB4p6fEu1",
+    "title": "【大肥鱼短片】请你扮演昨天的自己【HiShorts! × updream AI短片大赛-剧情单元】",
+    "owner": {
+      "name": "SC-CAT",
+      "mid": 3706974212459228
+    },
+    "pubdate": 1794064573,
+    "duration": 609
+  },
+  "descriptionSha256": "e5e57798e7f98abdae327d12c32bb9081790be41d36bbbe7efb485b350fe31b7",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": []
+}

@@ -19,7 +19,7 @@ const isVerified = row => row.httpStatus === 200 && row.code === 0 && row.metada
 
 try {
   const page = await browser.newPage({ locale: 'zh-CN' });
-  const response = await page.goto('https://www.bilibili.com/', { waitUntil: 'domcontentloaded', timeout: 16000 });
+  const response = await page.goto('https://www.bilibili.com/', { waitUntil: 'commit', timeout: 24000 });
   if (!response?.ok()) throw new Error(`Bilibili homepage returned ${response?.status()}`);
 
   const observations = [];

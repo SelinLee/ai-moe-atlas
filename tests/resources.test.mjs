@@ -45,6 +45,13 @@ test('the public like archive retains current evidence bytes and historical batc
   const current=archives.find(archive=>archive.path===registry.pendingAnimationEvidence.path);
   assert.equal(current.sha256,registry.pendingAnimationEvidence.sha256);
   assert.deepEqual(current.bytes,await readFile(new URL(current.path,root)));
-  assert.equal(current.videoCount,registry.records.filter(row=>row.likes).length);
+  const ranked=registry.records.filter(row=>row.likes);
+  const lastSuccessful=new Map(ranked.map(row=>[row.bvid,row.likes]));
+  assert.equal(current.videoCount+current.refreshFailures.length,ranked.length);
+  for(const failure of current.refreshFailures){
+    const previous=lastSuccessful.get(failure.bvid);
+    assert.ok(previous && previous.evidence.path!==current.path);
+    assert.ok(Date.parse(previous.observedAt)<Date.parse(failure.observedAt));
+  }
   assert.ok(archives.some(archive=>archive.route==='evidence/likes/2026-11-07/bilibili-cumulative-likes.json'));
 });

@@ -5,8 +5,9 @@ const dayPattern = /^\d{4}-\d{2}-\d{2}$/;
 const filenamePattern = /^(bilibili-cumulative-likes(?:-[a-z0-9]+)*)\.json$/;
 const bvidPattern = /^BV[0-9A-Za-z]{10}$/;
 const videoEndpoint = 'https://api.bilibili.com/x/web-interface/view?bvid=';
-const snapshotFields = ['method','contextUrl','contextHttpStatus','capturedAt','metric','source','field','videos','pendingCandidates'];
+const snapshotFields = ['method','contextUrl','contextHttpStatus','capturedAt','metric','source','field','videos','pendingCandidates','refreshFailures'];
 const videoFields = ['bvid','snapshotUrl','observedAt','httpStatus','code','title','publisher','publisherId','publicationDate','pubdate','likes'];
+const failureFields = ['bvid','requestUrl','observedAt','httpStatus','code'];
 const candidateFields = ['bvid','requestUrl','observedAt','httpStatus','code','discoveredTitle','status','likes','previousEvidence','previousObservedAt','publicPage','discoveryUrl','discoveredAt'];
 const pageFields = ['url','finalUrl','httpStatus','accessedAt','title'];
 const hasOnly = (value, fields) => value && typeof value === 'object' && !Array.isArray(value)
@@ -17,12 +18,18 @@ function isPublicSnapshot(snapshot) {
   if (!hasOnly(snapshot, snapshotFields) || snapshot.source !== 'bilibili-view-api' || snapshot.metric !== 'total-likes'
     || snapshot.field !== 'data.stat.like' || !Number.isFinite(Date.parse(snapshot.capturedAt))
     || !['https://www.bilibili.com/','https://www.bilibili.com/zh-Hans'].includes(snapshot.contextUrl)
-    || !Array.isArray(snapshot.videos) || !Array.isArray(snapshot.pendingCandidates ?? [])) return false;
-  const {videos, pendingCandidates = [], ...metadata} = snapshot;
+    || !Array.isArray(snapshot.videos) || !Array.isArray(snapshot.pendingCandidates ?? [])
+    || !Array.isArray(snapshot.refreshFailures ?? [])) return false;
+  const {videos, pendingCandidates = [], refreshFailures = [], ...metadata} = snapshot;
+  const observedIds = [...videos, ...pendingCandidates, ...refreshFailures].map(row => row?.bvid);
+  if (new Set(observedIds).size !== observedIds.length) return false;
   return hasScalarValues(metadata) && videos.every(row => hasOnly(row, videoFields) && hasScalarValues(row) && bvidPattern.test(row.bvid)
     && row.snapshotUrl === videoEndpoint + row.bvid && row.httpStatus === 200 && row.code === 0
     && Number.isSafeInteger(row.likes) && row.likes >= 0 && Number.isFinite(Date.parse(row.observedAt)))
-    && (pendingCandidates ?? []).every(row => {
+    && refreshFailures.every(row => hasOnly(row, failureFields) && bvidPattern.test(row.bvid)
+      && row.requestUrl === videoEndpoint + row.bvid && Number.isFinite(Date.parse(row.observedAt))
+      && Number.isInteger(row.httpStatus) && (row.httpStatus !== 200 || (Number.isInteger(row.code) && row.code !== 0)))
+    && pendingCandidates.every(row => {
       if (!hasOnly(row, candidateFields) || !bvidPattern.test(row.bvid) || row.requestUrl !== videoEndpoint + row.bvid
         || row.likes !== null || !Number.isFinite(Date.parse(row.observedAt))) return false;
       const {publicPage, ...candidate} = row;
@@ -52,7 +59,7 @@ export async function readLikeArchive(root) {
         date, name: filename.slice(0, -5), path, route: `evidence/likes/${date}/${filename}`,
         bytes, sha256: createHash('sha256').update(bytes).digest('hex'),
         capturedAt: snapshot.capturedAt, videoCount: snapshot.videos.length,
-        pendingCount: snapshot.pendingCandidates?.length ?? 0,
+        pendingCount: snapshot.pendingCandidates?.length ?? 0, refreshFailures: snapshot.refreshFailures ?? [],
       };
     }));
   }))).flat();

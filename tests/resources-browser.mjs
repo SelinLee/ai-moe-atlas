@@ -68,6 +68,11 @@ try{
   assert.equal(createHash('sha256').update(await savedResponse.body()).digest('hex'),ranked[0].likes.evidence.sha256);
   const snapshot=await savedResponse.json();
   assert.equal(snapshot.videos.find(row=>row.bvid===ranked[0].bvid).likes,ranked[0].likes.count);
+  for(const failure of snapshot.refreshFailures??[]){
+    const notice=page.locator('#'+failure.bvid.toLowerCase()+' [data-like-refresh-failure]');
+    assert.equal(await notice.locator('time').getAttribute('datetime'),failure.observedAt);
+    assert.ok(await notice.isVisible());
+  }
   const exactPublication=visibleAnimations.first().locator(`time[datetime="${ranked[0].publishedAt}"]`);
   assert.equal(await exactPublication.innerText(),publicationTime.format(new Date(ranked[0].publishedAt)));
   assert.equal(await page.locator('.resource-list img,.resource-list video,.resource-list iframe').count(),0);

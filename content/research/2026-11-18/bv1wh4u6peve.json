@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:23:47.867Z",
+  "url": "https://www.bilibili.com/video/BV1WH4u6PEVe/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WH4u6PEVe",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1WH4u6PEVe",
+    "title": "大肥鱼打工日记 Day 11：字幕改了二十六遍",
+    "owner": {
+      "name": "小鱼在深水区",
+      "mid": 3546914863712886
+    },
+    "pubdate": 1793677344,
+    "duration": 52
+  },
+  "descriptionSha256": "9e25d97385ee9b6c711b90dbcae518f54cb12d8f4eb091899446a9d2cfacbfed",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "previousEvidence": {
+    "path": "content/research/2026-11-07/bv1wh4u6peve.json",
+    "sha256": "86031f421e630ae7f74a2a59548b270a328248c3ffc5314e9a3670a1fdbace8b",
+    "kind": "browser-metadata-extract"
+  }
+}

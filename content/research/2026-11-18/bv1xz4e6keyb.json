@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:24:05.875Z",
+  "url": "https://www.bilibili.com/video/BV1Xz4E6kEYB/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Xz4E6kEYB",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Xz4E6kEYB",
+    "title": "当GPT的五小时额度归零后",
+    "owner": {
+      "name": "霁璃不是GPT龙娘",
+      "mid": 3747575029042373
+    },
+    "pubdate": 1794043039,
+    "duration": 58
+  },
+  "descriptionSha256": "9e2fdf581e88fec1c632bbe8da16c37d870fddab0e76daddcc8d1f907e29d195",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "previousEvidence": {
+    "path": "content/research/2026-11-08/bv1xz4e6keyb.json",
+    "sha256": "45dfdfc084d74a5bca8371b0343a9980b8e2bc2b73875b4a7c16cf11da05f7de",
+    "kind": "browser-metadata-extract"
+  }
+}

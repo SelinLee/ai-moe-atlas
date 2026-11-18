@@ -56,7 +56,8 @@
     "original": {"credit": "楊丞琳 · Rainie Yang", "url": "https://www.youtube.com/watch?v=oec9R5ypf-o"},
     "versions": [
       {"id": "bv1u64q69eym", "type": "cover"},
-      {"id": "bv1dw4q6vegq", "type": "cover"}
+      {"id": "bv1dw4q6vegq", "type": "cover"},
+      {"id": "bv1zdxs6ue4j", "type": "cover"}
     ]
   },
   {
@@ -76,5 +77,17 @@
     "title": {"zh": "学猫叫", "en": "Learn to Meow", "ja": "学猫叫"},
     "original": {"credit": "小潘潘 · 小峰峰", "url": "https://www.qobuz.com/us-en/album/-/h1b9f19uzjloa"},
     "versions": [{"id": "bv1wx4i6lexm", "type": "cover"}]
+  },
+  {
+    "id": "boundless-oceans-vast-skies",
+    "title": {"zh": "海阔天空", "en": "Boundless Oceans, Vast Skies", "ja": "海闊天空"},
+    "original": {"credit": "Beyond", "url": "https://music.apple.com/us/song/1722083721"},
+    "versions": [{"id": "bv1qw4n61ele", "type": "cover"}]
+  },
+  {
+    "id": "billie-jean",
+    "title": {"zh": "Billie Jean", "en": "Billie Jean", "ja": "Billie Jean"},
+    "original": {"credit": "Michael Jackson", "url": "https://www.youtube.com/watch?v=Zi_XLOBDo_Y"},
+    "versions": [{"id": "bv1suw86sec3", "type": "cover"}]
   }
 ]

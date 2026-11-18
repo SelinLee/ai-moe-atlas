@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:24:16.143Z",
+  "url": "https://www.bilibili.com/video/BV1qcWJ62EXu/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qcWJ62EXu",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1qcWJ62EXu",
+    "title": "大肥鱼：鱼音绕梁～",
+    "owner": {
+      "name": "这个刀子真甜",
+      "mid": 23315338
+    },
+    "pubdate": 1794139420,
+    "duration": 29
+  },
+  "descriptionSha256": "0fd21176894f57ca9cd75233047187bec888fa732289949bfaa5c0590fb4a4bd",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": []
+}

@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:24:14.019Z",
+  "url": "https://www.bilibili.com/video/BV1JrWJ6JERj/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JrWJ6JERj",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1JrWJ6JERj",
+    "title": "【大肥鱼×claude】非凡之爱",
+    "owner": {
+      "name": "偏爱阁边一隅雪",
+      "mid": 1550832775
+    },
+    "pubdate": 1794138162,
+    "duration": 64
+  },
+  "descriptionSha256": "0edd9936d13f00127f69885a6d401ffa43283b1df23c00cf739f7663635bc577",
+  "uploaderCredits": [
+    "antrofrog"
+  ],
+  "linkedVideos": []
+}
