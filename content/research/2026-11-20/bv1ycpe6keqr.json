@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:07:26.963Z",
+  "url": "https://www.bilibili.com/video/BV1YCpE6KEqR/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YCpE6KEqR",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1YCpE6KEqR",
+    "title": "【十月新番】孤独摇滚OP「青春コンプレックス」",
+    "owner": {
+      "name": "一切来日方长-",
+      "mid": 456348919
+    },
+    "pubdate": 1791709830,
+    "duration": 90
+  },
+  "descriptionSha256": "81876c542fb94e5cb7a31e6e99d6718a109d329b451711649371963008bdba2a",
+  "uploaderCredits": [
+    "黑猫勇者"
+  ],
+  "linkedVideos": [
+    "BV1eaaS6jETy"
+  ]
+}

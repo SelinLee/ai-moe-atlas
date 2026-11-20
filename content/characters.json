@@ -1914,5 +1914,61 @@
       "en": "The creator applies CC BY 4.0 to their original illustration and design, with attribution to 识知不失智. Meta elements such as Jolly have separate rights. The seven archive files are indexed by source link.",
       "ja": "作者のオリジナル立ち絵と設定には、识知不失智 へのクレジットを条件に CC BY 4.0 を適用。Jolly など Meta の要素には別の権利があり、資料の7ファイルは出典リンクで収録。"
     }
+  },
+  {
+    "id": "zipzippipe-mistral",
+    "entity": "mistral",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Mistral 法棍猫娘 · ZipZipPipe",
+      "en": "Mistral Baguette Cat Girl · ZipZipPipe",
+      "ja": "Mistral バゲット猫娘 · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 第二批 AI 娘图集中的 Mistral 法棍猫娘。",
+      "en": "Mistral Baguette Cat Girl from ZipZipPipe’s second AI Girl collection.",
+      "ja": "ZipZipPipe の AI 娘作品集第2弾に登場する Mistral バゲット猫娘。"
+    },
+    "story": {
+      "zh": "作者在 B 站发布这张拟人立绘。Mistral AI 的产品页把原 Le Chat 标为现用名称 Vibe。",
+      "en": "The creator published the personification on Bilibili. Mistral AI’s product page identifies Vibe as the current name for the former Le Chat.",
+      "ja": "作者が Bilibili に擬人化の立ち絵を公開。Mistral AI の製品ページでは旧 Le Chat の現在の名称を Vibe と案内。"
+    },
+    "features": {
+      "zh": "以猫娘和法棍为设计元素。原帖图件为 3072 × 5504。",
+      "en": "The design uses a cat-girl motif and a baguette. The original image is 3072 × 5504.",
+      "ja": "猫娘とバゲットがモチーフ。原投稿の画像は 3072 × 5504。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://www.pixiv.net/users/18604994",
+    "source": "https://www.bilibili.com/opus/1236803362705375305",
+    "sourceTitle": "AI娘第二批，有Seed（豆包底模）",
+    "originalPublication": "https://www.bilibili.com/opus/1236803362705375305",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1236803362705375305"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1236803362705375305",
+    "downloadable": false,
+    "bg": "#fff0db",
+    "color": "#7b4c29",
+    "verifiedAt": "2026-11-20",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "原帖第 4 张立绘已核对 SHA-256。展示、转载和改编的逐件条件待核，词条提供出处链接。",
+      "en": "The source JPEG for the fourth image was checked by SHA-256. File-specific display, redistribution and adaptation terms remain open. The entry links to the publication.",
+      "ja": "原投稿の4枚目の画像を SHA-256 で照合。表示・転載・改変の画像別条件は確認待ちのため、出典リンクを掲載。"
+    }
   }
 ]

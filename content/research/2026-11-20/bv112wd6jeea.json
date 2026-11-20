@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:07:25.116Z",
+  "url": "https://www.bilibili.com/video/BV112WD6jEeA/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV112WD6jEeA",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV112WD6jEeA",
+    "title": "AI娘是什么时候来的",
+    "owner": {
+      "name": "我叫大熊兽",
+      "mid": 594869863
+    },
+    "pubdate": 1794455065,
+    "duration": 126
+  },
+  "descriptionSha256": "54662a7b5662c8ec2295df14bc095fc53ca70ba73134e03fc5832d8722cc0663",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": []
+}

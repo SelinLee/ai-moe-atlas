@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:07:24.964Z",
+  "url": "https://www.bilibili.com/video/BV1hNWm6mE5h/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hNWm6mE5h",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1hNWm6mE5h",
+    "title": "两版二创MV：同一首《信仰の作り方》，豆包版 vs DeepSeek版，你投谁？",
+    "owner": {
+      "name": "刚来的大肥鱼",
+      "mid": 3747581836396832
+    },
+    "pubdate": 1794441600,
+    "duration": 515
+  },
+  "descriptionSha256": "451d847ee67505677b02f1c410e42b7d035604f1ab67c57211ae5d76c586c956",
+  "uploaderCredits": [
+    "佐倉流星",
+    "重音テト"
+  ],
+  "linkedVideos": []
+}

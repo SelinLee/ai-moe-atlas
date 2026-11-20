@@ -39,9 +39,9 @@ try {
   }
   await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});
   await page.goto(`${origin}/${lang}/models/`,{waitUntil:'domcontentloaded'});
-  assert.equal(await page.locator('[data-baseline]').count(),13);
+  assert.equal(await page.locator('[data-baseline]').count(),14);
   assert.equal(await page.locator('[data-state="ready"]').count(),12);
-  assert.equal(await page.locator('[data-state="candidate"]').count(),1);
+  assert.equal(await page.locator('[data-state="candidate"]').count(),2);
   assert.equal(await page.locator('[data-state="missing"]').count(),0);
   assert.equal(await page.locator('[data-state="candidate"] img').count(),0);
   await page.goto(`${origin}/${lang}/?model=muse`,{waitUntil:'domcontentloaded'});
@@ -51,10 +51,16 @@ try {
   assert.ok(await page.locator('a[href="https://www.bilibili.com/video/BV1jEnD6RE1t/"]').first().isVisible());
   assert.ok(await page.locator('a[href="https://creativecommons.org/licenses/by/4.0/"]').isVisible());
   assert.equal(await page.locator('main a[download], .detail-art img').count(),0);
+  await page.goto(`${origin}/${lang}/?model=mistral`,{waitUntil:'domcontentloaded'});
+  const mistralCard=page.locator('[data-card]:visible');
+  assert.equal(await mistralCard.count(),1);
+  await mistralCard.locator('a[href$="/characters/zipzippipe-mistral/"]').first().click();
+  assert.ok(await page.locator('a[href="https://www.bilibili.com/opus/1236803362705375305"]').first().isVisible());
+  assert.equal(await page.locator('main a[download], .detail-art img').count(),0);
   await page.goto(`${origin}/${lang}/characters/zipzippipe-chatgpt/`,{waitUntil:'domcontentloaded'});
   assert.equal(await page.locator('.observation-panel a').getAttribute('href'),'https://www.bilibili.com/video/BV14phK66Ejw/');
   await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});
-  await page.locator('#search').fill('ZipZipPipe');assert.equal(await page.locator('[data-card]:visible').count(),12);
+  await page.locator('#search').fill('ZipZipPipe');assert.equal(await page.locator('[data-card]:visible').count(),13);
   await page.locator('#search').fill('nothing-matches-xyz');await page.locator('#empty-state').waitFor({state:'visible'});
   await page.locator('#clear-filters').click();assert.equal(await page.locator('[data-card]:visible').count(),chars.length);
   await page.locator('[data-kind-filter="collected"]').click();assert.equal(await page.locator('[data-card]:visible').count(),chars.filter(c=>c.kind==='collected').length);

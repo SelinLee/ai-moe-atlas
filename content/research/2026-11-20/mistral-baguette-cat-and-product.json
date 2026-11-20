@@ -1,0 +1,28 @@
+{
+  "product": {
+    "id": "mistral",
+    "url": "https://mistral.ai/products/le-chat",
+    "finalUrl": "https://mistral.ai/products/vibe/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-20T15:09:32.890Z",
+    "htmlSha256": "776a61e47056b4c150551e78b839aa53c67c4777c5b0d730e734137111ead430",
+    "title": "Mistral Vibe (formerly Le Chat) - AI chat and coding agent",
+    "matched": [
+      "Le Chat is now Vibe"
+    ]
+  },
+  "creatorOriginal": {
+    "evidence": {
+      "path": "content/research/2026-11-20/zipzippipe-mistral-image-4.json",
+      "sha256": "53a46a452256b52ef250b31e36f67d3c2d6af0c1eee8d508aa3a4ed34c51c239",
+      "kind": "browser-metadata-extract"
+    },
+    "positionInPost": 4,
+    "sourceSha256": "49239c83fbcccd23fd2061fbac02059fc9390f653b92cab6838da65fbaabbfa9",
+    "dimensions": [
+      3072,
+      5504
+    ]
+  },
+  "relationship": "The personification is attributed to the creator. The vendor page documents the product rename only."
+}

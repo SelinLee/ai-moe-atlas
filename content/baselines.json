@@ -128,5 +128,15 @@
       "en": "Creator post and terms verified. Match each standalone original and verify terms for embedded third-party elements such as Jolly.",
       "ja": "作者の原投稿と条件を確認済み。独立した原本を1点ずつ照合し、Jolly など第三者要素の条件を確認。"
     }
+  },
+  {
+    "entity": "mistral",
+    "characterId": "zipzippipe-mistral",
+    "reviewedAt": "2026-11-20",
+    "nextAction": {
+      "zh": "确认原帖第 4 张图的单独展示、转载与改编条件。",
+      "en": "Verify display, redistribution and adaptation terms for the fourth image in the creator’s post.",
+      "ja": "原投稿の4枚目に適用される表示・転載・改変条件を確認する。"
+    }
   }
 ]

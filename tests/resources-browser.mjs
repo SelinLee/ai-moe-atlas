@@ -132,7 +132,7 @@ try{
   await page.reload();
   assert.ok(await page.locator('#bv1c7h16jehj').isVisible());
   await languageLink.click();
-  assert.equal(await mvFilter.getAttribute('aria-pressed'),'true');
+  await page.waitForSelector('[data-resource-type-filter="mv"][aria-pressed="true"]');
   assert.equal(await sort.inputValue(),'recent');
   assert.equal(await page.locator('[data-resource-category]:visible').count(),1);
   await page.locator('#resource-search').fill('');

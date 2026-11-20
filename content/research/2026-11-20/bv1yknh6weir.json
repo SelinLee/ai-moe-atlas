@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:07:26.531Z",
+  "url": "https://www.bilibili.com/video/BV1YKnh6wEiR/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YKnh6wEiR",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1YKnh6wEiR",
+    "title": "AI 娘名录：我给你排了个家谱",
+    "owner": {
+      "name": "卡掉了啊与潮",
+      "mid": 36207041
+    },
+    "pubdate": 1792761727,
+    "duration": 91
+  },
+  "descriptionSha256": "d1fb703eedc237de8da086d9e1ac383793db294cca4cbd06da5096caa362ca83",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": []
+}

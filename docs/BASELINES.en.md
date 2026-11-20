@@ -12,6 +12,8 @@ November 8, 2026. The ai-school-op Copilot school design was collected with its 
 
 November 20, 2026. Muse joins the index as a source entry, bringing it to 13 products. In the character PV, 识知不失智 specifies CC BY 4.0 for their original illustration and design. Meta elements such as Jolly have separate rights. Standalone originals and file-specific terms are pending. [Creator’s upload](https://www.bilibili.com/video/BV1jEnD6RE1t/) · [Archive verification](../content/research/2026-11-20/muse-girl-archive-and-rights.json)
 
+November 20, 2026. Added Mistral Baguette Cat Girl. Image 4 in ZipZipPipe’s post measures 3072 × 5504, and its SHA-256 matches the archive’s original. Mistral AI calls the former Le Chat product Vibe. Artwork-specific terms remain open. [Creator’s post](https://www.bilibili.com/opus/1236803362705375305) · [Original image and product evidence](../content/research/2026-11-20/mistral-baguette-cat-and-product.json)
+
 | AI | Priority version | Remaining work |
 | --- | --- | --- |
 | DeepSeek | Collected whale-maid assets | Ready; retain 上善无形 → ZipZipPipe → Small-tailqwq attribution |
@@ -23,7 +25,7 @@ November 20, 2026. Muse joins the index as a source entry, bringing it to 13 pro
 
 ## Page-by-page mapping of the collection
 
-All 17 images of “AI娘化” were reviewed; ten are collected: image 3 Claude, image 4 GPT, image 5 Gemini, image 6 Kimi, image 7 GLM, image 8 Grok, image 11 Doubao (Seed), image 13 Qwen, image 14 Llama and image 16 MiniMax. The set also holds two DeepSeek images plus four characters outside the Atlas index, among them Mistral, 文心一言 and one wearing an RWKV tag. Nothing was collected for those AIs.
+All 17 images of “AI娘化” were reviewed; ten are collected: image 3 Claude, image 4 GPT, image 5 Gemini, image 6 Kimi, image 7 GLM, image 8 Grok, image 11 Doubao (Seed), image 13 Qwen, image 14 Llama and image 16 MiniMax. The set also holds two DeepSeek images and four characters outside the index at the time, among them Mistral, 文心一言 and one wearing an RWKV tag. Those four images have yet to be packaged.
 
 Identification rests on marks inside the artwork (GLM’s “Z”, Grok’s X-shaped axe, Doubao’s SEED, Llama’s alpaca ears, tail and “∞”, and MiniMax’s conch and MINIMAX lettering), the nine-AI order the creator gives in the “大AI和小AI们” description, and public character write-ups on Zhihu and Baidu Tieba. Those write-ups are used only to cross-check page numbers, never as a permission basis.
 
@@ -41,7 +43,7 @@ Screenshots of [各AI娘形象盘点](https://www.bilibili.com/video/BV14phK66Ej
 
 1. Completed: collect creator-published originals for GPT, Gemini, Claude, Kimi, Qwen, GLM, Grok, Doubao, Llama and MiniMax from Pixiv.
 2. The Copilot school design is collected under CC BY-NC 4.0. Continue tracing high-resolution artwork and item-specific terms for yamamemo’s pilot design.
-3. Leave the uncollected Mistral and 文心一言 designs alone — those AIs are not in `entities.json`, and the index is not padded for count.
+3. Verify artwork-specific terms for Mistral and trace the original publications for 文心一言 and other designs.
 4. Verify existing design, AI association, original publication, artwork-specific permissions, original hashes and three-language notes before making proportional normalized images and source-preserving packs.
 
 Selections: [baselines.json](../content/baselines.json). Cross-project evidence record: [ai-video-2026-09-28.json](../content/research/ai-video-2026-09-28.json). Identity cross-check leads: [leads.json](../content/leads.json). Readiness is derived from collected assets, never manually assigned to a source-only entry.

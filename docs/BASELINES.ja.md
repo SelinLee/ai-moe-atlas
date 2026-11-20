@@ -12,6 +12,8 @@
 
 2026年11月20日、Muse の出典項目を追加し、索引は13製品になりました。识知不失智 はキャラクター PV で自作の立ち絵と設定に CC BY 4.0 を指定。Jolly など Meta の要素には別の権利があり、独立した原本とファイル別の条件は確認待ちです。[作者の原投稿](https://www.bilibili.com/video/BV1jEnD6RE1t/) · [資料の確認記録](../content/research/2026-11-20/muse-girl-archive-and-rights.json)
 
+2026年11月20日、Mistral バゲット猫娘を追加。ZipZipPipe の原投稿4枚目は 3072 × 5504 で、SHA-256 は資料に記録された原画像と一致します。Mistral AI は旧 Le Chat を Vibe と案内しています。画像別の利用条件は確認待ちです。 [作者の原投稿](https://www.bilibili.com/opus/1236803362705375305) · [原画像と製品の確認記録](../content/research/2026-11-20/mistral-baguette-cat-and-product.json)
+
 | AI | 優先候補 | 残りの作業 |
 | --- | --- | --- |
 | DeepSeek | 収集済みクジラ娘メイド素材 | 利用可能。上善无形 → ZipZipPipe → Small-tailqwq のクレジットを保持 |
@@ -23,7 +25,7 @@
 
 ## 作品集のページ対応
 
-「AI娘化」全 17 枚を照合し、うち 10 枚を収集しました：3 枚目 Claude、4 枚目 GPT、5 枚目 Gemini、6 枚目 Kimi、7 枚目 GLM、8 枚目 Grok、11 枚目 豆包（Seed）、13 枚目 Qwen、14 枚目 Llama、16 枚目 MiniMax。ほかに DeepSeek が 2 枚、索引外のキャラクターが 4 枚（Mistral・文心一言、RWKV のタグを持つ 1 枚など）ありますが、当サイトの索引に存在しない AI のため収集していません。
+「AI娘化」全 17 枚を照合し、うち 10 枚を収集しました：3 枚目 Claude、4 枚目 GPT、5 枚目 Gemini、6 枚目 Kimi、7 枚目 GLM、8 枚目 Grok、11 枚目 豆包（Seed）、13 枚目 Qwen、14 枚目 Llama、16 枚目 MiniMax。ほかに DeepSeek が2枚、当時の索引外のキャラクターが4枚（Mistral、文心一言、RWKV のタグを持つ1枚など）あります。この4枚は配布パック未収録です。
 
 同定の根拠は、図中の標識（GLM の「Z」、Grok の X 字大斧、豆包の SEED、Llama のリャマ耳・尾と「∞」、MiniMax の巻き貝と MINIMAX 表記）、作者が「大AI和小AI们」の説明で示した 9 種の順序、知乎・百度貼吧の公開整理記事です。公開整理はページ番号の照合のみに用い、権利の根拠とはしません。
 
@@ -41,7 +43,7 @@
 
 1. 完了：GPT・Gemini・Claude・Kimi・Qwen・GLM・Grok・豆包・Llama・MiniMax の作者公開原画像を Pixiv から収集しました。
 2. Copilot 学園版を CC BY-NC 4.0 で収録。yamamemo のパイロット版は高解像度原画と画像別の条件を引き続き確認します。
-3. 未収集の Mistral・文心一言などは保留します。`entities.json` に存在しない AI であり、数を合わせるための索引拡張は行いません。
+3. Mistral の原画の画像別条件と、文心一言などの作者による原投稿を引き続き確認します。
 4. 既存デザイン、AI との対応、原出典、作品ごとの条件、原画像のハッシュ、3 言語の説明を確認してから、縦横比を保った規格統一画像と出典付き素材集を作成します。
 
 候補：[baselines.json](../content/baselines.json)。照合記録：[ai-video-2026-09-28.json](../content/research/ai-video-2026-09-28.json)。同定の照合：[leads.json](../content/leads.json)。収集済みファイルから完了状態を判定し、リンクのみの項目を手動で完了扱いにはしません。

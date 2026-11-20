@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:07:25.577Z",
+  "url": "https://www.bilibili.com/video/BV1hnx162E56/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hnx162E56",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1hnx162E56",
+    "title": "【4K·AI二创】十位AI娘的万圣节舞会｜Happy Halloween",
+    "owner": {
+      "name": "努力的Nicky",
+      "mid": 2618937
+    },
+    "pubdate": 1793449186,
+    "duration": 250
+  },
+  "descriptionSha256": "e568267589d6d718bfd8568d06cd16ee08ffbe19fcf337191f42177a22f5fbfe",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "上善无形",
+    "Junky",
+    "みけたま",
+    "りりり",
+    "てぃ☆イン！"
+  ],
+  "linkedVideos": [
+    "BV19EJ96tEDV",
+    "BV1tE9XBbErS"
+  ]
+}
