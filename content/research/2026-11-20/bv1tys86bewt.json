@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:24:01.746Z",
+  "url": "https://www.bilibili.com/video/BV1tYs86bEwt/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tYs86bEwt",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1tYs86bEwt",
+    "title": "「SSS」神曲！我爸已经听了3天3夜没睡觉了！-《CatchTheLight》鲸鲸原创MV",
+    "owner": {
+      "name": "鲸鲸是鱼鱼",
+      "mid": 1517218950
+    },
+    "pubdate": 1795095747,
+    "duration": 132
+  },
+  "descriptionSha256": "d1bb63edecbd585df739b3c00f22d5d195681ccd14f2da7d23e27ffee1a3ecc1",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "Suno",
+    "Suno"
+  ],
+  "linkedVideos": []
+}

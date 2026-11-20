@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:24:01.111Z",
+  "url": "https://www.bilibili.com/video/BV15t4x6PEQF/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15t4x6PEQF",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV15t4x6PEQF",
+    "title": "【10月新番/短篇/主题曲/Deepseek&Claude&GPT】AI娘 Road to the Token",
+    "owner": {
+      "name": "银蛇漫游者Icing",
+      "mid": 20863369
+    },
+    "pubdate": 1794135600,
+    "duration": 90
+  },
+  "descriptionSha256": "bd52e1e293be1094de861ef05155b5fb46576fa74beb7baf2b2233bfb2c350e1",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": [
+    "BV1Zs4y1P7aF"
+  ]
+}

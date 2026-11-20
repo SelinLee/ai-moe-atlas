@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:24:00.232Z",
+  "url": "https://www.bilibili.com/video/BV17bWC61Ejg/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17bWC61Ejg",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV17bWC61Ejg",
+    "title": "Kimi：你怎么在我家楼下？！｜“又没有很远。”",
+    "owner": {
+      "name": "樱华辉月",
+      "mid": 2015579
+    },
+    "pubdate": 1794627000,
+    "duration": 132
+  },
+  "descriptionSha256": "76269c56a8f6eff4ed0b6d3e75e5b19199e0f417b8a837b3976110a7f4c33f40",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": []
+}

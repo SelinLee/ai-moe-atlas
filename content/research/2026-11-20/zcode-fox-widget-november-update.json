@@ -1,0 +1,56 @@
+{
+  "full_name": "pigeon189/zcode-fox-widget",
+  "html_url": "https://github.com/pigeon189/zcode-fox-widget",
+  "stargazers_count": 63,
+  "archived": false,
+  "created_at": "2026-10-04T17:43:10Z",
+  "default_branch": "main",
+  "license": "MIT",
+  "description": "一个适配ZCode与WorkBuddy的桌宠/余额小挂件，移植自dsh小鲸鱼挂件，源自 MeteorNOX 原版",
+  "fork": false,
+  "observedAt": "2026-11-20T15:29:14.147Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "commit": "28f1a8bd32cafe92ab212304d3a7eaf5602cc651",
+      "url": "https://github.com/pigeon189/zcode-fox-widget/blob/28f1a8bd32cafe92ab212304d3a7eaf5602cc651/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/pigeon189/zcode-fox-widget/28f1a8bd32cafe92ab212304d3a7eaf5602cc651/README.md",
+      "sourceSha256": "01f51f5c994af28aefe36a6ae3d4fa3080a85648dabee1d304c4443138851584",
+      "gitBlobSha": "c0488c105e0bf5261ce3d7b385cc50f106aac55a"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "commit": "28f1a8bd32cafe92ab212304d3a7eaf5602cc651",
+      "url": "https://github.com/pigeon189/zcode-fox-widget/blob/28f1a8bd32cafe92ab212304d3a7eaf5602cc651/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/pigeon189/zcode-fox-widget/28f1a8bd32cafe92ab212304d3a7eaf5602cc651/LICENSE",
+      "sourceSha256": "85e362f499ac3844695df1b581575c71cdc6542e63e026c2086d88387d95060a",
+      "gitBlobSha": "9ad41e5e71a0ebbe5026a37aacc5955ffa2e7957"
+    },
+    "NOTICE": {
+      "path": "NOTICE",
+      "commit": "28f1a8bd32cafe92ab212304d3a7eaf5602cc651",
+      "url": "https://github.com/pigeon189/zcode-fox-widget/blob/28f1a8bd32cafe92ab212304d3a7eaf5602cc651/NOTICE",
+      "rawUrl": "https://raw.githubusercontent.com/pigeon189/zcode-fox-widget/28f1a8bd32cafe92ab212304d3a7eaf5602cc651/NOTICE",
+      "sourceSha256": "0b3db271338a65943747fbfd88b66ce117ba705ab60e816cca4fcf51a5526e8a",
+      "gitBlobSha": "c340409ad67380ece8fe1320a50bda9e2df18acc"
+    }
+  },
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:29:27.614Z",
+  "assets": [],
+  "pinnedDocument": {
+    "path": "README.md",
+    "commit": "28f1a8bd32cafe92ab212304d3a7eaf5602cc651",
+    "url": "https://github.com/pigeon189/zcode-fox-widget/blob/28f1a8bd32cafe92ab212304d3a7eaf5602cc651/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/pigeon189/zcode-fox-widget/28f1a8bd32cafe92ab212304d3a7eaf5602cc651/README.md",
+    "sourceSha256": "01f51f5c994af28aefe36a6ae3d4fa3080a85648dabee1d304c4443138851584",
+    "gitBlobSha": "c0488c105e0bf5261ce3d7b385cc50f106aac55a"
+  },
+  "method": "github-rest-api-and-isolated-headless-google-chrome",
+  "previousEvidence": {
+    "path": "content/research/2026-11-08/zcode-fox-widget.json",
+    "sha256": "0d7d6717f86626976fb228d5fa4bb48015ce5cade525f2ceabb82d2a264d9d0a",
+    "kind": "browser-metadata-extract"
+  },
+  "scope": "Pinned README and listed documents checked byte-for-byte against GitHub API."
+}

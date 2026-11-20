@@ -1,0 +1,31 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:23:59.344Z",
+  "url": "https://www.bilibili.com/video/BV1stxa6eESB/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1stxa6eESB",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1stxa6eESB",
+    "title": "【免费Live2D模型】全网最“邢”的大肥鱼",
+    "owner": {
+      "name": "三重野chiame",
+      "mid": 88035929
+    },
+    "pubdate": 1793620800,
+    "duration": 98
+  },
+  "descriptionSha256": "71dea68f65467ffad8ceb7a03d81306326b73f35cc556b8ec8983b29a39bd270",
+  "creatorStatement": {
+    "claimedArtAndRigging": "三重野chiame",
+    "derivativeWorks": true,
+    "commercialLivestreaming": true,
+    "sales": false,
+    "template": "知牌女儿服",
+    "redistribution": "unverified"
+  },
+  "uploaderCredits": [
+    "知牌女儿服",
+    "三重野chiame"
+  ],
+  "linkedVideos": []
+}

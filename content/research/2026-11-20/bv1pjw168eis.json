@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:23:59.322Z",
+  "url": "https://www.bilibili.com/video/BV1pJW168Eis/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pJW168Eis",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1pJW168Eis",
+    "title": "不准用图生3D！GPT、Claude、DeepSeek只写代码还原自己的设定图",
+    "owner": {
+      "name": "TB监护人",
+      "mid": 2075214012
+    },
+    "pubdate": 1794391200,
+    "duration": 153
+  },
+  "descriptionSha256": "6537008c6c5bf548002996911ef33977c2ba649cb4cd432ae8545966f5a47413",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "Pixabay"
+  ],
+  "linkedVideos": []
+}

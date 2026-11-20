@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:24:02.174Z",
+  "url": "https://www.bilibili.com/video/BV1kxWV6KE6o/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kxWV6KE6o",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1kxWV6KE6o",
+    "title": "大肥鱼 x updream娘联动单曲《白饭与梦》【AI音乐】",
+    "owner": {
+      "name": "一团谧云",
+      "mid": 3546774155298869
+    },
+    "pubdate": 1794326651,
+    "duration": 237
+  },
+  "descriptionSha256": "286201d8807571d17ea2fbbfb2b65ddc4e52eec807437d37795d2f94dc4184ce",
+  "uploaderCredits": [
+    "Suno",
+    "Suno",
+    "Updream"
+  ],
+  "linkedVideos": []
+}

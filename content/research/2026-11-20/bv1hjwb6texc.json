@@ -1,0 +1,26 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:24:02.175Z",
+  "url": "https://www.bilibili.com/video/BV1hjWb6tExC/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hjWb6tExC",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1hjWb6tExC",
+    "title": "【原声版】鲸鱼娘原创单曲｜《乖乖待在我身边~》",
+    "owner": {
+      "name": "鲸鲸是鱼鱼",
+      "mid": 1517218950
+    },
+    "pubdate": 1794215991,
+    "duration": 100
+  },
+  "descriptionSha256": "8f7ef8f2e780b3df01b8d63a51edd7799f04c8ac871fd3f2b56fbacdd084bff6",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "Suno",
+    "Suno"
+  ],
+  "linkedVideos": [
+    "BV1RYWn6CEmu"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:23:59.794Z",
+  "url": "https://www.bilibili.com/video/BV14wss6LEkd/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV14wss6LEkd",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV14wss6LEkd",
+    "title": "200万字装得下论文，装不下一句“别走”｜Kimi ver.",
+    "owner": {
+      "name": "DarthMol",
+      "mid": 1526118741
+    },
+    "pubdate": 1794753823,
+    "duration": 61
+  },
+  "descriptionSha256": "3f3b83b8980f58e2c33a8fe1da6bc294fcb29768ff076a251a054962d5a1a913",
+  "uploaderCredits": [
+    "Suno",
+    "Suno"
+  ],
+  "linkedVideos": [
+    "BV1ynxq6yE1Z"
+  ]
+}

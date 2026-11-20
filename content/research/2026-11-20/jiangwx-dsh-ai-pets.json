@@ -1,0 +1,51 @@
+{
+  "full_name": "jiangwx0218-glitch/dsh-ai-pets",
+  "html_url": "https://github.com/jiangwx0218-glitch/dsh-ai-pets",
+  "stargazers_count": 1,
+  "archived": false,
+  "created_at": "2026-11-10T04:47:21Z",
+  "default_branch": "main",
+  "license": "NOASSERTION",
+  "description": "DeepSeek Harness 桌宠插件：GPT / Claude / Gemini 三只 AI 桌宠（素材走 GitHub Release 下载）",
+  "fork": false,
+  "observedAt": "2026-11-20T15:23:30.477Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "commit": "34851e113a2d436d35b0584f92cc862c456bdf94",
+      "url": "https://github.com/jiangwx0218-glitch/dsh-ai-pets/blob/34851e113a2d436d35b0584f92cc862c456bdf94/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/jiangwx0218-glitch/dsh-ai-pets/34851e113a2d436d35b0584f92cc862c456bdf94/README.md",
+      "sourceSha256": "ae72a84d4ef6c4da66892e41f927e75bcac22b372818763acbab5fee77cb8114",
+      "gitBlobSha": "9fc80ec8347957d5234c07c2810f69ff53d30f12"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "commit": "34851e113a2d436d35b0584f92cc862c456bdf94",
+      "url": "https://github.com/jiangwx0218-glitch/dsh-ai-pets/blob/34851e113a2d436d35b0584f92cc862c456bdf94/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/jiangwx0218-glitch/dsh-ai-pets/34851e113a2d436d35b0584f92cc862c456bdf94/LICENSE",
+      "sourceSha256": "5e2e44bf0e62ff17673099ae2a5e2312999e122b52ec3700b7f6567c16a23b4f",
+      "gitBlobSha": "d50a2919b48ea2e192ecf35d0368849e2d9b4ff4"
+    },
+    "NOTICE.md": {
+      "path": "NOTICE.md",
+      "commit": "34851e113a2d436d35b0584f92cc862c456bdf94",
+      "url": "https://github.com/jiangwx0218-glitch/dsh-ai-pets/blob/34851e113a2d436d35b0584f92cc862c456bdf94/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/jiangwx0218-glitch/dsh-ai-pets/34851e113a2d436d35b0584f92cc862c456bdf94/NOTICE.md",
+      "sourceSha256": "7364bd438bd180df5f7d0e7aa82edf910182ca6b8d2e0830dde4b726201fc157",
+      "gitBlobSha": "45f2314e97167092445edc11fbdf5eeb6561bb0e"
+    }
+  },
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:29:27.236Z",
+  "assets": [],
+  "pinnedDocument": {
+    "path": "README.md",
+    "commit": "34851e113a2d436d35b0584f92cc862c456bdf94",
+    "url": "https://github.com/jiangwx0218-glitch/dsh-ai-pets/blob/34851e113a2d436d35b0584f92cc862c456bdf94/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/jiangwx0218-glitch/dsh-ai-pets/34851e113a2d436d35b0584f92cc862c456bdf94/README.md",
+    "sourceSha256": "ae72a84d4ef6c4da66892e41f927e75bcac22b372818763acbab5fee77cb8114",
+    "gitBlobSha": "9fc80ec8347957d5234c07c2810f69ff53d30f12"
+  },
+  "method": "github-rest-api-and-isolated-headless-google-chrome",
+  "scope": "Pinned README and listed documents checked byte-for-byte against GitHub API."
+}

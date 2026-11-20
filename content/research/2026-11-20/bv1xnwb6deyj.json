@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:24:02.177Z",
+  "url": "https://www.bilibili.com/video/BV1XNWB6dEYj/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XNWB6dEYj",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1XNWB6dEYj",
+    "title": "deepseek单曲《上下文》",
+    "owner": {
+      "name": "孤巷昏灯",
+      "mid": 35590727
+    },
+    "pubdate": 1794582104,
+    "duration": 257
+  },
+  "descriptionSha256": "8f1f0da003e0d4acca4280f8fb097a2d55b9eb986db10e3a2bc37e7f38c065a5",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

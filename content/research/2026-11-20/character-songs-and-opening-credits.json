@@ -1,0 +1,363 @@
+{
+  "method": "isolated-headless-google-chrome",
+  "previousEvidence": "content/research/2026-11-20/opening-song-credits-and-fan-versions.json",
+  "matches": [
+    {
+      "id": "crossing-field",
+      "credit": "LiSA",
+      "original": {
+        "url": "https://music.apple.com/jp/song/1537785962",
+        "finalUrl": "https://music.apple.com/jp/song/crossing-field/1537785962",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:26:19.300Z",
+        "htmlSha256": "4687f1a572e04ad48c647b400b97b99a9bc01149ccdf2cc3d95e8bf9b5992df9",
+        "title": "‎crossing field - LiSAの曲（歌詞付き）- Apple Music",
+        "matched": [
+          "crossing field",
+          "LiSA"
+        ]
+      },
+      "versions": [
+        {
+          "bvid": "BV1rpWe6ZEeW",
+          "url": "https://www.bilibili.com/video/BV1rpWe6ZEeW/",
+          "endpoint": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1rpWe6ZEeW",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-20T15:23:37.715Z",
+          "bodySha256": "5c9b600de227b550a830027698934b8b33010792ea110e833d528f1dfe285697",
+          "uploader": "星忆111",
+          "title": "哦鲸鲸，Switch【新番op/大肥鱼与刀剑神域】「Crossing field」",
+          "pubdate": 1794553849,
+          "musicTag": "发现《crossing field》",
+          "descriptionMatched": [],
+          "type": "mv"
+        }
+      ]
+    },
+    {
+      "id": "mebuku-toki",
+      "credit": "yonige",
+      "original": {
+        "url": "https://yonige.net/contents/1077473",
+        "finalUrl": "https://yonige.net/contents/1077473",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:25:15.553Z",
+        "htmlSha256": "668db8b9af405f99afab78c6137427f83b9f7e16f9ff9e8e3a7d7bf5a75b520e",
+        "title": "New EP『芽吹くとき』発売&配信スタート！ | yonige OFFICIAL HOME PAGE",
+        "matched": [
+          "芽吹くとき",
+          "yonige"
+        ]
+      },
+      "versions": [
+        {
+          "bvid": "BV1AznZ6sEqW",
+          "url": "https://www.bilibili.com/video/BV1AznZ6sEqW/",
+          "endpoint": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1AznZ6sEqW",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-20T15:23:38.447Z",
+          "bodySha256": "97c31cc631243f679036a291c1466d08ccb3e0e4a057148f14f9e7b9b30dedb4",
+          "uploader": "有鲷鱼烧吃吗",
+          "title": "【四月新番】蓝色大肥鱼，晕碳身姿似百合花般 OP 「芽吹くとき」",
+          "pubdate": 1793019041,
+          "musicTag": "发现《芽吹くとき》",
+          "descriptionMatched": [],
+          "type": "mv"
+        },
+        {
+          "bvid": "BV1Mus66dE59",
+          "url": "https://www.bilibili.com/video/BV1Mus66dE59/",
+          "endpoint": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1Mus66dE59",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-20T15:23:38.430Z",
+          "bodySha256": "14a70c0ce7aa39381e62c11e30ef1fd43118afadd68997cae765c1f25fe8c601",
+          "uploader": "Kevin_QAQ",
+          "title": "【4月新番】Deepseek，酒醉身姿似百合花般 NCOP",
+          "pubdate": 1794929868,
+          "musicTag": "发现《芽吹くとき》",
+          "descriptionMatched": [],
+          "type": "mv"
+        }
+      ]
+    },
+    {
+      "id": "brave-shine",
+      "credit": "Aimer",
+      "original": {
+        "url": "https://www.fate-sn.com/ubw/music/",
+        "finalUrl": "https://www.fate-sn.com/ubw/music/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:25:13.130Z",
+        "htmlSha256": "4e26aadba79da58ab0d29a925b83a2dc04c4a349338c3c0022032e740a447c02",
+        "title": "MUSIC | Fate/stay night [Unlimited Blade Works]",
+        "matched": [
+          "Brave Shine",
+          "Aimer"
+        ]
+      },
+      "versions": [
+        {
+          "bvid": "BV1RyxT61EMm",
+          "url": "https://www.bilibili.com/video/BV1RyxT61EMm/",
+          "endpoint": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1RyxT61EMm",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-20T15:23:38.437Z",
+          "bodySha256": "3917df71e4f71ef86a4fcc2f8f4d75cc55f1831d09113cae5d61462471d2fcc2",
+          "uploader": "Heywoord",
+          "title": "【14月新番】Fate/stay night AGI圣杯战争[Unlimited GPU Works] op",
+          "pubdate": 1793097000,
+          "musicTag": "发现《Brave Shine》",
+          "descriptionMatched": [],
+          "type": "mv"
+        }
+      ]
+    },
+    {
+      "id": "hishoku-no-sora",
+      "credit": "川田まみ",
+      "original": {
+        "url": "https://nbcuni-music.com/mami_kawada/contents/hp0007/index00060000.html",
+        "finalUrl": "https://nbcuni-music.com/mami_kawada/contents/hp0007/index00060000.html",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:25:12.614Z",
+        "htmlSha256": "518517f7509043920e36882e8f5b07f5253a9d9ddadcb331e6ecb462a080123b",
+        "title": "［2nd MAXI SINGLE］緋色の空 -川田まみ NBCUniversal Entertainment Japan OFFICIAL SITE-",
+        "matched": [
+          "緋色の空",
+          "川田まみ"
+        ]
+      },
+      "versions": [
+        {
+          "bvid": "BV1yAWq6uEzU",
+          "url": "https://www.bilibili.com/video/BV1yAWq6uEzU/",
+          "endpoint": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1yAWq6uEzU",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-20T15:23:38.420Z",
+          "bodySha256": "6da2f513f9b4c6e6ed3f7b3f274b2db008eea179188f091eee378eab75819202",
+          "uploader": "我讨厌H",
+          "title": "【12月新番/主题曲】灼眼の大肥鱼 先行OP",
+          "pubdate": 1794564128,
+          "musicTag": "发现《绯色の空 (绯色天空)》",
+          "descriptionMatched": [],
+          "type": "mv"
+        }
+      ]
+    },
+    {
+      "id": "savior-of-song",
+      "credit": "ナノ feat. MY FIRST STORY",
+      "original": {
+        "url": "https://www.jvcmusic.co.jp/flyingdog/-/Discography/A023900/VTCL-60519.html",
+        "finalUrl": "https://www.jvcmusic.co.jp/flyingdog/-/Discography/A023900/VTCL-60519.html",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:25:14.684Z",
+        "htmlSha256": "6f24e1537cefbb3980f42a79a2a470918ca83dc3ddca84d4291976756ad026d9",
+        "title": "ナノ | BEST ALBUM「I」　Disc-1 | FlyingDog",
+        "matched": [
+          "SAVIOR OF SONG",
+          "MY FIRST STORY",
+          "ナノ"
+        ]
+      },
+      "versions": [
+        {
+          "bvid": "BV1K2sV61Exb",
+          "url": "https://www.bilibili.com/video/BV1K2sV61Exb/",
+          "endpoint": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1K2sV61Exb",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-20T15:23:39.058Z",
+          "bodySha256": "fb6b2f04fd726b2be1cb97f90bd60faa73a71429089564d293d14a2bd371baca",
+          "uploader": "咲寂寞",
+          "title": "【12月新番】苍蓝肥鱼的琶音【OP】【4K】",
+          "pubdate": 1794660009,
+          "musicTag": "发现《SAVIOR OF SONG(feat.MY FIRST STORY)》",
+          "descriptionMatched": [],
+          "type": "mv"
+        }
+      ]
+    },
+    {
+      "id": "my-future-amber-kuo",
+      "credit": "郭采潔 · Amber Kuo",
+      "original": {
+        "url": "https://music.apple.com/tw/song/324949937",
+        "finalUrl": "https://music.apple.com/tw/song/%E6%88%91%E7%9A%84%E6%9C%AA%E4%BE%86%E5%BC%8F/324949937",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:26:19.298Z",
+        "htmlSha256": "de9206a26d60b3ba50b7854ecad6615c3b1f4bd60ff546d60b4612773379e2df",
+        "title": "‎〈我的未來式〉- 由郭采潔演唱（附歌詞）- Apple Music",
+        "matched": [
+          "我的未來式",
+          "郭采潔"
+        ]
+      },
+      "versions": [
+        {
+          "bvid": "BV1yysn6FEVf",
+          "url": "https://www.bilibili.com/video/BV1yysn6FEVf/",
+          "endpoint": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1yysn6FEVf",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-20T15:23:39.866Z",
+          "bodySha256": "cb902cef081078f4254b0aad1c84cad6fd0259589dae10348c720ecd419be98a",
+          "uploader": "浮颗",
+          "title": "11月新番？大肥鱼热唱《AI情公寓》OP「我的生成式」！ 来看看DeepSeek和AI们的日常吧【AI 音乐】",
+          "pubdate": 1795086000,
+          "musicTag": "发现《我的未来式》",
+          "descriptionMatched": [
+            "原曲《我的未来式》",
+            "郭采洁"
+          ],
+          "type": "arrangement"
+        }
+      ]
+    },
+    {
+      "id": "stay-by-my-side-whale",
+      "credit": "鲸鲸是鱼鱼",
+      "original": {
+        "bvid": "BV1RYWn6CEmu",
+        "url": "https://www.bilibili.com/video/BV1RYWn6CEmu/",
+        "endpoint": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1RYWn6CEmu",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:25:29.295Z",
+        "bodySha256": "17bcaa1005e6d59e5d4b2c0b17b77d8c58087edfac979e2712039f6b641bc6c8",
+        "uploader": "鲸鲸是鱼鱼",
+        "title": "大肥鱼原创MV《乖乖待在我身边~》",
+        "pubdate": 1794161179,
+        "musicTag": null,
+        "descriptionMatched": [
+          "本曲为原创"
+        ]
+      },
+      "versions": [
+        {
+          "bvid": "BV1hjWb6tExC",
+          "url": "https://www.bilibili.com/video/BV1hjWb6tExC/",
+          "endpoint": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1hjWb6tExC",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-20T15:27:03.104Z",
+          "bodySha256": "a8949174b0198291563104fefc7d1e28d1bc32f718b3a83079501c259e4b0fbb",
+          "uploader": "鲸鲸是鱼鱼",
+          "title": "【原声版】鲸鱼娘原创单曲｜《乖乖待在我身边~》",
+          "pubdate": 1794215991,
+          "musicTag": null,
+          "descriptionMatched": [
+            "BV1RYWn6CEmu",
+            "同一首歌"
+          ],
+          "type": "arrangement"
+        }
+      ]
+    },
+    {
+      "id": "almost-full-context",
+      "credit": "相貌平平雨宫莲OFFICIAL",
+      "original": {
+        "bvid": "BV1ynxq6yE1Z",
+        "url": "https://www.bilibili.com/video/BV1ynxq6yE1Z/",
+        "endpoint": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1ynxq6yE1Z",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:27:03.138Z",
+        "bodySha256": "812cb2f2b94d7d7d0e2a56784485d1e000753965f78dd91b99688d1f23b9f5b1",
+        "uploader": "相貌平平雨宫莲OFFICIAL",
+        "title": "《上下文快满了》AI MV 大赛",
+        "pubdate": 1793361345,
+        "musicTag": null,
+        "descriptionMatched": [
+          "原创AI娘MV"
+        ]
+      },
+      "versions": [
+        {
+          "bvid": "BV14wss6LEkd",
+          "url": "https://www.bilibili.com/video/BV14wss6LEkd/",
+          "endpoint": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV14wss6LEkd",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-20T15:27:03.116Z",
+          "bodySha256": "2ca04b9f0c4496318bb31e94420573a9dc3ce14ceb33a47f57958f314cf89d35",
+          "uploader": "DarthMol",
+          "title": "200万字装得下论文，装不下一句“别走”｜Kimi ver.",
+          "pubdate": 1794753823,
+          "musicTag": null,
+          "descriptionMatched": [
+            "参考原作／原曲",
+            "BV1ynxq6yE1Z"
+          ],
+          "type": "arrangement"
+        }
+      ]
+    }
+  ],
+  "pendingMusic": [
+    {
+      "reason": "The uploader uses 悬溢 while the Bilibili track tag points to 悬溺. The linked recording is the official release indicated by the tag. The exact fan-audio match remains unverified.",
+      "originalSuggestedByTag": {
+        "url": "https://music.apple.com/us/song/1862285621",
+        "finalUrl": "https://music.apple.com/us/song/%E6%82%AC%E6%BA%BA/1862285621",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:25:12.510Z",
+        "htmlSha256": "0cab11600942415ccf4448a45f337c955603bc46ad4334f1f302ffcd393b2211",
+        "title": "‎悬溺 - Song with Lyrics by 葛東琪 - Apple Music",
+        "matched": [
+          "悬溺",
+          "葛東琪"
+        ]
+      },
+      "video": {
+        "bvid": "BV1UNsB6SE4y",
+        "url": "https://www.bilibili.com/video/BV1UNsB6SE4y/",
+        "endpoint": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1UNsB6SE4y",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:23:37.681Z",
+        "bodySha256": "f1fe5598fd2389d924c86ef089f5dca9e0daa3e0e9f2a2b78d97ef989a4557b6",
+        "uploader": "是劲劲子",
+        "title": "大肥鱼用超级温柔的声线翻唱，DeepSeek✖Claude《悬溢》大肥鱼无限片场【AI MV 大赛】",
+        "pubdate": 1795147221,
+        "musicTag": "发现《悬溺》",
+        "descriptionMatched": [
+          "《悬溢》",
+          "谱乐AI"
+        ]
+      }
+    },
+    {
+      "reason": "Bilibili still shows an alternate song tag on the upload. The exact segment covered by each credit remains unverified.",
+      "video": {
+        "bvid": "BV1hNWm6mE5h",
+        "url": "https://www.bilibili.com/video/BV1hNWm6mE5h/",
+        "endpoint": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1hNWm6mE5h",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:23:37.661Z",
+        "bodySha256": "72c4518fbf06b3b0fd9ee12527d73abb785664e12a414043a0a11559f812174f",
+        "uploader": "刚来的大肥鱼",
+        "title": "两版二创MV：同一首《信仰の作り方》，豆包版 vs DeepSeek版，你投谁？",
+        "pubdate": 1794441600,
+        "musicTag": "发现《今夜突然起了风（八音盒）》",
+        "descriptionMatched": [
+          "信仰の作り方"
+        ]
+      }
+    },
+    {
+      "reason": "The upload still credits Duca and FUN RUN RE-BOOT! while Yuzusoft credits QUARTET☆RE-BOOT! and FUN FUN RE-BOOT. The fan-audio match remains unverified.",
+      "video": {
+        "bvid": "BV1Sk4N6AExh",
+        "url": "https://www.bilibili.com/video/BV1Sk4N6AExh/",
+        "endpoint": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1Sk4N6AExh",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:23:37.699Z",
+        "bodySha256": "db08d4223deb99fc5524ac00fd7b6bc4e9dc87264725858662a54150dbf3b38b",
+        "uploader": "舰长陪我擦甲板",
+        "title": "【全员AI娘】天使☆嚣嚣 RE-BOOT! OP | 教室里的AI娘",
+        "pubdate": 1793649587,
+        "musicTag": null,
+        "descriptionMatched": [
+          "FUN RUN RE-BOOT!",
+          "Duca"
+        ]
+      },
+      "officialOpening": "https://www.youtube.com/watch?v=0R62qm0YQi8"
+    }
+  ]
+}

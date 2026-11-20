@@ -206,5 +206,53 @@
     "title": {"zh": "青春コンプレックス", "en": "Seishun Complex", "ja": "青春コンプレックス"},
     "original": {"credit": "結束バンド", "url": "https://music.apple.com/jp/song/1646020675"},
     "versions": [{"id": "bv1ycpe6keqr", "type": "mv"}]
+  },
+  {
+    "id": "crossing-field",
+    "title": {"zh": "crossing field", "en": "crossing field", "ja": "crossing field"},
+    "original": {"credit": "LiSA", "url": "https://music.apple.com/jp/song/1537785962"},
+    "versions": [{"id": "bv1rpwe6zeew", "type": "mv"}]
+  },
+  {
+    "id": "mebuku-toki",
+    "title": {"zh": "芽吹くとき", "en": "Mebuku Toki", "ja": "芽吹くとき"},
+    "original": {"credit": "yonige", "url": "https://yonige.net/contents/1077473"},
+    "versions": [{"id": "bv1aznz6seqw", "type": "mv"}, {"id": "bv1mus66de59", "type": "mv"}]
+  },
+  {
+    "id": "brave-shine",
+    "title": {"zh": "Brave Shine", "en": "Brave Shine", "ja": "Brave Shine"},
+    "original": {"credit": "Aimer", "url": "https://www.fate-sn.com/ubw/music/"},
+    "versions": [{"id": "bv1ryxt61emm", "type": "mv"}]
+  },
+  {
+    "id": "hishoku-no-sora",
+    "title": {"zh": "绯色之空", "en": "Hishoku no Sora", "ja": "緋色の空"},
+    "original": {"credit": "川田まみ", "url": "https://nbcuni-music.com/mami_kawada/contents/hp0007/index00060000.html"},
+    "versions": [{"id": "bv1yawq6uezu", "type": "mv"}]
+  },
+  {
+    "id": "savior-of-song",
+    "title": {"zh": "SAVIOR OF SONG", "en": "SAVIOR OF SONG", "ja": "SAVIOR OF SONG"},
+    "original": {"credit": "ナノ feat. MY FIRST STORY", "url": "https://www.jvcmusic.co.jp/flyingdog/-/Discography/A023900/VTCL-60519.html"},
+    "versions": [{"id": "bv1k2sv61exb", "type": "mv"}]
+  },
+  {
+    "id": "my-future-amber-kuo",
+    "title": {"zh": "我的未来式", "en": "My Future", "ja": "我的未來式"},
+    "original": {"credit": "郭采潔 · Amber Kuo", "url": "https://music.apple.com/tw/song/324949937"},
+    "versions": [{"id": "bv1yysn6fevf", "type": "arrangement"}]
+  },
+  {
+    "id": "stay-by-my-side-whale",
+    "title": {"zh": "乖乖待在我身边", "en": "Stay by My Side", "ja": "そばにいて"},
+    "original": {"credit": "鲸鲸是鱼鱼", "url": "https://www.bilibili.com/video/BV1RYWn6CEmu/"},
+    "versions": [{"id": "bv1hjwb6texc", "type": "arrangement"}]
+  },
+  {
+    "id": "almost-full-context",
+    "title": {"zh": "上下文快满了", "en": "The Context Window Is Almost Full", "ja": "コンテキストがもうすぐいっぱい"},
+    "original": {"credit": "相貌平平雨宫莲OFFICIAL", "url": "https://www.bilibili.com/video/BV1ynxq6yE1Z/"},
+    "versions": [{"id": "bv14wss6lekd", "type": "arrangement"}]
   }
 ]

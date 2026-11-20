@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:23:59.328Z",
+  "url": "https://www.bilibili.com/video/BV1ScsB6pE4w/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ScsB6pE4w",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1ScsB6pE4w",
+    "title": "做了一个月的Claude娘，终于会眨眼了",
+    "owner": {
+      "name": "TB监护人",
+      "mid": 2075214012
+    },
+    "pubdate": 1795172400,
+    "duration": 33
+  },
+  "descriptionSha256": "07e3c8c2cbde5e9caff362501f94544521feb62044cbe758f01fc6b7ebae2f1f",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "Pixabay",
+    "viyn"
+  ],
+  "linkedVideos": []
+}

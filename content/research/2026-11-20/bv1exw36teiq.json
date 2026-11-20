@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:24:02.179Z",
+  "url": "https://www.bilibili.com/video/BV1ExW36tEiQ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ExW36tEiQ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1ExW36tEiQ",
+    "title": "原创歌曲《这句接的稳》大肥鱼单曲",
+    "owner": {
+      "name": "螺螺ovo",
+      "mid": 13969734
+    },
+    "pubdate": 1794314856,
+    "duration": 137
+  },
+  "descriptionSha256": "fd005d0fba9a813fda398b79867bf21916ed3bdd1d2ce998aca5731ab4cda612",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

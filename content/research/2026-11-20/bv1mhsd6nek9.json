@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:24:01.562Z",
+  "url": "https://www.bilibili.com/video/BV1mhsD6nEK9/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mhsD6nEK9",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1mhsD6nEK9",
+    "title": "千粉特别篇｜此歌，献给本鱼的 1047 位粉丝 -《LastLight》原创MV",
+    "owner": {
+      "name": "鲸鲸是鱼鱼",
+      "mid": 1517218950
+    },
+    "pubdate": 1795024070,
+    "duration": 154
+  },
+  "descriptionSha256": "aa7844f9cfd24fa4d3f34f8a39b600d982b6afec27e5bcc8cb542f2b7dc62b6c",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": []
+}

@@ -1,0 +1,43 @@
+{
+  "full_name": "suika1984/dsh-fishhome",
+  "html_url": "https://github.com/suika1984/dsh-fishhome",
+  "stargazers_count": 6,
+  "archived": false,
+  "created_at": "2026-11-15T04:50:05Z",
+  "default_branch": "main",
+  "license": "MIT",
+  "description": "大肥鱼的家园，一个基于dsh的插件，用于给大肥鱼桌宠一个生活陪伴的生活空间",
+  "fork": false,
+  "observedAt": "2026-11-20T15:23:31.976Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "commit": "54aefd37a7e5490b6bab1a882c13a2ed6a6f6484",
+      "url": "https://github.com/suika1984/dsh-fishhome/blob/54aefd37a7e5490b6bab1a882c13a2ed6a6f6484/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/suika1984/dsh-fishhome/54aefd37a7e5490b6bab1a882c13a2ed6a6f6484/README.md",
+      "sourceSha256": "1aeaa9601b143c791105a40bf06db1929d8c5bc11be0cec1bc6651bd8d01e45b",
+      "gitBlobSha": "33275c40e307bbe4468c9a326c22f8a45ebcd722"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "commit": "54aefd37a7e5490b6bab1a882c13a2ed6a6f6484",
+      "url": "https://github.com/suika1984/dsh-fishhome/blob/54aefd37a7e5490b6bab1a882c13a2ed6a6f6484/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/suika1984/dsh-fishhome/54aefd37a7e5490b6bab1a882c13a2ed6a6f6484/LICENSE",
+      "sourceSha256": "63897cc51b524addca216b1b7969fc21b241b3aa584dafd65f567a7e750ad4ca",
+      "gitBlobSha": "a0caed3a0d9ba0e707ca4dc4dc5f10eec8da2db9"
+    }
+  },
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:29:26.977Z",
+  "assets": [],
+  "pinnedDocument": {
+    "path": "README.md",
+    "commit": "54aefd37a7e5490b6bab1a882c13a2ed6a6f6484",
+    "url": "https://github.com/suika1984/dsh-fishhome/blob/54aefd37a7e5490b6bab1a882c13a2ed6a6f6484/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/suika1984/dsh-fishhome/54aefd37a7e5490b6bab1a882c13a2ed6a6f6484/README.md",
+    "sourceSha256": "1aeaa9601b143c791105a40bf06db1929d8c5bc11be0cec1bc6651bd8d01e45b",
+    "gitBlobSha": "33275c40e307bbe4468c9a326c22f8a45ebcd722"
+  },
+  "method": "github-rest-api-and-isolated-headless-google-chrome",
+  "scope": "Pinned README and listed documents checked byte-for-byte against GitHub API."
+}

@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:24:01.568Z",
+  "url": "https://www.bilibili.com/video/BV14bnA6kE2Y/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV14bnA6kE2Y",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV14bnA6kE2Y",
+    "title": "【十月新番】大肥鱼的堕落 OP《珈百璃的堕落》",
+    "owner": {
+      "name": "花月米饭",
+      "mid": 36596736
+    },
+    "pubdate": 1792502887,
+    "duration": 91
+  },
+  "descriptionSha256": "3ac846ab742693c2421d8c7c9d3a56ac5ae63bfab62cfdf571efb82d913ab0a5",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "黑猫勇者"
+  ],
+  "linkedVideos": []
+}
