@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:57:56.938Z",
+  "url": "https://www.bilibili.com/video/BV12TsB6EEbA/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12TsB6EEbA",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV12TsB6EEbA",
+    "title": "大肥鱼：Claude大小姐，一起过周末好开心啊！",
+    "owner": {
+      "name": "一颗佩佩",
+      "mid": 3546731790731931
+    },
+    "pubdate": 1795167300,
+    "duration": 154
+  },
+  "descriptionSha256": "81de74c1d14b02cd9a7838f9adf6a919d8ee941e3593adb797696541da24e9fa",
+  "uploaderCredits": [
+    "这个刀子真甜",
+    "ZipZipPipe",
+    "陈奕迅"
+  ],
+  "linkedVideos": []
+}

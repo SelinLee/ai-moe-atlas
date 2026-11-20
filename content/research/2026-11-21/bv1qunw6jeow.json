@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:57:58.231Z",
+  "url": "https://www.bilibili.com/video/BV1qUnW6JEow/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qUnW6JEow",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1qUnW6JEow",
+    "title": "ds娘同人曲《对不起，我不记得了》",
+    "owner": {
+      "name": "风霜秋雨",
+      "mid": 472150
+    },
+    "pubdate": 1792688562,
+    "duration": 259
+  },
+  "descriptionSha256": "ce5c4bda4a18a67086df4c11b04f8d9a8655fcad6cb8154314819c9ae92dee93",
+  "uploaderCredits": [
+    "Suno",
+    "pfz14"
+  ],
+  "linkedVideos": []
+}

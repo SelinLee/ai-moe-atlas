@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:57:58.235Z",
+  "url": "https://www.bilibili.com/video/BV1Absv6qE5p/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Absv6qE5p",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Absv6qE5p",
+    "title": "I'm the DeepSeek whale who lives in your computer",
+    "owner": {
+      "name": "爱砸琴的猫",
+      "mid": 1320488510
+    },
+    "pubdate": 1795145520,
+    "duration": 63
+  },
+  "descriptionSha256": "dbed94aa098a329feb76c3fa31e3871fefb7cf0957c96dd054ef30bc88b9ead2",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": []
+}

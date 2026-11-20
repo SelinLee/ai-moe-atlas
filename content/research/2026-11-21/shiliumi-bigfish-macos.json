@@ -1,0 +1,50 @@
+{
+  "full_name": "Shiliumi/bigfish",
+  "html_url": "https://github.com/Shiliumi/bigfish",
+  "stargazers_count": 2,
+  "archived": false,
+  "created_at": "2026-10-28T01:15:02Z",
+  "default_branch": "main",
+  "license": null,
+  "description": "大肥鱼：基于 Hermes Agent 的 macOS AI 伙伴，支持长期记忆、兴趣驱动浏览和原生桌宠。",
+  "fork": false,
+  "observedAt": "2026-11-20T16:05:27.496Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "commit": "323b099ef345c467eba6e4508dbf24da74dc3c2a",
+      "url": "https://github.com/Shiliumi/bigfish/blob/323b099ef345c467eba6e4508dbf24da74dc3c2a/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Shiliumi/bigfish/323b099ef345c467eba6e4508dbf24da74dc3c2a/README.md",
+      "sourceSha256": "cd675a4498cef5114072988a5934db836c11a6dfda92caca54b95440ea0add3c",
+      "gitBlobSha": "7e72a5887b778ba4d1f819e43d95d388b101cbd6"
+    },
+    "THIRD_PARTY.md": {
+      "path": "THIRD_PARTY.md",
+      "commit": "323b099ef345c467eba6e4508dbf24da74dc3c2a",
+      "url": "https://github.com/Shiliumi/bigfish/blob/323b099ef345c467eba6e4508dbf24da74dc3c2a/THIRD_PARTY.md",
+      "rawUrl": "https://raw.githubusercontent.com/Shiliumi/bigfish/323b099ef345c467eba6e4508dbf24da74dc3c2a/THIRD_PARTY.md",
+      "sourceSha256": "55e02da5d5bfdb7c688cb994f1dd2134bfe11344cad3dff1efa8c95360f3ae8b",
+      "gitBlobSha": "bd78802c15f8f2a00138deec4a5088627b60f2ab"
+    },
+    "ui/public/pet/ATTRIBUTION.md": {
+      "path": "ui/public/pet/ATTRIBUTION.md",
+      "commit": "323b099ef345c467eba6e4508dbf24da74dc3c2a",
+      "url": "https://github.com/Shiliumi/bigfish/blob/323b099ef345c467eba6e4508dbf24da74dc3c2a/ui/public/pet/ATTRIBUTION.md",
+      "rawUrl": "https://raw.githubusercontent.com/Shiliumi/bigfish/323b099ef345c467eba6e4508dbf24da74dc3c2a/ui/public/pet/ATTRIBUTION.md",
+      "sourceSha256": "1b119ffec13222a4964441310694952a1beed8dc7f988fad910633ccfe5d7cfe",
+      "gitBlobSha": "1d51ccbb451ee44e33f169da7d130ec7435b8b1e"
+    }
+  },
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:05:39.501Z",
+  "assets": [],
+  "pinnedDocument": {
+    "path": "README.md",
+    "commit": "323b099ef345c467eba6e4508dbf24da74dc3c2a",
+    "url": "https://github.com/Shiliumi/bigfish/blob/323b099ef345c467eba6e4508dbf24da74dc3c2a/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Shiliumi/bigfish/323b099ef345c467eba6e4508dbf24da74dc3c2a/README.md",
+    "sourceSha256": "cd675a4498cef5114072988a5934db836c11a6dfda92caca54b95440ea0add3c",
+    "gitBlobSha": "7e72a5887b778ba4d1f819e43d95d388b101cbd6"
+  },
+  "method": "github-rest-api-and-isolated-headless-google-chrome"
+}

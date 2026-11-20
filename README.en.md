@@ -26,7 +26,7 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/) · [Gemini · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-gemini/) · [Mingyue · Shangshan](https://selinlee.github.io/ai-moe-atlas/en/characters/shangshan-whale/)
 
 <!-- category-picks:songs -->
-**[🎵 Songs](#songs)** · 39 tracks\
+**[🎵 Songs](#songs)** · 40 tracks\
 [Humans Are Cats](https://selinlee.github.io/ai-moe-atlas/en/songs/#humans-are-cats) · [Let Me Go · Fat Fish’s Slacking Song](https://selinlee.github.io/ai-moe-atlas/en/songs/#let-me-go) · [Fireflies](https://selinlee.github.io/ai-moe-atlas/en/songs/#fireflies)
 
 <!-- category-picks:references -->
@@ -34,15 +34,15 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 [Claude reference sheet](https://selinlee.github.io/ai-moe-atlas/en/references/#claude) · [DeepSeek chibi turnaround](https://selinlee.github.io/ai-moe-atlas/en/chibi/#deepseek) · [Qwen chibi turnaround](https://selinlee.github.io/ai-moe-atlas/en/chibi/#qwen)
 
 <!-- category-picks:animations -->
-**[🎬 Animation & fan videos](#animations)** · 502 records\
+**[🎬 Animation & fan videos](#animations)** · 529 records\
 [What If the Chat Window Were Her Whole World?](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1xcai6ae9g) · [Too Many Losing AIs! · Fan PV](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1nfag6xehq) · [Claude × DeepSeek · Making Tomorrow Work](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1rd476leux)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 Pets & interactive projects](#desktop-pets)** · 89 projects\
+**[🐾 Pets & interactive projects](#desktop-pets)** · 92 projects\
 [CrossPet · Cross-AI desktop companion](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#crosspet) · [Copiwaifu · Live2D coding companion](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#copiwaifu-live2d) · [Deep Whale Day & Night](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#deep-whale-day-night)
 
 <!-- category-picks:sources -->
-**[📚 Creator works & sources](#sources)** · 75 sources\
+**[📚 Creator works & sources](#sources)** · 77 sources\
 [Shangshan · Whale Girl original](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI Girl collection](https://www.pixiv.net/artworks/148186519) · [Small-tailqwq · Whale Girl maid artwork](https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier)
 
 <a id="characters"></a>
@@ -78,7 +78,7 @@ The top ten tracks by the highest total likes on a listed version. Observation t
 
 <!-- song-ranking:end -->
 
-[Original music sources](content/research/2026-11-20/gemini-mv-original-music.json) · [Song and version verification](content/research/2026-11-20/song-originals-and-fan-versions.json) · [Opening-theme and fan-version credits](content/research/2026-11-20/character-songs-and-opening-credits.json) · [Dance and lyric MV song credits](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json)
+[Original music sources](content/research/2026-11-20/gemini-mv-original-music.json) · [Song and version verification](content/research/2026-11-20/song-originals-and-fan-versions.json) · [Opening-theme and fan-version credits](content/research/2026-11-20/character-songs-and-opening-credits.json) · [Dance and lyric MV song credits](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [Greenhouse Effect original and fan MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json)
 
 <a id="references"></a>
 
@@ -115,13 +115,13 @@ The top ten by Bilibili’s official cumulative likes. Ties use publication date
 
 <!-- animation-ranking:end -->
 
-This batch checked candidates and the six earlier videos with missing counts. Other videos show their last successful observation. [Scope of this recheck](content/research/2026-11-20/bilibili-candidate-recovery-scope.json) · [Restricted full capture](content/research/2026-11-20/bilibili-2026-11-20-restricted-capture.json)
+Official total likes were captured for 27 new fan works. Nine candidates are awaiting counts. Six earlier works keep their last successful counts, and every ranking entry shows its observation time. [Scope of this recheck](content/research/2026-11-21/bilibili-candidate-november-21-scope.json)
 
 <a id="desktop-pets"></a>
 
 ### 🐾 Pets & interactive projects
 
-The top ten by GitHub stars as checked on 2026-11-20. Ties are sorted by repository name.
+The top ten by GitHub stars as checked on 2026-11-21. Ties are sorted by repository name.
 
 | Rank | Project | GitHub stars |
 | ---: | --- | ---: |
@@ -136,10 +136,12 @@ The top ten by GitHub stars as checked on 2026-11-20. Ties are sorted by reposit
 | 9 | [GPT Girl · usage widget](https://github.com/T7moris/GPT-Niang/blob/43f20dee539b642902e56819747a605b3fdddf44/README.md) | [306](https://github.com/T7moris/GPT-Niang) |
 | 10 | [DSH Whale Musume · Whale girl companion](https://github.com/Sutera-Diffusus/dsh-whale-musume/blob/df31dd9c3e8cd8d7b371930deb928bba6b1988c6/README.md) | [223](https://github.com/Sutera-Diffusus/dsh-whale-musume) |
 
-[Browse all pets and interactive projects](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-20/github-interactive-stars-q-whale.json)
+[Browse all pets and interactive projects](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-21/github-interactive-stars-android-provenance.json)
+
+For both the cross-platform and native Android ports, 106 compatibility clips match the respective pinned upstream trees. The upstream revisions restrict commercial use, and each port’s notice lists MIT for those clips. [Desktop pet animation provenance](content/research/2026-11-21/dsh-pet-shared-animation-file-provenance.json)
 
 <details>
-<summary>Show all 89 projects and sources</summary>
+<summary>Show all 92 projects and sources</summary>
 
 | Project | Content | Publisher |
 | --- | --- | --- |
@@ -219,8 +221,6 @@ The top ten by GitHub stars as checked on 2026-11-20. Ties are sorted by reposit
 | [AIR-pixel · Whale Maid companion](https://github.com/AIR-pixel/deepseek-whale-maid-pet/blob/e3c8f451ff38839b11eee7a435b3f36898bd5ee0/README.md) | The local companion’s notice covers ten portraits and credits 上善无形, ZipZipPipe, keleus and AIR-pixel. | AIR-pixel |
 | [Mao · DSH Live2D companion connector](https://github.com/xkk6663/dsh-live2d-mao/blob/21b9db21d0abfc974fe88b155517563d155e9c51/README.md) | The project separates the plugin, demonstration screenshots and standalone companion. It credits 上善无形, ZipZipPipe and 氵六青 for the icon’s character lineage. | xkk6663 |
 | [Miss Whale · A raising-sim companion](https://github.com/THVIVA/Miss-Whale/blob/f5b7a2ba9ce519c019298dff5a2da3b50f574a6b/README.md) | A raising-sim companion from THVIVA with animation, a pond, a shop, cooking and a collection gallery. | THVIVA |
-
-Source links only. Artwork follows its own upstream terms; code licenses do not automatically cover character images.
 | [GPT Dragon Girl · ouyang’s Codex Pet](https://github.com/ouyang070125-cmyk/codex-dragon-pet/blob/1a6b042db918eeba3be659c0adcee025bd6bd54f/README.md) | The project provides GPT Dragon Girl’s base art, previews and animated state sheet. Two pinned files were checked against the project checksum manifest. | ouyang070125-cmyk |
 | [GPT Dragon Pet · Windows Companion](https://github.com/wxheart2002/GPT-Dragon-Pet/blob/7958411b30bdb698abc092e4174901d7ddb47806/README.md) | A standalone Windows pet with 16 documented base motions. The third-party notice traces visual references to ThomasXu2026 and code to mdd111. | wxheart2002 |
 | [Baili · Codex Startup Animation and Pet](https://github.com/chenyi380/baili-codex/blob/6231dc24e686f06f0f9ca69cf8246e3fd5930f33/README.md) | The project includes a composited 2D startup animation and chibi desktop pet. Its asset notice lists the Baili reference, music excerpt and third-party components. | chenyi380 |
@@ -230,10 +230,15 @@ Source links only. Artwork follows its own upstream terms; code licenses do not 
 | [DSH AI Pets · Companion Sprite Conversion](https://github.com/jiangwx0218-glitch/dsh-ai-pets/blob/34851e113a2d436d35b0584f92cc862c456bdf94/README.md) | Converts sprites from PC2005-cloud and hunmer into DSH animation packs. The pinned notice records upstream credits and processing. | jiangwx0218-glitch |
 | [Whale-Maid · DSH Whale Girl Companion](https://github.com/hellokiaqi/whale-maid-dsh-pet/blob/782eac5a55e688f2afd4a001b37fb4eab8fd5245/README.md) | A Whale Girl maid animation pack. The publisher identifies the artwork as AI-generated and cites a Whale Girl meme whose creator is unverified. | hellokiaqi |
 | [Fat Fish’s Home · DSH Sidebar](https://github.com/suika1984/dsh-fishhome/blob/54aefd37a7e5490b6bab1a882c13a2ed6a6f6484/README.md) | A Whale Girl home with animations driven by real time. The character reads, naps and moves between rooms, which can be edited. | suika1984 |
-| [Big Blue Fish · Cross-Platform Desktop Pet](https://github.com/Bai-Cute/big-blue-fish-desktop-pet/blob/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/README.md) | A Windows, Linux and macOS pet with character animation, local chat and activity states. Its documentation traces 106 character clips to PC2005-cloud/dsh-pet. | Bai-Cute |
+| [Big Blue Fish · Cross-Platform Desktop Pet](https://github.com/Bai-Cute/big-blue-fish-desktop-pet/blob/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/README.md) | A Windows, Linux and macOS pet. All 106 compatibility clips match the cited upstream files by Git blob ID, with two SHA-256 checks. The project also contains 106 enhanced clips. | Bai-Cute |
 | [Fat Fish · DSH Character Life System](https://github.com/minedalang/dsh-dafeiyu-life/blob/4b9d16b7f384fca9a65b0b70d4757deccda518a9/README.md) | A Fat Fish interaction plugin for DSH with activity records and memory. The pinned notice traces three direct upstream projects. | minedalang |
 | [magpie-DaFeiYu · Whale Girl Companion](https://github.com/wolfvoid/magpie-DaFeiYu/blob/2d379416b0553681601a20ac18c82f29dc7a73b4/README.md) | A Windows and macOS companion that switches Whale Girl animations with Magpie activity. The documentation pins and verifies its upstream animation files. | wolfvoid |
 | [AI Pets · Four Characters for macOS](https://github.com/rf-liu/ai-pets/blob/cab15e31f37cffadae51f72ed70f87b7928c6736/README.md) | A native macOS companion with GPT Dragon Girl, Gemini Cat Girl, Claude and Whale Girl. Its source list tracks portraits, expressions and audio individually. | rf-liu |
+| [Blue Fat Fish · Android Desktop Pet](https://github.com/shitmof/lanse-dafeiyu/blob/e75df1ba829d647f6ce133d03a625893efcabae2/README.md) | An Android floating pet based on dsh-pet v0.3.8. The project notice records an attribution correction after 0.1.0 and the addition of full asset terms to the app in 0.1.1. | shitmof |
+| [dsh-pet · Native Android Port](https://github.com/ldyivan/dsh-pet-android/blob/270428f49b9b62b99cbf020a868430010af6759b/README.md) | A native Android overlay pet. Its pinned version contains 106 clips identical to PC2005-cloud upstream files and eight outside that matched set. | ldyivan |
+| [BigFish · Whale Girl’s Home on macOS](https://github.com/Shiliumi/bigfish/blob/323b099ef345c467eba6e4508dbf24da74dc3c2a/README.md) | An interactive macOS home with a 3D room, character animations and a memory archive. The notice separates character art, animation, stickers and third-party code. | Shiliumi |
+
+Source links only. Artwork follows its own upstream terms; code licenses do not automatically cover character images.
 
 </details>
 
@@ -250,6 +255,8 @@ See also ZipZipPipe’s [source and usage statement](https://t.bilibili.com/1231
 
 Newly added:
 
+- [ZipZipPipe · GPT White Dragon Girl Turnarounds](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#zipzippipe-white-dragon-turnarounds) · The creator’s post contains three front, side and rear sets with white, dark and pale blue outfits. All three 2048 × 1152 PNGs were hashed. Links to the creator’s post. File-specific display, adaptation and redistribution terms are pending. [Verification record](content/research/2026-11-21/zipzippipe-white-dragon-turnarounds.json)
+- [风霜秋雨 · Sorry, I Don’t Remember Production Art](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#pfz14-deepseek-mv-production-art) · The original upload points to the creator’s production-art repository. The pinned folder contains 17 PNGs under the BV ID. Two sample files were checked by SHA-256. The author’s production images are for private viewing. Their terms prohibit commercial use, reposting and modification. The video and recording have separate terms. [Verification record](content/research/2026-11-21/pfz14-production-art-personal-viewing.json)
 - [zyd232 · Archived Whale Girl Chibi Turnaround](https://xn--pssy23gqgbz2d718b.com/works/deepseek202610090014.html) · The archive credits zyd232 for a 2208 × 960 turnaround with a face close-up. Its original-author field is blank. The pinned JPG checksum was verified. [Source verification](content/research/2026-11-20/zyd232-q-whale-sheet-archive.json)
 - [辰楹 · Whale Girl Alter Ego and Chibi Adaptations](https://github.com/TreapGoGo/deepseek-whale-girl/issues/48) · In three submissions, 辰楹 credits 这个刀子真甜’s chibi design and discloses generative AI assistance. The five posted images were checked by SHA-256. [Source verification](content/research/2026-11-20/chenying-whale-girl-designs.json)
 - [三重野chiame · Whale Girl Live2D release demo](https://www.bilibili.com/video/BV1stxa6eESB/) · The uploader credits their own illustration and rig, allows derivatives and commercial livestreaming, and prohibits sales. The upstream template and redistribution terms are pending. [Creator credits and release terms](content/research/2026-11-20/whale-live2d-and-claude-chibi-provenance.json)
@@ -327,6 +334,7 @@ Newly added:
 
 | Date / status | Progress |
 | --- | --- |
+| 2026-11-21 · Fan works, desktop pet provenance and creator posts | Added 27 fan works with official counts, one track, three interactive projects and two creator sources. Rechecked nine candidates and six earlier works, and traced two pet ports’ animation files and terms. |
 | 2026-11-20 · Candidate rechecks, chibi sources and desktop companions | Added 12 fan videos, four tracks, four interactive projects and two creator sources. Rechecked nine candidates and six older videos without recent counts. Ranking entries show their individual observation times. |
 | 2026-11-20 · Character songs, Live2D and desktop companions | Added 37 fan videos, eight tracks and five interactive projects. Updated 484 official like counts, kept six previous counts, and tracked nine candidates. Checked the Whale Girl Live2D terms for derivatives, commercial livestreaming and sales. |
 | 2026-11-20 · Mistral entry, original songs and fan videos | Added 23 fan videos, five tracks and a Mistral Baguette Cat Girl entry. Updated likes for 447 videos, kept the last successful counts for six, and recorded search results for seven candidates awaiting official counts. |

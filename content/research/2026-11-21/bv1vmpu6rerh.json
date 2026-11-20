@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:57:57.798Z",
+  "url": "https://www.bilibili.com/video/BV1Vmpu6rERH/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Vmpu6rERH",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Vmpu6rERH",
+    "title": "大肥鱼：舒服者耍起",
+    "owner": {
+      "name": "不正经的游戏讲师",
+      "mid": 672414656
+    },
+    "pubdate": 1791639442,
+    "duration": 81
+  },
+  "descriptionSha256": "2ce0fcd0b3dadb186dfa44aff7c169953f9f6bda11f3ad89d29c58587dc3d04b",
+  "uploaderCredits": [
+    "这个刀子真甜",
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": []
+}

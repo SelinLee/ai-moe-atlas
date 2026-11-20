@@ -1,0 +1,1434 @@
+{
+  "method": "github-rest-tree-and-isolated-headless-google-chrome",
+  "windows": {
+    "method": "github-rest-tree-and-isolated-headless-google-chrome",
+    "upstream": "eb7426771342413cdbf55298dae576b1d8137f52",
+    "downstream": "aebf9cc56f7dcae0c23e2c90952cd18c025282d7",
+    "docs": [
+      {
+        "repo": "PC2005-cloud/dsh-pet",
+        "commit": "eb7426771342413cdbf55298dae576b1d8137f52",
+        "path": "README.md",
+        "url": "https://raw.githubusercontent.com/PC2005-cloud/dsh-pet/eb7426771342413cdbf55298dae576b1d8137f52/README.md",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:59:27.348Z",
+        "bodyType": "document",
+        "bytes": 44633,
+        "sourceSha256": "af97d6100284d702252989525f6a16ade943a3d65a364feff200f8e50d335cb2",
+        "gitBlobSha": "b90dca9600600474a952c751f26284caed9d3b53",
+        "relevantLines": [
+          "## 许可",
+          "- 素材（动画/提示词/源视频）：允许开源使用，**禁止商用**"
+        ]
+      },
+      {
+        "repo": "PC2005-cloud/dsh-pet",
+        "commit": "eb7426771342413cdbf55298dae576b1d8137f52",
+        "path": "LICENSE",
+        "url": "https://raw.githubusercontent.com/PC2005-cloud/dsh-pet/eb7426771342413cdbf55298dae576b1d8137f52/LICENSE",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:59:27.257Z",
+        "bodyType": "document",
+        "bytes": 1069,
+        "sourceSha256": "22757dc9c895b2729a2fc684d227cadfb54d5af3dd300029926839e8c4e269ce",
+        "gitBlobSha": "7d87632065ae9bbebe4fb7a275f38f3cd1c30c41",
+        "relevantLines": []
+      },
+      {
+        "repo": "Bai-Cute/big-blue-fish-desktop-pet",
+        "commit": "aebf9cc56f7dcae0c23e2c90952cd18c025282d7",
+        "path": "code/THIRD-PARTY.md",
+        "url": "https://raw.githubusercontent.com/Bai-Cute/big-blue-fish-desktop-pet/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/code/THIRD-PARTY.md",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:59:27.151Z",
+        "bodyType": "document",
+        "bytes": 7257,
+        "sourceSha256": "2e460fe39f86af8927dfc01146db748fb1644073b6ca287539c26c1fb8d94838",
+        "gitBlobSha": "007585f5250c983956395aadd73da59e05438aa6",
+        "relevantLines": []
+      }
+    ],
+    "totals": {
+      "upstream": 106,
+      "compatibility": 106,
+      "enhanced": 106,
+      "sameGitBlob": 106
+    },
+    "pairs": [
+      {
+        "upstream": "dsh-pet/assets/webm/三球抛接.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/三球抛接.webm",
+        "gitBlobSha": "a76228cb5f42fa159e3ec565b8ef969a7d289dca",
+        "bytes": 549316
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/下五子棋.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/下五子棋.webm",
+        "gitBlobSha": "63295b32e6a0522dac3840abb74a5af7b1431a08",
+        "bytes": 514704
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/东张西望.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/东张西望.webm",
+        "gitBlobSha": "3ba4edb2cc647c51edd41b5a6c71eeee8c418ed0",
+        "bytes": 427005
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/中秋赏月吃月饼.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/中秋赏月吃月饼.webm",
+        "gitBlobSha": "48beff57ddc5b3c7e1c0387348e33ce8e3a5b819",
+        "bytes": 512341
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/优雅女仆舞.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/优雅女仆舞.webm",
+        "gitBlobSha": "390c504dfb0b56bb647f0253782a91ee705f8933",
+        "bytes": 578915
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/余额-分文不剩.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/余额-分文不剩.webm",
+        "gitBlobSha": "013b69906a5c56b219bbd74986f973eea53e3675",
+        "bytes": 490318
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/余额-数金皱眉.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/余额-数金皱眉.webm",
+        "gitBlobSha": "6c1dac8e3edddc02f4988e1c38e289177c335ecf",
+        "bytes": 319065
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/余额-袋空如洗.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/余额-袋空如洗.webm",
+        "gitBlobSha": "a85eb2206596c7031fbc64146df09f6e7b137aae",
+        "bytes": 383104
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/余额-金袋叮当.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/余额-金袋叮当.webm",
+        "gitBlobSha": "1bbe074a0bef1a7ef80508b3033269885edb6b2c",
+        "bytes": 530955
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/余额-钱袋如常.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/余额-钱袋如常.webm",
+        "gitBlobSha": "a52b686a7a3d801a98cccb81534eae2bfa7ac2b3",
+        "bytes": 387407
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/余额-钱袋满溢.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/余额-钱袋满溢.webm",
+        "gitBlobSha": "34212594a3b9fc03daf2ae742763e62dfe4b034f",
+        "bytes": 622258
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/偷吃零食被抓住.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/偷吃零食被抓住.webm",
+        "gitBlobSha": "9f50ed6c3ba1a3f96b614e34ecaaf067ef6ab9cd",
+        "bytes": 432201
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/写代码.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/写代码.webm",
+        "gitBlobSha": "47902f235c11fadd22134dd71d2fbcc3a36a13fc",
+        "bytes": 383960
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/写福字.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/写福字.webm",
+        "gitBlobSha": "b7aa9ce458b6e8d1c9513b5e4b059a07ca143f88",
+        "bytes": 500314
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/凭空生花.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/凭空生花.webm",
+        "gitBlobSha": "085fe6d74ddfc268670be32b7c3f78c6806b68f1",
+        "bytes": 620252
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/动物环绕.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/动物环绕.webm",
+        "gitBlobSha": "44722e0afb7ef4c1cd85c5c98eadd9b4ade2fea9",
+        "bytes": 981435
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/原地专心玩魔方.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/原地专心玩魔方.webm",
+        "gitBlobSha": "d2730f4c17e8ccb793973929c237b4fb32d8e3fc",
+        "bytes": 442948
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/原地小憩沉眠.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/原地小憩沉眠.webm",
+        "gitBlobSha": "9b258545a841647a11ffdc5882ad8b2bb808a343",
+        "bytes": 433769
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/原地左转奔跑.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/原地左转奔跑.webm",
+        "gitBlobSha": "d9b6611b32065a7937878a5467cd84d47a1be543",
+        "bytes": 614526
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/原地敲击桌面互动.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/原地敲击桌面互动.webm",
+        "gitBlobSha": "c7e55e6f83c1847a45d81d60c04de2a167680c92",
+        "bytes": 403033
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/原地漂浮踏步.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/原地漂浮踏步.webm",
+        "gitBlobSha": "d700e4fdd38e8795b88f6d81418e8fc196fe80ed",
+        "bytes": 591446
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/原地跳跃抓碎头顶物品.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/原地跳跃抓碎头顶物品.webm",
+        "gitBlobSha": "b45cdcb57340f12fff1b40ea9391bdd1d3c2845a",
+        "bytes": 619282
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/原地蹲下玩玩具汽车.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/原地蹲下玩玩具汽车.webm",
+        "gitBlobSha": "9a4ba01b33e6fba841a99ebf55631433651cdcd3",
+        "bytes": 505114
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/原地重力下蹲压缩.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/原地重力下蹲压缩.webm",
+        "gitBlobSha": "67acb52f7e7c49e77b000730b3bff9a65fb21a10",
+        "bytes": 215047
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/变鸽子.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/变鸽子.webm",
+        "gitBlobSha": "150abd9011b3c9fec7229fa2b30418958040a7ad",
+        "bytes": 509462
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/可爱宅舞.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/可爱宅舞.webm",
+        "gitBlobSha": "0b96ac0de6fa7afe72f256148dd719698769043c",
+        "bytes": 576307
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/吃Token.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/吃Token.webm",
+        "gitBlobSha": "619722b50ea75fcb3c18b3de5d996ce4e87a7893",
+        "bytes": 574754
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/吃冰淇淋融化.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/吃冰淇淋融化.webm",
+        "gitBlobSha": "c696cf2f61366cd9ba973aae1526dbf920c3d85d",
+        "bytes": 509816
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/吃午餐.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/吃午餐.webm",
+        "gitBlobSha": "83618038d3d4fe98b9f42d0fd7ae1b7a24f686b3",
+        "bytes": 495122
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/吃大闸蟹.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/吃大闸蟹.webm",
+        "gitBlobSha": "f8e0774d6b4b38f27adfecdfc591dd40812f5e38",
+        "bytes": 545299
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/吃年糕.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/吃年糕.webm",
+        "gitBlobSha": "7b4473435dfa219428f5bb2e1dbf34fe83b59190",
+        "bytes": 451257
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/吃早餐.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/吃早餐.webm",
+        "gitBlobSha": "6691dc43900e3f906b6576cc6eb7e0f23b0e2702",
+        "bytes": 441484
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/吃晚餐.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/吃晚餐.webm",
+        "gitBlobSha": "14f9eee2a361a592fd55c95979f5810b7b8dcd03",
+        "bytes": 741965
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/吃汤圆.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/吃汤圆.webm",
+        "gitBlobSha": "eac65950006cf0814e6e4f1ebe1c73b9e36a8791",
+        "bytes": 437152
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/吃白饭.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/吃白饭.webm",
+        "gitBlobSha": "0f400023c2f036e6edc28033083d49f68686d347",
+        "bytes": 459590
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/吃粽子.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/吃粽子.webm",
+        "gitBlobSha": "6ad057c473cbaf209de8d4ec91781d9bc759cda9",
+        "bytes": 446268
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/吃糖葫芦.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/吃糖葫芦.webm",
+        "gitBlobSha": "def3fa70022f6b728f0d0b3ebbfcff601c406c57",
+        "bytes": 469809
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/吃腊八粥.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/吃腊八粥.webm",
+        "gitBlobSha": "c20156c0de0863832d7bc10fb65153559de388be",
+        "bytes": 460665
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/吃西瓜.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/吃西瓜.webm",
+        "gitBlobSha": "ffa2c36e86e9056a7e965c73364a50c1fd8bb192",
+        "bytes": 482918
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/吃重阳糕.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/吃重阳糕.webm",
+        "gitBlobSha": "cc54c1f82bb5c4b8e366fba6433b6534bedcf4fc",
+        "bytes": 468951
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/吃长寿面.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/吃长寿面.webm",
+        "gitBlobSha": "ac71008a07686f858627e7f7f69e77448941bb97",
+        "bytes": 489038
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/吃青团.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/吃青团.webm",
+        "gitBlobSha": "00031236d476501f71b3f03f978a4b79952e5097",
+        "bytes": 377524
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/吃饺子.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/吃饺子.webm",
+        "gitBlobSha": "2dee24954bae172a20ef1e0d44b34d7105872851",
+        "bytes": 554828
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/吹气球.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/吹气球.webm",
+        "gitBlobSha": "3a632cd91c409ed1b889f0313ae1394113c0d7c0",
+        "bytes": 751040
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/吹笛子.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/吹笛子.webm",
+        "gitBlobSha": "fd57f820116b72c35e7b50ee3cdb5c20e775062b",
+        "bytes": 768350
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/哈欠连天.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/哈欠连天.webm",
+        "gitBlobSha": "63da356fa373ecf6256bc8f4deb9709577e2f18e",
+        "bytes": 424352
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/堆雪人.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/堆雪人.webm",
+        "gitBlobSha": "ce8e8be3b7e5c0dfbdebf15f5a8fd70e2836ee0f",
+        "bytes": 519196
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/大口吃零食.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/大口吃零食.webm",
+        "gitBlobSha": "ab57e48e28d0e0fb832549e1b546bed28f2eb3df",
+        "bytes": 806998
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/女仆屈膝礼仪.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/女仆屈膝礼仪.webm",
+        "gitBlobSha": "0bcac6ada85e78527fcce020db73bf0b6eff41d3",
+        "bytes": 365712
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/小幅度原地360度旋转展示.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/小幅度原地360度旋转展示.webm",
+        "gitBlobSha": "915feb453f11f0267693109b3e847a850cdb1ec7",
+        "bytes": 585715
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/小提琴演奏.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/小提琴演奏.webm",
+        "gitBlobSha": "2de1533cd0f2d7a72e0099f9ac6f816353f3912f",
+        "bytes": 605350
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/工作状态-原地踱步张望.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/工作状态-原地踱步张望.webm",
+        "gitBlobSha": "7b9459a1efdf4155f5ddd3beb07936fcc5c8a7ed",
+        "bytes": 471725
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/工作状态-垂头叹气冒汗.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/工作状态-垂头叹气冒汗.webm",
+        "gitBlobSha": "653ef82b71d52faa1d26a014afb7764f778926f7",
+        "bytes": 198937
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/工作状态-忙碌点按.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/工作状态-忙碌点按.webm",
+        "gitBlobSha": "32bc6dbf65a7f1afa403520c3dd37980ca353e5f",
+        "bytes": 475613
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/工作状态-思考冒泡.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/工作状态-思考冒泡.webm",
+        "gitBlobSha": "51bc3bb2fb894e6f1499974d62a3d93592f91859",
+        "bytes": 408849
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/工作状态-清点归档.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/工作状态-清点归档.webm",
+        "gitBlobSha": "af694fb0013cbc0aa5313ab0221f417b4efdb14a",
+        "bytes": 362510
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/工作状态-雀跃庆祝.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/工作状态-雀跃庆祝.webm",
+        "gitBlobSha": "edd6645a8ee9b222c720fb20cfff3b715e92db9b",
+        "bytes": 488024
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/待机呼吸休闲.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/待机呼吸休闲.webm",
+        "gitBlobSha": "fd64a428a2be1d3b4ff6cd7f9867dfe978ba0bbb",
+        "bytes": 441437
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/悠闲哼歌.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/悠闲哼歌.webm",
+        "gitBlobSha": "01bd5c202583ef634de424904e76f2906f7289d3",
+        "bytes": 584008
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/扑克魔术.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/扑克魔术.webm",
+        "gitBlobSha": "2e33efead726dff587fa0ca46adef5ecb5d0b7c9",
+        "bytes": 461997
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/打瞌睡被惊醒.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/打瞌睡被惊醒.webm",
+        "gitBlobSha": "e5c5759895274e1f7c4017dce9c9c51beec44e51",
+        "bytes": 454028
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/抽陀螺.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/抽陀螺.webm",
+        "gitBlobSha": "1a0cd6a9447c3a36b068fb9db46fd56447520a73",
+        "bytes": 521068
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/拆礼物.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/拆礼物.webm",
+        "gitBlobSha": "01445f708db3e19b707e6d1609902dd4da9c0ade",
+        "bytes": 517803
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/插茱萸赏菊.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/插茱萸赏菊.webm",
+        "gitBlobSha": "7e2976e00317dfd681279890ab48f3a68ceb03f9",
+        "bytes": 486358
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/摇扇纳凉.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/摇扇纳凉.webm",
+        "gitBlobSha": "bbb9b8344e6c30579c967a27831ad85f19db1002",
+        "bytes": 510022
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/撸猫.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/撸猫.webm",
+        "gitBlobSha": "466044675ea20b863db850373aab8a6c2b7c11a8",
+        "bytes": 348432
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/收红包.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/收红包.webm",
+        "gitBlobSha": "ca07f8792572e3b182b2077b768fbcf9ece4ee91",
+        "bytes": 472277
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/放孔明灯.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/放孔明灯.webm",
+        "gitBlobSha": "ca554c0df5fb9cd2f35ad9eb54957b9e1dfcd2cf",
+        "bytes": 594144
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/放河灯.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/放河灯.webm",
+        "gitBlobSha": "2827fd308393a036201bc85dca0a9b2cc9f3ee13",
+        "bytes": 379124
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/放烟花.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/放烟花.webm",
+        "gitBlobSha": "3a1bcd38b00b170b619e42b76ab8c9ea9225903a",
+        "bytes": 1330462
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/放风筝.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/放风筝.webm",
+        "gitBlobSha": "000eba2f49a11beb21aa63ddc64c4d1522afa27e",
+        "bytes": 770134
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/整体换装试色.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/整体换装试色.webm",
+        "gitBlobSha": "abd198a8d1e4e67f09d86e4a5bdc99859e61098e",
+        "bytes": 524724
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/是啊，吃什么.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/是啊，吃什么.webm",
+        "gitBlobSha": "e347b7574b4dca0d65bdd34bf9af0a176fbb15a1",
+        "bytes": 588163
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/晨间刷牙.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/晨间刷牙.webm",
+        "gitBlobSha": "66581dbd88c72bcba960d551b9cdcb0239da7d2f",
+        "bytes": 425460
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/涮火锅.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/涮火锅.webm",
+        "gitBlobSha": "d3e99cf6d8694b5e83a3957793f8fc7a0fc2cc2a",
+        "bytes": 466547
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/深度思考碎碎念.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/深度思考碎碎念.webm",
+        "gitBlobSha": "5a40d5bfdfa818a1df37cef6405f10cd8b71961c",
+        "bytes": 433031
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/点击回应-傲娇生气.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/点击回应-傲娇生气.webm",
+        "gitBlobSha": "77c6461a1f8ced2dc7272f44192f37dd682becf8",
+        "bytes": 392336
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/点击回应-元气挥手.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/点击回应-元气挥手.webm",
+        "gitBlobSha": "f60556f06c386cfb569f76b0cfa2e34e34fdc362",
+        "bytes": 421669
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/点击回应-害羞惊讶.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/点击回应-害羞惊讶.webm",
+        "gitBlobSha": "499b73c42844bd0268bff9044e0523fcae1c1b27",
+        "bytes": 538281
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/点击回应-开心跃动.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/点击回应-开心跃动.webm",
+        "gitBlobSha": "fb614abf8d19c650fb5bd4727b2585282733a996",
+        "bytes": 538110
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/点击回应-挠痒咯咯笑.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/点击回应-挠痒咯咯笑.webm",
+        "gitBlobSha": "d896eb9a91ca8eafa7f0af35a3073dc04a397742",
+        "bytes": 425393
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/照镜子.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/照镜子.webm",
+        "gitBlobSha": "f9ead4a5e1ab6cb702bd349794264f398f470867",
+        "bytes": 504127
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/玩水枪.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/玩水枪.webm",
+        "gitBlobSha": "70cabac39a03ab1738540fdb9a9581ae523de463",
+        "bytes": 523346
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/玩游戏气急败坏.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/玩游戏气急败坏.webm",
+        "gitBlobSha": "a3375c2980634529e84ba2ee61a57776ea8205e9",
+        "bytes": 525022
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/用鲸鱼尾巴拍打地面.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/用鲸鱼尾巴拍打地面.webm",
+        "gitBlobSha": "822a7c41f795906ca46e2f1757c63e6633d39214",
+        "bytes": 352213
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/碎碎念-发呆碎碎念.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/碎碎念-发呆碎碎念.webm",
+        "gitBlobSha": "4afcaf7459e3b27b30252648b388e9cd3296807f",
+        "bytes": 326752
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/碎碎念-对屏碎碎念.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/碎碎念-对屏碎碎念.webm",
+        "gitBlobSha": "8b7b357f01a9e5cf733dce28f32e8f94be4a030d",
+        "bytes": 364946
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/碎碎念-擦桌碎碎念.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/碎碎念-擦桌碎碎念.webm",
+        "gitBlobSha": "343513cf0d5583b5f476080d5082f3f5e01588b8",
+        "bytes": 350436
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/穿针乞巧.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/穿针乞巧.webm",
+        "gitBlobSha": "f78881f4e996d5160ce4910ed06646b5b9d5bd60",
+        "bytes": 480887
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/舞狮头.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/舞狮头.webm",
+        "gitBlobSha": "b16d549ec2572f5d693bdc7691e3247544ccb88e",
+        "bytes": 632110
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/荡秋千.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/荡秋千.webm",
+        "gitBlobSha": "41c61429405139344b13875135468edb25b6f28e",
+        "bytes": 644126
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/萌化小幽灵.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/萌化小幽灵.webm",
+        "gitBlobSha": "cae5ebbca8634591a49daf5f7a4bc56fa369a7bf",
+        "bytes": 421990
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/蓝鲸现世.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/蓝鲸现世.webm",
+        "gitBlobSha": "eb62a155d056d35a16b1d4e961d5ff10c109f684",
+        "bytes": 482896
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/蝴蝶蜜蜂环绕头顶开花.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/蝴蝶蜜蜂环绕头顶开花.webm",
+        "gitBlobSha": "6f39bb90fd8349d5f23d0912a4bc01c2c06470f2",
+        "bytes": 852828
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/螃蟹走路.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/螃蟹走路.webm",
+        "gitBlobSha": "6ff80136295718a2e866e70d90fa8a0bada333dd",
+        "bytes": 596902
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/被吓一跳.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/被吓一跳.webm",
+        "gitBlobSha": "a7afe71ed72990bbace7026abb1ef69ae7e3706c",
+        "bytes": 282771
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/被落叶淹没.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/被落叶淹没.webm",
+        "gitBlobSha": "1e35fff171fb8856bd89de91329ef357c7d33e65",
+        "bytes": 766832
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/被鼠标拖拽悬空反馈.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/被鼠标拖拽悬空反馈.webm",
+        "gitBlobSha": "728f04b2997aa9ec4bdb87d1b9b14d7910bc7fd6",
+        "bytes": 464764
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/装点圣诞树.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/装点圣诞树.webm",
+        "gitBlobSha": "1217c9625c3a682732bc4398108ce7c4ae2a07f6",
+        "bytes": 818456
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/讨糖南瓜灯.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/讨糖南瓜灯.webm",
+        "gitBlobSha": "3a17ac14fba449e8d7bb0e0d38085825b068a9e1",
+        "bytes": 483293
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/超大伸懒腰.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/超大伸懒腰.webm",
+        "gitBlobSha": "689e04f120f9f678a9424dac6cadf4b6a0bd6e6b",
+        "bytes": 396987
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/踢毽子.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/踢毽子.webm",
+        "gitBlobSha": "1a0586564e58e6a60e4f151d2bf161e975673e30",
+        "bytes": 531015
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/轻快摇摆舞.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/轻快摇摆舞.webm",
+        "gitBlobSha": "596558b14cacee0d96f5e9d3942fd5731be49718",
+        "bytes": 542928
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/轻快记录.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/轻快记录.webm",
+        "gitBlobSha": "d0c1bc670b74450e53019b36366edbe54056a363",
+        "bytes": 447726
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/骑木马.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/骑木马.webm",
+        "gitBlobSha": "b578f4c951a11c3fe97bdbd609315d3e72fe6827",
+        "bytes": 697580
+      },
+      {
+        "upstream": "dsh-pet/assets/webm/鲸鱼吐泡泡特效.webm",
+        "downstream": "code/BigBlueFish.Windows/assets/fish/compat/鲸鱼吐泡泡特效.webm",
+        "gitBlobSha": "4848e28f2c4fde323025a03a7980b75f1c56f98e",
+        "bytes": 452096
+      }
+    ],
+    "samples": [
+      {
+        "upstream": {
+          "repo": "PC2005-cloud/dsh-pet",
+          "commit": "eb7426771342413cdbf55298dae576b1d8137f52",
+          "path": "dsh-pet/assets/webm/三球抛接.webm",
+          "url": "https://raw.githubusercontent.com/PC2005-cloud/dsh-pet/eb7426771342413cdbf55298dae576b1d8137f52/dsh-pet/assets/webm/%E4%B8%89%E7%90%83%E6%8A%9B%E6%8E%A5.webm",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-20T15:59:28.417Z",
+          "bodyType": "animation",
+          "bytes": 549316,
+          "sourceSha256": "a64c08a4b7e5c3549616faf9dcd418e17f156b4b72d906646e4d57067df70d23",
+          "gitBlobSha": "a76228cb5f42fa159e3ec565b8ef969a7d289dca"
+        },
+        "downstream": {
+          "repo": "Bai-Cute/big-blue-fish-desktop-pet",
+          "commit": "aebf9cc56f7dcae0c23e2c90952cd18c025282d7",
+          "path": "code/BigBlueFish.Windows/assets/fish/compat/三球抛接.webm",
+          "url": "https://raw.githubusercontent.com/Bai-Cute/big-blue-fish-desktop-pet/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/code/BigBlueFish.Windows/assets/fish/compat/%E4%B8%89%E7%90%83%E6%8A%9B%E6%8E%A5.webm",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-20T15:59:28.539Z",
+          "bodyType": "animation",
+          "bytes": 549316,
+          "sourceSha256": "a64c08a4b7e5c3549616faf9dcd418e17f156b4b72d906646e4d57067df70d23",
+          "gitBlobSha": "a76228cb5f42fa159e3ec565b8ef969a7d289dca"
+        }
+      },
+      {
+        "upstream": {
+          "repo": "PC2005-cloud/dsh-pet",
+          "commit": "eb7426771342413cdbf55298dae576b1d8137f52",
+          "path": "dsh-pet/assets/webm/下五子棋.webm",
+          "url": "https://raw.githubusercontent.com/PC2005-cloud/dsh-pet/eb7426771342413cdbf55298dae576b1d8137f52/dsh-pet/assets/webm/%E4%B8%8B%E4%BA%94%E5%AD%90%E6%A3%8B.webm",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-20T15:59:28.517Z",
+          "bodyType": "animation",
+          "bytes": 514704,
+          "sourceSha256": "0802b6b808f44846b3d194a857fb0ffd38bdea2d7cdb91c9e5e6f311e44f1953",
+          "gitBlobSha": "63295b32e6a0522dac3840abb74a5af7b1431a08"
+        },
+        "downstream": {
+          "repo": "Bai-Cute/big-blue-fish-desktop-pet",
+          "commit": "aebf9cc56f7dcae0c23e2c90952cd18c025282d7",
+          "path": "code/BigBlueFish.Windows/assets/fish/compat/下五子棋.webm",
+          "url": "https://raw.githubusercontent.com/Bai-Cute/big-blue-fish-desktop-pet/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/code/BigBlueFish.Windows/assets/fish/compat/%E4%B8%8B%E4%BA%94%E5%AD%90%E6%A3%8B.webm",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-20T15:59:29.322Z",
+          "bodyType": "animation",
+          "bytes": 514704,
+          "sourceSha256": "0802b6b808f44846b3d194a857fb0ffd38bdea2d7cdb91c9e5e6f311e44f1953",
+          "gitBlobSha": "63295b32e6a0522dac3840abb74a5af7b1431a08"
+        }
+      }
+    ]
+  },
+  "android": {
+    "comparison": {
+      "upstream": "593b9b0785f883630243ef6213542f4603ef69ad",
+      "android": "270428f49b9b62b99cbf020a868430010af6759b",
+      "upstreamVideoCount": 106,
+      "androidVideoCount": 114,
+      "exactMatches": 106
+    },
+    "matchedByGitBlob": [
+      {
+        "sourcePath": "dsh-pet/assets/webm/三球抛接.webm",
+        "androidPath": "app/src/main/assets/webm/三球抛接.webm",
+        "gitBlobSha": "a76228cb5f42fa159e3ec565b8ef969a7d289dca",
+        "size": 549316
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/下五子棋.webm",
+        "androidPath": "app/src/main/assets/webm/下五子棋.webm",
+        "gitBlobSha": "63295b32e6a0522dac3840abb74a5af7b1431a08",
+        "size": 514704
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/东张西望.webm",
+        "androidPath": "app/src/main/assets/webm/东张西望.webm",
+        "gitBlobSha": "3ba4edb2cc647c51edd41b5a6c71eeee8c418ed0",
+        "size": 427005
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/中秋赏月吃月饼.webm",
+        "androidPath": "app/src/main/assets/webm/中秋赏月吃月饼.webm",
+        "gitBlobSha": "48beff57ddc5b3c7e1c0387348e33ce8e3a5b819",
+        "size": 512341
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/优雅女仆舞.webm",
+        "androidPath": "app/src/main/assets/webm/优雅女仆舞.webm",
+        "gitBlobSha": "390c504dfb0b56bb647f0253782a91ee705f8933",
+        "size": 578915
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/余额-分文不剩.webm",
+        "androidPath": "app/src/main/assets/webm/余额-分文不剩.webm",
+        "gitBlobSha": "013b69906a5c56b219bbd74986f973eea53e3675",
+        "size": 490318
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/余额-数金皱眉.webm",
+        "androidPath": "app/src/main/assets/webm/余额-数金皱眉.webm",
+        "gitBlobSha": "6c1dac8e3edddc02f4988e1c38e289177c335ecf",
+        "size": 319065
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/余额-袋空如洗.webm",
+        "androidPath": "app/src/main/assets/webm/余额-袋空如洗.webm",
+        "gitBlobSha": "a85eb2206596c7031fbc64146df09f6e7b137aae",
+        "size": 383104
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/余额-金袋叮当.webm",
+        "androidPath": "app/src/main/assets/webm/余额-金袋叮当.webm",
+        "gitBlobSha": "1bbe074a0bef1a7ef80508b3033269885edb6b2c",
+        "size": 530955
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/余额-钱袋如常.webm",
+        "androidPath": "app/src/main/assets/webm/余额-钱袋如常.webm",
+        "gitBlobSha": "a52b686a7a3d801a98cccb81534eae2bfa7ac2b3",
+        "size": 387407
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/余额-钱袋满溢.webm",
+        "androidPath": "app/src/main/assets/webm/余额-钱袋满溢.webm",
+        "gitBlobSha": "34212594a3b9fc03daf2ae742763e62dfe4b034f",
+        "size": 622258
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/偷吃零食被抓住.webm",
+        "androidPath": "app/src/main/assets/webm/偷吃零食被抓住.webm",
+        "gitBlobSha": "9f50ed6c3ba1a3f96b614e34ecaaf067ef6ab9cd",
+        "size": 432201
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/写代码.webm",
+        "androidPath": "app/src/main/assets/webm/写代码.webm",
+        "gitBlobSha": "47902f235c11fadd22134dd71d2fbcc3a36a13fc",
+        "size": 383960
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/写福字.webm",
+        "androidPath": "app/src/main/assets/webm/写福字.webm",
+        "gitBlobSha": "b7aa9ce458b6e8d1c9513b5e4b059a07ca143f88",
+        "size": 500314
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/凭空生花.webm",
+        "androidPath": "app/src/main/assets/webm/凭空生花.webm",
+        "gitBlobSha": "085fe6d74ddfc268670be32b7c3f78c6806b68f1",
+        "size": 620252
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/动物环绕.webm",
+        "androidPath": "app/src/main/assets/webm/动物环绕.webm",
+        "gitBlobSha": "44722e0afb7ef4c1cd85c5c98eadd9b4ade2fea9",
+        "size": 981435
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/原地专心玩魔方.webm",
+        "androidPath": "app/src/main/assets/webm/原地专心玩魔方.webm",
+        "gitBlobSha": "d2730f4c17e8ccb793973929c237b4fb32d8e3fc",
+        "size": 442948
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/原地小憩沉眠.webm",
+        "androidPath": "app/src/main/assets/webm/原地小憩沉眠.webm",
+        "gitBlobSha": "9b258545a841647a11ffdc5882ad8b2bb808a343",
+        "size": 433769
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/原地左转奔跑.webm",
+        "androidPath": "app/src/main/assets/webm/原地左转奔跑.webm",
+        "gitBlobSha": "d9b6611b32065a7937878a5467cd84d47a1be543",
+        "size": 614526
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/原地敲击桌面互动.webm",
+        "androidPath": "app/src/main/assets/webm/原地敲击桌面互动.webm",
+        "gitBlobSha": "c7e55e6f83c1847a45d81d60c04de2a167680c92",
+        "size": 403033
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/原地漂浮踏步.webm",
+        "androidPath": "app/src/main/assets/webm/原地漂浮踏步.webm",
+        "gitBlobSha": "d700e4fdd38e8795b88f6d81418e8fc196fe80ed",
+        "size": 591446
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/原地跳跃抓碎头顶物品.webm",
+        "androidPath": "app/src/main/assets/webm/原地跳跃抓碎头顶物品.webm",
+        "gitBlobSha": "b45cdcb57340f12fff1b40ea9391bdd1d3c2845a",
+        "size": 619282
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/原地蹲下玩玩具汽车.webm",
+        "androidPath": "app/src/main/assets/webm/原地蹲下玩玩具汽车.webm",
+        "gitBlobSha": "9a4ba01b33e6fba841a99ebf55631433651cdcd3",
+        "size": 505114
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/原地重力下蹲压缩.webm",
+        "androidPath": "app/src/main/assets/webm/原地重力下蹲压缩.webm",
+        "gitBlobSha": "67acb52f7e7c49e77b000730b3bff9a65fb21a10",
+        "size": 215047
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/变鸽子.webm",
+        "androidPath": "app/src/main/assets/webm/变鸽子.webm",
+        "gitBlobSha": "150abd9011b3c9fec7229fa2b30418958040a7ad",
+        "size": 509462
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/可爱宅舞.webm",
+        "androidPath": "app/src/main/assets/webm/可爱宅舞.webm",
+        "gitBlobSha": "0b96ac0de6fa7afe72f256148dd719698769043c",
+        "size": 576307
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/吃Token.webm",
+        "androidPath": "app/src/main/assets/webm/吃Token.webm",
+        "gitBlobSha": "619722b50ea75fcb3c18b3de5d996ce4e87a7893",
+        "size": 574754
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/吃冰淇淋融化.webm",
+        "androidPath": "app/src/main/assets/webm/吃冰淇淋融化.webm",
+        "gitBlobSha": "c696cf2f61366cd9ba973aae1526dbf920c3d85d",
+        "size": 509816
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/吃午餐.webm",
+        "androidPath": "app/src/main/assets/webm/吃午餐.webm",
+        "gitBlobSha": "83618038d3d4fe98b9f42d0fd7ae1b7a24f686b3",
+        "size": 495122
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/吃大闸蟹.webm",
+        "androidPath": "app/src/main/assets/webm/吃大闸蟹.webm",
+        "gitBlobSha": "f8e0774d6b4b38f27adfecdfc591dd40812f5e38",
+        "size": 545299
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/吃年糕.webm",
+        "androidPath": "app/src/main/assets/webm/吃年糕.webm",
+        "gitBlobSha": "7b4473435dfa219428f5bb2e1dbf34fe83b59190",
+        "size": 451257
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/吃早餐.webm",
+        "androidPath": "app/src/main/assets/webm/吃早餐.webm",
+        "gitBlobSha": "6691dc43900e3f906b6576cc6eb7e0f23b0e2702",
+        "size": 441484
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/吃晚餐.webm",
+        "androidPath": "app/src/main/assets/webm/吃晚餐.webm",
+        "gitBlobSha": "14f9eee2a361a592fd55c95979f5810b7b8dcd03",
+        "size": 741965
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/吃汤圆.webm",
+        "androidPath": "app/src/main/assets/webm/吃汤圆.webm",
+        "gitBlobSha": "eac65950006cf0814e6e4f1ebe1c73b9e36a8791",
+        "size": 437152
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/吃白饭.webm",
+        "androidPath": "app/src/main/assets/webm/吃白饭.webm",
+        "gitBlobSha": "0f400023c2f036e6edc28033083d49f68686d347",
+        "size": 459590
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/吃粽子.webm",
+        "androidPath": "app/src/main/assets/webm/吃粽子.webm",
+        "gitBlobSha": "6ad057c473cbaf209de8d4ec91781d9bc759cda9",
+        "size": 446268
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/吃糖葫芦.webm",
+        "androidPath": "app/src/main/assets/webm/吃糖葫芦.webm",
+        "gitBlobSha": "def3fa70022f6b728f0d0b3ebbfcff601c406c57",
+        "size": 469809
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/吃腊八粥.webm",
+        "androidPath": "app/src/main/assets/webm/吃腊八粥.webm",
+        "gitBlobSha": "c20156c0de0863832d7bc10fb65153559de388be",
+        "size": 460665
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/吃西瓜.webm",
+        "androidPath": "app/src/main/assets/webm/吃西瓜.webm",
+        "gitBlobSha": "ffa2c36e86e9056a7e965c73364a50c1fd8bb192",
+        "size": 482918
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/吃重阳糕.webm",
+        "androidPath": "app/src/main/assets/webm/吃重阳糕.webm",
+        "gitBlobSha": "cc54c1f82bb5c4b8e366fba6433b6534bedcf4fc",
+        "size": 468951
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/吃长寿面.webm",
+        "androidPath": "app/src/main/assets/webm/吃长寿面.webm",
+        "gitBlobSha": "ac71008a07686f858627e7f7f69e77448941bb97",
+        "size": 489038
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/吃青团.webm",
+        "androidPath": "app/src/main/assets/webm/吃青团.webm",
+        "gitBlobSha": "00031236d476501f71b3f03f978a4b79952e5097",
+        "size": 377524
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/吃饺子.webm",
+        "androidPath": "app/src/main/assets/webm/吃饺子.webm",
+        "gitBlobSha": "2dee24954bae172a20ef1e0d44b34d7105872851",
+        "size": 554828
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/吹气球.webm",
+        "androidPath": "app/src/main/assets/webm/吹气球.webm",
+        "gitBlobSha": "3a632cd91c409ed1b889f0313ae1394113c0d7c0",
+        "size": 751040
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/吹笛子.webm",
+        "androidPath": "app/src/main/assets/webm/吹笛子.webm",
+        "gitBlobSha": "fd57f820116b72c35e7b50ee3cdb5c20e775062b",
+        "size": 768350
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/哈欠连天.webm",
+        "androidPath": "app/src/main/assets/webm/哈欠连天.webm",
+        "gitBlobSha": "63da356fa373ecf6256bc8f4deb9709577e2f18e",
+        "size": 424352
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/堆雪人.webm",
+        "androidPath": "app/src/main/assets/webm/堆雪人.webm",
+        "gitBlobSha": "ce8e8be3b7e5c0dfbdebf15f5a8fd70e2836ee0f",
+        "size": 519196
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/大口吃零食.webm",
+        "androidPath": "app/src/main/assets/webm/大口吃零食.webm",
+        "gitBlobSha": "ab57e48e28d0e0fb832549e1b546bed28f2eb3df",
+        "size": 806998
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/女仆屈膝礼仪.webm",
+        "androidPath": "app/src/main/assets/webm/女仆屈膝礼仪.webm",
+        "gitBlobSha": "0bcac6ada85e78527fcce020db73bf0b6eff41d3",
+        "size": 365712
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/小幅度原地360度旋转展示.webm",
+        "androidPath": "app/src/main/assets/webm/小幅度原地360度旋转展示.webm",
+        "gitBlobSha": "915feb453f11f0267693109b3e847a850cdb1ec7",
+        "size": 585715
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/小提琴演奏.webm",
+        "androidPath": "app/src/main/assets/webm/小提琴演奏.webm",
+        "gitBlobSha": "2de1533cd0f2d7a72e0099f9ac6f816353f3912f",
+        "size": 605350
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/工作状态-原地踱步张望.webm",
+        "androidPath": "app/src/main/assets/webm/工作状态-原地踱步张望.webm",
+        "gitBlobSha": "7b9459a1efdf4155f5ddd3beb07936fcc5c8a7ed",
+        "size": 471725
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/工作状态-垂头叹气冒汗.webm",
+        "androidPath": "app/src/main/assets/webm/工作状态-垂头叹气冒汗.webm",
+        "gitBlobSha": "653ef82b71d52faa1d26a014afb7764f778926f7",
+        "size": 198937
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/工作状态-忙碌点按.webm",
+        "androidPath": "app/src/main/assets/webm/工作状态-忙碌点按.webm",
+        "gitBlobSha": "32bc6dbf65a7f1afa403520c3dd37980ca353e5f",
+        "size": 475613
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/工作状态-思考冒泡.webm",
+        "androidPath": "app/src/main/assets/webm/工作状态-思考冒泡.webm",
+        "gitBlobSha": "51bc3bb2fb894e6f1499974d62a3d93592f91859",
+        "size": 408849
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/工作状态-清点归档.webm",
+        "androidPath": "app/src/main/assets/webm/工作状态-清点归档.webm",
+        "gitBlobSha": "af694fb0013cbc0aa5313ab0221f417b4efdb14a",
+        "size": 362510
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/工作状态-雀跃庆祝.webm",
+        "androidPath": "app/src/main/assets/webm/工作状态-雀跃庆祝.webm",
+        "gitBlobSha": "edd6645a8ee9b222c720fb20cfff3b715e92db9b",
+        "size": 488024
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/待机呼吸休闲.webm",
+        "androidPath": "app/src/main/assets/webm/待机呼吸休闲.webm",
+        "gitBlobSha": "fd64a428a2be1d3b4ff6cd7f9867dfe978ba0bbb",
+        "size": 441437
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/悠闲哼歌.webm",
+        "androidPath": "app/src/main/assets/webm/悠闲哼歌.webm",
+        "gitBlobSha": "01bd5c202583ef634de424904e76f2906f7289d3",
+        "size": 584008
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/扑克魔术.webm",
+        "androidPath": "app/src/main/assets/webm/扑克魔术.webm",
+        "gitBlobSha": "2e33efead726dff587fa0ca46adef5ecb5d0b7c9",
+        "size": 461997
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/打瞌睡被惊醒.webm",
+        "androidPath": "app/src/main/assets/webm/打瞌睡被惊醒.webm",
+        "gitBlobSha": "e5c5759895274e1f7c4017dce9c9c51beec44e51",
+        "size": 454028
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/抽陀螺.webm",
+        "androidPath": "app/src/main/assets/webm/抽陀螺.webm",
+        "gitBlobSha": "1a0cd6a9447c3a36b068fb9db46fd56447520a73",
+        "size": 521068
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/拆礼物.webm",
+        "androidPath": "app/src/main/assets/webm/拆礼物.webm",
+        "gitBlobSha": "01445f708db3e19b707e6d1609902dd4da9c0ade",
+        "size": 517803
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/插茱萸赏菊.webm",
+        "androidPath": "app/src/main/assets/webm/插茱萸赏菊.webm",
+        "gitBlobSha": "7e2976e00317dfd681279890ab48f3a68ceb03f9",
+        "size": 486358
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/摇扇纳凉.webm",
+        "androidPath": "app/src/main/assets/webm/摇扇纳凉.webm",
+        "gitBlobSha": "bbb9b8344e6c30579c967a27831ad85f19db1002",
+        "size": 510022
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/撸猫.webm",
+        "androidPath": "app/src/main/assets/webm/撸猫.webm",
+        "gitBlobSha": "466044675ea20b863db850373aab8a6c2b7c11a8",
+        "size": 348432
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/收红包.webm",
+        "androidPath": "app/src/main/assets/webm/收红包.webm",
+        "gitBlobSha": "ca07f8792572e3b182b2077b768fbcf9ece4ee91",
+        "size": 472277
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/放孔明灯.webm",
+        "androidPath": "app/src/main/assets/webm/放孔明灯.webm",
+        "gitBlobSha": "ca554c0df5fb9cd2f35ad9eb54957b9e1dfcd2cf",
+        "size": 594144
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/放河灯.webm",
+        "androidPath": "app/src/main/assets/webm/放河灯.webm",
+        "gitBlobSha": "2827fd308393a036201bc85dca0a9b2cc9f3ee13",
+        "size": 379124
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/放烟花.webm",
+        "androidPath": "app/src/main/assets/webm/放烟花.webm",
+        "gitBlobSha": "3a1bcd38b00b170b619e42b76ab8c9ea9225903a",
+        "size": 1330462
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/放风筝.webm",
+        "androidPath": "app/src/main/assets/webm/放风筝.webm",
+        "gitBlobSha": "000eba2f49a11beb21aa63ddc64c4d1522afa27e",
+        "size": 770134
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/整体换装试色.webm",
+        "androidPath": "app/src/main/assets/webm/整体换装试色.webm",
+        "gitBlobSha": "abd198a8d1e4e67f09d86e4a5bdc99859e61098e",
+        "size": 524724
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/是啊，吃什么.webm",
+        "androidPath": "app/src/main/assets/webm/是啊，吃什么.webm",
+        "gitBlobSha": "e347b7574b4dca0d65bdd34bf9af0a176fbb15a1",
+        "size": 588163
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/晨间刷牙.webm",
+        "androidPath": "app/src/main/assets/webm/晨间刷牙.webm",
+        "gitBlobSha": "66581dbd88c72bcba960d551b9cdcb0239da7d2f",
+        "size": 425460
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/涮火锅.webm",
+        "androidPath": "app/src/main/assets/webm/涮火锅.webm",
+        "gitBlobSha": "d3e99cf6d8694b5e83a3957793f8fc7a0fc2cc2a",
+        "size": 466547
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/深度思考碎碎念.webm",
+        "androidPath": "app/src/main/assets/webm/深度思考碎碎念.webm",
+        "gitBlobSha": "5a40d5bfdfa818a1df37cef6405f10cd8b71961c",
+        "size": 433031
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/点击回应-傲娇生气.webm",
+        "androidPath": "app/src/main/assets/webm/点击回应-傲娇生气.webm",
+        "gitBlobSha": "77c6461a1f8ced2dc7272f44192f37dd682becf8",
+        "size": 392336
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/点击回应-元气挥手.webm",
+        "androidPath": "app/src/main/assets/webm/点击回应-元气挥手.webm",
+        "gitBlobSha": "f60556f06c386cfb569f76b0cfa2e34e34fdc362",
+        "size": 421669
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/点击回应-害羞惊讶.webm",
+        "androidPath": "app/src/main/assets/webm/点击回应-害羞惊讶.webm",
+        "gitBlobSha": "499b73c42844bd0268bff9044e0523fcae1c1b27",
+        "size": 538281
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/点击回应-开心跃动.webm",
+        "androidPath": "app/src/main/assets/webm/点击回应-开心跃动.webm",
+        "gitBlobSha": "fb614abf8d19c650fb5bd4727b2585282733a996",
+        "size": 538110
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/点击回应-挠痒咯咯笑.webm",
+        "androidPath": "app/src/main/assets/webm/点击回应-挠痒咯咯笑.webm",
+        "gitBlobSha": "d896eb9a91ca8eafa7f0af35a3073dc04a397742",
+        "size": 425393
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/照镜子.webm",
+        "androidPath": "app/src/main/assets/webm/照镜子.webm",
+        "gitBlobSha": "f9ead4a5e1ab6cb702bd349794264f398f470867",
+        "size": 504127
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/玩水枪.webm",
+        "androidPath": "app/src/main/assets/webm/玩水枪.webm",
+        "gitBlobSha": "70cabac39a03ab1738540fdb9a9581ae523de463",
+        "size": 523346
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/玩游戏气急败坏.webm",
+        "androidPath": "app/src/main/assets/webm/玩游戏气急败坏.webm",
+        "gitBlobSha": "a3375c2980634529e84ba2ee61a57776ea8205e9",
+        "size": 525022
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/用鲸鱼尾巴拍打地面.webm",
+        "androidPath": "app/src/main/assets/webm/用鲸鱼尾巴拍打地面.webm",
+        "gitBlobSha": "822a7c41f795906ca46e2f1757c63e6633d39214",
+        "size": 352213
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/碎碎念-发呆碎碎念.webm",
+        "androidPath": "app/src/main/assets/webm/碎碎念-发呆碎碎念.webm",
+        "gitBlobSha": "4afcaf7459e3b27b30252648b388e9cd3296807f",
+        "size": 326752
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/碎碎念-对屏碎碎念.webm",
+        "androidPath": "app/src/main/assets/webm/碎碎念-对屏碎碎念.webm",
+        "gitBlobSha": "8b7b357f01a9e5cf733dce28f32e8f94be4a030d",
+        "size": 364946
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/碎碎念-擦桌碎碎念.webm",
+        "androidPath": "app/src/main/assets/webm/碎碎念-擦桌碎碎念.webm",
+        "gitBlobSha": "343513cf0d5583b5f476080d5082f3f5e01588b8",
+        "size": 350436
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/穿针乞巧.webm",
+        "androidPath": "app/src/main/assets/webm/穿针乞巧.webm",
+        "gitBlobSha": "f78881f4e996d5160ce4910ed06646b5b9d5bd60",
+        "size": 480887
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/舞狮头.webm",
+        "androidPath": "app/src/main/assets/webm/舞狮头.webm",
+        "gitBlobSha": "b16d549ec2572f5d693bdc7691e3247544ccb88e",
+        "size": 632110
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/荡秋千.webm",
+        "androidPath": "app/src/main/assets/webm/荡秋千.webm",
+        "gitBlobSha": "41c61429405139344b13875135468edb25b6f28e",
+        "size": 644126
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/萌化小幽灵.webm",
+        "androidPath": "app/src/main/assets/webm/萌化小幽灵.webm",
+        "gitBlobSha": "cae5ebbca8634591a49daf5f7a4bc56fa369a7bf",
+        "size": 421990
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/蓝鲸现世.webm",
+        "androidPath": "app/src/main/assets/webm/蓝鲸现世.webm",
+        "gitBlobSha": "eb62a155d056d35a16b1d4e961d5ff10c109f684",
+        "size": 482896
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/蝴蝶蜜蜂环绕头顶开花.webm",
+        "androidPath": "app/src/main/assets/webm/蝴蝶蜜蜂环绕头顶开花.webm",
+        "gitBlobSha": "6f39bb90fd8349d5f23d0912a4bc01c2c06470f2",
+        "size": 852828
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/螃蟹走路.webm",
+        "androidPath": "app/src/main/assets/webm/螃蟹走路.webm",
+        "gitBlobSha": "6ff80136295718a2e866e70d90fa8a0bada333dd",
+        "size": 596902
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/被吓一跳.webm",
+        "androidPath": "app/src/main/assets/webm/被吓一跳.webm",
+        "gitBlobSha": "a7afe71ed72990bbace7026abb1ef69ae7e3706c",
+        "size": 282771
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/被落叶淹没.webm",
+        "androidPath": "app/src/main/assets/webm/被落叶淹没.webm",
+        "gitBlobSha": "1e35fff171fb8856bd89de91329ef357c7d33e65",
+        "size": 766832
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/被鼠标拖拽悬空反馈.webm",
+        "androidPath": "app/src/main/assets/webm/被鼠标拖拽悬空反馈.webm",
+        "gitBlobSha": "728f04b2997aa9ec4bdb87d1b9b14d7910bc7fd6",
+        "size": 464764
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/装点圣诞树.webm",
+        "androidPath": "app/src/main/assets/webm/装点圣诞树.webm",
+        "gitBlobSha": "1217c9625c3a682732bc4398108ce7c4ae2a07f6",
+        "size": 818456
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/讨糖南瓜灯.webm",
+        "androidPath": "app/src/main/assets/webm/讨糖南瓜灯.webm",
+        "gitBlobSha": "3a17ac14fba449e8d7bb0e0d38085825b068a9e1",
+        "size": 483293
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/超大伸懒腰.webm",
+        "androidPath": "app/src/main/assets/webm/超大伸懒腰.webm",
+        "gitBlobSha": "689e04f120f9f678a9424dac6cadf4b6a0bd6e6b",
+        "size": 396987
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/踢毽子.webm",
+        "androidPath": "app/src/main/assets/webm/踢毽子.webm",
+        "gitBlobSha": "1a0586564e58e6a60e4f151d2bf161e975673e30",
+        "size": 531015
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/轻快摇摆舞.webm",
+        "androidPath": "app/src/main/assets/webm/轻快摇摆舞.webm",
+        "gitBlobSha": "596558b14cacee0d96f5e9d3942fd5731be49718",
+        "size": 542928
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/轻快记录.webm",
+        "androidPath": "app/src/main/assets/webm/轻快记录.webm",
+        "gitBlobSha": "d0c1bc670b74450e53019b36366edbe54056a363",
+        "size": 447726
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/骑木马.webm",
+        "androidPath": "app/src/main/assets/webm/骑木马.webm",
+        "gitBlobSha": "b578f4c951a11c3fe97bdbd609315d3e72fe6827",
+        "size": 697580
+      },
+      {
+        "sourcePath": "dsh-pet/assets/webm/鲸鱼吐泡泡特效.webm",
+        "androidPath": "app/src/main/assets/webm/鲸鱼吐泡泡特效.webm",
+        "gitBlobSha": "4848e28f2c4fde323025a03a7980b75f1c56f98e",
+        "size": 452096
+      }
+    ],
+    "samples": [
+      {
+        "path": "app/src/main/assets/webm/三球抛接.webm",
+        "url": "https://raw.githubusercontent.com/ldyivan/dsh-pet-android/270428f49b9b62b99cbf020a868430010af6759b/app/src/main/assets/webm/%E4%B8%89%E7%90%83%E6%8A%9B%E6%8E%A5.webm",
+        "httpStatus": 200,
+        "sourceSha256": "a64c08a4b7e5c3549616faf9dcd418e17f156b4b72d906646e4d57067df70d23",
+        "accessedAt": "2026-11-20T16:05:45.983Z",
+        "bytes": 549316
+      },
+      {
+        "path": "app/src/main/assets/webm/下五子棋.webm",
+        "url": "https://raw.githubusercontent.com/ldyivan/dsh-pet-android/270428f49b9b62b99cbf020a868430010af6759b/app/src/main/assets/webm/%E4%B8%8B%E4%BA%94%E5%AD%90%E6%A3%8B.webm",
+        "httpStatus": 200,
+        "sourceSha256": "0802b6b808f44846b3d194a857fb0ffd38bdea2d7cdb91c9e5e6f311e44f1953",
+        "accessedAt": "2026-11-20T16:05:47.539Z",
+        "bytes": 514704
+      }
+    ],
+    "upstreamArtworkTerms": {
+      "url": "https://raw.githubusercontent.com/PC2005-cloud/dsh-pet/593b9b0785f883630243ef6213542f4603ef69ad/README.md",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-20T16:05:47.539Z",
+      "sourceSha256": "707a9b3c31a373f7ee19e070c325a7c661894e28dfb2c66b1bbf2631678fefe5",
+      "scope": "No commercial use for animation, prompts and source videos per the pinned upstream README."
+    }
+  },
+  "scope": "Git blob identity across the compatibility assets and upstream repository. Two sample animations also match by SHA-256. The HD derivative assets were counted separately.",
+  "termsConflict": {
+    "upstreamRevision": "eb7426771342413cdbf55298dae576b1d8137f52",
+    "sourceScope": "The upstream README restricts commercial use of artwork.",
+    "downstreamNotice": "The downstream THIRD-PARTY document labels the animation MIT.",
+    "recordedAt": "2026-11-20T16:05:47.539Z"
+  },
+  "earlierReading": {
+    "path": "content/research/2026-11-20/bai-cute-big-blue-fish-pet.json",
+    "sha256": "acd24366f2d9eac78069074471d94da181addb377a6c71b8789dc345cf237472",
+    "kind": "browser-metadata-extract"
+  }
+}

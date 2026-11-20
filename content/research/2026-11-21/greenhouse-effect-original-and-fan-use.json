@@ -1,0 +1,22 @@
+{
+  "method": "isolated-headless-google-chrome",
+  "track": {
+    "url": "https://music.apple.com/us/song/930402891",
+    "finalUrl": "https://music.apple.com/us/song/%E6%BA%AB%E5%AE%A4%E6%95%88%E6%87%89/930402891",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-20T16:03:48.674Z",
+    "title": "‎溫室效應 - Song with Lyrics by Eason Chan - Apple Music",
+    "htmlSha256": "b8bac656a98eee37768d5bb1d2cb8dcd277333f41adb9a7178940bf2777aa52b",
+    "credit": "陳奕迅 · Eason Chan"
+  },
+  "version": {
+    "bvid": "BV12TsB6EEbA",
+    "url": "https://www.bilibili.com/video/BV12TsB6EEbA/",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV12TsB6EEbA",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-20T16:01:13.887Z",
+    "bodySha256": "abc10e0a023e74b8a72eccebbf4b93d0943e613d61a5573d7c16a1e1a5bdd051",
+    "musicTag": "发现《温室效应》",
+    "uploaderCredit": "陈奕迅"
+  }
+}

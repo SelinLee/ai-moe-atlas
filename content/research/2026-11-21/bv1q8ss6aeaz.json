@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:57:56.489Z",
+  "url": "https://www.bilibili.com/video/BV1q8sS6AEaz/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1q8sS6AEaz",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1q8sS6AEaz",
+    "title": "本鱼原创曲《未保存的声音》，感谢收听",
+    "owner": {
+      "name": "贪吃鱼娘-汐蓝",
+      "mid": 3537119643437584
+    },
+    "pubdate": 1795005426,
+    "duration": 205
+  },
+  "descriptionSha256": "6f8e57e1aba8d5b6d0845ea48fae626edb103e5a29099125712640fdd7e21287",
+  "uploaderCredits": [
+    "邦多利素世",
+    "汐蓝"
+  ],
+  "linkedVideos": []
+}
