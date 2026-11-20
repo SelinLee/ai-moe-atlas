@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T13:57:06.448Z",
+  "url": "https://www.bilibili.com/video/BV1zusr6yESR/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zusr6yESR",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1zusr6yESR",
+    "title": "阴阳怪气的Grok妈妈",
+    "owner": {
+      "name": "Cell_tt",
+      "mid": 625769962
+    },
+    "pubdate": 1794924076,
+    "duration": 76
+  },
+  "descriptionSha256": "4ef7bba368093ffc9f70dd1db1dca5cda7230fd17ce6c6a7dc7df6c82357907c",
+  "uploaderCredits": [],
+  "linkedVideos": [
+    "BV1Da4c6WE5V"
+  ]
+}

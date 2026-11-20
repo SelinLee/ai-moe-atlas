@@ -68,7 +68,8 @@ const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid
       const latestFailure=r.bvid&&refreshFailures.get(r.bvid);
       return <article class="resource-record" id={r.id} data-resource-category={r.category} data-resource-type={r.subtype} data-recent-order={recentOrder.get(r.id)}
       data-resource-search={[
-        r.title.zh,r.title.en,r.title.ja,r.sourceTitle,r.publisher,r.bvid,r.summary[lang],
+        r.title.zh,r.title.en,r.title.ja,r.sourceTitle,r.publisher,r.bvid,r.summary.zh,r.summary.en,r.summary.ja,
+        r.subtype&&locales.map(locale=>resourceText[locale].types[r.subtype as keyof typeof s.types]).join(' '),
         ...r.relations.map(link=>link.title),
       ].join(' ')}>
       <div class="resource-record-top"><span class="pill">{s.category[r.category].title}</span>{r.subtype&&<span class="resource-subtype">{s.types[r.subtype as keyof typeof s.types]}</span>}</div>

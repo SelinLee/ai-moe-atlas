@@ -76,6 +76,12 @@ try{
   const exactPublication=visibleAnimations.first().locator(`time[datetime="${ranked[0].publishedAt}"]`);
   assert.equal(await exactPublication.innerText(),publicationTime.format(new Date(ranked[0].publishedAt)));
   assert.equal(await page.locator('.resource-list img,.resource-list video,.resource-list iframe').count(),0);
+  await page.locator('#resource-search').fill('ＱＷＥＮ ＭＶ');
+  assert.ok(await page.locator('#bv1k1sv6jera').isVisible());
+  assert.ok(await page.locator('#bv1qzwp6vehw').isHidden());
+  const qwenMvs=await visibleAnimations.evaluateAll(cards=>cards.map(card=>card.id));
+  await page.locator('#resource-search').fill('千问 MV');
+  assert.deepEqual(await visibleAnimations.evaluateAll(cards=>cards.map(card=>card.id)),qwenMvs);
   await page.locator('#resource-search').fill('花水r_Official');
   assert.ok(await page.locator('#bv1rkje6geh2').isVisible());
   await page.locator('#resource-search').fill('BV1YFn46SEEr');

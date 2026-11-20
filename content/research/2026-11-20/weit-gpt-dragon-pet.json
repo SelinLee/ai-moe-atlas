@@ -1,0 +1,17 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T13:56:23.620Z",
+  "pinnedDocument": {
+    "commit": "125c3da9a5dc040518e791fc3d75282aa993755f",
+    "url": "https://github.com/weit0529/gpt-pet/blob/125c3da9a5dc040518e791fc3d75282aa993755f/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/weit0529/gpt-pet/125c3da9a5dc040518e791fc3d75282aa993755f/README.md",
+    "sourceSha256": "e1fd46d30da516f32b48fe3e4c213dcd368754e886caa853fe238362f2c65d30"
+  },
+  "documents": [
+    {
+      "url": "https://github.com/weit0529/gpt-pet/blob/125c3da9a5dc040518e791fc3d75282aa993755f/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/weit0529/gpt-pet/125c3da9a5dc040518e791fc3d75282aa993755f/LICENSE",
+      "sourceSha256": "ba253ba51ff7f00266fea0d83468eaa0783a733fb8b6b10ad6f26a88973050df"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T13:56:47.569Z",
+  "url": "https://www.bilibili.com/video/BV1bYxb6eESQ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bYxb6eESQ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1bYxb6eESQ",
+    "title": "【4K/60 已开源】【Qwen】她的爱被困于窗口之中 | World.execute(me);_千问版_4K60",
+    "owner": {
+      "name": "念_阙",
+      "mid": 1672766912
+    },
+    "pubdate": 1793542853,
+    "duration": 217
+  },
+  "descriptionSha256": "c21395e294e5cc151f7d832f32a58c340c7c0823b4f75d8297b454ed35e455f4",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "previousEvidence": {
+    "path": "content/research/2026-11-08/bv1byxb6eesq.json",
+    "sha256": "83ca6457bb326d81e92c3acad97ff35b857980769801fac35b3838bf59fcbd36",
+    "kind": "browser-metadata-extract"
+  }
+}

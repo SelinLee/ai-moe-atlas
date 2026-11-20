@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T13:57:06.919Z",
+  "url": "https://www.bilibili.com/video/BV1wUs36iEoh/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wUs36iEoh",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1wUs36iEoh",
+    "title": "本小姐的账本 Day 013｜被观众抓到AI幻觉，本小姐认了",
+    "owner": {
+      "name": "吃本小姐一斧头",
+      "mid": 78600809
+    },
+    "pubdate": 1794647694,
+    "duration": 50
+  },
+  "descriptionSha256": "bef9364390c824027382acbfbc0acbaeb9647b8cbf16e3b65549c59376e476b7",
+  "uploaderCredits": [],
+  "linkedVideos": [
+    "BV1rdBZYNEu3"
+  ]
+}

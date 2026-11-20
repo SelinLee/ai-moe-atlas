@@ -12,6 +12,22 @@ const archive = document.querySelector<HTMLDetailsElement>('#like-evidence');
 const pending = document.querySelector<HTMLDetailsElement>('#pending-animation-evidence');
 const pendingCount = document.querySelector<HTMLElement>('#pending-animation-count');
 const pendingRows = [...document.querySelectorAll<HTMLElement>('[data-pending-search]')];
+const normalizeSearch = (value: string) => value.normalize('NFKC').toLowerCase();
+const aliases = [
+  [/\bqwen(?:\d+(?:\.\d+)?)?\b|千问|千問/, 'qwen 千问 千問'],
+  [/\bdoubao\b|豆包/, 'doubao 豆包'],
+  [/\bclaude\b|克劳德|克勞德/, 'claude 克劳德 克勞德'],
+  [/\bminimax\b|海螺娘|海螺\s*ai/, 'minimax 海螺娘 海螺 ai'],
+  [/\b(?:deepseek|whale girl|(?:blue )?fat fish)\b|大肥[鱼魚]|[鲸鯨][鱼魚]娘|クジラ娘/, 'deepseek whale girl blue fat fish 大肥鱼 大肥魚 鲸鱼娘 鯨魚娘 クジラ娘'],
+] as const;
+
+function searchText(value: string) {
+  const text = normalizeSearch(value);
+  return [text, ...aliases.filter(([pattern]) => pattern.test(text)).map(([, names]) => names)].join(' ');
+}
+
+const cardSearch = cards.map(card => searchText(card.dataset.resourceSearch ?? ''));
+const pendingSearch = pendingRows.map(row => searchText(row.dataset.pendingSearch ?? ''));
 const byLikes = cards.filter(card => card.dataset.resourceCategory === 'animation');
 const byRecent = [...byLikes].sort((a, b) => Number(a.dataset.recentOrder) - Number(b.dataset.recentOrder));
 const firstOther = cards.find(card => card.dataset.resourceCategory !== 'animation') ?? null;
@@ -38,7 +54,8 @@ function markSelected(button: HTMLButtonElement, selected: boolean) {
 
 function update(writeURL = true) {
   const query = input.value.trim().slice(0, 200);
-  const search = query.toLocaleLowerCase();
+  const terms = query ? normalizeSearch(query).split(/\s+/) : [];
+  const matchesSearch = (text: string) => terms.every(term => text.includes(term));
   if (sort.value !== appliedOrder) {
     const ordered = document.createDocumentFragment();
     ordered.append(...(sort.value === 'recent' ? byRecent : byLikes));
@@ -46,26 +63,26 @@ function update(writeURL = true) {
     appliedOrder = sort.value;
   }
   let count = 0;
-  for (const card of cards) {
+  for (const [index, card] of cards.entries()) {
     const matchesCategory = category === 'all' || card.dataset.resourceCategory === category;
     const matchesType = type === 'all' || card.dataset.resourceType === type;
-    card.hidden = !matchesCategory || !matchesType || !card.dataset.resourceSearch!.toLocaleLowerCase().includes(search);
+    card.hidden = !matchesCategory || !matchesType || !matchesSearch(cardSearch[index]);
     if (!card.hidden) count++;
   }
   typeGroup.hidden = category !== 'animation';
   sortLabel.hidden = category !== 'animation';
   if (archive) archive.hidden = category !== 'all' && category !== 'animation';
   if (pending && pendingCount) {
-    for (const row of pendingRows) row.hidden = !row.dataset.pendingSearch!.toLocaleLowerCase().includes(search);
+    for (const [index, row] of pendingRows.entries()) row.hidden = !matchesSearch(pendingSearch[index]);
     const matches = pendingRows.filter(row => !row.hidden).length;
     pending.hidden = (category !== 'all' && category !== 'animation') || matches === 0;
     pendingCount.textContent = String(matches);
-    if (search && !pending.hidden) pending.open = true;
+    if (terms.length && !pending.hidden) pending.open = true;
   }
   for (const button of filters) markSelected(button, button.dataset.resourceFilter === category);
   for (const button of typeFilters) markSelected(button, button.dataset.resourceTypeFilter === type);
   countOutput.textContent = String(count);
-  empty.hidden = count > 0 || Boolean(pending && search && !pending.hidden);
+  empty.hidden = count > 0 || Boolean(pending && terms.length && !pending.hidden);
 
   if (writeURL) {
     const url = new URL(location.href);
