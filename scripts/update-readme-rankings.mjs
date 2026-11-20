@@ -65,6 +65,12 @@ function replaceRanking(markdown, name, parts, file) {
   return markdown.slice(0, section) + [start, ...parts, end].join('\n\n') + markdown.slice(boundary + end.length);
 }
 
+function updateDirectoryCount(markdown, category, count) {
+  const label = new RegExp(`(<!-- category-picks:${category} -->\\n[^\\n]+\\]\\(#${category}\\)\\*\\* · )\\d+`);
+  if (!label.test(markdown)) throw new Error(`Missing count for ${category} in the README directory`);
+  return markdown.replace(label, (_, prefix) => prefix + count);
+}
+
 for (const [lang, copy] of Object.entries(text)) {
   const file = new URL(copy.file, root);
   const original = await readFile(file, 'utf8');
@@ -82,16 +88,14 @@ for (const [lang, copy] of Object.entries(text)) {
   if (rows.length) parts.push([copy.header, '| ---: | --- | --- | ---: |', ...rows].join('\n'));
   if (ranked.length < animations.length) parts.push(copy.pending(animations.length - ranked.length));
 
-  let updated = replaceRanking(original, 'animation', parts, copy.file)
-    .replace(/(href="#animations"><strong>[^<]+<\/strong><\/a><br><strong>)\d+(<\/strong>)/,
-      (_, prefix, suffix) => prefix + animations.length + suffix);
+  let updated = replaceRanking(original, 'animation', parts, copy.file);
   const songsUrl = `https://selinlee.github.io/ai-moe-atlas/${lang}/songs/`;
   const songRows = rankedSongs.slice(0, previewCount).map(({ song, leading }) =>
     `| [${cell(song.title[lang])}](${songsUrl}#${song.id}) | ${cell(song.original.credit)} | ${cell(leading.title[lang])} | ${leading.likes.count.toLocaleString(lang)} |`);
   const songParts = [copy.songIntro, [copy.songHeader, '| --- | --- | --- | ---: |', ...songRows].join('\n'),
     `[${copy.songBrowse}](${songsUrl}) · [${copy.evidence}](${evidenceUrl})`];
-  updated = replaceRanking(updated, 'song', songParts, copy.file)
-    .replace(/(href="#songs"><strong>[^<]+<\/strong><\/a><br><strong>)\d+(<\/strong>)/,
-      (_, prefix, suffix) => prefix + songs.length + suffix);
+  updated = replaceRanking(updated, 'song', songParts, copy.file);
+  updated = updateDirectoryCount(updated, 'animations', animations.length);
+  updated = updateDirectoryCount(updated, 'songs', songs.length);
   if (updated !== original) await writeFile(file, updated);
 }

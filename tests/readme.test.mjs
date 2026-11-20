@@ -32,20 +32,23 @@ for (const [file, lang, directory, timeline, galleries] of layouts) {
   const songTable=markdown.split('<!-- song-ranking:start -->')[1].split('<!-- song-ranking:end -->')[0];
   assert.deepEqual([...songTable.matchAll(/\/songs\/#([a-z0-9-]+)/g)].map(match=>match[1]),topSongIds);
  });
- test(`${file}: each category opens with three distinct text links`,async()=>{
+ test(`${file}: the directory shows three distinct text links beneath each category`,async()=>{
   const markdown = await read(file);
-  const contents = markdown.slice(markdown.indexOf(`## ${directory}\n`), markdown.indexOf(`## ${timeline}\n`));
-  assert.doesNotMatch(contents, /<img\b|!\[/);
+  const directoryStart = markdown.indexOf(`## ${directory}\n`);
+  const firstSection = markdown.indexOf('<a id="characters"></a>', directoryStart);
+  const contents = markdown.slice(directoryStart, firstSection);
+  const categorySections = markdown.slice(firstSection, markdown.indexOf(`## ${timeline}\n`));
+  const counts = {songs: songs.length, animations: records.filter(record => record.category === 'animation').length};
+  assert.doesNotMatch(contents + categorySections, /<img\b|!\[/);
   for (const category of categories) {
-   assert.ok(contents.includes(`href="#${category}"`), category);
-   const section = contents.split(`<a id="${category}"></a>\n\n`)[1];
-   assert.ok(section?.startsWith('### '), category);
-   const [, picks, entries] = section.split('\n\n');
-   assert.equal(picks, `<!-- category-picks:${category} -->`);
-   const links = entries.split('\n').map(entry => {
-    const match = entry.match(/^- \[[^\]]+\]\((https:\/\/[^)]+)\) — .+$/);
-    assert.ok(match, entry);
-    const url = new URL(match[1]);
+   assert.ok(categorySections.includes(`<a id="${category}"></a>\n\n### `), category);
+   const block = contents.split(`<!-- category-picks:${category} -->\n`)[1]?.split('\n\n')[0];
+   assert.ok(block, category);
+   const [label, entries] = block.split('\n');
+   assert.match(label, new RegExp(`\\]\\(#${category}\\)\\*\\* · ${counts[category] ?? '\\d+'} `));
+   assert.ok(label.endsWith('\\'), category);
+   const links = [...entries.matchAll(/\[[^\]]+\]\((https:\/\/[^)]+)\)/g)].map(([, target]) => {
+    const url = new URL(target);
     if (url.hostname === 'selinlee.github.io') {
      assert.ok(url.pathname.startsWith(`/ai-moe-atlas/${lang}/`), url.href);
     }

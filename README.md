@@ -21,30 +21,33 @@
 
 ## 资源目录
 
-<table>
-  <tr>
-    <td width="33%" valign="top"><a href="#characters"><strong>🎨 角色图鉴</strong></a><br><strong>28</strong> 个词条<br><sub>按产品、作者和画风找角色</sub></td>
-    <td width="33%" valign="top"><a href="#songs"><strong>🎵 歌曲</strong></a><br><strong>22</strong> 首曲目<br><sub>按歌找原曲、翻唱、改编和同人 MV</sub></td>
-    <td width="33%" valign="top"><a href="#references"><strong>🧸 三视图与派生参考</strong></a><br><strong>20</strong> 张参考图<br><sub>Q 版三视图、参考图与涂鸦模板</sub></td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top"><a href="#animations"><strong>🎬 动画与视频二创</strong></a><br><strong>413</strong> 条记录<br><sub>OP、MV、剧情、舞蹈与二创点评</sub></td>
-    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 桌宠与交互项目</strong></a><br><strong>76</strong> 个项目<br><sub>桌面角色、状态动画、同人游戏与制作工具</sub></td>
-    <td width="33%" valign="top"><a href="#sources"><strong>📚 作者作品与出处</strong></a><br><strong>73</strong> 条来源<br><sub>原作图集、作者声明与待核线索</sub></td>
-  </tr>
-</table>
+<!-- category-picks:characters -->
+**[🎨 角色图鉴](#characters)** · 28 个词条\
+[GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/) · [Gemini · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-gemini/) · [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/zh/characters/shangshan-whale/)
 
-点击分类，查看精选条目和完整目录入口。
+<!-- category-picks:songs -->
+**[🎵 歌曲](#songs)** · 22 首曲目\
+[人是猫](https://selinlee.github.io/ai-moe-atlas/zh/songs/#humans-are-cats) · [Let Me Go · 大肥鱼摸鱼歌](https://selinlee.github.io/ai-moe-atlas/zh/songs/#let-me-go) · [虫儿飞](https://selinlee.github.io/ai-moe-atlas/zh/songs/#fireflies)
+
+<!-- category-picks:references -->
+**[🧸 三视图与派生参考](#references)** · 20 张参考图\
+[Claude 角色参考图](https://selinlee.github.io/ai-moe-atlas/zh/references/#claude) · [DeepSeek Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#deepseek) · [千问 Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#qwen)
+
+<!-- category-picks:animations -->
+**[🎬 动画与视频二创](#animations)** · 413 条记录\
+[如果聊天窗口就是她的整个世界](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1xcai6ae9g) · [败犬 AI 太多了！· 正式 PV](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1nfag6xehq) · [Claude × DeepSeek · 把明天跑通](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1rd476leux)
+
+<!-- category-picks:desktop-pets -->
+**[🐾 桌宠与交互项目](#desktop-pets)** · 76 个项目\
+[CrossPet · 跨 AI 桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#crosspet) · [Copiwaifu · Live2D 编程桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#copiwaifu-live2d) · [Deep Whale Day & Night · 昼夜工坊](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#deep-whale-day-night)
+
+<!-- category-picks:sources -->
+**[📚 作者作品与出处](#sources)** · 73 条来源\
+[上善无形 · 鲸鱼娘原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI 娘化图集](https://www.pixiv.net/artworks/148186519) · [Small-tailqwq · 鲸鱼娘女仆素材](https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier)
 
 <a id="characters"></a>
 
 ### 🎨 角色图鉴
-
-<!-- category-picks:characters -->
-
-- [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/) — 银白长发、龙角和白裙。
-- [Gemini · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-gemini/) — 蓝紫长发、猫耳和星形饰物。
-- [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/zh/characters/shangshan-whale/) — 鲸鱼娘原设与「蓝色大肥鱼」二创的出处。
 
 从 13 个 AI 产品中查角色、作者和原作。 [查看 Muse 娘词条](https://selinlee.github.io/ai-moe-atlas/zh/characters/shizhi-muse/)
 
@@ -53,12 +56,6 @@
 <a id="songs"></a>
 
 ### 🎵 歌曲
-
-<!-- category-picks:songs -->
-
-- [人是猫](https://selinlee.github.io/ai-moe-atlas/zh/songs/#humans-are-cats) — 洛天依原唱与大肥鱼翻唱。
-- [Let Me Go · 大肥鱼摸鱼歌](https://selinlee.github.io/ai-moe-atlas/zh/songs/#let-me-go) — 星落落_oi 的原版、改编和歌词 MV。
-- [虫儿飞](https://selinlee.github.io/ai-moe-atlas/zh/songs/#fireflies) — 鄭伊健原唱与五位 AI 娘的合唱版。
 
 <!-- song-ranking:start -->
 
@@ -87,12 +84,6 @@
 
 ### 🧸 三视图与派生参考
 
-<!-- category-picks:references -->
-
-- [Claude 角色参考图](https://selinlee.github.io/ai-moe-atlas/zh/references/#claude) — 同一张图里对照常规比例与 Q 版。
-- [DeepSeek Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#deepseek) — 鲸鱼娘的正面、侧面和背面。
-- [千问 Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#qwen) — 千问的正面、侧面和背面。
-
 20 张均为生成派生展示图，保留参考出处、署名和生成记录。
 
 [7 套 Q 版三视图](#chibi-gallery) · [6 套常规比例与 Q 版参考](#v5-gallery) · [7 张角色涂鸦与提示词](#doodle-gallery)
@@ -100,12 +91,6 @@
 <a id="animations"></a>
 
 ### 🎬 动画与视频二创
-
-<!-- category-picks:animations -->
-
-- [如果聊天窗口就是她的整个世界](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1xcai6ae9g) — 以聊天窗口为主题的鲸鱼娘 MV。
-- [败犬 AI 太多了！· 正式 PV](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1nfag6xehq) — DeepSeek、Gemini、Claude 和 GPT 的校园群像。
-- [Claude × DeepSeek · 把明天跑通](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1rd476leux) — Claude 娘与鲸鱼娘的剧情短片。
 
 <!-- animation-ranking:start -->
 
@@ -133,12 +118,6 @@
 <a id="desktop-pets"></a>
 
 ### 🐾 桌宠与交互项目
-
-<!-- category-picks:desktop-pets -->
-
-- [CrossPet · 跨 AI 桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#crosspet) — 随 AI 产品和工作状态切换角色与动作。
-- [Copiwaifu · Live2D 编程桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#copiwaifu-live2d) — 用 Live2D 动作显示 Copilot、Claude Code 和 Codex 的工作状态。
-- [Deep Whale Day & Night · 昼夜工坊](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#deep-whale-day-night) — 鲸鱼娘的昼夜场景与侧栏桌宠。
 
 按 2026-11-20 核对的 GitHub Star 数展示前十。同分按仓库名排序。
 
@@ -246,12 +225,6 @@
 <a id="sources"></a>
 
 ### 📚 作者作品与出处
-
-<!-- category-picks:sources -->
-
-- [上善无形 · 鲸鱼娘原作](https://www.bilibili.com/opus/1231977657712771073) — 查看溟月的原始设定与作者发布。
-- [ZipZipPipe · AI 娘化图集](https://www.pixiv.net/artworks/148186519) — 收录 GPT、Gemini、Claude 等角色的作者图集。
-- [Small-tailqwq · 鲸鱼娘女仆素材](https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier) — 女仆造型的表情差分及原作者署名。
 
 另见 ZipZipPipe 的[来源与使用声明](https://t.bilibili.com/1231980045693616162)。
 

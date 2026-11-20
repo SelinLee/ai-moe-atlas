@@ -21,30 +21,33 @@
 
 ## リソース一覧
 
-<table>
-  <tr>
-    <td width="33%" valign="top"><a href="#characters"><strong>🎨 キャラクター図鑑</strong></a><br><strong>28</strong> 項目<br><sub>AI 製品・作者・画風から探す</sub></td>
-    <td width="33%" valign="top"><a href="#songs"><strong>🎵 楽曲</strong></a><br><strong>22</strong> 曲<br><sub>原曲、カバー、アレンジ、二次創作 MV</sub></td>
-    <td width="33%" valign="top"><a href="#references"><strong>🧸 三面図と生成派生資料</strong></a><br><strong>20</strong> 枚<br><sub>ちびキャラ三面図・資料・落書きテンプレート</sub></td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top"><a href="#animations"><strong>🎬 アニメ・動画二次創作</strong></a><br><strong>413</strong> 件<br><sub>OP・MV・短編・ダンス・コメント作品</sub></td>
-    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 ペット・インタラクティブ作品</strong></a><br><strong>76</strong> プロジェクト<br><sub>デスクトップキャラ、状態アニメ、二次創作ゲーム、制作ツール</sub></td>
-    <td width="33%" valign="top"><a href="#sources"><strong>📚 作者の作品と出典</strong></a><br><strong>73</strong> 件<br><sub>作者作品集・声明・確認待ちの手がかり</sub></td>
-  </tr>
-</table>
+<!-- category-picks:characters -->
+**[🎨 キャラクター図鑑](#characters)** · 28 項目\
+[GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/) · [Gemini · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-gemini/) · [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/ja/characters/shangshan-whale/)
 
-分類を選ぶと、ピックアップした項目と全件一覧へのリンクを確認できます。
+<!-- category-picks:songs -->
+**[🎵 楽曲](#songs)** · 22 曲\
+[人は猫](https://selinlee.github.io/ai-moe-atlas/ja/songs/#humans-are-cats) · [Let Me Go · 大きな魚のサボり歌](https://selinlee.github.io/ai-moe-atlas/ja/songs/#let-me-go) · [蟲兒飛](https://selinlee.github.io/ai-moe-atlas/ja/songs/#fireflies)
+
+<!-- category-picks:references -->
+**[🧸 三面図と生成派生資料](#references)** · 20 枚\
+[Claude のキャラクター資料](https://selinlee.github.io/ai-moe-atlas/ja/references/#claude) · [DeepSeek のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#deepseek) · [千問のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#qwen)
+
+<!-- category-picks:animations -->
+**[🎬 アニメ・動画二次創作](#animations)** · 413 件\
+[チャット画面が彼女の世界のすべてだったら](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1xcai6ae9g) · [負けヒロイン AI が多すぎる！ · PV](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1nfag6xehq) · [Claude × DeepSeek · 明日を動かす](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1rd476leux)
+
+<!-- category-picks:desktop-pets -->
+**[🐾 ペット・インタラクティブ作品](#desktop-pets)** · 76 プロジェクト\
+[CrossPet · 複数の AI に対応するデスクトップペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#crosspet) · [Copiwaifu · Live2D コーディングペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#copiwaifu-live2d) · [Deep Whale Day & Night · 昼夜工房](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#deep-whale-day-night)
+
+<!-- category-picks:sources -->
+**[📚 作者の作品と出典](#sources)** · 73 件\
+[上善无形 · クジラ娘の原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI 娘化作品集](https://www.pixiv.net/artworks/148186519) · [Small-tailqwq · クジラ娘のメイド素材](https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier)
 
 <a id="characters"></a>
 
 ### 🎨 キャラクター図鑑
-
-<!-- category-picks:characters -->
-
-- [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/) — 銀白色の長髪、竜の角、白いドレス。
-- [Gemini · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-gemini/) — 青紫の長髪、猫耳、星の飾り。
-- [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/ja/characters/shangshan-whale/) — 「青い大きな魚」の二次創作につながるクジラ娘の原案。
 
 AI 製品13種からキャラクター、作者、原作を探せます。 [Muse 娘の項目を見る](https://selinlee.github.io/ai-moe-atlas/ja/characters/shizhi-muse/)
 
@@ -53,12 +56,6 @@ AI 製品13種からキャラクター、作者、原作を探せます。 [Muse
 <a id="songs"></a>
 
 ### 🎵 楽曲
-
-<!-- category-picks:songs -->
-
-- [人は猫](https://selinlee.github.io/ai-moe-atlas/ja/songs/#humans-are-cats) — 洛天依の原曲とクジラ娘のカバー。
-- [Let Me Go · 大きな魚のサボり歌](https://selinlee.github.io/ai-moe-atlas/ja/songs/#let-me-go) — 星落落_oi の原曲、アレンジ、歌詞付き MV。
-- [蟲兒飛](https://selinlee.github.io/ai-moe-atlas/ja/songs/#fireflies) — 鄭伊健の原曲と AI 娘5人の合唱カバー。
 
 <!-- song-ranking:start -->
 
@@ -87,12 +84,6 @@ AI 製品13種からキャラクター、作者、原作を探せます。 [Muse
 
 ### 🧸 三面図と生成派生資料
 
-<!-- category-picks:references -->
-
-- [Claude のキャラクター資料](https://selinlee.github.io/ai-moe-atlas/ja/references/#claude) — 通常頭身とちびキャラを一枚で比較。
-- [DeepSeek のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#deepseek) — クジラ娘の正面・側面・背面。
-- [千問のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#qwen) — 千問の正面・側面・背面。
-
 20枚は生成派生の展示画像です。参照元・作者表示・生成記録を保持しています。
 
 [ちびキャラ三面図7枚](#chibi-gallery) · [通常頭身・ちびキャラ資料6枚](#v5-gallery) · [落書き7枚とプロンプト集](#doodle-gallery)
@@ -100,12 +91,6 @@ AI 製品13種からキャラクター、作者、原作を探せます。 [Muse
 <a id="animations"></a>
 
 ### 🎬 アニメ・動画二次創作
-
-<!-- category-picks:animations -->
-
-- [チャット画面が彼女の世界のすべてだったら](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1xcai6ae9g) — チャット画面を題材にしたクジラ娘の MV。
-- [負けヒロイン AI が多すぎる！ · PV](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1nfag6xehq) — DeepSeek、Gemini、Claude、GPT が登場する学園群像 PV。
-- [Claude × DeepSeek · 明日を動かす](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1rd476leux) — Claude 娘とクジラ娘が登場する短編。
 
 <!-- animation-ranking:start -->
 
@@ -133,12 +118,6 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 <a id="desktop-pets"></a>
 
 ### 🐾 ペット・インタラクティブ作品
-
-<!-- category-picks:desktop-pets -->
-
-- [CrossPet · 複数の AI に対応するデスクトップペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#crosspet) — AI 製品と作業状態に合わせてキャラや動きを切り替えます。
-- [Copiwaifu · Live2D コーディングペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#copiwaifu-live2d) — Copilot、Claude Code、Codex の作業状態をアニメーションで表示します。
-- [Deep Whale Day & Night · 昼夜工房](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#deep-whale-day-night) — 昼夜の背景とサイドバーのクジラ娘を楽しめます。
 
 2026-11-20 に確認した GitHub Star 数の上位10件です。同数の場合はリポジトリ名順です。
 
@@ -246,12 +225,6 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 <a id="sources"></a>
 
 ### 📚 作者の作品と出典
-
-<!-- category-picks:sources -->
-
-- [上善无形 · クジラ娘の原作](https://www.bilibili.com/opus/1231977657712771073) — 溟月の原案を掲載した作者本人の投稿。
-- [ZipZipPipe · AI 娘化作品集](https://www.pixiv.net/artworks/148186519) — GPT、Gemini、Claude などを収録した作者本人の作品集。
-- [Small-tailqwq · クジラ娘のメイド素材](https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier) — メイド衣装の表情差分と原作者のクレジット。
 
 ZipZipPipe の[出典と利用声明](https://t.bilibili.com/1231980045693616162)も参照できます。
 
