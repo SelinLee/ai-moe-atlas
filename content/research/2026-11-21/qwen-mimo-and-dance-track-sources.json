@@ -1,0 +1,64 @@
+{
+  "method": "isolated-headless-google-chrome-bilibili-view-detail-and-official-releases",
+  "tracks": [
+    {
+      "songId": "gokuraku-jodo",
+      "officialSource": {
+        "id": "gokuraku-jodo",
+        "url": "https://www.sonymusic.co.jp/artist/garnidelia/info/470896",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:52:13.805Z",
+        "title": "踊っちゃってみた第4段!!話題の新曲「極楽浄土」の先行配信スタート！ | GARNiDELiA | ソニーミュージックオフィシャルサイト",
+        "htmlSha256": "c5abdfbe7186e801746b6f41116c16c21e56ddbfc767ed73b7795cde2c9a3abf",
+        "trackFound": true
+      },
+      "fanVersion": {
+        "bvid": "BV1QKa96SEnV",
+        "url": "https://www.bilibili.com/video/BV1QKa96SEnV/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1QKa96SEnV",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:50:17.778Z",
+        "bodySha256": "040c600f11e085fe4f9488e8d277476322f19f03b455c2dfc9dad2952ca3892b",
+        "musicTag": "发现《極楽浄土》"
+      }
+    },
+    {
+      "songId": "baka-futari",
+      "officialSource": {
+        "id": "baka-futari",
+        "url": "https://www.youtube.com/watch?v=l841Lbvy7BM",
+        "requestUrl": "https://www.youtube.com/oembed?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dl841Lbvy7BM&format=json",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:54:20.046Z",
+        "sourceSha256": "d4645cd126327943bc85694c58d089fb8348b471ddc622a0c484803c47b844a7",
+        "title": "馬鹿ふたり",
+        "publisher": "VISUAL ARTS / Key - Topic"
+      },
+      "fanVersion": {
+        "bvid": "BV1SBh862Ef6",
+        "url": "https://www.bilibili.com/video/BV1SBh862Ef6/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1SBh862Ef6",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:50:17.536Z",
+        "bodySha256": "7199b2af37db1546d996735e4ecbd303b84a35347c788ed1b8ccf51153c72a6b",
+        "musicTag": "发现《馬鹿ふたり》"
+      }
+    },
+    {
+      "songId": "world-execute-me",
+      "original": {
+        "credit": "Mili",
+        "url": "https://www.youtube.com/watch?v=ESx_hy1n7HA"
+      },
+      "fanVersion": {
+        "bvid": "BV17XpQ6MER3",
+        "url": "https://www.bilibili.com/video/BV17XpQ6MER3/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV17XpQ6MER3",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:50:17.770Z",
+        "bodySha256": "86a4efe626fb40eb399234ef0172074b0a8770408c3e7da165c31668af74144f",
+        "musicTag": "发现《world.execute(me);》"
+      }
+    }
+  ]
+}

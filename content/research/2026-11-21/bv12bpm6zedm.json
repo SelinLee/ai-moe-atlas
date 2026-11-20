@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:48:26.389Z",
+  "url": "https://www.bilibili.com/video/BV12BpM6ZEDm/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12BpM6ZEDm",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV12BpM6ZEDm",
+    "title": "琵琶曲 丨 DS大肥鱼vs智谱娘，被迫开源这块",
+    "owner": {
+      "name": "大肥鱼报",
+      "mid": 508472778
+    },
+    "pubdate": 1791355020,
+    "duration": 62
+  },
+  "descriptionSha256": "af132dc2ab86c9064fe4571948890da10b9eab083c5a96267f3a8b445d9b0b5e",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": []
+}

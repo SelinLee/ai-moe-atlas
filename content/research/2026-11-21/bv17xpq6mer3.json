@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:48:25.799Z",
+  "url": "https://www.bilibili.com/video/BV17XpQ6MER3/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17XpQ6MER3",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV17XpQ6MER3",
+    "title": "千问大小姐_world-execute-me",
+    "owner": {
+      "name": "清梦凝",
+      "mid": 22765530
+    },
+    "pubdate": 1791780104,
+    "duration": 212
+  },
+  "descriptionSha256": "6dbd3b56a171ecbcb95e5d161897d79ee8d9e23fa665efba871f9fbe0eee67c8",
+  "uploaderCredits": [],
+  "linkedVideos": [
+    "BV1Jwhy6BEMJ"
+  ]
+}

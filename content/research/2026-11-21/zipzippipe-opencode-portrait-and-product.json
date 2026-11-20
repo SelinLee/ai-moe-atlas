@@ -1,0 +1,36 @@
+{
+  "method": "isolated-headless-google-chrome-official-dynamic-and-original-image",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:47:07.324Z",
+  "url": "https://www.bilibili.com/opus/1233069202138464289",
+  "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1233069202138464289",
+  "bodySha256": "c0fc031c061a046a4e2f19a9d4fec29c5c8ca36cbd1750b2bb42c0d27436e58d",
+  "author": "ZipZipPipe",
+  "authorId": 4168597,
+  "originalArtwork": {
+    "post": "opencode-post",
+    "position": 9,
+    "url": "https://i0.hdslb.com/bfs/new_dyn/de8addda736dba61ad620718c42dcfe54168597.png",
+    "width": 2160,
+    "height": 3840,
+    "format": "png",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-20T16:48:52.403Z",
+    "bytes": 5280517,
+    "sourceSha256": "06ae5275908dba4c90a6c7480dbcb51d5cdebee2d728aa5c07f68d9067d90093"
+  },
+  "positionEvidence": "The ninth slot was reserved for OpenCode.",
+  "previousEvidence": {
+    "path": "content/research/2026-11-07/zipzippipe-opencode-gallery.json",
+    "sha256": "00f351fc9e88d201d645290cd70a6c841555a60586c86dbe75e14657b544c12a",
+    "kind": "browser-metadata-extract"
+  },
+  "officialProduct": {
+    "id": "opencode",
+    "url": "https://opencode.ai/docs/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-20T16:47:09.891Z",
+    "title": "Intro | OpenCode",
+    "htmlSha256": "19cad39ebbddd2a122f5e8e36256b1f4e739d21571c213982ff8b26f1bf4e7a5"
+  }
+}

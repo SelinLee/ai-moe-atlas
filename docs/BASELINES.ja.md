@@ -14,6 +14,8 @@
 
 2026年11月20日、Mistral バゲット猫娘を追加。ZipZipPipe の原投稿4枚目は 3072 × 5504 で、SHA-256 は資料に記録された原画像と一致します。Mistral AI は旧 Le Chat を Vibe と案内しています。画像別の利用条件は確認待ちです。 [作者の原投稿](https://www.bilibili.com/opus/1236803362705375305) · [原画像と製品の確認記録](../content/research/2026-11-20/mistral-baguette-cat-and-product.json)
 
+2026年11月21日。OpenCode の出典項目を追加。ZipZipPipe の原投稿の9枚目は 2160 × 3840 の PNG。SHA-256 で確認し、個別の表示・転載・改変条件は確認待ち。 [確認記録](../content/research/2026-11-21/zipzippipe-opencode-portrait-and-product.json)
+
 | AI | 優先候補 | 残りの作業 |
 | --- | --- | --- |
 | DeepSeek | 収集済みクジラ娘メイド素材 | 利用可能。上善无形 → ZipZipPipe → Small-tailqwq のクレジットを保持 |

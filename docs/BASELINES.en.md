@@ -14,6 +14,8 @@ November 20, 2026. Muse joins the index as a source entry, bringing it to 13 pro
 
 November 20, 2026. Added Mistral Baguette Cat Girl. Image 4 in ZipZipPipe’s post measures 3072 × 5504, and its SHA-256 matches the archive’s original. Mistral AI calls the former Le Chat product Vibe. Artwork-specific terms remain open. [Creator’s post](https://www.bilibili.com/opus/1236803362705375305) · [Original image and product evidence](../content/research/2026-11-20/mistral-baguette-cat-and-product.json)
 
+November 21, 2026. Added a source entry for OpenCode. The ninth image in ZipZipPipe’s post is a 2160 × 3840 PNG, checked by SHA-256. Artwork-specific display, redistribution and adaptation terms remain open. [Verification record](../content/research/2026-11-21/zipzippipe-opencode-portrait-and-product.json)
+
 | AI | Priority version | Remaining work |
 | --- | --- | --- |
 | DeepSeek | Collected whale-maid assets | Ready; retain 上善无形 → ZipZipPipe → Small-tailqwq attribution |

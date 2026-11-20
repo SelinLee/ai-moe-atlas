@@ -44,7 +44,7 @@ const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid
     <ul>
       {archives.map(archive=><li data-capture-scope={archive.scope}>
         <a class="text-link" href={path(archive.route)}><time datetime={archive.capturedAt}>{beijingTime.format(new Date(archive.capturedAt))}</time> · JSON</a>
-        <span>{archive.scope&&<> · {s.likeArchive.selective}</>} · {archive.videoCount} {s.category.animation.unit}{archive.pendingCount>0&&<> · {archive.pendingCount} {s.likeArchive.pending}</>}{archive.refreshFailures.length>0&&<> · {s.refreshFailures(archive.refreshFailures.length)}</>}</span>
+        <span>{archive.scope&&<> · {archive.scope==='selected-catalog-and-candidates'?s.likeArchive.selectedCatalog:s.likeArchive.selective}</>} · {archive.videoCount} {s.category.animation.unit}{archive.pendingCount>0&&<> · {archive.pendingCount} {s.likeArchive.pending}</>}{archive.refreshFailures.length>0&&<> · {s.refreshFailures(archive.refreshFailures.length)}</>}</span>
         <code>SHA-256 {archive.sha256}</code>
       </li>)}
     </ul>

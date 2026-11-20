@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:48:25.345Z",
+  "url": "https://www.bilibili.com/video/BV1zs4y1p7LZ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zs4y1p7LZ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1zs4y1p7LZ",
+    "title": "把文心一言变成猫娘",
+    "owner": {
+      "name": "吉言2099",
+      "mid": 200796148
+    },
+    "pubdate": 1679297925,
+    "duration": 135
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

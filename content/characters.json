@@ -1970,5 +1970,61 @@
       "en": "The source JPEG for the fourth image was checked by SHA-256. File-specific display, redistribution and adaptation terms remain open. The entry links to the publication.",
       "ja": "原投稿の4枚目の画像を SHA-256 で照合。表示・転載・改変の画像別条件は確認待ちのため、出典リンクを掲載。"
     }
+  },
+  {
+    "id": "zipzippipe-opencode",
+    "entity": "opencode",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "OpenCode 拟人 · ZipZipPipe",
+      "en": "OpenCode Personification · ZipZipPipe",
+      "ja": "OpenCode 擬人化 · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 在《所有的 AI 们，和 OpenCode》中发布的 OpenCode 拟人立绘。",
+      "en": "ZipZipPipe’s OpenCode personification from All the AIs, and OpenCode.",
+      "ja": "ZipZipPipe の『すべての AI たち、そして OpenCode』に掲載された OpenCode の擬人化立ち絵。"
+    },
+    "story": {
+      "zh": "作者将原帖第 9 个位置留给 OpenCode。OpenCode 的产品文档将其介绍为开源编程助手。",
+      "en": "The creator reserved the ninth position in the post for OpenCode. Its own documentation describes an open-source coding agent.",
+      "ja": "作者は原投稿の9番目を OpenCode に割り当てた。製品の公式文書ではオープンソースのコーディングエージェントと案内。"
+    },
+    "features": {
+      "zh": "长黑发、灰黑色长裙和头部双侧高耸装饰。原帖文件为 2160 × 3840 PNG。",
+      "en": "Long black hair, a charcoal floor-length outfit and tall ornaments on both sides of the head. The source PNG is 2160 × 3840.",
+      "ja": "黒い長髪、黒灰色のロングドレス、頭部両側に伸びる装飾。原投稿の PNG は 2160 × 3840。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://www.pixiv.net/users/18604994",
+    "source": "https://www.bilibili.com/opus/1233069202138464289",
+    "sourceTitle": "所有的AI们，和OpenCode",
+    "originalPublication": "https://www.bilibili.com/opus/1233069202138464289",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1233069202138464289"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1233069202138464289",
+    "downloadable": false,
+    "bg": "#e9e5ee",
+    "color": "#343444",
+    "verifiedAt": "2026-11-21",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "原帖第 9 张 PNG 已核对 SHA-256。逐件展示、转载和改编条件待核，词条提供作者原帖。",
+      "en": "The ninth source PNG was checked by SHA-256. Artwork-specific display, redistribution and adaptation terms remain open. The entry links to the creator’s post.",
+      "ja": "原投稿の9枚目の PNG を SHA-256 で照合。表示・転載・改変の画像別条件は確認待ちで、作者の原投稿を掲載。"
+    }
   }
 ]

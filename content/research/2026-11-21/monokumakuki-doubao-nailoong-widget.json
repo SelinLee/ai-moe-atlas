@@ -1,0 +1,87 @@
+{
+  "full_name": "Monokumakuki/doubao-nailoong-widget",
+  "html_url": "https://github.com/Monokumakuki/doubao-nailoong-widget",
+  "stargazers_count": 1,
+  "archived": false,
+  "created_at": "2026-11-01T09:28:14Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "大肥豆插件：豆包/豆奶桌宠、隐藏式额度监测与窗口内停靠。非官方 Windows 社区项目。",
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "commit": "e06bf279e5d2ef9b95c9db072f068bd5e3739a1e",
+  "observedAt": "2026-11-20T16:47:01.425+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:50:09.683Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/Monokumakuki/doubao-nailoong-widget/blob/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Monokumakuki/doubao-nailoong-widget/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/README.md",
+      "sourceSha256": "fe5f7468ffb401518d50aa1f6616aaf248fcd25bb4f5e7d87657dec93e6076d0",
+      "gitBlobSha": "01341d769b8a9d074477215c745dfa445b3c7c7a",
+      "bytes": 7385,
+      "commit": "e06bf279e5d2ef9b95c9db072f068bd5e3739a1e"
+    },
+    "NOTICE.md": {
+      "path": "NOTICE.md",
+      "url": "https://github.com/Monokumakuki/doubao-nailoong-widget/blob/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/Monokumakuki/doubao-nailoong-widget/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/NOTICE.md",
+      "sourceSha256": "abcce73447ef40a80c182b7e34271280a08c6f8dad6294adb107bccca84558dc",
+      "gitBlobSha": "3ea44048630f99dcdabcbe79ed7b562664db7ab6",
+      "bytes": 644,
+      "commit": "e06bf279e5d2ef9b95c9db072f068bd5e3739a1e"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "url": "https://github.com/Monokumakuki/doubao-nailoong-widget/blob/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Monokumakuki/doubao-nailoong-widget/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/LICENSE",
+      "sourceSha256": "7b146a4417afadbb0d9daa4f153e0239577df731d69e45617d82642fdd28c1a6",
+      "gitBlobSha": "5852ada9002c48c103778b61db493a4c833cbf62",
+      "bytes": 1092,
+      "commit": "e06bf279e5d2ef9b95c9db072f068bd5e3739a1e"
+    },
+    "docs/ASSETS.md": {
+      "path": "docs/ASSETS.md",
+      "url": "https://github.com/Monokumakuki/doubao-nailoong-widget/blob/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/docs/ASSETS.md",
+      "rawUrl": "https://raw.githubusercontent.com/Monokumakuki/doubao-nailoong-widget/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/docs/ASSETS.md",
+      "sourceSha256": "1fdec8329b42b98b71fbe56be5254a9e852b8ce2da50e49119300c4e0143c22f",
+      "gitBlobSha": "93b283ef91e3ff314df7b502771707b05c3188d9",
+      "bytes": 1635,
+      "commit": "e06bf279e5d2ef9b95c9db072f068bd5e3739a1e"
+    },
+    "assets/characters/doubao/idle.png": {
+      "path": "assets/characters/doubao/idle.png",
+      "url": "https://github.com/Monokumakuki/doubao-nailoong-widget/blob/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/assets/characters/doubao/idle.png",
+      "rawUrl": "https://raw.githubusercontent.com/Monokumakuki/doubao-nailoong-widget/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/assets/characters/doubao/idle.png",
+      "sourceSha256": "5355aac89b9228f588839c9980a028b0d6a49adef90a9ec71bea660c2daf9cd2",
+      "gitBlobSha": "658a112b471a0cc93e48904f1ebed8388d7690f5",
+      "bytes": 1141337,
+      "commit": "e06bf279e5d2ef9b95c9db072f068bd5e3739a1e"
+    },
+    "assets/characters/doubao/happy.png": {
+      "path": "assets/characters/doubao/happy.png",
+      "url": "https://github.com/Monokumakuki/doubao-nailoong-widget/blob/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/assets/characters/doubao/happy.png",
+      "rawUrl": "https://raw.githubusercontent.com/Monokumakuki/doubao-nailoong-widget/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/assets/characters/doubao/happy.png",
+      "sourceSha256": "2c955bcb52674d7c8fcb13d57e8e0b3469d5e4b116267298ed9a81291f174f99",
+      "gitBlobSha": "f70f1c1040901256ff4b2ce67dd30d594c4dd4e9",
+      "bytes": 1225909,
+      "commit": "e06bf279e5d2ef9b95c9db072f068bd5e3739a1e"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/Monokumakuki/doubao-nailoong-widget/blob/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Monokumakuki/doubao-nailoong-widget/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/README.md",
+    "sourceSha256": "fe5f7468ffb401518d50aa1f6616aaf248fcd25bb4f5e7d87657dec93e6076d0",
+    "gitBlobSha": "01341d769b8a9d074477215c745dfa445b3c7c7a",
+    "bytes": 7385,
+    "commit": "e06bf279e5d2ef9b95c9db072f068bd5e3739a1e"
+  },
+  "method": "github-rest-tree-and-isolated-headless-google-chrome"
+}

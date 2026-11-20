@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:48:25.784Z",
+  "url": "https://www.bilibili.com/video/BV1SBh862Ef6/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SBh862Ef6",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1SBh862Ef6",
+    "title": "原创了一个MiMo娘",
+    "owner": {
+      "name": "一铭_N8S",
+      "mid": 517580873
+    },
+    "pubdate": 1790168737,
+    "duration": 68
+  },
+  "descriptionSha256": "20e7250243e4f91b5c964029ad399d436fc70d07d43b9b2eb7238a1d9da9cd97",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": []
+}

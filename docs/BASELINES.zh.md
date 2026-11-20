@@ -14,6 +14,8 @@
 
 2026-11-20：新增 Mistral 法棍猫娘。ZipZipPipe 原帖第 4 张为 3072 × 5504，原图 SHA-256 与档案记录一致。Mistral AI 的产品页将原 Le Chat 标为 Vibe。逐件使用条件待核。 [作者原帖](https://www.bilibili.com/opus/1236803362705375305) · [原图与产品查证](../content/research/2026-11-20/mistral-baguette-cat-and-product.json)
 
+2026-11-21 新增 OpenCode 来源词条。核对 ZipZipPipe 原帖第 9 张 2160 × 3840 PNG 的 SHA-256。展示、转载与改编条件待核。 [核对记录](../content/research/2026-11-21/zipzippipe-opencode-portrait-and-product.json)
+
 | AI | 优先版本 | 当前缺口 |
 | --- | --- | --- |
 | DeepSeek | 已入库的鲸鱼娘女仆素材 | 已可用；保留上善无形 → ZipZipPipe → Small-tailqwq 署名链 |

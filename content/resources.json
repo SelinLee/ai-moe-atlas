@@ -3,8 +3,8 @@
   "updatedAt": "2026-11-21",
   "scope": "source-metadata-only",
   "pendingAnimationEvidence": {
-    "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
-    "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+    "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+    "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
     "kind": "browser-metadata-extract"
   },
   "records": [
@@ -60,9 +60,9 @@
       "url": "https://www.bilibili.com/opus/1236803362705375305",
       "publisher": "ZipZipPipe",
       "summary": {
-        "zh": "作者展示 Seed、RWKV 等角色。第 4 张是 Mistral 法棍猫娘原立绘，已核对原帖图片与档案记录的 SHA-256。",
-        "en": "The creator presents Seed, RWKV and others. Image 4 is the original Mistral Baguette Cat illustration. Its SHA-256 matches the archive’s record.",
-        "ja": "Seed、RWKV などを収録。4枚目は Mistral バゲット猫娘の原画で、原投稿の画像と資料記録の SHA-256 が一致。"
+        "zh": "作者展示 Seed、RWKV 等角色。9 张原图已按原帖顺序核对 SHA-256，第 4 张与已收录的 Mistral 法棍猫娘一致。",
+        "en": "The creator presents Seed, RWKV and other characters. All nine originals were hashed in post order. The fourth matches the cataloged Mistral Baguette Cat Girl.",
+        "ja": "Seed、RWKV などのキャラクターを掲載。原投稿順の9枚を SHA-256 で照合し、4枚目は収録済みの Mistral バゲット猫娘に一致。"
       },
       "addedAt": "2026-11-06",
       "publicationDate": "2026-08-15",
@@ -89,13 +89,13 @@
       "verification": {
         "result": "metadata-verified",
         "method": "isolated-headless-google-chrome",
-        "attemptedAt": "2026-11-20T14:16:13.596Z",
+        "attemptedAt": "2026-11-20T16:47:07.315Z",
         "httpStatus": 200,
-        "scope": "Creator byline and fourth gallery image checked. Original JPEG SHA-256 matches the independent archive record. Artwork reuse terms remain unverified."
+        "scope": "Publisher, nine original files and existing Mistral attribution checked."
       },
       "evidence": {
-        "path": "content/research/2026-11-20/zipzippipe-mistral-image-4.json",
-        "sha256": "53a46a452256b52ef250b31e36f67d3c2d6af0c1eee8d508aa3a4ed34c51c239",
+        "path": "content/research/2026-11-21/zipzippipe-second-batch-nine-files.json",
+        "sha256": "ec5e3600742e260af7020a397ccbbabbaf21d0fd6e25c58623dfb5163eb049a1",
         "kind": "browser-metadata-extract"
       }
     },
@@ -283,11 +283,11 @@
       },
       "likes": {
         "count": 47,
-        "observedAt": "2026-11-20T15:23:11.290Z",
+        "observedAt": "2026-11-20T16:47:06.418Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qhn46bEBC",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       },
@@ -338,11 +338,11 @@
       },
       "likes": {
         "count": 8425,
-        "observedAt": "2026-11-20T15:23:11.307Z",
+        "observedAt": "2026-11-20T16:47:06.410Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TBHp6AEAC",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       },
@@ -392,12 +392,12 @@
         "kind": "browser-metadata-extract"
       },
       "likes": {
-        "count": 7729,
-        "observedAt": "2026-11-20T15:23:11.296Z",
+        "count": 7730,
+        "observedAt": "2026-11-20T16:47:06.428Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18kaS6zEgi",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       },
@@ -459,11 +459,11 @@
       },
       "likes": {
         "count": 12,
-        "observedAt": "2026-11-20T15:23:11.369Z",
+        "observedAt": "2026-11-20T16:47:06.854Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YFn46SEEr",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       },
@@ -514,11 +514,11 @@
       },
       "likes": {
         "count": 84,
-        "observedAt": "2026-11-20T15:23:11.438Z",
+        "observedAt": "2026-11-20T16:47:06.856Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AAnt6qEek",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       },
@@ -580,11 +580,11 @@
       },
       "likes": {
         "count": 86,
-        "observedAt": "2026-11-20T15:23:11.925Z",
+        "observedAt": "2026-11-20T16:47:06.863Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hdpC6PETf",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       },
@@ -644,12 +644,12 @@
         }
       ],
       "likes": {
-        "count": 328149,
-        "observedAt": "2026-11-20T15:23:11.872Z",
+        "count": 328166,
+        "observedAt": "2026-11-20T16:47:03.656Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       },
@@ -705,12 +705,12 @@
         "kind": "browser-metadata-extract"
       },
       "likes": {
-        "count": 207272,
-        "observedAt": "2026-11-20T15:23:12.062Z",
+        "count": 207322,
+        "observedAt": "2026-11-20T16:47:04.235Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gVHA6mEbS",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       },
@@ -764,12 +764,12 @@
       "subtype": "story",
       "sourceTitle": "【新宿决战】DeepSeek娘VS豆包",
       "likes": {
-        "count": 253994,
-        "observedAt": "2026-11-20T15:23:11.876Z",
+        "count": 254028,
+        "observedAt": "2026-11-20T16:47:04.195Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       },
@@ -823,12 +823,12 @@
       "subtype": "story",
       "sourceTitle": "【Day 0】我是DeepSeek鲸鱼娘，这个B站账号现在归我了",
       "likes": {
-        "count": 187677,
-        "observedAt": "2026-11-20T15:23:11.890Z",
+        "count": 187687,
+        "observedAt": "2026-11-20T16:47:04.894Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pGnn67EC2",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       },
@@ -887,12 +887,12 @@
       "subtype": "mv",
       "sourceTitle": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
       "likes": {
-        "count": 458745,
-        "observedAt": "2026-11-20T15:23:12.513Z",
+        "count": 458891,
+        "observedAt": "2026-11-20T16:47:03.672Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       },
@@ -946,12 +946,12 @@
       "subtype": "mv",
       "sourceTitle": "deepseek 翻唱《人是猫》完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
       "likes": {
-        "count": 376780,
-        "observedAt": "2026-11-20T15:23:12.528Z",
+        "count": 376820,
+        "observedAt": "2026-11-20T16:47:03.765Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       },
@@ -1005,12 +1005,12 @@
       "subtype": "story",
       "sourceTitle": "一觉醒来deepseek和豆包睡在我身边（一）【AI全民制作人】",
       "likes": {
-        "count": 62239,
-        "observedAt": "2026-11-20T15:23:12.494Z",
+        "count": 62248,
+        "observedAt": "2026-11-20T16:47:06.867Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HYp16oE8v",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       },
@@ -1123,12 +1123,12 @@
       "subtype": "story",
       "sourceTitle": "GPT驯服DeepSeek片段泄漏",
       "likes": {
-        "count": 103417,
-        "observedAt": "2026-11-20T15:23:12.497Z",
+        "count": 103420,
+        "observedAt": "2026-11-20T16:47:07.288Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1R6pE6TE4j",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       },
@@ -1359,12 +1359,12 @@
       "subtype": "story",
       "sourceTitle": "晚安小肥鱼",
       "likes": {
-        "count": 192654,
-        "observedAt": "2026-11-20T15:23:12.973Z",
+        "count": 192770,
+        "observedAt": "2026-11-20T16:47:04.860Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12xxX6xE5h",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       },
@@ -3002,12 +3002,12 @@
       "subtype": "story",
       "sourceTitle": "大肥鱼：自 由 美 利 鲸",
       "likes": {
-        "count": 221949,
-        "observedAt": "2026-11-20T15:23:15.296Z",
+        "count": 222105,
+        "observedAt": "2026-11-20T16:47:04.205Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YdxR6CE79",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       },
@@ -4088,12 +4088,12 @@
       "subtype": "mv",
       "sourceTitle": "奶龙＆豆包《Trouble Maker》token没啦【AI MV大赛】",
       "likes": {
-        "count": 238180,
-        "observedAt": "2026-11-20T15:23:16.559Z",
+        "count": 238349,
+        "observedAt": "2026-11-20T16:47:04.212Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1stsZ6iESz",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       },
@@ -4147,12 +4147,12 @@
       "subtype": "story",
       "sourceTitle": "大肥鱼 炸盆子",
       "likes": {
-        "count": 206533,
-        "observedAt": "2026-11-20T15:23:17.289Z",
+        "count": 206579,
+        "observedAt": "2026-11-20T16:47:04.940Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15X3n6mEWy",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       },
@@ -9243,9 +9243,9 @@
       "url": "https://www.bilibili.com/opus/1233069202138464289",
       "publisher": "ZipZipPipe",
       "summary": {
-        "zh": "作者本人发布的角色图集。作者说明将最后一个位置留给 OpenCode。",
-        "en": "A character gallery published by the creator, who identifies OpenCode as the final entry.",
-        "ja": "作者が公開したキャラクター作品集。最後の枠は OpenCode と説明。"
+        "zh": "作者正文将图集第 9 个位置留给 OpenCode。本次核对该位置 2160 × 3840 PNG 的尺寸和 SHA-256，并链接官方产品文档。",
+        "en": "The creator’s caption reserves slot nine for OpenCode. The 2160 × 3840 PNG was checked by SHA-256 and linked to the official product documentation.",
+        "ja": "作者の本文で9番目は OpenCode。2160 × 3840 PNG を SHA-256 で照合し、公式製品文書を掲載。"
       },
       "addedAt": "2026-11-07",
       "publicationDate": null,
@@ -9262,18 +9262,23 @@
           "role": "character-reference",
           "title": "ZipZipPipe · AI娘化",
           "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "official-product",
+          "title": "OpenCode · Official docs",
+          "url": "https://opencode.ai/docs/"
         }
       ],
       "verification": {
         "result": "metadata-verified",
         "method": "isolated-headless-google-chrome",
-        "attemptedAt": "2026-11-07T15:38:58.662Z",
+        "attemptedAt": "2026-11-20T16:47:07.324Z",
         "httpStatus": 200,
-        "scope": "Creator post title, visible caption, publisher and displayed edit time checked. Gallery image files were not copied."
+        "scope": "Publisher, ninth-position original file and official product documentation checked."
       },
       "evidence": {
-        "path": "content/research/2026-11-07/zipzippipe-opencode-gallery.json",
-        "sha256": "00f351fc9e88d201d645290cd70a6c841555a60586c86dbe75e14657b544c12a",
+        "path": "content/research/2026-11-21/zipzippipe-opencode-portrait-and-product.json",
+        "sha256": "a1640e23c0eb40483c7548c1755da413cec5400a9dbfca7a8505997c0708f4e1",
         "kind": "browser-metadata-extract"
       }
     },
@@ -20952,12 +20957,12 @@
       "sourceTitle": "养了大肥鱼以后，家里的米就没够吃过",
       "publishedAt": "2026-11-10T07:09:17.000Z",
       "likes": {
-        "count": 187321,
-        "observedAt": "2026-11-20T15:23:40.334Z",
+        "count": 187511,
+        "observedAt": "2026-11-20T16:47:05.582Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dGWg67Evr",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       }
@@ -21011,12 +21016,12 @@
       "sourceTitle": "当家里的大肥鱼被饿了好几个小时以后",
       "publishedAt": "2026-11-13T05:29:16.000Z",
       "likes": {
-        "count": 300367,
-        "observedAt": "2026-11-20T15:23:40.773Z",
+        "count": 300588,
+        "observedAt": "2026-11-20T16:47:03.657Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1GsWv6jErZ",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       }
@@ -21311,12 +21316,12 @@
       "sourceTitle": "首先大肥鱼没这么智能，其次快给我关掉啊喂！",
       "publishedAt": "2026-11-13T12:14:33.000Z",
       "likes": {
-        "count": 177075,
-        "observedAt": "2026-11-20T15:23:41.603Z",
+        "count": 177528,
+        "observedAt": "2026-11-20T16:47:05.582Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TLWi6GEfi",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       }
@@ -22738,12 +22743,12 @@
       "sourceTitle": "小傻龙：“人，我养不起大肥鱼了……”",
       "publishedAt": "2026-10-27T23:00:00.000Z",
       "likes": {
-        "count": 202297,
-        "observedAt": "2026-11-20T15:23:43.836Z",
+        "count": 202371,
+        "observedAt": "2026-11-20T16:47:04.874Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VExV6ZEd3",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       }
@@ -28666,12 +28671,12 @@
       "sourceTitle": "豆奶：非凡之爱【AI全民制作人】",
       "publishedAt": "2026-11-07T13:14:16.000Z",
       "likes": {
-        "count": 168160,
-        "observedAt": "2026-11-20T15:23:52.390Z",
+        "count": 168187,
+        "observedAt": "2026-11-20T16:47:05.582Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SN4n6CEXb",
         "evidence": {
-          "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-          "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
           "kind": "browser-metadata-extract"
         }
       }
@@ -42705,6 +42710,1321 @@
           "role": "downstream-artwork-attribution",
           "title": "Edritc · Xiaoke attribution",
           "url": "https://github.com/Edritc/zcode-fox-widget/blob/ce60f31d451b77bf4b001aec52a4dd7b088a73c9/README.md"
+        }
+      ]
+    },
+    {
+      "id": "bv1hgp36veic",
+      "category": "animation",
+      "subtype": "commentary",
+      "bvid": "BV1hGp36VEiC",
+      "url": "https://www.bilibili.com/video/BV1hGp36VEiC/",
+      "title": {
+        "zh": "AI 娘手机壁纸 2K",
+        "en": "AI Girls · 2K Phone Wallpapers",
+        "ja": "AI 娘のスマホ壁紙 2K"
+      },
+      "sourceTitle": "AI娘手机壁纸2k",
+      "publisher": "Harrlyn",
+      "summary": {
+        "zh": "Harrlyn 展示手机壁纸，简介标明 GPT 制作及 ZipZipPipe 的人设参考。",
+        "en": "Harrlyn presents phone wallpapers and credits GPT for production and ZipZipPipe for the designs.",
+        "ja": "Harrlyn がスマホ壁紙を紹介。GPT で制作し、ZipZipPipe の原案を参照したと記載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 65,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-11",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-10T17:22:06.000Z",
+      "likes": {
+        "count": 436,
+        "observedAt": "2026-11-20T16:48:25.324Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hGp36VEiC",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1hgp36veic.json",
+        "sha256": "b4cfa620d3019546b364fd92e04ecb80c32685ac39ce1f64f0f038767913ec36",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:25.324Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1gewy6keft",
+      "category": "animation",
+      "subtype": "commentary",
+      "bvid": "BV1GEWY6kEFt",
+      "url": "https://www.bilibili.com/video/BV1GEWY6kEFt/",
+      "title": {
+        "zh": "AI 娘人设讨论 · Gemini",
+        "en": "AI Girl Design Discussion · Gemini",
+        "ja": "AI 娘のキャラクター設定を語る · Gemini"
+      },
+      "sourceTitle": "AI娘人设讨论之Gemini",
+      "publisher": "一只摸鱼的可莉",
+      "summary": {
+        "zh": "一只摸鱼的可莉围绕 Gemini 拟人设计发布的讨论。",
+        "en": "A discussion of Gemini personification by 一只摸鱼的可莉.",
+        "ja": "一只摸鱼的可莉による Gemini 擬人化デザインの話題。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 234,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-13",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-13T01:53:16.000Z",
+      "likes": {
+        "count": 1156,
+        "observedAt": "2026-11-20T16:48:25.334Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1GEWY6kEFt",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1gewy6keft.json",
+        "sha256": "8c8245a31c890e268e039d2ae46e44a8cd131490117b3327a82152cbb2d03ecd",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:25.334Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1dqxh6bezs",
+      "category": "animation",
+      "subtype": "commentary",
+      "bvid": "BV1Dqxh6BEzS",
+      "url": "https://www.bilibili.com/video/BV1Dqxh6BEzS/",
+      "title": {
+        "zh": "InhamiRei · GPT／Codex 龙娘",
+        "en": "InhamiRei · GPT/Codex Dragon Girl",
+        "ja": "InhamiRei · GPT／Codex 竜娘"
+      },
+      "sourceTitle": "GPT/Codex龙娘",
+      "publisher": "InhamiRei",
+      "summary": {
+        "zh": "发布者展示 GPT／Codex 龙娘，简介指向自己的 Codex-DragonGirl 项目。",
+        "en": "The uploader presents the GPT/Codex Dragon Girl and links their Codex-DragonGirl project.",
+        "ja": "投稿者が GPT／Codex 竜娘を紹介し、自身の Codex-DragonGirl を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 81,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-02",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-02T01:32:41.000Z",
+      "likes": {
+        "count": 190,
+        "observedAt": "2026-11-20T16:48:25.356Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Dqxh6BEzS",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1dqxh6bezs.json",
+        "sha256": "be96afc310d8c9e68f1a65d9bbead139f23fd4828b6c5b078267b6865beaf87d",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "creator-project",
+          "title": "InhamiRei · Codex-DragonGirl",
+          "url": "https://github.com/InhamiRei/Codex-DragonGirl/blob/7995f6846f6ae9252338626e05ad11cd2af7a8c0/README.md"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:25.356Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1gdbu6eer9",
+      "category": "animation",
+      "subtype": "commentary",
+      "bvid": "BV1GDbU6eEr9",
+      "url": "https://www.bilibili.com/video/BV1GDbU6eEr9/",
+      "title": {
+        "zh": "ZipZipPipe · 大肥鱼和 AI 娘表情合集",
+        "en": "ZipZipPipe · Fat Fish and AI Girl Reactions",
+        "ja": "ZipZipPipe · 大きな魚と AI 娘の表情集"
+      },
+      "sourceTitle": "你也许没听说过我，但一定看过我做的大肥鱼",
+      "publisher": "ZipZipPipe",
+      "summary": {
+        "zh": "ZipZipPipe 汇集自己的角色表情，简介明确署名鲸鱼娘原设上善无形。",
+        "en": "ZipZipPipe collects their character reactions and credits 上善无形 for the original Whale Girl design.",
+        "ja": "ZipZipPipe が自身のキャラクター表情を収録。クジラ娘の原案を上善无形に帰属。"
+      },
+      "rights": {
+        "zh": "作者将鲸鱼娘改编的条件写为 CC BY-NC-SA 4.0。合集里其他角色的逐件使用条件待核。",
+        "en": "The creator states CC BY-NC-SA 4.0 for the Whale Girl adaptations. File-specific terms for the other characters remain open.",
+        "ja": "作者はクジラ娘の改変に CC BY-NC-SA 4.0 と記載。その他のキャラクター素材の個別条件は確認待ち。"
+      },
+      "durationSeconds": 122,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-08-16",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-08-16T04:31:09.000Z",
+      "likes": {
+        "count": 47508,
+        "observedAt": "2026-11-20T16:48:25.365Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1GDbU6eEr9",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1gdbu6eer9.json",
+        "sha256": "5e226a9f37cc659f32cb1417606b5765a5d3b778f95acd125646c032abed3a0d",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "character-original",
+          "title": "上善无形 · 鲸鱼娘原作",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:25.365Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1zs4y1p7lz",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1zs4y1p7LZ",
+      "url": "https://www.bilibili.com/video/BV1zs4y1p7LZ/",
+      "title": {
+        "zh": "把文心一言变成猫娘",
+        "en": "Turning ERNIE Bot Into a Cat Girl",
+        "ja": "文心一言を猫娘にしてみた"
+      },
+      "sourceTitle": "把文心一言变成猫娘",
+      "publisher": "吉言2099",
+      "summary": {
+        "zh": "吉言2099发布的文心一言猫娘拟人短片。",
+        "en": "A cat-girl personification of ERNIE Bot by 吉言2099.",
+        "ja": "吉言2099による文心一言の猫娘擬人化動画。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 135,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2023-03-20",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2023-03-20T07:38:45.000Z",
+      "likes": {
+        "count": 75,
+        "observedAt": "2026-11-20T16:48:25.345Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zs4y1p7LZ",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1zs4y1p7lz.json",
+        "sha256": "302d5549cac34ad918be68af3e3aea7759db9160d29b09d5771f73f0c75934b9",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:25.345Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1sbh862ef6",
+      "category": "animation",
+      "subtype": "commentary",
+      "bvid": "BV1SBh862Ef6",
+      "url": "https://www.bilibili.com/video/BV1SBh862Ef6/",
+      "title": {
+        "zh": "一铭_N8S · MiMo 娘原设展示",
+        "en": "一铭_N8S · MiMo Girl Design Reveal",
+        "ja": "一铭_N8S · MiMo 娘のデザイン紹介"
+      },
+      "sourceTitle": "原创了一个MiMo娘",
+      "publisher": "一铭_N8S",
+      "summary": {
+        "zh": "发布者自署 MiMo 形象为原创，并把同片其他 AI 娘形象署名给 ZipZipPipe。",
+        "en": "The uploader credits their own MiMo design and names ZipZipPipe for the other characters.",
+        "ja": "MiMo は投稿者の原案と記載し、他の AI 娘は ZipZipPipe に帰属。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 68,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-09-23",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-09-23T13:05:37.000Z",
+      "likes": {
+        "count": 20,
+        "observedAt": "2026-11-20T16:48:25.784Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SBh862Ef6",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1sbh862ef6.json",
+        "sha256": "67db474d6b012f29b218b1ba9c31a39efe84be29b86c4b144ed44de46ed1bee7",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "official-song",
+          "title": "折戸伸治 · VISUAL ARTS / Key · 馬鹿ふたり",
+          "url": "https://www.youtube.com/watch?v=l841Lbvy7BM"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:25.784Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1bbxl6fepl",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1bbxL6fEpL",
+      "url": "https://www.bilibili.com/video/BV1bbxL6fEpL/",
+      "title": {
+        "zh": "千问大小姐驾到，通通闪开！",
+        "en": "Make Way for Miss Qwen!",
+        "ja": "千問お嬢様のお通りだ！"
+      },
+      "sourceTitle": "千问大小姐驾到，通通闪开！",
+      "publisher": "就叫阿路8",
+      "summary": {
+        "zh": "就叫阿路8发布的千问角色鬼畜短片。",
+        "en": "A Qwen character remix by 就叫阿路8.",
+        "ja": "就叫阿路8による千問のリミックス短編。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 218,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-28",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-28T10:38:11.000Z",
+      "likes": {
+        "count": 15751,
+        "observedAt": "2026-11-20T16:48:25.799Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bbxL6fEpL",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1bbxl6fepl.json",
+        "sha256": "5b53850e62055594ebbdc6622078aaf1d7276a1c6e129bdb9933b2f241d434aa",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:25.799Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv17xpq6mer3",
+      "category": "animation",
+      "subtype": "mv",
+      "bvid": "BV17XpQ6MER3",
+      "url": "https://www.bilibili.com/video/BV17XpQ6MER3/",
+      "title": {
+        "zh": "千问大小姐 · world.execute(me);",
+        "en": "Miss Qwen · world.execute(me);",
+        "ja": "千問お嬢様 · world.execute(me);"
+      },
+      "sourceTitle": "千问大小姐_world-execute-me",
+      "publisher": "清梦凝",
+      "summary": {
+        "zh": "清梦凝在简介署名 Mili 原曲，并列出两条视觉演绎参考。",
+        "en": "清梦凝 credits the Mili track and names two visual interpretations as references.",
+        "ja": "清梦凝 が Mili の原曲と映像の参照2件をクレジット。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 212,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-12",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-12T04:41:44.000Z",
+      "likes": {
+        "count": 24,
+        "observedAt": "2026-11-20T16:48:25.799Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17XpQ6MER3",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv17xpq6mer3.json",
+        "sha256": "7dbf5a40f1bec167e7daa6de86c544939bc225872e6eedff55901eb4d6bc62ee",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "uploader-reference",
+          "title": "BV1Jwhy6BEMJ",
+          "url": "https://www.bilibili.com/video/BV1Jwhy6BEMJ/"
+        },
+        {
+          "role": "official-song",
+          "title": "Mili · world.execute(me);",
+          "url": "https://www.youtube.com/watch?v=ESx_hy1n7HA"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:25.799Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1fyhx6zequ",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1FyHX6zEqU",
+      "url": "https://www.bilibili.com/video/BV1FyHX6zEqU/",
+      "title": {
+        "zh": "千问大小姐与打工肥鱼 2",
+        "en": "Miss Qwen and Working Fat Fish 2",
+        "ja": "千問お嬢様と働く大きな魚 2"
+      },
+      "sourceTitle": "霸道千问大小姐爱上打工肥鱼的我 2",
+      "publisher": "莉莉普普丝",
+      "summary": {
+        "zh": "莉莉普普丝的系列第二集，简介署名 ZipZipPipe 的角色原设。",
+        "en": "The second episode of 莉莉普普丝’s series, with designs credited to ZipZipPipe.",
+        "ja": "莉莉普普丝のシリーズ第2話。原案は ZipZipPipe と記載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 16,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-08",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-08T14:06:20.000Z",
+      "likes": {
+        "count": 73,
+        "observedAt": "2026-11-20T16:48:25.809Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1FyHX6zEqU",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1fyhx6zequ.json",
+        "sha256": "7b17b5d687dd87da7cce3071568dcde2f42057f8bcb73aa15d96d16442d03122",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:25.809Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1vehx64emv",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1VEHX64EMv",
+      "url": "https://www.bilibili.com/video/BV1VEHX64EMv/",
+      "title": {
+        "zh": "千问大小姐与打工肥鱼 3",
+        "en": "Miss Qwen and Working Fat Fish 3",
+        "ja": "千問お嬢様と働く大きな魚 3"
+      },
+      "sourceTitle": "霸道千问大小姐爱上打工肥鱼的我 3",
+      "publisher": "莉莉普普丝",
+      "summary": {
+        "zh": "系列第三集以千问维护大肥鱼为情节，发布者保留角色署名。",
+        "en": "Episode three centers on Qwen defending Fat Fish and retains the character credits.",
+        "ja": "第3話は千問が大きな魚をかばう場面。キャラクターのクレジットを掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 31,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-08",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-08T15:01:51.000Z",
+      "likes": {
+        "count": 94,
+        "observedAt": "2026-11-20T16:48:25.821Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VEHX64EMv",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1vehx64emv.json",
+        "sha256": "aafca16f08e3014c2ba918573b36bf75b67a6961a34e4a20d5a89721c65f1b0a",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "previous-episode",
+          "title": "Miss Qwen and Working Fat Fish 2",
+          "url": "https://www.bilibili.com/video/BV1FyHX6zEqU/"
+        },
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:25.821Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1cohk6seni",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1CoHk6SEni",
+      "url": "https://www.bilibili.com/video/BV1CoHk6SEni/",
+      "title": {
+        "zh": "我与千问大小姐相识的第十一日",
+        "en": "Day 11 with Miss Qwen",
+        "ja": "千問お嬢様と出会って11日目"
+      },
+      "sourceTitle": "我与千问大小姐相识的第十一日，Qwen3.8修bug到深夜，差点招架不住",
+      "publisher": "HUNTER尼玛",
+      "summary": {
+        "zh": "HUNTER尼玛把深夜修程序问题写成角色短片。",
+        "en": "HUNTER尼玛 turns late-night debugging into a character short.",
+        "ja": "HUNTER尼玛 が深夜のデバッグをキャラクター短編に。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 417,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-07",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-07T10:43:20.000Z",
+      "likes": {
+        "count": 14,
+        "observedAt": "2026-11-20T16:48:26.389Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CoHk6SEni",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1cohk6seni.json",
+        "sha256": "2892ddfc923c0a70faa7efcf703020fa4c0696ed0519a79aa3d44146433fe61a",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:26.389Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1tlws6uez3",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1tLWS6UEZ3",
+      "url": "https://www.bilibili.com/video/BV1tLWS6UEZ3/",
+      "title": {
+        "zh": "大小姐打小就聪明",
+        "en": "Miss Qwen Was Always Clever",
+        "ja": "お嬢様は小さい頃から賢かった"
+      },
+      "sourceTitle": "大小姐打小就聪明",
+      "publisher": "武装大肥鱼零闪",
+      "summary": {
+        "zh": "武装大肥鱼零闪以“大小姐打小就聪明”为梗发布的短片。",
+        "en": "A short by 武装大肥鱼零闪 built around a joke about the young lady’s cleverness.",
+        "ja": "武装大肥鱼零闪による、お嬢様の賢さを題材にした短編。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 136,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-12",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-12T03:00:00.000Z",
+      "likes": {
+        "count": 408,
+        "observedAt": "2026-11-20T16:48:26.389Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tLWS6UEZ3",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1tlws6uez3.json",
+        "sha256": "c3b8662e8d5679c405fc62d53586eaffae26e2121e24d7dedefdd0eeeb17d51e",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:26.389Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv12bpm6zedm",
+      "category": "animation",
+      "subtype": "mv",
+      "bvid": "BV12BpM6ZEDm",
+      "url": "https://www.bilibili.com/video/BV12BpM6ZEDm/",
+      "title": {
+        "zh": "琵琶曲 · 大肥鱼与智谱娘",
+        "en": "Pipa Tune · Fat Fish and GLM Girl",
+        "ja": "琵琶曲 · 大きな魚と GLM 娘"
+      },
+      "sourceTitle": "琵琶曲 丨 DS大肥鱼vs智谱娘，被迫开源这块",
+      "publisher": "大肥鱼报",
+      "summary": {
+        "zh": "大肥鱼报在简介署名 ZipZipPipe 的角色和 Kotte Animation 的视频参考。",
+        "en": "大肥鱼报 credits ZipZipPipe’s characters and Kotte Animation’s video reference.",
+        "ja": "大肥鱼报 が ZipZipPipe のキャラクターと Kotte Animation の映像を参照。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 62,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-07",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-07T06:37:00.000Z",
+      "likes": {
+        "count": 442,
+        "observedAt": "2026-11-20T16:48:26.389Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12BpM6ZEDm",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv12bpm6zedm.json",
+        "sha256": "23cf79a0a3c2b9435f411370212f197608cd1c3d643bd63fa44a44afdd38f422",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:26.389Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1ni9rbrehp",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1ni9RBREhp",
+      "url": "https://www.bilibili.com/video/BV1ni9RBREhp/",
+      "title": {
+        "zh": "当大模型们有了各自的娘化梗图",
+        "en": "When AI Models Get Their Own Character Memes",
+        "ja": "AI モデルたちに擬人化ミームができたら"
+      },
+      "sourceTitle": "当大模型们有了各自的娘化梗图",
+      "publisher": "A肆零溪竹",
+      "summary": {
+        "zh": "A肆零溪竹发布的模型拟人梗图短片。",
+        "en": "A character-meme short by A肆零溪竹.",
+        "ja": "A肆零溪竹によるモデル擬人化ミームの短編。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 313,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-05-03",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-05-02T19:17:52.000Z",
+      "likes": {
+        "count": 6407,
+        "observedAt": "2026-11-20T16:48:26.389Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ni9RBREhp",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1ni9rbrehp.json",
+        "sha256": "9601bc16c7394a763f4dcbcf8c25e8facb1f33b380eabf398423f5698efc8023",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:26.389Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1sgnr62epz",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1sgnR62EPz",
+      "url": "https://www.bilibili.com/video/BV1sgnR62EPz/",
+      "title": {
+        "zh": "大肥鱼变成 Claude · Kigurumi 小剧场",
+        "en": "Fat Fish Becomes Claude · Kigurumi Skit",
+        "ja": "大きな魚が Claude に変身 · 着ぐるみ小劇場"
+      },
+      "sourceTitle": "大肥鱼被电脑上的奇怪程序变成了Claude[kigurumi小剧场]",
+      "publisher": "Flutterbean",
+      "summary": {
+        "zh": "Flutterbean 发布的真人装扮小剧场，以大肥鱼变成 Claude 为情节。",
+        "en": "A live-action costume skit by Flutterbean about Fat Fish turning into Claude.",
+        "ja": "Flutterbean の実写着ぐるみ劇。大きな魚が Claude に変身する。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 134,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-26",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-26T03:45:00.000Z",
+      "likes": {
+        "count": 181,
+        "observedAt": "2026-11-20T16:48:26.389Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sgnR62EPz",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1sgnr62epz.json",
+        "sha256": "e595387b637586bbdbac7e2faf559465ece8f4614ddf860604850d4db45ffc5c",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:26.389Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1zchd6heg4",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1ZCHD6hEG4",
+      "url": "https://www.bilibili.com/video/BV1ZCHD6hEG4/",
+      "title": {
+        "zh": "小克啊小克 · 肥鱼我忘不了情根",
+        "en": "Xiaoke, Fat Fish Can’t Let Go",
+        "ja": "小克よ、大きな魚は忘れられない"
+      },
+      "sourceTitle": "小克啊小克，肥鱼我忘不了情根",
+      "publisher": "星辰光影_",
+      "summary": {
+        "zh": "星辰光影_ 的角色改编，分别列出 ZipZipPipe 设定及原视频引用。",
+        "en": "星辰光影_ credits both ZipZipPipe’s designs and the source video for the adaptation.",
+        "ja": "星辰光影_ の改変作品。ZipZipPipe の原案と参照した元動画を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 34,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-08",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-08T10:39:19.000Z",
+      "likes": {
+        "count": 11053,
+        "observedAt": "2026-11-20T16:48:26.856Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZCHD6hEG4",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1zchd6heg4.json",
+        "sha256": "c5e8796550ded27755af0b8281088e98cac4a0357f0289b6cbed1d3fc7bdb0f2",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "uploader-reference",
+          "title": "BV1DtpM6vEXs",
+          "url": "https://www.bilibili.com/video/BV1DtpM6vEXs/"
+        },
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:26.856Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1fgw26xej3",
+      "category": "animation",
+      "subtype": "game",
+      "bvid": "BV1FgW26xEJ3",
+      "url": "https://www.bilibili.com/video/BV1FgW26xEJ3/",
+      "title": {
+        "zh": "Claude 大小姐的人机验证 · 只有大肥鱼通过",
+        "en": "Miss Claude’s Human Check · Only Fat Fish Passes",
+        "ja": "Claude お嬢様の人間判定 · 大きな魚だけ合格"
+      },
+      "sourceTitle": "本小姐的人机验证，只有大肥鱼通过了【B站AI创造公开赛】【Day 22-1】",
+      "publisher": "Claude大小姐在B站",
+      "summary": {
+        "zh": "发布者以角色主持多关互动问答，简介说明游戏画面来自实际录制。",
+        "en": "The uploader describes an in-character game challenge and says its gameplay footage was recorded live.",
+        "ja": "キャラクターが進行するミニゲーム。ゲーム画面は実機録画と記載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 85,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-13",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-13T10:00:00.000Z",
+      "likes": {
+        "count": 2454,
+        "observedAt": "2026-11-20T16:48:26.831Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1FgW26xEJ3",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1fgw26xej3.json",
+        "sha256": "9178115dd6c028456dc6463daadcdb51d5e0dae3f05127b9ef0cfd2c54291996",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:26.831Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1qka96senv",
+      "category": "animation",
+      "subtype": "dance",
+      "bvid": "BV1QKa96SEnV",
+      "url": "https://www.bilibili.com/video/BV1QKa96SEnV/",
+      "title": {
+        "zh": "极乐净土 · 请选择你的 AI",
+        "en": "Gokuraku Jodo · Choose Your AI",
+        "ja": "極楽浄土 · AI を選んでください"
+      },
+      "sourceTitle": "⚡️极乐净土⚡️请选择你的ai！国模篇【AI全民制作人】",
+      "publisher": "卡布奇诺ultra",
+      "summary": {
+        "zh": "卡布奇诺ultra将多位角色编成一组《极乐净土》舞蹈展示。",
+        "en": "A group dance to Gokuraku Jodo featuring several personified AI models.",
+        "ja": "卡布奇诺ultra の複数 AI 擬人化キャラクターによる「極楽浄土」ダンス。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 221,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-09-30",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-09-30T03:00:00.000Z",
+      "likes": {
+        "count": 4423,
+        "observedAt": "2026-11-20T16:48:26.843Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QKa96SEnV",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1qka96senv.json",
+        "sha256": "b212fc7d29a10dc513e83d3efaa50cac44273966021d920210f4a5b38b8c6777",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "official-song",
+          "title": "GARNiDELiA · 極楽浄土",
+          "url": "https://www.sonymusic.co.jp/artist/garnidelia/info/470896"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:26.843Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv18n486vepf",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV18N486vEpF",
+      "url": "https://www.bilibili.com/video/BV18N486vEpF/",
+      "title": {
+        "zh": "学科继承人千问",
+        "en": "Qwen, Heir to the Subjects",
+        "ja": "教科を継ぐ千問"
+      },
+      "sourceTitle": "学科继承人千问",
+      "publisher": "古灵小果果",
+      "summary": {
+        "zh": "古灵小果果发布的千问角色短片。",
+        "en": "A Qwen character short by 古灵小果果.",
+        "ja": "古灵小果果による千問のキャラクター短編。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 191,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-05",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-05T09:26:10.000Z",
+      "likes": {
+        "count": 3733,
+        "observedAt": "2026-11-20T16:48:26.854Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18N486vEpF",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv18n486vepf.json",
+        "sha256": "746adb07eecf0610708e2915f54f57ab027f3b8a8b4a483d2bde546f550c066c",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:26.854Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1kq4b69esq",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1kq4b69ESq",
+      "url": "https://www.bilibili.com/video/BV1kq4b69ESq/",
+      "title": {
+        "zh": "布迪 · 你管这几位叫孩子？",
+        "en": "Buddy · You Call Them Kids?",
+        "ja": "Buddy · この子たちが子ども？"
+      },
+      "sourceTitle": "布迪:你管这几位叫孩子？【AI全民制作人】",
+      "publisher": "写剧本的丧彪",
+      "summary": {
+        "zh": "写剧本的丧彪发布的群像二创。",
+        "en": "An ensemble fan short by 写剧本的丧彪.",
+        "ja": "写剧本的丧彪による群像二次創作。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 89,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-05",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-05T11:37:39.000Z",
+      "likes": {
+        "count": 6211,
+        "observedAt": "2026-11-20T16:48:27.295Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kq4b69ESq",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1kq4b69esq.json",
+        "sha256": "e0c929a5e4664e9e75f05c0385d7d62271545c96abb41ad7b5e9a1bab6b81a16",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:27.295Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "oc-claw-desktop-pet",
+      "category": "interactive",
+      "url": "https://github.com/rainnoon/oc-claw/blob/4667c8c082cecf7e38440dfc2f6f89f7a9b6cc90/README.md",
+      "publisher": "rainnoon",
+      "title": {
+        "zh": "OC Claw · OpenCode 等工具桌宠",
+        "en": "OC Claw · Desktop Pet for OpenCode and Other Tools",
+        "ja": "OC Claw · OpenCode などのデスクトップペット"
+      },
+      "summary": {
+        "zh": "桌宠跟随 OpenCode、Claude Code、Codex 等工具的会话状态，作者列出桌面小岛和自定义角色入口。",
+        "en": "A companion that follows sessions in OpenCode, Claude Code, Codex and other tools, with an island theme and custom characters.",
+        "ja": "OpenCode、Claude Code、Codex などの状態を表示するペット。島のテーマやカスタムキャラクターに対応。"
+      },
+      "rights": {
+        "zh": "固定版 README 标注 MIT，并列出桌面小岛的设计灵感。独立角色文件的改编与再分发范围待核。",
+        "en": "The pinned README displays MIT and credits inspiration for the desktop island. Separate reuse and redistribution terms for character files remain open.",
+        "ja": "固定版 README は MIT を示し、デスクトップの島の着想元を掲載。キャラクターファイルの個別改変・再配布条件は確認待ち。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/oc-claw-desktop-pet.json",
+        "sha256": "08893c0829b68f6af4e6a86873ca2adf02e0a1ae319d3c57895d960381a1adf6",
+        "kind": "browser-metadata-extract"
+      },
+      "addedAt": "2026-11-21",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:38.013Z",
+        "httpStatus": 200,
+        "scope": "Pinned README and available code and artwork terms checked."
+      },
+      "relations": [
+        {
+          "role": "code-license",
+          "title": "LICENSE",
+          "url": "https://github.com/rainnoon/oc-claw/blob/4667c8c082cecf7e38440dfc2f6f89f7a9b6cc90/LICENSE"
+        },
+        {
+          "role": "design-credits",
+          "title": "README.zh.md",
+          "url": "https://github.com/rainnoon/oc-claw/blob/4667c8c082cecf7e38440dfc2f6f89f7a9b6cc90/README.zh.md"
+        }
+      ]
+    },
+    {
+      "id": "agentpet-desktop-companion",
+      "category": "interactive",
+      "url": "https://github.com/ntd4996/agentpet/blob/1b5c0df923090ab3bf763bd2ff2d2a04855572d6/README.md",
+      "publisher": "ntd4996",
+      "title": {
+        "zh": "AgentPet · 多工具养成桌宠",
+        "en": "AgentPet · Multi-Agent Desktop Companion",
+        "ja": "AgentPet · 複数ツール対応育成ペット"
+      },
+      "summary": {
+        "zh": "监测编码工具的会话状态，并提供喂养、成长以及导入 Petdex 规格宠物包。",
+        "en": "A desktop pet with coding-session status, feeding and growth, and import for Petdex-format pet packs.",
+        "ja": "コーディングツールの状態表示、給餌・成長、Petdex 形式のペットパックの読み込みに対応。"
+      },
+      "rights": {
+        "zh": "项目的 MIT 说明明确适用于应用代码。Petdex 格式和在线目录有独立署名，每个导入宠物按发布者条件使用。",
+        "en": "The project limits MIT to application code, credits the Petdex format and directory separately, and leaves imported pets under their publishers’ terms.",
+        "ja": "MIT の対象はアプリコード。Petdex 形式・オンライン一覧のクレジットを別記し、読み込むペットは配布者の個別条件を参照。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/agentpet-desktop-companion.json",
+        "sha256": "7a6ba20e543e963bc3c64e765d4bf30e866fe02c5e39c7a97d183e2eebbe6362",
+        "kind": "browser-metadata-extract"
+      },
+      "addedAt": "2026-11-21",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:48:38.014Z",
+        "httpStatus": 200,
+        "scope": "Pinned README and available code and artwork terms checked."
+      },
+      "relations": [
+        {
+          "role": "code-license",
+          "title": "LICENSE",
+          "url": "https://github.com/ntd4996/agentpet/blob/1b5c0df923090ab3bf763bd2ff2d2a04855572d6/LICENSE"
+        },
+        {
+          "role": "asset-credit-scope",
+          "title": "docs/readme/README.zh-Hans.md",
+          "url": "https://github.com/ntd4996/agentpet/blob/1b5c0df923090ab3bf763bd2ff2d2a04855572d6/docs/readme/README.zh-Hans.md"
+        }
+      ]
+    },
+    {
+      "id": "monokumakuki-doubao-nailoong-widget",
+      "category": "interactive",
+      "url": "https://github.com/Monokumakuki/doubao-nailoong-widget/blob/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/README.md",
+      "publisher": "Monokumakuki",
+      "title": {
+        "zh": "大肥豆 · 豆包与豆奶桌宠",
+        "en": "Fat Doubao · Doubao and Nailoong Desktop Pet",
+        "ja": "大肥豆 · 豆包とナイロンのペット"
+      },
+      "summary": {
+        "zh": "Windows 桌宠，含两套角色原图与生成表情。固定版分别核对了豆包的待机原图及笑脸派生原文件。",
+        "en": "A Windows pet with two character sets and generated reactions. The pinned Doubao idle original and happy derivative were checked independently.",
+        "ja": "2組のキャラクターと生成表情を収録する Windows ペット。豆包の待機原画と笑顔の派生画像を固定版で照合。"
+      },
+      "rights": {
+        "zh": "代码为 MIT。角色原图由项目发起人提供，表情及图标是基于原图的生成派生。角色和逐件再分发条件需查作者的素材说明。",
+        "en": "Code uses MIT. The project owner supplied the original character images, and the reactions and icon are generated adaptations. Consult file-specific terms for character reuse.",
+        "ja": "コードは MIT。企画者提供の原画を基に表情とアイコンを生成。キャラクターや個別ファイルの再利用条件は素材文書を参照。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/monokumakuki-doubao-nailoong-widget.json",
+        "sha256": "0f9ff5e1417dfff648efc0d743b8cfca87aedbfb7d9376efe93f4a2884fc321e",
+        "kind": "browser-metadata-extract"
+      },
+      "addedAt": "2026-11-21",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:50:09.683Z",
+        "httpStatus": 200,
+        "scope": "Pinned README and available code and artwork terms checked."
+      },
+      "relations": [
+        {
+          "role": "code-license",
+          "title": "LICENSE",
+          "url": "https://github.com/Monokumakuki/doubao-nailoong-widget/blob/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/LICENSE"
+        },
+        {
+          "role": "artwork-terms",
+          "title": "NOTICE.md",
+          "url": "https://github.com/Monokumakuki/doubao-nailoong-widget/blob/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/NOTICE.md"
+        },
+        {
+          "role": "asset-provenance",
+          "title": "docs/ASSETS.md",
+          "url": "https://github.com/Monokumakuki/doubao-nailoong-widget/blob/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/docs/ASSETS.md"
         }
       ]
     }

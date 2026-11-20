@@ -138,5 +138,15 @@
       "en": "Verify display, redistribution and adaptation terms for the fourth image in the creator’s post.",
       "ja": "原投稿の4枚目に適用される表示・転載・改変条件を確認する。"
     }
+  },
+  {
+    "entity": "opencode",
+    "characterId": "zipzippipe-opencode",
+    "reviewedAt": "2026-11-21",
+    "nextAction": {
+      "zh": "确认原帖第 9 张图的逐件展示、转载与改编条件。",
+      "en": "Verify display, redistribution and adaptation terms for the ninth image in the post.",
+      "ja": "原投稿の9枚目の表示・転載・改変条件を確認する。"
+    }
   }
 ]

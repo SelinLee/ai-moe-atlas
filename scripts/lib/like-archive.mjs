@@ -6,6 +6,7 @@ const filenamePattern = /^(bilibili-cumulative-likes(?:-[a-z0-9]+)*)\.json$/;
 const bvidPattern = /^BV[0-9A-Za-z]{10}$/;
 const videoEndpoint = 'https://api.bilibili.com/x/web-interface/view?bvid=';
 const searchPagePattern = /^https:\/\/search\.bilibili\.com\/(?:zh-Hans\/)?all\?keyword=[^&]+&order=pubdate$/;
+const selectiveScopes = ['candidates-and-previous-failures','selected-catalog-and-candidates'];
 const snapshotFields = ['method','contextUrl','contextHttpStatus','capturedAt','metric','source','field','scope','videos','pendingCandidates','refreshFailures'];
 const videoFields = ['bvid','snapshotUrl','observedAt','httpStatus','code','title','publisher','publisherId','publicationDate','pubdate','likes'];
 const failureFields = ['bvid','requestUrl','observedAt','httpStatus','code'];
@@ -21,7 +22,7 @@ const hasScalarValues = value => Object.values(value).every(item => item === nul
 function isPublicSnapshot(snapshot) {
   if (!hasOnly(snapshot, snapshotFields) || snapshot.source !== 'bilibili-view-api' || snapshot.metric !== 'total-likes'
     || snapshot.field !== 'data.stat.like' || !Number.isFinite(Date.parse(snapshot.capturedAt))
-    || (snapshot.scope !== undefined && snapshot.scope !== 'candidates-and-previous-failures')
+    || (snapshot.scope !== undefined && !selectiveScopes.includes(snapshot.scope))
     || !['https://www.bilibili.com/','https://www.bilibili.com/zh-Hans'].includes(snapshot.contextUrl)
     || !Array.isArray(snapshot.videos) || !Array.isArray(snapshot.pendingCandidates ?? [])
     || !Array.isArray(snapshot.refreshFailures ?? [])) return false;

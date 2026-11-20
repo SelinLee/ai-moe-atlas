@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:48:25.365Z",
+  "url": "https://www.bilibili.com/video/BV1GDbU6eEr9/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1GDbU6eEr9",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1GDbU6eEr9",
+    "title": "你也许没听说过我，但一定看过我做的大肥鱼",
+    "owner": {
+      "name": "ZipZipPipe",
+      "mid": 4168597
+    },
+    "pubdate": 1786854669,
+    "duration": 122
+  },
+  "descriptionSha256": "ff7080a802103c76c3bb219436613c230138b70a9d9fe552d096f43361f5137c",
+  "uploaderCredits": [
+    "上善无形"
+  ],
+  "linkedVideos": []
+}
