@@ -3,10 +3,27 @@ import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {assertResources,readPendingAnimationCandidates} from '../scripts/lib/resources.mjs';
-import {byCumulativeLikes,byPublicationTime} from '../src/lib/animation-ranking.mjs';
+import {beijingTime,byCumulativeLikes,byPublicationTime} from '../src/lib/animation-ranking.mjs';
+import {rankSongsByLikes} from '../src/lib/song-ranking.mjs';
 import {readLikeArchive} from '../scripts/lib/like-archive.mjs';
 const root=new URL('../',import.meta.url);
 const registry=JSON.parse(await readFile(new URL('content/resources.json',root),'utf8'));
+test('the song ranking uses the best observed version and retains unranked tracks',()=>{
+  const songs=[
+    {id:'unranked',versions:[{id:'source'}]},
+    {id:'zero',versions:[{id:'zero-version'}]},
+    {id:'one',versions:[{id:'one-version'}]},
+    {id:'two',versions:[{id:'two-version'},{id:'leading-version'}]},
+  ];
+  const records=new Map([['zero-version',0],['one-version',5],['two-version',4],['leading-version',7]]
+    .map(([id,count])=>[id,{id,likes:{count}}]));
+  assert.deepEqual(rankSongsByLikes(songs,records).map(({song,leading})=>[song.id,leading?.id]),[
+    ['two','leading-version'],['one','one-version'],['zero','zero-version'],['unranked',undefined],
+  ]);
+});
+test('Beijing observation timestamps preserve the time and local day',()=>{
+  assert.equal(beijingTime.format(new Date('2026-11-20T16:00:01.000Z')),'2026-11-21 00:00:01');
+});
 test('new resources retain source chains, video metadata and hashed evidence',async()=>{
   assert.equal(await assertResources(registry,root),registry.records.length);
   const commentary=registry.records.find(r=>r.bvid==='BV1YFn46SEEr');

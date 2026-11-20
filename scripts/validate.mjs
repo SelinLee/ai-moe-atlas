@@ -56,7 +56,7 @@ for(const song of songs){
  songIds.add(song.id);
  if(!song.versions.length||new Set(song.versions.map(version=>version.id)).size!==song.versions.length||
    song.versions.some(version=>!songVersions.has(version.id)||songVersions.get(version.id)===song.original.url||
-    !['cover','arrangement','mv','remix'].includes(version.type)))throw new Error(`Invalid song versions: ${song.id}`);
+    !['cover','arrangement','mv','remix','dance'].includes(version.type)))throw new Error(`Invalid song versions: ${song.id}`);
  if(song.image&&(!songImages.has(song.image.path)||!['characterReference','productionArt'].includes(song.image.kind)||
    !song.image.credit?.trim()||!publicLink(song.image.source)))throw new Error(`Invalid song artwork: ${song.id}`);
 }

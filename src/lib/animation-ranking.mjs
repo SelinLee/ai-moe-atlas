@@ -13,6 +13,6 @@ export const likesObservedDate = new Intl.DateTimeFormat('en-CA', {
   timeZone: 'Asia/Shanghai', year: 'numeric', month: '2-digit', day: '2-digit',
 });
 
-export const publicationTime = new Intl.DateTimeFormat('sv-SE', {
+export const beijingTime = new Intl.DateTimeFormat('sv-SE', {
   timeZone: 'Asia/Shanghai', dateStyle: 'short', timeStyle: 'medium', hourCycle: 'h23',
 });

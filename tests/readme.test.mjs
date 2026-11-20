@@ -2,11 +2,18 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile, stat} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
+import {beijingTime,byCumulativeLikes} from '../src/lib/animation-ranking.mjs';
+import {rankSongsByLikes} from '../src/lib/song-ranking.mjs';
 
 const root = new URL('../', import.meta.url);
 const read = path => readFile(new URL(path, root), 'utf8');
 const chibi=JSON.parse(await read('public/generated/super-chibi-v1/manifest.json'));
 const references=JSON.parse(await read('public/generated/ai-models-v5/manifest.json'));
+const {records}=JSON.parse(await read('content/resources.json'));
+const songs=JSON.parse(await read('content/songs.json'));
+const topVideos=records.filter(record=>record.likes).sort(byCumulativeLikes).slice(0,10);
+const topSongIds=rankSongsByLikes(songs,new Map(records.map(record=>[record.id,record])))
+ .filter(({leading})=>leading).slice(0,10).map(({song})=>song.id);
 const layouts = [
  ['README.md', 'zh', '资源目录', '收录时间线与待补项', '角色图集'],
  ['README.en.md', 'en', 'Resource directory', 'Timeline and open items', 'Character galleries'],
@@ -14,6 +21,17 @@ const layouts = [
 ];
 const categories = ['characters', 'songs', 'references', 'animations', 'desktop-pets', 'sources'];
 for (const [file, lang, directory, timeline, galleries] of layouts) {
+ test(`${file}: compact previews match the video and song rankings`,async()=>{
+  const markdown=await read(file);
+  const videos=markdown.split('<!-- animation-ranking:start -->')[1].split('<!-- animation-ranking:end -->')[0];
+  const videoRows=videos.split('\n').filter(row=>/^\| \d+ \|/.test(row));
+  assert.equal(videoRows.length,topVideos.length);
+  for(const [index,record] of topVideos.entries()){
+   assert.ok(videoRows[index].includes(`(${record.likes.sourceUrl}) · ${beijingTime.format(new Date(record.likes.observedAt))}`));
+  }
+  const songTable=markdown.split('<!-- song-ranking:start -->')[1].split('<!-- song-ranking:end -->')[0];
+  assert.deepEqual([...songTable.matchAll(/\/songs\/#([a-z0-9-]+)/g)].map(match=>match[1]),topSongIds);
+ });
  test(`${file}: each category opens with three distinct text links`,async()=>{
   const markdown = await read(file);
   const contents = markdown.slice(markdown.indexOf(`## ${directory}\n`), markdown.indexOf(`## ${timeline}\n`));

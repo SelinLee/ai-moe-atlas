@@ -30,7 +30,9 @@
       {"id": "bv19j4y6qerj", "type": "mv"},
       {"id": "bv1c7h16jehj", "type": "mv"},
       {"id": "bv1qhn46bebc", "type": "mv"},
-      {"id": "bv1exnv6je1j", "type": "mv"}
+      {"id": "bv1exnv6je1j", "type": "mv"},
+      {"id": "bv1mthc6leba", "type": "mv"},
+      {"id": "bv1tepx6nen9", "type": "mv"}
     ]
   },
   {
@@ -49,7 +51,11 @@
       {"id": "bv1byxb6eesq", "type": "mv"},
       {"id": "bv1j5nu6se4d", "type": "mv"},
       {"id": "bv1qene6vex3", "type": "mv"},
-      {"id": "bv1mus66repn", "type": "mv"}
+      {"id": "bv1mus66repn", "type": "mv"},
+      {"id": "bv1jwhy6bemj", "type": "mv"},
+      {"id": "bv1qces6sebu", "type": "mv"},
+      {"id": "bv1qhpy6ue1s", "type": "mv"},
+      {"id": "bv1arpz6web7", "type": "mv"}
     ]
   },
   {
@@ -128,5 +134,47 @@
     "title": {"zh": "キャットラビング", "en": "Cat Loving", "ja": "キャットラビング"},
     "original": {"credit": "香椎モイミ feat. 可不", "url": "https://www.youtube.com/watch?v=7gwvBrlUiww"},
     "versions": [{"id": "bv1wew16cetf", "type": "mv"}]
+  },
+  {
+    "id": "silhouette-dance",
+    "title": {"zh": "影色舞", "en": "Silhouette Dance", "ja": "影色舞"},
+    "original": {"credit": "MyGO!!!!!", "url": "https://www.bilibili.com/video/BV1gP411u7kS/"},
+    "versions": [{"id": "bv1idhc6gexq", "type": "mv"}]
+  },
+  {
+    "id": "nanjing-night-no-radio-signal",
+    "title": {"zh": "南京夜无电波讯号", "en": "Nanjing Night Without a Radio Signal", "ja": "南京夜无电波讯号"},
+    "original": {"credit": "花水r_Official · 洛天依", "url": "https://www.bilibili.com/video/BV1NcuUzJESu/"},
+    "versions": [{"id": "bv1rkje6geh2", "type": "arrangement"}]
+  },
+  {
+    "id": "flower-tower",
+    "title": {"zh": "花之塔", "en": "Tower of Flower", "ja": "花の塔"},
+    "original": {"credit": "さユり · Sayuri", "url": "https://music.apple.com/us/song/1630061094"},
+    "versions": [{"id": "bv1gpau6wehe", "type": "mv"}]
+  },
+  {
+    "id": "phony",
+    "title": {"zh": "フォニイ", "en": "Phony", "ja": "フォニイ"},
+    "original": {"credit": "ツミキ feat. 可不", "url": "https://www.nicovideo.jp/watch/sm38833751"},
+    "versions": [{"id": "bv11zhh6bewx", "type": "mv"}]
+  },
+  {
+    "id": "uptown-funk",
+    "title": {"zh": "Uptown Funk", "en": "Uptown Funk", "ja": "Uptown Funk"},
+    "original": {"credit": "Mark Ronson feat. Bruno Mars", "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0"},
+    "versions": [{"id": "bv18cnp6yeyi", "type": "mv"}, {"id": "bv1jqhv6hexk", "type": "dance"}]
+  },
+  {
+    "id": "i-will-wait",
+    "title": {"zh": "我会等", "en": "I Will Wait", "ja": "我会等"},
+    "original": {"credit": "承桓", "url": "https://music.apple.com/us/song/1678416852"},
+    "versions": [{"id": "bv1s4s86yeam", "type": "cover"}]
+  },
+  {
+    "id": "mermaid-jj-lin",
+    "title": {"zh": "美人鱼", "en": "Mermaid", "ja": "美人魚"},
+    "original": {"credit": "林俊杰 · JJ Lin", "url": "https://music.apple.com/us/song/1071753633"},
+    "versions": [{"id": "bv1obs46eegw", "type": "arrangement"}]
   }
 ]

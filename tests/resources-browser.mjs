@@ -3,10 +3,12 @@ import assert from 'node:assert/strict';
 import {createHash} from 'node:crypto';
 import {readFile,mkdir} from 'node:fs/promises';
 import {readPendingAnimationCandidates} from '../scripts/lib/resources.mjs';
-import {byPublicationTime,publicationTime} from '../src/lib/animation-ranking.mjs';
+import {byPublicationTime,beijingTime} from '../src/lib/animation-ranking.mjs';
+import {rankSongsByLikes} from '../src/lib/song-ranking.mjs';
 const registry=JSON.parse(await readFile('content/resources.json','utf8'));
 const leads=JSON.parse(await readFile('content/leads.json','utf8'));
 const songs=JSON.parse(await readFile('content/songs.json','utf8'));
+const rankedSongs=rankSongsByLikes(songs,new Map(registry.records.map(record=>[record.id,record])));
 const pending=await readPendingAnimationCandidates(registry,new URL('../',import.meta.url));
 const animationCount=registry.records.filter(r=>r.category==='animation').length;
 const ranked=registry.records.filter(r=>r.likes).sort((a,b)=>
@@ -28,7 +30,11 @@ try{
   await page.screenshot({path:`.qa/resources-home-${lang}-desktop.png`});
   await page.locator('[data-category-link="songs"]').click();
   assert.ok(page.url().endsWith(`/${lang}/songs/`));
-  assert.deepEqual(await page.locator('[data-song]').evaluateAll(cards=>cards.map(card=>card.id)),songs.map(song=>song.id));
+  assert.deepEqual(await page.locator('[data-song]').evaluateAll(cards=>cards.map(card=>card.id)),rankedSongs.map(({song})=>song.id));
+  const [firstSong]=rankedSongs;
+  const firstSongRanking=page.locator('#'+firstSong.song.id+' [data-song-ranking]');
+  assert.equal(await firstSongRanking.locator('time').innerText(),beijingTime.format(new Date(firstSong.leading.likes.observedAt)));
+  assert.ok((await firstSongRanking.locator('a').getAttribute('href')).endsWith('#'+firstSong.leading.id));
   for(const song of songs){
    const card=page.locator('#'+song.id);
    assert.equal(await card.locator('[data-song-original]').getAttribute('href'),song.original.url);
@@ -61,6 +67,8 @@ try{
    assert.equal(await page.locator('#resource-count').innerText(),String(animationCount));
   }
   assert.match(await visibleAnimations.first().innerText(),new RegExp(ranked[0].likes.count.toLocaleString(lang)));
+  const observed=visibleAnimations.first().locator(`time[datetime="${ranked[0].likes.observedAt}"]`);
+  assert.equal(await observed.innerText(),beijingTime.format(new Date(ranked[0].likes.observedAt)));
   assert.ok(await visibleAnimations.first().locator(`a[href="${ranked[0].likes.sourceUrl}"]`).first().isVisible());
   const saved=visibleAnimations.first().locator('a[href*="/evidence/likes/"]');
   const savedResponse=await page.request.get(await saved.evaluate(link=>link.href));
@@ -71,10 +79,11 @@ try{
   for(const failure of snapshot.refreshFailures??[]){
     const notice=page.locator('#'+failure.bvid.toLowerCase()+' [data-like-refresh-failure]');
     assert.equal(await notice.locator('time').getAttribute('datetime'),failure.observedAt);
+    assert.equal(await notice.locator('time').innerText(),beijingTime.format(new Date(failure.observedAt)));
     assert.ok(await notice.isVisible());
   }
   const exactPublication=visibleAnimations.first().locator(`time[datetime="${ranked[0].publishedAt}"]`);
-  assert.equal(await exactPublication.innerText(),publicationTime.format(new Date(ranked[0].publishedAt)));
+  assert.equal(await exactPublication.innerText(),beijingTime.format(new Date(ranked[0].publishedAt)));
   assert.equal(await page.locator('.resource-list img,.resource-list video,.resource-list iframe').count(),0);
   await page.locator('#resource-search').fill('ＱＷＥＮ ＭＶ');
   assert.ok(await page.locator('#bv1k1sv6jera').isVisible());

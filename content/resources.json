@@ -2234,7 +2234,13 @@
         "en": "Original post and credits only. Review the character, music and video terms separately.",
         "ja": "原投稿とクレジットを掲載。キャラクター、音楽、動画の利用条件は個別に確認。"
       },
-      "relations": [],
+      "relations": [
+        {
+          "role": "original-music",
+          "title": "さユり · Sayuri · 花之塔",
+          "url": "https://music.apple.com/us/song/1630061094"
+        }
+      ],
       "verification": {
         "result": "metadata-verified",
         "method": "isolated-headless-google-chrome",
@@ -4395,7 +4401,13 @@
         "en": "Original post and credits only. Review the character, music and video terms separately.",
         "ja": "原投稿とクレジットを掲載。キャラクター、音楽、動画の利用条件は個別に確認。"
       },
-      "relations": [],
+      "relations": [
+        {
+          "role": "original-music",
+          "title": "Mark Ronson feat. Bruno Mars · Uptown Funk",
+          "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0"
+        }
+      ],
       "verification": {
         "result": "metadata-verified",
         "method": "isolated-headless-google-chrome",
@@ -6448,6 +6460,11 @@
           "role": "character-reference",
           "title": "ZipZipPipe · AI娘化",
           "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "original-music",
+          "title": "Mili · world.execute(me);",
+          "url": "https://www.youtube.com/watch?v=ESx_hy1n7HA"
         }
       ],
       "verification": {
@@ -9428,6 +9445,11 @@
           "role": "music-terms",
           "title": "Mili · Copyright Guidelines",
           "url": "https://projectmili.com/copyright-guidelines"
+        },
+        {
+          "role": "original-music",
+          "title": "Mili · world.execute(me);",
+          "url": "https://www.youtube.com/watch?v=ESx_hy1n7HA"
         }
       ],
       "verification": {
@@ -11059,6 +11081,16 @@
           "role": "character-reference",
           "title": "ZipZipPipe · AI娘化",
           "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "original-music",
+          "title": "ツミキ feat. 可不 · フォニイ",
+          "url": "https://www.nicovideo.jp/watch/sm38833751"
+        },
+        {
+          "role": "soundtrack-recording",
+          "title": "星街すいせい · フォニイ cover",
+          "url": "https://www.youtube.com/watch?v=N029UUlH1Dc"
         }
       ],
       "verification": {
@@ -11713,6 +11745,11 @@
           "role": "production-source",
           "title": "mokongnuo · world-execute-me-flash",
           "url": "https://github.com/mokongnuo/world-execute-me-flash/blob/d2bef4b0a490a2692dd745b38a3a241d0b9bd66d/README.md"
+        },
+        {
+          "role": "original-music",
+          "title": "Mili · world.execute(me);",
+          "url": "https://www.youtube.com/watch?v=ESx_hy1n7HA"
         }
       ],
       "verification": {
@@ -11969,6 +12006,11 @@
           "role": "cited-by",
           "title": "默空诺 · 九位 AI 娘",
           "url": "https://www.bilibili.com/video/BV1ARpZ6wEB7/"
+        },
+        {
+          "role": "original-music",
+          "title": "Mili · world.execute(me);",
+          "url": "https://www.youtube.com/watch?v=ESx_hy1n7HA"
         }
       ],
       "verification": {
@@ -12950,6 +12992,11 @@
           "role": "music-source",
           "title": "罐装毕加索 · Let Me Go",
           "url": "https://www.bilibili.com/video/BV1XbY66nEWr/"
+        },
+        {
+          "role": "original-music",
+          "title": "星落落_oi · Let Me Go · 大肥鱼摸鱼歌",
+          "url": "https://www.bilibili.com/video/BV13SYr6dEiQ/"
         }
       ],
       "verification": {
@@ -29306,6 +29353,11 @@
           "role": "creator-profile",
           "title": "凌云志ing · Bilibili",
           "url": "https://space.bilibili.com/511527090"
+        },
+        {
+          "role": "original-music",
+          "title": "Mark Ronson feat. Bruno Mars · Uptown Funk",
+          "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0"
         }
       ],
       "verification": {
@@ -30522,7 +30574,18 @@
         "en": "Links to the original upload and credits. Check reuse terms for characters, music and video separately.",
         "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用条件は個別に確認。"
       },
-      "relations": [],
+      "relations": [
+        {
+          "role": "original-music",
+          "title": "承桓 · 我会等",
+          "url": "https://music.apple.com/us/song/1678416852"
+        },
+        {
+          "role": "platform-music-match",
+          "title": "承桓 · 我会等 (Bilibili)",
+          "url": "https://music.bilibili.com/pc/music-detail?music_id=MA451555672522250548&cid=43742529111&aid=117643180836871&na_close_hide=1"
+        }
+      ],
       "verification": {
         "result": "metadata-verified",
         "method": "isolated-headless-google-chrome",
@@ -30575,7 +30638,18 @@
         "en": "Links to the original upload and credits. Check reuse terms for characters, music and video separately.",
         "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用条件は個別に確認。"
       },
-      "relations": [],
+      "relations": [
+        {
+          "role": "original-music",
+          "title": "林俊杰 · JJ Lin · 美人鱼",
+          "url": "https://music.apple.com/us/song/1071753633"
+        },
+        {
+          "role": "platform-music-match",
+          "title": "林俊杰 · 美人鱼 (Bilibili)",
+          "url": "https://music.bilibili.com/pc/music-detail?music_id=MA414011530376445866&cid=43728047659&aid=117640831965928&na_close_hide=1"
+        }
+      ],
       "verification": {
         "result": "metadata-verified",
         "method": "isolated-headless-google-chrome",

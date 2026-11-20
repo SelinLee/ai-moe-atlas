@@ -3,15 +3,18 @@ import Layout from '../../layouts/Layout.astro';
 import { locales, type Locale } from '../../lib/i18n';
 import { path } from '../../lib/paths';
 import { resourceText } from '../../lib/resource-text';
-import { resources } from '../../lib/resources';
+import { beijingTime, resources } from '../../lib/resources';
+import { rankSongsByLikes } from '../../lib/song-ranking.mjs';
 import songs from '../../../content/songs.json';
 
 export function getStaticPaths() { return locales.map(lang => ({ params: { lang } })); }
 
 const lang = Astro.params.lang as Locale;
-const labels = resourceText[lang].songs;
-const title = resourceText[lang].category.songs.title;
+const s = resourceText[lang];
+const labels = s.songs;
+const title = s.category.songs.title;
 const records = new Map(resources.map(record => [record.id, record]));
+const rankedSongs = rankSongsByLikes(songs, records);
 ---
 <Layout lang={lang} title={title} description={labels.intro} active="resources" route="songs/">
   <section class="page-heading">
@@ -24,17 +27,22 @@ const records = new Map(resources.map(record => [record.id, record]));
   </section>
 
   <nav class="song-jumps" aria-label={title}>
-    {songs.map(song => <a href={`#${song.id}`}>{song.title[lang]}</a>)}
+    {rankedSongs.map(({song}) => <a href={`#${song.id}`}>{song.title[lang]}</a>)}
   </nav>
 
   <div class="resource-list song-list">
-    {songs.map(song => <article class="resource-record" id={song.id} data-song>
+    {rankedSongs.map(({song, leading}) => <article class="resource-record" id={song.id} data-song>
       {song.image && <figure>
         <img src={path(song.image.path)} alt={`${song.title[lang]} · ${labels[song.image.kind as 'characterReference' | 'productionArt']}`} width="96" height="96" loading="lazy"/>
         <figcaption>{labels[song.image.kind as 'characterReference' | 'productionArt']} · <a class="text-link" href={song.image.source}>{song.image.credit}</a></figcaption>
       </figure>}
       <h2>{song.title[lang]}</h2>
       <p><a class="text-link" href={song.original.url} data-song-original>{labels.original} ↗</a> · {song.original.credit}</p>
+      {leading && <p class="resource-byline" data-song-ranking>
+        {labels.rankingVersion} · <a class="text-link" href={path(`${lang}/resources/?category=animation#${leading.id}`)}>{leading.title[lang]}</a>
+        {' · '}<strong>{leading.likes.count.toLocaleString(lang)} {s.likes}</strong>
+        {' · '}<time datetime={leading.likes.observedAt}>{beijingTime.format(new Date(leading.likes.observedAt))}</time>
+      </p>}
       <h3>{labels.versions}</h3>
       <ul>
         {song.versions.map(version => {

@@ -10,7 +10,7 @@ import { resourceText } from './resource-text';
 import { byCumulativeLikes } from './animation-ranking.mjs';
 import type { Locale } from './i18n';
 
-export { byPublicationDate, byPublicationTime, likesObservedDate, publicationTime } from './animation-ranking.mjs';
+export { byPublicationDate, byPublicationTime, likesObservedDate, beijingTime } from './animation-ranking.mjs';
 
 export const categories=['characters','songs','references','animation','interactive','sources'] as const;
 export type Category=typeof categories[number];
