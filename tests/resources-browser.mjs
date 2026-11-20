@@ -10,6 +10,7 @@ const leads=JSON.parse(await readFile('content/leads.json','utf8'));
 const songs=JSON.parse(await readFile('content/songs.json','utf8'));
 const rankedSongs=rankSongsByLikes(songs,new Map(registry.records.map(record=>[record.id,record])));
 const pending=await readPendingAnimationCandidates(registry,new URL('../',import.meta.url));
+const currentSnapshot=JSON.parse(await readFile(registry.pendingAnimationEvidence.path,'utf8'));
 const animationCount=registry.records.filter(r=>r.category==='animation').length;
 const ranked=registry.records.filter(r=>r.likes).sort((a,b)=>
   b.likes.count-a.likes.count||b.publicationDate.localeCompare(a.publicationDate)||a.id.localeCompare(b.id));
@@ -83,7 +84,7 @@ try{
   assert.equal(createHash('sha256').update(await savedResponse.body()).digest('hex'),ranked[0].likes.evidence.sha256);
   const snapshot=await savedResponse.json();
   assert.equal(snapshot.videos.find(row=>row.bvid===ranked[0].bvid).likes,ranked[0].likes.count);
-  for(const failure of snapshot.refreshFailures??[]){
+  for(const failure of currentSnapshot.refreshFailures??[]){
     const notice=page.locator('#'+failure.bvid.toLowerCase()+' [data-like-refresh-failure]');
     assert.equal(await notice.locator('time').getAttribute('datetime'),failure.observedAt);
     assert.equal(await notice.locator('time').innerText(),beijingTime.format(new Date(failure.observedAt)));
@@ -107,6 +108,7 @@ try{
   await page.locator('#bv1yfn46seer summary').click();
   assert.ok(await page.locator('#bv1yfn46seer details a[href*="BV1AAnt6qEek"]').isVisible());
   const languageLink=page.locator('.language-switch a').filter({hasText:lang==='ja'?'English':'日本語'});await languageLink.click();
+  await page.waitForSelector('[data-resource-filter="animation"][aria-pressed="true"]');
   assert.equal(await page.locator('[data-resource-category]:visible').count(),1);
   assert.ok(page.url().includes('category=animation'));
   await page.goto(`${origin}/${lang}/resources/?category=animation#pending-animation-evidence`,{waitUntil:'networkidle'});
@@ -162,6 +164,7 @@ try{
   await archive.waitFor({state:'visible'});
   assert.ok(await archive.locator('a[href$="/2026-11-07/bilibili-cumulative-likes.json"]').isVisible());
   assert.ok((await archive.locator('code').first().innerText()).includes(registry.pendingAnimationEvidence.sha256));
+  if(currentSnapshot.scope)assert.ok(await archive.locator(`[data-capture-scope="${currentSnapshot.scope}"]`).first().isVisible());
   for(const width of [390,768]){
    await page.setViewportSize({width,height:844});
    for(const route of ['', 'songs/', 'resources/?category=animation&type=mv','resources/?category=interactive']){

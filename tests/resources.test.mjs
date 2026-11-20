@@ -63,8 +63,12 @@ test('the public like archive retains current evidence bytes and historical batc
   assert.equal(current.sha256,registry.pendingAnimationEvidence.sha256);
   assert.deepEqual(current.bytes,await readFile(new URL(current.path,root)));
   const ranked=registry.records.filter(row=>row.likes);
+  const archiveByPath=new Map(archives.map(archive=>[archive.path,archive]));
+  const snapshotPath=row=>row.likes.evidence?.path ?? row.evidence.path;
+  assert.ok(ranked.every(row=>archiveByPath.has(snapshotPath(row))));
+  assert.equal(current.videoCount,ranked.filter(row=>snapshotPath(row)===current.path).length);
   const lastSuccessful=new Map(ranked.map(row=>[row.bvid,row.likes]));
-  assert.equal(current.videoCount+current.refreshFailures.length,ranked.length);
+  if(!current.scope)assert.equal(current.videoCount+current.refreshFailures.length,ranked.length);
   for(const failure of current.refreshFailures){
     const previous=lastSuccessful.get(failure.bvid);
     assert.ok(previous && previous.evidence.path!==current.path);

@@ -1,0 +1,27 @@
+{
+  "method": "isolated-headless-google-chrome",
+  "checkedAt": "2026-11-20T15:38:15.518Z",
+  "contextUrl": "https://www.bilibili.com/zh-Hans",
+  "contextHttpStatus": 200,
+  "metric": "data.stat.like",
+  "counts": {
+    "catalog": {
+      "attempted": 490,
+      "successfulLikes": 3,
+      "http412": 487
+    },
+    "candidates": {
+      "attempted": 51,
+      "successfulLikes": 0,
+      "http412": 51
+    }
+  },
+  "trackedCandidates": 9,
+  "disposition": "The last broadly verified public ranking and its candidate snapshot were retained.",
+  "retainedSnapshot": {
+    "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
+    "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+    "kind": "browser-metadata-extract"
+  },
+  "retainedObservedAt": "2026-11-20T15:24:03.189Z"
+}

@@ -2,7 +2,9 @@ import { readFile } from 'node:fs/promises';
 import { chromium } from 'playwright';
 import { readPendingAnimationCandidates } from './lib/resources.mjs';
 
-const supplied = process.argv.slice(2);
+const args = process.argv.slice(2);
+const candidatesOnly = args[0] === '--candidates-only';
+const supplied = candidatesOnly ? args.slice(1) : args;
 if (supplied.some(id => !/^BV[0-9A-Za-z]{10}$/.test(id))) {
   throw new Error('Arguments must be Bilibili BV IDs');
 }
@@ -23,7 +25,8 @@ try {
   if (!response?.ok()) throw new Error(`Bilibili homepage returned ${response?.status()}`);
 
   const observations = [];
-  const requested = [...ids, ...leads];
+  const requested = candidatesOnly ? leads : [...ids, ...leads];
+  let stoppedEarly = false;
   for (let index = 0; index < requested.length; index += 5) {
     const batch = await page.evaluate(async bvids => Promise.all(bvids.map(async bvid => {
       const requestUrl = 'https://api.bilibili.com/x/web-interface/view?bvid=' + bvid;
@@ -44,6 +47,10 @@ try {
       }
     })), requested.slice(index, index + 5));
     observations.push(...batch);
+    if (observations.length < requested.length && batch.every(row => [412, 429].includes(row.httpStatus))) {
+      stoppedEarly = true;
+      break;
+    }
   }
 
   const snapshot = {
@@ -52,10 +59,18 @@ try {
     videos: observations.filter(row => ids.has(row.bvid)),
     trackedCandidateIds: tracked,
     candidates: observations.filter(row => !ids.has(row.bvid)),
+    captureScope: candidatesOnly ? 'candidates-only' : 'catalog-and-candidates',
+    captureComplete: !stoppedEarly,
+    requestedCount: requested.length,
+    attemptedCount: observations.length,
   };
   process.stdout.write(JSON.stringify(snapshot, null, 2) + '\n');
 
   const unverified = observations.filter(row => !isVerified(row));
+  if (stoppedEarly) {
+    process.stderr.write(`Collection stopped after ${observations.length} of ${requested.length} requests because every request in the last batch returned HTTP 412 or 429.\n`);
+    process.exitCode = 1;
+  }
   if (unverified.length) {
     process.stderr.write(`Unverified observations: ${unverified.map(row => row.bvid).join(', ')}\n`);
     if (unverified.some(row => ids.has(row.bvid) || supplied.includes(row.bvid))) process.exitCode = 1;

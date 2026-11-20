@@ -12,11 +12,17 @@ const animations = records.filter(record => record.category === 'animation');
 const ranked = animations.filter(record => record.likes).sort(byCumulativeLikes);
 const rankedSongs = rankSongsByLikes(songs, new Map(records.map(record => [record.id, record])))
   .filter(({ leading }) => leading);
-const evidencePaths = new Set(ranked.map(record => record.likes.evidence?.path ?? record.evidence.path));
-const currentEvidence = registry.pendingAnimationEvidence?.path;
-const evidenceUrl = evidencePaths.has(currentEvidence)
-  ? currentEvidence : evidencePaths.size === 1 ? [...evidencePaths][0] : 'content/research/';
 const previewCount = 10;
+const videoPreview = ranked.slice(0, previewCount);
+const songPreview = rankedSongs.slice(0, previewCount);
+
+function previewEvidence(records) {
+  const paths = new Set(records.map(record => record.likes.evidence?.path ?? record.evidence.path));
+  return paths.size === 1 ? paths.values().next().value : 'content/research/';
+}
+
+const videoEvidence = previewEvidence(videoPreview);
+const songEvidence = previewEvidence(songPreview.map(({ leading }) => leading));
 const text = {
   zh: {
     file: 'README.md', header: '| 排名 | 作品 | 发布者 | 累计点赞（北京时间） |',
@@ -75,13 +81,13 @@ for (const [lang, copy] of Object.entries(text)) {
   const file = new URL(copy.file, root);
   const original = await readFile(file, 'utf8');
 
-  const rows = ranked.slice(0, previewCount).map((record, index) => {
+  const rows = videoPreview.map((record, index) => {
     const { count, observedAt, sourceUrl } = record.likes;
     const observed = beijingTime.format(new Date(observedAt));
     return `| ${index + 1} | [${cell(record.title[lang])}](${record.url}) | ${cell(record.publisher)} | [${count.toLocaleString(lang)}](${sourceUrl}) · ${observed} |`;
   });
   const online = `https://selinlee.github.io/ai-moe-atlas/${lang}/resources/?category=animation`;
-  const parts = [copy.intro, `[${copy.browse}](${online}) · [${copy.evidence}](${evidenceUrl}) · [${copy.archive}](${online}#like-evidence)`];
+  const parts = [copy.intro, `[${copy.browse}](${online}) · [${copy.evidence}](${videoEvidence}) · [${copy.archive}](${online}#like-evidence)`];
   const quickLinks = ['mv', 'story', 'dance'].map((type, index) => `[${copy.quickTypes[index]}](${online}&type=${type})`);
   parts.push([`[${copy.recent}](${online}&sort=recent)`, ...quickLinks].join(' · '));
   if (pendingCandidates.length) parts[2] += ` · [${copy.candidateLabel}](${online}#pending-animation-evidence)`;
@@ -90,10 +96,10 @@ for (const [lang, copy] of Object.entries(text)) {
 
   let updated = replaceRanking(original, 'animation', parts, copy.file);
   const songsUrl = `https://selinlee.github.io/ai-moe-atlas/${lang}/songs/`;
-  const songRows = rankedSongs.slice(0, previewCount).map(({ song, leading }) =>
+  const songRows = songPreview.map(({ song, leading }) =>
     `| [${cell(song.title[lang])}](${songsUrl}#${song.id}) | ${cell(song.original.credit)} | ${cell(leading.title[lang])} | ${leading.likes.count.toLocaleString(lang)} |`);
   const songParts = [copy.songIntro, [copy.songHeader, '| --- | --- | --- | ---: |', ...songRows].join('\n'),
-    `[${copy.songBrowse}](${songsUrl}) · [${copy.evidence}](${evidenceUrl})`];
+    `[${copy.songBrowse}](${songsUrl}) · [${copy.evidence}](${songEvidence})`];
   updated = replaceRanking(updated, 'song', songParts, copy.file);
   updated = updateDirectoryCount(updated, 'animations', animations.length);
   updated = updateDirectoryCount(updated, 'songs', songs.length);

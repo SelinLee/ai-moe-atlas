@@ -12,8 +12,9 @@ const references=JSON.parse(await read('public/generated/ai-models-v5/manifest.j
 const {records}=JSON.parse(await read('content/resources.json'));
 const songs=JSON.parse(await read('content/songs.json'));
 const topVideos=records.filter(record=>record.likes).sort(byCumulativeLikes).slice(0,10);
-const topSongIds=rankSongsByLikes(songs,new Map(records.map(record=>[record.id,record])))
- .filter(({leading})=>leading).slice(0,10).map(({song})=>song.id);
+const topSongs=rankSongsByLikes(songs,new Map(records.map(record=>[record.id,record])))
+ .filter(({leading})=>leading).slice(0,10);
+const topSongIds=topSongs.map(({song})=>song.id);
 const layouts = [
  ['README.md', 'zh', '资源目录', '收录时间线与待补项', '角色图集'],
  ['README.en.md', 'en', 'Resource directory', 'Timeline and open items', 'Character galleries'],
@@ -31,6 +32,10 @@ for (const [file, lang, directory, timeline, galleries] of layouts) {
   }
   const songTable=markdown.split('<!-- song-ranking:start -->')[1].split('<!-- song-ranking:end -->')[0];
   assert.deepEqual([...songTable.matchAll(/\/songs\/#([a-z0-9-]+)/g)].map(match=>match[1]),topSongIds);
+  for (const [table, leaders] of [[videos, topVideos], [songTable, topSongs.map(({leading}) => leading)]]) {
+   const paths = [...new Set(leaders.map(record => record.likes.evidence?.path ?? record.evidence.path))];
+   assert.ok(table.includes(`(${paths.length === 1 ? paths[0] : 'content/research/'})`));
+  }
  });
  test(`${file}: the directory shows three distinct text links beneath each category`,async()=>{
   const markdown = await read(file);

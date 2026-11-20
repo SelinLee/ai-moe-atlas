@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:44:58.468Z",
+  "url": "https://www.bilibili.com/video/BV1ALxY6aEH9/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ALxY6aEH9",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1ALxY6aEH9",
+    "title": "愛包ダンスホール | 大肥鱼 【模型配布】",
+    "owner": {
+      "name": "hihihihi202",
+      "mid": 3546568969947566
+    },
+    "pubdate": 1793336646,
+    "duration": 440
+  },
+  "descriptionSha256": "2e4207577e3e7cbde4bb6a2fe70e1caad2765cda79402cce93127aabdef87535",
+  "uploaderCredits": [
+    "HIMEHINA",
+    "Gohgo"
+  ],
+  "linkedVideos": [
+    "BV1kQg36YE5V"
+  ]
+}

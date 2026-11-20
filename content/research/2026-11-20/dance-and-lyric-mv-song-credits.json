@@ -1,0 +1,119 @@
+{
+  "method": "isolated-headless-google-chrome",
+  "matches": [
+    {
+      "id": "heart-pie-dancehall",
+      "original": {
+        "url": "https://old.himehina.jp/contents/699470",
+        "finalUrl": "https://old.himehina.jp/contents/699470",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:46:54.315Z",
+        "htmlSha256": "19dc688997515442ed7e7392c705664f788baee5aed354101ee7f5d16e01f83b",
+        "title": "新曲『愛包ダンスホール』MV公開＆記念アクスタ発売決定！ | ヒメヒナ公式WEB＆FCジョジ倶楽部",
+        "matched": [
+          "愛包ダンスホール",
+          "HIMEHINA"
+        ]
+      },
+      "version": {
+        "bvid": "BV1ALxY6aEH9",
+        "url": "https://www.bilibili.com/video/BV1ALxY6aEH9/",
+        "officialMetadataUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1ALxY6aEH9",
+        "httpStatus": 200,
+        "observedAt": "2026-11-20T15:45:51.955Z",
+        "bodySha256": "d1c7cb0094980ad37c64af45868301a95a28ecbb2afc0f5158cc5cec38a53efa",
+        "platformTag": "发现《爱派Dancehall》",
+        "uploaderText": [
+          "愛包ダンスホール / HIMEHINA"
+        ]
+      }
+    },
+    {
+      "id": "future-eve",
+      "original": {
+        "url": "https://blog.piapro.net/2022/06/q2206171.html",
+        "finalUrl": "https://blog.piapro.net/2022/06/q2206171.html",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:46:52.994Z",
+        "htmlSha256": "57f71c3dba38a0a82501b7fd8e536310cadd13d7c066a45958514d36b4c65287",
+        "title": "【マジカルミライ】テーマソング「フューチャー・イヴ」MV公開！！ – 初音ミク公式ブログ",
+        "matched": [
+          "フューチャー・イヴ",
+          "sasakure.UK",
+          "初音ミク"
+        ]
+      },
+      "version": {
+        "bvid": "BV1Hysa6fEv2",
+        "url": "https://www.bilibili.com/video/BV1Hysa6fEv2/",
+        "officialMetadataUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1Hysa6fEv2",
+        "httpStatus": 200,
+        "observedAt": "2026-11-20T15:45:52.005Z",
+        "bodySha256": "62ac7d1e90944f4503fc42d4a92a06850649bad41af9e5423a3b56ddd8a8f028",
+        "uploaderText": [
+          "フューチャー・イヴ"
+        ]
+      }
+    },
+    {
+      "id": "two-faced-lovers",
+      "original": {
+        "url": "https://piapro.jp/t/NXYR",
+        "finalUrl": "https://piapro.jp/t/NXYR",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:46:55.904Z",
+        "htmlSha256": "10b5cd958cd3485c144d34c44f438eb6713626d638856d5b317014e755807bb3",
+        "title": "オンガク「裏表ラバーズ」",
+        "matched": [
+          "裏表ラバーズ",
+          "wowaka"
+        ]
+      },
+      "version": {
+        "bvid": "BV15cWi6QEwE",
+        "url": "https://www.bilibili.com/video/BV15cWi6QEwE/",
+        "officialMetadataUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV15cWi6QEwE",
+        "httpStatus": 200,
+        "observedAt": "2026-11-20T15:45:51.988Z",
+        "bodySha256": "183e8eaf026811adabe5f201020e5f30e9a9c01ce10e99a302506a97df4cf812",
+        "platformTag": "发现《Two Faced Lovers》",
+        "uploaderText": [
+          "鳴花ヒメ・ミコト",
+          "dj-Jo Remix"
+        ]
+      }
+    },
+    {
+      "id": "la-gloire-a-mes-genoux",
+      "original": {
+        "url": "https://music.apple.com/fr/song/1599074189",
+        "finalUrl": "https://music.apple.com/fr/song/la-gloire-a-mes-genoux/1599074189",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:49:17.934Z",
+        "htmlSha256": "7f71aa3918b9e62f2168593f153b2def79067ab4c1c26370681c10a30eadf038",
+        "title": "‎La gloire à mes genoux – Morceau avec paroles par Le rouge et le noir – Apple Music",
+        "matched": [
+          "La gloire à mes genoux",
+          "Côme"
+        ],
+        "vocalCreditSource": {
+          "url": "https://www.rfm.fr/news/Le-Rouge-et-le-Noir-decouvrez-le-titre-La-gloire-a-mes-genoux-3247",
+          "artist": "Côme",
+          "htmlSha256": "a2969f331e170e3f7fbfedf1c63e9b5bd954aaf85ce2e25b8485f8b4c3de5f2a",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-20T15:49:27.311Z"
+        }
+      },
+      "version": {
+        "bvid": "BV1T8Hn6fEHD",
+        "url": "https://www.bilibili.com/video/BV1T8Hn6fEHD/",
+        "officialMetadataUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1T8Hn6fEHD",
+        "httpStatus": 200,
+        "observedAt": "2026-11-20T15:45:52.067Z",
+        "bodySha256": "0863cece7c0cef3dc12621a6dbaadcf39358d5073777719e061bfb88026f5982",
+        "platformTag": "发现《La gloire à mes genoux》",
+        "uploaderText": []
+      }
+    }
+  ]
+}

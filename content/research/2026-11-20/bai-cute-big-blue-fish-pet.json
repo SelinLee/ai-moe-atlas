@@ -1,0 +1,57 @@
+{
+  "full_name": "Bai-Cute/big-blue-fish-desktop-pet",
+  "html_url": "https://github.com/Bai-Cute/big-blue-fish-desktop-pet",
+  "stargazers_count": 377,
+  "archived": false,
+  "created_at": "2026-10-03T19:28:51Z",
+  "default_branch": "main",
+  "license": "Apache-2.0",
+  "description": "蓝色大肥鱼 Windows AI 桌宠，内置 4B 本地大模型，以鲸鱼娘人设结合天气、科技新闻和当前应用，通过文字气泡温柔陪伴。支持一键安装与离电暂停推理。Big Blue Fish desktop pet with local LLM.",
+  "fork": false,
+  "observedAt": "2026-11-20T15:38:12.562Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "commit": "aebf9cc56f7dcae0c23e2c90952cd18c025282d7",
+      "url": "https://github.com/Bai-Cute/big-blue-fish-desktop-pet/blob/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Bai-Cute/big-blue-fish-desktop-pet/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/README.md",
+      "sourceSha256": "73fc11272de75d425f0746dc0260526d4779cdf019e3c451d1e2e2e1021787c7",
+      "gitBlobSha": "6b100e2a13bc195271d877bbe9717a26927e073b"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "commit": "aebf9cc56f7dcae0c23e2c90952cd18c025282d7",
+      "url": "https://github.com/Bai-Cute/big-blue-fish-desktop-pet/blob/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Bai-Cute/big-blue-fish-desktop-pet/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/LICENSE",
+      "sourceSha256": "fb86ca91c9f4a721199bcdceb15b73592bbcb189ad380bd78db2ab2344f55b10",
+      "gitBlobSha": "d49c9df8910c107b960ed27893cbbf470485642a"
+    },
+    "code/THIRD-PARTY.md": {
+      "path": "code/THIRD-PARTY.md",
+      "commit": "aebf9cc56f7dcae0c23e2c90952cd18c025282d7",
+      "url": "https://github.com/Bai-Cute/big-blue-fish-desktop-pet/blob/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/code/THIRD-PARTY.md",
+      "rawUrl": "https://raw.githubusercontent.com/Bai-Cute/big-blue-fish-desktop-pet/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/code/THIRD-PARTY.md",
+      "sourceSha256": "2e460fe39f86af8927dfc01146db748fb1644073b6ca287539c26c1fb8d94838",
+      "gitBlobSha": "007585f5250c983956395aadd73da59e05438aa6",
+      "bytes": 7257
+    }
+  },
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:40:54.237Z",
+  "assets": [],
+  "pinnedDocument": {
+    "path": "README.md",
+    "commit": "aebf9cc56f7dcae0c23e2c90952cd18c025282d7",
+    "url": "https://github.com/Bai-Cute/big-blue-fish-desktop-pet/blob/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Bai-Cute/big-blue-fish-desktop-pet/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/README.md",
+    "sourceSha256": "73fc11272de75d425f0746dc0260526d4779cdf019e3c451d1e2e2e1021787c7",
+    "gitBlobSha": "6b100e2a13bc195271d877bbe9717a26927e073b"
+  },
+  "method": "github-rest-api-and-isolated-headless-google-chrome",
+  "upstreamArtNotice": {
+    "path": "content/research/2026-11-07/pc2005-dsh-pet.json",
+    "sha256": "1062dfd5a3f2e5bf879bcea3d1023e66a7058834886878168b67e0c37979c920",
+    "kind": "browser-metadata-extract"
+  },
+  "scope": "Pinned README and provenance documents verified byte-for-byte."
+}

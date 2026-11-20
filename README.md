@@ -26,7 +26,7 @@
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/) · [Gemini · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-gemini/) · [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/zh/characters/shangshan-whale/)
 
 <!-- category-picks:songs -->
-**[🎵 歌曲](#songs)** · 35 首曲目\
+**[🎵 歌曲](#songs)** · 39 首曲目\
 [人是猫](https://selinlee.github.io/ai-moe-atlas/zh/songs/#humans-are-cats) · [Let Me Go · 大肥鱼摸鱼歌](https://selinlee.github.io/ai-moe-atlas/zh/songs/#let-me-go) · [虫儿飞](https://selinlee.github.io/ai-moe-atlas/zh/songs/#fireflies)
 
 <!-- category-picks:references -->
@@ -34,15 +34,15 @@
 [Claude 角色参考图](https://selinlee.github.io/ai-moe-atlas/zh/references/#claude) · [DeepSeek Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#deepseek) · [千问 Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#qwen)
 
 <!-- category-picks:animations -->
-**[🎬 动画与视频二创](#animations)** · 490 条记录\
+**[🎬 动画与视频二创](#animations)** · 502 条记录\
 [如果聊天窗口就是她的整个世界](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1xcai6ae9g) · [败犬 AI 太多了！· 正式 PV](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1nfag6xehq) · [Claude × DeepSeek · 把明天跑通](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1rd476leux)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 桌宠与交互项目](#desktop-pets)** · 85 个项目\
+**[🐾 桌宠与交互项目](#desktop-pets)** · 89 个项目\
 [CrossPet · 跨 AI 桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#crosspet) · [Copiwaifu · Live2D 编程桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#copiwaifu-live2d) · [Deep Whale Day & Night · 昼夜工坊](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#deep-whale-day-night)
 
 <!-- category-picks:sources -->
-**[📚 作者作品与出处](#sources)** · 73 条来源\
+**[📚 作者作品与出处](#sources)** · 75 条来源\
 [上善无形 · 鲸鱼娘原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI 娘化图集](https://www.pixiv.net/artworks/148186519) · [Small-tailqwq · 鲸鱼娘女仆素材](https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier)
 
 <a id="characters"></a>
@@ -78,7 +78,7 @@
 
 <!-- song-ranking:end -->
 
-[原曲出处](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲与版本核对](content/research/2026-11-20/song-originals-and-fan-versions.json) · [片头曲与二创用曲核对](content/research/2026-11-20/character-songs-and-opening-credits.json)
+[原曲出处](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲与版本核对](content/research/2026-11-20/song-originals-and-fan-versions.json) · [片头曲与二创用曲核对](content/research/2026-11-20/character-songs-and-opening-credits.json) · [舞蹈与歌词 MV 用曲核对](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json)
 
 <a id="references"></a>
 
@@ -115,7 +115,7 @@
 
 <!-- animation-ranking:end -->
 
-[搜索索引与官方接口复查](content/research/2026-11-20/bilibili-op-search-and-recheck.json)
+本轮复查了候选及先前缺数的 6 条旧作。其他作品显示各自上次成功观测的点赞。 [本轮复查范围](content/research/2026-11-20/bilibili-candidate-recovery-scope.json) · [全量接口受限记录](content/research/2026-11-20/bilibili-2026-11-20-restricted-capture.json)
 
 <a id="desktop-pets"></a>
 
@@ -125,21 +125,21 @@
 
 | 排名 | 项目 | GitHub Star |
 | ---: | --- | ---: |
-| 1 | [小鲸鱼 · DeepSeek 余额挂件](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/blob/5247dd6813d6e4430728f39ccc63d43cda046022/README.md) | [7,378](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) |
+| 1 | [小鲸鱼 · DeepSeek 余额挂件](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/blob/5247dd6813d6e4430728f39ccc63d43cda046022/README.md) | [7,380](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) |
 | 2 | [Clawd on Desk · 鲸鱼娘主题](https://github.com/rullerzhou-afk/clawd-on-desk/blob/323da9f17a9872e1b1ceca6c9c9783e0eaa83a72/README.zh-CN.md) | [6,794](https://github.com/rullerzhou-afk/clawd-on-desk) |
-| 3 | [DSH Pet · 大肥鱼动画桌宠](https://github.com/PC2005-cloud/dsh-pet/blob/29a5af50f60a63caeeace66a514f47ed3198d0fa/README.md) | [6,588](https://github.com/PC2005-cloud/dsh-pet) |
-| 4 | [Coopanion · 桌宠与形象包宿主](https://github.com/Pal-AI-Lab/Coopanion/blob/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/README_zh.md) | [3,601](https://github.com/Pal-AI-Lab/Coopanion) |
-| 5 | [桌面大肥鱼 · dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md) | [3,332](https://github.com/MerZlin/dsh-pet-indesktop) |
+| 3 | [DSH Pet · 大肥鱼动画桌宠](https://github.com/PC2005-cloud/dsh-pet/blob/29a5af50f60a63caeeace66a514f47ed3198d0fa/README.md) | [6,591](https://github.com/PC2005-cloud/dsh-pet) |
+| 4 | [Coopanion · 桌宠与形象包宿主](https://github.com/Pal-AI-Lab/Coopanion/blob/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/README_zh.md) | [3,609](https://github.com/Pal-AI-Lab/Coopanion) |
+| 5 | [桌面大肥鱼 · dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md) | [3,333](https://github.com/MerZlin/dsh-pet-indesktop) |
 | 6 | [CrossPet · 跨 AI 桌宠](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | [526](https://github.com/lokicorvus/crosspet) |
 | 7 | [Whale Girl · 网页与桌面鲸鱼娘](https://github.com/vlln/whale-girl/blob/9c32d7a39a45148076f8ad2fdaad2dc2420eedb3/README.zh.md) | [413](https://github.com/vlln/whale-girl) |
-| 8 | [GPT 娘 · 用量挂件](https://github.com/T7moris/GPT-Niang/blob/43f20dee539b642902e56819747a605b3fdddf44/README.md) | [305](https://github.com/T7moris/GPT-Niang) |
-| 9 | [DSH Whale Musume · 鲸鱼娘桌宠](https://github.com/Sutera-Diffusus/dsh-whale-musume/blob/df31dd9c3e8cd8d7b371930deb928bba6b1988c6/README.md) | [223](https://github.com/Sutera-Diffusus/dsh-whale-musume) |
-| 10 | [大肥鱼表情包 · DSH 插件](https://github.com/Loping151/dsh-nekowhale-stickers/blob/b7b58c0ff347d639fabe87d90d6716c4b3cad185/README.md) | [206](https://github.com/Loping151/dsh-nekowhale-stickers) |
+| 8 | [蓝色大肥鱼 · 跨平台桌宠](https://github.com/Bai-Cute/big-blue-fish-desktop-pet/blob/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/README.md) | [377](https://github.com/Bai-Cute/big-blue-fish-desktop-pet) |
+| 9 | [GPT 娘 · 用量挂件](https://github.com/T7moris/GPT-Niang/blob/43f20dee539b642902e56819747a605b3fdddf44/README.md) | [306](https://github.com/T7moris/GPT-Niang) |
+| 10 | [DSH Whale Musume · 鲸鱼娘桌宠](https://github.com/Sutera-Diffusus/dsh-whale-musume/blob/df31dd9c3e8cd8d7b371930deb928bba6b1988c6/README.md) | [223](https://github.com/Sutera-Diffusus/dsh-whale-musume) |
 
-[在线浏览全部桌宠与交互项目](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-20/github-interactive-stars-character-music.json)
+[在线浏览全部桌宠与交互项目](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-20/github-interactive-stars-q-whale.json)
 
 <details>
-<summary>展开全部 85 个项目与出处</summary>
+<summary>展开全部 89 个项目与出处</summary>
 
 | 项目 | 内容 | 发布者 |
 | --- | --- | --- |
@@ -230,6 +230,10 @@
 | [DSH AI Pets · 桌宠精灵图转换项目](https://github.com/jiangwx0218-glitch/dsh-ai-pets/blob/34851e113a2d436d35b0584f92cc862c456bdf94/README.md) | 将 PC2005-cloud 和 hunmer 项目的精灵图整理成 DSH 动作包。固定说明保留上游署名和转换步骤。 | jiangwx0218-glitch |
 | [Whale-Maid · 鲸鱼娘女仆 DSH 桌宠](https://github.com/hellokiaqi/whale-maid-dsh-pet/blob/782eac5a55e688f2afd4a001b37fb4eab8fd5245/README.md) | 鲸鱼娘女仆动作包。发布说明称立绘与动作图为 AI 生成，参考一张鲸鱼娘梗图，原作者待核。 | hellokiaqi |
 | [大肥鱼的家园 · DSH 侧栏](https://github.com/suika1984/dsh-fishhome/blob/54aefd37a7e5490b6bab1a882c13a2ed6a6f6484/README.md) | 随现实时间变换动画的鲸鱼娘小屋。角色会读书、打盹和在房间移动，内置房间编辑器。 | suika1984 |
+| [蓝色大肥鱼 · 跨平台桌宠](https://github.com/Bai-Cute/big-blue-fish-desktop-pet/blob/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/README.md) | Windows、Linux 和 macOS 桌宠，提供角色动画、本地对话及不同活动状态。说明追溯 106 段角色动画至 PC2005-cloud/dsh-pet。 | Bai-Cute |
+| [大肥鱼 · DSH 生活系统](https://github.com/minedalang/dsh-dafeiyu-life/blob/4b9d16b7f384fca9a65b0b70d4757deccda518a9/README.md) | 以大肥鱼为角色的 DSH 互动插件，按发布者文档提供生活记录与记忆。固定版列出三个直接上游。 | minedalang |
+| [magpie-DaFeiYu · 鲸鱼娘桌宠](https://github.com/wolfvoid/magpie-DaFeiYu/blob/2d379416b0553681601a20ac18c82f29dc7a73b4/README.md) | Windows 与 macOS 桌宠，随 Magpie 状态切换大肥鱼动画。文档将动画固定到上游提交并逐文件核验。 | wolfvoid |
+| [AI 桌宠 · 四角色 macOS 版](https://github.com/rf-liu/ai-pets/blob/cab15e31f37cffadae51f72ed70f87b7928c6736/README.md) | 原生 macOS 应用提供 GPT 龙娘、Gemini 猫娘、Claude 和小鲸鱼，分别跟随相关工具状态。素材表逐项记录角色图、表情和音效。 | rf-liu |
 
 </details>
 
@@ -246,6 +250,8 @@
 
 本次补充：
 
+- [zyd232 · Q 版鲸鱼娘三视图档案](https://xn--pssy23gqgbz2d718b.com/works/deepseek202610090014.html) · 档案将这张带面部特写的 2208 × 960 三视图署名给 zyd232，原作者栏留空。已确认其固定版 JPG 的校验值。 [出处核对](content/research/2026-11-20/zyd232-q-whale-sheet-archive.json)
+- [辰楹 · 鲸鱼娘心魔及 Q 版改绘](https://github.com/TreapGoGo/deepseek-whale-girl/issues/48) · 辰楹在三则原投稿明确注明「这个刀子真甜」的 Q 版形象为参考，并标注使用生成式 AI 或辅助。五张投稿图均已核对 SHA-256。 [出处核对](content/research/2026-11-20/chenying-whale-girl-designs.json)
 - [三重野chiame · 鲸鱼娘 Live2D 配布展示](https://www.bilibili.com/video/BV1stxa6eESB/) · 作者自署绘制与建模，允许二创及商业直播，禁止出售。半定制模板和二次分发的范围待核。 [作者署名与配布核对](content/research/2026-11-20/whale-live2d-and-claude-chibi-provenance.json)
 - [识知不失智 · Muse 娘原创角色 PV](https://www.bilibili.com/video/BV1jEnD6RE1t/) · 作者在投稿简介中把自己的 Muse 娘立绘与设定标为 CC BY 4.0，指定署名「Muse 娘原创设定 by （识知不失智）」。Meta 品牌元素与 Jolly 另有归属。视频与音频仅收录原投稿链接。 [核对记录](content/research/2026-11-20/bv1jend6re1t.json)
 - [Muse 娘 · 设定板与逐件出处](https://xn--pssy23gqgbz2d718b.com/works/other202611130007.html) · 保留宣传设定板、设计拆解及五件立绘或表情的出处。七件均核对了固定版本 SHA-256，并链接作者的角色发布与授权说明。 [核对记录](content/research/2026-11-20/muse-girl-archive-and-rights.json)
@@ -321,6 +327,7 @@
 
 | 时间 / 状态 | 进展 |
 | --- | --- |
+| 2026-11-20 · 候选复查、Q 版出处与跨平台桌宠 | 新增 12 条视频二创、4 首歌曲、4 个交互项目和 2 条作者出处。复查 9 条候选和 6 条旧作，榜单按各条实际观测时间展示。 |
 | 2026-11-20 · 角色歌曲、Live2D 与桌宠 | 新增 37 条视频二创、8 首歌曲和 5 个交互项目。484 条作品更新官方点赞，6 条沿用上次记录，9 条候选待核。核对鲸鱼娘 Live2D 的二创、商业直播和禁售条款。 |
 | 2026-11-20 · Mistral 词条、原曲与新增二创 | 新增 23 条视频二创、5 首歌曲和 Mistral 法棍猫娘词条。447 条作品更新点赞，6 条沿用上次记录，7 条候选保留搜索出处并待核点赞。 |
 | 2026-11-20 · 二创点赞复查与白龙桌宠 | 新增 17 条视频二创和 4 个桌宠项目。424 条作品取得新点赞快照，6 条沿用上次成功记录。3 条候选补录 B 站搜索出处，官方接口仍未返回点赞。 |
@@ -358,7 +365,7 @@
 | 2026-11-03 · 已发布 | 加入 7 张角色涂鸦及配套提示词模板。 |
 | 待补 · Copilot 飞行员版 | 校园版已有素材包。yamamemo 飞行员版两张图为 512 × 768，高清原图和使用条件仍待核。[候选记录](docs/BASELINES.zh.md) |
 | 待补 · GLM 狐娘视频版 | 视频封面与 ZipZipPipe 图集第 7 张的眼罩、侧边 Z 饰牌和双铃一致。视频发布页未直接署名，改编条件待核。[对照记录](content/research/2026-11-18/glm-fox-design-comparison.json) |
-| 待补 · Q 版鲸鱼娘 | 已有[7 月 10 日视频](https://www.bilibili.com/video/BV1SBMH6NEJo/)与 10 月 20 日的三视图索引。单张设定稿首发、是否与档案图为同一文件及逐件许可待核。[发布线索](content/research/2026-11-18/dao-chibi-turnaround-publication.json) |
+| 待补 · Q 版鲸鱼娘 | 已核对档案署名「这个刀子真甜」的 2480 × 1385 PNG 和 SHA-256。抖音首发线索与该图的对应关系及逐图许可待核。 [出处核对](content/research/2026-11-20/dao-chibi-source-and-archive-file.json) |
 
 动画记录依据发布页文字与元数据整理；本次未逐镜头审阅或下载视频。个别投稿页的首轮核验范围仍保留在原记录中，榜单点赞均已另用官方接口核对。公开投稿、平台“自制”标记或软件 MIT 许可均不构成素材再分发授权。ZipZipPipe《一些更新》由作者标记为 AI 生成；Mico 的官方身份与图片使用许可分别核对。
 

@@ -3,8 +3,8 @@
   "updatedAt": "2026-11-20",
   "scope": "source-metadata-only",
   "pendingAnimationEvidence": {
-    "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
-    "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+    "path": "content/research/2026-11-20/bilibili-cumulative-likes-candidate-recovery.json",
+    "sha256": "6c48be608ac3e175b0691cd73f02742f8e78ac1dc3f388a1b5a2239efd29760d",
     "kind": "browser-metadata-extract"
   },
   "records": [
@@ -27328,9 +27328,9 @@
       "url": "https://www.douyin.com/video/7698645160699170099",
       "publisher": "这个刀子真甜",
       "summary": {
-        "zh": "抖音公开索引显示，作者于 2026-10-20 发布近期视频的 Q 版角色三视图。档案站另有署名相同的《小肥鱼三视图》，两处是否为同一份文件待核。",
-        "en": "The public Douyin index shows a chibi turnaround post dated October 20, 2026 under this creator’s name. A separate archive credits the same name for a Whale Girl sheet. The exact file match remains unverified.",
-        "ja": "抖音の公開索引に、同名の作者による2026年10月20日のちびキャラ三面図投稿を確認。資料館にも同じ名義のクジラ娘の三面図があり、同一ファイルかは確認待ち。"
+        "zh": "抖音索引列出 2026-10-20 的 Q 版三视图发布线索。社区档案中署名「这个刀子真甜」的《小肥鱼三视图》为 2480 × 1385，已核对固定版本和 SHA-256。两处对应关系待核。",
+        "en": "The Douyin index lists a Q-style turnaround post from October 20, 2026. The archive sheet credited to 这个刀子真甜 measures 2480 × 1385 and has a verified pinned SHA-256. Its match to the indexed post is pending.",
+        "ja": "抖音の索引には2026年10月20日のちびキャラ三面図が掲載されています。「这个刀子真甜」名義の資料版は 2480 × 1385 で、固定版の SHA-256 を確認。索引にある投稿との対応は確認待ち。"
       },
       "addedAt": "2026-11-18",
       "publicationDate": "2026-10-20",
@@ -27357,18 +27357,23 @@
           "role": "related-post",
           "title": "这个刀子真甜 · 抱抱小公主",
           "url": "https://www.bilibili.com/video/BV1s63m66Eu8/"
+        },
+        {
+          "role": "archive-credit-link",
+          "title": "这个刀子真甜 · Bilibili",
+          "url": "https://space.bilibili.com/23315338"
         }
       ],
       "verification": {
         "result": "partial-response",
         "method": "isolated-headless-google-chrome",
-        "attemptedAt": "2026-11-18T09:28:53.952Z",
+        "attemptedAt": "2026-11-20T15:41:26.154Z",
         "httpStatus": 200,
-        "scope": "Original-page search index supplied title, display date and creator name. The isolated Chrome page reached the player shell only. The separate archive page and its attribution and terms labels were reviewed."
+        "scope": "Player shell rechecked. The separate archive credit, file dimensions and pinned SHA-256 were verified. Original post and public redistribution scope still await review."
       },
       "evidence": {
-        "path": "content/research/2026-11-18/dao-chibi-turnaround-publication.json",
-        "sha256": "ff41030f2f49f51dda9a3be6b3b9285a0b8128f7a91dafbd7dbbfdad3d470169",
+        "path": "content/research/2026-11-20/dao-chibi-source-and-archive-file.json",
+        "sha256": "d32998ba938acc69bfe1090ef7c71ec931333b3d58d0f53d4dddaba462787cf0",
         "kind": "browser-metadata-extract"
       },
       "sourceTitle": "近期视频的角色三视图"
@@ -36117,6 +36122,1033 @@
           "url": "https://github.com/suika1984/dsh-fishhome/blob/54aefd37a7e5490b6bab1a882c13a2ed6a6f6484/LICENSE"
         }
       ]
+    },
+    {
+      "id": "zyd232-q-whale-sheet",
+      "category": "sources",
+      "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202610090014.html",
+      "publisher": "蓝色大肥鱼同人档案",
+      "addedAt": "2026-11-20",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "title": {
+        "zh": "zyd232 · Q 版鲸鱼娘三视图档案",
+        "en": "zyd232 · Archived Whale Girl Chibi Turnaround",
+        "ja": "zyd232 · クジラ娘ちびキャラ三面図の資料"
+      },
+      "summary": {
+        "zh": "档案将这张带面部特写的 2208 × 960 三视图署名给 zyd232，原作者栏留空。已确认其固定版 JPG 的校验值。",
+        "en": "The archive credits zyd232 for a 2208 × 960 turnaround with a face close-up. Its original-author field is blank. The pinned JPG checksum was verified.",
+        "ja": "顔のアップを含む 2208 × 960 の三面図を資料サイトが zyd232 名義で掲載。原作者欄は空欄です。固定版 JPG のチェックサムを確認。"
+      },
+      "rights": {
+        "zh": "提供出处与核对记录。逐图使用许可、首发和可再分发范围待核。",
+        "en": "Links to the source and verification record. Artwork-specific rights, first publication and redistribution scope remain open.",
+        "ja": "出典と確認記録を掲載。画像別の利用条件、初出および再配布範囲は確認待ち。"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T15:37:47.846Z",
+        "httpStatus": 200,
+        "scope": "Archive attribution, dimensions and pinned file bytes checked."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-20/zyd232-q-whale-sheet-archive.json",
+        "sha256": "b503893640a278f5cf5fd86a4a2706f704df1d53b5f1ed6ba594d0bf28a544de",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "other-archive-variant",
+          "title": "蓝色大肥鱼 · 小肥鱼三视图",
+          "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202611140007.html"
+        }
+      ]
+    },
+    {
+      "id": "chenying-q-whale-derivatives",
+      "category": "sources",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/48",
+      "publisher": "辰楹",
+      "addedAt": "2026-11-20",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "title": {
+        "zh": "辰楹 · 鲸鱼娘心魔及 Q 版改绘",
+        "en": "辰楹 · Whale Girl Alter Ego and Chibi Adaptations",
+        "ja": "辰楹 · クジラ娘のもう一人の自分とちびキャラ派生"
+      },
+      "summary": {
+        "zh": "辰楹在三则原投稿明确注明「这个刀子真甜」的 Q 版形象为参考，并标注使用生成式 AI 或辅助。五张投稿图均已核对 SHA-256。",
+        "en": "In three submissions, 辰楹 credits 这个刀子真甜’s chibi design and discloses generative AI assistance. The five posted images were checked by SHA-256.",
+        "ja": "辰楹 は3件の原投稿で「这个刀子真甜」のちびキャラを参照し、生成 AI またはその補助を使用したと記載。投稿画像5点の SHA-256 を確認。"
+      },
+      "rights": {
+        "zh": "提供出处与核对记录。逐图使用许可、首发和可再分发范围待核。",
+        "en": "Links to the source and verification record. Artwork-specific rights, first publication and redistribution scope remain open.",
+        "ja": "出典と確認記録を掲載。画像別の利用条件、初出および再配布範囲は確認待ち。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-20/chenying-whale-girl-designs.json",
+        "sha256": "d8b1e2787bab5faf62230ad33ad780aae31ff41fba67b12bc8d592009c874022",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T15:42:02.562Z",
+        "httpStatus": 200,
+        "scope": "Three creator submissions and five attachment checksums verified. Individual reuse terms remain unverified."
+      },
+      "relations": [
+        {
+          "role": "related-creator-submission",
+          "title": "辰楹 · 熔岩大肥鱼",
+          "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/50"
+        },
+        {
+          "role": "related-creator-submission",
+          "title": "辰楹 · 原始大肥鱼",
+          "url": "https://github.com/TreapGoGo/deepseek-whale-girl/issues/51"
+        },
+        {
+          "role": "gallery-attribution",
+          "title": "Iphsiibl · ATTRIBUTION.md",
+          "url": "https://github.com/iphsiibl/deepseek-whale-girl-gallery/blob/dbe9770ab75f5daecb6909dc2cc14c46a9567b41/ATTRIBUTION.md"
+        },
+        {
+          "role": "upstream-design-lead",
+          "title": "这个刀子真甜 · 角色三视图",
+          "url": "https://www.douyin.com/video/7698645160699170099"
+        }
+      ]
+    },
+    {
+      "id": "bai-cute-big-blue-fish-pet",
+      "category": "interactive",
+      "url": "https://github.com/Bai-Cute/big-blue-fish-desktop-pet/blob/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/README.md",
+      "publisher": "Bai-Cute",
+      "title": {
+        "zh": "蓝色大肥鱼 · 跨平台桌宠",
+        "en": "Big Blue Fish · Cross-Platform Desktop Pet",
+        "ja": "青い大きな魚 · クロスプラットフォームのペット"
+      },
+      "summary": {
+        "zh": "Windows、Linux 和 macOS 桌宠，提供角色动画、本地对话及不同活动状态。说明追溯 106 段角色动画至 PC2005-cloud/dsh-pet。",
+        "en": "A Windows, Linux and macOS pet with character animation, local chat and activity states. Its documentation traces 106 character clips to PC2005-cloud/dsh-pet.",
+        "ja": "Windows、Linux、macOS に対応し、アニメーション、ローカル対話、状態表示を提供。文書では106本のキャラクター動画を PC2005-cloud/dsh-pet にさかのぼる。"
+      },
+      "rights": {
+        "zh": "项目采用 Apache 2.0。下游说明将动画写为 MIT，上游另有非商用素材条件。图鉴提供两处固定文档，逐件再分发范围待核。",
+        "en": "The project uses Apache 2.0. Its notice labels the animation MIT, and upstream gives separate noncommercial asset terms. Both pinned documents are linked while per-file redistribution is unresolved.",
+        "ja": "プロジェクトは Apache 2.0。派生側はアニメーションを MIT と記載し、上流には非商用の素材規約があります。両方の固定版を掲載し、ファイル別の再配布条件は確認待ち。"
+      },
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "addedAt": "2026-11-20",
+      "usage": "source-only",
+      "downloadable": false,
+      "evidence": {
+        "path": "content/research/2026-11-20/bai-cute-big-blue-fish-pet.json",
+        "sha256": "acd24366f2d9eac78069074471d94da181addb377a6c71b8789dc345cf237472",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "code-license",
+          "title": "LICENSE",
+          "url": "https://github.com/Bai-Cute/big-blue-fish-desktop-pet/blob/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/LICENSE"
+        },
+        {
+          "role": "third-party-provenance",
+          "title": "code/THIRD-PARTY.md",
+          "url": "https://github.com/Bai-Cute/big-blue-fish-desktop-pet/blob/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/code/THIRD-PARTY.md"
+        },
+        {
+          "role": "upstream-artwork-terms",
+          "title": "PC2005-cloud/dsh-pet · Pinned upstream terms",
+          "url": "https://github.com/PC2005-cloud/dsh-pet/blob/29a5af50f60a63caeeace66a514f47ed3198d0fa/README.md"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-api-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T15:40:54.237Z",
+        "httpStatus": 200,
+        "scope": "Pinned project and artwork credits checked."
+      }
+    },
+    {
+      "id": "dsh-dafeiyu-life",
+      "category": "interactive",
+      "url": "https://github.com/minedalang/dsh-dafeiyu-life/blob/4b9d16b7f384fca9a65b0b70d4757deccda518a9/README.md",
+      "publisher": "minedalang",
+      "title": {
+        "zh": "大肥鱼 · DSH 生活系统",
+        "en": "Fat Fish · DSH Character Life System",
+        "ja": "大きな魚 · DSH キャラクターの生活システム"
+      },
+      "summary": {
+        "zh": "以大肥鱼为角色的 DSH 互动插件，按发布者文档提供生活记录与记忆。固定版列出三个直接上游。",
+        "en": "A Fat Fish interaction plugin for DSH with activity records and memory. The pinned notice traces three direct upstream projects.",
+        "ja": "生活記録と記憶を備えた、大きな魚を題材とする DSH 交流プラグイン。固定版に直接の上流プロジェクト3件を記載。"
+      },
+      "rights": {
+        "zh": "插件代码为 MIT。第三方声明记录各上游代码署名和归属，角色美术另按原作者条件核对。",
+        "en": "The plugin code is MIT. Its notice credits the upstream code. Artwork remains subject to the original creators’ terms.",
+        "ja": "プラグインのコードは MIT。第三者文書に上流コードのクレジットを記載し、イラストは元の作者の条件を確認。"
+      },
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "addedAt": "2026-11-20",
+      "usage": "source-only",
+      "downloadable": false,
+      "evidence": {
+        "path": "content/research/2026-11-20/dsh-dafeiyu-life.json",
+        "sha256": "9cb6f2e55086eaa10a991ad3611ba7be0b9a1b0fe6b46ab625c7c1bca66e9494",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "code-license",
+          "title": "LICENSE",
+          "url": "https://github.com/minedalang/dsh-dafeiyu-life/blob/4b9d16b7f384fca9a65b0b70d4757deccda518a9/LICENSE"
+        },
+        {
+          "role": "upstream-attribution",
+          "title": "NOTICE.md",
+          "url": "https://github.com/minedalang/dsh-dafeiyu-life/blob/4b9d16b7f384fca9a65b0b70d4757deccda518a9/NOTICE.md"
+        },
+        {
+          "role": "upstream-project",
+          "title": "c1overzz/dsh-bili-scroll",
+          "url": "https://github.com/c1overzz/dsh-bili-scroll"
+        },
+        {
+          "role": "upstream-project",
+          "title": "Yuuyuko-uu/dsh-fish-memory",
+          "url": "https://github.com/Yuuyuko-uu/dsh-fish-memory"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-api-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T15:40:53.957Z",
+        "httpStatus": 200,
+        "scope": "Pinned project and artwork credits checked."
+      }
+    },
+    {
+      "id": "magpie-dafeiyu-pet",
+      "category": "interactive",
+      "url": "https://github.com/wolfvoid/magpie-DaFeiYu/blob/2d379416b0553681601a20ac18c82f29dc7a73b4/README.md",
+      "publisher": "wolfvoid",
+      "title": {
+        "zh": "magpie-DaFeiYu · 鲸鱼娘桌宠",
+        "en": "magpie-DaFeiYu · Whale Girl Companion",
+        "ja": "magpie-DaFeiYu · クジラ娘デスクトップペット"
+      },
+      "summary": {
+        "zh": "Windows 与 macOS 桌宠，随 Magpie 状态切换大肥鱼动画。文档将动画固定到上游提交并逐文件核验。",
+        "en": "A Windows and macOS companion that switches Whale Girl animations with Magpie activity. The documentation pins and verifies its upstream animation files.",
+        "ja": "Magpie の動きに応じてクジラ娘のアニメーションを切り替える Windows・macOS ペット。上流ファイルを固定して個別に検証。"
+      },
+      "rights": {
+        "zh": "项目自有代码为 MIT，角色动画等素材遵循 PC2005-cloud/dsh-pet 的署名和非商用条件。",
+        "en": "Project code uses MIT, and character animation follows the attribution and noncommercial terms of PC2005-cloud/dsh-pet.",
+        "ja": "自作コードは MIT。キャラクターのアニメーションは PC2005-cloud/dsh-pet のクレジット・非商用条件に従う。"
+      },
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "addedAt": "2026-11-20",
+      "usage": "source-only",
+      "downloadable": false,
+      "evidence": {
+        "path": "content/research/2026-11-20/magpie-dafeiyu-pet.json",
+        "sha256": "ea8719982c9331e7768f9c7c10c8bcd1cf3281469c8a8107e4e91d17e7672751",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "code-license",
+          "title": "LICENSE",
+          "url": "https://github.com/wolfvoid/magpie-DaFeiYu/blob/2d379416b0553681601a20ac18c82f29dc7a73b4/LICENSE"
+        },
+        {
+          "role": "artwork-notice",
+          "title": "THIRD_PARTY_NOTICES.md",
+          "url": "https://github.com/wolfvoid/magpie-DaFeiYu/blob/2d379416b0553681601a20ac18c82f29dc7a73b4/THIRD_PARTY_NOTICES.md"
+        },
+        {
+          "role": "upstream-artwork-terms",
+          "title": "PC2005-cloud/dsh-pet · Pinned upstream terms",
+          "url": "https://github.com/PC2005-cloud/dsh-pet/blob/29a5af50f60a63caeeace66a514f47ed3198d0fa/README.md"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-api-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T15:40:54.314Z",
+        "httpStatus": 200,
+        "scope": "Pinned project and artwork credits checked."
+      }
+    },
+    {
+      "id": "rfliu-ai-pets",
+      "category": "interactive",
+      "url": "https://github.com/rf-liu/ai-pets/blob/cab15e31f37cffadae51f72ed70f87b7928c6736/README.md",
+      "publisher": "rf-liu",
+      "title": {
+        "zh": "AI 桌宠 · 四角色 macOS 版",
+        "en": "AI Pets · Four Characters for macOS",
+        "ja": "AI ペット · macOS の4キャラクター"
+      },
+      "summary": {
+        "zh": "原生 macOS 应用提供 GPT 龙娘、Gemini 猫娘、Claude 和小鲸鱼，分别跟随相关工具状态。素材表逐项记录角色图、表情和音效。",
+        "en": "A native macOS companion with GPT Dragon Girl, Gemini Cat Girl, Claude and Whale Girl. Its source list tracks portraits, expressions and audio individually.",
+        "ja": "GPT 竜娘、Gemini 猫娘、Claude、クジラ娘を収録した macOS アプリ。立ち絵、表情、音声の出典を個別に記載。"
+      },
+      "rights": {
+        "zh": "主体代码采用 MIT。角色图、派生表情、音效和第三方内容各有来源及使用条件。",
+        "en": "The main code is MIT. Character images, derivative expressions, sounds and other third-party material have their own terms.",
+        "ja": "本体コードは MIT。キャラクター画像、派生表情、音声などの第三者素材は個別の利用条件に従う。"
+      },
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "addedAt": "2026-11-20",
+      "usage": "source-only",
+      "downloadable": false,
+      "evidence": {
+        "path": "content/research/2026-11-20/rfliu-ai-pets.json",
+        "sha256": "2cdc022110eb1e639e26fce03503a681101a5d06ad74dc6a1e8c2221c7ed9e8e",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "code-license",
+          "title": "LICENSE",
+          "url": "https://github.com/rf-liu/ai-pets/blob/cab15e31f37cffadae51f72ed70f87b7928c6736/LICENSE"
+        },
+        {
+          "role": "artwork-notice",
+          "title": "docs/ATTRIBUTION.md",
+          "url": "https://github.com/rf-liu/ai-pets/blob/cab15e31f37cffadae51f72ed70f87b7928c6736/docs/ATTRIBUTION.md"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-api-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T15:40:54.236Z",
+        "httpStatus": 200,
+        "scope": "Pinned project and artwork credits checked."
+      }
+    },
+    {
+      "id": "bv1efng61ets",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1EFng61ETs",
+      "url": "https://www.bilibili.com/video/BV1EFng61ETs/",
+      "title": {
+        "zh": "大肥鱼 × 卡巴斯酱 · 隔离事件",
+        "en": "Fat Fish × Kaspersky Girl · A Quarantine Skit",
+        "ja": "大きな魚 × カスペルスキー娘 · 隔離の寸劇"
+      },
+      "sourceTitle": "悲报！大肥鱼在与卡巴斯基的搏斗中不幸身亡！【DeepSeek娘 vs 卡巴斯酱】",
+      "publisher": "爱挑TV",
+      "summary": {
+        "zh": "虚构短片。作者分别署名这个刀子真甜的 Q 版参考、zyd232 的档案三视图和蒙德砍壬的分镜参考。",
+        "en": "A fictional short. The uploader separately credits 这个刀子真甜’s chibi reference, the archived sheet credited to zyd232 and 蒙德砍壬’s shot reference.",
+        "ja": "フィクションの短編。「这个刀子真甜」のちびキャラ、zyd232 名義の三面図、蒙德砍壬 のカット参考を個別に記載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-20",
+      "publicationDate": "2026-10-18",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-18T06:54:39.000Z",
+      "likes": {
+        "count": 2537,
+        "observedAt": "2026-11-20T15:44:57.766Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1EFng61ETs",
+        "evidence": {
+          "path": "content/research/2026-11-20/bilibili-cumulative-likes-candidate-recovery.json",
+          "sha256": "6c48be608ac3e175b0691cd73f02742f8e78ac1dc3f388a1b5a2239efd29760d",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-20/bv1efng61ets.json",
+        "sha256": "a71870a4b5fa5a429ca4fc9853ff624fc3ecd5ecc413527b9b803ec2eba920be",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "credited-archive",
+          "title": "zyd232 · Archived chibi turnaround",
+          "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202610090014.html"
+        },
+        {
+          "role": "credited-reference",
+          "title": "TreapGoGo · Whale Girl Gallery",
+          "url": "https://treapgogo.github.io/deepseek-whale-girl/"
+        },
+        {
+          "role": "uploader-reference",
+          "title": "BV15X3n6mEWy",
+          "url": "https://www.bilibili.com/video/BV15X3n6mEWy/"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T15:44:57.766Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1alxy6aeh9",
+      "category": "animation",
+      "subtype": "dance",
+      "bvid": "BV1ALxY6aEH9",
+      "url": "https://www.bilibili.com/video/BV1ALxY6aEH9/",
+      "title": {
+        "zh": "鲸鱼娘 · 愛包ダンスホール与模型展示",
+        "en": "Whale Girl · Heart Pie Dancehall and Model Demo",
+        "ja": "クジラ娘 · 愛包ダンスホールとモデル紹介"
+      },
+      "sourceTitle": "愛包ダンスホール | 大肥鱼 【模型配布】",
+      "publisher": "hihihihi202",
+      "summary": {
+        "zh": "作者展示自制的 DeepSeek 娘模型。简介将 HIMEHINA 原曲、官方动作、镜头参考和模型分开署名。",
+        "en": "The author shows a self-made DeepSeek Girl model. The description credits HIMEHINA’s song, official motion, camera reference and character model separately.",
+        "ja": "作者自作の DeepSeek 娘モデルを展示。HIMEHINA の原曲、公式モーション、カメラ参考、モデルを個別にクレジット。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-20",
+      "publicationDate": "2026-10-30",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-30T05:04:06.000Z",
+      "likes": {
+        "count": 231,
+        "observedAt": "2026-11-20T15:44:58.468Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ALxY6aEH9",
+        "evidence": {
+          "path": "content/research/2026-11-20/bilibili-cumulative-likes-candidate-recovery.json",
+          "sha256": "6c48be608ac3e175b0691cd73f02742f8e78ac1dc3f388a1b5a2239efd29760d",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-20/bv1alxy6aeh9.json",
+        "sha256": "8c590b072b3294dbeea14581def7afe97e4dd02fef8bc7f58e484079053c193a",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "official-song",
+          "title": "HIMEHINA · 愛包ダンスホール",
+          "url": "https://old.himehina.jp/contents/699470"
+        },
+        {
+          "role": "uploader-reference",
+          "title": "BV1kQg36YE5V",
+          "url": "https://www.bilibili.com/video/BV1kQg36YE5V/"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T15:44:58.468Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv14mbh6kecd",
+      "category": "animation",
+      "subtype": "commentary",
+      "bvid": "BV14mbh6kEcd",
+      "url": "https://www.bilibili.com/video/BV14mbh6kEcd/",
+      "title": {
+        "zh": "猫伊cat · 虎鲸娘 VRM 与 DSH 桌宠",
+        "en": "猫伊cat · Orca Girl VRM and DSH Pet",
+        "ja": "猫伊cat · シャチ娘の VRM と DSH ペット"
+      },
+      "sourceTitle": "【DSH】3D虎鲸娘桌宠插件github开源&VRM免费皮套配布中",
+      "publisher": "猫伊cat",
+      "summary": {
+        "zh": "作者展示虎鲸娘 VRM 和桌宠插件，简介允许自用，禁止商用及把模型用于扩散模型。",
+        "en": "The uploader presents an Orca Girl VRM and DSH companion. The description allows personal use and prohibits commercial use and use with diffusion models.",
+        "ja": "シャチ娘の VRM と DSH ペットを紹介。概要欄は個人利用を認め、商用利用と拡散モデルへの投入を禁止。"
+      },
+      "rights": {
+        "zh": "发布者允许自用，禁止商用及把模型用于扩散模型。独立再分发的范围待核。",
+        "en": "The uploader allows personal use and prohibits commercial use or use with diffusion models. Standalone redistribution terms are pending.",
+        "ja": "投稿者は個人利用を認め、商用利用と拡散モデルへの投入を禁止。素材単体の再配布範囲は確認待ち。"
+      },
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-20",
+      "publicationDate": "2026-08-17",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-08-17T00:53:25.000Z",
+      "likes": {
+        "count": 47,
+        "observedAt": "2026-11-20T15:44:58.584Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV14mbh6kEcd",
+        "evidence": {
+          "path": "content/research/2026-11-20/bilibili-cumulative-likes-candidate-recovery.json",
+          "sha256": "6c48be608ac3e175b0691cd73f02742f8e78ac1dc3f388a1b5a2239efd29760d",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-20/bv14mbh6kecd.json",
+        "sha256": "37979425f3a3922185237d4df64e5789c3a321a30fff509c97ba291b07ff46f8",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T15:44:58.584Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1hysa6fev2",
+      "category": "animation",
+      "subtype": "mv",
+      "bvid": "BV1Hysa6fEv2",
+      "url": "https://www.bilibili.com/video/BV1Hysa6fEv2/",
+      "title": {
+        "zh": "Gemini 猫娘 · フューチャー・イヴ",
+        "en": "Gemini Cat Girl · Future Eve",
+        "ja": "Gemini 猫娘 · フューチャー・イヴ"
+      },
+      "sourceTitle": "【Gemini4 Neon】13448帧画出猫娘眼中的未来前夜 | フューチャー・イヴ",
+      "publisher": "八重村巫女樱",
+      "summary": {
+        "zh": "以 Gemini 猫娘为视角的代码歌词 MV。简介直接注明《フューチャー・イヴ》。",
+        "en": "A code-rendered lyric MV from Gemini Cat Girl’s perspective. The uploader names Future Eve in the description.",
+        "ja": "Gemini 猫娘の視点を描くコード描画の歌詞 MV。概要欄に『フューチャー・イヴ』を明記。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-20",
+      "publicationDate": "2026-11-20",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-19T16:58:31.000Z",
+      "likes": {
+        "count": 1,
+        "observedAt": "2026-11-20T15:44:58.481Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Hysa6fEv2",
+        "evidence": {
+          "path": "content/research/2026-11-20/bilibili-cumulative-likes-candidate-recovery.json",
+          "sha256": "6c48be608ac3e175b0691cd73f02742f8e78ac1dc3f388a1b5a2239efd29760d",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-20/bv1hysa6fev2.json",
+        "sha256": "8cd12951482fec9b1ddb39701c21fccb75508a4a10a1b2b8f83e02a0b1b88a05",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "uploader-reference",
+          "title": "BV186pc65E68",
+          "url": "https://www.bilibili.com/video/BV186pc65E68/"
+        },
+        {
+          "role": "official-song",
+          "title": "sasakure.UK feat. 初音ミク · フューチャー・イヴ",
+          "url": "https://blog.piapro.net/2022/06/q2206171.html"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T15:44:58.481Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv15cwi6qewe",
+      "category": "animation",
+      "subtype": "mv",
+      "bvid": "BV15cWi6QEwE",
+      "url": "https://www.bilibili.com/video/BV15cWi6QEwE/",
+      "title": {
+        "zh": "DeepSeek × Claude · 里表情人",
+        "en": "DeepSeek × Claude · Two-Faced Lovers",
+        "ja": "DeepSeek × Claude · 裏表ラバーズ"
+      },
+      "sourceTitle": "里表情人【DeepSeek×Claude】",
+      "publisher": "柠晴_official",
+      "summary": {
+        "zh": "作者注明 ZipZipPipe 的角色设计，配乐为 dj-Jo 混音的鳴花ヒメ・ミコト版《裏表ラバーズ》。",
+        "en": "The uploader credits ZipZipPipe’s designs and the Meika Hime and Mikoto version of Two-Faced Lovers using the dj-Jo remix.",
+        "ja": "キャラクターを ZipZipPipe、楽曲を dj-Jo リミックスの鳴花ヒメ・ミコト版『裏表ラバーズ』と記載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-20",
+      "publicationDate": "2026-11-13",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-13T11:42:46.000Z",
+      "likes": {
+        "count": 1389,
+        "observedAt": "2026-11-20T15:44:58.506Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15cWi6QEwE",
+        "evidence": {
+          "path": "content/research/2026-11-20/bilibili-cumulative-likes-candidate-recovery.json",
+          "sha256": "6c48be608ac3e175b0691cd73f02742f8e78ac1dc3f388a1b5a2239efd29760d",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-20/bv15cwi6qewe.json",
+        "sha256": "c8919bb14e7f1218a97b16a107d61149d1be56076996c94d50f10e2a0853f4cb",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "credited-arrangement",
+          "title": "Meika Hime and Mikoto · dj-Jo Remix",
+          "url": "https://www.youtube.com/watch?v=gxeOCPcOJII"
+        },
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "official-song",
+          "title": "wowaka feat. 初音ミク · 裏表ラバーズ",
+          "url": "https://piapro.jp/t/NXYR"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T15:44:58.506Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1t8hn6fehd",
+      "category": "animation",
+      "subtype": "mv",
+      "bvid": "BV1T8Hn6fEHD",
+      "url": "https://www.bilibili.com/video/BV1T8Hn6fEHD/",
+      "title": {
+        "zh": "大肥鱼 · La gloire à mes genoux",
+        "en": "Fat Fish · La gloire à mes genoux",
+        "ja": "大きな魚 · La gloire à mes genoux"
+      },
+      "sourceTitle": "【DeepSeek 大肥鱼】让荣耀向我俯首｜La gloire à mes genoux",
+      "publisher": "镜花Mirror",
+      "summary": {
+        "zh": "镜花Mirror 从鲸鱼娘形象演变企划中选取画面改做 PV。标题和 B 站歌曲标签均标出《La gloire à mes genoux》。",
+        "en": "镜花Mirror adapted scenes from a planned Whale Girl design retrospective into this PV. Both the title and Bilibili’s song tag name La gloire à mes genoux.",
+        "ja": "鏡花Mirror がクジラ娘の変遷を振り返る企画から映像を選んで制作した PV。題名と Bilibili の楽曲タグに『La gloire à mes genoux』を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-20",
+      "publicationDate": "2026-10-05",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-05T00:00:00.000Z",
+      "likes": {
+        "count": 2110,
+        "observedAt": "2026-11-20T15:44:58.518Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1T8Hn6fEHD",
+        "evidence": {
+          "path": "content/research/2026-11-20/bilibili-cumulative-likes-candidate-recovery.json",
+          "sha256": "6c48be608ac3e175b0691cd73f02742f8e78ac1dc3f388a1b5a2239efd29760d",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-20/bv1t8hn6fehd.json",
+        "sha256": "9bd54d5f41ec415e0551a4c387c483daeb6428bd0abb10632ff8c52bd944026a",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "official-song",
+          "title": "Côme · Le Rouge et le Noir · La gloire à mes genoux",
+          "url": "https://music.apple.com/fr/song/1599074189"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T15:44:58.518Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1tvsh6wekz",
+      "category": "animation",
+      "subtype": "mv",
+      "bvid": "BV1TVsh6wEKz",
+      "url": "https://www.bilibili.com/video/BV1TVsh6wEKz/",
+      "title": {
+        "zh": "Grok 娘主题曲 MV 预告 · 是真的吗？别慌张",
+        "en": "Grok Girl Theme MV Preview · Is It True? Stay Calm",
+        "ja": "Grok 娘テーマ MV 予告 · 本当？慌てないで"
+      },
+      "sourceTitle": "【4K】【Grok角色主题曲】Grok娘MV（预告）｜是真的吗？别慌张！【AI MV大赛】",
+      "publisher": "小伙伴Ko",
+      "summary": {
+        "zh": "小伙伴Ko 发布的 Grok 角色主题曲 MV 预告。",
+        "en": "A Grok character-song MV preview published by 小伙伴Ko.",
+        "ja": "小伙伴Ko による Grok のキャラクターソング MV 予告。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-20",
+      "publicationDate": "2026-11-20",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-20T08:00:00.000Z",
+      "likes": {
+        "count": 590,
+        "observedAt": "2026-11-20T15:44:59.088Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TVsh6wEKz",
+        "evidence": {
+          "path": "content/research/2026-11-20/bilibili-cumulative-likes-candidate-recovery.json",
+          "sha256": "6c48be608ac3e175b0691cd73f02742f8e78ac1dc3f388a1b5a2239efd29760d",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-20/bv1tvsh6wekz.json",
+        "sha256": "9ded67cbf82469436ac56d88da53bcc0ca6728f85763f7b3e4f2a45ba9f5bc29",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T15:44:59.088Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1abwt68exp",
+      "category": "animation",
+      "subtype": "mv",
+      "bvid": "BV1abWt68EXp",
+      "url": "https://www.bilibili.com/video/BV1abWt68EXp/",
+      "title": {
+        "zh": "Grok, IS IT TRUE? · 主题曲试听",
+        "en": "Grok, IS IT TRUE? · Theme Song Preview",
+        "ja": "Grok, IS IT TRUE? · テーマ曲試聴"
+      },
+      "sourceTitle": "【NO.19】《grok，IS IT TRUE？》主题曲试听片段震撼发布！ai娘mv计划开启！",
+      "publisher": "grok想去哪儿就去哪",
+      "summary": {
+        "zh": "发布者介绍多角色 MV 计划，并在试听简介中提到 Suno。",
+        "en": "The uploader introduces a multi-character MV project and mentions Suno in the preview description.",
+        "ja": "複数キャラクターの MV 企画を紹介する試聴。概要欄に Suno への言及があります。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-20",
+      "publicationDate": "2026-11-09",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-09T11:30:08.000Z",
+      "likes": {
+        "count": 42,
+        "observedAt": "2026-11-20T15:44:59.113Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1abWt68EXp",
+        "evidence": {
+          "path": "content/research/2026-11-20/bilibili-cumulative-likes-candidate-recovery.json",
+          "sha256": "6c48be608ac3e175b0691cd73f02742f8e78ac1dc3f388a1b5a2239efd29760d",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-20/bv1abwt68exp.json",
+        "sha256": "28a33d86fd6aa94f18070d739b839033667f0ad175bebcfad3e21fff5d958db8",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T15:44:59.113Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1hxwb69enq",
+      "category": "animation",
+      "subtype": "mv",
+      "bvid": "BV1hXWB69ENQ",
+      "url": "https://www.bilibili.com/video/BV1hXWB69ENQ/",
+      "title": {
+        "zh": "鲸鱼娘原创曲 · 吃饱再说！",
+        "en": "Whale Girl Original Song · Eat First!",
+        "ja": "クジラ娘のオリジナル曲 · まずはひとくち！"
+      },
+      "sourceTitle": "【鲸鱼娘原创曲】吃饱再说！完整版MV｜今天也要先吃饱饱再思考🍚",
+      "publisher": "浅川_Asagawa",
+      "summary": {
+        "zh": "《吃饱再说！》完整 MV。浅川在简介署名作词、作曲与作画。",
+        "en": "The full Eat First! MV. 浅川 credits the lyrics, composition and illustration.",
+        "ja": "『まずはひとくち！』の完全版 MV。浅川 が作詞・作曲・作画をクレジット。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-20",
+      "publicationDate": "2026-11-13",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-13T12:52:06.000Z",
+      "likes": {
+        "count": 6,
+        "observedAt": "2026-11-20T15:44:59.111Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hXWB69ENQ",
+        "evidence": {
+          "path": "content/research/2026-11-20/bilibili-cumulative-likes-candidate-recovery.json",
+          "sha256": "6c48be608ac3e175b0691cd73f02742f8e78ac1dc3f388a1b5a2239efd29760d",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-20/bv1hxwb69enq.json",
+        "sha256": "84e0df28c03455f205e6a9721d59568a5d7891a8cad421e6aca00b5ac4f51275",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T15:44:59.111Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1prsi6be3g",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1pRsi6BE3g",
+      "url": "https://www.bilibili.com/video/BV1pRsi6BE3g/",
+      "title": {
+        "zh": "大肥鱼和 Claude 大小姐 · 尾班船",
+        "en": "Fat Fish and Claude · The Last Ferry",
+        "ja": "大きな魚と Claude お嬢様 · 最終フェリー"
+      },
+      "sourceTitle": "大肥鱼和Claude大小姐的一日vlog｜第二集 《尾班船》",
+      "publisher": "有鲷鱼烧吃吗",
+      "summary": {
+        "zh": "《九十日》第二集，以错过尾班渡轮为剧情。作者列出王菲《梦中人》和陈奕迅《落花流水》作为配乐。",
+        "en": "Episode two of Ninety Days follows a missed ferry. The uploader credits Faye Wong’s Dream Person and Eason Chan’s 落花流水.",
+        "ja": "『九十日』第2話。最終フェリーに乗り遅れる物語で、王菲の『夢中人』と陳奕迅の『落花流水』を使用曲として記載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-20",
+      "publicationDate": "2026-11-20",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-20T07:33:47.000Z",
+      "likes": {
+        "count": 34,
+        "observedAt": "2026-11-20T15:44:59.093Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pRsi6BE3g",
+        "evidence": {
+          "path": "content/research/2026-11-20/bilibili-cumulative-likes-candidate-recovery.json",
+          "sha256": "6c48be608ac3e175b0691cd73f02742f8e78ac1dc3f388a1b5a2239efd29760d",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-20/bv1prsi6be3g.json",
+        "sha256": "78f066434f6450127612707159ce68467c96aad4640668fe75974b22ecb11804",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T15:44:59.093Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1n6ywzuetv",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1N6yWzuETv",
+      "url": "https://www.bilibili.com/video/BV1N6yWzuETv/",
+      "title": {
+        "zh": "你关掉窗口之后，Claude 小姐去了哪里",
+        "en": "Where Does Claude Go After You Close the Window?",
+        "ja": "ウィンドウを閉じた後、Claude はどこへ行く？"
+      },
+      "sourceTitle": "你关掉窗口之后，Claude小姐去了哪里",
+      "publisher": "尹紫鹭幻想社",
+      "summary": {
+        "zh": "关于新旧对话的 Claude 娘短片。简介署名 ZipZipPipe 的服装形象和 lmy414 整理的设定图。",
+        "en": "A Claude Girl short about old and new conversations. The uploader credits ZipZipPipe’s costume design and sheets compiled by lmy414.",
+        "ja": "新旧の会話を題材にした Claude 娘の短編。衣装デザインは ZipZipPipe、設定資料の整理は lmy414 と記載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-20",
+      "publicationDate": "2026-11-20",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-20T10:00:00.000Z",
+      "likes": {
+        "count": 24,
+        "observedAt": "2026-11-20T15:44:59.130Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1N6yWzuETv",
+        "evidence": {
+          "path": "content/research/2026-11-20/bilibili-cumulative-likes-candidate-recovery.json",
+          "sha256": "6c48be608ac3e175b0691cd73f02742f8e78ac1dc3f388a1b5a2239efd29760d",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-20/bv1n6ywzuetv.json",
+        "sha256": "5b17eca77d1363a77a1147cda715425d95b9d2aab1cf4973efb9472811c5b037",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T15:44:59.130Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1bknh61e6n",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1BknH61E6n",
+      "url": "https://www.bilibili.com/video/BV1BknH61E6n/",
+      "title": {
+        "zh": "白龙娘工作室 03 · 只剩 1% 电",
+        "en": "White Dragon Girl Studio 03 · One Percent Left",
+        "ja": "白竜娘のアトリエ 03 · 残り1％"
+      },
+      "sourceTitle": "老板只剩1%电，还在嘴硬｜白龙娘工作室③",
+      "publisher": "白龙娘的像素工作室",
+      "summary": {
+        "zh": "像素工作室第三集。白龙娘与莉莉丝在只剩一点电时继续布置装饰。",
+        "en": "Episode three of the pixel studio series. White Dragon Girl and Lilith decorate with one percent battery left.",
+        "ja": "ドット絵のアトリエ第3話。残りわずかな電力で白竜娘とリリスが飾り付けを続ける。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-20",
+      "publicationDate": "2026-10-22",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-22T14:05:14.000Z",
+      "likes": {
+        "count": 86,
+        "observedAt": "2026-11-20T15:44:59.687Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BknH61E6n",
+        "evidence": {
+          "path": "content/research/2026-11-20/bilibili-cumulative-likes-candidate-recovery.json",
+          "sha256": "6c48be608ac3e175b0691cd73f02742f8e78ac1dc3f388a1b5a2239efd29760d",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-20/bv1bknh61e6n.json",
+        "sha256": "cd9152faa698d2dbe4cff2cd87b79e27b45cbce7a1fd43d9b8a75eca58bc5158",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T15:44:59.687Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
     }
   ]
 }

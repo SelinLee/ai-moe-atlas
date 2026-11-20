@@ -1,0 +1,26 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:44:58.584Z",
+  "url": "https://www.bilibili.com/video/BV14mbh6kEcd/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV14mbh6kEcd",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV14mbh6kEcd",
+    "title": "【DSH】3D虎鲸娘桌宠插件github开源&VRM免费皮套配布中",
+    "owner": {
+      "name": "猫伊cat",
+      "mid": 167311
+    },
+    "pubdate": 1786928005,
+    "duration": 102
+  },
+  "descriptionSha256": "7d54973fcdd4f62d1c5029047b696a9bbd7e8ff2ac96fff42eccfb5c7d0e1d4a",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "creatorStatement": {
+    "personalUse": true,
+    "commercialUse": false,
+    "diffusionModelUse": false,
+    "redistribution": "unverified"
+  }
+}

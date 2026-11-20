@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:44:58.506Z",
+  "url": "https://www.bilibili.com/video/BV15cWi6QEwE/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15cWi6QEwE",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV15cWi6QEwE",
+    "title": "里表情人【DeepSeek×Claude】",
+    "owner": {
+      "name": "柠晴_official",
+      "mid": 3747562213345768
+    },
+    "pubdate": 1794570166,
+    "duration": 182
+  },
+  "descriptionSha256": "7ca7913620b252c718195797679a472eed209f96126ed4977994157aa80c4b83",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "dj-Jo",
+    "鳴花ヒメ・ミコト"
+  ],
+  "linkedVideos": []
+}
