@@ -8,7 +8,9 @@ Collect one existing, traceable image that can be displayed for each AI before e
 
 As of 2026-09-29: of 12 AI families, 11 have displayable, downloadable assets and 1 (Copilot) has source links only. Source links do not count as completed image coverage.
 
-November 8, 2026. The ai-school-op Copilot school design is collected with its 1024 × 1536 original and CC BY-NC 4.0 terms. All 12 products now have displayable, downloadable artwork.
+November 8, 2026. The ai-school-op Copilot school design was collected with its 1024 × 1536 original and CC BY-NC 4.0 terms. All 12 products indexed at the time had displayable, downloadable artwork.
+
+November 20, 2026. Muse joins the index as a source entry, bringing it to 13 products. In the character PV, 识知不失智 specifies CC BY 4.0 for their original illustration and design. Meta elements such as Jolly have separate rights. Standalone originals and file-specific terms are pending. [Creator’s upload](https://www.bilibili.com/video/BV1jEnD6RE1t/) · [Archive verification](../content/research/2026-11-20/muse-girl-archive-and-rights.json)
 
 | AI | Priority version | Remaining work |
 | --- | --- | --- |

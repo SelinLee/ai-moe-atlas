@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:27:47.290Z",
+  "url": "https://www.bilibili.com/video/BV1kZsm6KETG/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kZsm6KETG",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1kZsm6KETG",
+    "title": "试着做一些非遗科普！但是大概没那么准确，还是千问娘和文心娘哦！",
+    "owner": {
+      "name": "跳舞的帅气松鼠",
+      "mid": 1765945450
+    },
+    "pubdate": 1794983898,
+    "duration": 46
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

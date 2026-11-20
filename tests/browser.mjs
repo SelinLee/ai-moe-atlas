@@ -39,11 +39,18 @@ try {
   }
   await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});
   await page.goto(`${origin}/${lang}/models/`,{waitUntil:'domcontentloaded'});
-  assert.equal(await page.locator('[data-baseline]').count(),12);
+  assert.equal(await page.locator('[data-baseline]').count(),13);
   assert.equal(await page.locator('[data-state="ready"]').count(),12);
-  assert.equal(await page.locator('[data-state="candidate"]').count(),0);
+  assert.equal(await page.locator('[data-state="candidate"]').count(),1);
   assert.equal(await page.locator('[data-state="missing"]').count(),0);
   assert.equal(await page.locator('[data-state="candidate"] img').count(),0);
+  await page.goto(`${origin}/${lang}/?model=muse`,{waitUntil:'domcontentloaded'});
+  const museCard=page.locator('[data-card]:visible');
+  assert.equal(await museCard.count(),1);
+  await museCard.locator('a[href$="/characters/shizhi-muse/"]').first().click();
+  assert.ok(await page.locator('a[href="https://www.bilibili.com/video/BV1jEnD6RE1t/"]').first().isVisible());
+  assert.ok(await page.locator('a[href="https://creativecommons.org/licenses/by/4.0/"]').isVisible());
+  assert.equal(await page.locator('main a[download], .detail-art img').count(),0);
   await page.goto(`${origin}/${lang}/characters/zipzippipe-chatgpt/`,{waitUntil:'domcontentloaded'});
   assert.equal(await page.locator('.observation-panel a').getAttribute('href'),'https://www.bilibili.com/video/BV14phK66Ejw/');
   await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});

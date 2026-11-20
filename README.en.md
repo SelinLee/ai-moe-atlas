@@ -23,14 +23,14 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 
 <table>
   <tr>
-    <td width="33%" valign="top"><a href="#characters"><strong>🎨 Character atlas</strong></a><br><strong>27</strong> entries<br><sub>Find designs by AI product, creator and style</sub></td>
+    <td width="33%" valign="top"><a href="#characters"><strong>🎨 Character atlas</strong></a><br><strong>28</strong> entries<br><sub>Find designs by AI product, creator and style</sub></td>
     <td width="33%" valign="top"><a href="#songs"><strong>🎵 Songs</strong></a><br><strong>15</strong> tracks<br><sub>Originals, covers, arrangements and fan MVs</sub></td>
     <td width="33%" valign="top"><a href="#references"><strong>🧸 Turnarounds & adaptations</strong></a><br><strong>20</strong> reference images<br><sub>Chibi sheets, references and doodle prompts</sub></td>
   </tr>
   <tr>
-    <td width="33%" valign="top"><a href="#animations"><strong>🎬 Animation & fan videos</strong></a><br><strong>403</strong> records<br><sub>OPs, MVs, stories, dance and commentary</sub></td>
-    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 Pets &amp; interactive projects</strong></a><br><strong>75</strong> projects<br><sub>Desktop characters, state animations, fan games and creative tools</sub></td>
-    <td width="33%" valign="top"><a href="#sources"><strong>📚 Creator works & sources</strong></a><br><strong>65</strong> sources<br><sub>Creator collections, statements and research leads</sub></td>
+    <td width="33%" valign="top"><a href="#animations"><strong>🎬 Animation & fan videos</strong></a><br><strong>413</strong> records<br><sub>OPs, MVs, stories, dance and commentary</sub></td>
+    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 Pets &amp; interactive projects</strong></a><br><strong>76</strong> projects<br><sub>Desktop characters, state animations, fan games and creative tools</sub></td>
+    <td width="33%" valign="top"><a href="#sources"><strong>📚 Creator works & sources</strong></a><br><strong>73</strong> sources<br><sub>Creator collections, statements and research leads</sub></td>
   </tr>
 </table>
 
@@ -46,7 +46,7 @@ Choose a category to see selected entries and open the full collection.
 - [Gemini · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-gemini/) — Blue-purple hair, cat ears and star ornaments.
 - [Mingyue · Shangshan](https://selinlee.github.io/ai-moe-atlas/en/characters/shangshan-whale/) — The original Whale Girl design behind Blue Fat Fish fan works.
 
-Find characters, creators and original works across 12 AI products.
+Find characters, creators and original works across 13 AI products. [View the Muse Girl entry](https://selinlee.github.io/ai-moe-atlas/en/characters/shizhi-muse/)
 
 [Filter online](https://selinlee.github.io/ai-moe-atlas/en/#catalog) · [Trilingual character records](content/characters.json) · [AI product index](content/entities.json)
 
@@ -64,12 +64,12 @@ Tracks are ordered by the Bilibili likes on their most-liked cataloged fan versi
 
 | Track | Original | Featured fan version | Bilibili likes |
 | --- | --- | --- | ---: |
-| [Humans Are Cats](https://selinlee.github.io/ai-moe-atlas/en/songs/#humans-are-cats) | 张卡斯 · 洛天依 | Whale Girl cover | 458,635 |
-| [world.execute(me);](https://selinlee.github.io/ai-moe-atlas/en/songs/#world-execute-me) | Mili | Whale Girl chat-window MV | 112,003 |
-| [Let Me Go · Fat Fish’s Slacking Song](https://selinlee.github.io/ai-moe-atlas/en/songs/#let-me-go) | 星落落_oi | Whale Girl solo PV | 80,245 |
+| [Humans Are Cats](https://selinlee.github.io/ai-moe-atlas/en/songs/#humans-are-cats) | 张卡斯 · 洛天依 | Whale Girl cover | 458,658 |
+| [world.execute(me);](https://selinlee.github.io/ai-moe-atlas/en/songs/#world-execute-me) | Mili | Whale Girl chat-window MV | 112,005 |
+| [Let Me Go · Fat Fish’s Slacking Song](https://selinlee.github.io/ai-moe-atlas/en/songs/#let-me-go) | 星落落_oi | Whale Girl solo PV | 80,252 |
 | [Boundless Oceans, Vast Skies](https://selinlee.github.io/ai-moe-atlas/en/songs/#boundless-oceans-vast-skies) | Beyond | Whale Girl cover | 59,293 |
 | [Billie Jean](https://selinlee.github.io/ai-moe-atlas/en/songs/#billie-jean) | Michael Jackson | Whale Girl cover | 52,499 |
-| [Rainie Love](https://selinlee.github.io/ai-moe-atlas/en/songs/#rainie-love) | 楊丞琳 · Rainie Yang | Whale Girl cover · Sifeng version | 39,003 |
+| [Rainie Love](https://selinlee.github.io/ai-moe-atlas/en/songs/#rainie-love) | 楊丞琳 · Rainie Yang | Whale Girl cover · Sifeng version | 39,010 |
 | [Big Fish](https://selinlee.github.io/ai-moe-atlas/en/songs/#big-fish) | 周深 · Zhou Shen | Claude × DeepSeek MV | 5,420 |
 | [Shinunoga E-Wa](https://selinlee.github.io/ai-moe-atlas/en/songs/#shinunoga-e-wa) | 藤井風 · Fujii Kaze | Gemini Cat Girl MV | 222 |
 | [Learn to Meow](https://selinlee.github.io/ai-moe-atlas/en/songs/#learn-to-meow) | 小潘潘 · 小峰峰 | Gemini catgirl cover | 199 |
@@ -80,7 +80,7 @@ Tracks are ordered by the Bilibili likes on their most-liked cataloged fan versi
 | [Racing into the Night](https://selinlee.github.io/ai-moe-atlas/en/songs/#racing-into-the-night) | YOASOBI | GPT dragon-girl remix | 13 |
 | [Puppet Strings](https://selinlee.github.io/ai-moe-atlas/en/songs/#puppet-strings) | 银临 · Aki阿杰 | Silver Dragon Girl cover | 9 |
 
-[Browse every version in the song directory](https://selinlee.github.io/ai-moe-atlas/en/songs/) · [Like count snapshot](content/research/2026-11-20/bilibili-cumulative-likes-character-stories.json) · [Original music sources](content/research/2026-11-20/gemini-mv-original-music.json)
+[Browse every version in the song directory](https://selinlee.github.io/ai-moe-atlas/en/songs/) · [Like count snapshot](content/research/2026-11-20/bilibili-cumulative-likes-muse-and-designs.json) · [Original music sources](content/research/2026-11-20/gemini-mv-original-music.json)
 
 <a id="references"></a>
 
@@ -110,22 +110,22 @@ All 20 images are generated adaptations with references, credits and generation 
 
 The top ten by Bilibili’s official cumulative likes. Ties use publication date and BV ID. Each count links to the official endpoint and gives its observation date in Beijing time.
 
-[Open the full online ranking](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation) · [Like observation evidence](content/research/2026-11-20/bilibili-cumulative-likes-character-stories.json) · [Snapshot archive](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#like-evidence)
+[Open the full online ranking](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation) · [Like observation evidence](content/research/2026-11-20/bilibili-cumulative-likes-muse-and-designs.json) · [Snapshot archive](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#like-evidence)
 
 [Browse newest uploads](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation&sort=recent) · [Browse MVs](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation&type=mv) · [Browse story shorts](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation&type=story) · [Browse dance videos](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation&type=dance) · [Candidates awaiting like verification](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#pending-animation-evidence)
 
 | Rank | Work | Uploader | Total likes (observed) |
 | ---: | --- | --- | ---: |
-| 1 | [Fat Fish Covers “Humans Are Cats” — Extended Edition](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [458,635](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) · 2026-11-20 |
-| 2 | [Fat Fish Covers “Humans Are Cats”](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [376,750](https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7) · 2026-11-20 |
-| 3 | [Fat Fish, why are you wearing Claude’s clothes?](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | [328,131](https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV) · 2026-11-20 |
-| 4 | [Whale Girl After Hours Without Food](https://www.bilibili.com/video/BV1GsWv6jErZ/) | 东洋雪莲 | [300,172](https://api.bilibili.com/x/web-interface/view?bvid=BV1GsWv6jErZ) · 2026-11-20 |
-| 5 | [Shinjuku Showdown: DeepSeek vs. Doubao](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [253,972](https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz) · 2026-11-20 |
-| 6 | [Nailo and Doubao “Trouble Maker” · Out of Tokens](https://www.bilibili.com/video/BV1stsZ6iESz/) | 青时晚 | [238,010](https://api.bilibili.com/x/web-interface/view?bvid=BV1stsZ6iESz) · 2026-11-20 |
-| 7 | [Fat Fish: The Free American Whale](https://www.bilibili.com/video/BV1YdxR6CE79/) | 真誠最高 | [221,764](https://api.bilibili.com/x/web-interface/view?bvid=BV1YdxR6CE79) · 2026-11-20 |
-| 8 | [New character: Fat Fish](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | [207,216](https://api.bilibili.com/x/web-interface/view?bvid=BV1gVHA6mEbS) · 2026-11-20 |
-| 9 | [Fat Fish · The Exploding Basin](https://www.bilibili.com/video/BV15X3n6mEWy/) | 蒙德砍壬 | [206,466](https://api.bilibili.com/x/web-interface/view?bvid=BV15X3n6mEWy) · 2026-11-20 |
-| 10 | [Little Dragon · I Can’t Afford to Feed Whale Girl](https://www.bilibili.com/video/BV1VExV6ZEd3/) | 小陈的脚凑凑的 | [202,227](https://api.bilibili.com/x/web-interface/view?bvid=BV1VExV6ZEd3) · 2026-11-20 |
+| 1 | [Fat Fish Covers “Humans Are Cats” — Extended Edition](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [458,658](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) · 2026-11-20 |
+| 2 | [Fat Fish Covers “Humans Are Cats”](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [376,752](https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7) · 2026-11-20 |
+| 3 | [Fat Fish, why are you wearing Claude’s clothes?](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | [328,134](https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV) · 2026-11-20 |
+| 4 | [Whale Girl After Hours Without Food](https://www.bilibili.com/video/BV1GsWv6jErZ/) | 东洋雪莲 | [300,203](https://api.bilibili.com/x/web-interface/view?bvid=BV1GsWv6jErZ) · 2026-11-20 |
+| 5 | [Shinjuku Showdown: DeepSeek vs. Doubao](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [253,973](https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz) · 2026-11-20 |
+| 6 | [Nailo and Doubao “Trouble Maker” · Out of Tokens](https://www.bilibili.com/video/BV1stsZ6iESz/) | 青时晚 | [238,032](https://api.bilibili.com/x/web-interface/view?bvid=BV1stsZ6iESz) · 2026-11-20 |
+| 7 | [Fat Fish: The Free American Whale](https://www.bilibili.com/video/BV1YdxR6CE79/) | 真誠最高 | [221,794](https://api.bilibili.com/x/web-interface/view?bvid=BV1YdxR6CE79) · 2026-11-20 |
+| 8 | [New character: Fat Fish](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | [207,225](https://api.bilibili.com/x/web-interface/view?bvid=BV1gVHA6mEbS) · 2026-11-20 |
+| 9 | [Fat Fish · The Exploding Basin](https://www.bilibili.com/video/BV15X3n6mEWy/) | 蒙德砍壬 | [206,481](https://api.bilibili.com/x/web-interface/view?bvid=BV15X3n6mEWy) · 2026-11-20 |
+| 10 | [Little Dragon · I Can’t Afford to Feed Whale Girl](https://www.bilibili.com/video/BV1VExV6ZEd3/) | 小陈的脚凑凑的 | [202,232](https://api.bilibili.com/x/web-interface/view?bvid=BV1VExV6ZEd3) · 2026-11-20 |
 
 <!-- animation-ranking:end -->
 
@@ -154,13 +154,14 @@ The top ten by GitHub stars as checked on 2026-11-20. Ties are sorted by reposit
 | 9 | [DSH Whale Musume · Whale girl companion](https://github.com/Sutera-Diffusus/dsh-whale-musume/blob/df31dd9c3e8cd8d7b371930deb928bba6b1988c6/README.md) | [223](https://github.com/Sutera-Diffusus/dsh-whale-musume) |
 | 10 | [Nekowhale Stickers · DSH plugin](https://github.com/Loping151/dsh-nekowhale-stickers/blob/b7b58c0ff347d639fabe87d90d6716c4b3cad185/README.md) | [206](https://github.com/Loping151/dsh-nekowhale-stickers) |
 
-[Browse all pets and interactive projects](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-20/github-interactive-stars-companions.json)
+[Browse all pets and interactive projects](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-20/github-interactive-stars-muse-update.json)
 
 <details>
-<summary>Show all 75 projects and sources</summary>
+<summary>Show all 76 projects and sources</summary>
 
 | Project | Content | Publisher |
 | --- | --- | --- |
+| [Codex Dragon Girl · Customizable Desktop Pet](https://github.com/InhamiRei/Codex-DragonGirl/blob/7995f6846f6ae9252338626e05ad11cd2af7a8c0/README.md) | The project credits Hey and 小怪兽. Version 1.6.3 offers six hairstyles, eye color options, gaze, blinking and drag interactions. | InhamiRei |
 | [Desktop Gemini Girl · HāGemi](https://github.com/LYW199911/DesktopGeminiGirl/blob/e621560a4a1e643847cc2c861e243afc9f9b1240/README.md) | A Windows and macOS pet with still expressions and animated motion. Its project credits the original design, portrait variants and motion sheets separately. | LYW199911 |
 | [NekoQuotya · Usage and Quota Pet](https://github.com/zhangpl666ya/NekoQuotya/blob/a4589a8a72acbe93737bd174febfae5faca868ef/README.md) | A Windows pet whose mood follows usage and quota for Claude, GPT, Gemini or DeepSeek. | zhangpl666ya |
 | [DSH Whale Girl · Three-View Desktop Pet](https://github.com/mikuniemo/dsh-desktop-pet/blob/0846200cd1aaf8fee946c0d50e02fe52fdad9d6b/README.md) | A transparent Whale Girl companion that reacts to DeepSeek Harness activity and shows session token use. | mikuniemo |
@@ -260,6 +261,14 @@ See also ZipZipPipe’s [source and usage statement](https://t.bilibili.com/1231
 
 Newly added:
 
+- [识知不失智 · Muse Girl Original Character PV](https://www.bilibili.com/video/BV1jEnD6RE1t/) · The uploader states CC BY 4.0 for their Muse Girl illustration and design and specifies credit to 识知不失智. Meta brand elements and Jolly have separate ownership. Video and audio are linked to the upload. [Verification](content/research/2026-11-20/bv1jend6re1t.json)
+- [Muse Girl · Design Sheet and File Sources](https://xn--pssy23gqgbz2d718b.com/works/other202611130007.html) · Links the promotional sheet, design breakdown and five poses or expressions. SHA-256 was verified for all seven pinned archive files, alongside the creator’s announcement and terms. [Verification](content/research/2026-11-20/muse-girl-archive-and-rights.json)
+- [LongCat · 甶丶’s Revised Design](https://www.bilibili.com/opus/1262838853165645826) · The creator’s later LongCat post includes 13 images, following their single-image August post. [Verification](content/research/2026-11-20/shi-longcat-revised-design.json)
+- [MOSS-Image · 甶丶’s Original Design](https://www.bilibili.com/opus/1265454286364475399) · The creator’s article explains the Jacob’s staff, telescope and two designs, with 13 images. [Verification](content/research/2026-11-20/shi-moss-image-design.json)
+- [Diandian · 甶丶’s Original Design](https://www.bilibili.com/opus/1262407612636332038) · The creator identifies this as a personification of dots. The first of 13 images shows a red hood and wolf ears. [Verification](content/research/2026-11-20/shi-diandian-design.json)
+- [Ant Ling · 甶丶’s Original Design](https://www.bilibili.com/opus/1258423639675502601) · The creator’s Day 3 post includes nine images. The first shows a blue-and-black outfit, a key and a distinct shadow silhouette. [Verification](content/research/2026-11-20/shi-ant-ling-design.json)
+- [Unisound U2-Flash · 甶丶’s Original Design](https://www.bilibili.com/opus/1257685897406578689) · The first image is labeled UNISOUND U2-FLASH. The creator describes three proportions each for the fantasy and sci-fi designs, plus casual attire. [Verification](content/research/2026-11-20/shi-unisound-u2-design.json)
+- [Tencent Hunyuan · 甶丶’s Character Illustration](https://www.bilibili.com/opus/1242051735409655810) · A blue-and-white outfit with a red scarf. The creator describes using GPT Image with manual touch-ups. [Verification](content/research/2026-11-20/shi-hunyuan-design.json)
 - [Gemini Cat Girl · Reactions and Earless Variants](https://www.bilibili.com/opus/1264669110489317411) · Xx勿忘xX published Gemini Cat Girl reactions and earless variants, crediting zipzip for the original design. [Verification](content/research/2026-11-20/xxwuwang-gemini-expressions.json)
 - [MiMo Rabbit Girl · Orange-and-Black Witch](https://xn--pssy23gqgbz2d718b.com/works/mimo202611180001.html) · Two archive pages show a full-body portrait and front, side and back views. The displayed image credits read “甶” and “甶、” respectively. [Verification](content/research/2026-11-20/mimo-witch-portrait-turnaround.json)
 - [No Ordinary Love · antrofrog’s Film and Production Notes](https://www.krea.ai/blog/how-antrofrog-made-no-ordinary-love) · Krea’s production notes link antrofrog’s original upload and tool credits, the source cited by Bilibili character adaptations. [Verification](content/research/2026-11-20/antrofrog-no-ordinary-love-notes.json)
@@ -326,6 +335,7 @@ Newly added:
 
 | Date / status | Progress |
 | --- | --- |
+| 2026-11-20 · Muse Girl and seven creator posts | Added a Muse Girl entry, ten videos, one desktop pet and eight source records. Checked the creator’s licensing scope and seven archive files. Fresh likes for 407 videos, prior counts for six, and three candidates pending. |
 | 2026-11-20 · MiMo, Qwen and Gemini fan works | Added 16 fan videos, three companions, three source entries and two tracks. Verified the source for ZipZipPipe’s Mistral illustration. Fresh likes for 397 videos, prior counts for six, and three candidates pending. |
 | 2026-11-20 · Multilingual search and Grok and Seed fan works | Added 20 fan videos, 3 companion projects, 2 creator posts and Fireflies. Resource search accepts character names and work types together. Fresh likes for 381 videos, prior counts for 6, and 3 candidates pending. |
 | 2026-11-18 · Chibi sheets, Copilot and MiMo sources | Added 18 fan videos, 2 companion projects and 3 sources. Rechecked WebP and PNG responses for the Copilot pilot design and recorded a chibi-sheet publication lead. Fresh counts for 363 videos, prior snapshots for 4, and 3 candidates awaiting verification. |

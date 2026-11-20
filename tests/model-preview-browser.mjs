@@ -4,6 +4,7 @@ import { readFile, mkdir } from 'node:fs/promises';
 const origin = process.env.ATLAS_TEST_URL ?? 'http://127.0.0.1:4322/ai-moe-atlas';
 const manifestPath = process.env.ATLAS_MODEL_MANIFEST ?? 'content/models/deep-whale-maid.json';
 const model = JSON.parse(await readFile(manifestPath, 'utf8'));
+const entities = JSON.parse(await readFile('content/entities.json', 'utf8'));
 const executablePath = process.env.CHROME_PATH;
 const browser = await chromium.launch(executablePath ? { executablePath, headless: true } : { channel: 'chrome', headless: true });
 await mkdir('.qa', { recursive: true });
@@ -86,7 +87,7 @@ async function checkInteractivePreview() {
     assert.equal(await page.evaluate(() => document.documentElement.scrollWidth > innerWidth + 1), false);
     await page.locator('.model-highlight').screenshot({ path:`.qa/model-highlight-${lang}-mobile.png` });
     await page.goto(`${origin}/${lang}/models/`);
-    assert.equal(await page.locator('[data-baseline]').count(), 12);
+    assert.equal(await page.locator('[data-baseline]').count(), entities.length);
     assert.equal(await page.locator('model-viewer').count(), 0);
     await context.close();
     console.log(`3D preview: ${lang} desktop, mobile, lazy loading, controls, still image, failure/retry passed`);

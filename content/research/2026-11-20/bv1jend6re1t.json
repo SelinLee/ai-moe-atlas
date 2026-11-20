@@ -1,0 +1,26 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:27:46.853Z",
+  "url": "https://www.bilibili.com/video/BV1jEnD6RE1t/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jEnD6RE1t",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1jEnD6RE1t",
+    "title": "【原创角色PV】Meta 的 AI 还没有 AI 娘？Muse 娘来了！",
+    "owner": {
+      "name": "识知不失智",
+      "mid": 6348099
+    },
+    "pubdate": 1792969200,
+    "duration": 152
+  },
+  "descriptionSha256": "3d997bdebebcc390420d68d9e4f41dca648b644da0c3b67e7cb06358a66a1ce8",
+  "creatorPermission": [
+    "立绘与设定欢迎二创，按 CC BY 4.0 授权：可以随意使用、修改，包括商用，注明「Muse 娘原创设定 by （识知不失智）」即可。",
+    "Muse、Meta、Llama、Jolly 等名称和形象归 Meta 所有，本视频为非商业同人创作。"
+  ],
+  "uploaderCredits": [
+    "识知不失智"
+  ],
+  "linkedVideos": []
+}

@@ -8,7 +8,9 @@
 
 截至 2026-09-29：12 个 AI 中，11 个已具备展示与下载素材，1 个（Copilot）仅有来源链接。来源链接不算完成图片覆盖。
 
-2026-11-08：ai-school-op 的 Copilot 校园版已入库，原图为 1024 × 1536，许可为 CC BY-NC 4.0。当前 12 个产品均有可展示、下载的形象。
+2026-11-08：ai-school-op 的 Copilot 校园版已入库，原图为 1024 × 1536，许可为 CC BY-NC 4.0。当时 12 个产品均有可展示、下载的形象。
+
+2026-11-20：新增 Muse 的来源词条，共索引 13 个产品。识知不失智在角色 PV 中为其原创立绘和设定声明 CC BY 4.0，Jolly 等 Meta 元素另有权利归属。Muse 的独立原文件和逐件使用范围待核。[作者原投稿](https://www.bilibili.com/video/BV1jEnD6RE1t/) · [档案核对](../content/research/2026-11-20/muse-girl-archive-and-rights.json)
 
 | AI | 优先版本 | 当前缺口 |
 | --- | --- | --- |
