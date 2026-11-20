@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:15:33.937Z",
+  "url": "https://www.bilibili.com/video/BV1BYWP6zEkz/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BYWP6zEkz",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1BYWP6zEkz",
+    "title": "【科普向】《猫咪跳三圈半？海螺酱的动物奥运会爆火了！》",
+    "owner": {
+      "name": "Muto_66",
+      "mid": 15475629
+    },
+    "pubdate": 1794256794,
+    "duration": 30
+  },
+  "descriptionSha256": "a25946c9afd86548dd7fecef1548693391110a6fb194b0390e9c016a56793f02",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": []
+}

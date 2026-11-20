@@ -48,7 +48,8 @@
       {"id": "bv1xcai6ae9g", "type": "mv"},
       {"id": "bv1byxb6eesq", "type": "mv"},
       {"id": "bv1j5nu6se4d", "type": "mv"},
-      {"id": "bv1qene6vex3", "type": "mv"}
+      {"id": "bv1qene6vex3", "type": "mv"},
+      {"id": "bv1mus66repn", "type": "mv"}
     ]
   },
   {
@@ -115,5 +116,17 @@
     "title": {"zh": "虫儿飞", "en": "Fireflies", "ja": "蟲兒飛"},
     "original": {"credit": "鄭伊健 · Ekin Cheng", "url": "https://www.youtube.com/watch?v=QB-1uHuuuEA"},
     "versions": [{"id": "bv1aysw6reg4", "type": "cover"}]
+  },
+  {
+    "id": "shinunoga-e-wa",
+    "title": {"zh": "死ぬのがいいわ", "en": "Shinunoga E-Wa", "ja": "死ぬのがいいわ"},
+    "original": {"credit": "藤井風 · Fujii Kaze", "url": "https://fujiikaze.com/music/help-ever-hurt-never/"},
+    "versions": [{"id": "bv1anwm6iezw", "type": "mv"}]
+  },
+  {
+    "id": "cat-loving",
+    "title": {"zh": "キャットラビング", "en": "Cat Loving", "ja": "キャットラビング"},
+    "original": {"credit": "香椎モイミ feat. 可不", "url": "https://www.youtube.com/watch?v=7gwvBrlUiww"},
+    "versions": [{"id": "bv1wew16cetf", "type": "mv"}]
   }
 ]

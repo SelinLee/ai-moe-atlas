@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:15:34.381Z",
+  "url": "https://www.bilibili.com/video/BV1wosL62Eh3/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wosL62Eh3",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1wosL62Eh3",
+    "title": "“GLM×KIMI”非凡之爱",
+    "owner": {
+      "name": "没人在意的废物猹拉",
+      "mid": 504944135
+    },
+    "pubdate": 1794670780,
+    "duration": 63
+  },
+  "descriptionSha256": "92cd1470b71f4512c04c3acf5eaff7a40bcce686e234ad0ad4f9174ecc6cf721",
+  "uploaderCredits": [],
+  "linkedVideos": [
+    "BV1aExC6gETf"
+  ]
+}

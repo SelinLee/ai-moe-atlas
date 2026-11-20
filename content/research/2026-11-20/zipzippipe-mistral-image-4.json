@@ -1,0 +1,38 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:16:13.596Z",
+  "url": "https://www.bilibili.com/opus/1236803362705375305",
+  "finalUrl": "https://www.bilibili.com/opus/1236803362705375305",
+  "title": "ZipZipPipe的动态 - 哔哩哔哩",
+  "htmlSha256": "372b90b3aa8fd52895c66d1ce3f7a7a4256fc2d924e666184114d6b78d9f0943",
+  "publisher": "ZipZipPipe",
+  "displayedDateTime": "2026年08月15日 22:28",
+  "image": {
+    "sourceUrl": "https://i0.hdslb.com/bfs/new_dyn/60bb256121d10c9f54af8d8f9e80e6c14168597.jpg",
+    "positionInPost": 4,
+    "sourceSha256": "49239c83fbcccd23fd2061fbac02059fc9390f653b92cab6838da65fbaabbfa9",
+    "downloadedBytes": 7649944,
+    "originalDimensions": [
+      3072,
+      5504
+    ],
+    "httpStatus": 200,
+    "accessedAt": "2026-11-20T14:17:06.203Z"
+  },
+  "corroboration": {
+    "path": "版权与授权.md",
+    "commit": "415238bfdafa0fc153c8c0098e8efd4b57b2d5a5",
+    "url": "https://github.com/lmy414/ai-chan-sheets/blob/415238bfdafa0fc153c8c0098e8efd4b57b2d5a5/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+    "rawUrl": "https://raw.githubusercontent.com/lmy414/ai-chan-sheets/415238bfdafa0fc153c8c0098e8efd4b57b2d5a5/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+    "sourceSha256": "75ba8eb438ddb03947ff6d5b90e41e3640f4973ea6f029e0f46fa078f1bc931f",
+    "gitBlobSha": "807a8f3f9d73d9886a14b7d02be5fcc43f59d258",
+    "sourceRecordGitBlob": "fa71af8c835ea46afdc6280719ed17ccfd2d9615",
+    "sourceRecordSha256": "59411ab0d45de50d930d22000d82b6afc504d8f2fb790913c99ff64756b81e07",
+    "archivedImageSha256": "49239c83fbcccd23fd2061fbac02059fc9390f653b92cab6838da65fbaabbfa9"
+  },
+  "previousEvidence": {
+    "path": "content/research/2026-11-06/bili-update.json",
+    "sha256": "a1482e55341bb3d1599a96f324fa6449b7b56f84bbd27e0eaae80e52ee3f1c06",
+    "kind": "browser-metadata-extract"
+  }
+}

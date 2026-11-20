@@ -1,0 +1,32 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:17:01.398Z",
+  "repo": "mikuniemo/dsh-desktop-pet",
+  "pinnedDocument": {
+    "path": "README.md",
+    "commit": "0846200cd1aaf8fee946c0d50e02fe52fdad9d6b",
+    "url": "https://github.com/mikuniemo/dsh-desktop-pet/blob/0846200cd1aaf8fee946c0d50e02fe52fdad9d6b/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/mikuniemo/dsh-desktop-pet/0846200cd1aaf8fee946c0d50e02fe52fdad9d6b/README.md",
+    "sourceSha256": "37eb1dbb591b14b2ec6fac8192e39ea7eb4cf4416f1f727889690ab5538e5f0c",
+    "gitBlobSha": "cd2971627452e070dd416dcbbbe676ff00950407"
+  },
+  "documents": [
+    {
+      "path": "LICENSE",
+      "commit": "0846200cd1aaf8fee946c0d50e02fe52fdad9d6b",
+      "url": "https://github.com/mikuniemo/dsh-desktop-pet/blob/0846200cd1aaf8fee946c0d50e02fe52fdad9d6b/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/mikuniemo/dsh-desktop-pet/0846200cd1aaf8fee946c0d50e02fe52fdad9d6b/LICENSE",
+      "sourceSha256": "dfe73ee342bb897ad192c9c9a2f0355952575ade89ad7ded9e218648b63eebf4",
+      "gitBlobSha": "072710824bcbfb7ba886cb15860e1813ca2c98f3"
+    },
+    {
+      "path": "NOTICE.md",
+      "commit": "0846200cd1aaf8fee946c0d50e02fe52fdad9d6b",
+      "url": "https://github.com/mikuniemo/dsh-desktop-pet/blob/0846200cd1aaf8fee946c0d50e02fe52fdad9d6b/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/mikuniemo/dsh-desktop-pet/0846200cd1aaf8fee946c0d50e02fe52fdad9d6b/NOTICE.md",
+      "sourceSha256": "3d0d449b275e549988c555bdf29e7b732194f5ec3726dc98ee08c36bbbf2d5ac",
+      "gitBlobSha": "d1e1ec667efc056952456e8f4565fc1eaf61b8c0"
+    }
+  ],
+  "repositoryLicense": "MIT"
+}

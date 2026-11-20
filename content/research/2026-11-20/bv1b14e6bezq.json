@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:15:34.379Z",
+  "url": "https://www.bilibili.com/video/BV1b14E6BEZq/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1b14E6BEZq",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1b14E6BEZq",
+    "title": "[GLM] 我们的世界不应该只剩彼此吗",
+    "owner": {
+      "name": "A15-Crusader",
+      "mid": 326791185
+    },
+    "pubdate": 1794041966,
+    "duration": 16
+  },
+  "descriptionSha256": "105e4d194e923b228c0144775dcc8cae3c57d48d8adc5a143d5deb6b44f9a1ed",
+  "uploaderCredits": [
+    "tencha.3d"
+  ],
+  "linkedVideos": []
+}
