@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:38:07.122Z",
+  "url": "https://www.bilibili.com/video/BV1o9HC6rEua/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1o9HC6rEua",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1o9HC6rEua",
+    "title": "你们吃的很开心嘛",
+    "owner": {
+      "name": "冬冰",
+      "mid": 44748304
+    },
+    "pubdate": 1791363533,
+    "duration": 183
+  },
+  "descriptionSha256": "c369a482986439667b78f5d0a096d3f204cc85c73cb6f20ab6d4263bd04cf74c",
+  "uploaderCredits": [
+    "这个刀子真甜",
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": []
+}

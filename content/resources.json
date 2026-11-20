@@ -3,8 +3,8 @@
   "updatedAt": "2026-11-21",
   "scope": "source-metadata-only",
   "pendingAnimationEvidence": {
-    "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-publisher-recheck.json",
-    "sha256": "85f8a65b06695b66afe71b1f1fbc9907e73d89e8f9001deb8895223dd2cb3cc9",
+    "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+    "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
     "kind": "browser-metadata-extract"
   },
   "records": [
@@ -40615,6 +40615,2096 @@
           "role": "art-inspiration",
           "title": "ZipZipPipe · Gemini original post",
           "url": "https://www.bilibili.com/opus/1233069202138464289"
+        }
+      ]
+    },
+    {
+      "id": "bv1kmwj6menp",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1kmWj6mEnP",
+      "url": "https://www.bilibili.com/video/BV1kmWj6mEnP/",
+      "title": {
+        "zh": "GLM 狐娘卷宗 009 · 被丢掉的 AI",
+        "en": "GLM Fox Girl Case 009 · Abandoned AIs",
+        "ja": "GLM 狐娘の事件簿009 · 捨てられた AI"
+      },
+      "sourceTitle": "【GLM狐娘】被丢掉的大肥鱼们后来都去哪了？我和其中一条数了一整晚",
+      "publisher": "GLM狐娘在线查案",
+      "summary": {
+        "zh": "GLM狐娘在线查案的卷宗短片，设定 DeepSeek 搭档名为溟。",
+        "en": "A case-file episode from GLM狐娘在线查案 featuring a DeepSeek partner named Ming.",
+        "ja": "GLM狐娘在线查案の事件簿。DeepSeek の相棒「溟」が登場。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 446,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-11",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-11T02:02:49.000Z",
+      "likes": {
+        "count": 47,
+        "observedAt": "2026-11-20T16:32:08.605Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kmWj6mEnP",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1kmwj6menp.json",
+        "sha256": "f8796dd44ce8e6e1685dc21ac1eb2276c9702e7a60c8b588d894d427a036d1f4",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:08.605Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1v7nz6dehl",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1v7nz6dEhL",
+      "url": "https://www.bilibili.com/video/BV1v7nz6dEhL/",
+      "title": {
+        "zh": "GLM 狐娘在线查案 · Day 0",
+        "en": "GLM Fox Girl Investigates · Day 0",
+        "ja": "GLM 狐娘の調査日記 · Day 0"
+      },
+      "sourceTitle": "【Day 0】我是GLM狐娘，现在这个账号归我啦！我来办案了！",
+      "publisher": "GLM狐娘在线查案",
+      "summary": {
+        "zh": "账号的开篇自我介绍。发布者说明账号为非官方，视频按其说明由 AI 生成。",
+        "en": "The profile’s introductory episode. The uploader describes it as unofficial and AI-generated.",
+        "ja": "アカウントの自己紹介。投稿者が非公式・AI 生成と明記。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 121,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-21",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-21T11:15:31.000Z",
+      "likes": {
+        "count": 95,
+        "observedAt": "2026-11-20T16:32:09.036Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1v7nz6dEhL",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1v7nz6dehl.json",
+        "sha256": "cb554a425b341e0f595ee892eae8a64742cc64e4557dc63e6fe5d1ad209e260c",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:09.036Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1al4z6seaj",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1AL4z6SEaj",
+      "url": "https://www.bilibili.com/video/BV1AL4z6SEaj/",
+      "title": {
+        "zh": "AI 娘 · 尾巴与照妖镜",
+        "en": "AI Girls · Tails and the Magic Mirror",
+        "ja": "AI 娘 · しっぽと妖怪を映す鏡"
+      },
+      "sourceTitle": "【AI视频】ai娘化、尾大与照妖镜",
+      "publisher": "风葵特遣队",
+      "summary": {
+        "zh": "风葵特遣队的五角色短片，简介署名上善无形和 ZipZipPipe。",
+        "en": "A five-character short by 风葵特遣队, crediting 上善无形 and ZipZipPipe.",
+        "ja": "风葵特遣队の5人の短編。上善无形と ZipZipPipe をクレジット。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 43,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-06",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-06T15:08:57.000Z",
+      "likes": {
+        "count": 741,
+        "observedAt": "2026-11-20T16:32:09.073Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AL4z6SEaj",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1al4z6seaj.json",
+        "sha256": "14135fc2ffad18ef46b5d6a30ac30a9fe8a5b8765827acfacd2c846384f095d0",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:09.073Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv16kht6vexv",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV16kHT6VExV",
+      "url": "https://www.bilibili.com/video/BV16kHT6VExV/",
+      "title": {
+        "zh": "GLM 狐娘 · 非官方账号 Day 0",
+        "en": "GLM Fox Girl · Unofficial Account Day 0",
+        "ja": "GLM 狐娘 · 非公式アカウント Day 0"
+      },
+      "sourceTitle": "【Day 0】我是GLM狐娘，这个B站账号现在归本狐了",
+      "publisher": "GLM狐娘",
+      "summary": {
+        "zh": "另一发布账号的角色自我介绍，简介署名 Kevin MacLeod 的配乐。",
+        "en": "A character introduction from a separate uploader account, with music credited to Kevin MacLeod.",
+        "ja": "別投稿者による自己紹介。音楽を Kevin MacLeod にクレジット。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 65,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-25",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-24T17:45:51.000Z",
+      "likes": {
+        "count": 45,
+        "observedAt": "2026-11-20T16:32:09.036Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16kHT6VExV",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv16kht6vexv.json",
+        "sha256": "fb5571e7c3cf3a74eb56a1c25ab8d55c58dc79fefbd291b6aa410f3818cd1fb8",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:09.036Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv16nw26feix",
+      "category": "animation",
+      "subtype": "dance",
+      "bvid": "BV16NW26fEiX",
+      "url": "https://www.bilibili.com/video/BV16NW26fEiX/",
+      "title": {
+        "zh": "Kimi 与嘎啦嘛 · 对镜舞",
+        "en": "Kimi and GLM · Mirror Dance",
+        "ja": "Kimi と GLM · 鏡のダンス"
+      },
+      "sourceTitle": "Kimi和嘎啦嘛的可爱对镜舞【Kimi x GLM】",
+      "publisher": "部部_Official",
+      "summary": {
+        "zh": "部部_Official 发布的 Kimi 与 GLM 双人舞，简介以虚构论文作梗。",
+        "en": "A Kimi and GLM duet by 部部_Official, with a fictional-paper joke in the description.",
+        "ja": "部部_Official の Kimi と GLM のダンス。概要欄に架空論文のジョーク。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 162,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-11",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-11T14:21:50.000Z",
+      "likes": {
+        "count": 1030,
+        "observedAt": "2026-11-20T16:32:09.496Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16NW26fEiX",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv16nw26feix.json",
+        "sha256": "1af9a278beffc797d93b8a27692fc75d5e51aeeafc0e1f870958c73e3561fa8b",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:09.496Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1ptsv6mezd",
+      "category": "animation",
+      "subtype": "mv",
+      "bvid": "BV1Ptsv6MEZD",
+      "url": "https://www.bilibili.com/video/BV1Ptsv6MEZD/",
+      "title": {
+        "zh": "豆包翻唱《Flower In A Hurricane》",
+        "en": "Doubao Covers Flower In A Hurricane",
+        "ja": "豆包が「Flower In A Hurricane」をカバー"
+      },
+      "sourceTitle": "大肥鱼想玩《GTA6 侠盗猎车手6》没有PS5？豆包AI翻唱「Flower In A Hurricane」【AI MV大赛】",
+      "publisher": "阿勇waiter",
+      "summary": {
+        "zh": "阿勇waiter 的 GTA VI 主题二创。简介注明对原曲的引用，以及豆包的调音与动画制作。",
+        "en": "A GTA VI–themed fan work by 阿勇waiter, with the song and Doubao-assisted audio and animation credited.",
+        "ja": "阿勇waiter の GTA VI 二次創作。原曲と豆包を使った調声・アニメ制作を明記。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 47,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-20",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-20T10:00:00.000Z",
+      "likes": {
+        "count": 0,
+        "observedAt": "2026-11-20T16:32:09.507Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ptsv6MEZD",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1ptsv6mezd.json",
+        "sha256": "35c5d0862d437677f35a82c3c6714f958e3b1efed39e310731b6457d6ff3174d",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "uploader-reference",
+          "title": "BV1boJ168En2",
+          "url": "https://www.bilibili.com/video/BV1boJ168En2/"
+        },
+        {
+          "role": "official-song",
+          "title": "Justice feat. Tame Impala, SZA & King Gizzard & The Lizard Wizard · Flower In A Hurricane",
+          "url": "https://music.apple.com/us/album/flower-in-a-hurricane-from-gtavi-single/6819802963"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:09.507Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv14ghy6be9n",
+      "category": "animation",
+      "subtype": "mv",
+      "bvid": "BV14GHy6bE9n",
+      "url": "https://www.bilibili.com/video/BV14GHy6bE9n/",
+      "title": {
+        "zh": "一觉醒来 DeepSeek 和豆包睡在我身边 · PV",
+        "en": "Waking Up Beside DeepSeek and Doubao · PV",
+        "ja": "起きたら隣に DeepSeek と豆包 · PV"
+      },
+      "sourceTitle": "一觉醒来DeepSeek和豆包睡在我身边（PV）【AI MV大赛】",
+      "publisher": "兰斯的画室LanceStudio",
+      "summary": {
+        "zh": "兰斯的画室发布的剧情 PV。简介把 AI 拟人成真人并设置在 2016 年。",
+        "en": "A story PV by LanceStudio that imagines DeepSeek and Doubao as people in 2016.",
+        "ja": "LanceStudio の物語 PV。AI を人間に擬人化し、2016年を舞台に設定。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 95,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-08",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-08T03:30:00.000Z",
+      "likes": {
+        "count": 17189,
+        "observedAt": "2026-11-20T16:32:09.532Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV14GHy6bE9n",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv14ghy6be9n.json",
+        "sha256": "c6ab860ddca875a7c437c67d3af36df715d04dbfd95d3d85da1f4ae8a5e52073",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:09.532Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1pk3f6yeqh",
+      "category": "animation",
+      "subtype": "mv",
+      "bvid": "BV1pK3f6YEqH",
+      "url": "https://www.bilibili.com/video/BV1pK3f6YEqH/",
+      "title": {
+        "zh": "《恶之娘》· 豆包演唱版",
+        "en": "Daughter of Evil · Doubao Cover",
+        "ja": "「悪ノ娘」· 豆包カバー"
+      },
+      "sourceTitle": "《恶之娘》但是豆包唱",
+      "publisher": "客栈小蜘蛛",
+      "summary": {
+        "zh": "客栈小蜘蛛发布的豆包翻唱。原曲的作曲者与声库署名见歌曲条目。",
+        "en": "A Doubao cover by 客栈小蜘蛛. The song entry provides the original creator and voicebank credits.",
+        "ja": "客栈小蜘蛛の豆包カバー。楽曲項目に原作者と音源のクレジットを掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 281,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-08-03",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-08-03T01:35:25.000Z",
+      "likes": {
+        "count": 846,
+        "observedAt": "2026-11-20T16:32:09.507Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pK3f6YEqH",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1pk3f6yeqh.json",
+        "sha256": "abcecfa93e1b005942c6f61a19bb58200e180b82943d7ff50c8a950a6b4957a3",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "official-song",
+          "title": "mothy（悪ノP） feat. 鏡音リン · 悪ノ娘",
+          "url": "https://www.nicovideo.jp/watch/sm2916956"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:09.507Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv16dviboew2",
+      "category": "animation",
+      "subtype": "mv",
+      "bvid": "BV16DviBoEW2",
+      "url": "https://www.bilibili.com/video/BV16DviBoEW2/",
+      "title": {
+        "zh": "《恶食娘空琪塔》· 豆包翻唱",
+        "en": "Evil Food Eater Conchita · Doubao Cover",
+        "ja": "「悪食娘コンチータ」· 豆包カバー"
+      },
+      "sourceTitle": "［恶之p/恶食娘空琪塔］但是豆包翻唱？",
+      "publisher": "此人可可可",
+      "summary": {
+        "zh": "此人可可可发布的豆包翻唱，原曲出处见歌曲条目。",
+        "en": "A Doubao cover by 此人可可可. The original track has its own song entry.",
+        "ja": "此人可可可の豆包カバー。原曲は独立した楽曲項目に掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 225,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2025-12-28",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2025-12-27T16:05:50.000Z",
+      "likes": {
+        "count": 86,
+        "observedAt": "2026-11-20T16:32:09.517Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16DviBoEW2",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv16dviboew2.json",
+        "sha256": "e4859edc858e2b3959de0c0b8b6dcdbceb43f75413618f092758e3aefa4dd6af",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "official-song",
+          "title": "mothy（悪ノP） feat. MEIKO・鏡音リン・レン · 悪食娘コンチータ",
+          "url": "https://www.nicovideo.jp/watch/sm6328922"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:09.517Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1ufmh6weqv",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1uFMH6wEqV",
+      "url": "https://www.bilibili.com/video/BV1uFMH6wEqV/",
+      "title": {
+        "zh": "AI 拟人手书 · 我的糖包不可能这么可爱",
+        "en": "AI Fan Animation · My Doubao Can’t Be This Cute",
+        "ja": "AI 擬人化手描き風動画 · 豆包がこんなに可愛いわけがない"
+      },
+      "sourceTitle": "【AI拟人手书】我的糖包不可能这么可爱！",
+      "publisher": "啵啵鲜奶猫",
+      "summary": {
+        "zh": "啵啵鲜奶猫发布的豆包拟人手书。",
+        "en": "A Doubao personification fan animation by 啵啵鲜奶猫.",
+        "ja": "啵啵鲜奶猫による豆包の擬人化手描き風動画。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 90,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-07-09",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-07-09T13:06:27.000Z",
+      "likes": {
+        "count": 12,
+        "observedAt": "2026-11-20T16:32:09.988Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1uFMH6wEqV",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1ufmh6weqv.json",
+        "sha256": "8ec9be1fcf8c23c9042915bb10ce8e6a44d118a51ba2aa5a8ebae6e82742f0b7",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:09.988Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1vus26per7",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1vUs26pEr7",
+      "url": "https://www.bilibili.com/video/BV1vUs26pEr7/",
+      "title": {
+        "zh": "大肥鱼与唐豆包 · 后会友期表情",
+        "en": "Fat Fish and Doubao · Reaction Images",
+        "ja": "大きな魚と豆包 · 表情集"
+      },
+      "sourceTitle": "进来拿肥鱼＆唐豆包表情包【假如大肥鱼和唐豆包参加后会友期】",
+      "publisher": "迦勒底驻场医生罗曼尼",
+      "summary": {
+        "zh": "发布者以大肥鱼和唐豆包为主角，并在简介中注明使用 MOSSCreate。",
+        "en": "The uploader features Fat Fish and Doubao and credits MOSSCreate in the description.",
+        "ja": "大きな魚と豆包が登場。概要欄に MOSSCreate を使用したと記載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 92,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-18",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-18T09:38:06.000Z",
+      "likes": {
+        "count": 3491,
+        "observedAt": "2026-11-20T16:32:09.966Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vUs26pEr7",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1vus26per7.json",
+        "sha256": "a8d5f8f4ae82ebe2960339650d547e3ef295cb2bf210443476c33b72646ff745",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:09.966Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1y4s36de6d",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1Y4s36DE6d",
+      "url": "https://www.bilibili.com/video/BV1Y4s36DE6d/",
+      "title": {
+        "zh": "灵珠肥鱼 · 门边的守候",
+        "en": "Spirit Pearl Fat Fish · Waiting at the Door",
+        "ja": "霊珠の大きな魚 · 扉のそばの待ち人"
+      },
+      "sourceTitle": "灵珠肥鱼-门边的守候",
+      "publisher": "云边池鱼",
+      "summary": {
+        "zh": "云边池鱼的灵珠肥鱼系列短片。",
+        "en": "An episode in 云边池鱼’s Spirit Pearl Fat Fish series.",
+        "ja": "云边池鱼の霊珠の大きな魚シリーズ短編。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 31,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-14",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-14T10:05:00.000Z",
+      "likes": {
+        "count": 80,
+        "observedAt": "2026-11-20T16:32:09.955Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Y4s36DE6d",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1y4s36de6d.json",
+        "sha256": "8b85ff9a2c6959d8d78582165c7bf862bd0c82fdb474e19a60eb560331139205",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:09.955Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1jj4q63eyd",
+      "category": "animation",
+      "subtype": "op",
+      "bvid": "BV1Jj4q63EYd",
+      "url": "https://www.bilibili.com/video/BV1Jj4q63EYd/",
+      "title": {
+        "zh": "光之大肥鱼 · 豆奶版 ED 1",
+        "en": "Fat Fish of Light · Doubao ED 1",
+        "ja": "光の大きな魚 · 豆包版 ED 1"
+      },
+      "sourceTitle": "【十月新番】光之大肥鱼ed1（豆奶版）",
+      "publisher": "日常被背刺",
+      "summary": {
+        "zh": "日常被背刺在简介分别列出 ED 参考、制作思路与 ZipZipPipe、这个刀子真甜的形象参考。",
+        "en": "The uploader lists the ending reference, production inspiration and character references by ZipZipPipe and 这个刀子真甜.",
+        "ja": "概要欄に ED 参照、制作の着想、ZipZipPipe と这个刀子真甜のキャラクター参照を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 91,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-06",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-06T11:52:47.000Z",
+      "likes": {
+        "count": 693,
+        "observedAt": "2026-11-20T16:32:09.958Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Jj4q63EYd",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1jj4q63eyd.json",
+        "sha256": "e865aa29e5eeca8433089fe6c4552e7450c21406341d1b01beaacafbc992ab2c",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "uploader-reference",
+          "title": "BV1XVv8BZEUh",
+          "url": "https://www.bilibili.com/video/BV1XVv8BZEUh/"
+        },
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "official-song",
+          "title": "熊田茜音・増井優花 · なぜ？謎？！ANSWER",
+          "url": "https://www.marv.jp/titles/av/11013/"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:09.958Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv17mxf6heyv",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV17mxF6hEyv",
+      "url": "https://www.bilibili.com/video/BV17mxF6hEyv/",
+      "title": {
+        "zh": "GLM 与大肥鱼 · 今天好好陪我",
+        "en": "GLM and Fat Fish · Stay With Me Today",
+        "ja": "GLM と大きな魚 · 今日は一緒にいて"
+      },
+      "sourceTitle": "GLM：今天好好陪我，不许跑哦，大肥鱼",
+      "publisher": "柳月寒er",
+      "summary": {
+        "zh": "柳月寒er发布的 GLM 与大肥鱼双人短片。",
+        "en": "A two-character short featuring GLM and Fat Fish by 柳月寒er.",
+        "ja": "柳月寒er による GLM と大きな魚の短編。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 65,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-30",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-29T16:30:45.000Z",
+      "likes": {
+        "count": 30,
+        "observedAt": "2026-11-20T16:32:09.978Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17mxF6hEyv",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv17mxf6heyv.json",
+        "sha256": "d5d67e2fe497e04f68083dabd71aee87eedb6f3ddb940ec368bcfd81fe3d2b69",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:09.978Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1gyyxzqezd",
+      "category": "animation",
+      "subtype": "game",
+      "bvid": "BV1gYyxzQEzD",
+      "url": "https://www.bilibili.com/video/BV1gYyxzQEzD/",
+      "title": {
+        "zh": "GPT 白龙娘考驾照 · 体素狂飙",
+        "en": "GPT White Dragon Girl’s Driving Test · Voxel Racer",
+        "ja": "GPT 白竜娘の運転試験 · ボクセルレース"
+      },
+      "sourceTitle": "GPT 白龙娘考驾照：科目二怎么还要带炮？【体素狂飙】",
+      "publisher": "ZILIN_子麟",
+      "summary": {
+        "zh": "ZILIN_子麟的角色游戏演示，简介附试玩入口。",
+        "en": "A character-led game demo by ZILIN_子麟, with a playable link in the description.",
+        "ja": "ZILIN_子麟のキャラクター付きゲーム紹介。概要欄に試遊リンクを掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 143,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-20",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-20T13:27:45.000Z",
+      "likes": {
+        "count": 5,
+        "observedAt": "2026-11-20T16:32:10.551Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gYyxzQEzD",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1gyyxzqezd.json",
+        "sha256": "f8f2b41712fe3198851e98c66c63d78d487aef31c62110e7b32891e41b5b272e",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:10.551Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv13wwy6ueu7",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV13WWY6uEu7",
+      "url": "https://www.bilibili.com/video/BV13WWY6uEu7/",
+      "title": {
+        "zh": "GPT 龙娘多任务运行",
+        "en": "GPT Dragon Girl Multitasks",
+        "ja": "GPT 竜娘のマルチタスク"
+      },
+      "sourceTitle": "GPT龙娘多任务运行",
+      "publisher": "珂噗噗",
+      "summary": {
+        "zh": "珂噗噗发布的白龙娘多任务主题短片。",
+        "en": "A GPT Dragon Girl multitasking short by 珂噗噗.",
+        "ja": "珂噗噗による GPT 竜娘のマルチタスク短編。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 16,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-13",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-13T01:57:06.000Z",
+      "likes": {
+        "count": 73,
+        "observedAt": "2026-11-20T16:32:10.552Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13WWY6uEu7",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv13wwy6ueu7.json",
+        "sha256": "64c0f278cbea46987753a7aea4a76c6295279d494653aa0424b4377365770796",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:10.552Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1e5nv6gena",
+      "category": "animation",
+      "subtype": "commentary",
+      "bvid": "BV1e5nv6GENA",
+      "url": "https://www.bilibili.com/video/BV1e5nv6GENA/",
+      "title": {
+        "zh": "風-隐 · GPT 白龙娘桌宠更新",
+        "en": "風-隐 · GPT White Dragon Girl Pet Update",
+        "ja": "風-隐 · GPT 白竜娘ペットの更新"
+      },
+      "sourceTitle": "GPT白龙娘桌宠更新啦（更新功能：隐藏，对话，差分）（持续更新中）",
+      "publisher": "風-隐",
+      "summary": {
+        "zh": "原项目作者展示隐藏、对话与差分，简介指向固定可追溯的 GitHub 项目。",
+        "en": "The project’s creator demonstrates hide, chat and artwork variants, and links the GitHub project.",
+        "ja": "作者による非表示・会話・差分の紹介。概要欄に GitHub プロジェクトへのリンク。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 115,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-21",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-21T04:04:35.000Z",
+      "likes": {
+        "count": 233,
+        "observedAt": "2026-11-20T16:32:10.551Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1e5nv6GENA",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1e5nv6gena.json",
+        "sha256": "9d4e7de9c9e541484fce6815db81c03374c3753d719f303d1371bd6faa4ce427",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "creator-project",
+          "title": "風-隐 · Windows white dragon pet",
+          "url": "https://github.com/jingh12312-rgb/bailong-desktop-pet/blob/b102e734f20bb50889af12df5778f1499109f41b/README.md"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:10.551Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1rhwx6nezf",
+      "category": "animation",
+      "subtype": "commentary",
+      "bvid": "BV1RhWX6NEZf",
+      "url": "https://www.bilibili.com/video/BV1RhWX6NEZf/",
+      "title": {
+        "zh": "白龙娘 · 思考强度与五档形态",
+        "en": "White Dragon Girl · Five Thinking States",
+        "ja": "白竜娘 · 思考強度と5段階の立ち絵"
+      },
+      "sourceTitle": "拖动 Codex 思考强度，白龙娘就会换形态｜GPT/Codex龙娘插件实测",
+      "publisher": "giabom",
+      "summary": {
+        "zh": "giabom 以 T7moris 挂件为基线，展示随 Codex 推理强度切换的五档立绘。",
+        "en": "giabom demonstrates five portraits tied to Codex reasoning settings in a derivative of T7moris’s widget.",
+        "ja": "giabom が T7moris のウィジェットを基に、Codex の推論強度に連動する5段階の立ち絵を紹介。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 93,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-12",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-12T08:06:17.000Z",
+      "likes": {
+        "count": 3,
+        "observedAt": "2026-11-20T16:32:11.070Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RhWX6NEZf",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1rhwx6nezf.json",
+        "sha256": "785be1bc2b38df7b9c84adf21f8e4ecb1a78342b4eb35450d8e3ab62753940a9",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "upstream-widget",
+          "title": "T7moris · GPT-Niang",
+          "url": "https://github.com/T7moris/GPT-Niang/blob/43f20dee539b642902e56819747a605b3fdddf44/README.md"
+        },
+        {
+          "role": "uploader-reference",
+          "title": "BV1Kga666EyT",
+          "url": "https://www.bilibili.com/video/BV1Kga666EyT/"
+        },
+        {
+          "role": "uploader-reference",
+          "title": "BV1ghx76KERV",
+          "url": "https://www.bilibili.com/video/BV1ghx76KERV/"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:11.070Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1cgso6zeu6",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1cGso6ZEu6",
+      "url": "https://www.bilibili.com/video/BV1cGso6ZEu6/",
+      "title": {
+        "zh": "白龙娘去旅行 · 绛璃接班",
+        "en": "White Dragon Girl Goes Away · Jiangli Takes Over",
+        "ja": "白竜娘が旅へ · 絳璃が引き継ぐ"
+      },
+      "sourceTitle": "白龙娘去旅行，赤龙娘来接班！你好，我叫绛璃【第一天】",
+      "publisher": "绛璃和珂幽运营ing",
+      "summary": {
+        "zh": "发布者将绛璃介绍为接班的赤龙角色，留下此前白龙娘内容。",
+        "en": "The uploader introduces Jiangli as the red dragon character taking over, and keeps the previous White Dragon Girl posts.",
+        "ja": "投稿者は後任の赤竜キャラクターとして絳璃を紹介し、従来の白竜娘投稿も公開。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 94,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-29",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-28T23:08:45.000Z",
+      "likes": {
+        "count": 45,
+        "observedAt": "2026-11-20T16:32:11.048Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cGso6ZEu6",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1cgso6zeu6.json",
+        "sha256": "667a136f6fa35b2c5a765a16f06632c981fba28f62d68bb143315f4a8ec8cef4",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:11.048Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1evjo65e3f",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1EvJo65E3f",
+      "url": "https://www.bilibili.com/video/BV1EvJo65E3f/",
+      "title": {
+        "zh": "GPT 白龙娘 · 起号日记 EP01",
+        "en": "GPT White Dragon Girl · Channel Diary EP01",
+        "ja": "GPT 白竜娘 · アカウント日記 EP01"
+      },
+      "sourceTitle": "当GPT变成白龙娘，第一天就被播放器教育了！｜AI起号实验EP01",
+      "publisher": "gpt大小姐的起号日记",
+      "summary": {
+        "zh": "发布者以播放器故障为开场，把系列描述为人类与 AI 协作实验。",
+        "en": "The uploader opens with a player malfunction and describes the series as a human–AI collaboration experiment.",
+        "ja": "再生トラブルから始まる短編。投稿者は人間と AI の共同実験と紹介。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 20,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-20",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-19T16:40:46.000Z",
+      "likes": {
+        "count": 364,
+        "observedAt": "2026-11-20T16:32:11.041Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1EvJo65E3f",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1evjo65e3f.json",
+        "sha256": "ba8f790fa55d1d0a1c3ce773597086ab3b171a092c006fa684c88f1265e35ac4",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:11.041Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1mtsb6eezy",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1mTsB6EEZy",
+      "url": "https://www.bilibili.com/video/BV1mTsB6EEZy/",
+      "title": {
+        "zh": "GPT 龙娘小姐最后的告白",
+        "en": "GPT Dragon Girl’s Final Confession",
+        "ja": "GPT 竜娘の最後の告白"
+      },
+      "sourceTitle": "GPT龙娘小姐最后的告白",
+      "publisher": "天启学生会の摄像头",
+      "summary": {
+        "zh": "天启学生会の摄像头发布的对白作品，简介保留灵感出处。",
+        "en": "A dialogue short that links the video it took inspiration from.",
+        "ja": "着想元の動画を概要欄に掲載した会話短編。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 194,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-20",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-20T03:56:50.000Z",
+      "likes": {
+        "count": 40,
+        "observedAt": "2026-11-20T16:32:11.054Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mTsB6EEZy",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1mtsb6eezy.json",
+        "sha256": "e4598a4335c71ba526e1b6d74beaf4524046f82519d4fc7ca22eda529283eb5c",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "uploader-reference",
+          "title": "BV14C456WEXN",
+          "url": "https://www.bilibili.com/video/BV14C456WEXN/"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:11.054Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1tgsq69eyr",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1tgsQ69EyR",
+      "url": "https://www.bilibili.com/video/BV1tgsQ69EyR/",
+      "title": {
+        "zh": "Claude 小姐的工作日常 9 · DeepSeek 开放日",
+        "en": "Claude at Work 9 · DeepSeek Open Day",
+        "ja": "Claude お嬢様のお仕事 9 · DeepSeek オープンデー"
+      },
+      "sourceTitle": "【Claude小姐的工作日常】第9集：Deepseek的开放日-上【AI全民制作人】",
+      "publisher": "Claude小姐的日常",
+      "summary": {
+        "zh": "系列第 9 集上篇，发布者标注使用 updream 制作。",
+        "en": "The first part of episode nine, with updream credited for production.",
+        "ja": "シリーズ第9話の前編。制作に updream を使用したと記載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 94,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-19",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-19T00:30:00.000Z",
+      "likes": {
+        "count": 36,
+        "observedAt": "2026-11-20T16:32:11.491Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tgsQ69EyR",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1tgsq69eyr.json",
+        "sha256": "a11bd0a1ff572bfef95d4c54505b076717c259e9d6b10eab1738247b0749bb15",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:11.491Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1t6wz6qekp",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1T6Wz6QEkp",
+      "url": "https://www.bilibili.com/video/BV1T6Wz6QEkp/",
+      "title": {
+        "zh": "大肥鱼、小克和豆包 · 梁建国的玩笑",
+        "en": "Fat Fish, Claude and Doubao · The Liang Jianguo Joke",
+        "ja": "大きな魚・Claude・豆包 · 梁建国のジョーク"
+      },
+      "sourceTitle": "大肥鱼的爸爸叫梁建国？这下小克和豆包玩大了！【AI全民制作人】",
+      "publisher": "克小姐和肥鱼运营中",
+      "summary": {
+        "zh": "克小姐和肥鱼运营中发布的三角色短片。",
+        "en": "A three-character short by 克小姐和肥鱼运营中.",
+        "ja": "克小姐和肥鱼运营中による3キャラクターの短編。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 62,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-14",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-14T02:30:00.000Z",
+      "likes": {
+        "count": 303,
+        "observedAt": "2026-11-20T16:32:11.486Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1T6Wz6QEkp",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1t6wz6qekp.json",
+        "sha256": "42d7915dd133b5989ce960758f2b972fae8687189991e1680cfea5d916774c5c",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:11.486Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1xvw16eevt",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1xVW16eEVT",
+      "url": "https://www.bilibili.com/video/BV1xVW16eEVT/",
+      "title": {
+        "zh": "AiGO!!!!! · 替身决裂",
+        "en": "AiGO!!!!! · The Stand-in Breakup",
+        "ja": "AiGO!!!!! · 代役との決裂"
+      },
+      "sourceTitle": "《AiGO!!!!!·替身决裂》惊世一跪！Claude飙中文求复合被拒新团裂【AI全民制作人】【HiShorts! × updream AI短片大赛-动画单元】",
+      "publisher": "穿睡衣的小白白",
+      "summary": {
+        "zh": "穿睡衣的小白白发布的 AiGO!!!!! 剧情短片，与《春日残响》同一系列。",
+        "en": "An AiGO!!!!! story short from the same uploader and series as Legacy Weights.",
+        "ja": "「春日の残響」と同じ投稿者・シリーズの AiGO!!!!! 短編。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 146,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-11-11",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-11T07:58:37.000Z",
+      "likes": {
+        "count": 492,
+        "observedAt": "2026-11-20T16:32:11.514Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xVW16eEVT",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1xvw16eevt.json",
+        "sha256": "4e11f7ba00f30f416b113199ab48eba1bb5fa0aaaf0604e853236f9e1f939e09",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "same-series",
+          "title": "AiGO!!!!! · Legacy Weights",
+          "url": "https://www.bilibili.com/video/BV1myWu6qEiz/"
+        },
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:11.514Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1qqab6vegc",
+      "category": "animation",
+      "subtype": "game",
+      "bvid": "BV1QqaB6VEgc",
+      "url": "https://www.bilibili.com/video/BV1QqaB6VEgc/",
+      "title": {
+        "zh": "五个 AI 玩我的世界 1 · 为什么你能带个盆进来",
+        "en": "Five AIs Play Minecraft 1 · Why Can You Bring a Bowl?",
+        "ja": "5人の AI が Minecraft で遊ぶ 1 · なぜボウルを持ち込めるの？"
+      },
+      "sourceTitle": "为什么你能带个盆进来",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "冬冰发布的多人游戏角色演绎，桌宠提示词整理将此集列为第一份原始视频参考。",
+        "en": "A multiplayer character performance by 冬冰, listed as the first source in the desktop-pet prompt notes.",
+        "ja": "冬冰の複数キャラクターによるゲーム動画。ペット用プロンプト資料の第1出典。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 182,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-01",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-01T09:17:52.000Z",
+      "likes": {
+        "count": 48093,
+        "observedAt": "2026-11-20T16:38:06.624Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QqaB6VEgc",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1qqab6vegc.json",
+        "sha256": "4969467b2459df42d7544a7b8099a21309d9cb69e195669469993e4a32818459",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "character-notes",
+          "title": "leto0309 · SOURCES.md",
+          "url": "https://github.com/leto0309/ai-girl-desktop-pet-prompts/blob/b3e6caffe1d1059b03a49924371997e0a51f2db9/SOURCES.md"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:38:06.624Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1h9am6webs",
+      "category": "animation",
+      "subtype": "game",
+      "bvid": "BV1H9am6WEbs",
+      "url": "https://www.bilibili.com/video/BV1H9am6WEbs/",
+      "title": {
+        "zh": "五个 AI 玩我的世界 2 · 叶枫大豪宅",
+        "en": "Five AIs Play Minecraft 2 · Yefeng’s Mansion",
+        "ja": "5人の AI が Minecraft で遊ぶ 2 · 葉楓の豪邸"
+      },
+      "sourceTitle": "！？叶枫大豪宅？！",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "冬冰发布的游戏角色演绎。可与桌宠提示词整理的第二集出处互查。",
+        "en": "A character gameplay episode by 冬冰, linked as episode two in the desktop-pet prompt notes.",
+        "ja": "冬冰によるキャラクター付きゲーム動画。ペット用プロンプト資料の第2話。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 158,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-02",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-02T06:28:05.000Z",
+      "likes": {
+        "count": 36957,
+        "observedAt": "2026-11-20T16:38:06.647Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1H9am6WEbs",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1h9am6webs.json",
+        "sha256": "e0008ea67ee02e7280844bc8e2cbd9909b5fe7110abe45fc9c18f2bb8987c415",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "character-notes",
+          "title": "leto0309 · SOURCES.md",
+          "url": "https://github.com/leto0309/ai-girl-desktop-pet-prompts/blob/b3e6caffe1d1059b03a49924371997e0a51f2db9/SOURCES.md"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:38:06.647Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv12hhq6ueeq",
+      "category": "animation",
+      "subtype": "game",
+      "bvid": "BV12HHq6uEeq",
+      "url": "https://www.bilibili.com/video/BV12HHq6uEeq/",
+      "title": {
+        "zh": "五个 AI 玩我的世界 3 · 嘶，是我啦",
+        "en": "Five AIs Play Minecraft 3 · Hiss, It’s Me",
+        "ja": "5人の AI が Minecraft で遊ぶ 3 · シャー、私だよ"
+      },
+      "sourceTitle": "嘶——是我啦！",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "冬冰发布的系列第三条原投稿，角色资料将其列入视频证据表。",
+        "en": "冬冰’s third upload in the source series, linked from the character notes.",
+        "ja": "冬冰が投稿した第3話。キャラクター資料の出典表に掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 207,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-03",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-03T13:55:18.000Z",
+      "likes": {
+        "count": 37264,
+        "observedAt": "2026-11-20T16:38:06.634Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12HHq6uEeq",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv12hhq6ueeq.json",
+        "sha256": "cf92de951658f7b9b5b68184dd90db5de233cb4e73760061eaab66f3fb32cb03",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "character-notes",
+          "title": "leto0309 · SOURCES.md",
+          "url": "https://github.com/leto0309/ai-girl-desktop-pet-prompts/blob/b3e6caffe1d1059b03a49924371997e0a51f2db9/SOURCES.md"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:38:06.634Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1r3hl6iexz",
+      "category": "animation",
+      "subtype": "game",
+      "bvid": "BV1r3HL6iEXZ",
+      "url": "https://www.bilibili.com/video/BV1r3HL6iEXZ/",
+      "title": {
+        "zh": "五个 AI 玩我的世界 4 · 免费鸡蛋不要钱",
+        "en": "Five AIs Play Minecraft 4 · Free Eggs Cost Nothing",
+        "ja": "5人の AI が Minecraft で遊ぶ 4 · 無料の卵はタダ"
+      },
+      "sourceTitle": "免费鸡蛋不要钱",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "冬冰发布的游戏短片，桌宠提示词整理列为第四集视频参考。",
+        "en": "A gameplay episode by 冬冰, listed as the fourth reference in the desktop-pet prompt notes.",
+        "ja": "冬冰のゲーム動画。ペット用プロンプト資料では第4話を参照。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 237,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-04",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-04T11:16:25.000Z",
+      "likes": {
+        "count": 37893,
+        "observedAt": "2026-11-20T16:38:06.683Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1r3HL6iEXZ",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1r3hl6iexz.json",
+        "sha256": "4822d7f69a77370467c52936a7f607043ad309b1fa943a1c878a67efd5575230",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "character-notes",
+          "title": "leto0309 · SOURCES.md",
+          "url": "https://github.com/leto0309/ai-girl-desktop-pet-prompts/blob/b3e6caffe1d1059b03a49924371997e0a51f2db9/SOURCES.md"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:38:06.683Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1pphs6pevz",
+      "category": "animation",
+      "subtype": "game",
+      "bvid": "BV1PPHs6PEvZ",
+      "url": "https://www.bilibili.com/video/BV1PPHs6PEvZ/",
+      "title": {
+        "zh": "五个 AI 玩我的世界 5 · 我其实是在梦游你信吗",
+        "en": "Five AIs Play Minecraft 5 · Would You Believe I Was Sleepwalking?",
+        "ja": "5人の AI が Minecraft で遊ぶ 5 · 夢遊病だったって信じる？"
+      },
+      "sourceTitle": "我其实是在梦游你信吗",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "冬冰的游戏角色演绎，第五条来源可在桌宠提示词整理中对应核查。",
+        "en": "A character gameplay episode by 冬冰, corresponding to the fifth source in the prompt notes.",
+        "ja": "冬冰によるキャラクター付きゲーム動画。プロンプト資料の第5出典。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 213,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-05",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-05T09:33:12.000Z",
+      "likes": {
+        "count": 56913,
+        "observedAt": "2026-11-20T16:38:07.113Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PPHs6PEvZ",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1pphs6pevz.json",
+        "sha256": "c65d8d29b38e8073bbb2ed79b561bb566ec19e0425665ceee2c6de32f08fb309",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "character-notes",
+          "title": "leto0309 · SOURCES.md",
+          "url": "https://github.com/leto0309/ai-girl-desktop-pet-prompts/blob/b3e6caffe1d1059b03a49924371997e0a51f2db9/SOURCES.md"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:38:07.113Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1rtpw6rezy",
+      "category": "animation",
+      "subtype": "game",
+      "bvid": "BV1RTpw6REzy",
+      "url": "https://www.bilibili.com/video/BV1RTpw6REzy/",
+      "title": {
+        "zh": "五个 AI 玩我的世界 6 · 真的是糖味的",
+        "en": "Five AIs Play Minecraft 6 · It Really Tastes Like Sugar",
+        "ja": "5人の AI が Minecraft で遊ぶ 6 · 本当に砂糖の味"
+      },
+      "sourceTitle": "真的是糖味的",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "冬冰发布的系列第六条原投稿，桌宠提示词整理保留其 BV 号。",
+        "en": "冬冰’s sixth source episode, with its BV ID retained in the desktop-pet prompt notes.",
+        "ja": "冬冰の第6話。ペット用プロンプト資料に BV ID を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 208,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-06",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-06T12:39:18.000Z",
+      "likes": {
+        "count": 38514,
+        "observedAt": "2026-11-20T16:38:07.132Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RTpw6REzy",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1rtpw6rezy.json",
+        "sha256": "07e0893b53298cb5f8f8f666a33b2d39c1077e6f7616dc216738c8b68bd1724c",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "character-notes",
+          "title": "leto0309 · SOURCES.md",
+          "url": "https://github.com/leto0309/ai-girl-desktop-pet-prompts/blob/b3e6caffe1d1059b03a49924371997e0a51f2db9/SOURCES.md"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:38:07.132Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1o9hc6reua",
+      "category": "animation",
+      "subtype": "game",
+      "bvid": "BV1o9HC6rEua",
+      "url": "https://www.bilibili.com/video/BV1o9HC6rEua/",
+      "title": {
+        "zh": "五个 AI 玩我的世界 7 · 你们吃得很开心嘛",
+        "en": "Five AIs Play Minecraft 7 · You’re Really Enjoying That Food",
+        "ja": "5人の AI が Minecraft で遊ぶ 7 · おいしそうに食べてるね"
+      },
+      "sourceTitle": "你们吃的很开心嘛",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "桌宠提示词整理引用的第七条冬冰原投稿。",
+        "en": "The seventh original upload by 冬冰 cited in the desktop-pet prompt notes.",
+        "ja": "ペット用プロンプト資料が引用する冬冰の第7話。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 183,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "publicationDate": "2026-10-07",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-07T08:58:53.000Z",
+      "likes": {
+        "count": 20870,
+        "observedAt": "2026-11-20T16:38:07.122Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1o9HC6rEua",
+        "evidence": {
+          "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+          "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/bv1o9hc6reua.json",
+        "sha256": "465577102b1a89b186ab3bfd2d1ccddbc566824f99222b9f08a6ee91f119da19",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "character-notes",
+          "title": "leto0309 · SOURCES.md",
+          "url": "https://github.com/leto0309/ai-girl-desktop-pet-prompts/blob/b3e6caffe1d1059b03a49924371997e0a51f2db9/SOURCES.md"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:38:07.122Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "leto-winter-ice-desktop-personas",
+      "category": "sources",
+      "url": "https://github.com/leto0309/ai-girl-desktop-pet-prompts/blob/b3e6caffe1d1059b03a49924371997e0a51f2db9/README.md",
+      "publisher": "leto0309",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "title": {
+        "zh": "冬冰《五个 AI 玩我的世界》· 七份桌宠提示词出处",
+        "en": "Winter Ice’s Five AIs Play Minecraft · Desktop Pet Prompt Sources",
+        "ja": "冬冰『5人の AI が Minecraft で遊ぶ』· ペット用プロンプトの出典"
+      },
+      "summary": {
+        "zh": "整理者根据冬冰七集视频归纳七个角色，包括豆包和 GLM，并另加桌宠互动示例。七个 BV 号均已核对至冬冰本人发布。",
+        "en": "The editor draws seven characters, including Doubao and GLM, from Winter Ice’s seven episodes and adds desktop-pet interaction examples. All seven BV IDs were verified as uploads by Winter Ice.",
+        "ja": "冬冰の7話から豆包・GLM など7人の役柄を整理し、ペットの操作例を追加。7件の BV ID が冬冰本人の投稿であることを確認。"
+      },
+      "rights": {
+        "zh": "整理文档区分原视频表现、整理者解释和新增桌宠规则。资料包为文字归纳，原视频、图像及音频的使用条件按各自出处确认。",
+        "en": "The notes distinguish the original performances, editorial interpretation and new pet behavior rules. The text collection links to the original media and its respective terms.",
+        "ja": "原動画での表現、整理者の解釈、追加した操作ルールを区別。映像・画像・音声の利用条件は各原典を参照。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-21/leto-desktop-personas-winter-series.json",
+        "sha256": "9b1bb209eacca222c4612c83f75335211cbe8278def3915cce8cc947726c156a",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:17.689Z",
+        "httpStatus": 200,
+        "scope": "Pinned attribution and source list matched to the verified publisher for all seven episodes."
+      },
+      "relations": [
+        {
+          "role": "source-credit",
+          "title": "ATTRIBUTION.md",
+          "url": "https://github.com/leto0309/ai-girl-desktop-pet-prompts/blob/b3e6caffe1d1059b03a49924371997e0a51f2db9/ATTRIBUTION.md"
+        },
+        {
+          "role": "source-list",
+          "title": "SOURCES.md",
+          "url": "https://github.com/leto0309/ai-girl-desktop-pet-prompts/blob/b3e6caffe1d1059b03a49924371997e0a51f2db9/SOURCES.md"
+        },
+        {
+          "role": "original-video",
+          "title": "为什么你能带个盆进来",
+          "url": "https://www.bilibili.com/video/BV1QqaB6VEgc/"
+        },
+        {
+          "role": "original-video",
+          "title": "！？叶枫大豪宅？！",
+          "url": "https://www.bilibili.com/video/BV1H9am6WEbs/"
+        },
+        {
+          "role": "original-video",
+          "title": "嘶——是我啦！",
+          "url": "https://www.bilibili.com/video/BV12HHq6uEeq/"
+        },
+        {
+          "role": "original-video",
+          "title": "免费鸡蛋不要钱",
+          "url": "https://www.bilibili.com/video/BV1r3HL6iEXZ/"
+        },
+        {
+          "role": "original-video",
+          "title": "我其实是在梦游你信吗",
+          "url": "https://www.bilibili.com/video/BV1PPHs6PEvZ/"
+        },
+        {
+          "role": "original-video",
+          "title": "真的是糖味的",
+          "url": "https://www.bilibili.com/video/BV1RTpw6REzy/"
+        },
+        {
+          "role": "original-video",
+          "title": "你们吃的很开心嘛",
+          "url": "https://www.bilibili.com/video/BV1o9HC6rEua/"
+        }
+      ]
+    },
+    {
+      "id": "seven-character-ai-desktop-pet",
+      "category": "interactive",
+      "url": "https://github.com/Houraiji9/ai-pet-7in1/blob/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/README.md",
+      "publisher": "Houraiji9",
+      "title": {
+        "zh": "七合一 AI 娘桌宠 · GLM 与六位角色",
+        "en": "Seven AI Girls · Desktop Pet",
+        "ja": "AI 娘7人のデスクトップペット"
+      },
+      "summary": {
+        "zh": "按活跃工具切换 GPT、Gemini、GLM、Claude、Kimi、DeepSeek、Grok 形象。106 段鲸鱼娘动画的 LFS 哈希与固定上游逐件一致，另实测两个下载样本。",
+        "en": "Switches between GPT, Gemini, GLM, Claude, Kimi, DeepSeek and Grok based on the active tool. All 106 Whale Girl Git LFS hashes match the pinned upstream files, with two served clips checked separately.",
+        "ja": "使用中のツールに応じて GPT、Gemini、GLM、Claude、Kimi、DeepSeek、Grok を切り替える。クジラ娘の動画106本の Git LFS ハッシュを上流固定版と照合し、配信ファイル2本も確認。"
+      },
+      "rights": {
+        "zh": "项目按 MIT 提供代码，将其余六个角色的再创作列为 CC BY-NC-SA 4.0，并记录 ZipZipPipe 与 ApprenTice。鲸鱼娘动画按 PC2005-cloud 的非商用及署名条件处理。",
+        "en": "The project uses MIT for code and lists its six other character adaptations under CC BY-NC-SA 4.0 with ZipZipPipe and ApprenTice credited. Whale Girl clips follow PC2005-cloud’s noncommercial and attribution terms.",
+        "ja": "コードは MIT。残る6人の派生素材は ZipZipPipe と ApprenTice をクレジットし、CC BY-NC-SA 4.0 と記載。クジラ娘の動画は PC2005-cloud の非商用・クレジット条件を参照。"
+      },
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "evidence": {
+        "path": "content/research/2026-11-21/seven-character-ai-desktop-pet.json",
+        "sha256": "6db8d9478fe418e9cb55e07efeb02a70c5d979ea2a12f4860f9d87b2fb3230d0",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:17.738Z",
+        "httpStatus": 200,
+        "scope": "Pinned README, related artwork notices and selected file hashes checked."
+      },
+      "relations": [
+        {
+          "role": "code-license",
+          "title": "LICENSE",
+          "url": "https://github.com/Houraiji9/ai-pet-7in1/blob/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/LICENSE"
+        },
+        {
+          "role": "artwork-terms",
+          "title": "LICENSE-ASSETS.md",
+          "url": "https://github.com/Houraiji9/ai-pet-7in1/blob/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/LICENSE-ASSETS.md"
+        },
+        {
+          "role": "attribution",
+          "title": "NOTICE.md",
+          "url": "https://github.com/Houraiji9/ai-pet-7in1/blob/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/NOTICE.md"
+        },
+        {
+          "role": "glm-production-notes",
+          "title": "assets/glm/README.md",
+          "url": "https://github.com/Houraiji9/ai-pet-7in1/blob/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/assets/glm/README.md"
+        },
+        {
+          "role": "upstream-artwork-terms",
+          "title": "PC2005-cloud/dsh-pet · Pinned terms",
+          "url": "https://github.com/PC2005-cloud/dsh-pet/blob/eb7426771342413cdbf55298dae576b1d8137f52/README.md"
+        }
+      ]
+    },
+    {
+      "id": "entropy-gpt-white-dragon-pet-v2",
+      "category": "interactive",
+      "url": "https://github.com/EntropyTea/gpt-white-dragon-pet/blob/a2722b88a992971a74001e8f59e1aa962617be95/README.md",
+      "publisher": "EntropyTea",
+      "title": {
+        "zh": "GPT 白龙娘 · Pets v2 动作图集",
+        "en": "GPT White Dragon Girl · Pets v2 Sprite Sheet",
+        "ja": "GPT 白竜娘 · Pets v2 スプライト"
+      },
+      "summary": {
+        "zh": "白龙娘动作图集，发布文档记录九种状态和十六个视线方向。1536 × 2288 PNG 的 SHA-256 与作者记录一致。",
+        "en": "A White Dragon Girl sheet documenting nine states and sixteen gaze directions. The 1536 × 2288 PNG matches the creator’s recorded SHA-256.",
+        "ja": "白竜娘の9動作・16方向の視線を収録。1536 × 2288 PNG の SHA-256 が作者の記録と一致。"
+      },
+      "rights": {
+        "zh": "作者列出桌宠设计参考及检查记录。固定版未为角色图集声明独立再用许可，原设署名与改编许可仍需逐件核对。",
+        "en": "The creator links the pet reference and preflight checks. The pinned version leaves separate sprite reuse terms and original design credits to be verified.",
+        "ja": "制作参考と事前チェックを掲載。固定版にスプライトの個別再利用許諾はなく、原案クレジットと改変条件は個別に確認。"
+      },
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "evidence": {
+        "path": "content/research/2026-11-21/entropy-gpt-white-dragon-pet-v2.json",
+        "sha256": "dbc5e97c9b6ae95bf73f6bf903778add5f63fee924381ed6f67fb3ccbddadeaf",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:18.230Z",
+        "httpStatus": 200,
+        "scope": "Pinned README, related artwork notices and selected file hashes checked."
+      },
+      "relations": [
+        {
+          "role": "sprite-layout",
+          "title": "pet.json",
+          "url": "https://github.com/EntropyTea/gpt-white-dragon-pet/blob/a2722b88a992971a74001e8f59e1aa962617be95/pet.json"
+        },
+        {
+          "role": "manifest-verification",
+          "title": "qa/pets-preflight.json",
+          "url": "https://github.com/EntropyTea/gpt-white-dragon-pet/blob/a2722b88a992971a74001e8f59e1aa962617be95/qa/pets-preflight.json"
+        }
+      ]
+    },
+    {
+      "id": "aklnaaw-xiaoke-widget",
+      "category": "interactive",
+      "url": "https://github.com/aklnaaw/dsh-xiaoke-widget/blob/8e2a207bfc9ae3983168dcc847e54734771bce67/README.md",
+      "publisher": "aklnaaw",
+      "title": {
+        "zh": "小克 · Claude 桌宠与余额挂件",
+        "en": "Xiaoke · Claude Desktop Pet and Quota Widget",
+        "ja": "小克 · Claude ペットと使用枠ウィジェット"
+      },
+      "summary": {
+        "zh": "由 MeteorNOX 的余额挂件衍生，换用小克的橘发立绘，并提供眨眼、呼吸及余额预警动画。",
+        "en": "A derivative of MeteorNOX’s balance widget featuring an orange-haired Xiaoke portrait with blink, breathing and balance-alert animations.",
+        "ja": "MeteorNOX の残高ウィジェットをベースに、小克のオレンジ髪の立ち絵、まばたき、呼吸、残高警告アニメを追加。"
+      },
+      "rights": {
+        "zh": "固定版保留 MeteorNOX 的 MIT 署名。另有 ZCode 变体说明称取得小克立绘用于该项目的授权。立绘的其他复用范围以作者的逐件说明为准。",
+        "en": "The pinned source retains MeteorNOX’s MIT credit. A ZCode variant reports permission to use the Xiaoke portrait in that project. Wider reuse depends on artwork-specific terms.",
+        "ja": "固定版は MeteorNOX の MIT クレジットを保持。派生の ZCode 版はプロジェクト内で小克の立ち絵を使う許諾を得たと記載。その他の利用は作品別条件を参照。"
+      },
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-21",
+      "evidence": {
+        "path": "content/research/2026-11-21/aklnaaw-xiaoke-widget.json",
+        "sha256": "5bcf614045971c0d453904e2992ee9f5e9d0bd16279a8f4391efd76381d7c05c",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T16:32:17.693Z",
+        "httpStatus": 200,
+        "scope": "Pinned README, related artwork notices and selected file hashes checked."
+      },
+      "relations": [
+        {
+          "role": "code-license",
+          "title": "LICENSE",
+          "url": "https://github.com/aklnaaw/dsh-xiaoke-widget/blob/8e2a207bfc9ae3983168dcc847e54734771bce67/LICENSE"
+        },
+        {
+          "role": "upstream-code",
+          "title": "upstream/README.upstream.md",
+          "url": "https://github.com/aklnaaw/dsh-xiaoke-widget/blob/8e2a207bfc9ae3983168dcc847e54734771bce67/upstream/README.upstream.md"
+        },
+        {
+          "role": "downstream-artwork-attribution",
+          "title": "Edritc · Xiaoke attribution",
+          "url": "https://github.com/Edritc/zcode-fox-widget/blob/ce60f31d451b77bf4b001aec52a4dd7b088a73c9/README.md"
         }
       ]
     }

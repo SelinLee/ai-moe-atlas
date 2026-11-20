@@ -26,7 +26,7 @@
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/) · [Gemini · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-gemini/) · [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/zh/characters/shangshan-whale/)
 
 <!-- category-picks:songs -->
-**[🎵 歌曲](#songs)** · 44 首曲目\
+**[🎵 歌曲](#songs)** · 48 首曲目\
 [人是猫](https://selinlee.github.io/ai-moe-atlas/zh/songs/#humans-are-cats) · [Let Me Go · 大肥鱼摸鱼歌](https://selinlee.github.io/ai-moe-atlas/zh/songs/#let-me-go) · [虫儿飞](https://selinlee.github.io/ai-moe-atlas/zh/songs/#fireflies)
 
 <!-- category-picks:references -->
@@ -34,15 +34,15 @@
 [Claude 角色参考图](https://selinlee.github.io/ai-moe-atlas/zh/references/#claude) · [DeepSeek Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#deepseek) · [千问 Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#qwen)
 
 <!-- category-picks:animations -->
-**[🎬 动画与视频二创](#animations)** · 552 条记录\
+**[🎬 动画与视频二创](#animations)** · 583 条记录\
 [如果聊天窗口就是她的整个世界](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1xcai6ae9g) · [败犬 AI 太多了！· 正式 PV](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1nfag6xehq) · [Claude × DeepSeek · 把明天跑通](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1rd476leux)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 桌宠与交互项目](#desktop-pets)** · 97 个项目\
+**[🐾 桌宠与交互项目](#desktop-pets)** · 100 个项目\
 [CrossPet · 跨 AI 桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#crosspet) · [Copiwaifu · Live2D 编程桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#copiwaifu-live2d) · [Deep Whale Day & Night · 昼夜工坊](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#deep-whale-day-night)
 
 <!-- category-picks:sources -->
-**[📚 作者作品与出处](#sources)** · 78 条来源\
+**[📚 作者作品与出处](#sources)** · 79 条来源\
 [上善无形 · 鲸鱼娘原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI 娘化图集](https://www.pixiv.net/artworks/148186519) · [Small-tailqwq · 鲸鱼娘女仆素材](https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier)
 
 <a id="characters"></a>
@@ -78,7 +78,7 @@
 
 <!-- song-ranking:end -->
 
-[原曲出处](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲与版本核对](content/research/2026-11-20/song-originals-and-fan-versions.json) · [片头曲与二创用曲核对](content/research/2026-11-20/character-songs-and-opening-credits.json) · [舞蹈与歌词 MV 用曲核对](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [《温室效应》原曲与 MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [原曲与二创核对](content/research/2026-11-21/four-song-originals-and-fan-versions.json)
+[原曲出处](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲与版本核对](content/research/2026-11-20/song-originals-and-fan-versions.json) · [片头曲与二创用曲核对](content/research/2026-11-20/character-songs-and-opening-credits.json) · [舞蹈与歌词 MV 用曲核对](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [《温室效应》原曲与 MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [原曲与二创核对](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [豆包翻唱与片尾曲出处](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json)
 
 <a id="references"></a>
 
@@ -115,7 +115,7 @@
 
 <!-- animation-ranking:end -->
 
-新增 23 条带官方累计点赞的二创。9 条待核候选已补录 B 站搜索显示的发布者，6 条旧作保留上次成功观测值。 [本轮复查范围](content/research/2026-11-21/bilibili-candidate-publisher-recheck-scope.json)
+新增 31 条带官方累计点赞的二创。9 条候选仍缺官方点赞，可以按搜索发布者筛选。6 条旧作保留上次成功观测值。 [本轮复查范围](content/research/2026-11-21/bilibili-candidate-glm-and-doubao-scope.json)
 
 <a id="desktop-pets"></a>
 
@@ -136,14 +136,16 @@
 | 9 | [GPT 娘 · 用量挂件](https://github.com/T7moris/GPT-Niang/blob/43f20dee539b642902e56819747a605b3fdddf44/README.md) | [306](https://github.com/T7moris/GPT-Niang) |
 | 10 | [DSH Whale Musume · 鲸鱼娘桌宠](https://github.com/Sutera-Diffusus/dsh-whale-musume/blob/df31dd9c3e8cd8d7b371930deb928bba6b1988c6/README.md) | [223](https://github.com/Sutera-Diffusus/dsh-whale-musume) |
 
-[在线浏览全部桌宠与交互项目](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-21/github-interactive-stars-gemini-dragon.json)
+[在线浏览全部桌宠与交互项目](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-21/github-interactive-stars-seven-girls.json)
 
 跨平台版与 Android 原生移植版各有 106 段兼容动画与各自引用的固定上游逐文件一致。上游版本限制素材商用，两个移植项目的说明把这批动画写为 MIT。 [桌宠动画来源比对](content/research/2026-11-21/dsh-pet-shared-animation-file-provenance.json)
 
 两张主题参考图已分别与 ZipZipPipe 原帖和 ApprenTice 的固定档案核对，SHA-256 一致。主题将原图、生成派生图和代码的使用条件分开记录。 [Gemini 猫娘主题原图核对](content/research/2026-11-21/gemini-theme-original-art-comparison.json)
 
+七合一桌宠的 106 段鲸鱼娘动画，固定版本的 LFS 对象哈希全部与上游原文件一致，另实测 2 段下载样本。素材说明另列 GLM 等六个角色的派生动画。 [七合一桌宠动画核对](content/research/2026-11-21/seven-character-pet-lfs-provenance.json)
+
 <details>
-<summary>展开全部 97 个项目与出处</summary>
+<summary>展开全部 100 个项目与出处</summary>
 
 | 项目 | 内容 | 发布者 |
 | --- | --- | --- |
@@ -244,6 +246,9 @@
 | [白龙娘动态桌宠 · macOS 原生移植](https://github.com/Joseph-Blue/bailong-desktop-pet-mac-swift/blob/99e5d57ede7c3a269caa61e92242f65d0ede014d/README.md) | Joseph Blue 使用 Swift 和 AppKit 重写 Windows 白龙娘桌宠。架构文档把行为参考固定到原版 v0.5.1。 | Joseph-Blue |
 | [Gemini 猫娘 · Codex 动作图集](https://github.com/ethon2333-dotcom/gemini-codex-pet/blob/49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e/README.md) | 九组透明动作的猫娘桌宠。固定版 WebP 图集与作者提供的 SHA-256 清单一致。 | ethon2333-dotcom |
 | [Gemini 猫娘 · DSH 配额挂件](https://github.com/Void-LifeStream/dsh-gemini-kitten-widget/blob/358118b55dc1da0918779676067356e859c026ae/README.md) | DSH 网页端挂件，以猫娘呈现不同 Gemini 模型的请求额度。项目说明记录本地生成与抠图流程。 | Void-LifeStream |
+| [七合一 AI 娘桌宠 · GLM 与六位角色](https://github.com/Houraiji9/ai-pet-7in1/blob/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/README.md) | 按活跃工具切换 GPT、Gemini、GLM、Claude、Kimi、DeepSeek、Grok 形象。106 段鲸鱼娘动画的 LFS 哈希与固定上游逐件一致，另实测两个下载样本。 | Houraiji9 |
+| [GPT 白龙娘 · Pets v2 动作图集](https://github.com/EntropyTea/gpt-white-dragon-pet/blob/a2722b88a992971a74001e8f59e1aa962617be95/README.md) | 白龙娘动作图集，发布文档记录九种状态和十六个视线方向。1536 × 2288 PNG 的 SHA-256 与作者记录一致。 | EntropyTea |
+| [小克 · Claude 桌宠与余额挂件](https://github.com/aklnaaw/dsh-xiaoke-widget/blob/8e2a207bfc9ae3983168dcc847e54734771bce67/README.md) | 由 MeteorNOX 的余额挂件衍生，换用小克的橘发立绘，并提供眨眼、呼吸及余额预警动画。 | aklnaaw |
 
 以上为来源索引；各项目美术按其原作条件核对，代码许可不自动覆盖角色图片。
 
@@ -262,6 +267,7 @@
 
 本次补充：
 
+- [冬冰《五个 AI 玩我的世界》· 七份桌宠提示词出处](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=sources#leto-winter-ice-desktop-personas) · 整理者根据冬冰七集视频归纳七个角色，包括豆包和 GLM，并另加桌宠互动示例。七个 BV 号均已核对至冬冰本人发布。 整理文档区分原视频表现、整理者解释和新增桌宠规则。资料包为文字归纳，原视频、图像及音频的使用条件按各自出处确认。 [核对记录](content/research/2026-11-21/leto-desktop-personas-winter-series.json)
 - [ApprenTice · Gemini Q 版猫娘改绘](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=sources#apprentice-gemini-chibi) · 作者公布了参考 ZipZipPipe 等原设的改绘。固定版 941 × 1672 PNG 与 DSH 主题保留的参考文件 SHA-256 一致。 作者将其改编图按 CC BY-NC-SA 4.0 发布。再用须保留作者和原作来源，使用时逐件核对上游条件。 [核对记录](content/research/2026-11-21/apprentice-gemini-chibi-source.json)
 - [ZipZipPipe · GPT 白龙娘三视图原帖](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=sources#zipzippipe-white-dragon-turnarounds) · 作者本人的动态含三套正、侧、背造型，分别为白裙、深色长裙和浅蓝短裙。三张 2048 × 1152 PNG 均已核对 SHA-256。 提供原帖出处。三张图各自的展示、改编与再分发条件待核。 [核对记录](content/research/2026-11-21/zipzippipe-white-dragon-turnarounds.json)
 - [风霜秋雨 ·《对不起，我不记得了》制作图](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=sources#pfz14-deepseek-mv-production-art) · 原投稿指向作者的制作图仓库。固定版本按 BV 号列出 17 张 PNG，两张抽查通过原文件 SHA-256 核对。 作者的制作图仅供个人保存与私下观看。许可禁止商用、转载和修改。视频和配乐的条件另见原发布。 [核对记录](content/research/2026-11-21/pfz14-production-art-personal-viewing.json)
@@ -342,6 +348,7 @@
 
 | 时间 / 状态 | 进展 |
 | --- | --- |
+| 2026-11-21 · GLM、豆包二创与七合一桌宠 | 新增 31 条有官方点赞的二创、4 首歌、3 个交互项目和 1 条作者出处。核对冬冰的七个原投稿，以及七合一桌宠的 106 段鲸鱼娘动画来源。 |
 | 2026-11-21 · 候选发布者、歌曲与桌宠素材 | 新增 23 条有官方点赞的二创、4 首歌曲、5 个交互项目和 1 条作者出处。9 条候选补录搜索发布者，核对 Gemini 猫娘两张参考图与作者原档。 |
 | 2026-11-21 · 新增二创、桌宠动画溯源与作者原帖 | 新增 27 条有官方点赞的二创、1 首歌、3 个交互项目和 2 条作者出处。复查 9 条候选和 6 条旧作，核对两款桌宠的动画文件与上游素材条款。 |
 | 2026-11-20 · 候选复查、Q 版出处与跨平台桌宠 | 新增 12 条视频二创、4 首歌曲、4 个交互项目和 2 条作者出处。复查 9 条候选和 6 条旧作，榜单按各条实际观测时间展示。 |

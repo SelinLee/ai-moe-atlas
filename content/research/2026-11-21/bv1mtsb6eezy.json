@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:32:11.054Z",
+  "url": "https://www.bilibili.com/video/BV1mTsB6EEZy/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mTsB6EEZy",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1mTsB6EEZy",
+    "title": "GPT龙娘小姐最后的告白",
+    "owner": {
+      "name": "天启学生会の摄像头",
+      "mid": 3707031529720051
+    },
+    "pubdate": 1795147010,
+    "duration": 194
+  },
+  "descriptionSha256": "402e4980e7f0096127fb623f79ed8a5edb5c4e3ab8ec41ee4a8f7a46ae2048fd",
+  "uploaderCredits": [],
+  "linkedVideos": [
+    "BV14C456WEXN"
+  ]
+}

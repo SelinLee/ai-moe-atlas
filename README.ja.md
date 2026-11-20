@@ -26,7 +26,7 @@
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/) · [Gemini · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-gemini/) · [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/ja/characters/shangshan-whale/)
 
 <!-- category-picks:songs -->
-**[🎵 楽曲](#songs)** · 44 曲\
+**[🎵 楽曲](#songs)** · 48 曲\
 [人は猫](https://selinlee.github.io/ai-moe-atlas/ja/songs/#humans-are-cats) · [Let Me Go · 大きな魚のサボり歌](https://selinlee.github.io/ai-moe-atlas/ja/songs/#let-me-go) · [蟲兒飛](https://selinlee.github.io/ai-moe-atlas/ja/songs/#fireflies)
 
 <!-- category-picks:references -->
@@ -34,15 +34,15 @@
 [Claude のキャラクター資料](https://selinlee.github.io/ai-moe-atlas/ja/references/#claude) · [DeepSeek のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#deepseek) · [千問のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#qwen)
 
 <!-- category-picks:animations -->
-**[🎬 アニメ・動画二次創作](#animations)** · 552 件\
+**[🎬 アニメ・動画二次創作](#animations)** · 583 件\
 [チャット画面が彼女の世界のすべてだったら](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1xcai6ae9g) · [負けヒロイン AI が多すぎる！ · PV](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1nfag6xehq) · [Claude × DeepSeek · 明日を動かす](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1rd476leux)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 ペット・インタラクティブ作品](#desktop-pets)** · 97 プロジェクト\
+**[🐾 ペット・インタラクティブ作品](#desktop-pets)** · 100 プロジェクト\
 [CrossPet · 複数の AI に対応するデスクトップペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#crosspet) · [Copiwaifu · Live2D コーディングペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#copiwaifu-live2d) · [Deep Whale Day & Night · 昼夜工房](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#deep-whale-day-night)
 
 <!-- category-picks:sources -->
-**[📚 作者の作品と出典](#sources)** · 78 件\
+**[📚 作者の作品と出典](#sources)** · 79 件\
 [上善无形 · クジラ娘の原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI 娘化作品集](https://www.pixiv.net/artworks/148186519) · [Small-tailqwq · クジラ娘のメイド素材](https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier)
 
 <a id="characters"></a>
@@ -78,7 +78,7 @@ AI 製品14種からキャラクター、作者、原作を探せます。 [Muse
 
 <!-- song-ranking:end -->
 
-[原曲の出典](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲とバージョンの確認記録](content/research/2026-11-20/song-originals-and-fan-versions.json) · [主題歌と二次創作の使用曲の確認記録](content/research/2026-11-20/character-songs-and-opening-credits.json) · [ダンス・歌詞 MV の楽曲クレジット](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [「溫室效應」の原曲と二次創作 MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [原曲4曲と二次創作の確認](content/research/2026-11-21/four-song-originals-and-fan-versions.json)
+[原曲の出典](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲とバージョンの確認記録](content/research/2026-11-20/song-originals-and-fan-versions.json) · [主題歌と二次創作の使用曲の確認記録](content/research/2026-11-20/character-songs-and-opening-credits.json) · [ダンス・歌詞 MV の楽曲クレジット](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [「溫室效應」の原曲と二次創作 MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [原曲4曲と二次創作の確認](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [豆包カバーとエンディング曲の出典](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json)
 
 <a id="references"></a>
 
@@ -115,7 +115,7 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 
 <!-- animation-ranking:end -->
 
-公式の累計いいね数付きで二次創作23件を追加。確認待ち候補9件に Bilibili の検索結果に表示された投稿者を掲載し、旧作6件は前回取得できた値を掲載しています。 [今回の確認範囲](content/research/2026-11-21/bilibili-candidate-publisher-recheck-scope.json)
+公式の累計いいね数付きで二次創作31件を追加。候補9件は公式の値を確認待ちで、検索結果の投稿者で絞り込めます。旧作6件は前回取得できた値を掲載しています。 [今回の確認範囲](content/research/2026-11-21/bilibili-candidate-glm-and-doubao-scope.json)
 
 <a id="desktop-pets"></a>
 
@@ -136,14 +136,16 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 | 9 | [GPT 娘 · 使用量ウィジェット](https://github.com/T7moris/GPT-Niang/blob/43f20dee539b642902e56819747a605b3fdddf44/README.md) | [306](https://github.com/T7moris/GPT-Niang) |
 | 10 | [DSH Whale Musume · クジラ娘ペット](https://github.com/Sutera-Diffusus/dsh-whale-musume/blob/df31dd9c3e8cd8d7b371930deb928bba6b1988c6/README.md) | [223](https://github.com/Sutera-Diffusus/dsh-whale-musume) |
 
-[ペット・インタラクティブ作品をすべて見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive) · [Star 数の確認記録](content/research/2026-11-21/github-interactive-stars-gemini-dragon.json)
+[ペット・インタラクティブ作品をすべて見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive) · [Star 数の確認記録](content/research/2026-11-21/github-interactive-stars-seven-girls.json)
 
 クロスプラットフォーム版と Android ネイティブ版で、互換動画各106本をそれぞれの上流固定版とファイル単位で照合しました。上流版では素材の商用利用を禁止し、移植2件の文書にはこれらの動画を MIT と記載しています。 [ペット動画の出典照合](content/research/2026-11-21/dsh-pet-shared-animation-file-provenance.json)
 
 テーマの参照画像2点の SHA-256 を、ZipZipPipe の原投稿と ApprenTice の固定アーカイブの画像にそれぞれ照合。原画、生成派生画像、コードの条件を分けて記載しています。 [Gemini テーマの原図照合](content/research/2026-11-21/gemini-theme-original-art-comparison.json)
 
+7人のペットの固定版ではクジラ娘の動画106本の LFS ハッシュが上流の原ファイルと一致し、配信ファイル2本も確認しました。GLM など6人の派生動画は素材文書に別記しています。 [7人のペット動画の照合](content/research/2026-11-21/seven-character-pet-lfs-provenance.json)
+
 <details>
-<summary>全97件のプロジェクトと出典を表示</summary>
+<summary>全100件のプロジェクトと出典を表示</summary>
 
 | プロジェクト | 内容 | 投稿者 |
 | --- | --- | --- |
@@ -244,6 +246,9 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 | [白竜娘 · macOS ネイティブ移植](https://github.com/Joseph-Blue/bailong-desktop-pet-mac-swift/blob/99e5d57ede7c3a269caa61e92242f65d0ede014d/README.md) | Joseph Blue が Windows 用の白竜娘ペットを Swift と AppKit で書き直した版。挙動の参照元を v0.5.1 に固定。 | Joseph-Blue |
 | [Gemini 猫娘 · Codex スプライト](https://github.com/ethon2333-dotcom/gemini-codex-pet/blob/49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e/README.md) | 透過の9動作を持つ Gemini 猫娘ペット。固定版 WebP は作者の SHA-256 リストと一致。 | ethon2333-dotcom |
 | [Gemini 猫娘 · DSH 使用枠ウィジェット](https://github.com/Void-LifeStream/dsh-gemini-kitten-widget/blob/358118b55dc1da0918779676067356e859c026ae/README.md) | Gemini モデル別のリクエスト枠を表示する DSH ウェブウィジェット。ローカル生成と背景除去の手順を掲載。 | Void-LifeStream |
+| [AI 娘7人のデスクトップペット](https://github.com/Houraiji9/ai-pet-7in1/blob/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/README.md) | 使用中のツールに応じて GPT、Gemini、GLM、Claude、Kimi、DeepSeek、Grok を切り替える。クジラ娘の動画106本の Git LFS ハッシュを上流固定版と照合し、配信ファイル2本も確認。 | Houraiji9 |
+| [GPT 白竜娘 · Pets v2 スプライト](https://github.com/EntropyTea/gpt-white-dragon-pet/blob/a2722b88a992971a74001e8f59e1aa962617be95/README.md) | 白竜娘の9動作・16方向の視線を収録。1536 × 2288 PNG の SHA-256 が作者の記録と一致。 | EntropyTea |
+| [小克 · Claude ペットと使用枠ウィジェット](https://github.com/aklnaaw/dsh-xiaoke-widget/blob/8e2a207bfc9ae3983168dcc847e54734771bce67/README.md) | MeteorNOX の残高ウィジェットをベースに、小克のオレンジ髪の立ち絵、まばたき、呼吸、残高警告アニメを追加。 | aklnaaw |
 
 出典へのリンクです。画像には各原作の条件が適用され、コードのライセンスはキャラクター画像を自動的には許諾しません。
 
@@ -262,6 +267,7 @@ ZipZipPipe の[出典と利用声明](https://t.bilibili.com/1231980045693616162
 
 今回追加した出典：
 
+- [冬冰『5人の AI が Minecraft で遊ぶ』· ペット用プロンプトの出典](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=sources#leto-winter-ice-desktop-personas) · 冬冰の7話から豆包・GLM など7人の役柄を整理し、ペットの操作例を追加。7件の BV ID が冬冰本人の投稿であることを確認。 原動画での表現、整理者の解釈、追加した操作ルールを区別。映像・画像・音声の利用条件は各原典を参照。 [確認記録](content/research/2026-11-21/leto-desktop-personas-winter-series.json)
 - [ApprenTice · Gemini ちび猫娘の改変画](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=sources#apprentice-gemini-chibi) · 作者は ZipZipPipe などの原案を参照した改変作品として公開。固定版の 941 × 1672 PNG は DSH テーマの参照画像と SHA-256 が一致。 作者は改変画像に CC BY-NC-SA 4.0 を適用。作者と原作のクレジットを保持し、個別の上流条件を確認。 [確認記録](content/research/2026-11-21/apprentice-gemini-chibi-source.json)
 - [ZipZipPipe · GPT 白竜娘の三面図](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=sources#zipzippipe-white-dragon-turnarounds) · 作者本人の投稿に、白、濃色、淡い青の衣装の正面・側面・背面を掲載。2048 × 1152 の PNG 3枚を SHA-256 で照合。 作者の原投稿を掲載。各画像の表示、改変、再配布条件は確認待ち。 [確認記録](content/research/2026-11-21/zipzippipe-white-dragon-turnarounds.json)
 - [风霜秋雨 · 『ごめん、思い出せない』制作画像](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=sources#pfz14-deepseek-mv-production-art) · 原投稿から作者の制作画像リポジトリを参照。固定版には BV ID ごとに PNG 17枚を収録し、うち2枚を SHA-256 で照合。 作者の制作画像は個人で保存し私的に見る範囲に限ります。商用利用・転載・改変を禁止。映像と音源の条件は原投稿を参照。 [確認記録](content/research/2026-11-21/pfz14-production-art-personal-viewing.json)
@@ -342,6 +348,7 @@ ZipZipPipe の[出典と利用声明](https://t.bilibili.com/1231980045693616162
 
 | 時期・状況 | 内容 |
 | --- | --- |
+| 2026-11-21 · GLM・豆包の二次創作と7人のペット | 公式いいね数付きの二次創作31件、楽曲4曲、インタラクティブ作品3件、作者の出典1件を追加。冬冰の原投稿7件と、7人のペットのクジラ娘動画106本の出典を照合。 |
 | 2026-11-21 · 候補の投稿者・楽曲・ペット素材 | 公式の累計いいね数付きの二次創作23件、楽曲4曲、インタラクティブ作品5件、作者の出典1件を追加。候補9件の検索結果から投稿者を記録し、Gemini 猫娘の参照画像2点を作者原本と照合。 |
 | 2026-11-21 · 二次創作・ペット動画の出典・作者原投稿 | 公式いいね数付きの二次創作27件、楽曲1曲、インタラクティブ作品3件、作者の出典2件を追加。候補9件と旧作6件を再確認し、ペット移植2件の動画と上流素材の利用条件を照合。 |
 | 2026-11-20 · 候補の再確認・ちびキャラの出典・デスクトップペット | 二次創作動画12件、楽曲4曲、インタラクティブ作品4件、作者の出典2件を追加。候補9件と前回取得できなかった旧作6件を再確認し、各項目の観測時刻を掲載。 |

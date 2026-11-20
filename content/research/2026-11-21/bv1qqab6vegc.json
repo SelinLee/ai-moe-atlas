@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:38:06.624Z",
+  "url": "https://www.bilibili.com/video/BV1QqaB6VEgc/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QqaB6VEgc",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1QqaB6VEgc",
+    "title": "为什么你能带个盆进来",
+    "owner": {
+      "name": "冬冰",
+      "mid": 44748304
+    },
+    "pubdate": 1790846272,
+    "duration": 182
+  },
+  "descriptionSha256": "353eae70638d22532f2d3573ac73f8f4d9ac0914b2ba251c7d9ec3790eae0a41",
+  "uploaderCredits": [
+    "这个刀子真甜",
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": []
+}

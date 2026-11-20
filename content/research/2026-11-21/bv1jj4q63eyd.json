@@ -1,0 +1,26 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:32:09.958Z",
+  "url": "https://www.bilibili.com/video/BV1Jj4q63EYd/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Jj4q63EYd",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Jj4q63EYd",
+    "title": "【十月新番】光之大肥鱼ed1（豆奶版）",
+    "owner": {
+      "name": "日常被背刺",
+      "mid": 358252221
+    },
+    "pubdate": 1793965967,
+    "duration": 91
+  },
+  "descriptionSha256": "d375a6fb3ebf50c202d63879db03c1bac7a46df3ab1bbd42aa7034650c15a1f0",
+  "uploaderCredits": [
+    "这个刀子真甜",
+    "ZipZipPipe",
+    "黑猫勇者"
+  ],
+  "linkedVideos": [
+    "BV1XVv8BZEUh"
+  ]
+}

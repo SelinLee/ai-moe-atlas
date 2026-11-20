@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:32:09.507Z",
+  "url": "https://www.bilibili.com/video/BV1pK3f6YEqH/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pK3f6YEqH",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1pK3f6YEqH",
+    "title": "《恶之娘》但是豆包唱",
+    "owner": {
+      "name": "客栈小蜘蛛",
+      "mid": 373558877
+    },
+    "pubdate": 1785720925,
+    "duration": 281
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}
