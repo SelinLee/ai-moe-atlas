@@ -64,6 +64,13 @@ try{
    assert.deepEqual(candidates,pending.map(row=>({
     original:`https://www.bilibili.com/video/${row.bvid}/`,source:row.requestUrl,checked:row.observedAt,
    })));
+   const searchProofs=await panel.locator('[data-pending-search-index]').evaluateAll(rows=>rows.map(row=>({
+    source:row.querySelector('a')?.href,
+    checked:row.querySelector('time')?.dateTime,
+   })));
+   assert.deepEqual(searchProofs,pending.filter(row=>row.searchIndex).map(row=>({
+    source:row.searchIndex.url,checked:row.searchIndex.observedAt,
+   })));
    assert.equal(await page.locator('#resource-count').innerText(),String(animationCount));
   }
   assert.match(await visibleAnimations.first().innerText(),new RegExp(ranked[0].likes.count.toLocaleString(lang)));

@@ -1,0 +1,49 @@
+{
+  "full_name": "chenyi380/baili-codex",
+  "html_url": "https://github.com/chenyi380/baili-codex",
+  "stargazers_count": 15,
+  "archived": false,
+  "created_at": "2026-10-07T11:17:39Z",
+  "default_branch": "main",
+  "license": "MIT",
+  "observedAt": "2026-11-20T14:53:31.209Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "commit": "6231dc24e686f06f0f9ca69cf8246e3fd5930f33",
+      "url": "https://github.com/chenyi380/baili-codex/blob/6231dc24e686f06f0f9ca69cf8246e3fd5930f33/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/chenyi380/baili-codex/6231dc24e686f06f0f9ca69cf8246e3fd5930f33/README.md",
+      "sourceSha256": "3c0793e61ae83957a7f41868e7d03e321cfaa0a2d33037db6b9e3789ca3ef91e",
+      "gitBlobSha": "610d3121780ca66f40fb3a80f04d1200f268723f"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "commit": "6231dc24e686f06f0f9ca69cf8246e3fd5930f33",
+      "url": "https://github.com/chenyi380/baili-codex/blob/6231dc24e686f06f0f9ca69cf8246e3fd5930f33/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/chenyi380/baili-codex/6231dc24e686f06f0f9ca69cf8246e3fd5930f33/LICENSE",
+      "sourceSha256": "0c675dd19b8873d1d63c6a6322b5af5e9b3b61cc55c56723832c7573650d3e98",
+      "gitBlobSha": "431a2dc686dabcaa275abc63ecccb4b69055ec6d"
+    },
+    "ASSET-NOTICE.md": {
+      "path": "ASSET-NOTICE.md",
+      "commit": "6231dc24e686f06f0f9ca69cf8246e3fd5930f33",
+      "url": "https://github.com/chenyi380/baili-codex/blob/6231dc24e686f06f0f9ca69cf8246e3fd5930f33/ASSET-NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/chenyi380/baili-codex/6231dc24e686f06f0f9ca69cf8246e3fd5930f33/ASSET-NOTICE.md",
+      "sourceSha256": "94a21d33cbeca79e668f5b9fdedfd8e6ff10d4e02f233af67bdf08389c2739fa",
+      "gitBlobSha": "94b6f448116de281d4d345a3f8cf790d2b7d2fa8"
+    }
+  },
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:58:52.852Z",
+  "assets": [],
+  "pinnedDocument": {
+    "path": "README.md",
+    "commit": "6231dc24e686f06f0f9ca69cf8246e3fd5930f33",
+    "url": "https://github.com/chenyi380/baili-codex/blob/6231dc24e686f06f0f9ca69cf8246e3fd5930f33/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/chenyi380/baili-codex/6231dc24e686f06f0f9ca69cf8246e3fd5930f33/README.md",
+    "sourceSha256": "3c0793e61ae83957a7f41868e7d03e321cfaa0a2d33037db6b9e3789ca3ef91e",
+    "gitBlobSha": "610d3121780ca66f40fb3a80f04d1200f268723f"
+  },
+  "method": "github-rest-api-and-isolated-headless-google-chrome",
+  "scope": "Pinned project documentation and raw checksums; asset bytes verified where listed."
+}

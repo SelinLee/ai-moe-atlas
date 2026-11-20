@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:53:58.967Z",
+  "url": "https://www.bilibili.com/video/BV19S4s6FEN8/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19S4s6FEN8",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV19S4s6FEN8",
+    "title": "元气狐狐的一天！",
+    "owner": {
+      "name": "豆牛啊啊啊",
+      "mid": 557760960
+    },
+    "pubdate": 1794117600,
+    "duration": 237
+  },
+  "descriptionSha256": "1b396a5efea2b1ffa8d0545c3e4dcb8bcb03b4b606270f9b115b24863f205e08",
+  "uploaderCredits": [
+    "Suno"
+  ],
+  "linkedVideos": []
+}

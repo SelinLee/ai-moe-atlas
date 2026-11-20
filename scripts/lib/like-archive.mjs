@@ -5,11 +5,13 @@ const dayPattern = /^\d{4}-\d{2}-\d{2}$/;
 const filenamePattern = /^(bilibili-cumulative-likes(?:-[a-z0-9]+)*)\.json$/;
 const bvidPattern = /^BV[0-9A-Za-z]{10}$/;
 const videoEndpoint = 'https://api.bilibili.com/x/web-interface/view?bvid=';
+const searchPagePattern = /^https:\/\/search\.bilibili\.com\/(?:zh-Hans\/)?all\?keyword=[^&]+&order=pubdate$/;
 const snapshotFields = ['method','contextUrl','contextHttpStatus','capturedAt','metric','source','field','videos','pendingCandidates','refreshFailures'];
 const videoFields = ['bvid','snapshotUrl','observedAt','httpStatus','code','title','publisher','publisherId','publicationDate','pubdate','likes'];
 const failureFields = ['bvid','requestUrl','observedAt','httpStatus','code'];
-const candidateFields = ['bvid','requestUrl','observedAt','httpStatus','code','discoveredTitle','status','likes','previousEvidence','previousObservedAt','publicPage','discoveryUrl','discoveredAt'];
+const candidateFields = ['bvid','requestUrl','observedAt','httpStatus','code','discoveredTitle','status','likes','previousEvidence','previousObservedAt','publicPage','discoveryUrl','discoveredAt','searchIndex'];
 const pageFields = ['url','finalUrl','httpStatus','accessedAt','title'];
+const searchIndexFields = ['url','title','observedAt','httpStatus'];
 const hasOnly = (value, fields) => value && typeof value === 'object' && !Array.isArray(value)
   && Object.keys(value).every(key => fields.includes(key));
 const hasScalarValues = value => Object.values(value).every(item => item === null || ['string','number'].includes(typeof item));
@@ -32,10 +34,14 @@ function isPublicSnapshot(snapshot) {
     && pendingCandidates.every(row => {
       if (!hasOnly(row, candidateFields) || !bvidPattern.test(row.bvid) || row.requestUrl !== videoEndpoint + row.bvid
         || row.likes !== null || !Number.isFinite(Date.parse(row.observedAt))) return false;
-      const {publicPage, ...candidate} = row;
+      const {publicPage, searchIndex, ...candidate} = row;
       if (!hasScalarValues(candidate)) return false;
-      if (row.discoveryUrl !== undefined && (!/^https:\/\/search\.bilibili\.com\/(?:zh-Hans\/)?all\?keyword=[^&]+&order=pubdate$/.test(row.discoveryUrl)
+      if (row.discoveryUrl !== undefined && (!searchPagePattern.test(row.discoveryUrl)
         || !Number.isFinite(Date.parse(row.discoveredAt)))) return false;
+      if (searchIndex !== undefined && (!hasOnly(searchIndex, searchIndexFields)
+        || typeof searchIndex.url !== 'string' || !searchPagePattern.test(searchIndex.url)
+        || searchIndex.httpStatus !== 200 || !Number.isFinite(Date.parse(searchIndex.observedAt))
+        || typeof searchIndex.title !== 'string' || !searchIndex.title.trim())) return false;
       const videoUrl = `https://www.bilibili.com/video/${row.bvid}/`;
       return publicPage === undefined || (hasOnly(publicPage, pageFields) && hasScalarValues(publicPage)
         && publicPage.url === videoUrl && publicPage.finalUrl === videoUrl);

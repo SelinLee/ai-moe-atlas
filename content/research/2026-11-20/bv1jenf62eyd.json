@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:53:59.522Z",
+  "url": "https://www.bilibili.com/video/BV1jenf62EyD/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jenf62EyD",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1jenf62EyD",
+    "title": "【全员AI娘】Limelight Lemonade Jam OP｜大肥鱼和她的乐队 原唱版/大肥鱼演唱版",
+    "owner": {
+      "name": "舰长陪我擦甲板",
+      "mid": 51334262
+    },
+    "pubdate": 1793042634,
+    "duration": 212
+  },
+  "descriptionSha256": "993bf24f67bf6f85704631f5b592806561b6973df79d278731552f3b0f136a71",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "レモネードファクトリー",
+    "ゆずソフト"
+  ],
+  "linkedVideos": []
+}

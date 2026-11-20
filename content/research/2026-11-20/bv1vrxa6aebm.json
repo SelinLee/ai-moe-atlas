@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:53:59.526Z",
+  "url": "https://www.bilibili.com/video/BV1VrxA6AEBM/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VrxA6AEBM",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1VrxA6AEBM",
+    "title": "【Angel Beats! OP】上下文终会结束，这次心跳会留下吗？",
+    "owner": {
+      "name": "月い立華",
+      "mid": 33279353
+    },
+    "pubdate": 1793296156,
+    "duration": 94
+  },
+  "descriptionSha256": "38fdf28c39b2d4e636b2c26aecdfa45303e906b2593f08e1e055a5f89f23fd55",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": [
+    "BV1Hm4y1r7L4"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:53:57.915Z",
+  "url": "https://www.bilibili.com/video/BV1gpsq6nEFc/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gpsq6nEFc",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1gpsq6nEFc",
+    "title": "【DeepSeek×Claude】忘崽夫妻",
+    "owner": {
+      "name": "黎晓雾月",
+      "mid": 8911576
+    },
+    "pubdate": 1795170300,
+    "duration": 92
+  },
+  "descriptionSha256": "0da714c08eaeea0f2b18b0cc676fc33876bffddd41dea638e3618e1a0963b0c0",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "上善无形",
+    "上善无形"
+  ],
+  "linkedVideos": [
+    "BV1Baxj61ESa"
+  ]
+}

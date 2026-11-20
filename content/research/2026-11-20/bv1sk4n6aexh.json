@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:53:59.567Z",
+  "url": "https://www.bilibili.com/video/BV1Sk4N6AExh/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Sk4N6AExh",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Sk4N6AExh",
+    "title": "【全员AI娘】天使☆嚣嚣 RE-BOOT! OP | 教室里的AI娘",
+    "owner": {
+      "name": "舰长陪我擦甲板",
+      "mid": 51334262
+    },
+    "pubdate": 1793649587,
+    "duration": 93
+  },
+  "descriptionSha256": "cc22b3c3db0754e6f8619b573d5ba865ee037d4a7f48a0debd244f6b5c80c224",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "ゆずソフト",
+    "Seedance"
+  ],
+  "linkedVideos": []
+}
