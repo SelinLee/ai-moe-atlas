@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:18:03.012Z",
+  "url": "https://www.bilibili.com/video/BV1q5WZ6HEFD/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1q5WZ6HEFD",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1q5WZ6HEFD",
+    "title": "不吃别巴拉大肥鱼",
+    "owner": {
+      "name": "这个刀子真甜",
+      "mid": 23315338
+    },
+    "pubdate": 1794789000,
+    "duration": 68
+  },
+  "descriptionSha256": "250fc943d36a2596fbdd1e26483cfe574d3c601297131fa3018ac0c47354b472",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": []
+}

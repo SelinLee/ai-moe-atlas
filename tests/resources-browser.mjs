@@ -68,9 +68,12 @@ try{
    const searchProofs=await panel.locator('[data-pending-search-index]').evaluateAll(rows=>rows.map(row=>({
     source:row.querySelector('a')?.href,
     checked:row.querySelector('time')?.dateTime,
+    publisher:row.querySelector('[data-pending-search-publisher]')?.textContent,
+    publisherUrl:row.querySelector('[data-pending-search-publisher]')?.getAttribute('href'),
    })));
    assert.deepEqual(searchProofs,pending.filter(row=>row.searchIndex).map(row=>({
     source:row.searchIndex.url,checked:row.searchIndex.observedAt,
+    publisher:row.searchIndex.publisher,publisherUrl:row.searchIndex.publisherUrl,
    })));
    assert.equal(await page.locator('#resource-count').innerText(),String(animationCount));
   }
@@ -147,6 +150,13 @@ try{
    assert.equal(await page.locator('#pending-animation-count').innerText(),'1');
    assert.equal(await page.locator('#resource-count').innerText(),'0');
    assert.ok(await page.locator('#resource-empty').isHidden());
+   const indexedPublisher=pending.find(row=>row.searchIndex?.publisher)?.searchIndex.publisher;
+   if(indexedPublisher){
+    await page.locator('#resource-search').fill(indexedPublisher);
+    const matchingCandidates=pending.filter(row=>row.searchIndex?.publisher===indexedPublisher);
+    assert.equal(await page.locator('[data-pending-search]:visible').count(),matchingCandidates.length);
+    assert.equal(await page.locator('#pending-animation-count').innerText(),String(matchingCandidates.length));
+   }
    await page.locator('#resource-search').fill('');
   }
   await page.locator('[data-resource-filter="interactive"]').click();assert.equal(await page.locator('[data-resource-category]:visible').count(),interactiveCount);

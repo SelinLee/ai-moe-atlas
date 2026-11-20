@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:18:02.035Z",
+  "url": "https://www.bilibili.com/video/BV1KfWV6CE5e/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KfWV6CE5e",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1KfWV6CE5e",
+    "title": "不要让大肥鱼去写你们的作业啊喂！",
+    "owner": {
+      "name": "谷君还不够强",
+      "mid": 8299077
+    },
+    "pubdate": 1794368100,
+    "duration": 160
+  },
+  "descriptionSha256": "1cfaec5303fb86a63ab19990c529616b64734108fb60c71ff2d45e65286218e1",
+  "uploaderCredits": [
+    "这个刀子真甜"
+  ],
+  "linkedVideos": []
+}

@@ -1,0 +1,100 @@
+{
+  "method": "isolated-headless-google-chrome-and-bilibili-view-detail",
+  "tracks": [
+    {
+      "songId": "hallucination-suisoh",
+      "officialSource": {
+        "id": "hallucination",
+        "url": "https://www.youtube.com/watch?v=y5scHVBMqeI",
+        "finalUrl": "https://www.youtube.com/watch?v=y5scHVBMqeI",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:19:42.903Z",
+        "htmlSha256": "ead3bcfd634fea48cd89d7c803322ab00c07397fd4bfd73a415910892321369a",
+        "title": "水槽 × r-906 - ハルシネイション MV - YouTube",
+        "og": null
+      },
+      "fanVersion": {
+        "bvid": "BV13ixH6EE9j",
+        "url": "https://www.bilibili.com/video/BV13ixH6EE9j/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV13ixH6EE9j",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:19:50.365Z",
+        "bodySha256": "6480097ba612be07bd3cf33c79a87d3cf4bc0b6bb60e4448e3938e6efffe10ac",
+        "detectedMusicTag": "发现《ハルシネイション》"
+      }
+    },
+    {
+      "songId": "akumabarai",
+      "officialSource": {
+        "id": "akumabarai",
+        "url": "https://www.youtube.com/watch?v=TzH5BsJj81Y",
+        "finalUrl": "https://www.youtube.com/watch?v=TzH5BsJj81Y",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:19:42.901Z",
+        "htmlSha256": "d464cee1d41db44f946d9e6f0093cdde3067b8d98cf3d88a9fb42f098c19af8b",
+        "title": "驱魔 feat. 雨衣, Gemini (TTS), 初音未来 - YouTube",
+        "og": null
+      },
+      "fanVersion": {
+        "bvid": "BV1uypq67E5A",
+        "url": "https://www.bilibili.com/video/BV1uypq67E5A/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1uypq67E5A",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:19:50.303Z",
+        "bodySha256": "36bf6964da1a508b9313ac9bd9ced7fb445f31a7566a78e4d6aebcfb2bc49305",
+        "detectedMusicTag": "发现《アクマバライ (feat. 雨衣 & 初音ミク)》"
+      }
+    },
+    {
+      "songId": "confess-to-the-sister",
+      "officialSource": {
+        "id": "confession",
+        "url": "https://www.nicovideo.jp/watch/sm44678491",
+        "finalUrl": "https://www.nicovideo.jp/watch/sm44678491",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:19:37.975Z",
+        "htmlSha256": "e8485f2df7700afccf3ad4543c59b04f9ad2e3712727a0643c3a6c11472fd864",
+        "title": "シスターに懺悔を / 重音テトsv - ニコニコ動画",
+        "og": "シスターに懺悔を / 重音テトsv"
+      },
+      "fanVersion": {
+        "bvid": "BV1ArsX6pEm6",
+        "url": "https://www.bilibili.com/video/BV1ArsX6pEm6/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1ArsX6pEm6",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:19:50.339Z",
+        "bodySha256": "b5ecdb7e3f1235628fdbbe64e27abc3a8b6fe7dcf2d2c029e1c078d8400706f9",
+        "detectedMusicTag": "发现《シスターに懺悔を 》"
+      },
+      "officialBilibiliRelease": "https://www.bilibili.com/video/BV1rjJq6REW9/"
+    },
+    {
+      "songId": "five-twenty-am",
+      "officialSource": {
+        "id": "soldier",
+        "url": "https://music-tw.line.me/track/7440499001",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:21:03.282Z",
+        "title": "5:20AM - Soldier - 5:20AM專輯 - LINE MUSIC",
+        "htmlSha256": "41c34964907b39419bb597186b03ee1e1680d868c861077cede553c46c0cc9e3"
+      },
+      "fanVersion": {
+        "bvid": "BV1JQHV6hEZn",
+        "url": "https://www.bilibili.com/video/BV1JQHV6hEZn/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1JQHV6hEZn",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:19:50.290Z",
+        "bodySha256": "565174ef729e0394812a585e8525d970974d6dd0cd5f8d38929d4846f6698152",
+        "detectedMusicTag": "发现《5:20AM（刀酱版）》"
+      },
+      "identifiedRecording": {
+        "id": "dao",
+        "url": "https://music-tw.line.me/track/7447649001",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:21:04.010Z",
+        "title": "5:20AM - 刀酱 - 5:20AM專輯 - LINE MUSIC",
+        "htmlSha256": "20c27b997bafc295d5f85a135dbc72cbd4b55a7a057c7fd12d4a5538904e6a04"
+      }
+    }
+  ]
+}

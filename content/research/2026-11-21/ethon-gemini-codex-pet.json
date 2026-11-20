@@ -1,0 +1,67 @@
+{
+  "full_name": "ethon2333-dotcom/gemini-codex-pet",
+  "html_url": "https://github.com/ethon2333-dotcom/gemini-codex-pet",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-10-18T08:34:12Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "Gemini 猫娘 Codex 宠物：九组动作透明图集与安装包。",
+  "license": null,
+  "commit": "49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e",
+  "observedAt": "2026-11-20T16:17:12.728+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:21:08.746Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/ethon2333-dotcom/gemini-codex-pet/blob/49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/ethon2333-dotcom/gemini-codex-pet/49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e/README.md",
+      "sourceSha256": "38da2aaa910e211dc246f231f5c290589ebf16d3a5f287d883d4fde72a5362e2",
+      "gitBlobSha": "fb154fbc2aaf85404b5db2110013c16b4f2d9e20",
+      "bytes": 3904,
+      "commit": "49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e"
+    },
+    "CREDITS.md": {
+      "path": "CREDITS.md",
+      "url": "https://github.com/ethon2333-dotcom/gemini-codex-pet/blob/49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e/CREDITS.md",
+      "rawUrl": "https://raw.githubusercontent.com/ethon2333-dotcom/gemini-codex-pet/49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e/CREDITS.md",
+      "sourceSha256": "d659a91b508801299e1d6c5fece9d242e66ec51d2eac156d25400d3c968c058a",
+      "gitBlobSha": "35ecf2f86c5cfaba56d3d6d1d567a76913442c28",
+      "bytes": 1546,
+      "commit": "49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e"
+    },
+    "SHA256SUMS.txt": {
+      "path": "SHA256SUMS.txt",
+      "url": "https://github.com/ethon2333-dotcom/gemini-codex-pet/blob/49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e/SHA256SUMS.txt",
+      "rawUrl": "https://raw.githubusercontent.com/ethon2333-dotcom/gemini-codex-pet/49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e/SHA256SUMS.txt",
+      "sourceSha256": "0334ec30de7c7f3310694fae3b5a9180348b6621946695f44a5c95cbb5247c84",
+      "gitBlobSha": "08fd62cc0c89ffc6d54818ef3bc14c3103ac945e",
+      "bytes": 3140,
+      "commit": "49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/ethon2333-dotcom/gemini-codex-pet/blob/49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/ethon2333-dotcom/gemini-codex-pet/49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e/README.md",
+    "sourceSha256": "38da2aaa910e211dc246f231f5c290589ebf16d3a5f287d883d4fde72a5362e2",
+    "gitBlobSha": "fb154fbc2aaf85404b5db2110013c16b4f2d9e20",
+    "bytes": 3904,
+    "commit": "49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e"
+  },
+  "canonicalPageStatus": 200,
+  "method": "github-rest-tree-and-isolated-headless-google-chrome-pinned-raw",
+  "spriteProof": {
+    "repo": "ethon2333-dotcom",
+    "path": "gemini-cat-a/spritesheet.webp",
+    "rawUrl": "https://raw.githubusercontent.com/ethon2333-dotcom/gemini-codex-pet/49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e/gemini-cat-a/spritesheet.webp",
+    "url": "https://github.com/ethon2333-dotcom/gemini-codex-pet/blob/49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e/gemini-cat-a/spritesheet.webp",
+    "sourceSha256": "e50e6a5d1bc5aa96c64b78866bb5605dc2fb5e51bce674f7e918608ff698e548",
+    "gitBlobSha": "0e502df558b7a16dc1342d9d8b188afd10fca9c7",
+    "bytes": 3169974,
+    "httpStatus": 200,
+    "accessedAt": "2026-11-20T16:22:56.045Z",
+    "commit": "49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e"
+  }
+}

@@ -11,7 +11,9 @@ const videoFields = ['bvid','snapshotUrl','observedAt','httpStatus','code','titl
 const failureFields = ['bvid','requestUrl','observedAt','httpStatus','code'];
 const candidateFields = ['bvid','requestUrl','observedAt','httpStatus','code','discoveredTitle','status','likes','previousEvidence','previousObservedAt','publicPage','discoveryUrl','discoveredAt','searchIndex'];
 const pageFields = ['url','finalUrl','httpStatus','accessedAt','title'];
-const searchIndexFields = ['url','title','observedAt','httpStatus'];
+const searchIndexFields = ['url','title','observedAt','httpStatus','publisher','publisherUrl','htmlSha256'];
+const publisherPagePattern = /^https:\/\/space\.bilibili\.com\/[1-9][0-9]*$/;
+const sha256Pattern = /^[0-9a-f]{64}$/;
 const hasOnly = (value, fields) => value && typeof value === 'object' && !Array.isArray(value)
   && Object.keys(value).every(key => fields.includes(key));
 const hasScalarValues = value => Object.values(value).every(item => item === null || ['string','number'].includes(typeof item));
@@ -42,7 +44,12 @@ function isPublicSnapshot(snapshot) {
       if (searchIndex !== undefined && (!hasOnly(searchIndex, searchIndexFields)
         || typeof searchIndex.url !== 'string' || !searchPagePattern.test(searchIndex.url)
         || searchIndex.httpStatus !== 200 || !Number.isFinite(Date.parse(searchIndex.observedAt))
-        || typeof searchIndex.title !== 'string' || !searchIndex.title.trim())) return false;
+        || typeof searchIndex.title !== 'string' || !searchIndex.title.trim()
+        || (searchIndex.htmlSha256 !== undefined && (typeof searchIndex.htmlSha256 !== 'string' || !sha256Pattern.test(searchIndex.htmlSha256)))
+        || ((searchIndex.publisher !== undefined || searchIndex.publisherUrl !== undefined)
+          && (typeof searchIndex.publisher !== 'string' || !searchIndex.publisher.trim()
+            || typeof searchIndex.publisherUrl !== 'string' || !publisherPagePattern.test(searchIndex.publisherUrl)
+            || searchIndex.htmlSha256 === undefined)))) return false;
       const videoUrl = `https://www.bilibili.com/video/${row.bvid}/`;
       return publicPage === undefined || (hasOnly(publicPage, pageFields) && hasScalarValues(publicPage)
         && publicPage.url === videoUrl && publicPage.finalUrl === videoUrl);

@@ -26,7 +26,7 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/) · [Gemini · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-gemini/) · [Mingyue · Shangshan](https://selinlee.github.io/ai-moe-atlas/en/characters/shangshan-whale/)
 
 <!-- category-picks:songs -->
-**[🎵 Songs](#songs)** · 40 tracks\
+**[🎵 Songs](#songs)** · 44 tracks\
 [Humans Are Cats](https://selinlee.github.io/ai-moe-atlas/en/songs/#humans-are-cats) · [Let Me Go · Fat Fish’s Slacking Song](https://selinlee.github.io/ai-moe-atlas/en/songs/#let-me-go) · [Fireflies](https://selinlee.github.io/ai-moe-atlas/en/songs/#fireflies)
 
 <!-- category-picks:references -->
@@ -34,15 +34,15 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 [Claude reference sheet](https://selinlee.github.io/ai-moe-atlas/en/references/#claude) · [DeepSeek chibi turnaround](https://selinlee.github.io/ai-moe-atlas/en/chibi/#deepseek) · [Qwen chibi turnaround](https://selinlee.github.io/ai-moe-atlas/en/chibi/#qwen)
 
 <!-- category-picks:animations -->
-**[🎬 Animation & fan videos](#animations)** · 529 records\
+**[🎬 Animation & fan videos](#animations)** · 552 records\
 [What If the Chat Window Were Her Whole World?](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1xcai6ae9g) · [Too Many Losing AIs! · Fan PV](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1nfag6xehq) · [Claude × DeepSeek · Making Tomorrow Work](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1rd476leux)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 Pets & interactive projects](#desktop-pets)** · 92 projects\
+**[🐾 Pets & interactive projects](#desktop-pets)** · 97 projects\
 [CrossPet · Cross-AI desktop companion](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#crosspet) · [Copiwaifu · Live2D coding companion](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#copiwaifu-live2d) · [Deep Whale Day & Night](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#deep-whale-day-night)
 
 <!-- category-picks:sources -->
-**[📚 Creator works & sources](#sources)** · 77 sources\
+**[📚 Creator works & sources](#sources)** · 78 sources\
 [Shangshan · Whale Girl original](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI Girl collection](https://www.pixiv.net/artworks/148186519) · [Small-tailqwq · Whale Girl maid artwork](https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier)
 
 <a id="characters"></a>
@@ -69,16 +69,16 @@ The top ten tracks by the highest total likes on a listed version. Observation t
 | [Boundless Oceans, Vast Skies](https://selinlee.github.io/ai-moe-atlas/en/songs/#boundless-oceans-vast-skies) | Beyond | Whale Girl Covers Boundless Oceans, Vast Skies | 59,294 |
 | [Billie Jean](https://selinlee.github.io/ai-moe-atlas/en/songs/#billie-jean) | Michael Jackson | Whale Girl Covers Billie Jean | 52,499 |
 | [Rainie Love](https://selinlee.github.io/ai-moe-atlas/en/songs/#rainie-love) | 楊丞琳 · Rainie Yang | Whale Girl Covers Rainie Love · Sifeng Version | 39,025 |
+| [5:20AM](https://selinlee.github.io/ai-moe-atlas/en/songs/#five-twenty-am) | Soldier | Fat Fish · 5:20AM Chinese Cover | 36,251 |
 | [Silhouette Dance](https://selinlee.github.io/ai-moe-atlas/en/songs/#silhouette-dance) | MyGO!!!!! | Fat Fish · “Kageiro Mai” | 27,122 |
+| [Confess to the Sister](https://selinlee.github.io/ai-moe-atlas/en/songs/#confess-to-the-sister) | 廃原メモリ · 重音テト SV | Fat Fish Covers Confess to the Sister | 26,992 |
 | [Tower of Flower](https://selinlee.github.io/ai-moe-atlas/en/songs/#flower-tower) | さユり · Sayuri | Fat Fish × Claude · Lycoris S Ending | 23,019 |
-| [Phony](https://selinlee.github.io/ai-moe-atlas/en/songs/#phony) | ツミキ feat. 可不 | “Phony” · DeepSeek Code-Rendered Music Video | 18,430 |
-| [Uptown Funk](https://selinlee.github.io/ai-moe-atlas/en/songs/#uptown-funk) | Mark Ronson feat. Bruno Mars | Doubao and the AI Girls · “Uptown Funk” Remake | 8,083 |
 
-[Open the full song ranking and all versions](https://selinlee.github.io/ai-moe-atlas/en/songs/) · [Like observation evidence](content/research/2026-11-20/bilibili-cumulative-likes-character-music.json)
+[Open the full song ranking and all versions](https://selinlee.github.io/ai-moe-atlas/en/songs/) · [Like observation evidence](content/research/)
 
 <!-- song-ranking:end -->
 
-[Original music sources](content/research/2026-11-20/gemini-mv-original-music.json) · [Song and version verification](content/research/2026-11-20/song-originals-and-fan-versions.json) · [Opening-theme and fan-version credits](content/research/2026-11-20/character-songs-and-opening-credits.json) · [Dance and lyric MV song credits](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [Greenhouse Effect original and fan MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json)
+[Original music sources](content/research/2026-11-20/gemini-mv-original-music.json) · [Song and version verification](content/research/2026-11-20/song-originals-and-fan-versions.json) · [Opening-theme and fan-version credits](content/research/2026-11-20/character-songs-and-opening-credits.json) · [Dance and lyric MV song credits](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [Greenhouse Effect original and fan MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [Four original tracks and fan versions](content/research/2026-11-21/four-song-originals-and-fan-versions.json)
 
 <a id="references"></a>
 
@@ -115,7 +115,7 @@ The top ten by Bilibili’s official cumulative likes. Ties use publication date
 
 <!-- animation-ranking:end -->
 
-Official total likes were captured for 27 new fan works. Nine candidates are awaiting counts. Six earlier works keep their last successful counts, and every ranking entry shows its observation time. [Scope of this recheck](content/research/2026-11-21/bilibili-candidate-november-21-scope.json)
+Added 23 fan works with official total likes. Nine pending candidates now show the publishers listed in Bilibili search. Six older works keep their last successful counts. [Scope of this recheck](content/research/2026-11-21/bilibili-candidate-publisher-recheck-scope.json)
 
 <a id="desktop-pets"></a>
 
@@ -136,12 +136,14 @@ The top ten by GitHub stars as checked on 2026-11-21. Ties are sorted by reposit
 | 9 | [GPT Girl · usage widget](https://github.com/T7moris/GPT-Niang/blob/43f20dee539b642902e56819747a605b3fdddf44/README.md) | [306](https://github.com/T7moris/GPT-Niang) |
 | 10 | [DSH Whale Musume · Whale girl companion](https://github.com/Sutera-Diffusus/dsh-whale-musume/blob/df31dd9c3e8cd8d7b371930deb928bba6b1988c6/README.md) | [223](https://github.com/Sutera-Diffusus/dsh-whale-musume) |
 
-[Browse all pets and interactive projects](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-21/github-interactive-stars-android-provenance.json)
+[Browse all pets and interactive projects](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-21/github-interactive-stars-gemini-dragon.json)
 
 For both the cross-platform and native Android ports, 106 compatibility clips match the respective pinned upstream trees. The upstream revisions restrict commercial use, and each port’s notice lists MIT for those clips. [Desktop pet animation provenance](content/research/2026-11-21/dsh-pet-shared-animation-file-provenance.json)
 
+The two theme references match the SHA-256 hashes of the files from ZipZipPipe’s post and ApprenTice’s pinned archive. The theme documents the terms for original artwork, generated adaptations and code separately. [Gemini theme artwork verification](content/research/2026-11-21/gemini-theme-original-art-comparison.json)
+
 <details>
-<summary>Show all 92 projects and sources</summary>
+<summary>Show all 97 projects and sources</summary>
 
 | Project | Content | Publisher |
 | --- | --- | --- |
@@ -237,6 +239,11 @@ For both the cross-platform and native Android ports, 106 compatibility clips ma
 | [Blue Fat Fish · Android Desktop Pet](https://github.com/shitmof/lanse-dafeiyu/blob/e75df1ba829d647f6ce133d03a625893efcabae2/README.md) | An Android floating pet based on dsh-pet v0.3.8. The project notice records an attribution correction after 0.1.0 and the addition of full asset terms to the app in 0.1.1. | shitmof |
 | [dsh-pet · Native Android Port](https://github.com/ldyivan/dsh-pet-android/blob/270428f49b9b62b99cbf020a868430010af6759b/README.md) | A native Android overlay pet. Its pinned version contains 106 clips identical to PC2005-cloud upstream files and eight outside that matched set. | ldyivan |
 | [BigFish · Whale Girl’s Home on macOS](https://github.com/Shiliumi/bigfish/blob/323b099ef345c467eba6e4508dbf24da74dc3c2a/README.md) | An interactive macOS home with a 3D room, character animations and a memory archive. The notice separates character art, animation, stickers and third-party code. | Shiliumi |
+| [Gemini Cat Girl · DSH Observatory Theme](https://github.com/StevenYang37/dsh-gemini-cat-theme/blob/8e3642615564fe9e5027444d43c5d795ac51cd26/README.md) | The DSH theme adds light and dark skins and a sidebar character. Both retained references match the creators’ files by SHA-256. The generated seated adaptation is listed separately. | StevenYang37 |
+| [GPT White Dragon Girl · Windows Animated Pet](https://github.com/jingh12312-rgb/bailong-desktop-pet/blob/b102e734f20bb50889af12df5778f1499109f41b/README.md) | A Windows pet with transparent animation, clicks and dragging. The author documents 35 clips distributed with the release package. | jingh12312-rgb |
+| [White Dragon Girl · Native macOS Port](https://github.com/Joseph-Blue/bailong-desktop-pet-mac-swift/blob/99e5d57ede7c3a269caa61e92242f65d0ede014d/README.md) | Joseph Blue rewrites the Windows White Dragon Girl pet in Swift and AppKit. The architecture notes pin the behavior reference to upstream v0.5.1. | Joseph-Blue |
+| [Gemini Cat Girl · Codex Sprite Sheet](https://github.com/ethon2333-dotcom/gemini-codex-pet/blob/49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e/README.md) | A Gemini companion with nine transparent animation states. The pinned WebP sheet matches the creator’s SHA-256 manifest. | ethon2333-dotcom |
+| [Gemini Cat Girl · DSH Quota Widget](https://github.com/Void-LifeStream/dsh-gemini-kitten-widget/blob/358118b55dc1da0918779676067356e859c026ae/README.md) | A DSH web widget that presents request quotas for Gemini models with a cat-girl character. The project documents local generation and background removal. | Void-LifeStream |
 
 Source links only. Artwork follows its own upstream terms; code licenses do not automatically cover character images.
 
@@ -255,6 +262,7 @@ See also ZipZipPipe’s [source and usage statement](https://t.bilibili.com/1231
 
 Newly added:
 
+- [ApprenTice · Chibi Gemini Cat Girl Adaptation](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#apprentice-gemini-chibi) · The creator documents an adaptation based on references including ZipZipPipe’s design. The pinned 941 × 1672 PNG matches the DSH theme’s reference file by SHA-256. The creator applies CC BY-NC-SA 4.0 to their adaptations. Preserve both author and original-source credits and check upstream terms for the file. [Verification record](content/research/2026-11-21/apprentice-gemini-chibi-source.json)
 - [ZipZipPipe · GPT White Dragon Girl Turnarounds](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#zipzippipe-white-dragon-turnarounds) · The creator’s post contains three front, side and rear sets with white, dark and pale blue outfits. All three 2048 × 1152 PNGs were hashed. Links to the creator’s post. File-specific display, adaptation and redistribution terms are pending. [Verification record](content/research/2026-11-21/zipzippipe-white-dragon-turnarounds.json)
 - [风霜秋雨 · Sorry, I Don’t Remember Production Art](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#pfz14-deepseek-mv-production-art) · The original upload points to the creator’s production-art repository. The pinned folder contains 17 PNGs under the BV ID. Two sample files were checked by SHA-256. The author’s production images are for private viewing. Their terms prohibit commercial use, reposting and modification. The video and recording have separate terms. [Verification record](content/research/2026-11-21/pfz14-production-art-personal-viewing.json)
 - [zyd232 · Archived Whale Girl Chibi Turnaround](https://xn--pssy23gqgbz2d718b.com/works/deepseek202610090014.html) · The archive credits zyd232 for a 2208 × 960 turnaround with a face close-up. Its original-author field is blank. The pinned JPG checksum was verified. [Source verification](content/research/2026-11-20/zyd232-q-whale-sheet-archive.json)
@@ -334,6 +342,7 @@ Newly added:
 
 | Date / status | Progress |
 | --- | --- |
+| 2026-11-21 · Candidate publishers, songs and desktop pet artwork | Added 23 fan works with official counts, four tracks, five interactive projects and one creator source. Recorded search publishers for nine candidates and matched two Gemini references to their creators’ files. |
 | 2026-11-21 · Fan works, desktop pet provenance and creator posts | Added 27 fan works with official counts, one track, three interactive projects and two creator sources. Rechecked nine candidates and six earlier works, and traced two pet ports’ animation files and terms. |
 | 2026-11-20 · Candidate rechecks, chibi sources and desktop companions | Added 12 fan videos, four tracks, four interactive projects and two creator sources. Rechecked nine candidates and six older videos without recent counts. Ranking entries show their individual observation times. |
 | 2026-11-20 · Character songs, Live2D and desktop companions | Added 37 fan videos, eight tracks and five interactive projects. Updated 484 official like counts, kept six previous counts, and tracked nine candidates. Checked the Whale Girl Live2D terms for derivatives, commercial livestreaming and sales. |

@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:18:02.846Z",
+  "url": "https://www.bilibili.com/video/BV16rsj61EbS/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16rsj61EbS",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV16rsj61EbS",
+    "title": "大肥鱼起床要抱抱",
+    "owner": {
+      "name": "这个刀子真甜",
+      "mid": 23315338
+    },
+    "pubdate": 1794702600,
+    "duration": 95
+  },
+  "descriptionSha256": "98c40786a4505c5afa4b94a01a1e339c8f89c894b58b0a79104bc1cc86fc4a77",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": []
+}
