@@ -34,7 +34,7 @@
   </tr>
 </table>
 
-点击分类跳到本页对应内容；各节也提供在线浏览和原始资料入口。
+点击分类，查看精选条目和完整目录入口。
 
 <a id="characters"></a>
 
@@ -53,6 +53,12 @@
 <a id="songs"></a>
 
 ### 🎵 歌曲
+
+<!-- category-picks:songs -->
+
+- [人是猫](https://selinlee.github.io/ai-moe-atlas/zh/songs/#humans-are-cats) — 洛天依原唱与大肥鱼翻唱。
+- [Let Me Go · 大肥鱼摸鱼歌](https://selinlee.github.io/ai-moe-atlas/zh/songs/#let-me-go) — 星落落_oi 的原版、改编和歌词 MV。
+- [虫儿飞](https://selinlee.github.io/ai-moe-atlas/zh/songs/#fireflies) — 鄭伊健原唱与五位 AI 娘的合唱版。
 
 每首歌选一条已收录且点赞最高的 B 站二创，按该视频的累计点赞排序（2026-11-20 北京时间快照）。
 
@@ -124,6 +130,12 @@
 <a id="desktop-pets"></a>
 
 ### 🐾 桌宠与交互项目
+
+<!-- category-picks:desktop-pets -->
+
+- [CrossPet · 跨 AI 桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#crosspet) — 随 AI 产品和工作状态切换角色与动作。
+- [Copiwaifu · Live2D 编程桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#copiwaifu-live2d) — 用 Live2D 动作显示 Copilot、Claude Code 和 Codex 的工作状态。
+- [Deep Whale Day & Night · 昼夜工坊](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#deep-whale-day-night) — 鲸鱼娘的昼夜场景与侧栏桌宠。
 
 按 2026-11-20 核对的 GitHub Star 数展示前十。同分按仓库名排序。
 

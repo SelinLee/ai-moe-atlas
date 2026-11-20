@@ -34,7 +34,7 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
   </tr>
 </table>
 
-Choose a category to jump to its section here. Each section also links to online tools and source files.
+Choose a category to see selected entries and open the full collection.
 
 <a id="characters"></a>
 
@@ -53,6 +53,12 @@ Find characters, creators and original works across 12 AI products.
 <a id="songs"></a>
 
 ### 🎵 Songs
+
+<!-- category-picks:songs -->
+
+- [Humans Are Cats](https://selinlee.github.io/ai-moe-atlas/en/songs/#humans-are-cats) — Luo Tianyi’s original vocal and Fat Fish covers.
+- [Let Me Go · Fat Fish’s Slacking Song](https://selinlee.github.io/ai-moe-atlas/en/songs/#let-me-go) — The original by 星落落_oi, adaptations and lyric videos.
+- [Fireflies](https://selinlee.github.io/ai-moe-atlas/en/songs/#fireflies) — Ekin Cheng’s original vocal and a cover by five AI girls.
 
 Tracks are ordered by the Bilibili likes on their most-liked cataloged fan version (2026-11-20 snapshot, Beijing time).
 
@@ -124,6 +130,12 @@ The top ten by Bilibili’s official cumulative likes. Ties use publication date
 <a id="desktop-pets"></a>
 
 ### 🐾 Pets & interactive projects
+
+<!-- category-picks:desktop-pets -->
+
+- [CrossPet · Cross-AI desktop companion](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#crosspet) — Switches characters and animations based on the AI product and its activity.
+- [Copiwaifu · Live2D coding companion](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#copiwaifu-live2d) — Animates activity from Copilot, Claude Code and Codex.
+- [Deep Whale Day & Night](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#deep-whale-day-night) — Day and night scenes with a Whale Girl sidebar companion.
 
 The top ten by GitHub stars as checked on 2026-11-20. Ties are sorted by repository name.
 

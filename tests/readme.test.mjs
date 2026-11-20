@@ -12,7 +12,31 @@ const layouts = [
  ['README.en.md', 'en', 'Resource directory', 'Timeline and open items', 'Character galleries'],
  ['README.ja.md', 'ja', 'リソース一覧', '収録の経緯と今後の調査項目', 'キャラクターギャラリー']
 ];
+const categories = ['characters', 'songs', 'references', 'animations', 'desktop-pets', 'sources'];
 for (const [file, lang, directory, timeline, galleries] of layouts) {
+ test(`${file}: each category opens with three distinct text links`,async()=>{
+  const markdown = await read(file);
+  const contents = markdown.slice(markdown.indexOf(`## ${directory}\n`), markdown.indexOf(`## ${timeline}\n`));
+  assert.doesNotMatch(contents, /<img\b|!\[/);
+  for (const category of categories) {
+   assert.ok(contents.includes(`href="#${category}"`), category);
+   const section = contents.split(`<a id="${category}"></a>\n\n`)[1];
+   assert.ok(section?.startsWith('### '), category);
+   const [, picks, entries] = section.split('\n\n');
+   assert.equal(picks, `<!-- category-picks:${category} -->`);
+   const links = entries.split('\n').map(entry => {
+    const match = entry.match(/^- \[[^\]]+\]\((https:\/\/[^)]+)\) — .+$/);
+    assert.ok(match, entry);
+    const url = new URL(match[1]);
+    if (url.hostname === 'selinlee.github.io') {
+     assert.ok(url.pathname.startsWith(`/ai-moe-atlas/${lang}/`), url.href);
+    }
+    return url.href;
+   });
+   assert.equal(links.length, 3, category);
+   assert.equal(new Set(links).size, 3, category);
+  }
+ });
  test(`${file}: selected reference sheets lead with provenance and working local links`,async()=>{
   const markdown=await read(file);
   const sections = [directory, timeline, galleries].map(title => markdown.indexOf(`## ${title}\n`));

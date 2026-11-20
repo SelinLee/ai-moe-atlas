@@ -34,7 +34,7 @@
   </tr>
 </table>
 
-分類をクリックすると、このページの該当箇所へ移動します。各節にはオンライン閲覧と原資料へのリンクもあります。
+分類を選ぶと、ピックアップした項目と全件一覧へのリンクを確認できます。
 
 <a id="characters"></a>
 
@@ -53,6 +53,12 @@ AI 製品12種からキャラクター、作者、原作を探せます。
 <a id="songs"></a>
 
 ### 🎵 楽曲
+
+<!-- category-picks:songs -->
+
+- [人は猫](https://selinlee.github.io/ai-moe-atlas/ja/songs/#humans-are-cats) — 洛天依の原曲とクジラ娘のカバー。
+- [Let Me Go · 大きな魚のサボり歌](https://selinlee.github.io/ai-moe-atlas/ja/songs/#let-me-go) — 星落落_oi の原曲、アレンジ、歌詞付き MV。
+- [蟲兒飛](https://selinlee.github.io/ai-moe-atlas/ja/songs/#fireflies) — 鄭伊健の原曲と AI 娘5人の合唱カバー。
 
 各曲で収録済みの Bilibili 二次創作のうち、いいねが最多の動画を掲載し、その数で並べています（2026-11-20、北京時間）。
 
@@ -124,6 +130,12 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 <a id="desktop-pets"></a>
 
 ### 🐾 ペット・インタラクティブ作品
+
+<!-- category-picks:desktop-pets -->
+
+- [CrossPet · 複数の AI に対応するデスクトップペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#crosspet) — AI 製品と作業状態に合わせてキャラや動きを切り替えます。
+- [Copiwaifu · Live2D コーディングペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#copiwaifu-live2d) — Copilot、Claude Code、Codex の作業状態をアニメーションで表示します。
+- [Deep Whale Day & Night · 昼夜工房](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#deep-whale-day-night) — 昼夜の背景とサイドバーのクジラ娘を楽しめます。
 
 2026-11-20 に確認した GitHub Star 数の上位10件です。同数の場合はリポジトリ名順です。
 
