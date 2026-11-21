@@ -1,3 +1,6 @@
+import { assertSource } from './policy.mjs';
+import { assertUsageReview } from '../../src/lib/usage-policy.mjs';
+
 // Discovery records stay outside the published artwork and export pipelines.
 const date = value => typeof value === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(value) && !Number.isNaN(Date.parse(value));
 const timestamp = value => typeof value === 'string' && !Number.isNaN(Date.parse(value)) && value.includes('T');
@@ -32,9 +35,21 @@ export function assertCandidateReport(report, { entities, characters = [], sourc
     if (!/^[a-z0-9-]+$/.test(c.id ?? '') || ids.has(c.id)) throw new Error('Duplicate or invalid candidate ID');
     ids.add(c.id);
     if (c.status !== 'pending-review' || c.usage !== 'source-only' || c.downloadable !== false || c.preview !== null || !Array.isArray(c.assets) || c.assets.length || c.studioExport !== false || ['files', 'imageUrl', 'thumbnail', 'packUrl'].some(key => key in c)) throw new Error('Unknown-rights candidate must remain source-only without assets or exports');
-    if (!date(c.publicationDate) || !['visible-page-date', 'historical-user-provided'].includes(c.publicationDateBasis) || c.publicationTimeZone !== null || (c.observedDatetime !== null && !timestamp(c.observedDatetime))) throw new Error('Invalid candidate publication date provenance');
+    if (!date(c.publicationDate) || !['visible-page-date', 'historical-user-provided', 'repository-history', 'public-api-publish-at'].includes(c.publicationDateBasis) || c.publicationTimeZone !== null || (c.observedDatetime !== null && !timestamp(c.observedDatetime))) throw new Error('Invalid candidate publication date provenance');
+    if (['repository-history', 'public-api-publish-at'].includes(c.publicationDateBasis)) {
+      if (!timestamp(c.observedDatetime) || c.observedDatetime.slice(0, 10) !== c.publicationDate) throw new Error('Candidate date must match its source timestamp');
+      const evidence = c.publicationDateBasis === 'repository-history' ? c.publicationEvidenceUrl : c.verification?.current?.metadataEndpoint;
+      if (!https(evidence)) throw new Error('Candidate date basis requires its evidence URL');
+    }
     if (!text(c.publisher) || !text(c.publisherDisplayName) || c.originalCreator !== null || !c.attribution?.length || !c.attribution.every(a => text(a.name) && a.role === 'publisher' && https(a.url))) throw new Error('Keep publisher attribution separate from unverified artwork authorship');
     if (!localized(c.note) || !localized(c.reviewReasons) || !localized(c.license?.note) || c.license.status !== 'unknown' || c.license.evidenceUrl !== null) throw new Error('Candidate needs localized pending reasons and unknown license evidence');
+    // A publisher's license claim is evidence to review, never an effective reuse grant.
+    if (c.license.publisherClaim !== undefined) {
+      const claim = c.license.publisherClaim;
+      if (!text(claim?.identifier) || !https(claim.evidenceUrl) || !text(claim.scope) || claim.upstreamReview !== 'pending') throw new Error('Publisher license claim requires evidence and pending upstream review');
+      if (new URL(claim.evidenceUrl).hostname === 'github.com' && !/^\/[^/]+\/[^/]+\/blob\/[a-f0-9]{40}\//.test(new URL(claim.evidenceUrl).pathname)) throw new Error('GitHub license evidence must be commit-pinned');
+    }
+    if (c.sourceType !== undefined && !['illustrated-source', 'text-only-lead'].includes(c.sourceType)) throw new Error('Unknown source review type');
     if (!['source-group', 'generator-variants', 'cross-brand-matrix'].includes(c.grouping) || (c.characterCount !== null && (!Number.isInteger(c.characterCount) || c.characterCount < 1))) throw new Error('Invalid source grouping');
     if (!Array.isArray(c.relatedSources) || !Array.isArray(c.generatorVariants) || !c.products?.length) throw new Error('Missing source group relationships');
     assertVerification(c);
@@ -55,7 +70,24 @@ export function assertCandidateReport(report, { entities, characters = [], sourc
       if (product.official && !sourceURLs.includes(product.identityEvidenceUrl)) throw new Error('Official identity requires a linked source, not an image license');
     }
     if (!c.generatorVariants.every(v => text(v.generator) && sourceURLs.includes(v.sourceUrl))) throw new Error('Generator variants must reference their source group');
-    if ([...characters, ...sources].some(record => record.id === c.id || sourceURLs.includes(record.source) || sourceURLs.includes(record.originalPublication) || sourceURLs.includes(record.pageUrl)) || reviews.some(r => r.characterId === c.id)) throw new Error('Pending candidate leaked into the published artwork pipeline');
+    // A group page can also cite one independently reviewed artwork. This relation
+    // documents that exact artwork; it grants nothing to the pending group.
+    const reviewedIds = new Set();
+    if (c.reviewedPublications !== undefined) {
+      if (c.grouping !== 'source-group' || !Array.isArray(c.reviewedPublications) || !c.reviewedPublications.length) throw new Error('Reviewed publications require an explicit source-group relation');
+      for (const publication of c.reviewedPublications) {
+        const id = publication?.characterId, original = publication?.originalPublication;
+        if (!text(id) || id === c.id || reviewedIds.has(id) || !https(original) || sourceURLs.includes(original)) throw new Error('Invalid reviewed artwork relation');
+        const character = characters.find(record => record.id === id);
+        const source = sources.find(record => record.id === id && record.characterId === id);
+        const review = reviews.find(record => record.characterId === id);
+        if (!character || !source || !review || !sourceURLs.includes(character.source) || !sourceURLs.includes(source.pageUrl) || character.originalPublication !== original || source.originalPublication !== original || !review.artworks?.length || !review.evidence?.length) throw new Error('Reviewed artwork relation must match independent publication and retained evidence');
+        assertSource(source);
+        assertUsageReview(review);
+        reviewedIds.add(id);
+      }
+    }
+    if ([...characters, ...sources].some(record => record.id === c.id || sourceURLs.includes(record.originalPublication) || (!reviewedIds.has(record.id) && (sourceURLs.includes(record.source) || sourceURLs.includes(record.pageUrl)))) || reviews.some(r => r.characterId === c.id)) throw new Error('Pending candidate leaked into the published artwork pipeline');
   }
   return report.candidates.length;
 }
