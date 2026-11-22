@@ -22,11 +22,11 @@
 ## 资源目录
 
 <!-- category-picks:characters -->
-**[🎨 角色图鉴](#characters)** · 34 个词条\
+**[🎨 角色图鉴](#characters)** · 38 个词条\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-mimo/) · [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/zh/characters/shangshan-whale/)
 
 <!-- category-picks:songs -->
-**[🎵 歌曲](#songs)** · 57 首曲目\
+**[🎵 歌曲](#songs)** · 60 首曲目\
 [人是猫](https://selinlee.github.io/ai-moe-atlas/zh/songs/#humans-are-cats) · [Let Me Go · 大肥鱼摸鱼歌](https://selinlee.github.io/ai-moe-atlas/zh/songs/#let-me-go) · [APT.](https://selinlee.github.io/ai-moe-atlas/zh/songs/#apt-rose)
 
 <!-- category-picks:references -->
@@ -34,24 +34,24 @@
 [Claude 角色参考图](https://selinlee.github.io/ai-moe-atlas/zh/references/#claude) · [DeepSeek Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#deepseek) · [千问 Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#qwen)
 
 <!-- category-picks:animations -->
-**[🎬 动画与视频二创](#animations)** · 653 条记录\
+**[🎬 动画与视频二创](#animations)** · 665 条记录\
 [如果聊天窗口就是她的整个世界](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1xcai6ae9g) · [败犬 AI 太多了！· 正式 PV](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1nfag6xehq) · [甶丶 · MiMo 娘角色 PV](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1eran6xeer)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 桌宠与交互项目](#desktop-pets)** · 109 个项目\
+**[🐾 桌宠与交互项目](#desktop-pets)** · 112 个项目\
 [CrossPet · 跨 AI 桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#crosspet) · [Copiwaifu · Live2D 编程桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#copiwaifu-live2d) · [MIMO 桌宠 · Android 悬浮兔娘](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#abl949-mimo-android-pet)
 
 <!-- category-picks:sources -->
-**[📚 作者作品与出处](#sources)** · 76 条来源\
+**[📚 作者作品与出处](#sources)** · 77 条来源\
 [上善无形 · 鲸鱼娘原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI 娘化图集](https://www.pixiv.net/artworks/148186519) · [甶丶 · MiMo 立绘与三视图投稿](https://github.com/lmy414/ai-girl-stickers/issues/35)
 
 <a id="characters"></a>
 
 ### 🎨 角色图鉴
 
-从 16 个 AI 产品中查角色、作者和原作。 [查看 Muse 娘词条](https://selinlee.github.io/ai-moe-atlas/zh/characters/shizhi-muse/) · [Mistral 法棍猫娘](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-mistral/) · [OpenCode 拟人词条](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-opencode/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-mimo/)
+从 19 个 AI 产品中查角色、作者和原作。 [查看 Muse 娘词条](https://selinlee.github.io/ai-moe-atlas/zh/characters/shizhi-muse/) · [Mistral 法棍猫娘](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-mistral/) · [OpenCode 拟人词条](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-opencode/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-mimo/)
 
-新增词条 · [小克 Coco](https://selinlee.github.io/ai-moe-atlas/zh/characters/ninon-coco/) · [Gemini Pro](https://selinlee.github.io/ai-moe-atlas/zh/characters/qinv-gemini-pro/) · [MiniMax 太空兔](https://selinlee.github.io/ai-moe-atlas/zh/characters/shiho320-minimax-space-bunny/)
+新增词条 · [小克 Coco](https://selinlee.github.io/ai-moe-atlas/zh/characters/ninon-coco/) · [Gemini Pro](https://selinlee.github.io/ai-moe-atlas/zh/characters/qinv-gemini-pro/) · [MiniMax 太空兔](https://selinlee.github.io/ai-moe-atlas/zh/characters/shiho320-minimax-space-bunny/) · [混元娘](https://selinlee.github.io/ai-moe-atlas/zh/characters/aliang-hunyuan/) · [LongCat 龙猫](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-longcat/) · [百度文心](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-ernie/)
 
 [在线筛选](https://selinlee.github.io/ai-moe-atlas/zh/#catalog) · [三语角色资料](content/characters.json) · [产品索引](content/entities.json)
 
@@ -80,7 +80,7 @@
 
 <!-- song-ranking:end -->
 
-[原曲出处](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲与版本核对](content/research/2026-11-20/song-originals-and-fan-versions.json) · [片头曲与二创用曲核对](content/research/2026-11-20/character-songs-and-opening-credits.json) · [舞蹈与歌词 MV 用曲核对](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [《温室效应》原曲与 MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [原曲与二创核对](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [豆包翻唱与片尾曲出处](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [千问、MiMo 与舞蹈用曲](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [《APT.》与《删了一百遍》的用曲出处](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [翻唱与游戏原曲出处](content/research/2026-11-22/november-cover-song-originals-and-versions.json)
+[原曲出处](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲与版本核对](content/research/2026-11-20/song-originals-and-fan-versions.json) · [片头曲与二创用曲核对](content/research/2026-11-20/character-songs-and-opening-credits.json) · [舞蹈与歌词 MV 用曲核对](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [《温室效应》原曲与 MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [原曲与二创核对](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [豆包翻唱与片尾曲出处](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [千问、MiMo 与舞蹈用曲](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [《APT.》与《删了一百遍》的用曲出处](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [翻唱与游戏原曲出处](content/research/2026-11-22/november-cover-song-originals-and-versions.json) · [Charlotte、bloom 与 unhappy 的用曲出处](content/research/2026-11-22/november-charlotte-bloom-and-remix-evidence.json)
 
 <a id="references"></a>
 
@@ -117,7 +117,7 @@
 
 <!-- animation-ranking:end -->
 
-本轮检查了当时已入榜的 623 条记录，刷新 616 条，并新增 30 条带官方累计点赞的作品。7 条旧作沿用上次成功值，另有 9 条候选待核。 [本轮全量核对](content/research/2026-11-22/bilibili-full-catalog-and-november-discoveries-scope.json)
+新增 12 条带官方累计点赞的作品。7 条旧作沿用上次成功值，另有 9 条候选待核。 [本轮点赞核对](content/research/2026-11-22/bilibili-hunyuan-longcat-and-song-candidates-scope.json)
 
 <a id="desktop-pets"></a>
 
@@ -138,7 +138,7 @@
 | 9 | [Whale Girl · 网页与桌面鲸鱼娘](https://github.com/vlln/whale-girl/blob/9c32d7a39a45148076f8ad2fdaad2dc2420eedb3/README.zh.md) | [413](https://github.com/vlln/whale-girl) |
 | 10 | [AgentPet · 多工具养成桌宠](https://github.com/ntd4996/agentpet/blob/1b5c0df923090ab3bf763bd2ff2d2a04855572d6/README.md) | [408](https://github.com/ntd4996/agentpet) |
 
-[在线浏览全部桌宠与交互项目](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-22/github-interactive-stars-agent-stage-and-petdex.json)
+[在线浏览全部桌宠与交互项目](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-22/github-interactive-stars-hunyuan-and-ernie-projects.json)
 
 跨平台版与 Android 原生移植版各有 106 段兼容动画与各自引用的固定上游逐文件一致。上游版本限制素材商用，两个移植项目的说明把这批动画写为 MIT。 [桌宠动画来源比对](content/research/2026-11-21/dsh-pet-shared-animation-file-provenance.json)
 
@@ -147,7 +147,7 @@
 七合一桌宠的 106 段鲸鱼娘动画，固定版本的 LFS 对象哈希全部与上游原文件一致，另实测 2 段下载样本。素材说明另列 GLM 等六个角色的派生动画。 [七合一桌宠动画核对](content/research/2026-11-21/seven-character-pet-lfs-provenance.json)
 
 <details>
-<summary>展开全部 109 个项目与出处</summary>
+<summary>展开全部 112 个项目与出处</summary>
 
 | 项目 | 内容 | 发布者 |
 | --- | --- | --- |
@@ -260,6 +260,9 @@
 | [Agent Stage · 多助手舞台动效看板](https://github.com/gaomails2024/agent-stage/blob/1f7ff63f247a577b2006b39cdba137fc129ad222/README.md) | 将多个 AI 助手的状态展示在舞台看板上。作者发布的普通版动效压缩包包含 Grok、大肥鱼、豆包等十位角色。 | gaomails2024 |
 | [OpenPets · 本地桌宠平台](https://github.com/OpenPetsHQ/openpets/blob/9153e40ed37617243f903b074161d7df4bbd27b0/README.md) | 可在本地使用的桌宠平台，提供动画角色、插件与开发工具状态联动。 | OpenPetsHQ |
 | [Petdex · 动画桌宠目录与工具](https://github.com/crafter-station/petdex/blob/146ed0b86fc930ee81d48f7f6b1dc1e2be1e8135/README.md) | 动画桌宠公开目录，提供宠物包格式和本地渲染工具，支持 Codex、Claude Code 等工具。 | crafter-station |
+| [模型主题 · DSH 的 16 套桌宠联动](https://github.com/HD1014/dsh-model-theme/blob/f624806af5f2750d981fcd683e9ea0569fff3d93/README.md) | 切换模型时联动主题、背景和桌宠。固定版文档列出元宝、文心、海螺等角色。 | HD1014 |
+| [捏捏宠 · 交互 3D 桌宠](https://github.com/USER-HFC/nienie-pet/blob/de16b259990d5db38f78e40da134d0d0f06b0af0/README.md) | 网页与 Windows 桌宠实验，支持软体、橡皮泥和液体三种交互，并接入腾讯混元及 Tripo 的 3D 生成。 | USER-HFC |
+| [AI 姐妹桌宠 · 16 位角色扩展包](https://github.com/linyucion/dsh-pet-ai-sisters/blob/c4755e527070c46c7419f199b8907467d5def588/README.md) | 基于 dsh-pet 的角色扩展包。作者列出 16 位角色与 272 段透明动画，已核对固定版文心和元宝头像。 | linyucion |
 
 以上为来源索引；各项目美术按其原作条件核对，代码许可不自动覆盖角色图片。
 
@@ -278,6 +281,7 @@
 
 本次补充：
 
+- [阿亮今年必发财 · 混元娘 Q 版设定](https://www.bilibili.com/opus/1270053526331981826) · 作者在这条多角色原帖自述设计了混元娘，服装采用洛丽塔造型并参考企鹅元素。全帖 20 张原图均已核对哈希。 作者将自己设计的混元形象标为 CC BY-NC-SA 4.0。该声明对应混元形象，其他角色按各自出处核对。 [核对记录](content/research/2026-11-22/aliang-hunyuan-chibi-and-license.json)
 - [Gemini Pro ver1.00 · 我已经有杰米奈了](https://www.pixiv.net/artworks/150323370) · 作者 Pixiv 原帖的 1076 × 1462 JPEG 已核对。作者的 GitHub 投稿另存三张 PNG，保留各自哈希。 Pixiv 原帖声明 CC BY-NC-SA 4.0。学校制服投稿的条件见独立原帖。 [核对记录](content/research/2026-11-22/qinv-gemini-pro-pixiv-and-submission.json)
 - [小克 Coco · 设定表与表情图](https://github.com/lmy414/ai-girl-stickers/issues/120) · Ninon 介绍住在电脑终端里的小克，投稿含服装、日常动作及八种表情两张图。 作者在该投稿中声明 CC BY-NC 4.0，并记录 GPT 生成及发夹修整。图鉴提供作者署名和原投稿。 [核对记录](content/research/2026-11-22/ninon-coco-design-submission.json)
 - [Space Bunny · MiniMax 太空兔](https://github.com/lmy414/ai-girl-stickers/issues/129) · Shiho320 在帖子中将作品标为 MiniMax 同人形象。附 2016 × 3584 的 PNG。 投稿确认授权接收站核实后收录，逐件再利用条款待核。 [核对记录](content/research/2026-11-22/shiho320-minimax-space-bunny-source.json)
@@ -291,12 +295,12 @@
 - [三重野chiame · 鲸鱼娘 Live2D 配布展示](https://www.bilibili.com/video/BV1stxa6eESB/) · 作者自署绘制与建模，允许二创及商业直播，禁止出售。半定制模板和二次分发的范围待核。 [作者署名与配布核对](content/research/2026-11-20/whale-live2d-and-claude-chibi-provenance.json)
 - [识知不失智 · Muse 娘原创角色 PV](https://www.bilibili.com/video/BV1jEnD6RE1t/) · 作者在投稿简介中把自己的 Muse 娘立绘与设定标为 CC BY 4.0，指定署名「Muse 娘原创设定 by （识知不失智）」。Meta 品牌元素与 Jolly 另有归属。视频与音频仅收录原投稿链接。 [核对记录](content/research/2026-11-20/bv1jend6re1t.json)
 - [Muse 娘 · 设定板与逐件出处](https://xn--pssy23gqgbz2d718b.com/works/other202611130007.html) · 保留宣传设定板、设计拆解及五件立绘或表情的出处。七件均核对了固定版本 SHA-256，并链接作者的角色发布与授权说明。 [核对记录](content/research/2026-11-20/muse-girl-archive-and-rights.json)
-- [LongCat · 甶丶后续设定](https://www.bilibili.com/opus/1262838853165645826) · 作者后续 LongCat 动态附 13 张图，与 8 月的单张立绘为两次公开发布。 [核对记录](content/research/2026-11-20/shi-longcat-revised-design.json)
+- [LongCat · 甶丶后续设定](https://www.bilibili.com/opus/1262838853165645826) · 同一作者在 10 月再次发布 LongCat 设定。13 张原图已按原帖顺序核对文件哈希，并链接 8 月立绘与角色盘点视频。 作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。 [核对记录](content/research/2026-11-22/shi-longcat-revised-design-file-verification.json)
 - [MOSS-Image · 甶丶原创设定](https://www.bilibili.com/opus/1265454286364475399) · 作者在长文中说明雅各布杖、望远镜与两套形态，原帖附 13 张图。 [核对记录](content/research/2026-11-20/shi-moss-image-design.json)
 - [点点 · 甶丶原创设定](https://www.bilibili.com/opus/1262407612636332038) · 作者将作品标为 dots 模型拟人。首图是红兜帽与狼耳造型，原帖有 13 张图。 [核对记录](content/research/2026-11-20/shi-diandian-design.json)
 - [蚂蚁百灵 · 甶丶原创设定](https://www.bilibili.com/opus/1258423639675502601) · 作者 Day 3 系列原帖附 9 张图。首图展示蓝黑服装、钥匙与具有独立轮廓的影子。 [核对记录](content/research/2026-11-20/shi-ant-ling-design.json)
 - [云知声 U2-Flash · 甶丶原创设定](https://www.bilibili.com/opus/1257685897406578689) · 首图标注 UNISOUND U2-FLASH。作者说明奇幻与科技两套造型各有三种比例，另有常服。 [核对记录](content/research/2026-11-20/shi-unisound-u2-design.json)
-- [腾讯混元 · 甶丶拟人立绘](https://www.bilibili.com/opus/1242051735409655810) · 蓝白服装搭配红围巾。作者在原帖说明使用 GPT Image 辅助生成并手工调整。 [核对记录](content/research/2026-11-20/shi-hunyuan-design.json)
+- [腾讯混元 · 甶丶拟人立绘](https://www.bilibili.com/opus/1242051735409655810) · 甶丶公开的蓝白服装与红围巾版混元娘。作者说明使用 GPT Image 生成并做了手工修改。原帖 1024 × 1536 PNG 已核对哈希。 作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。 [核对记录](content/research/2026-11-22/shi-hunyuan-design-file-verification.json)
 - [Gemini 猫娘 · 表情包与无猫耳差分](https://www.bilibili.com/opus/1264669110489317411) · Xx勿忘xX 发布 Gemini 猫娘的表情和无猫耳立绘差分，并署名 zipzip 的原立绘。 [核对记录](content/research/2026-11-20/xxwuwang-gemini-expressions.json)
 - [MiMo 兔娘 · 橙黑魔女立绘与三视图](https://xn--pssy23gqgbz2d718b.com/works/mimo202611180001.html) · 两页分别展示全身立绘和正、侧、背三视图。档案的图片署名分别写作「甶」和「甶、」。 [核对记录](content/research/2026-11-20/mimo-witch-portrait-turnaround.json)
 - [非凡之爱 · antrofrog 原片与制作出处](https://www.krea.ai/blog/how-antrofrog-made-no-ordinary-love) · Krea 的制作记录指向 antrofrog 发布的原片和工具署名，可从这里回查 B 站角色改编引用的短片。 [核对记录](content/research/2026-11-20/antrofrog-no-ordinary-love-notes.json)
@@ -331,7 +335,7 @@
 - [CrossPet · 立绘授权与原设署名](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/LICENSE.md) · CC BY-NC-SA 4.0 声明适用于 CrossPet 有权许可的贡献，须保留项目与原作者署名。另一个 GLM 狐娘视频版本的作者仍待核。
 - [《Let Me Go》代码动画 · 制作与署名](https://github.com/beidou070/let-me-go-code-mv/blob/9cfba6f73e31390b442734a3fa3e7651c78244ae/README.md) · 项目分别说明自有代码、角色派生内容和歌曲的条件。公开源码供查看，项目未给自有代码授予通用开源许可。
 - [雾雪 · 大肥鱼与 GPT 娘表情包原发布](https://www.bilibili.com/video/BV13xnt6QE6s/) · 可以叫我云大人发布的制作介绍链接至 kiriyuki.com。作者的表情索引分别列出大肥鱼单人组与大肥鱼、GPT 娘双人组。 表情图与插件标注数据各有使用条件。原作者主页和素材说明提供进一步核对入口。
-- [ZipZipPipe · 文心一言与 Claude 封面出处](https://www.bilibili.com/video/BV1mwRzBdEzk/) · 作者在《AI娘的日常》简介里点名封面的蓝发角色是百度文心，橘发角色是 Claude，内容为 AI 角色表情。 简介中的 CC BY-NC-SA 4.0 声明明确指向鲸鱼娘二创。文心一言和 Claude 封面素材的具体再分发许可待核。
+- [ZipZipPipe · 文心一言与 Claude 封面出处](https://www.bilibili.com/video/BV1mwRzBdEzk/) · ZipZipPipe 在视频简介中把蓝发封面角色标为百度文心、橘发角色标为 Claude。已核对该 2560 × 1440 JPEG 封面的文件哈希。 简介中的 CC BY-NC-SA 4.0 声明明确指向鲸鱼娘二创。文心一言和 Claude 封面素材的具体再分发许可待核。 [核对记录](content/research/2026-11-22/zipzippipe-ernie-cover-source-file-verification.json)
 - [神宫凉子 · DeepSeek-chan Live2D 原发布](https://www.bilibili.com/video/BV1KmxY66EZ3/) · 神宫凉子发布的 Live2D 与 PSD 分享说明，逐项署名原画、绑定、视频制作及上游角色。 包内条款允许署名的个人直播、视频及平台收益。品牌宣传或付费产品等用途须另询作者，整套模型不得转售或未经授权再上传。
 - [灿灿同学 · 视频角色图集](https://www.bilibili.com/opus/1259662694779191301) · 灿灿同学逐个展示视频使用的 11 个角色，包括 Kimi、Grok、GLM、Seed、MiMo 和 MiniMax。多数原设来自 ZipZipPipe，展示图由 GPT 二创。图集未逐角色对应原设，也未注明逐图再分发许可。
 - [莫末陌寞 · Gemini 聊天表情原发布](https://www.bilibili.com/video/BV1F34G6BEVA/) · 发布者展示 Gemini 聊天表情，标题标注 64 张，简介将角色设定署名给 ZipZipPipe。 发布说明提供取用入口。独立再分发和逐张许可仍待核。
@@ -363,6 +367,7 @@
 
 | 时间 / 状态 | 进展 |
 | --- | --- |
+| 2026-11-22 · 混元、LongCat 与文心词条 | 新增 4 个角色词条、12 条二创、3 首歌曲和 3 个交互项目。核对阿亮的混元授权、甶丶 LongCat 的 13 张图和 ZipZipPipe 的文心封面。 |
 | 2026-11-22 · 全量点赞核对与新出处 | 刷新 616 条在榜记录，新增 30 条二创、5 首歌曲、3 个角色词条、8 条作者出处和 3 个交互项目。核对 Agent Stage 的 10 段动画。 |
 | 2026-11-22 · MiMo 原投稿、歌曲与点赞复查 | 新增 MiMo 词条、20 条二创、2 首歌曲和 3 个交互项目。刷新前 15 条二创点赞，核对甶丶的立绘和三视图投稿。 |
 | 2026-11-21 · OpenCode 拟人、歌曲与点赞复查 | 新增 OpenCode 词条、20 条有官方点赞的二创、2 首歌曲和 3 个交互项目。更新 23 条在榜作品的点赞，核对 ZipZipPipe 第二批 9 张原图。 |

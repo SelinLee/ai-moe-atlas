@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:30:08.765Z",
+  "url": "https://www.bilibili.com/video/BV1D2Wo66EsS/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1D2Wo66EsS",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1D2Wo66EsS",
+    "title": "Claude的完美约会计划！【AI拟人】",
+    "owner": {
+      "name": "Takina142",
+      "mid": 1661162458
+    },
+    "pubdate": 1794497509,
+    "duration": 86
+  },
+  "descriptionSha256": "5153ad417fa5e5cbbc31f6ae3343975b5e77d36bef09e85626c8dab979740142",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%90%8C%E4%BA%BA%20MV&order=pubdate",
+    "title": "Claude的完美约会计划！【AI拟人】",
+    "publisher": "Takina142",
+    "observedAt": "2026-11-22T15:29:02.618Z",
+    "httpStatus": 200,
+    "htmlSha256": "dd4d38a93c9db08b8ebe8c249539a01137235ff86fc4ba2c0d5f5cb6f0c4503f"
+  }
+}

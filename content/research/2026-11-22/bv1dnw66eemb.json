@@ -1,0 +1,32 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:30:08.303Z",
+  "url": "https://www.bilibili.com/video/BV1dNW66eEMB/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dNW66eEMB",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1dNW66eEMB",
+    "title": "【双字/AIMV】Claude×Deepseek《灼け落ちない翼（灼烧不落之翼）》｜Charlotte ED",
+    "owner": {
+      "name": "桧木H1nOKl",
+      "mid": 88425632
+    },
+    "pubdate": 1794623400,
+    "duration": 413
+  },
+  "descriptionSha256": "e4fc08de34449eb8dfb12ef81618bf836f5b0b905246c8bd13416b423aec9899",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": [
+    "BV1rT4G6gE1H"
+  ],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%90%8C%E4%BA%BA%20MV&order=pubdate",
+    "title": "【双字/AIMV】Claude×Deepseek《灼け落ちない翼（灼烧不落之翼）》｜Charlotte ED",
+    "publisher": "桧木H1nOKl",
+    "observedAt": "2026-11-22T15:29:02.618Z",
+    "httpStatus": 200,
+    "htmlSha256": "dd4d38a93c9db08b8ebe8c249539a01137235ff86fc4ba2c0d5f5cb6f0c4503f"
+  }
+}

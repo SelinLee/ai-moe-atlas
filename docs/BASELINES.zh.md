@@ -18,6 +18,8 @@
 
 2026-11-22 新增甶丶的 MiMo 来源词条。作者提交的立绘和三视图均与固定版档案逐字节一致。作者将作品标记为 AI 生成和 CC BY-NC，版本未标注。 [核对记录](../content/research/2026-11-22/fuh-mimo-author-submission.json)
 
+2026-11-22 新增 LongCat、腾讯混元和百度文心的来源词条。混元保留甶丶和阿亮两个独立版本。阿亮的声明对应其自设混元，文心的封面授权和独立立绘仍待核。 [核对记录](../content/research/2026-11-22/aliang-hunyuan-chibi-and-license.json)
+
 | AI | 优先版本 | 当前缺口 |
 | --- | --- | --- |
 | DeepSeek | 已入库的鲸鱼娘女仆素材 | 已可用；保留上善无形 → ZipZipPipe → Small-tailqwq 署名链 |

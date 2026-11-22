@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:30:07.199Z",
+  "url": "https://www.bilibili.com/video/BV1Qzs46oEjJ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Qzs46oEjJ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Qzs46oEjJ",
+    "title": "小元元（混元娘）吹泡泡",
+    "owner": {
+      "name": "秋分冬至清净",
+      "mid": 2039240056
+    },
+    "pubdate": 1795059130,
+    "duration": 11
+  },
+  "descriptionSha256": "167948dcbfd771530afbdd471b1f6dd37c7f3b7d8f562da7c4481f800fadf9cd",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E6%B7%B7%E5%85%83%E5%A8%98%20AI%E5%A8%98&order=pubdate",
+    "title": "小元元（混元娘）吹泡泡",
+    "publisher": "秋分冬至清净",
+    "observedAt": "2026-11-22T15:28:51.961Z",
+    "httpStatus": 200,
+    "htmlSha256": "5cb67a7cec4f732b1bebbc4346d5f7b3dce244cfb55d075f7a964258979dd83e"
+  }
+}

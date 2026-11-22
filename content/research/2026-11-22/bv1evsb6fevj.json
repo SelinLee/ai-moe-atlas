@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:30:08.332Z",
+  "url": "https://www.bilibili.com/video/BV1evsB6FEVj/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1evsB6FEVj",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1evsB6FEVj",
+    "title": "【推理回战】硅谷决战｜GPT Astra vs Claude Fable（雨爱版）",
+    "owner": {
+      "name": "薇纷芳橙",
+      "mid": 504297882
+    },
+    "pubdate": 1794915000,
+    "duration": 110
+  },
+  "descriptionSha256": "aa18170cd10066e7cc73e3ed558fa1cf91b43a93e24da4da8981d51682ef297f",
+  "uploaderCredits": [],
+  "linkedVideos": [
+    "BV1QC3G6DEKX"
+  ],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%90%8C%E4%BA%BA%20MV&order=pubdate",
+    "title": "【推理回战】硅谷决战｜GPT Astra vs Claude Fable（雨爱版）",
+    "publisher": "薇纷芳橙",
+    "observedAt": "2026-11-22T15:29:02.618Z",
+    "httpStatus": 200,
+    "htmlSha256": "dd4d38a93c9db08b8ebe8c249539a01137235ff86fc4ba2c0d5f5cb6f0c4503f"
+  }
+}

@@ -18,6 +18,8 @@ November 21, 2026. Added a source entry for OpenCode. The ninth image in ZipZipP
 
 November 22, 2026. Added a MiMo source entry for 甶丶. The creator-submitted portrait and turnaround match the pinned archive byte-for-byte. The creator identifies the images as AI-generated and marks them CC BY-NC, with no version specified. [Verification record](../content/research/2026-11-22/fuh-mimo-author-submission.json)
 
+November 22, 2026. Added source entries for LongCat, Tencent Hunyuan and Baidu ERNIE. Hunyuan has separate designs by 甶丶 and 阿亮. 阿亮’s terms apply to their own Hunyuan design. ERNIE’s standalone portrait and cover reuse terms remain open. [Verification record](../content/research/2026-11-22/aliang-hunyuan-chibi-and-license.json)
+
 | AI | Priority version | Remaining work |
 | --- | --- | --- |
 | DeepSeek | Collected whale-maid assets | Ready; retain 上善无形 → ZipZipPipe → Small-tailqwq attribution |

@@ -1,0 +1,46 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:29:26.861Z",
+  "url": "https://www.bilibili.com/video/BV1mwRzBdEzk/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mwRzBdEzk",
+  "bodySha256": "d938d51a9f869c9165e4c0ac3186cb41ec654e321227dcb0defb819a64a56618",
+  "sourceIdentity": {
+    "id": "BV1mwRzBdEzk",
+    "author": "ZipZipPipe",
+    "mid": 4168597,
+    "publishedAt": "2026-05-04T15:58:06.000Z"
+  },
+  "descriptionSha256": "d25aa6bcf9e18627e992128c155dddc8e32c760e804f6891cc217c76ac3818a0",
+  "files": [
+    {
+      "url": "http://i0.hdslb.com/bfs/archive/bf25d407fb858aae0d57981cfa6d41f9187e9c71.jpg",
+      "position": 1,
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:30:19.924Z",
+      "width": 2560,
+      "height": 1440,
+      "format": "jpeg",
+      "bytes": 532833,
+      "sourceSha256": "feb9a0fd0d48043d1d26e6dbd11f5ddb7658f3e769b9f66645b955343cf8010a"
+    }
+  ],
+  "previousEvidence": {
+    "path": "content/research/2026-11-07/zipzippipe-ernie-cover-source.json",
+    "sha256": "14a1252715958df91dd2e640ac0c4690e80e8cb248d8c4b08f5ccb62a6e42560",
+    "kind": "browser-metadata-extract"
+  },
+  "officialProduct": {
+    "id": "ernie-official",
+    "url": "https://ernie.baidu.com/zh",
+    "finalUrl": "https://ernie.baidu.com/zh",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T15:31:12.539Z",
+    "title": "百度文心大模型",
+    "matchingLines": [
+      "用文心开发游戏、创建 3D 模型、制作视频。"
+    ],
+    "byline": null,
+    "htmlSha256": "cb2ca8428b19f5ec422c10256910f5b5b62ae967e7134d005302ff87204ebab8"
+  },
+  "scope": "Uploader description identifies the blue-haired ERNIE on the video cover. The downloaded file is that 2560 x 1440 cover."
+}

@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:30:08.302Z",
+  "url": "https://www.bilibili.com/video/BV1nMnj6eEbN/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nMnj6eEbN",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1nMnj6eEbN",
+    "title": "豆包Deepseek肥鱼和ai娘们激情演唱《Uptown Funk》",
+    "owner": {
+      "name": "凌云志ing",
+      "mid": 511527090
+    },
+    "pubdate": 1792376221,
+    "duration": 92
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%B1%86%E5%8C%85%E5%A8%98%20%E5%A5%B6%E9%BE%99%20%E4%BA%8C%E5%88%9B&order=pubdate",
+    "title": "豆包Deepseek肥鱼和ai娘们激情演唱《Uptown Funk》",
+    "publisher": "凌云志ing",
+    "observedAt": "2026-11-22T15:29:02.607Z",
+    "httpStatus": 200,
+    "htmlSha256": "e0eb96fca6e7b7274144d9470f8d246fcc8b72bc022f1a672d95281a39e3a5c3"
+  }
+}

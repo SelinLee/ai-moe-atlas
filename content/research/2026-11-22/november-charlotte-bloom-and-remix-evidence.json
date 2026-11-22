@@ -1,0 +1,121 @@
+{
+  "method": "isolated-headless-google-chrome-official-release-and-bilibili-view-detail",
+  "tracks": [
+    {
+      "songId": "wings-that-wont-burn-away",
+      "originalSource": {
+        "id": "charlotte-ed",
+        "url": "https://charlotte-anime.jp/music/ed/",
+        "finalUrl": "https://charlotte-anime.jp/music/ed/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:30:22.199Z",
+        "htmlSha256": "9410c1cc309d2579bc611cdca6336c4447f8b41bb780e6bdd80f091533c8e916",
+        "title": "Ending - Music | TVアニメ「Charlotte(シャーロット)」公式サイト",
+        "og": "TVアニメ「Charlotte(シャーロット)」公式サイト"
+      },
+      "fanVersion": {
+        "bvid": "BV1dNW66eEMB",
+        "url": "https://www.bilibili.com/video/BV1dNW66eEMB/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1dNW66eEMB",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:30:30.854Z",
+        "bodySha256": "b073c368b69dc0e181f2d1130eba1576e87d300b1b1148e41c41b5d1c92c5ff8",
+        "verifiedTag": "发现《灼け落ちない翼 (燃烧未落的羽翼) (TV Size)》",
+        "uploaderDescriptionSha256": "e4fc08de34449eb8dfb12ef81618bf836f5b0b905246c8bd13416b423aec9899"
+      },
+      "note": "The distributor tag identifies the TV-size version. The anime site lists the original ending theme and credits."
+    },
+    {
+      "songId": "bloom-manosaba",
+      "originalSource": {
+        "id": "manosaba-ost",
+        "url": "https://www.fwinc.co.jp/manosaba_CD/haishin",
+        "finalUrl": "https://www.fwinc.co.jp/manosaba_CD/haishin",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:30:25.573Z",
+        "htmlSha256": "8ddf1f23b1e183cfef16a9e2f95e3ef68011028bb1ffa872af17c4fff22c8eb9",
+        "title": "【配信】コンプリートオリジナルサウンドトラック - 『魔法少女ノ魔女裁判』CD特設サイト",
+        "og": "【配信】コンプリートオリジナルサウンドトラック - 『魔法少女ノ魔女裁判』CD特設サイト"
+      },
+      "fanVersion": {
+        "bvid": "BV1SLW66oEQS",
+        "url": "https://www.bilibili.com/video/BV1SLW66oEQS/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1SLW66oEQS",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:30:30.801Z",
+        "bodySha256": "ea73c1599c6b9d4b529d39b1c35ba99827b3b687357fceac78bfe3a097d80000",
+        "verifiedTag": "bloom",
+        "uploaderDescriptionSha256": "2ee25f38e3de3d3c1be94219436b815ecd00fed68188dc3b5d69d108c5fc2525"
+      },
+      "note": "The uploader credits the game song, vocalist and writer. The publisher’s soundtrack lists bloom as track 22."
+    },
+    {
+      "songId": "unhappy-s0rrow",
+      "originalSource": {
+        "id": "unhappy-s0rrow",
+        "url": "https://music.apple.com/de/album/6790708388",
+        "finalUrl": "https://music.apple.com/de/album/unhappy-single/6790708388",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:30:21.881Z",
+        "htmlSha256": "e4f41acced206cf12d0c1092a1059534f00fc6cb6ef686e57de2cfdb89b99ed5",
+        "title": "‎unhappy - Single – Album von s0rrow – Apple Music",
+        "og": "„unhappy - Single“ von s0rrow bei Apple Music"
+      },
+      "fanVersion": {
+        "bvid": "BV166ybzCEvr",
+        "url": "https://www.bilibili.com/video/BV166ybzCEvr/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV166ybzCEvr",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:30:30.825Z",
+        "bodySha256": "b2752dd4cd935d0c79c32de5f29188450ee66a1c5c38e171c5873349c3005df2",
+        "verifiedTag": "发现《unhappy (remix)》",
+        "uploaderDescriptionSha256": "f00d9b2398596b7335545008d38ccd605f8b0d96f0af25854118f4a6a07d1e10"
+      },
+      "note": "The original single is linked. The MV tag and the uploader’s cited audio link both identify the remix.",
+      "citedAudio": {
+        "bvid": "BV1NmZABcEBU",
+        "url": "https://www.bilibili.com/video/BV1NmZABcEBU/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1NmZABcEBU",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:30:30.835Z",
+        "bodySha256": "2a4634fc96b37a2380381d936e320e4009416c691a961a0f205043d5d84af23c",
+        "verifiedTag": "发现《unhappy (remix)》",
+        "uploaderDescriptionSha256": "b5ea3a423a5355070e2202a31faeff5bb926ed14a03de0170240205492c3c0f7"
+      }
+    },
+    {
+      "songId": "uptown-funk",
+      "existingOriginal": {
+        "credit": "Mark Ronson feat. Bruno Mars",
+        "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0"
+      },
+      "fanVersion": {
+        "bvid": "BV1nMnj6eEbN",
+        "url": "https://www.bilibili.com/video/BV1nMnj6eEbN/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1nMnj6eEbN",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:30:30.784Z",
+        "bodySha256": "b4b9af24dd8e6dafe1640b52d76fd59fd327e0c4bb2b1f3d14845e81bfc695a0",
+        "verifiedTag": "发现《Uptown Funk (Explicit)》",
+        "uploaderDescriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+      }
+    },
+    {
+      "songId": "rainie-love",
+      "existingOriginal": {
+        "credit": "楊丞琳 · Rainie Yang",
+        "url": "https://www.youtube.com/watch?v=oec9R5ypf-o"
+      },
+      "fanVersion": {
+        "bvid": "BV1evsB6FEVj",
+        "url": "https://www.bilibili.com/video/BV1evsB6FEVj/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1evsB6FEVj",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:30:31.594Z",
+        "bodySha256": "70974a686c2cd6d708c78a2bb6a9dfb1ec4f9cc23931573e42507af62b5613ae",
+        "verifiedTag": "发现《雨爱》",
+        "uploaderDescriptionSha256": "aa18170cd10066e7cc73e3ed558fa1cf91b43a93e24da4da8981d51682ef297f"
+      }
+    }
+  ]
+}

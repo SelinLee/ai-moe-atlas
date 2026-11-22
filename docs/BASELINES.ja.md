@@ -18,6 +18,8 @@
 
 2026年11月22日。甶丶による MiMo の出典項目を追加。作者投稿の立ち絵と三面図が固定版アーカイブとバイト単位で一致。作者は AI 生成、CC BY-NC と記載し、版の記載はありません。 [確認記録](../content/research/2026-11-22/fuh-mimo-author-submission.json)
 
+2026年11月22日。LongCat・Tencent 混元・百度文心の出典項目を追加。混元は甶丶版と阿亮版を個別に収録。阿亮の許諾は自身の混元デザインに適用。文心の単独立ち絵と表紙の利用条件は確認待ち。 [確認記録](../content/research/2026-11-22/aliang-hunyuan-chibi-and-license.json)
+
 | AI | 優先候補 | 残りの作業 |
 | --- | --- | --- |
 | DeepSeek | 収集済みクジラ娘メイド素材 | 利用可能。上善无形 → ZipZipPipe → Small-tailqwq のクレジットを保持 |

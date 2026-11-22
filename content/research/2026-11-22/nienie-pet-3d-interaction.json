@@ -1,0 +1,60 @@
+{
+  "full_name": "USER-HFC/nienie-pet",
+  "html_url": "https://github.com/USER-HFC/nienie-pet",
+  "stargazers_count": 1,
+  "archived": false,
+  "created_at": "2026-08-23T15:41:04Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": null,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "commit": "de16b259990d5db38f78e40da134d0d0f06b0af0",
+  "observedAt": "2026-11-22T15:29:24.342+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:33:01.956Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/USER-HFC/nienie-pet/blob/de16b259990d5db38f78e40da134d0d0f06b0af0/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/USER-HFC/nienie-pet/de16b259990d5db38f78e40da134d0d0f06b0af0/README.md",
+      "sourceSha256": "398db033c800d57d9b1d7245b200fe0d6ce141972f4c1bcede1165bce8eaf876",
+      "gitBlobSha": "1dcd299ca9d2704428f688711aca9b3c92dcd646",
+      "bytes": 9853,
+      "commit": "de16b259990d5db38f78e40da134d0d0f06b0af0"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "url": "https://github.com/USER-HFC/nienie-pet/blob/de16b259990d5db38f78e40da134d0d0f06b0af0/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/USER-HFC/nienie-pet/de16b259990d5db38f78e40da134d0d0f06b0af0/LICENSE",
+      "sourceSha256": "2175d5d2ddb3c67366f820f64ea009d6e46f507a4961016aafa68713f08f2d7e",
+      "gitBlobSha": "8024d725332c02cd0821ec7ad59020ef8a4f115e",
+      "bytes": 1065,
+      "commit": "de16b259990d5db38f78e40da134d0d0f06b0af0"
+    },
+    "THIRD_PARTY_NOTICES.md": {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "url": "https://github.com/USER-HFC/nienie-pet/blob/de16b259990d5db38f78e40da134d0d0f06b0af0/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/USER-HFC/nienie-pet/de16b259990d5db38f78e40da134d0d0f06b0af0/THIRD_PARTY_NOTICES.md",
+      "sourceSha256": "53d566f6b26f71c8cdd6d58e8128056f2175a270e86bc7fb04fd27801fa857b7",
+      "gitBlobSha": "87b1ad2d02e44b12d4eb2cc5085c5565b6aa846b",
+      "bytes": 800,
+      "commit": "de16b259990d5db38f78e40da134d0d0f06b0af0"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/USER-HFC/nienie-pet/blob/de16b259990d5db38f78e40da134d0d0f06b0af0/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/USER-HFC/nienie-pet/de16b259990d5db38f78e40da134d0d0f06b0af0/README.md",
+    "sourceSha256": "398db033c800d57d9b1d7245b200fe0d6ce141972f4c1bcede1165bce8eaf876",
+    "gitBlobSha": "1dcd299ca9d2704428f688711aca9b3c92dcd646",
+    "bytes": 9853,
+    "commit": "de16b259990d5db38f78e40da134d0d0f06b0af0"
+  },
+  "method": "github-rest-tree-and-isolated-headless-google-chrome"
+}

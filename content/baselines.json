@@ -158,5 +158,35 @@
       "en": "Confirm the CC BY-NC version and terms for display or redistribution by the atlas.",
       "ja": "CC BY-NC の版と図鑑での表示・再配布条件を確認する。"
     }
+  },
+  {
+    "entity": "longcat",
+    "characterId": "fuh-longcat",
+    "reviewedAt": "2026-11-22",
+    "nextAction": {
+      "zh": "继续核对可展示的独立原图及逐件展示与改编条款。",
+      "en": "Verify standalone artwork and file-specific display and adaptation terms.",
+      "ja": "単独原画と画像別の表示・改変条件を確認する。"
+    }
+  },
+  {
+    "entity": "hunyuan",
+    "characterId": "fuh-hunyuan",
+    "reviewedAt": "2026-11-22",
+    "nextAction": {
+      "zh": "继续核对可展示的独立原图及逐件展示与改编条款。",
+      "en": "Verify standalone artwork and file-specific display and adaptation terms.",
+      "ja": "単独原画と画像別の表示・改変条件を確認する。"
+    }
+  },
+  {
+    "entity": "ernie",
+    "characterId": "zipzippipe-ernie",
+    "reviewedAt": "2026-11-22",
+    "nextAction": {
+      "zh": "继续核对可展示的独立原图及逐件展示与改编条款。",
+      "en": "Verify standalone artwork and file-specific display and adaptation terms.",
+      "ja": "単独原画と画像別の表示・改変条件を確認する。"
+    }
   }
 ]

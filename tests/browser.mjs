@@ -39,9 +39,9 @@ try {
   }
   await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});
   await page.goto(`${origin}/${lang}/models/`,{waitUntil:'domcontentloaded'});
-  assert.equal(await page.locator('[data-baseline]').count(),16);
+  assert.equal(await page.locator('[data-baseline]').count(),19);
   assert.equal(await page.locator('[data-state="ready"]').count(),12);
-  assert.equal(await page.locator('[data-state="candidate"]').count(),4);
+  assert.equal(await page.locator('[data-state="candidate"]').count(),7);
   assert.equal(await page.locator('[data-state="missing"]').count(),0);
   assert.equal(await page.locator('[data-state="candidate"] img').count(),0);
   await page.goto(`${origin}/${lang}/?model=muse`,{waitUntil:'domcontentloaded'});
@@ -70,10 +70,18 @@ try {
   assert.ok(await page.locator('a[href="https://www.bilibili.com/opus/1242097128919007239"]').first().isVisible());
   assert.ok(await page.locator('a[href="https://github.com/lmy414/ai-girl-stickers/issues/35"]').isVisible());
   assert.equal(await page.locator('main a[download], .detail-art img').count(),0);
+  await page.goto(`${origin}/${lang}/?model=hunyuan`,{waitUntil:'domcontentloaded'});
+  const hunyuanCards=page.locator('[data-card]:visible');
+  assert.equal(await hunyuanCards.count(),2);
+  assert.ok(await hunyuanCards.locator('a[href$="/characters/fuh-hunyuan/"]').first().isVisible());
+  await hunyuanCards.locator('a[href$="/characters/aliang-hunyuan/"]').first().click();
+  assert.ok(await page.locator('main a[href="https://creativecommons.org/licenses/by-nc-sa/4.0/"]').isVisible());
+  assert.ok(await page.locator('main a[href="https://www.bilibili.com/opus/1270053526331981826"]').first().isVisible());
+  assert.equal(await page.locator('main a[download], .detail-art img').count(),0);
   await page.goto(`${origin}/${lang}/characters/zipzippipe-chatgpt/`,{waitUntil:'domcontentloaded'});
   assert.equal(await page.locator('.observation-panel a').getAttribute('href'),'https://www.bilibili.com/video/BV14phK66Ejw/');
   await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});
-  await page.locator('#search').fill('ZipZipPipe');assert.equal(await page.locator('[data-card]:visible').count(),14);
+  await page.locator('#search').fill('ZipZipPipe');assert.equal(await page.locator('[data-card]:visible').count(),15);
   await page.locator('#search').fill('nothing-matches-xyz');await page.locator('#empty-state').waitFor({state:'visible'});
   await page.locator('#clear-filters').click();assert.equal(await page.locator('[data-card]:visible').count(),chars.length);
   await page.locator('[data-kind-filter="collected"]').click();assert.equal(await page.locator('[data-card]:visible').count(),chars.filter(c=>c.kind==='collected').length);

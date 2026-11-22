@@ -1,0 +1,43 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:29:26.425Z",
+  "url": "https://www.bilibili.com/opus/1242253521583079429",
+  "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1242253521583079429",
+  "bodySha256": "c705eb60f069fb2cec41a62857aa6e817bac2136ea5041013457a4326f5cc018",
+  "sourceIdentity": {
+    "id": "1242253521583079429",
+    "author": "甶丶",
+    "mid": 1758596086,
+    "publishedAt": "2026-08-30T06:58:07.000Z"
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "files": [
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/2eb913458b73afa47f1769bc2663c99c1758596086.png",
+      "position": 1,
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:29:41.110Z",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "bytes": 1294518,
+      "sourceSha256": "fd9e6287dbbc52d756a6916156f13016c68c56378e86c996159299f0a7912620"
+    }
+  ],
+  "previousEvidence": {
+    "path": "content/research/2026-11-20/shi-longcat-first-design.json",
+    "sha256": "bcbdbad91b1a9fe0cd3a7ec1ccf532d36469d8c55303f75cc8e09baa927cc00e",
+    "kind": "browser-metadata-extract"
+  },
+  "officialProduct": {
+    "id": "longcat",
+    "url": "https://longcat.chat/privacy/en/user-service/",
+    "finalUrl": "https://longcat.chat/privacy/en/user-service/",
+    "accessedAt": "2026-11-22T15:29:30.293Z",
+    "httpStatus": 200,
+    "title": "LongCat Terms of Use",
+    "matches": true,
+    "htmlSha256": "f650ac7af3a68aca30de125cee09ad11bed34aeed7f236e83becdfdf17c7b45c"
+  },
+  "scope": "All source attachments checked in their published order."
+}

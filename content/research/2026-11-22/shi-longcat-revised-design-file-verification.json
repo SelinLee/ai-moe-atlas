@@ -1,0 +1,175 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:29:26.417Z",
+  "url": "https://www.bilibili.com/opus/1262838853165645826",
+  "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1262838853165645826",
+  "bodySha256": "4578b66047156be63e4fdcaf59b73eb4d5ad53b3794a42b9fd1ff84e4605f84f",
+  "sourceIdentity": {
+    "id": "1262838853165645826",
+    "author": "甶丶",
+    "mid": 1758596086,
+    "publishedAt": "2026-10-24T18:19:43.000Z"
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "files": [
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/ad026ae1f80beff7e7d7d402160f057a1758596086.png",
+      "position": 1,
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:29:41.808Z",
+      "width": 1344,
+      "height": 1792,
+      "format": "png",
+      "bytes": 2616863,
+      "sourceSha256": "3ff5c3ed4b997df3627bb8f4014fbb073101bb2b3f1da8f50f77c34ecd1903bf"
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/4319e054eb300357407e51b0d95cced91758596086.png",
+      "position": 2,
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:29:43.123Z",
+      "width": 1344,
+      "height": 1792,
+      "format": "png",
+      "bytes": 3180756,
+      "sourceSha256": "fb3b394d82c05e070ff6804989f702fd1b402fa4fa8a6e26ca9daa79a5fc9aef"
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/276ae8f1418be84adeabaedd576767ab1758596086.png",
+      "position": 3,
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:29:45.430Z",
+      "width": 3133,
+      "height": 3410,
+      "format": "png",
+      "bytes": 7665507,
+      "sourceSha256": "3220a0da52f00c22b9433c13b31cbe1ce189a07a222dda4bf88cc4ae3a082de5"
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/841e39eb3ae10afa3bd4ce54652e2de71758596086.png",
+      "position": 4,
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:30:13.007Z",
+      "width": 3628,
+      "height": 3410,
+      "format": "png",
+      "bytes": 9612389,
+      "sourceSha256": "233a6bb6cb017b9e171aec89f044a4dad0daa16c7d68744d427eb5e728a53c9c"
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/e1996527c40a440827e80e26e4f2897d1758596086.png",
+      "position": 5,
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:29:47.011Z",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "bytes": 2244944,
+      "sourceSha256": "585a3b865cad3066aa6ff5a3aa19d1d9f03abd5297311b9b4fc1e232e2dac395"
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/50f4ec2f073f3f85946ae1dd4932a2b61758596086.png",
+      "position": 6,
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:29:47.626Z",
+      "width": 1344,
+      "height": 1792,
+      "format": "png",
+      "bytes": 3108029,
+      "sourceSha256": "3a830e7ae676951f96985eb16cb62f7688c24aa5c28583c75d54488901fcc611"
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/2910466edf14d8bf9123d60dc35012c41758596086.png",
+      "position": 7,
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:30:14.851Z",
+      "width": 1344,
+      "height": 1792,
+      "format": "png",
+      "bytes": 2384087,
+      "sourceSha256": "291cb07a42067f71cda1375a09c7c29fc434a3fd39e7bbe8878316815d189556"
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/41ed1f82937ea37781f57664699997ae1758596086.png",
+      "position": 8,
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:30:14.995Z",
+      "width": 1344,
+      "height": 1792,
+      "format": "png",
+      "bytes": 3468085,
+      "sourceSha256": "ba97d0fa8e6a581c880d919cbd3720e27d8f3a9782506f176815b6d79a019cf4"
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/59ffab1d1de8f30ee6958a5f7d378d5e1758596086.png",
+      "position": 9,
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:30:14.877Z",
+      "width": 1344,
+      "height": 1792,
+      "format": "png",
+      "bytes": 2670796,
+      "sourceSha256": "adfcb9de9487829379f906ea505ebb111856c9a9f4338480fdd3cfd899c06b62"
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/a3a0846bda404437e69274cc691fed721758596086.png",
+      "position": 10,
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:30:17.104Z",
+      "width": 1073,
+      "height": 1466,
+      "format": "png",
+      "bytes": 1816290,
+      "sourceSha256": "8d3970760087c3a4aabe34c8ca1f030049f61fb787aafcb00cbf91e2e9922a36"
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/027b7d828dd5b7cd460be5b9dba301be1758596086.png",
+      "position": 11,
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:30:16.940Z",
+      "width": 1073,
+      "height": 1466,
+      "format": "png",
+      "bytes": 1947171,
+      "sourceSha256": "8b12256ebaccb31156e9203b785b2587de8536b229aec70acc1e0eb7527c9ebe"
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/002e420daa47e096b89b91367b99f3ca1758596086.png",
+      "position": 12,
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:30:16.877Z",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "bytes": 1955992,
+      "sourceSha256": "b1478fec87271bbdc9da1435171d5157da6cd15937f736eb7c0b879eddd97d81"
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/055d70a9f06869c56f241c205ff3b0301758596086.png",
+      "position": 13,
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:30:18.837Z",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "bytes": 1911783,
+      "sourceSha256": "91d8a2c1051e4ed3c2b7c6b013f293d8287a9570722073c87aae63077b737970"
+    }
+  ],
+  "previousEvidence": {
+    "path": "content/research/2026-11-20/shi-longcat-revised-design.json",
+    "sha256": "c33982c345ba878a13116415d6e269e811d005b55d8eecfd3e32562d8caecb03",
+    "kind": "browser-metadata-extract"
+  },
+  "officialProduct": {
+    "id": "longcat",
+    "url": "https://longcat.chat/privacy/en/user-service/",
+    "finalUrl": "https://longcat.chat/privacy/en/user-service/",
+    "accessedAt": "2026-11-22T15:29:30.293Z",
+    "httpStatus": 200,
+    "title": "LongCat Terms of Use",
+    "matches": true,
+    "htmlSha256": "f650ac7af3a68aca30de125cee09ad11bed34aeed7f236e83becdfdf17c7b45c"
+  },
+  "scope": "All source attachments checked in their published order."
+}

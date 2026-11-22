@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:30:07.848Z",
+  "url": "https://www.bilibili.com/video/BV1FKsX6jErH/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1FKsX6jErH",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1FKsX6jErH",
+    "title": "PVZ-AI 版：新AI - 龙猫 (LongCat)",
+    "owner": {
+      "name": "葡萄皮核桃",
+      "mid": 22680248
+    },
+    "pubdate": 1793662200,
+    "duration": 334
+  },
+  "descriptionSha256": "1d5657c71bc68e95af2afaec7ae6e70c4ae9d359109223f20083a3e3100146de",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=LongCat%20%E9%BE%99%E7%8C%AB%20%E6%8B%9F%E4%BA%BA&order=pubdate",
+    "title": "PVZ-AI 版：新AI - 龙猫 (LongCat)",
+    "publisher": "葡萄皮核桃",
+    "observedAt": "2026-11-22T15:28:51.964Z",
+    "httpStatus": 200,
+    "htmlSha256": "bbacd6a7dc8f1bcd699cbc2a7904c516bc6b0e7f3be287b58e3aef6294954e1e"
+  }
+}

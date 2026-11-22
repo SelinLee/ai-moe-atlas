@@ -3,8 +3,8 @@
   "updatedAt": "2026-11-22",
   "scope": "source-metadata-only",
   "pendingAnimationEvidence": {
-    "path": "content/research/2026-11-22/bilibili-cumulative-likes-full-catalog-and-november-discoveries.json",
-    "sha256": "0df21abe52c7864aa0e1c46474f5af28f8f2f14db217ca5ffc5046a477fb50a0",
+    "path": "content/research/2026-11-22/bilibili-cumulative-likes-hunyuan-longcat-and-song-candidates.json",
+    "sha256": "24638a67cd3d20db355c96df0d9cfa5c5367c57ef23a8ae883e931fd427eb2ea",
     "kind": "browser-metadata-extract"
   },
   "records": [
@@ -5120,9 +5120,9 @@
       "url": "https://www.bilibili.com/video/BV1mwRzBdEzk/",
       "publisher": "ZipZipPipe",
       "summary": {
-        "zh": "作者在《AI娘的日常》简介里点名封面的蓝发角色是百度文心，橘发角色是 Claude，内容为 AI 角色表情。",
-        "en": "The creator identifies the cover’s blue-haired character as Baidu ERNIE and the orange-haired one as Claude in the description of the AI-girl sticker video.",
-        "ja": "作者は AI 娘スタンプ動画の説明欄で、表紙の青髪を百度の文心、オレンジ髪を Claude と明記。"
+        "zh": "ZipZipPipe 在视频简介中把蓝发封面角色标为百度文心、橘发角色标为 Claude。已核对该 2560 × 1440 JPEG 封面的文件哈希。",
+        "en": "ZipZipPipe identifies the blue-haired cover character as Baidu ERNIE and the orange-haired one as Claude. The 2560 × 1440 cover JPEG was checked by hash.",
+        "ja": "ZipZipPipe は概要欄で、表紙の青髪を百度文心、橙髪を Claude と記載。2560 × 1440 JPEG のハッシュを照合。"
       },
       "addedAt": "2026-11-07",
       "publicationDate": "2026-05-04",
@@ -5144,18 +5144,23 @@
           "role": "character-original",
           "title": "上善无形 · 鲸鱼娘原作",
           "url": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "role": "official-product",
+          "title": "百度文心大模型",
+          "url": "https://ernie.baidu.com/zh"
         }
       ],
       "verification": {
         "result": "metadata-verified",
         "method": "isolated-headless-google-chrome",
-        "attemptedAt": "2026-11-07T14:33:12.066Z",
+        "attemptedAt": "2026-11-22T15:29:26.861Z",
         "httpStatus": 200,
-        "scope": "Official video metadata, uploader description and linked source references checked. No video or artwork copied."
+        "scope": "Official cover image, publisher and the caption’s character identification checked."
       },
       "evidence": {
-        "path": "content/research/2026-11-07/zipzippipe-ernie-cover-source.json",
-        "sha256": "14a1252715958df91dd2e640ac0c4690e80e8cb248d8c4b08f5ccb62a6e42560",
+        "path": "content/research/2026-11-22/zipzippipe-ernie-cover-source-file-verification.json",
+        "sha256": "c1d246091752002313ce3b98dbb6dcfad4706fb06ea98bfe3aa6198dac5567e4",
         "kind": "browser-metadata-extract"
       },
       "bvid": "BV1mwRzBdEzk"
@@ -31082,18 +31087,23 @@
           "role": "later-edition",
           "title": "甶丶 · LongCat (October)",
           "url": "https://www.bilibili.com/opus/1262838853165645826"
+        },
+        {
+          "role": "official-product",
+          "title": "LongCat Terms of Use",
+          "url": "https://longcat.chat/privacy/en/user-service/"
         }
       ],
       "verification": {
         "result": "metadata-verified",
         "method": "isolated-headless-google-chrome",
-        "attemptedAt": "2026-11-20T14:26:57.467Z",
+        "attemptedAt": "2026-11-22T15:29:26.425Z",
         "httpStatus": 200,
-        "scope": "Creator byline, publication date, attachment count and first original image checked."
+        "scope": "All original attachments and publisher attribution checked."
       },
       "evidence": {
-        "path": "content/research/2026-11-20/shi-longcat-first-design.json",
-        "sha256": "bcbdbad91b1a9fe0cd3a7ec1ccf532d36469d8c55303f75cc8e09baa927cc00e",
+        "path": "content/research/2026-11-22/shi-longcat-first-design-file-verification.json",
+        "sha256": "8085969b16a4033d3f74ad3a7973038954892c5386acc21e1ed4309d833fe5ba",
         "kind": "browser-metadata-extract"
       }
     },
@@ -31108,9 +31118,9 @@
       "url": "https://www.bilibili.com/opus/1262838853165645826",
       "publisher": "甶丶",
       "summary": {
-        "zh": "作者后续 LongCat 动态附 13 张图，与 8 月的单张立绘为两次公开发布。",
-        "en": "The creator’s later LongCat post includes 13 images, following their single-image August post.",
-        "ja": "作者による LongCat の後続投稿に13枚掲載。8月には単独の立ち絵を別に公開。"
+        "zh": "同一作者在 10 月再次发布 LongCat 设定。13 张原图已按原帖顺序核对文件哈希，并链接 8 月立绘与角色盘点视频。",
+        "en": "The creator published further LongCat artwork in October. All 13 source files were hashed in post order, with links to the August portrait and character roundup.",
+        "ja": "同じ作者が10月に LongCat の追加設定を公開。原投稿順に13枚のハッシュを照合し、8月の立ち絵とキャラクター紹介動画を掲載。"
       },
       "addedAt": "2026-11-20",
       "publicationDate": "2026-10-25",
@@ -31132,18 +31142,23 @@
           "role": "creator-video",
           "title": "甶丶 · Seven AI designs",
           "url": "https://www.bilibili.com/video/BV17Bxt63EMR/"
+        },
+        {
+          "role": "official-product",
+          "title": "LongCat Terms of Use",
+          "url": "https://longcat.chat/privacy/en/user-service/"
         }
       ],
       "verification": {
         "result": "metadata-verified",
         "method": "isolated-headless-google-chrome",
-        "attemptedAt": "2026-11-20T14:26:58.880Z",
+        "attemptedAt": "2026-11-22T15:29:26.417Z",
         "httpStatus": 200,
-        "scope": "Creator byline, publication date, attachment count and first original image checked."
+        "scope": "All original attachments and publisher attribution checked."
       },
       "evidence": {
-        "path": "content/research/2026-11-20/shi-longcat-revised-design.json",
-        "sha256": "c33982c345ba878a13116415d6e269e811d005b55d8eecfd3e32562d8caecb03",
+        "path": "content/research/2026-11-22/shi-longcat-revised-design-file-verification.json",
+        "sha256": "834574719d8cfb0d4b0a0a31fb1bfa3804e54f2350599ba0a894fcf9977a6581",
         "kind": "browser-metadata-extract"
       }
     },
@@ -31158,9 +31173,9 @@
       "url": "https://www.bilibili.com/opus/1242051735409655810",
       "publisher": "甶丶",
       "summary": {
-        "zh": "蓝白服装搭配红围巾。作者在原帖说明使用 GPT Image 辅助生成并手工调整。",
-        "en": "A blue-and-white outfit with a red scarf. The creator describes using GPT Image with manual touch-ups.",
-        "ja": "青と白の服装に赤いマフラー。作者は GPT Image で生成後に手修正したと説明。"
+        "zh": "甶丶公开的蓝白服装与红围巾版混元娘。作者说明使用 GPT Image 生成并做了手工修改。原帖 1024 × 1536 PNG 已核对哈希。",
+        "en": "甶丶’s Hunyuan Girl wears a blue and white outfit with a red scarf. The creator credits GPT Image and manual edits. The 1024 × 1536 PNG was checked by hash.",
+        "ja": "甶丶の混元娘は青白の衣装と赤いマフラー。作者は GPT Image 生成と手修正を記載。1024 × 1536 PNG のハッシュを照合。"
       },
       "addedAt": "2026-11-20",
       "publicationDate": "2026-08-30",
@@ -31172,17 +31187,23 @@
         "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
         "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
       },
-      "relations": [],
+      "relations": [
+        {
+          "role": "official-product",
+          "title": "腾讯混元",
+          "url": "https://hunyuan.tencent.com/"
+        }
+      ],
       "verification": {
         "result": "metadata-verified",
         "method": "isolated-headless-google-chrome",
-        "attemptedAt": "2026-11-20T14:26:57.463Z",
+        "attemptedAt": "2026-11-22T15:29:26.252Z",
         "httpStatus": 200,
-        "scope": "Creator byline, publication date, attachment count and first original image checked."
+        "scope": "All original attachments and publisher attribution checked."
       },
       "evidence": {
-        "path": "content/research/2026-11-20/shi-hunyuan-design.json",
-        "sha256": "f9c73c7d3ffbec29a54a10144a64ae999cddfb6b218b3202b44403010e9fa225",
+        "path": "content/research/2026-11-22/shi-hunyuan-design-file-verification.json",
+        "sha256": "4f576841dab1b8e3379a8eb30edb6a071be9bb630678675bd08e9936d634c7f9",
         "kind": "browser-metadata-extract"
       }
     },
@@ -46325,6 +46346,11 @@
           "role": "design-reference",
           "title": "ZipZipPipe · AI娘化",
           "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "official-song",
+          "title": "s0rrow · unhappy",
+          "url": "https://music.apple.com/de/album/6790708388"
         }
       ],
       "verification": {
@@ -47622,6 +47648,946 @@
         "attemptedAt": "2026-11-22T15:12:39.213Z",
         "httpStatus": 200,
         "scope": "Pinned README, code license and available artwork or package terms checked."
+      }
+    },
+    {
+      "id": "bv1qzs46oejj",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1Qzs46oEjJ",
+      "url": "https://www.bilibili.com/video/BV1Qzs46oEjJ/",
+      "title": {
+        "zh": "小元元 · 混元娘吹泡泡",
+        "en": "Xiaoyuanyuan · Hunyuan Girl Blows Bubbles",
+        "ja": "小元元 · 混元娘のシャボン玉"
+      },
+      "sourceTitle": "小元元（混元娘）吹泡泡",
+      "publisher": "秋分冬至清净",
+      "summary": {
+        "zh": "秋分冬至清净发布的混元娘短片，简介链接阿亮今年必发财的形象出处。",
+        "en": "A Hunyuan Girl short by 秋分冬至清净. The description links the design source by 阿亮今年必发财.",
+        "ja": "秋分冬至清净 による混元娘の短編。概要欄に阿亮今年必发财のデザイン出典を記載。"
+      },
+      "rights": {
+        "zh": "保留原投稿和可核对的署名。角色、画面与音乐的利用条件以各自出处为准。",
+        "en": "Links to the original upload and documented credits. Consult each source for the terms covering the characters, visuals and music.",
+        "ja": "原投稿と確認できるクレジットを掲載。キャラクター・映像・楽曲の利用条件は個別の出典を参照。"
+      },
+      "durationSeconds": 11,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-11-19",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-19T03:32:10.000Z",
+      "likes": {
+        "count": 3,
+        "observedAt": "2026-11-22T15:30:07.199Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Qzs46oEjJ",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-hunyuan-longcat-and-song-candidates.json",
+          "sha256": "24638a67cd3d20db355c96df0d9cfa5c5367c57ef23a8ae883e931fd427eb2ea",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1qzs46oejj.json",
+        "sha256": "3b378ffefec623fa77588fdd8df4f1bcb12dd9a179b630d6d2ad3aacf4cfeed6",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "design-reference",
+          "title": "阿亮今年必发财 · Hunyuan Girl",
+          "url": "https://www.bilibili.com/opus/1270053526331981826"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T15:30:07.199Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv19fsd6wera",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV19fsD6wERA",
+      "url": "https://www.bilibili.com/video/BV19fsD6wERA/",
+      "title": {
+        "zh": "小元元来找你玩 · 草稿",
+        "en": "Xiaoyuanyuan Comes to Play · Draft",
+        "ja": "小元元が遊びに来た · 草稿"
+      },
+      "sourceTitle": "“侠士，小元元来找你玩啦～”（草稿）",
+      "publisher": "秋分冬至清净",
+      "summary": {
+        "zh": "混元娘小元元的剧情草稿，简介分别标明多位角色来源。",
+        "en": "A draft skit about Hunyuan Girl. The uploader credits the designs for several characters.",
+        "ja": "混元娘・小元元の短編草稿。投稿者が複数のキャラクターの出典を記載。"
+      },
+      "rights": {
+        "zh": "保留原投稿和可核对的署名。角色、画面与音乐的利用条件以各自出处为准。",
+        "en": "Links to the original upload and documented credits. Consult each source for the terms covering the characters, visuals and music.",
+        "ja": "原投稿と確認できるクレジットを掲載。キャラクター・映像・楽曲の利用条件は個別の出典を参照。"
+      },
+      "durationSeconds": 73,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-11-19",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-18T17:17:24.000Z",
+      "likes": {
+        "count": 5,
+        "observedAt": "2026-11-22T15:30:07.889Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19fsD6wERA",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-hunyuan-longcat-and-song-candidates.json",
+          "sha256": "24638a67cd3d20db355c96df0d9cfa5c5367c57ef23a8ae883e931fd427eb2ea",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv19fsd6wera.json",
+        "sha256": "297a572c1940d7652a3dc9301f5522547d163a324f1c8226c73a8c9d73bd4a1c",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "design-reference",
+          "title": "阿亮今年必发财 · Hunyuan Girl",
+          "url": "https://www.bilibili.com/opus/1270053526331981826"
+        },
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T15:30:07.889Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1fksx6jerh",
+      "category": "animation",
+      "subtype": "game",
+      "bvid": "BV1FKsX6jErH",
+      "url": "https://www.bilibili.com/video/BV1FKsX6jErH/",
+      "title": {
+        "zh": "PVZ-AI · 龙猫 LongCat 玩法演示",
+        "en": "PVZ-AI · LongCat Gameplay Demo",
+        "ja": "PVZ-AI · 龍猫 LongCat のプレイ実演"
+      },
+      "sourceTitle": "PVZ-AI 版：新AI - 龙猫 (LongCat)",
+      "publisher": "葡萄皮核桃",
+      "summary": {
+        "zh": "葡萄皮核桃演示 LongCat 在同人游戏中的范围攻击机制。",
+        "en": "葡萄皮核桃 demonstrates LongCat’s area move in a fan game.",
+        "ja": "葡萄皮核桃 が二次創作ゲームでの LongCat の範囲技を紹介。"
+      },
+      "rights": {
+        "zh": "保留原投稿和可核对的署名。角色、画面与音乐的利用条件以各自出处为准。",
+        "en": "Links to the original upload and documented credits. Consult each source for the terms covering the characters, visuals and music.",
+        "ja": "原投稿と確認できるクレジットを掲載。キャラクター・映像・楽曲の利用条件は個別の出典を参照。"
+      },
+      "durationSeconds": 334,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-11-03",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-02T23:30:00.000Z",
+      "likes": {
+        "count": 10,
+        "observedAt": "2026-11-22T15:30:07.848Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1FKsX6jErH",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-hunyuan-longcat-and-song-candidates.json",
+          "sha256": "24638a67cd3d20db355c96df0d9cfa5c5367c57ef23a8ae883e931fd427eb2ea",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1fksx6jerh.json",
+        "sha256": "a3fc46b672e22b929894b25693cb068a39a6437241de87cff62b9eded1c8d96a",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T15:30:07.848Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1gjy7zbebr",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1gJy7zbEbr",
+      "url": "https://www.bilibili.com/video/BV1gJy7zbEbr/",
+      "title": {
+        "zh": "给大肥鱼留第一口",
+        "en": "The First Bite Is for Fat Fish",
+        "ja": "大きな魚に最初のひと口を"
+      },
+      "sourceTitle": "自己做饭还想着给大肥鱼第一口，人真好",
+      "publisher": "mikuuukl",
+      "summary": {
+        "zh": "mikuuukl 发布的做饭主题大肥鱼小短片。",
+        "en": "A cooking-themed Fat Fish short posted by mikuuukl.",
+        "ja": "mikuuukl が投稿した料理が題材の大きな魚の短編。"
+      },
+      "rights": {
+        "zh": "保留原投稿和可核对的署名。角色、画面与音乐的利用条件以各自出处为准。",
+        "en": "Links to the original upload and documented credits. Consult each source for the terms covering the characters, visuals and music.",
+        "ja": "原投稿と確認できるクレジットを掲載。キャラクター・映像・楽曲の利用条件は個別の出典を参照。"
+      },
+      "durationSeconds": 10,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-11-22",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-22T15:19:44.000Z",
+      "likes": {
+        "count": 0,
+        "observedAt": "2026-11-22T15:30:07.775Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gJy7zbEbr",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-hunyuan-longcat-and-song-candidates.json",
+          "sha256": "24638a67cd3d20db355c96df0d9cfa5c5367c57ef23a8ae883e931fd427eb2ea",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1gjy7zbebr.json",
+        "sha256": "b275261ac30b2c795a3265f9984d2e019aaaf5700f1577b1b4bf1f929fd94e71",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T15:30:07.775Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1qpy7zzeri",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1qPy7zzEri",
+      "url": "https://www.bilibili.com/video/BV1qPy7zzEri/",
+      "title": {
+        "zh": "AI 娘的欧洲之旅",
+        "en": "AI Girls’ Trip Through Europe",
+        "ja": "AI 娘のヨーロッパ旅行"
+      },
+      "sourceTitle": "ai娘的欧洲之旅行",
+      "publisher": "关于我昵称消失这码事",
+      "summary": {
+        "zh": "作者将 AI 娘形象合成至本人旅行时拍摄的实景照片。",
+        "en": "The uploader composited AI girls into their own travel photos.",
+        "ja": "投稿者が自身の旅行写真に AI 娘を合成。"
+      },
+      "rights": {
+        "zh": "保留原投稿和可核对的署名。角色、画面与音乐的利用条件以各自出处为准。",
+        "en": "Links to the original upload and documented credits. Consult each source for the terms covering the characters, visuals and music.",
+        "ja": "原投稿と確認できるクレジットを掲載。キャラクター・映像・楽曲の利用条件は個別の出典を参照。"
+      },
+      "durationSeconds": 17,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-11-22",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-22T15:11:19.000Z",
+      "likes": {
+        "count": 0,
+        "observedAt": "2026-11-22T15:30:07.848Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qPy7zzEri",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-hunyuan-longcat-and-song-candidates.json",
+          "sha256": "24638a67cd3d20db355c96df0d9cfa5c5367c57ef23a8ae883e931fd427eb2ea",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1qpy7zzeri.json",
+        "sha256": "548534c0ec44647b0621772879ac61823cfd77c8cdd8b0ca5f6a6388075392fc",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T15:30:07.848Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1hsy5z3ek6",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1HSy5z3EK6",
+      "url": "https://www.bilibili.com/video/BV1HSy5z3EK6/",
+      "title": {
+        "zh": "大肥鱼与猫猫",
+        "en": "Fat Fish and the Cat",
+        "ja": "大きな魚とねこ"
+      },
+      "sourceTitle": "大肥鱼与猫猫",
+      "publisher": "落星归宿",
+      "summary": {
+        "zh": "落星归宿发布的大肥鱼与猫主题作品。",
+        "en": "A Fat Fish and cat short posted by 落星归宿.",
+        "ja": "落星归宿 が投稿した大きな魚と猫の作品。"
+      },
+      "rights": {
+        "zh": "保留原投稿和可核对的署名。角色、画面与音乐的利用条件以各自出处为准。",
+        "en": "Links to the original upload and documented credits. Consult each source for the terms covering the characters, visuals and music.",
+        "ja": "原投稿と確認できるクレジットを掲載。キャラクター・映像・楽曲の利用条件は個別の出典を参照。"
+      },
+      "durationSeconds": 55,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-11-22",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-22T13:30:58.000Z",
+      "likes": {
+        "count": 57,
+        "observedAt": "2026-11-22T15:30:07.775Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HSy5z3EK6",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-hunyuan-longcat-and-song-candidates.json",
+          "sha256": "24638a67cd3d20db355c96df0d9cfa5c5367c57ef23a8ae883e931fd427eb2ea",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1hsy5z3ek6.json",
+        "sha256": "f229e4899e09b3ba1252fb3ea4e5894e17c58238a8091c5a729a82a2578ac1c0",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T15:30:07.775Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1t6y5z7ek5",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1t6y5z7EK5",
+      "url": "https://www.bilibili.com/video/BV1t6y5z7EK5/",
+      "title": {
+        "zh": "勿忘我 · 白饭和 Token",
+        "en": "Forget-Me-Not · Rice and Tokens",
+        "ja": "勿忘草 · ご飯とトークン"
+      },
+      "sourceTitle": "勿忘我：这里有你最爱的白饭和token",
+      "publisher": "_黄小小_",
+      "summary": {
+        "zh": "_黄小小_ 将《丁香花》的故事改编为大肥鱼剧情短片。",
+        "en": "_黄小小_ adapts the story of Lilac Flower into a Fat Fish short.",
+        "ja": "_黄小小_ が「丁香花」の物語を大きな魚の短編に翻案。"
+      },
+      "rights": {
+        "zh": "保留原投稿和可核对的署名。角色、画面与音乐的利用条件以各自出处为准。",
+        "en": "Links to the original upload and documented credits. Consult each source for the terms covering the characters, visuals and music.",
+        "ja": "原投稿と確認できるクレジットを掲載。キャラクター・映像・楽曲の利用条件は個別の出典を参照。"
+      },
+      "durationSeconds": 30,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-11-22",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-22T12:29:24.000Z",
+      "likes": {
+        "count": 0,
+        "observedAt": "2026-11-22T15:30:08.318Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1t6y5z7EK5",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-hunyuan-longcat-and-song-candidates.json",
+          "sha256": "24638a67cd3d20db355c96df0d9cfa5c5367c57ef23a8ae883e931fd427eb2ea",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1t6y5z7ek5.json",
+        "sha256": "c412f95e52fbc9d9d6dfdfd83ec50e983fc15dabe28304b8e54db52bdc6e6dc2",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T15:30:08.318Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1nmnj6eebn",
+      "category": "animation",
+      "subtype": "mv",
+      "bvid": "BV1nMnj6eEbN",
+      "url": "https://www.bilibili.com/video/BV1nMnj6eEbN/",
+      "title": {
+        "zh": "豆包、大肥鱼与 AI 娘 · Uptown Funk",
+        "en": "Doubao, Fat Fish and AI Girls · Uptown Funk",
+        "ja": "豆包・大きな魚・AI 娘 · Uptown Funk"
+      },
+      "sourceTitle": "豆包Deepseek肥鱼和ai娘们激情演唱《Uptown Funk》",
+      "publisher": "凌云志ing",
+      "summary": {
+        "zh": "凌云志ing 发布的群像 MV，B 站曲目标签标为 Uptown Funk。",
+        "en": "An ensemble MV by 凌云志ing. Bilibili identifies the song as Uptown Funk.",
+        "ja": "凌云志ing の群像 MV。Bilibili の楽曲タグは Uptown Funk。"
+      },
+      "rights": {
+        "zh": "保留原投稿和可核对的署名。角色、画面与音乐的利用条件以各自出处为准。",
+        "en": "Links to the original upload and documented credits. Consult each source for the terms covering the characters, visuals and music.",
+        "ja": "原投稿と確認できるクレジットを掲載。キャラクター・映像・楽曲の利用条件は個別の出典を参照。"
+      },
+      "durationSeconds": 92,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-10-19",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-19T02:17:01.000Z",
+      "likes": {
+        "count": 1725,
+        "observedAt": "2026-11-22T15:30:08.302Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nMnj6eEbN",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-hunyuan-longcat-and-song-candidates.json",
+          "sha256": "24638a67cd3d20db355c96df0d9cfa5c5367c57ef23a8ae883e931fd427eb2ea",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1nmnj6eebn.json",
+        "sha256": "b8941625e258a3e5cccc6d162f66f5575f2a16fa081c8bd2359550d838d16df7",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "official-song",
+          "title": "Mark Ronson feat. Bruno Mars",
+          "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T15:30:08.302Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1evsb6fevj",
+      "category": "animation",
+      "subtype": "mv",
+      "bvid": "BV1evsB6FEVj",
+      "url": "https://www.bilibili.com/video/BV1evsB6FEVj/",
+      "title": {
+        "zh": "GPT Astra × Claude Fable · 雨爱版",
+        "en": "GPT Astra × Claude Fable · Rainie Love Version",
+        "ja": "GPT Astra × Claude Fable · 「雨愛」版"
+      },
+      "sourceTitle": "【推理回战】硅谷决战｜GPT Astra vs Claude Fable（雨爱版）",
+      "publisher": "薇纷芳橙",
+      "summary": {
+        "zh": "作者在简介链接所参考的《新宿决战》雨爱版。",
+        "en": "The description links to the Rainie Love version of Shinjuku Showdown as a reference.",
+        "ja": "概要欄に参照元「新宿決戦」の「雨愛」版を掲載。"
+      },
+      "rights": {
+        "zh": "保留原投稿和可核对的署名。角色、画面与音乐的利用条件以各自出处为准。",
+        "en": "Links to the original upload and documented credits. Consult each source for the terms covering the characters, visuals and music.",
+        "ja": "原投稿と確認できるクレジットを掲載。キャラクター・映像・楽曲の利用条件は個別の出典を参照。"
+      },
+      "durationSeconds": 110,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-11-17",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-17T11:30:00.000Z",
+      "likes": {
+        "count": 34,
+        "observedAt": "2026-11-22T15:30:08.332Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1evsB6FEVj",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-hunyuan-longcat-and-song-candidates.json",
+          "sha256": "24638a67cd3d20db355c96df0d9cfa5c5367c57ef23a8ae883e931fd427eb2ea",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1evsb6fevj.json",
+        "sha256": "e627ba6bfa08b790bf3cb647f2f983f560ef798c7796ffc68df4f4b946c0c442",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "uploader-reference",
+          "title": "BV1QC3G6DEKX",
+          "url": "https://www.bilibili.com/video/BV1QC3G6DEKX/"
+        },
+        {
+          "role": "official-song",
+          "title": "楊丞琳 · Rainie Yang",
+          "url": "https://www.youtube.com/watch?v=oec9R5ypf-o"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T15:30:08.332Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1slw66oeqs",
+      "category": "animation",
+      "subtype": "mv",
+      "bvid": "BV1SLW66oEQS",
+      "url": "https://www.bilibili.com/video/BV1SLW66oEQS/",
+      "title": {
+        "zh": "Claude × DeepSeek × GPT · bloom",
+        "en": "Claude × DeepSeek × GPT · bloom",
+        "ja": "Claude × DeepSeek × GPT · bloom"
+      },
+      "sourceTitle": "【双字/AIMV】《bloom》｜Claude×Deepseek×GPT | 我会永远待在你身边",
+      "publisher": "桧木H1nOKl",
+      "summary": {
+        "zh": "作者列出《魔法少女的魔女审判》角色分工、原曲演职和 ZipZipPipe 形象来源。",
+        "en": "The uploader credits Magical Girl Witch Trials roles, the original song and ZipZipPipe’s character designs.",
+        "ja": "『魔法少女ノ魔女裁判』の配役、原曲のクレジット、ZipZipPipe のキャラクター出典を掲載。"
+      },
+      "rights": {
+        "zh": "保留原投稿和可核对的署名。角色、画面与音乐的利用条件以各自出处为准。",
+        "en": "Links to the original upload and documented credits. Consult each source for the terms covering the characters, visuals and music.",
+        "ja": "原投稿と確認できるクレジットを掲載。キャラクター・映像・楽曲の利用条件は個別の出典を参照。"
+      },
+      "durationSeconds": 506,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-11-17",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-17T02:30:00.000Z",
+      "likes": {
+        "count": 12,
+        "observedAt": "2026-11-22T15:30:08.310Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SLW66oEQS",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-hunyuan-longcat-and-song-candidates.json",
+          "sha256": "24638a67cd3d20db355c96df0d9cfa5c5367c57ef23a8ae883e931fd427eb2ea",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1slw66oeqs.json",
+        "sha256": "009893425335fd90c5793b5075935a9a227323736bd02e0e1f7aed590fdd36e9",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "uploader-reference",
+          "title": "BV1frRTY8EX7",
+          "url": "https://www.bilibili.com/video/BV1frRTY8EX7/"
+        },
+        {
+          "role": "uploader-reference",
+          "title": "BV1rT4G6gE1H",
+          "url": "https://www.bilibili.com/video/BV1rT4G6gE1H/"
+        },
+        {
+          "role": "uploader-reference",
+          "title": "BV1dNW66eEMB",
+          "url": "https://www.bilibili.com/video/BV1dNW66eEMB/"
+        },
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "official-song",
+          "title": "三木谷奈々 · daiki · bloom · 魔法少女ノ魔女裁判",
+          "url": "https://www.fwinc.co.jp/manosaba_CD/haishin"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T15:30:08.310Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1dnw66eemb",
+      "category": "animation",
+      "subtype": "mv",
+      "bvid": "BV1dNW66eEMB",
+      "url": "https://www.bilibili.com/video/BV1dNW66eEMB/",
+      "title": {
+        "zh": "Claude × DeepSeek · 灼け落ちない翼",
+        "en": "Claude × DeepSeek · Wings That Won’t Burn Away",
+        "ja": "Claude × DeepSeek · 灼け落ちない翼"
+      },
+      "sourceTitle": "【双字/AIMV】Claude×Deepseek《灼け落ちない翼（灼烧不落之翼）》｜Charlotte ED",
+      "publisher": "桧木H1nOKl",
+      "summary": {
+        "zh": "以《Charlotte》片尾曲制作的同人 MV，简介署名多田葵与麻枝准。",
+        "en": "A fan MV set to Charlotte’s ending theme, with Aoi Tada and Jun Maeda credited.",
+        "ja": "『Charlotte』のエンディング曲を使った二次創作 MV。多田葵と麻枝准をクレジット。"
+      },
+      "rights": {
+        "zh": "保留原投稿和可核对的署名。角色、画面与音乐的利用条件以各自出处为准。",
+        "en": "Links to the original upload and documented credits. Consult each source for the terms covering the characters, visuals and music.",
+        "ja": "原投稿と確認できるクレジットを掲載。キャラクター・映像・楽曲の利用条件は個別の出典を参照。"
+      },
+      "durationSeconds": 413,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-11-14",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-14T02:30:00.000Z",
+      "likes": {
+        "count": 4,
+        "observedAt": "2026-11-22T15:30:08.303Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dNW66eEMB",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-hunyuan-longcat-and-song-candidates.json",
+          "sha256": "24638a67cd3d20db355c96df0d9cfa5c5367c57ef23a8ae883e931fd427eb2ea",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1dnw66eemb.json",
+        "sha256": "1d190f767764157eeab521a7a0632ce8ebe5b6a4b901a36aff7262ee647e741a",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "uploader-reference",
+          "title": "BV1rT4G6gE1H",
+          "url": "https://www.bilibili.com/video/BV1rT4G6gE1H/"
+        },
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "official-song",
+          "title": "多田 葵 · 麻枝 准 · 灼け落ちない翼",
+          "url": "https://charlotte-anime.jp/music/ed/"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T15:30:08.303Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1d2wo66ess",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1D2Wo66EsS",
+      "url": "https://www.bilibili.com/video/BV1D2Wo66EsS/",
+      "title": {
+        "zh": "Claude 的完美约会计划",
+        "en": "Claude’s Perfect Date Plan",
+        "ja": "Claude の完璧なデート計画"
+      },
+      "sourceTitle": "Claude的完美约会计划！【AI拟人】",
+      "publisher": "Takina142",
+      "summary": {
+        "zh": "Takina142 发布的约会小剧场，简介署名 ZipZipPipe 的角色设计。",
+        "en": "A date skit by Takina142 with character design credited to ZipZipPipe.",
+        "ja": "Takina142 のデート短編。キャラクターデザインは ZipZipPipe。"
+      },
+      "rights": {
+        "zh": "保留原投稿和可核对的署名。角色、画面与音乐的利用条件以各自出处为准。",
+        "en": "Links to the original upload and documented credits. Consult each source for the terms covering the characters, visuals and music.",
+        "ja": "原投稿と確認できるクレジットを掲載。キャラクター・映像・楽曲の利用条件は個別の出典を参照。"
+      },
+      "durationSeconds": 86,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-11-12",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-12T15:31:49.000Z",
+      "likes": {
+        "count": 156,
+        "observedAt": "2026-11-22T15:30:08.765Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1D2Wo66EsS",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-hunyuan-longcat-and-song-candidates.json",
+          "sha256": "24638a67cd3d20db355c96df0d9cfa5c5367c57ef23a8ae883e931fd427eb2ea",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1d2wo66ess.json",
+        "sha256": "036462d307ef17ca72f94219e3c5de70ad4a66a7a1c8404489b71f2887c655ab",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T15:30:08.765Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "aliang-hunyuan-chibi-design",
+      "category": "sources",
+      "title": {
+        "zh": "阿亮今年必发财 · 混元娘 Q 版设定",
+        "en": "阿亮今年必发财 · Hunyuan Girl Chibi Design",
+        "ja": "阿亮今年必发财 · 混元娘ちびキャラ設定"
+      },
+      "url": "https://www.bilibili.com/opus/1270053526331981826",
+      "publisher": "阿亮今年必发财",
+      "summary": {
+        "zh": "作者在这条多角色原帖自述设计了混元娘，服装采用洛丽塔造型并参考企鹅元素。全帖 20 张原图均已核对哈希。",
+        "en": "The creator describes their own Hunyuan Girl design in a multi-character post, with a Lolita outfit and penguin-inspired details. All 20 images in the post were hashed.",
+        "ja": "複数キャラクターの投稿で、作者は混元娘を自ら考案したと説明。ロリータ調の衣装とペンギンの要素を採用。投稿の原画20枚を照合。"
+      },
+      "rights": {
+        "zh": "作者将自己设计的混元形象标为 CC BY-NC-SA 4.0。该声明对应混元形象，其他角色按各自出处核对。",
+        "en": "The creator assigns CC BY-NC-SA 4.0 to their Hunyuan design. Check the individual sources for the other characters.",
+        "ja": "作者は自身の混元デザインを CC BY-NC-SA 4.0 と記載。他キャラクターの条件は各出典を参照。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/aliang-hunyuan-chibi-and-license.json",
+        "sha256": "2355323f0e63363f8574ed37d9e05c15dbc6ed2e735ee86d7ee12c29f4007829",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T15:31:10.541Z",
+        "httpStatus": 200,
+        "scope": "Creator’s design credit, image files and artwork-specific license checked."
+      },
+      "relations": [
+        {
+          "role": "artwork-license",
+          "title": "CC BY-NC-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        },
+        {
+          "role": "creator-profile",
+          "title": "阿亮今年必发财",
+          "url": "https://space.bilibili.com/2757067"
+        },
+        {
+          "role": "peer-adaptation",
+          "title": "Xiaoyuanyuan · Hunyuan Girl Blows Bubbles",
+          "url": "https://www.bilibili.com/video/BV1Qzs46oEjJ/"
+        },
+        {
+          "role": "peer-adaptation",
+          "title": "Xiaoyuanyuan Comes to Play",
+          "url": "https://www.bilibili.com/video/BV19fsD6wERA/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-11-13",
+      "publicationDateBasis": "visible-page-date"
+    },
+    {
+      "id": "dsh-per-model-theme-companions",
+      "category": "interactive",
+      "url": "https://github.com/HD1014/dsh-model-theme/blob/f624806af5f2750d981fcd683e9ea0569fff3d93/README.md",
+      "publisher": "HD1014",
+      "title": {
+        "zh": "模型主题 · DSH 的 16 套桌宠联动",
+        "en": "Model Theme · 16 DSH Companion Sets",
+        "ja": "モデルテーマ · DSH 連動ペット16種"
+      },
+      "summary": {
+        "zh": "切换模型时联动主题、背景和桌宠。固定版文档列出元宝、文心、海螺等角色。",
+        "en": "Switching models also changes themes, backgrounds and pets. The pinned README lists Yuanbao, Baidu ERNIE and Hailuo among the sets.",
+        "ja": "モデルの切り替えにテーマ・背景・ペットが連動。固定版の説明に元宝・文心・海螺などを掲載。"
+      },
+      "rights": {
+        "zh": "许可文件标注软件采用 MIT，并单列桌宠素材限 DSH 展示和个人二创。使用守则进一步说明商业条款、素材分发和署名。",
+        "en": "The license text applies MIT to the software and lists DSH display and personal fan use for the pet assets. The separate rules cover commercial use, asset distribution and credit.",
+        "ja": "許諾文書はソフトを MIT とし、ペット素材は DSH での表示と個人二次創作に限定。別途利用規則に商用・配布・署名を記載。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/dsh-per-model-theme-companions.json",
+        "sha256": "27de54870a300cb1a42354ee50a5dea4ac0acc5b7739a837d49c9658b09b6711",
+        "kind": "browser-metadata-extract"
+      },
+      "addedAt": "2026-11-22",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "relations": [
+        {
+          "role": "license",
+          "title": "LICENSE",
+          "url": "https://github.com/HD1014/dsh-model-theme/blob/f624806af5f2750d981fcd683e9ea0569fff3d93/LICENSE"
+        },
+        {
+          "role": "asset-usage-rules",
+          "title": "docs/使用守则.md",
+          "url": "https://github.com/HD1014/dsh-model-theme/blob/f624806af5f2750d981fcd683e9ea0569fff3d93/docs/%E4%BD%BF%E7%94%A8%E5%AE%88%E5%88%99.md"
+        },
+        {
+          "role": "asset-package-reference",
+          "title": "assets/README.md",
+          "url": "https://github.com/HD1014/dsh-model-theme/blob/f624806af5f2750d981fcd683e9ea0569fff3d93/assets/README.md"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T15:32:59.250Z",
+        "httpStatus": 200,
+        "scope": "Pinned README, licensing documents and available file-specific evidence checked."
+      }
+    },
+    {
+      "id": "nienie-pet-3d-interaction",
+      "category": "interactive",
+      "url": "https://github.com/USER-HFC/nienie-pet/blob/de16b259990d5db38f78e40da134d0d0f06b0af0/README.md",
+      "publisher": "USER-HFC",
+      "title": {
+        "zh": "捏捏宠 · 交互 3D 桌宠",
+        "en": "Nienie Pet · Interactive 3D Desktop Pet",
+        "ja": "捏捏ペット · インタラクティブ 3D ペット"
+      },
+      "summary": {
+        "zh": "网页与 Windows 桌宠实验，支持软体、橡皮泥和液体三种交互，并接入腾讯混元及 Tripo 的 3D 生成。",
+        "en": "A web and Windows desktop pet experiment with soft-body, clay and liquid modes. The project integrates Tencent Hunyuan and Tripo for 3D generation.",
+        "ja": "ソフトボディ・粘土・液体の3種を試せるウェブ／Windows ペット。Tencent 混元と Tripo の3D生成に対応。"
+      },
+      "rights": {
+        "zh": "项目采用 MIT，并在第三方说明单列 canvas-ui 的 Commons Clause、插图与外部文件的来源按原提供方条件核对。",
+        "en": "The project uses MIT. Its third-party notice lists canvas-ui’s Commons Clause separately. Check original providers’ terms for artwork and external files.",
+        "ja": "プロジェクトは MIT。第三者素材の文書に canvas-ui の Commons Clause を個別記載。イラストと外部ファイルは配布元の条件を参照。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/nienie-pet-3d-interaction.json",
+        "sha256": "96b2f447afbcd45fbfd4ef83bd8fcdb96998c6740f0fa570a4a935d292fb49dd",
+        "kind": "browser-metadata-extract"
+      },
+      "addedAt": "2026-11-22",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "relations": [
+        {
+          "role": "license",
+          "title": "LICENSE",
+          "url": "https://github.com/USER-HFC/nienie-pet/blob/de16b259990d5db38f78e40da134d0d0f06b0af0/LICENSE"
+        },
+        {
+          "role": "third-party-notices",
+          "title": "THIRD_PARTY_NOTICES.md",
+          "url": "https://github.com/USER-HFC/nienie-pet/blob/de16b259990d5db38f78e40da134d0d0f06b0af0/THIRD_PARTY_NOTICES.md"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T15:33:01.956Z",
+        "httpStatus": 200,
+        "scope": "Pinned README, licensing documents and available file-specific evidence checked."
+      }
+    },
+    {
+      "id": "ai-sisters-sixteen-pet-pack",
+      "category": "interactive",
+      "url": "https://github.com/linyucion/dsh-pet-ai-sisters/blob/c4755e527070c46c7419f199b8907467d5def588/README.md",
+      "publisher": "linyucion",
+      "title": {
+        "zh": "AI 姐妹桌宠 · 16 位角色扩展包",
+        "en": "AI Sisters · 16-Character Pet Pack",
+        "ja": "AI 姉妹ペット · 16キャラクター拡張"
+      },
+      "summary": {
+        "zh": "基于 dsh-pet 的角色扩展包。作者列出 16 位角色与 272 段透明动画，已核对固定版文心和元宝头像。",
+        "en": "An extension pack for dsh-pet. The creator lists 16 characters and 272 transparent animations. The pinned ERNIE and Yuanbao avatars were hashed.",
+        "ja": "dsh-pet の拡張パック。作者は16キャラクターと272本の透過アニメを掲載。固定版の文心・元宝アバターを照合。"
+      },
+      "rights": {
+        "zh": "仓库许可文件为 MIT，并注明生成辅助与 dsh-pet 上游。文心与元宝图件相关的角色原设和第三方权利仍按各自出处核对。",
+        "en": "The repository uses MIT language and documents AI assistance and dsh-pet upstream attribution. Check individual sources for underlying designs and third-party rights.",
+        "ja": "リポジトリは MIT と記載し、生成支援と上流 dsh-pet への謝辞を掲載。文心・元宝の原案や第三者の権利は各出典を参照。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/ai-sisters-sixteen-pet-pack.json",
+        "sha256": "a1271007938b02adc79ea29a5778772372d11b5fee6276cb8ffa5ea3689ac0d6",
+        "kind": "browser-metadata-extract"
+      },
+      "addedAt": "2026-11-22",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "relations": [
+        {
+          "role": "license",
+          "title": "LICENSE",
+          "url": "https://github.com/linyucion/dsh-pet-ai-sisters/blob/c4755e527070c46c7419f199b8907467d5def588/LICENSE"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T15:33:03.162Z",
+        "httpStatus": 200,
+        "scope": "Pinned README, licensing documents and available file-specific evidence checked."
       }
     }
   ]

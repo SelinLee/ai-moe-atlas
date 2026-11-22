@@ -1,0 +1,44 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:29:26.252Z",
+  "url": "https://www.bilibili.com/opus/1242051735409655810",
+  "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1242051735409655810",
+  "bodySha256": "e61b3f4b5dc0c6801958616137b0343381f275d75e5811000db91750d18347ff",
+  "sourceIdentity": {
+    "id": "1242051735409655810",
+    "author": "甶丶",
+    "mid": 1758596086,
+    "publishedAt": "2026-08-29T17:55:05.000Z"
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "files": [
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/3821dc4c0f595c0a2c6b7aeffa14fbb21758596086.png",
+      "position": 1,
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:30:19.519Z",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "bytes": 1723846,
+      "sourceSha256": "4d70fe4dd90ded5e05c56adbfa16db9d084f443cfc8f7f01d73a9493644b76f4"
+    }
+  ],
+  "previousEvidence": {
+    "path": "content/research/2026-11-20/shi-hunyuan-design.json",
+    "sha256": "f9c73c7d3ffbec29a54a10144a64ae999cddfb6b218b3202b44403010e9fa225",
+    "kind": "browser-metadata-extract"
+  },
+  "officialProduct": {
+    "id": "hunyuan-official",
+    "url": "https://hunyuan.tencent.com/",
+    "finalUrl": "https://hunyuan.tencent.com/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T15:31:15.633Z",
+    "title": "腾讯混元",
+    "matchingLines": [],
+    "byline": null,
+    "htmlSha256": "e504423f9f3315f01cdaf6b27720c4bb58cba5a8215e1303c3d9ee3e32bdf7c0"
+  },
+  "scope": "All source attachments checked in their published order."
+}

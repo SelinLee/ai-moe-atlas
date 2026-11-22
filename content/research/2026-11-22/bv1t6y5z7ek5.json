@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:30:08.318Z",
+  "url": "https://www.bilibili.com/video/BV1t6y5z7EK5/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1t6y5z7EK5",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1t6y5z7EK5",
+    "title": "勿忘我：这里有你最爱的白饭和token",
+    "owner": {
+      "name": "_黄小小_",
+      "mid": 3493139983633297
+    },
+    "pubdate": 1795350564,
+    "duration": 30
+  },
+  "descriptionSha256": "d1591edc097b473d31383fb0d009acc98dd2d3de13b03596a58db32983f68abf",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "title": "勿忘我：这里有你最爱的白饭和token",
+    "publisher": "_黄小小_",
+    "observedAt": "2026-11-22T15:29:02.680Z",
+    "httpStatus": 200,
+    "htmlSha256": "5745efda4287307f0ad7fd03f1077f9b7a7151a9be7b84238efbd308399de0b2"
+  }
+}

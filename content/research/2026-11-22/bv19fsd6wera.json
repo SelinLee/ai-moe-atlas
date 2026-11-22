@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:30:07.889Z",
+  "url": "https://www.bilibili.com/video/BV19fsD6wERA/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19fsD6wERA",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV19fsD6wERA",
+    "title": "“侠士，小元元来找你玩啦～”（草稿）",
+    "owner": {
+      "name": "秋分冬至清净",
+      "mid": 2039240056
+    },
+    "pubdate": 1795022244,
+    "duration": 73
+  },
+  "descriptionSha256": "8d34bfcaef6ad018d6f5ff728d6683161b7ba326e780a1da555be56c0f47b0e0",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E6%B7%B7%E5%85%83%E5%A8%98%20AI%E5%A8%98&order=pubdate",
+    "title": "“侠士，小元元来找你玩啦～”（草稿）",
+    "publisher": "秋分冬至清净",
+    "observedAt": "2026-11-22T15:28:51.961Z",
+    "httpStatus": 200,
+    "htmlSha256": "5cb67a7cec4f732b1bebbc4346d5f7b3dce244cfb55d075f7a964258979dd83e"
+  }
+}

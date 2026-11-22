@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:30:07.848Z",
+  "url": "https://www.bilibili.com/video/BV1qPy7zzEri/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qPy7zzEri",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1qPy7zzEri",
+    "title": "ai娘的欧洲之旅行",
+    "owner": {
+      "name": "关于我昵称消失这码事",
+      "mid": 508607497
+    },
+    "pubdate": 1795360279,
+    "duration": 17
+  },
+  "descriptionSha256": "a599393b055129a6108cff2d3e81c9163664cfe26dff3f7566b001027d1b1ebc",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "title": "ai娘的欧洲之旅行",
+    "publisher": "关于我昵称消失这码事",
+    "observedAt": "2026-11-22T15:29:02.680Z",
+    "httpStatus": 200,
+    "htmlSha256": "5745efda4287307f0ad7fd03f1077f9b7a7151a9be7b84238efbd308399de0b2"
+  }
+}

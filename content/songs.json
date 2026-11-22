@@ -68,7 +68,8 @@
       {"id": "bv1dw4q6vegq", "type": "cover"},
       {"id": "bv1zdxs6ue4j", "type": "cover"},
       {"id": "bv11fsc6be2h", "type": "cover"},
-      {"id": "bv1dhwj6venx", "type": "cover"}
+      {"id": "bv1dhwj6venx", "type": "cover"},
+      {"id": "bv1evsb6fevj", "type": "mv"}
     ]
   },
   {
@@ -165,7 +166,7 @@
     "id": "uptown-funk",
     "title": {"zh": "Uptown Funk", "en": "Uptown Funk", "ja": "Uptown Funk"},
     "original": {"credit": "Mark Ronson feat. Bruno Mars", "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0"},
-    "versions": [{"id": "bv18cnp6yeyi", "type": "mv"}, {"id": "bv1jqhv6hexk", "type": "dance"}]
+    "versions": [{"id": "bv18cnp6yeyi", "type": "mv"}, {"id": "bv1jqhv6hexk", "type": "dance"}, {"id": "bv1nmnj6eebn", "type": "mv"}]
   },
   {
     "id": "i-will-wait",
@@ -388,5 +389,23 @@
     "title": {"zh": "MAdEaR MAdEaR", "en": "MAdEaR MAdEaR", "ja": "MAdEaR MAdEaR"},
     "original": {"credit": "SLAVE.V-V-R · Acacia OST", "url": "https://www.fwinc.co.jp/manosaba_CD/haishin"},
     "versions": [{"id": "bv1tdypzkej1", "type": "cover"}]
+  },
+  {
+    "id": "wings-that-wont-burn-away",
+    "title": {"zh": "灼烧不落之翼", "en": "Wings That Won’t Burn Away", "ja": "灼け落ちない翼"},
+    "original": {"credit": "多田 葵 · 麻枝 准", "url": "https://charlotte-anime.jp/music/ed/"},
+    "versions": [{"id": "bv1dnw66eemb", "type": "mv"}]
+  },
+  {
+    "id": "bloom-manosaba",
+    "title": {"zh": "bloom · 魔法少女的魔女审判", "en": "bloom · Magical Girl Witch Trials", "ja": "bloom · 魔法少女ノ魔女裁判"},
+    "original": {"credit": "三木谷奈々 · daiki", "url": "https://www.fwinc.co.jp/manosaba_CD/haishin"},
+    "versions": [{"id": "bv1slw66oeqs", "type": "mv"}]
+  },
+  {
+    "id": "unhappy-s0rrow",
+    "title": {"zh": "unhappy", "en": "unhappy", "ja": "unhappy"},
+    "original": {"credit": "s0rrow", "url": "https://music.apple.com/de/album/6790708388"},
+    "versions": [{"id": "bv166ybzcevr", "type": "remix"}]
   }
 ]

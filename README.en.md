@@ -22,11 +22,11 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 ## Resource directory
 
 <!-- category-picks:characters -->
-**[🎨 Character atlas](#characters)** · 34 entries\
+**[🎨 Character atlas](#characters)** · 38 entries\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/) · [MiMo Girl · 甶丶](https://selinlee.github.io/ai-moe-atlas/en/characters/fuh-mimo/) · [Mingyue · Shangshan](https://selinlee.github.io/ai-moe-atlas/en/characters/shangshan-whale/)
 
 <!-- category-picks:songs -->
-**[🎵 Songs](#songs)** · 57 tracks\
+**[🎵 Songs](#songs)** · 60 tracks\
 [Humans Are Cats](https://selinlee.github.io/ai-moe-atlas/en/songs/#humans-are-cats) · [Let Me Go · Fat Fish’s Slacking Song](https://selinlee.github.io/ai-moe-atlas/en/songs/#let-me-go) · [APT.](https://selinlee.github.io/ai-moe-atlas/en/songs/#apt-rose)
 
 <!-- category-picks:references -->
@@ -34,24 +34,24 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 [Claude reference sheet](https://selinlee.github.io/ai-moe-atlas/en/references/#claude) · [DeepSeek chibi turnaround](https://selinlee.github.io/ai-moe-atlas/en/chibi/#deepseek) · [Qwen chibi turnaround](https://selinlee.github.io/ai-moe-atlas/en/chibi/#qwen)
 
 <!-- category-picks:animations -->
-**[🎬 Animation & fan videos](#animations)** · 653 records\
+**[🎬 Animation & fan videos](#animations)** · 665 records\
 [What If the Chat Window Were Her Whole World?](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1xcai6ae9g) · [Too Many Losing AIs! · Fan PV](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1nfag6xehq) · [甶丶 · MiMo Girl Character PV](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1eran6xeer)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 Pets & interactive projects](#desktop-pets)** · 109 projects\
+**[🐾 Pets & interactive projects](#desktop-pets)** · 112 projects\
 [CrossPet · Cross-AI desktop companion](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#crosspet) · [Copiwaifu · Live2D coding companion](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#copiwaifu-live2d) · [MIMO Pet · Floating Android Rabbit Girl](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#abl949-mimo-android-pet)
 
 <!-- category-picks:sources -->
-**[📚 Creator works & sources](#sources)** · 76 sources\
+**[📚 Creator works & sources](#sources)** · 77 sources\
 [Shangshan · Whale Girl original](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI Girl collection](https://www.pixiv.net/artworks/148186519) · [甶丶 · MiMo portrait and turnaround submission](https://github.com/lmy414/ai-girl-stickers/issues/35)
 
 <a id="characters"></a>
 
 ### 🎨 Character atlas
 
-Find characters, creators and original works across 16 AI products. [View the Muse Girl entry](https://selinlee.github.io/ai-moe-atlas/en/characters/shizhi-muse/) · [Mistral Baguette Cat Girl](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-mistral/) · [OpenCode personification](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-opencode/) · [MiMo Girl · 甶丶](https://selinlee.github.io/ai-moe-atlas/en/characters/fuh-mimo/)
+Find characters, creators and original works across 19 AI products. [View the Muse Girl entry](https://selinlee.github.io/ai-moe-atlas/en/characters/shizhi-muse/) · [Mistral Baguette Cat Girl](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-mistral/) · [OpenCode personification](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-opencode/) · [MiMo Girl · 甶丶](https://selinlee.github.io/ai-moe-atlas/en/characters/fuh-mimo/)
 
-New character entries · [Coco](https://selinlee.github.io/ai-moe-atlas/en/characters/ninon-coco/) · [Gemini Pro](https://selinlee.github.io/ai-moe-atlas/en/characters/qinv-gemini-pro/) · [MiniMax Space Bunny](https://selinlee.github.io/ai-moe-atlas/en/characters/shiho320-minimax-space-bunny/)
+New character entries · [Coco](https://selinlee.github.io/ai-moe-atlas/en/characters/ninon-coco/) · [Gemini Pro](https://selinlee.github.io/ai-moe-atlas/en/characters/qinv-gemini-pro/) · [MiniMax Space Bunny](https://selinlee.github.io/ai-moe-atlas/en/characters/shiho320-minimax-space-bunny/) · [Hunyuan Girl](https://selinlee.github.io/ai-moe-atlas/en/characters/aliang-hunyuan/) · [LongCat](https://selinlee.github.io/ai-moe-atlas/en/characters/fuh-longcat/) · [Baidu ERNIE](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-ernie/)
 
 [Filter online](https://selinlee.github.io/ai-moe-atlas/en/#catalog) · [Trilingual character records](content/characters.json) · [AI product index](content/entities.json)
 
@@ -80,7 +80,7 @@ The top ten tracks by the highest total likes on a listed version. Observation t
 
 <!-- song-ranking:end -->
 
-[Original music sources](content/research/2026-11-20/gemini-mv-original-music.json) · [Song and version verification](content/research/2026-11-20/song-originals-and-fan-versions.json) · [Opening-theme and fan-version credits](content/research/2026-11-20/character-songs-and-opening-credits.json) · [Dance and lyric MV song credits](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [Greenhouse Effect original and fan MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [Four original tracks and fan versions](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [Doubao covers and ending theme sources](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [Qwen, MiMo and dance track sources](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [Music sources for “APT.” and “Deleted a Hundred Times”](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [Cover and game music sources](content/research/2026-11-22/november-cover-song-originals-and-versions.json)
+[Original music sources](content/research/2026-11-20/gemini-mv-original-music.json) · [Song and version verification](content/research/2026-11-20/song-originals-and-fan-versions.json) · [Opening-theme and fan-version credits](content/research/2026-11-20/character-songs-and-opening-credits.json) · [Dance and lyric MV song credits](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [Greenhouse Effect original and fan MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [Four original tracks and fan versions](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [Doubao covers and ending theme sources](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [Qwen, MiMo and dance track sources](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [Music sources for “APT.” and “Deleted a Hundred Times”](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [Cover and game music sources](content/research/2026-11-22/november-cover-song-originals-and-versions.json) · [Sources for Charlotte, bloom and unhappy](content/research/2026-11-22/november-charlotte-bloom-and-remix-evidence.json)
 
 <a id="references"></a>
 
@@ -117,7 +117,7 @@ The top ten by Bilibili’s official cumulative likes. Ties use publication date
 
 <!-- animation-ranking:end -->
 
-Rechecked all 623 previously ranked videos, updated counts for 616, and added 30 works with official total likes. Seven older works retain their last successful counts, and nine candidates await counts. [Scope of the full recheck](content/research/2026-11-22/bilibili-full-catalog-and-november-discoveries-scope.json)
+Added 12 works with official total likes. Seven older works retain their last successful counts, and nine candidates await counts. [Scope of this like recheck](content/research/2026-11-22/bilibili-hunyuan-longcat-and-song-candidates-scope.json)
 
 <a id="desktop-pets"></a>
 
@@ -138,7 +138,7 @@ The top ten by GitHub stars as checked on 2026-11-22. Ties are sorted by reposit
 | 9 | [Whale Girl · web and desktop companion](https://github.com/vlln/whale-girl/blob/9c32d7a39a45148076f8ad2fdaad2dc2420eedb3/README.zh.md) | [413](https://github.com/vlln/whale-girl) |
 | 10 | [AgentPet · Multi-Agent Desktop Companion](https://github.com/ntd4996/agentpet/blob/1b5c0df923090ab3bf763bd2ff2d2a04855572d6/README.md) | [408](https://github.com/ntd4996/agentpet) |
 
-[Browse all pets and interactive projects](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-22/github-interactive-stars-agent-stage-and-petdex.json)
+[Browse all pets and interactive projects](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-22/github-interactive-stars-hunyuan-and-ernie-projects.json)
 
 For both the cross-platform and native Android ports, 106 compatibility clips match the respective pinned upstream trees. The upstream revisions restrict commercial use, and each port’s notice lists MIT for those clips. [Desktop pet animation provenance](content/research/2026-11-21/dsh-pet-shared-animation-file-provenance.json)
 
@@ -147,7 +147,7 @@ The two theme references match the SHA-256 hashes of the files from ZipZipPipe�
 The LFS hashes for all 106 Whale Girl animations in the pinned seven-character pet match the upstream files. Two served clips were checked separately. The asset notice lists the GLM and other character adaptations separately. [Seven-character pet animation verification](content/research/2026-11-21/seven-character-pet-lfs-provenance.json)
 
 <details>
-<summary>Show all 109 projects and sources</summary>
+<summary>Show all 112 projects and sources</summary>
 
 | Project | Content | Publisher |
 | --- | --- | --- |
@@ -260,6 +260,9 @@ The LFS hashes for all 106 Whale Girl animations in the pinned seven-character p
 | [Agent Stage · Multi-Agent Motion Board](https://github.com/gaomails2024/agent-stage/blob/1f7ff63f247a577b2006b39cdba137fc129ad222/README.md) | A stage board showing multiple assistants’ states. The creator’s standard-motion archive covers ten characters, including Grok, DeepSeek and Doubao. | gaomails2024 |
 | [OpenPets · Local Desktop Pet Platform](https://github.com/OpenPetsHQ/openpets/blob/9153e40ed37617243f903b074161d7df4bbd27b0/README.md) | A local-first desktop pet platform with animated characters, plugins and coding-tool status integrations. | OpenPetsHQ |
 | [Petdex · Animated Pet Gallery and Tools](https://github.com/crafter-station/petdex/blob/146ed0b86fc930ee81d48f7f6b1dc1e2be1e8135/README.md) | A public animated-pet gallery with a documented package format and local renderer for Codex, Claude Code and other tools. | crafter-station |
+| [Model Theme · 16 DSH Companion Sets](https://github.com/HD1014/dsh-model-theme/blob/f624806af5f2750d981fcd683e9ea0569fff3d93/README.md) | Switching models also changes themes, backgrounds and pets. The pinned README lists Yuanbao, Baidu ERNIE and Hailuo among the sets. | HD1014 |
+| [Nienie Pet · Interactive 3D Desktop Pet](https://github.com/USER-HFC/nienie-pet/blob/de16b259990d5db38f78e40da134d0d0f06b0af0/README.md) | A web and Windows desktop pet experiment with soft-body, clay and liquid modes. The project integrates Tencent Hunyuan and Tripo for 3D generation. | USER-HFC |
+| [AI Sisters · 16-Character Pet Pack](https://github.com/linyucion/dsh-pet-ai-sisters/blob/c4755e527070c46c7419f199b8907467d5def588/README.md) | An extension pack for dsh-pet. The creator lists 16 characters and 272 transparent animations. The pinned ERNIE and Yuanbao avatars were hashed. | linyucion |
 
 Source links only. Artwork follows its own upstream terms; code licenses do not automatically cover character images.
 
@@ -278,6 +281,7 @@ See also ZipZipPipe’s [source and usage statement](https://t.bilibili.com/1231
 
 Newly added:
 
+- [阿亮今年必发财 · Hunyuan Girl Chibi Design](https://www.bilibili.com/opus/1270053526331981826) · The creator describes their own Hunyuan Girl design in a multi-character post, with a Lolita outfit and penguin-inspired details. All 20 images in the post were hashed. The creator assigns CC BY-NC-SA 4.0 to their Hunyuan design. Check the individual sources for the other characters. [Verification record](content/research/2026-11-22/aliang-hunyuan-chibi-and-license.json)
 - [Gemini Pro ver1.00 · 我已经有杰米奈了](https://www.pixiv.net/artworks/150323370) · Verified the 1076 × 1462 JPEG from the creator’s Pixiv post. Three PNGs from the creator’s GitHub submission have their own retained hashes. The Pixiv post declares CC BY-NC-SA 4.0. The separate school-uniform submission has its own source terms. [Verification record](content/research/2026-11-22/qinv-gemini-pro-pixiv-and-submission.json)
 - [Coco · Design and Expression Sheets](https://github.com/lmy414/ai-girl-stickers/issues/120) · Ninon introduces Coco as a small character living in a computer terminal. The two sheets cover outfits, daily gestures and eight expressions. The creator declares CC BY-NC 4.0 and documents GPT generation and hairclip retouching. The atlas credits and links to the submission. [Verification record](content/research/2026-11-22/ninon-coco-design-submission.json)
 - [Space Bunny · MiniMax](https://github.com/lmy414/ai-girl-stickers/issues/129) · Shiho320 identifies the work as a MiniMax fan design and attaches a 2016 × 3584 PNG. The submission allows the receiving archive to collect the work after review. File-specific reuse terms remain open. [Verification record](content/research/2026-11-22/shiho320-minimax-space-bunny-source.json)
@@ -291,12 +295,12 @@ Newly added:
 - [三重野chiame · Whale Girl Live2D release demo](https://www.bilibili.com/video/BV1stxa6eESB/) · The uploader credits their own illustration and rig, allows derivatives and commercial livestreaming, and prohibits sales. The upstream template and redistribution terms are pending. [Creator credits and release terms](content/research/2026-11-20/whale-live2d-and-claude-chibi-provenance.json)
 - [识知不失智 · Muse Girl Original Character PV](https://www.bilibili.com/video/BV1jEnD6RE1t/) · The uploader states CC BY 4.0 for their Muse Girl illustration and design and specifies credit to 识知不失智. Meta brand elements and Jolly have separate ownership. Video and audio are linked to the upload. [Verification](content/research/2026-11-20/bv1jend6re1t.json)
 - [Muse Girl · Design Sheet and File Sources](https://xn--pssy23gqgbz2d718b.com/works/other202611130007.html) · Links the promotional sheet, design breakdown and five poses or expressions. SHA-256 was verified for all seven pinned archive files, alongside the creator’s announcement and terms. [Verification](content/research/2026-11-20/muse-girl-archive-and-rights.json)
-- [LongCat · 甶丶’s Revised Design](https://www.bilibili.com/opus/1262838853165645826) · The creator’s later LongCat post includes 13 images, following their single-image August post. [Verification](content/research/2026-11-20/shi-longcat-revised-design.json)
+- [LongCat · 甶丶’s Revised Design](https://www.bilibili.com/opus/1262838853165645826) · The creator published further LongCat artwork in October. All 13 source files were hashed in post order, with links to the August portrait and character roundup. The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked. [Verification record](content/research/2026-11-22/shi-longcat-revised-design-file-verification.json)
 - [MOSS-Image · 甶丶’s Original Design](https://www.bilibili.com/opus/1265454286364475399) · The creator’s article explains the Jacob’s staff, telescope and two designs, with 13 images. [Verification](content/research/2026-11-20/shi-moss-image-design.json)
 - [Diandian · 甶丶’s Original Design](https://www.bilibili.com/opus/1262407612636332038) · The creator identifies this as a personification of dots. The first of 13 images shows a red hood and wolf ears. [Verification](content/research/2026-11-20/shi-diandian-design.json)
 - [Ant Ling · 甶丶’s Original Design](https://www.bilibili.com/opus/1258423639675502601) · The creator’s Day 3 post includes nine images. The first shows a blue-and-black outfit, a key and a distinct shadow silhouette. [Verification](content/research/2026-11-20/shi-ant-ling-design.json)
 - [Unisound U2-Flash · 甶丶’s Original Design](https://www.bilibili.com/opus/1257685897406578689) · The first image is labeled UNISOUND U2-FLASH. The creator describes three proportions each for the fantasy and sci-fi designs, plus casual attire. [Verification](content/research/2026-11-20/shi-unisound-u2-design.json)
-- [Tencent Hunyuan · 甶丶’s Character Illustration](https://www.bilibili.com/opus/1242051735409655810) · A blue-and-white outfit with a red scarf. The creator describes using GPT Image with manual touch-ups. [Verification](content/research/2026-11-20/shi-hunyuan-design.json)
+- [Tencent Hunyuan · 甶丶’s Character Illustration](https://www.bilibili.com/opus/1242051735409655810) · 甶丶’s Hunyuan Girl wears a blue and white outfit with a red scarf. The creator credits GPT Image and manual edits. The 1024 × 1536 PNG was checked by hash. The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked. [Verification record](content/research/2026-11-22/shi-hunyuan-design-file-verification.json)
 - [Gemini Cat Girl · Reactions and Earless Variants](https://www.bilibili.com/opus/1264669110489317411) · Xx勿忘xX published Gemini Cat Girl reactions and earless variants, crediting zipzip for the original design. [Verification](content/research/2026-11-20/xxwuwang-gemini-expressions.json)
 - [MiMo Rabbit Girl · Orange-and-Black Witch](https://xn--pssy23gqgbz2d718b.com/works/mimo202611180001.html) · Two archive pages show a full-body portrait and front, side and back views. The displayed image credits read “甶” and “甶、” respectively. [Verification](content/research/2026-11-20/mimo-witch-portrait-turnaround.json)
 - [No Ordinary Love · antrofrog’s Film and Production Notes](https://www.krea.ai/blog/how-antrofrog-made-no-ordinary-love) · Krea’s production notes link antrofrog’s original upload and tool credits, the source cited by Bilibili character adaptations. [Verification](content/research/2026-11-20/antrofrog-no-ordinary-love-notes.json)
@@ -331,7 +335,7 @@ Newly added:
 - [CrossPet · artwork terms and design credits](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/LICENSE.md) · CrossPet declares CC BY-NC-SA 4.0 for contributions it can license, with project and upstream creator credits required. The creator of the separate GLM fox video variant remains unverified.
 - [“Let Me Go” code animation · production and credits](https://github.com/beidou070/let-me-go-code-mv/blob/9cfba6f73e31390b442734a3fa3e7651c78244ae/README.md) · The project separates its code, character adaptations and music terms. It makes source code available to read and specifies no general open-source grant for its own code.
 - [雾雪 · original Fat Fish and GPT-girl sticker publication](https://www.bilibili.com/video/BV13xnt6QE6s/) · The creator’s making-of post links to kiriyuki.com. Their sticker index lists a Fat Fish solo set and a Fat Fish/GPT-girl duo set. The sticker artwork and plugin annotation data have separate terms. The creator site and artwork notice are linked for review.
-- [ZipZipPipe · ERNIE and Claude cover source](https://www.bilibili.com/video/BV1mwRzBdEzk/) · The creator identifies the cover’s blue-haired character as Baidu ERNIE and the orange-haired one as Claude in the description of the AI-girl sticker video. The description’s CC BY-NC-SA 4.0 statement explicitly covers the whale-girl adaptation. Item-specific redistribution terms for the ERNIE and Claude cover art await verification.
+- [ZipZipPipe · ERNIE and Claude cover source](https://www.bilibili.com/video/BV1mwRzBdEzk/) · ZipZipPipe identifies the blue-haired cover character as Baidu ERNIE and the orange-haired one as Claude. The 2560 × 1440 cover JPEG was checked by hash. The description’s CC BY-NC-SA 4.0 statement explicitly covers the whale-girl adaptation. Item-specific redistribution terms for the ERNIE and Claude cover art await verification. [Verification record](content/research/2026-11-22/zipzippipe-ernie-cover-source-file-verification.json)
 - [Kamiya Ryoko · original DeepSeek-chan Live2D release](https://www.bilibili.com/video/BV1KmxY66EZ3/) · Kamiya Ryoko’s Live2D and PSD release names the illustrator, rigger, video editor and upstream character designers. The bundled terms allow credited personal livestreams, videos and platform monetization. Brand promotion or paid-product uses require contacting the creator. Resale and unauthorized re-upload of the complete model are prohibited.
 - [灿灿同学 · video character gallery](https://www.bilibili.com/opus/1259662694779191301) · The creator labels eleven characters, including Kimi, Grok, GLM, Seed, MiMo and MiniMax. Most original designs are credited to ZipZipPipe, and GPT was used for the displayed adaptations. The gallery gives a general design credit. Item-specific source mapping and redistribution terms await verification.
 - [莫末陌寞 · original Gemini chat sticker post](https://www.bilibili.com/video/BV1F34G6BEVA/) · The creator’s Gemini chat sticker post lists 64 stickers in the title and credits ZipZipPipe for the character design. The post provides an access route. Independent redistribution and sticker-specific terms await verification.
@@ -363,6 +367,7 @@ Newly added:
 
 | Date / status | Progress |
 | --- | --- |
+| 2026-11-22 · Hunyuan, LongCat and ERNIE | Added four characters, 12 fan works, three tracks and three interactive projects. Verified 阿亮’s Hunyuan terms, 13 LongCat files by 甶丶 and ZipZipPipe’s ERNIE cover. |
 | 2026-11-22 · Full like recheck and new sources | Updated 616 ranked entries and added 30 fan works, five tracks, three characters, eight creator sources and three interactive projects. Verified the ten Agent Stage animations. |
 | 2026-11-22 · MiMo artwork, songs and like rechecks | Added a MiMo character, 20 fan works, two tracks and three interactive projects. Refreshed 15 ranked counts and verified the portrait and turnaround submitted by 甶丶. |
 | 2026-11-21 · OpenCode, songs and like rechecks | Added an OpenCode entry, 20 fan works with official counts, two tracks and three interactive projects. Updated counts for 23 ranked works and checked nine originals in ZipZipPipe’s second collection. |

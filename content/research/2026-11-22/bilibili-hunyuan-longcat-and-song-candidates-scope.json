@@ -1,0 +1,126 @@
+{
+  "checkedAt": "2026-11-22T15:30:25.109Z",
+  "newlyVerified": 12,
+  "existingUnavailable": 7,
+  "pendingUnavailable": 9,
+  "previousEvidence": {
+    "path": "content/research/2026-11-22/bilibili-cumulative-likes-full-catalog-and-november-discoveries.json",
+    "sha256": "0df21abe52c7864aa0e1c46474f5af28f8f2f14db217ca5ffc5046a477fb50a0",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-22/bilibili-cumulative-likes-hunyuan-longcat-and-song-candidates.json",
+    "sha256": "24638a67cd3d20db355c96df0d9cfa5c5367c57ef23a8ae883e931fd427eb2ea",
+    "kind": "browser-metadata-extract"
+  },
+  "discovery": [
+    {
+      "bvid": "BV1Qzs46oEjJ",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E6%B7%B7%E5%85%83%E5%A8%98%20AI%E5%A8%98&order=pubdate",
+      "title": "小元元（混元娘）吹泡泡",
+      "publisher": "秋分冬至清净",
+      "observedAt": "2026-11-22T15:28:51.961Z",
+      "httpStatus": 200,
+      "htmlSha256": "5cb67a7cec4f732b1bebbc4346d5f7b3dce244cfb55d075f7a964258979dd83e"
+    },
+    {
+      "bvid": "BV19fsD6wERA",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E6%B7%B7%E5%85%83%E5%A8%98%20AI%E5%A8%98&order=pubdate",
+      "title": "“侠士，小元元来找你玩啦～”（草稿）",
+      "publisher": "秋分冬至清净",
+      "observedAt": "2026-11-22T15:28:51.961Z",
+      "httpStatus": 200,
+      "htmlSha256": "5cb67a7cec4f732b1bebbc4346d5f7b3dce244cfb55d075f7a964258979dd83e"
+    },
+    {
+      "bvid": "BV1FKsX6jErH",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=LongCat%20%E9%BE%99%E7%8C%AB%20%E6%8B%9F%E4%BA%BA&order=pubdate",
+      "title": "PVZ-AI 版：新AI - 龙猫 (LongCat)",
+      "publisher": "葡萄皮核桃",
+      "observedAt": "2026-11-22T15:28:51.964Z",
+      "httpStatus": 200,
+      "htmlSha256": "bbacd6a7dc8f1bcd699cbc2a7904c516bc6b0e7f3be287b58e3aef6294954e1e"
+    },
+    {
+      "bvid": "BV1gJy7zbEbr",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "自己做饭还想着给大肥鱼第一口，人真好",
+      "publisher": "mikuuukl",
+      "observedAt": "2026-11-22T15:29:02.680Z",
+      "httpStatus": 200,
+      "htmlSha256": "5745efda4287307f0ad7fd03f1077f9b7a7151a9be7b84238efbd308399de0b2"
+    },
+    {
+      "bvid": "BV1qPy7zzEri",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "ai娘的欧洲之旅行",
+      "publisher": "关于我昵称消失这码事",
+      "observedAt": "2026-11-22T15:29:02.680Z",
+      "httpStatus": 200,
+      "htmlSha256": "5745efda4287307f0ad7fd03f1077f9b7a7151a9be7b84238efbd308399de0b2"
+    },
+    {
+      "bvid": "BV1HSy5z3EK6",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "大肥鱼与猫猫",
+      "publisher": "落星归宿",
+      "observedAt": "2026-11-22T15:29:02.680Z",
+      "httpStatus": 200,
+      "htmlSha256": "5745efda4287307f0ad7fd03f1077f9b7a7151a9be7b84238efbd308399de0b2"
+    },
+    {
+      "bvid": "BV1t6y5z7EK5",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "勿忘我：这里有你最爱的白饭和token",
+      "publisher": "_黄小小_",
+      "observedAt": "2026-11-22T15:29:02.680Z",
+      "httpStatus": 200,
+      "htmlSha256": "5745efda4287307f0ad7fd03f1077f9b7a7151a9be7b84238efbd308399de0b2"
+    },
+    {
+      "bvid": "BV1nMnj6eEbN",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%B1%86%E5%8C%85%E5%A8%98%20%E5%A5%B6%E9%BE%99%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "title": "豆包Deepseek肥鱼和ai娘们激情演唱《Uptown Funk》",
+      "publisher": "凌云志ing",
+      "observedAt": "2026-11-22T15:29:02.607Z",
+      "httpStatus": 200,
+      "htmlSha256": "e0eb96fca6e7b7274144d9470f8d246fcc8b72bc022f1a672d95281a39e3a5c3"
+    },
+    {
+      "bvid": "BV1evsB6FEVj",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%90%8C%E4%BA%BA%20MV&order=pubdate",
+      "title": "【推理回战】硅谷决战｜GPT Astra vs Claude Fable（雨爱版）",
+      "publisher": "薇纷芳橙",
+      "observedAt": "2026-11-22T15:29:02.618Z",
+      "httpStatus": 200,
+      "htmlSha256": "dd4d38a93c9db08b8ebe8c249539a01137235ff86fc4ba2c0d5f5cb6f0c4503f"
+    },
+    {
+      "bvid": "BV1SLW66oEQS",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%90%8C%E4%BA%BA%20MV&order=pubdate",
+      "title": "【双字/AIMV】《bloom》｜Claude×Deepseek×GPT | 我会永远待在你身边",
+      "publisher": "桧木H1nOKl",
+      "observedAt": "2026-11-22T15:29:02.618Z",
+      "httpStatus": 200,
+      "htmlSha256": "dd4d38a93c9db08b8ebe8c249539a01137235ff86fc4ba2c0d5f5cb6f0c4503f"
+    },
+    {
+      "bvid": "BV1dNW66eEMB",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%90%8C%E4%BA%BA%20MV&order=pubdate",
+      "title": "【双字/AIMV】Claude×Deepseek《灼け落ちない翼（灼烧不落之翼）》｜Charlotte ED",
+      "publisher": "桧木H1nOKl",
+      "observedAt": "2026-11-22T15:29:02.618Z",
+      "httpStatus": 200,
+      "htmlSha256": "dd4d38a93c9db08b8ebe8c249539a01137235ff86fc4ba2c0d5f5cb6f0c4503f"
+    },
+    {
+      "bvid": "BV1D2Wo66EsS",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%90%8C%E4%BA%BA%20MV&order=pubdate",
+      "title": "Claude的完美约会计划！【AI拟人】",
+      "publisher": "Takina142",
+      "observedAt": "2026-11-22T15:29:02.618Z",
+      "httpStatus": 200,
+      "htmlSha256": "dd4d38a93c9db08b8ebe8c249539a01137235ff86fc4ba2c0d5f5cb6f0c4503f"
+    }
+  ]
+}

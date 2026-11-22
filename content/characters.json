@@ -2250,5 +2250,229 @@
       "en": "The submission allows the receiving archive to collect the work after review. File-specific reuse terms remain open.",
       "ja": "投稿先が確認後に収録することを許可。ファイル別の再利用条件は確認待ち。"
     }
+  },
+  {
+    "id": "fuh-longcat",
+    "entity": "longcat",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "LongCat 龙猫 · 甶丶",
+      "en": "LongCat · 甶丶",
+      "ja": "LongCat 龍猫 · 甶丶"
+    },
+    "description": {
+      "zh": "甶丶发布的美团 LongCat 社区拟人形象。",
+      "en": "A fan personification of Meituan’s LongCat published by 甶丶.",
+      "ja": "甶丶が公開した美団 LongCat の二次創作擬人化。"
+    },
+    "story": {
+      "zh": "作者先在 8 月发布单张立绘，10 月又发布 13 张设定图。后续盘点视频再次点名 LongCat。",
+      "en": "The creator published an August portrait and a thirteen-image October follow-up, then named LongCat in a character roundup.",
+      "ja": "作者は8月に立ち絵、10月に設定資料13枚を公開し、キャラクター紹介動画でも LongCat に言及。"
+    },
+    "features": {
+      "zh": "8 月版可见黄色外套、绿色挑染和猫尾。10 月图集保留逐图来源。",
+      "en": "The August design includes a yellow jacket, green highlights and a cat tail. Each image in the October set has a retained source.",
+      "ja": "8月版は黄色の上着、緑のメッシュ、猫のしっぽが特徴。10月版は資料ごとに出典を記録。"
+    },
+    "author": "甶丶",
+    "authorUrl": "https://space.bilibili.com/1758596086",
+    "source": "https://www.bilibili.com/opus/1262838853165645826",
+    "sourceTitle": "甶丶的动态 - 哔哩哔哩",
+    "originalPublication": "https://www.bilibili.com/opus/1262838853165645826",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1262838853165645826"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1262838853165645826",
+    "downloadable": false,
+    "bg": "#ffefd3",
+    "color": "#805920",
+    "verifiedAt": "2026-11-22",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+      "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+      "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+    }
+  },
+  {
+    "id": "fuh-hunyuan",
+    "entity": "hunyuan",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "腾讯混元娘 · 甶丶",
+      "en": "Tencent Hunyuan Girl · 甶丶",
+      "ja": "Tencent 混元娘 · 甶丶"
+    },
+    "description": {
+      "zh": "甶丶公开发布的腾讯混元拟人立绘。",
+      "en": "A Tencent Hunyuan portrait published by 甶丶.",
+      "ja": "甶丶が公開した Tencent 混元の擬人化立ち絵。"
+    },
+    "story": {
+      "zh": "作者在动态中说明图由 GPT Image 生成，并做了手工修改。",
+      "en": "The creator describes generating the image with GPT Image and editing it by hand.",
+      "ja": "作者は GPT Image で生成して手作業で修正したと説明。"
+    },
+    "features": {
+      "zh": "蓝白服装搭配红色围巾。原帖文件为 1024 × 1536 PNG。",
+      "en": "A blue and white outfit with a red scarf. The source file is a 1024 × 1536 PNG.",
+      "ja": "青白の衣装に赤いマフラー。原投稿は 1024 × 1536 PNG。"
+    },
+    "author": "甶丶",
+    "authorUrl": "https://space.bilibili.com/1758596086",
+    "source": "https://www.bilibili.com/opus/1242051735409655810",
+    "sourceTitle": "混元娘化",
+    "originalPublication": "https://www.bilibili.com/opus/1242051735409655810",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1242051735409655810"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1242051735409655810",
+    "downloadable": false,
+    "bg": "#e3eef9",
+    "color": "#345c93",
+    "verifiedAt": "2026-11-22",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+      "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+      "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+    }
+  },
+  {
+    "id": "aliang-hunyuan",
+    "entity": "hunyuan",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "阿亮今年必发财 · 混元娘 Q 版设定",
+      "en": "阿亮今年必发财 · Hunyuan Girl Chibi Design",
+      "ja": "阿亮今年必发财 · 混元娘ちびキャラ設定"
+    },
+    "description": {
+      "zh": "阿亮今年必发财公开的原创混元娘 Q 版设定。",
+      "en": "An original chibi Hunyuan Girl design published by 阿亮今年必发财.",
+      "ja": "阿亮今年必发财が公開した混元娘のオリジナルちびキャラ設定。"
+    },
+    "story": {
+      "zh": "作者在包含 Kimi、GLM 与千问的合集中公开自己的混元设定，后续两条小元元动画引用了这个版本。",
+      "en": "The creator published their Hunyuan design alongside Kimi, GLM and Qwen. Two Xiaoyuanyuan animations later credited this version.",
+      "ja": "作者は Kimi・GLM・千問とともに自身の混元設定を公開。後に小元元の短編2本がこの版を参照。"
+    },
+    "features": {
+      "zh": "作者注明洛丽塔服装和企鹅元素。合集提供 Q 版三视图。",
+      "en": "The creator notes a Lolita outfit and penguin motifs. The collection includes chibi turnarounds.",
+      "ja": "作者はロリータ調の衣装とペンギンの要素を説明。作品集にはちびキャラの三面図を掲載。"
+    },
+    "author": "阿亮今年必发财",
+    "authorUrl": "https://space.bilibili.com/2757067",
+    "source": "https://www.bilibili.com/opus/1270053526331981826",
+    "sourceTitle": "kimi × GLM × 千问 × 混元ai娘Q版2.2头身/2头身 三视图",
+    "originalPublication": "https://www.bilibili.com/opus/1270053526331981826",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "阿亮今年必发财",
+        "url": "https://space.bilibili.com/2757067",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1270053526331981826"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "downloadable": false,
+    "bg": "#eee6f4",
+    "color": "#724781",
+    "verifiedAt": "2026-11-22",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者将自己设计的混元形象标为 CC BY-NC-SA 4.0。该声明对应混元形象，其他角色按各自出处核对。",
+      "en": "The creator assigns CC BY-NC-SA 4.0 to their Hunyuan design. Check the individual sources for the other characters.",
+      "ja": "作者は自身の混元デザインを CC BY-NC-SA 4.0 と記載。他キャラクターの条件は各出典を参照。"
+    }
+  },
+  {
+    "id": "zipzippipe-ernie",
+    "entity": "ernie",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "百度文心 · ZipZipPipe",
+      "en": "Baidu ERNIE · ZipZipPipe",
+      "ja": "百度文心 · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 在《AI娘的日常》封面点名的百度文心拟人角色。",
+      "en": "ZipZipPipe’s Baidu ERNIE personification identified in the AI Girls’ Daily Life cover.",
+      "ja": "ZipZipPipe が『AI 娘の日常』の表紙で百度文心と明記した擬人化キャラクター。"
+    },
+    "story": {
+      "zh": "作者说明封面的蓝发角色是百度文心，橘发角色是 Claude。",
+      "en": "The creator identifies the blue-haired character as Baidu ERNIE and the orange-haired character as Claude.",
+      "ja": "作者は表紙の青髪を百度文心、橙髪を Claude と説明。"
+    },
+    "features": {
+      "zh": "已核对 2560 × 1440 视频封面。独立立绘出处仍待确认。",
+      "en": "The 2560 × 1440 video cover was verified. A standalone portrait source remains open.",
+      "ja": "2560 × 1440 の動画表紙を照合。単独立ち絵の出典は確認待ち。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/video/BV1mwRzBdEzk/",
+    "sourceTitle": "AI娘的日常（大概?）",
+    "originalPublication": "https://www.bilibili.com/video/BV1mwRzBdEzk/",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/video/BV1mwRzBdEzk/"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/video/BV1mwRzBdEzk/",
+    "downloadable": false,
+    "bg": "#e3edfc",
+    "color": "#32538d",
+    "verifiedAt": "2026-11-22",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "简介中的 CC BY-NC-SA 4.0 声明明确指向鲸鱼娘二创。文心一言和 Claude 封面素材的具体再分发许可待核。",
+      "en": "The description’s CC BY-NC-SA 4.0 statement explicitly covers the whale-girl adaptation. Item-specific redistribution terms for the ERNIE and Claude cover art await verification.",
+      "ja": "説明欄の CC BY-NC-SA 4.0 表示はクジラ娘の二次創作を対象とする。文心一言と Claude の表紙画像の個別再配布条件は確認待ち。"
+    }
   }
 ]

@@ -1,0 +1,34 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:30:08.310Z",
+  "url": "https://www.bilibili.com/video/BV1SLW66oEQS/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SLW66oEQS",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1SLW66oEQS",
+    "title": "【双字/AIMV】《bloom》｜Claude×Deepseek×GPT | 我会永远待在你身边",
+    "owner": {
+      "name": "桧木H1nOKl",
+      "mid": 88425632
+    },
+    "pubdate": 1794882600,
+    "duration": 506
+  },
+  "descriptionSha256": "2ee25f38e3de3d3c1be94219436b815ecd00fed68188dc3b5d69d108c5fc2525",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": [
+    "BV1frRTY8EX7",
+    "BV1rT4G6gE1H",
+    "BV1dNW66eEMB"
+  ],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%90%8C%E4%BA%BA%20MV&order=pubdate",
+    "title": "【双字/AIMV】《bloom》｜Claude×Deepseek×GPT | 我会永远待在你身边",
+    "publisher": "桧木H1nOKl",
+    "observedAt": "2026-11-22T15:29:02.618Z",
+    "httpStatus": 200,
+    "htmlSha256": "dd4d38a93c9db08b8ebe8c249539a01137235ff86fc4ba2c0d5f5cb6f0c4503f"
+  }
+}

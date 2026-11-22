@@ -1,0 +1,78 @@
+{
+  "full_name": "HD1014/dsh-model-theme",
+  "html_url": "https://github.com/HD1014/dsh-model-theme",
+  "stargazers_count": 1,
+  "archived": false,
+  "created_at": "2026-11-21T08:22:18Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "DeepSeek Harness multi-model theme plugin: per-model accents, backgrounds and desktop pets. 多模型主题、主色联动与桌宠跟随。",
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": "NOASSERTION",
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "commit": "f624806af5f2750d981fcd683e9ea0569fff3d93",
+  "observedAt": "2026-11-22T15:29:24.573+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:32:59.250Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/HD1014/dsh-model-theme/blob/f624806af5f2750d981fcd683e9ea0569fff3d93/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/HD1014/dsh-model-theme/f624806af5f2750d981fcd683e9ea0569fff3d93/README.md",
+      "sourceSha256": "e00183b12ef820d3aa329a758d04df6470a936866cc70a27b331de4b6b3eebd9",
+      "gitBlobSha": "6549d437905e9e10aa4ae6f17ab135bd16093397",
+      "bytes": 9135,
+      "commit": "f624806af5f2750d981fcd683e9ea0569fff3d93"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "url": "https://github.com/HD1014/dsh-model-theme/blob/f624806af5f2750d981fcd683e9ea0569fff3d93/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/HD1014/dsh-model-theme/f624806af5f2750d981fcd683e9ea0569fff3d93/LICENSE",
+      "sourceSha256": "ddd471ab3b783034b12dea31267015bf6e1a2de4a262fb7874908f0f3fe92e81",
+      "gitBlobSha": "07ef339d36e3b124eb5034ab48234318c92b40d6",
+      "bytes": 1289,
+      "commit": "f624806af5f2750d981fcd683e9ea0569fff3d93"
+    },
+    "assets/README.md": {
+      "path": "assets/README.md",
+      "url": "https://github.com/HD1014/dsh-model-theme/blob/f624806af5f2750d981fcd683e9ea0569fff3d93/assets/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/HD1014/dsh-model-theme/f624806af5f2750d981fcd683e9ea0569fff3d93/assets/README.md",
+      "sourceSha256": "143018d90f11d92e958bd5d6bbce5ff3f402438fee9c01f3b7923eb8c3d6354d",
+      "gitBlobSha": "057382655103100d45b3401dd87243fdd6b9388d",
+      "bytes": 596,
+      "commit": "f624806af5f2750d981fcd683e9ea0569fff3d93"
+    },
+    "promo/README.md": {
+      "path": "promo/README.md",
+      "url": "https://github.com/HD1014/dsh-model-theme/blob/f624806af5f2750d981fcd683e9ea0569fff3d93/promo/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/HD1014/dsh-model-theme/f624806af5f2750d981fcd683e9ea0569fff3d93/promo/README.md",
+      "sourceSha256": "220a57e55b16a33285f13e8961befe743c93c97e01776ace9be0334f4992c634",
+      "gitBlobSha": "0c18be8c6b3e8af6a9e70e408d59880bc56677b6",
+      "bytes": 1231,
+      "commit": "f624806af5f2750d981fcd683e9ea0569fff3d93"
+    },
+    "docs/使用守则.md": {
+      "path": "docs/使用守则.md",
+      "url": "https://github.com/HD1014/dsh-model-theme/blob/f624806af5f2750d981fcd683e9ea0569fff3d93/docs/%E4%BD%BF%E7%94%A8%E5%AE%88%E5%88%99.md",
+      "rawUrl": "https://raw.githubusercontent.com/HD1014/dsh-model-theme/f624806af5f2750d981fcd683e9ea0569fff3d93/docs/%E4%BD%BF%E7%94%A8%E5%AE%88%E5%88%99.md",
+      "sourceSha256": "a05ef4a0d0e248815d14d280708ff3d62fcbd1028917e1a1d5d2ab3cb7ea99df",
+      "gitBlobSha": "feedcf70fd807d3c14dfd8a8de8e3f3511ad9d94",
+      "bytes": 1298,
+      "commit": "f624806af5f2750d981fcd683e9ea0569fff3d93"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/HD1014/dsh-model-theme/blob/f624806af5f2750d981fcd683e9ea0569fff3d93/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/HD1014/dsh-model-theme/f624806af5f2750d981fcd683e9ea0569fff3d93/README.md",
+    "sourceSha256": "e00183b12ef820d3aa329a758d04df6470a936866cc70a27b331de4b6b3eebd9",
+    "gitBlobSha": "6549d437905e9e10aa4ae6f17ab135bd16093397",
+    "bytes": 9135,
+    "commit": "f624806af5f2750d981fcd683e9ea0569fff3d93"
+  },
+  "method": "github-rest-tree-and-isolated-headless-google-chrome"
+}

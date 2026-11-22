@@ -1,0 +1,246 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:31:10.541Z",
+  "url": "https://www.bilibili.com/opus/1270053526331981826",
+  "htmlSha256": "0c1daf1d4ed7a99df4b30a8c5667cfc96fd6491fd0fab88804633a999fe3fbe8",
+  "creator": {
+    "name": "阿亮今年必发财",
+    "mid": 2757067
+  },
+  "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1270053526331981826",
+  "bodySha256": "c8882aa2a7faadbd132315ad6ad1ffb3f3d33fad6f2794371fd4fc8918737843",
+  "files": [
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/e53aa604eba5c896c2dc3e8b33bee1e22757067.png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "f4ba793f727e7563169494d5b6ae42208d829d3bb4d3f8677c98cfd1f92a58c5",
+      "bytes": 2791950,
+      "accessedAt": "2026-11-22T15:31:23.160Z",
+      "position": 1
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/c3831961de67e9ad5d70677932c41bb52757067.png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "740db14d1ed58a8d6e58cad357c91f8c124c249f6a0ce5608b14f405f7fe1360",
+      "bytes": 2848487,
+      "accessedAt": "2026-11-22T15:31:24.405Z",
+      "position": 2
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/dc1b7692e78f118cc9bb4bd0f27ddc8b2757067.png",
+      "width": 2137,
+      "height": 736,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "87a8949bc9fc2759366be6c2e973426ce4969e779acb865f126a4116857f891e",
+      "bytes": 1791939,
+      "accessedAt": "2026-11-22T15:31:25.353Z",
+      "position": 3
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/3de4e75b6ce3b79bfe5f9a4a37345f4b2757067.png",
+      "width": 2138,
+      "height": 735,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "3bf8913225a7129efeb992efc4b11ff77f7320e647976bc639177af0923e0d99",
+      "bytes": 1894045,
+      "accessedAt": "2026-11-22T15:31:26.551Z",
+      "position": 4
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/75da8ca7f2b1f8e182041184fa8eb17d2757067.png",
+      "width": 2138,
+      "height": 735,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "3f6e071b6c58854b87b41c8eed6ef9c9b31def4f2162dc59781a23edfdfa8af9",
+      "bytes": 1990905,
+      "accessedAt": "2026-11-22T15:31:27.432Z",
+      "position": 5
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/fda2fbb9f2829d1d75fe7968afd036722757067.png",
+      "width": 2138,
+      "height": 736,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "f3c430ea14529d72d104c877f4c56cf28ef163a06efaa17d91d49c06c6ca63a8",
+      "bytes": 1768025,
+      "accessedAt": "2026-11-22T15:31:28.431Z",
+      "position": 6
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/37034233a83a6d354d42d36d256dd2f12757067.png",
+      "width": 2138,
+      "height": 736,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "7a9cc397a48716eca3c781e9a2c77ba0b1e0f693662facd806e5f4f58251b13d",
+      "bytes": 1920581,
+      "accessedAt": "2026-11-22T15:31:29.593Z",
+      "position": 7
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/5d91ae37e707b3e68a6a97dea98a01712757067.png",
+      "width": 2138,
+      "height": 736,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "5c130cbe72cfc6a2beb63ae8232cddc7d8763fc8e9c1ec248cef2797f3688705",
+      "bytes": 2007941,
+      "accessedAt": "2026-11-22T15:31:33.913Z",
+      "position": 8
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/6b486b2f75072df7c698969bf54b19602757067.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "359ae2b4cc34dba0631a135420c5fe6e5ced498b4411414de0e3e0ca07fd7001",
+      "bytes": 1869067,
+      "accessedAt": "2026-11-22T15:31:35.075Z",
+      "position": 9
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/6bcef3bb0c19852f76a9b002b89c631a2757067.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "4e317b7bedb98190f0466f23951662d41673f4c1af1f1b15674ed70da5fb264c",
+      "bytes": 2153735,
+      "accessedAt": "2026-11-22T15:31:36.276Z",
+      "position": 10
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/3a44126e8a7faa85c729725e8627af632757067.png",
+      "width": 2138,
+      "height": 736,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "2e186febb9dc64d0354b4023b6aa841ebbdefa3af197df4950ef6c9c2173a9e8",
+      "bytes": 2032917,
+      "accessedAt": "2026-11-22T15:31:37.348Z",
+      "position": 11
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/b2b2445132782f91ca96d91712049ee32757067.png",
+      "width": 2138,
+      "height": 736,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "9ffe6c4a9ee80a8af101549ba3dc789d949a22846c9ab33da4073c19e3695de4",
+      "bytes": 2133845,
+      "accessedAt": "2026-11-22T15:31:38.188Z",
+      "position": 12
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/4791046960e67d51672fd46aee44ebd02757067.png",
+      "width": 2137,
+      "height": 736,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "df2b171445d3aefb0294fcd29abe55d745bdec1a3f88d6c2687c59de67c58f57",
+      "bytes": 2158719,
+      "accessedAt": "2026-11-22T15:31:39.324Z",
+      "position": 13
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/5bdafa772b0c5d8075d9528b8d93474d2757067.png",
+      "width": 1672,
+      "height": 941,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "8615a81c51355d56798608ddee728c22d8ce1b09a8e143ca9ee467b7fa019607",
+      "bytes": 1947685,
+      "accessedAt": "2026-11-22T15:31:40.232Z",
+      "position": 14
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/e836c3df9cfffc41a151a5666b746ba92757067.png",
+      "width": 2137,
+      "height": 736,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "9aa9f9b1fe6d072f24811f320e2a495f8ec28e2a54b95afba259e2deef9ebf51",
+      "bytes": 1968810,
+      "accessedAt": "2026-11-22T15:31:41.075Z",
+      "position": 15
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/64b6261258c542371a4cb09da7735e8d2757067.png",
+      "width": 2138,
+      "height": 736,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "b55b972f9d225f6613e1f2cef70054dedd362193c537f7bd68fcec540c7d3293",
+      "bytes": 2092843,
+      "accessedAt": "2026-11-22T15:31:42.698Z",
+      "position": 16
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/bda4af925c5415e2289c1996d9535bc72757067.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "3dfc786e425d34a5dced1bd2cd55d2405cefb851154918f713619617646220f7",
+      "bytes": 2694552,
+      "accessedAt": "2026-11-22T15:31:43.897Z",
+      "position": 17
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/8fac91669b59f18df85ba0ee42b315192757067.png",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "d4a59122df6f981776b5b28e8b12a332a3620f30a6a42e3d7c0b849b0347bc5c",
+      "bytes": 2139980,
+      "accessedAt": "2026-11-22T15:31:44.882Z",
+      "position": 18
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/fd01e1429c803cdc6d11a642a3e606c32757067.png",
+      "width": 2138,
+      "height": 736,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "6bc05ee6fe92dc94007f26922ebd671532b68fda1d2b3441ed4dd8f40c0c46ab",
+      "bytes": 1653592,
+      "accessedAt": "2026-11-22T15:31:45.713Z",
+      "position": 19
+    },
+    {
+      "url": "http://i0.hdslb.com/bfs/new_dyn/4dbf2fd841891134372a1efb40ee0fd72757067.png",
+      "width": 2138,
+      "height": 736,
+      "format": "png",
+      "httpStatus": 200,
+      "sourceSha256": "d622726ecc96059b806444d841cb51ea3e9e055b44e7f9d84206732464d76d0e",
+      "bytes": 2135613,
+      "accessedAt": "2026-11-22T15:31:46.538Z",
+      "position": 20
+    }
+  ],
+  "license": {
+    "identifier": "CC BY-NC-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "scope": "Creator’s self-designed Hunyuan character within a twenty-image multi-character publication",
+    "attributionRequired": true,
+    "commercialUse": false,
+    "sameLicenseAdaptations": true
+  },
+  "citingVideos": [
+    "https://www.bilibili.com/video/BV1Qzs46oEjJ/",
+    "https://www.bilibili.com/video/BV19fsD6wERA/"
+  ]
+}

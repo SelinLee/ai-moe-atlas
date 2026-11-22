@@ -94,5 +94,23 @@
     "name": "MiMo",
     "provider": "Xiaomi",
     "url": "https://mimo.mi.com/docs/zh-CN/welcome"
+  },
+  {
+    "id": "longcat",
+    "name": "LongCat",
+    "provider": "Meituan",
+    "url": "https://longcat.chat/privacy/en/user-service/"
+  },
+  {
+    "id": "hunyuan",
+    "name": "腾讯混元 / Hunyuan",
+    "provider": "Tencent",
+    "url": "https://hunyuan.tencent.com/"
+  },
+  {
+    "id": "ernie",
+    "name": "百度文心 / ERNIE",
+    "provider": "Baidu",
+    "url": "https://ernie.baidu.com/zh"
   }
 ]
