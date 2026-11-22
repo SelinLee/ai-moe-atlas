@@ -1,0 +1,84 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:40:47.970Z",
+  "url": "https://github.com/yzcjdxmx/codex-balance-pet/blob/99801ab46e27cec6263a58a414769d8ea1e2099d/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/yzcjdxmx/codex-balance-pet/blob/99801ab46e27cec6263a58a414769d8ea1e2099d/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/yzcjdxmx/codex-balance-pet/99801ab46e27cec6263a58a414769d8ea1e2099d/README.md",
+    "sourceSha256": "7d0bf6913a82a314bbe98e5be3e9beb837beeaf70b9b4af9cb247fe85b79276e",
+    "gitBlobSha": "61e75c814f4a09a3adf711a29bcffb2bfd55dfa3",
+    "bytes": 16342,
+    "commit": "99801ab46e27cec6263a58a414769d8ea1e2099d"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/yzcjdxmx/codex-balance-pet/blob/99801ab46e27cec6263a58a414769d8ea1e2099d/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/yzcjdxmx/codex-balance-pet/99801ab46e27cec6263a58a414769d8ea1e2099d/README.md",
+      "sourceSha256": "7d0bf6913a82a314bbe98e5be3e9beb837beeaf70b9b4af9cb247fe85b79276e",
+      "gitBlobSha": "61e75c814f4a09a3adf711a29bcffb2bfd55dfa3",
+      "bytes": 16342,
+      "commit": "99801ab46e27cec6263a58a414769d8ea1e2099d"
+    },
+    {
+      "path": "README.en.md",
+      "url": "https://github.com/yzcjdxmx/codex-balance-pet/blob/99801ab46e27cec6263a58a414769d8ea1e2099d/README.en.md",
+      "rawUrl": "https://raw.githubusercontent.com/yzcjdxmx/codex-balance-pet/99801ab46e27cec6263a58a414769d8ea1e2099d/README.en.md",
+      "sourceSha256": "72f65e915667f076aa9eee968c1ba047331054bcd454c9261c3169352af26fb2",
+      "gitBlobSha": "0ad1e1a0202b5af795c272b71d16b7212a681586",
+      "bytes": 18797,
+      "commit": "99801ab46e27cec6263a58a414769d8ea1e2099d"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/yzcjdxmx/codex-balance-pet/blob/99801ab46e27cec6263a58a414769d8ea1e2099d/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/yzcjdxmx/codex-balance-pet/99801ab46e27cec6263a58a414769d8ea1e2099d/LICENSE",
+      "sourceSha256": "3628e43053fdb1cc254f9d895ade05aba81ca4a76f5e99b3889b51d910de9f1f",
+      "gitBlobSha": "03e7889269de36cce923caab09b879864e151123",
+      "bytes": 1065,
+      "commit": "99801ab46e27cec6263a58a414769d8ea1e2099d"
+    },
+    {
+      "path": "docs/preview/character-states.png",
+      "url": "https://github.com/yzcjdxmx/codex-balance-pet/blob/99801ab46e27cec6263a58a414769d8ea1e2099d/docs/preview/character-states.png",
+      "rawUrl": "https://raw.githubusercontent.com/yzcjdxmx/codex-balance-pet/99801ab46e27cec6263a58a414769d8ea1e2099d/docs/preview/character-states.png",
+      "sourceSha256": "17a8d025af0bca308d74b7bf0991a595bf262460091a41991d34baf0f156c889",
+      "gitBlobSha": "2b20ca4afb41f1a60fb579928baffd8d51c4cca1",
+      "bytes": 941632,
+      "commit": "99801ab46e27cec6263a58a414769d8ea1e2099d"
+    },
+    {
+      "path": "docs/artwork.md",
+      "url": "https://github.com/yzcjdxmx/codex-balance-pet/blob/99801ab46e27cec6263a58a414769d8ea1e2099d/docs/artwork.md",
+      "rawUrl": "https://raw.githubusercontent.com/yzcjdxmx/codex-balance-pet/99801ab46e27cec6263a58a414769d8ea1e2099d/docs/artwork.md",
+      "sourceSha256": "560379e906a324e53f98a373bff9dd9d59605a0cb1ef8149979c851a3513eb99",
+      "gitBlobSha": "bc09d65b82dac3d20ba8c5f4c3d10087f4a8896f",
+      "bytes": 18799,
+      "commit": "99801ab46e27cec6263a58a414769d8ea1e2099d"
+    }
+  ],
+  "repositoryObservation": {
+    "full_name": "yzcjdxmx/codex-balance-pet",
+    "html_url": "https://github.com/yzcjdxmx/codex-balance-pet",
+    "stargazers_count": 9,
+    "archived": false,
+    "created_at": "2026-10-14T12:21:39Z",
+    "default_branch": "main",
+    "fork": false,
+    "description": "A per-pixel-transparent Windows desktop pet in pure PowerShell showing your live API balance or Codex quota, plus a Codex plugin with two MCP servers. 桌面余额桌宠 + Codex 插件",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "commit": "99801ab46e27cec6263a58a414769d8ea1e2099d",
+    "observedAt": "2026-11-22T16:36:16.185+00:00",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:40:47.970Z"
+  },
+  "upstream": null,
+  "scope": "Pinned documentation, repository terms and Git blob hashes were checked."
+}

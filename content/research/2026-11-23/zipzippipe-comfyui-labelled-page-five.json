@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:38:33.853Z",
+  "url": "https://www.pixiv.net/artworks/150718881",
+  "original": {
+    "key": "comfy",
+    "sourceGallery": "https://www.pixiv.net/artworks/150718881",
+    "position": 5,
+    "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p4.jpg",
+    "width": 941,
+    "height": 1672,
+    "format": "jpeg",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:38:33.853Z",
+    "bytes": 1506557,
+    "sourceSha256": "9d0559b69db7353a89ba415355a56fab12c07ad3d8a8c3ae928697c391109e71"
+  },
+  "previousEvidence": {
+    "path": "content/research/2026-11-22/zipzippipe-pixiv-followup-twenty-originals.json",
+    "sha256": "082d191fa4d4b78a8abe307598b24c7e5d4ed2ec5ab1338040077f652b107829",
+    "kind": "browser-metadata-extract"
+  },
+  "taggedFeatures": [
+    "comfyUI on the workwear badge and helmet"
+  ],
+  "officialProject": {
+    "key": "comfyui",
+    "url": "https://support.comfy.org/articles/9806306061-about-comfy",
+    "finalUrl": "https://support.comfy.org/articles/9806306061-about-comfy",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:36:20.159Z",
+    "title": "About Comfy | Comfy Org Knowledge Base",
+    "visible": [
+      "ComfyUI is an open-source, node-based workflow engine for generative AI.",
+      "ComfyUI can be used for simple generation flows as well as more advanced multi-step workflows.",
+      "The core of ComfyUI is free and can run locally on your own hardware."
+    ],
+    "htmlSha256": "229699093beea582825b5850cbedee8cfa840e5e1a4ee3192b7991b4793c7c71"
+  }
+}

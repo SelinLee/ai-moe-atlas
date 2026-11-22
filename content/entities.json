@@ -136,5 +136,41 @@
     "name": "RWKV",
     "provider": "RWKV community",
     "url": "https://wiki.rwkv.com/"
+  },
+  {
+    "id": "stepfun",
+    "name": "阶跃星辰 / StepFun",
+    "provider": "StepFun",
+    "url": "https://www.stepfun.com/news/step-5-preview"
+  },
+  {
+    "id": "lobehub",
+    "name": "LobeHub",
+    "provider": "LobeHub",
+    "url": "https://lobehub.com/"
+  },
+  {
+    "id": "github-copilot",
+    "name": "GitHub Copilot",
+    "provider": "GitHub",
+    "url": "https://docs.github.com/en/copilot/get-started/about-github-copilot"
+  },
+  {
+    "id": "ascend",
+    "name": "华为昇腾 / Ascend",
+    "provider": "Huawei",
+    "url": "https://www.hiascend.com/en/"
+  },
+  {
+    "id": "comfyui",
+    "name": "ComfyUI",
+    "provider": "Comfy Org",
+    "url": "https://support.comfy.org/articles/9806306061-about-comfy"
+  },
+  {
+    "id": "xiaohongshu-dots",
+    "name": "小红书点点 / Dots",
+    "provider": "Xiaohongshu",
+    "url": "https://studio.dots.ai/"
   }
 ]

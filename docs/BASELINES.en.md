@@ -22,6 +22,8 @@ November 22, 2026. Added source entries for LongCat, Tencent Hunyuan and Baidu E
 
 November 23, 2026. Added source entries for ZipZipPipe’s RWKV and 甶丶’s MOSS, Ant Ling and Unisound U2-Flash. RWKV is on page nine of the original Pixiv gallery, where its round waist pendant bears the name. The other three designs were checked against the creator’s original posts. [RWKV source verification](../content/research/2026-11-23/zipzippipe-pixiv-first-gallery-rwkv.json)
 
+November 23, 2026. The 3072 × 5504 ERNIE JPEG on page 12 of the creator’s Pixiv gallery matches the artwork in lmy414’s pinned 1143 × 2048 PNG. Both hashes are recorded. Added two separate StepFun designs and portraits for other AI tools. The three StepFun PNGs by 甶丶 match the author’s archived submission byte for byte. [ERNIE source verification](../content/research/2026-11-23/zipzippipe-ernie-pixiv-page-twelve.json) · [StepFun submission verification](../content/research/2026-11-23/fuh-stepfun-original.json)
+
 | AI | Priority version | Remaining work |
 | --- | --- | --- |
 | DeepSeek | Collected whale-maid assets | Ready; retain 上善无形 → ZipZipPipe → Small-tailqwq attribution |

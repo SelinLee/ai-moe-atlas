@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:37:13.149Z",
+  "url": "https://www.bilibili.com/video/BV1ZZHw6oEkV/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZZHw6oEkV",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1ZZHw6oEkV",
+    "title": "【原创MV】《本小姐才不是为你更新的》傲娇AI娘主题曲，同行AI娘全员出镜｜Grok大小姐 第6集",
+    "owner": {
+      "name": "grok大小姐驾到",
+      "mid": 3747573135313864
+    },
+    "pubdate": 1792808897,
+    "duration": 91
+  },
+  "descriptionSha256": "cf5658bf49d9279fb57342efdb56d483280af7701d050b6e7adb4073dbfa5d10",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20MV&order=pubdate",
+    "title": "【原创MV】《本小姐才不是为你更新的》傲娇AI娘主题曲，同行AI娘全员出镜｜Grok大小姐 第6集",
+    "publisher": "grok大小姐驾到",
+    "observedAt": "2026-11-22T16:34:55.835Z",
+    "httpStatus": 200,
+    "htmlSha256": "e2dc16216e680a12113bf0ebab0fda0d384d75f021dec1dff3badd95a94f7673"
+  }
+}

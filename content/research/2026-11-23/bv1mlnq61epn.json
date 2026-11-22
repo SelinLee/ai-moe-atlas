@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:37:13.139Z",
+  "url": "https://www.bilibili.com/video/BV1mLnQ61EpN/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mLnQ61EpN",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1mLnQ61EpN",
+    "title": "【飄移】ChatGPT・Claude・Grok・DeepSeek 山道對決｜頭文字D風 AI 娘 MV【黑白漫畫版】",
+    "owner": {
+      "name": "賽博詩人",
+      "mid": 28775119
+    },
+    "pubdate": 1792953158,
+    "duration": 231
+  },
+  "descriptionSha256": "8eb5a8d06360b88212ebea49facdeb6a49547afed656d3a6a9037b42ca802860",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20MV&order=pubdate",
+    "title": "【飄移】ChatGPT・Claude・Grok・DeepSeek 山道對決｜頭文字D風 AI 娘 MV【黑白漫畫版】",
+    "publisher": "賽博詩人",
+    "observedAt": "2026-11-22T16:34:55.835Z",
+    "httpStatus": 200,
+    "htmlSha256": "e2dc16216e680a12113bf0ebab0fda0d384d75f021dec1dff3badd95a94f7673"
+  }
+}

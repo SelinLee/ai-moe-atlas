@@ -1,0 +1,47 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:36:17.642Z",
+  "url": "https://www.bilibili.com/opus/1257516954839678982",
+  "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1257516954839678982",
+  "bodySha256": "d10553f9408d432f2e35dbf4f6339696083a8185d8174388cb6ce936ed54ec49",
+  "postTitle": "StepFun娘化",
+  "creator": {
+    "name": "ZipZipPipe",
+    "mid": 4168597
+  },
+  "publicPage": {
+    "title": "ZipZipPipe的动态 - 哔哩哔哩",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:36:33.396Z",
+    "htmlSha256": "986271790b8a72b55f29f7a33f42600254419d026699d78a801b8bb9c26fb586"
+  },
+  "files": [
+    {
+      "position": 1,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/c0922a3ee6a084bd9563e02a6fcac34b4168597.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:36:41.007Z",
+      "width": 1152,
+      "height": 2048,
+      "format": "png",
+      "bytes": 3143457,
+      "sourceSha256": "0453c1fa600fc6e6b85a7cf4f1e77e5c22d958c233c4c98f9487d7ac6f7dd8c0"
+    }
+  ],
+  "officialProduct": {
+    "key": "step",
+    "url": "https://www.stepfun.com/news/step-5-preview",
+    "finalUrl": "https://www.stepfun.com/news/step-5-preview",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:36:21.869Z",
+    "title": "阶跃星辰",
+    "visible": [
+      "阶跃发布旗舰模型 Step 5 Preview：向前一步，智能效率的新一代“帕累托前沿”",
+      "阶跃新一代旗舰模型 Step 5 Preview，为此而来！",
+      "这是一款面向真实世界 Agentic 任务的旗舰基座模型。我们认为，随着 Agent 从“回答问题”走向“完成任务”，日常工作主力模型的标准也在发生变化：不再只是单项能力足够强，而是要在能力、成本、效率和场景覆盖之间实现更好平衡。Step "
+    ],
+    "htmlSha256": "44c38ba69aa89f889f10f31db48d0a09f8b850b0ec70df95a6d6641d81570389"
+  },
+  "archive": null,
+  "scope": "The creator’s post title and original PNG were checked."
+}

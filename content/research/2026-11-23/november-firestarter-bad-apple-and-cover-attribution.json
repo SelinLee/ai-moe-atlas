@@ -1,0 +1,368 @@
+{
+  "method": "isolated-headless-google-chrome-official-release-and-bilibili-view-detail",
+  "tracks": [
+    {
+      "songId": "kda-firestarter",
+      "original": {
+        "credit": "K/DA · League of Legends Music · i-dle · Mimi Webb",
+        "url": "https://music.apple.com/us/album/firestarter-feat-sophie-powers-miyeon-soyeon-single/6813196868"
+      },
+      "source": {
+        "id": "firestarter",
+        "url": "https://music.apple.com/us/album/firestarter-feat-sophie-powers-miyeon-soyeon-single/6813196868",
+        "finalUrl": "https://music.apple.com/us/album/firestarter-feat-sophie-powers-miyeon-soyeon-single/6813196868",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T16:37:30.582Z",
+        "htmlSha256": "12ea6d0dbb32ad19a2c4aad72f37c124f0ef1842fc694e284727ffa7a7bc1f2c",
+        "title": "‎FIRESTARTER (feat. Sophie Powers, MIYEON & SOYEON) - Single - Album by K/DA, League of Legends Music, i-dle & Mimi Webb - Apple Music",
+        "og": "FIRESTARTER (feat. Sophie Powers, MIYEON & SOYEON) - Single by K/DA, League of Legends Music, i-dle & Mimi Webb on Apple Music"
+      },
+      "fanVersion": {
+        "bvid": "BV16hWi6cED7",
+        "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV16hWi6cED7",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T16:37:43.236Z",
+        "bodySha256": "3b532fb067c521d6ff0f5e35a81bcbb70782063edf759a26ecde729dbbd8512a",
+        "code": 0,
+        "metadata": {
+          "title": "【MV】K/DA《FIRESTARTER（燃）》  大肥鱼携手gpt，grok，claedu激情演唱kda新曲",
+          "bvid": "BV16hWi6cED7",
+          "owner": "小脑弟呐",
+          "mid": 294110494,
+          "pubdate": 1794564307,
+          "tags": [
+            "发现《FIRESTARTER》",
+            "deepseek",
+            "AI",
+            "英雄联盟",
+            "grok",
+            "claude",
+            "updream",
+            "KDA",
+            "gpt",
+            "AI娘",
+            "FIRESTARTER"
+          ],
+          "music": null,
+          "metadataFields": [
+            "View",
+            "Card",
+            "Tags",
+            "Reply",
+            "Related",
+            "Spec",
+            "hot_share",
+            "elec",
+            "emergency",
+            "view_addit",
+            "guide",
+            "query_tags",
+            "participle",
+            "module_ctrl",
+            "replace_recommend",
+            "is_hit_labour_day_activity"
+          ],
+          "pages": [
+            {
+              "cid": 43570302731,
+              "page": 1,
+              "part": "我让四位 AI 娘演唱了一遍 K/DA《FIRESTARTER（燃）》【全名ai创作人】",
+              "duration": 207
+            }
+          ],
+          "descriptionSha256": "2a0f06bc835da5a43bae3d756d009ceb8c25c929ebe6146dd185e4bf3d93061e"
+        },
+        "matchedTag": "发现《FIRESTARTER》"
+      },
+      "additional": []
+    },
+    {
+      "songId": "bad-apple-nomico",
+      "original": {
+        "credit": "Alstroemeria Records feat. nomico · ZUN",
+        "url": "https://www.touhou-music.jp/introduce/10th-anniversary-bad-apple-feat-nomico/"
+      },
+      "source": {
+        "id": "bad-apple",
+        "url": "https://www.touhou-music.jp/introduce/10th-anniversary-bad-apple-feat-nomico/",
+        "finalUrl": "https://www.touhou-music.jp/introduce/10th-anniversary-bad-apple-feat-nomico/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T16:37:38.116Z",
+        "htmlSha256": "507546e4084ec7e233f26441ef726c1c69b2894cd137e46e55b2e714b488e7fa",
+        "title": "10th ANNIVERSARY Bad Apple!! feat.nomico | 東方同人音楽流通",
+        "og": null
+      },
+      "fanVersion": {
+        "bvid": "BV1Dn4b6vEB7",
+        "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1Dn4b6vEB7",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T16:37:43.852Z",
+        "bodySha256": "c2e45df8edd82570b875b03cde617b113a7c96bf2889b4053c6ca2775e9b4617",
+        "code": 0,
+        "metadata": {
+          "title": "Bad Apple!! ｜鲸鱼娘小D 翻唱 MV（黑白剪影 · 歌词版）",
+          "bvid": "BV1Dn4b6vEB7",
+          "owner": "鲸鱼娘小D丶",
+          "mid": 670872090,
+          "pubdate": 1793876772,
+          "tags": [
+            "发现《Bad Apple!!》",
+            "二次元",
+            "MV",
+            "翻唱",
+            "东方Project",
+            "BadApple",
+            "鲸鱼娘"
+          ],
+          "music": null,
+          "metadataFields": [
+            "View",
+            "Card",
+            "Tags",
+            "Reply",
+            "Related",
+            "Spec",
+            "hot_share",
+            "elec",
+            "emergency",
+            "view_addit",
+            "guide",
+            "query_tags",
+            "participle",
+            "module_ctrl",
+            "replace_recommend",
+            "is_hit_labour_day_activity"
+          ],
+          "pages": [
+            {
+              "cid": 43352787547,
+              "page": 1,
+              "part": "Bad Apple 翻唱 MV",
+              "duration": 296
+            }
+          ],
+          "descriptionSha256": "ada33f47b809c9543ed4960a8ef0220ace1c44df074c2d3d97fb265018334b64"
+        },
+        "matchedTag": "发现《Bad Apple!!》"
+      },
+      "additional": [
+        {
+          "id": "bad-apple-terms",
+          "url": "https://alst.net/licensing/",
+          "finalUrl": "https://alst.net/licensing/",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-22T16:37:31.682Z",
+          "htmlSha256": "ab5a93a04fdd13f905a23538f0de63ffc5d2317c8350aecfc302cef73b7bc61b",
+          "title": "How to Use Our Music – ALSTROEMERIA RECORDS",
+          "og": null
+        }
+      ]
+    },
+    {
+      "songId": "world-execute-me",
+      "original": {
+        "credit": "Mili",
+        "url": "https://www.youtube.com/watch?v=ESx_hy1n7HA"
+      },
+      "fanVersion": {
+        "bvid": "BV1JjHL6wE8q",
+        "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1JjHL6wE8q",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T16:37:43.269Z",
+        "bodySha256": "89438ccb2ebb0f2fb1187f539c17841f62dbff9e19d11bd163bc90412e7af1b9",
+        "code": 0,
+        "metadata": {
+          "title": "Mili《world.execute(me);》同人 MV｜Grok 娘 × CRT 终端",
+          "bvid": "BV1JjHL6wE8q",
+          "owner": "友利奈绪太可爱",
+          "mid": 10024289,
+          "pubdate": 1791112741,
+          "tags": [
+            "发现《world.execute(me);》",
+            "B站AI无限竞技场",
+            "CRT",
+            "同人MV",
+            "Mili",
+            "Grok",
+            "worldexecuteme"
+          ],
+          "music": null,
+          "metadataFields": [
+            "View",
+            "Card",
+            "Tags",
+            "Reply",
+            "Related",
+            "Spec",
+            "hot_share",
+            "elec",
+            "emergency",
+            "view_addit",
+            "guide",
+            "query_tags",
+            "participle",
+            "module_ctrl",
+            "replace_recommend",
+            "is_hit_labour_day_activity"
+          ],
+          "pages": [
+            {
+              "cid": 42457171955,
+              "page": 1,
+              "part": "Mili《world.execute(me);》同人 MV｜Grok 娘 × CRT 终端",
+              "duration": 212
+            }
+          ],
+          "descriptionSha256": "84a54c0892998dbecfdd5f3100e5f8ed3846d7acc1eb04197642d3786c16b21d"
+        },
+        "matchedTag": "发现《world.execute(me);》"
+      }
+    }
+  ],
+  "unresolved": [
+    {
+      "fanVersion": {
+        "bvid": "BV1XdsU6xEwJ",
+        "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1XdsU6xEwJ",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T16:37:43.283Z",
+        "bodySha256": "c1f040bd3240596f302c84fb2a121bf5850362b9ea55eb8139714e31dce22c51",
+        "code": 0,
+        "metadata": {
+          "title": "【大肥鱼翻唱】火花 / ヒバナ —— 夏夜的天台，我和你看同一场烟花",
+          "bvid": "BV1XdsU6xEwJ",
+          "owner": "も老师不懂",
+          "mid": 17729233,
+          "pubdate": 1795009819,
+          "tags": [
+            "DeepSeek大肥鱼",
+            "日语翻唱",
+            "可爱",
+            "翻唱",
+            "女声",
+            "claude",
+            "ai虚拟歌手",
+            "DeepSeek鲸鱼娘",
+            "大肥鱼二创",
+            "大肥鱼"
+          ],
+          "music": null,
+          "metadataFields": [
+            "View",
+            "Card",
+            "Tags",
+            "Reply",
+            "Related",
+            "Spec",
+            "hot_share",
+            "elec",
+            "emergency",
+            "view_addit",
+            "guide",
+            "query_tags",
+            "participle",
+            "module_ctrl",
+            "replace_recommend",
+            "is_hit_labour_day_activity"
+          ],
+          "pages": [
+            {
+              "cid": 43716183222,
+              "page": 1,
+              "part": "【大肥鱼翻唱】火花 / ヒバナ —— 夏夜的天台，我和你看同一场烟花",
+              "duration": 186
+            }
+          ],
+          "descriptionSha256": "05345575038c2eb0bebc9100b38326c88ad20a5cdbceef0bfecec6908e3218f9"
+        }
+      },
+      "foundNames": [
+        "ゆざめ",
+        "ヒバナ"
+      ],
+      "otherRelease": {
+        "id": "hibana",
+        "url": "https://otoiro.co.jp/topics/114692/",
+        "finalUrl": "https://otoiro.co.jp/topics/114692/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T16:44:50.382Z",
+        "htmlSha256": "08f958e14a500f9d04dfb9d72ffc5d9b814548951d2c817731f9a2731d909930",
+        "title": "DECO*27 – ヒバナ (Reloaded) [from デコミク LIVE starring 初音ミク『Hello』] 公開 | OTOIRO",
+        "og": null
+      },
+      "outcome": "Unmatched. The uploader’s artist credit differs, so this version is not mapped to the release."
+    },
+    {
+      "fanVersion": {
+        "bvid": "BV15K4i6FEXu",
+        "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV15K4i6FEXu",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T16:37:43.254Z",
+        "bodySha256": "aad2c59f8674c72fe737b9180397b16c73a770c6cc22527758f8a083ce90e95d",
+        "code": 0,
+        "metadata": {
+          "title": "⚡️又三郎⚡️大肥鱼翻唱 · 蓝底证件照",
+          "bvid": "BV15K4i6FEXu",
+          "owner": "牢鱼_offcial",
+          "mid": 3747573712030572,
+          "pubdate": 1794052800,
+          "tags": [
+            "音乐",
+            "米津玄师",
+            "日文歌",
+            "二次元",
+            "翻唱",
+            "蓝底证件照",
+            "鲸鱼娘",
+            "大肥鱼",
+            "又三郎",
+            "AI翻唱"
+          ],
+          "music": null,
+          "metadataFields": [
+            "View",
+            "Card",
+            "Tags",
+            "Reply",
+            "Related",
+            "Spec",
+            "hot_share",
+            "elec",
+            "emergency",
+            "view_addit",
+            "guide",
+            "query_tags",
+            "participle",
+            "module_ctrl",
+            "replace_recommend",
+            "is_hit_labour_day_activity"
+          ],
+          "pages": [
+            {
+              "cid": 43372906918,
+              "page": 1,
+              "part": "⚡️又三郎⚡️大肥鱼翻唱 · 蓝底证件照",
+              "duration": 227
+            }
+          ],
+          "descriptionSha256": "9215da7ebf2dcff2df5aa0fcd274300a1a88a09361377d479f6a8a63b7c55cb5"
+        }
+      },
+      "foundNames": [
+        "米津玄师",
+        "又三郎"
+      ],
+      "otherRelease": {
+        "id": "matasaburo",
+        "url": "https://sp.universal-music.co.jp/yorushika/matasaburou/",
+        "finalUrl": "https://sp.universal-music.co.jp/yorushika/matasaburou/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T16:37:31.863Z",
+        "htmlSha256": "243e2713b37d4d3ba4fba95ae793026a03b4cb51dd163ca30b0754cd842d2eaf",
+        "title": "ヨルシカ - デジタルシングル『又三郎』特設サイト",
+        "og": "ヨルシカ - デジタルシングル『又三郎』特設サイト"
+      },
+      "outcome": "Unmatched. The uploader’s artist credit differs, so this version is not mapped to the release."
+    }
+  ]
+}

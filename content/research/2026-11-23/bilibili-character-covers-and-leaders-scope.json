@@ -1,0 +1,190 @@
+{
+  "checkedAt": "2026-11-22T16:40:17.346Z",
+  "newlyVerified": 19,
+  "refreshedLeaders": 15,
+  "existingUnavailable": 7,
+  "pendingUnavailable": 10,
+  "previousEvidence": {
+    "path": "content/research/2026-11-23/bilibili-cumulative-likes-step-and-character-candidates.json",
+    "sha256": "f8a0878b4e30153d669e3e29dda1275a86d284f3c29da6e0a77cf277b19c3f91",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-23/bilibili-cumulative-likes-character-covers-and-leaders.json",
+    "sha256": "3238f8d0b943a4c2c148a9b3a7a653c3f1d15ee0dbbccfd7ac02b627dd79f074",
+    "kind": "browser-metadata-extract"
+  },
+  "discovery": [
+    {
+      "bvid": "BV1UPsm6GEFc",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=OpenCode%20%E5%A8%98%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "title": "666，额度暴涨的代价：接入OpenCode，狐娘变笨肥鱼？",
+      "publisher": "天天速递乐子",
+      "observedAt": "2026-11-22T16:34:53.968Z",
+      "httpStatus": 200,
+      "htmlSha256": "ad04899fa11598eb00e937f00f6362851d9d7dd1d3f978ab50ef0d224198f1c2"
+    },
+    {
+      "bvid": "BV1Jox76EEN4",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E9%98%B6%E8%B7%83%E5%A8%98%20AI%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "step5阶跃妹直出MAD OP视频，瘫晕在原地，AI全自动做动画",
+      "publisher": "你好我是张德帅",
+      "observedAt": "2026-11-22T16:34:55.825Z",
+      "httpStatus": 200,
+      "htmlSha256": "8908d4c49b37563ded395a666d7e6828e6e0a6ecef9d4d8efa5720ecaf2d10a1"
+    },
+    {
+      "bvid": "BV1fAxp6fEu3",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%20%E5%A8%98%20%E5%A4%8D%E5%88%BB%20OP&order=pubdate",
+      "title": "claude大小姐也要跳寄明月吗........",
+      "publisher": "苍梧寻九嶷",
+      "observedAt": "2026-11-22T16:34:55.823Z",
+      "httpStatus": 200,
+      "htmlSha256": "63f3e4adc1c17acbdbb168d906c4fd6da559a49ea5f6f5e634c8bded957fb7f9"
+    },
+    {
+      "bvid": "BV1HsyezFEn3",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20MV&order=pubdate",
+      "title": "AI娘系列｜五位AI娘裙装合集",
+      "publisher": "开拓者天下第一可爱",
+      "observedAt": "2026-11-22T16:34:55.835Z",
+      "httpStatus": 200,
+      "htmlSha256": "e2dc16216e680a12113bf0ebab0fda0d384d75f021dec1dff3badd95a94f7673"
+    },
+    {
+      "bvid": "BV1ATsp6PEUj",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20MV&order=pubdate",
+      "title": "二次元水浒传第三十七期：《AI娘》【grok】",
+      "publisher": "扫雷区UP",
+      "observedAt": "2026-11-22T16:34:55.835Z",
+      "httpStatus": 200,
+      "htmlSha256": "e2dc16216e680a12113bf0ebab0fda0d384d75f021dec1dff3badd95a94f7673"
+    },
+    {
+      "bvid": "BV16hWi6cED7",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20MV&order=pubdate",
+      "title": "【MV】K/DA《FIRESTARTER（燃）》  大肥鱼携手gpt，grok，claedu激情演唱kda新曲",
+      "publisher": "小脑弟呐",
+      "observedAt": "2026-11-22T16:34:55.835Z",
+      "httpStatus": 200,
+      "htmlSha256": "e2dc16216e680a12113bf0ebab0fda0d384d75f021dec1dff3badd95a94f7673"
+    },
+    {
+      "bvid": "BV1Ruxp6RERh",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20MV&order=pubdate",
+      "title": "【原创MV】凌晨三点发一句「在吗」，8 个 AI 娘抄起乐器回你｜AI 美少女战队《全员在线》交响金属",
+      "publisher": "老鸭AI",
+      "observedAt": "2026-11-22T16:34:55.835Z",
+      "httpStatus": 200,
+      "htmlSha256": "e2dc16216e680a12113bf0ebab0fda0d384d75f021dec1dff3badd95a94f7673"
+    },
+    {
+      "bvid": "BV1mLnQ61EpN",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20MV&order=pubdate",
+      "title": "【飄移】ChatGPT・Claude・Grok・DeepSeek 山道對決｜頭文字D風 AI 娘 MV【黑白漫畫版】",
+      "publisher": "賽博詩人",
+      "observedAt": "2026-11-22T16:34:55.835Z",
+      "httpStatus": 200,
+      "htmlSha256": "e2dc16216e680a12113bf0ebab0fda0d384d75f021dec1dff3badd95a94f7673"
+    },
+    {
+      "bvid": "BV1S3nQ6EEei",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20MV&order=pubdate",
+      "title": "【飄移】ChatGPT・Claude・Grok・DeepSeek 山道對決｜頭文字D風 AI 娘 MV【彩色版】",
+      "publisher": "賽博詩人",
+      "observedAt": "2026-11-22T16:34:55.835Z",
+      "httpStatus": 200,
+      "htmlSha256": "e2dc16216e680a12113bf0ebab0fda0d384d75f021dec1dff3badd95a94f7673"
+    },
+    {
+      "bvid": "BV1ZZHw6oEkV",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20MV&order=pubdate",
+      "title": "【原创MV】《本小姐才不是为你更新的》傲娇AI娘主题曲，同行AI娘全员出镜｜Grok大小姐 第6集",
+      "publisher": "grok大小姐驾到",
+      "observedAt": "2026-11-22T16:34:55.835Z",
+      "httpStatus": 200,
+      "htmlSha256": "e2dc16216e680a12113bf0ebab0fda0d384d75f021dec1dff3badd95a94f7673"
+    },
+    {
+      "bvid": "BV1JjHL6wE8q",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20MV&order=pubdate",
+      "title": "Mili《world.execute(me);》同人 MV｜Grok 娘 × CRT 终端",
+      "publisher": "友利奈绪太可爱",
+      "observedAt": "2026-11-22T16:34:55.835Z",
+      "httpStatus": 200,
+      "htmlSha256": "e2dc16216e680a12113bf0ebab0fda0d384d75f021dec1dff3badd95a94f7673"
+    },
+    {
+      "bvid": "BV1jL4H6dErN",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Kimi%E5%A8%98%20%E5%8A%A8%E7%94%BB%20%E7%9F%AD%E7%89%87&order=pubdate",
+      "title": "当GLM娘，KIMI娘、大肥鱼一桌",
+      "publisher": "卑微的小王啊-",
+      "observedAt": "2026-11-22T16:34:58.430Z",
+      "httpStatus": 200,
+      "htmlSha256": "2a8b0a81b66dffa0e5e62375e579dd84781d2f27541ef2b0464bd03f75511714"
+    },
+    {
+      "bvid": "BV1m5y3zBEab",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E9%B2%B8%E9%B1%BC%E5%A8%98%20%E7%BF%BB%E5%94%B1%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "title": "鲸鱼娘原创曲・司凤版｜恋爱好像酒～听完感觉老通透了",
+      "publisher": "肥鱼爱吃大白饭",
+      "observedAt": "2026-11-22T16:34:58.435Z",
+      "httpStatus": 200,
+      "htmlSha256": "9e7d748525e58ebb8dbb678f8489ae9cfb8562cad526788852d11d81e8f9f575"
+    },
+    {
+      "bvid": "BV1XdsU6xEwJ",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E9%B2%B8%E9%B1%BC%E5%A8%98%20%E7%BF%BB%E5%94%B1%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "title": "【大肥鱼翻唱】火花 / ヒバナ —— 夏夜的天台，我和你看同一场烟花",
+      "publisher": "も老师不懂",
+      "observedAt": "2026-11-22T16:34:58.435Z",
+      "httpStatus": 200,
+      "htmlSha256": "9e7d748525e58ebb8dbb678f8489ae9cfb8562cad526788852d11d81e8f9f575"
+    },
+    {
+      "bvid": "BV1wTW56ME5g",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E9%B2%B8%E9%B1%BC%E5%A8%98%20%E7%BF%BB%E5%94%B1%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "title": "《下山》女声翻唱｜背剑站在云海上的鲸鱼娘",
+      "publisher": "汐月不吃白饭",
+      "observedAt": "2026-11-22T16:34:58.435Z",
+      "httpStatus": 200,
+      "htmlSha256": "9e7d748525e58ebb8dbb678f8489ae9cfb8562cad526788852d11d81e8f9f575"
+    },
+    {
+      "bvid": "BV15K4i6FEXu",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E9%B2%B8%E9%B1%BC%E5%A8%98%20%E7%BF%BB%E5%94%B1%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "title": "⚡️又三郎⚡️大肥鱼翻唱 · 蓝底证件照",
+      "publisher": "牢鱼_offcial",
+      "observedAt": "2026-11-22T16:34:58.435Z",
+      "httpStatus": 200,
+      "htmlSha256": "9e7d748525e58ebb8dbb678f8489ae9cfb8562cad526788852d11d81e8f9f575"
+    },
+    {
+      "bvid": "BV1Dn4b6vEB7",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E9%B2%B8%E9%B1%BC%E5%A8%98%20%E7%BF%BB%E5%94%B1%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "title": "Bad Apple!! ｜鲸鱼娘小D 翻唱 MV（黑白剪影 · 歌词版）",
+      "publisher": "鲸鱼娘小D丶",
+      "observedAt": "2026-11-22T16:34:58.435Z",
+      "httpStatus": 200,
+      "htmlSha256": "9e7d748525e58ebb8dbb678f8489ae9cfb8562cad526788852d11d81e8f9f575"
+    },
+    {
+      "bvid": "BV1ebW86MENv",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%B0%8F%E7%B1%B3%20MiMo%E5%A8%98%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "title": "mimo娘",
+      "publisher": "ARSlime",
+      "observedAt": "2026-11-22T16:34:58.442Z",
+      "httpStatus": 200,
+      "htmlSha256": "84a3def6c6d3d02d3407853c68b2d51d99dbc03c26b02191738f16d29db35bf6"
+    },
+    {
+      "bvid": "BV1SYae6hEt6",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%B0%8F%E7%B1%B3%20MiMo%E5%A8%98%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "title": "MiMo娘形象，原图见评论",
+      "publisher": "末影小小人",
+      "observedAt": "2026-11-22T16:34:58.442Z",
+      "httpStatus": 200,
+      "htmlSha256": "84a3def6c6d3d02d3407853c68b2d51d99dbc03c26b02191738f16d29db35bf6"
+    }
+  ]
+}

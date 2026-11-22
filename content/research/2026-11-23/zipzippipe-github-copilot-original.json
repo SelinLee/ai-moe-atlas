@@ -1,0 +1,47 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:36:17.629Z",
+  "url": "https://www.bilibili.com/opus/1258988140077514757",
+  "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1258988140077514757",
+  "bodySha256": "bdf0cef4d7308a04fb0a4a950dc71e8c845f5b258bfc91516bf3681b5d468d6f",
+  "postTitle": "GitHub Copilot",
+  "creator": {
+    "name": "ZipZipPipe",
+    "mid": 4168597
+  },
+  "publicPage": {
+    "title": "ZipZipPipe的动态 - 哔哩哔哩",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:36:35.979Z",
+    "htmlSha256": "9941ea0ddbbb8c2614a2de9d80ed4ed4da85cd6ac5ac8808ff2f96ca17ec0b6d"
+  },
+  "files": [
+    {
+      "position": 1,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/c791c9a063b0c2e4fbbf58b7a20b2d064168597.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:36:46.277Z",
+      "width": 1152,
+      "height": 2048,
+      "format": "png",
+      "bytes": 2695515,
+      "sourceSha256": "4978e1ee21470cd1a1dd550a83b259e7e55f78204a3166f3f4f47fc9e34c364a"
+    }
+  ],
+  "officialProduct": {
+    "key": "ghcopilot",
+    "url": "https://docs.github.com/en/copilot/get-started/about-github-copilot",
+    "finalUrl": "https://docs.github.com/en/copilot/get-started/about-github-copilot",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:36:20.837Z",
+    "title": "About GitHub Copilot - GitHub Docs",
+    "visible": [
+      "HomeGitHub CopilotGet startedAbout Copilot",
+      "GitHub Copilot",
+      "About GitHub Copilot"
+    ],
+    "htmlSha256": "af5fa94c227505800f33a63aed881fcd30c9a77b601547315875945f39416cca"
+  },
+  "archive": null,
+  "scope": "The creator’s post title and original PNG were checked."
+}

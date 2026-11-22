@@ -1,0 +1,47 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:36:17.663Z",
+  "url": "https://www.bilibili.com/opus/1257825333538717705",
+  "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1257825333538717705",
+  "bodySha256": "c0d502f38d13ae511ff8c50580fee4f29dacd5acce893cbbceff95e892daecd7",
+  "postTitle": "lobehub娘",
+  "creator": {
+    "name": "ZipZipPipe",
+    "mid": 4168597
+  },
+  "publicPage": {
+    "title": "ZipZipPipe的动态 - 哔哩哔哩",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:36:35.130Z",
+    "htmlSha256": "bdcd0575a2e2e18353640444410d941a4c56e289b8d168dd181787d2bb72cffe"
+  },
+  "files": [
+    {
+      "position": 1,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/7d2ce06dfd9e963a4956ed679367e96c4168597.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:36:45.629Z",
+      "width": 1152,
+      "height": 2048,
+      "format": "png",
+      "bytes": 2388955,
+      "sourceSha256": "2decd148d7db64957f6ace68bada0be346acf5430554ed43554e39c4c1a28352"
+    }
+  ],
+  "officialProduct": {
+    "key": "lobe",
+    "url": "https://lobehub.com/",
+    "finalUrl": "https://lobehub.com/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:36:20.807Z",
+    "title": "LobeHub - Super-Agents on Your Team",
+    "visible": [
+      "LobeHub",
+      "LobeHub workspace · 12 channels",
+      "LobeHub Community · 5 channels"
+    ],
+    "htmlSha256": "243e707b471744c08788c49e42c5383ac9b2eceba24bb63d1dd3df13cbb46278"
+  },
+  "archive": null,
+  "scope": "The creator’s post title and original PNG were checked."
+}

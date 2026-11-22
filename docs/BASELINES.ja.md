@@ -22,6 +22,8 @@
 
 2026年11月23日。ZipZipPipe の RWKV と、甶丶の MOSS・蚂蚁百霊・雲知声 U2-Flash の出典を追加。Pixiv 原作品集の9枚目では、腰の丸いタグに RWKV と記載。ほかの3件は作者の原投稿で設定画を照合。 [RWKV の原画確認](../content/research/2026-11-23/zipzippipe-pixiv-first-gallery-rwkv.json)
 
+2026年11月23日。作者の Pixiv 作品集12枚目の 3072 × 5504 JPEG と、lmy414 固定版の 1143 × 2048 PNG は同じ百度文心の絵柄。各ファイルのハッシュを記録。階躍娘2版と他の AI ツールの擬人化を追加。甶丶の階躍娘 PNG 3枚は作者が提出したファイルとバイト単位で一致。 [百度文心の原画確認](../content/research/2026-11-23/zipzippipe-ernie-pixiv-page-twelve.json) · [階躍娘の投稿確認](../content/research/2026-11-23/fuh-stepfun-original.json)
+
 | AI | 優先候補 | 残りの作業 |
 | --- | --- | --- |
 | DeepSeek | 収集済みクジラ娘メイド素材 | 利用可能。上善无形 → ZipZipPipe → Small-tailqwq のクレジットを保持 |

@@ -1,0 +1,43 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:36:17.663Z",
+  "url": "https://www.bilibili.com/opus/1254840996970102805",
+  "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1254840996970102805",
+  "bodySha256": "211e11c9fb3aab78f32899df0cadc9670c7fe8d6bd0cdc729729f912fe851ad5",
+  "postTitle": "昇腾娘",
+  "creator": {
+    "name": "ZipZipPipe",
+    "mid": 4168597
+  },
+  "publicPage": {
+    "title": "ZipZipPipe的动态 - 哔哩哔哩",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:36:37.700Z",
+    "htmlSha256": "07f4a2a115b6ff7d319d17eb01e96b3a3e63d893de0b75e2285b619ac01e6c65"
+  },
+  "files": [
+    {
+      "position": 1,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/99c25a09188e27100933426d22437ffd4168597.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:36:47.572Z",
+      "width": 1152,
+      "height": 2048,
+      "format": "png",
+      "bytes": 2858327,
+      "sourceSha256": "86cdc01c94b33940112dfce3f6149875458ba1f0743f37ec4e3e9b431cb43196"
+    }
+  ],
+  "officialProduct": {
+    "key": "ascend",
+    "url": "https://www.hiascend.com/en/",
+    "finalUrl": "https://www.hiascend.com/en-sg/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:36:30.124Z",
+    "title": "Ascend Community",
+    "visible": [],
+    "htmlSha256": "c223f485d27c67e82a9e578e18f88eeef8ec40e5f07d8da7a08e7f6f378df7ee"
+  },
+  "archive": null,
+  "scope": "The creator’s post title and original PNG were checked."
+}

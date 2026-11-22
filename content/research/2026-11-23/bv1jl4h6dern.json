@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:37:13.663Z",
+  "url": "https://www.bilibili.com/video/BV1jL4H6dErN/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jL4H6dErN",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1jL4H6dErN",
+    "title": "当GLM娘，KIMI娘、大肥鱼一桌",
+    "owner": {
+      "name": "卑微的小王啊-",
+      "mid": 475797263
+    },
+    "pubdate": 1794050589,
+    "duration": 11
+  },
+  "descriptionSha256": "afac38cb118f3321a591b9430c84b0cba641410e131d2364c9cce9a0b2573e86",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Kimi%E5%A8%98%20%E5%8A%A8%E7%94%BB%20%E7%9F%AD%E7%89%87&order=pubdate",
+    "title": "当GLM娘，KIMI娘、大肥鱼一桌",
+    "publisher": "卑微的小王啊-",
+    "observedAt": "2026-11-22T16:34:58.430Z",
+    "httpStatus": 200,
+    "htmlSha256": "2a8b0a81b66dffa0e5e62375e579dd84781d2f27541ef2b0464bd03f75511714"
+  }
+}

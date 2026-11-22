@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:37:13.643Z",
+  "url": "https://www.bilibili.com/video/BV1JjHL6wE8q/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JjHL6wE8q",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1JjHL6wE8q",
+    "title": "Mili《world.execute(me);》同人 MV｜Grok 娘 × CRT 终端",
+    "owner": {
+      "name": "友利奈绪太可爱",
+      "mid": 10024289
+    },
+    "pubdate": 1791112741,
+    "duration": 212
+  },
+  "descriptionSha256": "84a54c0892998dbecfdd5f3100e5f8ed3846d7acc1eb04197642d3786c16b21d",
+  "uploaderCredits": [
+    "Mili"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20MV&order=pubdate",
+    "title": "Mili《world.execute(me);》同人 MV｜Grok 娘 × CRT 终端",
+    "publisher": "友利奈绪太可爱",
+    "observedAt": "2026-11-22T16:34:55.835Z",
+    "httpStatus": 200,
+    "htmlSha256": "e2dc16216e680a12113bf0ebab0fda0d384d75f021dec1dff3badd95a94f7673"
+  }
+}

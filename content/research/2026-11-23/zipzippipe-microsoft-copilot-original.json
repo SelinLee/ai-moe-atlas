@@ -1,0 +1,47 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:36:17.740Z",
+  "url": "https://www.bilibili.com/opus/1258535892903002133",
+  "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1258535892903002133",
+  "bodySha256": "9b9677e1293ef21bb2330baeb9858d223ea3fdeb5d995679a987ec8dde2bf20d",
+  "postTitle": "Microsoft Copilot",
+  "creator": {
+    "name": "ZipZipPipe",
+    "mid": 4168597
+  },
+  "publicPage": {
+    "title": "ZipZipPipe的动态 - 哔哩哔哩",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:36:36.847Z",
+    "htmlSha256": "5ae5e3fabe276816d5f3aad44bc007b9e4593a8193a91b45d19c6906fbc764d3"
+  },
+  "files": [
+    {
+      "position": 1,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/5bc2e51a38c02ebc637f8b2ba84ed7b64168597.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:36:46.957Z",
+      "width": 1152,
+      "height": 2048,
+      "format": "png",
+      "bytes": 2598507,
+      "sourceSha256": "0e93963c2b2675b1d1c1cdecbf490e1ab13bba8cfabf37dcf344ff048e3af32e"
+    }
+  ],
+  "officialProduct": {
+    "key": "mscopilot",
+    "url": "https://www.microsoft.com/en-us/microsoft-copilot",
+    "finalUrl": "https://www.microsoft.com/en-us/copilot",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:36:27.611Z",
+    "title": "Microsoft Copilot: AI built for work",
+    "visible": [
+      "Copilot",
+      "Open Copilot",
+      "Explore the latest Copilot announcements at Microsoft Ignite."
+    ],
+    "htmlSha256": "d85ea2a26b77ff5d7dfbfce33143ae90d451760e3925bd2d293ee1d7169fdf09"
+  },
+  "archive": null,
+  "scope": "The creator’s post title and original PNG were checked."
+}

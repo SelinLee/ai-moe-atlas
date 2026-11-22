@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:37:12.651Z",
+  "url": "https://www.bilibili.com/video/BV1Jox76EEN4/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Jox76EEN4",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Jox76EEN4",
+    "title": "step5阶跃妹直出MAD OP视频，瘫晕在原地，AI全自动做动画",
+    "owner": {
+      "name": "你好我是张德帅",
+      "mid": 172258556
+    },
+    "pubdate": 1793185120,
+    "duration": 16
+  },
+  "descriptionSha256": "c2c89dcf82b2f3d730d9455cab01608e2fef86a85c63dffc90408ce85c54accd",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E9%98%B6%E8%B7%83%E5%A8%98%20AI%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "title": "step5阶跃妹直出MAD OP视频，瘫晕在原地，AI全自动做动画",
+    "publisher": "你好我是张德帅",
+    "observedAt": "2026-11-22T16:34:55.825Z",
+    "httpStatus": 200,
+    "htmlSha256": "8908d4c49b37563ded395a666d7e6828e6e0a6ecef9d4d8efa5720ecaf2d10a1"
+  }
+}

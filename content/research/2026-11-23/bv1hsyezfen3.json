@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:37:12.653Z",
+  "url": "https://www.bilibili.com/video/BV1HsyezFEn3/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HsyezFEn3",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1HsyezFEn3",
+    "title": "AI娘系列｜五位AI娘裙装合集",
+    "owner": {
+      "name": "开拓者天下第一可爱",
+      "mid": 3706990962412123
+    },
+    "pubdate": 1795262422,
+    "duration": 73
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20MV&order=pubdate",
+    "title": "AI娘系列｜五位AI娘裙装合集",
+    "publisher": "开拓者天下第一可爱",
+    "observedAt": "2026-11-22T16:34:55.835Z",
+    "httpStatus": 200,
+    "htmlSha256": "e2dc16216e680a12113bf0ebab0fda0d384d75f021dec1dff3badd95a94f7673"
+  }
+}

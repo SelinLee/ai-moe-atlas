@@ -2431,48 +2431,48 @@
       "ja": "百度文心 · ZipZipPipe"
     },
     "description": {
-      "zh": "ZipZipPipe 在《AI娘的日常》封面点名的百度文心拟人角色。",
-      "en": "ZipZipPipe’s Baidu ERNIE personification identified in the AI Girls’ Daily Life cover.",
-      "ja": "ZipZipPipe が『AI 娘の日常』の表紙で百度文心と明記した擬人化キャラクター。"
+      "zh": "ZipZipPipe《AI娘化》第 12 张中的百度文心拟人。",
+      "en": "ZipZipPipe’s Baidu ERNIE personification on page 12 of AI Girls.",
+      "ja": "ZipZipPipe の『AI娘化』12枚目に掲載された百度文心の擬人化。"
     },
     "story": {
-      "zh": "作者说明封面的蓝发角色是百度文心，橘发角色是 Claude。",
-      "en": "The creator identifies the blue-haired character as Baidu ERNIE and the orange-haired character as Claude.",
-      "ja": "作者は表紙の青髪を百度文心、橙髪を Claude と説明。"
+      "zh": "固定档案以文心一言娘归类蓝发轮椅立绘。画面与作者《AI娘化》第 12 张一致。两份文件分别为 1143 × 2048 PNG 和 3072 × 5504 JPG。",
+      "en": "The pinned archive files the blue-haired wheelchair portrait under ERNIE. Its artwork matches image 12 of the creator’s Pixiv gallery. The files are a 1143 × 2048 PNG and a 3072 × 5504 JPEG.",
+      "ja": "固定版アーカイブでは青髪で車椅子の立ち絵を文心一言娘として分類。作者の Pixiv 作品集の12枚目と画面が一致。各ファイルは 1143 × 2048 PNG と 3072 × 5504 JPEG。"
     },
     "features": {
-      "zh": "已核对 2560 × 1440 视频封面。独立立绘出处仍待确认。",
-      "en": "The 2560 × 1440 video cover was verified. A standalone portrait source remains open.",
-      "ja": "2560 × 1440 の動画表紙を照合。単独立ち絵の出典は確認待ち。"
+      "zh": "蓝发、轮椅、呼吸面罩和成摞的书。作者也在视频简介中把蓝发封面角色标为百度文心。",
+      "en": "Blue hair, a wheelchair, an oxygen mask and stacks of books. The creator also identifies the blue-haired cover character as Baidu ERNIE.",
+      "ja": "青髪、車椅子、酸素マスクと積み重ねた本。作者は別の動画概要欄でも青髪の表紙キャラを百度文心と記載。"
     },
     "author": "ZipZipPipe",
     "authorUrl": "https://space.bilibili.com/4168597",
-    "source": "https://www.bilibili.com/video/BV1mwRzBdEzk/",
-    "sourceTitle": "AI娘的日常（大概?）",
-    "originalPublication": "https://www.bilibili.com/video/BV1mwRzBdEzk/",
+    "source": "https://www.pixiv.net/artworks/148186519",
+    "sourceTitle": "AI娘化",
+    "originalPublication": "https://www.pixiv.net/artworks/148186519",
     "sourceStatus": "creator-published",
     "attribution": [
       {
         "name": "ZipZipPipe",
         "url": "https://space.bilibili.com/4168597",
         "role": "original-character",
-        "publication": "https://www.bilibili.com/video/BV1mwRzBdEzk/"
+        "publication": "https://www.pixiv.net/artworks/148186519"
       }
     ],
-    "method": "not-disclosed",
+    "method": "ai-generated",
     "license": "source-only",
-    "licenseUrl": "https://www.bilibili.com/video/BV1mwRzBdEzk/",
+    "licenseUrl": "https://www.pixiv.net/artworks/148186519",
     "downloadable": false,
     "bg": "#e3edfc",
     "color": "#32538d",
-    "verifiedAt": "2026-11-22",
+    "verifiedAt": "2026-11-23",
     "origin": "web-collected",
     "preview": null,
     "assets": [],
     "provenanceNote": {
-      "zh": "简介中的 CC BY-NC-SA 4.0 声明明确指向鲸鱼娘二创。文心一言和 Claude 封面素材的具体再分发许可待核。",
-      "en": "The description’s CC BY-NC-SA 4.0 statement explicitly covers the whale-girl adaptation. Item-specific redistribution terms for the ERNIE and Claude cover art await verification.",
-      "ja": "説明欄の CC BY-NC-SA 4.0 表示はクジラ娘の二次創作を対象とする。文心一言と Claude の表紙画像の個別再配布条件は確認待ち。"
+      "zh": "Pixiv 图集作者要求署名、禁止商用。固定档案另说明原图和派生设定图的权利范围。",
+      "en": "The Pixiv creator requires attribution and prohibits commercial use. The pinned archive describes the original and derived design sheets separately.",
+      "ja": "Pixiv の作者はクレジットを必須とし、商用利用を禁止。固定版のアーカイブに原画と派生設定資料の範囲を個別に記載。"
     }
   },
   {
@@ -2697,6 +2697,454 @@
       "zh": "作者要求署名并禁止商用。图集对衍生自上善无形的 DeepSeek 形象另注明 CC BY-NC-SA 4.0。",
       "en": "The creator requires attribution and prohibits commercial use. The gallery separately names CC BY-NC-SA 4.0 for the DeepSeek design derived from 上善无形.",
       "ja": "作者はクレジットを必須とし、商用利用を禁止。上善无形を原型とする DeepSeek のデザインには別途 CC BY-NC-SA 4.0 と記載。"
+    }
+  },
+  {
+    "id": "zipzippipe-stepfun",
+    "entity": "stepfun",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "阶跃娘 · ZipZipPipe",
+      "en": "StepFun Girl · ZipZipPipe",
+      "ja": "階躍娘 · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 在 B 站以「StepFun娘化」发布的社区立绘。",
+      "en": "ZipZipPipe’s fan portrait published as StepFun Girl on Bilibili.",
+      "ja": "ZipZipPipe が Bilibili に公開した「StepFun娘化」の立ち絵。"
+    },
+    "story": {
+      "zh": "作者在 10 月发布独立立绘。已核对原帖的 1152 × 2048 PNG。",
+      "en": "The creator published the standalone portrait in October. The original 1152 × 2048 PNG was verified.",
+      "ja": "作者は10月に単独の立ち絵を公開。1152 × 2048 PNG を照合。"
+    },
+    "features": {
+      "zh": "深蓝长发、白衬衣、黑色马甲和蓝色渐变裙摆。",
+      "en": "Dark blue hair, a white shirt, a black vest and a blue gradient skirt.",
+      "ja": "濃い青の長髪、白いシャツ、黒いベスト、青のグラデーションのスカート。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/opus/1257516954839678982",
+    "sourceTitle": "StepFun娘化",
+    "originalPublication": "https://www.bilibili.com/opus/1257516954839678982",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1257516954839678982"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1257516954839678982",
+    "downloadable": false,
+    "bg": "#e4edf9",
+    "color": "#315785",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者原帖公开展示这版形象。逐件的转载与改编条件待核。",
+      "en": "The author displays this design in the original post. Artwork-specific republication and adaptation terms need review.",
+      "ja": "作者が原投稿で公開したデザイン。画像別の転載・改変条件は確認待ち。"
+    }
+  },
+  {
+    "id": "fuh-stepfun",
+    "entity": "stepfun",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "阶跃娘 · 甶丶",
+      "en": "StepFun Girl · 甶丶",
+      "ja": "階躍娘 · 甶丶"
+    },
+    "description": {
+      "zh": "甶丶在 B 站公开的阶跃娘，三张 PNG 与作者提交给蓝色大肥鱼的文件逐字节一致。",
+      "en": "甶丶’s StepFun Girl on Bilibili. All three PNGs match the creator’s submission to the Blue Fat Fish archive byte for byte.",
+      "ja": "甶丶の階躍娘。Bilibili の PNG 3枚は作者が藍色大肥魚に投稿したファイルとバイト単位で一致。"
+    },
+    "story": {
+      "zh": "作者投稿时说明，立绘及专属道具参考了阶跃星辰的官方表情包。",
+      "en": "The creator’s submission credits StepFun’s official stickers as references for the portrait and its prop.",
+      "ja": "作者は投稿で、立ち絵と専用小物の参考に StepFun 公式スタンプを挙げている。"
+    },
+    "features": {
+      "zh": "浅蓝长发、黑白披风和方形提灯。投稿含三个视图。",
+      "en": "Light blue hair, a black-and-white cape and a cube lantern. The post includes three images.",
+      "ja": "淡い青の長髪、白黒のマントと立方体のランタン。投稿には画像3枚を掲載。"
+    },
+    "author": "甶丶",
+    "authorUrl": "https://space.bilibili.com/1758596086",
+    "source": "https://www.bilibili.com/opus/1250303372583501829",
+    "sourceTitle": "step娘化",
+    "originalPublication": "https://www.bilibili.com/opus/1250303372583501829",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1250303372583501829"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/lmy414/ai-girl-stickers/issues/19",
+    "downloadable": false,
+    "bg": "#e9f3fa",
+    "color": "#4b6784",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者在第 19 号投稿中标注 AI 生成及 CC BY-NC，并允许投稿接收站收录和提供下载。投稿未写明许可版本。",
+      "en": "In submission #19, the creator marks the work as AI-generated and CC BY-NC, and permits the receiving archive to host downloads. The license version is unspecified.",
+      "ja": "投稿第19号に AI 生成・CC BY-NC と記載し、投稿先での収録とダウンロード提供を許可。ライセンスの版は記載されていない。"
+    }
+  },
+  {
+    "id": "zipzippipe-lobehub",
+    "entity": "lobehub",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "LobeHub 娘 · ZipZipPipe",
+      "en": "LobeHub Girl · ZipZipPipe",
+      "ja": "LobeHub 娘 · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 公开的 LobeHub 拟人立绘。",
+      "en": "A LobeHub personification published by ZipZipPipe.",
+      "ja": "ZipZipPipe が公開した LobeHub の擬人化立ち絵。"
+    },
+    "story": {
+      "zh": "原帖单独发布这张 1152 × 2048 PNG，已核对原始文件哈希。",
+      "en": "The original post contains a single 1152 × 2048 PNG, which was checked by hash.",
+      "ja": "原投稿の画像は 1152 × 2048 PNG 1枚。原画のハッシュを照合。"
+    },
+    "features": {
+      "zh": "紫色拼接长外套、粉色发梢和头顶的小玩偶。",
+      "en": "A purple paneled coat, pink-tipped hair and a small toy perched on the head.",
+      "ja": "紫の切り替えロングコート、ピンクの毛先と頭に載る小さなぬいぐるみ。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/opus/1257825333538717705",
+    "sourceTitle": "lobehub娘",
+    "originalPublication": "https://www.bilibili.com/opus/1257825333538717705",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1257825333538717705"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1257825333538717705",
+    "downloadable": false,
+    "bg": "#eee8fa",
+    "color": "#614080",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者原帖公开展示这版形象。逐件的转载与改编条件待核。",
+      "en": "The author displays this design in the original post. Artwork-specific republication and adaptation terms need review.",
+      "ja": "作者が原投稿で公開したデザイン。画像別の転載・改変条件は確認待ち。"
+    }
+  },
+  {
+    "id": "zipzippipe-github-copilot",
+    "entity": "github-copilot",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "GitHub Copilot 娘 · ZipZipPipe",
+      "en": "GitHub Copilot Girl · ZipZipPipe",
+      "ja": "GitHub Copilot 娘 · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 单独发布的 GitHub Copilot 飞行员形象。",
+      "en": "ZipZipPipe’s standalone GitHub Copilot aviator design.",
+      "ja": "ZipZipPipe が単独で公開した GitHub Copilot の飛行士デザイン。"
+    },
+    "story": {
+      "zh": "作者在原帖标题中写明 GitHub Copilot，正文使用飞行员电台口吻。已核对原帖 PNG。",
+      "en": "The title names GitHub Copilot and the caption uses pilot radio dialogue. The original PNG was verified.",
+      "ja": "題名は GitHub Copilot、本文は飛行士の無線連絡風。原投稿の PNG を照合。"
+    },
+    "features": {
+      "zh": "护目镜飞行帽、蓝围巾、棕色长靴和白羽翼。",
+      "en": "A flight cap with goggles, a blue scarf, tall brown boots and white wings.",
+      "ja": "ゴーグル付きの飛行帽、青いマフラー、茶色のロングブーツと白い翼。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/opus/1258988140077514757",
+    "sourceTitle": "GitHub Copilot",
+    "originalPublication": "https://www.bilibili.com/opus/1258988140077514757",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1258988140077514757"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1258988140077514757",
+    "downloadable": false,
+    "bg": "#ebeefa",
+    "color": "#475987",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者原帖公开展示这版形象。逐件的转载与改编条件待核。",
+      "en": "The author displays this design in the original post. Artwork-specific republication and adaptation terms need review.",
+      "ja": "作者が原投稿で公開したデザイン。画像別の転載・改変条件は確認待ち。"
+    }
+  },
+  {
+    "id": "zipzippipe-microsoft-copilot",
+    "entity": "copilot",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Microsoft Copilot 娘 · ZipZipPipe",
+      "en": "Microsoft Copilot Girl · ZipZipPipe",
+      "ja": "Microsoft Copilot 娘 · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 单独发布的 Microsoft Copilot 拟人立绘。",
+      "en": "ZipZipPipe’s standalone Microsoft Copilot personification.",
+      "ja": "ZipZipPipe が単独で公開した Microsoft Copilot の擬人化立ち絵。"
+    },
+    "story": {
+      "zh": "作者在另一条动态单独发布了 GitHub Copilot 形象。两条原帖及原图分别核对。",
+      "en": "The creator published a separate GitHub Copilot design. Both posts and their respective image files were verified.",
+      "ja": "作者は別の投稿で GitHub Copilot も公開。2つの投稿と各画像ファイルを照合。"
+    },
+    "features": {
+      "zh": "彩虹渐变长发、浅色外套和脚下的发光圆盘。",
+      "en": "Rainbow-gradient hair, a light-colored coat and a glowing disk beneath her feet.",
+      "ja": "虹色のグラデーション髪、淡色のコート、足元の光る円盤。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/opus/1258535892903002133",
+    "sourceTitle": "Microsoft Copilot",
+    "originalPublication": "https://www.bilibili.com/opus/1258535892903002133",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1258535892903002133"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1258535892903002133",
+    "downloadable": false,
+    "bg": "#edf2fa",
+    "color": "#4a5d8a",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者原帖公开展示这版形象。逐件的转载与改编条件待核。",
+      "en": "The author displays this design in the original post. Artwork-specific republication and adaptation terms need review.",
+      "ja": "作者が原投稿で公開したデザイン。画像別の転載・改変条件は確認待ち。"
+    }
+  },
+  {
+    "id": "zipzippipe-ascend",
+    "entity": "ascend",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "昇腾娘 · ZipZipPipe",
+      "en": "Ascend Girl · ZipZipPipe",
+      "ja": "昇騰娘 · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 为华为昇腾 AI 平台发布的拟人立绘。",
+      "en": "ZipZipPipe’s fan personification of Huawei’s Ascend AI platform.",
+      "ja": "ZipZipPipe による Huawei 昇騰 AI プラットフォームの擬人化立ち絵。"
+    },
+    "story": {
+      "zh": "原帖标题为「昇腾娘」，附有一张 1152 × 2048 PNG。",
+      "en": "The original post is titled Ascend Girl and contains a 1152 × 2048 PNG.",
+      "ja": "原投稿の題名は「昇腾娘」。1152 × 2048 PNG 1枚を掲載。"
+    },
+    "features": {
+      "zh": "灰白长发、尖耳、红黑工装和红色挑染。",
+      "en": "Long silver hair, pointed ears, red highlights and black-and-red workwear.",
+      "ja": "銀色の長髪、尖った耳、赤いメッシュと赤黒の作業服。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/opus/1254840996970102805",
+    "sourceTitle": "昇腾娘",
+    "originalPublication": "https://www.bilibili.com/opus/1254840996970102805",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1254840996970102805"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1254840996970102805",
+    "downloadable": false,
+    "bg": "#f5e8e9",
+    "color": "#833e49",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者原帖公开展示这版形象。逐件的转载与改编条件待核。",
+      "en": "The author displays this design in the original post. Artwork-specific republication and adaptation terms need review.",
+      "ja": "作者が原投稿で公開したデザイン。画像別の転載・改変条件は確認待ち。"
+    }
+  },
+  {
+    "id": "zipzippipe-comfyui",
+    "entity": "comfyui",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "ComfyUI 娘 · ZipZipPipe",
+      "en": "ComfyUI Girl · ZipZipPipe",
+      "ja": "ComfyUI 娘 · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe《一些更新》第 5 张中的 ComfyUI 社区拟人。",
+      "en": "ZipZipPipe’s ComfyUI personification on page five of Some Updates.",
+      "ja": "ZipZipPipe の『一些更新』5枚目に掲載された ComfyUI の擬人化。"
+    },
+    "story": {
+      "zh": "Pixiv 图集标记了 AI 生成。已复核这张原 JPG 的哈希。",
+      "en": "The Pixiv gallery marks AI generation. The original JPEG was rechecked by hash.",
+      "ja": "Pixiv の作品集に AI 生成の表示。原寸 JPEG のハッシュを再照合。"
+    },
+    "features": {
+      "zh": "安全帽和工装胸标可读到 ComfyUI 字样。角色还带有紫色角翼和一卷电缆。",
+      "en": "ComfyUI appears on the safety helmet and workwear badge. The character also has purple horns and wings and carries a coil of cable.",
+      "ja": "ヘルメットと作業服のバッジに ComfyUI とある。紫の角と翼を持ち、ケーブルを抱えている。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://www.pixiv.net/users/18604994",
+    "source": "https://www.pixiv.net/artworks/150718881",
+    "sourceTitle": "一些更新",
+    "originalPublication": "https://www.pixiv.net/artworks/150718881",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "original-character",
+        "publication": "https://www.pixiv.net/artworks/150718881"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://www.pixiv.net/artworks/150718881",
+    "downloadable": false,
+    "bg": "#f0ebf9",
+    "color": "#69428f",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "保留作者原帖。逐页角色归属、展示及再分发条件待核。",
+      "en": "Links to the creator’s original post. Per-page character identifications, display terms and redistribution terms remain open.",
+      "ja": "作者の原投稿を掲載。ページごとのキャラクター、表示・再配布条件は確認待ち。"
+    }
+  },
+  {
+    "id": "fuh-dots-note",
+    "entity": "xiaohongshu-dots",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "小红书点点娘 · 甶丶",
+      "en": "Xiaohongshu Dots Girl · 甶丶",
+      "ja": "小紅書 点点娘 · 甶丶"
+    },
+    "description": {
+      "zh": "甶丶公开的 dots 模型拟人。作者在原帖用 dots-note 区分模型名。",
+      "en": "甶丶’s fan personification of the dots model. The creator identifies it as dots-note in the original post.",
+      "ja": "甶丶による dots モデルの擬人化。作者は原投稿で dots-note と明記。"
+    },
+    "story": {
+      "zh": "13 张设定图已核对原图与来源。点点工作室的官方页面确认小红书与 dots 的关系。",
+      "en": "All 13 design images were traced to their source. Dots Studio’s official page identifies its connection to Xiaohongshu.",
+      "ja": "設定画13枚の原画と出典を照合。点点モデルスタジオの公式ページで小紅書との関係を確認。"
+    },
+    "features": {
+      "zh": "红色兜帽与狼耳。",
+      "en": "A red hood and wolf ears.",
+      "ja": "赤いフードと狼の耳。"
+    },
+    "author": "甶丶",
+    "authorUrl": "https://space.bilibili.com/1758596086",
+    "source": "https://www.bilibili.com/opus/1262407612636332038",
+    "sourceTitle": "小红书ai娘化形象",
+    "originalPublication": "https://www.bilibili.com/opus/1262407612636332038",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1262407612636332038"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1262407612636332038",
+    "downloadable": false,
+    "bg": "#fae9ec",
+    "color": "#893a50",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+      "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+      "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
     }
   }
 ]

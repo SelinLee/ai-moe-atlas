@@ -56,7 +56,8 @@
       {"id": "bv1qces6sebu", "type": "mv"},
       {"id": "bv1qhpy6ue1s", "type": "mv"},
       {"id": "bv1arpz6web7", "type": "mv"},
-      {"id": "bv17xpq6mer3", "type": "mv"}
+      {"id": "bv17xpq6mer3", "type": "mv"},
+      {"id": "bv1jjhl6we8q", "type": "mv"}
     ]
   },
   {
@@ -456,5 +457,17 @@
     "title": {"zh": "青空狂想曲", "en": "Aozora no Rhapsody", "ja": "青空のラプソディ"},
     "original": {"credit": "fhána", "url": "https://www.youtube.com/watch?v=maKok2RItxM"},
     "versions": [{"id": "bv1cuwe6neuu", "type": "mv"}]
+  },
+  {
+    "id": "kda-firestarter",
+    "title": {"zh": "FIRESTARTER（燃）", "en": "FIRESTARTER", "ja": "FIRESTARTER"},
+    "original": {"credit": "K/DA · League of Legends Music · i-dle · Mimi Webb", "url": "https://music.apple.com/us/album/firestarter-feat-sophie-powers-miyeon-soyeon-single/6813196868"},
+    "versions": [{"id": "bv16hwi6ced7", "type": "mv"}]
+  },
+  {
+    "id": "bad-apple-nomico",
+    "title": {"zh": "Bad Apple!! feat. nomico", "en": "Bad Apple!! feat. nomico", "ja": "Bad Apple!! feat. nomico"},
+    "original": {"credit": "Alstroemeria Records feat. nomico · ZUN", "url": "https://www.touhou-music.jp/introduce/10th-anniversary-bad-apple-feat-nomico/"},
+    "versions": [{"id": "bv1dn4b6veb7", "type": "cover"}]
   }
 ]

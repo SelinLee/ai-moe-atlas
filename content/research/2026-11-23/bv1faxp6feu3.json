@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:37:12.663Z",
+  "url": "https://www.bilibili.com/video/BV1fAxp6fEu3/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fAxp6fEu3",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1fAxp6fEu3",
+    "title": "claude大小姐也要跳寄明月吗........",
+    "owner": {
+      "name": "苍梧寻九嶷",
+      "mid": 404491406
+    },
+    "pubdate": 1793504374,
+    "duration": 100
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%20%E5%A8%98%20%E5%A4%8D%E5%88%BB%20OP&order=pubdate",
+    "title": "claude大小姐也要跳寄明月吗........",
+    "publisher": "苍梧寻九嶷",
+    "observedAt": "2026-11-22T16:34:55.823Z",
+    "httpStatus": 200,
+    "htmlSha256": "63f3e4adc1c17acbdbb168d906c4fd6da559a49ea5f6f5e634c8bded957fb7f9"
+  }
+}

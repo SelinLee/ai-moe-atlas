@@ -1,0 +1,34 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:37:14.271Z",
+  "url": "https://www.bilibili.com/video/BV1Dn4b6vEB7/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Dn4b6vEB7",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Dn4b6vEB7",
+    "title": "Bad Apple!! ｜鲸鱼娘小D 翻唱 MV（黑白剪影 · 歌词版）",
+    "owner": {
+      "name": "鲸鱼娘小D丶",
+      "mid": 670872090
+    },
+    "pubdate": 1793876772,
+    "duration": 296
+  },
+  "descriptionSha256": "ada33f47b809c9543ed4960a8ef0220ace1c44df074c2d3d97fb265018334b64",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "上善无形",
+    "Alstroemeria Records",
+    "Lizz Robinett",
+    "ZUN"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E9%B2%B8%E9%B1%BC%E5%A8%98%20%E7%BF%BB%E5%94%B1%20%E4%BA%8C%E5%88%9B&order=pubdate",
+    "title": "Bad Apple!! ｜鲸鱼娘小D 翻唱 MV（黑白剪影 · 歌词版）",
+    "publisher": "鲸鱼娘小D丶",
+    "observedAt": "2026-11-22T16:34:58.435Z",
+    "httpStatus": 200,
+    "htmlSha256": "9e7d748525e58ebb8dbb678f8489ae9cfb8562cad526788852d11d81e8f9f575"
+  }
+}

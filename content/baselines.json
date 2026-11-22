@@ -182,11 +182,11 @@
   {
     "entity": "ernie",
     "characterId": "zipzippipe-ernie",
-    "reviewedAt": "2026-11-22",
+    "reviewedAt": "2026-11-23",
     "nextAction": {
-      "zh": "继续核对可展示的独立原图及逐件展示与改编条款。",
-      "en": "Verify standalone artwork and file-specific display and adaptation terms.",
-      "ja": "単独原画と画像別の表示・改変条件を確認する。"
+      "zh": "逐件核对展示与改编条件。",
+      "en": "Check display and adaptation terms for each artwork.",
+      "ja": "画像ごとの表示・改変条件を確認する。"
     }
   },
   {
@@ -227,6 +227,66 @@
       "zh": "逐件核对展示与改编条件。",
       "en": "Check the display and adaptation terms for each file.",
       "ja": "画像ごとの表示・改変の条件を確認する。"
+    }
+  },
+  {
+    "entity": "stepfun",
+    "characterId": "zipzippipe-stepfun",
+    "reviewedAt": "2026-11-23",
+    "nextAction": {
+      "zh": "逐件核对展示与改编条件。",
+      "en": "Check display and adaptation terms for each artwork.",
+      "ja": "画像ごとの表示・改変条件を確認する。"
+    }
+  },
+  {
+    "entity": "lobehub",
+    "characterId": "zipzippipe-lobehub",
+    "reviewedAt": "2026-11-23",
+    "nextAction": {
+      "zh": "逐件核对展示与改编条件。",
+      "en": "Check display and adaptation terms for each artwork.",
+      "ja": "画像ごとの表示・改変条件を確認する。"
+    }
+  },
+  {
+    "entity": "github-copilot",
+    "characterId": "zipzippipe-github-copilot",
+    "reviewedAt": "2026-11-23",
+    "nextAction": {
+      "zh": "逐件核对展示与改编条件。",
+      "en": "Check display and adaptation terms for each artwork.",
+      "ja": "画像ごとの表示・改変条件を確認する。"
+    }
+  },
+  {
+    "entity": "ascend",
+    "characterId": "zipzippipe-ascend",
+    "reviewedAt": "2026-11-23",
+    "nextAction": {
+      "zh": "逐件核对展示与改编条件。",
+      "en": "Check display and adaptation terms for each artwork.",
+      "ja": "画像ごとの表示・改変条件を確認する。"
+    }
+  },
+  {
+    "entity": "comfyui",
+    "characterId": "zipzippipe-comfyui",
+    "reviewedAt": "2026-11-23",
+    "nextAction": {
+      "zh": "逐件核对展示与改编条件。",
+      "en": "Check display and adaptation terms for each artwork.",
+      "ja": "画像ごとの表示・改変条件を確認する。"
+    }
+  },
+  {
+    "entity": "xiaohongshu-dots",
+    "characterId": "fuh-dots-note",
+    "reviewedAt": "2026-11-23",
+    "nextAction": {
+      "zh": "逐件核对展示与改编条件。",
+      "en": "Check display and adaptation terms for each artwork.",
+      "ja": "画像ごとの表示・改変条件を確認する。"
     }
   }
 ]

@@ -39,11 +39,18 @@ try {
   }
   await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});
   await page.goto(`${origin}/${lang}/models/`,{waitUntil:'domcontentloaded'});
-  assert.equal(await page.locator('[data-baseline]').count(),23);
+  assert.equal(await page.locator('[data-baseline]').count(),29);
   assert.equal(await page.locator('[data-state="ready"]').count(),12);
-  assert.equal(await page.locator('[data-state="candidate"]').count(),11);
+  assert.equal(await page.locator('[data-state="candidate"]').count(),17);
   assert.equal(await page.locator('[data-state="missing"]').count(),0);
   assert.equal(await page.locator('[data-state="candidate"] img').count(),0);
+  await page.goto(`${origin}/${lang}/?model=stepfun`,{waitUntil:'domcontentloaded'});
+  const stepfunCards=page.locator('[data-card]:visible');
+  assert.equal(await stepfunCards.count(),2);
+  assert.ok(await stepfunCards.locator('a[href$="/characters/zipzippipe-stepfun/"]').first().isVisible());
+  await stepfunCards.locator('a[href$="/characters/fuh-stepfun/"]').first().click();
+  assert.ok(await page.locator('main a[href="https://www.bilibili.com/opus/1250303372583501829"]').first().isVisible());
+  assert.ok(await page.locator('main a[href="https://github.com/lmy414/ai-girl-stickers/issues/19"]').isVisible());
   await page.goto(`${origin}/${lang}/?model=rwkv`,{waitUntil:'domcontentloaded'});
   const rwkvCard=page.locator('[data-card]:visible');
   assert.equal(await rwkvCard.count(),1);
@@ -87,7 +94,7 @@ try {
   await page.goto(`${origin}/${lang}/characters/zipzippipe-chatgpt/`,{waitUntil:'domcontentloaded'});
   assert.equal(await page.locator('.observation-panel a').getAttribute('href'),'https://www.bilibili.com/video/BV14phK66Ejw/');
   await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});
-  await page.locator('#search').fill('ZipZipPipe');assert.equal(await page.locator('[data-card]:visible').count(),16);
+  await page.locator('#search').fill('ZipZipPipe');assert.equal(await page.locator('[data-card]:visible').count(),22);
   await page.locator('#search').fill('nothing-matches-xyz');await page.locator('#empty-state').waitFor({state:'visible'});
   await page.locator('#clear-filters').click();assert.equal(await page.locator('[data-card]:visible').count(),chars.length);
   await page.locator('[data-kind-filter="collected"]').click();assert.equal(await page.locator('[data-card]:visible').count(),chars.filter(c=>c.kind==='collected').length);

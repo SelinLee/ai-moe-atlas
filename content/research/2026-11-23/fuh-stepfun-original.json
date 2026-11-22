@@ -1,0 +1,105 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:36:17.652Z",
+  "url": "https://www.bilibili.com/opus/1250303372583501829",
+  "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1250303372583501829",
+  "bodySha256": "82d20f5435be666474fe1d5fd712d6401c7b788057eaf2ff003a8050eb6313ed",
+  "postTitle": "step娘化",
+  "creator": {
+    "name": "甶丶",
+    "mid": 1758596086
+  },
+  "publicPage": {
+    "title": "甶丶的动态 - 哔哩哔哩",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:36:34.265Z",
+    "htmlSha256": "60133be247cea261d04acaec5a39be1f40b2083b107d70d2ffe2bfbe029f7fd5"
+  },
+  "files": [
+    {
+      "position": 1,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/6c4d6d5ba6665dc2dbf1e068c48676831758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:36:42.927Z",
+      "width": 1086,
+      "height": 1448,
+      "format": "png",
+      "bytes": 1334377,
+      "sourceSha256": "63040314ac80392996305bde84c200dd90570fb7fccb4063cd8170ed3145459f"
+    },
+    {
+      "position": 2,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/f76aae303f4163828f3ed2e717fe980c1758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:36:45.025Z",
+      "width": 1086,
+      "height": 1448,
+      "format": "png",
+      "bytes": 1663970,
+      "sourceSha256": "6667e1fe805a65892c656fe380e1d6de7b582d27a9650f11700fb278fa0fbc1a"
+    },
+    {
+      "position": 3,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/f171733bb7182c90db7ad0fe444d16bd1758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:36:44.067Z",
+      "width": 1448,
+      "height": 1086,
+      "format": "png",
+      "bytes": 1004913,
+      "sourceSha256": "b1c3f5aad75d25adb21cd3c6085adb131c40dfc9e4a5d20dcb6b5924a829f8aa"
+    }
+  ],
+  "officialProduct": {
+    "key": "step",
+    "url": "https://www.stepfun.com/news/step-5-preview",
+    "finalUrl": "https://www.stepfun.com/news/step-5-preview",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:36:21.869Z",
+    "title": "阶跃星辰",
+    "visible": [
+      "阶跃发布旗舰模型 Step 5 Preview：向前一步，智能效率的新一代“帕累托前沿”",
+      "阶跃新一代旗舰模型 Step 5 Preview，为此而来！",
+      "这是一款面向真实世界 Agentic 任务的旗舰基座模型。我们认为，随着 Agent 从“回答问题”走向“完成任务”，日常工作主力模型的标准也在发生变化：不再只是单项能力足够强，而是要在能力、成本、效率和场景覆盖之间实现更好平衡。Step "
+    ],
+    "htmlSha256": "44c38ba69aa89f889f10f31db48d0a09f8b850b0ec70df95a6d6641d81570389"
+  },
+  "archive": {
+    "url": "https://github.com/lmy414/ai-girl-stickers/issues/19",
+    "htmlSha256": "20c283b09b3db8da60d614a70a2fcf05e10c1eb8a62df175d23457c84528f911",
+    "accessedAt": "2026-11-22T16:38:35.757Z",
+    "credit": "甶丶",
+    "aiGenerated": true,
+    "license": "CC BY-NC (version unspecified)",
+    "files": [
+      {
+        "path": "dist/submissions/originals/stepfun/issue-19-001.png",
+        "url": "https://github.com/lmy414/ai-girl-stickers/blob/03497f271d9cc3fa3628f70f98dd69786570e5cd/dist/submissions/originals/stepfun/issue-19-001.png",
+        "rawUrl": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/03497f271d9cc3fa3628f70f98dd69786570e5cd/dist/submissions/originals/stepfun/issue-19-001.png",
+        "sourceSha256": "63040314ac80392996305bde84c200dd90570fb7fccb4063cd8170ed3145459f",
+        "gitBlobSha": "aef50114dce1001af0c63318cca857859bab0bec",
+        "bytes": 1334377,
+        "commit": "03497f271d9cc3fa3628f70f98dd69786570e5cd"
+      },
+      {
+        "path": "dist/submissions/originals/stepfun/issue-19-002.png",
+        "url": "https://github.com/lmy414/ai-girl-stickers/blob/03497f271d9cc3fa3628f70f98dd69786570e5cd/dist/submissions/originals/stepfun/issue-19-002.png",
+        "rawUrl": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/03497f271d9cc3fa3628f70f98dd69786570e5cd/dist/submissions/originals/stepfun/issue-19-002.png",
+        "sourceSha256": "6667e1fe805a65892c656fe380e1d6de7b582d27a9650f11700fb278fa0fbc1a",
+        "gitBlobSha": "14a72f66bd76f291302641c33872f64b88c8bb98",
+        "bytes": 1663970,
+        "commit": "03497f271d9cc3fa3628f70f98dd69786570e5cd"
+      },
+      {
+        "path": "dist/submissions/originals/stepfun/issue-19-003.png",
+        "url": "https://github.com/lmy414/ai-girl-stickers/blob/03497f271d9cc3fa3628f70f98dd69786570e5cd/dist/submissions/originals/stepfun/issue-19-003.png",
+        "rawUrl": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/03497f271d9cc3fa3628f70f98dd69786570e5cd/dist/submissions/originals/stepfun/issue-19-003.png",
+        "sourceSha256": "b1c3f5aad75d25adb21cd3c6085adb131c40dfc9e4a5d20dcb6b5924a829f8aa",
+        "gitBlobSha": "0ad7066aeac090c47cd7805fda7cbdfe3b24e6c8",
+        "bytes": 1004913,
+        "commit": "03497f271d9cc3fa3628f70f98dd69786570e5cd"
+      }
+    ]
+  },
+  "scope": "All three creator-published attachments match the archived author submission by SHA-256."
+}

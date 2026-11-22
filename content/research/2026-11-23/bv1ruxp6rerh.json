@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:37:13.108Z",
+  "url": "https://www.bilibili.com/video/BV1Ruxp6RERh/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ruxp6RERh",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Ruxp6RERh",
+    "title": "【原创MV】凌晨三点发一句「在吗」，8 个 AI 娘抄起乐器回你｜AI 美少女战队《全员在线》交响金属",
+    "owner": {
+      "name": "老鸭AI",
+      "mid": 327881934
+    },
+    "pubdate": 1793503302,
+    "duration": 165
+  },
+  "descriptionSha256": "2230654713d6988db937469f49425745c045a39e1b163cf8c63e64a21d2d5448",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20MV&order=pubdate",
+    "title": "【原创MV】凌晨三点发一句「在吗」，8 个 AI 娘抄起乐器回你｜AI 美少女战队《全员在线》交响金属",
+    "publisher": "老鸭AI",
+    "observedAt": "2026-11-22T16:34:55.835Z",
+    "httpStatus": 200,
+    "htmlSha256": "e2dc16216e680a12113bf0ebab0fda0d384d75f021dec1dff3badd95a94f7673"
+  }
+}

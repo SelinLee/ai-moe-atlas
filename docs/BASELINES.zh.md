@@ -22,6 +22,8 @@
 
 2026-11-23 新增 ZipZipPipe 的 RWKV，以及甶丶的 MOSS、蚂蚁百灵和云知声 U2-Flash 来源词条。RWKV 在 Pixiv 原图集第 9 张，腰间圆吊牌明确写着 RWKV。其余三款逐件核对作者原帖的设定图。 [RWKV 原图核对](../content/research/2026-11-23/zipzippipe-pixiv-first-gallery-rwkv.json)
 
+2026-11-23 核对《AI娘化》第 12 张的文心娘独立立绘。作者发布的 3072 × 5504 JPG 与 lmy414 固定档案中的 1143 × 2048 PNG 对得上画面，两个文件的哈希分别保留。新增两版阶跃娘及多款工具拟人。甶丶的三张阶跃娘 PNG 与作者投稿的档案版逐字节一致。 [文心原图核对](../content/research/2026-11-23/zipzippipe-ernie-pixiv-page-twelve.json) · [阶跃投稿核对](../content/research/2026-11-23/fuh-stepfun-original.json)
+
 | AI | 优先版本 | 当前缺口 |
 | --- | --- | --- |
 | DeepSeek | 已入库的鲸鱼娘女仆素材 | 已可用；保留上善无形 → ZipZipPipe → Small-tailqwq 署名链 |

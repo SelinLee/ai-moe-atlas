@@ -1,0 +1,57 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:40:50.645Z",
+  "url": "https://github.com/Ikaros-521/orbit-plugin-dsh-pet/blob/f620ff523c088865b58d3982c9d25d07a8cd9f2b/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/Ikaros-521/orbit-plugin-dsh-pet/blob/f620ff523c088865b58d3982c9d25d07a8cd9f2b/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Ikaros-521/orbit-plugin-dsh-pet/f620ff523c088865b58d3982c9d25d07a8cd9f2b/README.md",
+    "sourceSha256": "a894a504c93a8154c72582483edcb460536cfc9cf85bfd92da5e32e3f30d45d6",
+    "gitBlobSha": "79d5d102259dac680432b248284c7823b0eead02",
+    "bytes": 4720,
+    "commit": "f620ff523c088865b58d3982c9d25d07a8cd9f2b"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/Ikaros-521/orbit-plugin-dsh-pet/blob/f620ff523c088865b58d3982c9d25d07a8cd9f2b/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Ikaros-521/orbit-plugin-dsh-pet/f620ff523c088865b58d3982c9d25d07a8cd9f2b/README.md",
+      "sourceSha256": "a894a504c93a8154c72582483edcb460536cfc9cf85bfd92da5e32e3f30d45d6",
+      "gitBlobSha": "79d5d102259dac680432b248284c7823b0eead02",
+      "bytes": 4720,
+      "commit": "f620ff523c088865b58d3982c9d25d07a8cd9f2b"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/Ikaros-521/orbit-plugin-dsh-pet/blob/f620ff523c088865b58d3982c9d25d07a8cd9f2b/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Ikaros-521/orbit-plugin-dsh-pet/f620ff523c088865b58d3982c9d25d07a8cd9f2b/LICENSE",
+      "sourceSha256": "791c4e5ede3fc5ba0d24313797180ca241a4381c7074e66838a1e59be9a87540",
+      "gitBlobSha": "50d46a79bd099e6c92af696bb528439218d698b2",
+      "bytes": 1490,
+      "commit": "f620ff523c088865b58d3982c9d25d07a8cd9f2b"
+    }
+  ],
+  "repositoryObservation": {
+    "full_name": "Ikaros-521/orbit-plugin-dsh-pet",
+    "html_url": "https://github.com/Ikaros-521/orbit-plugin-dsh-pet",
+    "stargazers_count": 0,
+    "archived": false,
+    "created_at": "2026-10-30T06:34:33Z",
+    "default_branch": "main",
+    "fork": false,
+    "description": "DSH 桌宠桥接插件 for Orbit Toolbox — 一键安装/启停/联动官方 dsh-pet（进程接管，零修改）",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA="
+    },
+    "commit": "f620ff523c088865b58d3982c9d25d07a8cd9f2b",
+    "observedAt": "2026-11-22T16:36:16.243+00:00",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:40:50.645Z"
+  },
+  "upstream": "https://github.com/PC2005-cloud/dsh-pet",
+  "scope": "Pinned documentation, repository terms and Git blob hashes were checked."
+}
