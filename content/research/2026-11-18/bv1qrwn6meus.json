@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:24:14.588Z",
+  "url": "https://www.bilibili.com/video/BV1QrWn6MEus/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QrWn6MEus",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1QrWn6MEus",
+    "title": "梁&大肥鱼：非凡之爱",
+    "owner": {
+      "name": "高情厚意",
+      "mid": 367419473
+    },
+    "pubdate": 1794191400,
+    "duration": 64
+  },
+  "descriptionSha256": "e40a08f1e93a51b0df7897ca86f1225229e834ec3524828bba31e237ca8c6420",
+  "uploaderCredits": [],
+  "linkedVideos": [
+    "BV1aExC6gETf"
+  ]
+}

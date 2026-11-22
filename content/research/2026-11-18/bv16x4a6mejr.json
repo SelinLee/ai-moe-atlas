@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:25:48.730Z",
+  "url": "https://www.bilibili.com/video/BV16X4A6mEJr/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16X4A6mEJr",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV16X4A6mEJr",
+    "title": "只要那个目标还未达成，我就不会停下",
+    "owner": {
+      "name": "铃沐木_",
+      "mid": 21142919
+    },
+    "pubdate": 1793630968,
+    "duration": 221
+  },
+  "descriptionSha256": "1f0e891311e18328aaa3ff3b8997c999da70a6afbf41529697ade6429555e054",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "这个刀子真甜"
+  ],
+  "linkedVideos": []
+}

@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:57:58.423Z",
+  "url": "https://www.bilibili.com/video/BV112aP6uEzc/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV112aP6uEzc",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV112aP6uEzc",
+    "title": "大肥鱼跳 Let Me Go",
+    "owner": {
+      "name": "不正经的游戏讲师",
+      "mid": 672414656
+    },
+    "pubdate": 1790263015,
+    "duration": 125
+  },
+  "descriptionSha256": "5f318f4d19c0f2e96ac40548e8e8a57006e8e2e19a764f0771ca74c29f33dfb3",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:57:56.926Z",
+  "url": "https://www.bilibili.com/video/BV1jwW46FEj8/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jwW46FEj8",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1jwW46FEj8",
+    "title": "【AI原创曲】琉璃海 MV｜周一不上班，住在电脑里的鲸鱼",
+    "owner": {
+      "name": "鲸鱼娘苗汐妙",
+      "mid": 3707030481143963
+    },
+    "pubdate": 1794201462,
+    "duration": 200
+  },
+  "descriptionSha256": "280695d5f800447162babcb1a62415dd106351c152d90fed69b819d76b5f0b65",
+  "uploaderCredits": [
+    "Suno"
+  ],
+  "linkedVideos": []
+}

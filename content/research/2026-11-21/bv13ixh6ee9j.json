@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:18:03.572Z",
+  "url": "https://www.bilibili.com/video/BV13ixH6EE9j/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13ixH6EE9j",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV13ixH6EE9j",
+    "title": "【肥鱼翻唱】ハルシネイション「明白，已停止角色扮演。」蓝色大肥鱼的 AI幻觉",
+    "owner": {
+      "name": "区区_区区区",
+      "mid": 37991803
+    },
+    "pubdate": 1793491200,
+    "duration": 216
+  },
+  "descriptionSha256": "a5682738d3987920191f2676bc34d84d7f3efd9c560f0b542dbe54ad431e0317",
+  "uploaderCredits": [
+    "星落落_oi",
+    "水槽",
+    "r-906",
+    "MXCustard"
+  ],
+  "linkedVideos": [
+    "BV18mnB67E9P"
+  ]
+}

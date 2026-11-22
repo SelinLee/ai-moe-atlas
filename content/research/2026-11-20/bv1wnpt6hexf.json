@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T13:57:07.387Z",
+  "url": "https://www.bilibili.com/video/BV1WnpT6HExF/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WnpT6HExF",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1WnpT6HExF",
+    "title": "今天是步行送信限定版！",
+    "owner": {
+      "name": "橘子-糖喵",
+      "mid": 491331110
+    },
+    "pubdate": 1791336225,
+    "duration": 16
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

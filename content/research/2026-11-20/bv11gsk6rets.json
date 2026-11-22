@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:27:46.850Z",
+  "url": "https://www.bilibili.com/video/BV11GsK6REts/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV11GsK6REts",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV11GsK6REts",
+    "title": "AI娘系列没有Suno?那我来加上！",
+    "owner": {
+      "name": "虚无渊火nihilus",
+      "mid": 352916665
+    },
+    "pubdate": 1794837896,
+    "duration": 41
+  },
+  "descriptionSha256": "66bc45c0c544da9952fc9c7c4c16f712e1bf64d5547c21acae74886d6588efe6",
+  "uploaderCredits": [
+    "Suno"
+  ],
+  "linkedVideos": [
+    "BV1Baxj61ESa"
+  ]
+}

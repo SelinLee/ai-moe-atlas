@@ -1,0 +1,92 @@
+{
+  "full_name": "Houraiji9/ai-pet-7in1",
+  "html_url": "https://github.com/Houraiji9/ai-pet-7in1",
+  "stargazers_count": 3,
+  "archived": false,
+  "created_at": "2026-10-17T18:00:24Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "七合一 AI 娘桌宠：按前台 AI 工具窗口自动切换 GPT / Gemini / GLM / Claude / Kimi / DeepSeek / Grok 形象",
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": "NOASSERTION",
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "commit": "08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc",
+  "observedAt": "2026-11-20T16:31:39.401+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:32:17.738Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/Houraiji9/ai-pet-7in1/blob/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Houraiji9/ai-pet-7in1/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/README.md",
+      "sourceSha256": "488307a8cb6a5e3b8ada279cc3ccba452848c2e513829b1c0aaaf2bfca9a562f",
+      "gitBlobSha": "e99c4d3752eeb0b9c40bbcdca4f769b877279c54",
+      "bytes": 16928,
+      "commit": "08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "url": "https://github.com/Houraiji9/ai-pet-7in1/blob/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Houraiji9/ai-pet-7in1/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/LICENSE",
+      "sourceSha256": "8e5d3e78866aab27c5eed7f3c9c042a9d9e07d88c94b8c3dfd4681b6e485e519",
+      "gitBlobSha": "36fdb18085f72cb79c25573bb9d323a7e69eee6c",
+      "bytes": 1505,
+      "commit": "08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc"
+    },
+    "LICENSE-ASSETS.md": {
+      "path": "LICENSE-ASSETS.md",
+      "url": "https://github.com/Houraiji9/ai-pet-7in1/blob/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/LICENSE-ASSETS.md",
+      "rawUrl": "https://raw.githubusercontent.com/Houraiji9/ai-pet-7in1/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/LICENSE-ASSETS.md",
+      "sourceSha256": "9d65915e5f6403e2c2c0ed5062c2d8228d28bd79a1e6d60cf308a5110666f52d",
+      "gitBlobSha": "ea9a90495c20466ac86bd26841cd9f501eb646ae",
+      "bytes": 1750,
+      "commit": "08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc"
+    },
+    "NOTICE.md": {
+      "path": "NOTICE.md",
+      "url": "https://github.com/Houraiji9/ai-pet-7in1/blob/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/Houraiji9/ai-pet-7in1/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/NOTICE.md",
+      "sourceSha256": "2c7b6db69bf7084fc249d75502f94318a90395ced7e561bc66a20a3160240543",
+      "gitBlobSha": "66ee6e200e29f26051d6db6376224371170ecb66",
+      "bytes": 2251,
+      "commit": "08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc"
+    },
+    "assets/glm/README.md": {
+      "path": "assets/glm/README.md",
+      "url": "https://github.com/Houraiji9/ai-pet-7in1/blob/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/assets/glm/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Houraiji9/ai-pet-7in1/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/assets/glm/README.md",
+      "sourceSha256": "a939404aaf5fe5d321edea206516e10f655fdc17ad89586c86b565dc134e0e7f",
+      "gitBlobSha": "9c4421e81a7a3e594e7f8fe237f44b7763d6af56",
+      "bytes": 3410,
+      "commit": "08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc"
+    },
+    "assets/gpt/README.md": {
+      "path": "assets/gpt/README.md",
+      "url": "https://github.com/Houraiji9/ai-pet-7in1/blob/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/assets/gpt/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Houraiji9/ai-pet-7in1/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/assets/gpt/README.md",
+      "sourceSha256": "b83b587c097c99c66366a97ef5401db324d7ab2b1f04776d673388f1d6f8cac1",
+      "gitBlobSha": "eff46cc26801c1563af3a616bcde5d5feaaa856d",
+      "bytes": 4445,
+      "commit": "08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/Houraiji9/ai-pet-7in1/blob/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Houraiji9/ai-pet-7in1/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/README.md",
+    "sourceSha256": "488307a8cb6a5e3b8ada279cc3ccba452848c2e513829b1c0aaaf2bfca9a562f",
+    "gitBlobSha": "e99c4d3752eeb0b9c40bbcdca4f769b877279c54",
+    "bytes": 16928,
+    "commit": "08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc"
+  },
+  "method": "github-rest-tree-and-isolated-headless-google-chrome",
+  "fileComparison": {
+    "path": "content/research/2026-11-21/seven-character-pet-lfs-provenance.json",
+    "sha256": "be75f02e8b193e189cb78aa4549cb8946141d31980ed73d5d8062d6071f7eddc",
+    "kind": "browser-metadata-extract"
+  }
+}

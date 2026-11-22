@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:27:47.297Z",
+  "url": "https://www.bilibili.com/video/BV1S4s86YEAm/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1S4s86YEAm",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1S4s86YEAm",
+    "title": "《我会等》AI翻唱-【Qwen拟人旗袍版】",
+    "owner": {
+      "name": "光蛍",
+      "mid": 2797907
+    },
+    "pubdate": 1795092501,
+    "duration": 72
+  },
+  "descriptionSha256": "451de032941f51263a8332a4eef50ce9fb83dd01c21381aaacec3342050c8ef8",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

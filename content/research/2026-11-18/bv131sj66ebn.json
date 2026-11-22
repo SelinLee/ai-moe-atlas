@@ -1,0 +1,43 @@
+{
+  "musicSource": {
+    "bvid": "BV18XRLBeEQn",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18XRLBeEQn",
+    "observedAt": "2026-11-18T08:51:30.127Z",
+    "httpStatus": 200,
+    "code": 0,
+    "metadata": {
+      "bvid": "BV18XRLBeEQn",
+      "title": "【本家】カプチーノ - 初音ミク【カササギ】",
+      "publisher": "カササギ_柿崎ユウタ",
+      "publisherId": 3546934367226632,
+      "pubdate": 1777723200,
+      "duration": 151,
+      "desc": "カプチーノはあまり飲みません\n\nselfcover : https://youtu.be/nQtAnHp2K90\n\nmusic & movie : カササギ \n\nStreaming / DL : https://linkco.re/TV6upS8Q\n\noffvocal etc... : https://drive.google.com/drive/folders/1XSfJP1-PxhggnDUw7xO2R18zDl768EQA?usp=sharing",
+      "likes": 138623
+    }
+  },
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:49:21.333Z",
+  "url": "https://www.bilibili.com/video/BV131sJ66Ebn/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV131sJ66Ebn",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV131sJ66Ebn",
+    "title": "【同人MV】カプチーノ｜龙娘的单恋，是杯卡布奇诺",
+    "owner": {
+      "name": "Enans-",
+      "mid": 507072945
+    },
+    "pubdate": 1794736120,
+    "duration": 152
+  },
+  "descriptionSha256": "ac19f0e0d297b00acf4b4238c6a30be78e78806bcc7ec360d5adf083f8b9f64f",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "柿崎ユウタ",
+    "初音ミク"
+  ],
+  "linkedVideos": [
+    "BV18XRLBeEQn"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "full_name": "rainnoon/oc-claw",
+  "html_url": "https://github.com/rainnoon/oc-claw",
+  "stargazers_count": 373,
+  "archived": false,
+  "created_at": "2026-03-19T14:34:16Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "A desktop pet that monitors your AI coding agents (OpenClaw, Claude Code, Codex, Cursor, Gemini CLI, opencode, Hermes) in real time. OC = OpenClaw. OC = Original Character. Make it yours.",
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": "NOASSERTION",
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "commit": "4667c8c082cecf7e38440dfc2f6f89f7a9b6cc90",
+  "observedAt": "2026-11-20T16:47:01.415+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:48:38.013Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/rainnoon/oc-claw/blob/4667c8c082cecf7e38440dfc2f6f89f7a9b6cc90/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/rainnoon/oc-claw/4667c8c082cecf7e38440dfc2f6f89f7a9b6cc90/README.md",
+      "sourceSha256": "60663539081bb35976351c3a657e407f5940b5ac69163de12ec2c6359fd0284a",
+      "gitBlobSha": "0fbdba165dfcdda7e1d652586ad37de627b28bc9",
+      "bytes": 4871,
+      "commit": "4667c8c082cecf7e38440dfc2f6f89f7a9b6cc90"
+    },
+    "README.zh.md": {
+      "path": "README.zh.md",
+      "url": "https://github.com/rainnoon/oc-claw/blob/4667c8c082cecf7e38440dfc2f6f89f7a9b6cc90/README.zh.md",
+      "rawUrl": "https://raw.githubusercontent.com/rainnoon/oc-claw/4667c8c082cecf7e38440dfc2f6f89f7a9b6cc90/README.zh.md",
+      "sourceSha256": "25f554c5f805cbab69bfcd5cdf3d7253e4ffec467ae5d8300d7f4cc3b98a8334",
+      "gitBlobSha": "10ea074e9c439fcd6c6bc1881e76b88ca876fcf0",
+      "bytes": 4727,
+      "commit": "4667c8c082cecf7e38440dfc2f6f89f7a9b6cc90"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "url": "https://github.com/rainnoon/oc-claw/blob/4667c8c082cecf7e38440dfc2f6f89f7a9b6cc90/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/rainnoon/oc-claw/4667c8c082cecf7e38440dfc2f6f89f7a9b6cc90/LICENSE",
+      "sourceSha256": "ded1e38c278db0366c3d4c471b8a46f472311542c1853f90e4eb3ff26e1ad7d6",
+      "gitBlobSha": "a3addaa5a203a77049f9d3adcbd494ab94e9977a",
+      "bytes": 1938,
+      "commit": "4667c8c082cecf7e38440dfc2f6f89f7a9b6cc90"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/rainnoon/oc-claw/blob/4667c8c082cecf7e38440dfc2f6f89f7a9b6cc90/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/rainnoon/oc-claw/4667c8c082cecf7e38440dfc2f6f89f7a9b6cc90/README.md",
+    "sourceSha256": "60663539081bb35976351c3a657e407f5940b5ac69163de12ec2c6359fd0284a",
+    "gitBlobSha": "0fbdba165dfcdda7e1d652586ad37de627b28bc9",
+    "bytes": 4871,
+    "commit": "4667c8c082cecf7e38440dfc2f6f89f7a9b6cc90"
+  },
+  "method": "github-rest-tree-and-isolated-headless-google-chrome"
+}

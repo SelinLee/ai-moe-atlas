@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-11-20T16:20:59.701Z",
+  "captureScope": "new-and-pending-candidates-plus-previous-failures",
+  "newVerified": 23,
+  "pendingRechecked": 9,
+  "previousFailuresRechecked": 6,
+  "previousRankingEvidence": {
+    "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-november-21.json",
+    "sha256": "0d55f688072af831e022b4283f7af669c2286f5bfb383295c50c54db66ec361d"
+  },
+  "selectiveEvidence": {
+    "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-publisher-recheck.json",
+    "sha256": "85f8a65b06695b66afe71b1f1fbc9907e73d89e8f9001deb8895223dd2cb3cc9",
+    "kind": "browser-metadata-extract"
+  }
+}

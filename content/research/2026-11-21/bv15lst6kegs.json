@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:18:02.102Z",
+  "url": "https://www.bilibili.com/video/BV15LsT6kEGs/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15LsT6kEGs",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV15LsT6kEGs",
+    "title": "DeepSeek：GPT，老实睡觉，很无聊吧？",
+    "owner": {
+      "name": "戛然而纸",
+      "mid": 511403115
+    },
+    "pubdate": 1794877200,
+    "duration": 153
+  },
+  "descriptionSha256": "5a430234d70ef4d098f368db70eba98aef6c42102262239ecf385ba2659cd88a",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": []
+}

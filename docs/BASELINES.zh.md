@@ -8,7 +8,13 @@
 
 截至 2026-09-29：12 个 AI 中，11 个已具备展示与下载素材，1 个（Copilot）仅有来源链接。来源链接不算完成图片覆盖。
 
-2026-11-08：ai-school-op 的 Copilot 校园版已入库，原图为 1024 × 1536，许可为 CC BY-NC 4.0。当前 12 个产品均有可展示、下载的形象。
+2026-11-08：ai-school-op 的 Copilot 校园版已入库，原图为 1024 × 1536，许可为 CC BY-NC 4.0。当时 12 个产品均有可展示、下载的形象。
+
+2026-11-20：新增 Muse 的来源词条，共索引 13 个产品。识知不失智在角色 PV 中为其原创立绘和设定声明 CC BY 4.0，Jolly 等 Meta 元素另有权利归属。Muse 的独立原文件和逐件使用范围待核。[作者原投稿](https://www.bilibili.com/video/BV1jEnD6RE1t/) · [档案核对](../content/research/2026-11-20/muse-girl-archive-and-rights.json)
+
+2026-11-20：新增 Mistral 法棍猫娘。ZipZipPipe 原帖第 4 张为 3072 × 5504，原图 SHA-256 与档案记录一致。Mistral AI 的产品页将原 Le Chat 标为 Vibe。逐件使用条件待核。 [作者原帖](https://www.bilibili.com/opus/1236803362705375305) · [原图与产品查证](../content/research/2026-11-20/mistral-baguette-cat-and-product.json)
+
+2026-11-21 新增 OpenCode 来源词条。核对 ZipZipPipe 原帖第 9 张 2160 × 3840 PNG 的 SHA-256。展示、转载与改编条件待核。 [核对记录](../content/research/2026-11-21/zipzippipe-opencode-portrait-and-product.json)
 
 | AI | 优先版本 | 当前缺口 |
 | --- | --- | --- |
@@ -21,7 +27,7 @@
 
 ## 图集页码归属
 
-《AI娘化》17 张的对应关系已逐页核对，其中十张已采集：第 3 张 Claude、第 4 张 GPT、第 5 张 Gemini、第 6 张 Kimi、第 7 张 GLM、第 8 张 Grok、第 11 张豆包（Seed）、第 13 张千问、第 14 张 Llama、第 16 张 MiniMax。另有 DeepSeek 两张，以及 Mistral、文心一言等四个不在索引内的角色（含一张带 RWKV 吊牌者）；本站索引里没有这些 AI，因此未采集。
+《AI娘化》17 张的对应关系已逐页核对，其中十张已采集：第 3 张 Claude、第 4 张 GPT、第 5 张 Gemini、第 6 张 Kimi、第 7 张 GLM、第 8 张 Grok、第 11 张豆包（Seed）、第 13 张千问、第 14 张 Llama、第 16 张 MiniMax。另有 DeepSeek 两张，以及 Mistral、文心一言等四个当时未纳入索引的角色（含一张带 RWKV 吊牌者）。这四张尚未打包。
 
 归属依据是图上标识（GLM 的 “Z”、Grok 的 X 形巨斧、豆包的 SEED、Llama 的羊驼耳尾与 “∞”、MiniMax 的海螺与 MINIMAX 字样）、作者在《大AI和小AI们》简介中列出的九款顺序，以及知乎与百度贴吧的公开人设整理。公开整理只用于交叉核对，不作为授权依据。
 
@@ -39,7 +45,7 @@
 
 1. 已完成 GPT、Gemini、Claude、Kimi、千问、GLM、Grok、豆包、Llama、MiniMax：从作者 Pixiv 图集采集高清原图。
 2. 校园版 Copilot 已按 CC BY-NC 4.0 收录。继续寻找 yamamemo 飞行员版的高清图与逐图许可。
-3. 图集中尚未采集的 Mistral、文心一言等角色先不处理——`entities.json` 里没有这些 AI，不为凑数量扩充索引。
+3. 继续核对 Mistral 原图的逐件使用条件，以及文心一言等角色的原作者发布记录。
 4. 每项通过“已有角色、AI 对应准确、原始出处、作品级使用条件、原图校验、三语说明”检查后，生成等比规范化图片与附来源的素材包。
 
 候选选择见 [baselines.json](../content/baselines.json)；跨项目核对记录见 [ai-video-2026-09-28.json](../content/research/ai-video-2026-09-28.json)；身份核对线索见 [leads.json](../content/leads.json)。状态由实际入库文件推导，不能手工把只有链接的条目标为已完成。

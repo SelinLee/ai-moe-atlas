@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:18:02.735Z",
+  "url": "https://www.bilibili.com/video/BV1rbW46rEfS/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1rbW46rEfS",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1rbW46rEfS",
+    "title": "【绘画过程】手搓大肥鱼2",
+    "owner": {
+      "name": "米斯勒达柯",
+      "mid": 696957241
+    },
+    "pubdate": 1794195965,
+    "duration": 140
+  },
+  "descriptionSha256": "9e231e30b95bf4262d8b05381b8d8f9a3fd7939e3fa981c1977f24d4bf260808",
+  "uploaderCredits": [],
+  "linkedVideos": [
+    "BV1Baxj61ESa"
+  ]
+}

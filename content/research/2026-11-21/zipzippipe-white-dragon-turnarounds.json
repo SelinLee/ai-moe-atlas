@@ -1,0 +1,52 @@
+{
+  "method": "isolated-headless-google-chrome",
+  "url": "https://www.bilibili.com/opus/1238613841710940181",
+  "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1238613841710940181",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:04:31.920Z",
+  "bodySha256": "3abbdd54806dfe1311c1795c3226c31de6bc2866b30ea0ffa6e5d59585d2bf02",
+  "author": {
+    "name": "ZipZipPipe",
+    "mid": 4168597,
+    "pubdate": "1787225658"
+  },
+  "type": "DYNAMIC_TYPE_DRAW",
+  "files": [
+    {
+      "position": 1,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/84e0a7294b0defd91ead0616531454394168597.png",
+      "width": 2048,
+      "height": 1152,
+      "format": "png",
+      "bytes": 3042341,
+      "sourceSha256": "3f03ee1ac0d747ad43970dbfbc4b446db40ec780e21da162e9a9fdfdb3e25355",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-20T16:05:23.527Z"
+    },
+    {
+      "position": 2,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/5dfe931474c92d549a67d5255c4f23f34168597.png",
+      "width": 2048,
+      "height": 1152,
+      "format": "png",
+      "bytes": 3195533,
+      "sourceSha256": "2dfed91a8a45c4a97cfacd48c7f80d042d5672e2f8288329cc33c2b7bb0bef94",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-20T16:05:23.696Z"
+    },
+    {
+      "position": 3,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/bd0cb73baf0560988251850acac160914168597.png",
+      "width": 2048,
+      "height": 1152,
+      "format": "png",
+      "bytes": 2310584,
+      "sourceSha256": "bac77913f5f0563902b0f889b20ab75e713cf263ce52245625e4925544ecae00",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-20T16:05:23.565Z"
+    }
+  ],
+  "visualReview": "Three images show front, side and rear views of a horned dragon character in white, dark and pale blue outfits.",
+  "crossReference": "https://www.bilibili.com/video/BV1jRnA6REVT/",
+  "rights": "Artwork-specific terms not confirmed for the three published PNGs."
+}

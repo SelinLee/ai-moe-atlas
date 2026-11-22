@@ -1,0 +1,61 @@
+{
+  "full_name": "Void-LifeStream/dsh-gemini-kitten-widget",
+  "html_url": "https://github.com/Void-LifeStream/dsh-gemini-kitten-widget",
+  "stargazers_count": 1,
+  "archived": false,
+  "created_at": "2026-10-15T13:56:35Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "A Gemini kitten widget for the DSH Web UI: live Google Gemini API free-tier quota — today's used and remaining requests per model (20/model/day, UTC midnight reset), model switcher, color-coded warnings. / DSH 界面右下角的 Gemini 猫娘额度挂件：免费层今日已用/剩余次数，按型号切换、按额度变色预警。",
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "commit": "358118b55dc1da0918779676067356e859c026ae",
+  "observedAt": "2026-11-20T16:17:13.121+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:19:42.093Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/Void-LifeStream/dsh-gemini-kitten-widget/blob/358118b55dc1da0918779676067356e859c026ae/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Void-LifeStream/dsh-gemini-kitten-widget/358118b55dc1da0918779676067356e859c026ae/README.md",
+      "sourceSha256": "3aeed378b91caa992cec7f8e84aa9fa4697552e1715f6bc739fb9c095d60826e",
+      "gitBlobSha": "cb75b45eb5ca5ff58b1989c43a089d081945315e",
+      "bytes": 11999,
+      "commit": "358118b55dc1da0918779676067356e859c026ae"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "url": "https://github.com/Void-LifeStream/dsh-gemini-kitten-widget/blob/358118b55dc1da0918779676067356e859c026ae/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Void-LifeStream/dsh-gemini-kitten-widget/358118b55dc1da0918779676067356e859c026ae/LICENSE",
+      "sourceSha256": "b732542b89f11e434f5ff55682e7db0cf39b6879c5587b77cdc4149735d049f6",
+      "gitBlobSha": "e7418583f27c6bdd6b605bbf39c5ca2e4ff092b7",
+      "bytes": 1072,
+      "commit": "358118b55dc1da0918779676067356e859c026ae"
+    },
+    "assets/kitten-art.png": {
+      "path": "assets/kitten-art.png",
+      "url": "https://github.com/Void-LifeStream/dsh-gemini-kitten-widget/blob/358118b55dc1da0918779676067356e859c026ae/assets/kitten-art.png",
+      "rawUrl": "https://raw.githubusercontent.com/Void-LifeStream/dsh-gemini-kitten-widget/358118b55dc1da0918779676067356e859c026ae/assets/kitten-art.png",
+      "sourceSha256": "26da2e5e8844de3d9b3a3a12308384a1760fa27cadf8f40c83d3fa2a8c06889d",
+      "gitBlobSha": "622d08bd967d7b9af78f1eeaf6245654754ae08f",
+      "bytes": 406892,
+      "commit": "358118b55dc1da0918779676067356e859c026ae"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/Void-LifeStream/dsh-gemini-kitten-widget/blob/358118b55dc1da0918779676067356e859c026ae/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Void-LifeStream/dsh-gemini-kitten-widget/358118b55dc1da0918779676067356e859c026ae/README.md",
+    "sourceSha256": "3aeed378b91caa992cec7f8e84aa9fa4697552e1715f6bc739fb9c095d60826e",
+    "gitBlobSha": "cb75b45eb5ca5ff58b1989c43a089d081945315e",
+    "bytes": 11999,
+    "commit": "358118b55dc1da0918779676067356e859c026ae"
+  },
+  "canonicalPageStatus": 200,
+  "method": "github-rest-tree-and-isolated-headless-google-chrome-pinned-raw"
+}

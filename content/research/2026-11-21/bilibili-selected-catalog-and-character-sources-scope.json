@@ -1,0 +1,17 @@
+{
+  "checkedAt": "2026-11-20T16:48:27.297Z",
+  "captureScope": "selected-catalog-and-candidates",
+  "newVerified": 20,
+  "existingUpdated": 23,
+  "pendingRechecked": 9,
+  "previousFailuresRechecked": 6,
+  "previousRankingEvidence": {
+    "path": "content/research/2026-11-21/bilibili-cumulative-likes-candidate-glm-and-doubao.json",
+    "sha256": "c6d5bb32431eccfc4590f5f9563f82d0c7517227be792a062b1f2f31b76703d7"
+  },
+  "selectiveEvidence": {
+    "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+    "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+    "kind": "browser-metadata-extract"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:18:03.572Z",
+  "url": "https://www.bilibili.com/video/BV1MNYy6WEgY/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1MNYy6WEgY",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1MNYy6WEgY",
+    "title": "琵琶曲 | 大肥鱼 vs 豆包",
+    "owner": {
+      "name": "小猪P_",
+      "mid": 2283296
+    },
+    "pubdate": 1789392549,
+    "duration": 72
+  },
+  "descriptionSha256": "ef1f1e4418b76de771dba265b456e1db5c269ca9e3d9c049c7ca1bebe2229eb2",
+  "uploaderCredits": [
+    "上善无形",
+    "KotteAnimation"
+  ],
+  "linkedVideos": []
+}

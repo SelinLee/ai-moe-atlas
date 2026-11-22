@@ -1,0 +1,100 @@
+{
+  "method": "isolated-headless-google-chrome-and-bilibili-view-detail",
+  "tracks": [
+    {
+      "songId": "daughter-of-evil",
+      "officialSource": {
+        "id": "daughter-of-evil",
+        "url": "https://www.nicovideo.jp/watch/sm2916956",
+        "finalUrl": "https://www.nicovideo.jp/watch/sm2916956",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:34:23.299Z",
+        "htmlSha256": "de68c7c3012f9c8f28e370cefb41d55cdb703db65a087829c227fe382beda441",
+        "title": "【鏡音リン】 悪ノ娘 【中世物語風オリジナル】 - ニコニコ動画",
+        "og": "【鏡音リン】 悪ノ娘 【中世物語風オリジナル】"
+      },
+      "fanVersion": {
+        "bvid": "BV1pK3f6YEqH",
+        "url": "https://www.bilibili.com/video/BV1pK3f6YEqH/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1pK3f6YEqH",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:34:38.311Z",
+        "bodySha256": "65a5199ca7d61355033f704429ea26d25516c7d7affc9d0c3afea36e20d61d5d",
+        "musicTag": "发现《悪ノ娘 (Akuno Musume)》"
+      }
+    },
+    {
+      "songId": "evil-food-eater-conchita",
+      "officialSource": {
+        "id": "evil-food-eater",
+        "url": "https://www.nicovideo.jp/watch/sm6328922",
+        "finalUrl": "https://www.nicovideo.jp/watch/sm6328922",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:34:23.218Z",
+        "htmlSha256": "1620cdad3a4823d9faba7d297ee22b2deec086c5b3742682f5d759efb46ab661",
+        "title": "【MEIKO】悪食娘コンチータ【鏡音リン・レン】 - ニコニコ動画",
+        "og": "【MEIKO】悪食娘コンチータ【鏡音リン・レン】"
+      },
+      "fanVersion": {
+        "bvid": "BV16DviBoEW2",
+        "url": "https://www.bilibili.com/video/BV16DviBoEW2/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV16DviBoEW2",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:34:38.202Z",
+        "bodySha256": "9e4310aa50bada917e59f69abf797bd99247bda9193846594fc0555460f20f64",
+        "musicTag": "发现《悪食娘コンチータ (恶食娘空琪塔)》"
+      }
+    },
+    {
+      "songId": "flower-in-a-hurricane",
+      "officialSource": {
+        "id": "flower-in-a-hurricane",
+        "url": "https://music.apple.com/us/album/flower-in-a-hurricane-from-gtavi-single/6819802963",
+        "finalUrl": "https://music.apple.com/us/album/flower-in-a-hurricane-from-gtavi-original-score-single/6819802963",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:34:33.125Z",
+        "htmlSha256": "a83324bc5e5633ad3adac01207b889f583dc0fea1a676b8a837a5e20d02de382",
+        "title": "‎Flower In A Hurricane [From GTAVI: Original Score] - Single - Album by Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard - Apple Music",
+        "og": "Flower In A Hurricane [From GTAVI: Original Score] - Single by Justice, Tame Impala, SZA & King Gizzard & The Lizard Wizard on Apple Music"
+      },
+      "fanVersion": {
+        "bvid": "BV1Ptsv6MEZD",
+        "url": "https://www.bilibili.com/video/BV1Ptsv6MEZD/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1Ptsv6MEZD",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:34:38.163Z",
+        "bodySha256": "68f71d82508f7264f71e13461cee56932d34945054e569c6707cca0d52f91f0f",
+        "musicTag": null
+      },
+      "officialTrailer": {
+        "url": "https://www.bilibili.com/video/BV1boJ168En2/",
+        "publisher": "RockstarGames",
+        "httpStatus": 200,
+        "sourceApi": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1boJ168En2",
+        "accessedAt": "2026-11-20T16:34:38.075Z",
+        "bodySha256": "5aef14ba036ee3070b024c2f3ac69d6cfeac98df44a4713b63e329c4b5688b2c"
+      }
+    },
+    {
+      "songId": "naze-nazo-answer",
+      "officialSource": {
+        "id": "naze-nazo-answer",
+        "url": "https://www.marv.jp/titles/av/11013/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:37:00.518Z",
+        "title": "『名探偵プリキュア！』主題歌シングル - マーベラス",
+        "htmlSha256": "b056dfa611956715984a0ed2829239383cff7a612e6cee6d89c12e5d797c437a",
+        "officialCreditsFound": true
+      },
+      "fanVersion": {
+        "bvid": "BV1Jj4q63EYd",
+        "url": "https://www.bilibili.com/video/BV1Jj4q63EYd/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1Jj4q63EYd",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:34:38.827Z",
+        "bodySha256": "e125ae8be646b72f950506030f9ce7d7097aa94d197e3ad5144d425456aeade3",
+        "musicTag": "发现《なぜ？謎？！ANSWER》"
+      }
+    }
+  ]
+}

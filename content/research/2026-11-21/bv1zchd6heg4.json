@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:48:26.856Z",
+  "url": "https://www.bilibili.com/video/BV1ZCHD6hEG4/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZCHD6hEG4",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1ZCHD6hEG4",
+    "title": "小克啊小克，肥鱼我忘不了情根",
+    "owner": {
+      "name": "星辰光影_",
+      "mid": 488488115
+    },
+    "pubdate": 1791455959,
+    "duration": 34
+  },
+  "descriptionSha256": "ccef573706ad35943d28427e285ad44d6eed2e3ddb0d6741d4d5dfb5a23fa355",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": [
+    "BV1DtpM6vEXs"
+  ]
+}

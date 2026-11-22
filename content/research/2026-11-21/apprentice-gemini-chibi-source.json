@@ -1,0 +1,41 @@
+{
+  "method": "github-tree-and-isolated-headless-google-chrome",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:22:29.669Z",
+  "publisher": "ApprenTice",
+  "pinnedDocument": {
+    "id": "notice",
+    "url": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/0f25324e4b01199a6e1b41b0e9dd8fa9fddb6142/ApprenTice/README.md",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-20T16:22:29.669Z",
+    "bytes": 1492,
+    "gitBlobSha": "7447db4d78cc8da491afa57ee975f6283091f318",
+    "sourceSha256": "f8264005b1dbe76bf726f320aa389e3b66f3457c2c5acc143376079e441774f8",
+    "commit": "0f25324e4b01199a6e1b41b0e9dd8fa9fddb6142",
+    "rawUrl": "https://raw.githubusercontent.com/Apprentice-Geo/AI-Fanworks/0f25324e4b01199a6e1b41b0e9dd8fa9fddb6142/ApprenTice/README.md"
+  },
+  "artwork": {
+    "id": "origin",
+    "url": "https://raw.githubusercontent.com/Apprentice-Geo/AI-Fanworks/0f25324e4b01199a6e1b41b0e9dd8fa9fddb6142/ApprenTice/images/Gemini-Chibi.png",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-20T16:22:31.085Z",
+    "bytes": 2044385,
+    "gitBlobSha": "9d47c0c7b35a1438f076a66013c91dc80d3718dd",
+    "sourceSha256": "dbb28bb51caa3889291130a138899daf3d2f50ba9acf94f530cb9ee60b6a2ffe",
+    "format": "png",
+    "width": 941,
+    "height": 1672,
+    "publicUrl": "https://github.com/Apprentice-Geo/AI-Fanworks/blob/0f25324e4b01199a6e1b41b0e9dd8fa9fddb6142/ApprenTice/images/Gemini-Chibi.png"
+  },
+  "fileComparison": {
+    "path": "content/research/2026-11-21/gemini-theme-original-art-comparison.json",
+    "sha256": "fd0b3ab7e2a3a14c33e351987ac2dad82d5954193ec6622bb788589ee481c34f",
+    "kind": "browser-metadata-extract"
+  },
+  "rights": {
+    "assertedBy": "ApprenTice",
+    "scope": "Creator’s adapted images in the images directory",
+    "license": "CC BY-NC-SA 4.0",
+    "upstreamCreditsRetained": true
+  }
+}

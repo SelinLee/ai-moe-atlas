@@ -3,11 +3,14 @@ import assert from 'node:assert/strict';
 import {createHash} from 'node:crypto';
 import {readFile,mkdir} from 'node:fs/promises';
 import {readPendingAnimationCandidates} from '../scripts/lib/resources.mjs';
-import {byPublicationTime,publicationTime} from '../src/lib/animation-ranking.mjs';
+import {byPublicationTime,beijingTime} from '../src/lib/animation-ranking.mjs';
+import {rankSongsByLikes} from '../src/lib/song-ranking.mjs';
 const registry=JSON.parse(await readFile('content/resources.json','utf8'));
 const leads=JSON.parse(await readFile('content/leads.json','utf8'));
 const songs=JSON.parse(await readFile('content/songs.json','utf8'));
+const rankedSongs=rankSongsByLikes(songs,new Map(registry.records.map(record=>[record.id,record])));
 const pending=await readPendingAnimationCandidates(registry,new URL('../',import.meta.url));
+const currentSnapshot=JSON.parse(await readFile(registry.pendingAnimationEvidence.path,'utf8'));
 const animationCount=registry.records.filter(r=>r.category==='animation').length;
 const ranked=registry.records.filter(r=>r.likes).sort((a,b)=>
   b.likes.count-a.likes.count||b.publicationDate.localeCompare(a.publicationDate)||a.id.localeCompare(b.id));
@@ -28,7 +31,11 @@ try{
   await page.screenshot({path:`.qa/resources-home-${lang}-desktop.png`});
   await page.locator('[data-category-link="songs"]').click();
   assert.ok(page.url().endsWith(`/${lang}/songs/`));
-  assert.deepEqual(await page.locator('[data-song]').evaluateAll(cards=>cards.map(card=>card.id)),songs.map(song=>song.id));
+  assert.deepEqual(await page.locator('[data-song]').evaluateAll(cards=>cards.map(card=>card.id)),rankedSongs.map(({song})=>song.id));
+  const [firstSong]=rankedSongs;
+  const firstSongRanking=page.locator('#'+firstSong.song.id+' [data-song-ranking]');
+  assert.equal(await firstSongRanking.locator('time').innerText(),beijingTime.format(new Date(firstSong.leading.likes.observedAt)));
+  assert.ok((await firstSongRanking.locator('a').getAttribute('href')).endsWith('#'+firstSong.leading.id));
   for(const song of songs){
    const card=page.locator('#'+song.id);
    assert.equal(await card.locator('[data-song-original]').getAttribute('href'),song.original.url);
@@ -58,9 +65,21 @@ try{
    assert.deepEqual(candidates,pending.map(row=>({
     original:`https://www.bilibili.com/video/${row.bvid}/`,source:row.requestUrl,checked:row.observedAt,
    })));
+   const searchProofs=await panel.locator('[data-pending-search-index]').evaluateAll(rows=>rows.map(row=>({
+    source:row.querySelector('a')?.href,
+    checked:row.querySelector('time')?.dateTime,
+    publisher:row.querySelector('[data-pending-search-publisher]')?.textContent,
+    publisherUrl:row.querySelector('[data-pending-search-publisher]')?.getAttribute('href'),
+   })));
+   assert.deepEqual(searchProofs,pending.filter(row=>row.searchIndex).map(row=>({
+    source:row.searchIndex.url,checked:row.searchIndex.observedAt,
+    publisher:row.searchIndex.publisher,publisherUrl:row.searchIndex.publisherUrl,
+   })));
    assert.equal(await page.locator('#resource-count').innerText(),String(animationCount));
   }
   assert.match(await visibleAnimations.first().innerText(),new RegExp(ranked[0].likes.count.toLocaleString(lang)));
+  const observed=visibleAnimations.first().locator(`time[datetime="${ranked[0].likes.observedAt}"]`);
+  assert.equal(await observed.innerText(),beijingTime.format(new Date(ranked[0].likes.observedAt)));
   assert.ok(await visibleAnimations.first().locator(`a[href="${ranked[0].likes.sourceUrl}"]`).first().isVisible());
   const saved=visibleAnimations.first().locator('a[href*="/evidence/likes/"]');
   const savedResponse=await page.request.get(await saved.evaluate(link=>link.href));
@@ -68,9 +87,21 @@ try{
   assert.equal(createHash('sha256').update(await savedResponse.body()).digest('hex'),ranked[0].likes.evidence.sha256);
   const snapshot=await savedResponse.json();
   assert.equal(snapshot.videos.find(row=>row.bvid===ranked[0].bvid).likes,ranked[0].likes.count);
+  for(const failure of currentSnapshot.refreshFailures??[]){
+    const notice=page.locator('#'+failure.bvid.toLowerCase()+' [data-like-refresh-failure]');
+    assert.equal(await notice.locator('time').getAttribute('datetime'),failure.observedAt);
+    assert.equal(await notice.locator('time').innerText(),beijingTime.format(new Date(failure.observedAt)));
+    assert.ok(await notice.isVisible());
+  }
   const exactPublication=visibleAnimations.first().locator(`time[datetime="${ranked[0].publishedAt}"]`);
-  assert.equal(await exactPublication.innerText(),publicationTime.format(new Date(ranked[0].publishedAt)));
+  assert.equal(await exactPublication.innerText(),beijingTime.format(new Date(ranked[0].publishedAt)));
   assert.equal(await page.locator('.resource-list img,.resource-list video,.resource-list iframe').count(),0);
+  await page.locator('#resource-search').fill('ＱＷＥＮ ＭＶ');
+  assert.ok(await page.locator('#bv1k1sv6jera').isVisible());
+  assert.ok(await page.locator('#bv1qzwp6vehw').isHidden());
+  const qwenMvs=await visibleAnimations.evaluateAll(cards=>cards.map(card=>card.id));
+  await page.locator('#resource-search').fill('千问 MV');
+  assert.deepEqual(await visibleAnimations.evaluateAll(cards=>cards.map(card=>card.id)),qwenMvs);
   await page.locator('#resource-search').fill('花水r_Official');
   assert.ok(await page.locator('#bv1rkje6geh2').isVisible());
   await page.locator('#resource-search').fill('BV1YFn46SEEr');
@@ -80,6 +111,7 @@ try{
   await page.locator('#bv1yfn46seer summary').click();
   assert.ok(await page.locator('#bv1yfn46seer details a[href*="BV1AAnt6qEek"]').isVisible());
   const languageLink=page.locator('.language-switch a').filter({hasText:lang==='ja'?'English':'日本語'});await languageLink.click();
+  await page.waitForSelector('[data-resource-filter="animation"][aria-pressed="true"]');
   assert.equal(await page.locator('[data-resource-category]:visible').count(),1);
   assert.ok(page.url().includes('category=animation'));
   await page.goto(`${origin}/${lang}/resources/?category=animation#pending-animation-evidence`,{waitUntil:'networkidle'});
@@ -105,7 +137,7 @@ try{
   await page.reload();
   assert.ok(await page.locator('#bv1c7h16jehj').isVisible());
   await languageLink.click();
-  assert.equal(await mvFilter.getAttribute('aria-pressed'),'true');
+  await page.waitForSelector('[data-resource-type-filter="mv"][aria-pressed="true"]');
   assert.equal(await sort.inputValue(),'recent');
   assert.equal(await page.locator('[data-resource-category]:visible').count(),1);
   await page.locator('#resource-search').fill('');
@@ -118,6 +150,13 @@ try{
    assert.equal(await page.locator('#pending-animation-count').innerText(),'1');
    assert.equal(await page.locator('#resource-count').innerText(),'0');
    assert.ok(await page.locator('#resource-empty').isHidden());
+   const indexedPublisher=pending.find(row=>row.searchIndex?.publisher)?.searchIndex.publisher;
+   if(indexedPublisher){
+    await page.locator('#resource-search').fill(indexedPublisher);
+    const matchingCandidates=pending.filter(row=>row.searchIndex?.publisher===indexedPublisher);
+    assert.equal(await page.locator('[data-pending-search]:visible').count(),matchingCandidates.length);
+    assert.equal(await page.locator('#pending-animation-count').innerText(),String(matchingCandidates.length));
+   }
    await page.locator('#resource-search').fill('');
   }
   await page.locator('[data-resource-filter="interactive"]').click();assert.equal(await page.locator('[data-resource-category]:visible').count(),interactiveCount);
@@ -135,6 +174,7 @@ try{
   await archive.waitFor({state:'visible'});
   assert.ok(await archive.locator('a[href$="/2026-11-07/bilibili-cumulative-likes.json"]').isVisible());
   assert.ok((await archive.locator('code').first().innerText()).includes(registry.pendingAnimationEvidence.sha256));
+  if(currentSnapshot.scope)assert.ok(await archive.locator(`[data-capture-scope="${currentSnapshot.scope}"]`).first().isVisible());
   for(const width of [390,768]){
    await page.setViewportSize({width,height:844});
    for(const route of ['', 'songs/', 'resources/?category=animation&type=mv','resources/?category=interactive']){

@@ -1,0 +1,137 @@
+{
+  "method": "isolated-headless-google-chrome",
+  "searches": [
+    {
+      "bvid": "BV1Pdno69EtJ",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E6%96%B0%E7%95%AA%20OP&order=pubdate",
+      "title": "【十月新番】名为“开源”的彗星划过天际【Charlotte×deepseek】",
+      "observedAt": "2026-11-20T15:26:48.787Z",
+      "httpStatus": 200
+    },
+    {
+      "bvid": "BV1hZHN6sE4b",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E6%96%B0%E7%95%AA%20OP&order=pubdate",
+      "title": "【10月新番/DS】肥鱼之旅 OP「リテラチュア」【DeepSeek娘】",
+      "observedAt": "2026-11-20T15:26:48.796Z",
+      "httpStatus": 200
+    }
+  ],
+  "official": [
+    {
+      "bvid": "BV1Pdno69EtJ",
+      "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1Pdno69EtJ",
+      "observedAt": "2026-11-20T15:26:51.471Z",
+      "httpStatus": 200,
+      "bodySha256": "d3203fce9682ddaa957f9c31204f2158bd81c8fac979247d50e4dcbb629d269a",
+      "code": -404,
+      "message": "啥都木有",
+      "matchingVideo": false,
+      "hasOfficialLikes": false
+    },
+    {
+      "bvid": "BV1hZHN6sE4b",
+      "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1hZHN6sE4b",
+      "observedAt": "2026-11-20T15:26:51.471Z",
+      "httpStatus": 200,
+      "bodySha256": "d3203fce9682ddaa957f9c31204f2158bd81c8fac979247d50e4dcbb629d269a",
+      "code": -404,
+      "message": "啥都木有",
+      "matchingVideo": false,
+      "hasOfficialLikes": false
+    },
+    {
+      "bvid": "BV1ei4865Ewc",
+      "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1ei4865Ewc",
+      "observedAt": "2026-11-20T15:26:51.471Z",
+      "httpStatus": 200,
+      "bodySha256": "d3203fce9682ddaa957f9c31204f2158bd81c8fac979247d50e4dcbb629d269a",
+      "code": -404,
+      "message": "啥都木有",
+      "matchingVideo": false,
+      "hasOfficialLikes": false
+    },
+    {
+      "bvid": "BV1zpx967EKJ",
+      "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1zpx967EKJ",
+      "observedAt": "2026-11-20T15:26:51.471Z",
+      "httpStatus": 200,
+      "bodySha256": "d5f52d0ed5214be59d867416b9ef07d2a13d4ac918a53962175fc1431810ee26",
+      "code": 62002,
+      "message": "稿件不可见",
+      "matchingVideo": false,
+      "hasOfficialLikes": false
+    },
+    {
+      "bvid": "BV1q8HM63ES4",
+      "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1q8HM63ES4",
+      "observedAt": "2026-11-20T15:26:51.470Z",
+      "httpStatus": 200,
+      "bodySha256": "2bfa33b8c029a368a67fcdd803d4db3d24fd9989ea949d4952cb83a90c8b9c34",
+      "code": 62012,
+      "message": "62012",
+      "matchingVideo": false,
+      "hasOfficialLikes": false
+    },
+    {
+      "bvid": "BV1Dw4n61EsW",
+      "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1Dw4n61EsW",
+      "observedAt": "2026-11-20T15:26:52.000Z",
+      "httpStatus": 200,
+      "bodySha256": "d5f52d0ed5214be59d867416b9ef07d2a13d4ac918a53962175fc1431810ee26",
+      "code": 62002,
+      "message": "稿件不可见",
+      "matchingVideo": false,
+      "hasOfficialLikes": false
+    },
+    {
+      "bvid": "BV1m64q69EnP",
+      "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1m64q69EnP",
+      "observedAt": "2026-11-20T15:26:51.990Z",
+      "httpStatus": 200,
+      "bodySha256": "2bfa33b8c029a368a67fcdd803d4db3d24fd9989ea949d4952cb83a90c8b9c34",
+      "code": 62012,
+      "message": "62012",
+      "matchingVideo": false,
+      "hasOfficialLikes": false
+    },
+    {
+      "bvid": "BV1fU4H6AERh",
+      "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1fU4H6AERh",
+      "observedAt": "2026-11-20T15:26:51.993Z",
+      "httpStatus": 200,
+      "bodySha256": "2bfa33b8c029a368a67fcdd803d4db3d24fd9989ea949d4952cb83a90c8b9c34",
+      "code": 62012,
+      "message": "62012",
+      "matchingVideo": false,
+      "hasOfficialLikes": false
+    }
+  ],
+  "publicPages": [
+    {
+      "bvid": "BV1Pdno69EtJ",
+      "url": "https://www.bilibili.com/video/BV1Pdno69EtJ/",
+      "finalUrl": "https://www.bilibili.com/video/BV1Pdno69EtJ/",
+      "httpStatus": 412,
+      "accessedAt": "2026-11-20T15:26:53.882Z",
+      "title": ""
+    },
+    {
+      "bvid": "BV1hZHN6sE4b",
+      "url": "https://www.bilibili.com/video/BV1hZHN6sE4b/",
+      "finalUrl": "https://www.bilibili.com/video/BV1hZHN6sE4b/",
+      "httpStatus": 412,
+      "accessedAt": "2026-11-20T15:26:54.142Z",
+      "title": ""
+    }
+  ],
+  "otherOfficialChecks": [
+    {
+      "bvid": "BV1NL4u6MEGE",
+      "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1NL4u6MEGE",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-20T15:25:29.004Z",
+      "bodySha256": "d3203fce9682ddaa957f9c31204f2158bd81c8fac979247d50e4dcbb629d269a",
+      "code": -404
+    }
+  ]
+}

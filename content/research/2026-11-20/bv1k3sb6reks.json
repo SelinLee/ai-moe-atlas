@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:53:57.790Z",
+  "url": "https://www.bilibili.com/video/BV1K3sb6REKS/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1K3sb6REKS",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1K3sb6REKS",
+    "title": "[DeepSeek × Claude] 小克的路人鱼主的养成方法",
+    "owner": {
+      "name": "努力在爬の咸鱼",
+      "mid": 3707005204171247
+    },
+    "pubdate": 1795165200,
+    "duration": 93
+  },
+  "descriptionSha256": "42ffbfdefe7def72d45316e1690e38d98833fe30d6fca88a342b1a3aab6fda38",
+  "uploaderCredits": [
+    "Seedance"
+  ],
+  "linkedVideos": []
+}

@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:53:58.417Z",
+  "url": "https://www.bilibili.com/video/BV18GsY66EC2/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18GsY66EC2",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV18GsY66EC2",
+    "title": "和AI娘们来一场说走就走的旅行吧",
+    "owner": {
+      "name": "高锰酸猫",
+      "mid": 38332483
+    },
+    "pubdate": 1795097822,
+    "duration": 198
+  },
+  "descriptionSha256": "fdc04e62e8654d51c327c0a1c93979f2b6b08e4beb40e7d84e4e01ced0b4e5ec",
+  "uploaderCredits": [
+    "Updream"
+  ],
+  "linkedVideos": []
+}

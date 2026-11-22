@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T13:56:48.424Z",
+  "url": "https://www.bilibili.com/video/BV1ST4n6GEPJ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ST4n6GEPJ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1ST4n6GEPJ",
+    "title": "依旧一群小可爱~【温馨小短片 04】",
+    "owner": {
+      "name": "火海vol2",
+      "mid": 2424803
+    },
+    "pubdate": 1794058078,
+    "duration": 53
+  },
+  "descriptionSha256": "66fe8618cb9425f2935b2a901371c647856f9ca39fcbc6eca97d0f35a4404ae2",
+  "uploaderCredits": [
+    "这个刀子真甜"
+  ],
+  "linkedVideos": [],
+  "previousEvidence": {
+    "path": "content/research/2026-11-08/bv1st4n6gepj.json",
+    "sha256": "a4d595afb322d552028d241cce607edbbcea137cc500091e78ea2b154077c7c7",
+    "kind": "browser-metadata-extract"
+  }
+}

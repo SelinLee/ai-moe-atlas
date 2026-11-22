@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:24:15.232Z",
+  "url": "https://www.bilibili.com/video/BV1U4Wd6vEWj/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1U4Wd6vEWj",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1U4Wd6vEWj",
+    "title": "啊？那地上这根竹签都是狗吃的",
+    "owner": {
+      "name": "冬冰",
+      "mid": 44748304
+    },
+    "pubdate": 1794477853,
+    "duration": 188
+  },
+  "descriptionSha256": "2eb296b808711aadda44e7a5099559ff089d7e143d5920efe7932fd030962915",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "这个刀子真甜"
+  ],
+  "linkedVideos": []
+}

@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T09:28:45.751Z",
+  "pinnedDocument": {
+    "commit": "49c9194e9b36fd149d1555760b3295fa125fa894",
+    "url": "https://github.com/Lothario-C/MimoPet/blob/49c9194e9b36fd149d1555760b3295fa125fa894/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Lothario-C/MimoPet/49c9194e9b36fd149d1555760b3295fa125fa894/README.md",
+    "sourceSha256": "13bb7173abc202ecf981853758fd6e7d94f11f70d50abbc4fba6eeb2a0325699"
+  },
+  "documents": [
+    {
+      "url": "https://github.com/Lothario-C/MimoPet/blob/49c9194e9b36fd149d1555760b3295fa125fa894/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Lothario-C/MimoPet/49c9194e9b36fd149d1555760b3295fa125fa894/LICENSE",
+      "sourceSha256": "6ec571dc5fc2b18831566eb221b334f65d4cf04edfba75e4e92bf128362dc2b6"
+    }
+  ],
+  "statedArtworkSourceCheck": {
+    "url": "https://space.bilibili.com/1758596086",
+    "httpStatus": 412,
+    "accessedAt": "2026-11-18T09:25:49.784Z",
+    "scope": "Bilibili account profile restricted in isolated Chrome. The README does not name a specific original artwork post."
+  }
+}

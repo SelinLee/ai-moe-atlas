@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T09:27:54.620Z",
+  "url": "https://www.bilibili.com/video/BV1s63m66Eu8/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1s63m66Eu8",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1s63m66Eu8",
+    "title": "抱抱小公主~（我也算是提前抱到DeepSeek v4 pro了，笑）",
+    "owner": {
+      "name": "这个刀子真甜",
+      "mid": 23315338
+    },
+    "pubdate": 1785600227,
+    "duration": 45
+  },
+  "descriptionSha256": "82c21d583033878b1ae888ba759569d6fd0e343124f8c0f427751baf1a85afbc",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": []
+}

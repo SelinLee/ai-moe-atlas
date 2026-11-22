@@ -1858,5 +1858,173 @@
       "en": "Credit required · Non-commercial (creator terms)",
       "ja": "作者表示必須・非商用（作者条件）"
     }
+  },
+  {
+    "id": "shizhi-muse",
+    "entity": "muse",
+    "name": {
+      "zh": "Muse 娘 · 识知不失智",
+      "en": "Muse Girl · 识知不失智",
+      "ja": "Muse 娘 · 识知不失智"
+    },
+    "description": {
+      "zh": "白蓝渐变长发、羊驼耳和细框眼镜的 Muse 同人形象。",
+      "en": "A Muse fan design with white-to-blue hair, alpaca ears and fine-framed glasses.",
+      "ja": "白から青の髪、アルパカ耳、細い眼鏡の Muse 同人デザイン。"
+    },
+    "story": {
+      "zh": "识知不失智发布原创角色 PV，把 Muse 画成穿蓝白外套的拟人角色。服装呼应 Meta 品牌色，羊驼耳呼应 Llama。",
+      "en": "In the original character PV, 识知不失智 depicts Muse in a blue-and-white jacket. The colors reference Meta and the alpaca ears reference Llama.",
+      "ja": "识知不失智 のオリジナル PV に登場する、青と白のジャケットを着た Muse の擬人化。配色は Meta、アルパカ耳は Llama に由来。"
+    },
+    "features": {
+      "zh": "细框眼镜、∞ 发夹、蓝白洞洞鞋与作者画中的 Jolly 玩偶。",
+      "en": "Fine-framed glasses, an infinity hair clip, blue-and-white clogs, and Jolly as depicted by the creator.",
+      "ja": "細い眼鏡、∞ の髪留め、青と白のクロッグ、作者が描いた Jolly。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "识知不失智",
+    "authorUrl": "https://space.bilibili.com/6348099",
+    "source": "https://www.bilibili.com/video/BV1jEnD6RE1t/",
+    "sourceTitle": "【原创角色PV】Meta 的 AI 还没有 AI 娘？Muse 娘来了！",
+    "originalPublication": "https://www.bilibili.com/video/BV1jEnD6RE1t/",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "识知不失智",
+        "url": "https://space.bilibili.com/6348099",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/video/BV1jEnD6RE1t/"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "downloadable": false,
+    "bg": "#eef4fb",
+    "color": "#345f89",
+    "verifiedAt": "2026-11-20",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者声明 CC BY 4.0 适用于其原创立绘和设定，署名为「Muse 娘原创设定 by （识知不失智）」。Jolly 等 Meta 元素有独立权利。档案的七个具体文件目前以出处链接收录。",
+      "en": "The creator applies CC BY 4.0 to their original illustration and design, with attribution to 识知不失智. Meta elements such as Jolly have separate rights. The seven archive files are indexed by source link.",
+      "ja": "作者のオリジナル立ち絵と設定には、识知不失智 へのクレジットを条件に CC BY 4.0 を適用。Jolly など Meta の要素には別の権利があり、資料の7ファイルは出典リンクで収録。"
+    }
+  },
+  {
+    "id": "zipzippipe-mistral",
+    "entity": "mistral",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Mistral 法棍猫娘 · ZipZipPipe",
+      "en": "Mistral Baguette Cat Girl · ZipZipPipe",
+      "ja": "Mistral バゲット猫娘 · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 第二批 AI 娘图集中的 Mistral 法棍猫娘。",
+      "en": "Mistral Baguette Cat Girl from ZipZipPipe’s second AI Girl collection.",
+      "ja": "ZipZipPipe の AI 娘作品集第2弾に登場する Mistral バゲット猫娘。"
+    },
+    "story": {
+      "zh": "作者在 B 站发布这张拟人立绘。Mistral AI 的产品页把原 Le Chat 标为现用名称 Vibe。",
+      "en": "The creator published the personification on Bilibili. Mistral AI’s product page identifies Vibe as the current name for the former Le Chat.",
+      "ja": "作者が Bilibili に擬人化の立ち絵を公開。Mistral AI の製品ページでは旧 Le Chat の現在の名称を Vibe と案内。"
+    },
+    "features": {
+      "zh": "以猫娘和法棍为设计元素。原帖图件为 3072 × 5504。",
+      "en": "The design uses a cat-girl motif and a baguette. The original image is 3072 × 5504.",
+      "ja": "猫娘とバゲットがモチーフ。原投稿の画像は 3072 × 5504。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://www.pixiv.net/users/18604994",
+    "source": "https://www.bilibili.com/opus/1236803362705375305",
+    "sourceTitle": "AI娘第二批，有Seed（豆包底模）",
+    "originalPublication": "https://www.bilibili.com/opus/1236803362705375305",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1236803362705375305"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1236803362705375305",
+    "downloadable": false,
+    "bg": "#fff0db",
+    "color": "#7b4c29",
+    "verifiedAt": "2026-11-20",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "原帖第 4 张立绘已核对 SHA-256。展示、转载和改编的逐件条件待核，词条提供出处链接。",
+      "en": "The source JPEG for the fourth image was checked by SHA-256. File-specific display, redistribution and adaptation terms remain open. The entry links to the publication.",
+      "ja": "原投稿の4枚目の画像を SHA-256 で照合。表示・転載・改変の画像別条件は確認待ちのため、出典リンクを掲載。"
+    }
+  },
+  {
+    "id": "zipzippipe-opencode",
+    "entity": "opencode",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "OpenCode 拟人 · ZipZipPipe",
+      "en": "OpenCode Personification · ZipZipPipe",
+      "ja": "OpenCode 擬人化 · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 在《所有的 AI 们，和 OpenCode》中发布的 OpenCode 拟人立绘。",
+      "en": "ZipZipPipe’s OpenCode personification from All the AIs, and OpenCode.",
+      "ja": "ZipZipPipe の『すべての AI たち、そして OpenCode』に掲載された OpenCode の擬人化立ち絵。"
+    },
+    "story": {
+      "zh": "作者将原帖第 9 个位置留给 OpenCode。OpenCode 的产品文档将其介绍为开源编程助手。",
+      "en": "The creator reserved the ninth position in the post for OpenCode. Its own documentation describes an open-source coding agent.",
+      "ja": "作者は原投稿の9番目を OpenCode に割り当てた。製品の公式文書ではオープンソースのコーディングエージェントと案内。"
+    },
+    "features": {
+      "zh": "长黑发、灰黑色长裙和头部双侧高耸装饰。原帖文件为 2160 × 3840 PNG。",
+      "en": "Long black hair, a charcoal floor-length outfit and tall ornaments on both sides of the head. The source PNG is 2160 × 3840.",
+      "ja": "黒い長髪、黒灰色のロングドレス、頭部両側に伸びる装飾。原投稿の PNG は 2160 × 3840。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://www.pixiv.net/users/18604994",
+    "source": "https://www.bilibili.com/opus/1233069202138464289",
+    "sourceTitle": "所有的AI们，和OpenCode",
+    "originalPublication": "https://www.bilibili.com/opus/1233069202138464289",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1233069202138464289"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1233069202138464289",
+    "downloadable": false,
+    "bg": "#e9e5ee",
+    "color": "#343444",
+    "verifiedAt": "2026-11-21",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "原帖第 9 张 PNG 已核对 SHA-256。逐件展示、转载和改编条件待核，词条提供作者原帖。",
+      "en": "The ninth source PNG was checked by SHA-256. Artwork-specific display, redistribution and adaptation terms remain open. The entry links to the creator’s post.",
+      "ja": "原投稿の9枚目の PNG を SHA-256 で照合。表示・転載・改変の画像別条件は確認待ちで、作者の原投稿を掲載。"
+    }
   }
 ]

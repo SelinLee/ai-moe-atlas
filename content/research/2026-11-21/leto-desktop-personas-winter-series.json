@@ -1,0 +1,130 @@
+{
+  "full_name": "leto0309/ai-girl-desktop-pet-prompts",
+  "html_url": "https://github.com/leto0309/ai-girl-desktop-pet-prompts",
+  "stargazers_count": 11,
+  "archived": false,
+  "created_at": "2026-10-18T10:54:09Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "七位 AI 娘的中文桌宠提示词；基于冬冰《五个 AI 玩我的世界》系列归纳，附视频来源、署名和改编说明。",
+  "license": null,
+  "commit": "b3e6caffe1d1059b03a49924371997e0a51f2db9",
+  "observedAt": "2026-11-20T16:31:38.738+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:32:17.689Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/leto0309/ai-girl-desktop-pet-prompts/blob/b3e6caffe1d1059b03a49924371997e0a51f2db9/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/leto0309/ai-girl-desktop-pet-prompts/b3e6caffe1d1059b03a49924371997e0a51f2db9/README.md",
+      "sourceSha256": "8cfb38850bf08902c20d22f1c2c4692b538382dea635407df94badcb92f54bd9",
+      "gitBlobSha": "6e9e52a97475367cae2f312daa431c364b2cc61f",
+      "bytes": 3454,
+      "commit": "b3e6caffe1d1059b03a49924371997e0a51f2db9"
+    },
+    "ATTRIBUTION.md": {
+      "path": "ATTRIBUTION.md",
+      "url": "https://github.com/leto0309/ai-girl-desktop-pet-prompts/blob/b3e6caffe1d1059b03a49924371997e0a51f2db9/ATTRIBUTION.md",
+      "rawUrl": "https://raw.githubusercontent.com/leto0309/ai-girl-desktop-pet-prompts/b3e6caffe1d1059b03a49924371997e0a51f2db9/ATTRIBUTION.md",
+      "sourceSha256": "f8eaa55b65517add54a3263d01f78bcdf0e7fdf72fa4d9a51dcba2257f3f5b05",
+      "gitBlobSha": "75220254a27f6db54c99738e142130090c7d1cea",
+      "bytes": 1178,
+      "commit": "b3e6caffe1d1059b03a49924371997e0a51f2db9"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/leto0309/ai-girl-desktop-pet-prompts/blob/b3e6caffe1d1059b03a49924371997e0a51f2db9/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/leto0309/ai-girl-desktop-pet-prompts/b3e6caffe1d1059b03a49924371997e0a51f2db9/README.md",
+    "sourceSha256": "8cfb38850bf08902c20d22f1c2c4692b538382dea635407df94badcb92f54bd9",
+    "gitBlobSha": "6e9e52a97475367cae2f312daa431c364b2cc61f",
+    "bytes": 3454,
+    "commit": "b3e6caffe1d1059b03a49924371997e0a51f2db9"
+  },
+  "sourceGuide": {
+    "id": "leto-sources",
+    "path": "SOURCES.md",
+    "rawUrl": "https://raw.githubusercontent.com/leto0309/ai-girl-desktop-pet-prompts/b3e6caffe1d1059b03a49924371997e0a51f2db9/SOURCES.md",
+    "url": "https://github.com/leto0309/ai-girl-desktop-pet-prompts/blob/b3e6caffe1d1059b03a49924371997e0a51f2db9/SOURCES.md",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-20T16:35:04.204Z",
+    "commit": "b3e6caffe1d1059b03a49924371997e0a51f2db9",
+    "bytes": 4787,
+    "sourceSha256": "edeb6a8863c09ca7d5b158d4523039970bb72560d529130b164608c8fe714828",
+    "gitBlobSha": "949104a2689bec7c20e21f8e59b36a03063b6ed2"
+  },
+  "method": "github-rest-tree-and-isolated-headless-google-chrome",
+  "verifiedPublications": [
+    {
+      "bvid": "BV1QqaB6VEgc",
+      "title": "为什么你能带个盆进来",
+      "publisher": "冬冰",
+      "publisherId": 44748304,
+      "observedAt": "2026-11-20T16:38:06.624Z",
+      "httpStatus": 200,
+      "query": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QqaB6VEgc",
+      "bodySha256": "03036d021c57480757b870185cfaae2081d1282ea91f56c5091d245b057f51fc"
+    },
+    {
+      "bvid": "BV1H9am6WEbs",
+      "title": "！？叶枫大豪宅？！",
+      "publisher": "冬冰",
+      "publisherId": 44748304,
+      "observedAt": "2026-11-20T16:38:06.647Z",
+      "httpStatus": 200,
+      "query": "https://api.bilibili.com/x/web-interface/view?bvid=BV1H9am6WEbs",
+      "bodySha256": "e2fcbbcaf44206d4c0f13c0e08f4ed585f2c5d8b2c57af1e35ec11f0c537fbf5"
+    },
+    {
+      "bvid": "BV12HHq6uEeq",
+      "title": "嘶——是我啦！",
+      "publisher": "冬冰",
+      "publisherId": 44748304,
+      "observedAt": "2026-11-20T16:38:06.634Z",
+      "httpStatus": 200,
+      "query": "https://api.bilibili.com/x/web-interface/view?bvid=BV12HHq6uEeq",
+      "bodySha256": "49f66664bad60163c9e0f72c82bcd43ac7bfbeca1590ead345b5f069cf786b32"
+    },
+    {
+      "bvid": "BV1r3HL6iEXZ",
+      "title": "免费鸡蛋不要钱",
+      "publisher": "冬冰",
+      "publisherId": 44748304,
+      "observedAt": "2026-11-20T16:38:06.683Z",
+      "httpStatus": 200,
+      "query": "https://api.bilibili.com/x/web-interface/view?bvid=BV1r3HL6iEXZ",
+      "bodySha256": "3110873240e36b69795fb6489d117280627da512befaf87b9a215498e77abb67"
+    },
+    {
+      "bvid": "BV1PPHs6PEvZ",
+      "title": "我其实是在梦游你信吗",
+      "publisher": "冬冰",
+      "publisherId": 44748304,
+      "observedAt": "2026-11-20T16:38:07.113Z",
+      "httpStatus": 200,
+      "query": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PPHs6PEvZ",
+      "bodySha256": "5f92e219ea56ba5019ee3f1cd6bea9c9dd857e5bfa698d0330b0461aecb805e1"
+    },
+    {
+      "bvid": "BV1RTpw6REzy",
+      "title": "真的是糖味的",
+      "publisher": "冬冰",
+      "publisherId": 44748304,
+      "observedAt": "2026-11-20T16:38:07.132Z",
+      "httpStatus": 200,
+      "query": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RTpw6REzy",
+      "bodySha256": "3115585853261e7ca9dc0e719f6b9811c8b38465a6516d2cd423a998514b66ac"
+    },
+    {
+      "bvid": "BV1o9HC6rEua",
+      "title": "你们吃的很开心嘛",
+      "publisher": "冬冰",
+      "publisherId": 44748304,
+      "observedAt": "2026-11-20T16:38:07.122Z",
+      "httpStatus": 200,
+      "query": "https://api.bilibili.com/x/web-interface/view?bvid=BV1o9HC6rEua",
+      "bodySha256": "731a73a6f308f17ffd0dda1abd3e4b9cba3d7b2d890c567224739c6a4fcaee4a"
+    }
+  ],
+  "editorialScope": "Project commentary, inferred characterization and original added interaction examples are distinguished in the attribution notice."
+}

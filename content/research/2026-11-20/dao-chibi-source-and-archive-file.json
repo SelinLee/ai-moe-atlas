@@ -1,0 +1,55 @@
+{
+  "method": "isolated-headless-google-chrome",
+  "url": "https://www.douyin.com/video/7698645160699170099",
+  "title": "",
+  "finalUrl": "https://www.douyin.com/video/7698645160699170099",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:41:26.154Z",
+  "domSha256": "f700b1faac1dabf4c224d37c4ad8b2081bb2ca863c04b6e5ba0840182ae0ef8c",
+  "previousEvidence": {
+    "path": "content/research/2026-11-18/dao-chibi-turnaround-publication.json",
+    "sha256": "ff41030f2f49f51dda9a3be6b3b9285a0b8128f7a91dafbd7dbbfdad3d470169",
+    "kind": "browser-metadata-extract"
+  },
+  "indexedMetadata": {
+    "title": "近期视频的角色三视图",
+    "publisher": "这个刀子真甜",
+    "displayedDateTime": "2026-10-20 15:15:12",
+    "source": "https://www.douyin.com/video/7698645160699170099"
+  },
+  "pageScope": "Player shell and site navigation were visible. Creator, publication date and frames were unavailable in this session.",
+  "archive": {
+    "url": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202611140007.html",
+    "title": "《小肥鱼三视图》DeepSeek娘设定图 - DeepSeek 娘 AI娘二创 | 蓝色大肥鱼",
+    "finalUrl": "https://xn--pssy23gqgbz2d718b.com/works/deepseek202611140007.html",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-20T15:37:47.755Z",
+    "htmlSha256": "0cd604e6578f42721a69f5ab28ed69aa70e53e82d240036fc1a94c5b7b25caa9",
+    "artworkCredit": "这个刀子真甜",
+    "creditLinkRedirect": {
+      "url": "https://b23.tv/1c7pwHu",
+      "title": "出错啦! - bilibili.com",
+      "finalUrl": "https://space.bilibili.com/23315338",
+      "httpStatus": 412,
+      "accessedAt": "2026-11-20T15:41:14.569Z",
+      "domSha256": "b4601db073d08417ae0ce87d42164895c820863f56092f7f403bd215680ddf94"
+    },
+    "file": {
+      "id": "dao-archive",
+      "path": "dist/submissions/originals/deepseek/9a4e0e580a24868f.png",
+      "commit": "03497f271d9cc3fa3628f70f98dd69786570e5cd",
+      "url": "https://github.com/lmy414/ai-girl-stickers/blob/03497f271d9cc3fa3628f70f98dd69786570e5cd/dist/submissions/originals/deepseek/9a4e0e580a24868f.png",
+      "rawUrl": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/03497f271d9cc3fa3628f70f98dd69786570e5cd/dist/submissions/originals/deepseek/9a4e0e580a24868f.png",
+      "sourceSha256": "9a4e0e580a24868f4d830d16ff48a10aaf1d23246b270a3f093c485e9a0bcbd9",
+      "gitBlobSha": "463139598787e9b7643e933741d3e93d35c8b556",
+      "bytes": 2057520,
+      "httpStatus": 200,
+      "width": 2480,
+      "height": 1385,
+      "format": "png",
+      "accessedAt": "2026-11-20T15:41:08.212Z"
+    },
+    "originalPostMatch": "unverified",
+    "artworkPermission": "unverified"
+  }
+}

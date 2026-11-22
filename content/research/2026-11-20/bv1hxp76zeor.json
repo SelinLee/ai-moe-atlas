@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:07:26.967Z",
+  "url": "https://www.bilibili.com/video/BV1hxp76ZEoR/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hxp76ZEoR",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1hxp76ZEoR",
+    "title": "AI娘游戏人生OP《This game》",
+    "owner": {
+      "name": "無名之華",
+      "mid": 392667569
+    },
+    "pubdate": 1791689069,
+    "duration": 92
+  },
+  "descriptionSha256": "a5feff4d43d11d8cff48afdf7da71bf3b9db771616e32ad50ef82f7e1ecc4a29",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "黑猫勇者"
+  ],
+  "linkedVideos": [
+    "BV1Gpau6wEHE"
+  ]
+}

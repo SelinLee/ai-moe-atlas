@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:24:11.562Z",
+  "url": "https://www.bilibili.com/video/BV1Hw4J6oENR/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Hw4J6oENR",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Hw4J6oENR",
+    "title": "Claude大小姐，为什么把我封了？！",
+    "owner": {
+      "name": "兔兔的传说_",
+      "mid": 282466060
+    },
+    "pubdate": 1794039171,
+    "duration": 208
+  },
+  "descriptionSha256": "94f576ac0f757be8524a5b682c2d9fba2a7f051184bf7a2117874ec51f6ca464",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "previousEvidence": {
+    "path": "content/research/2026-11-08/bv1hw4j6oenr.json",
+    "sha256": "4913a91b71f61b143bf0d1e21d5e0a3a35d7edbc55fd0d10dc2d3ce808ab97a2",
+    "kind": "browser-metadata-extract"
+  }
+}

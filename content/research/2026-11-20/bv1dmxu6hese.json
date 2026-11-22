@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:07:25.583Z",
+  "url": "https://www.bilibili.com/video/BV1DMxU6HESe/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1DMxU6HESe",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1DMxU6HESe",
+    "title": "《眼睛再大一点》|豆包的画室",
+    "owner": {
+      "name": "Oo肥鱼O",
+      "mid": 3690980471474960
+    },
+    "pubdate": 1793745700,
+    "duration": 18
+  },
+  "descriptionSha256": "1268de710fc5c4b5d7873c065da4913e2e72a022725bb4518a499e8449aa4279",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

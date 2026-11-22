@@ -1,0 +1,26 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:15:34.385Z",
+  "url": "https://www.bilibili.com/video/BV1mus66REpN/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mus66REpN",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1mus66REpN",
+    "title": "【4K60帧】如果反重力IDE就是本喵的整个世界 —— world.execute(me);【Gemini猫娘PV】",
+    "owner": {
+      "name": "本喵才不会极其",
+      "mid": 3546573340412315
+    },
+    "pubdate": 1794930507,
+    "duration": 212
+  },
+  "descriptionSha256": "d05b34918eaec3044c59b2d5f194e8156ce848f119a8b02213eed790181e672a",
+  "uploaderCredits": [
+    "Mili",
+    "羽フブキ"
+  ],
+  "linkedVideos": [
+    "BV186pc65E68",
+    "BV1xCai6aE9g"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "method": "isolated-headless-google-chrome",
+  "videoRecords": [
+    {
+      "bvid": "BV1stxa6eESB",
+      "url": "https://www.bilibili.com/video/BV1stxa6eESB/",
+      "endpoint": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1stxa6eESB",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-20T15:23:38.997Z",
+      "bodySha256": "4567a17b5088850f21c433b5d8ebdc2974c9f96e8280670609afd28cc962f355",
+      "uploader": "三重野chiame",
+      "title": "【免费Live2D模型】全网最“邢”的大肥鱼",
+      "pubdate": 1793620800,
+      "musicTag": null,
+      "descriptionMatched": [
+        "二创",
+        "商业直播",
+        "禁止任何形式的贩卖",
+        "知牌女儿服"
+      ]
+    },
+    {
+      "bvid": "BV1ScsB6pE4w",
+      "url": "https://www.bilibili.com/video/BV1ScsB6pE4w/",
+      "endpoint": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1ScsB6pE4w",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-20T15:23:39.165Z",
+      "bodySha256": "2c31f612f78747e1f854b71f8da5b44455767996b48f88662b891277148839f2",
+      "uploader": "TB监护人",
+      "title": "做了一个月的Claude娘，终于会眨眼了",
+      "pubdate": 1795172400,
+      "musicTag": null,
+      "descriptionMatched": [
+        "原型",
+        "ZipZipPipe",
+        "Tripo"
+      ]
+    }
+  ],
+  "whaleLive2D": {
+    "uploader": "三重野chiame",
+    "claim": "artwork and rigging",
+    "template": "知牌女儿服",
+    "statement": {
+      "derivativeWorks": "allowed",
+      "commercialLivestreaming": "allowed",
+      "sales": "prohibited",
+      "standaloneRedistribution": "unverified"
+    },
+    "templateRights": "unverified"
+  },
+  "claudeChibi": {
+    "uploader": "TB监护人",
+    "designReference": "ZipZipPipe",
+    "baseModel": "Tripo",
+    "fileTerms": "unverified"
+  }
+}

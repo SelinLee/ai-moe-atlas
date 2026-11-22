@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:25:48.736Z",
+  "url": "https://www.bilibili.com/video/BV1qgxm6wEd2/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qgxm6wEd2",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1qgxm6wEd2",
+    "title": "你比企鹅还圆",
+    "owner": {
+      "name": "冬冰",
+      "mid": 44748304
+    },
+    "pubdate": 1793750400,
+    "duration": 235
+  },
+  "descriptionSha256": "a15c9208787563e7e02924f92ebcc32fc123c406a5a5b5cf2cf4ba6abed400f9",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "这个刀子真甜"
+  ],
+  "linkedVideos": []
+}

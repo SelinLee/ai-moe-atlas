@@ -70,5 +70,23 @@
     "name": "MiniMax",
     "provider": "MiniMax",
     "url": "https://www.minimax.io/"
+  },
+  {
+    "id": "muse",
+    "name": "Muse",
+    "provider": "Meta",
+    "url": "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/"
+  },
+  {
+    "id": "mistral",
+    "name": "Mistral Vibe",
+    "provider": "Mistral AI",
+    "url": "https://mistral.ai/products/vibe/"
+  },
+  {
+    "id": "opencode",
+    "name": "OpenCode",
+    "provider": "Anomaly",
+    "url": "https://opencode.ai/docs/"
   }
 ]

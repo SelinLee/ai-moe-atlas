@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:18:02.677Z",
+  "url": "https://www.bilibili.com/video/BV1W9HM6REpW/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1W9HM6REpW",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1W9HM6REpW",
+    "title": "请选择你的AI娘【AI全民制作人】",
+    "owner": {
+      "name": "张忧忧家",
+      "mid": 315316412
+    },
+    "pubdate": 1792884606,
+    "duration": 31
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

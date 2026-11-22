@@ -1,0 +1,429 @@
+{
+  "method": "isolated-headless-google-chrome",
+  "scope": "Original release credits, Bilibili title and description, and platform BGM entries where supplied. Linked song and video records only.",
+  "songs": [
+    {
+      "id": "silhouette-dance",
+      "original": {
+        "credit": "MyGO!!!!!",
+        "url": "https://www.bilibili.com/video/BV1gP411u7kS/"
+      },
+      "sourceEvidence": {
+        "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1gP411u7kS",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T14:41:42.306Z",
+        "bodySha256": "d3825ff62b3a9e1ea5c1fd5dc0474fe569d40d9340d011ffa67a47fc2eab8ecd",
+        "bvid": "BV1gP411u7kS",
+        "title": "【Official Music Video】影色舞（Silhouette Dance） / MyGO!!!!!【原创歌曲】",
+        "owner": "MyGO_AveMujica",
+        "mid": 1459104794,
+        "pubdate": 1669111200,
+        "descriptionSha256": "0c23a61bfb13e1e69260e6fce26a197f1497f4f7ded1f9c39cbcc07e9f02fa03"
+      },
+      "fanVersions": [
+        {
+          "id": "bv1idhc6gexq",
+          "type": "mv",
+          "bvid": "BV1idHC6gEXq",
+          "url": "https://www.bilibili.com/video/BV1idHC6gEXq/",
+          "title": "🐳DeepSeek大肥鱼🐳影色舞",
+          "publisher": "MuoK平知音",
+          "officialMetadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1idHC6gEXq",
+          "observedAt": "2026-11-20T14:27:19.406Z",
+          "descriptionSha256": "174881b4eeec08b687a31b2c67a8ae2ef127d6110886c324850283392375521e",
+          "retainedVideoEvidence": {
+            "path": "content/research/2026-11-08/bv1idhc6gexq.json",
+            "sha256": "6de2ab87fd97d3fac0898ee6fe7c246c03b74bbe473d8ad201fdb55f5df1214e",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "nanjing-night-no-radio-signal",
+      "original": {
+        "credit": "花水r_Official · 洛天依",
+        "url": "https://www.bilibili.com/video/BV1NcuUzJESu/"
+      },
+      "sourceEvidence": {
+        "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1NcuUzJESu",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T14:41:42.285Z",
+        "bodySha256": "a06bf2c2988139fc26e3fb833852bca205ecc0f11fb5f09d60da62f6ebac88c0",
+        "bvid": "BV1NcuUzJESu",
+        "title": "南京夜无电波讯号 【洛天依原创/告别作】",
+        "owner": "花水r_Official",
+        "mid": 3537108226541988,
+        "pubdate": 1752850420,
+        "descriptionSha256": "07437eac16a3e429d5215c0e80c2d5f4ab92be60c98c10e536e49461380bd38e"
+      },
+      "fanVersions": [
+        {
+          "id": "bv1rkje6geh2",
+          "type": "arrangement",
+          "bvid": "BV1RkJe6gEH2",
+          "url": "https://www.bilibili.com/video/BV1RkJe6gEH2/",
+          "title": "【大肥鱼】《大肥鱼无电波讯号》",
+          "publisher": "钟晴的少女心事",
+          "officialMetadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RkJe6gEH2",
+          "observedAt": "2026-11-20T14:27:19.410Z",
+          "descriptionSha256": "5ecb9f2ece59f308064547a44f8243cae0c5633ad49faa9a83de0808b65be1aa",
+          "retainedVideoEvidence": {
+            "path": "content/research/2026-11-08/bv1rkje6geh2.json",
+            "sha256": "585d880bcdf890b0a0abe754f3170aee9df2ef83a79e9aed80e94a29439a85e4",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "flower-tower",
+      "original": {
+        "credit": "さユり · Sayuri",
+        "url": "https://music.apple.com/us/song/1630061094"
+      },
+      "sourceEvidence": {
+        "url": "https://music.apple.com/us/song/1630061094",
+        "finalUrl": "https://music.apple.com/us/song/tower-of-flower/1630061094",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T14:42:47.851Z",
+        "htmlSha256": "c5278c798eae32da1be089a0c96be203996ad92bf5788d16caaec00127259d00",
+        "title": "‎Tower of Flower - Song with Lyrics by Sayuri - Apple Music",
+        "og": "Tower of Flower by Sayuri on Apple Music"
+      },
+      "fanVersions": [
+        {
+          "id": "bv1gpau6wehe",
+          "type": "mv",
+          "bvid": "BV1Gpau6wEHE",
+          "url": "https://www.bilibili.com/video/BV1Gpau6wEHE/",
+          "title": "【四月新番】肥鱼×claude动画《莉克丽S》 ED  花之塔",
+          "publisher": "黑猫勇者",
+          "officialMetadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Gpau6wEHE",
+          "observedAt": "2026-11-20T14:27:00.922Z",
+          "descriptionSha256": "0f44e7e77b0bcc25673bd30a05d6242f82ed02c099448882d43b46174a2a65c7",
+          "retainedVideoEvidence": {
+            "path": "content/research/2026-11-07/bv1gpau6wehe.json",
+            "sha256": "1483e0c5d96b962490e380ceb4f83623d2fa398ab6b83cb6130b4036b1f70f45",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "phony",
+      "original": {
+        "credit": "ツミキ feat. 可不",
+        "url": "https://www.nicovideo.jp/watch/sm38833751"
+      },
+      "sourceEvidence": {
+        "url": "https://ext.nicovideo.jp/api/getthumbinfo/sm38833751",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T14:44:47.893Z",
+        "bodySha256": "ed6bc29e443b6af1fbdea3bdf7425080d55d6fd3a909f665c6a49ce51807e659",
+        "title": "フォニイ - kafu [オリジナル]",
+        "artist": "ツミキ",
+        "videoId": "sm38833751",
+        "creatorChannelUpload": "https://www.youtube.com/watch?v=9QLT1Aw_45s"
+      },
+      "fanVersions": [
+        {
+          "id": "bv11zhh6bewx",
+          "type": "mv",
+          "bvid": "BV11ZHH6bEWX",
+          "url": "https://www.bilibili.com/video/BV11ZHH6bEWX/",
+          "title": "【DeepSeek/MV】明明是数据组成的/伪物/...",
+          "publisher": "一口一个Axon",
+          "officialMetadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV11ZHH6bEWX",
+          "observedAt": "2026-11-20T14:27:16.255Z",
+          "descriptionSha256": "344a026eae67ce7be8114cc41523a1594cb2d093264292e148ebfe70ec42dbdd",
+          "retainedVideoEvidence": {
+            "path": "content/research/2026-11-08/bv11zhh6bewx.json",
+            "sha256": "fe059339a19bcde3e394cb4ea3a2ea4d77d89146e27689976ef5ada6d4b957fd",
+            "kind": "browser-metadata-extract"
+          },
+          "creditedSoundtrack": {
+            "role": "soundtrack-recording",
+            "title": "星街すいせい · フォニイ cover",
+            "url": "https://www.youtube.com/watch?v=N029UUlH1Dc"
+          }
+        }
+      ]
+    },
+    {
+      "id": "uptown-funk",
+      "original": {
+        "credit": "Mark Ronson feat. Bruno Mars",
+        "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0"
+      },
+      "sourceEvidence": {
+        "url": "https://www.brunomars.com/news/uptown-funk-official-video-64961",
+        "finalUrl": "https://www.brunomars.com/news/uptown-funk-official-video-64961",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T14:41:35.169Z",
+        "htmlSha256": "b71f4f66fe5eb273385fdc2f3d3cc5768728048c31ea0d87ba988cc8964e1ba9",
+        "title": "Uptown Funk Official Video | Bruno Mars",
+        "og": "Uptown Funk Official Video | Bruno Mars"
+      },
+      "fanVersions": [
+        {
+          "id": "bv18cnp6yeyi",
+          "type": "mv",
+          "bvid": "BV18cnp6YEYi",
+          "url": "https://www.bilibili.com/video/BV18cnp6YEYi/",
+          "title": "豆包蓝色大肥鱼和ai娘们的激情演唱《Uptown Funk》重制",
+          "publisher": "凌云志ing",
+          "officialMetadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18cnp6YEYi",
+          "observedAt": "2026-11-20T14:27:05.621Z",
+          "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+          "retainedVideoEvidence": {
+            "path": "content/research/2026-11-07/bv18cnp6yeyi.json",
+            "sha256": "440a7c9dcdb6ddf6067521251cb481791078e226c452c1cae28072ed023788e9",
+            "kind": "browser-metadata-extract"
+          }
+        },
+        {
+          "id": "bv1jqhv6hexk",
+          "type": "dance",
+          "bvid": "BV1JQHV6hEXk",
+          "url": "https://www.bilibili.com/video/BV1JQHV6hEXk/",
+          "title": "六个AI拟人女团跳Uptown Funk，小海螺（minimaxH3）也在里面。",
+          "publisher": "DarthMol",
+          "officialMetadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JQHV6hEXk",
+          "observedAt": "2026-11-20T14:27:45.473Z",
+          "descriptionSha256": "9f8a9d6fdee0bebc2bc70cdfb87beacbd15511c6a4d54040f160c0fd776f900f",
+          "retainedVideoEvidence": {
+            "path": "content/research/2026-11-20/bv1jqhv6hexk.json",
+            "sha256": "bf302824a2ac9b2743cd9ad7657a3efce130e7f158ba509ab07eaffa3d34d51c",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "i-will-wait",
+      "original": {
+        "credit": "承桓",
+        "url": "https://music.apple.com/us/song/1678416852"
+      },
+      "sourceEvidence": {
+        "url": "https://music.apple.com/us/song/1678416852",
+        "finalUrl": "https://music.apple.com/us/song/%E6%88%91%E4%BC%9A%E7%AD%89/1678416852",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T14:38:31.884Z",
+        "htmlSha256": "b867d066c2090f47a72ed05a2f2b3dd2882ced4ce603e0d8fbb7da4ed7a5cea4",
+        "title": "‎我会等 - Song with Lyrics by 承桓 - Apple Music"
+      },
+      "fanVersions": [
+        {
+          "id": "bv1s4s86yeam",
+          "type": "cover",
+          "bvid": "BV1S4s86YEAm",
+          "url": "https://www.bilibili.com/video/BV1S4s86YEAm/",
+          "title": "《我会等》AI翻唱-【Qwen拟人旗袍版】",
+          "publisher": "光蛍",
+          "officialMetadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1S4s86YEAm",
+          "observedAt": "2026-11-20T14:27:47.297Z",
+          "descriptionSha256": "451de032941f51263a8332a4eef50ce9fb83dd01c21381aaacec3342050c8ef8",
+          "retainedVideoEvidence": {
+            "path": "content/research/2026-11-20/bv1s4s86yeam.json",
+            "sha256": "6b90e524a6106020b235d2502085d776c241ff08daa58fb6cc8d468f9ba6df50",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ],
+      "platformEvidence": {
+        "basis": "Bilibili video BGM tag and official music detail response",
+        "video": {
+          "bvid": "BV1S4s86YEAm",
+          "url": "https://www.bilibili.com/video/BV1S4s86YEAm/",
+          "detailApiUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1S4s86YEAm",
+          "apiResponseSha256": "72f3991a81b6bcace3744976f2b9c8fb3b383d912dbb39cc0cfcb63621500c19",
+          "observedAt": "2026-11-20T14:42:53.894Z"
+        },
+        "music": {
+          "id": "MA451555672522250548",
+          "title": "我会等",
+          "artist": "承桓",
+          "album": "我会等",
+          "url": "https://music.bilibili.com/pc/music-detail?music_id=MA451555672522250548&cid=43742529111&aid=117643180836871&na_close_hide=1",
+          "pageStatus": 200,
+          "detailApiEndpoint": "https://api.bilibili.com/x/copyright-music-publicity/bgm/detail",
+          "apiResponseSha256": "320dcc0ab1931d65845f3d1cc4d321c26e58765b58ff3d93a90d86f49af165ea",
+          "observedAt": "2026-11-20T14:44:04.360Z"
+        }
+      }
+    },
+    {
+      "id": "mermaid-jj-lin",
+      "original": {
+        "credit": "林俊杰 · JJ Lin",
+        "url": "https://music.apple.com/us/song/1071753633"
+      },
+      "sourceEvidence": {
+        "url": "https://music.apple.com/us/song/1071753633",
+        "finalUrl": "https://music.apple.com/us/song/%E7%BE%8E%E4%BA%BA%E9%AD%9A/1071753633",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T14:42:47.879Z",
+        "htmlSha256": "b60812ec36101c28330c8f4147a9f75c9186981b81d5c79613bc98b6ea33af0f",
+        "title": "‎美人魚 - Song with Lyrics by JJ Lin - Apple Music",
+        "og": "美人魚 by JJ Lin on Apple Music"
+      },
+      "fanVersions": [
+        {
+          "id": "bv1obs46eegw",
+          "type": "arrangement",
+          "bvid": "BV1obs46eEGW",
+          "url": "https://www.bilibili.com/video/BV1obs46eEGW/",
+          "title": "大肥鱼也是美人鱼，DeepSeek✖Claude《美人鱼》大肥鱼无限片场【AI MV 大赛】",
+          "publisher": "是劲劲子",
+          "officialMetadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1obs46eEGW",
+          "observedAt": "2026-11-20T14:27:47.297Z",
+          "descriptionSha256": "069dc39e996db91188224d2375fb130923665149ee46910213f1853c6e863ad5",
+          "retainedVideoEvidence": {
+            "path": "content/research/2026-11-20/bv1obs46eegw.json",
+            "sha256": "2b5205725ade8dc79bf77dbd5407fbd772787f23cf5077476560274f4e736b76",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ],
+      "platformEvidence": {
+        "basis": "Bilibili video BGM tag and official music detail response",
+        "video": {
+          "bvid": "BV1obs46eEGW",
+          "url": "https://www.bilibili.com/video/BV1obs46eEGW/",
+          "detailApiUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1obs46eEGW",
+          "apiResponseSha256": "9540858d501dfbd665e6601ac667d0403ee2aba55fcd26e046ddcc9ad3870067",
+          "observedAt": "2026-11-20T14:42:53.978Z"
+        },
+        "music": {
+          "id": "MA414011530376445866",
+          "title": "美人鱼",
+          "artist": "林俊杰",
+          "album": "第二天堂",
+          "url": "https://music.bilibili.com/pc/music-detail?music_id=MA414011530376445866&cid=43728047659&aid=117640831965928&na_close_hide=1",
+          "pageStatus": 200,
+          "detailApiEndpoint": "https://api.bilibili.com/x/copyright-music-publicity/bgm/detail",
+          "apiResponseSha256": "ed7b0844260d7b1bd404d650c2d41403520ea5a9583b59de2b5c69720a3ae198",
+          "observedAt": "2026-11-20T14:44:04.571Z"
+        }
+      }
+    }
+  ],
+  "versionAdditions": [
+    {
+      "song": "let-me-go",
+      "original": {
+        "credit": "星落落_oi",
+        "url": "https://www.bilibili.com/video/BV13SYr6dEiQ/"
+      },
+      "versions": [
+        {
+          "id": "bv1mthc6leba",
+          "type": "mv",
+          "bvid": "BV1mThC6LEbA",
+          "url": "https://www.bilibili.com/video/BV1mThC6LEbA/",
+          "title": "大肥鱼单曲 - Let Me Go 动画PV 【AI MV大赛】",
+          "publisher": "小猪P_",
+          "officialMetadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mThC6LEbA",
+          "observedAt": "2026-11-20T14:27:01.511Z",
+          "descriptionSha256": "e0692708f4a6d7fc715b4d51cbcae78c031d09f25fdf1b72f275cd990a6b0a22",
+          "retainedVideoEvidence": {
+            "path": "content/research/2026-11-07/bv1mthc6leba.json",
+            "sha256": "66286688d907768838b19c8261ccd14582694079c09b34eb015a566dbe4ce28b",
+            "kind": "browser-metadata-extract"
+          }
+        },
+        {
+          "id": "bv1tepx6nen9",
+          "type": "mv",
+          "bvid": "BV1TEpX6nEn9",
+          "url": "https://www.bilibili.com/video/BV1TEpX6nEn9/",
+          "title": "大肥鱼:Let Me Go MV 我自己做",
+          "publisher": "杉映杉",
+          "officialMetadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TEpX6nEn9",
+          "observedAt": "2026-11-20T14:27:18.759Z",
+          "descriptionSha256": "9a519f2013a243d60fa9c7376fd8365e51f0545a09313d68b3e7c9c2d6507575",
+          "retainedVideoEvidence": {
+            "path": "content/research/2026-11-08/bv1tepx6nen9.json",
+            "sha256": "ac971de85079644371b1743e243c89cb2cf54902480560f2b98d90abbc89b7e2",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "song": "world-execute-me",
+      "original": {
+        "credit": "Mili",
+        "url": "https://www.youtube.com/watch?v=ESx_hy1n7HA"
+      },
+      "versions": [
+        {
+          "id": "bv1jwhy6bemj",
+          "type": "mv",
+          "bvid": "BV1Jwhy6BEMJ",
+          "url": "https://www.bilibili.com/video/BV1Jwhy6BEMJ/",
+          "title": "GPT6-Astra眼中的world.execute(me)",
+          "publisher": "野生大K",
+          "officialMetadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Jwhy6BEMJ",
+          "observedAt": "2026-11-20T14:27:13.282Z",
+          "descriptionSha256": "63d7434264659821b9f5d76c871ad4fbae5473e657bc9cfdbb7c88d40b36bd24",
+          "retainedVideoEvidence": {
+            "path": "content/research/2026-11-07/bv1jwhy6bemj.json",
+            "sha256": "4e869dc46912a5c22d3b736421b8b109dbacc73440fc270452c74490453836e7",
+            "kind": "browser-metadata-extract"
+          }
+        },
+        {
+          "id": "bv1qces6sebu",
+          "type": "mv",
+          "bvid": "BV1qceS6sEbu",
+          "url": "https://www.bilibili.com/video/BV1qceS6sEbu/",
+          "title": "【DeepSeekV4.1Flash】world.execute (me) ;",
+          "publisher": "Galen563",
+          "officialMetadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qceS6sEbu",
+          "observedAt": "2026-11-20T14:27:17.642Z",
+          "descriptionSha256": "950e481004c387e58eeff48a9ad988e9de4ba8750628103679bbcdd6fc1bd213",
+          "retainedVideoEvidence": {
+            "path": "content/research/2026-11-08/bv1qces6sebu.json",
+            "sha256": "e01c98856a9c45d024fbe0908d36c626a8aadeaa29d7a8a0485e514ce0aa8a42",
+            "kind": "browser-metadata-extract"
+          }
+        },
+        {
+          "id": "bv1qhpy6ue1s",
+          "type": "mv",
+          "bvid": "BV1Qhpy6uE1s",
+          "url": "https://www.bilibili.com/video/BV1Qhpy6uE1s/",
+          "title": "GPT-6 Astra 龙娘看了大肥鱼做的视频后怒改--九位AI娘化｜《world.execute(me);》",
+          "publisher": "默空诺",
+          "officialMetadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Qhpy6uE1s",
+          "observedAt": "2026-11-20T14:27:09.197Z",
+          "descriptionSha256": "9bd394faca5610e8fb93f1b09c204a1f21ea9f7ce851ab0aca680b2208841b92",
+          "retainedVideoEvidence": {
+            "path": "content/research/2026-11-07/bv1qhpy6ue1s.json",
+            "sha256": "9f4f29489a543202d12279b968bcc72ea579447084fd38dd69e628f550d18158",
+            "kind": "browser-metadata-extract"
+          }
+        },
+        {
+          "id": "bv1arpz6web7",
+          "type": "mv",
+          "bvid": "BV1ARpZ6wEB7",
+          "url": "https://www.bilibili.com/video/BV1ARpZ6wEB7/",
+          "title": "大肥鱼吃了我3亿token做出来的—九位AI娘化｜world.execute(me)【DeepSeek V4.1 Flash】",
+          "publisher": "默空诺",
+          "officialMetadataUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ARpZ6wEB7",
+          "observedAt": "2026-11-20T14:27:17.190Z",
+          "descriptionSha256": "79543b98ada459518a45b7cdec213c5ec752b599c5d3959f73394e4460977b8b",
+          "retainedVideoEvidence": {
+            "path": "content/research/2026-11-08/bv1arpz6web7.json",
+            "sha256": "15a8ef41d3af356a7a07bc7183814fbc4f183b7d195a8434d70bfdc779718302",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    }
+  ]
+}

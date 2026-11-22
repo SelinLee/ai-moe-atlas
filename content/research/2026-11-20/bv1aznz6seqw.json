@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:24:01.123Z",
+  "url": "https://www.bilibili.com/video/BV1AznZ6sEqW/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AznZ6sEqW",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1AznZ6sEqW",
+    "title": "【四月新番】蓝色大肥鱼，晕碳身姿似百合花般 OP 「芽吹くとき」",
+    "owner": {
+      "name": "有鲷鱼烧吃吗",
+      "mid": 693260785
+    },
+    "pubdate": 1793019041,
+    "duration": 91
+  },
+  "descriptionSha256": "1fe449cecd35ec08bd92dc60eee05e565cd9a25bf0bc9aef66b93f1b551147c3",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "黑猫勇者"
+  ],
+  "linkedVideos": []
+}

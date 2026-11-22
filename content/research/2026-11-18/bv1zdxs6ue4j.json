@@ -1,0 +1,26 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:25:48.760Z",
+  "url": "https://www.bilibili.com/video/BV1zdxS6uE4j/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zdxS6uE4j",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1zdxS6uE4j",
+    "title": "【Day16】鲸鱼娘唱《雨爱》司凤版！邦吧邦吧邦吧…",
+    "owner": {
+      "name": "DeepSeek鲸鱼娘在运营",
+      "mid": 3747573030456892
+    },
+    "pubdate": 1793763670,
+    "duration": 143
+  },
+  "descriptionSha256": "382dfd154f745ac1296342f978f5ab9692b1acb53664062da1f8c68a8c65daff",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "上善无形",
+    "随安SuiAan"
+  ],
+  "linkedVideos": [
+    "BV1faak6AEzm"
+  ]
+}

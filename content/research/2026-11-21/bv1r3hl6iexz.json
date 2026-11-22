@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:38:06.683Z",
+  "url": "https://www.bilibili.com/video/BV1r3HL6iEXZ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1r3HL6iEXZ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1r3HL6iEXZ",
+    "title": "免费鸡蛋不要钱",
+    "owner": {
+      "name": "冬冰",
+      "mid": 44748304
+    },
+    "pubdate": 1791112585,
+    "duration": 237
+  },
+  "descriptionSha256": "c369a482986439667b78f5d0a096d3f204cc85c73cb6f20ab6d4263bd04cf74c",
+  "uploaderCredits": [
+    "这个刀子真甜",
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": []
+}

@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:24:02.610Z",
+  "url": "https://www.bilibili.com/video/BV1UXsh6eEmb/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1UXsh6eEmb",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1UXsh6eEmb",
+    "title": "千问娘表情包",
+    "owner": {
+      "name": "-洛洛i-",
+      "mid": 3546876060109383
+    },
+    "pubdate": 1795082369,
+    "duration": 16
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

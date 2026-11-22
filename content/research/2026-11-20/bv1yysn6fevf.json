@@ -1,0 +1,26 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:24:00.687Z",
+  "url": "https://www.bilibili.com/video/BV1yysn6FEVf/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yysn6FEVf",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1yysn6FEVf",
+    "title": "11月新番？大肥鱼热唱《AI情公寓》OP「我的生成式」！ 来看看DeepSeek和AI们的日常吧【AI 音乐】",
+    "owner": {
+      "name": "浮颗",
+      "mid": 20802856
+    },
+    "pubdate": 1795086000,
+    "duration": 97
+  },
+  "descriptionSha256": "bafbf3c7499b8d550669d0e5dd577b463a5354e7efe1c007eec8286498961af9",
+  "uploaderCredits": [
+    "郭采洁"
+  ],
+  "linkedVideos": [
+    "BV1F7411a7DX",
+    "BV1fYpn6SEk9",
+    "BV1cbH56KER3"
+  ]
+}

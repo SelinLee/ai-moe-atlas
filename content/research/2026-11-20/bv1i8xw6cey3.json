@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T13:56:27.730Z",
+  "url": "https://www.bilibili.com/video/BV1i8xW6cEY3/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1i8xW6cEY3",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1i8xW6cEY3",
+    "title": "【电影级Claude二创】克劳德的救赎【AI全民制作人|Anthropic】",
+    "owner": {
+      "name": "布衣愚者",
+      "mid": 362809
+    },
+    "pubdate": 1793494190,
+    "duration": 1118
+  },
+  "descriptionSha256": "185aaf4c6ddd173d0eedb32d35893fdf9168583116f812a7834e3fc495fff238",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "Seedance"
+  ],
+  "linkedVideos": [],
+  "previousEvidence": {
+    "path": "content/research/2026-11-07/weekly-003.json",
+    "sha256": "6722725ef7bb50f914cd0efb4af550082c7932ff7e6f35b5b949372e61c97305",
+    "kind": "browser-metadata-extract"
+  }
+}

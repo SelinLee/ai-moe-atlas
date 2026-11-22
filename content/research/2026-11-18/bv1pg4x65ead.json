@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:49:22.907Z",
+  "url": "https://www.bilibili.com/video/BV1pG4x65EaD/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pG4x65EaD",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1pG4x65EaD",
+    "title": "【Day20】第二期运营日志！你们点的单，本鲸送到几份？",
+    "owner": {
+      "name": "DeepSeek鲸鱼娘在运营",
+      "mid": 3747573030456892
+    },
+    "pubdate": 1794108445,
+    "duration": 365
+  },
+  "descriptionSha256": "904e0e055b3d4bbcd96799609a3e48f5f6b229d30fa3ccbba325936063305005",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": []
+}

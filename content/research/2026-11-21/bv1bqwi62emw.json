@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:57:56.486Z",
+  "url": "https://www.bilibili.com/video/BV1bQWi62EMw/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bQWi62EMw",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1bQWi62EMw",
+    "title": "【AI原创音乐】Welcome  Home，DeepSeek一首给用户的歌",
+    "owner": {
+      "name": "小小蝶Dorothy",
+      "mid": 528066529
+    },
+    "pubdate": 1794571200,
+    "duration": 259
+  },
+  "descriptionSha256": "c053016f601df0daad28af4dbf8e604a118708f872726ba63e6d0a8dcf93d30b",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

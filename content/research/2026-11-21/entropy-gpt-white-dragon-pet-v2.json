@@ -1,0 +1,69 @@
+{
+  "full_name": "EntropyTea/gpt-white-dragon-pet",
+  "html_url": "https://github.com/EntropyTea/gpt-white-dragon-pet",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-10-30T12:25:25Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "GPT白龙娘 Pets v2 素材：9种状态动画、16方向视线、透明精灵图与动态预览。",
+  "license": null,
+  "commit": "a2722b88a992971a74001e8f59e1aa962617be95",
+  "observedAt": "2026-11-20T16:31:38.716+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:32:18.230Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/EntropyTea/gpt-white-dragon-pet/blob/a2722b88a992971a74001e8f59e1aa962617be95/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/EntropyTea/gpt-white-dragon-pet/a2722b88a992971a74001e8f59e1aa962617be95/README.md",
+      "sourceSha256": "f9861b9ec1de427095d2e3d9f41c982f36f2ebba5b4794a311ac54c786dd1271",
+      "gitBlobSha": "44242a4138e8b22cb65a96bfbf80252a255c34fa",
+      "bytes": 3223,
+      "commit": "a2722b88a992971a74001e8f59e1aa962617be95"
+    },
+    "pet.json": {
+      "path": "pet.json",
+      "url": "https://github.com/EntropyTea/gpt-white-dragon-pet/blob/a2722b88a992971a74001e8f59e1aa962617be95/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/EntropyTea/gpt-white-dragon-pet/a2722b88a992971a74001e8f59e1aa962617be95/pet.json",
+      "sourceSha256": "e948e896217fc642d9d9ec4b856de1ebcb3a9b8c1e4278513c74a06406e3bcbb",
+      "gitBlobSha": "c3ecb610950d9460683a781de0d8f28ad7269a1e",
+      "bytes": 3175,
+      "commit": "a2722b88a992971a74001e8f59e1aa962617be95"
+    },
+    "qa/pets-preflight.json": {
+      "path": "qa/pets-preflight.json",
+      "url": "https://github.com/EntropyTea/gpt-white-dragon-pet/blob/a2722b88a992971a74001e8f59e1aa962617be95/qa/pets-preflight.json",
+      "rawUrl": "https://raw.githubusercontent.com/EntropyTea/gpt-white-dragon-pet/a2722b88a992971a74001e8f59e1aa962617be95/qa/pets-preflight.json",
+      "sourceSha256": "ee3b39f2d3dce7c943368a8e63655eac038b89def4421812372b8b803cc04e93",
+      "gitBlobSha": "c944c8937fcce14fec30c269ae5226a62a7f61cf",
+      "bytes": 475,
+      "commit": "a2722b88a992971a74001e8f59e1aa962617be95"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/EntropyTea/gpt-white-dragon-pet/blob/a2722b88a992971a74001e8f59e1aa962617be95/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/EntropyTea/gpt-white-dragon-pet/a2722b88a992971a74001e8f59e1aa962617be95/README.md",
+    "sourceSha256": "f9861b9ec1de427095d2e3d9f41c982f36f2ebba5b4794a311ac54c786dd1271",
+    "gitBlobSha": "44242a4138e8b22cb65a96bfbf80252a255c34fa",
+    "bytes": 3223,
+    "commit": "a2722b88a992971a74001e8f59e1aa962617be95"
+  },
+  "method": "github-rest-tree-and-isolated-headless-google-chrome",
+  "spriteSample": {
+    "id": "entropy-sheet",
+    "path": "assets/spritesheet-v2.png",
+    "rawUrl": "https://raw.githubusercontent.com/EntropyTea/gpt-white-dragon-pet/a2722b88a992971a74001e8f59e1aa962617be95/assets/spritesheet-v2.png",
+    "url": "https://github.com/EntropyTea/gpt-white-dragon-pet/blob/a2722b88a992971a74001e8f59e1aa962617be95/assets/spritesheet-v2.png",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-20T16:35:05.181Z",
+    "commit": "a2722b88a992971a74001e8f59e1aa962617be95",
+    "bytes": 3216397,
+    "sourceSha256": "a3a290ad5f10efc1718c045a0231f6209547ebd5f0bfb0b324c31479b782eecb",
+    "gitBlobSha": "2e0465bc826f0944a0495b01436e27f67d2aa7e9",
+    "width": 1536,
+    "height": 2288,
+    "format": "png"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "full_name": "ldyivan/dsh-pet-android",
+  "html_url": "https://github.com/ldyivan/dsh-pet-android",
+  "stargazers_count": 2,
+  "archived": false,
+  "created_at": "2026-10-24T03:23:16Z",
+  "default_branch": "main",
+  "license": "MIT",
+  "description": "蓝色大肥鱼，dsh-pet 的 Android 原生移植：桌面悬浮宠物，支持多宠物 / AI 对话 / 完全体模式 / 检查更新（MIT）",
+  "fork": false,
+  "observedAt": "2026-11-20T15:58:52.093Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "commit": "270428f49b9b62b99cbf020a868430010af6759b",
+      "url": "https://github.com/ldyivan/dsh-pet-android/blob/270428f49b9b62b99cbf020a868430010af6759b/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/ldyivan/dsh-pet-android/270428f49b9b62b99cbf020a868430010af6759b/README.md",
+      "sourceSha256": "e8061da85e34315be4b93f13cdafa1460231805679b2b0e65c2aaa603a563e27",
+      "gitBlobSha": "39cbea57d5686e5acb13d3f29522b053108b6597"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "commit": "270428f49b9b62b99cbf020a868430010af6759b",
+      "url": "https://github.com/ldyivan/dsh-pet-android/blob/270428f49b9b62b99cbf020a868430010af6759b/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/ldyivan/dsh-pet-android/270428f49b9b62b99cbf020a868430010af6759b/LICENSE",
+      "sourceSha256": "cc6f5703a2c3f7326595f8c50a03751a452a1c353b5dcbe13c91fff55977593a",
+      "gitBlobSha": "8ba2456eb61d6da55a7c146d7fe9b090b78be662"
+    },
+    "NOTICE.md": {
+      "path": "NOTICE.md",
+      "commit": "270428f49b9b62b99cbf020a868430010af6759b",
+      "url": "https://github.com/ldyivan/dsh-pet-android/blob/270428f49b9b62b99cbf020a868430010af6759b/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/ldyivan/dsh-pet-android/270428f49b9b62b99cbf020a868430010af6759b/NOTICE.md",
+      "sourceSha256": "fb749c6f84cb907988a26850c9c27b5aee760c65800c69715f7667b47a0df6d4",
+      "gitBlobSha": "7fd0ab56cba875310b3836f2e1093f2abd06e2db"
+    }
+  },
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:05:39.274Z",
+  "assets": [],
+  "pinnedDocument": {
+    "path": "README.md",
+    "commit": "270428f49b9b62b99cbf020a868430010af6759b",
+    "url": "https://github.com/ldyivan/dsh-pet-android/blob/270428f49b9b62b99cbf020a868430010af6759b/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/ldyivan/dsh-pet-android/270428f49b9b62b99cbf020a868430010af6759b/README.md",
+    "sourceSha256": "e8061da85e34315be4b93f13cdafa1460231805679b2b0e65c2aaa603a563e27",
+    "gitBlobSha": "39cbea57d5686e5acb13d3f29522b053108b6597"
+  },
+  "method": "github-rest-api-and-isolated-headless-google-chrome",
+  "fileComparison": {
+    "path": "content/research/2026-11-21/dsh-pet-shared-animation-file-provenance.json",
+    "sha256": "3b5cf1c312c4fa0f2f136968f50b0fea8ab576b0f694efd68f1afd4a52e3deef",
+    "kind": "browser-metadata-extract"
+  },
+  "upstreamRevision": "593b9b0785f883630243ef6213542f4603ef69ad"
+}

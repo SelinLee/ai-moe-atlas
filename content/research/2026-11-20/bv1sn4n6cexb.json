@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T13:57:07.810Z",
+  "url": "https://www.bilibili.com/video/BV1SN4n6CEXb/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SN4n6CEXb",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1SN4n6CEXb",
+    "title": "豆奶：非凡之爱【AI全民制作人】",
+    "owner": {
+      "name": "伍鸣石",
+      "mid": 3706929304045619
+    },
+    "pubdate": 1794057256,
+    "duration": 66
+  },
+  "descriptionSha256": "0edd9936d13f00127f69885a6d401ffa43283b1df23c00cf739f7663635bc577",
+  "uploaderCredits": [
+    "antrofrog"
+  ],
+  "linkedVideos": []
+}

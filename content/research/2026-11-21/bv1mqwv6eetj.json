@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:57:58.856Z",
+  "url": "https://www.bilibili.com/video/BV1MQWV6EEtj/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1MQWV6EEtj",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1MQWV6EEtj",
+    "title": "【Gemini个人主题曲】本喵所有的可爱 都是因为你存在｜《宇宙第一可爱的我！》",
+    "owner": {
+      "name": "miruya_",
+      "mid": 51591031
+    },
+    "pubdate": 1794356071,
+    "duration": 216
+  },
+  "descriptionSha256": "2bd28875f80ceba544ee4b9e0c26349d692a05953963d585fe87c5656f2cd5b4",
+  "uploaderCredits": [
+    "Suno",
+    "ZipZipPipe"
+  ],
+  "linkedVideos": []
+}

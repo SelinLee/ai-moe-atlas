@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:44:59.093Z",
+  "url": "https://www.bilibili.com/video/BV1pRsi6BE3g/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pRsi6BE3g",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1pRsi6BE3g",
+    "title": "大肥鱼和Claude大小姐的一日vlog｜第二集 《尾班船》",
+    "owner": {
+      "name": "有鲷鱼烧吃吗",
+      "mid": 693260785
+    },
+    "pubdate": 1795160027,
+    "duration": 189
+  },
+  "descriptionSha256": "6f3e8ec2f780893d9f582da8df8202b5ae3a0c8d5480a1483b1e8c5dd4e06920",
+  "uploaderCredits": [
+    "王菲",
+    "陈奕迅"
+  ],
+  "linkedVideos": []
+}

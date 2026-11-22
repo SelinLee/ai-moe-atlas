@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:15:34.384Z",
+  "url": "https://www.bilibili.com/video/BV1WEW16cEtf/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WEW16cEtf",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1WEW16cEtf",
+    "title": "【Gemini】你家的电视也这样吗？【AI MV大赛】",
+    "owner": {
+      "name": "GPT-TTT",
+      "mid": 3707035384285613
+    },
+    "pubdate": 1794382105,
+    "duration": 68
+  },
+  "descriptionSha256": "9c69264f3b17d84a380cca099a17505883442e0565f38a0ca64f99076d7e3c11",
+  "uploaderCredits": [
+    "香椎モイミ",
+    "可不"
+  ],
+  "linkedVideos": []
+}

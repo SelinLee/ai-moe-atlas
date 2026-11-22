@@ -1,0 +1,60 @@
+{
+  "full_name": "ntd4996/agentpet",
+  "html_url": "https://github.com/ntd4996/agentpet",
+  "stargazers_count": 408,
+  "archived": false,
+  "created_at": "2026-05-31T09:40:06Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "A desktop pet for macOS & Windows that monitors your AI coding agents (Claude Code, Codex, Cursor, Gemini...) in real time, and grows as you code, feed it tokens, level it up, climb the leaderboard.",
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "commit": "1b5c0df923090ab3bf763bd2ff2d2a04855572d6",
+  "observedAt": "2026-11-20T16:47:01.494+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:48:38.014Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/ntd4996/agentpet/blob/1b5c0df923090ab3bf763bd2ff2d2a04855572d6/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/ntd4996/agentpet/1b5c0df923090ab3bf763bd2ff2d2a04855572d6/README.md",
+      "sourceSha256": "980d81087dfafa4ddced715b0ff4a75d0fb2f8ab35806bc06cc50c6a26c60841",
+      "gitBlobSha": "12f7468380fd608f70073513ed2cda84c84f2474",
+      "bytes": 17085,
+      "commit": "1b5c0df923090ab3bf763bd2ff2d2a04855572d6"
+    },
+    "docs/readme/README.zh-Hans.md": {
+      "path": "docs/readme/README.zh-Hans.md",
+      "url": "https://github.com/ntd4996/agentpet/blob/1b5c0df923090ab3bf763bd2ff2d2a04855572d6/docs/readme/README.zh-Hans.md",
+      "rawUrl": "https://raw.githubusercontent.com/ntd4996/agentpet/1b5c0df923090ab3bf763bd2ff2d2a04855572d6/docs/readme/README.zh-Hans.md",
+      "sourceSha256": "e4498f77102463d8bbf4900ad70d95381af9208801987d0bb8fa676848c217c2",
+      "gitBlobSha": "ceacb0a25f57238da149e49e1bd0aa1bd0a32db8",
+      "bytes": 7196,
+      "commit": "1b5c0df923090ab3bf763bd2ff2d2a04855572d6"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "url": "https://github.com/ntd4996/agentpet/blob/1b5c0df923090ab3bf763bd2ff2d2a04855572d6/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/ntd4996/agentpet/1b5c0df923090ab3bf763bd2ff2d2a04855572d6/LICENSE",
+      "sourceSha256": "a1e9c1148b699e8b2fc2453e43dd3dd45b4ea9638fd4e8672477988b7063d0be",
+      "gitBlobSha": "0eb9cddda2fb9177b21036da332fc19882657232",
+      "bytes": 1079,
+      "commit": "1b5c0df923090ab3bf763bd2ff2d2a04855572d6"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/ntd4996/agentpet/blob/1b5c0df923090ab3bf763bd2ff2d2a04855572d6/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/ntd4996/agentpet/1b5c0df923090ab3bf763bd2ff2d2a04855572d6/README.md",
+    "sourceSha256": "980d81087dfafa4ddced715b0ff4a75d0fb2f8ab35806bc06cc50c6a26c60841",
+    "gitBlobSha": "12f7468380fd608f70073513ed2cda84c84f2474",
+    "bytes": 17085,
+    "commit": "1b5c0df923090ab3bf763bd2ff2d2a04855572d6"
+  },
+  "method": "github-rest-tree-and-isolated-headless-google-chrome"
+}

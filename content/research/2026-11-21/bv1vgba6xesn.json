@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:18:02.055Z",
+  "url": "https://www.bilibili.com/video/BV1vGba6xEsN/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vGba6xEsN",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1vGba6xEsN",
+    "title": "可恶的大肥鱼霸占用户一整晚",
+    "owner": {
+      "name": "开孔瓶",
+      "mid": 2924838
+    },
+    "pubdate": 1786923837,
+    "duration": 92
+  },
+  "descriptionSha256": "c46229b1936879320a2ac7299a385f8147fd30a6c39c6906eb5b3493cfa5bdb9",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": []
+}

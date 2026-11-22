@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:18:04.924Z",
+  "url": "https://www.bilibili.com/video/BV1RHbP61Eve/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RHbP61Eve",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1RHbP61Eve",
+    "title": "蓝色大肥鱼和千小姐",
+    "owner": {
+      "name": "顺达祥瑞",
+      "mid": 3494362468059505
+    },
+    "pubdate": 1788760494,
+    "duration": 11
+  },
+  "descriptionSha256": "24cbfd126a180dad374774c8892f81b7fe0a65e76e3bca5eac1217928606a7b2",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:25:48.893Z",
+  "url": "https://www.bilibili.com/video/BV1VExV6ZEd3/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VExV6ZEd3",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1VExV6ZEd3",
+    "title": "小傻龙：“人，我养不起大肥鱼了……”",
+    "owner": {
+      "name": "小陈的脚凑凑的",
+      "mid": 71923484
+    },
+    "pubdate": 1793142000,
+    "duration": 66
+  },
+  "descriptionSha256": "876ad75f2698eb3cfd08c868a773d9e31ed3e63fbf3dbe6e5bc67d95ad6956cc",
+  "uploaderCredits": [
+    "唐可可为什么是神",
+    "大肥鱼凑凑的"
+  ],
+  "linkedVideos": []
+}

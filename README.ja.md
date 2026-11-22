@@ -21,32 +21,35 @@
 
 ## リソース一覧
 
-<table>
-  <tr>
-    <td width="33%" valign="top"><a href="#characters"><strong>🎨 キャラクター図鑑</strong></a><br><strong>27</strong> 項目<br><sub>AI 製品・作者・画風から探す</sub></td>
-    <td width="33%" valign="top"><a href="#songs"><strong>🎵 楽曲</strong></a><br><strong>7</strong> 曲<br><sub>原曲、カバー、アレンジ、二次創作 MV</sub></td>
-    <td width="33%" valign="top"><a href="#references"><strong>🧸 三面図と生成派生資料</strong></a><br><strong>20</strong> 枚<br><sub>ちびキャラ三面図・資料・落書きテンプレート</sub></td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top"><a href="#animations"><strong>🎬 アニメ・動画二次創作</strong></a><br><strong>267</strong> 件<br><sub>OP・MV・短編・ダンス・コメント作品</sub></td>
-    <td width="33%" valign="top"><a href="#desktop-pets"><strong>🐾 ペット・インタラクティブ作品</strong></a><br><strong>58</strong> プロジェクト<br><sub>デスクトップキャラ、状態アニメ、二次創作ゲーム、制作ツール</sub></td>
-    <td width="33%" valign="top"><a href="#sources"><strong>📚 作者の作品と出典</strong></a><br><strong>53</strong> 件<br><sub>作者作品集・声明・確認待ちの手がかり</sub></td>
-  </tr>
-</table>
+<!-- category-picks:characters -->
+**[🎨 キャラクター図鑑](#characters)** · 30 項目\
+[GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/) · [Gemini · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-gemini/) · [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/ja/characters/shangshan-whale/)
 
-分類をクリックすると、このページの該当箇所へ移動します。各節にはオンライン閲覧と原資料へのリンクもあります。
+<!-- category-picks:songs -->
+**[🎵 楽曲](#songs)** · 50 曲\
+[人は猫](https://selinlee.github.io/ai-moe-atlas/ja/songs/#humans-are-cats) · [Let Me Go · 大きな魚のサボり歌](https://selinlee.github.io/ai-moe-atlas/ja/songs/#let-me-go) · [蟲兒飛](https://selinlee.github.io/ai-moe-atlas/ja/songs/#fireflies)
+
+<!-- category-picks:references -->
+**[🧸 三面図と生成派生資料](#references)** · 20 枚\
+[Claude のキャラクター資料](https://selinlee.github.io/ai-moe-atlas/ja/references/#claude) · [DeepSeek のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#deepseek) · [千問のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#qwen)
+
+<!-- category-picks:animations -->
+**[🎬 アニメ・動画二次創作](#animations)** · 603 件\
+[チャット画面が彼女の世界のすべてだったら](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1xcai6ae9g) · [負けヒロイン AI が多すぎる！ · PV](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1nfag6xehq) · [Claude × DeepSeek · 明日を動かす](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1rd476leux)
+
+<!-- category-picks:desktop-pets -->
+**[🐾 ペット・インタラクティブ作品](#desktop-pets)** · 103 プロジェクト\
+[CrossPet · 複数の AI に対応するデスクトップペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#crosspet) · [Copiwaifu · Live2D コーディングペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#copiwaifu-live2d) · [Deep Whale Day & Night · 昼夜工房](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#deep-whale-day-night)
+
+<!-- category-picks:sources -->
+**[📚 作者の作品と出典](#sources)** · 79 件\
+[上善无形 · クジラ娘の原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI 娘化作品集](https://www.pixiv.net/artworks/148186519) · [Small-tailqwq · クジラ娘のメイド素材](https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier)
 
 <a id="characters"></a>
 
 ### 🎨 キャラクター図鑑
 
-<!-- category-picks:characters -->
-
-- [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/) — 銀白色の長髪、竜の角、白いドレス。
-- [Gemini · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-gemini/) — 青紫の長髪、猫耳、星の飾り。
-- [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/ja/characters/shangshan-whale/) — 「青い大きな魚」の二次創作につながるクジラ娘の原案。
-
-AI 製品12種からキャラクター、作者、原作を探せます。
+AI 製品15種からキャラクター、作者、原作を探せます。 [Muse 娘の項目を見る](https://selinlee.github.io/ai-moe-atlas/ja/characters/shizhi-muse/) · [Mistral バゲット猫娘](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-mistral/) · [OpenCode の擬人化項目](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-opencode/)
 
 [オンラインで絞り込む](https://selinlee.github.io/ai-moe-atlas/ja/#catalog) · [三言語のキャラクター資料](content/characters.json) · [AI 製品一覧](content/entities.json)
 
@@ -54,29 +57,32 @@ AI 製品12種からキャラクター、作者、原作を探せます。
 
 ### 🎵 楽曲
 
-各曲で収録済みの Bilibili 二次創作のうち、いいねが最多の動画を掲載し、その数で並べています（2026-11-08、北京時間）。
+<!-- song-ranking:start -->
+
+各曲で収録したバージョンの最多いいね数で並べた上位10曲です。観測時刻は全件一覧で確認できます。
 
 | 楽曲 | 原曲・原唱 | 代表的な二次創作 | Bilibili のいいね |
 | --- | --- | --- | ---: |
-| [人は猫](https://selinlee.github.io/ai-moe-atlas/ja/songs/#humans-are-cats) | 张卡斯 · 洛天依 | クジラ娘カバー | 435,034 |
-| [world.execute(me);](https://selinlee.github.io/ai-moe-atlas/ja/songs/#world-execute-me) | Mili | クジラ娘のチャット画面 MV | 109,923 |
-| [Let Me Go · 大きな魚のサボり歌](https://selinlee.github.io/ai-moe-atlas/ja/songs/#let-me-go) | 星落落_oi | 2バージョンのコードアニメ | 6,229 |
-| [大魚](https://selinlee.github.io/ai-moe-atlas/ja/songs/#big-fish) | 周深 · Zhou Shen | Claude × DeepSeek MV | 4,975 |
-| [雨愛](https://selinlee.github.io/ai-moe-atlas/ja/songs/#rainie-love) | 楊丞琳 · Rainie Yang | GLM 狐娘カバー | 148 |
-| [学猫叫](https://selinlee.github.io/ai-moe-atlas/ja/songs/#learn-to-meow) | 小潘潘 · 小峰峰 | Gemini 猫娘カバー | 54 |
-| [夜に駆ける](https://selinlee.github.io/ai-moe-atlas/ja/songs/#racing-into-the-night) | YOASOBI | GPT 龍娘リミックス | 3 |
+| [人は猫](https://selinlee.github.io/ai-moe-atlas/ja/songs/#humans-are-cats) | 张卡斯 · 洛天依 | 大きな魚が歌う「人是猫」拡張版 | 458,891 |
+| [Let Me Go · 大きな魚のサボり歌](https://selinlee.github.io/ai-moe-atlas/ja/songs/#let-me-go) | 星落落_oi | 大きな魚のシングル「Let Me Go」アニメ PV | 129,879 |
+| [world.execute(me);](https://selinlee.github.io/ai-moe-atlas/ja/songs/#world-execute-me) | Mili | チャット画面が彼女の世界のすべてだったら | 112,013 |
+| [海闊天空](https://selinlee.github.io/ai-moe-atlas/ja/songs/#boundless-oceans-vast-skies) | Beyond | クジラ娘が「海闊天空」をカバー | 59,294 |
+| [Billie Jean](https://selinlee.github.io/ai-moe-atlas/ja/songs/#billie-jean) | Michael Jackson | クジラ娘が「Billie Jean」をカバー | 52,499 |
+| [雨愛](https://selinlee.github.io/ai-moe-atlas/ja/songs/#rainie-love) | 楊丞琳 · Rainie Yang | クジラ娘が「雨愛」司鳳版をカバー | 39,025 |
+| [5:20AM](https://selinlee.github.io/ai-moe-atlas/ja/songs/#five-twenty-am) | Soldier | 大きな魚 · 「5:20AM」中国語カバー | 36,251 |
+| [影色舞](https://selinlee.github.io/ai-moe-atlas/ja/songs/#silhouette-dance) | MyGO!!!!! | 大きな魚 ·「影色舞」 | 27,122 |
+| [シスターに懺悔を](https://selinlee.github.io/ai-moe-atlas/ja/songs/#confess-to-the-sister) | 廃原メモリ · 重音テト SV | 大きな魚が「シスターに懺悔を」をカバー | 26,992 |
+| [花の塔](https://selinlee.github.io/ai-moe-atlas/ja/songs/#flower-tower) | さユり · Sayuri | 大きな魚 × Claude「リコリS」ED · 花の塔 | 23,019 |
 
-[楽曲一覧ですべてのバージョンを見る](https://selinlee.github.io/ai-moe-atlas/ja/songs/) · [いいね数の確認記録](content/research/2026-11-08/bilibili-cumulative-likes-archive-and-lyric-pv.json)
+[楽曲の全順位とすべてのバージョンを見る](https://selinlee.github.io/ai-moe-atlas/ja/songs/) · [いいね数の観測記録](content/research/)
+
+<!-- song-ranking:end -->
+
+[原曲の出典](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲とバージョンの確認記録](content/research/2026-11-20/song-originals-and-fan-versions.json) · [主題歌と二次創作の使用曲の確認記録](content/research/2026-11-20/character-songs-and-opening-credits.json) · [ダンス・歌詞 MV の楽曲クレジット](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [「溫室效應」の原曲と二次創作 MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [原曲4曲と二次創作の確認](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [豆包カバーとエンディング曲の出典](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [千問・MiMo・ダンス曲の出典](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json)
 
 <a id="references"></a>
 
 ### 🧸 三面図と生成派生資料
-
-<!-- category-picks:references -->
-
-- [Claude のキャラクター資料](https://selinlee.github.io/ai-moe-atlas/ja/references/#claude) — 通常頭身とちびキャラを一枚で比較。
-- [DeepSeek のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#deepseek) — クジラ娘の正面・側面・背面。
-- [千問のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#qwen) — 千問の正面・側面・背面。
 
 20枚は生成派生の展示画像です。参照元・作者表示・生成記録を保持しています。
 
@@ -86,61 +92,81 @@ AI 製品12種からキャラクター、作者、原作を探せます。
 
 ### 🎬 アニメ・動画二次創作
 
-<!-- category-picks:animations -->
-
-- [チャット画面が彼女の世界のすべてだったら](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1xcai6ae9g) — チャット画面を題材にしたクジラ娘の MV。
-- [負けヒロイン AI が多すぎる！ · PV](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1nfag6xehq) — DeepSeek、Gemini、Claude、GPT が登場する学園群像 PV。
-- [Claude × DeepSeek · 明日を動かす](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1rd476leux) — Claude 娘とクジラ娘が登場する短編。
-
 <!-- animation-ranking:start -->
 
-Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日と BV ID の順。各数値に公式リンクと観測日（北京時間）を掲載。
+Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日と BV ID の順。各数値に公式リンクと観測時刻を掲載。
 
-[オンラインで全順位を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation) · [いいね数の観測記録](content/research/2026-11-08/bilibili-cumulative-likes-archive-and-lyric-pv.json) · [過去の観測記録](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#like-evidence)
+[オンラインで全順位を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation) · [いいね数の観測記録](content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json) · [過去の観測記録](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#like-evidence)
 
 [新しい投稿を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation&sort=recent) · [MV を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation&type=mv) · [物語の短編を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation&type=story) · [ダンスを見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation&type=dance) · [いいね数の確認待ち候補](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#pending-animation-evidence)
 
-| 順位 | 作品 | 投稿者 | 累計いいね（観測日） |
+| 順位 | 作品 | 投稿者 | 累計いいね（北京時間） |
 | ---: | --- | --- | ---: |
-| 1 | [大きな魚が歌う「人是猫」拡張版](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [435,034](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) · 2026-11-08 |
-| 2 | [大きな魚が歌う「人是猫」完全版](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [370,100](https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7) · 2026-11-08 |
-| 3 | [大きな魚、なぜClaudeの服を着ているの？](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | [299,838](https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV) · 2026-11-08 |
-| 4 | [新宿決戦 · DeepSeek 娘対豆包](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [249,071](https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz) · 2026-11-08 |
-| 5 | [ナイロンと豆包「Trouble Maker」· トークン切れ](https://www.bilibili.com/video/BV1stsZ6iESz/) | 青时晚 | [204,165](https://api.bilibili.com/x/web-interface/view?bvid=BV1stsZ6iESz) · 2026-11-08 |
-| 6 | [新キャラクター：大きな魚](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | [195,398](https://api.bilibili.com/x/web-interface/view?bvid=BV1gVHA6mEbS) · 2026-11-08 |
-| 7 | [大きな魚 · 洗い桶が爆発](https://www.bilibili.com/video/BV15X3n6mEWy/) | 蒙德砍壬 | [194,371](https://api.bilibili.com/x/web-interface/view?bvid=BV15X3n6mEWy) · 2026-11-08 |
-| 8 | [Day 0 · DeepSeek クジラ娘がアカウントを引き継ぐ](https://www.bilibili.com/video/BV1pGnn67EC2/) | DeepSeek鲸鱼娘在运营 | [186,666](https://api.bilibili.com/x/web-interface/view?bvid=BV1pGnn67EC2) · 2026-11-08 |
-| 9 | [大きな魚：自由のアメリクジラ](https://www.bilibili.com/video/BV1YdxR6CE79/) | 真誠最高 | [163,696](https://api.bilibili.com/x/web-interface/view?bvid=BV1YdxR6CE79) · 2026-11-08 |
-| 10 | [おやすみ、小さな魚](https://www.bilibili.com/video/BV12xxX6xE5h/) | Dariean | [155,470](https://api.bilibili.com/x/web-interface/view?bvid=BV12xxX6xE5h) · 2026-11-08 |
+| 1 | [大きな魚が歌う「人是猫」拡張版](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [458,891](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) · 2026-11-21 00:47:03 |
+| 2 | [大きな魚が歌う「人是猫」完全版](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [376,820](https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7) · 2026-11-21 00:47:03 |
+| 3 | [大きな魚、なぜClaudeの服を着ているの？](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | [328,166](https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV) · 2026-11-21 00:47:03 |
+| 4 | [何時間もお腹を空かせたクジラ娘](https://www.bilibili.com/video/BV1GsWv6jErZ/) | 东洋雪莲 | [300,588](https://api.bilibili.com/x/web-interface/view?bvid=BV1GsWv6jErZ) · 2026-11-21 00:47:03 |
+| 5 | [新宿決戦 · DeepSeek 娘対豆包](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [254,028](https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz) · 2026-11-21 00:47:04 |
+| 6 | [ナイロンと豆包「Trouble Maker」· トークン切れ](https://www.bilibili.com/video/BV1stsZ6iESz/) | 青时晚 | [238,349](https://api.bilibili.com/x/web-interface/view?bvid=BV1stsZ6iESz) · 2026-11-21 00:47:04 |
+| 7 | [大きな魚：自由のアメリクジラ](https://www.bilibili.com/video/BV1YdxR6CE79/) | 真誠最高 | [222,105](https://api.bilibili.com/x/web-interface/view?bvid=BV1YdxR6CE79) · 2026-11-21 00:47:04 |
+| 8 | [新キャラクター：大きな魚](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | [207,322](https://api.bilibili.com/x/web-interface/view?bvid=BV1gVHA6mEbS) · 2026-11-21 00:47:04 |
+| 9 | [大きな魚 · 洗い桶が爆発](https://www.bilibili.com/video/BV15X3n6mEWy/) | 蒙德砍壬 | [206,579](https://api.bilibili.com/x/web-interface/view?bvid=BV15X3n6mEWy) · 2026-11-21 00:47:04 |
+| 10 | [小さな竜 · クジラ娘を養えない](https://www.bilibili.com/video/BV1VExV6ZEd3/) | 小陈的脚凑凑的 | [202,371](https://api.bilibili.com/x/web-interface/view?bvid=BV1VExV6ZEd3) · 2026-11-21 00:47:04 |
 
 <!-- animation-ranking:end -->
+
+公式の累計いいね数付きで二次創作20件を追加。上位15件と旧作8件の計23件を更新。候補9件は確認待ちで、旧作6件は前回の値を掲載しています。 [今回の確認範囲](content/research/2026-11-21/bilibili-selected-catalog-and-character-sources-scope.json)
 
 <a id="desktop-pets"></a>
 
 ### 🐾 ペット・インタラクティブ作品
 
-2026-11-09 に確認した GitHub Star 数の上位10件です。同数の場合はリポジトリ名順です。
+2026-11-21 に確認した GitHub Star 数の上位10件です。同数の場合はリポジトリ名順です。
 
 | 順位 | プロジェクト | GitHub Star 数 |
 | ---: | --- | ---: |
-| 1 | [小さなクジラ · DeepSeek 残高ウィジェット](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/blob/5247dd6813d6e4430728f39ccc63d43cda046022/README.md) | [7,051](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) |
-| 2 | [Clawd on Desk · クジラ娘テーマ](https://github.com/rullerzhou-afk/clawd-on-desk/blob/323da9f17a9872e1b1ceca6c9c9783e0eaa83a72/README.zh-CN.md) | [6,700](https://github.com/rullerzhou-afk/clawd-on-desk) |
-| 3 | [DSH Pet · 大きな魚のアニメーションペット](https://github.com/PC2005-cloud/dsh-pet/blob/29a5af50f60a63caeeace66a514f47ed3198d0fa/README.md) | [5,917](https://github.com/PC2005-cloud/dsh-pet) |
-| 4 | [デスクトップ大きな魚 · dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md) | [3,187](https://github.com/MerZlin/dsh-pet-indesktop) |
-| 5 | [Coopanion · デスクトップペットと外観パック](https://github.com/Pal-AI-Lab/Coopanion/blob/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/README_zh.md) | [2,988](https://github.com/Pal-AI-Lab/Coopanion) |
-| 6 | [CrossPet · 複数AI対応デスクトップペット](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | [435](https://github.com/lokicorvus/crosspet) |
-| 7 | [Whale Girl · Web・デスクトップペット](https://github.com/vlln/whale-girl/blob/9c32d7a39a45148076f8ad2fdaad2dc2420eedb3/README.zh.md) | [405](https://github.com/vlln/whale-girl) |
-| 8 | [GPT 娘 · 使用量ウィジェット](https://github.com/T7moris/GPT-Niang/blob/43f20dee539b642902e56819747a605b3fdddf44/README.md) | [284](https://github.com/T7moris/GPT-Niang) |
-| 9 | [DSH Whale Musume · クジラ娘ペット](https://github.com/Sutera-Diffusus/dsh-whale-musume/blob/df31dd9c3e8cd8d7b371930deb928bba6b1988c6/README.md) | [209](https://github.com/Sutera-Diffusus/dsh-whale-musume) |
-| 10 | [大きな魚スタンプ · DSH プラグイン](https://github.com/Loping151/dsh-nekowhale-stickers/blob/b7b58c0ff347d639fabe87d90d6716c4b3cad185/README.md) | [169](https://github.com/Loping151/dsh-nekowhale-stickers) |
+| 1 | [小さなクジラ · DeepSeek 残高ウィジェット](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/blob/5247dd6813d6e4430728f39ccc63d43cda046022/README.md) | [7,382](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) |
+| 2 | [Clawd on Desk · クジラ娘テーマ](https://github.com/rullerzhou-afk/clawd-on-desk/blob/323da9f17a9872e1b1ceca6c9c9783e0eaa83a72/README.zh-CN.md) | [6,795](https://github.com/rullerzhou-afk/clawd-on-desk) |
+| 3 | [DSH Pet · 大きな魚のアニメーションペット](https://github.com/PC2005-cloud/dsh-pet/blob/29a5af50f60a63caeeace66a514f47ed3198d0fa/README.md) | [6,591](https://github.com/PC2005-cloud/dsh-pet) |
+| 4 | [Coopanion · デスクトップペットと外観パック](https://github.com/Pal-AI-Lab/Coopanion/blob/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/README_zh.md) | [3,611](https://github.com/Pal-AI-Lab/Coopanion) |
+| 5 | [デスクトップ大きな魚 · dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md) | [3,333](https://github.com/MerZlin/dsh-pet-indesktop) |
+| 6 | [CrossPet · 複数AI対応デスクトップペット](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | [526](https://github.com/lokicorvus/crosspet) |
+| 7 | [Whale Girl · Web・デスクトップペット](https://github.com/vlln/whale-girl/blob/9c32d7a39a45148076f8ad2fdaad2dc2420eedb3/README.zh.md) | [413](https://github.com/vlln/whale-girl) |
+| 8 | [AgentPet · 複数ツール対応育成ペット](https://github.com/ntd4996/agentpet/blob/1b5c0df923090ab3bf763bd2ff2d2a04855572d6/README.md) | [408](https://github.com/ntd4996/agentpet) |
+| 9 | [青い大きな魚 · クロスプラットフォームのペット](https://github.com/Bai-Cute/big-blue-fish-desktop-pet/blob/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/README.md) | [377](https://github.com/Bai-Cute/big-blue-fish-desktop-pet) |
+| 10 | [OC Claw · OpenCode などのデスクトップペット](https://github.com/rainnoon/oc-claw/blob/4667c8c082cecf7e38440dfc2f6f89f7a9b6cc90/README.md) | [373](https://github.com/rainnoon/oc-claw) |
 
-[ペット・インタラクティブ作品をすべて見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive) · [Star 数の確認記録](content/research/2026-11-09/github-interactive-stars.json)
+[ペット・インタラクティブ作品をすべて見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive) · [Star 数の確認記録](content/research/2026-11-21/github-interactive-stars-opencode-and-doubao.json)
+
+クロスプラットフォーム版と Android ネイティブ版で、互換動画各106本をそれぞれの上流固定版とファイル単位で照合しました。上流版では素材の商用利用を禁止し、移植2件の文書にはこれらの動画を MIT と記載しています。 [ペット動画の出典照合](content/research/2026-11-21/dsh-pet-shared-animation-file-provenance.json)
+
+テーマの参照画像2点の SHA-256 を、ZipZipPipe の原投稿と ApprenTice の固定アーカイブの画像にそれぞれ照合。原画、生成派生画像、コードの条件を分けて記載しています。 [Gemini テーマの原図照合](content/research/2026-11-21/gemini-theme-original-art-comparison.json)
+
+7人のペットの固定版ではクジラ娘の動画106本の LFS ハッシュが上流の原ファイルと一致し、配信ファイル2本も確認しました。GLM など6人の派生動画は素材文書に別記しています。 [7人のペット動画の照合](content/research/2026-11-21/seven-character-pet-lfs-provenance.json)
 
 <details>
-<summary>全58件のプロジェクトと出典を表示</summary>
+<summary>全103件のプロジェクトと出典を表示</summary>
 
 | プロジェクト | 内容 | 投稿者 |
 | --- | --- | --- |
+| [Codex 竜娘 · 髪型と瞳の色を選べるペット](https://github.com/InhamiRei/Codex-DragonGirl/blob/7995f6846f6ae9252338626e05ad11cd2af7a8c0/README.md) | Hey と小怪兽 をクレジット。v1.6.3 で6種類の髪型と瞳の色を選べ、視線・まばたき・ドラッグに対応。 | InhamiRei |
+| [ハGemi · Gemini 猫娘デスクトップペット](https://github.com/LYW199911/DesktopGeminiGirl/blob/e621560a4a1e643847cc2c861e243afc9f9b1240/README.md) | Windows と macOS 向けに静止表情版とアニメ版を提供。原案、立ち絵差分、モーション素材を分けてクレジット。 | LYW199911 |
+| [NekoQuotya · 使用量・上限ペット](https://github.com/zhangpl666ya/NekoQuotya/blob/a4589a8a72acbe93737bd174febfae5faca868ef/README.md) | Claude、GPT、Gemini、DeepSeek の使用量や上限に応じて表情が変わる Windows ペット。 | zhangpl666ya |
+| [DSH クジラ娘 · 三面図デスクトップペット](https://github.com/mikuniemo/dsh-desktop-pet/blob/0846200cd1aaf8fee946c0d50e02fe52fdad9d6b/README.md) | DeepSeek Harness の作業に反応し、セッションのトークン使用量を表示する透明クジラ娘ペット。 | mikuniemo |
+| [豆包デスクトップペット · 作業状態と着せ替え](https://github.com/pengchujin/doubao-desktop-pet/blob/c5e2a709e0b5d53d42c6e2195ba27f0c2d7e3b5f/README.md) | 豆包のデスクトップアプリの作業状態に応じて動き、Petdex の外観パックも読み込める。 | pengchujin |
+| [GPT 竜娘 · Codex v2 ペット](https://github.com/weit0529/gpt-pet/blob/125c3da9a5dc040518e791fc3d75282aa993755f/README.md) | コミュニティ制作の白竜娘ペット。状態アニメと視線方向のプレビューを提供。 | weit0529 |
+| [クジラ娘と GPT 娘 · 2キャラクターのペット](https://github.com/JoenardoQ/Deepseek-and-ChatGPT-Pet/blob/1f69d015daf17aefbb254b0822944f048d6a0b47/README.md) | DeepSeek の2種類のキャラクターと GPT 娘が操作エンジンを共有。二人の場面と制作記録も掲載。 | JoenardoQ |
+| [MimoPet · MiMo のデスクトップツール箱](https://github.com/Lothario-C/MimoPet/blob/49c9194e9b36fd149d1555760b3295fa125fa894/README.md) | 壁紙設定、トークン使用量と残高表示を備えた Windows デスクトップペット。 | Lothario-C |
+| [Copiwaifu · Live2D コーディングペット](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) | GitHub Copilot、Claude Code、Codex などの作業状態に応じて Live2D ペットが動く。 | Panzer-Jack |
+| [AI Buddy · 11人のキャラクターペット](https://github.com/lXiaoSel1/AI-Buddy/blob/e7c475274a7b02dfb2e2050c56e237d87e6aff99/README.md) | 使用量の表示、デスクトップペットと交流シーンを、Seed、GLM、MiniMax、混元など11テーマで提供。 | lXiaoSel1 |
+| [Kimi 娘 · Kimi Code デスクトップペット](https://github.com/mrzhsz3210/kimi-maid-pet/blob/65b61b4320eec339aeff81492e3f60a4fc48c90d/README.md) | 外観を切り替えられる透過アニメのペット。Kimi 娘の素材と白竜娘ペット由来のプログラムを別記。 | mrzhsz3210 |
+| [Hagemi Pet · Antigravity の猫娘ペット](https://github.com/KCFindstr/hagemi-pet-agy/blob/3e9420c948077a0b3771e02e3bf0580fd7925129/README.md) | Antigravity の作業状態を動作で表示。CrossPet の立ち絵と派生パーツ、ZipZipPipe の猫娘デザインを記載。 | KCFindstr |
+| [クジラ娘 · 残高表示デスクトップペット](https://github.com/RYANFFY/deepseek-dafeiyu-pet/blob/d2c2ee80dc6b9db4676b5edb57fa8d25d62d9c2a/README.md) | 三面図スキン、天気、DeepSeek のターン別使用量に対応する Windows ペット。上流のペットと残高ウィジェットを記載。 | RYANFFY |
+| [DSH クジラ娘 · Web と Windows のペット](https://github.com/dleaf6211-hash/dsh-whale-pet/blob/8a8847938e3d4cea7f1b8253d604f5e97c93390b/README.md) | Web のフローティング表示と Windows ペットが状態を共有し、タスクと DeepSeek の使用量を表示。 | dleaf6211-hash |
+| [DSH Whale Pet · 歩き回るクジラ娘](https://github.com/luweiyabo/dsh-whale-pet/blob/0bc1bc42a3e89b9bfa157a3f7ef429380ddafcee/README.md) | Web 用プラグイン。作業状態で動作が切り替わり、ドラッグ、画面内の移動、設定の即時反映に対応。 | luweiyabo |
+| [DSH ペット · クジラ娘の着せ替え](https://github.com/Aibie07/whale-girl-desktop-pet/blob/584b11f8d654ffcdf675e1ea38801f01c73c8bed/README.md) | モデルの状態で背景透過アニメを切り替えるデスクトップペット。ドラッグ、拡大縮小、着せ替えに対応。 | Aibie07 |
+| [ドット絵クジラ娘 · 2つの形式](https://github.com/chenthreegold/deepseek-whale-pet/blob/332e0a6d2e585d521e886bd4ea0c87e8a8e06c44/README.md) | Codex 用のペットパックと Python デスクトップ版を提供し、ドット絵の生成方法を記載。 | chenthreegold |
+| [DeepSeek ペット · 承認と完了の通知](https://github.com/TaoZhiZhuang/deepseek-desk-pet/blob/ff23a9f11b9a15bb8c9b798e0001deabfe2195d7/README.md) | DSH の Web 画面でドラッグでき、作業状態に応じた動きと承認・完了通知に対応。 | TaoZhiZhuang |
 | [OpenPet · AI Girls](https://github.com/AwesomeHou/openpet-ai-girls/blob/72677712a7991b32f87c219dd8a6d86e5cc4f672/README.zh-CN.md) | AwesomeHou が公開した5種類の AI 擬人化ペット素材。OpenPet と Codex ペット形式に対応し、製品名・ロゴ・ブランドの印象を基にした二次創作と説明。 | AwesomeHou |
 | [Clawd · Claude のドット絵ペット](https://github.com/KebeliSamet0/clawd/blob/ba50a8053e2c6e46211fcf4433ba224af0fa95ad/README.md) | KebeliSamet0 が公開した Windows のドット絵ペット。説明に入力、組み立て、ジャグリング、喜び、睡眠の動作を掲載。 | KebeliSamet0 |
 | [Codex DeepSeek Pet · 大きな魚のペット](https://github.com/YunYueSama/codex-deepseek-pet/blob/7661c8b304c5400701f91da01b1a643a207331de/README.md) | YunYueSama の独立ペット。Codex 用外観パックを出力でき、固定版はキャラクター設定、生成素材、第三者の参考画像を区別。 | YunYueSama |
@@ -174,7 +200,7 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 | [Clawd on Desk · クジラ娘テーマ](https://github.com/rullerzhou-afk/clawd-on-desk/blob/323da9f17a9872e1b1ceca6c9c9783e0eaa83a72/README.zh-CN.md) | 鹿鹿 のデスクトップペットの追加テーマ。Neko3000 のクジラ娘プロジェクトを参照し、別の配布元から提供。 | rullerzhou-afk |
 | [8体の AI 娘 · ちびペット素材](https://github.com/fywdy/chatgpt-chibi-pets/blob/d5bbb27c79e5c08e8b8ab44d4023cd35a67418e2/README.md) | fywdy が公開した8種類のちびペット。Grok、Kimi、千問、智譜を含み、別形式の素材と生成・フレーム修正記録を掲載。 | fywdy |
 | [LLM Pet · 15モデルのアニメーションペット](https://github.com/savanna0425/llm-pet/blob/fdd821feb49b294ea8abe42c9cf41e6c52e3aacf/README.md) | savanna0425 が15キャラクターの通常版とちび版を公開。MiMo、Mistral、MiniMax、文心、混元を含む。 | savanna0425 |
-| [ZCode 狐娘 · 残高とキャラクターのウィジェット](https://github.com/pigeon189/zcode-fox-widget/blob/abc0d3d0080996cd07b1cc70cccb46730e9e34f1/README.md) | pigeon189 による GLM 狐娘ウィジェット。DSH のクジラ娘残高ウィジェットから移植し、継承素材と同梱立ち絵をファイル単位で記載。 | pigeon189 |
+| [ZCode 狐娘 · 残高とキャラクターのウィジェット](https://github.com/pigeon189/zcode-fox-widget/blob/28f1a8bd32cafe92ab212304d3a7eaf5602cc651/README.md) | GLM 狐娘ウィジェットは ZCode に連動する表示と独立ペットモードを提供。固定版の文書に ZCode と WorkBuddy の分岐を記載。 | pigeon189 |
 | [DSH Game · AI 娘の人狼ゲーム](https://github.com/luckui/dsh-game/blob/a0cf8afa4bf90baf52b3067abe0530175e57f0b9/README.md) | luckui による DSH ゲームプラグイン。人狼ゲームに Grok、Kimi、Mistral など9人が登場し、クジラ娘の透過アニメーション11点を別途記載。 | luckui |
 | [DeepSeek-chan Fanpack · アニメーションペット](https://github.com/xxnb0/deepseek-chan-fanpack/blob/ab55439a67e66424f4e1117c8951c2b0052360b0/README.md) | xxnb0 のコミュニティ素材集に v1・v2 のペット用スプライトシートを同梱。2026年10月の新規動作、方向フレーム、プレビューを記録。 | xxnb0 |
 | [綱で跳ぶ大きな魚 · ブラウザーゲーム](https://gelass.itch.io/shengyueyougefeiyu) | gelass が公開したクジラ娘のロープアクション。溟月の原案、メイド版、ちび版を個別にクレジット。 | gelass |
@@ -199,6 +225,33 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 | [AIR-pixel · メイドクジラ娘ペット](https://github.com/AIR-pixel/deepseek-whale-maid-pet/blob/e3c8f451ff38839b11eee7a435b3f36898bd5ee0/README.md) | ローカルペットの素材告知に立ち絵10点と、上善无形、ZipZipPipe、keleus、AIR-pixel の貢献を記載。 | AIR-pixel |
 | [澪 · DSH Live2D ペットの連携ツール](https://github.com/xkk6663/dsh-live2d-mao/blob/21b9db21d0abfc974fe88b155517563d155e9c51/README.md) | プラグイン、展示スクリーンショット、独立ペットを区別。アイコンの出典は 上善无形、ZipZipPipe、氵六青。 | xkk6663 |
 | [Miss Whale · 大きな魚の育成ペット](https://github.com/THVIVA/Miss-Whale/blob/f5b7a2ba9ce519c019298dff5a2da3b50f574a6b/README.md) | THVIVA の育成ペット。アニメ、池、ショップ、料理、図鑑収集を収録。 | THVIVA |
+| [GPT 竜娘 · ouyang の Codex ペット](https://github.com/ouyang070125-cmyk/codex-dragon-pet/blob/1a6b042db918eeba3be659c0adcee025bd6bd54f/README.md) | GPT 竜娘の元画像、プレビュー、状態別のアニメーション用シートを提供。固定版の図版2点を作者のチェックサム一覧と照合。 | ouyang070125-cmyk |
+| [GPT Dragon Pet · Windows の竜娘ペット](https://github.com/wxheart2002/GPT-Dragon-Pet/blob/7958411b30bdb698abc092e4174901d7ddb47806/README.md) | 16種の基本動作を記載した独立型 Windows ペット。第三者素材の文書に ThomasXu2026 の視覚参考と mdd111 のコードの出典を掲載。 | wxheart2002 |
+| [白璃 · Codex 起動アニメとデスクトップペット](https://github.com/chenyi380/baili-codex/blob/6231dc24e686f06f0f9ca69cf8246e3fd5930f33/README.md) | 白璃の2D合成による起動アニメとちびキャラのペットを収録。素材文書にキャラクター参考、楽曲の抜粋、第三者コンポーネントを記載。 | chenyi380 |
+| [白竜デスクトップペット · SiLvZhou の Windows 版](https://github.com/SiLvZhou/WhiteDragon-Desktop-Pet/blob/3193d0506565bd2a153ec3c39a9acc7402980a9d/README.md) | 中国語音声と作業状態表示を備えた Windows ペット。キャラクターアニメーションとインポート元を文書に記載。 | SiLvZhou |
+| [Mimo Pet · Windows ペットとアニメツール](https://github.com/Darry-cpu/mimo-pet/blob/11be3d63c2354139af7c72785fec89fb8a497a10/README.md) | Windows ペット用の基本・追加アニメーションシートと、Codex／ChatGPT 用の生成ツールを収録。 | Darry-cpu |
+| [MiMo · アプリ内デスクトップペット](https://github.com/qsxcv20/mimo-desktop-pet/blob/8adf68bd4588b08cfe69053ba9687da9ffe61356/README.md) | MiMo アプリのウィンドウに追従し、最小化時に隠れる Windows ペット。キャラクターとスタンプは作者がオリジナルと記載。 | qsxcv20 |
+| [DSH AI Pets · ペット用スプライト変換](https://github.com/jiangwx0218-glitch/dsh-ai-pets/blob/34851e113a2d436d35b0584f92cc862c456bdf94/README.md) | PC2005-cloud と hunmer のスプライトを DSH 用のアニメーションに変換。固定版の文書に上流のクレジットと加工を記載。 | jiangwx0218-glitch |
+| [Whale-Maid · DSH クジラ娘メイド](https://github.com/hellokiaqi/whale-maid-dsh-pet/blob/782eac5a55e688f2afd4a001b37fb4eab8fd5245/README.md) | クジラ娘メイドのアニメーションパック。公開者は図版を AI 生成とし、参照ミームの作者は確認待ち。 | hellokiaqi |
+| [大きな魚の家 · DSH サイドバー](https://github.com/suika1984/dsh-fishhome/blob/54aefd37a7e5490b6bab1a882c13a2ed6a6f6484/README.md) | 現実の時間に合わせてクジラ娘が読書、昼寝、部屋の移動をする小屋。部屋を編集できます。 | suika1984 |
+| [青い大きな魚 · クロスプラットフォームのペット](https://github.com/Bai-Cute/big-blue-fish-desktop-pet/blob/aebf9cc56f7dcae0c23e2c90952cd18c025282d7/README.md) | Windows、Linux、macOS 用のペット。互換動画106本を参照元と Git のファイル ID で照合し、2本を SHA-256 でも確認。別途、高画質化した106本を収録。 | Bai-Cute |
+| [大きな魚 · DSH キャラクターの生活システム](https://github.com/minedalang/dsh-dafeiyu-life/blob/4b9d16b7f384fca9a65b0b70d4757deccda518a9/README.md) | 生活記録と記憶を備えた、大きな魚を題材とする DSH 交流プラグイン。固定版に直接の上流プロジェクト3件を記載。 | minedalang |
+| [magpie-DaFeiYu · クジラ娘デスクトップペット](https://github.com/wolfvoid/magpie-DaFeiYu/blob/2d379416b0553681601a20ac18c82f29dc7a73b4/README.md) | Magpie の動きに応じてクジラ娘のアニメーションを切り替える Windows・macOS ペット。上流ファイルを固定して個別に検証。 | wolfvoid |
+| [AI ペット · macOS の4キャラクター](https://github.com/rf-liu/ai-pets/blob/cab15e31f37cffadae51f72ed70f87b7928c6736/README.md) | GPT 竜娘、Gemini 猫娘、Claude、クジラ娘を収録した macOS アプリ。立ち絵、表情、音声の出典を個別に記載。 | rf-liu |
+| [青い大きな魚 · Android デスクトップペット](https://github.com/shitmof/lanse-dafeiyu/blob/e75df1ba829d647f6ce133d03a625893efcabae2/README.md) | dsh-pet v0.3.8 を基にした Android のフローティングペット。プロジェクト文書には、0.1.0 の後にクレジットを訂正し、0.1.1 でアプリ内に素材規約を追加したと記載。 | shitmof |
+| [dsh-pet · Android ネイティブ移植](https://github.com/ldyivan/dsh-pet-android/blob/270428f49b9b62b99cbf020a868430010af6759b/README.md) | Android ネイティブのフローティングペット。固定版の106本が PC2005-cloud の上流ファイルと一致し、別に一致集合外の8本があります。 | ldyivan |
+| [BigFish · macOS のクジラ娘の部屋](https://github.com/Shiliumi/bigfish/blob/323b099ef345c467eba6e4508dbf24da74dc3c2a/README.md) | 3D の部屋、キャラクターアニメーション、記憶の記録を備える macOS の交流アプリ。素材文書でキャラクター、アニメ、スタンプ、第三者コードを区別。 | Shiliumi |
+| [Gemini 猫娘 · DSH 星図書館テーマ](https://github.com/StevenYang37/dsh-gemini-cat-theme/blob/8e3642615564fe9e5027444d43c5d795ac51cd26/README.md) | DSH の明暗テーマとサイドバー立ち絵。参照画像2点の SHA-256 が作者の原ファイルと一致し、座り姿の生成派生画像は別記。 | StevenYang37 |
+| [GPT 白竜娘 · Windows アニメペット](https://github.com/jingh12312-rgb/bailong-desktop-pet/blob/b102e734f20bb50889af12df5778f1499109f41b/README.md) | 透過動画、クリック、ドラッグに対応した Windows ペット。作者文書では配布物に動画35本を収録。 | jingh12312-rgb |
+| [白竜娘 · macOS ネイティブ移植](https://github.com/Joseph-Blue/bailong-desktop-pet-mac-swift/blob/99e5d57ede7c3a269caa61e92242f65d0ede014d/README.md) | Joseph Blue が Windows 用の白竜娘ペットを Swift と AppKit で書き直した版。挙動の参照元を v0.5.1 に固定。 | Joseph-Blue |
+| [Gemini 猫娘 · Codex スプライト](https://github.com/ethon2333-dotcom/gemini-codex-pet/blob/49444e301cea2b7d5f5cfb8f69f3e42a69f4f65e/README.md) | 透過の9動作を持つ Gemini 猫娘ペット。固定版 WebP は作者の SHA-256 リストと一致。 | ethon2333-dotcom |
+| [Gemini 猫娘 · DSH 使用枠ウィジェット](https://github.com/Void-LifeStream/dsh-gemini-kitten-widget/blob/358118b55dc1da0918779676067356e859c026ae/README.md) | Gemini モデル別のリクエスト枠を表示する DSH ウェブウィジェット。ローカル生成と背景除去の手順を掲載。 | Void-LifeStream |
+| [AI 娘7人のデスクトップペット](https://github.com/Houraiji9/ai-pet-7in1/blob/08f2c6f3b2771f2c65ff4d6c14c8dfecba9647bc/README.md) | 使用中のツールに応じて GPT、Gemini、GLM、Claude、Kimi、DeepSeek、Grok を切り替える。クジラ娘の動画106本の Git LFS ハッシュを上流固定版と照合し、配信ファイル2本も確認。 | Houraiji9 |
+| [GPT 白竜娘 · Pets v2 スプライト](https://github.com/EntropyTea/gpt-white-dragon-pet/blob/a2722b88a992971a74001e8f59e1aa962617be95/README.md) | 白竜娘の9動作・16方向の視線を収録。1536 × 2288 PNG の SHA-256 が作者の記録と一致。 | EntropyTea |
+| [小克 · Claude ペットと使用枠ウィジェット](https://github.com/aklnaaw/dsh-xiaoke-widget/blob/8e2a207bfc9ae3983168dcc847e54734771bce67/README.md) | MeteorNOX の残高ウィジェットをベースに、小克のオレンジ髪の立ち絵、まばたき、呼吸、残高警告アニメを追加。 | aklnaaw |
+| [OC Claw · OpenCode などのデスクトップペット](https://github.com/rainnoon/oc-claw/blob/4667c8c082cecf7e38440dfc2f6f89f7a9b6cc90/README.md) | OpenCode、Claude Code、Codex などの状態を表示するペット。島のテーマやカスタムキャラクターに対応。 | rainnoon |
+| [AgentPet · 複数ツール対応育成ペット](https://github.com/ntd4996/agentpet/blob/1b5c0df923090ab3bf763bd2ff2d2a04855572d6/README.md) | コーディングツールの状態表示、給餌・成長、Petdex 形式のペットパックの読み込みに対応。 | ntd4996 |
+| [大肥豆 · 豆包とナイロンのペット](https://github.com/Monokumakuki/doubao-nailoong-widget/blob/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/README.md) | 2組のキャラクターと生成表情を収録する Windows ペット。豆包の待機原画と笑顔の派生画像を固定版で照合。 | Monokumakuki |
 
 出典へのリンクです。画像には各原作の条件が適用され、コードのライセンスはキャラクター画像を自動的には許諾しません。
 
@@ -207,12 +260,6 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 <a id="sources"></a>
 
 ### 📚 作者の作品と出典
-
-<!-- category-picks:sources -->
-
-- [上善无形 · クジラ娘の原作](https://www.bilibili.com/opus/1231977657712771073) — 溟月の原案を掲載した作者本人の投稿。
-- [ZipZipPipe · AI 娘化作品集](https://www.pixiv.net/artworks/148186519) — GPT、Gemini、Claude などを収録した作者本人の作品集。
-- [Small-tailqwq · クジラ娘のメイド素材](https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier) — メイド衣装の表情差分と原作者のクレジット。
 
 ZipZipPipe の[出典と利用声明](https://t.bilibili.com/1231980045693616162)も参照できます。
 
@@ -223,8 +270,35 @@ ZipZipPipe の[出典と利用声明](https://t.bilibili.com/1231980045693616162
 
 今回追加した出典：
 
+- [冬冰『5人の AI が Minecraft で遊ぶ』· ペット用プロンプトの出典](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=sources#leto-winter-ice-desktop-personas) · 冬冰の7話から豆包・GLM など7人の役柄を整理し、ペットの操作例を追加。7件の BV ID が冬冰本人の投稿であることを確認。 原動画での表現、整理者の解釈、追加した操作ルールを区別。映像・画像・音声の利用条件は各原典を参照。 [確認記録](content/research/2026-11-21/leto-desktop-personas-winter-series.json)
+- [ApprenTice · Gemini ちび猫娘の改変画](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=sources#apprentice-gemini-chibi) · 作者は ZipZipPipe などの原案を参照した改変作品として公開。固定版の 941 × 1672 PNG は DSH テーマの参照画像と SHA-256 が一致。 作者は改変画像に CC BY-NC-SA 4.0 を適用。作者と原作のクレジットを保持し、個別の上流条件を確認。 [確認記録](content/research/2026-11-21/apprentice-gemini-chibi-source.json)
+- [ZipZipPipe · GPT 白竜娘の三面図](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=sources#zipzippipe-white-dragon-turnarounds) · 作者本人の投稿に、白、濃色、淡い青の衣装の正面・側面・背面を掲載。2048 × 1152 の PNG 3枚を SHA-256 で照合。 作者の原投稿を掲載。各画像の表示、改変、再配布条件は確認待ち。 [確認記録](content/research/2026-11-21/zipzippipe-white-dragon-turnarounds.json)
+- [风霜秋雨 · 『ごめん、思い出せない』制作画像](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=sources#pfz14-deepseek-mv-production-art) · 原投稿から作者の制作画像リポジトリを参照。固定版には BV ID ごとに PNG 17枚を収録し、うち2枚を SHA-256 で照合。 作者の制作画像は個人で保存し私的に見る範囲に限ります。商用利用・転載・改変を禁止。映像と音源の条件は原投稿を参照。 [確認記録](content/research/2026-11-21/pfz14-production-art-personal-viewing.json)
+- [zyd232 · クジラ娘ちびキャラ三面図の資料](https://xn--pssy23gqgbz2d718b.com/works/deepseek202610090014.html) · 顔のアップを含む 2208 × 960 の三面図を資料サイトが zyd232 名義で掲載。原作者欄は空欄です。固定版 JPG のチェックサムを確認。 [出典の確認](content/research/2026-11-20/zyd232-q-whale-sheet-archive.json)
+- [辰楹 · クジラ娘のもう一人の自分とちびキャラ派生](https://github.com/TreapGoGo/deepseek-whale-girl/issues/48) · 辰楹 は3件の原投稿で「这个刀子真甜」のちびキャラを参照し、生成 AI またはその補助を使用したと記載。投稿画像5点の SHA-256 を確認。 [出典の確認](content/research/2026-11-20/chenying-whale-girl-designs.json)
+- [三重野chiame · クジラ娘 Live2D 配布紹介](https://www.bilibili.com/video/BV1stxa6eESB/) · 投稿者は作画・モデリングを自作とし、二次創作と商用配信を許可、販売を禁止。元のテンプレートと再配布の範囲は確認待ち。 [作者と配布条件の確認記録](content/research/2026-11-20/whale-live2d-and-claude-chibi-provenance.json)
+- [識知不失智 · Muse 娘オリジナルキャラクター PV](https://www.bilibili.com/video/BV1jEnD6RE1t/) · 投稿者は自作の Muse 娘の立ち絵と設定を CC BY 4.0 とし、识知不失智 のクレジットを指定。Meta のブランド要素と Jolly は別の権利。映像と音声は原投稿へのリンクで収録。 [確認記録](content/research/2026-11-20/bv1jend6re1t.json)
+- [Muse 娘 · 設定資料と作品別出典](https://xn--pssy23gqgbz2d718b.com/works/other202611130007.html) · 告知資料、デザイン解説と立ち絵・表情5点へのリンク。固定版7ファイルの SHA-256 を照合し、作者の発表と利用条件も掲載。 [確認記録](content/research/2026-11-20/muse-girl-archive-and-rights.json)
+- [LongCat · 甶丶の改訂設定](https://www.bilibili.com/opus/1262838853165645826) · 作者による LongCat の後続投稿に13枚掲載。8月には単独の立ち絵を別に公開。 [確認記録](content/research/2026-11-20/shi-longcat-revised-design.json)
+- [MOSS-Image · 甶丶のオリジナル設定](https://www.bilibili.com/opus/1265454286364475399) · ヤコブの杖、望遠鏡、2種類のデザインを作者が解説。原投稿に画像13点。 [確認記録](content/research/2026-11-20/shi-moss-image-design.json)
+- [点点 · 甶丶のオリジナル設定](https://www.bilibili.com/opus/1262407612636332038) · 作者は dots の擬人化と記載。13枚のうち1枚目は赤いフードとオオカミ耳。 [確認記録](content/research/2026-11-20/shi-diandian-design.json)
+- [蚂蚁百灵 · 甶丶のオリジナル設定](https://www.bilibili.com/opus/1258423639675502601) · 作者の「Day 3」投稿に9枚掲載。1枚目は青と黒の衣装、鍵、独自の輪郭を持つ影。 [確認記録](content/research/2026-11-20/shi-ant-ling-design.json)
+- [雲知声 U2-Flash · 甶丶のオリジナル設定](https://www.bilibili.com/opus/1257685897406578689) · 1枚目に UNISOUND U2-FLASH と記載。作者はファンタジー・SF 各3種類の頭身と普段着を説明。 [確認記録](content/research/2026-11-20/shi-unisound-u2-design.json)
+- [テンセント混元 · 甶丶の擬人化立ち絵](https://www.bilibili.com/opus/1242051735409655810) · 青と白の服装に赤いマフラー。作者は GPT Image で生成後に手修正したと説明。 [確認記録](content/research/2026-11-20/shi-hunyuan-design.json)
+- [Gemini 猫娘 · 表情スタンプと猫耳なし差分](https://www.bilibili.com/opus/1264669110489317411) · Xx勿忘xX が Gemini 猫娘の表情と猫耳なし差分を投稿し、原画の zipzip をクレジット。 [確認記録](content/research/2026-11-20/xxwuwang-gemini-expressions.json)
+- [MiMo 兎娘 · オレンジと黒の魔女の立ち絵と三面図](https://xn--pssy23gqgbz2d718b.com/works/mimo202611180001.html) · 全身の立ち絵と正面・側面・背面の三面図を別ページに掲載。画像クレジットはそれぞれ「甶」「甶、」。 [確認記録](content/research/2026-11-20/mimo-witch-portrait-turnaround.json)
+- [非凡之愛 · antrofrog の原作と制作記録](https://www.krea.ai/blog/how-antrofrog-made-no-ordinary-love) · Krea の制作記事に antrofrog の原作投稿と使用ツールのクレジットを掲載。Bilibili のキャラクター版の参照元をたどれる。 [確認記録](content/research/2026-11-20/antrofrog-no-ordinary-love-notes.json)
+- [Aki Matsubara · Grok の自画像比較](https://note.com/aki_matsubara/n/n4db1f69f7386) · Grok 自身の擬人化案と人間が選んだ肖像を比較し、宇宙服姿や金髪の青年などを紹介。 [確認記録](content/research/2026-11-20/matsubara-grok-self-portraits.json)
+- [涼月 · Grok のキャラクターデザイン](https://note.com/ryou_gethu93/n/nb168813110cf) · Grok の擬人化デザインを固め、チャット用のスタンプにする試みを記録。 [確認記録](content/research/2026-11-20/ryougethu-grok-character-design.json)
+- [这个刀子真甜 · ちびキャラ三面図の公開手がかり](https://www.douyin.com/video/7698645160699170099) · 抖音の公開索引に、同名の作者による2026年10月20日のちびキャラ三面図投稿を確認。資料館にも同じ名義のクジラ娘の三面図があり、同一ファイルかは確認待ち。 [確認記録](content/research/2026-11-18/dao-chibi-turnaround-publication.json)
+- [MiMo · テックウェア版の三面図](https://xn--pssy23gqgbz2d718b.com/works/mimo202611140001.html) · 資料館の画像クレジットは补药啊で、原作者は未記載。配色、アクセサリー、表情を掲載し、メイド版は別に出典を記録。 [確認記録](content/research/2026-11-18/mimo-techwear-turnaround-reference.json)
+- [Aki Matsubara · 研究の伴走者としての Copilot](https://note.com/aki_matsubara/n/n66d3ca8965ad) · ChatGPT、Gemini、Firefly で生成した Copilot の肖像7枚を比較し、図書館の案内人や研究の伴走者を紹介。 [確認記録](content/research/2026-11-18/matsubara-copilot-research-companion.json)
+- [MIMI · 4つの AI の擬人化デザイン](https://note.com/suzunari_mimi/n/nadb8c246917f) — ChatGPT のアーカ、Claude のクロ、Gemini の知識の精霊、Muse の猫娘を紹介し、それぞれの制作過程を記録。 [確認記録](content/research/2026-11-18/mimi-four-ai-designs.json)
+- [Green_Thursday · Claude 篇のデザイン比較](https://note.com/glossy_stoat7085/n/n25b625113aac) — 作者シリーズの第13章。Gemini、ChatGPT、Claude のアニメ風擬人化デザインを紹介。 [確認記録](content/research/2026-11-18/green-thursday-claude-character-comparison.json)
+- [ゆみえ · Copilot と Claude の擬人化](https://note.com/yumie1991/n/n10fdbd46d19e) — Copilot と Claude の擬人化案を紹介し、以前に制作した ChatGPT、Gemini、Grok にも言及。 [確認記録](content/research/2026-11-18/yumie-copilot-claude-personifications.json)
+- [R.Nori · 5つの AI の擬人化デザイン](https://note.com/modern_peony538/n/nb19b2c2811c6) — ChatGPT、Claude、Gemini、Muse、Grok の擬人化案と制作過程を載せた作者記事。 [確認記録](content/research/2026-11-18/rnori-note-five-ai-designs.json)
 - [いくつかの更新 · 作者の追加作品集](https://www.pixiv.net/artworks/150718881) — 追加の20ページ作品集。作者が AI 生成と明記。
-- [AI娘・第二弾 · Seed、RWKV ほか](https://www.bilibili.com/opus/1236803362705375305) — 作者の第二弾投稿。Seed・RWKV ほかの手がかり。
+- [ZipZipPipe · AI 娘第2弾と Mistral の原画](https://www.bilibili.com/opus/1236803362705375305) · Seed、RWKV などのキャラクターを掲載。原投稿順の9枚を SHA-256 で照合し、4枚目は収録済みの Mistral バゲット猫娘に一致。 原作へのリンクのみ。作品別の表示・転載・改変条件は確認待ちです。 [確認記録](content/research/2026-11-21/zipzippipe-second-batch-nine-files.json)
 - [MiMo 擬人化 · 甶丶](https://www.bilibili.com/opus/1242097128919007239) — MiMo 擬人化の投稿。
 - [Mico · 公式キャラクターと移行案内](https://support.microsoft.com/en-us/microsoft-365-copilot/frequently-asked-questions-about-retired-copilot-features) — Mico の公式性と移行案内。
 
@@ -237,10 +311,10 @@ ZipZipPipe の[出典と利用声明](https://t.bilibili.com/1231980045693616162
 - [甶丶の MiMo 立ち絵・三面図の出典](https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/characters/mimo/README.md) · 立ち絵と三面図の2ファイルを同じ作者投稿にひも付けた記録。
 - [ZipZipPipe · 大きな魚のぬいぐるみと非商用声明](https://www.bilibili.com/opus/1247156596114456581) · 作者が CC BY-NC-SA 4.0 を再確認し、個人用の注文制作と販売を区別。
 - [MiMo ウサギメイド · 三面図投稿](https://github.com/lmy414/ai-girl-stickers/issues/69) · 甶丶のジャケット版とは別に記録。整理ページは Immyxxr と署名し、投稿アカウントと作者を区別。
-- [GLM の狐娘 · 参照動画の出典](https://www.bilibili.com/video/BV1iDeQ6fEFi/) · 宝藏小树林 の投稿サムネイルにアイマスク、Z の飾り、二つの鈴を確認。図鑑の GLM 狐娘の差分は同動画を参照。 原デザインの作者と素材の利用条件は確認待ち。
+- [GLM の狐娘 · 参照動画の出典](https://www.bilibili.com/video/BV1iDeQ6fEFi/) · 動画のサムネイルと ZipZipPipe「AI娘化」7枚目のまつ毛付きアイマスク、側面の Z 飾りと二つの鈴が一致。図鑑の生成三面図はこの動画を参照。 ZipZipPipe の作品集は作者表記が必須で商用不可。動画説明と取得したコメントでは、この版の制作者を確認できず、改変条件も確認待ち。 [比較記録](content/research/2026-11-18/glm-fox-design-comparison.json)
 - [「Let Me Go」· 大きな魚の楽曲出典](https://www.bilibili.com/video/BV1XbY66nEWr/) · 「新角色：大肥鱼」の説明欄に記載された楽曲。この投稿は星落落_oi の1分版を原作として掲載。
 - [木子悪魔 · 青い小さな魚 VRM の作者公開ページ](https://www.aplaybox.com/details/model/ayXkRzVflmnd) · VRM Pet 3D に同梱される小さな魚モデルの作者公開ページ。制作者、更新履歴、配布条件を掲載。
-- [yamamemo · Copilot パイロット設定の出典](https://zenn.dev/yamamemo/articles/gen-ai-personification#microsoft-copilot) · 作者記事の通常版と SD 版はともに 512 × 768 で、以前のハッシュと一致。作者の公開記事一覧には別途公開された高解像度版を確認できませんでした。 記事にはこの画像の再配布許可が明記されていません。
+- [yamamemo · Copilot パイロット設定の出典](https://zenn.dev/yamamemo/articles/gen-ai-personification#microsoft-copilot) · 通常版と SD 版はいずれも 512 × 768。同じリンクが WebP または PNG を返すため、形式ごとのハッシュを記録。 記事にはこの画像の再配布許可が明記されていません。 [確認記録](content/research/2026-11-18/yamamemo-copilot-regular-and-sd-recheck.json)
 - [xiaoweigen · クジラ娘の六面図と衣装設定](https://github.com/xiaoweigen/deepseek-dafeiyu-assets/blob/7e7a888845877b30314d36a7f274dc3bd6f330b1/README.md) · この資料集の改編部分は CC BY-NC-SA 4.0。YunYueSama の独自クレジットライセンスを含む、上流の条件も適用。
 - [CrossPet · 立ち絵の利用条件と原案クレジット](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/LICENSE.md) · CrossPet が許諾できる貢献部分には CC BY-NC-SA 4.0 を表示し、プロジェクトと原作者のクレジットが必要。別動画の GLM 狐娘版の作者は確認待ち。
 - [「Let Me Go」コードアニメ · 制作とクレジット](https://github.com/beidou070/let-me-go-code-mv/blob/9cfba6f73e31390b442734a3fa3e7651c78244ae/README.md) · 自作コード、キャラクターの派生部分、楽曲の条件を個別に記載。コードは閲覧でき、自作コードへの一般的なオープンソース許諾は未記載。
@@ -254,7 +328,7 @@ ZipZipPipe の[出典と利用声明](https://t.bilibili.com/1231980045693616162
 - [ZipZipPipe · AI 娘リザルト画面の原投稿](https://www.bilibili.com/video/BV14R4X68EFZ/) · ZipZipPipe の群像短編。説明欄に 上善无形 のクジラ娘原案と二次創作の出典を個別に記載。 投稿者の CC BY-NC-SA 4.0 表示はクジラ娘の二次創作に適用。他のキャラクターは個別に確認。
 - [Nyankomint ·「world.execute(me);」の制作と利用条件](https://github.com/Nyankomintsu/world-execute-me-lyric-mv/blob/93ac63775ee58b33ff102167514f2603a48940cc/README.md) · 真寻Mahiro 版 MV の制作プロジェクト。Kimi 娘版も参照。ソフトウェア、シルエット、楽曲の出典を個別に掲載。 コードと自作文書は MIT。シルエットは Nyankomint のクレジット付き CC BY-NC-SA 4.0。楽曲と歌詞は Mili の公式ガイドラインを参照。
 - [水原镜 · 青い大きな魚 MMD モデル配布](https://www.aplaybox.com/details/model/j9z4quaACJV1) · 模之屋の配布ページは制作を 水原镜、変換・リギングを 耶栗Yaki と記載。Bilibili の投稿はキャラクター資料とレンダリングの出典も掲載。 配布ページは MMD 動画制作に限定し、改変可、クレジット一覧必須、商用・再配布禁止と記載。動画説明には別途 CC BY-NC-SA 4.0 を表示。同梱規約は確認待ち。
-- [ZipZipPipe · AI たちと OpenCode](https://www.bilibili.com/opus/1233069202138464289) · 作者が公開したキャラクター作品集。最後の枠は OpenCode と説明。 投稿本文には画像ごとの利用条件の記載なし。引用する画像と作者声明を個別に確認。
+- [ZipZipPipe · AI たちと OpenCode](https://www.bilibili.com/opus/1233069202138464289) · 作者の本文で9番目は OpenCode。2160 × 3840 PNG を SHA-256 で照合し、公式製品文書を掲載。 投稿本文には画像ごとの利用条件の記載なし。引用する画像と作者声明を個別に確認。 [確認記録](content/research/2026-11-21/zipzippipe-opencode-portrait-and-product.json)
 - [「Wrap Me In Plastic」· GPT × Codex 制作出典](https://github.com/yifanchen12/wrap-me-in-plastic-gpt-codex-pv/blob/c6d0c0acd1ca31d21cd193a008c2bd249cf8dd2f/README.md) · MisakaZentai のコードアニメを改編。生成された GPT 素材、保持する上流クジラ娘素材、この版の CHROMANCE 楽曲を区別。 コードは MIT。GPT の画像、上流のクジラ娘素材、楽曲にはそれぞれの条件が適用。
 - [红メ月 · GPT ちび竜娘の三面図とスタンプ](https://www.bilibili.com/video/BV1p3JU6ZE8Z/) · 投稿者はちび竜娘の三面図とスタンプを制作したと説明し、原投稿で入手先を案内。 原投稿では元のキャラクターデザインの出典と素材ごとの再配布条件は未確認。
 - [DeepSeek-chan · Live2D と PSD の同梱規約](https://github.com/hjw200775-ops/dsh-live2d-pet/releases/tag/v0.6.5) · 公開配布 ZIP のハッシュを照合し、モデルと PSD の英語・日本語の利用規約を確認。この配布物にはモデルと両方のガイドを収録。PSD 原本は作者の配布を参照。 Live2D 規約は個人作品のプラットフォーム収益化を許可。PSD ガイドは練習、クレジット付きの成果公開、自作モデリング成果による依頼募集を許可。元のモデルと PSD の再配布には別の許諾が必要。
@@ -277,6 +351,22 @@ ZipZipPipe の[出典と利用声明](https://t.bilibili.com/1231980045693616162
 
 | 時期・状況 | 内容 |
 | --- | --- |
+| 2026-11-21 · OpenCode・楽曲・いいね数の確認 | OpenCode の項目、公式のいいね数付き二次創作20件、楽曲2曲、インタラクティブ作品3件を追加。23件の集計値を更新し、ZipZipPipe 作品集第2弾の原画9点を照合。 |
+| 2026-11-21 · GLM・豆包の二次創作と7人のペット | 公式いいね数付きの二次創作31件、楽曲4曲、インタラクティブ作品3件、作者の出典1件を追加。冬冰の原投稿7件と、7人のペットのクジラ娘動画106本の出典を照合。 |
+| 2026-11-21 · 候補の投稿者・楽曲・ペット素材 | 公式の累計いいね数付きの二次創作23件、楽曲4曲、インタラクティブ作品5件、作者の出典1件を追加。候補9件の検索結果から投稿者を記録し、Gemini 猫娘の参照画像2点を作者原本と照合。 |
+| 2026-11-21 · 二次創作・ペット動画の出典・作者原投稿 | 公式いいね数付きの二次創作27件、楽曲1曲、インタラクティブ作品3件、作者の出典2件を追加。候補9件と旧作6件を再確認し、ペット移植2件の動画と上流素材の利用条件を照合。 |
+| 2026-11-20 · 候補の再確認・ちびキャラの出典・デスクトップペット | 二次創作動画12件、楽曲4曲、インタラクティブ作品4件、作者の出典2件を追加。候補9件と前回取得できなかった旧作6件を再確認し、各項目の観測時刻を掲載。 |
+| 2026-11-20 · キャラクターソング・Live2D・デスクトップペット | 二次創作動画37件、楽曲8曲、インタラクティブ作品5件を追加。公式のいいね数484件を更新し、6件は前回の値を掲載。候補9件は確認待ち。クジラ娘の Live2D 配布について二次創作・商用配信・販売の条件を確認。 |
+| 2026-11-20 · Mistral の項目・原曲・二次創作動画 | 二次創作動画23件、楽曲5曲、Mistral バゲット猫娘の項目を追加。447件のいいね数を更新し、6件は前回の値を掲載。候補7件には検索結果を掲載し、公式のいいね数は確認待ち。 |
+| 2026-11-20 · 二次創作のいいね再確認と白竜のペット | 二次創作動画17件とペット4件を追加。424件のいいね数を更新し、6件は前回の値を掲載。候補3件には Bilibili の検索結果を追加し、公式のいいね数は確認待ち。 |
+| 2026-11-20 · 楽曲の全順位と観測時刻 | 楽曲一覧に7曲と二次創作14件のリンクを追加し、計22曲になりました。「我会等」と「美人魚」の原唱を Bilibili の楽曲情報で照合。全順位といいねの観測時刻は図鑑で確認できます。 |
+| 2026-11-20 · Muse 娘と7件の作者原投稿 | Muse 娘の項目、動画10件、ペット1件、出典8件を追加。作者の許諾範囲と資料の7ファイルを確認。407件でいいね数を更新し、6件は前回の記録を表示。候補3件は確認待ち。 |
+| 2026-11-20 · MiMo・千問・Gemini の二次創作 | 二次創作16件、ペット3件、出典3件、楽曲2曲を追加。ZipZipPipe の Mistral の原画を確認。397件でいいね数を更新し、6件は前回の記録を表示。候補3件は確認待ち。 |
+| 2026-11-20 · 多言語検索と Grok・Seed の二次創作 | 二次創作20件、ペット3件、作者投稿2件と「蟲兒飛」を追加。検索でキャラクター名と作品種別を組み合わせ可能。381件でいいね数を更新し、既存6件は前回の記録を表示。候補3件は確認待ち。 |
+| 2026-11-18 · ちびキャラ三面図と Copilot・MiMo の出典 | 二次創作18件、ペット2件、出典3件を追加。Copilot パイロット版の WebP と PNG を再確認し、ちび三面図の公開情報を記録。363件で最新のいいね数を取得し、既存4件は前回の記録を表示。候補3件は確認待ち。 |
+| 2026-11-18 · GLM の比較資料と二次創作の追加 | GLM の動画版に比較資料を追加。二次創作24件、ペット3件、楽曲1曲を追加。345件で最新のいいね数を取得し、既存4件は前回の記録を表示。候補3件は確認待ち。 |
+| 2026-11-18 · GPT 竜娘とペット一覧の更新 | 二次創作23件、ペット2件、作者のデザイン出典3件、楽曲2曲を追加。321件で新しいいいね数を取得し、既存4件は前回の記録を表示。候補3件は確認待ち。GitHub 62件の Star 数も確認。 |
+| 2026-11-18 · 11月18日のいいね数と出典 | 二次創作35件、デスクトップペット4件、作者のデザイン出典1件、楽曲2曲を追加。298件で最新のいいね数を取得。既存4件は前回の記録を表示し、候補3件は確認待ち。 |
 | 2026-11-08 · いいね観測の保存と歌詞 PV | サイトで過去の記録20件を閲覧可能。二次創作20件、ペット4件、Live2D の出典1件を追加。順位付き267件の公式累計いいね数を確認し、候補3件は確認待ち。 |
 | 2026-11-08 · 正確な公開時刻とキャラクターの出典 | 二次創作21件、ペット3件、スプライトの出典1件を追加。順位付き247件に公式累計いいね数と公開時刻を記録し、同じ日の投稿も時刻順に表示。 |
 | 2026-11-08 · 公開日順と MiMo の二次創作 | 全順位ページに公開日順と確認待ち候補の検索を追加。二次創作18件、インタラクティブ作品3件、自画像の出典1件を追加し、226件の公式累計いいね数を確認。 |
@@ -302,8 +392,8 @@ ZipZipPipe の[出典と利用声明](https://t.bilibili.com/1231980045693616162
 | 2026-10 · 公開済み | 10月8日にキャラクター設定資料6点を収録。31日にちびキャラ三面図7点を公開しました。 |
 | 2026-11-03 · 公開済み | キャラクターの落書き7点とプロンプトテンプレートを追加しました。 |
 | 要調査 · Copilot パイロット版 | 学園版の素材パックを収録済み。yamamemo のパイロット版画像2点は 512 × 768。高解像度原画と利用条件は確認待ち。[収録記録](docs/BASELINES.ja.md) |
-| 要調査 · GLM の狐娘 | 動画 BV1iDeQ6fEFi から原案者をたどり、この姿の改変条件を確認します。[クレジット記録](docs/CHIBI.ja.md) |
-| 確認待ち · ちび版クジラ娘 | [Tencent QQ の発表](https://www.bilibili.com/video/BV17rxT6UEpH/)は、ちび版の参考を 这个刀子真甜 と記載。[本人の投稿](https://www.bilibili.com/video/BV1jg866XEC8/)は「小公主」版の派生元を記載。[2026年7月10日の初期投稿](https://www.bilibili.com/video/BV1SBMH6NEJo/)の公開サムネイルにちび版クジラ娘を確認。[ZipZipPipe の5月3日の投稿](https://www.bilibili.com/video/BV1tE9XBbErS/)でも別途、小頭身のクジラ娘を確認。単独の設定画の初出と利用条件は確認待ち。 |
+| 要調査 · GLM の狐娘の動画版 | サムネイルのアイマスク、側面の Z 飾りと二つの鈴が ZipZipPipe の作品集7枚目と一致。投稿に直接のクレジットはなく、改変条件は確認待ち。[比較記録](content/research/2026-11-18/glm-fox-design-comparison.json) |
+| 確認待ち · ちび版クジラ娘 | 「这个刀子真甜」名義の資料版 PNG（2480 × 1385）と SHA-256 を確認。抖音の投稿との対応、および画像別の利用条件は確認待ち。 [出典の確認](content/research/2026-11-20/dao-chibi-source-and-archive-file.json) |
 
 動画記録は投稿本文とメタデータに基づき、動画のダウンロードや全シーンの確認は未実施です。一部の項目には初回の投稿確認範囲を保存。ランキングのいいね数は全件を Bilibili の公式 API で別途確認。公開投稿・プラットフォームの自作表示・コードのMITライセンスは素材の再配布許可を意味しません。ZipZipPipeは追加作品集をAI生成と明記。Micoの公式性と画像再利用許可は別々に確認します。
 

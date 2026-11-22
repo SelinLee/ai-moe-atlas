@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:17:00.849Z",
+  "repo": "LYW199911/DesktopGeminiGirl",
+  "pinnedDocument": {
+    "path": "README.md",
+    "commit": "e621560a4a1e643847cc2c861e243afc9f9b1240",
+    "url": "https://github.com/LYW199911/DesktopGeminiGirl/blob/e621560a4a1e643847cc2c861e243afc9f9b1240/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/LYW199911/DesktopGeminiGirl/e621560a4a1e643847cc2c861e243afc9f9b1240/README.md",
+    "sourceSha256": "2e632c86c01860e50aedb5c5b188cc228d0ce775f9117f57c5e788c39f6d78a2",
+    "gitBlobSha": "4888aa8df561687b3762eed879a7ef42bf8c96ba"
+  },
+  "documents": [],
+  "repositoryLicense": null,
+  "demo": {
+    "url": "https://www.bilibili.com/video/BV1eUW66NEe7/",
+    "officialMetadata": {
+      "bvid": "BV1eUW66NEe7",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eUW66NEe7",
+      "observedAt": "2026-11-20T14:12:24.338Z",
+      "httpStatus": 200,
+      "code": 0
+    },
+    "title": "会自己看屏幕吐槽的AI猫娘桌宠更新啦！实装动态立绘+自动升级，摸鱼直接被抓包！",
+    "publisher": "小弟之家",
+    "descriptionSha256": "fa8f29a98110534c955c2dd500db9ab6163f8aeb36d8e9e56a0c86b5bec383c1"
+  }
+}

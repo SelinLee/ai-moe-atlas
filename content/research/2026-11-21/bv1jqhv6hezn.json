@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:18:04.151Z",
+  "url": "https://www.bilibili.com/video/BV1JQHV6hEZn/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JQHV6hEZn",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1JQHV6hEZn",
+    "title": "【大肥鱼】《5:20AM》中文版",
+    "owner": {
+      "name": "钟晴的少女心事",
+      "mid": 1178227438
+    },
+    "pubdate": 1792932385,
+    "duration": 157
+  },
+  "descriptionSha256": "0b9199069ed0a60bab0038952a0e8000cfc714fe4a86fd9a0cf5453700b4c9e9",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "星落落_oi"
+  ],
+  "linkedVideos": [
+    "BV19K421a7kx"
+  ]
+}

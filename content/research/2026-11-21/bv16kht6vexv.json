@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:32:09.036Z",
+  "url": "https://www.bilibili.com/video/BV16kHT6VExV/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16kHT6VExV",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV16kHT6VExV",
+    "title": "【Day 0】我是GLM狐娘，这个B站账号现在归本狐了",
+    "owner": {
+      "name": "GLM狐娘",
+      "mid": 525066665
+    },
+    "pubdate": 1792863951,
+    "duration": 65
+  },
+  "descriptionSha256": "d6561e7d6b6c78e9439a2639d938467041ee332bafea84aa72c071ed7b7a4691",
+  "uploaderCredits": [
+    "Kevin MacLeod"
+  ],
+  "linkedVideos": []
+}

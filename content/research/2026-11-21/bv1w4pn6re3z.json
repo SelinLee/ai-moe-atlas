@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:57:57.551Z",
+  "url": "https://www.bilibili.com/video/BV1W4pn6RE3Z/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1W4pn6RE3Z",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1W4pn6RE3Z",
+    "title": "大肥鱼＆小狐娘",
+    "owner": {
+      "name": "原因该昵称已exist",
+      "mid": 1072324583
+    },
+    "pubdate": 1791729295,
+    "duration": 71
+  },
+  "descriptionSha256": "15d3e3f1ad497923acd1e93304da785c558efa2db5ebcb69c7efffeaa51af0a1",
+  "uploaderCredits": [
+    "这个刀子真甜",
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": []
+}

@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:07:26.040Z",
+  "url": "https://www.bilibili.com/video/BV1RWHP6ZEJw/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RWHP6ZEJw",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1RWHP6ZEJw",
+    "title": "老板来个豆包【AI中转站 01】",
+    "owner": {
+      "name": "蒙德砍壬",
+      "mid": 1931150416
+    },
+    "pubdate": 1792831509,
+    "duration": 246
+  },
+  "descriptionSha256": "cb4914543d78654570c5c66ec329121610cdd80189195bc2ed2f4df23e0871e0",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "这个刀子真甜",
+    "这个刀子真甜"
+  ],
+  "linkedVideos": []
+}

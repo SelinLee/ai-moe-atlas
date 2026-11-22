@@ -1,0 +1,69 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T09:25:57.039Z",
+  "url": "https://zenn.dev/yamamemo/articles/gen-ai-personification#microsoft-copilot",
+  "htmlSha256": "c9003cfc9362f4a9cb340b131027cbc456c740577a387094347583fb565d578e",
+  "images": [
+    {
+      "variant": "regular",
+      "url": "https://static.zenn.studio/user-upload/deployed-images/03507686e994eb06ba996a15.png?sha=275887310a852b9554310b8a4f1353db8ea66c9c",
+      "httpStatus": 200,
+      "sourceSha256": "5791388a8f3eb340d4350ad42d55035f6b1dbf1b527cc1e7253d9153e1c192dd",
+      "width": 512,
+      "height": 768,
+      "format": "webp",
+      "responseMeta": {
+        "acquiredAt": "2026-11-18T09:34:50.674Z",
+        "bytes": 81334,
+        "contentType": "image/webp",
+        "etag": "\"04e9a4a1042274ea4b9dad3aecec6040\"",
+        "modified": "Sat, 03 Jan 2026 02:10:12 GMT"
+      },
+      "repeat": {
+        "httpStatus": 200,
+        "sha256": "bb1a405ef1378dc0043ea23ebd2fbee297e100abdeee60293979c02c5e6ed116",
+        "bytes": 642641,
+        "contentType": "image/png",
+        "etag": "\"04e9a4a1042274ea4b9dad3aecec6040\"",
+        "modified": "Sat, 03 Jan 2026 02:10:12 GMT",
+        "width": 512,
+        "height": 768,
+        "format": "png",
+        "accept": "image/png"
+      }
+    },
+    {
+      "variant": "sd",
+      "url": "https://static.zenn.studio/user-upload/deployed-images/5510b21f171e0352961aa881.png?sha=970d9506e80aac808154125559cdf1a0ab3f0f39",
+      "httpStatus": 200,
+      "sourceSha256": "6960f3033a264336882722fc578105a01b283cc9998c437bb6264672b09000db",
+      "width": 512,
+      "height": 768,
+      "format": "webp",
+      "responseMeta": {
+        "acquiredAt": "2026-11-18T09:34:50.755Z",
+        "bytes": 86508,
+        "contentType": "image/webp",
+        "etag": "\"dba5437809516e9a7ddbe10d7d7a9bbc\"",
+        "modified": "Sat, 03 Jan 2026 02:10:11 GMT"
+      },
+      "repeat": {
+        "httpStatus": 200,
+        "sha256": "d562167490553171d02c610ca20e96f7fe6b8421bc339429b6a6f554693b83a9",
+        "bytes": 621553,
+        "contentType": "image/png",
+        "etag": "\"dba5437809516e9a7ddbe10d7d7a9bbc\"",
+        "modified": "Sat, 03 Jan 2026 02:10:11 GMT",
+        "width": 512,
+        "height": 768,
+        "format": "png",
+        "accept": "image/png"
+      }
+    }
+  ],
+  "priorEvidence": {
+    "path": "content/research/2026-11-08/yamamemo-copilot-publication-list.json",
+    "sha256": "2dffcd67ff242c931bd5c72f58b928e5796ecc92138e7867204b5c1eaa3f4f7d",
+    "kind": "browser-metadata-extract"
+  }
+}

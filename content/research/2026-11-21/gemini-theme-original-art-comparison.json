@@ -1,0 +1,85 @@
+{
+  "method": "isolated-headless-google-chrome-pinned-raw-and-bilibili-original-images",
+  "originPost": {
+    "url": "https://www.bilibili.com/opus/1233069202138464289",
+    "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1233069202138464289",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-20T16:20:59.758Z",
+    "bodySha256": "ac14b955f6ad7c1f2c6fb2016f4fe3980bd3c2382ba51edb058b53b49ea7d713",
+    "author": "ZipZipPipe",
+    "position": 5
+  },
+  "artPairs": [
+    {
+      "author": "ZipZipPipe",
+      "original": {
+        "id": "zip-post-image-5",
+        "url": "https://i0.hdslb.com/bfs/new_dyn/52eda1bac50135bd7aeae392c30cd6b24168597.jpg",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:22:31.299Z",
+        "bytes": 6908107,
+        "gitBlobSha": "269841635d86ec304ce33de779876d4a572db051",
+        "sourceSha256": "1dc86d13132d97ecf3c368b250676a014eb7496703704138b3ecbfe30d0acf25",
+        "format": "jpeg",
+        "width": 3072,
+        "height": 5504
+      },
+      "pluginCopy": {
+        "id": "zip-theme-copy",
+        "url": "https://raw.githubusercontent.com/StevenYang37/dsh-gemini-cat-theme/8e3642615564fe9e5027444d43c5d795ac51cd26/plugin/gemini-cat-theme/assets/gemini-zipzippipe-original.jpg",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:22:32.121Z",
+        "bytes": 6908107,
+        "gitBlobSha": "269841635d86ec304ce33de779876d4a572db051",
+        "sourceSha256": "1dc86d13132d97ecf3c368b250676a014eb7496703704138b3ecbfe30d0acf25",
+        "format": "jpeg",
+        "width": 3072,
+        "height": 5504
+      },
+      "sameSha256": true
+    },
+    {
+      "author": "ApprenTice",
+      "original": {
+        "id": "origin",
+        "url": "https://raw.githubusercontent.com/Apprentice-Geo/AI-Fanworks/0f25324e4b01199a6e1b41b0e9dd8fa9fddb6142/ApprenTice/images/Gemini-Chibi.png",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T16:22:31.085Z",
+        "bytes": 2044385,
+        "gitBlobSha": "9d47c0c7b35a1438f076a66013c91dc80d3718dd",
+        "sourceSha256": "dbb28bb51caa3889291130a138899daf3d2f50ba9acf94f530cb9ee60b6a2ffe",
+        "format": "png",
+        "width": 941,
+        "height": 1672
+      },
+      "pluginCopy": {
+        "path": "plugin/gemini-cat-theme/assets/gemini-apprentice-chibi-original.png",
+        "url": "https://github.com/StevenYang37/dsh-gemini-cat-theme/blob/8e3642615564fe9e5027444d43c5d795ac51cd26/plugin/gemini-cat-theme/assets/gemini-apprentice-chibi-original.png",
+        "rawUrl": "https://raw.githubusercontent.com/StevenYang37/dsh-gemini-cat-theme/8e3642615564fe9e5027444d43c5d795ac51cd26/plugin/gemini-cat-theme/assets/gemini-apprentice-chibi-original.png",
+        "sourceSha256": "dbb28bb51caa3889291130a138899daf3d2f50ba9acf94f530cb9ee60b6a2ffe",
+        "gitBlobSha": "9d47c0c7b35a1438f076a66013c91dc80d3718dd",
+        "bytes": 2044385,
+        "commit": "8e3642615564fe9e5027444d43c5d795ac51cd26"
+      },
+      "sameSha256": true
+    }
+  ],
+  "generatedSidebar": {
+    "path": "plugin/gemini-cat-theme/assets/gemini-sidebar-seated-v1.png",
+    "url": "https://github.com/StevenYang37/dsh-gemini-cat-theme/blob/8e3642615564fe9e5027444d43c5d795ac51cd26/plugin/gemini-cat-theme/assets/gemini-sidebar-seated-v1.png",
+    "rawUrl": "https://raw.githubusercontent.com/StevenYang37/dsh-gemini-cat-theme/8e3642615564fe9e5027444d43c5d795ac51cd26/plugin/gemini-cat-theme/assets/gemini-sidebar-seated-v1.png",
+    "sourceSha256": "a98702c1ea30ff3590110a1cc2d90b2284310a209a2385d0cbbbdfb6ca751219",
+    "gitBlobSha": "aef0c062daacd0063f2a741d51443625c1ac273a",
+    "bytes": 2268844,
+    "commit": "8e3642615564fe9e5027444d43c5d795ac51cd26"
+  },
+  "licenseScope": {
+    "path": "plugin/gemini-cat-theme/ASSETS.md",
+    "url": "https://github.com/StevenYang37/dsh-gemini-cat-theme/blob/8e3642615564fe9e5027444d43c5d795ac51cd26/plugin/gemini-cat-theme/ASSETS.md",
+    "rawUrl": "https://raw.githubusercontent.com/StevenYang37/dsh-gemini-cat-theme/8e3642615564fe9e5027444d43c5d795ac51cd26/plugin/gemini-cat-theme/ASSETS.md",
+    "sourceSha256": "d990fec8eca0aff8df7c309772805f301e550e7eba8e85ec3456fab51d7c2e97",
+    "gitBlobSha": "f8de8ac73505323bf0da6bb63f8b29d180e1d109",
+    "bytes": 2389,
+    "commit": "8e3642615564fe9e5027444d43c5d795ac51cd26"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:07:26.039Z",
+  "url": "https://www.bilibili.com/video/BV1FvHN63EDx/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1FvHN63EDx",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1FvHN63EDx",
+    "title": "周刊AI娘二创排行榜#0",
+    "owner": {
+      "name": "镜花Mirror",
+      "mid": 321480847
+    },
+    "pubdate": 1792886400,
+    "duration": 1063
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

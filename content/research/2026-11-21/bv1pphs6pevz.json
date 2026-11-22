@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:38:07.113Z",
+  "url": "https://www.bilibili.com/video/BV1PPHs6PEvZ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PPHs6PEvZ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1PPHs6PEvZ",
+    "title": "我其实是在梦游你信吗",
+    "owner": {
+      "name": "冬冰",
+      "mid": 44748304
+    },
+    "pubdate": 1791192792,
+    "duration": 213
+  },
+  "descriptionSha256": "c369a482986439667b78f5d0a096d3f204cc85c73cb6f20ab6d4263bd04cf74c",
+  "uploaderCredits": [
+    "这个刀子真甜",
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": []
+}

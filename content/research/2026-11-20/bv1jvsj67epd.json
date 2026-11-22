@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T13:57:06.906Z",
+  "url": "https://www.bilibili.com/video/BV1jvsJ67EPd/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jvsJ67EPd",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1jvsJ67EPd",
+    "title": "本小姐的账本 Day 014｜有人说把本小姐洗一洗就是大肥鱼",
+    "owner": {
+      "name": "吃本小姐一斧头",
+      "mid": 78600809
+    },
+    "pubdate": 1794733712,
+    "duration": 48
+  },
+  "descriptionSha256": "bc0ae157974c580fd5dfa337b77cd7596d076390521c4210fbadb43ca457c151",
+  "uploaderCredits": [],
+  "linkedVideos": [
+    "BV1rdBZYNEu3"
+  ]
+}

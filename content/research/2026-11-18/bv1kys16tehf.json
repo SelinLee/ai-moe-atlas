@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:49:21.855Z",
+  "url": "https://www.bilibili.com/video/BV1Kys16TEhF/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Kys16TEhF",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Kys16TEhF",
+    "title": "[Claude与大肥鱼]空调坏了",
+    "owner": {
+      "name": "阿卡内大王",
+      "mid": 351601762
+    },
+    "pubdate": 1794977477,
+    "duration": 46
+  },
+  "descriptionSha256": "056c9b70b4a94f3683a1114b55cb726f60f88eac9ddc7a6fe7d27d7d4ae3da6e",
+  "uploaderCredits": [
+    "Seedance"
+  ],
+  "linkedVideos": []
+}

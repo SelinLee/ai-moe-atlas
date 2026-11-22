@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:35:54.199Z",
+  "pinnedDocument": {
+    "commit": "0bc1bc42a3e89b9bfa157a3f7ef429380ddafcee",
+    "url": "https://github.com/luweiyabo/dsh-whale-pet/blob/0bc1bc42a3e89b9bfa157a3f7ef429380ddafcee/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/luweiyabo/dsh-whale-pet/0bc1bc42a3e89b9bfa157a3f7ef429380ddafcee/README.md",
+    "sourceSha256": "1a63b7221d9812f30f9c6978a6c6ec7e17b19c54db587a711d07ff8217401218"
+  },
+  "documents": [
+    {
+      "url": "https://github.com/luweiyabo/dsh-whale-pet/blob/0bc1bc42a3e89b9bfa157a3f7ef429380ddafcee/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/luweiyabo/dsh-whale-pet/0bc1bc42a3e89b9bfa157a3f7ef429380ddafcee/LICENSE",
+      "sourceSha256": "f59f605869694ae8d7fba4e0cde3fd2f3474da1d964d1695fef7d58184c4c20b"
+    },
+    {
+      "url": "https://github.com/luweiyabo/dsh-whale-pet/blob/0bc1bc42a3e89b9bfa157a3f7ef429380ddafcee/THIRD_PARTY_ASSETS.md",
+      "rawUrl": "https://raw.githubusercontent.com/luweiyabo/dsh-whale-pet/0bc1bc42a3e89b9bfa157a3f7ef429380ddafcee/THIRD_PARTY_ASSETS.md",
+      "sourceSha256": "1a9490ca6c54ef42e00df8a7d0010e6c38294e4c20bd0cf85f2e372633bac602"
+    }
+  ]
+}

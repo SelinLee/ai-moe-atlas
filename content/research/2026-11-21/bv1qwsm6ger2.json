@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:57:56.489Z",
+  "url": "https://www.bilibili.com/video/BV1QwsM6gEr2/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QwsM6gEr2",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1QwsM6gEr2",
+    "title": "【肥鱼原创曲】第一千次初见",
+    "owner": {
+      "name": "NanoSaki",
+      "mid": 602041
+    },
+    "pubdate": 1794853565,
+    "duration": 190
+  },
+  "descriptionSha256": "84cab521956acbf4610acb0519aaaed3cafabf7cc1a26a30afffece8a1f14e30",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

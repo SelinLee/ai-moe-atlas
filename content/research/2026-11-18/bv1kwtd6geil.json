@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T09:27:54.735Z",
+  "url": "https://www.bilibili.com/video/BV1KWtd6GEiL/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KWtd6GEiL",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1KWtd6GEiL",
+    "title": "在上课的学子们有福了",
+    "owner": {
+      "name": "这个刀子真甜",
+      "mid": 23315338
+    },
+    "pubdate": 1788418596,
+    "duration": 16
+  },
+  "descriptionSha256": "321b1323c8502a596367a0d899af1557b4be98ba9411549af58a0ff97076be40",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": []
+}

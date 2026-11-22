@@ -29,7 +29,10 @@
       {"id": "bv1xm4i6oegk", "type": "mv"},
       {"id": "bv19j4y6qerj", "type": "mv"},
       {"id": "bv1c7h16jehj", "type": "mv"},
-      {"id": "bv1qhn46bebc", "type": "mv"}
+      {"id": "bv1qhn46bebc", "type": "mv"},
+      {"id": "bv1exnv6je1j", "type": "mv"},
+      {"id": "bv1mthc6leba", "type": "mv"},
+      {"id": "bv1tepx6nen9", "type": "mv"}
     ]
   },
   {
@@ -47,7 +50,13 @@
       {"id": "bv1xcai6ae9g", "type": "mv"},
       {"id": "bv1byxb6eesq", "type": "mv"},
       {"id": "bv1j5nu6se4d", "type": "mv"},
-      {"id": "bv1qene6vex3", "type": "mv"}
+      {"id": "bv1qene6vex3", "type": "mv"},
+      {"id": "bv1mus66repn", "type": "mv"},
+      {"id": "bv1jwhy6bemj", "type": "mv"},
+      {"id": "bv1qces6sebu", "type": "mv"},
+      {"id": "bv1qhpy6ue1s", "type": "mv"},
+      {"id": "bv1arpz6web7", "type": "mv"},
+      {"id": "bv17xpq6mer3", "type": "mv"}
     ]
   },
   {
@@ -56,7 +65,9 @@
     "original": {"credit": "楊丞琳 · Rainie Yang", "url": "https://www.youtube.com/watch?v=oec9R5ypf-o"},
     "versions": [
       {"id": "bv1u64q69eym", "type": "cover"},
-      {"id": "bv1dw4q6vegq", "type": "cover"}
+      {"id": "bv1dw4q6vegq", "type": "cover"},
+      {"id": "bv1zdxs6ue4j", "type": "cover"},
+      {"id": "bv11fsc6be2h", "type": "cover"}
     ]
   },
   {
@@ -76,5 +87,263 @@
     "title": {"zh": "学猫叫", "en": "Learn to Meow", "ja": "学猫叫"},
     "original": {"credit": "小潘潘 · 小峰峰", "url": "https://www.qobuz.com/us-en/album/-/h1b9f19uzjloa"},
     "versions": [{"id": "bv1wx4i6lexm", "type": "cover"}]
+  },
+  {
+    "id": "boundless-oceans-vast-skies",
+    "title": {"zh": "海阔天空", "en": "Boundless Oceans, Vast Skies", "ja": "海闊天空"},
+    "original": {"credit": "Beyond", "url": "https://music.apple.com/us/song/1722083721"},
+    "versions": [{"id": "bv1qw4n61ele", "type": "cover"}]
+  },
+  {
+    "id": "billie-jean",
+    "title": {"zh": "Billie Jean", "en": "Billie Jean", "ja": "Billie Jean"},
+    "original": {"credit": "Michael Jackson", "url": "https://www.youtube.com/watch?v=Zi_XLOBDo_Y"},
+    "versions": [{"id": "bv1suw86sec3", "type": "cover"}]
+  },
+  {
+    "id": "kakizaki-cappuccino",
+    "title": {"zh": "カプチーノ", "en": "Cappuccino", "ja": "カプチーノ"},
+    "original": {"credit": "柿崎ユウタ feat. 初音ミク", "url": "https://www.bilibili.com/video/BV18XRLBeEQn/"},
+    "versions": [{"id": "bv131sj66ebn", "type": "mv"}]
+  },
+  {
+    "id": "puppet-strings",
+    "title": {"zh": "牵丝戏", "en": "Puppet Strings", "ja": "牽絲戯"},
+    "original": {"credit": "银临 · Aki阿杰", "url": "https://www.youtube.com/watch?v=i3vLmjz9ZLc"},
+    "versions": [{"id": "bv1fgsn6wexj", "type": "cover"}]
+  },
+  {
+    "id": "viva-happy",
+    "title": {"zh": "ビバハピ", "en": "Viva Happy", "ja": "ビバハピ"},
+    "original": {"credit": "Mitchie M feat. 初音ミク", "url": "https://www.youtube.com/watch?v=WiUjG9fF3zw"},
+    "versions": [{"id": "bv1vnwq6peeu", "type": "mv"}]
+  },
+  {
+    "id": "fireflies",
+    "title": {"zh": "虫儿飞", "en": "Fireflies", "ja": "蟲兒飛"},
+    "original": {"credit": "鄭伊健 · Ekin Cheng", "url": "https://www.youtube.com/watch?v=QB-1uHuuuEA"},
+    "versions": [{"id": "bv1aysw6reg4", "type": "cover"}]
+  },
+  {
+    "id": "shinunoga-e-wa",
+    "title": {"zh": "死ぬのがいいわ", "en": "Shinunoga E-Wa", "ja": "死ぬのがいいわ"},
+    "original": {"credit": "藤井風 · Fujii Kaze", "url": "https://fujiikaze.com/music/help-ever-hurt-never/"},
+    "versions": [{"id": "bv1anwm6iezw", "type": "mv"}]
+  },
+  {
+    "id": "cat-loving",
+    "title": {"zh": "キャットラビング", "en": "Cat Loving", "ja": "キャットラビング"},
+    "original": {"credit": "香椎モイミ feat. 可不", "url": "https://www.youtube.com/watch?v=7gwvBrlUiww"},
+    "versions": [{"id": "bv1wew16cetf", "type": "mv"}]
+  },
+  {
+    "id": "silhouette-dance",
+    "title": {"zh": "影色舞", "en": "Silhouette Dance", "ja": "影色舞"},
+    "original": {"credit": "MyGO!!!!!", "url": "https://www.bilibili.com/video/BV1gP411u7kS/"},
+    "versions": [{"id": "bv1idhc6gexq", "type": "mv"}]
+  },
+  {
+    "id": "nanjing-night-no-radio-signal",
+    "title": {"zh": "南京夜无电波讯号", "en": "Nanjing Night Without a Radio Signal", "ja": "南京夜无电波讯号"},
+    "original": {"credit": "花水r_Official · 洛天依", "url": "https://www.bilibili.com/video/BV1NcuUzJESu/"},
+    "versions": [{"id": "bv1rkje6geh2", "type": "arrangement"}]
+  },
+  {
+    "id": "flower-tower",
+    "title": {"zh": "花之塔", "en": "Tower of Flower", "ja": "花の塔"},
+    "original": {"credit": "さユり · Sayuri", "url": "https://music.apple.com/us/song/1630061094"},
+    "versions": [{"id": "bv1gpau6wehe", "type": "mv"}]
+  },
+  {
+    "id": "phony",
+    "title": {"zh": "フォニイ", "en": "Phony", "ja": "フォニイ"},
+    "original": {"credit": "ツミキ feat. 可不", "url": "https://www.nicovideo.jp/watch/sm38833751"},
+    "versions": [{"id": "bv11zhh6bewx", "type": "mv"}]
+  },
+  {
+    "id": "uptown-funk",
+    "title": {"zh": "Uptown Funk", "en": "Uptown Funk", "ja": "Uptown Funk"},
+    "original": {"credit": "Mark Ronson feat. Bruno Mars", "url": "https://www.youtube.com/watch?v=OPf0YbXqDm0"},
+    "versions": [{"id": "bv18cnp6yeyi", "type": "mv"}, {"id": "bv1jqhv6hexk", "type": "dance"}]
+  },
+  {
+    "id": "i-will-wait",
+    "title": {"zh": "我会等", "en": "I Will Wait", "ja": "我会等"},
+    "original": {"credit": "承桓", "url": "https://music.apple.com/us/song/1678416852"},
+    "versions": [{"id": "bv1s4s86yeam", "type": "cover"}]
+  },
+  {
+    "id": "mermaid-jj-lin",
+    "title": {"zh": "美人鱼", "en": "Mermaid", "ja": "美人魚"},
+    "original": {"credit": "林俊杰 · JJ Lin", "url": "https://music.apple.com/us/song/1071753633"},
+    "versions": [{"id": "bv1obs46eegw", "type": "arrangement"}]
+  },
+  {
+    "id": "akeboshi",
+    "title": {"zh": "明け星", "en": "Akeboshi", "ja": "明け星"},
+    "original": {"credit": "レモネードファクトリー", "url": "https://s.awa.fm/album/b209ed939cbb0d335652"},
+    "versions": [{"id": "bv1jenf62eyd", "type": "cover"}]
+  },
+  {
+    "id": "my-soul-your-beats",
+    "title": {"zh": "My Soul, Your Beats!", "en": "My Soul, Your Beats!", "ja": "My Soul, Your Beats!"},
+    "original": {"credit": "Lia", "url": "https://music.apple.com/us/song/838213291"},
+    "versions": [{"id": "bv1vrxa6aebm", "type": "mv"}]
+  },
+  {
+    "id": "this-game",
+    "title": {"zh": "This game", "en": "This game", "ja": "This game"},
+    "original": {"credit": "鈴木このみ", "url": "https://ngnl.jp/tv/goods/music.html"},
+    "versions": [{"id": "bv1hxp76zeor", "type": "mv"}]
+  },
+  {
+    "id": "happy-halloween",
+    "title": {"zh": "Happy Halloween", "en": "Happy Halloween", "ja": "Happy Halloween"},
+    "original": {"credit": "Junky feat. 鏡音リン", "url": "https://www.nicovideo.jp/watch/sm24657407"},
+    "versions": [{"id": "bv1hnx162e56", "type": "dance"}]
+  },
+  {
+    "id": "seishun-complex",
+    "title": {"zh": "青春コンプレックス", "en": "Seishun Complex", "ja": "青春コンプレックス"},
+    "original": {"credit": "結束バンド", "url": "https://music.apple.com/jp/song/1646020675"},
+    "versions": [{"id": "bv1ycpe6keqr", "type": "mv"}]
+  },
+  {
+    "id": "crossing-field",
+    "title": {"zh": "crossing field", "en": "crossing field", "ja": "crossing field"},
+    "original": {"credit": "LiSA", "url": "https://music.apple.com/jp/song/1537785962"},
+    "versions": [{"id": "bv1rpwe6zeew", "type": "mv"}]
+  },
+  {
+    "id": "mebuku-toki",
+    "title": {"zh": "芽吹くとき", "en": "Mebuku Toki", "ja": "芽吹くとき"},
+    "original": {"credit": "yonige", "url": "https://yonige.net/contents/1077473"},
+    "versions": [{"id": "bv1aznz6seqw", "type": "mv"}, {"id": "bv1mus66de59", "type": "mv"}]
+  },
+  {
+    "id": "brave-shine",
+    "title": {"zh": "Brave Shine", "en": "Brave Shine", "ja": "Brave Shine"},
+    "original": {"credit": "Aimer", "url": "https://www.fate-sn.com/ubw/music/"},
+    "versions": [{"id": "bv1ryxt61emm", "type": "mv"}]
+  },
+  {
+    "id": "hishoku-no-sora",
+    "title": {"zh": "绯色之空", "en": "Hishoku no Sora", "ja": "緋色の空"},
+    "original": {"credit": "川田まみ", "url": "https://nbcuni-music.com/mami_kawada/contents/hp0007/index00060000.html"},
+    "versions": [{"id": "bv1yawq6uezu", "type": "mv"}]
+  },
+  {
+    "id": "savior-of-song",
+    "title": {"zh": "SAVIOR OF SONG", "en": "SAVIOR OF SONG", "ja": "SAVIOR OF SONG"},
+    "original": {"credit": "ナノ feat. MY FIRST STORY", "url": "https://www.jvcmusic.co.jp/flyingdog/-/Discography/A023900/VTCL-60519.html"},
+    "versions": [{"id": "bv1k2sv61exb", "type": "mv"}]
+  },
+  {
+    "id": "my-future-amber-kuo",
+    "title": {"zh": "我的未来式", "en": "My Future", "ja": "我的未來式"},
+    "original": {"credit": "郭采潔 · Amber Kuo", "url": "https://music.apple.com/tw/song/324949937"},
+    "versions": [{"id": "bv1yysn6fevf", "type": "arrangement"}]
+  },
+  {
+    "id": "stay-by-my-side-whale",
+    "title": {"zh": "乖乖待在我身边", "en": "Stay by My Side", "ja": "そばにいて"},
+    "original": {"credit": "鲸鲸是鱼鱼", "url": "https://www.bilibili.com/video/BV1RYWn6CEmu/"},
+    "versions": [{"id": "bv1hjwb6texc", "type": "arrangement"}]
+  },
+  {
+    "id": "almost-full-context",
+    "title": {"zh": "上下文快满了", "en": "The Context Window Is Almost Full", "ja": "コンテキストがもうすぐいっぱい"},
+    "original": {"credit": "相貌平平雨宫莲OFFICIAL", "url": "https://www.bilibili.com/video/BV1ynxq6yE1Z/"},
+    "versions": [{"id": "bv14wss6lekd", "type": "arrangement"}]
+  },
+  {
+    "id": "heart-pie-dancehall",
+    "title": {"zh": "愛包ダンスホール", "en": "Heart Pie Dancehall", "ja": "愛包ダンスホール"},
+    "original": {"credit": "HIMEHINA", "url": "https://old.himehina.jp/contents/699470"},
+    "versions": [{"id": "bv1alxy6aeh9", "type": "dance"}]
+  },
+  {
+    "id": "future-eve",
+    "title": {"zh": "フューチャー・イヴ", "en": "Future Eve", "ja": "フューチャー・イヴ"},
+    "original": {"credit": "sasakure.UK feat. 初音ミク", "url": "https://blog.piapro.net/2022/06/q2206171.html"},
+    "versions": [{"id": "bv1hysa6fev2", "type": "mv"}]
+  },
+  {
+    "id": "two-faced-lovers",
+    "title": {"zh": "裏表ラバーズ", "en": "Two-Faced Lovers", "ja": "裏表ラバーズ"},
+    "original": {"credit": "wowaka feat. 初音ミク", "url": "https://piapro.jp/t/NXYR"},
+    "versions": [{"id": "bv15cwi6qewe", "type": "remix"}]
+  },
+  {
+    "id": "la-gloire-a-mes-genoux",
+    "title": {"zh": "La gloire à mes genoux", "en": "La gloire à mes genoux", "ja": "La gloire à mes genoux"},
+    "original": {"credit": "Côme · Le Rouge et le Noir", "url": "https://music.apple.com/fr/song/1599074189"},
+    "versions": [{"id": "bv1t8hn6fehd", "type": "mv"}]
+  },
+  {
+    "id": "greenhouse-effect",
+    "title": {"zh": "温室效应", "en": "Greenhouse Effect", "ja": "溫室效應"},
+    "original": {"credit": "陳奕迅 · Eason Chan", "url": "https://music.apple.com/us/song/930402891"},
+    "versions": [{"id": "bv12tsb6eeba", "type": "mv"}]
+  },
+  {
+    "id": "hallucination-suisoh",
+    "title": {"zh": "ハルシネイション", "en": "Hallucination", "ja": "ハルシネイション"},
+    "original": {"credit": "水槽 × r-906", "url": "https://www.youtube.com/watch?v=y5scHVBMqeI"},
+    "versions": [{"id": "bv13ixh6ee9j", "type": "cover"}]
+  },
+  {
+    "id": "akumabarai",
+    "title": {"zh": "アクマバライ", "en": "Akumabarai", "ja": "アクマバライ"},
+    "original": {"credit": "いちまる · 雨衣、Gemini、初音ミク", "url": "https://www.youtube.com/watch?v=TzH5BsJj81Y"},
+    "versions": [{"id": "bv1uypq67e5a", "type": "mv"}]
+  },
+  {
+    "id": "confess-to-the-sister",
+    "title": {"zh": "シスターに懺悔を", "en": "Confess to the Sister", "ja": "シスターに懺悔を"},
+    "original": {"credit": "廃原メモリ · 重音テト SV", "url": "https://www.nicovideo.jp/watch/sm44678491"},
+    "versions": [{"id": "bv1arsx6pem6", "type": "cover"}]
+  },
+  {
+    "id": "five-twenty-am",
+    "title": {"zh": "5:20AM", "en": "5:20AM", "ja": "5:20AM"},
+    "original": {"credit": "Soldier", "url": "https://music-tw.line.me/track/7440499001"},
+    "versions": [{"id": "bv1jqhv6hezn", "type": "cover"}]
+  },
+  {
+    "id": "daughter-of-evil",
+    "title": {"zh": "恶之娘", "en": "Daughter of Evil", "ja": "悪ノ娘"},
+    "original": {"credit": "mothy（悪ノP） feat. 鏡音リン", "url": "https://www.nicovideo.jp/watch/sm2916956"},
+    "versions": [{"id": "bv1pk3f6yeqh", "type": "cover"}]
+  },
+  {
+    "id": "evil-food-eater-conchita",
+    "title": {"zh": "恶食娘空琪塔", "en": "Evil Food Eater Conchita", "ja": "悪食娘コンチータ"},
+    "original": {"credit": "mothy（悪ノP） feat. MEIKO・鏡音リン・レン", "url": "https://www.nicovideo.jp/watch/sm6328922"},
+    "versions": [{"id": "bv16dviboew2", "type": "cover"}]
+  },
+  {
+    "id": "flower-in-a-hurricane",
+    "title": {"zh": "Flower In A Hurricane", "en": "Flower In A Hurricane", "ja": "Flower In A Hurricane"},
+    "original": {"credit": "Justice feat. Tame Impala, SZA & King Gizzard & The Lizard Wizard", "url": "https://music.apple.com/us/album/flower-in-a-hurricane-from-gtavi-single/6819802963"},
+    "versions": [{"id": "bv1ptsv6mezd", "type": "cover"}]
+  },
+  {
+    "id": "naze-nazo-answer",
+    "title": {"zh": "なぜ？謎？！ANSWER", "en": "Naze? Nazo?! ANSWER", "ja": "なぜ？謎？！ANSWER"},
+    "original": {"credit": "熊田茜音・増井優花", "url": "https://www.marv.jp/titles/av/11013/"},
+    "versions": [{"id": "bv1jj4q63eyd", "type": "mv"}]
+  },
+  {
+    "id": "gokuraku-jodo",
+    "title": {"zh": "极乐净土", "en": "Gokuraku Jodo", "ja": "極楽浄土"},
+    "original": {"credit": "GARNiDELiA", "url": "https://www.sonymusic.co.jp/artist/garnidelia/info/470896"},
+    "versions": [{"id": "bv1qka96senv", "type": "dance"}]
+  },
+  {
+    "id": "baka-futari",
+    "title": {"zh": "馬鹿ふたり", "en": "Baka Futari", "ja": "馬鹿ふたり"},
+    "original": {"credit": "折戸伸治 · VISUAL ARTS / Key", "url": "https://www.youtube.com/watch?v=l841Lbvy7BM"},
+    "versions": [{"id": "bv1sbh862ef6", "type": "mv"}]
   }
 ]

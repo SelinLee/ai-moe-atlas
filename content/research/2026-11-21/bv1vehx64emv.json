@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:48:25.821Z",
+  "url": "https://www.bilibili.com/video/BV1VEHX64EMv/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VEHX64EMv",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1VEHX64EMv",
+    "title": "霸道千问大小姐爱上打工肥鱼的我 3",
+    "owner": {
+      "name": "莉莉普普丝",
+      "mid": 39593455
+    },
+    "pubdate": 1791471711,
+    "duration": 31
+  },
+  "descriptionSha256": "fba2f57346a6291b149fa2b8e32349b05d85cbfd639cfbd90b30f7e7db7f7eb0",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": []
+}

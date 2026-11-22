@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T13:57:07.822Z",
+  "url": "https://www.bilibili.com/video/BV12Qns6TEL3/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12Qns6TEL3",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV12Qns6TEL3",
+    "title": "买面包的两小只",
+    "owner": {
+      "name": "橘子-糖喵",
+      "mid": 491331110
+    },
+    "pubdate": 1792714954,
+    "duration": 31
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

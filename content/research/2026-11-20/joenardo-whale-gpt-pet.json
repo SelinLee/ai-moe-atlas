@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T13:56:23.974Z",
+  "pinnedDocument": {
+    "commit": "1f69d015daf17aefbb254b0822944f048d6a0b47",
+    "url": "https://github.com/JoenardoQ/Deepseek-and-ChatGPT-Pet/blob/1f69d015daf17aefbb254b0822944f048d6a0b47/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/JoenardoQ/Deepseek-and-ChatGPT-Pet/1f69d015daf17aefbb254b0822944f048d6a0b47/README.md",
+    "sourceSha256": "d9720d779ef80033614a30a231a78f0f1dad50085e051d97d822b4d8688f92b4"
+  },
+  "documents": [
+    {
+      "url": "https://github.com/JoenardoQ/Deepseek-and-ChatGPT-Pet/blob/1f69d015daf17aefbb254b0822944f048d6a0b47/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/JoenardoQ/Deepseek-and-ChatGPT-Pet/1f69d015daf17aefbb254b0822944f048d6a0b47/LICENSE",
+      "sourceSha256": "25c319990e30d6357801d3c9b4b550f34d08dc9636e83f14668e2e50a67a73d6"
+    },
+    {
+      "url": "https://github.com/JoenardoQ/Deepseek-and-ChatGPT-Pet/blob/1f69d015daf17aefbb254b0822944f048d6a0b47/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/JoenardoQ/Deepseek-and-ChatGPT-Pet/1f69d015daf17aefbb254b0822944f048d6a0b47/THIRD_PARTY_NOTICES.md",
+      "sourceSha256": "2d7b16b8b401d4df0422a328a9a878ec7f9ca72361f17b360264b79dec860396"
+    }
+  ]
+}

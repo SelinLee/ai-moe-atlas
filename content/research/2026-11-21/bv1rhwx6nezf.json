@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:32:11.070Z",
+  "url": "https://www.bilibili.com/video/BV1RhWX6NEZf/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RhWX6NEZf",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1RhWX6NEZf",
+    "title": "拖动 Codex 思考强度，白龙娘就会换形态｜GPT/Codex龙娘插件实测",
+    "owner": {
+      "name": "giabom",
+      "mid": 3747571734416487
+    },
+    "pubdate": 1794470777,
+    "duration": 93
+  },
+  "descriptionSha256": "8df97732d2ba275f0416825e5e4fc5c795b2c5c2d047d59a5f77d5ca59904bf4",
+  "uploaderCredits": [
+    "T7moris"
+  ],
+  "linkedVideos": [
+    "BV1Kga666EyT",
+    "BV1ghx76KERV"
+  ]
+}

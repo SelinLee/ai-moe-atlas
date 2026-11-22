@@ -1,0 +1,16 @@
+{
+  "checkedAt": "2026-11-20T15:45:52.242Z",
+  "captureScope": "new-and-pending-candidates-plus-previous-failures",
+  "newVerified": 12,
+  "pendingRechecked": 9,
+  "previousFailuresRechecked": 6,
+  "previousRankingEvidence": {
+    "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
+    "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944"
+  },
+  "selectiveEvidence": {
+    "path": "content/research/2026-11-20/bilibili-cumulative-likes-candidate-recovery.json",
+    "sha256": "6c48be608ac3e175b0691cd73f02742f8e78ac1dc3f388a1b5a2239efd29760d",
+    "kind": "browser-metadata-extract"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:24:13.192Z",
+  "url": "https://www.bilibili.com/video/BV1dGWg67Evr/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dGWg67Evr",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1dGWg67Evr",
+    "title": "养了大肥鱼以后，家里的米就没够吃过",
+    "owner": {
+      "name": "东洋雪莲",
+      "mid": 1060544882
+    },
+    "pubdate": 1794294557,
+    "duration": 127
+  },
+  "descriptionSha256": "7464149161ce6e936a1b3cab833f17eb346d732d48df20e83f79f19e5f18b2f9",
+  "uploaderCredits": [
+    "这个刀子真甜",
+    "Y悠嗖O",
+    "Seaside Steps"
+  ],
+  "linkedVideos": [
+    "BV1CCxf6MEeu"
+  ]
+}

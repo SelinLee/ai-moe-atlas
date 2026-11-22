@@ -1,0 +1,126 @@
+{
+  "method": "isolated-headless-google-chrome-official-dynamic-and-original-images",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:47:07.315Z",
+  "url": "https://www.bilibili.com/opus/1236803362705375305",
+  "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1236803362705375305",
+  "bodySha256": "f6401ccacd817dfed2629ef163fdfb7edb5905a449c6c1fd12e0a2dff7bc338d",
+  "author": "ZipZipPipe",
+  "authorId": 4168597,
+  "files": [
+    {
+      "post": "second-batch",
+      "position": 1,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/1ed69d8c1e9d61dce44db50894447a1e4168597.jpg",
+      "width": 3072,
+      "height": 5504,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-20T16:48:34.694Z",
+      "bytes": 5673986,
+      "sourceSha256": "81b76f71e19ed9f926e32c70f1710b7551e60efdfa858b46a4ee099d16e47847"
+    },
+    {
+      "post": "second-batch",
+      "position": 2,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/304320365bebd151190e1afc91b261ee4168597.png",
+      "width": 2160,
+      "height": 3840,
+      "format": "png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-20T16:48:39.430Z",
+      "bytes": 10646668,
+      "sourceSha256": "47bd8c1e5479cf04ab27881d997c9d25c4dbed6cea833b82d6e6f6529558d98d"
+    },
+    {
+      "post": "second-batch",
+      "position": 3,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/0d3b71b2bc968e1dd6ffcbdeedde295e4168597.jpg",
+      "width": 3072,
+      "height": 5504,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-20T16:48:42.021Z",
+      "bytes": 7494925,
+      "sourceSha256": "649f95f99288c3b49e554f0e0f4c7779696a881c1455edbf1023d5aa31913be1"
+    },
+    {
+      "post": "second-batch",
+      "position": 4,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/60bb256121d10c9f54af8d8f9e80e6c14168597.jpg",
+      "width": 3072,
+      "height": 5504,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-20T16:48:43.401Z",
+      "bytes": 7649944,
+      "sourceSha256": "49239c83fbcccd23fd2061fbac02059fc9390f653b92cab6838da65fbaabbfa9"
+    },
+    {
+      "post": "second-batch",
+      "position": 5,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/c0833654a2afa9fec0a8abc6cb7108bb4168597.jpg",
+      "width": 3072,
+      "height": 5504,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-20T16:48:44.438Z",
+      "bytes": 5762348,
+      "sourceSha256": "5167f2bbbe9f9ee038dc163f240c847b7d953e244c25e13bdc6ee482d3e9bfb0"
+    },
+    {
+      "post": "second-batch",
+      "position": 6,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/68f0f9f937ebeeb3ab44cac78fc63a504168597.png",
+      "width": 3072,
+      "height": 5504,
+      "format": "png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-20T16:48:46.726Z",
+      "bytes": 20551625,
+      "sourceSha256": "56408ef72119c0fc3b6b053e9ba51ec59187edace32974667f85dc223b73eb66"
+    },
+    {
+      "post": "second-batch",
+      "position": 7,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/8be20146d55bf46c3ac2b7bd2cacc55a4168597.png",
+      "width": 1536,
+      "height": 2752,
+      "format": "png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-20T16:48:47.864Z",
+      "bytes": 5615935,
+      "sourceSha256": "52eae73b6b94c5612179785d4ec736a8f4efd286d7435613e1651322005e8560"
+    },
+    {
+      "post": "second-batch",
+      "position": 8,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/29b525f941189a00b6e0e8d935bb25224168597.jpg",
+      "width": 1536,
+      "height": 2752,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-20T16:48:48.419Z",
+      "bytes": 2049871,
+      "sourceSha256": "f6bc408a318e710c7555c7c46ca63659d93a56b604eea2794ed45f9e6ec2ac88"
+    },
+    {
+      "post": "second-batch",
+      "position": 9,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/83b4ccd1ab6e9729a3cb57cf347f54844168597.png",
+      "width": 3072,
+      "height": 5504,
+      "format": "png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-20T16:48:51.164Z",
+      "bytes": 20073538,
+      "sourceSha256": "f34ebfb9c35fe7645c3b8f3b4c3ce1ad3b50100952182f759989a64d87eceef9"
+    }
+  ],
+  "previousEvidence": {
+    "path": "content/research/2026-11-20/zipzippipe-mistral-image-4.json",
+    "sha256": "53a46a452256b52ef250b31e36f67d3c2d6af0c1eee8d508aa3a4ed34c51c239",
+    "kind": "browser-metadata-extract"
+  },
+  "identityScope": "Position four matches the previously identified Mistral portrait. Other hashes identify files by position in the post."
+}

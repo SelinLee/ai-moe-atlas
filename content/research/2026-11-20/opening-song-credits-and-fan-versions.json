@@ -1,0 +1,368 @@
+{
+  "method": "isolated-headless-google-chrome",
+  "matches": [
+    {
+      "track": "akeboshi",
+      "original": {
+        "id": "akeboshi-awa",
+        "url": "https://s.awa.fm/album/b209ed939cbb0d335652",
+        "finalUrl": "https://s.awa.fm/album/b209ed939cbb0d335652",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:09:30.384Z",
+        "htmlSha256": "574b875c0564e03039c23d8bdbdc13d5ab105b75aa117758798e8d47b662b7e2",
+        "title": "ライムライト・レモネードジャム オリジナルサウンドトラック - アルバム情報 | AWA",
+        "matched": [
+          "明け星 (Title Version)",
+          "レモネードファクトリー"
+        ]
+      },
+      "officialVideo": "https://www.youtube.com/watch?v=vdy9p_BURy8",
+      "creatorSite": {
+        "id": "akeboshi-3lj",
+        "url": "https://www.project-3lj.com/",
+        "finalUrl": "https://www.project-3lj.com/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:09:33.279Z",
+        "htmlSha256": "10c92a753bdcc94c170f2433379110a6a929e1af35f407c1fd54dd7743a99222",
+        "title": "「ライムライト・レモネードジャム」公式ページ",
+        "matched": [
+          "vdy9p_BURy8"
+        ]
+      },
+      "video": {
+        "bvid": "BV1jenf62EyD",
+        "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1jenf62EyD",
+        "observedAt": "2026-11-20T15:07:40.292Z",
+        "httpStatus": 200,
+        "bodySha256": "83b2bc4e8d1df3d4fe05eb10d8394042650f2e005db9c65b8ad9d935fe725504",
+        "uploader": "舰长陪我擦甲板",
+        "title": "【全员AI娘】Limelight Lemonade Jam OP｜大肥鱼和她的乐队 原唱版/大肥鱼演唱版",
+        "tags": [
+          "动漫二创激励计划",
+          "MAD",
+          "柚子社",
+          "动画",
+          "OP",
+          "galgame",
+          "逐光柠檬协奏曲",
+          "聚光灯柠檬",
+          "AI娘",
+          "柚子社新作"
+        ],
+        "pages": [
+          {
+            "cid": 43081469333,
+            "page": 1,
+            "part": "Limelight Lemonade Jam OP｜原版演唱",
+            "duration": 106
+          },
+          {
+            "cid": 43081794550,
+            "page": 2,
+            "part": "Limelight Lemonade Jam OP｜大肥鱼演唱版",
+            "duration": 106
+          }
+        ],
+        "descriptionMatched": [
+          "明け星",
+          "レモネードファクトリー"
+        ]
+      }
+    },
+    {
+      "track": "my-soul-your-beats",
+      "original": {
+        "id": "my-soul-your-beats-apple",
+        "url": "https://music.apple.com/us/song/838213291",
+        "finalUrl": "https://music.apple.com/us/song/my-soul-your-beats-tv-size/838213291",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:09:31.557Z",
+        "htmlSha256": "f29f711489f95cf3a1a0da08f0f72c2244a543df8cc4d9a5c8c3c131f367d35f",
+        "title": "‎My Soul, Your Beats! (TV Size) - Song with Lyrics by Lia & VISUAL ARTS / Key - Apple Music",
+        "matched": [
+          "My Soul, Your Beats!",
+          "Lia"
+        ]
+      },
+      "video": {
+        "bvid": "BV1VrxA6AEBM",
+        "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1VrxA6AEBM",
+        "observedAt": "2026-11-20T15:07:40.289Z",
+        "httpStatus": 200,
+        "bodySha256": "e3a7669999f89c817bd7818f987b2bd52637a458bf97c7a1d5b4149c34ae6aaf",
+        "uploader": "月い立華",
+        "title": "【Angel Beats! OP】上下文终会结束，这次心跳会留下吗？",
+        "tags": [
+          "发现《My Soul, Your Beats!》",
+          "动漫二创激励计划",
+          "天使的心跳",
+          "AMV",
+          "MAD",
+          "ai娘",
+          "Angel Beats!",
+          "大肥鱼"
+        ],
+        "pages": [
+          {
+            "cid": 43161158237,
+            "page": 1,
+            "part": "【Angel Beats! OP】上下文终会结束，这次心跳会留下吗？",
+            "duration": 94
+          }
+        ],
+        "descriptionMatched": [
+          "BV1Hm4y1r7L4"
+        ]
+      }
+    },
+    {
+      "track": "this-game",
+      "original": {
+        "id": "this-game",
+        "url": "https://ngnl.jp/tv/goods/music.html",
+        "finalUrl": "https://ngnl.jp/tv/goods/music.html",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:07:16.061Z",
+        "htmlSha256": "f58e1f682c1a79a0873c6e48afee1ba914368f614447e3689b2ca773a79ade50",
+        "title": "音楽｜『ノーゲーム･ノーライフ』アニメ公式サイト",
+        "matched": [
+          "This game",
+          "鈴木このみ"
+        ]
+      },
+      "video": {
+        "bvid": "BV1hxp76ZEoR",
+        "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1hxp76ZEoR",
+        "observedAt": "2026-11-20T15:07:40.334Z",
+        "httpStatus": 200,
+        "bodySha256": "7ca5b4f43ba151531cf04061e007a0d9a1ee2a3d2040e8ce6b492ba4953022d0",
+        "uploader": "無名之華",
+        "title": "AI娘游戏人生OP《This game》",
+        "tags": [
+          "发现《This game》",
+          "动漫二创激励计划",
+          "动漫",
+          "动画",
+          "游戏人生",
+          "ds娘",
+          "DeepSeek"
+        ],
+        "pages": [
+          {
+            "cid": 42641917857,
+            "page": 1,
+            "part": "游戏人生OP_v44_4K60_插帧超分完整版",
+            "duration": 92
+          }
+        ],
+        "descriptionMatched": []
+      }
+    },
+    {
+      "track": "happy-halloween",
+      "original": {
+        "id": "happy-halloween",
+        "url": "https://www.nicovideo.jp/watch/sm24657407",
+        "finalUrl": "https://www.nicovideo.jp/watch/sm24657407",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:09:29.739Z",
+        "htmlSha256": "b326c40bbb26adf958279c67e876de7de151fce66bf7d645f44170102bb84030",
+        "title": "【鏡音リン】 Happy Halloween 【オリジナルPV付】 - ニコニコ動画",
+        "matched": [
+          "Junky",
+          "Happy Halloween",
+          "鏡音リン"
+        ]
+      },
+      "creditedCover": {
+        "id": "miketama",
+        "url": "https://www.nicovideo.jp/watch/sm24734630",
+        "finalUrl": "https://www.nicovideo.jp/watch/sm24734630",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:09:29.698Z",
+        "htmlSha256": "e556e4a6e5c961858d46e27e2a5e93e9f84c321deb6269a1eeceac07c3d9d40b",
+        "title": "Happy Halloween 歌ってみた 【ver.みけたま】 - ニコニコ動画",
+        "matched": [
+          "Happy Halloween",
+          "みけたま"
+        ]
+      },
+      "video": {
+        "bvid": "BV1hnx162E56",
+        "sourceUrl": "https://www.bilibili.com/video/BV1hnx162E56/",
+        "evidence": {
+          "path": "content/research/2026-11-20/bv1hnx162e56.json",
+          "sha256": "c6abba3554b1cf020432607e3e17e4a3c8f8da1135db3daae816426c063b1bb1",
+          "kind": "browser-metadata-extract"
+        },
+        "descriptionMatched": [
+          "Junky feat. 鏡音リン",
+          "みけたま",
+          "りりり",
+          "てぃ☆イン！"
+        ]
+      }
+    },
+    {
+      "track": "seishun-complex",
+      "original": {
+        "id": "seishun-complex-apple",
+        "url": "https://music.apple.com/jp/song/1646020675",
+        "finalUrl": "https://music.apple.com/jp/song/%E9%9D%92%E6%98%A5%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9/1646020675",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:14:21.757Z",
+        "htmlSha256": "61bb6d811bcf2caaa7b5c44b1a197e39f26e137d8d00b6bc17276fc16cbf82e4",
+        "title": "‎青春コンプレックス - 結束バンドの曲（歌詞付き）- Apple Music",
+        "matched": [
+          "青春コンプレックス",
+          "結束バンド"
+        ]
+      },
+      "creditsPage": "https://bocchi.rocks/kessokuband/info/?article_id=61685",
+      "video": {
+        "bvid": "BV1YCpE6KEqR",
+        "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1YCpE6KEqR",
+        "observedAt": "2026-11-20T15:07:40.264Z",
+        "httpStatus": 200,
+        "bodySha256": "820630688b04b132dd15f776c7baa2e3560a02ebb26e977d1fe81184d55eae31",
+        "uploader": "一切来日方长-",
+        "title": "【十月新番】孤独摇滚OP「青春コンプレックス」",
+        "tags": [
+          "发现《青春コンプレックス》",
+          "动漫二创激励计划",
+          "动漫音乐",
+          "ai娘",
+          "Deepseek",
+          "孤独摇滚"
+        ],
+        "pages": [
+          {
+            "cid": 42649256164,
+            "page": 1,
+            "part": "【十月新番】孤独摇滚OP「青春コンプレックス」",
+            "duration": 90
+          }
+        ],
+        "descriptionMatched": []
+      }
+    }
+  ],
+  "pendingMusic": [
+    {
+      "track": "fun-fun-reboot",
+      "reason": "The credited official opening song and singer differ from the fan upload description. The exact recording used in the fan upload remains unverified.",
+      "officialRelease": {
+        "url": "https://www.youtube.com/watch?v=0R62qm0YQi8",
+        "credit": "FUN FUN RE-BOOT · QUARTET☆RE-BOOT!",
+        "embeddedOn": {
+          "id": "fun-run",
+          "url": "https://www.yuzu-soft.com/products/ten_sz",
+          "finalUrl": "https://www.yuzu-soft.com/products/ten_sz/",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-20T15:07:24.689Z",
+          "htmlSha256": "09d33b3c85bd10f0b2d488f6afc76b30a617141a875e0592ba80002046dbaa02",
+          "title": "『天使騒々 RE-BOOT!』公式WEBサイト",
+          "matched": [
+            "0R62qm0YQi8"
+          ]
+        },
+        "licensedCatalog": {
+          "id": "fun-fun-reboot-dlc",
+          "url": "https://store.steampowered.com/app/5253060/Yunyun_Syndrome_Rhythm_Psychosis__Extra_Song_Pack_feat_YUZUSOFT/",
+          "finalUrl": "https://store.steampowered.com/app/5253060/Yunyun_Syndrome_Rhythm_Psychosis_Extra_Song_Pack_feat_YUZUSOFT/",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-20T15:12:18.360Z",
+          "htmlSha256": "7cd798f35aa09d437bd8a4e6b1728aa1b409840dacf196933b5a9a1ee48fe277",
+          "title": "Steam：Yunyun Syndrome!? Rhythm Psychosis - Extra Song Pack feat. YUZUSOFT",
+          "matched": [
+            "FUN FUN RE-BOOT"
+          ]
+        }
+      },
+      "video": {
+        "bvid": "BV1Sk4N6AExh",
+        "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1Sk4N6AExh",
+        "observedAt": "2026-11-20T15:07:40.305Z",
+        "httpStatus": 200,
+        "bodySha256": "eb39574ef25c8db0d35c44e48c1e1e8d606cd4ff868c5a4ed67cec7b74daa16c",
+        "uploader": "舰长陪我擦甲板",
+        "title": "【全员AI娘】天使☆嚣嚣 RE-BOOT! OP | 教室里的AI娘",
+        "tags": [
+          "AI整活全宇宙",
+          "OP",
+          "柚子社",
+          "AI动画",
+          "ChatGPT",
+          "天使纷扰",
+          "AI二创",
+          "大肥鱼",
+          "AI娘",
+          "DeepSeek"
+        ],
+        "pages": [
+          {
+            "cid": 43275847675,
+            "page": 1,
+            "part": "【全员AI娘】天使☆嚣嚣 RE-BOOT! OP | 教室里的AI娘与开源王梁武峰",
+            "duration": 93
+          }
+        ],
+        "descriptionMatched": [
+          "FUN RUN RE-BOOT!",
+          "Duca"
+        ]
+      }
+    },
+    {
+      "track": "shinko-no-tsukurikata",
+      "reason": "The video credits this track, while Bilibili displays a different detected song. The extent of use of each track remains unverified.",
+      "original": {
+        "id": "shinko-no-tsukurikata",
+        "url": "https://linkco.re/R6G39EXa?lang=ja",
+        "finalUrl": "https://linkco.re/R6G39EXa?lang=ja",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T15:07:33.811Z",
+        "htmlSha256": "201908bf89ea3e64d08c75d0910ef1a7ca02941fcf13092c3e62ed6a7a936cf2",
+        "title": "信仰の作り方 by 佐倉流星 | TuneCore Japan",
+        "matched": [
+          "信仰の作り方",
+          "佐倉流星"
+        ]
+      },
+      "video": {
+        "bvid": "BV1hNWm6mE5h",
+        "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1hNWm6mE5h",
+        "observedAt": "2026-11-20T15:07:40.334Z",
+        "httpStatus": 200,
+        "bodySha256": "46e1d7c15455ce5c879fcb93795c2b42d8f94ff5435994af69a86f3dd6b82b5f",
+        "uploader": "刚来的大肥鱼",
+        "title": "两版二创MV：同一首《信仰の作り方》，豆包版 vs DeepSeek版，你投谁？",
+        "tags": [
+          "发现《今夜突然起了风（八音盒）》",
+          "重音テト",
+          "佐倉流星",
+          "豆包",
+          "MV对比",
+          "AI绘画",
+          "AI生成",
+          "鲸鱼娘",
+          "二创MV",
+          "DeepSeek",
+          "信仰的作り方"
+        ],
+        "pages": [
+          {
+            "cid": 43516169314,
+            "page": 1,
+            "part": "P1 两版MV对比",
+            "duration": 515
+          }
+        ],
+        "descriptionMatched": [
+          "信仰の作り方",
+          "重音テトSV"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:38:06.634Z",
+  "url": "https://www.bilibili.com/video/BV12HHq6uEeq/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12HHq6uEeq",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV12HHq6uEeq",
+    "title": "嘶——是我啦！",
+    "owner": {
+      "name": "冬冰",
+      "mid": 44748304
+    },
+    "pubdate": 1791035718,
+    "duration": 207
+  },
+  "descriptionSha256": "03d77f2b73256f292d369fe17728e973279c0677f8560ab3179ca0fdffff1277",
+  "uploaderCredits": [
+    "这个刀子真甜",
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": []
+}

@@ -1,0 +1,52 @@
+{
+  "full_name": "rf-liu/ai-pets",
+  "html_url": "https://github.com/rf-liu/ai-pets",
+  "stargazers_count": 1,
+  "archived": false,
+  "created_at": "2026-11-11T17:04:57Z",
+  "default_branch": "main",
+  "license": "NOASSERTION",
+  "description": "AI 桌宠：GPT 龙娘、Gemini 猫娘、Claude 小克与 DS 小鲸鱼。原生 macOS 四合一桌面挂件，额度、语录、表情互动、完成提醒与分模型 TPS。",
+  "fork": false,
+  "observedAt": "2026-11-20T15:38:12.532Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "commit": "cab15e31f37cffadae51f72ed70f87b7928c6736",
+      "url": "https://github.com/rf-liu/ai-pets/blob/cab15e31f37cffadae51f72ed70f87b7928c6736/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/rf-liu/ai-pets/cab15e31f37cffadae51f72ed70f87b7928c6736/README.md",
+      "sourceSha256": "86916fde471a0662f70032e5bb29e5ac0548b99b7208982c313cb59a44d3b786",
+      "gitBlobSha": "80dc4ca55389a03a31de5ec7d8e4c477e2f15786"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "commit": "cab15e31f37cffadae51f72ed70f87b7928c6736",
+      "url": "https://github.com/rf-liu/ai-pets/blob/cab15e31f37cffadae51f72ed70f87b7928c6736/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/rf-liu/ai-pets/cab15e31f37cffadae51f72ed70f87b7928c6736/LICENSE",
+      "sourceSha256": "94382af6065be6cc491653fcddfc62433a425050a64ceea6794b9afe594c05b0",
+      "gitBlobSha": "711b611bb26051a322801378d9547bd7674d299a"
+    },
+    "docs/ATTRIBUTION.md": {
+      "path": "docs/ATTRIBUTION.md",
+      "commit": "cab15e31f37cffadae51f72ed70f87b7928c6736",
+      "url": "https://github.com/rf-liu/ai-pets/blob/cab15e31f37cffadae51f72ed70f87b7928c6736/docs/ATTRIBUTION.md",
+      "rawUrl": "https://raw.githubusercontent.com/rf-liu/ai-pets/cab15e31f37cffadae51f72ed70f87b7928c6736/docs/ATTRIBUTION.md",
+      "sourceSha256": "37f9aefe9fb1f37af5511f433e2bfa6245958751566fa541dded9e98f53f9c54",
+      "gitBlobSha": "e53d2de005304bb86e7e236e7cf3e3b17f75cc77",
+      "bytes": 3224
+    }
+  },
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:40:54.236Z",
+  "assets": [],
+  "pinnedDocument": {
+    "path": "README.md",
+    "commit": "cab15e31f37cffadae51f72ed70f87b7928c6736",
+    "url": "https://github.com/rf-liu/ai-pets/blob/cab15e31f37cffadae51f72ed70f87b7928c6736/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/rf-liu/ai-pets/cab15e31f37cffadae51f72ed70f87b7928c6736/README.md",
+    "sourceSha256": "86916fde471a0662f70032e5bb29e5ac0548b99b7208982c313cb59a44d3b786",
+    "gitBlobSha": "80dc4ca55389a03a31de5ec7d8e4c477e2f15786"
+  },
+  "method": "github-rest-api-and-isolated-headless-google-chrome",
+  "scope": "Pinned README and provenance documents verified byte-for-byte."
+}

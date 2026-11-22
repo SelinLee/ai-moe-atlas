@@ -1,0 +1,93 @@
+{
+  "full_name": "aklnaaw/dsh-xiaoke-widget",
+  "html_url": "https://github.com/aklnaaw/dsh-xiaoke-widget",
+  "stargazers_count": 58,
+  "archived": false,
+  "created_at": "2026-09-26T10:55:09Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "Claude 拟人桌宠「小克」· DSH Web 余额挂件（二创自 MeteorNOX/DeepSeek-Balance-Whale-Widget）",
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "commit": "8e2a207bfc9ae3983168dcc847e54734771bce67",
+  "observedAt": "2026-11-20T16:31:38.643+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T16:32:17.693Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/aklnaaw/dsh-xiaoke-widget/blob/8e2a207bfc9ae3983168dcc847e54734771bce67/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/aklnaaw/dsh-xiaoke-widget/8e2a207bfc9ae3983168dcc847e54734771bce67/README.md",
+      "sourceSha256": "a0518ebc809e30cf5d8d0aee51e24df747f9fdaa422651a5b3c71d93d8d8dafa",
+      "gitBlobSha": "ff31a4ec72a22124a63fe5bc8addc31f2dda2ff7",
+      "bytes": 3166,
+      "commit": "8e2a207bfc9ae3983168dcc847e54734771bce67"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "url": "https://github.com/aklnaaw/dsh-xiaoke-widget/blob/8e2a207bfc9ae3983168dcc847e54734771bce67/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/aklnaaw/dsh-xiaoke-widget/8e2a207bfc9ae3983168dcc847e54734771bce67/LICENSE",
+      "sourceSha256": "a1e46acc1349f63e9d1e26a8a600823e010fedcaff20fc1eceb6564432bf829b",
+      "gitBlobSha": "e347bcdf559e0ab4f5a2ea83cf9b027f7426341c",
+      "bytes": 1066,
+      "commit": "8e2a207bfc9ae3983168dcc847e54734771bce67"
+    },
+    "upstream/README.upstream.md": {
+      "path": "upstream/README.upstream.md",
+      "url": "https://github.com/aklnaaw/dsh-xiaoke-widget/blob/8e2a207bfc9ae3983168dcc847e54734771bce67/upstream/README.upstream.md",
+      "rawUrl": "https://raw.githubusercontent.com/aklnaaw/dsh-xiaoke-widget/8e2a207bfc9ae3983168dcc847e54734771bce67/upstream/README.upstream.md",
+      "sourceSha256": "0e00aa690ea3d2af3b8289ac2e514685f4e1fd847e2acffae86344daee2ba219",
+      "gitBlobSha": "7857e7dc848b69e3d4043395f8a8370debe1a3de",
+      "bytes": 42788,
+      "commit": "8e2a207bfc9ae3983168dcc847e54734771bce67"
+    },
+    "assets/xiaoke1.png": {
+      "path": "assets/xiaoke1.png",
+      "url": "https://github.com/aklnaaw/dsh-xiaoke-widget/blob/8e2a207bfc9ae3983168dcc847e54734771bce67/assets/xiaoke1.png",
+      "rawUrl": "https://raw.githubusercontent.com/aklnaaw/dsh-xiaoke-widget/8e2a207bfc9ae3983168dcc847e54734771bce67/assets/xiaoke1.png",
+      "sourceSha256": "a5e51f99ceaffbd2e1bd3d567d415af90bf04f07a8545f4416b2bd15c2c90999",
+      "gitBlobSha": "05c3871f3cf7c1566889199c6063b6edddac91c9",
+      "bytes": 461395,
+      "commit": "8e2a207bfc9ae3983168dcc847e54734771bce67"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/aklnaaw/dsh-xiaoke-widget/blob/8e2a207bfc9ae3983168dcc847e54734771bce67/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/aklnaaw/dsh-xiaoke-widget/8e2a207bfc9ae3983168dcc847e54734771bce67/README.md",
+    "sourceSha256": "a0518ebc809e30cf5d8d0aee51e24df747f9fdaa422651a5b3c71d93d8d8dafa",
+    "gitBlobSha": "ff31a4ec72a22124a63fe5bc8addc31f2dda2ff7",
+    "bytes": 3166,
+    "commit": "8e2a207bfc9ae3983168dcc847e54734771bce67"
+  },
+  "method": "github-rest-tree-and-isolated-headless-google-chrome",
+  "portraitSample": {
+    "path": "assets/xiaoke1.png",
+    "url": "https://github.com/aklnaaw/dsh-xiaoke-widget/blob/8e2a207bfc9ae3983168dcc847e54734771bce67/assets/xiaoke1.png",
+    "rawUrl": "https://raw.githubusercontent.com/aklnaaw/dsh-xiaoke-widget/8e2a207bfc9ae3983168dcc847e54734771bce67/assets/xiaoke1.png",
+    "sourceSha256": "a5e51f99ceaffbd2e1bd3d567d415af90bf04f07a8545f4416b2bd15c2c90999",
+    "gitBlobSha": "05c3871f3cf7c1566889199c6063b6edddac91c9",
+    "bytes": 461395,
+    "commit": "8e2a207bfc9ae3983168dcc847e54734771bce67"
+  },
+  "downstreamSample": {
+    "id": "edritc-claude",
+    "path": "assets/xiaoke.png",
+    "rawUrl": "https://raw.githubusercontent.com/Edritc/zcode-fox-widget/ce60f31d451b77bf4b001aec52a4dd7b088a73c9/assets/xiaoke.png",
+    "url": "https://github.com/Edritc/zcode-fox-widget/blob/ce60f31d451b77bf4b001aec52a4dd7b088a73c9/assets/xiaoke.png",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-20T16:35:04.944Z",
+    "commit": "ce60f31d451b77bf4b001aec52a4dd7b088a73c9",
+    "bytes": 585846,
+    "sourceSha256": "32030e42842572dc6af351cd53abeb08266b8b55d12651d52f7ed4ed76f5c8f4",
+    "gitBlobSha": "6911739b12b7b611645c6b1f0d5c77027351b8a0",
+    "width": 610,
+    "height": 610,
+    "format": "png"
+  }
+}

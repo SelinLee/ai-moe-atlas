@@ -118,5 +118,35 @@
       "en": "Creator-published high-resolution original, provenance and asset pack ready for the site default.",
       "ja": "作者公開の高解像度原画像・出典・素材集が揃い、標準表示に利用できます。"
     }
+  },
+  {
+    "entity": "muse",
+    "characterId": "shizhi-muse",
+    "reviewedAt": "2026-11-20",
+    "nextAction": {
+      "zh": "已核对原作和授权说明。逐件匹配独立原文件，并核对其中 Jolly 等第三方元素的使用条件。",
+      "en": "Creator post and terms verified. Match each standalone original and verify terms for embedded third-party elements such as Jolly.",
+      "ja": "作者の原投稿と条件を確認済み。独立した原本を1点ずつ照合し、Jolly など第三者要素の条件を確認。"
+    }
+  },
+  {
+    "entity": "mistral",
+    "characterId": "zipzippipe-mistral",
+    "reviewedAt": "2026-11-20",
+    "nextAction": {
+      "zh": "确认原帖第 4 张图的单独展示、转载与改编条件。",
+      "en": "Verify display, redistribution and adaptation terms for the fourth image in the creator’s post.",
+      "ja": "原投稿の4枚目に適用される表示・転載・改変条件を確認する。"
+    }
+  },
+  {
+    "entity": "opencode",
+    "characterId": "zipzippipe-opencode",
+    "reviewedAt": "2026-11-21",
+    "nextAction": {
+      "zh": "确认原帖第 9 张图的逐件展示、转载与改编条件。",
+      "en": "Verify display, redistribution and adaptation terms for the ninth image in the post.",
+      "ja": "原投稿の9枚目の表示・転載・改変条件を確認する。"
+    }
   }
 ]

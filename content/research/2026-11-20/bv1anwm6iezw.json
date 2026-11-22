@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T14:15:34.408Z",
+  "url": "https://www.bilibili.com/video/BV1AnWm6iEzw/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AnWm6iEzw",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1AnWm6iEzw",
+    "title": "【Gemini】再坐一会儿嘛。【AI MV大赛】",
+    "owner": {
+      "name": "GPT-TTT",
+      "mid": 3707035384285613
+    },
+    "pubdate": 1794394362,
+    "duration": 74
+  },
+  "descriptionSha256": "3361e550039160e1b4f1945327f81aed7b324e5addcf9e5f2458a4f9d95b7aee",
+  "uploaderCredits": [
+    "藤井風"
+  ],
+  "linkedVideos": []
+}

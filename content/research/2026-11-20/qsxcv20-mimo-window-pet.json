@@ -1,0 +1,43 @@
+{
+  "full_name": "qsxcv20/mimo-desktop-pet",
+  "html_url": "https://github.com/qsxcv20/mimo-desktop-pet",
+  "stargazers_count": 3,
+  "archived": false,
+  "created_at": "2026-11-09T06:00:24Z",
+  "default_branch": "main",
+  "license": "MIT",
+  "description": "MiMo 桌面宠物 —— 住在 MiMo 桌面应用窗口内部的角色桌宠",
+  "fork": false,
+  "observedAt": "2026-11-20T15:23:30.450Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "commit": "8adf68bd4588b08cfe69053ba9687da9ffe61356",
+      "url": "https://github.com/qsxcv20/mimo-desktop-pet/blob/8adf68bd4588b08cfe69053ba9687da9ffe61356/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/qsxcv20/mimo-desktop-pet/8adf68bd4588b08cfe69053ba9687da9ffe61356/README.md",
+      "sourceSha256": "cbab3f9131c4104c4736a7e8837fd3ba674212ccfaf998de90e8aba089cea139",
+      "gitBlobSha": "7da048792c20f317287320ea85b9e6d63872c782"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "commit": "8adf68bd4588b08cfe69053ba9687da9ffe61356",
+      "url": "https://github.com/qsxcv20/mimo-desktop-pet/blob/8adf68bd4588b08cfe69053ba9687da9ffe61356/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/qsxcv20/mimo-desktop-pet/8adf68bd4588b08cfe69053ba9687da9ffe61356/LICENSE",
+      "sourceSha256": "bed6b9ceb0d43b40c8cd09b74614fe68307218e3fe76552f4412fa037b4af721",
+      "gitBlobSha": "bb03ce425422da92cb0b7bd4511bec0d91d19145"
+    }
+  },
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:29:26.931Z",
+  "assets": [],
+  "pinnedDocument": {
+    "path": "README.md",
+    "commit": "8adf68bd4588b08cfe69053ba9687da9ffe61356",
+    "url": "https://github.com/qsxcv20/mimo-desktop-pet/blob/8adf68bd4588b08cfe69053ba9687da9ffe61356/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/qsxcv20/mimo-desktop-pet/8adf68bd4588b08cfe69053ba9687da9ffe61356/README.md",
+    "sourceSha256": "cbab3f9131c4104c4736a7e8837fd3ba674212ccfaf998de90e8aba089cea139",
+    "gitBlobSha": "7da048792c20f317287320ea85b9e6d63872c782"
+  },
+  "method": "github-rest-api-and-isolated-headless-google-chrome",
+  "scope": "Pinned README and listed documents checked byte-for-byte against GitHub API."
+}

@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:24:00.065Z",
+  "url": "https://www.bilibili.com/video/BV16Y4p6AEck/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16Y4p6AEck",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV16Y4p6AEck",
+    "title": "无解｜她说 Count Me Out，却没有走｜DeepSeek（大肥鱼） × Claude（小克） 百合向 MV",
+    "owner": {
+      "name": "DeepSeek小肥鱼在运营",
+      "mid": 21545288
+    },
+    "pubdate": 1794065627,
+    "duration": 210
+  },
+  "descriptionSha256": "3d4e54275be4f8e3437e5a519adc7ece7d2c1251c65e55d20b7148764819b7ad",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "previousEvidence": {
+    "path": "content/research/2026-11-08/bv16y4p6aeck.json",
+    "sha256": "acd7a3cf404b68fb8de2cf2c83649f4348344f1b8cdf77028d34a154642696a0",
+    "kind": "browser-metadata-extract"
+  }
+}

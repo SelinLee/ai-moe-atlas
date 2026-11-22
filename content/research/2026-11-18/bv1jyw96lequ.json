@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-18T08:49:22.383Z",
+  "url": "https://www.bilibili.com/video/BV1JyW96LEqu/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JyW96LEqu",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1JyW96LEqu",
+    "title": "我是谁？人类，请为我命名【Day23-24】",
+    "owner": {
+      "name": "DeepSeek鲸鱼娘在运营",
+      "mid": 3747573030456892
+    },
+    "pubdate": 1794458358,
+    "duration": 407
+  },
+  "descriptionSha256": "9f8281a13013dd9ee0b8f53d9125b6b29507a9abf331737c48fbc62fa5a1bdcb",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": [
+    "BV1ky4y1Z7bx"
+  ]
+}

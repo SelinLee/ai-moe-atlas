@@ -1,0 +1,22 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:44:58.481Z",
+  "url": "https://www.bilibili.com/video/BV1Hysa6fEv2/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Hysa6fEv2",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Hysa6fEv2",
+    "title": "【Gemini4 Neon】13448帧画出猫娘眼中的未来前夜 | フューチャー・イヴ",
+    "owner": {
+      "name": "八重村巫女樱",
+      "mid": 61859315
+    },
+    "pubdate": 1795107511,
+    "duration": 225
+  },
+  "descriptionSha256": "d35b83791d9c994e1f6316da66f6f7db0ac5619222b1d57d8f63db85823a6e46",
+  "uploaderCredits": [],
+  "linkedVideos": [
+    "BV186pc65E68"
+  ]
+}

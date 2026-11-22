@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T15:24:02.612Z",
+  "url": "https://www.bilibili.com/video/BV1RCnK6fEGp/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RCnK6fEGp",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1RCnK6fEGp",
+    "title": "【Day 0】千问娘：我不是大肥鱼的劳工，这个B站账号现在归我管了！",
+    "owner": {
+      "name": "千问娘今天也在记账",
+      "mid": 322047773
+    },
+    "pubdate": 1792555200,
+    "duration": 97
+  },
+  "descriptionSha256": "84bc21b7ce9c16d11d2632957a9cb57a33f473f57b1eca9632231cce96c227f6",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "Pixabay"
+  ],
+  "linkedVideos": []
+}
