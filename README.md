@@ -27,7 +27,7 @@
 
 <!-- category-picks:songs -->
 **[🎵 歌曲](#songs)** · 65 首曲目\
-[人是猫](https://selinlee.github.io/ai-moe-atlas/zh/songs/#humans-are-cats) · [Let Me Go · 大肥鱼摸鱼歌](https://selinlee.github.io/ai-moe-atlas/zh/songs/#let-me-go) · [烂奇迹](https://selinlee.github.io/ai-moe-atlas/zh/songs/#rotting-miracle)
+[人是猫 · 大肥鱼翻唱](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · 动画 MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [烂奇迹 · 大肥鱼翻唱](https://www.bilibili.com/video/BV1fzs26bETg/)
 
 <!-- category-picks:references -->
 **[🧸 三视图与派生参考](#references)** · 20 张参考图\
@@ -35,11 +35,11 @@
 
 <!-- category-picks:animations -->
 **[🎬 动画与视频二创](#animations)** · 704 条记录\
-[如果聊天窗口就是她的整个世界](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1xcai6ae9g) · [败犬 AI 太多了！· 正式 PV](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1nfag6xehq) · [甶丶 · MiMo 娘角色 PV](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1eran6xeer)
+[如果聊天窗口就是她的整个世界](https://www.bilibili.com/video/BV1xCai6aE9g/) · [败犬 AI 太多了！· 正式 PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo 娘角色 PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
 
 <!-- category-picks:desktop-pets -->
 **[🐾 桌宠与交互项目](#desktop-pets)** · 115 个项目\
-[CrossPet · 跨 AI 桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#crosspet) · [Copiwaifu · Live2D 编程桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#copiwaifu-live2d) · [MIMO 桌宠 · Android 悬浮兔娘](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#abl949-mimo-android-pet)
+[CrossPet · 跨 AI 桌宠](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D 编程桌宠](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [MIMO 桌宠 · Android 悬浮兔娘](https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/README.md)
 
 <!-- category-picks:sources -->
 **[📚 作者作品与出处](#sources)** · 80 条来源\

@@ -27,7 +27,7 @@
 
 <!-- category-picks:songs -->
 **[🎵 楽曲](#songs)** · 65 曲\
-[人は猫](https://selinlee.github.io/ai-moe-atlas/ja/songs/#humans-are-cats) · [Let Me Go · 大きな魚のサボり歌](https://selinlee.github.io/ai-moe-atlas/ja/songs/#let-me-go) · [烂奇迹](https://selinlee.github.io/ai-moe-atlas/ja/songs/#rotting-miracle)
+[人は猫 · 大肥魚カバー](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · アニメーション MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [烂奇迹 · 大肥魚カバー](https://www.bilibili.com/video/BV1fzs26bETg/)
 
 <!-- category-picks:references -->
 **[🧸 三面図と生成派生資料](#references)** · 20 枚\
@@ -35,11 +35,11 @@
 
 <!-- category-picks:animations -->
 **[🎬 アニメ・動画二次創作](#animations)** · 704 件\
-[チャット画面が彼女の世界のすべてだったら](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1xcai6ae9g) · [負けヒロイン AI が多すぎる！ · PV](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1nfag6xehq) · [甶丶 · MiMo 娘キャラクター PV](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1eran6xeer)
+[チャット画面が彼女の世界のすべてだったら](https://www.bilibili.com/video/BV1xCai6aE9g/) · [負けヒロイン AI が多すぎる！ · PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo 娘キャラクター PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
 
 <!-- category-picks:desktop-pets -->
 **[🐾 ペット・インタラクティブ作品](#desktop-pets)** · 115 プロジェクト\
-[CrossPet · 複数の AI に対応するデスクトップペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#crosspet) · [Copiwaifu · Live2D コーディングペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#copiwaifu-live2d) · [MIMO ペット · Android のうさ耳ペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#abl949-mimo-android-pet)
+[CrossPet · 複数の AI に対応するデスクトップペット](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D コーディングペット](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [MIMO ペット · Android のうさ耳ペット](https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/README.md)
 
 <!-- category-picks:sources -->
 **[📚 作者の作品と出典](#sources)** · 80 件\

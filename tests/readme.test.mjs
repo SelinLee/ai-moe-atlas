@@ -12,8 +12,9 @@ const references=JSON.parse(await read('public/generated/ai-models-v5/manifest.j
 const {records}=JSON.parse(await read('content/resources.json'));
 const characters=JSON.parse(await read('content/characters.json'));
 const songs=JSON.parse(await read('content/songs.json'));
+const resourceById=new Map(records.map(record=>[record.id,record]));
 const topVideos=records.filter(record=>record.likes).sort(byCumulativeLikes).slice(0,10);
-const topSongs=rankSongsByLikes(songs,new Map(records.map(record=>[record.id,record])))
+const topSongs=rankSongsByLikes(songs,resourceById)
  .filter(({leading})=>leading).slice(0,10);
 const topSongIds=topSongs.map(({song})=>song.id);
 const layouts = [
@@ -22,6 +23,11 @@ const layouts = [
  ['README.ja.md', 'ja', 'リソース一覧', '収録の経緯と今後の調査項目', 'キャラクターギャラリー']
 ];
 const categories = ['characters', 'songs', 'references', 'animations', 'desktop-pets', 'sources'];
+const directEntryLinks = {
+ songs: new Set(songs.flatMap(song => song.versions.map(version => resourceById.get(version.id).url))),
+ animations: new Set(records.filter(record => record.category === 'animation').map(record => record.url)),
+ 'desktop-pets': new Set(records.filter(record => record.category === 'interactive').map(record => record.url))
+};
 for (const [file, lang, directory, timeline, galleries] of layouts) {
  test(`${file}: compact previews match the video and song rankings`,async()=>{
   const markdown=await read(file);
@@ -80,6 +86,9 @@ for (const [file, lang, directory, timeline, galleries] of layouts) {
     const url = new URL(target);
     if (url.hostname === 'selinlee.github.io') {
      assert.ok(url.pathname.startsWith(`/ai-moe-atlas/${lang}/`), url.href);
+    }
+    if (directEntryLinks[category]) {
+     assert.ok(directEntryLinks[category].has(url.href), `${category}: ${url.href}`);
     }
     return url.href;
    });

@@ -27,7 +27,7 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 
 <!-- category-picks:songs -->
 **[🎵 Songs](#songs)** · 65 tracks\
-[Humans Are Cats](https://selinlee.github.io/ai-moe-atlas/en/songs/#humans-are-cats) · [Let Me Go · Fat Fish’s Slacking Song](https://selinlee.github.io/ai-moe-atlas/en/songs/#let-me-go) · [Rotten Miracle](https://selinlee.github.io/ai-moe-atlas/en/songs/#rotting-miracle)
+[Humans Are Cats · Fat Fish cover](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · Animated MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [Rotten Miracle · Fat Fish cover](https://www.bilibili.com/video/BV1fzs26bETg/)
 
 <!-- category-picks:references -->
 **[🧸 Turnarounds & adaptations](#references)** · 20 reference images\
@@ -35,11 +35,11 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 
 <!-- category-picks:animations -->
 **[🎬 Animation & fan videos](#animations)** · 704 records\
-[What If the Chat Window Were Her Whole World?](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1xcai6ae9g) · [Too Many Losing AIs! · Fan PV](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1nfag6xehq) · [甶丶 · MiMo Girl Character PV](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1eran6xeer)
+[What If the Chat Window Were Her Whole World?](https://www.bilibili.com/video/BV1xCai6aE9g/) · [Too Many Losing AIs! · Fan PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo Girl Character PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
 
 <!-- category-picks:desktop-pets -->
 **[🐾 Pets & interactive projects](#desktop-pets)** · 115 projects\
-[CrossPet · Cross-AI desktop companion](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#crosspet) · [Copiwaifu · Live2D coding companion](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#copiwaifu-live2d) · [MIMO Pet · Floating Android Rabbit Girl](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#abl949-mimo-android-pet)
+[CrossPet · Cross-AI desktop companion](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D coding companion](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [MIMO Pet · Floating Android Rabbit Girl](https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/README.md)
 
 <!-- category-picks:sources -->
 **[📚 Creator works & sources](#sources)** · 80 sources\
