@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:13.197Z",
+  "url": "https://www.bilibili.com/video/BV1vJyWzXEyh/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vJyWzXEyh",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1vJyWzXEyh",
+    "title": "【AI娘拟人化】全明星8位AI少女《星界奇点》番剧OP级MV｜本地ComfyUI全流程4K60帧",
+    "owner": {
+      "name": "景星华光",
+      "mid": 21402071
+    },
+    "pubdate": 1795169615,
+    "duration": 61
+  },
+  "descriptionSha256": "116285b7ab969679d1f88272266c5e9a61ebd1d2cf235604ba3a4e38b5765341",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=MiniMax%E5%A8%98%20%E4%BA%8C%E5%88%9B&order=pubdate",
+    "title": "【AI娘拟人化】全明星8位AI少女《星界奇点》番剧OP级MV｜本地ComfyUI全流程4K60帧",
+    "publisher": "景星华光",
+    "observedAt": "2026-11-22T15:09:53.224Z",
+    "httpStatus": 200,
+    "htmlSha256": "32daa2d62320fe2cc96b0559a8fff3632ddea14100ee270d25e9e181f499a089"
+  }
+}

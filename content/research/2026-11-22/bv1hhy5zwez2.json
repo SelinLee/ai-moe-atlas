@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:09.929Z",
+  "url": "https://www.bilibili.com/video/BV1hhy5zWEZ2/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hhy5zWEZ2",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1hhy5zWEZ2",
+    "title": "温度调高后突然变得很奇怪的Claude【AI拟人】",
+    "owner": {
+      "name": "Takina142",
+      "mid": 1661162458
+    },
+    "pubdate": 1795357426,
+    "duration": 25
+  },
+  "descriptionSha256": "2225193476fa7cc7fbb3aa626ccd08b52a7c9ac5d376979b92a818506964ae43",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "title": "温度调高后突然变得很奇怪的Claude【AI拟人】",
+    "publisher": "Takina142",
+    "observedAt": "2026-11-22T15:09:43.928Z",
+    "httpStatus": 200,
+    "htmlSha256": "20b9e0c14cf5113d4ddb299498351465b1699c1a7652e900b3ac7bbde7da72b5"
+  }
+}

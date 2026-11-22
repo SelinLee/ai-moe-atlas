@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:10.451Z",
+  "url": "https://www.bilibili.com/video/BV1tPx968Ejb/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tPx968Ejb",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1tPx968Ejb",
+    "title": "谷歌 Gemini ♊︎ ｜娘化二創形象",
+    "owner": {
+      "name": "遇見橘子Juzi",
+      "mid": 495115295
+    },
+    "pubdate": 1793794676,
+    "duration": 26
+  },
+  "descriptionSha256": "2170b4d6a80d7f8f5216734d4d4e6bfb90750b7361e35e1cf87fc21db526f54c",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Gemini%E5%A8%98%20%E4%BA%8C%E5%88%9B&order=pubdate",
+    "title": "谷歌 Gemini ♊︎ ｜娘化二創形象",
+    "publisher": "遇見橘子Juzi",
+    "observedAt": "2026-11-22T15:09:48.530Z",
+    "httpStatus": 200,
+    "htmlSha256": "048adb1c092962204cadb3b936e280b87bf91ec1a141bcfd6351a51ecf2ec3ce"
+  }
+}

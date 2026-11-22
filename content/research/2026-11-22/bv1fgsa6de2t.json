@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:10.462Z",
+  "url": "https://www.bilibili.com/video/BV1fGsa6DE2T/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fGsa6DE2T",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1fGsa6DE2T",
+    "title": "✴️Hello Claude✴️大肥鱼，这次是她的故事【原创动画】",
+    "owner": {
+      "name": "AozakiArisu",
+      "mid": 15579383
+    },
+    "pubdate": 1795143600,
+    "duration": 979
+  },
+  "descriptionSha256": "d60920d70768fa1181a6020489e0d67a8c4994015748b52a44ab967154655305",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "title": "✴️Hello Claude✴️大肥鱼，这次是她的故事【原创动画】",
+    "publisher": "AozakiArisu",
+    "observedAt": "2026-11-22T15:09:43.928Z",
+    "httpStatus": 200,
+    "htmlSha256": "20b9e0c14cf5113d4ddb299498351465b1699c1a7652e900b3ac7bbde7da72b5"
+  }
+}

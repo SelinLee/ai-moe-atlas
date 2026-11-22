@@ -2835,5 +2835,251 @@
         }
       }
     }
+  },
+  {
+    "characterId": "ninon-coco",
+    "reviewedAt": "2026-11-22",
+    "reviewBasis": "Creator submission states CC BY-NC 4.0, GPT generation and human hairclip retouching. Two file hashes retained.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/lmy414/ai-girl-stickers/issues/120",
+    "attribution": [
+      {
+        "name": "Ninon",
+        "url": "https://github.com/ninondev",
+        "role": "original-character",
+        "publication": "https://github.com/lmy414/ai-girl-stickers/issues/120"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者在该投稿中声明 CC BY-NC 4.0，并记录 GPT 生成及发夹修整。图鉴提供作者署名和原投稿。",
+          "en": "The creator declares CC BY-NC 4.0 and documents GPT generation and hairclip retouching. The atlas credits and links to the submission.",
+          "ja": "作者は CC BY-NC 4.0 を明記し、GPT 生成とヘアクリップの修正を記録。図鑑では署名と原投稿を掲載。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者在该投稿中声明 CC BY-NC 4.0，并记录 GPT 生成及发夹修整。图鉴提供作者署名和原投稿。",
+          "en": "The creator declares CC BY-NC 4.0 and documents GPT generation and hairclip retouching. The atlas credits and links to the submission.",
+          "ja": "作者は CC BY-NC 4.0 を明記し、GPT 生成とヘアクリップの修正を記録。図鑑では署名と原投稿を掲載。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者在该投稿中声明 CC BY-NC 4.0，并记录 GPT 生成及发夹修整。图鉴提供作者署名和原投稿。",
+          "en": "The creator declares CC BY-NC 4.0 and documents GPT generation and hairclip retouching. The atlas credits and links to the submission.",
+          "ja": "作者は CC BY-NC 4.0 を明記し、GPT 生成とヘアクリップの修正を記録。図鑑では署名と原投稿を掲載。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者在该投稿中声明 CC BY-NC 4.0，并记录 GPT 生成及发夹修整。图鉴提供作者署名和原投稿。",
+          "en": "The creator declares CC BY-NC 4.0 and documents GPT generation and hairclip retouching. The atlas credits and links to the submission.",
+          "ja": "作者は CC BY-NC 4.0 を明記し、GPT 生成とヘアクリップの修正を記録。図鑑では署名と原投稿を掲載。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者在该投稿中声明 CC BY-NC 4.0，并记录 GPT 生成及发夹修整。图鉴提供作者署名和原投稿。",
+          "en": "The creator declares CC BY-NC 4.0 and documents GPT generation and hairclip retouching. The atlas credits and links to the submission.",
+          "ja": "作者は CC BY-NC 4.0 を明記し、GPT 生成とヘアクリップの修正を記録。図鑑では署名と原投稿を掲載。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者在该投稿中声明 CC BY-NC 4.0，并记录 GPT 生成及发夹修整。图鉴提供作者署名和原投稿。",
+          "en": "The creator declares CC BY-NC 4.0 and documents GPT generation and hairclip retouching. The atlas credits and links to the submission.",
+          "ja": "作者は CC BY-NC 4.0 を明記し、GPT 生成とヘアクリップの修正を記録。図鑑では署名と原投稿を掲載。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者在该投稿中声明 CC BY-NC 4.0，并记录 GPT 生成及发夹修整。图鉴提供作者署名和原投稿。",
+          "en": "The creator declares CC BY-NC 4.0 and documents GPT generation and hairclip retouching. The atlas credits and links to the submission.",
+          "ja": "作者は CC BY-NC 4.0 を明記し、GPT 生成とヘアクリップの修正を記録。図鑑では署名と原投稿を掲載。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者在该投稿中声明 CC BY-NC 4.0，并记录 GPT 生成及发夹修整。图鉴提供作者署名和原投稿。",
+          "en": "The creator declares CC BY-NC 4.0 and documents GPT generation and hairclip retouching. The atlas credits and links to the submission.",
+          "ja": "作者は CC BY-NC 4.0 を明記し、GPT 生成とヘアクリップの修正を記録。図鑑では署名と原投稿を掲載。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "qinv-gemini-pro",
+    "reviewedAt": "2026-11-22",
+    "reviewBasis": "Pixiv caption declares CC BY-NC-SA 4.0. Original JPEG and three related GitHub PNGs were independently hashed.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "attribution": [
+      {
+        "name": "我已经有杰米奈了",
+        "url": "https://www.pixiv.net/users/129846508",
+        "role": "original-character",
+        "publication": "https://www.pixiv.net/artworks/150323370"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "Pixiv 原帖声明 CC BY-NC-SA 4.0。学校制服投稿的条件见独立原帖。",
+          "en": "The Pixiv post declares CC BY-NC-SA 4.0. The separate school-uniform submission has its own source terms.",
+          "ja": "Pixiv 原投稿に CC BY-NC-SA 4.0 と明記。制服イラストは別投稿の利用条件を参照。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "Pixiv 原帖声明 CC BY-NC-SA 4.0。学校制服投稿的条件见独立原帖。",
+          "en": "The Pixiv post declares CC BY-NC-SA 4.0. The separate school-uniform submission has its own source terms.",
+          "ja": "Pixiv 原投稿に CC BY-NC-SA 4.0 と明記。制服イラストは別投稿の利用条件を参照。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "Pixiv 原帖声明 CC BY-NC-SA 4.0。学校制服投稿的条件见独立原帖。",
+          "en": "The Pixiv post declares CC BY-NC-SA 4.0. The separate school-uniform submission has its own source terms.",
+          "ja": "Pixiv 原投稿に CC BY-NC-SA 4.0 と明記。制服イラストは別投稿の利用条件を参照。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "Pixiv 原帖声明 CC BY-NC-SA 4.0。学校制服投稿的条件见独立原帖。",
+          "en": "The Pixiv post declares CC BY-NC-SA 4.0. The separate school-uniform submission has its own source terms.",
+          "ja": "Pixiv 原投稿に CC BY-NC-SA 4.0 と明記。制服イラストは別投稿の利用条件を参照。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "Pixiv 原帖声明 CC BY-NC-SA 4.0。学校制服投稿的条件见独立原帖。",
+          "en": "The Pixiv post declares CC BY-NC-SA 4.0. The separate school-uniform submission has its own source terms.",
+          "ja": "Pixiv 原投稿に CC BY-NC-SA 4.0 と明記。制服イラストは別投稿の利用条件を参照。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "Pixiv 原帖声明 CC BY-NC-SA 4.0。学校制服投稿的条件见独立原帖。",
+          "en": "The Pixiv post declares CC BY-NC-SA 4.0. The separate school-uniform submission has its own source terms.",
+          "ja": "Pixiv 原投稿に CC BY-NC-SA 4.0 と明記。制服イラストは別投稿の利用条件を参照。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "Pixiv 原帖声明 CC BY-NC-SA 4.0。学校制服投稿的条件见独立原帖。",
+          "en": "The Pixiv post declares CC BY-NC-SA 4.0. The separate school-uniform submission has its own source terms.",
+          "ja": "Pixiv 原投稿に CC BY-NC-SA 4.0 と明記。制服イラストは別投稿の利用条件を参照。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "Pixiv 原帖声明 CC BY-NC-SA 4.0。学校制服投稿的条件见独立原帖。",
+          "en": "The Pixiv post declares CC BY-NC-SA 4.0. The separate school-uniform submission has its own source terms.",
+          "ja": "Pixiv 原投稿に CC BY-NC-SA 4.0 と明記。制服イラストは別投稿の利用条件を参照。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "shiho320-minimax-space-bunny",
+    "reviewedAt": "2026-11-22",
+    "reviewBasis": "Identified by the creator submission. Attachment dimensions and original file SHA-256 checked.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/lmy414/ai-girl-stickers/issues/129",
+    "attribution": [
+      {
+        "name": "Shiho320",
+        "url": "https://space.bilibili.com/345652724",
+        "role": "original-character",
+        "publication": "https://github.com/lmy414/ai-girl-stickers/issues/129"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿确认授权接收站核实后收录，逐件再利用条款待核。",
+          "en": "The submission allows the receiving archive to collect the work after review. File-specific reuse terms remain open.",
+          "ja": "投稿先が確認後に収録することを許可。ファイル別の再利用条件は確認待ち。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿确认授权接收站核实后收录，逐件再利用条款待核。",
+          "en": "The submission allows the receiving archive to collect the work after review. File-specific reuse terms remain open.",
+          "ja": "投稿先が確認後に収録することを許可。ファイル別の再利用条件は確認待ち。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿确认授权接收站核实后收录，逐件再利用条款待核。",
+          "en": "The submission allows the receiving archive to collect the work after review. File-specific reuse terms remain open.",
+          "ja": "投稿先が確認後に収録することを許可。ファイル別の再利用条件は確認待ち。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿确认授权接收站核实后收录，逐件再利用条款待核。",
+          "en": "The submission allows the receiving archive to collect the work after review. File-specific reuse terms remain open.",
+          "ja": "投稿先が確認後に収録することを許可。ファイル別の再利用条件は確認待ち。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿确认授权接收站核实后收录，逐件再利用条款待核。",
+          "en": "The submission allows the receiving archive to collect the work after review. File-specific reuse terms remain open.",
+          "ja": "投稿先が確認後に収録することを許可。ファイル別の再利用条件は確認待ち。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿确认授权接收站核实后收录，逐件再利用条款待核。",
+          "en": "The submission allows the receiving archive to collect the work after review. File-specific reuse terms remain open.",
+          "ja": "投稿先が確認後に収録することを許可。ファイル別の再利用条件は確認待ち。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿确认授权接收站核实后收录，逐件再利用条款待核。",
+          "en": "The submission allows the receiving archive to collect the work after review. File-specific reuse terms remain open.",
+          "ja": "投稿先が確認後に収録することを許可。ファイル別の再利用条件は確認待ち。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿确认授权接收站核实后收录，逐件再利用条款待核。",
+          "en": "The submission allows the receiving archive to collect the work after review. File-specific reuse terms remain open.",
+          "ja": "投稿先が確認後に収録することを許可。ファイル別の再利用条件は確認待ち。"
+        }
+      }
+    }
   }
 ]

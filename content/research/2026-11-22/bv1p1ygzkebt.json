@@ -1,0 +1,31 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:09.064Z",
+  "url": "https://www.bilibili.com/video/BV1p1yGzKEBt/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1p1yGzKEBt",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1p1yGzKEBt",
+    "title": "【第四集】当世界只剩风声，大肥鱼终于看见了海，也遇见了守着灯塔和笛声的她们",
+    "owner": {
+      "name": "樱华辉月",
+      "mid": 2015579
+    },
+    "pubdate": 1795342214,
+    "duration": 138
+  },
+  "descriptionSha256": "ca19cce43f106176f7d9d6b5e33e12835a34781872c46f8c5560f8e5a39650a3",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "邦多利素世"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "title": "【第四集】当世界只剩风声，大肥鱼终于看见了海，也遇见了守着灯塔和笛声的她们",
+    "publisher": "樱华辉月",
+    "observedAt": "2026-11-22T15:09:43.952Z",
+    "httpStatus": 200,
+    "htmlSha256": "8fbe24d16132c7df24553814b60fa05aaa306b56c9fb9f0607e8abeef4b66cfd"
+  }
+}

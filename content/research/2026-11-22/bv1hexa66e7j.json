@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:13.914Z",
+  "url": "https://www.bilibili.com/video/BV1hExa66E7J/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hExa66E7J",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1hExa66E7J",
+    "title": "奶龙豆包《微微一笑很倾城》完整版【AI MV大赛】",
+    "owner": {
+      "name": "凌云志ing",
+      "mid": 511527090
+    },
+    "pubdate": 1793580881,
+    "duration": 231
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%B1%86%E5%8C%85%E5%A5%B6%E9%BE%99%20MV%20%E8%A7%92%E8%89%B2&order=pubdate",
+    "title": "奶龙豆包《微微一笑很倾城》完整版【AI MV大赛】",
+    "publisher": "凌云志ing",
+    "observedAt": "2026-11-22T15:09:54.948Z",
+    "httpStatus": 200,
+    "htmlSha256": "1e16ee8930a297342e40ab797e748a73f2ad1f79dc2265515cfa2dcecef94886"
+  }
+}

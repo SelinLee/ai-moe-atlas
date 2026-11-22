@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:13.913Z",
+  "url": "https://www.bilibili.com/video/BV1Fu4g6wE26/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Fu4g6wE26",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Fu4g6wE26",
+    "title": "奶龙&豆包 《危险派对》 从校园步入婚姻殿堂 【AI MV】",
+    "owner": {
+      "name": "小谢特001",
+      "mid": 3690990808336475
+    },
+    "pubdate": 1793702341,
+    "duration": 81
+  },
+  "descriptionSha256": "7aa8deab0575980eea50ad6ee87040e30381a4366643343543325ddaf69e1175",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%B1%86%E5%8C%85%E5%A5%B6%E9%BE%99%20MV%20%E8%A7%92%E8%89%B2&order=pubdate",
+    "title": "奶龙&amp;豆包 《危险派对》 从校园步入婚姻殿堂 【AI MV】",
+    "publisher": "小谢特001",
+    "observedAt": "2026-11-22T15:09:54.948Z",
+    "httpStatus": 200,
+    "htmlSha256": "1e16ee8930a297342e40ab797e748a73f2ad1f79dc2265515cfa2dcecef94886"
+  }
+}

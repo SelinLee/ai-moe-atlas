@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:12.443Z",
+  "url": "https://www.bilibili.com/video/BV1A1yxzCEoQ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1A1yxzCEoQ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1A1yxzCEoQ",
+    "title": "[AI娘真人化测试]新增3位AI娘 文心|MiniMax海螺|混元",
+    "owner": {
+      "name": "Hiro浩子",
+      "mid": 25625333
+    },
+    "pubdate": 1795207723,
+    "duration": 44
+  },
+  "descriptionSha256": "b1eb5a17604fa30565406190bccbc464e26bf187edec2ef3477c3ab49018a880",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=MiniMax%E5%A8%98%20%E4%BA%8C%E5%88%9B&order=pubdate",
+    "title": "[AI娘真人化测试]新增3位AI娘 文心|MiniMax海螺|混元",
+    "publisher": "Hiro浩子",
+    "observedAt": "2026-11-22T15:09:53.224Z",
+    "httpStatus": 200,
+    "htmlSha256": "32daa2d62320fe2cc96b0559a8fff3632ddea14100ee270d25e9e181f499a089"
+  }
+}

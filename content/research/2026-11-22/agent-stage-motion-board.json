@@ -1,0 +1,158 @@
+{
+  "full_name": "gaomails2024/agent-stage",
+  "html_url": "https://github.com/gaomails2024/agent-stage",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-10-20T10:14:07Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "Agent Stage — multi-agent status board (Tauri + React)",
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "commit": "1f7ff63f247a577b2006b39cdba137fc129ad222",
+  "observedAt": "2026-11-22T15:11:43.237+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:12:20.721Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/gaomails2024/agent-stage/blob/1f7ff63f247a577b2006b39cdba137fc129ad222/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/gaomails2024/agent-stage/1f7ff63f247a577b2006b39cdba137fc129ad222/README.md",
+      "sourceSha256": "a39080c3404d7346f7b59cd46df206723527ac0b2fc5e2f28101d927faf8a670",
+      "gitBlobSha": "110011ca49f075e83305a984424d4a468277d805",
+      "bytes": 6283,
+      "commit": "1f7ff63f247a577b2006b39cdba137fc129ad222"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "url": "https://github.com/gaomails2024/agent-stage/blob/1f7ff63f247a577b2006b39cdba137fc129ad222/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/gaomails2024/agent-stage/1f7ff63f247a577b2006b39cdba137fc129ad222/LICENSE",
+      "sourceSha256": "892b847d06c7aee3c7c3c14da62b4c4c9c1d89309d9c04264b6d6fdce55116a1",
+      "gitBlobSha": "618e7262e27f17f1fd28e299bc4c4f42360ad400",
+      "bytes": 1063,
+      "commit": "1f7ff63f247a577b2006b39cdba137fc129ad222"
+    },
+    "docs/sticker-submission/agent-stage-normal-stage-motions-10.zip": {
+      "path": "docs/sticker-submission/agent-stage-normal-stage-motions-10.zip",
+      "url": "https://github.com/gaomails2024/agent-stage/blob/1f7ff63f247a577b2006b39cdba137fc129ad222/docs/sticker-submission/agent-stage-normal-stage-motions-10.zip",
+      "rawUrl": "https://raw.githubusercontent.com/gaomails2024/agent-stage/1f7ff63f247a577b2006b39cdba137fc129ad222/docs/sticker-submission/agent-stage-normal-stage-motions-10.zip",
+      "sourceSha256": "34c428df198bdb88b2d3fe83da4722d2c065d49854583d478da21f19edb44dea",
+      "gitBlobSha": "1428aecbe12b362aa12c5ce67bdcce9f8da7efdb",
+      "bytes": 6313602,
+      "commit": "1f7ff63f247a577b2006b39cdba137fc129ad222"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/gaomails2024/agent-stage/blob/1f7ff63f247a577b2006b39cdba137fc129ad222/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/gaomails2024/agent-stage/1f7ff63f247a577b2006b39cdba137fc129ad222/README.md",
+    "sourceSha256": "a39080c3404d7346f7b59cd46df206723527ac0b2fc5e2f28101d927faf8a670",
+    "gitBlobSha": "110011ca49f075e83305a984424d4a468277d805",
+    "bytes": 6283,
+    "commit": "1f7ff63f247a577b2006b39cdba137fc129ad222"
+  },
+  "creatorSubmission": {
+    "number": 138,
+    "url": "https://github.com/lmy414/ai-girl-stickers/issues/138",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T15:12:11.159Z",
+    "title": "[投稿] Agent Stage 正常版舞台动效（10角色）",
+    "bodyHtmlSha256": "72f13192051e902a9e52838ed4b8c1349943fc8873cbdf7d322e818286fff885",
+    "bodySha256": "f31445164fb994c3789debff68df971f5e35b526eae40524a0ad734d8ee452c8",
+    "authorAccount": "gaomails2024",
+    "displayedAuthor": "gaomails2024",
+    "createdAt": "2026-10-29T10:20:29Z",
+    "updatedAt": "2026-11-03T15:25:11Z",
+    "state": "closed",
+    "files": [],
+    "termsDeclarations": []
+  },
+  "archive": {
+    "path": "docs/sticker-submission/agent-stage-normal-stage-motions-10.zip",
+    "url": "https://github.com/gaomails2024/agent-stage/blob/1f7ff63f247a577b2006b39cdba137fc129ad222/docs/sticker-submission/agent-stage-normal-stage-motions-10.zip",
+    "rawUrl": "https://raw.githubusercontent.com/gaomails2024/agent-stage/1f7ff63f247a577b2006b39cdba137fc129ad222/docs/sticker-submission/agent-stage-normal-stage-motions-10.zip",
+    "sourceSha256": "34c428df198bdb88b2d3fe83da4722d2c065d49854583d478da21f19edb44dea",
+    "gitBlobSha": "1428aecbe12b362aa12c5ce67bdcce9f8da7efdb",
+    "bytes": 6313602,
+    "commit": "1f7ff63f247a577b2006b39cdba137fc129ad222"
+  },
+  "archiveMembers": [
+    {
+      "member": "autoclaw-正常版舞台动效.webp",
+      "path": "docs/sticker-submission/autoclaw-正常版舞台动效.webp",
+      "bytes": 614274,
+      "gitBlobSha": "a0d647a48b2d0fa657b6d7c2ef31b9f15075816a",
+      "sourceSha256": "8a8ba02e10b1e65dfe6858fbf0ce2cb32f0799ffdc7caa3046d0ce5a10cb373e"
+    },
+    {
+      "member": "claude-code-正常版舞台动效.webp",
+      "path": "docs/sticker-submission/claude-code-正常版舞台动效.webp",
+      "bytes": 856384,
+      "gitBlobSha": "f8815e6e26c6a53d0a86f49ca55300025c39dd14",
+      "sourceSha256": "f9ce04973f349b97e5a70487de72e1e99a84b36c8aa465b27c0f65db80793fd5"
+    },
+    {
+      "member": "codebuddy-正常版舞台动效.webp",
+      "path": "docs/sticker-submission/codebuddy-正常版舞台动效.webp",
+      "bytes": 306530,
+      "gitBlobSha": "dee9df8d5cb071ca24cc30e013355982981de8ec",
+      "sourceSha256": "dc5b32cdea2b3d2faba05658d48f9804f37f56c12c35317349065ab6d57bf965"
+    },
+    {
+      "member": "codex-正常版舞台动效.webp",
+      "path": "docs/sticker-submission/codex-正常版舞台动效.webp",
+      "bytes": 775028,
+      "gitBlobSha": "98480204ff9e5fff34e80484010b902cbcd2ef6b",
+      "sourceSha256": "384d51827ad018acf63f2f765efd50e309c358ac697fd6b2bf2d2dcba4b5ed82"
+    },
+    {
+      "member": "doubao-正常版舞台动效.webp",
+      "path": "docs/sticker-submission/doubao-正常版舞台动效.webp",
+      "bytes": 512560,
+      "gitBlobSha": "85fd0520f61788f2a91256e02d3bb77b409c8a8a",
+      "sourceSha256": "baa2710b3238ca5fe01812563d8e331349132d0c2680d3439b74794e9a8faa5b"
+    },
+    {
+      "member": "dsh-正常版舞台动效.webp",
+      "path": "docs/sticker-submission/dsh-正常版舞台动效.webp",
+      "bytes": 1288138,
+      "gitBlobSha": "5624fb670bf36cbb8ed66c6dc013a4365a9ea555",
+      "sourceSha256": "17ebfa6d924a7b4a582e910ecfe33577a25838240f75a4679f4eb92070290d40"
+    },
+    {
+      "member": "grok-bot-正常版舞台动效.webp",
+      "path": "docs/sticker-submission/grok-bot-正常版舞台动效.webp",
+      "bytes": 461588,
+      "gitBlobSha": "ba267e25162c121215e41870736f29da88144b97",
+      "sourceSha256": "9249106558fabcb5972c1a006d00cf9a80ec392a509cba2b2c3cddabf7331ba3"
+    },
+    {
+      "member": "hermes-正常版舞台动效.webp",
+      "path": "docs/sticker-submission/hermes-正常版舞台动效.webp",
+      "bytes": 677754,
+      "gitBlobSha": "ed6ed951d2afe2ea3c13bc950bb2b97afec0244e",
+      "sourceSha256": "4b03807624f3307e5754a6a3ad4c6b9d019e406113763b8370a0207457041d9d"
+    },
+    {
+      "member": "marvis-正常版舞台动效.webp",
+      "path": "docs/sticker-submission/marvis-正常版舞台动效.webp",
+      "bytes": 553710,
+      "gitBlobSha": "4eede1f83cab5299f69d531022193234b4f04138",
+      "sourceSha256": "3c586974b638830717670d32a43a2d765ff0eb54922d6a1ed0c17c3c7b1bc45e"
+    },
+    {
+      "member": "workbuddy-正常版舞台动效.webp",
+      "path": "docs/sticker-submission/workbuddy-正常版舞台动效.webp",
+      "bytes": 271562,
+      "gitBlobSha": "196d46bf617204caeb946986cfb7949d63ae1e92",
+      "sourceSha256": "2b49a40b447b9e68269ff9e6179235576c62a214693898c61ecf102e6226bfc9"
+    }
+  ],
+  "archiveScope": "The ten ZIP members match the corresponding Git blob IDs at the pinned revision.",
+  "method": "github-rest-tree-and-isolated-headless-google-chrome"
+}

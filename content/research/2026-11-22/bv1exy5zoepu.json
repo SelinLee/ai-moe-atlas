@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:08.331Z",
+  "url": "https://www.bilibili.com/video/BV1exy5zoEPu/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1exy5zoEPu",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1exy5zoEPu",
+    "title": "《不可证明的回响》UNPROVABLE ECHOES  ｜  deepseek娘动画短片",
+    "owner": {
+      "name": "Kalojira",
+      "mid": 49803563
+    },
+    "pubdate": 1795357196,
+    "duration": 606
+  },
+  "descriptionSha256": "e3c9da6e85f88750737928a704d1b092ef7f13bac95f2469d7141431427e2a2c",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "title": "《不可证明的回响》UNPROVABLE ECHOES  ｜  deepseek娘动画短片",
+    "publisher": "Kalojira",
+    "observedAt": "2026-11-22T15:09:43.952Z",
+    "httpStatus": 200,
+    "htmlSha256": "8fbe24d16132c7df24553814b60fa05aaa306b56c9fb9f0607e8abeef4b66cfd"
+  }
+}

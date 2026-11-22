@@ -1,0 +1,31 @@
+{
+  "number": 130,
+  "url": "https://github.com/lmy414/ai-girl-stickers/issues/130",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:12:07.322Z",
+  "title": "[投稿] 从终端里钻出来的小克",
+  "bodyHtmlSha256": "208da3e70ac90ddd1ce80dcccfe534da92fcb592d5b3a444e023503a6af4475c",
+  "bodySha256": "f47d775632c8f9960da8b8b7f82a1cb72ef9878205fd213f90330ecd93fe6493",
+  "authorAccount": "ninondev",
+  "displayedAuthor": "Ninon",
+  "createdAt": "2026-10-21T06:49:51Z",
+  "updatedAt": "2026-10-21T16:22:29Z",
+  "state": "closed",
+  "files": [
+    {
+      "position": 1,
+      "url": "https://github.com/user-attachments/assets/1f0306fc-f01b-443c-8914-118869f7fade",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:12:07.320Z",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "bytes": 1449515,
+      "sourceSha256": "a09253e32320f9fe12ff0c8248cbcdae40ebe20e57f798531140ba57c592b302"
+    }
+  ],
+  "termsDeclarations": [
+    "CC BY-NC 4.0"
+  ],
+  "method": "github-issue-connector-and-isolated-headless-google-chrome"
+}

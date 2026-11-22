@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:09.068Z",
+  "url": "https://www.bilibili.com/video/BV1ALyuzFErJ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ALyuzFErJ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1ALyuzFErJ",
+    "title": "兰生幽谷 × Claude娘 【bilibilionly同人扶持计划】",
+    "owner": {
+      "name": "穿睡衣的小白白",
+      "mid": 10706217
+    },
+    "pubdate": 1795343400,
+    "duration": 32
+  },
+  "descriptionSha256": "9883497264b14982f2ac73b806c56eaca2fd38f4e77de6949a35e5825553ee95",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "title": "兰生幽谷 × Claude娘 【bilibilionly同人扶持计划】",
+    "publisher": "穿睡衣的小白白",
+    "observedAt": "2026-11-22T15:09:43.952Z",
+    "httpStatus": 200,
+    "htmlSha256": "8fbe24d16132c7df24553814b60fa05aaa306b56c9fb9f0607e8abeef4b66cfd"
+  }
+}

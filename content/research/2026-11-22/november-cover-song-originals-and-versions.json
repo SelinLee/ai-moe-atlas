@@ -1,0 +1,142 @@
+{
+  "method": "isolated-headless-google-chrome-official-release-and-bilibili-view-detail",
+  "tracks": [
+    {
+      "id": "rice-field",
+      "officialSource": {
+        "artistName": "周杰倫",
+        "trackName": "稻香",
+        "trackId": 1624001324,
+        "collectionName": "魔杰座",
+        "releaseDate": "2008-10-14T12:00:00Z",
+        "url": "https://music.apple.com/tw/song/1624001324",
+        "finalUrl": "https://music.apple.com/tw/song/%E7%A8%BB%E9%A6%99/1624001324",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:16:17.071Z",
+        "pageTitle": "‎〈稻香〉- 由周杰倫演唱（附歌詞）- Apple Music",
+        "htmlSha256": "8b88c8f853a15b79c981ce1403288ae6e2cc394dc67439e4f4dc61d7cd29e70e"
+      },
+      "fanVersion": {
+        "bvid": "BV1mMyazAEyc",
+        "url": "https://www.bilibili.com/video/BV1mMyazAEyc/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1mMyazAEyc",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:13:57.189Z",
+        "bodySha256": "27f5c3434b1824f4452010a8bb84bac1263239ad206a2fdc5f750ccb621d6782",
+        "musicTag": "发现《稻香》",
+        "uploaderDescriptionSha256": "cfa85c4498b0dcbd3ea654e689df14db4a52b6b6388156446660553803adc854"
+      }
+    },
+    {
+      "id": "thinking-of-you-365-days",
+      "officialSource": {
+        "url": "https://music.taiwanmobile.com/mi/Song/song?albumId=070626&contentId=120489&fromPageId=2107&songId=0000541249",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:19:22.278Z",
+        "title": "想你的365天-李玟 Coco｜音樂達人-台灣大哥大行動加值服務",
+        "heading": "想你的365天",
+        "htmlSha256": "a38c98cf2518a8ccd9252ce79177793e31c17a223439b8ed538781b5e1f58064"
+      },
+      "fanVersion": {
+        "bvid": "BV1jQygzWEYo",
+        "url": "https://www.bilibili.com/video/BV1jQygzWEYo/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1jQygzWEYo",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:13:57.148Z",
+        "bodySha256": "830bb781495876fdfd22ffbcfa38fd1b2649e39de466d648d2d6992110107703",
+        "musicTag": "发现《想你的365天》",
+        "uploaderDescriptionSha256": "53f2b65e1ffd4a40523d3a18c94478a64ca523392f73ccd5d8f718b38371ca94"
+      }
+    },
+    {
+      "id": "later-rene-liu",
+      "officialSource": {
+        "artistName": "劉若英",
+        "trackName": "後來",
+        "trackId": 640484089,
+        "collectionName": "滾石三十青春音樂記事簿: 祝你幸福",
+        "releaseDate": "2000-01-01T12:00:00Z",
+        "url": "https://music.apple.com/tw/song/640484089",
+        "finalUrl": "https://music.apple.com/tw/song/%E5%BE%8C%E4%BE%86/640484089",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:16:17.071Z",
+        "pageTitle": "‎〈後來〉- 由劉若英演唱（附歌詞）- Apple Music",
+        "htmlSha256": "2f527c9f84db9230c89640e9352525179caa744527a845b71e4a8ca6db0b4fbd"
+      },
+      "fanVersion": {
+        "bvid": "BV1yRs462EWK",
+        "url": "https://www.bilibili.com/video/BV1yRs462EWK/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1yRs462EWK",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:13:57.175Z",
+        "bodySha256": "2f3e5de0b4a84003b28a98a8c07ea79ede4970e61bba15f0390be8e537a52305",
+        "musicTag": "发现《后来》",
+        "uploaderDescriptionSha256": "2f54b861ea29f1a9dbe096374ad028a4ef1ff1c23edde77b5412099d1015f4f9"
+      }
+    },
+    {
+      "id": "lavi-bavellabion",
+      "officialSource": {
+        "id": "magical-girl-witch-trials-ost",
+        "url": "https://www.fwinc.co.jp/manosaba_CD/haishin",
+        "finalUrl": "https://www.fwinc.co.jp/manosaba_CD/haishin",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:13:51.673Z",
+        "htmlSha256": "6e76e2ed58615133f213e0a9f5fd0fe34c29b6e9078304fa7fa3ebc9da219b1d",
+        "title": "【配信】コンプリートオリジナルサウンドトラック - 『魔法少女ノ魔女裁判』CD特設サイト",
+        "og": "【配信】コンプリートオリジナルサウンドトラック - 『魔法少女ノ魔女裁判』CD特設サイト"
+      },
+      "fanVersion": {
+        "bvid": "BV1ucsB6WEaD",
+        "url": "https://www.bilibili.com/video/BV1ucsB6WEaD/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1ucsB6WEaD",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:13:57.157Z",
+        "bodySha256": "d1733c7c6d1bfbc0c63ed6fe0d257df92dba536a244f72a7af111f717fc1a5a9",
+        "musicTag": "发现《LaVI-Bavellabion (COVER版)》",
+        "uploaderDescriptionSha256": "07cd3cc31ec4535d0f12dd7add3b774ca0717ce468e29685bb294e2bebd32f9f"
+      },
+      "note": "The upload specifically cites the GUMI recording. The original release link indexes the game soundtrack version."
+    },
+    {
+      "id": "madear-madear",
+      "officialSource": {
+        "id": "magical-girl-witch-trials-ost",
+        "url": "https://www.fwinc.co.jp/manosaba_CD/haishin",
+        "finalUrl": "https://www.fwinc.co.jp/manosaba_CD/haishin",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:13:51.673Z",
+        "htmlSha256": "6e76e2ed58615133f213e0a9f5fd0fe34c29b6e9078304fa7fa3ebc9da219b1d",
+        "title": "【配信】コンプリートオリジナルサウンドトラック - 『魔法少女ノ魔女裁判』CD特設サイト",
+        "og": "【配信】コンプリートオリジナルサウンドトラック - 『魔法少女ノ魔女裁判』CD特設サイト"
+      },
+      "fanVersion": {
+        "bvid": "BV1tDypzkEj1",
+        "url": "https://www.bilibili.com/video/BV1tDypzkEj1/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1tDypzkEj1",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:13:57.206Z",
+        "bodySha256": "6e2abc5d5c1ca50c5edf89c12beb7ef999fb9745f47793d4c6eb19b3faf8ddf5",
+        "musicTag": "MAdEaR MAdEaR",
+        "uploaderDescriptionSha256": "2a9df9eaa19df47d8392ac64248fee010dd4dcb1f351c68173ee81e2ff5d077d"
+      }
+    },
+    {
+      "id": "rainie-love",
+      "existingOriginal": {
+        "credit": "楊丞琳 · Rainie Yang",
+        "url": "https://www.youtube.com/watch?v=oec9R5ypf-o"
+      },
+      "fanVersion": {
+        "bvid": "BV1dHWj6vENX",
+        "url": "https://www.bilibili.com/video/BV1dHWj6vENX/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1dHWj6vENX",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:13:57.952Z",
+        "bodySha256": "12c1661d2fcab6f089949fc6751946052f001db986bc27e1ad08e2c4fd42d1ed",
+        "musicTag": "发现《雨爱》",
+        "uploaderDescriptionSha256": "080741cd1583d96b8ed0572c21a65a15c59596a5a82122c4460584550978c2d9"
+      }
+    }
+  ]
+}

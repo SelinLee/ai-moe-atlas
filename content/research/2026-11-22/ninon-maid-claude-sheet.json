@@ -1,0 +1,29 @@
+{
+  "number": 123,
+  "url": "https://github.com/lmy414/ai-girl-stickers/issues/123",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:57.667Z",
+  "title": "[投稿] 女仆 Claude 娘设定图",
+  "bodyHtmlSha256": "2fed4c05ce406eb66f7c1cd585744b5ccdff2f46202adb81bcd3f0e17545dc42",
+  "bodySha256": "8279bade8b7644345dad59a27ed42e4fc79db455ca50aa29c7051ff0f7845ada",
+  "authorAccount": "ninondev",
+  "displayedAuthor": "Ninon",
+  "createdAt": "2026-10-16T06:16:49Z",
+  "updatedAt": "2026-10-16T16:25:00Z",
+  "state": "closed",
+  "files": [
+    {
+      "position": 1,
+      "url": "https://github.com/user-attachments/assets/4b73dae3-0f10-4c63-9923-98065cfefafc",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:11:57.664Z",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "bytes": 2692633,
+      "sourceSha256": "c18e77a7833649e33d0204af7896dfbf3883fc0a3c73f85905e8c2ce546a83b3"
+    }
+  ],
+  "termsDeclarations": [],
+  "method": "github-issue-connector-and-isolated-headless-google-chrome"
+}

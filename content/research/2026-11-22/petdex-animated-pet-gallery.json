@@ -1,0 +1,60 @@
+{
+  "full_name": "crafter-station/petdex",
+  "html_url": "https://github.com/crafter-station/petdex",
+  "stargazers_count": 4376,
+  "archived": false,
+  "created_at": "2026-05-02T07:51:35Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "A public gallery of animated pets for Codex, Claude Code, DeepSeek Harness, Hermes, OpenCode, Gemini CLI, and more.",
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "commit": "146ed0b86fc930ee81d48f7f6b1dc1e2be1e8135",
+  "observedAt": "2026-11-22T15:11:05.935+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:12:39.213Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/crafter-station/petdex/blob/146ed0b86fc930ee81d48f7f6b1dc1e2be1e8135/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/crafter-station/petdex/146ed0b86fc930ee81d48f7f6b1dc1e2be1e8135/README.md",
+      "sourceSha256": "f05d6ad7468717353c75769d992b65574f70d1b9c6caef04f684b2cb41cb44b3",
+      "gitBlobSha": "c1eadca03b0d8a97a2af6ecdd8b49f789bb9ae11",
+      "bytes": 8271,
+      "commit": "146ed0b86fc930ee81d48f7f6b1dc1e2be1e8135"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "url": "https://github.com/crafter-station/petdex/blob/146ed0b86fc930ee81d48f7f6b1dc1e2be1e8135/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/crafter-station/petdex/146ed0b86fc930ee81d48f7f6b1dc1e2be1e8135/LICENSE",
+      "sourceSha256": "c975db458018e004f4e82f00a0b03d883804afdaacfbfbf00a960e6448838327",
+      "gitBlobSha": "e20774c96fa4013d655b6fa8e7673e2f774734b2",
+      "bytes": 1072,
+      "commit": "146ed0b86fc930ee81d48f7f6b1dc1e2be1e8135"
+    },
+    "docs/README.md": {
+      "path": "docs/README.md",
+      "url": "https://github.com/crafter-station/petdex/blob/146ed0b86fc930ee81d48f7f6b1dc1e2be1e8135/docs/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/crafter-station/petdex/146ed0b86fc930ee81d48f7f6b1dc1e2be1e8135/docs/README.md",
+      "sourceSha256": "8baf02404839017f0786ccfd4814447078629734fb51689dcb8380c7c5b35f87",
+      "gitBlobSha": "1873de413bb3ce29eaac63a820462b00dd691083",
+      "bytes": 2424,
+      "commit": "146ed0b86fc930ee81d48f7f6b1dc1e2be1e8135"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/crafter-station/petdex/blob/146ed0b86fc930ee81d48f7f6b1dc1e2be1e8135/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/crafter-station/petdex/146ed0b86fc930ee81d48f7f6b1dc1e2be1e8135/README.md",
+    "sourceSha256": "f05d6ad7468717353c75769d992b65574f70d1b9c6caef04f684b2cb41cb44b3",
+    "gitBlobSha": "c1eadca03b0d8a97a2af6ecdd8b49f789bb9ae11",
+    "bytes": 8271,
+    "commit": "146ed0b86fc930ee81d48f7f6b1dc1e2be1e8135"
+  },
+  "method": "github-rest-tree-and-isolated-headless-google-chrome"
+}

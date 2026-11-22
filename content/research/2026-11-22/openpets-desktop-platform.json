@@ -1,0 +1,60 @@
+{
+  "full_name": "OpenPetsHQ/openpets",
+  "html_url": "https://github.com/OpenPetsHQ/openpets",
+  "stargazers_count": 1402,
+  "archived": false,
+  "created_at": "2026-05-04T19:14:46Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "Local first, desktop companion platform with animated pets, plugin SDK and coding-agent integrations.",
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "commit": "9153e40ed37617243f903b074161d7df4bbd27b0",
+  "observedAt": "2026-11-22T15:11:05.640+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:12:36.353Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/OpenPetsHQ/openpets/blob/9153e40ed37617243f903b074161d7df4bbd27b0/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/OpenPetsHQ/openpets/9153e40ed37617243f903b074161d7df4bbd27b0/README.md",
+      "sourceSha256": "0b1e5e1c8f667b84a24bb1c726b299c52f0b7f13e6eb1ca82309dee39f818c6d",
+      "gitBlobSha": "ef0b6e58e56c0813f100fbcea52e31ebc5f68144",
+      "bytes": 16782,
+      "commit": "9153e40ed37617243f903b074161d7df4bbd27b0"
+    },
+    "README.zh-Hans.md": {
+      "path": "README.zh-Hans.md",
+      "url": "https://github.com/OpenPetsHQ/openpets/blob/9153e40ed37617243f903b074161d7df4bbd27b0/README.zh-Hans.md",
+      "rawUrl": "https://raw.githubusercontent.com/OpenPetsHQ/openpets/9153e40ed37617243f903b074161d7df4bbd27b0/README.zh-Hans.md",
+      "sourceSha256": "770eb17322a7b2302747e5a960878447b6c07a7c40c05ca6f00c7e6b9aa4b414",
+      "gitBlobSha": "5ebeb9e79b066482867192c2b8b2a3b3d6ae833f",
+      "bytes": 12660,
+      "commit": "9153e40ed37617243f903b074161d7df4bbd27b0"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "url": "https://github.com/OpenPetsHQ/openpets/blob/9153e40ed37617243f903b074161d7df4bbd27b0/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/OpenPetsHQ/openpets/9153e40ed37617243f903b074161d7df4bbd27b0/LICENSE",
+      "sourceSha256": "ff1965c8f5bdebfb28f63b208ee8e0fa381ae5e9be4146e12206bf3eeeeb72ed",
+      "gitBlobSha": "950628f106d38c8d11057cbb0e6a4fa26d891f2e",
+      "bytes": 1065,
+      "commit": "9153e40ed37617243f903b074161d7df4bbd27b0"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/OpenPetsHQ/openpets/blob/9153e40ed37617243f903b074161d7df4bbd27b0/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/OpenPetsHQ/openpets/9153e40ed37617243f903b074161d7df4bbd27b0/README.md",
+    "sourceSha256": "0b1e5e1c8f667b84a24bb1c726b299c52f0b7f13e6eb1ca82309dee39f818c6d",
+    "gitBlobSha": "ef0b6e58e56c0813f100fbcea52e31ebc5f68144",
+    "bytes": 16782,
+    "commit": "9153e40ed37617243f903b074161d7df4bbd27b0"
+  },
+  "method": "github-rest-tree-and-isolated-headless-google-chrome"
+}

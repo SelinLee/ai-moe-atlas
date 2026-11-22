@@ -1,0 +1,81 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:16:26.748Z",
+  "url": "https://www.pixiv.net/artworks/150323370",
+  "pixiv": {
+    "url": "https://www.pixiv.net/artworks/150323370",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T15:16:26.748Z",
+    "htmlSha256": "64e6fd3cecc2f114b1249e75fb108cc75d35863a57a6c86e97e3e1fb6c43be51",
+    "title": "Gemini Pro ver1.00",
+    "author": "我已经有杰米奈了",
+    "authorId": "129846508",
+    "original": {
+      "url": "https://i.pximg.net/img-original/img/2026/10/01/17/23/21/150323370_p0.jpg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:16:19.673Z",
+      "width": 1076,
+      "height": 1462,
+      "format": "jpeg",
+      "bytes": 1509843,
+      "sourceSha256": "0b4f01f8ca45c7bf4387584937226d611565891c3027265ad10d93631aa12524"
+    },
+    "descriptionSha256": "a000aa19994cd4d3e4c12af1507bf39c8ad15b49ed9ad2046a3a51cb884dac36"
+  },
+  "geminiIssue": {
+    "url": "https://github.com/lmy414/ai-girl-stickers/issues/119",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T15:16:26.753Z",
+    "title": "AI拟人化形象——Gemini Flash",
+    "bodySha256": "a8fee1680bbd761b16f3925965f054d13f422f360a5f4ce88fcd873fa543bd4c",
+    "author": "Qinv-collab",
+    "htmlSha256": "193e3e0fa6722c8b0edca3385a90acd43dc597b1e7755620b3e4604cbc1c63e3",
+    "createdAt": "2026-10-13T08:31:59Z",
+    "files": [
+      {
+        "url": "https://github.com/user-attachments/assets/84b7917b-3cfd-43e6-958f-b6892dbb8644",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:16:26.717Z",
+        "width": 1076,
+        "height": 1462,
+        "format": "png",
+        "bytes": 1749825,
+        "sourceSha256": "4c3bcdb25df68f9c415e1e6120ac06c57c577a6a6b86941811834ff9a857ebcb"
+      },
+      {
+        "url": "https://github.com/user-attachments/assets/7b390e40-5df3-48ff-8099-62080c34b336",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:16:26.644Z",
+        "width": 1310,
+        "height": 1200,
+        "format": "png",
+        "bytes": 2138922,
+        "sourceSha256": "619972242d60167b080335a7c2ed09909b84a273497f5429bf049443219ab065"
+      },
+      {
+        "url": "https://github.com/user-attachments/assets/e41b5d49-5853-446a-8671-d8595dadc73b",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:16:26.700Z",
+        "width": 1374,
+        "height": 1145,
+        "format": "png",
+        "bytes": 2378293,
+        "sourceSha256": "bd0308d679ca0dd23bc99493b0c4694cb748487a5dc7912545dd1f17b31d0e45"
+      }
+    ]
+  },
+  "compare": [
+    {
+      "url": "https://github.com/user-attachments/assets/84b7917b-3cfd-43e6-958f-b6892dbb8644",
+      "identicalBytes": false,
+      "matchingChannelFraction": 0.38307094472612246,
+      "meanChannelDifference": 43.75507179399814
+    }
+  ],
+  "license": {
+    "identifier": "CC BY-NC-SA 4.0",
+    "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "scope": "Pixiv illustration explicitly labeled in creator caption"
+  },
+  "assessment": "The matching-dimension GitHub PNG differs in both bytes and decoded pixels. The school uniform is a separate upload with its own stated scope."
+}

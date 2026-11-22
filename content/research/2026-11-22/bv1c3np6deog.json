@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:13.197Z",
+  "url": "https://www.bilibili.com/video/BV1C3np6dEog/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1C3np6dEog",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1C3np6dEog",
+    "title": "鲸天魔盗团预告PV主演：蓝色大肥鱼，小克，GLM，Grok，以及隐身的龙娘",
+    "owner": {
+      "name": "红灰叶",
+      "mid": 399953884
+    },
+    "pubdate": 1792671818,
+    "duration": 16
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20%E4%BA%8C%E5%88%9B&order=pubdate",
+    "title": "鲸天魔盗团预告PV主演：蓝色大肥鱼，小克，GLM，Grok，以及隐身的龙娘",
+    "publisher": "红灰叶",
+    "observedAt": "2026-11-22T15:09:51.135Z",
+    "httpStatus": 200,
+    "htmlSha256": "5338ca7a8e0b61aad784d92d06e42ad871a19102a0e3dc61f0637e009511d21a"
+  }
+}

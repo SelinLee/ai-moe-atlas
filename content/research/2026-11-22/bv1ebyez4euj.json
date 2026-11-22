@@ -1,0 +1,32 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:09.069Z",
+  "url": "https://www.bilibili.com/video/BV1Ebyez4EUj/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ebyez4EUj",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Ebyez4EUj",
+    "title": "五个人终于建了个群，然后开始为群名互相拆台｜《AI GIRLS》日常篇 第2话",
+    "owner": {
+      "name": "是一只啾咪酱呀",
+      "mid": 3546930036607803
+    },
+    "pubdate": 1795320000,
+    "duration": 156
+  },
+  "descriptionSha256": "5237c9e4eaa1faae641982ec45a128efdf7ed469b6ff10939762830750bfabeb",
+  "uploaderCredits": [
+    "萤火之森QWQ"
+  ],
+  "linkedVideos": [
+    "BV1YSpu6gEh1"
+  ],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "title": "五个人终于建了个群，然后开始为群名互相拆台｜《AI GIRLS》日常篇 第2话",
+    "publisher": "是一只啾咪酱呀",
+    "observedAt": "2026-11-22T15:09:43.952Z",
+    "httpStatus": 200,
+    "htmlSha256": "8fbe24d16132c7df24553814b60fa05aaa306b56c9fb9f0607e8abeef4b66cfd"
+  }
+}

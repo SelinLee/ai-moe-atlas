@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:09.069Z",
+  "url": "https://www.bilibili.com/video/BV1m4yhzwERK/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1m4yhzwERK",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1m4yhzwERK",
+    "title": "【GPT小龙娘】出门买点东西｜AI娘的无台词日常",
+    "owner": {
+      "name": "chatgpt小龙娘在运营",
+      "mid": 3546871719004732
+    },
+    "pubdate": 1795309200,
+    "duration": 109
+  },
+  "descriptionSha256": "a9ee2ce5734e416c9fe317206d8cf625961b93c6bb41d1ec4eb89ca7b2e08a90",
+  "uploaderCredits": [
+    "しゃろう"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "title": "【GPT小龙娘】出门买点东西｜AI娘的无台词日常",
+    "publisher": "chatgpt小龙娘在运营",
+    "observedAt": "2026-11-22T15:09:43.952Z",
+    "httpStatus": 200,
+    "htmlSha256": "8fbe24d16132c7df24553814b60fa05aaa306b56c9fb9f0607e8abeef4b66cfd"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:12.444Z",
+  "url": "https://www.bilibili.com/video/BV166ybzCEvr/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV166ybzCEvr",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV166ybzCEvr",
+    "title": "【AI娘】unhappy",
+    "owner": {
+      "name": "薇纷芳橙",
+      "mid": 504297882
+    },
+    "pubdate": 1795258800,
+    "duration": 99
+  },
+  "descriptionSha256": "f00d9b2398596b7335545008d38ccd605f8b0d96f0af25854118f4a6a07d1e10",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "s0rrow"
+  ],
+  "linkedVideos": [
+    "BV1NmZABcEBU",
+    "BV14phK66Ejw"
+  ],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "title": "【AI娘】unhappy",
+    "publisher": "薇纷芳橙",
+    "observedAt": "2026-11-22T15:09:43.952Z",
+    "httpStatus": 200,
+    "htmlSha256": "8fbe24d16132c7df24553814b60fa05aaa306b56c9fb9f0607e8abeef4b66cfd"
+  }
+}

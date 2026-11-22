@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:09.972Z",
+  "url": "https://www.bilibili.com/video/BV1JrnH67EXo/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JrnH67EXo",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1JrnH67EXo",
+    "title": "大肥鱼领衔AI娘联盟【bilibilionly同人扶持计划】",
+    "owner": {
+      "name": "骞影魔王k",
+      "mid": 1479680
+    },
+    "pubdate": 1792677404,
+    "duration": 35
+  },
+  "descriptionSha256": "73178103ac1c4abfada0e2912c11f602d0866ba4076e7fae220e8198576c1dac",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%B1%86%E5%8C%85%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "title": "大肥鱼领衔AI娘联盟【bilibilionly同人扶持计划】",
+    "publisher": "骞影魔王k",
+    "observedAt": "2026-11-22T15:09:43.920Z",
+    "httpStatus": 200,
+    "htmlSha256": "c4c6604c868db8e7d0f5d5d8829421c7505258aa3be8397fd2415354a7e92bce"
+  }
+}

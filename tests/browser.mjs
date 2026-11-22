@@ -90,7 +90,10 @@ try {
   assert.equal(await page.locator('#style-filter').inputValue(),'pixel');
   const saved=page.url();await page.reload();assert.equal(await page.locator('[data-card]:visible').count(),1);
   const other=await context.newPage();await other.goto(saved);assert.equal(await other.locator('[data-card]:visible').count(),1);await other.close();
-  await page.locator('#style-filter').selectOption('anime');assert.equal(await page.locator('[data-card]:visible').count(),0);
+  await page.locator('#style-filter').selectOption('anime');
+  const animeMatches=page.locator('[data-card]:visible');
+  assert.equal(await animeMatches.count(),1);
+  assert.ok(await animeMatches.locator('a[href$="/characters/ninon-coco/"]').first().isVisible());
   await page.goBack({waitUntil:'domcontentloaded'});assert.equal(await page.locator('#style-filter').inputValue(),'pixel');assert.equal(await page.locator('[data-card]:visible').count(),1);
   await page.goForward({waitUntil:'domcontentloaded'});assert.equal(await page.locator('#style-filter').inputValue(),'anime');
   const to=lang==='ja'?'en':'ja';await page.locator(`.language-switch a[hreflang="${to}"]`).click();

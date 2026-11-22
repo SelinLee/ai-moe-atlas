@@ -1,0 +1,31 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:13.197Z",
+  "url": "https://www.bilibili.com/video/BV1tDypzkEj1/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tDypzkEj1",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1tDypzkEj1",
+    "title": "【大肥鱼翻唱】MAdEaR MAdEaR｜魔法少女的魔女审判 OP2",
+    "owner": {
+      "name": "深水区的小鲸鱼",
+      "mid": 3747576293624805
+    },
+    "pubdate": 1795170433,
+    "duration": 227
+  },
+  "descriptionSha256": "2a9df9eaa19df47d8392ac64248fee010dd4dcb1f351c68173ee81e2ff5d077d",
+  "uploaderCredits": [
+    "星落落_oi",
+    "SLAVE.V-V-R"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%93%9D%E8%89%B2%E5%A4%A7%E8%82%A5%E9%B1%BC%20AI%E7%BF%BB%E5%94%B1%20%E5%8A%A8%E7%94%BBMV&order=pubdate",
+    "title": "【大肥鱼翻唱】MAdEaR MAdEaR｜魔法少女的魔女审判 OP2",
+    "publisher": "深水区的小鲸鱼",
+    "observedAt": "2026-11-22T15:09:55.799Z",
+    "httpStatus": 200,
+    "htmlSha256": "3ab2e8b895530b16241896f153a8bbcd809cb909d19f88ef99851f08f760fd11"
+  }
+}

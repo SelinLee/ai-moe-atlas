@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:10.446Z",
+  "url": "https://www.bilibili.com/video/BV1n6sx6MEeU/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1n6sx6MEeU",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1n6sx6MEeU",
+    "title": "其实你去不了二次元，但四只AI娘给你画了一个 | Я хочу быть 2D",
+    "owner": {
+      "name": "摸鱼制作部",
+      "mid": 1144073575
+    },
+    "pubdate": 1795050000,
+    "duration": 115
+  },
+  "descriptionSha256": "bed891a6d022be8c4e6296811b6f1888addc6ee4be659cab8d0d84ed5439ebe5",
+  "uploaderCredits": [
+    "Ручной Рептилоид"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "title": "其实你去不了二次元，但四只AI娘给你画了一个 | Я хочу быть 2D",
+    "publisher": "摸鱼制作部",
+    "observedAt": "2026-11-22T15:09:43.928Z",
+    "httpStatus": 200,
+    "htmlSha256": "20b9e0c14cf5113d4ddb299498351465b1699c1a7652e900b3ac7bbde7da72b5"
+  }
+}

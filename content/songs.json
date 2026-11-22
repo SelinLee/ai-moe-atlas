@@ -67,7 +67,8 @@
       {"id": "bv1u64q69eym", "type": "cover"},
       {"id": "bv1dw4q6vegq", "type": "cover"},
       {"id": "bv1zdxs6ue4j", "type": "cover"},
-      {"id": "bv11fsc6be2h", "type": "cover"}
+      {"id": "bv11fsc6be2h", "type": "cover"},
+      {"id": "bv1dhwj6venx", "type": "cover"}
     ]
   },
   {
@@ -357,5 +358,35 @@
     "title": {"zh": "删了一百遍", "en": "Deleted a Hundred Times", "ja": "删了一百遍"},
     "original": {"credit": "A-Lin", "url": "https://www.youtube.com/watch?v=HzpDg83IElA"},
     "versions": [{"id": "bv19znu6jeon", "type": "mv"}]
+  },
+  {
+    "id": "rice-field",
+    "title": {"zh": "稻香", "en": "Rice Field", "ja": "稲香"},
+    "original": {"credit": "周杰倫 · Jay Chou", "url": "https://music.apple.com/tw/song/1624001324"},
+    "versions": [{"id": "bv1mmyazaeyc", "type": "cover"}]
+  },
+  {
+    "id": "thinking-of-you-365-days",
+    "title": {"zh": "想你的365天", "en": "Thinking of You 365 Days", "ja": "想你的365天"},
+    "original": {"credit": "李玟 · CoCo Lee", "url": "https://music.taiwanmobile.com/mi/Song/song?albumId=070626&contentId=120489&fromPageId=2107&songId=0000541249"},
+    "versions": [{"id": "bv1jqygzweyo", "type": "cover"}]
+  },
+  {
+    "id": "later-rene-liu",
+    "title": {"zh": "后来", "en": "Later", "ja": "後來"},
+    "original": {"credit": "劉若英 · René Liu", "url": "https://music.apple.com/tw/song/640484089"},
+    "versions": [{"id": "bv1yrs462ewk", "type": "cover"}]
+  },
+  {
+    "id": "lavi-bavellabion",
+    "title": {"zh": "LaVI-Bavellabion", "en": "LaVI-Bavellabion", "ja": "LaVI-Bavellabion"},
+    "original": {"credit": "SLAVE.V-V-R · Acacia OST", "url": "https://www.fwinc.co.jp/manosaba_CD/haishin"},
+    "versions": [{"id": "bv1ucsb6wead", "type": "cover"}]
+  },
+  {
+    "id": "madear-madear",
+    "title": {"zh": "MAdEaR MAdEaR", "en": "MAdEaR MAdEaR", "ja": "MAdEaR MAdEaR"},
+    "original": {"credit": "SLAVE.V-V-R · Acacia OST", "url": "https://www.fwinc.co.jp/manosaba_CD/haishin"},
+    "versions": [{"id": "bv1tdypzkej1", "type": "cover"}]
   }
 ]

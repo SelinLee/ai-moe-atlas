@@ -1,0 +1,31 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:10.446Z",
+  "url": "https://www.bilibili.com/video/BV1wyyWziEiE/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wyyWziEiE",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1wyyWziEiE",
+    "title": "我让 Claude 给自己做了一支 MV｜紫色の向日葵",
+    "owner": {
+      "name": "年轻的小丁丁",
+      "mid": 484090033
+    },
+    "pubdate": 1795165566,
+    "duration": 278
+  },
+  "descriptionSha256": "2a97c8f241cdd49fc4046b9befbee16972604ff667cbf43dc7b4d46ae588a531",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "香椎モイミ"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "title": "我让 Claude 给自己做了一支 MV｜紫色の向日葵",
+    "publisher": "年轻的小丁丁",
+    "observedAt": "2026-11-22T15:09:43.928Z",
+    "httpStatus": 200,
+    "htmlSha256": "20b9e0c14cf5113d4ddb299498351465b1699c1a7652e900b3ac7bbde7da72b5"
+  }
+}

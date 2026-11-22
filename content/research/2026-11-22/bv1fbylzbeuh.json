@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:09.955Z",
+  "url": "https://www.bilibili.com/video/BV1fByLzBEUH/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fByLzBEUH",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1fByLzBEUH",
+    "title": "【DeepSeek】紫罗兰永恒花园 （TV动画/CM）",
+    "owner": {
+      "name": "阿凉燃良茶",
+      "mid": 15263078
+    },
+    "pubdate": 1795347000,
+    "duration": 34
+  },
+  "descriptionSha256": "ff4f8d95a81ffe90b138a273e098838f7b28f8e13a4b473552999bb82857d6e9",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "title": "【DeepSeek】紫罗兰永恒花园 （TV动画/CM）",
+    "publisher": "阿凉燃良茶",
+    "observedAt": "2026-11-22T15:09:43.929Z",
+    "httpStatus": 200,
+    "htmlSha256": "b52af5da5a93806bd126244134149bf525ae8cf6af957996f6f3130f7fd9432a"
+  }
+}

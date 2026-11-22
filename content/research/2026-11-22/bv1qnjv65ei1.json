@@ -1,0 +1,32 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:10.952Z",
+  "url": "https://www.bilibili.com/video/BV1qnJv65Ei1/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qnJv65Ei1",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1qnJv65Ei1",
+    "title": "【Kimi×GLM】我觉得GLM就是受.....",
+    "owner": {
+      "name": "1s10e5_",
+      "mid": 393488454
+    },
+    "pubdate": 1792214740,
+    "duration": 25
+  },
+  "descriptionSha256": "1ec3db7d8a70401058649e7855a4b6388d3a5d520697337973cce825805852d0",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "高田憂希",
+    "寿美菜子"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Kimi%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "title": "【Kimi×GLM】我觉得GLM就是受.....",
+    "publisher": "1s10e5_",
+    "observedAt": "2026-11-22T15:09:48.228Z",
+    "httpStatus": 200,
+    "htmlSha256": "b7235286625d2b6b132795e000a54f1cb58321dcc783f3449badd6b30dc0ce04"
+  }
+}

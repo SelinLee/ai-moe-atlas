@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:10.468Z",
+  "url": "https://www.bilibili.com/video/BV1LHsC65EvB/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LHsC65EvB",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1LHsC65EvB",
+    "title": "「我画地为牢啊，用户！」｜《Hello Claude》原创动画预告",
+    "owner": {
+      "name": "AozakiArisu",
+      "mid": 15579383
+    },
+    "pubdate": 1794970800,
+    "duration": 90
+  },
+  "descriptionSha256": "2c97043efc9c1826f76092661516d0fa7a4adbf3ee88a17524e3163603a43f3c",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "title": "「我画地为牢啊，用户！」｜《Hello Claude》原创动画预告",
+    "publisher": "AozakiArisu",
+    "observedAt": "2026-11-22T15:09:43.928Z",
+    "httpStatus": 200,
+    "htmlSha256": "20b9e0c14cf5113d4ddb299498351465b1699c1a7652e900b3ac7bbde7da72b5"
+  }
+}

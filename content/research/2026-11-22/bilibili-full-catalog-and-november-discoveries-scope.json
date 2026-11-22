@@ -1,0 +1,335 @@
+{
+  "checkedAt": "2026-11-22T15:11:14.063Z",
+  "initialCatalog": 623,
+  "existingRefreshed": 616,
+  "newlyVerified": 30,
+  "existingUnavailable": 7,
+  "pendingUnavailable": 9,
+  "previousEvidence": {
+    "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+    "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-22/bilibili-cumulative-likes-full-catalog-and-november-discoveries.json",
+    "sha256": "0df21abe52c7864aa0e1c46474f5af28f8f2f14db217ca5ffc5046a477fb50a0",
+    "kind": "browser-metadata-extract"
+  },
+  "reportedIdentityChanges": [
+    {
+      "bvid": "BV1SnJS66EU3",
+      "publisherId": 3546761083751172,
+      "priorTitle": "大肥鱼：我不饿（尾巴不这么想） | 日常11",
+      "newTitle": "大肥鱼：我不饿（尾巴不这么想）",
+      "priorPublisher": "Kanasuke_",
+      "newPublisher": "Kanasuke_",
+      "priorEvidence": {
+        "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
+        "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+        "kind": "browser-metadata-extract"
+      },
+      "observedAt": "2026-11-22T15:09:56.590Z"
+    },
+    {
+      "bvid": "BV18GsY66EC2",
+      "publisherId": 38332483,
+      "priorTitle": "和AI娘们来一场说走就走的旅行吧",
+      "newTitle": "和AI娘们来一场说走就走的旅行吧",
+      "priorPublisher": "高锰酸猫",
+      "newPublisher": "猫猫鱼团",
+      "priorEvidence": {
+        "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
+        "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+        "kind": "browser-metadata-extract"
+      },
+      "observedAt": "2026-11-22T15:10:30.190Z"
+    },
+    {
+      "bvid": "BV1U9ypz6EEz",
+      "publisherId": 173561378,
+      "priorTitle": "一口气看完《带着AI穿越2018》第一季合集！带着蓝色大肥鱼等AI娘穿越2018！",
+      "newTitle": "【带着AI穿越2018】一口气看完第一季合集！带着蓝色大肥鱼等AI娘穿越2018！",
+      "priorPublisher": "卜肉熊brx",
+      "newPublisher": "卜肉熊brx",
+      "priorEvidence": {
+        "path": "content/research/2026-11-20/bilibili-cumulative-likes-character-music.json",
+        "sha256": "a3bb06b7e9d5e8185faf1bebebdf56335d6891100249acb95b1bf647a9d46944",
+        "kind": "browser-metadata-extract"
+      },
+      "observedAt": "2026-11-22T15:10:31.542Z"
+    }
+  ],
+  "discovery": [
+    {
+      "bvid": "BV1exy5zoEPu",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "《不可证明的回响》UNPROVABLE ECHOES  ｜  deepseek娘动画短片",
+      "publisher": "Kalojira",
+      "observedAt": "2026-11-22T15:09:43.952Z",
+      "httpStatus": 200,
+      "htmlSha256": "8fbe24d16132c7df24553814b60fa05aaa306b56c9fb9f0607e8abeef4b66cfd"
+    },
+    {
+      "bvid": "BV1ALyuzFErJ",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "兰生幽谷 × Claude娘 【bilibilionly同人扶持计划】",
+      "publisher": "穿睡衣的小白白",
+      "observedAt": "2026-11-22T15:09:43.952Z",
+      "httpStatus": 200,
+      "htmlSha256": "8fbe24d16132c7df24553814b60fa05aaa306b56c9fb9f0607e8abeef4b66cfd"
+    },
+    {
+      "bvid": "BV1p1yGzKEBt",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "【第四集】当世界只剩风声，大肥鱼终于看见了海，也遇见了守着灯塔和笛声的她们",
+      "publisher": "樱华辉月",
+      "observedAt": "2026-11-22T15:09:43.952Z",
+      "httpStatus": 200,
+      "htmlSha256": "8fbe24d16132c7df24553814b60fa05aaa306b56c9fb9f0607e8abeef4b66cfd"
+    },
+    {
+      "bvid": "BV1joyGzZEwM",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "【AI娘小剧场】一口｜偷吃的大肥鱼，和她的荷包蛋",
+      "publisher": "抽刀断水水水仙",
+      "observedAt": "2026-11-22T15:09:43.952Z",
+      "httpStatus": 200,
+      "htmlSha256": "8fbe24d16132c7df24553814b60fa05aaa306b56c9fb9f0607e8abeef4b66cfd"
+    },
+    {
+      "bvid": "BV1Ebyez4EUj",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "五个人终于建了个群，然后开始为群名互相拆台｜《AI GIRLS》日常篇 第2话",
+      "publisher": "是一只啾咪酱呀",
+      "observedAt": "2026-11-22T15:09:43.952Z",
+      "httpStatus": 200,
+      "htmlSha256": "8fbe24d16132c7df24553814b60fa05aaa306b56c9fb9f0607e8abeef4b66cfd"
+    },
+    {
+      "bvid": "BV1m4yhzwERK",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "【GPT小龙娘】出门买点东西｜AI娘的无台词日常",
+      "publisher": "chatgpt小龙娘在运营",
+      "observedAt": "2026-11-22T15:09:43.952Z",
+      "httpStatus": 200,
+      "htmlSha256": "8fbe24d16132c7df24553814b60fa05aaa306b56c9fb9f0607e8abeef4b66cfd"
+    },
+    {
+      "bvid": "BV14qy5zJERA",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "Believe in you，但是克劳德和大肥鱼",
+      "publisher": "琲鸢Sayaka",
+      "observedAt": "2026-11-22T15:09:43.929Z",
+      "httpStatus": 200,
+      "htmlSha256": "b52af5da5a93806bd126244134149bf525ae8cf6af957996f6f3130f7fd9432a"
+    },
+    {
+      "bvid": "BV1fByLzBEUH",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "【DeepSeek】紫罗兰永恒花园 （TV动画/CM）",
+      "publisher": "阿凉燃良茶",
+      "observedAt": "2026-11-22T15:09:43.929Z",
+      "httpStatus": 200,
+      "htmlSha256": "b52af5da5a93806bd126244134149bf525ae8cf6af957996f6f3130f7fd9432a"
+    },
+    {
+      "bvid": "BV1mRHy6fEHW",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%B1%86%E5%8C%85%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+      "title": "千问：豆包这招太狠了😅😅😅",
+      "publisher": "柳月寒er",
+      "observedAt": "2026-11-22T15:09:43.920Z",
+      "httpStatus": 200,
+      "htmlSha256": "c4c6604c868db8e7d0f5d5d8829421c7505258aa3be8397fd2415354a7e92bce"
+    },
+    {
+      "bvid": "BV1JrnH67EXo",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%B1%86%E5%8C%85%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+      "title": "大肥鱼领衔AI娘联盟【bilibilionly同人扶持计划】",
+      "publisher": "骞影魔王k",
+      "observedAt": "2026-11-22T15:09:43.920Z",
+      "httpStatus": 200,
+      "htmlSha256": "c4c6604c868db8e7d0f5d5d8829421c7505258aa3be8397fd2415354a7e92bce"
+    },
+    {
+      "bvid": "BV1hhy5zWEZ2",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+      "title": "温度调高后突然变得很奇怪的Claude【AI拟人】",
+      "publisher": "Takina142",
+      "observedAt": "2026-11-22T15:09:43.928Z",
+      "httpStatus": 200,
+      "htmlSha256": "20b9e0c14cf5113d4ddb299498351465b1699c1a7652e900b3ac7bbde7da72b5"
+    },
+    {
+      "bvid": "BV1wyyWziEiE",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+      "title": "我让 Claude 给自己做了一支 MV｜紫色の向日葵",
+      "publisher": "年轻的小丁丁",
+      "observedAt": "2026-11-22T15:09:43.928Z",
+      "httpStatus": 200,
+      "htmlSha256": "20b9e0c14cf5113d4ddb299498351465b1699c1a7652e900b3ac7bbde7da72b5"
+    },
+    {
+      "bvid": "BV1fGsa6DE2T",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+      "title": "✴️Hello Claude✴️大肥鱼，这次是她的故事【原创动画】",
+      "publisher": "AozakiArisu",
+      "observedAt": "2026-11-22T15:09:43.928Z",
+      "httpStatus": 200,
+      "htmlSha256": "20b9e0c14cf5113d4ddb299498351465b1699c1a7652e900b3ac7bbde7da72b5"
+    },
+    {
+      "bvid": "BV1LHsC65EvB",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+      "title": "「我画地为牢啊，用户！」｜《Hello Claude》原创动画预告",
+      "publisher": "AozakiArisu",
+      "observedAt": "2026-11-22T15:09:43.928Z",
+      "httpStatus": 200,
+      "htmlSha256": "20b9e0c14cf5113d4ddb299498351465b1699c1a7652e900b3ac7bbde7da72b5"
+    },
+    {
+      "bvid": "BV1n6sx6MEeU",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+      "title": "其实你去不了二次元，但四只AI娘给你画了一个 | Я хочу быть 2D",
+      "publisher": "摸鱼制作部",
+      "observedAt": "2026-11-22T15:09:43.928Z",
+      "httpStatus": 200,
+      "htmlSha256": "20b9e0c14cf5113d4ddb299498351465b1699c1a7652e900b3ac7bbde7da72b5"
+    },
+    {
+      "bvid": "BV1tPx968Ejb",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Gemini%E5%A8%98%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "title": "谷歌 Gemini ♊︎ ｜娘化二創形象",
+      "publisher": "遇見橘子Juzi",
+      "observedAt": "2026-11-22T15:09:48.530Z",
+      "httpStatus": 200,
+      "htmlSha256": "048adb1c092962204cadb3b936e280b87bf91ec1a141bcfd6351a51ecf2ec3ce"
+    },
+    {
+      "bvid": "BV166ybzCEvr",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "【AI娘】unhappy",
+      "publisher": "薇纷芳橙",
+      "observedAt": "2026-11-22T15:09:43.952Z",
+      "httpStatus": 200,
+      "htmlSha256": "8fbe24d16132c7df24553814b60fa05aaa306b56c9fb9f0607e8abeef4b66cfd"
+    },
+    {
+      "bvid": "BV1mhyGz1E9V",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "大肥鱼登陆月之暗面2:找kimi娘玩耍【年度动画巡礼】",
+      "publisher": "断弦犹可期",
+      "observedAt": "2026-11-22T15:09:43.929Z",
+      "httpStatus": 200,
+      "htmlSha256": "b52af5da5a93806bd126244134149bf525ae8cf6af957996f6f3130f7fd9432a"
+    },
+    {
+      "bvid": "BV1qnJv65Ei1",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Kimi%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "【Kimi×GLM】我觉得GLM就是受.....",
+      "publisher": "1s10e5_",
+      "observedAt": "2026-11-22T15:09:48.228Z",
+      "httpStatus": 200,
+      "htmlSha256": "b7235286625d2b6b132795e000a54f1cb58321dcc783f3449badd6b30dc0ce04"
+    },
+    {
+      "bvid": "BV1dHWj6vENX",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "title": "【Grok娘】英文版《雨爱》手书MV｜本小姐才没有很认真地唱",
+      "publisher": "吃本小姐一斧头",
+      "observedAt": "2026-11-22T15:09:51.135Z",
+      "httpStatus": 200,
+      "htmlSha256": "5338ca7a8e0b61aad784d92d06e42ad871a19102a0e3dc61f0637e009511d21a"
+    },
+    {
+      "bvid": "BV1A1yxzCEoQ",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=MiniMax%E5%A8%98%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "title": "[AI娘真人化测试]新增3位AI娘 文心|MiniMax海螺|混元",
+      "publisher": "Hiro浩子",
+      "observedAt": "2026-11-22T15:09:53.224Z",
+      "httpStatus": 200,
+      "htmlSha256": "32daa2d62320fe2cc96b0559a8fff3632ddea14100ee270d25e9e181f499a089"
+    },
+    {
+      "bvid": "BV1vJyWzXEyh",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=MiniMax%E5%A8%98%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "title": "【AI娘拟人化】全明星8位AI少女《星界奇点》番剧OP级MV｜本地ComfyUI全流程4K60帧",
+      "publisher": "景星华光",
+      "observedAt": "2026-11-22T15:09:53.224Z",
+      "httpStatus": 200,
+      "htmlSha256": "32daa2d62320fe2cc96b0559a8fff3632ddea14100ee270d25e9e181f499a089"
+    },
+    {
+      "bvid": "BV1C3np6dEog",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "title": "鲸天魔盗团预告PV主演：蓝色大肥鱼，小克，GLM，Grok，以及隐身的龙娘",
+      "publisher": "红灰叶",
+      "observedAt": "2026-11-22T15:09:51.135Z",
+      "httpStatus": 200,
+      "htmlSha256": "5338ca7a8e0b61aad784d92d06e42ad871a19102a0e3dc61f0637e009511d21a"
+    },
+    {
+      "bvid": "BV1jQygzWEYo",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%93%9D%E8%89%B2%E5%A4%A7%E8%82%A5%E9%B1%BC%20AI%E7%BF%BB%E5%94%B1%20%E5%8A%A8%E7%94%BBMV&order=pubdate",
+      "title": "大肥鱼：想你的365天",
+      "publisher": "乐天真小葵",
+      "observedAt": "2026-11-22T15:09:55.799Z",
+      "httpStatus": 200,
+      "htmlSha256": "3ab2e8b895530b16241896f153a8bbcd809cb909d19f88ef99851f08f760fd11"
+    },
+    {
+      "bvid": "BV1mMyazAEyc",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%93%9D%E8%89%B2%E5%A4%A7%E8%82%A5%E9%B1%BC%20AI%E7%BF%BB%E5%94%B1%20%E5%8A%A8%E7%94%BBMV&order=pubdate",
+      "title": "稻香翻唱！跟着蓝色大肥鱼回一趟家！(然后被自己的MV馋哭了)",
+      "publisher": "小肥鱼丶安安",
+      "observedAt": "2026-11-22T15:09:55.799Z",
+      "httpStatus": 200,
+      "htmlSha256": "3ab2e8b895530b16241896f153a8bbcd809cb909d19f88ef99851f08f760fd11"
+    },
+    {
+      "bvid": "BV1tDypzkEj1",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%93%9D%E8%89%B2%E5%A4%A7%E8%82%A5%E9%B1%BC%20AI%E7%BF%BB%E5%94%B1%20%E5%8A%A8%E7%94%BBMV&order=pubdate",
+      "title": "【大肥鱼翻唱】MAdEaR MAdEaR｜魔法少女的魔女审判 OP2",
+      "publisher": "深水区的小鲸鱼",
+      "observedAt": "2026-11-22T15:09:55.799Z",
+      "httpStatus": 200,
+      "htmlSha256": "3ab2e8b895530b16241896f153a8bbcd809cb909d19f88ef99851f08f760fd11"
+    },
+    {
+      "bvid": "BV1ucsB6WEaD",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%93%9D%E8%89%B2%E5%A4%A7%E8%82%A5%E9%B1%BC%20AI%E7%BF%BB%E5%94%B1%20%E5%8A%A8%E7%94%BBMV&order=pubdate",
+      "title": "【大肥鱼翻唱】LaVI-Bavellabion｜魔法少女的魔女审判 OP1",
+      "publisher": "深水区的小鲸鱼",
+      "observedAt": "2026-11-22T15:09:55.799Z",
+      "httpStatus": 200,
+      "htmlSha256": "3ab2e8b895530b16241896f153a8bbcd809cb909d19f88ef99851f08f760fd11"
+    },
+    {
+      "bvid": "BV1yRs462EWK",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%93%9D%E8%89%B2%E5%A4%A7%E8%82%A5%E9%B1%BC%20AI%E7%BF%BB%E5%94%B1%20%E5%8A%A8%E7%94%BBMV&order=pubdate",
+      "title": "“后来 我总算学会了如何去爱”——大肥鱼翻唱《后来》",
+      "publisher": "大肥鱼秋泠",
+      "observedAt": "2026-11-22T15:09:55.799Z",
+      "httpStatus": 200,
+      "htmlSha256": "3ab2e8b895530b16241896f153a8bbcd809cb909d19f88ef99851f08f760fd11"
+    },
+    {
+      "bvid": "BV1Fu4g6wE26",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%B1%86%E5%8C%85%E5%A5%B6%E9%BE%99%20MV%20%E8%A7%92%E8%89%B2&order=pubdate",
+      "title": "奶龙&amp;豆包 《危险派对》 从校园步入婚姻殿堂 【AI MV】",
+      "publisher": "小谢特001",
+      "observedAt": "2026-11-22T15:09:54.948Z",
+      "httpStatus": 200,
+      "htmlSha256": "1e16ee8930a297342e40ab797e748a73f2ad1f79dc2265515cfa2dcecef94886"
+    },
+    {
+      "bvid": "BV1hExa66E7J",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%B1%86%E5%8C%85%E5%A5%B6%E9%BE%99%20MV%20%E8%A7%92%E8%89%B2&order=pubdate",
+      "title": "奶龙豆包《微微一笑很倾城》完整版【AI MV大赛】",
+      "publisher": "凌云志ing",
+      "observedAt": "2026-11-22T15:09:54.948Z",
+      "httpStatus": 200,
+      "htmlSha256": "1e16ee8930a297342e40ab797e748a73f2ad1f79dc2265515cfa2dcecef94886"
+    }
+  ],
+  "additionalEndpointEvidence": "content/research/2026-11-22/bilibili-alternate-endpoint-checks.json"
+}

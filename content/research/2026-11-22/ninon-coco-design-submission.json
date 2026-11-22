@@ -1,0 +1,42 @@
+{
+  "number": 120,
+  "url": "https://github.com/lmy414/ai-girl-stickers/issues/120",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:11:54.594Z",
+  "title": "「投稿」小克(Coco)设定表 & 小克表情图",
+  "bodyHtmlSha256": "ef5255375ee0f51d11c2d83bec2cf91b703043ebbdd58522cdbebf4b5247f8c1",
+  "bodySha256": "13ce79266c66be62231aa5afe3730ae508ca99800f50a911dbe05f3beacb24e0",
+  "authorAccount": "ninondev",
+  "displayedAuthor": "Ninon",
+  "createdAt": "2026-10-13T09:57:49Z",
+  "updatedAt": "2026-10-13T16:33:18Z",
+  "state": "closed",
+  "files": [
+    {
+      "position": 1,
+      "url": "https://github.com/user-attachments/assets/132632fc-7cfa-405e-889f-4e255a92cf1d",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:11:54.545Z",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "bytes": 1845563,
+      "sourceSha256": "0f4bec70f3fc60dbf672f3d9637014a3de696cf369919873670624014d0a67fb"
+    },
+    {
+      "position": 2,
+      "url": "https://github.com/user-attachments/assets/1d6f8f4c-549b-4870-ac3c-987dcc502a81",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:11:54.591Z",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "bytes": 2108649,
+      "sourceSha256": "9c609573d775d11072bbb9d96eda53a62867ff20ac05e22e71c108a448d90697"
+    }
+  ],
+  "termsDeclarations": [
+    "CC BY-NC 4.0"
+  ],
+  "method": "github-issue-connector-and-isolated-headless-google-chrome"
+}
