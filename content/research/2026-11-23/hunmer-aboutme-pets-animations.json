@@ -1,0 +1,96 @@
+{
+  "full_name": "hunmer/aboutme-pets",
+  "html_url": "https://github.com/hunmer/aboutme-pets",
+  "stargazers_count": 161,
+  "archived": false,
+  "created_at": "2026-10-31T18:04:42Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "Q版模型娘动画素材 animation assets",
+  "license": null,
+  "commit": "df864c0c7db75857854740b301f6677e50d0b29c",
+  "observedAt": "2026-11-22T15:58:28.656+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:03:12.734Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/hunmer/aboutme-pets/blob/df864c0c7db75857854740b301f6677e50d0b29c/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/hunmer/aboutme-pets/df864c0c7db75857854740b301f6677e50d0b29c/README.md",
+      "sourceSha256": "03f9cca9f434d494db11f3d285857a4aaa31b118bb77a98b49087bc87b6f31c8",
+      "gitBlobSha": "add0ecee2b9a11bf179c45630b842b2b0d257488",
+      "bytes": 6425,
+      "commit": "df864c0c7db75857854740b301f6677e50d0b29c"
+    },
+    "pets/dsh/LICENSE-assets.txt": {
+      "path": "pets/dsh/LICENSE-assets.txt",
+      "url": "https://github.com/hunmer/aboutme-pets/blob/df864c0c7db75857854740b301f6677e50d0b29c/pets/dsh/LICENSE-assets.txt",
+      "rawUrl": "https://raw.githubusercontent.com/hunmer/aboutme-pets/df864c0c7db75857854740b301f6677e50d0b29c/pets/dsh/LICENSE-assets.txt",
+      "sourceSha256": "22757dc9c895b2729a2fc684d227cadfb54d5af3dd300029926839e8c4e269ce",
+      "gitBlobSha": "7d87632065ae9bbebe4fb7a275f38f3cd1c30c41",
+      "bytes": 1069,
+      "commit": "df864c0c7db75857854740b301f6677e50d0b29c"
+    },
+    "pets/dsh/LICENSE-code.txt": {
+      "path": "pets/dsh/LICENSE-code.txt",
+      "url": "https://github.com/hunmer/aboutme-pets/blob/df864c0c7db75857854740b301f6677e50d0b29c/pets/dsh/LICENSE-code.txt",
+      "rawUrl": "https://raw.githubusercontent.com/hunmer/aboutme-pets/df864c0c7db75857854740b301f6677e50d0b29c/pets/dsh/LICENSE-code.txt",
+      "sourceSha256": "22757dc9c895b2729a2fc684d227cadfb54d5af3dd300029926839e8c4e269ce",
+      "gitBlobSha": "7d87632065ae9bbebe4fb7a275f38f3cd1c30c41",
+      "bytes": 1069,
+      "commit": "df864c0c7db75857854740b301f6677e50d0b29c"
+    },
+    "pets/dsh/NOTICE.txt": {
+      "path": "pets/dsh/NOTICE.txt",
+      "url": "https://github.com/hunmer/aboutme-pets/blob/df864c0c7db75857854740b301f6677e50d0b29c/pets/dsh/NOTICE.txt",
+      "rawUrl": "https://raw.githubusercontent.com/hunmer/aboutme-pets/df864c0c7db75857854740b301f6677e50d0b29c/pets/dsh/NOTICE.txt",
+      "sourceSha256": "c4e5634ff407fd641f41e486f6598273f1eea19b50f882cc728df4d64e47edc1",
+      "gitBlobSha": "98d029cdc03a6f9ec58e9b6cf4cd8f542ae37e48",
+      "bytes": 1482,
+      "commit": "df864c0c7db75857854740b301f6677e50d0b29c"
+    },
+    "pets/claude/idle.webp": {
+      "path": "pets/claude/idle.webp",
+      "url": "https://github.com/hunmer/aboutme-pets/blob/df864c0c7db75857854740b301f6677e50d0b29c/pets/claude/idle.webp",
+      "rawUrl": "https://raw.githubusercontent.com/hunmer/aboutme-pets/df864c0c7db75857854740b301f6677e50d0b29c/pets/claude/idle.webp",
+      "sourceSha256": "cb4540df9325fd246de61c673e29027de0821ea70eeeafb3220a97546f440653",
+      "gitBlobSha": "923813c01cc6f64245cdc855ed7739e60eeb463b",
+      "bytes": 96880,
+      "commit": "df864c0c7db75857854740b301f6677e50d0b29c"
+    },
+    "pets/dsh/SOURCE-upstream.txt": {
+      "path": "pets/dsh/SOURCE-upstream.txt",
+      "url": "https://github.com/hunmer/aboutme-pets/blob/df864c0c7db75857854740b301f6677e50d0b29c/pets/dsh/SOURCE-upstream.txt",
+      "rawUrl": "https://raw.githubusercontent.com/hunmer/aboutme-pets/df864c0c7db75857854740b301f6677e50d0b29c/pets/dsh/SOURCE-upstream.txt",
+      "sourceSha256": "57c5e1c42d3e156d3b878bcc7dad6de9c833a1621e2764911c86da9b88a4a037",
+      "gitBlobSha": "64742e1c4e1d7fb1681082e60f78dafe3e37b257",
+      "bytes": 289,
+      "commit": "df864c0c7db75857854740b301f6677e50d0b29c"
+    },
+    "pets/dsh/spritesheet/东张西望.webp": {
+      "path": "pets/dsh/spritesheet/东张西望.webp",
+      "url": "https://github.com/hunmer/aboutme-pets/blob/df864c0c7db75857854740b301f6677e50d0b29c/pets/dsh/spritesheet/%E4%B8%9C%E5%BC%A0%E8%A5%BF%E6%9C%9B.webp",
+      "rawUrl": "https://raw.githubusercontent.com/hunmer/aboutme-pets/df864c0c7db75857854740b301f6677e50d0b29c/pets/dsh/spritesheet/%E4%B8%9C%E5%BC%A0%E8%A5%BF%E6%9C%9B.webp",
+      "sourceSha256": "7b71965eb651a88a9e69f2b85474e15f6f93e432dd3ac6c1cc538a15f41ff7d1",
+      "gitBlobSha": "ade8980c16b432058c45842eb0071c0313d786cb",
+      "bytes": 996548,
+      "commit": "df864c0c7db75857854740b301f6677e50d0b29c"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/hunmer/aboutme-pets/blob/df864c0c7db75857854740b301f6677e50d0b29c/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/hunmer/aboutme-pets/df864c0c7db75857854740b301f6677e50d0b29c/README.md",
+    "sourceSha256": "03f9cca9f434d494db11f3d285857a4aaa31b118bb77a98b49087bc87b6f31c8",
+    "gitBlobSha": "add0ecee2b9a11bf179c45630b842b2b0d257488",
+    "bytes": 6425,
+    "commit": "df864c0c7db75857854740b301f6677e50d0b29c"
+  },
+  "method": "github-rest-tree-and-isolated-headless-google-chrome",
+  "verifiedScope": "Pinned DSH attribution, animated DSH and Claude WebP samples, and code and artwork documents.",
+  "referencedBy": [
+    "https://www.bilibili.com/video/BV1QKysznETJ/",
+    "https://www.bilibili.com/video/BV1DTyszSEUn/",
+    "https://www.bilibili.com/video/BV1aTyszDEwB/"
+  ]
+}

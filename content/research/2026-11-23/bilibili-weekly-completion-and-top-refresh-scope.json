@@ -1,0 +1,24 @@
+{
+  "checkedAt": "2026-11-22T15:58:32.922Z",
+  "newlyVerified": 18,
+  "existingRefreshed": 15,
+  "existingUnavailable": 7,
+  "pendingUnavailable": 9,
+  "previousEvidence": {
+    "path": "content/research/2026-11-22/bilibili-cumulative-likes-weekly-and-soundtrack-candidates.json",
+    "sha256": "ea3a7f5d4422e258848c054c384d6e014d8aca47174769c24ea51f3b7a22eec8",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-22/bilibili-cumulative-likes-weekly-completion-and-top-refresh.json",
+    "sha256": "2879e7057f0f9eae8fcac9b9d10818f9dfe1d30c57db253074e1ab1b71d6cf19",
+    "kind": "browser-metadata-extract"
+  },
+  "publicVideoEvidence": "content/research/2026-11-22/bilibili-pending-video-page-recheck.json",
+  "weeklyReview": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "previousEditorialQueue": "content/research/2026-11-22/bilibili-weekly-and-soundtrack-candidates-scope.json",
+    "queueCompleted": 18,
+    "historicalLikesRetained": false
+  }
+}

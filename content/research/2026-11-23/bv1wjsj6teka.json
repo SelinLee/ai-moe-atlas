@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:58:31.890Z",
+  "url": "https://www.bilibili.com/video/BV1WJsJ6tEka/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WJsJ6tEka",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1WJsJ6tEka",
+    "title": "【DeepSeek】蠢蠢的死法",
+    "owner": {
+      "name": "heller菌",
+      "mid": 3035121
+    },
+    "pubdate": 1794713400,
+    "duration": 175
+  },
+  "descriptionSha256": "ea3d646c2a162f782a19f50b0dcf4c0d5b2036431e10b8d66b5916437deb32d5",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "priorLeadPath": "content/research/2026-11-22/bilibili-weekly-and-soundtrack-candidates-scope.json"
+  }
+}

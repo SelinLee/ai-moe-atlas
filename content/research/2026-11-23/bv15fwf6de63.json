@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:58:30.205Z",
+  "url": "https://www.bilibili.com/video/BV15FWf6DE63/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15FWf6DE63",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV15FWf6DE63",
+    "title": "日本妹妹被大肥鱼戏耍？",
+    "owner": {
+      "name": "真红莉爱Official",
+      "mid": 1485277312
+    },
+    "pubdate": 1794801600,
+    "duration": 304
+  },
+  "descriptionSha256": "4b42f4e947058819bf10476118e758053ffa82d2668427a7a398d15104cfb1cf",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "priorLeadPath": "content/research/2026-11-22/bilibili-weekly-and-soundtrack-candidates-scope.json"
+  }
+}

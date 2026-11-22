@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:58:32.912Z",
+  "url": "https://www.bilibili.com/video/BV1wQs16aEF3/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wQs16aEF3",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1wQs16aEF3",
+    "title": "梁圣带大肥鱼们去吃自助",
+    "owner": {
+      "name": "恶之魔法少女",
+      "mid": 701790342
+    },
+    "pubdate": 1794974940,
+    "duration": 180
+  },
+  "descriptionSha256": "2b36173b96c1534b18d34a78ad652c9861e0205c4f5cc72f08226427195eeb43",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "priorLeadPath": "content/research/2026-11-22/bilibili-weekly-and-soundtrack-candidates-scope.json"
+  }
+}

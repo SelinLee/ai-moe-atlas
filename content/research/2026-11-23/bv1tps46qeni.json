@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:58:30.987Z",
+  "url": "https://www.bilibili.com/video/BV1TPs46QEni/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TPs46QEni",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1TPs46QEni",
+    "title": "人质拯救计划",
+    "owner": {
+      "name": "翰弟-AIGC",
+      "mid": 1894538
+    },
+    "pubdate": 1795060932,
+    "duration": 76
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "priorLeadPath": "content/research/2026-11-22/bilibili-weekly-and-soundtrack-candidates-scope.json"
+  }
+}

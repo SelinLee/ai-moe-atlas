@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:58:30.412Z",
+  "url": "https://www.bilibili.com/video/BV1NKsw65EYp/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NKsw65EYp",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1NKsw65EYp",
+    "title": "【带着AI穿越2018/第一季 完】#8 带着蓝色大肥鱼环游全国！",
+    "owner": {
+      "name": "卜肉熊brx",
+      "mid": 173561378
+    },
+    "pubdate": 1794810533,
+    "duration": 526
+  },
+  "descriptionSha256": "ad37b217124c99eb14352ddbd9cadc0a90cb3abc704aef0f3103cb61b4f9e7ec",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "priorLeadPath": "content/research/2026-11-22/bilibili-weekly-and-soundtrack-candidates-scope.json"
+  }
+}

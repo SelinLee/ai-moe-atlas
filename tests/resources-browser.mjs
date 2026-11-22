@@ -65,6 +65,15 @@ try{
    assert.deepEqual(candidates,pending.map(row=>({
     original:`https://www.bilibili.com/video/${row.bvid}/`,source:row.requestUrl,checked:row.observedAt,
    })));
+   const publicPages=pending.filter(row=>row.publicPage?.outcome).map(({publicPage})=>({
+    outcome:publicPage.outcome,checked:publicPage.accessedAt,
+    time:beijingTime.format(new Date(publicPage.accessedAt)),
+   }));
+   assert.deepEqual(await panel.locator('[data-pending-public-page]').evaluateAll(rows=>rows.map(row=>({
+    outcome:row.getAttribute('data-pending-public-page'),
+    checked:row.querySelector('time')?.dateTime,time:row.querySelector('time')?.textContent,
+   }))),publicPages);
+   if(publicPages.length)assert.ok(await panel.locator('[data-pending-public-page]').first().isVisible());
    const searchProofs=await panel.locator('[data-pending-search-index]').evaluateAll(rows=>rows.map(row=>({
     source:row.querySelector('a')?.href,
     checked:row.querySelector('time')?.dateTime,

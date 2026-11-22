@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:58:31.211Z",
+  "url": "https://www.bilibili.com/video/BV1RNs26QEsC/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RNs26QEsC",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1RNs26QEsC",
+    "title": "大肥鱼：你看我像串子吗？",
+    "owner": {
+      "name": "益生菌洗手液",
+      "mid": 3546597187127601
+    },
+    "pubdate": 1794972772,
+    "duration": 412
+  },
+  "descriptionSha256": "a8ed52ea87ae22c4326b7e29ab2d7a28609b4cfc59ab613f94a1d6370a648e26",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "这个刀子真甜",
+    "蒙德砍壬",
+    "尹紫鹭幻想社"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "priorLeadPath": "content/research/2026-11-22/bilibili-weekly-and-soundtrack-candidates-scope.json"
+  }
+}

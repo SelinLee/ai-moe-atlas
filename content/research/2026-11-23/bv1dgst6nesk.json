@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:58:31.890Z",
+  "url": "https://www.bilibili.com/video/BV1dGst6NESK/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dGst6NESK",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1dGst6NESK",
+    "title": "第一集：大肥鱼吃瓜吃到自己！？？",
+    "owner": {
+      "name": "小水盘的鱼",
+      "mid": 355868677
+    },
+    "pubdate": 1795053772,
+    "duration": 21
+  },
+  "descriptionSha256": "e6eeab3a804e34b09a2488ebac2ab3cc5d722962d209d6399394a5a530d4a8fc",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "priorLeadPath": "content/research/2026-11-22/bilibili-weekly-and-soundtrack-candidates-scope.json"
+  }
+}

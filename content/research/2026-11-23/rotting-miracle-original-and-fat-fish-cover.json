@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:00:20.102Z",
+  "url": "https://www.bilibili.com/video/BV1kxWi6eEBE/",
+  "original": {
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1kxWi6eEBE",
+    "bodySha256": "391d45bc4a635a94dc919cdabe9c46827b78daa36e83c060d4f10e1735247ed7",
+    "bvid": "BV1kxWi6eEBE",
+    "title": "不小心惹了上帝？《烂奇迹》原作来啦！",
+    "uploader": "杨羊烊Koi",
+    "uploaderId": 3744977200875965,
+    "publishedAt": "2026-11-13T11:00:00.000Z",
+    "songTag": "发现《烂奇迹(不小心惹了上帝)》"
+  },
+  "fanVersion": {
+    "url": "https://www.bilibili.com/video/BV1fzs26bETg/",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1fzs26bETg",
+    "observedAt": "2026-11-22T16:00:21.110Z",
+    "bodySha256": "d2e96b2907c423cd2661c0a1c56aa86f608387e0c7784b813e44182799a626a8",
+    "bvid": "BV1fzs26bETg",
+    "publisher": "星落落_oi",
+    "publisherId": 30584746,
+    "songTag": "发现《烂奇迹(不小心惹了上帝)》",
+    "citedBvid": "BV1kxWi6eEBE",
+    "descriptionSha256": "84b56e58a9331cafc3570dd45e664bcd1be104d47e9d5d83fa80548fe69769a3"
+  }
+}

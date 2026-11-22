@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:58:30.394Z",
+  "url": "https://www.bilibili.com/video/BV1H2sn6fEEH/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1H2sn6fEEH",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1H2sn6fEEH",
+    "title": "AI能带给我幸福吗？",
+    "owner": {
+      "name": "幸仁儿鲨",
+      "mid": 2028243547
+    },
+    "pubdate": 1794721654,
+    "duration": 1061
+  },
+  "descriptionSha256": "df8be948bd5c7aa775e623a966247ec3b2fdfa16f142a3c6522bc4fbfaf351a9",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "priorLeadPath": "content/research/2026-11-22/bilibili-weekly-and-soundtrack-candidates-scope.json"
+  }
+}

@@ -59,6 +59,10 @@ const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid
           {' · '}{s.pendingAnimation.checked} <time datetime={row.observedAt}>{beijingTime.format(new Date(row.observedAt))}</time>
           {' · '}<a class="text-link" href={row.requestUrl} target="_blank" rel="noopener noreferrer">{s.pendingAnimation.query} ↗</a>
         </p>
+        {row.publicPage?.outcome&&<p class="resource-byline" data-pending-public-page={row.publicPage.outcome}>
+          {s.pendingAnimation.pageOutcome[row.publicPage.outcome as keyof typeof s.pendingAnimation.pageOutcome]}
+          {' · '}<time datetime={row.publicPage.accessedAt}>{beijingTime.format(new Date(row.publicPage.accessedAt))}</time>
+        </p>}
         {row.searchIndex&&<p class="resource-byline" data-pending-search-index>
           <a class="text-link" href={row.searchIndex.url} target="_blank" rel="noopener noreferrer">{s.pendingAnimation.searchIndex} ↗</a>
           {' · '}<time datetime={row.searchIndex.observedAt}>{beijingTime.format(new Date(row.searchIndex.observedAt))}</time>

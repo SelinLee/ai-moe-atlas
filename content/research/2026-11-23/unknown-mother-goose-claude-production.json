@@ -1,0 +1,61 @@
+{
+  "full_name": "entropy622/unknown-mother-goose-claude",
+  "html_url": "https://github.com/entropy622/unknown-mother-goose-claude",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-11-20T14:59:55Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "Fan MV for wowaka's Unknown Mother-Goose, told from Claude's point of view. Procedural Python renderer.",
+  "license": null,
+  "commit": "6140afffa15bec4d741001bf6bc3a63383bee714",
+  "observedAt": "2026-11-22T15:58:26.929+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:00:51.729Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/entropy622/unknown-mother-goose-claude/blob/6140afffa15bec4d741001bf6bc3a63383bee714/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/entropy622/unknown-mother-goose-claude/6140afffa15bec4d741001bf6bc3a63383bee714/README.md",
+      "sourceSha256": "67d556109864afcfce7e8906d636cb8e1625a3b19e337186bada27b3636bcb57",
+      "gitBlobSha": "03fb033232d744d45306b196eb7712bc48e577ab",
+      "bytes": 2026,
+      "commit": "6140afffa15bec4d741001bf6bc3a63383bee714"
+    },
+    "assets/gen_log.txt": {
+      "path": "assets/gen_log.txt",
+      "url": "https://github.com/entropy622/unknown-mother-goose-claude/blob/6140afffa15bec4d741001bf6bc3a63383bee714/assets/gen_log.txt",
+      "rawUrl": "https://raw.githubusercontent.com/entropy622/unknown-mother-goose-claude/6140afffa15bec4d741001bf6bc3a63383bee714/assets/gen_log.txt",
+      "sourceSha256": "d6cfea533edb0c0a28c5fa1b50f1ce93f2b4b2779ca58ea0e67edfde1473aea8",
+      "gitBlobSha": "0bce8ad8f04faa8993762240259d4f37dde188d1",
+      "bytes": 724,
+      "commit": "6140afffa15bec4d741001bf6bc3a63383bee714"
+    },
+    "assets/raw/c01_stand_front.png": {
+      "path": "assets/raw/c01_stand_front.png",
+      "url": "https://github.com/entropy622/unknown-mother-goose-claude/blob/6140afffa15bec4d741001bf6bc3a63383bee714/assets/raw/c01_stand_front.png",
+      "rawUrl": "https://raw.githubusercontent.com/entropy622/unknown-mother-goose-claude/6140afffa15bec4d741001bf6bc3a63383bee714/assets/raw/c01_stand_front.png",
+      "sourceSha256": "39e4d242fbdade53355d907946dc2f9435129ab39424a86b043c0457b9db24b1",
+      "gitBlobSha": "c840645359262842a98ee24750f66bc830a2b73e",
+      "bytes": 2119971,
+      "commit": "6140afffa15bec4d741001bf6bc3a63383bee714"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/entropy622/unknown-mother-goose-claude/blob/6140afffa15bec4d741001bf6bc3a63383bee714/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/entropy622/unknown-mother-goose-claude/6140afffa15bec4d741001bf6bc3a63383bee714/README.md",
+    "sourceSha256": "67d556109864afcfce7e8906d636cb8e1625a3b19e337186bada27b3636bcb57",
+    "gitBlobSha": "03fb033232d744d45306b196eb7712bc48e577ab",
+    "bytes": 2026,
+    "commit": "6140afffa15bec4d741001bf6bc3a63383bee714"
+  },
+  "citingVideo": {
+    "url": "https://www.bilibili.com/video/BV1SVysz1EMc/",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1SVysz1EMc",
+    "bvid": "BV1SVysz1EMc",
+    "bodySha256": "19936839ffb31ad527fb241bb6a4c7da9aed1acd3602cc1a39c61e40e541b087",
+    "observedAt": "2026-11-22T16:00:21.110Z"
+  },
+  "method": "github-rest-tree-and-isolated-headless-google-chrome"
+}

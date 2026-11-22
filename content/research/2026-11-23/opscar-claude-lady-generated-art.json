@@ -1,0 +1,67 @@
+{
+  "full_name": "opsCar/claude-daxiaojie-assets",
+  "html_url": "https://github.com/opsCar/claude-daxiaojie-assets",
+  "stargazers_count": 8,
+  "archived": false,
+  "created_at": "2026-10-26T03:55:58Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "Claude大小姐 AI 生成图片素材库（立绘 / Q版表情包 / 差分），CC BY-NC-SA 4.0，非商用免费",
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": "NOASSERTION",
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "commit": "a7e01f61af5e7963c1616cca8bd4101ec5d959d1",
+  "observedAt": "2026-11-22T15:58:27.251+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:00:40.770Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/opsCar/claude-daxiaojie-assets/blob/a7e01f61af5e7963c1616cca8bd4101ec5d959d1/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/opsCar/claude-daxiaojie-assets/a7e01f61af5e7963c1616cca8bd4101ec5d959d1/README.md",
+      "sourceSha256": "66bf038b1f9dc692a998c0c61e5a81e66abbbf61fcdf0f071c11c09bc28cba21",
+      "gitBlobSha": "0b051572e054aaca235c8bbe50eb3b9ec6b8859c",
+      "bytes": 4028,
+      "commit": "a7e01f61af5e7963c1616cca8bd4101ec5d959d1"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "url": "https://github.com/opsCar/claude-daxiaojie-assets/blob/a7e01f61af5e7963c1616cca8bd4101ec5d959d1/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/opsCar/claude-daxiaojie-assets/a7e01f61af5e7963c1616cca8bd4101ec5d959d1/LICENSE",
+      "sourceSha256": "e66c269d4819aaab34b49ef5220c4ddab6756f21bb5180761a4eb8561f2b7bbd",
+      "gitBlobSha": "7cdbe0b482f604a06a0988dad8877ae8d9257f7d",
+      "bytes": 20850,
+      "commit": "a7e01f61af5e7963c1616cca8bd4101ec5d959d1"
+    },
+    "bust/bust_neutral.png": {
+      "path": "bust/bust_neutral.png",
+      "url": "https://github.com/opsCar/claude-daxiaojie-assets/blob/a7e01f61af5e7963c1616cca8bd4101ec5d959d1/bust/bust_neutral.png",
+      "rawUrl": "https://raw.githubusercontent.com/opsCar/claude-daxiaojie-assets/a7e01f61af5e7963c1616cca8bd4101ec5d959d1/bust/bust_neutral.png",
+      "sourceSha256": "b1866552f97c0a62e0f3ec8aeba3a9f51a7dd55cc7f280db4423b19b92b594b8",
+      "gitBlobSha": "df420e8ecfc2e7938c807adb94e041b71a4b1a86",
+      "bytes": 2085551,
+      "commit": "a7e01f61af5e7963c1616cca8bd4101ec5d959d1"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/opsCar/claude-daxiaojie-assets/blob/a7e01f61af5e7963c1616cca8bd4101ec5d959d1/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/opsCar/claude-daxiaojie-assets/a7e01f61af5e7963c1616cca8bd4101ec5d959d1/README.md",
+    "sourceSha256": "66bf038b1f9dc692a998c0c61e5a81e66abbbf61fcdf0f071c11c09bc28cba21",
+    "gitBlobSha": "0b051572e054aaca235c8bbe50eb3b9ec6b8859c",
+    "bytes": 4028,
+    "commit": "a7e01f61af5e7963c1616cca8bd4101ec5d959d1"
+  },
+  "citingVideo": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1sVyazfEMj",
+    "bvid": "BV1sVyazfEMj",
+    "bodySha256": "f0ec603acdb2d4b3ff6d5d6db00b6bec86176fa114166dc15cbe1ad70fb6a1df",
+    "observedAt": "2026-11-22T16:00:21.246Z"
+  },
+  "method": "github-rest-tree-and-isolated-headless-google-chrome"
+}

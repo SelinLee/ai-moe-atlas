@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:58:32.421Z",
+  "url": "https://www.bilibili.com/video/BV1bZsG6EEvy/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bZsG6EEvy",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1bZsG6EEvy",
+    "title": "肥鱼笑传之Cursed Click Blackout",
+    "owner": {
+      "name": "lilin猫猫头",
+      "mid": 699668020
+    },
+    "pubdate": 1794708000,
+    "duration": 69
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "priorLeadPath": "content/research/2026-11-22/bilibili-weekly-and-soundtrack-candidates-scope.json"
+  }
+}

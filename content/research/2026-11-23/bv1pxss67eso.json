@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:58:31.211Z",
+  "url": "https://www.bilibili.com/video/BV1PXsS67Eso/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PXsS67Eso",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1PXsS67Eso",
+    "title": "【梁武峰 & 大肥鱼】干将莫邪（限定皮肤",
+    "owner": {
+      "name": "l士干l",
+      "mid": 3691012763421422
+    },
+    "pubdate": 1795000421,
+    "duration": 11
+  },
+  "descriptionSha256": "eb5890fc53ff73d215868fa197d5ff311588ff3117fd18a4936e96d61a6ccdfd",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "priorLeadPath": "content/research/2026-11-22/bilibili-weekly-and-soundtrack-candidates-scope.json"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:58:29.572Z",
+  "url": "https://www.bilibili.com/video/BV14DsK6fExw/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV14DsK6fExw",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV14DsK6fExw",
+    "title": "【咕嘎饭馆】今天的北京烤鸭特别香！",
+    "owner": {
+      "name": "陈千语Sama",
+      "mid": 310906792
+    },
+    "pubdate": 1794870000,
+    "duration": 105
+  },
+  "descriptionSha256": "09b60c4e6ecb23ce9ef18d2add6d685aff2d3c467d59d1dbb6c6afad14604cd8",
+  "uploaderCredits": [
+    "唐可可为什么是神"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "priorLeadPath": "content/research/2026-11-22/bilibili-weekly-and-soundtrack-candidates-scope.json"
+  }
+}

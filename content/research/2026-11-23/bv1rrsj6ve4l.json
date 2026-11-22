@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:58:30.986Z",
+  "url": "https://www.bilibili.com/video/BV1RrsJ6VE4L/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RrsJ6VE4L",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1RrsJ6VE4L",
+    "title": "豆包：一个不留",
+    "owner": {
+      "name": "saki想成为人类",
+      "mid": 3493139635505972
+    },
+    "pubdate": 1794732718,
+    "duration": 63
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "priorLeadPath": "content/research/2026-11-22/bilibili-weekly-and-soundtrack-candidates-scope.json"
+  }
+}

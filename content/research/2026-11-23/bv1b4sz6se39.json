@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:58:32.422Z",
+  "url": "https://www.bilibili.com/video/BV1b4sz6sE39/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1b4sz6sE39",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1b4sz6sE39",
+    "title": "臭肥鱼害我把情书交给高数老师了！【人和肥鱼04】",
+    "owner": {
+      "name": "双叶吸咖喱",
+      "mid": 3069153
+    },
+    "pubdate": 1794909600,
+    "duration": 162
+  },
+  "descriptionSha256": "52c672e1e2c18c243a235345116d28e2203295bd13c88bafa881047a0cc8e06e",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "priorLeadPath": "content/research/2026-11-22/bilibili-weekly-and-soundtrack-candidates-scope.json"
+  }
+}

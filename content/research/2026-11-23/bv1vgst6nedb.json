@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:58:32.918Z",
+  "url": "https://www.bilibili.com/video/BV1vGst6NEdB/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vGst6NEdB",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1vGst6NEdB",
+    "title": "当大肥鱼第一次去高档饭店",
+    "owner": {
+      "name": "带恶人奥",
+      "mid": 15588979
+    },
+    "pubdate": 1795058400,
+    "duration": 14
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "priorLeadPath": "content/research/2026-11-22/bilibili-weekly-and-soundtrack-candidates-scope.json"
+  }
+}

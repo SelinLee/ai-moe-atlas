@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:58:30.410Z",
+  "url": "https://www.bilibili.com/video/BV1PCsu6wEgx/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PCsu6wEgx",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1PCsu6wEgx",
+    "title": "幼儿园食堂饭菜供应不足",
+    "owner": {
+      "name": "梓小林Zlin",
+      "mid": 3707025536060090
+    },
+    "pubdate": 1794913500,
+    "duration": 65
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "priorLeadPath": "content/research/2026-11-22/bilibili-weekly-and-soundtrack-candidates-scope.json"
+  }
+}

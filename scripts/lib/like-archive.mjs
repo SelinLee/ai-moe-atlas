@@ -11,7 +11,8 @@ const snapshotFields = ['method','contextUrl','contextHttpStatus','capturedAt','
 const videoFields = ['bvid','snapshotUrl','observedAt','httpStatus','code','title','publisher','publisherId','publicationDate','pubdate','likes'];
 const failureFields = ['bvid','requestUrl','observedAt','httpStatus','code'];
 const candidateFields = ['bvid','requestUrl','observedAt','httpStatus','code','discoveredTitle','status','likes','previousEvidence','previousObservedAt','publicPage','discoveryUrl','discoveredAt','searchIndex'];
-const pageFields = ['url','finalUrl','httpStatus','accessedAt','title'];
+const pageFields = ['url','finalUrl','httpStatus','accessedAt','title','outcome'];
+const pageOutcomes = new Set(['unavailable','restricted','unconfirmed']);
 const searchIndexFields = ['url','title','observedAt','httpStatus','publisher','publisherUrl','htmlSha256'];
 const publisherPagePattern = /^https:\/\/space\.bilibili\.com\/[1-9][0-9]*$/;
 const sha256Pattern = /^[0-9a-f]{64}$/;
@@ -53,7 +54,9 @@ function isPublicSnapshot(snapshot) {
             || searchIndex.htmlSha256 === undefined)))) return false;
       const videoUrl = `https://www.bilibili.com/video/${row.bvid}/`;
       return publicPage === undefined || (hasOnly(publicPage, pageFields) && hasScalarValues(publicPage)
-        && publicPage.url === videoUrl && publicPage.finalUrl === videoUrl);
+        && publicPage.url === videoUrl && publicPage.finalUrl === videoUrl
+        && Number.isInteger(publicPage.httpStatus) && Number.isFinite(Date.parse(publicPage.accessedAt))
+        && (publicPage.outcome === undefined || pageOutcomes.has(publicPage.outcome)));
     });
 }
 

@@ -1,0 +1,29 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:58:30.405Z",
+  "url": "https://www.bilibili.com/video/BV1CVsP6jE4r/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CVsP6jE4r",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1CVsP6jE4r",
+    "title": "文艺复兴！经典ai名歌《梁文锋带带我 》听完美股直接爆炸【AI MV大赛】",
+    "owner": {
+      "name": "donkyi",
+      "mid": 631465960
+    },
+    "pubdate": 1794826316,
+    "duration": 151
+  },
+  "descriptionSha256": "1ab09013ed35eca27b67ee82f328edb30a28672ad9b6b780e7928e066da34760",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "这个刀子真甜",
+    "毛家超619传播正能量"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "priorLeadPath": "content/research/2026-11-22/bilibili-weekly-and-soundtrack-candidates-scope.json"
+  }
+}

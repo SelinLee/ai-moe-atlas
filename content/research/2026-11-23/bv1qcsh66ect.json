@@ -1,0 +1,29 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:58:31.213Z",
+  "url": "https://www.bilibili.com/video/BV1QCsh66ECT/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QCsh66ECT",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1QCsh66ECT",
+    "title": "不批挺好的，我就可以天天摸鱼啦",
+    "owner": {
+      "name": "冬冰",
+      "mid": 44748304
+    },
+    "pubdate": 1795080932,
+    "duration": 211
+  },
+  "descriptionSha256": "884d17e4f39381a2160cc6ae012ec4e5bd2aca017539339d38612acfa2af16a7",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "这个刀子真甜",
+    "上善无形"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "priorLeadPath": "content/research/2026-11-22/bilibili-weekly-and-soundtrack-candidates-scope.json"
+  }
+}
