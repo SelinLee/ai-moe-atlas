@@ -1,0 +1,42 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:17:36.915Z",
+  "url": "https://github.com/lmy414/ai-girl-stickers/issues/123",
+  "title": "[投稿] 女仆 Claude 娘设定图 · Issue #123 · lmy414/ai-girl-stickers",
+  "htmlSha256": "8c14e3db41ba6f1b42a79681e7a58c43602887d87644dd54a161b79997996327",
+  "creatorAccount": "ninondev",
+  "displayedCreator": "Ninon",
+  "rawAttachment": {
+    "url": "https://github.com/user-attachments/assets/4b73dae3-0f10-4c63-9923-98065cfefafc",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T17:17:36.886Z",
+    "width": 1536,
+    "height": 1024,
+    "format": "png",
+    "bytes": 2692633,
+    "sourceSha256": "c18e77a7833649e33d0204af7896dfbf3883fc0a3c73f85905e8c2ce546a83b3",
+    "gitBlobSha": "76a591ac6b7bb75da794d472749b5a7955beee6f"
+  },
+  "previousEvidence": {
+    "path": "content/research/2026-11-22/ninon-maid-claude-sheet.json",
+    "sha256": "2e2190d24288fcc5f135d2458a418028fda0414ed06772bc120d294530a81458",
+    "kind": "browser-metadata-extract"
+  },
+  "attribution": [
+    {
+      "name": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597",
+      "role": "design-inspiration",
+      "publication": "https://t.bilibili.com/1231980045693616162"
+    },
+    {
+      "name": "Ninon",
+      "url": "https://github.com/ninondev",
+      "role": "published-adaptation",
+      "publication": "https://github.com/lmy414/ai-girl-stickers/issues/123"
+    }
+  ],
+  "inspiration": "https://t.bilibili.com/1231980045693616162",
+  "relatedEvidence": null,
+  "scope": "The creator’s attached design sheet matches the previously recorded hash. The issue authorizes the submission’s receiving site."
+}

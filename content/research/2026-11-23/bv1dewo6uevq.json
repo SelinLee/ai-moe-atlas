@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:14:48.265Z",
+  "url": "https://www.bilibili.com/video/BV1deWo6UEvq/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1deWo6UEvq",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1deWo6UEvq",
+    "title": "grok与法国猫猫的邂逅？mistral到访。感受中美外第一模，法棍骑士的风范！",
+    "owner": {
+      "name": "grok想去哪儿就去哪",
+      "mid": 3493280614451203
+    },
+    "pubdate": 1794495409,
+    "duration": 172
+  },
+  "descriptionSha256": "0aa246df3133312f84688471dac27b08b3b0908b983fd0f69ca57c6389a4d518",
+  "linkedVideos": [],
+  "discovery": {
+    "bvid": "BV1deWo6UEvq",
+    "title": "grok与法国猫猫的邂逅？mistral到访。感受中美外第一模，法棍骑士的风范！",
+    "publisher": "grok想去哪儿就去哪",
+    "url": "https://www.bilibili.com/video/BV1deWo6UEvq/",
+    "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=Mistral%20%E6%B3%95%E6%A3%8D%E7%8C%AB%E5%A8%98%20%E4%BA%8C%E5%88%9B&order=pubdate",
+    "observedAt": "2026-11-22T16:52:54.948Z",
+    "htmlSha256": "4698ff6834d4e1b511bb6ce8c7888781f6f1064fc7b15d043c33767d1e091fab",
+    "status": "not-requested-after-access-restrictions",
+    "likes": null
+  }
+}

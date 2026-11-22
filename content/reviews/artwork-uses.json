@@ -4906,5 +4906,181 @@
         }
       }
     }
+  },
+  {
+    "characterId": "ninon-claude-maid",
+    "reviewedAt": "2026-11-23",
+    "reviewBasis": "Creator’s original submission, named upstream credits, matching artwork hash and limited submission permission verified.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/lmy414/ai-girl-stickers/issues/123",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "design-inspiration",
+        "publication": "https://t.bilibili.com/1231980045693616162"
+      },
+      {
+        "name": "Ninon",
+        "url": "https://github.com/ninondev",
+        "role": "published-adaptation",
+        "publication": "https://github.com/lmy414/ai-girl-stickers/issues/123"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿声明允许蓝色大肥鱼核实后收录。附件与此前记录的哈希一致。图鉴提供原投稿链接，公开再利用条件待确认。",
+          "en": "Ninon’s submission permits collection by Blue Fat Fish. The attachment matches the earlier record. This atlas links to the original submission. Public reuse terms await confirmation.",
+          "ja": "投稿は藍色大肥魚での収録を許可。添付ファイルは前回の記録と一致。図鑑は原投稿にリンク。公開再利用の条件は確認待ち。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿声明允许蓝色大肥鱼核实后收录。附件与此前记录的哈希一致。图鉴提供原投稿链接，公开再利用条件待确认。",
+          "en": "Ninon’s submission permits collection by Blue Fat Fish. The attachment matches the earlier record. This atlas links to the original submission. Public reuse terms await confirmation.",
+          "ja": "投稿は藍色大肥魚での収録を許可。添付ファイルは前回の記録と一致。図鑑は原投稿にリンク。公開再利用の条件は確認待ち。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿声明允许蓝色大肥鱼核实后收录。附件与此前记录的哈希一致。图鉴提供原投稿链接，公开再利用条件待确认。",
+          "en": "Ninon’s submission permits collection by Blue Fat Fish. The attachment matches the earlier record. This atlas links to the original submission. Public reuse terms await confirmation.",
+          "ja": "投稿は藍色大肥魚での収録を許可。添付ファイルは前回の記録と一致。図鑑は原投稿にリンク。公開再利用の条件は確認待ち。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿声明允许蓝色大肥鱼核实后收录。附件与此前记录的哈希一致。图鉴提供原投稿链接，公开再利用条件待确认。",
+          "en": "Ninon’s submission permits collection by Blue Fat Fish. The attachment matches the earlier record. This atlas links to the original submission. Public reuse terms await confirmation.",
+          "ja": "投稿は藍色大肥魚での収録を許可。添付ファイルは前回の記録と一致。図鑑は原投稿にリンク。公開再利用の条件は確認待ち。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿声明允许蓝色大肥鱼核实后收录。附件与此前记录的哈希一致。图鉴提供原投稿链接，公开再利用条件待确认。",
+          "en": "Ninon’s submission permits collection by Blue Fat Fish. The attachment matches the earlier record. This atlas links to the original submission. Public reuse terms await confirmation.",
+          "ja": "投稿は藍色大肥魚での収録を許可。添付ファイルは前回の記録と一致。図鑑は原投稿にリンク。公開再利用の条件は確認待ち。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿声明允许蓝色大肥鱼核实后收录。附件与此前记录的哈希一致。图鉴提供原投稿链接，公开再利用条件待确认。",
+          "en": "Ninon’s submission permits collection by Blue Fat Fish. The attachment matches the earlier record. This atlas links to the original submission. Public reuse terms await confirmation.",
+          "ja": "投稿は藍色大肥魚での収録を許可。添付ファイルは前回の記録と一致。図鑑は原投稿にリンク。公開再利用の条件は確認待ち。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿声明允许蓝色大肥鱼核实后收录。附件与此前记录的哈希一致。图鉴提供原投稿链接，公开再利用条件待确认。",
+          "en": "Ninon’s submission permits collection by Blue Fat Fish. The attachment matches the earlier record. This atlas links to the original submission. Public reuse terms await confirmation.",
+          "ja": "投稿は藍色大肥魚での収録を許可。添付ファイルは前回の記録と一致。図鑑は原投稿にリンク。公開再利用の条件は確認待ち。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿声明允许蓝色大肥鱼核实后收录。附件与此前记录的哈希一致。图鉴提供原投稿链接，公开再利用条件待确认。",
+          "en": "Ninon’s submission permits collection by Blue Fat Fish. The attachment matches the earlier record. This atlas links to the original submission. Public reuse terms await confirmation.",
+          "ja": "投稿は藍色大肥魚での収録を許可。添付ファイルは前回の記録と一致。図鑑は原投稿にリンク。公開再利用の条件は確認待ち。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "ninon-claude-orange-dress",
+    "reviewedAt": "2026-11-23",
+    "reviewBasis": "Creator’s original submission, named upstream credits, matching artwork hash and limited submission permission verified.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/lmy414/ai-girl-stickers/issues/124",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "upstream-character-design",
+        "publication": "https://www.pixiv.net/artworks/148186519"
+      },
+      {
+        "name": "Ninon",
+        "url": "https://github.com/ninondev",
+        "role": "published-adaptation",
+        "publication": "https://github.com/lmy414/ai-girl-stickers/issues/124"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿声明允许蓝色大肥鱼核实后收录。附件与此前记录的哈希一致。图鉴提供原投稿链接，公开再利用条件待确认。",
+          "en": "Ninon’s submission permits collection by Blue Fat Fish. The attachment matches the earlier record. This atlas links to the original submission. Public reuse terms await confirmation.",
+          "ja": "投稿は藍色大肥魚での収録を許可。添付ファイルは前回の記録と一致。図鑑は原投稿にリンク。公開再利用の条件は確認待ち。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿声明允许蓝色大肥鱼核实后收录。附件与此前记录的哈希一致。图鉴提供原投稿链接，公开再利用条件待确认。",
+          "en": "Ninon’s submission permits collection by Blue Fat Fish. The attachment matches the earlier record. This atlas links to the original submission. Public reuse terms await confirmation.",
+          "ja": "投稿は藍色大肥魚での収録を許可。添付ファイルは前回の記録と一致。図鑑は原投稿にリンク。公開再利用の条件は確認待ち。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿声明允许蓝色大肥鱼核实后收录。附件与此前记录的哈希一致。图鉴提供原投稿链接，公开再利用条件待确认。",
+          "en": "Ninon’s submission permits collection by Blue Fat Fish. The attachment matches the earlier record. This atlas links to the original submission. Public reuse terms await confirmation.",
+          "ja": "投稿は藍色大肥魚での収録を許可。添付ファイルは前回の記録と一致。図鑑は原投稿にリンク。公開再利用の条件は確認待ち。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿声明允许蓝色大肥鱼核实后收录。附件与此前记录的哈希一致。图鉴提供原投稿链接，公开再利用条件待确认。",
+          "en": "Ninon’s submission permits collection by Blue Fat Fish. The attachment matches the earlier record. This atlas links to the original submission. Public reuse terms await confirmation.",
+          "ja": "投稿は藍色大肥魚での収録を許可。添付ファイルは前回の記録と一致。図鑑は原投稿にリンク。公開再利用の条件は確認待ち。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿声明允许蓝色大肥鱼核实后收录。附件与此前记录的哈希一致。图鉴提供原投稿链接，公开再利用条件待确认。",
+          "en": "Ninon’s submission permits collection by Blue Fat Fish. The attachment matches the earlier record. This atlas links to the original submission. Public reuse terms await confirmation.",
+          "ja": "投稿は藍色大肥魚での収録を許可。添付ファイルは前回の記録と一致。図鑑は原投稿にリンク。公開再利用の条件は確認待ち。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿声明允许蓝色大肥鱼核实后收录。附件与此前记录的哈希一致。图鉴提供原投稿链接，公开再利用条件待确认。",
+          "en": "Ninon’s submission permits collection by Blue Fat Fish. The attachment matches the earlier record. This atlas links to the original submission. Public reuse terms await confirmation.",
+          "ja": "投稿は藍色大肥魚での収録を許可。添付ファイルは前回の記録と一致。図鑑は原投稿にリンク。公開再利用の条件は確認待ち。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿声明允许蓝色大肥鱼核实后收录。附件与此前记录的哈希一致。图鉴提供原投稿链接，公开再利用条件待确认。",
+          "en": "Ninon’s submission permits collection by Blue Fat Fish. The attachment matches the earlier record. This atlas links to the original submission. Public reuse terms await confirmation.",
+          "ja": "投稿は藍色大肥魚での収録を許可。添付ファイルは前回の記録と一致。図鑑は原投稿にリンク。公開再利用の条件は確認待ち。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "投稿声明允许蓝色大肥鱼核实后收录。附件与此前记录的哈希一致。图鉴提供原投稿链接，公开再利用条件待确认。",
+          "en": "Ninon’s submission permits collection by Blue Fat Fish. The attachment matches the earlier record. This atlas links to the original submission. Public reuse terms await confirmation.",
+          "ja": "投稿は藍色大肥魚での収録を許可。添付ファイルは前回の記録と一致。図鑑は原投稿にリンク。公開再利用の条件は確認待ち。"
+        }
+      }
+    }
   }
 ]

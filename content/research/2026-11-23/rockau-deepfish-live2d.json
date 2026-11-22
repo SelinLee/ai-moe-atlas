@@ -1,0 +1,65 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:17:55.101Z",
+  "url": "https://github.com/Rockau/DeepFish-desktop-pet/blob/ff60b55e8fcf35d40c70b84f7cf5c471d88e208f/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/Rockau/DeepFish-desktop-pet/blob/ff60b55e8fcf35d40c70b84f7cf5c471d88e208f/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Rockau/DeepFish-desktop-pet/ff60b55e8fcf35d40c70b84f7cf5c471d88e208f/README.md",
+    "sourceSha256": "3531216ed35f2cb553d731e00568c5a9b59436dabac7fe7c7529d43dea31475f",
+    "gitBlobSha": "8f11e7c6013d1d1842bd1c5c02819379f4b07d0b",
+    "bytes": 11424,
+    "commit": "ff60b55e8fcf35d40c70b84f7cf5c471d88e208f"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/Rockau/DeepFish-desktop-pet/blob/ff60b55e8fcf35d40c70b84f7cf5c471d88e208f/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Rockau/DeepFish-desktop-pet/ff60b55e8fcf35d40c70b84f7cf5c471d88e208f/README.md",
+      "sourceSha256": "3531216ed35f2cb553d731e00568c5a9b59436dabac7fe7c7529d43dea31475f",
+      "gitBlobSha": "8f11e7c6013d1d1842bd1c5c02819379f4b07d0b",
+      "bytes": 11424,
+      "commit": "ff60b55e8fcf35d40c70b84f7cf5c471d88e208f"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/Rockau/DeepFish-desktop-pet/blob/ff60b55e8fcf35d40c70b84f7cf5c471d88e208f/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Rockau/DeepFish-desktop-pet/ff60b55e8fcf35d40c70b84f7cf5c471d88e208f/LICENSE",
+      "sourceSha256": "261093e4cac588842680a281edd2a419be95576e378184d45cdb86a9fff428a4",
+      "gitBlobSha": "c5053813592b580cd92d5e3b0677d012095c6132",
+      "bytes": 4600,
+      "commit": "ff60b55e8fcf35d40c70b84f7cf5c471d88e208f"
+    },
+    {
+      "path": "NOTICE",
+      "url": "https://github.com/Rockau/DeepFish-desktop-pet/blob/ff60b55e8fcf35d40c70b84f7cf5c471d88e208f/NOTICE",
+      "rawUrl": "https://raw.githubusercontent.com/Rockau/DeepFish-desktop-pet/ff60b55e8fcf35d40c70b84f7cf5c471d88e208f/NOTICE",
+      "sourceSha256": "bc30380315c7b4a20534e45cee08e99f816dc0db98907977ce3fa1bf306a6dc4",
+      "gitBlobSha": "fa148dad9f577319f77c2931c47574823652b017",
+      "bytes": 1748,
+      "commit": "ff60b55e8fcf35d40c70b84f7cf5c471d88e208f"
+    },
+    {
+      "path": "COMMERCIAL.md",
+      "url": "https://github.com/Rockau/DeepFish-desktop-pet/blob/ff60b55e8fcf35d40c70b84f7cf5c471d88e208f/COMMERCIAL.md",
+      "rawUrl": "https://raw.githubusercontent.com/Rockau/DeepFish-desktop-pet/ff60b55e8fcf35d40c70b84f7cf5c471d88e208f/COMMERCIAL.md",
+      "sourceSha256": "43bc0c112f8204f716eb157b22211cd21b3b701ea598de7223553fa6dfd2cb9d",
+      "gitBlobSha": "116802923e7efff577b831fa930967d361540bb8",
+      "bytes": 1158,
+      "commit": "ff60b55e8fcf35d40c70b84f7cf5c471d88e208f"
+    }
+  ],
+  "repository": {
+    "full_name": "Rockau/DeepFish-desktop-pet",
+    "html_url": "https://github.com/Rockau/DeepFish-desktop-pet",
+    "stargazers_count": 15,
+    "archived": false,
+    "default_branch": "main",
+    "fork": false,
+    "created_at": "2026-11-07T21:36:03Z",
+    "commit": "ff60b55e8fcf35d40c70b84f7cf5c471d88e208f",
+    "metadataSha256": "2c4c353f245a0acbcb382e3521e5a1152c5207836d97b7f97c65a31c99faa140",
+    "observedAt": "2026-11-22T17:17:55.101Z"
+  },
+  "scope": "Pinned project README, scoped license texts and listed source files checked by Git blob and SHA-256."
+}

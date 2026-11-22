@@ -1,0 +1,32 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:14:49.685Z",
+  "url": "https://www.bilibili.com/video/BV1n2p765ELc/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1n2p765ELc",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1n2p765ELc",
+    "title": "智谱娘也要手指舞",
+    "owner": {
+      "name": "没人在意的废物猹拉",
+      "mid": 504944135
+    },
+    "pubdate": 1791719212,
+    "duration": 23
+  },
+  "descriptionSha256": "3bd1a617334ab82e5fa46673ed0c9ef397c0ef88c1970dafbf0a3db22b0b7917",
+  "linkedVideos": [
+    "BV1De8d6HEdw"
+  ],
+  "discovery": {
+    "bvid": "BV1n2p765ELc",
+    "title": "智谱娘也要手指舞",
+    "publisher": "没人在意的废物猹拉",
+    "url": "https://www.bilibili.com/video/BV1n2p765ELc/",
+    "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E6%99%BA%E8%B0%B1%E5%A8%98%20GLM%E5%A8%98%20%E8%88%9E%E8%B9%88%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "observedAt": "2026-11-22T16:52:56.990Z",
+    "htmlSha256": "05fc45b93cb3a5654a191f2592b9ca0018b9d58ee476a02dc7df8eff0219a494",
+    "status": "not-requested-after-access-restrictions",
+    "likes": null
+  }
+}

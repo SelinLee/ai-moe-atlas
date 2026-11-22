@@ -1,0 +1,31 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:19:12.133Z",
+  "url": "https://www.bilibili.com/opus/1239937623660691478",
+  "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1239937623660691478",
+  "bodySha256": "ddff774efef3d39261acd8e1a7badd4f843bcf1f279e373a1cd18b1bc4704c03",
+  "creator": {
+    "name": "ZipZipPipe",
+    "mid": 4168597
+  },
+  "title": "Claude桌面壁纸",
+  "publicPage": {
+    "httpStatus": 200,
+    "title": "ZipZipPipe的动态 - 哔哩哔哩",
+    "htmlSha256": "82ed3692ee502de18567e9a71ad7abdb52c23e70d58e43b9d8a336655dc48fb2"
+  },
+  "files": [
+    {
+      "position": 1,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/aa6e8649701c91e5ac8f43ff28b97a924168597.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T17:19:16.638Z",
+      "width": 3840,
+      "height": 2160,
+      "format": "png",
+      "bytes": 7761730,
+      "sourceSha256": "c7aea3a953715a33f85813b096a1ae7bf6d4db3028dff84fb1bcf01a1904043b"
+    }
+  ],
+  "scope": "Creator name, title and 3840 × 2160 PNG checked; the composition is separate from the standing portrait."
+}

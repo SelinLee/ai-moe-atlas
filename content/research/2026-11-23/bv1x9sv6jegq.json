@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:14:48.296Z",
+  "url": "https://www.bilibili.com/video/BV1X9sv6JEGQ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1X9sv6JEGQ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1X9sv6JEGQ",
+    "title": "为了玩雷霆大滑梯，大肥鱼被阿花砍了1053次｜影之刃零【B站AI创造公开赛】",
+    "owner": {
+      "name": "薛定谔的布偶喵喵",
+      "mid": 756196
+    },
+    "pubdate": 1795179600,
+    "duration": 289
+  },
+  "descriptionSha256": "71024b0a5463ed689bb94b67fe32d14591b2c3bd08f47b57f6dcecbb96c1227e",
+  "linkedVideos": [],
+  "discovery": {
+    "bvid": "BV1X9sv6JEGQ",
+    "title": "为了玩雷霆大滑梯，大肥鱼被阿花砍了1053次｜影之刃零【B站AI创造公开赛】",
+    "publisher": "薛定谔的布偶喵喵",
+    "url": "https://www.bilibili.com/video/BV1X9sv6JEGQ/",
+    "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%88%87%E7%89%87%20%E8%87%AA%E5%88%B6%20MV&order=pubdate",
+    "observedAt": "2026-11-22T16:52:58.434Z",
+    "htmlSha256": "7491437ac41fc99e66347972e0a5b2dc7196a01377cdf4d6448a5a5a04fe9505",
+    "status": "not-requested-after-access-restrictions",
+    "likes": null
+  }
+}

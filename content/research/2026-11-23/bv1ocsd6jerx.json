@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:14:49.685Z",
+  "url": "https://www.bilibili.com/video/BV1ocsd6jErX/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ocsd6jErX",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1ocsd6jErX",
+    "title": "GLM —— “算盘打得飞起的狡黠狐狸娘”",
+    "owner": {
+      "name": "Kairos_C",
+      "mid": 36437798
+    },
+    "pubdate": 1793241890,
+    "duration": 23
+  },
+  "descriptionSha256": "460d1fae26eb2450309af4b4bfd3d7af7312de00da9139773e97e7dd8ff1da50",
+  "linkedVideos": [],
+  "discovery": {
+    "bvid": "BV1ocsd6jErX",
+    "title": "GLM —— “算盘打得飞起的狡黠狐狸娘”",
+    "publisher": "Kairos_C",
+    "url": "https://www.bilibili.com/video/BV1ocsd6jErX/",
+    "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E6%99%BA%E8%B0%B1%E5%A8%98%20GLM%E5%A8%98%20%E8%88%9E%E8%B9%88%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "observedAt": "2026-11-22T16:52:56.990Z",
+    "htmlSha256": "05fc45b93cb3a5654a191f2592b9ca0018b9d58ee476a02dc7df8eff0219a494",
+    "status": "not-requested-after-access-restrictions",
+    "likes": null
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:14:49.121Z",
+  "url": "https://www.bilibili.com/video/BV1ZcnH6CE7T/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZcnH6CE7T",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1ZcnH6CE7T",
+    "title": "deepseek《みむかｩわナイストライ》，大肥鱼觉得没有token的你真是逊毙了~",
+    "owner": {
+      "name": "UUのUU",
+      "mid": 389005135
+    },
+    "pubdate": 1792746000,
+    "duration": 199
+  },
+  "descriptionSha256": "6f1b209fd7132b020808bd94ac1ce98953be9bd5809b9836f545984c88b4ece5",
+  "linkedVideos": [
+    "BV1Y9iZYUE6y",
+    "BV1PPYM6EEUR"
+  ],
+  "discovery": {
+    "bvid": "BV1ZcnH6CE7T",
+    "title": "deepseek《みむかｩわナイストライ》，大肥鱼觉得没有token的你真是逊毙了~",
+    "publisher": "UUのUU",
+    "url": "https://www.bilibili.com/video/BV1ZcnH6CE7T/",
+    "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20AI%E5%A8%98%20%E7%B2%A4%E8%AF%AD&order=pubdate",
+    "observedAt": "2026-11-22T16:52:57.052Z",
+    "htmlSha256": "93fcaffbc61e209242aa1e34d67121f616a68b7b29ef11f45605a94ab3a96383",
+    "status": "not-requested-after-access-restrictions",
+    "likes": null
+  }
+}

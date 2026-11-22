@@ -42,3 +42,5 @@ The command uses an isolated headless Chrome session to collect official cumulat
 `pendingAnimationEvidence` points to evidence for candidates awaiting a recheck. Each capture includes these BV IDs in its plan and lists them under `trackedCandidateIds`. Any unresolved IDs appear in the error output. The command exits with status 1 when a cataloged or explicitly supplied video fails verification. When a candidate becomes available, review the original post before moving it into the catalog.
 
 To recheck pending and newly supplied candidates, run `node scripts/collect-bilibili-likes.mjs --candidates-only [BV IDs…]`. If a batch returns HTTP 412 or 429 for every request, collection stops early with exit status 1. A report with `captureComplete: false` gives the attempted and planned totals in `attemptedCount` and `requestedCount`. Record observations for the BV IDs that returned data and retain the current ranking snapshot.
+
+To recheck specific cataloged videos, run `node scripts/collect-bilibili-likes.mjs --videos-only [BV IDs…]`. Supply at least one cataloged BV ID.

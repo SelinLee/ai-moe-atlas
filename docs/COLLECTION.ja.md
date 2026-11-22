@@ -42,3 +42,5 @@ node scripts/collect-bilibili-likes.mjs > /tmp/atlas-bilibili-likes.json
 `pendingAnimationEvidence` は再確認待ちの候補の証拠を指します。取得のたびに対象の BV ID を確認計画に含め、`trackedCandidateIds` に記録します。確認できなかった ID はエラー出力に表示します。収録済み、または今回明示指定した動画の確認に失敗すると終了コードは 1 になります。候補が取得できたら、元の投稿を確認してから作品一覧に移します。
 
 確認待ちと新たに指定した候補だけを調べるには、`node scripts/collect-bilibili-likes.mjs --candidates-only [BV ID…]` を実行します。1組のリクエストがすべて HTTP 412 または 429 を返す場合、取得を途中で終了して終了コード 1 を返します。`captureComplete: false` の報告では、取得を試みた件数を `attemptedCount`、予定件数を `requestedCount` で示します。データが返った BV ID の観測を記録し、現在のランキングのスナップショットを保持します。
+
+収録済みの動画を指定して再確認するには、`node scripts/collect-bilibili-likes.mjs --videos-only [BV ID…]` を実行します。収録済みの BV ID を1件以上指定します。

@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:14:47.813Z",
+  "url": "https://www.bilibili.com/video/BV1EV4c6qEWp/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1EV4c6qEWp",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1EV4c6qEWp",
+    "title": "鲸鱼娘小剧场：第11话 · 本鱼想给自己放个年假",
+    "owner": {
+      "name": "鱼儿啊啊啊啊啊啊啊",
+      "mid": 3747569056353401
+    },
+    "pubdate": 1793595993,
+    "duration": 36
+  },
+  "descriptionSha256": "15524f4d1bf53b43a6ae8c70bbaf4ca89ffa5899b8147c632832c7b06df39ff5",
+  "linkedVideos": [],
+  "discovery": {
+    "bvid": "BV1EV4c6qEWp",
+    "title": "鲸鱼娘小剧场：第11话 · 本鱼想给自己放个年假",
+    "publisher": "鱼儿啊啊啊啊啊啊啊",
+    "url": "https://www.bilibili.com/video/BV1EV4c6qEWp/",
+    "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%90%8C%E4%BA%BA%20%E5%B0%8F%E5%89%A7%E5%9C%BA%2011%E6%9C%88&order=pubdate",
+    "observedAt": "2026-11-22T16:52:55.370Z",
+    "htmlSha256": "68058401fcf1d1adbf0216654058893a2254afa7d4d8abeb4371514a503b627f",
+    "status": "not-requested-after-access-restrictions",
+    "likes": null
+  }
+}

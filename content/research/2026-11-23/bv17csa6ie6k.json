@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:14:49.685Z",
+  "url": "https://www.bilibili.com/video/BV17csA6iE6k/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17csA6iE6k",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV17csA6iE6k",
+    "title": "赛博AI娘大冒险02  喂养一只ai娘100天，然后亲手销毁",
+    "owner": {
+      "name": "拿牌玩命",
+      "mid": 45768507
+    },
+    "pubdate": 1794810372,
+    "duration": 221
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "linkedVideos": [],
+  "discovery": {
+    "bvid": "BV17csA6iE6k",
+    "title": "赛博AI娘大冒险02  喂养一只ai娘100天，然后亲手销毁",
+    "publisher": "拿牌玩命",
+    "url": "https://www.bilibili.com/video/BV17csA6iE6k/",
+    "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=AI%20%E5%A8%98%20%E5%8E%9F%E5%88%9B%20%E5%89%A7%E6%83%85%20PV&order=pubdate",
+    "observedAt": "2026-11-22T16:53:04.338Z",
+    "htmlSha256": "e4df835ef810ddd124df4f046d148ab1e9620b9868923e64ebb03e4b3da7ba01",
+    "status": "not-requested-after-access-restrictions",
+    "likes": null
+  }
+}

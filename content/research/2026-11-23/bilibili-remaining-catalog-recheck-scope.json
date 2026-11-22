@@ -1,0 +1,72 @@
+{
+  "capturedAt": "2026-11-22T17:16:49.720Z",
+  "previousEvidence": "content/research/2026-11-23/bilibili-cumulative-likes-partial-catalog-recheck.json",
+  "previousScope": "content/research/2026-11-23/bilibili-partial-catalog-recheck-scope.json",
+  "currentEvidence": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
+  "remainingRequested": 159,
+  "remainingAttempted": 159,
+  "remainingRefreshed": 152,
+  "priorRefreshed": 580,
+  "refreshedAcrossBoth": 732,
+  "oldResultsRetained": 7,
+  "newRankedRows": 25,
+  "pendingCandidates": 10,
+  "priorSearchLeads": 21,
+  "verifiedNewFromPreviousLeads": 21,
+  "sourceUnavailable": [
+    {
+      "bvid": "BV1AAnt6qEek",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AAnt6qEek",
+      "observedAt": "2026-11-22T17:15:37.594Z",
+      "httpStatus": 200,
+      "code": 62012
+    },
+    {
+      "bvid": "BV1ei4865Ewc",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ei4865Ewc",
+      "observedAt": "2026-11-22T17:15:37.594Z",
+      "httpStatus": 200,
+      "code": -404
+    },
+    {
+      "bvid": "BV1zpx967EKJ",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zpx967EKJ",
+      "observedAt": "2026-11-22T17:15:37.591Z",
+      "httpStatus": 200,
+      "code": 62002
+    },
+    {
+      "bvid": "BV1q8HM63ES4",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1q8HM63ES4",
+      "observedAt": "2026-11-22T17:15:37.589Z",
+      "httpStatus": 200,
+      "code": 62012
+    },
+    {
+      "bvid": "BV1Dw4n61EsW",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Dw4n61EsW",
+      "observedAt": "2026-11-22T17:15:37.459Z",
+      "httpStatus": 200,
+      "code": 62002
+    },
+    {
+      "bvid": "BV1m64q69EnP",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1m64q69EnP",
+      "observedAt": "2026-11-22T17:15:38.021Z",
+      "httpStatus": 200,
+      "code": 62012
+    },
+    {
+      "bvid": "BV1fU4H6AERh",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fU4H6AERh",
+      "observedAt": "2026-11-22T17:15:38.021Z",
+      "httpStatus": 200,
+      "code": 62012
+    }
+  ],
+  "additionalLinkedVideos": [
+    "BV1Y9iZYUE6y",
+    "BV1PPYM6EEUR",
+    "BV1De8d6HEdw"
+  ]
+}

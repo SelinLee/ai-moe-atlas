@@ -1,0 +1,74 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:17:57.787Z",
+  "url": "https://github.com/TonyNa-code/desktop-pet/blob/10692367940c9c16e31b1fa21b4351ac726e2a24/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/TonyNa-code/desktop-pet/blob/10692367940c9c16e31b1fa21b4351ac726e2a24/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/TonyNa-code/desktop-pet/10692367940c9c16e31b1fa21b4351ac726e2a24/README.md",
+    "sourceSha256": "b2ed3d07e7dd7e0ff7a11584222d7f28d7215da6bf40f38e3474922bd6d946a4",
+    "gitBlobSha": "2d4642f80f28e0f5e0aa32491d90a4bb7833bc88",
+    "bytes": 6980,
+    "commit": "10692367940c9c16e31b1fa21b4351ac726e2a24"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/TonyNa-code/desktop-pet/blob/10692367940c9c16e31b1fa21b4351ac726e2a24/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/TonyNa-code/desktop-pet/10692367940c9c16e31b1fa21b4351ac726e2a24/README.md",
+      "sourceSha256": "b2ed3d07e7dd7e0ff7a11584222d7f28d7215da6bf40f38e3474922bd6d946a4",
+      "gitBlobSha": "2d4642f80f28e0f5e0aa32491d90a4bb7833bc88",
+      "bytes": 6980,
+      "commit": "10692367940c9c16e31b1fa21b4351ac726e2a24"
+    },
+    {
+      "path": "README.zh-CN.md",
+      "url": "https://github.com/TonyNa-code/desktop-pet/blob/10692367940c9c16e31b1fa21b4351ac726e2a24/README.zh-CN.md",
+      "rawUrl": "https://raw.githubusercontent.com/TonyNa-code/desktop-pet/10692367940c9c16e31b1fa21b4351ac726e2a24/README.zh-CN.md",
+      "sourceSha256": "8ceee493f5bcdbdb8391d547100908addc2d1b613f46c82ecf4cfe97c305fac7",
+      "gitBlobSha": "9d15dfa6dcae0ed6fda2ad53591df0e4fac41ef9",
+      "bytes": 6712,
+      "commit": "10692367940c9c16e31b1fa21b4351ac726e2a24"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/TonyNa-code/desktop-pet/blob/10692367940c9c16e31b1fa21b4351ac726e2a24/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/TonyNa-code/desktop-pet/10692367940c9c16e31b1fa21b4351ac726e2a24/LICENSE",
+      "sourceSha256": "e36565d1a5831a392ecf1eabb713fcbd5d0bd879af7a68bd22bb1d1db5510d03",
+      "gitBlobSha": "88eac5cb880c48a4aad43f2c94efa54d34dd038e",
+      "bytes": 1081,
+      "commit": "10692367940c9c16e31b1fa21b4351ac726e2a24"
+    },
+    {
+      "path": "ASSET_NOTICE.md",
+      "url": "https://github.com/TonyNa-code/desktop-pet/blob/10692367940c9c16e31b1fa21b4351ac726e2a24/ASSET_NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/TonyNa-code/desktop-pet/10692367940c9c16e31b1fa21b4351ac726e2a24/ASSET_NOTICE.md",
+      "sourceSha256": "d20f9be3f0eb5e04fabaa436cdd4123ab4ea2f333fc26bbfeead6f506c47f1a2",
+      "gitBlobSha": "a7e40765f205e3c9322359ac4696c2e48b2928e7",
+      "bytes": 677,
+      "commit": "10692367940c9c16e31b1fa21b4351ac726e2a24"
+    },
+    {
+      "path": "src/live2d/vendor/NOTICE.md",
+      "url": "https://github.com/TonyNa-code/desktop-pet/blob/10692367940c9c16e31b1fa21b4351ac726e2a24/src/live2d/vendor/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/TonyNa-code/desktop-pet/10692367940c9c16e31b1fa21b4351ac726e2a24/src/live2d/vendor/NOTICE.md",
+      "sourceSha256": "10d63a55e52a94b629b5f19c926f0c9d8842ff5b3c70e1bbbf35b69dc9a1a84e",
+      "gitBlobSha": "0fb45a1b687611fdc60f188ab7debe021f1955bf",
+      "bytes": 1851,
+      "commit": "10692367940c9c16e31b1fa21b4351ac726e2a24"
+    }
+  ],
+  "repository": {
+    "full_name": "TonyNa-code/desktop-pet",
+    "html_url": "https://github.com/TonyNa-code/desktop-pet",
+    "stargazers_count": 18,
+    "archived": false,
+    "default_branch": "main",
+    "fork": false,
+    "created_at": "2026-05-12T16:16:13Z",
+    "commit": "10692367940c9c16e31b1fa21b4351ac726e2a24",
+    "metadataSha256": "4c7a019c7d01ca6aca79d7b0e6dbd37111b04fa5f11a2668f3ebfa73381cf5c5",
+    "observedAt": "2026-11-22T17:17:57.787Z"
+  },
+  "scope": "Pinned project README, scoped license texts and listed source files checked by Git blob and SHA-256."
+}

@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:14:47.782Z",
+  "url": "https://www.bilibili.com/video/BV13as16LETG/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13as16LETG",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV13as16LETG",
+    "title": "【AI娘小剧场】月面饭团·分镜版｜月球上的信与两个人",
+    "owner": {
+      "name": "抽刀断水水水仙",
+      "mid": 26684524
+    },
+    "pubdate": 1794975441,
+    "duration": 27
+  },
+  "descriptionSha256": "55e6d03ddf9cd7f0f8702b13456c47a477720bdcdd0ecbe64867bca7ec0d4bc3",
+  "linkedVideos": [],
+  "discovery": {
+    "bvid": "BV13as16LETG",
+    "title": "【AI娘小剧场】月面饭团·分镜版｜月球上的信与两个人",
+    "publisher": "抽刀断水水水仙",
+    "url": "https://www.bilibili.com/video/BV13as16LETG/",
+    "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%90%8C%E4%BA%BA%20%E5%B0%8F%E5%89%A7%E5%9C%BA%2011%E6%9C%88&order=pubdate",
+    "observedAt": "2026-11-22T16:52:55.370Z",
+    "htmlSha256": "68058401fcf1d1adbf0216654058893a2254afa7d4d8abeb4371514a503b627f",
+    "status": "not-requested-after-access-restrictions",
+    "likes": null
+  }
+}

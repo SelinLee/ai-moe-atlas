@@ -3496,5 +3496,129 @@
       "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
       "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
     }
+  },
+  {
+    "id": "ninon-claude-maid",
+    "entity": "claude",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Claude 娘 · Ninon 女仆设定",
+      "en": "Claude Girl · Ninon’s Maid Design",
+      "ja": "Claude 娘 · Ninon のメイド設定"
+    },
+    "description": {
+      "zh": "投稿注明灵感来自 ZipZipPipe 的鲸鱼娘。附正背面、三种表情、Q 版与服饰细节。",
+      "en": "The submission credits ZipZipPipe’s Whale Girl as inspiration. It shows front and back views, three expressions, a chibi and costume details.",
+      "ja": "ZipZipPipe のクジラ娘から着想。正面・背面、表情3種、ちび版、衣装の細部を掲載。"
+    },
+    "story": {
+      "zh": "单张 1536 × 1024 PNG 含正背面、三种表情、Q 版与服饰局部。原附件已复核 SHA-256。",
+      "en": "A single 1536 × 1024 PNG includes front and back views, three expressions, a chibi and costume details. The original attachment was rechecked by SHA-256.",
+      "ja": "1536 × 1024 の PNG 1枚に正面・背面、表情3種、ちび版、衣装の細部を掲載。原添付の SHA-256 を再確認。"
+    },
+    "features": {
+      "zh": "橘发、黑底女仆裙、白围裙、几何头饰和茶托。",
+      "en": "Orange hair, a black maid dress, a white apron, a geometric hair ornament and a tea tray.",
+      "ja": "橙色の髪、黒いメイド服、白いエプロン、幾何学模様の髪飾りとティートレイ。"
+    },
+    "author": "Ninon",
+    "authorUrl": "https://github.com/ninondev",
+    "source": "https://github.com/lmy414/ai-girl-stickers/issues/123",
+    "sourceTitle": "[投稿] 女仆 Claude 娘设定图",
+    "originalPublication": "https://github.com/lmy414/ai-girl-stickers/issues/123",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "design-inspiration",
+        "publication": "https://t.bilibili.com/1231980045693616162"
+      },
+      {
+        "name": "Ninon",
+        "url": "https://github.com/ninondev",
+        "role": "published-adaptation",
+        "publication": "https://github.com/lmy414/ai-girl-stickers/issues/123"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/lmy414/ai-girl-stickers/issues/123",
+    "downloadable": false,
+    "bg": "#fff0e6",
+    "color": "#8f4626",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "投稿声明允许蓝色大肥鱼核实后收录。附件与此前记录的哈希一致。图鉴提供原投稿链接，公开再利用条件待确认。",
+      "en": "Ninon’s submission permits collection by Blue Fat Fish. The attachment matches the earlier record. This atlas links to the original submission. Public reuse terms await confirmation.",
+      "ja": "投稿は藍色大肥魚での収録を許可。添付ファイルは前回の記録と一致。図鑑は原投稿にリンク。公開再利用の条件は確認待ち。"
+    }
+  },
+  {
+    "id": "ninon-claude-orange-dress",
+    "entity": "claude",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Claude 娘 · Ninon 橘白礼服设定",
+      "en": "Claude Girl · Ninon’s Orange-and-White Dress",
+      "ja": "Claude 娘 · Ninon の橙白ドレス設定"
+    },
+    "description": {
+      "zh": "橘白礼服设计稿含正背面、三种表情、Q 版和印花典籍等道具细节。",
+      "en": "The orange-and-white dress sheet includes front and back views, three expressions, a chibi and prop details such as a patterned book.",
+      "ja": "橙白ドレスの正面・背面、表情3種、ちび版、模様入りの本などの小物を掲載。"
+    },
+    "story": {
+      "zh": "单张 1536 × 1024 PNG 含正背面、三种表情、Q 版与服饰局部。原附件已复核 SHA-256。",
+      "en": "A single 1536 × 1024 PNG includes front and back views, three expressions, a chibi and costume details. The original attachment was rechecked by SHA-256.",
+      "ja": "1536 × 1024 の PNG 1枚に正面・背面、表情3種、ちび版、衣装の細部を掲載。原添付の SHA-256 を再確認。"
+    },
+    "features": {
+      "zh": "橙白长裙、日芒花饰、印花典籍和系带短靴。",
+      "en": "An orange-and-white dress, a sunburst ornament, a patterned book and lace-up boots.",
+      "ja": "橙白の長いドレス、太陽形の飾り、模様入りの本と編み上げブーツ。"
+    },
+    "author": "Ninon",
+    "authorUrl": "https://github.com/ninondev",
+    "source": "https://github.com/lmy414/ai-girl-stickers/issues/124",
+    "sourceTitle": "[投稿] Claude娘（橘白礼服ver.）设定图",
+    "originalPublication": "https://github.com/lmy414/ai-girl-stickers/issues/124",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "upstream-character-design",
+        "publication": "https://www.pixiv.net/artworks/148186519"
+      },
+      {
+        "name": "Ninon",
+        "url": "https://github.com/ninondev",
+        "role": "published-adaptation",
+        "publication": "https://github.com/lmy414/ai-girl-stickers/issues/124"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/lmy414/ai-girl-stickers/issues/124",
+    "downloadable": false,
+    "bg": "#fff0e6",
+    "color": "#8f4626",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "投稿声明允许蓝色大肥鱼核实后收录。附件与此前记录的哈希一致。图鉴提供原投稿链接，公开再利用条件待确认。",
+      "en": "Ninon’s submission permits collection by Blue Fat Fish. The attachment matches the earlier record. This atlas links to the original submission. Public reuse terms await confirmation.",
+      "ja": "投稿は藍色大肥魚での収録を許可。添付ファイルは前回の記録と一致。図鑑は原投稿にリンク。公開再利用の条件は確認待ち。"
+    }
   }
 ]

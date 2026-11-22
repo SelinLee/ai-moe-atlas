@@ -4,7 +4,8 @@ import { readPendingAnimationCandidates } from './lib/resources.mjs';
 
 const args = process.argv.slice(2);
 const candidatesOnly = args[0] === '--candidates-only';
-const supplied = candidatesOnly ? args.slice(1) : args;
+const videosOnly = args[0] === '--videos-only';
+const supplied = candidatesOnly || videosOnly ? args.slice(1) : args;
 if (supplied.some(id => !/^BV[0-9A-Za-z]{10}$/.test(id))) {
   throw new Error('Arguments must be Bilibili BV IDs');
 }
@@ -12,6 +13,10 @@ if (supplied.some(id => !/^BV[0-9A-Za-z]{10}$/.test(id))) {
 const root = new URL('../', import.meta.url);
 const registry = JSON.parse(await readFile(new URL('content/resources.json', root), 'utf8'));
 const ids = new Set(registry.records.filter(record => record.category === 'animation').map(record => record.bvid));
+const selectedVideos = [...new Set(supplied)];
+if (videosOnly && (!selectedVideos.length || selectedVideos.some(id => !ids.has(id)))) {
+  throw new Error('--videos-only requires at least one cataloged BV ID');
+}
 const tracked = (await readPendingAnimationCandidates(registry, root)).map(row => row.bvid);
 const leads = [...new Set([...tracked, ...supplied])].filter(id => !ids.has(id));
 const browser = await chromium.launch({ channel: 'chrome', headless: true });
@@ -25,7 +30,16 @@ try {
   if (!response?.ok()) throw new Error(`Bilibili homepage returned ${response?.status()}`);
 
   const observations = [];
-  const requested = candidatesOnly ? leads : [...ids, ...leads];
+  let requested = [...ids, ...leads];
+  let captureScope = 'catalog-and-candidates';
+  if (candidatesOnly) {
+    requested = leads;
+    captureScope = 'candidates-only';
+  }
+  if (videosOnly) {
+    requested = selectedVideos;
+    captureScope = 'catalog-selection';
+  }
   let stoppedEarly = false;
   for (let index = 0; index < requested.length; index += 5) {
     const batch = await page.evaluate(async bvids => Promise.all(bvids.map(async bvid => {
@@ -59,7 +73,7 @@ try {
     videos: observations.filter(row => ids.has(row.bvid)),
     trackedCandidateIds: tracked,
     candidates: observations.filter(row => !ids.has(row.bvid)),
-    captureScope: candidatesOnly ? 'candidates-only' : 'catalog-and-candidates',
+    captureScope,
     captureComplete: !stoppedEarly,
     requestedCount: requested.length,
     attemptedCount: observations.length,

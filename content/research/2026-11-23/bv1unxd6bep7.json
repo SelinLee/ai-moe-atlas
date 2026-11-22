@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:14:49.125Z",
+  "url": "https://www.bilibili.com/video/BV1uNxd6BEP7/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1uNxd6BEP7",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1uNxd6BEP7",
+    "title": "【deepseek】我的鱼练成了。《NightDancer》_肥鱼翻唱",
+    "owner": {
+      "name": "夏江流年",
+      "mid": 3256358
+    },
+    "pubdate": 1793807134,
+    "duration": 215
+  },
+  "descriptionSha256": "e3e235a6dcbcec0bb216a7110221d7d4653b19c58916654d0068fcb102f30dd3",
+  "linkedVideos": [],
+  "discovery": {
+    "bvid": "BV1uNxd6BEP7",
+    "title": "【deepseek】我的鱼练成了。《NightDancer》_肥鱼翻唱",
+    "publisher": "夏江流年",
+    "url": "https://www.bilibili.com/video/BV1uNxd6BEP7/",
+    "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20AI%E5%A8%98%20%E7%B2%A4%E8%AF%AD&order=pubdate",
+    "observedAt": "2026-11-22T16:52:57.052Z",
+    "htmlSha256": "93fcaffbc61e209242aa1e34d67121f616a68b7b29ef11f45605a94ab3a96383",
+    "status": "not-requested-after-access-restrictions",
+    "likes": null
+  }
+}

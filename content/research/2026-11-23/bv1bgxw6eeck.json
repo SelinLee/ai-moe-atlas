@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:14:47.817Z",
+  "url": "https://www.bilibili.com/video/BV1Bgxw6eEcK/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Bgxw6eEcK",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Bgxw6eEcK",
+    "title": "seed娘正在使用豆包系统",
+    "owner": {
+      "name": "4747256",
+      "mid": 33058574
+    },
+    "pubdate": 1793278710,
+    "duration": 43
+  },
+  "descriptionSha256": "be9a6d97a51c614db03af05f0399ea17beb637121c4e7c92af77045feed47c09",
+  "linkedVideos": [],
+  "discovery": {
+    "bvid": "BV1Bgxw6eEcK",
+    "title": "seed娘正在使用豆包系统",
+    "publisher": "4747256",
+    "url": "https://www.bilibili.com/video/BV1Bgxw6eEcK/",
+    "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%B1%86%E5%8C%85%20Seed%E5%A8%98%20%E6%8B%9F%E4%BA%BA%20%E8%88%9E%E8%B9%88&order=pubdate",
+    "observedAt": "2026-11-22T16:52:55.121Z",
+    "htmlSha256": "e8ba47f45340828fdb91e021b1cea6a90cb423291fefae7fff63c3d2e305900d",
+    "status": "not-requested-after-access-restrictions",
+    "likes": null
+  }
+}

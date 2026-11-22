@@ -101,7 +101,12 @@ try {
   await page.goto(`${origin}/${lang}/characters/zipzippipe-chatgpt/`,{waitUntil:'domcontentloaded'});
   assert.equal(await page.locator('.observation-panel a').getAttribute('href'),'https://www.bilibili.com/video/BV14phK66Ejw/');
   await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});
-  await page.locator('#search').fill('ZipZipPipe');assert.equal(await page.locator('[data-card]:visible').count(),27);
+  await page.locator('#search').fill('ZipZipPipe');
+  const expectedCreatorMatches=chars.filter(c=>[c.author,...Object.values(c.name),...Object.values(c.description)]
+    .some(text=>text.toLowerCase().includes('zipzippipe'))).map(c=>c.id).sort();
+  const creatorMatches=await page.locator('[data-card]:visible .card-art').evaluateAll(links=>
+    links.map(link=>new URL(link.href).pathname.split('/').at(-2)).sort());
+  assert.deepEqual(creatorMatches,expectedCreatorMatches);
   await page.locator('#search').fill('nothing-matches-xyz');await page.locator('#empty-state').waitFor({state:'visible'});
   await page.locator('#clear-filters').click();assert.equal(await page.locator('[data-card]:visible').count(),chars.length);
   await page.locator('[data-kind-filter="collected"]').click();assert.equal(await page.locator('[data-card]:visible').count(),chars.filter(c=>c.kind==='collected').length);

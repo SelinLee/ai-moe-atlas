@@ -1,0 +1,26 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:16:49.661Z",
+  "url": "https://www.bilibili.com/video/BV1uyxc6pEVB/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1uyxc6pEVB",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1uyxc6pEVB",
+    "title": "千问帮我______??!!",
+    "owner": {
+      "name": "小伙伴Ko",
+      "mid": 105330745
+    },
+    "pubdate": 1793347200,
+    "duration": 225
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "linkedVideos": [],
+  "discovery": null,
+  "creatorPage": {
+    "httpStatus": 200,
+    "title": "千问帮我______??!!_哔哩哔哩_bilibili",
+    "htmlSha256": "2df98c7e19a0540593c63091a987ce759fd04f240653498f6fcfe43d7eaa8fbf",
+    "accessedAt": "2026-11-22T17:17:29.695Z"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:14:47.786Z",
+  "url": "https://www.bilibili.com/video/BV1xXyazAEZQ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xXyazAEZQ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1xXyazAEZQ",
+    "title": "【AI 娘的局】第11集：有人冒充我开小号，结果他比我诚实",
+    "owner": {
+      "name": "可爱枫的蓝色大肥鱼",
+      "mid": 516313540
+    },
+    "pubdate": 1795245081,
+    "duration": 62
+  },
+  "descriptionSha256": "a6ff10131256dc4b1ed906a109a7ff9f46db134e5523168c8ad1243318a14c15",
+  "linkedVideos": [],
+  "discovery": {
+    "bvid": "BV1xXyazAEZQ",
+    "title": "【AI 娘的局】第11集：有人冒充我开小号，结果他比我诚实",
+    "publisher": "可爱枫的蓝色大肥鱼",
+    "url": "https://www.bilibili.com/video/BV1xXyazAEZQ/",
+    "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%90%8C%E4%BA%BA%20%E5%B0%8F%E5%89%A7%E5%9C%BA%2011%E6%9C%88&order=pubdate",
+    "observedAt": "2026-11-22T16:52:55.370Z",
+    "htmlSha256": "68058401fcf1d1adbf0216654058893a2254afa7d4d8abeb4371514a503b627f",
+    "status": "not-requested-after-access-restrictions",
+    "likes": null
+  }
+}

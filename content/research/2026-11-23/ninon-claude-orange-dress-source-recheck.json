@@ -1,0 +1,46 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:17:36.913Z",
+  "url": "https://github.com/lmy414/ai-girl-stickers/issues/124",
+  "title": "[投稿] Claude娘（橘白礼服ver.）设定图 · Issue #124 · lmy414/ai-girl-stickers",
+  "htmlSha256": "0d436d3a4221a36633088a897b1246d504cefcf0baba49589db036ba12eb4b9a",
+  "creatorAccount": "ninondev",
+  "displayedCreator": "Ninon",
+  "rawAttachment": {
+    "url": "https://github.com/user-attachments/assets/c3aef19e-d5c9-41d7-9cb6-41d0516ccce3",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T17:17:36.883Z",
+    "width": 1536,
+    "height": 1024,
+    "format": "png",
+    "bytes": 2121127,
+    "sourceSha256": "62a841e162cbd71aa1a4cce8d7175832a4ce7c9d991db0079181f5ad9c92a5f3",
+    "gitBlobSha": "74d26609a43a31724e9177f919573008108cb0cb"
+  },
+  "previousEvidence": {
+    "path": "content/research/2026-11-22/ninon-claude-formal-dress-sheet.json",
+    "sha256": "d2d405a76ab68489dfc3e0cf7babe573a39c4ff146cabbe21a6095d82ef59b74",
+    "kind": "browser-metadata-extract"
+  },
+  "attribution": [
+    {
+      "name": "ZipZipPipe",
+      "url": "https://www.pixiv.net/users/18604994",
+      "role": "upstream-character-design",
+      "publication": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "name": "Ninon",
+      "url": "https://github.com/ninondev",
+      "role": "published-adaptation",
+      "publication": "https://github.com/lmy414/ai-girl-stickers/issues/124"
+    }
+  ],
+  "inspiration": "https://xn--pssy23gqgbz2d718b.com/works/claude202610030001.html",
+  "relatedEvidence": {
+    "path": "content/research/2026-11-23/claude-orange-dress-source-chain.json",
+    "sha256": "58da1090f598ec69e4274e1c205cd1afaa1cb75b16c115927abb1329a407dd53",
+    "kind": "browser-metadata-extract"
+  },
+  "scope": "The creator’s attached design sheet matches the previously recorded hash. The issue authorizes the submission’s receiving site."
+}

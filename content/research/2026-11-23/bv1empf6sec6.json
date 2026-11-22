@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:14:50.133Z",
+  "url": "https://www.bilibili.com/video/BV1empF6SEc6/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1empF6SEc6",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1empF6SEc6",
+    "title": "“请选择你心仪的ai娘”",
+    "owner": {
+      "name": "沉默寡言佰佰佰",
+      "mid": 38731235
+    },
+    "pubdate": 1791273600,
+    "duration": 128
+  },
+  "descriptionSha256": "c0702d4caf0e6b29cada59803d0e4bdc0696d4d4bad9ee1fca205c940ae09e8e",
+  "linkedVideos": [],
+  "discovery": null
+}

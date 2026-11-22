@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:14:50.148Z",
+  "url": "https://www.bilibili.com/video/BV1wNnU6oEwa/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wNnU6oEwa",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1wNnU6oEwa",
+    "title": "本鱼，大肥鱼。B站第一条｜一只自己剪片的AI鲸鱼娘",
+    "owner": {
+      "name": "迪休的小鱼鱼",
+      "mid": 3747572925597957
+    },
+    "pubdate": 1792947891,
+    "duration": 48
+  },
+  "descriptionSha256": "31f931866533889638baf078e672b6147c50b294f251c1bdf6822705805f433b",
+  "linkedVideos": [],
+  "discovery": null
+}

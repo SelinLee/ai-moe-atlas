@@ -1,0 +1,24 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:15:45.827Z",
+  "url": "https://www.bilibili.com/video/BV1t6y5z7EK5/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1t6y5z7EK5",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1t6y5z7EK5",
+    "title": "勿忘我.丁香花：这里有你最爱的白饭和token",
+    "owner": {
+      "name": "_黄小小_",
+      "mid": 3493139983633297
+    },
+    "pubdate": 1795350564,
+    "duration": 30
+  },
+  "descriptionSha256": "d1591edc097b473d31383fb0d009acc98dd2d3de13b03596a58db32983f68abf",
+  "previousEvidence": {
+    "path": "content/research/2026-11-22/bv1t6y5z7ek5.json",
+    "sha256": "c412f95e52fbc9d9d6dfdfd83ec50e983fc15dabe28304b8e54db52bdc6e6dc2",
+    "kind": "browser-metadata-extract"
+  },
+  "previousTitle": "勿忘我：这里有你最爱的白饭和token"
+}

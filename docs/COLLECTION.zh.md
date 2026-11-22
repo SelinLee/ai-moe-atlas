@@ -42,3 +42,5 @@ node scripts/collect-bilibili-likes.mjs > /tmp/atlas-bilibili-likes.json
 `pendingAnimationEvidence` 指向待复查候选的证据。每次采集都会把这些 BV 号加入查询计划，并在报告的 `trackedCandidateIds` 中列出。仍取不到数据的待复查候选会在错误输出中列出，已收录或本次手动指定的作品核验失败时命令返回状态 1。候选恢复后先核对原投稿，再从待复查清单移入作品目录。
 
 只复查待核项及本次新增的候选时，可用 `node scripts/collect-bilibili-likes.mjs --candidates-only [BV 号…]`。一组请求全部收到 HTTP 412 或 429 时，采集会提前停止并返回状态 1。报告中的 `captureComplete: false` 表示只尝试了 `attemptedCount` 条，计划总数为 `requestedCount`。按实际返回的 BV 号记录观测，继续保留现有榜单快照。
+
+只补查指定的在榜作品时，可用 `node scripts/collect-bilibili-likes.mjs --videos-only [BV 号…]`。至少提供一个已收录的 BV 号。

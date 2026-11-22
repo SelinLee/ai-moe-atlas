@@ -1,0 +1,32 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:14:47.796Z",
+  "url": "https://www.bilibili.com/video/BV1ub4J6uEnM/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ub4J6uEnM",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1ub4J6uEnM",
+    "title": "【翻唱】Qwen角色主题曲-千问帮我",
+    "owner": {
+      "name": "微笑的暖意",
+      "mid": 53934765
+    },
+    "pubdate": 1794034711,
+    "duration": 226
+  },
+  "descriptionSha256": "0110a688eee04cab4d2af0ae6b0fa92f3c818df11afa5b25789dd195614c60cd",
+  "linkedVideos": [
+    "BV1uyxc6pEVB"
+  ],
+  "discovery": {
+    "bvid": "BV1ub4J6uEnM",
+    "title": "【翻唱】Qwen角色主题曲-千问帮我",
+    "publisher": "微笑的暖意",
+    "url": "https://www.bilibili.com/video/BV1ub4J6uEnM/",
+    "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%8D%83%E9%97%AE%E5%A8%98%20%E7%BF%BB%E5%94%B1%20%E7%89%87%E5%A4%B4%20Qwen&order=pubdate",
+    "observedAt": "2026-11-22T16:52:55.253Z",
+    "htmlSha256": "b414940bb5decc9c6072182d3fe51402aa475a6c5eb49bfe4c766a4cf33b247a",
+    "status": "not-requested-after-access-restrictions",
+    "likes": null
+  }
+}

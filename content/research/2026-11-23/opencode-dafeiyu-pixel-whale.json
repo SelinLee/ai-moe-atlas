@@ -1,0 +1,56 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:17:56.428Z",
+  "url": "https://github.com/49vxn/opencode-dafeiyu/blob/17034e94ff2f182ded00ede14e88ebd3254c25dc/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/49vxn/opencode-dafeiyu/blob/17034e94ff2f182ded00ede14e88ebd3254c25dc/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/49vxn/opencode-dafeiyu/17034e94ff2f182ded00ede14e88ebd3254c25dc/README.md",
+    "sourceSha256": "874ddb937225332fe8e8faa8a1ee0e8a21b0312a7a09110b534543bd847e2a75",
+    "gitBlobSha": "25f548c0c42e511bd049abb9b826e2183aea97f3",
+    "bytes": 13060,
+    "commit": "17034e94ff2f182ded00ede14e88ebd3254c25dc"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/49vxn/opencode-dafeiyu/blob/17034e94ff2f182ded00ede14e88ebd3254c25dc/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/49vxn/opencode-dafeiyu/17034e94ff2f182ded00ede14e88ebd3254c25dc/README.md",
+      "sourceSha256": "874ddb937225332fe8e8faa8a1ee0e8a21b0312a7a09110b534543bd847e2a75",
+      "gitBlobSha": "25f548c0c42e511bd049abb9b826e2183aea97f3",
+      "bytes": 13060,
+      "commit": "17034e94ff2f182ded00ede14e88ebd3254c25dc"
+    },
+    {
+      "path": "LICENSE.md",
+      "url": "https://github.com/49vxn/opencode-dafeiyu/blob/17034e94ff2f182ded00ede14e88ebd3254c25dc/LICENSE.md",
+      "rawUrl": "https://raw.githubusercontent.com/49vxn/opencode-dafeiyu/17034e94ff2f182ded00ede14e88ebd3254c25dc/LICENSE.md",
+      "sourceSha256": "d691fa3b5601c07e5fb7723dcdb280cc1bb3d9ef5b432b34210821a0bc391e12",
+      "gitBlobSha": "25b7b3979a9a287783229273a6d65f0472a56280",
+      "bytes": 2254,
+      "commit": "17034e94ff2f182ded00ede14e88ebd3254c25dc"
+    },
+    {
+      "path": "widget/assets/gifs/running-cmd.gif",
+      "url": "https://github.com/49vxn/opencode-dafeiyu/blob/17034e94ff2f182ded00ede14e88ebd3254c25dc/widget/assets/gifs/running-cmd.gif",
+      "rawUrl": "https://raw.githubusercontent.com/49vxn/opencode-dafeiyu/17034e94ff2f182ded00ede14e88ebd3254c25dc/widget/assets/gifs/running-cmd.gif",
+      "sourceSha256": "a8e55cc933ef15769296060a92c74ce9d19a27f1c0c659cb983549eeb7e2927a",
+      "gitBlobSha": "587ac397c397cbabb22671acf02a702c8cdcdf33",
+      "bytes": 23670,
+      "commit": "17034e94ff2f182ded00ede14e88ebd3254c25dc"
+    }
+  ],
+  "repository": {
+    "full_name": "49vxn/opencode-dafeiyu",
+    "html_url": "https://github.com/49vxn/opencode-dafeiyu",
+    "stargazers_count": 10,
+    "archived": false,
+    "default_branch": "main",
+    "fork": false,
+    "created_at": "2026-11-10T05:09:40Z",
+    "commit": "17034e94ff2f182ded00ede14e88ebd3254c25dc",
+    "metadataSha256": "cd75b468c0a0b5932600ccf2605d89f9cc5a4b0ea93c16fa1836d088266d6421",
+    "observedAt": "2026-11-22T17:17:56.428Z"
+  },
+  "scope": "Pinned project README, scoped license texts and listed source files checked by Git blob and SHA-256."
+}

@@ -22,11 +22,11 @@
 ## リソース一覧
 
 <!-- category-picks:characters -->
-**[🎨 キャラクター図鑑](#characters)** · 56 項目\
+**[🎨 キャラクター図鑑](#characters)** · 58 項目\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/ja/characters/fuh-mimo/) · [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/ja/characters/shangshan-whale/)
 
 <!-- category-picks:songs -->
-**[🎵 楽曲](#songs)** · 72 曲\
+**[🎵 楽曲](#songs)** · 77 曲\
 [人は猫 · 大肥魚カバー](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · アニメーション MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [烂奇迹 · 大肥魚カバー](https://www.bilibili.com/video/BV1fzs26bETg/)
 
 <!-- category-picks:references -->
@@ -34,15 +34,15 @@
 [Claude のキャラクター資料](https://selinlee.github.io/ai-moe-atlas/ja/references/#claude) · [DeepSeek のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#deepseek) · [千問のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#qwen)
 
 <!-- category-picks:animations -->
-**[🎬 アニメ・動画二次創作](#animations)** · 739 件\
+**[🎬 アニメ・動画二次創作](#animations)** · 764 件\
 [チャット画面が彼女の世界のすべてだったら](https://www.bilibili.com/video/BV1xCai6aE9g/) · [負けヒロイン AI が多すぎる！ · PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo 娘キャラクター PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 ペット・インタラクティブ作品](#desktop-pets)** · 120 プロジェクト\
+**[🐾 ペット・インタラクティブ作品](#desktop-pets)** · 123 プロジェクト\
 [CrossPet · 複数の AI に対応するデスクトップペット](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D コーディングペット](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [MIMO ペット · Android のうさ耳ペット](https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/README.md)
 
 <!-- category-picks:sources -->
-**[📚 作者の作品と出典](#sources)** · 94 件\
+**[📚 作者の作品と出典](#sources)** · 96 件\
 [上善无形 · クジラ娘の原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI 娘化作品集](https://www.pixiv.net/artworks/148186519) · [甶丶 · MiMo の立ち絵・三面図投稿](https://github.com/lmy414/ai-girl-stickers/issues/35)
 
 <a id="characters"></a>
@@ -54,6 +54,8 @@ AI 製品33種からキャラクター、作者、原作を探せます。 [Muse
 新しいキャラクター · [小ク Coco](https://selinlee.github.io/ai-moe-atlas/ja/characters/ninon-coco/) · [Gemini Pro](https://selinlee.github.io/ai-moe-atlas/ja/characters/qinv-gemini-pro/) · [MiniMax 宇宙うさぎ](https://selinlee.github.io/ai-moe-atlas/ja/characters/shiho320-minimax-space-bunny/) · [混元娘](https://selinlee.github.io/ai-moe-atlas/ja/characters/aliang-hunyuan/) · [LongCat 龍猫](https://selinlee.github.io/ai-moe-atlas/ja/characters/fuh-longcat/) · [百度文心](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-ernie/)
 
 新着キャラクター · [千問 学園風立ち絵 · MX1951](https://selinlee.github.io/ai-moe-atlas/ja/characters/mx1951-qwen/) · [NovelAI 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-novelai/) · [ZCode 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-zcode/) · [Hugging Face 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-huggingface/) · [Perplexity 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-perplexity/) · [Tencent 混元娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-hunyuan/)
+
+Ninon の Claude 娘設定 · [メイド版](https://selinlee.github.io/ai-moe-atlas/ja/characters/ninon-claude-maid/) · [橙白ドレス版](https://selinlee.github.io/ai-moe-atlas/ja/characters/ninon-claude-orange-dress/)。原型のドレス、作者の別の壁紙、派生設定画の出典を掲載。 [ドレス原案の出典](content/research/2026-11-23/claude-orange-dress-source-chain.json)
 
 [オンラインで絞り込む](https://selinlee.github.io/ai-moe-atlas/ja/#catalog) · [三言語のキャラクター資料](content/characters.json) · [AI 製品一覧](content/entities.json)
 
@@ -71,18 +73,20 @@ AI 製品33種からキャラクター、作者、原作を探せます。 [Muse
 | [Trouble Maker](https://selinlee.github.io/ai-moe-atlas/ja/songs/#trouble-maker-duo) | Trouble Maker · HyunA &amp; Jang Hyun-seung | ナイロンと豆包「Trouble Maker」· トークン切れ | 241,078 |
 | [Let Me Go · 大きな魚のサボり歌](https://selinlee.github.io/ai-moe-atlas/ja/songs/#let-me-go) | 星落落_oi | 大きな魚のシングル「Let Me Go」アニメ PV | 131,050 |
 | [world.execute(me);](https://selinlee.github.io/ai-moe-atlas/ja/songs/#world-execute-me) | Mili | チャット画面が彼女の世界のすべてだったら | 112,273 |
-| [烂奇迹](https://selinlee.github.io/ai-moe-atlas/ja/songs/#rotting-miracle) | 杨羊烊Koi | 大きな魚が歌う「烂奇迹」 | 81,496 |
+| [烂奇迹](https://selinlee.github.io/ai-moe-atlas/ja/songs/#rotting-miracle) | 杨羊烊Koi | 大きな魚が歌う「烂奇迹」 | 82,056 |
 | [海闊天空](https://selinlee.github.io/ai-moe-atlas/ja/songs/#boundless-oceans-vast-skies) | Beyond | クジラ娘が「海闊天空」をカバー | 59,390 |
 | [朋友的酒](https://selinlee.github.io/ai-moe-atlas/ja/songs/#friends-wine) | 李晓杰 · Li Xiaojie | 大きな魚が歌う「朋友的酒」DJ 版 | 54,419 |
 | [Billie Jean](https://selinlee.github.io/ai-moe-atlas/ja/songs/#billie-jean) | Michael Jackson | クジラ娘が「Billie Jean」をカバー | 52,587 |
+| [みむかｩわナイストライ](https://selinlee.github.io/ai-moe-atlas/ja/songs/#mimukauwa-nice-try) | ぬぬぬぬぬぬぬぬぬぬ · 初音ミク | みむかｩわナイストライ · 大きな魚のカバーアニメ | 48,419 |
 | [雨愛](https://selinlee.github.io/ai-moe-atlas/ja/songs/#rainie-love) | 楊丞琳 · Rainie Yang | クジラ娘が「雨愛」司鳳版をカバー | 39,592 |
-| [5:20AM](https://selinlee.github.io/ai-moe-atlas/ja/songs/#five-twenty-am) | Soldier | 大きな魚 · 「5:20AM」中国語カバー | 37,226 |
 
 [楽曲の全順位とすべてのバージョンを見る](https://selinlee.github.io/ai-moe-atlas/ja/songs/) · [いいね数の観測記録](content/research/)
 
 <!-- song-ranking:end -->
 
 [原曲の出典](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲とバージョンの確認記録](content/research/2026-11-20/song-originals-and-fan-versions.json) · [主題歌と二次創作の使用曲の確認記録](content/research/2026-11-20/character-songs-and-opening-credits.json) · [ダンス・歌詞 MV の楽曲クレジット](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [「溫室效應」の原曲と二次創作 MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [原曲4曲と二次創作の確認](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [豆包カバーとエンディング曲の出典](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [千問・MiMo・ダンス曲の出典](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [「APT.」と「删了一百遍」の出典](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [カバー曲とゲーム楽曲の原曲](content/research/2026-11-22/november-cover-song-originals-and-versions.json) · [Charlotte・bloom・unhappy の出典](content/research/2026-11-22/november-charlotte-bloom-and-remix-evidence.json) · [週刊・ゲーム原曲の確認](content/research/2026-11-22/november-mili-and-game-soundtrack-verification.json) · [「烂奇迹」の原曲とカバーの確認](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json) · [原曲3曲と二次創作での使用](content/research/2026-11-23/november-renai-numb-and-dragon-maid-originals.json) · [FIRESTARTER・Bad Apple!! とカバーの出典](content/research/2026-11-23/november-firestarter-bad-apple-and-cover-attribution.json) · [Trouble Maker と「朋友的酒」の原曲](content/research/2026-11-23/november-trouble-maker-and-friends-wine-originals.json)
+
+[『千問、助けて』など5曲の原曲とカバー](content/research/2026-11-23/five-original-songs-and-cover-sources.json)
 
 <a id="references"></a>
 
@@ -119,7 +123,7 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 
 <!-- animation-ranking:end -->
 
-580件の公式累計いいね数を更新。63件は照会先へのアクセスに制限があり、7件は動画データなし、89件は今回照会していません。これらは前回取得値を掲載。候補10件は引き続き確認待ち。 [いいね数の確認記録](content/research/2026-11-23/bilibili-partial-catalog-recheck-scope.json)
+旧作の残り159件を再確認し、152件を更新。動画データが返らなかった7件は前回の取得値を掲載しています。2回で旧作739件中732件を更新し、新たに25件をランクに追加。候補10件は引き続き確認待ちです。 [再確認の記録](content/research/2026-11-23/bilibili-remaining-catalog-recheck-scope.json)
 
 <a id="desktop-pets"></a>
 
@@ -140,7 +144,9 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 | 9 | [OpenPets · ローカルデスクトップペット基盤](https://github.com/OpenPetsHQ/openpets/blob/9153e40ed37617243f903b074161d7df4bbd27b0/README.md) | [1,402](https://github.com/OpenPetsHQ/openpets) |
 | 10 | [CrossPet · 複数AI対応デスクトップペット](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | [545](https://github.com/lokicorvus/crosspet) |
 
-[ペット・インタラクティブ作品をすべて見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive) · [Star 数の確認記録](content/research/2026-11-23/github-interactive-stars-zcode-persona.json)
+[ペット・インタラクティブ作品をすべて見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive) · [Star 数の確認記録](content/research/2026-11-23/github-interactive-stars-deepfish-and-pixel-whale.json)
+
+新着デスクトップペット · [OpenCode 大肥魚](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#opencode-dafeiyu-pixel-whale) · [DeepFish Live2D](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#rockau-deepfish-live2d) · [Desktop Pet キャラクターパック](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#tonyna-anime-desktop-pet)。各項目に固定版の説明と素材の利用条件を掲載。
 
 クロスプラットフォーム版と Android ネイティブ版で、互換動画各106本をそれぞれの上流固定版とファイル単位で照合しました。上流版では素材の商用利用を禁止し、移植2件の文書にはこれらの動画を MIT と記載しています。 [ペット動画の出典照合](content/research/2026-11-21/dsh-pet-shared-animation-file-provenance.json)
 
@@ -262,6 +268,7 @@ ZipZipPipe の[出典と利用声明](https://t.bilibili.com/1231980045693616162
 
 | 時期・状況 | 内容 |
 | --- | --- |
+| 2026-11-23 · いいね数の再確認と Claude 設定画 | 旧作159件を再確認し、152件を更新。二次創作25件、楽曲5曲、キャラクター2件、出典2件、ペット3件を追加。 |
 | 2026-11-23 · 千問 CC0 素材と二次創作の再確認 | MX1951 の千問素材パックを公開。キャラクター6件、出典6件、楽曲2曲、インタラクティブ作品1件を追加。580件の累計いいね数を更新。 |
 | 2026-11-23 · 文心娘の立ち絵・階躍娘2版・順位確認 | 文心娘の Pixiv 単独立ち絵を固定版アーカイブと照合。キャラクター8件、出典7件、二次創作19件、楽曲2曲、デスクトップペット2件を追加。 |
 | 2026-11-23 · RWKV の原画・甶丶の設定・階躍娘の二次創作 | キャラクター4件、二次創作16件、楽曲3曲、デスクトップペット2件、作品集の出典1件を追加。ZipZipPipe の原画17枚と甶丶の原画44枚を照合。 |
