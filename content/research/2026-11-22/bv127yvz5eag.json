@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:45:32.139Z",
+  "url": "https://www.bilibili.com/video/BV127yVz5EaG/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV127yVz5EaG",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV127yVz5EaG",
+    "title": "大肥鱼嫌工钱少，来帮忙的龙娘一分没拿到",
+    "owner": {
+      "name": "ChatGPT龙娘驾到",
+      "mid": 3493086747429106
+    },
+    "pubdate": 1795336813,
+    "duration": 72
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "title": "大肥鱼嫌工钱少，来帮忙的龙娘一分没拿到",
+    "publisher": "ChatGPT龙娘驾到",
+    "observedAt": "2026-11-22T15:44:41.115Z",
+    "httpStatus": 200,
+    "htmlSha256": "0896440504105174c18e4b555fd429f03385bbc567e93dbd384962e2672944a8"
+  }
+}

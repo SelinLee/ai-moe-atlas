@@ -1,0 +1,62 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:45:39.755Z",
+  "url": "https://www.bilibili.com/opus/1270053526331981826",
+  "previousEvidence": {
+    "path": "content/research/2026-11-22/aliang-hunyuan-chibi-and-license.json",
+    "sha256": "2355323f0e63363f8574ed37d9e05c15dbc6ed2e735ee86d7ee12c29f4007829",
+    "kind": "browser-metadata-extract"
+  },
+  "fullSheet": {
+    "url": "http://i0.hdslb.com/bfs/new_dyn/bda4af925c5415e2289c1996d9535bc72757067.png",
+    "width": 1536,
+    "height": 1024,
+    "format": "png",
+    "httpStatus": 200,
+    "sourceSha256": "3dfc786e425d34a5dced1bd2cd55d2405cefb851154918f713619617646220f7",
+    "bytes": 2694552,
+    "accessedAt": "2026-11-22T15:31:43.897Z",
+    "position": 17
+  },
+  "visualConfirmation": {
+    "position": 17,
+    "label": "混元娘",
+    "views": [
+      "front",
+      "side",
+      "back"
+    ],
+    "costume": "Black, red and white Lolita outfit with a red scarf. The scarf includes the Hunyuan logo."
+  },
+  "relatedFiles": [
+    {
+      "position": 14,
+      "sourceSha256": "8615a81c51355d56798608ddee728c22d8ce1b09a8e143ca9ee467b7fa019607"
+    },
+    {
+      "position": 15,
+      "sourceSha256": "9aa9f9b1fe6d072f24811f320e2a495f8ec28e2a54b95afba259e2deef9ebf51"
+    },
+    {
+      "position": 16,
+      "sourceSha256": "b55b972f9d225f6613e1f2cef70054dedd362193c537f7bd68fcec540c7d3293"
+    },
+    {
+      "position": 17,
+      "sourceSha256": "3dfc786e425d34a5dced1bd2cd55d2405cefb851154918f713619617646220f7"
+    },
+    {
+      "position": 18,
+      "sourceSha256": "d4a59122df6f981776b5b28e8b12a332a3620f30a6a42e3d7c0b849b0347bc5c"
+    },
+    {
+      "position": 19,
+      "sourceSha256": "6bc05ee6fe92dc94007f26922ebd671532b68fda1d2b3441ed4dd8f40c0c46ab"
+    },
+    {
+      "position": 20,
+      "sourceSha256": "d622726ecc96059b806444d841cb51ea3e9e055b44e7f9d84206732464d76d0e"
+    }
+  ],
+  "reuseScope": "Author CC BY-NC-SA 4.0 for their Hunyuan design. The sheet includes Tencent brand elements with separate underlying rights."
+}

@@ -38,6 +38,23 @@ for (const [file, lang, directory, timeline, galleries] of layouts) {
    assert.ok(table.includes(`(${paths.length === 1 ? paths[0] : 'content/research/'})`));
   }
  });
+ test(`${file}: the desktop-pet section shows the ranked ten and links to the full catalog`,async()=>{
+  const markdown=await read(file);
+  const desktop=markdown.split('<a id="desktop-pets"></a>')[1].split('<a id="sources"></a>')[0];
+  const evidence=desktop.match(/\((content\/research\/\d{4}-\d{2}-\d{2}\/github-interactive-stars-[a-z0-9-]+\.json)\)/);
+  assert.ok(evidence);
+  const {records:stars}=JSON.parse(await read(evidence[1]));
+  const table=desktop.split('\n').filter(line=>line.startsWith('| '));
+  assert.equal(table.length,12);
+  const expected=stars.slice(0,10);
+  assert.equal(expected.length,10);
+  assert.deepEqual(table.slice(2).map(row=>{
+   const match=row.match(/^\| (\d+) \| \[[^\]]+\]\(https:\/\/[^)]+\) \| \[([\d,]+)\]\((https:\/\/[^)]+)\) \|$/);
+   assert.ok(match,row);
+   return [Number(match[1]), Number(match[2].replaceAll(',','')), match[3]];
+  }),expected.map((row,index)=>[index+1,row.stars,row.url]));
+  assert.ok(desktop.includes(`(https://selinlee.github.io/ai-moe-atlas/${lang}/resources/?category=interactive)`));
+ });
  test(`${file}: the directory shows three distinct text links beneath each category`,async()=>{
   const markdown = await read(file);
   const directoryStart = markdown.indexOf(`## ${directory}\n`);

@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:45:33.026Z",
+  "url": "https://www.bilibili.com/video/BV1nny8zjEpc/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nny8zjEpc",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1nny8zjEpc",
+    "title": "Claude：也许，我就从没羡慕过谁",
+    "owner": {
+      "name": "万能如水杨酸",
+      "mid": 193479557
+    },
+    "pubdate": 1795237575,
+    "duration": 57
+  },
+  "descriptionSha256": "13314696e42ae4215d0f05e10e0135ac7aeb20107a1785d4dc91ab12d5ef84de",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "title": "Claude：也许，我就从没羡慕过谁",
+    "publisher": "万能如水杨酸",
+    "observedAt": "2026-11-22T15:44:41.115Z",
+    "httpStatus": 200,
+    "htmlSha256": "0896440504105174c18e4b555fd429f03385bbc567e93dbd384962e2672944a8"
+  }
+}

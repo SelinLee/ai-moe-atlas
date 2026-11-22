@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:47:08.676Z",
+  "url": "https://www.bilibili.com/video/BV1izsg6XEG6/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1izsg6XEG6",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1izsg6XEG6",
+    "title": "【deepseekcos】说不痛苦那是假的◍˃ᵕ˂◍",
+    "owner": {
+      "name": "婉O呐",
+      "mid": 3546751432657335
+    },
+    "pubdate": 1794888618,
+    "duration": 15
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "basis": "Uploader-supplied source BV list"
+  }
+}

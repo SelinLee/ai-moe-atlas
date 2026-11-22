@@ -1,0 +1,254 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:45:04.992Z",
+  "htmlSha256": "4bf1e3bb22fa4238c84b3c84f0a06dbd3b1e5aa96ccd794047ac8fdd4e78b2fd",
+  "apiMetadataSha256": "f27616768ff01267483771a43955d74b4835cfccd3ae3d81fca160a614b6b448",
+  "apiPagesSha256": "a68cf42508d69b74adfa78ace7ccd85c01869872a3a940adb1c751ec613d1537",
+  "title": "一些更新",
+  "author": "ZipZipPipe",
+  "authorId": "18604994",
+  "aiType": 2,
+  "tags": [
+    "ai少女",
+    "女の子",
+    "少女",
+    "deepseek"
+  ],
+  "url": "https://www.pixiv.net/artworks/150718881",
+  "files": [
+    {
+      "position": 1,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p0.jpg",
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:08.727Z",
+      "bytes": 2501939,
+      "sourceSha256": "a41d578b24e53f88b39dec80dba1b7907a0d1e7e139430534c4b4946b6cbfb1c"
+    },
+    {
+      "position": 2,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p1.jpg",
+      "width": 2160,
+      "height": 3840,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:10.021Z",
+      "bytes": 3129871,
+      "sourceSha256": "cdd674d1d748bdfe62fac757798093899e5c1b8a1d3f29e03765f7f01b69ba43"
+    },
+    {
+      "position": 3,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p2.jpg",
+      "width": 941,
+      "height": 1672,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:07.823Z",
+      "bytes": 1310687,
+      "sourceSha256": "db61d89082abc47abc589b263020f6b71b67f578abbe061ccbc8dcaafa6bcb0c"
+    },
+    {
+      "position": 4,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p3.jpg",
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:11.249Z",
+      "bytes": 1777100,
+      "sourceSha256": "795b61234e6b7f6d315aaf784e1cbd97c9d4eb2d572d1dba46d23601f2485679"
+    },
+    {
+      "position": 5,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p4.jpg",
+      "width": 941,
+      "height": 1672,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:11.956Z",
+      "bytes": 1506557,
+      "sourceSha256": "9d0559b69db7353a89ba415355a56fab12c07ad3d8a8c3ae928697c391109e71"
+    },
+    {
+      "position": 6,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p5.jpg",
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:13.287Z",
+      "bytes": 2303441,
+      "sourceSha256": "c07ffa3ba156f9bc6d21e03994a27d24c9505097a7e6dc04372ee573d0b32db8"
+    },
+    {
+      "position": 7,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p6.jpg",
+      "width": 1536,
+      "height": 2752,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:15.453Z",
+      "bytes": 3619186,
+      "sourceSha256": "7f9bec7fbdc9303bc4bf9226dc80a1771b163f6a274714707821dd3095a478ab"
+    },
+    {
+      "position": 8,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p7.jpg",
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:16.184Z",
+      "bytes": 2246893,
+      "sourceSha256": "fed1b1145d55ba36145a968fe391860ea7aa90b7beddaeef218776482a246668"
+    },
+    {
+      "position": 9,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p8.jpg",
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:16.749Z",
+      "bytes": 1367038,
+      "sourceSha256": "28976cbcc878cd920d83d043468a32e93bdaa38008bb518291bb59b442fdcc25"
+    },
+    {
+      "position": 10,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p9.jpg",
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:18.660Z",
+      "bytes": 1783905,
+      "sourceSha256": "e5e7b14fef8ceba55e322d7ff294cf608f274870b0348a1de5b45fedb97aa715"
+    },
+    {
+      "position": 11,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p10.jpg",
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:18.455Z",
+      "bytes": 1524739,
+      "sourceSha256": "04dbc3342677f82109c1a7e857d36a1122c048700adffc180d3483be2f9980e1"
+    },
+    {
+      "position": 12,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p11.jpg",
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:18.934Z",
+      "bytes": 1337063,
+      "sourceSha256": "34d36add1d9cd51fd8c3978d14c622268ffb0be3c0a7a0e6a18b16cf14914033"
+    },
+    {
+      "position": 13,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p12.jpg",
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:19.990Z",
+      "bytes": 1747796,
+      "sourceSha256": "7718ea51d50d1254fc0c34bb3d71d790082958baeba4c385841ebcfa4c4163b8"
+    },
+    {
+      "position": 14,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p13.jpg",
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:20.171Z",
+      "bytes": 1086962,
+      "sourceSha256": "22eec6a87cc64dd78003a2db3ed9c0b60ea6c6ed0c6d648038e751d7338c9308"
+    },
+    {
+      "position": 15,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p14.jpg",
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:20.808Z",
+      "bytes": 1895892,
+      "sourceSha256": "a9e920abad173f1a11e98dc0b4ea4c98c2e02493493971694ca18cc019a86cfb"
+    },
+    {
+      "position": 16,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p15.jpg",
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:21.856Z",
+      "bytes": 1593074,
+      "sourceSha256": "f0b044ab0c790b61539e648c9972b4e3a3176a33cd9ad457f7832a50ffe3d2bb"
+    },
+    {
+      "position": 17,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p16.jpg",
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:22.790Z",
+      "bytes": 1256323,
+      "sourceSha256": "4405575e9f1af70039dcfb23f9da80dfcf74e913b43f226d0fc4160f5a88811b"
+    },
+    {
+      "position": 18,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p17.jpg",
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:23.016Z",
+      "bytes": 1032349,
+      "sourceSha256": "36b76299a0bd2104db1864c2444e9199a3bf4c9f84c7105bcce1f5abef9db305"
+    },
+    {
+      "position": 19,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p18.jpg",
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:24.704Z",
+      "bytes": 1367710,
+      "sourceSha256": "d56023c4dea62f5c23932ae98fb962280eb71d276b3da6f14f0172d200f9e4d0"
+    },
+    {
+      "position": 20,
+      "url": "https://i.pximg.net/img-original/img/2026/10/11/14/51/49/150718881_p19.jpg",
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T15:45:24.248Z",
+      "bytes": 732624,
+      "sourceSha256": "5701d49ac2fe7665b0eb3729b25f77e7feba4b9f270ae7a20bea9cb8bba78687"
+    }
+  ],
+  "captionSha256": "01e8842b11491fe3ea5630739fe98ce021b9af28a5ce3b0fbada1373743cab8c",
+  "creatorLabel": "AI-generated",
+  "license": "Artwork-specific terms unresolved",
+  "previousEvidence": {
+    "path": "content/research/2026-11-06/zipzippipe-updates.json",
+    "sha256": "b1f03a6a1fe556eea3c4f26ae82967f4da0682a02aea1a7d18e4ea7f6dcc55ca",
+    "kind": "browser-metadata-extract"
+  },
+  "comparedBilibiliCollection": {
+    "path": "content/research/2026-11-21/zipzippipe-second-batch-nine-files.json",
+    "sha256": "ec5e3600742e260af7020a397ccbbabbaf21d0fd6e25c58623dfb5163eb049a1",
+    "kind": "browser-metadata-extract"
+  },
+  "byteMatches": []
+}

@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:45:33.096Z",
+  "url": "https://www.bilibili.com/video/BV1uLyLzWE4j/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1uLyLzWE4j",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1uLyLzWE4j",
+    "title": "任务外包大循环！任务兜一圈竟然回到了自己手上",
+    "owner": {
+      "name": "Mistral法棍猫在运营",
+      "mid": 9126506
+    },
+    "pubdate": 1795348815,
+    "duration": 62
+  },
+  "descriptionSha256": "b466d8d279e6e6eccd0a647cad0d318ff720b9df4f7ae174cee04b7078570572",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "title": "任务外包大循环！任务兜一圈竟然回到了自己手上",
+    "publisher": "Mistral法棍猫在运营",
+    "observedAt": "2026-11-22T15:44:41.229Z",
+    "httpStatus": 200,
+    "htmlSha256": "176dd18e06008f0a601cc780c22bd90d1e599116575db0bb928572a80b5dbd7f"
+  }
+}

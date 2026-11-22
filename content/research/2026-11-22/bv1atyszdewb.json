@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:45:32.106Z",
+  "url": "https://www.bilibili.com/video/BV1aTyszDEwB/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1aTyszDEwB",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1aTyszDEwB",
+    "title": "大肥鱼翻哼《For River》",
+    "owner": {
+      "name": "N-buna-Official",
+      "mid": 432013705
+    },
+    "pubdate": 1795191388,
+    "duration": 151
+  },
+  "descriptionSha256": "9bc8e7de0cfbf22a183fe1962a5137f79eb13d602c97b77cbaa34dd5aa844c15",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%93%9D%E8%89%B2%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20MV&order=pubdate",
+    "title": "大肥鱼翻哼《For River》",
+    "publisher": "N-buna-Official",
+    "observedAt": "2026-11-22T15:44:41.209Z",
+    "httpStatus": 200,
+    "htmlSha256": "b842b3112a6f88db85e932d629e740b95858de46e5f2ca573614cb24470e9507"
+  }
+}

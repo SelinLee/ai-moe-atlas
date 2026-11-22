@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:47:08.906Z",
+  "url": "https://www.bilibili.com/video/BV1fzs26bETg/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fzs26bETg",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1fzs26bETg",
+    "title": "大肥鱼试图复活用户惹怒上帝，deepseek翻唱《烂奇迹》【AI MV大赛】",
+    "owner": {
+      "name": "星落落_oi",
+      "mid": 30584746
+    },
+    "pubdate": 1794972600,
+    "duration": 207
+  },
+  "descriptionSha256": "84b56e58a9331cafc3570dd45e664bcd1be104d47e9d5d83fa80548fe69769a3",
+  "uploaderCredits": [],
+  "linkedVideos": [
+    "BV1kxWi6eEBE"
+  ],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "basis": "Uploader-supplied source BV list"
+  }
+}

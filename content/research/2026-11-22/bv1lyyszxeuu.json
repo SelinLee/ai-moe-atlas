@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:45:33.026Z",
+  "url": "https://www.bilibili.com/video/BV1LyyszxEuU/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LyyszxEuU",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1LyyszxEuU",
+    "title": "【Claude小姐的工作日常】第10集：Deepseek的开放日-下【AI全民制作人】",
+    "owner": {
+      "name": "Claude小姐的日常",
+      "mid": 3747574548793768
+    },
+    "pubdate": 1795221000,
+    "duration": 121
+  },
+  "descriptionSha256": "fdb802be3c2776a0b2b92336ae08cb09cbb9b0ef23582847be682eeee2657b5d",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "title": "【Claude小姐的工作日常】第10集：Deepseek的开放日-下【AI全民制作人】",
+    "publisher": "Claude小姐的日常",
+    "observedAt": "2026-11-22T15:44:41.115Z",
+    "httpStatus": 200,
+    "htmlSha256": "0896440504105174c18e4b555fd429f03385bbc567e93dbd384962e2672944a8"
+  }
+}

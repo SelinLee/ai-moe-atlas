@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:47:08.695Z",
+  "url": "https://www.bilibili.com/video/BV1gJsq6HEzC/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gJsq6HEzC",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1gJsq6HEzC",
+    "title": "第一次带小睦和大肥鱼出门野餐，一大清早就被叫醒",
+    "owner": {
+      "name": "东洋雪莲",
+      "mid": 1060544882
+    },
+    "pubdate": 1795156571,
+    "duration": 104
+  },
+  "descriptionSha256": "fcf34ef1003eabcd46c68297b161546fccea2c600dd6f55ac0b2f903f21fc43f",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "basis": "Uploader-supplied source BV list"
+  }
+}

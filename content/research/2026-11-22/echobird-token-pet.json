@@ -1,0 +1,87 @@
+{
+  "full_name": "edison7009/EchoBird",
+  "html_url": "https://github.com/edison7009/EchoBird",
+  "stargazers_count": 3579,
+  "archived": false,
+  "created_at": "2026-02-15T12:36:33Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "All-in-one AI desktop app: one-click install for Claude Code, Codex CLI, DeepSeek and more, manage AI accounts and quotas, smart model routing with auto-failover, voice input, and run local LLMs. Bonus: a Token Pet that grows as you use AI.",
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "commit": "c03838cc49678e038a3ead5b0c77863be14a5cfc",
+  "observedAt": "2026-11-22T15:44:19.236+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:45:30.104Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/edison7009/EchoBird/blob/c03838cc49678e038a3ead5b0c77863be14a5cfc/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/edison7009/EchoBird/c03838cc49678e038a3ead5b0c77863be14a5cfc/README.md",
+      "sourceSha256": "056a1a48897a7eb50218f88426cac8920a18e092d600867f4bef8a4bf262fc82",
+      "gitBlobSha": "84c44be184ef50f92e80994402d354a9eed29d49",
+      "bytes": 14241,
+      "commit": "c03838cc49678e038a3ead5b0c77863be14a5cfc"
+    },
+    "README.zh-CN.md": {
+      "path": "README.zh-CN.md",
+      "url": "https://github.com/edison7009/EchoBird/blob/c03838cc49678e038a3ead5b0c77863be14a5cfc/README.zh-CN.md",
+      "rawUrl": "https://raw.githubusercontent.com/edison7009/EchoBird/c03838cc49678e038a3ead5b0c77863be14a5cfc/README.zh-CN.md",
+      "sourceSha256": "28d247560522fcccfa3902cf64e91a8f8fab912b8943f32ad4bb0600dac38d96",
+      "gitBlobSha": "7bec2c3f98f94e6c315e350e86fd868f8cc47546",
+      "bytes": 13913,
+      "commit": "c03838cc49678e038a3ead5b0c77863be14a5cfc"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "url": "https://github.com/edison7009/EchoBird/blob/c03838cc49678e038a3ead5b0c77863be14a5cfc/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/edison7009/EchoBird/c03838cc49678e038a3ead5b0c77863be14a5cfc/LICENSE",
+      "sourceSha256": "80fe40d09a2f2c7a3b7a6a59b6d52f3e4b41d51642b279ad78de53a6d318fc64",
+      "gitBlobSha": "2e40e72195b9fdf30104f58b312db5ef1e45e65f",
+      "bytes": 1093,
+      "commit": "c03838cc49678e038a3ead5b0c77863be14a5cfc"
+    },
+    "public/pet-supply-art/SOURCE.md": {
+      "path": "public/pet-supply-art/SOURCE.md",
+      "url": "https://github.com/edison7009/EchoBird/blob/c03838cc49678e038a3ead5b0c77863be14a5cfc/public/pet-supply-art/SOURCE.md",
+      "rawUrl": "https://raw.githubusercontent.com/edison7009/EchoBird/c03838cc49678e038a3ead5b0c77863be14a5cfc/public/pet-supply-art/SOURCE.md",
+      "sourceSha256": "7eed5b2c180d507e6fc34adef753e0049bd330d6166061ca3cfe3d9a8186686e",
+      "gitBlobSha": "bf34d54d35099b1aa18a0d625eeb46d5b8014ec8",
+      "bytes": 516,
+      "commit": "c03838cc49678e038a3ead5b0c77863be14a5cfc"
+    },
+    "public/pet-supply-art/echo-body.webp": {
+      "path": "public/pet-supply-art/echo-body.webp",
+      "url": "https://github.com/edison7009/EchoBird/blob/c03838cc49678e038a3ead5b0c77863be14a5cfc/public/pet-supply-art/echo-body.webp",
+      "rawUrl": "https://raw.githubusercontent.com/edison7009/EchoBird/c03838cc49678e038a3ead5b0c77863be14a5cfc/public/pet-supply-art/echo-body.webp",
+      "sourceSha256": "7a88e913ec032bcf78d82161bad6e2a83e6acfa13eee0bf2b40304ac32c1a4b2",
+      "gitBlobSha": "98cdd481c1261f3954a00bd89103381ee6e1ca77",
+      "bytes": 14954,
+      "commit": "c03838cc49678e038a3ead5b0c77863be14a5cfc"
+    },
+    "docs/zh/docs/pets/index.html": {
+      "path": "docs/zh/docs/pets/index.html",
+      "url": "https://github.com/edison7009/EchoBird/blob/c03838cc49678e038a3ead5b0c77863be14a5cfc/docs/zh/docs/pets/index.html",
+      "rawUrl": "https://raw.githubusercontent.com/edison7009/EchoBird/c03838cc49678e038a3ead5b0c77863be14a5cfc/docs/zh/docs/pets/index.html",
+      "sourceSha256": "b6d6a3e6e6b58a4515b04a0f6d790fb40365b4f08c355e3e184cc6205f86d314",
+      "gitBlobSha": "9cdf5b28301259803e27cb5e340d6b421c7f957e",
+      "bytes": 9910,
+      "commit": "c03838cc49678e038a3ead5b0c77863be14a5cfc"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/edison7009/EchoBird/blob/c03838cc49678e038a3ead5b0c77863be14a5cfc/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/edison7009/EchoBird/c03838cc49678e038a3ead5b0c77863be14a5cfc/README.md",
+    "sourceSha256": "056a1a48897a7eb50218f88426cac8920a18e092d600867f4bef8a4bf262fc82",
+    "gitBlobSha": "84c44be184ef50f92e80994402d354a9eed29d49",
+    "bytes": 14241,
+    "commit": "c03838cc49678e038a3ead5b0c77863be14a5cfc"
+  },
+  "method": "github-rest-tree-and-isolated-headless-google-chrome"
+}

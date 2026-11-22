@@ -1,0 +1,32 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:45:31.628Z",
+  "url": "https://www.bilibili.com/video/BV13yyazBE7m/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13yyazBE7m",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV13yyazBE7m",
+    "title": "《雨爱》\"司凤但好听版\"（鲸鲸翻唱）｜大肥鱼无限片场【AI MV 大赛】",
+    "owner": {
+      "name": "大肥鱼的专属账号",
+      "mid": 1909729561
+    },
+    "pubdate": 1795245366,
+    "duration": 139
+  },
+  "descriptionSha256": "57abac81ef4f80104bfd6406e42ccae27b1dd24cd5b908e4af59dc62d43ea208",
+  "uploaderCredits": [
+    "杨丞琳"
+  ],
+  "linkedVideos": [
+    "BV1faak6AEzm"
+  ],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%93%9D%E8%89%B2%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20MV&order=pubdate",
+    "title": "《雨爱》&quot;司凤但好听版&quot;（鲸鲸翻唱）｜大肥鱼无限片场【AI MV 大赛】",
+    "publisher": "大肥鱼的专属账号",
+    "observedAt": "2026-11-22T15:44:41.209Z",
+    "httpStatus": 200,
+    "htmlSha256": "b842b3112a6f88db85e932d629e740b95858de46e5f2ca573614cb24470e9507"
+  }
+}

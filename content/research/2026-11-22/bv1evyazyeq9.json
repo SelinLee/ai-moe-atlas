@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:45:31.196Z",
+  "url": "https://www.bilibili.com/video/BV1evyazyEQ9/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1evyazyEQ9",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1evyazyEQ9",
+    "title": "一只小肥鱼掉进糖果罐，把《瞬息甜味》唱成了这样（AI 翻唱）",
+    "owner": {
+      "name": "江雪鲸鲸",
+      "mid": 3747575479930731
+    },
+    "pubdate": 1795312800,
+    "duration": 197
+  },
+  "descriptionSha256": "03f0aa1de3d3d4846b9226c79243706689b63e24ef9a23989052f2aeb1dffc17",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%93%9D%E8%89%B2%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20MV&order=pubdate",
+    "title": "一只小肥鱼掉进糖果罐，把《瞬息甜味》唱成了这样（AI 翻唱）",
+    "publisher": "江雪鲸鲸",
+    "observedAt": "2026-11-22T15:44:41.209Z",
+    "httpStatus": 200,
+    "htmlSha256": "b842b3112a6f88db85e932d629e740b95858de46e5f2ca573614cb24470e9507"
+  }
+}

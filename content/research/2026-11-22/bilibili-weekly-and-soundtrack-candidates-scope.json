@@ -1,0 +1,416 @@
+{
+  "checkedAt": "2026-11-22T15:47:09.854Z",
+  "newlyVerified": 21,
+  "existingUnavailable": 7,
+  "pendingUnavailable": 9,
+  "previousEvidence": {
+    "path": "content/research/2026-11-22/bilibili-cumulative-likes-hunyuan-longcat-and-song-candidates.json",
+    "sha256": "24638a67cd3d20db355c96df0d9cfa5c5367c57ef23a8ae883e931fd427eb2ea",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-22/bilibili-cumulative-likes-weekly-and-soundtrack-candidates.json",
+    "sha256": "ea3a7f5d4422e258848c054c384d6e014d8aca47174769c24ea51f3b7a22eec8",
+    "kind": "browser-metadata-extract"
+  },
+  "discovery": [
+    {
+      "bvid": "BV1evyazyEQ9",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%93%9D%E8%89%B2%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20MV&order=pubdate",
+      "title": "一只小肥鱼掉进糖果罐，把《瞬息甜味》唱成了这样（AI 翻唱）",
+      "publisher": "江雪鲸鲸",
+      "observedAt": "2026-11-22T15:44:41.209Z",
+      "httpStatus": 200,
+      "htmlSha256": "b842b3112a6f88db85e932d629e740b95858de46e5f2ca573614cb24470e9507"
+    },
+    {
+      "bvid": "BV1KRyezzESt",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%93%9D%E8%89%B2%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20MV&order=pubdate",
+      "title": "Mili - City Blue（都市之蓝）自用大肥鱼翻唱",
+      "publisher": "0西琳0",
+      "observedAt": "2026-11-22T15:44:41.209Z",
+      "httpStatus": 200,
+      "htmlSha256": "b842b3112a6f88db85e932d629e740b95858de46e5f2ca573614cb24470e9507"
+    },
+    {
+      "bvid": "BV18wyazTERY",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%93%9D%E8%89%B2%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20MV&order=pubdate",
+      "title": "蓝色大肥鱼 翻唱《只对你有感觉》",
+      "publisher": "赛博同志",
+      "observedAt": "2026-11-22T15:44:41.209Z",
+      "httpStatus": 200,
+      "htmlSha256": "b842b3112a6f88db85e932d629e740b95858de46e5f2ca573614cb24470e9507"
+    },
+    {
+      "bvid": "BV13yyazBE7m",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%93%9D%E8%89%B2%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20MV&order=pubdate",
+      "title": "《雨爱》&quot;司凤但好听版&quot;（鲸鲸翻唱）｜大肥鱼无限片场【AI MV 大赛】",
+      "publisher": "大肥鱼的专属账号",
+      "observedAt": "2026-11-22T15:44:41.209Z",
+      "httpStatus": 200,
+      "htmlSha256": "b842b3112a6f88db85e932d629e740b95858de46e5f2ca573614cb24470e9507"
+    },
+    {
+      "bvid": "BV1QKysznETJ",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%93%9D%E8%89%B2%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20MV&order=pubdate",
+      "title": "大肥鱼翻哼《To the Moon》",
+      "publisher": "N-buna-Official",
+      "observedAt": "2026-11-22T15:44:41.209Z",
+      "httpStatus": 200,
+      "htmlSha256": "b842b3112a6f88db85e932d629e740b95858de46e5f2ca573614cb24470e9507"
+    },
+    {
+      "bvid": "BV1DTyszSEUn",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%93%9D%E8%89%B2%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20MV&order=pubdate",
+      "title": "大肥鱼翻哼《Take Me Anywhere》",
+      "publisher": "N-buna-Official",
+      "observedAt": "2026-11-22T15:44:41.209Z",
+      "httpStatus": 200,
+      "htmlSha256": "b842b3112a6f88db85e932d629e740b95858de46e5f2ca573614cb24470e9507"
+    },
+    {
+      "bvid": "BV1aTyszDEwB",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%93%9D%E8%89%B2%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20MV&order=pubdate",
+      "title": "大肥鱼翻哼《For River》",
+      "publisher": "N-buna-Official",
+      "observedAt": "2026-11-22T15:44:41.209Z",
+      "httpStatus": 200,
+      "htmlSha256": "b842b3112a6f88db85e932d629e740b95858de46e5f2ca573614cb24470e9507"
+    },
+    {
+      "bvid": "BV127yVz5EaG",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "大肥鱼嫌工钱少，来帮忙的龙娘一分没拿到",
+      "publisher": "ChatGPT龙娘驾到",
+      "observedAt": "2026-11-22T15:44:41.115Z",
+      "httpStatus": 200,
+      "htmlSha256": "0896440504105174c18e4b555fd429f03385bbc567e93dbd384962e2672944a8"
+    },
+    {
+      "bvid": "BV1ezyezSEUZ",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "claude失眠的夜晚，还好有大肥鱼在身边",
+      "publisher": "Mistral法棍猫在运营",
+      "observedAt": "2026-11-22T15:44:41.115Z",
+      "httpStatus": 200,
+      "htmlSha256": "0896440504105174c18e4b555fd429f03385bbc567e93dbd384962e2672944a8"
+    },
+    {
+      "bvid": "BV1sVyazfEMj",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "AI娘周刊 第5期｜小傻龙：我的鱼好像有一点似了……",
+      "publisher": "镜花Mirror",
+      "observedAt": "2026-11-22T15:44:41.115Z",
+      "httpStatus": 200,
+      "htmlSha256": "0896440504105174c18e4b555fd429f03385bbc567e93dbd384962e2672944a8"
+    },
+    {
+      "bvid": "BV1hAyaziEyg",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "AI娘三选一？！",
+      "publisher": "软乎乎-_-",
+      "observedAt": "2026-11-22T15:44:41.115Z",
+      "httpStatus": 200,
+      "htmlSha256": "0896440504105174c18e4b555fd429f03385bbc567e93dbd384962e2672944a8"
+    },
+    {
+      "bvid": "BV1nny8zjEpc",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "Claude：也许，我就从没羡慕过谁",
+      "publisher": "万能如水杨酸",
+      "observedAt": "2026-11-22T15:44:41.115Z",
+      "httpStatus": 200,
+      "htmlSha256": "0896440504105174c18e4b555fd429f03385bbc567e93dbd384962e2672944a8"
+    },
+    {
+      "bvid": "BV1LyyszxEuU",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "【Claude小姐的工作日常】第10集：Deepseek的开放日-下【AI全民制作人】",
+      "publisher": "Claude小姐的日常",
+      "observedAt": "2026-11-22T15:44:41.115Z",
+      "httpStatus": 200,
+      "htmlSha256": "0896440504105174c18e4b555fd429f03385bbc567e93dbd384962e2672944a8"
+    },
+    {
+      "bvid": "BV1SVysz1EMc",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "【Claude】在你眼中，我是怎样的存在呢？    アンノウン・マザーグース / 不为人知的鹅妈妈童谣",
+      "publisher": "A-回首空城",
+      "observedAt": "2026-11-22T15:44:41.115Z",
+      "httpStatus": 200,
+      "htmlSha256": "0896440504105174c18e4b555fd429f03385bbc567e93dbd384962e2672944a8"
+    },
+    {
+      "bvid": "BV1uLyLzWE4j",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "任务外包大循环！任务兜一圈竟然回到了自己手上",
+      "publisher": "Mistral法棍猫在运营",
+      "observedAt": "2026-11-22T15:44:41.229Z",
+      "httpStatus": 200,
+      "htmlSha256": "176dd18e06008f0a601cc780c22bd90d1e599116575db0bb928572a80b5dbd7f"
+    },
+    {
+      "bvid": "BV1izsg6XEG6",
+      "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+      "publisher": "镜花Mirror",
+      "basis": "Uploader-supplied source BV list"
+    },
+    {
+      "bvid": "BV17vsJ67EYJ",
+      "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+      "publisher": "镜花Mirror",
+      "basis": "Uploader-supplied source BV list"
+    },
+    {
+      "bvid": "BV1trsw6JE82",
+      "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+      "publisher": "镜花Mirror",
+      "basis": "Uploader-supplied source BV list"
+    },
+    {
+      "bvid": "BV1gJsq6HEzC",
+      "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+      "publisher": "镜花Mirror",
+      "basis": "Uploader-supplied source BV list"
+    },
+    {
+      "bvid": "BV1fzs26bETg",
+      "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+      "publisher": "镜花Mirror",
+      "basis": "Uploader-supplied source BV list"
+    },
+    {
+      "bvid": "BV1PCsC6FEeD",
+      "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+      "publisher": "镜花Mirror",
+      "basis": "Uploader-supplied source BV list"
+    }
+  ],
+  "publicVideoEvidence": {
+    "path": "content/research/2026-11-22/bilibili-pending-video-page-recheck.json",
+    "sha256": "9b3d57bb66e9db64f27d33dcf7eadc8836cf0998cd18c93c85a821a41d6d3f14",
+    "kind": "browser-metadata-extract"
+  },
+  "weeklyReview": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "sourceBasis": "Source IDs in the episode description. Counts obtained separately from the official view endpoint.",
+    "verifiedForFutureEditorialReview": [
+      {
+        "bvid": "BV14DsK6fExw",
+        "observedAt": "2026-11-22T15:47:02.432Z",
+        "httpStatus": 200,
+        "code": 0,
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV14DsK6fExw",
+        "title": "【咕嘎饭馆】今天的北京烤鸭特别香！",
+        "publisher": "陈千语Sama",
+        "publisherId": 310906792,
+        "likes": 24376,
+        "pubdate": 1794870000
+      },
+      {
+        "bvid": "BV15FWf6DE63",
+        "observedAt": "2026-11-22T15:47:03.154Z",
+        "httpStatus": 200,
+        "code": 0,
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15FWf6DE63",
+        "title": "日本妹妹被大肥鱼戏耍？",
+        "publisher": "真红莉爱Official",
+        "publisherId": 1485277312,
+        "likes": 29749,
+        "pubdate": 1794801600
+      },
+      {
+        "bvid": "BV1CVsP6jE4r",
+        "observedAt": "2026-11-22T15:47:03.212Z",
+        "httpStatus": 200,
+        "code": 0,
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CVsP6jE4r",
+        "title": "文艺复兴！经典ai名歌《梁文锋带带我 》听完美股直接爆炸【AI MV大赛】",
+        "publisher": "donkyi",
+        "publisherId": 631465960,
+        "likes": 51177,
+        "pubdate": 1794826316
+      },
+      {
+        "bvid": "BV1H2sn6fEEH",
+        "observedAt": "2026-11-22T15:47:03.309Z",
+        "httpStatus": 200,
+        "code": 0,
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1H2sn6fEEH",
+        "title": "AI能带给我幸福吗？",
+        "publisher": "幸仁儿鲨",
+        "publisherId": 2028243547,
+        "likes": 17462,
+        "pubdate": 1794721654
+      },
+      {
+        "bvid": "BV1NKsw65EYp",
+        "observedAt": "2026-11-22T15:47:03.311Z",
+        "httpStatus": 200,
+        "code": 0,
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NKsw65EYp",
+        "title": "【带着AI穿越2018/第一季 完】#8 带着蓝色大肥鱼环游全国！",
+        "publisher": "卜肉熊brx",
+        "publisherId": 173561378,
+        "likes": 17392,
+        "pubdate": 1794810533
+      },
+      {
+        "bvid": "BV1PCsu6wEgx",
+        "observedAt": "2026-11-22T15:47:07.102Z",
+        "httpStatus": 200,
+        "code": 0,
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PCsu6wEgx",
+        "title": "幼儿园食堂饭菜供应不足",
+        "publisher": "梓小林Zlin",
+        "publisherId": 3707025536060090,
+        "likes": 9022,
+        "pubdate": 1794913500
+      },
+      {
+        "bvid": "BV1PXsS67Eso",
+        "observedAt": "2026-11-22T15:47:07.105Z",
+        "httpStatus": 200,
+        "code": 0,
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PXsS67Eso",
+        "title": "【梁武峰 & 大肥鱼】干将莫邪（限定皮肤",
+        "publisher": "l士干l",
+        "publisherId": 3691012763421422,
+        "likes": 20917,
+        "pubdate": 1795000421
+      },
+      {
+        "bvid": "BV1QCsh66ECT",
+        "observedAt": "2026-11-22T15:47:04.289Z",
+        "httpStatus": 200,
+        "code": 0,
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QCsh66ECT",
+        "title": "不批挺好的，我就可以天天摸鱼啦",
+        "publisher": "冬冰",
+        "publisherId": 44748304,
+        "likes": 26505,
+        "pubdate": 1795080932
+      },
+      {
+        "bvid": "BV1RNs26QEsC",
+        "observedAt": "2026-11-22T15:47:07.105Z",
+        "httpStatus": 200,
+        "code": 0,
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RNs26QEsC",
+        "title": "大肥鱼：你看我像串子吗？",
+        "publisher": "益生菌洗手液",
+        "publisherId": 3546597187127601,
+        "likes": 61097,
+        "pubdate": 1794972772
+      },
+      {
+        "bvid": "BV1RrsJ6VE4L",
+        "observedAt": "2026-11-22T15:47:08.077Z",
+        "httpStatus": 200,
+        "code": 0,
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RrsJ6VE4L",
+        "title": "豆包：一个不留",
+        "publisher": "saki想成为人类",
+        "publisherId": 3493139635505972,
+        "likes": 28223,
+        "pubdate": 1794732718
+      },
+      {
+        "bvid": "BV1TPs46QEni",
+        "observedAt": "2026-11-22T15:47:07.844Z",
+        "httpStatus": 200,
+        "code": 0,
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TPs46QEni",
+        "title": "人质拯救计划",
+        "publisher": "翰弟-AIGC",
+        "publisherId": 1894538,
+        "likes": 3375,
+        "pubdate": 1795060932
+      },
+      {
+        "bvid": "BV1WJsJ6tEka",
+        "observedAt": "2026-11-22T15:47:07.646Z",
+        "httpStatus": 200,
+        "code": 0,
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WJsJ6tEka",
+        "title": "【DeepSeek】蠢蠢的死法",
+        "publisher": "heller菌",
+        "publisherId": 3035121,
+        "likes": 13232,
+        "pubdate": 1794713400
+      },
+      {
+        "bvid": "BV1Wmsw6LEoj",
+        "observedAt": "2026-11-22T15:47:08.080Z",
+        "httpStatus": 200,
+        "code": 0,
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Wmsw6LEoj",
+        "title": "梁圣带大肥鱼们去体检",
+        "publisher": "恶之魔法少女",
+        "publisherId": 701790342,
+        "likes": 14740,
+        "pubdate": 1794803767
+      },
+      {
+        "bvid": "BV1b4sz6sE39",
+        "observedAt": "2026-11-22T15:47:08.083Z",
+        "httpStatus": 200,
+        "code": 0,
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1b4sz6sE39",
+        "title": "臭肥鱼害我把情书交给高数老师了！【人和肥鱼04】",
+        "publisher": "双叶吸咖喱",
+        "publisherId": 3069153,
+        "likes": 20619,
+        "pubdate": 1794909600
+      },
+      {
+        "bvid": "BV1bZsG6EEvy",
+        "observedAt": "2026-11-22T15:47:08.666Z",
+        "httpStatus": 200,
+        "code": 0,
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bZsG6EEvy",
+        "title": "肥鱼笑传之Cursed Click Blackout",
+        "publisher": "lilin猫猫头",
+        "publisherId": 699668020,
+        "likes": 27313,
+        "pubdate": 1794708000
+      },
+      {
+        "bvid": "BV1dGst6NESK",
+        "observedAt": "2026-11-22T15:47:08.628Z",
+        "httpStatus": 200,
+        "code": 0,
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dGst6NESK",
+        "title": "第一集：大肥鱼吃瓜吃到自己！？？",
+        "publisher": "小水盘的鱼",
+        "publisherId": 355868677,
+        "likes": 26425,
+        "pubdate": 1795053772
+      },
+      {
+        "bvid": "BV1vGst6NEdB",
+        "observedAt": "2026-11-22T15:47:09.504Z",
+        "httpStatus": 200,
+        "code": 0,
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vGst6NEdB",
+        "title": "当大肥鱼第一次去高档饭店",
+        "publisher": "带恶人奥",
+        "publisherId": 15588979,
+        "likes": 4478,
+        "pubdate": 1795058400
+      },
+      {
+        "bvid": "BV1wQs16aEF3",
+        "observedAt": "2026-11-22T15:47:09.504Z",
+        "httpStatus": 200,
+        "code": 0,
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wQs16aEF3",
+        "title": "梁圣带大肥鱼们去吃自助",
+        "publisher": "恶之魔法少女",
+        "publisherId": 701790342,
+        "likes": 57990,
+        "pubdate": 1794974940
+      }
+    ]
+  }
+}

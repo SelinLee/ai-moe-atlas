@@ -1,0 +1,69 @@
+{
+  "full_name": "NanmiCoder/cc-haha",
+  "html_url": "https://github.com/NanmiCoder/cc-haha",
+  "stargazers_count": 15520,
+  "archived": false,
+  "created_at": "2026-03-31T17:30:14Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "本地优先的跨平台 Claude Code / AI Agent 桌面工作台：多 Agent 协作、Git Worktree、代码 Diff、技能市场、多模型、Computer Use、桌面宠物；支持微信、飞书、钉钉及 H5 等远程访问。 | Local-first Claude Code / AI Agent desktop workspace: multi-agent teams, Git worktrees, diffs, skills marketplace, multi-model, Computer Use, task-aware desktop pets; remote via WeChat, Feishu, DingTalk, Telegram, WhatsApp & H5.",
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": "NOASSERTION",
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "commit": "4f1e07aa38a90ee2270c3c6043f07a121a78d46a",
+  "observedAt": "2026-11-22T15:44:19.678+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:45:35.330Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/NanmiCoder/cc-haha/blob/4f1e07aa38a90ee2270c3c6043f07a121a78d46a/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/NanmiCoder/cc-haha/4f1e07aa38a90ee2270c3c6043f07a121a78d46a/README.md",
+      "sourceSha256": "f575578283c648c31a90496c84e3ed2b0230c9a5b3f3ccdb40c8b78bbb3bfe0a",
+      "gitBlobSha": "5f34394779e26646ab791edd25e1b8cc6d478300",
+      "bytes": 19123,
+      "commit": "4f1e07aa38a90ee2270c3c6043f07a121a78d46a"
+    },
+    "LICENSING.md": {
+      "path": "LICENSING.md",
+      "url": "https://github.com/NanmiCoder/cc-haha/blob/4f1e07aa38a90ee2270c3c6043f07a121a78d46a/LICENSING.md",
+      "rawUrl": "https://raw.githubusercontent.com/NanmiCoder/cc-haha/4f1e07aa38a90ee2270c3c6043f07a121a78d46a/LICENSING.md",
+      "sourceSha256": "748dd3060757edacdd9693844ac8a043532cd71aac25e5d86d605a3d69ec8b28",
+      "gitBlobSha": "58d6a60d658ffc981d18725f40f669660471f5fe",
+      "bytes": 8470,
+      "commit": "4f1e07aa38a90ee2270c3c6043f07a121a78d46a"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "url": "https://github.com/NanmiCoder/cc-haha/blob/4f1e07aa38a90ee2270c3c6043f07a121a78d46a/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/NanmiCoder/cc-haha/4f1e07aa38a90ee2270c3c6043f07a121a78d46a/LICENSE",
+      "sourceSha256": "4f62a6c93d4d65f69bf0182a55cb07965c27130ceb05e3b720d51468627e7b7f",
+      "gitBlobSha": "911fdae7fbbee635160e198d18d4a43402a01ca2",
+      "bytes": 7971,
+      "commit": "4f1e07aa38a90ee2270c3c6043f07a121a78d46a"
+    },
+    "THIRD_PARTY_LICENSES.md": {
+      "path": "THIRD_PARTY_LICENSES.md",
+      "url": "https://github.com/NanmiCoder/cc-haha/blob/4f1e07aa38a90ee2270c3c6043f07a121a78d46a/THIRD_PARTY_LICENSES.md",
+      "rawUrl": "https://raw.githubusercontent.com/NanmiCoder/cc-haha/4f1e07aa38a90ee2270c3c6043f07a121a78d46a/THIRD_PARTY_LICENSES.md",
+      "sourceSha256": "ffc58362004758bdddbd0e5f03c12f4a8f887087925d8d5850d0152e46da31a3",
+      "gitBlobSha": "85aee3906d8e3229d50f84e1e40d9d138ac0321e",
+      "bytes": 4496,
+      "commit": "4f1e07aa38a90ee2270c3c6043f07a121a78d46a"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/NanmiCoder/cc-haha/blob/4f1e07aa38a90ee2270c3c6043f07a121a78d46a/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/NanmiCoder/cc-haha/4f1e07aa38a90ee2270c3c6043f07a121a78d46a/README.md",
+    "sourceSha256": "f575578283c648c31a90496c84e3ed2b0230c9a5b3f3ccdb40c8b78bbb3bfe0a",
+    "gitBlobSha": "5f34394779e26646ab791edd25e1b8cc6d478300",
+    "bytes": 19123,
+    "commit": "4f1e07aa38a90ee2270c3c6043f07a121a78d46a"
+  },
+  "method": "github-rest-tree-and-isolated-headless-google-chrome"
+}

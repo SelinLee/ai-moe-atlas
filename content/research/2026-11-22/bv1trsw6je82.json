@@ -1,0 +1,25 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:47:09.852Z",
+  "url": "https://www.bilibili.com/video/BV1trsw6JE82/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1trsw6JE82",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1trsw6JE82",
+    "title": "小傻龙：“人，我的鱼好像有一点似了……”",
+    "owner": {
+      "name": "小陈的脚凑凑的",
+      "mid": 71923484
+    },
+    "pubdate": 1794808670,
+    "duration": 84
+  },
+  "descriptionSha256": "c45b18845939ad15456c6f9aac3a8c35c044b4ca810bbda1a314000a1a345b0f",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "basis": "Uploader-supplied source BV list"
+  }
+}

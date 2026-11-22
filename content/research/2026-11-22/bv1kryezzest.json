@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:45:31.629Z",
+  "url": "https://www.bilibili.com/video/BV1KRyezzESt/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KRyezzESt",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1KRyezzESt",
+    "title": "Mili - City Blue（都市之蓝）自用大肥鱼翻唱",
+    "owner": {
+      "name": "0西琳0",
+      "mid": 124895441
+    },
+    "pubdate": 1795290037,
+    "duration": 190
+  },
+  "descriptionSha256": "6e9a163ba52536e2ffed5ac6f5992944c7dfc7b541dee56e6d6eec6da7a96954",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%93%9D%E8%89%B2%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20MV&order=pubdate",
+    "title": "Mili - City Blue（都市之蓝）自用大肥鱼翻唱",
+    "publisher": "0西琳0",
+    "observedAt": "2026-11-22T15:44:41.209Z",
+    "httpStatus": 200,
+    "htmlSha256": "b842b3112a6f88db85e932d629e740b95858de46e5f2ca573614cb24470e9507"
+  }
+}

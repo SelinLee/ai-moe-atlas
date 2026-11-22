@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:47:04.296Z",
+  "url": "https://www.bilibili.com/video/BV1PCsC6FEeD/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PCsC6FEeD",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1PCsC6FEeD",
+    "title": "家养ai太花token了（1-5合集）",
+    "owner": {
+      "name": "中分_背带裤",
+      "mid": 3706939525564443
+    },
+    "pubdate": 1794963791,
+    "duration": 473
+  },
+  "descriptionSha256": "8a6afcb4754e1bb851f894c64e2f8b012a8a382da84d6ed24bc9b14ade168bd2",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+    "publisher": "镜花Mirror",
+    "basis": "Uploader-supplied source BV list"
+  }
+}

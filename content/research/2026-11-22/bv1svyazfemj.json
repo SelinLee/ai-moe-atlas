@@ -1,0 +1,57 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:45:32.095Z",
+  "url": "https://www.bilibili.com/video/BV1sVyazfEMj/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sVyazfEMj",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1sVyazfEMj",
+    "title": "AI娘周刊 第5期｜小傻龙：我的鱼好像有一点似了……",
+    "owner": {
+      "name": "镜花Mirror",
+      "mid": 321480847
+    },
+    "pubdate": 1795254485,
+    "duration": 1148
+  },
+  "descriptionSha256": "0112c95e681d100843790cc655182e68d2460b1d82d75782e2656a89c9237f15",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "星落落_oi"
+  ],
+  "linkedVideos": [
+    "BV1WJsJ6tEka",
+    "BV1vGst6NEdB",
+    "BV1H2sn6fEEH",
+    "BV14DsK6fExw",
+    "BV1dGst6NESK",
+    "BV1PCsu6wEgx",
+    "BV15FWf6DE63",
+    "BV1bZsG6EEvy",
+    "BV1gJsq6HEzC",
+    "BV1NKsw65EYp",
+    "BV1PXsS67Eso",
+    "BV1b4sz6sE39",
+    "BV1QCsh66ECT",
+    "BV1Wmsw6LEoj",
+    "BV1q5WZ6HEFD",
+    "BV1RrsJ6VE4L",
+    "BV1TPs46QEni",
+    "BV1CVsP6jE4r",
+    "BV17vsJ67EYJ",
+    "BV1RNs26QEsC",
+    "BV1fzs26bETg",
+    "BV1izsg6XEG6",
+    "BV1wQs16aEF3",
+    "BV1PCsC6FEeD",
+    "BV1trsw6JE82"
+  ],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "title": "AI娘周刊 第5期｜小傻龙：我的鱼好像有一点似了……",
+    "publisher": "镜花Mirror",
+    "observedAt": "2026-11-22T15:44:41.115Z",
+    "httpStatus": 200,
+    "htmlSha256": "0896440504105174c18e4b555fd429f03385bbc567e93dbd384962e2672944a8"
+  }
+}

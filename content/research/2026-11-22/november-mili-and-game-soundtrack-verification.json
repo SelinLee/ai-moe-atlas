@@ -1,0 +1,125 @@
+{
+  "method": "isolated-headless-google-chrome-official-release-and-bilibili-view-detail",
+  "tracks": [
+    {
+      "songId": "city-blue-mili",
+      "originalSource": {
+        "id": "city-blue-mili",
+        "url": "https://music.apple.com/us/album/city-blue-single/6830174263",
+        "finalUrl": "https://music.apple.com/us/album/city-blue-single/6830174263",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:46:14.318Z",
+        "htmlSha256": "1745c5cc351dee2653504cab702a8c866155f39544f7372329b9ead7108a7e36",
+        "title": "‎City Blue - Single - Album by Mili - Apple Music",
+        "og": "City Blue - Single by Mili on Apple Music"
+      },
+      "fanVersion": {
+        "bvid": "BV1KRyezzESt",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1KRyezzESt",
+        "url": "https://www.bilibili.com/video/BV1KRyezzESt/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:46:23.078Z",
+        "bodySha256": "5004d15bb0cff83af9d8a417d20eb402cfa782e5ada23ae42edc639ec9d16a5d",
+        "verifiedTag": "发现《City Blue》",
+        "descriptionSha256": "6e9a163ba52536e2ffed5ac6f5992944c7dfc7b541dee56e6d6eec6da7a96954"
+      }
+    },
+    {
+      "songId": "take-me-anywhere-to-the-moon",
+      "originalSource": {
+        "id": "to-the-moon-ost",
+        "url": "https://freebirdgames.bandcamp.com/album/to-the-moon-ost",
+        "finalUrl": "https://freebirdgames.bandcamp.com/album/to-the-moon-ost",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:46:15.404Z",
+        "htmlSha256": "4fddbd8fd32c336a0673be8e8fc0a150911facb12da55fc9f06686ae5261927f",
+        "title": "To the Moon <OST> | Kan R. Gao, feat. Laura Shigihara | Reives.Freebird",
+        "og": "To the Moon <OST>, by Kan R. Gao, feat. Laura Shigihara"
+      },
+      "fanVersion": {
+        "bvid": "BV1DTyszSEUn",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1DTyszSEUn",
+        "url": "https://www.bilibili.com/video/BV1DTyszSEUn/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:46:23.081Z",
+        "bodySha256": "e7f0d06e7aebe63b40cacbf9c936ca6d4fa2d4d05964d06d72505047aabca2fc",
+        "descriptionSha256": "513e8fe098a1c29bbaf3744a1997dbcec8ae9dcc649bd7465f53538520be098d"
+      }
+    },
+    {
+      "songId": "for-river-to-the-moon",
+      "originalSource": {
+        "id": "to-the-moon-ost",
+        "url": "https://freebirdgames.bandcamp.com/album/to-the-moon-ost",
+        "finalUrl": "https://freebirdgames.bandcamp.com/album/to-the-moon-ost",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:46:15.404Z",
+        "htmlSha256": "4fddbd8fd32c336a0673be8e8fc0a150911facb12da55fc9f06686ae5261927f",
+        "title": "To the Moon <OST> | Kan R. Gao, feat. Laura Shigihara | Reives.Freebird",
+        "og": "To the Moon <OST>, by Kan R. Gao, feat. Laura Shigihara"
+      },
+      "fanVersion": {
+        "bvid": "BV1aTyszDEwB",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1aTyszDEwB",
+        "url": "https://www.bilibili.com/video/BV1aTyszDEwB/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:46:23.077Z",
+        "bodySha256": "a4fec6e44da9c22eb60e37ac34049b4e4f1ecb0db9f6cf7b34e83724583a13bc",
+        "descriptionSha256": "9bc8e7de0cfbf22a183fe1962a5137f79eb13d602c97b77cbaa34dd5aa844c15"
+      }
+    },
+    {
+      "songId": "unknown-mother-goose",
+      "originalSource": {
+        "id": "unknown-mother-goose",
+        "url": "https://www.nicovideo.jp/watch/sm31791630",
+        "finalUrl": "https://www.nicovideo.jp/watch/sm31791630",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:46:13.327Z",
+        "htmlSha256": "7498a8cf51c03dbbaaf24c3820dd571636204aab2b12a6059382e6d0bd83a3fb",
+        "title": "wowaka『アンノウン・マザーグース』feat. 初音ミク - ニコニコ動画",
+        "og": "wowaka『アンノウン・マザーグース』feat. 初音ミク"
+      },
+      "fanVersion": {
+        "bvid": "BV1SVysz1EMc",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1SVysz1EMc",
+        "url": "https://www.bilibili.com/video/BV1SVysz1EMc/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:46:23.095Z",
+        "bodySha256": "b7f73237dc17f3451ba48a95b0804a30ecc66b8ddd7f1beaca3180240705d770",
+        "verifiedTag": "发现《アンノウン・マザーグース》",
+        "descriptionSha256": "b1745b00d69becf612b9f7c54b95994ed9f96df54cafb9f26393ae9e732c7b31"
+      }
+    },
+    {
+      "fanVersion": {
+        "bvid": "BV1QKysznETJ",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1QKysznETJ",
+        "url": "https://www.bilibili.com/video/BV1QKysznETJ/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:46:23.098Z",
+        "bodySha256": "cf5184ab51ac2207e57909c1c412c835aa81dff947a7edd42926c8074d19b575",
+        "descriptionSha256": "ff4cc6315efb6b448c0cac5603580ac188ca76f9f0d3ecaae02f5ba1a0a79950"
+      },
+      "officialSoundtrack": "https://freebirdgames.bandcamp.com/album/to-the-moon-ost",
+      "note": "The upload cites the soundtrack. The original title has multiple recordings on the album."
+    },
+    {
+      "songId": "rainie-love",
+      "original": {
+        "credit": "楊丞琳 · Rainie Yang",
+        "url": "https://www.youtube.com/watch?v=oec9R5ypf-o"
+      },
+      "fanVersion": {
+        "bvid": "BV13yyazBE7m",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV13yyazBE7m",
+        "url": "https://www.bilibili.com/video/BV13yyazBE7m/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:46:24.146Z",
+        "bodySha256": "2af262908592a4145d9d21cf88b59286c395f0910f703e8a5440d2e2254adeee",
+        "verifiedTag": "发现《雨爱》",
+        "descriptionSha256": "57abac81ef4f80104bfd6406e42ccae27b1dd24cd5b908e4af59dc62d43ea208"
+      }
+    }
+  ]
+}

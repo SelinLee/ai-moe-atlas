@@ -69,7 +69,8 @@
       {"id": "bv1zdxs6ue4j", "type": "cover"},
       {"id": "bv11fsc6be2h", "type": "cover"},
       {"id": "bv1dhwj6venx", "type": "cover"},
-      {"id": "bv1evsb6fevj", "type": "mv"}
+      {"id": "bv1evsb6fevj", "type": "mv"},
+      {"id": "bv13yyazbe7m", "type": "cover"}
     ]
   },
   {
@@ -407,5 +408,29 @@
     "title": {"zh": "unhappy", "en": "unhappy", "ja": "unhappy"},
     "original": {"credit": "s0rrow", "url": "https://music.apple.com/de/album/6790708388"},
     "versions": [{"id": "bv166ybzcevr", "type": "remix"}]
+  },
+  {
+    "id": "city-blue-mili",
+    "title": {"zh": "City Blue · 都市之蓝", "en": "City Blue", "ja": "City Blue"},
+    "original": {"credit": "Mili", "url": "https://music.apple.com/us/album/city-blue-single/6830174263"},
+    "versions": [{"id": "bv1kryezzest", "type": "cover"}]
+  },
+  {
+    "id": "take-me-anywhere-to-the-moon",
+    "title": {"zh": "Take Me Anywhere · 去月球", "en": "Take Me Anywhere · To the Moon", "ja": "Take Me Anywhere · To the Moon"},
+    "original": {"credit": "Kan R. Gao", "url": "https://freebirdgames.bandcamp.com/album/to-the-moon-ost"},
+    "versions": [{"id": "bv1dtyszseun", "type": "cover"}]
+  },
+  {
+    "id": "for-river-to-the-moon",
+    "title": {"zh": "For River · 去月球", "en": "For River · To the Moon", "ja": "For River · To the Moon"},
+    "original": {"credit": "Kan R. Gao", "url": "https://freebirdgames.bandcamp.com/album/to-the-moon-ost"},
+    "versions": [{"id": "bv1atyszdewb", "type": "cover"}]
+  },
+  {
+    "id": "unknown-mother-goose",
+    "title": {"zh": "不为人知的鹅妈妈童谣", "en": "Unknown Mother Goose", "ja": "アンノウン・マザーグース"},
+    "original": {"credit": "wowaka feat. 初音ミク", "url": "https://www.nicovideo.jp/watch/sm31791630"},
+    "versions": [{"id": "bv1svysz1emc", "type": "mv"}]
   }
 ]

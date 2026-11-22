@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T15:45:32.450Z",
+  "url": "https://www.bilibili.com/video/BV1ezyezSEUZ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ezyezSEUZ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1ezyezSEUZ",
+    "title": "claude失眠的夜晚，还好有大肥鱼在身边",
+    "owner": {
+      "name": "Mistral法棍猫在运营",
+      "mid": 9126506
+    },
+    "pubdate": 1795262770,
+    "duration": 57
+  },
+  "descriptionSha256": "c18713e3ec8e30873766be5e088dd5e3acbd5fbcebe49d36abd8b81e8dfdf546",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "title": "claude失眠的夜晚，还好有大肥鱼在身边",
+    "publisher": "Mistral法棍猫在运营",
+    "observedAt": "2026-11-22T15:44:41.115Z",
+    "httpStatus": 200,
+    "htmlSha256": "0896440504105174c18e4b555fd429f03385bbc567e93dbd384962e2672944a8"
+  }
+}
