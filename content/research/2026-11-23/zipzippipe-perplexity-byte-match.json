@@ -1,0 +1,65 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T17:01:35.238Z",
+  "url": "https://xn--pssy23gqgbz2d718b.com/works/perplexity202610170001.html",
+  "archivePage": {
+    "id": "perplexity",
+    "url": "https://xn--pssy23gqgbz2d718b.com/works/perplexity202610170001.html",
+    "finalUrl": "https://xn--pssy23gqgbz2d718b.com/works/perplexity202610170001.html",
+    "httpStatus": 200,
+    "title": "《Perplexity 娘立绘：青绿长袍与黄铜提灯》Perplexity娘立绘 - Perplexity | 蓝色大肥鱼",
+    "accessedAt": "2026-11-22T17:01:35.238Z",
+    "htmlSha256": "dcbb4bbe5f01a6151b0b174d93b12f0e4a02e21172ca6527b35f83af3fb9d235",
+    "links": [
+      "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/main/dist/submissions/originals/perplexity/56408ef72119c0fc.png"
+    ],
+    "listedCreator": "ZipZipPipe",
+    "archiveLicenseStatus": "unconfirmed"
+  },
+  "creatorPost": {
+    "url": "https://www.bilibili.com/opus/1236803362705375305",
+    "author": "ZipZipPipe",
+    "mid": 4168597,
+    "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1236803362705375305",
+    "bodySha256": "52648bb65bc38db43f6f0bfe191adaaea6999d0ff619fdf79c6a326f42698892"
+  },
+  "original": {
+    "position": 6,
+    "url": "https://i0.hdslb.com/bfs/new_dyn/68f0f9f937ebeeb3ab44cac78fc63a504168597.png",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:55:34.756Z",
+    "width": 3072,
+    "height": 5504,
+    "format": "png",
+    "bytes": 20551625,
+    "sourceSha256": "56408ef72119c0fc3b6b053e9ba51ec59187edace32974667f85dc223b73eb66"
+  },
+  "pinnedArchive": {
+    "path": "dist/submissions/originals/perplexity/56408ef72119c0fc.png",
+    "url": "https://github.com/lmy414/ai-girl-stickers/blob/03497f271d9cc3fa3628f70f98dd69786570e5cd/dist/submissions/originals/perplexity/56408ef72119c0fc.png",
+    "rawUrl": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/03497f271d9cc3fa3628f70f98dd69786570e5cd/dist/submissions/originals/perplexity/56408ef72119c0fc.png",
+    "sourceSha256": "56408ef72119c0fc3b6b053e9ba51ec59187edace32974667f85dc223b73eb66",
+    "gitBlobSha": "001d5c6f9dc36b6d96048773f29f4aa7dcf2540f",
+    "bytes": 20551625,
+    "commit": "03497f271d9cc3fa3628f70f98dd69786570e5cd"
+  },
+  "previousEvidence": {
+    "path": "content/research/2026-11-21/zipzippipe-second-batch-nine-files.json",
+    "sha256": "ec5e3600742e260af7020a397ccbbabbaf21d0fd6e25c58623dfb5163eb049a1",
+    "kind": "browser-metadata-extract"
+  },
+  "officialProduct": {
+    "key": "perplexity",
+    "url": "https://www.perplexity.ai/",
+    "finalUrl": "https://www.perplexity.ai/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:54:52.421Z",
+    "title": "Perplexity",
+    "visible": [
+      "我们使用 Cookie、像素、SDK、API 以及服务器到服务器集成来确保网站正常运行。您可以选择允许我们使用这些技术来衡量我们在第三方合作伙伴网站上的广告效果，并改进我们的服务。Perplexity 不会使用这些技术在我们的服务中销售第三",
+      "我们使用 Cookie、像素、SDK、API 以及服务器到服务器的集成技术来确保网站正常运行。你可以选择允许我们使用这些技术来衡量我们在第三方合作伙伴网站上的广告效果，并改进我们的服务。Perplexity 不会使用这些技术在我们的服务上销"
+    ],
+    "htmlSha256": "191c2330ebc3f5c21c08da194de6b09b5acce975b270f2869f1505bfed913c89"
+  },
+  "byteMatch": true
+}

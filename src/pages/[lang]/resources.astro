@@ -15,6 +15,7 @@ const root=new URL('../../../',import.meta.url);
 const [pending,archives]=await Promise.all([readPendingAnimationCandidates(registry,root),readLikeArchive(root)]);
 const archiveByPath=new Map(archives.map(archive=>[archive.path,archive]));
 const pendingArchive=archiveByPath.get(registry.pendingAnimationEvidence?.path);
+const sourceStatus=(httpStatus:number)=>[412,429].includes(httpStatus)?s.pendingAnimation.endpointRestricted:s.pendingAnimation.sourceUnavailable;
 const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid,row]));
 ---
 <Layout lang={lang} title={s.directory} description={s.directoryIntro} active="resources" route="resources/">
@@ -55,7 +56,7 @@ const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid
     <ul>
       {pending.map(row=><li data-pending-search={[row.discoveredTitle,row.bvid,row.searchIndex?.publisher].filter(Boolean).join(' ')}>
         <a class="text-link" href={`https://www.bilibili.com/video/${row.bvid}/`} target="_blank" rel="noopener noreferrer">{row.discoveredTitle} ↗</a>
-        <p class="resource-byline">{row.bvid} · {row.status==='source-unavailable'?s.pendingAnimation.sourceUnavailable:s.unranked}
+        <p class="resource-byline">{row.bvid} · {row.status==='source-unavailable'?sourceStatus(row.httpStatus):s.unranked}
           {' · '}{s.pendingAnimation.checked} <time datetime={row.observedAt}>{beijingTime.format(new Date(row.observedAt))}</time>
           {' · '}<a class="text-link" href={row.requestUrl} target="_blank" rel="noopener noreferrer">{s.pendingAnimation.query} ↗</a>
         </p>
@@ -89,7 +90,7 @@ const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid
       {r.category==='animation'&&<p class="resource-byline">{r.likes
         ? <><strong>#{animationRanks.get(r.id)} · {r.likes.count.toLocaleString(lang)} {s.likes}</strong> · <time datetime={r.likes.observedAt}>{beijingTime.format(new Date(r.likes.observedAt))}</time>{saved&&<> · <a class="text-link" href={path(saved.route)}>{s.snapshot}</a></>} · <a class="text-link" href={r.likes.sourceUrl} target="_blank" rel="noopener noreferrer">{s.liveLikes} ↗</a></>
         : s.unranked}</p>}
-      {latestFailure&&<p class="resource-byline" data-like-refresh-failure>{s.previousLikes} · <time datetime={latestFailure.observedAt}>{beijingTime.format(new Date(latestFailure.observedAt))}</time> · {s.pendingAnimation.sourceUnavailable}</p>}
+      {latestFailure&&<p class="resource-byline" data-like-refresh-failure>{s.previousLikes} · <time datetime={latestFailure.observedAt}>{beijingTime.format(new Date(latestFailure.observedAt))}</time> · {sourceStatus(latestFailure.httpStatus)}</p>}
       <p>{r.summary[lang]}</p>
       <span class:list={['resource-verification',{'partial':r.verification?.result==='partial-response'||r.verification?.result==='blocked'}]}>{verificationLabel(r,lang)}</span>
       <details><summary>{s.more}</summary>

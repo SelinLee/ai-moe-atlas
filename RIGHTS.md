@@ -48,6 +48,17 @@ ai-school-op の Copilot 学園版は CC BY-NC 4.0 で公開されています�
 [school-op-art]: https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/LICENSE
 [cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
 
+## Qwen · MX1951
+
+MX1951 在原投稿中为千问校园立绘选择 CC0。素材包保留 941 × 1672 PNG 原件、作者署名、投稿与固定档案的校验记录。产品名和标识以各自权利方的条件为准。 [原投稿][mx-qwen-origin] · [CC0 1.0][cc0]
+
+MX1951 selected CC0 for the submitted Qwen school portrait. The pack includes the 941 × 1672 PNG, creator credit and hashes for the submission and pinned archive. Product names and marks retain their respective rights. [Original submission][mx-qwen-origin] · [CC0 1.0][cc0]
+
+MX1951 は千問の学園風立ち絵に CC0 を指定。素材パックには 941 × 1672 の PNG 原本、作者名、投稿と固定版アーカイブのハッシュを収録。製品名・標章の条件は各権利者に従います。 [原投稿][mx-qwen-origin] · [CC0 1.0][cc0]
+
+[mx-qwen-origin]: https://github.com/lmy414/ai-girl-stickers/issues/16
+[cc0]: https://creativecommons.org/publicdomain/zero/1.0/
+
 ## Category preview artwork
 
 分类预览中的四张鲸鱼娘图和一张 Claude 剪影按 CC BY-NC-SA 4.0 作非商业展示。鲸鱼娘原设「溟月」由上善无形创作，女仆版由 ZipZipPipe 设计。待机图为 CrossPet 重绘，PV 立绘和夜间桌宠为 Small-tailqwq 的作品，分别来自 MisakaZentai 的制作包和昼夜工坊。WorkBuddy 好奇差分由 Vast-Beyond-Space/pet-app 的静态贴图经 capricornus9527 裁边、等比缩放和重命名。Claude 三色剪影由 Nyankomint 生成制作。保留项目发布的源文件，预览只做等比缩放、补透明边距和转换编码。[CrossPet 声明][crosspet-art] · [PV 声明][misaka-art] · [昼夜工坊声明][day-night-art] · [WorkBuddy 声明][workbuddy-art] · [声明存档][workbuddy-art-archive] · [贴图上游许可][vast-art] · [Claude 剪影署名][nyankomint-art] · [文件及校验记录][preview-art]

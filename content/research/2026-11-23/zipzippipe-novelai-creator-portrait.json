@@ -1,0 +1,46 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:54:47.308Z",
+  "url": "https://www.bilibili.com/opus/1243825685770797113",
+  "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1243825685770797113",
+  "bodySha256": "6ae7236f12ddf0f90e6908dcce54ebe8ec30ece2cde111650950531777202b11",
+  "creator": {
+    "name": "ZipZipPipe",
+    "mid": 4168597
+  },
+  "title": "Novel AI娘",
+  "publicPage": {
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:55:11.674Z",
+    "title": "ZipZipPipe的动态 - 哔哩哔哩",
+    "htmlSha256": "27b49fe6e87c06d9eca2aed1481c797f00a2756ab22265d994b525f6ba63bda9",
+    "captionSha256": "39818b44d660bb3ea868d4ad88657e4cc9ae7df99deb55fb5499b51292e80470"
+  },
+  "files": [
+    {
+      "position": 1,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/c05af80bf59d4dcd075be5fe9bf095f74168597.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:55:19.227Z",
+      "width": 1152,
+      "height": 2048,
+      "format": "png",
+      "bytes": 2564766,
+      "sourceSha256": "dc6d6f0b4ec0061998cd804f6866322d164e2b744841115c36310f368ed0be6d"
+    }
+  ],
+  "officialProduct": {
+    "key": "novelai",
+    "url": "https://blognew.novelai.net/about/",
+    "finalUrl": "https://blognew.novelai.net/about/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:54:50.076Z",
+    "title": "About this site",
+    "visible": [
+      "NovelAI Journal",
+      "Back to NovelAI",
+      "The official journal of NovelAI — release notes, feature launches, tutorials, and updates from the team at Anlatan."
+    ],
+    "htmlSha256": "3c6c2fe05fb674a90c2f035389babc87bb2bdde16f330bdd46a727e8050d4803"
+  }
+}

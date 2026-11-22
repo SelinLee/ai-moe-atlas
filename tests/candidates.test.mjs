@@ -41,7 +41,8 @@ test('Copilot ambiguity and absent products do not contaminate Microsoft baselin
   invalid(r=>r.candidates[0].products[0].provider='Microsoft');
   invalid(r=>r.candidates[1].products[0].entityId='copilot');
   invalid(r=>r.candidates.find(c=>c.id==='note-yuki-perplexity').products[0].entityId='chatgpt');
-  assert.equal(entities.some(e=>['perplexity','genspark'].includes(e.id)),false);
+  assert.equal(entities.some(e=>e.id==='genspark'),false);
+  assert.equal(characters.find(c=>c.id==='zipzippipe-perplexity').entity,'perplexity');
   assert.equal(entities.find(e=>e.id==='github-copilot').provider,'GitHub');
   assert.equal(characters.find(c=>c.id==='zipzippipe-github-copilot').entity,'github-copilot');
   assert.equal(characters.find(c=>c.id==='zipzippipe-microsoft-copilot').entity,'copilot');

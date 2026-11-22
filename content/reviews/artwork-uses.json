@@ -4393,5 +4393,518 @@
         }
       }
     }
+  },
+  {
+    "characterId": "mx1951-qwen",
+    "reviewedAt": "2026-11-23",
+    "reviewBasis": "The creator selected CC0 for the artwork in submission #16. The exact file hash matches the pinned archive.",
+    "artworks": [
+      {
+        "assetId": "portrait",
+        "sha256": "edaa5762921b7f427c35afd94e14181a6317008993d1b21474565f37eb73e4bc"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://github.com/lmy414/ai-girl-stickers/issues/16",
+        "localPath": "collected/mx1951-qwen/evidence/source-statement-1.json",
+        "sha256": "1ef7237c6a95e849d6973a8302aee132fd01a0981fb36f8c96ab8de3ea1b1b1c"
+      },
+      {
+        "sourceUrl": "https://github.com/lmy414/ai-girl-stickers/blob/03497f271d9cc3fa3628f70f98dd69786570e5cd/dist/submissions/originals/qwen/issue-16-001.png",
+        "localPath": "collected/mx1951-qwen/evidence/source-statement-2.json",
+        "sha256": "8ef8eca1d6606c0cd1d77d4f9d8807a19c7f7d84562964225568a0be71f96b57"
+      },
+      {
+        "sourceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "localPath": "collected/mx1951-qwen/evidence/source-statement-3.json",
+        "sha256": "fa5a18c69cfc554789a2912319b0f77a7d0a8733c6215751b3a49b2586688527"
+      }
+    ],
+    "evidenceUrl": "https://github.com/lmy414/ai-girl-stickers/issues/16",
+    "attribution": [
+      {
+        "name": "MX1951",
+        "url": "https://github.com/MX1951",
+        "role": "original-character",
+        "publication": "https://github.com/lmy414/ai-girl-stickers/issues/16"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "MX1951 将本张立绘以 CC0 1.0 贡献至公共领域。图鉴记录作者及原始投稿，并保留原 PNG。相关产品名称和标识的权利由各权利方保留。",
+          "en": "MX1951 dedicates this portrait to the public domain under CC0 1.0. The atlas credits the creator, links the submission and preserves the original PNG. Product names and marks retain their respective rights.",
+          "ja": "MX1951 はこの立ち絵に CC0 1.0 を指定。図鑑は作者名と原投稿を掲載し、元の PNG を保存。製品名・標章の権利は各権利者に帰属します。"
+        }
+      },
+      "social-cover": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "MX1951 将本张立绘以 CC0 1.0 贡献至公共领域。图鉴记录作者及原始投稿，并保留原 PNG。相关产品名称和标识的权利由各权利方保留。",
+          "en": "MX1951 dedicates this portrait to the public domain under CC0 1.0. The atlas credits the creator, links the submission and preserves the original PNG. Product names and marks retain their respective rights.",
+          "ja": "MX1951 はこの立ち絵に CC0 1.0 を指定。図鑑は作者名と原投稿を掲載し、元の PNG を保存。製品名・標章の権利は各権利者に帰属します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "MX1951 将本张立绘以 CC0 1.0 贡献至公共领域。图鉴记录作者及原始投稿，并保留原 PNG。相关产品名称和标识的权利由各权利方保留。",
+          "en": "MX1951 dedicates this portrait to the public domain under CC0 1.0. The atlas credits the creator, links the submission and preserves the original PNG. Product names and marks retain their respective rights.",
+          "ja": "MX1951 はこの立ち絵に CC0 1.0 を指定。図鑑は作者名と原投稿を掲載し、元の PNG を保存。製品名・標章の権利は各権利者に帰属します。"
+        }
+      },
+      "full-portrait": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "MX1951 将本张立绘以 CC0 1.0 贡献至公共领域。图鉴记录作者及原始投稿，并保留原 PNG。相关产品名称和标识的权利由各权利方保留。",
+          "en": "MX1951 dedicates this portrait to the public domain under CC0 1.0. The atlas credits the creator, links the submission and preserves the original PNG. Product names and marks retain their respective rights.",
+          "ja": "MX1951 はこの立ち絵に CC0 1.0 を指定。図鑑は作者名と原投稿を掲載し、元の PNG を保存。製品名・標章の権利は各権利者に帰属します。"
+        }
+      },
+      "intro-card": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "MX1951 将本张立绘以 CC0 1.0 贡献至公共领域。图鉴记录作者及原始投稿，并保留原 PNG。相关产品名称和标识的权利由各权利方保留。",
+          "en": "MX1951 dedicates this portrait to the public domain under CC0 1.0. The atlas credits the creator, links the submission and preserves the original PNG. Product names and marks retain their respective rights.",
+          "ja": "MX1951 はこの立ち絵に CC0 1.0 を指定。図鑑は作者名と原投稿を掲載し、元の PNG を保存。製品名・標章の権利は各権利者に帰属します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "MX1951 将本张立绘以 CC0 1.0 贡献至公共领域。图鉴记录作者及原始投稿，并保留原 PNG。相关产品名称和标识的权利由各权利方保留。",
+          "en": "MX1951 dedicates this portrait to the public domain under CC0 1.0. The atlas credits the creator, links the submission and preserves the original PNG. Product names and marks retain their respective rights.",
+          "ja": "MX1951 はこの立ち絵に CC0 1.0 を指定。図鑑は作者名と原投稿を掲載し、元の PNG を保存。製品名・標章の権利は各権利者に帰属します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "MX1951 将本张立绘以 CC0 1.0 贡献至公共领域。图鉴记录作者及原始投稿，并保留原 PNG。相关产品名称和标识的权利由各权利方保留。",
+          "en": "MX1951 dedicates this portrait to the public domain under CC0 1.0. The atlas credits the creator, links the submission and preserves the original PNG. Product names and marks retain their respective rights.",
+          "ja": "MX1951 はこの立ち絵に CC0 1.0 を指定。図鑑は作者名と原投稿を掲載し、元の PNG を保存。製品名・標章の権利は各権利者に帰属します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "MX1951 将本张立绘以 CC0 1.0 贡献至公共领域。图鉴记录作者及原始投稿，并保留原 PNG。相关产品名称和标识的权利由各权利方保留。",
+          "en": "MX1951 dedicates this portrait to the public domain under CC0 1.0. The atlas credits the creator, links the submission and preserves the original PNG. Product names and marks retain their respective rights.",
+          "ja": "MX1951 はこの立ち絵に CC0 1.0 を指定。図鑑は作者名と原投稿を掲載し、元の PNG を保存。製品名・標章の権利は各権利者に帰属します。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "zipzippipe-novelai",
+    "reviewedAt": "2026-11-23",
+    "reviewBasis": "Creator publication and exact artwork checked. The creator’s post is linked.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://www.bilibili.com/opus/1243825685770797113",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1243825685770797113"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "zipzippipe-zcode",
+    "reviewedAt": "2026-11-23",
+    "reviewBasis": "Creator publication and exact artwork checked. The creator’s post is linked.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://www.bilibili.com/opus/1240327263126290448",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1240327263126290448"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "zipzippipe-huggingface",
+    "reviewedAt": "2026-11-23",
+    "reviewBasis": "Creator publication and exact artwork checked. The creator’s post is linked.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://www.bilibili.com/opus/1246404332576833541",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1246404332576833541"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "zipzippipe-hunyuan",
+    "reviewedAt": "2026-11-23",
+    "reviewBasis": "Creator publication and exact artwork checked. The creator’s post is linked.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://www.bilibili.com/opus/1242184338245681157",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1242184338245681157"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "zipzippipe-perplexity",
+    "reviewedAt": "2026-11-23",
+    "reviewBasis": "Creator publication and exact artwork checked. The creator’s post is linked.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://www.bilibili.com/opus/1236803362705375305",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1236803362705375305"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+          "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+          "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+        }
+      }
+    }
   }
 ]

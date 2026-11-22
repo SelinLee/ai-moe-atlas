@@ -1,0 +1,46 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:54:47.495Z",
+  "url": "https://www.bilibili.com/opus/1246404332576833541",
+  "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1246404332576833541",
+  "bodySha256": "3c0d59d558f10327aad70c327bab8fffdc4374b7480f1d4682fe9c50b2957c04",
+  "creator": {
+    "name": "ZipZipPipe",
+    "mid": 4168597
+  },
+  "title": "Hugging Face",
+  "publicPage": {
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:55:13.446Z",
+    "title": "ZipZipPipe的动态 - 哔哩哔哩",
+    "htmlSha256": "b76e3191556482f0b6000cbf020a7bab8e30dc11b7350a097806b9724a04b1df",
+    "captionSha256": "5cf1cf828e9b0a24eee9910ce8e8d1a50cc59acdbd17e8a8ce5cfc72c64156d0"
+  },
+  "files": [
+    {
+      "position": 1,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/4bbbdb46e485457311f827d9912ab7d84168597.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:55:20.818Z",
+      "width": 1152,
+      "height": 2048,
+      "format": "png",
+      "bytes": 2683965,
+      "sourceSha256": "0f848d326d441b9827351c7673a0a2a735234a9bad2237f5362958725f3d7962"
+    }
+  ],
+  "officialProduct": {
+    "key": "hf",
+    "url": "https://huggingface.co/docs/hub/main/index",
+    "finalUrl": "https://huggingface.co/docs/hub/main/index",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:54:51.745Z",
+    "title": "Hugging Face Hub documentation · Hugging Face",
+    "visible": [
+      "Hugging Face",
+      "Hugging Face PRO",
+      "🤗 Hugging Face Hub"
+    ],
+    "htmlSha256": "cf6fcdd6b7a9aef3a6e54e2d12d165b1e4d6fdb6771c0fbd7c656eaf7a83cac3"
+  }
+}

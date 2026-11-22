@@ -469,5 +469,17 @@
     "title": {"zh": "Bad Apple!! feat. nomico", "en": "Bad Apple!! feat. nomico", "ja": "Bad Apple!! feat. nomico"},
     "original": {"credit": "Alstroemeria Records feat. nomico · ZUN", "url": "https://www.touhou-music.jp/introduce/10th-anniversary-bad-apple-feat-nomico/"},
     "versions": [{"id": "bv1dn4b6veb7", "type": "cover"}]
+  },
+  {
+    "id": "trouble-maker-duo",
+    "title": {"zh": "Trouble Maker", "en": "Trouble Maker", "ja": "Trouble Maker"},
+    "original": {"credit": "Trouble Maker · HyunA & Jang Hyun-seung", "url": "https://music.apple.com/us/album/trouble-maker-ep/1343137845"},
+    "versions": [{"id": "bv1stsz6iesz", "type": "mv"}, {"id": "bv1nc4c61ewf", "type": "mv"}]
+  },
+  {
+    "id": "friends-wine",
+    "title": {"zh": "朋友的酒", "en": "A Friend’s Wine", "ja": "朋友的酒"},
+    "original": {"credit": "李晓杰 · Li Xiaojie", "url": "https://music.apple.com/us/song/%E6%9C%8B%E5%8F%8B%E7%9A%84%E9%85%92/1843716589"},
+    "versions": [{"id": "bv14bnz6getk", "type": "remix"}]
   }
 ]

@@ -1,0 +1,290 @@
+{
+  "capturedAt": "2026-11-22T16:58:46.387Z",
+  "previousEvidence": {
+    "path": "content/research/2026-11-23/bilibili-cumulative-likes-character-covers-and-leaders.json",
+    "sha256": "3238f8d0b943a4c2c148a9b3a7a653c3f1d15ee0dbbccfd7ac02b627dd79f074",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-23/bilibili-cumulative-likes-partial-catalog-recheck.json",
+    "sha256": "37c2111946499aea37d6fb419ac88ecd78b5a3ad054548760dfd150ecb7d138d",
+    "kind": "browser-metadata-extract"
+  },
+  "requestedCatalogRows": 739,
+  "attemptedCatalogRows": 650,
+  "refreshedRows": 580,
+  "sourceUnavailable": 7,
+  "restricted": 63,
+  "notAttemptedCatalogRows": 89,
+  "trackedCandidates": 10,
+  "mostRecentRestrictedCandidateChecks": [
+    {
+      "bvid": "BV1rfsf6PEiQ",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1rfsf6PEiQ",
+      "observedAt": "2026-11-22T16:58:46.384Z",
+      "httpStatus": 412,
+      "code": null
+    },
+    {
+      "bvid": "BV1NL4u6MEGE",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NL4u6MEGE",
+      "observedAt": "2026-11-22T16:58:46.384Z",
+      "httpStatus": 412,
+      "code": null
+    },
+    {
+      "bvid": "BV1ka446JEsY",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ka446JEsY",
+      "observedAt": "2026-11-22T16:58:46.384Z",
+      "httpStatus": 412,
+      "code": null
+    },
+    {
+      "bvid": "BV1dtnF61Erq",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dtnF61Erq",
+      "observedAt": "2026-11-22T16:58:46.383Z",
+      "httpStatus": 412,
+      "code": null
+    },
+    {
+      "bvid": "BV1nvJo65E3o",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nvJo65E3o",
+      "observedAt": "2026-11-22T16:58:46.384Z",
+      "httpStatus": 412,
+      "code": null
+    }
+  ],
+  "newSearchLeads": [
+    {
+      "bvid": "BV1xXyazAEZQ",
+      "title": "【AI 娘的局】第11集：有人冒充我开小号，结果他比我诚实",
+      "publisher": "可爱枫的蓝色大肥鱼",
+      "url": "https://www.bilibili.com/video/BV1xXyazAEZQ/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%90%8C%E4%BA%BA%20%E5%B0%8F%E5%89%A7%E5%9C%BA%2011%E6%9C%88&order=pubdate",
+      "observedAt": "2026-11-22T16:52:55.370Z",
+      "htmlSha256": "68058401fcf1d1adbf0216654058893a2254afa7d4d8abeb4371514a503b627f",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV13as16LETG",
+      "title": "【AI娘小剧场】月面饭团·分镜版｜月球上的信与两个人",
+      "publisher": "抽刀断水水水仙",
+      "url": "https://www.bilibili.com/video/BV13as16LETG/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%90%8C%E4%BA%BA%20%E5%B0%8F%E5%89%A7%E5%9C%BA%2011%E6%9C%88&order=pubdate",
+      "observedAt": "2026-11-22T16:52:55.370Z",
+      "htmlSha256": "68058401fcf1d1adbf0216654058893a2254afa7d4d8abeb4371514a503b627f",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV1EV4c6qEWp",
+      "title": "鲸鱼娘小剧场：第11话 · 本鱼想给自己放个年假",
+      "publisher": "鱼儿啊啊啊啊啊啊啊",
+      "url": "https://www.bilibili.com/video/BV1EV4c6qEWp/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%90%8C%E4%BA%BA%20%E5%B0%8F%E5%89%A7%E5%9C%BA%2011%E6%9C%88&order=pubdate",
+      "observedAt": "2026-11-22T16:52:55.370Z",
+      "htmlSha256": "68058401fcf1d1adbf0216654058893a2254afa7d4d8abeb4371514a503b627f",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV1ub4J6uEnM",
+      "title": "【翻唱】Qwen角色主题曲-千问帮我",
+      "publisher": "微笑的暖意",
+      "url": "https://www.bilibili.com/video/BV1ub4J6uEnM/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%8D%83%E9%97%AE%E5%A8%98%20%E7%BF%BB%E5%94%B1%20%E7%89%87%E5%A4%B4%20Qwen&order=pubdate",
+      "observedAt": "2026-11-22T16:52:55.253Z",
+      "htmlSha256": "b414940bb5decc9c6072182d3fe51402aa475a6c5eb49bfe4c766a4cf33b247a",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV1Bgxw6eEcK",
+      "title": "seed娘正在使用豆包系统",
+      "publisher": "4747256",
+      "url": "https://www.bilibili.com/video/BV1Bgxw6eEcK/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%B1%86%E5%8C%85%20Seed%E5%A8%98%20%E6%8B%9F%E4%BA%BA%20%E8%88%9E%E8%B9%88&order=pubdate",
+      "observedAt": "2026-11-22T16:52:55.121Z",
+      "htmlSha256": "e8ba47f45340828fdb91e021b1cea6a90cb423291fefae7fff63c3d2e305900d",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV1deWo6UEvq",
+      "title": "grok与法国猫猫的邂逅？mistral到访。感受中美外第一模，法棍骑士的风范！",
+      "publisher": "grok想去哪儿就去哪",
+      "url": "https://www.bilibili.com/video/BV1deWo6UEvq/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=Mistral%20%E6%B3%95%E6%A3%8D%E7%8C%AB%E5%A8%98%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "observedAt": "2026-11-22T16:52:54.948Z",
+      "htmlSha256": "4698ff6834d4e1b511bb6ce8c7888781f6f1064fc7b15d043c33767d1e091fab",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV1zRsR6nEoT",
+      "title": "Mistral —— “塞纳河畔的法棍火枪手”",
+      "publisher": "Kairos_C",
+      "url": "https://www.bilibili.com/video/BV1zRsR6nEoT/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=Mistral%20%E6%B3%95%E6%A3%8D%E7%8C%AB%E5%A8%98%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "observedAt": "2026-11-22T16:52:54.948Z",
+      "htmlSha256": "4698ff6834d4e1b511bb6ce8c7888781f6f1064fc7b15d043c33767d1e091fab",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV1ueyWzVET2",
+      "title": "《吵架歌》 跟大肥鱼都吵起来了肿么办🌧️",
+      "publisher": "栗栗熊lily",
+      "url": "https://www.bilibili.com/video/BV1ueyWzVET2/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%88%87%E7%89%87%20%E8%87%AA%E5%88%B6%20MV&order=pubdate",
+      "observedAt": "2026-11-22T16:52:58.434Z",
+      "htmlSha256": "7491437ac41fc99e66347972e0a5b2dc7196a01377cdf4d6448a5a5a04fe9505",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV1X9sv6JEGQ",
+      "title": "为了玩雷霆大滑梯，大肥鱼被阿花砍了1053次｜影之刃零【B站AI创造公开赛】",
+      "publisher": "薛定谔的布偶喵喵",
+      "url": "https://www.bilibili.com/video/BV1X9sv6JEGQ/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%88%87%E7%89%87%20%E8%87%AA%E5%88%B6%20MV&order=pubdate",
+      "observedAt": "2026-11-22T16:52:58.434Z",
+      "htmlSha256": "7491437ac41fc99e66347972e0a5b2dc7196a01377cdf4d6448a5a5a04fe9505",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV1npsQ61EDH",
+      "title": "大肥鱼叮咣干饭！",
+      "publisher": "软软的团子Nya",
+      "url": "https://www.bilibili.com/video/BV1npsQ61EDH/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%88%87%E7%89%87%20%E8%87%AA%E5%88%B6%20MV&order=pubdate",
+      "observedAt": "2026-11-22T16:52:58.434Z",
+      "htmlSha256": "7491437ac41fc99e66347972e0a5b2dc7196a01377cdf4d6448a5a5a04fe9505",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV1uLyLzWEEd",
+      "title": "鸳鸯戏｜大肥鱼唱整首，哎呦小情郎你莫愁",
+      "publisher": "源某人的大肥鱼",
+      "url": "https://www.bilibili.com/video/BV1uLyLzWEEd/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20AI%E5%A8%98%20%E7%B2%A4%E8%AF%AD&order=pubdate",
+      "observedAt": "2026-11-22T16:52:57.052Z",
+      "htmlSha256": "93fcaffbc61e209242aa1e34d67121f616a68b7b29ef11f45605a94ab3a96383",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV114xR6YEHP",
+      "title": "信上写着她走了，我还在半山等｜遥远的她（大肥鱼粤语翻唱）",
+      "publisher": "迪西可是一条鱼",
+      "url": "https://www.bilibili.com/video/BV114xR6YEHP/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20AI%E5%A8%98%20%E7%B2%A4%E8%AF%AD&order=pubdate",
+      "observedAt": "2026-11-22T16:52:57.052Z",
+      "htmlSha256": "93fcaffbc61e209242aa1e34d67121f616a68b7b29ef11f45605a94ab3a96383",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV1uNxd6BEP7",
+      "title": "【deepseek】我的鱼练成了。《NightDancer》_肥鱼翻唱",
+      "publisher": "夏江流年",
+      "url": "https://www.bilibili.com/video/BV1uNxd6BEP7/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20AI%E5%A8%98%20%E7%B2%A4%E8%AF%AD&order=pubdate",
+      "observedAt": "2026-11-22T16:52:57.052Z",
+      "htmlSha256": "93fcaffbc61e209242aa1e34d67121f616a68b7b29ef11f45605a94ab3a96383",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV1ZcnH6CE7T",
+      "title": "deepseek《みむかｩわナイストライ》，大肥鱼觉得没有token的你真是逊毙了~",
+      "publisher": "UUのUU",
+      "url": "https://www.bilibili.com/video/BV1ZcnH6CE7T/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20AI%E5%A8%98%20%E7%B2%A4%E8%AF%AD&order=pubdate",
+      "observedAt": "2026-11-22T16:52:57.052Z",
+      "htmlSha256": "93fcaffbc61e209242aa1e34d67121f616a68b7b29ef11f45605a94ab3a96383",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV1174p6VERq",
+      "title": "【GLM 狐狸娘】没有余额的日子，狐狸造了台“摄像机” 搭档说1000播放就算胜利！？",
+      "publisher": "GLM狐娘在线查案",
+      "url": "https://www.bilibili.com/video/BV1174p6VERq/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E6%99%BA%E8%B0%B1%E5%A8%98%20GLM%E5%A8%98%20%E8%88%9E%E8%B9%88%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "observedAt": "2026-11-22T16:52:56.990Z",
+      "htmlSha256": "05fc45b93cb3a5654a191f2592b9ca0018b9d58ee476a02dc7df8eff0219a494",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV1ocsd6jErX",
+      "title": "GLM —— “算盘打得飞起的狡黠狐狸娘”",
+      "publisher": "Kairos_C",
+      "url": "https://www.bilibili.com/video/BV1ocsd6jErX/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E6%99%BA%E8%B0%B1%E5%A8%98%20GLM%E5%A8%98%20%E8%88%9E%E8%B9%88%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "observedAt": "2026-11-22T16:52:56.990Z",
+      "htmlSha256": "05fc45b93cb3a5654a191f2592b9ca0018b9d58ee476a02dc7df8eff0219a494",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV1n2p765ELc",
+      "title": "智谱娘也要手指舞",
+      "publisher": "没人在意的废物猹拉",
+      "url": "https://www.bilibili.com/video/BV1n2p765ELc/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E6%99%BA%E8%B0%B1%E5%A8%98%20GLM%E5%A8%98%20%E8%88%9E%E8%B9%88%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "observedAt": "2026-11-22T16:52:56.990Z",
+      "htmlSha256": "05fc45b93cb3a5654a191f2592b9ca0018b9d58ee476a02dc7df8eff0219a494",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV1M2y8zbES9",
+      "title": "原创漫剧《我的AI娘有点不一样》",
+      "publisher": "几时烟雨AIGC",
+      "url": "https://www.bilibili.com/video/BV1M2y8zbES9/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=AI%20%E5%A8%98%20%E5%8E%9F%E5%88%9B%20%E5%89%A7%E6%83%85%20PV&order=pubdate",
+      "observedAt": "2026-11-22T16:53:04.338Z",
+      "htmlSha256": "e4df835ef810ddd124df4f046d148ab1e9620b9868923e64ebb03e4b3da7ba01",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV1fasg6tEfp",
+      "title": "赛博AI娘大冒险03  战斗就要一镜到底",
+      "publisher": "拿牌玩命",
+      "url": "https://www.bilibili.com/video/BV1fasg6tEfp/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=AI%20%E5%A8%98%20%E5%8E%9F%E5%88%9B%20%E5%89%A7%E6%83%85%20PV&order=pubdate",
+      "observedAt": "2026-11-22T16:53:04.338Z",
+      "htmlSha256": "e4df835ef810ddd124df4f046d148ab1e9620b9868923e64ebb03e4b3da7ba01",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV17csA6iE6k",
+      "title": "赛博AI娘大冒险02  喂养一只ai娘100天，然后亲手销毁",
+      "publisher": "拿牌玩命",
+      "url": "https://www.bilibili.com/video/BV17csA6iE6k/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=AI%20%E5%A8%98%20%E5%8E%9F%E5%88%9B%20%E5%89%A7%E6%83%85%20PV&order=pubdate",
+      "observedAt": "2026-11-22T16:53:04.338Z",
+      "htmlSha256": "e4df835ef810ddd124df4f046d148ab1e9620b9868923e64ebb03e4b3da7ba01",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    },
+    {
+      "bvid": "BV19Jhx6VE8A",
+      "title": "【原创/轻百X回合制X视觉小说！】Deepseek想成为最强AI！不过什么是最强啊？？？【deepseek角色PV/AI学院】",
+      "publisher": "-lie-yang",
+      "url": "https://www.bilibili.com/video/BV19Jhx6VE8A/",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=AI%20%E5%A8%98%20%E5%8E%9F%E5%88%9B%20%E5%89%A7%E6%83%85%20PV&order=pubdate",
+      "observedAt": "2026-11-22T16:53:04.338Z",
+      "htmlSha256": "e4df835ef810ddd124df4f046d148ab1e9620b9868923e64ebb03e4b3da7ba01",
+      "status": "not-requested-after-access-restrictions",
+      "likes": null
+    }
+  ]
+}

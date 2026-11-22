@@ -288,5 +288,45 @@
       "en": "Check display and adaptation terms for each artwork.",
       "ja": "画像ごとの表示・改変条件を確認する。"
     }
+  },
+  {
+    "entity": "novelai",
+    "characterId": "zipzippipe-novelai",
+    "reviewedAt": "2026-11-23",
+    "nextAction": {
+      "zh": "继续核对本版立绘的转载与改编条件。",
+      "en": "Verify republication and adaptation terms for this portrait.",
+      "ja": "この版の転載・改変条件を引き続き確認する。"
+    }
+  },
+  {
+    "entity": "zcode",
+    "characterId": "zipzippipe-zcode",
+    "reviewedAt": "2026-11-23",
+    "nextAction": {
+      "zh": "继续核对本版立绘的转载与改编条件。",
+      "en": "Verify republication and adaptation terms for this portrait.",
+      "ja": "この版の転載・改変条件を引き続き確認する。"
+    }
+  },
+  {
+    "entity": "huggingface",
+    "characterId": "zipzippipe-huggingface",
+    "reviewedAt": "2026-11-23",
+    "nextAction": {
+      "zh": "继续核对本版立绘的转载与改编条件。",
+      "en": "Verify republication and adaptation terms for this portrait.",
+      "ja": "この版の転載・改変条件を引き続き確認する。"
+    }
+  },
+  {
+    "entity": "perplexity",
+    "characterId": "zipzippipe-perplexity",
+    "reviewedAt": "2026-11-23",
+    "nextAction": {
+      "zh": "继续核对本版立绘的转载与改编条件。",
+      "en": "Verify republication and adaptation terms for this portrait.",
+      "ja": "この版の転載・改変条件を引き続き確認する。"
+    }
   }
 ]

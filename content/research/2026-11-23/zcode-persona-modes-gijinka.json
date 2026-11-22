@@ -1,0 +1,65 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:58:17.891Z",
+  "url": "https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/tzzzzzzzx/zcode-persona-modes/084fce319f06847b2e62a118ba1906604bc8821c/README.md",
+    "sourceSha256": "e67799437139a7fbb446889280ac789d12652198cdba6a60785a20d81d41ca96",
+    "gitBlobSha": "529524204e68a1313000c8593276cf1bbf2153d3",
+    "bytes": 12449,
+    "commit": "084fce319f06847b2e62a118ba1906604bc8821c"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/tzzzzzzzx/zcode-persona-modes/084fce319f06847b2e62a118ba1906604bc8821c/README.md",
+      "sourceSha256": "e67799437139a7fbb446889280ac789d12652198cdba6a60785a20d81d41ca96",
+      "gitBlobSha": "529524204e68a1313000c8593276cf1bbf2153d3",
+      "bytes": 12449,
+      "commit": "084fce319f06847b2e62a118ba1906604bc8821c"
+    },
+    {
+      "path": "LICENSE.md",
+      "url": "https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/LICENSE.md",
+      "rawUrl": "https://raw.githubusercontent.com/tzzzzzzzx/zcode-persona-modes/084fce319f06847b2e62a118ba1906604bc8821c/LICENSE.md",
+      "sourceSha256": "cd7293d4b89243a1cd0c3bd70e0d0a43ce6a4a6aa6c9dbbe49ac296808d74efb",
+      "gitBlobSha": "384daaeffd9353376f2ae52812136a100df0437c",
+      "bytes": 1671,
+      "commit": "084fce319f06847b2e62a118ba1906604bc8821c"
+    },
+    {
+      "path": "persona-modes/assets/glm-image-prompt.md",
+      "url": "https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/assets/glm-image-prompt.md",
+      "rawUrl": "https://raw.githubusercontent.com/tzzzzzzzx/zcode-persona-modes/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/assets/glm-image-prompt.md",
+      "sourceSha256": "9ce5b5c98f2e1ce73810103d5ae4760262d65de2196183bd7d215216aa2dd96a",
+      "gitBlobSha": "98480140b3d5fd6daad0168bfd092b8931e7ebe4",
+      "bytes": 2071,
+      "commit": "084fce319f06847b2e62a118ba1906604bc8821c"
+    }
+  ],
+  "repository": {
+    "full_name": "tzzzzzzzx/zcode-persona-modes",
+    "html_url": "https://github.com/tzzzzzzzx/zcode-persona-modes",
+    "stargazers_count": 1,
+    "archived": false,
+    "created_at": "2026-10-12T03:25:42Z",
+    "default_branch": "main",
+    "fork": false,
+    "description": "ZCode 的模式/角色卡插件：/persona 一键切换人格，钩子注入跨会话持久生效。内置 GLM娘（智谱屑狐狸）与冷面工程师 | Switchable agent modes (character cards) for ZCode",
+    "license": {
+      "key": "other",
+      "name": "Other",
+      "spdx_id": "NOASSERTION",
+      "url": null,
+      "node_id": "MDc6TGljZW5zZTA="
+    },
+    "commit": "084fce319f06847b2e62a118ba1906604bc8821c",
+    "observedAt": "2026-11-22T16:54:35.038+00:00",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:58:17.891Z"
+  },
+  "scope": "Pinned README, code and character-card license text, and a separate illustration prompt checked."
+}

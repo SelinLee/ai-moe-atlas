@@ -3146,5 +3146,355 @@
       "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
       "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
     }
+  },
+  {
+    "id": "mx1951-qwen",
+    "entity": "qwen",
+    "kind": "collected",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "千问校园立绘 · MX1951",
+      "en": "Qwen School Portrait · MX1951",
+      "ja": "千問 学園風立ち絵 · MX1951"
+    },
+    "description": {
+      "zh": "MX1951 投稿的校园风通义千问拟人立绘。",
+      "en": "MX1951’s school-style fan portrait of Qwen.",
+      "ja": "MX1951 が投稿した学園風の千問擬人化立ち絵。"
+    },
+    "story": {
+      "zh": "原作者的 GitHub 投稿附有单张 941 × 1672 PNG。已核对原附件与公开档案收录的文件完全一致。",
+      "en": "The creator’s GitHub submission includes one 941 × 1672 PNG. The attachment matches the file in the public archive byte for byte.",
+      "ja": "作者の GitHub 投稿に 941 × 1672 PNG を1枚添付。公開アーカイブのファイルとバイト単位で一致。"
+    },
+    "features": {
+      "zh": "淡紫短发、绿眼、黑色猫耳耳机和蓝格裙。",
+      "en": "Short lavender hair, green eyes, black cat-ear headphones and a blue plaid skirt.",
+      "ja": "薄紫の短髪、緑の瞳、黒い猫耳ヘッドホンと青いチェック柄のスカート。"
+    },
+    "author": "MX1951",
+    "authorUrl": "https://github.com/MX1951",
+    "source": "https://github.com/lmy414/ai-girl-stickers/issues/16",
+    "sourceTitle": "[投稿] Qwen · #16",
+    "originalPublication": "https://github.com/lmy414/ai-girl-stickers/issues/16",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "MX1951",
+        "url": "https://github.com/MX1951",
+        "role": "original-character",
+        "publication": "https://github.com/lmy414/ai-girl-stickers/issues/16"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseLabel": {
+      "zh": "CC0 1.0 公共领域",
+      "en": "CC0 1.0 Public Domain",
+      "ja": "CC0 1.0 パブリックドメイン"
+    },
+    "downloadable": true,
+    "bg": "#edf4e6",
+    "color": "#577b53",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": "collected/mx1951-qwen/portrait/preview.webp",
+    "assets": [
+      {
+        "id": "portrait",
+        "label": {
+          "zh": "MX1951 发布的千问立绘",
+          "en": "Qwen portrait published by MX1951",
+          "ja": "MX1951 公開の千問の立ち絵"
+        }
+      }
+    ],
+    "provenanceNote": {
+      "zh": "MX1951 将本张立绘以 CC0 1.0 贡献至公共领域。图鉴记录作者及原始投稿，并保留原 PNG。相关产品名称和标识的权利由各权利方保留。",
+      "en": "MX1951 dedicates this portrait to the public domain under CC0 1.0. The atlas credits the creator, links the submission and preserves the original PNG. Product names and marks retain their respective rights.",
+      "ja": "MX1951 はこの立ち絵に CC0 1.0 を指定。図鑑は作者名と原投稿を掲載し、元の PNG を保存。製品名・標章の権利は各権利者に帰属します。"
+    }
+  },
+  {
+    "id": "zipzippipe-novelai",
+    "entity": "novelai",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "NovelAI 娘 · ZipZipPipe",
+      "en": "NovelAI Girl · ZipZipPipe",
+      "ja": "NovelAI 娘 · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 发布的 NovelAI 社区拟人立绘。",
+      "en": "ZipZipPipe’s fan portrait of NovelAI.",
+      "ja": "ZipZipPipe が公開した NovelAI の擬人化立ち絵。"
+    },
+    "story": {
+      "zh": "作者在原帖讨论使用 NovelAI 描绘较少见角色的尝试。",
+      "en": "The creator discusses their experiments drawing less common characters with NovelAI in the original post.",
+      "ja": "作者は原投稿で NovelAI による知名度の低いキャラクターの描画を試したと述べている。"
+    },
+    "features": {
+      "zh": "白裙、白色羽翼、金色羽笔状道具与深蓝长发。",
+      "en": "A white dress and wings, a gold quill-shaped prop and long dark-blue hair.",
+      "ja": "白いドレスと翼、金色の羽ペン風の小物、濃い青の長髪。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/opus/1243825685770797113",
+    "sourceTitle": "Novel AI娘",
+    "originalPublication": "https://www.bilibili.com/opus/1243825685770797113",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1243825685770797113"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1243825685770797113",
+    "downloadable": false,
+    "bg": "#edf0fa",
+    "color": "#575181",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+      "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+      "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+    }
+  },
+  {
+    "id": "zipzippipe-zcode",
+    "entity": "zcode",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "ZCode 娘 · ZipZipPipe",
+      "en": "ZCode Girl · ZipZipPipe",
+      "ja": "ZCode 娘 · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 为智谱 ZCode 发布的独立人设图。",
+      "en": "ZipZipPipe’s standalone design for Z.ai’s ZCode.",
+      "ja": "ZipZipPipe が公開した Z.ai ZCode の単独キャラクター設定。"
+    },
+    "story": {
+      "zh": "原帖标题明确标注 ZCode。发布的 1152 × 2048 PNG 已核对。",
+      "en": "The original title names ZCode. Its 1152 × 2048 PNG was verified.",
+      "ja": "原投稿の題名に ZCode と明記。1152 × 2048 PNG を照合。"
+    },
+    "features": {
+      "zh": "浅色狐耳、白衣、眼罩和长卷形道具。",
+      "en": "Pale fox ears, a white dress, an eye covering and a tall scroll-shaped prop.",
+      "ja": "淡色の狐耳、白い衣装、目隠しと縦長の巻物風の小物。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/opus/1240327263126290448",
+    "sourceTitle": "Zcode娘人设",
+    "originalPublication": "https://www.bilibili.com/opus/1240327263126290448",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1240327263126290448"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1240327263126290448",
+    "downloadable": false,
+    "bg": "#ecf1f7",
+    "color": "#526785",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+      "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+      "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+    }
+  },
+  {
+    "id": "zipzippipe-huggingface",
+    "entity": "huggingface",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Hugging Face 娘 · ZipZipPipe",
+      "en": "Hugging Face Girl · ZipZipPipe",
+      "ja": "Hugging Face 娘 · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 以「Hugging Face」为题发布的社区拟人。",
+      "en": "A fan personification published by ZipZipPipe under the title Hugging Face.",
+      "ja": "ZipZipPipe が「Hugging Face」の題名で公開した擬人化。"
+    },
+    "story": {
+      "zh": "独立原帖附一张 1152 × 2048 PNG。",
+      "en": "The standalone post contains one 1152 × 2048 PNG.",
+      "ja": "単独の原投稿に 1152 × 2048 PNG を1枚掲載。"
+    },
+    "features": {
+      "zh": "海军蓝外套、黄色笑脸玩偶和黄色拖鞋。",
+      "en": "A navy coat, a yellow smiling plush and yellow slippers.",
+      "ja": "紺色の上着、黄色い笑顔のぬいぐるみと黄色のスリッパ。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/opus/1246404332576833541",
+    "sourceTitle": "Hugging Face",
+    "originalPublication": "https://www.bilibili.com/opus/1246404332576833541",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1246404332576833541"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1246404332576833541",
+    "downloadable": false,
+    "bg": "#f9f1db",
+    "color": "#745b24",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+      "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+      "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+    }
+  },
+  {
+    "id": "zipzippipe-hunyuan",
+    "entity": "hunyuan",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "腾讯混元娘 · ZipZipPipe",
+      "en": "Tencent Hunyuan Girl · ZipZipPipe",
+      "ja": "Tencent 混元娘 · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 在「是HY娘哦」动态公开的腾讯混元拟人。",
+      "en": "ZipZipPipe’s Tencent Hunyuan personification from the post titled 是HY娘哦.",
+      "ja": "ZipZipPipe の「是HY娘哦」投稿に掲載された Tencent 混元の擬人化。"
+    },
+    "story": {
+      "zh": "独立原帖提供一张 1152 × 2048 PNG，已核对原始文件哈希。",
+      "en": "The post provides a standalone 1152 × 2048 PNG, checked by hash.",
+      "ja": "原投稿は 1152 × 2048 の単独 PNG。原画のハッシュを照合。"
+    },
+    "features": {
+      "zh": "深色长发、红围巾、白色长衣和企鹅挂饰。",
+      "en": "Long dark hair, a red scarf, a white robe and a penguin charm.",
+      "ja": "暗色の長髪、赤いマフラー、白い長衣とペンギンの飾り。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/opus/1242184338245681157",
+    "sourceTitle": "是HY娘哦",
+    "originalPublication": "https://www.bilibili.com/opus/1242184338245681157",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1242184338245681157"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1242184338245681157",
+    "downloadable": false,
+    "bg": "#f1e8ec",
+    "color": "#7a4d5e",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+      "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+      "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+    }
+  },
+  {
+    "id": "zipzippipe-perplexity",
+    "entity": "perplexity",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Perplexity 娘 · ZipZipPipe",
+      "en": "Perplexity Girl · ZipZipPipe",
+      "ja": "Perplexity 娘 · ZipZipPipe"
+    },
+    "description": {
+      "zh": "蓝色大肥鱼档案标为 Perplexity 的青绿长袍立绘。与 ZipZipPipe 原动态第 6 张逐字节一致。",
+      "en": "The Blue Fat Fish archive labels the teal-robed portrait Perplexity. It matches image six in ZipZipPipe’s original Bilibili post byte for byte.",
+      "ja": "藍色大肥魚のアーカイブで Perplexity とされる青緑の衣装の立ち絵。ZipZipPipe の原投稿6枚目とバイト単位で一致。"
+    },
+    "story": {
+      "zh": "已保留原帖 PNG 与固定档案的共同哈希。原帖为多角色图集，角色名由对应档案标注。",
+      "en": "The exact PNG hash links the pinned archive and original post. The corresponding archive entry names the character in the multi-character gallery.",
+      "ja": "原投稿の PNG と固定版のハッシュを記録。複数キャラクターの作品集のうち、名前は対応するアーカイブの項目で確認。"
+    },
+    "features": {
+      "zh": "青绿色长袍、圆框眼镜、罗盘和黄铜提灯。",
+      "en": "A teal robe, round glasses, a compass and a brass lantern.",
+      "ja": "青緑色のローブ、丸眼鏡、方位磁針と真ちゅうのランタン。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/opus/1236803362705375305",
+    "sourceTitle": "AI娘第二批",
+    "originalPublication": "https://www.bilibili.com/opus/1236803362705375305",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1236803362705375305"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1236803362705375305",
+    "downloadable": false,
+    "bg": "#e7f1ef",
+    "color": "#416960",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者原帖公开了立绘。逐件的转载与改编使用条件待核。",
+      "en": "The creator published the portrait. Artwork-specific republication and adaptation terms await verification.",
+      "ja": "作者が立ち絵を公開。画像ごとの転載・改変条件は確認待ち。"
+    }
   }
 ]

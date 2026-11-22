@@ -1,0 +1,46 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:54:47.319Z",
+  "url": "https://www.bilibili.com/opus/1240327263126290448",
+  "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1240327263126290448",
+  "bodySha256": "6df8ba591267a69dbdcb58ab286e0f6babe7dfe2a6ce0b3a7485f7fc50aadb9c",
+  "creator": {
+    "name": "ZipZipPipe",
+    "mid": 4168597
+  },
+  "title": "Zcode娘人设",
+  "publicPage": {
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:55:12.505Z",
+    "title": "ZipZipPipe的动态 - 哔哩哔哩",
+    "htmlSha256": "1dc7c4f0c064f117c6618fb6fd7cc8ccf56763906e2ce380634bf42e0fb09ae4",
+    "captionSha256": "7862685d72271a2e98ef44a8e8ae3ac25073f7e8a501d381aa31e556ab2d0f4b"
+  },
+  "files": [
+    {
+      "position": 1,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/67c7470246033263aa54d3ea640212e74168597.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:55:19.962Z",
+      "width": 1152,
+      "height": 2048,
+      "format": "png",
+      "bytes": 1925627,
+      "sourceSha256": "405cd1a582834013d3657bd977733678e5b2a4803b5725354db4c9af56bc5550"
+    }
+  ],
+  "officialProduct": {
+    "key": "zcode",
+    "url": "https://zcode.z.ai/cn/docs/qa",
+    "finalUrl": "https://zcode.z.ai/cn/docs/qa",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:54:49.908Z",
+    "title": "常见问题解答 (Q&A) | ZCode Docs",
+    "visible": [
+      "ZCode for GLM-5.3",
+      "ZCode Agent",
+      "在这里，我们汇总了关于 ZCode 的产品定位、费用说明以及在使用过程中可能遇到的技术问题的解答。"
+    ],
+    "htmlSha256": "73a4584a3478a3204176c81ee85fe405a22ec56be9aaa7b1dbb107285e95bcdb"
+  }
+}

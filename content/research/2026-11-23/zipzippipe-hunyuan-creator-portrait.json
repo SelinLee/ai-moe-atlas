@@ -1,0 +1,44 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:54:47.505Z",
+  "url": "https://www.bilibili.com/opus/1242184338245681157",
+  "requestUrl": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1242184338245681157",
+  "bodySha256": "e0ed07df2ffdb3a15f6a7305f5df168c44fb41f37c462fdba82ca0d16935f963",
+  "creator": {
+    "name": "ZipZipPipe",
+    "mid": 4168597
+  },
+  "title": "是HY娘哦",
+  "publicPage": {
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:55:14.310Z",
+    "title": "ZipZipPipe的动态 - 哔哩哔哩",
+    "htmlSha256": "b11051c73f4469f0d3dd5a8fdaff642252852db233444b012b161a7288441989",
+    "captionSha256": "62734dbac84972fb1c70a0ae677820317561a4d943faa9111761e20ab1919df7"
+  },
+  "files": [
+    {
+      "position": 1,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/2006228e1c475336a03096c87285bbba4168597.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:55:21.536Z",
+      "width": 1152,
+      "height": 2048,
+      "format": "png",
+      "bytes": 3150709,
+      "sourceSha256": "57a214f2e04a1c87185607737789c67d4a9687becd4465c66ceea2674e259886"
+    }
+  ],
+  "officialProduct": {
+    "key": "hunyuan",
+    "url": "https://hunyuan.tencent.com/",
+    "finalUrl": "https://hunyuan.tencent.com/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:54:55.499Z",
+    "title": "腾讯混元",
+    "visible": [
+      "混元新一代视觉理解快思考模型。基于HY-2.0 LLM构建，预训练大幅提升数据数量与质量，后训练采取专项优化（SFT+RL）和On-policy Distillation融合的新范式，使模型各项能力得到了充分提升。适用通用图生文场景"
+    ],
+    "htmlSha256": "e504423f9f3315f01cdaf6b27720c4bb58cba5a8215e1303c3d9ee3e32bdf7c0"
+  }
+}

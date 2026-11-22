@@ -1,0 +1,96 @@
+{
+  "id": "mx1951-qwen",
+  "characterId": "mx1951-qwen",
+  "repository": "lmy414/ai-girl-stickers",
+  "revision": "03497f271d9cc3fa3628f70f98dd69786570e5cd",
+  "pageUrl": "https://github.com/lmy414/ai-girl-stickers/issues/16",
+  "originalPublication": "https://github.com/lmy414/ai-girl-stickers/issues/16",
+  "collectedAt": "2026-11-23",
+  "attribution": [
+    {
+      "name": "MX1951",
+      "url": "https://github.com/MX1951",
+      "role": "original-character",
+      "publication": "https://github.com/lmy414/ai-girl-stickers/issues/16"
+    }
+  ],
+  "provenanceStatus": "creator-submitted-with-pinned-byte-match",
+  "rights": {
+    "license": "CC0-1.0",
+    "scope": "artwork",
+    "display": true,
+    "redistribute": true,
+    "modify": true,
+    "commercial": true,
+    "evidenceUrl": "https://github.com/lmy414/ai-girl-stickers/issues/16",
+    "reviewedBy": "AI Moe Atlas source review",
+    "reviewedAt": "2026-11-23",
+    "terms": {
+      "zh": "MX1951 将本张立绘以 CC0 1.0 贡献至公共领域。图鉴记录作者及原始投稿，并保留原 PNG。相关产品名称和标识的权利由各权利方保留。",
+      "en": "MX1951 dedicates this portrait to the public domain under CC0 1.0. The atlas credits the creator, links the submission and preserves the original PNG. Product names and marks retain their respective rights.",
+      "ja": "MX1951 はこの立ち絵に CC0 1.0 を指定。図鑑は作者名と原投稿を掲載し、元の PNG を保存。製品名・標章の権利は各権利者に帰属します。"
+    }
+  },
+  "evidenceSnapshots": [
+    {
+      "url": "https://github.com/lmy414/ai-girl-stickers/issues/16",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:55:31.216Z",
+      "title": "[投稿] Qwen · Issue #16 · lmy414/ai-girl-stickers · GitHub",
+      "htmlSha256": "8de088c2f03d693e6ce127432f34a59bfa3760c08ad631da37a624ef6066753f",
+      "author": "MX1951",
+      "opened": "2026-09-20T16:36:48Z",
+      "bodySha256": "9e6988bfdca3e740ac8caca65ac7b3affd090b711a5af13fd0b232dd7796e26c",
+      "selectedOrigin": "self-created",
+      "selectedLicense": "cc0",
+      "attachmentUrl": "https://github.com/user-attachments/assets/61041243-8913-448f-866a-475e9b5d9ab9",
+      "attachmentSha256": "edaa5762921b7f427c35afd94e14181a6317008993d1b21474565f37eb73e4bc",
+      "attachmentStatus": 200,
+      "attachmentAccessedAt": "2026-11-22T16:55:25.738Z",
+      "attachmentDimensions": {
+        "width": 941,
+        "height": 1672,
+        "format": "png"
+      },
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "scope": "The creator’s attached PNG in public submission #16"
+    },
+    {
+      "url": "https://github.com/lmy414/ai-girl-stickers/blob/03497f271d9cc3fa3628f70f98dd69786570e5cd/dist/submissions/originals/qwen/issue-16-001.png",
+      "rawUrl": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/03497f271d9cc3fa3628f70f98dd69786570e5cd/dist/submissions/originals/qwen/issue-16-001.png",
+      "path": "dist/submissions/originals/qwen/issue-16-001.png",
+      "commit": "03497f271d9cc3fa3628f70f98dd69786570e5cd",
+      "repo": "lmy414/ai-girl-stickers",
+      "sourceSha256": "edaa5762921b7f427c35afd94e14181a6317008993d1b21474565f37eb73e4bc",
+      "gitBlobSha": "96756f70990d700d0cdc25ceedd65ba853765f86",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:55:18.631Z",
+      "width": 941,
+      "height": 1672,
+      "format": "png",
+      "bytes": 1182809,
+      "attachmentSha256": "edaa5762921b7f427c35afd94e14181a6317008993d1b21474565f37eb73e4bc",
+      "byteMatch": true,
+      "archivePage": "https://xn--pssy23gqgbz2d718b.com/works/qwen202609200001.html"
+    },
+    {
+      "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:55:18.674Z",
+      "title": "Deed - CC0 1.0 Universal - Creative Commons",
+      "htmlSha256": "4f7659a6941f5160fc0afde17380d7312ab8d5382a6e5355ee07c7d6d7d2349d"
+    }
+  ],
+  "files": [
+    {
+      "id": "portrait",
+      "path": "dist/submissions/originals/qwen/issue-16-001.png",
+      "sha256": "edaa5762921b7f427c35afd94e14181a6317008993d1b21474565f37eb73e4bc",
+      "label": {
+        "zh": "MX1951 发布的千问立绘",
+        "en": "Qwen portrait published by MX1951",
+        "ja": "MX1951 公開の千問の立ち絵"
+      }
+    }
+  ]
+}

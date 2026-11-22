@@ -172,5 +172,29 @@
     "name": "小红书点点 / Dots",
     "provider": "Xiaohongshu",
     "url": "https://studio.dots.ai/"
+  },
+  {
+    "id": "novelai",
+    "name": "NovelAI",
+    "provider": "Anlatan",
+    "url": "https://blognew.novelai.net/about/"
+  },
+  {
+    "id": "zcode",
+    "name": "智谱 ZCode / ZCode",
+    "provider": "Z.ai",
+    "url": "https://zcode.z.ai/cn/docs/qa"
+  },
+  {
+    "id": "huggingface",
+    "name": "Hugging Face",
+    "provider": "Hugging Face",
+    "url": "https://huggingface.co/docs/hub/main/index"
+  },
+  {
+    "id": "perplexity",
+    "name": "Perplexity",
+    "provider": "Perplexity",
+    "url": "https://www.perplexity.ai/"
   }
 ]

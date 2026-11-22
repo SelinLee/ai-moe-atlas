@@ -39,11 +39,18 @@ try {
   }
   await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});
   await page.goto(`${origin}/${lang}/models/`,{waitUntil:'domcontentloaded'});
-  assert.equal(await page.locator('[data-baseline]').count(),29);
+  assert.equal(await page.locator('[data-baseline]').count(),33);
   assert.equal(await page.locator('[data-state="ready"]').count(),12);
-  assert.equal(await page.locator('[data-state="candidate"]').count(),17);
+  assert.equal(await page.locator('[data-state="candidate"]').count(),21);
   assert.equal(await page.locator('[data-state="missing"]').count(),0);
   assert.equal(await page.locator('[data-state="candidate"] img').count(),0);
+  await page.goto(`${origin}/${lang}/assets/`,{waitUntil:'domcontentloaded'});
+  const qwenPack=page.locator('.asset-section').filter({has:page.locator('a[href$="/packs/mx1951-qwen.zip"]')});
+  const olderQwenPack=page.locator('.asset-section').filter({has:page.locator('a[href$="/packs/zipzippipe-qwen.zip"]')});
+  const noncommercial={zh:'仅限非商业用途',en:'Non-commercial only',ja:'非営利利用のみ'}[lang];
+  assert.match(await qwenPack.innerText(),/CC0 1\.0/);
+  assert.ok(!(await qwenPack.innerText()).includes(noncommercial));
+  assert.ok((await olderQwenPack.innerText()).includes(noncommercial));
   await page.goto(`${origin}/${lang}/?model=stepfun`,{waitUntil:'domcontentloaded'});
   const stepfunCards=page.locator('[data-card]:visible');
   assert.equal(await stepfunCards.count(),2);
@@ -85,7 +92,7 @@ try {
   assert.equal(await page.locator('main a[download], .detail-art img').count(),0);
   await page.goto(`${origin}/${lang}/?model=hunyuan`,{waitUntil:'domcontentloaded'});
   const hunyuanCards=page.locator('[data-card]:visible');
-  assert.equal(await hunyuanCards.count(),2);
+  assert.equal(await hunyuanCards.count(),3);
   assert.ok(await hunyuanCards.locator('a[href$="/characters/fuh-hunyuan/"]').first().isVisible());
   await hunyuanCards.locator('a[href$="/characters/aliang-hunyuan/"]').first().click();
   assert.ok(await page.locator('main a[href="https://creativecommons.org/licenses/by-nc-sa/4.0/"]').isVisible());
@@ -94,7 +101,7 @@ try {
   await page.goto(`${origin}/${lang}/characters/zipzippipe-chatgpt/`,{waitUntil:'domcontentloaded'});
   assert.equal(await page.locator('.observation-panel a').getAttribute('href'),'https://www.bilibili.com/video/BV14phK66Ejw/');
   await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});
-  await page.locator('#search').fill('ZipZipPipe');assert.equal(await page.locator('[data-card]:visible').count(),22);
+  await page.locator('#search').fill('ZipZipPipe');assert.equal(await page.locator('[data-card]:visible').count(),27);
   await page.locator('#search').fill('nothing-matches-xyz');await page.locator('#empty-state').waitFor({state:'visible'});
   await page.locator('#clear-filters').click();assert.equal(await page.locator('[data-card]:visible').count(),chars.length);
   await page.locator('[data-kind-filter="collected"]').click();assert.equal(await page.locator('[data-card]:visible').count(),chars.filter(c=>c.kind==='collected').length);
