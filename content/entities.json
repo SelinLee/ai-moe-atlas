@@ -112,5 +112,29 @@
     "name": "百度文心 / ERNIE",
     "provider": "Baidu",
     "url": "https://ernie.baidu.com/zh"
+  },
+  {
+    "id": "moss",
+    "name": "MOSS",
+    "provider": "模思智能 / OpenMOSS",
+    "url": "https://www.moss.cn/"
+  },
+  {
+    "id": "ant-ling",
+    "name": "蚂蚁百灵 / Ling",
+    "provider": "Ant Group",
+    "url": "https://developer.ant-ling.com/en/docs/models/ling/"
+  },
+  {
+    "id": "unisound-u2",
+    "name": "云知声 U2-Flash",
+    "provider": "Unisound",
+    "url": "https://www.unisound.com/u2flash"
+  },
+  {
+    "id": "rwkv",
+    "name": "RWKV",
+    "provider": "RWKV community",
+    "url": "https://wiki.rwkv.com/"
   }
 ]

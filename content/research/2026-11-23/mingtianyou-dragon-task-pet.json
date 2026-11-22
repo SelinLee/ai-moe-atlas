@@ -1,0 +1,69 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:21:08.895Z",
+  "url": "https://github.com/Mingtianyou/gptdragon-desktop-pet/blob/2892cbf724ed9d58619ff6f2c3e8e927be56f3bd/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/Mingtianyou/gptdragon-desktop-pet/blob/2892cbf724ed9d58619ff6f2c3e8e927be56f3bd/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Mingtianyou/gptdragon-desktop-pet/2892cbf724ed9d58619ff6f2c3e8e927be56f3bd/README.md",
+    "sourceSha256": "fd4017a9ef00c7e3dd32479cc04e76a0153baaa4e8948ea204040c5ba39098d2",
+    "gitBlobSha": "ada30174328de313923c290adf9a1e1d060c47f9",
+    "bytes": 3811,
+    "commit": "2892cbf724ed9d58619ff6f2c3e8e927be56f3bd"
+  },
+  "sourceFiles": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/Mingtianyou/gptdragon-desktop-pet/blob/2892cbf724ed9d58619ff6f2c3e8e927be56f3bd/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Mingtianyou/gptdragon-desktop-pet/2892cbf724ed9d58619ff6f2c3e8e927be56f3bd/README.md",
+      "sourceSha256": "fd4017a9ef00c7e3dd32479cc04e76a0153baaa4e8948ea204040c5ba39098d2",
+      "gitBlobSha": "ada30174328de313923c290adf9a1e1d060c47f9",
+      "bytes": 3811,
+      "commit": "2892cbf724ed9d58619ff6f2c3e8e927be56f3bd"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/Mingtianyou/gptdragon-desktop-pet/blob/2892cbf724ed9d58619ff6f2c3e8e927be56f3bd/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Mingtianyou/gptdragon-desktop-pet/2892cbf724ed9d58619ff6f2c3e8e927be56f3bd/LICENSE",
+      "sourceSha256": "346204dace8d02a6574ea03fbbd5cff0925e214660de7e737e348d99ee0bba19",
+      "gitBlobSha": "4487d359284b11875abb4228bd08d871aaada01d",
+      "bytes": 1068,
+      "commit": "2892cbf724ed9d58619ff6f2c3e8e927be56f3bd"
+    },
+    {
+      "path": "macos/图集许可证.txt",
+      "url": "https://github.com/Mingtianyou/gptdragon-desktop-pet/blob/2892cbf724ed9d58619ff6f2c3e8e927be56f3bd/macos/%E5%9B%BE%E9%9B%86%E8%AE%B8%E5%8F%AF%E8%AF%81.txt",
+      "rawUrl": "https://raw.githubusercontent.com/Mingtianyou/gptdragon-desktop-pet/2892cbf724ed9d58619ff6f2c3e8e927be56f3bd/macos/%E5%9B%BE%E9%9B%86%E8%AE%B8%E5%8F%AF%E8%AF%81.txt",
+      "sourceSha256": "ba253ba51ff7f00266fea0d83468eaa0783a733fb8b6b10ad6f26a88973050df",
+      "gitBlobSha": "1796802f3bd2a2475c5663daae769e320c289357",
+      "bytes": 1077,
+      "commit": "2892cbf724ed9d58619ff6f2c3e8e927be56f3bd"
+    }
+  ],
+  "repositoryObservation": {
+    "full_name": "Mingtianyou/gptdragon-desktop-pet",
+    "html_url": "https://github.com/Mingtianyou/gptdragon-desktop-pet",
+    "stargazers_count": 0,
+    "archived": false,
+    "created_at": "2026-11-17T14:45:49Z",
+    "default_branch": "main",
+    "fork": false,
+    "description": "龙娘桌宠 · macOS 与 Windows 的独立桌面伴侣",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "commit": "2892cbf724ed9d58619ff6f2c3e8e927be56f3bd",
+    "observedAt": "2026-11-22T16:12:07.256+00:00",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:21:08.895Z"
+  },
+  "upstream": {
+    "title": "weit0529 · GPT Pet",
+    "url": "https://github.com/weit0529/gpt-pet/blob/125c3da9a5dc040518e791fc3d75282aa993755f/README.md"
+  },
+  "scope": "Pinned documentation and individual Git blob hashes checked. The project’s own license and upstream attribution remain distinct."
+}

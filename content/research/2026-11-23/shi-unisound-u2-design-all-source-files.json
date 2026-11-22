@@ -1,0 +1,140 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:12:03.747Z",
+  "url": "https://www.bilibili.com/opus/1257685897406578689",
+  "creator": {
+    "name": "甶丶",
+    "mid": 1758596086
+  },
+  "api": {
+    "url": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1257685897406578689",
+    "httpStatus": 200,
+    "code": 0,
+    "bodySha256": "bfc18815bc91bab319a1ca5894e9fffc0f3493e515df7aaf645ad7ec0748da1d",
+    "accessedAt": "2026-11-22T16:11:22.011Z"
+  },
+  "publicPage": {
+    "httpStatus": 200,
+    "title": "甶丶的动态 - 哔哩哔哩",
+    "accessedAt": "2026-11-22T16:11:38.563Z",
+    "htmlSha256": "2ce1e73dd9e383925ae3711064e0b27d90c086e2b8bfeb379537a306093f301c",
+    "captionSha256": "494e47786e0498c61715ec64e0439de6f692e49a23dc04fd2a1cbce077c5ee6f"
+  },
+  "files": [
+    {
+      "position": 1,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/1e7c2caf7cd3deaff35d0c53ee9c40e81758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:12:01.455Z",
+      "width": 1248,
+      "height": 1872,
+      "format": "png",
+      "bytes": 2229878,
+      "sourceSha256": "5f0858fdd851d2826e95813d1a6158f6776b4b06467d05020b0eebfad6d990a4"
+    },
+    {
+      "position": 2,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/1b1fb7cc9aedc8e20ebab5d64f9dd6fb1758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:12:01.448Z",
+      "width": 1248,
+      "height": 1872,
+      "format": "png",
+      "bytes": 2774415,
+      "sourceSha256": "d4a5885d824b609814c001df3b6bcab297247d17cdcc128cc455e5e88b041f02"
+    },
+    {
+      "position": 3,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/16f92d56b9e3ecc17bf664a10ac14ead1758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:12:01.503Z",
+      "width": 1248,
+      "height": 1872,
+      "format": "png",
+      "bytes": 2488348,
+      "sourceSha256": "c28006ce1f4d93dac0d4d5533c5a97a1173b5c80dbd9be92af6d6267c36ccf1f"
+    },
+    {
+      "position": 4,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/188f4b820f37d9ac5bb9daada677a5921758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:12:01.544Z",
+      "width": 1248,
+      "height": 1872,
+      "format": "png",
+      "bytes": 2940426,
+      "sourceSha256": "6e6bdbb80717f83e1a95027dbf64fd40beeb1b12ac064a311b63e60b9e3b021a"
+    },
+    {
+      "position": 5,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/2d4cb4378445b5afd5819f1ff8201e151758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:12:03.270Z",
+      "width": 1248,
+      "height": 1872,
+      "format": "png",
+      "bytes": 3125562,
+      "sourceSha256": "800b55bead7be7871bb9ab4561653a483bac06c2d9c931d2b4d7a26b1921a769"
+    },
+    {
+      "position": 6,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/540ced6d92606b67e740f2559a9df62c1758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:12:03.267Z",
+      "width": 1248,
+      "height": 1872,
+      "format": "png",
+      "bytes": 3106998,
+      "sourceSha256": "c7ab6d66bc9fb6218bfd6d45e848314cd2bd981ef90e02fe20f04bb4e019a4b6"
+    },
+    {
+      "position": 7,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/94b988464a367f394c2ba3f539b1a19a1758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:12:03.250Z",
+      "width": 1248,
+      "height": 1872,
+      "format": "png",
+      "bytes": 2802766,
+      "sourceSha256": "08f2e71d9e6cbb18699a76af1750b43df285350a76a61eb7f491fbb665c7b110"
+    },
+    {
+      "position": 8,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/b0a03747d323114189b83384b1a6fe661758596086.jpg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:12:02.260Z",
+      "width": 1080,
+      "height": 720,
+      "format": "jpeg",
+      "bytes": 32614,
+      "sourceSha256": "bb6089615c1caa9230938c3523adb818c5e3ee3b2caa36cc02a1862f21a8fc30"
+    },
+    {
+      "position": 9,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/9eaf33e1229a7b64ad7096495e5befac1758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:12:03.747Z",
+      "width": 771,
+      "height": 241,
+      "format": "png",
+      "bytes": 14171,
+      "sourceSha256": "d92dec92cd74696564ba9ce6bdca142a2e17c217a07d63e56206ff95301de000"
+    }
+  ],
+  "previousEvidence": {
+    "path": "content/research/2026-11-20/shi-unisound-u2-design.json",
+    "sha256": "56c1107472d95f0324cf8d26c5f797000af6b1be7c42963df5c6875a6e265b0f",
+    "kind": "browser-metadata-extract"
+  },
+  "officialProduct": {
+    "key": "unisound",
+    "url": "https://www.unisound.com/u2flash",
+    "finalUrl": "https://www.unisound.com/u2flash",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:11:31.972Z",
+    "title": "U2-Flash-1118 - 云知声 | 更强的智能，更快地发生",
+    "visible": [],
+    "htmlSha256": "d1111639ed4ce771f15c40187a502a4b78638d9fc49668f92ed6e11ce64e39ab"
+  },
+  "scope": "Linked original images in creator-publication order; first file agrees with the earlier observation."
+}

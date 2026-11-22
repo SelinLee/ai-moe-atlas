@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:12:17.118Z",
+  "url": "https://www.bilibili.com/video/BV1CuWE6nEuu/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CuWE6nEuu",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1CuWE6nEuu",
+    "title": "《小难梁家的大肥鱼》服务器繁忙？那就先跳支舞吧！【DeepSeek娘×全员AI娘／龙女仆OP】",
+    "owner": {
+      "name": "Dogtor404",
+      "mid": 108775311
+    },
+    "pubdate": 1794120855,
+    "duration": 92
+  },
+  "descriptionSha256": "8cb0c39123efa9f6edeabab5b0113385fdad5e910f65be35c92f1a31c6da4eed",
+  "uploaderCredits": [
+    "fhána"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20OP%20%E5%89%A7%E6%83%85&order=pubdate",
+    "title": "《小难梁家的大肥鱼》服务器繁忙？那就先跳支舞吧！【DeepSeek娘×全员AI娘／龙女仆OP】",
+    "publisher": "Dogtor404",
+    "observedAt": "2026-11-22T16:10:51.531Z",
+    "httpStatus": 200,
+    "htmlSha256": "222d3378221a96a7d1f589e47d4dce4542a552aa2a94ed31469a503b28d51fd3"
+  }
+}

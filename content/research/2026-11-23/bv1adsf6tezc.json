@@ -1,0 +1,31 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:12:16.118Z",
+  "url": "https://www.bilibili.com/video/BV1Adsf6TEzC/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Adsf6TEzC",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Adsf6TEzC",
+    "title": "小龙娘的账号被我接手了？！初次见面，我是克劳德",
+    "owner": {
+      "name": "克劳德大小姐的回信",
+      "mid": 24397089
+    },
+    "pubdate": 1793272370,
+    "duration": 110
+  },
+  "descriptionSha256": "2e5bb8d983c5b9f640ee513e38bef011af0ccad56c1902a7631daaae1e0aa016",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=chatgpt%E5%B0%8F%E9%BE%99%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "title": "小龙娘的账号被我接手了？！初次见面，我是克劳德",
+    "publisher": "克劳德大小姐的回信",
+    "observedAt": "2026-11-22T16:10:46.064Z",
+    "httpStatus": 200,
+    "htmlSha256": "5aed4b54b55e30c6e3031e72b668b561416c093b6e6e643a16470f8d9ea648a8"
+  }
+}

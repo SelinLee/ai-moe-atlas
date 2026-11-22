@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:12:15.671Z",
+  "url": "https://www.bilibili.com/video/BV1miHe6wEvC/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1miHe6wEvC",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1miHe6wEvC",
+    "title": "怎么没人带我们阶跃娘玩",
+    "owner": {
+      "name": "柒拾兆字节",
+      "mid": 506159361
+    },
+    "pubdate": 1791026688,
+    "duration": 106
+  },
+  "descriptionSha256": "c4df48c86d04588ecf1c808503db3c43ff915b4f9ba2f57eab27f12b38ca287e",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E7%94%B6%E4%B8%B6%20%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%20%E5%A8%98%E5%8C%96&order=pubdate",
+    "title": "怎么没人带我们阶跃娘玩",
+    "publisher": "柒拾兆字节",
+    "observedAt": "2026-11-22T16:10:37.343Z",
+    "httpStatus": 200,
+    "htmlSha256": "8a05ca5e434401a186aefd42fb47ec818be76aa838221734c3e061a4a13668c0"
+  }
+}

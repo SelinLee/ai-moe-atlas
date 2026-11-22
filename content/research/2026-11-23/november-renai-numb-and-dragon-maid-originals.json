@@ -1,0 +1,254 @@
+{
+  "method": "isolated-headless-google-chrome-official-release-and-bilibili-view-detail",
+  "tracks": [
+    {
+      "songId": "renai-circulation",
+      "title": {
+        "zh": "恋爱循环",
+        "en": "Renai Circulation",
+        "ja": "恋愛サーキュレーション"
+      },
+      "original": {
+        "id": "renai",
+        "url": "https://www.aniplex.co.jp/lineup/bakemonogatari/products/detail/?id=1145",
+        "finalUrl": "https://www.aniplex.co.jp/lineup/bakemonogatari/products/detail/?id=1145",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T16:20:35.575Z",
+        "htmlSha256": "3f145fa5708c3e2ffa98361715f074762da64d908a40f7441cfe0de249b5111e",
+        "title": "「化物語」音楽全集 Songs&amp;Soundtracks | 映像・音楽商品 | 化物語 | アニメ | アニプレックス オフィシャルサイト",
+        "og": "「化物語」音楽全集 Songs&amp;Soundtracks | 映像・音楽商品 | 化物語 | アニメ | アニプレックス オフィシャルサイト",
+        "credits": {
+          "vocal": "Kana Hanazawa as Nadeko Sengoku",
+          "lyrics": "meg rock",
+          "musicAndArrangement": "Satoru Kosaki"
+        }
+      },
+      "fanVersion": {
+        "bvid": "BV1E9y5zBEfA",
+        "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1E9y5zBEfA",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T16:20:40.791Z",
+        "bodySha256": "98ae17feb77ed1acf48b8b5f9919ec9c8c8b53bbfd65d08128472365d73f58ac",
+        "code": 0,
+        "metadata": {
+          "title": "小肥鱼+恋爱循环=今天也是甜的一天♡",
+          "bvid": "BV1E9y5zBEfA",
+          "owner": "小肥鱼丶安安",
+          "mid": 3493144981145736,
+          "pubdate": 1795353402,
+          "tags": [
+            "发现《恋愛サーキュレーション》",
+            "翻唱征集计划",
+            "#花泽香菜",
+            "#化物语",
+            "#恋爱循环",
+            "#大肥鱼",
+            "#翻唱MV"
+          ],
+          "music": null,
+          "metadataFields": [
+            "View",
+            "Card",
+            "Tags",
+            "Reply",
+            "Related",
+            "Spec",
+            "hot_share",
+            "elec",
+            "emergency",
+            "view_addit",
+            "guide",
+            "query_tags",
+            "participle",
+            "module_ctrl",
+            "replace_recommend",
+            "is_hit_labour_day_activity"
+          ],
+          "pages": [
+            {
+              "cid": 43831264420,
+              "page": 1,
+              "part": "小肥鱼+恋爱循环=今天也是甜的一天♡",
+              "duration": 260
+            }
+          ],
+          "descriptionSha256": "779b32b75d163f3862601caedfcd4cdb4554c345c59c73277f3aee175aedc5b5"
+        },
+        "matchedTag": "发现《恋愛サーキュレーション》"
+      }
+    },
+    {
+      "songId": "numb-little-bug",
+      "title": {
+        "zh": "Numb Little Bug",
+        "en": "Numb Little Bug",
+        "ja": "Numb Little Bug"
+      },
+      "original": {
+        "id": "numb",
+        "url": "https://music.apple.com/us/song/numb-little-bug/1633558383",
+        "finalUrl": "https://music.apple.com/us/song/numb-little-bug/1633558383",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T16:20:34.561Z",
+        "htmlSha256": "7f0f45cdb3c07f72001c1397fc57c233abfcb87bf5c754fe542c41deffdadc7c",
+        "title": "‎Numb Little Bug - Song with Lyrics by Em Beihold - Apple Music",
+        "og": "Numb Little Bug by Em Beihold on Apple Music",
+        "credits": {
+          "vocal": "Em Beihold"
+        }
+      },
+      "fanVersion": {
+        "bvid": "BV1HGy5zqEGk",
+        "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1HGy5zqEGk",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T16:20:40.763Z",
+        "bodySha256": "9a0f401a2d50746308725f33db3caecf1cecb92769e3532eefb9a3d6104f7a9e",
+        "code": 0,
+        "metadata": {
+          "title": "【大肥鱼激情翻唱】NumbLittleBug",
+          "bvid": "BV1HGy5zqEGk",
+          "owner": "下北泽吟游诗人",
+          "mid": 1710437956,
+          "pubdate": 1795356600,
+          "tags": [
+            "发现《Numb Little Bug》",
+            "AI音乐征集大赛",
+            "翻唱",
+            "歌词",
+            "COVER",
+            "二次元",
+            "女声",
+            "新人",
+            "激情",
+            "鲸鱼娘",
+            "大肥鱼"
+          ],
+          "music": null,
+          "metadataFields": [
+            "View",
+            "Card",
+            "Tags",
+            "Reply",
+            "Related",
+            "Spec",
+            "hot_share",
+            "elec",
+            "emergency",
+            "view_addit",
+            "guide",
+            "query_tags",
+            "participle",
+            "module_ctrl",
+            "replace_recommend",
+            "is_hit_labour_day_activity"
+          ],
+          "pages": [
+            {
+              "cid": 43832969086,
+              "page": 1,
+              "part": "【大肥鱼激情翻唱】NumbLittleBug",
+              "duration": 172
+            }
+          ],
+          "descriptionSha256": "8f16baf3e1804180c2ad62eb37c5eb3dea7e8f9c303a6410c45dcb7d5c718e95"
+        },
+        "matchedTag": "发现《Numb Little Bug》"
+      }
+    },
+    {
+      "songId": "aozora-no-rhapsody",
+      "title": {
+        "zh": "青空狂想曲",
+        "en": "Aozora no Rhapsody",
+        "ja": "青空のラプソディ"
+      },
+      "original": {
+        "url": "https://www.youtube.com/watch?v=maKok2RItxM",
+        "finalUrl": "https://www.youtube.com/watch?v=maKok2RItxM",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T16:24:03.993Z",
+        "title": "- YouTube",
+        "og": null,
+        "proof": [
+          "fhána / 青空のラプソディ - MUSIC VIDEO",
+          "6201万次观看  9年前  #小林さんちのメイドラゴン​​ #青空のラプソディ #fhána​"
+        ],
+        "htmlSha256": "76bdd668a99a6d1e27dc9173c05f2ba5f68bbcd204df2e05d9f8a876da51a1bf",
+        "artistCatalog": {
+          "url": "https://fhana.jp/works/",
+          "finalUrl": "https://fhana.jp/works/",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-22T16:24:06.433Z",
+          "title": "WORKS | fhana.jp",
+          "og": "WORKS | fhana.jp",
+          "proof": [
+            "青空のラプソディ（アニメ盤）",
+            "青空のラプソディ（アーティスト盤）"
+          ],
+          "htmlSha256": "9d96013656cbe76908f5fe3a1a3dc878a2e5a18228d90776a74a0d532db38286"
+        },
+        "credits": {
+          "artist": "fhána",
+          "theme": "Miss Kobayashi’s Dragon Maid opening"
+        }
+      },
+      "fanVersion": {
+        "bvid": "BV1CuWE6nEuu",
+        "url": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1CuWE6nEuu",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T16:20:40.819Z",
+        "bodySha256": "4b80de23b18877bf3c1b51574104d2ea08d171fd62da641c832fa46ab9fae074",
+        "code": 0,
+        "metadata": {
+          "title": "《小难梁家的大肥鱼》服务器繁忙？那就先跳支舞吧！【DeepSeek娘×全员AI娘／龙女仆OP】",
+          "bvid": "BV1CuWE6nEuu",
+          "owner": "Dogtor404",
+          "mid": 108775311,
+          "pubdate": 1794120855,
+          "tags": [
+            "发现《青空のラプソディ》",
+            "bilibilionly同人扶持计划",
+            "OP",
+            "AI",
+            "AI动画",
+            "LibTV",
+            "OP替换",
+            "小林家的龙女仆",
+            "大肥鱼",
+            "AI娘",
+            "DeepSeek"
+          ],
+          "music": null,
+          "metadataFields": [
+            "View",
+            "Card",
+            "Tags",
+            "Reply",
+            "Related",
+            "Spec",
+            "hot_share",
+            "elec",
+            "emergency",
+            "view_addit",
+            "guide",
+            "query_tags",
+            "participle",
+            "module_ctrl",
+            "replace_recommend",
+            "is_hit_labour_day_activity"
+          ],
+          "pages": [
+            {
+              "cid": 43456793382,
+              "page": 1,
+              "part": "whale-maid-op.zh",
+              "duration": 92
+            }
+          ],
+          "descriptionSha256": "8cb0c39123efa9f6edeabab5b0113385fdad5e910f65be35c92f1a31c6da4eed"
+        },
+        "matchedTag": "发现《青空のラプソディ》"
+      }
+    }
+  ]
+}

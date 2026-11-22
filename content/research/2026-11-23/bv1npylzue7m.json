@@ -1,0 +1,33 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:12:17.091Z",
+  "url": "https://www.bilibili.com/video/BV1NpyLzUE7m/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NpyLzUE7m",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1NpyLzUE7m",
+    "title": "DeepSeek演唱《童话镇》&大肥鱼自编/自导/自演/【AI MV大赛】",
+    "owner": {
+      "name": "一曲离歌丶泪倾城",
+      "mid": 16884443
+    },
+    "pubdate": 1795343560,
+    "duration": 259
+  },
+  "descriptionSha256": "028290bf7e0c784c00e499c875043af2b17a746dad27c5b3b9f86e375703d98c",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "上善无形",
+    "暗杠",
+    "竹君"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20MV&order=pubdate",
+    "title": "DeepSeek演唱《童话镇》&amp;大肥鱼自编/自导/自演/【AI MV大赛】",
+    "publisher": "一曲离歌丶泪倾城",
+    "observedAt": "2026-11-22T16:10:49.467Z",
+    "httpStatus": 200,
+    "htmlSha256": "d9406fe7d9cdac9534f307dfcff7c38073096fd91e41d0d66a6d5f6d24a9272b"
+  }
+}

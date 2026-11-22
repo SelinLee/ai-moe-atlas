@@ -2474,5 +2474,229 @@
       "en": "The description’s CC BY-NC-SA 4.0 statement explicitly covers the whale-girl adaptation. Item-specific redistribution terms for the ERNIE and Claude cover art await verification.",
       "ja": "説明欄の CC BY-NC-SA 4.0 表示はクジラ娘の二次創作を対象とする。文心一言と Claude の表紙画像の個別再配布条件は確認待ち。"
     }
+  },
+  {
+    "id": "fuh-moss",
+    "entity": "moss",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "MOSS 娘 · 甶丶",
+      "en": "MOSS Girl · 甶丶",
+      "ja": "MOSS 娘 · 甶丶"
+    },
+    "description": {
+      "zh": "甶丶为模思智能 MOSS 大模型创作的社区拟人。",
+      "en": "甶丶’s fan personification of the OpenMOSS model family.",
+      "ja": "甶丶による模思智能 MOSS モデルの二次創作擬人化。"
+    },
+    "story": {
+      "zh": "作者在长文中说明模型命名和两套形态的设计过程。",
+      "en": "The creator’s article explains the model’s naming and the design of two forms.",
+      "ja": "作者の記事にはモデル名の由来と2形態のデザイン経緯を掲載。"
+    },
+    "features": {
+      "zh": "奇幻形态持雅各布杖，科技形态配望远镜。",
+      "en": "The fantasy form carries a Jacob’s staff, and the science-fiction form uses a telescope.",
+      "ja": "ファンタジー形態はヤコブの杖、SF 形態は望遠鏡を持つ。"
+    },
+    "author": "甶丶",
+    "authorUrl": "https://space.bilibili.com/1758596086",
+    "source": "https://www.bilibili.com/opus/1265454286364475399",
+    "sourceTitle": "MOSS（模思智能）娘化形象发布",
+    "originalPublication": "https://www.bilibili.com/opus/1265454286364475399",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1265454286364475399"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1265454286364475399",
+    "downloadable": false,
+    "bg": "#edf2ed",
+    "color": "#365b4f",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者将长文标为原创，并写明未经授权禁止转载。图鉴记录出处。",
+      "en": "The creator labels the article as original and requires permission for republication. The atlas links to the source.",
+      "ja": "作者は記事をオリジナルとし、無断転載を禁止。図鑑には出典を掲載。"
+    }
+  },
+  {
+    "id": "fuh-ant-ling",
+    "entity": "ant-ling",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "蚂蚁百灵娘 · 甶丶",
+      "en": "Ant Ling Girl · 甶丶",
+      "ja": "蚂蚁百霊娘 · 甶丶"
+    },
+    "description": {
+      "zh": "甶丶公开发布的蚂蚁百灵拟人形象。",
+      "en": "A fan personification of Ant Group’s Ling published by 甶丶.",
+      "ja": "甶丶が公開したアントグループ Ling の二次創作擬人化。"
+    },
+    "story": {
+      "zh": "作者在 Day 3 原帖发布 9 张设定图，并在七角色盘点视频中点名百灵。",
+      "en": "The Day 3 post has nine design images. The creator also names Ling in a seven-character roundup.",
+      "ja": "Day 3 の原投稿に9枚の設定画があり、作者は7キャラ紹介動画でも百霊に言及。"
+    },
+    "features": {
+      "zh": "首图可见蓝黑服装、钥匙和具有独立轮廓的影子。",
+      "en": "The first image shows a blue-and-black outfit, a key and a separately shaped shadow.",
+      "ja": "1枚目に青黒の衣装、鍵、独立した輪郭を持つ影が描かれる。"
+    },
+    "author": "甶丶",
+    "authorUrl": "https://space.bilibili.com/1758596086",
+    "source": "https://www.bilibili.com/opus/1258423639675502601",
+    "sourceTitle": "蚂蚁百灵娘化形象",
+    "originalPublication": "https://www.bilibili.com/opus/1258423639675502601",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1258423639675502601"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1258423639675502601",
+    "downloadable": false,
+    "bg": "#e9ecfa",
+    "color": "#343e80",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+      "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+      "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+    }
+  },
+  {
+    "id": "fuh-unisound-u2",
+    "entity": "unisound-u2",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "云知声 U2-Flash 娘 · 甶丶",
+      "en": "Unisound U2-Flash Girl · 甶丶",
+      "ja": "雲知声 U2-Flash 娘 · 甶丶"
+    },
+    "description": {
+      "zh": "甶丶公开的云知声 U2-Flash 拟人，首图标有 UNISOUND U2-FLASH。",
+      "en": "甶丶’s personification of Unisound U2-Flash. The first image bears the text UNISOUND U2-FLASH.",
+      "ja": "甶丶による雲知声 U2-Flash の擬人化。1枚目に UNISOUND U2-FLASH と記載。"
+    },
+    "story": {
+      "zh": "作者在原帖说明用生成图制作设定，随后进行了降噪。已按顺序核对 9 张。",
+      "en": "The creator describes using image generation and then reducing noise. Nine images were checked in post order.",
+      "ja": "作者は画像生成とノイズ除去を使ったと説明。原投稿順に9枚を照合。"
+    },
+    "features": {
+      "zh": "作者给出奇幻和科技两套形态，各有三种比例，另有常服。",
+      "en": "The creator presents fantasy and sci-fi forms at three proportions, plus a casual outfit.",
+      "ja": "ファンタジーと科学技術を題材にした形態はそれぞれ3種の頭身比率があり、ほかに普段着もある。"
+    },
+    "author": "甶丶",
+    "authorUrl": "https://space.bilibili.com/1758596086",
+    "source": "https://www.bilibili.com/opus/1257685897406578689",
+    "sourceTitle": "云知声 U2-Flash 娘化设定",
+    "originalPublication": "https://www.bilibili.com/opus/1257685897406578689",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1257685897406578689"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1257685897406578689",
+    "downloadable": false,
+    "bg": "#e9f2f6",
+    "color": "#40677b",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+      "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+      "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+    }
+  },
+  {
+    "id": "zipzippipe-rwkv",
+    "entity": "rwkv",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "RWKV · ZipZipPipe",
+      "en": "RWKV · ZipZipPipe",
+      "ja": "RWKV · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 在《AI娘化》中公开的 RWKV 拟人。",
+      "en": "ZipZipPipe’s RWKV personification in AI Girls.",
+      "ja": "ZipZipPipe が『AI 娘化』で公開した RWKV の擬人化。"
+    },
+    "story": {
+      "zh": "已核对 Pixiv 图集第 9 张的原图。腰间圆吊牌明确标注 RWKV，B 站后续动态也提到 RWKV。",
+      "en": "The ninth Pixiv original has RWKV printed on a round waist pendant. The creator also names RWKV in a later Bilibili post.",
+      "ja": "Pixiv 作品集の9枚目を照合。腰の丸いタグに RWKV と書かれ、作者の後続 Bilibili 投稿でも RWKV に言及。"
+    },
+    "features": {
+      "zh": "黑紫色羽翼、鸟爪与圆形吊牌。",
+      "en": "Purple-black wings, bird talons and a round pendant.",
+      "ja": "黒紫の羽、鳥の爪、丸いタグ。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://www.pixiv.net/users/18604994",
+    "source": "https://www.pixiv.net/artworks/148186519",
+    "sourceTitle": "AI娘化",
+    "originalPublication": "https://www.pixiv.net/artworks/148186519",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "original-character",
+        "publication": "https://www.pixiv.net/artworks/148186519"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+    "downloadable": false,
+    "bg": "#eee9f9",
+    "color": "#564183",
+    "verifiedAt": "2026-11-23",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者要求署名并禁止商用。图集对衍生自上善无形的 DeepSeek 形象另注明 CC BY-NC-SA 4.0。",
+      "en": "The creator requires attribution and prohibits commercial use. The gallery separately names CC BY-NC-SA 4.0 for the DeepSeek design derived from 上善无形.",
+      "ja": "作者はクレジットを必須とし、商用利用を禁止。上善无形を原型とする DeepSeek のデザインには別途 CC BY-NC-SA 4.0 と記載。"
+    }
   }
 ]

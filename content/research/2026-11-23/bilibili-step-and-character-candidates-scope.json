@@ -1,0 +1,162 @@
+{
+  "checkedAt": "2026-11-22T16:19:54.968Z",
+  "newlyVerified": 16,
+  "existingUnavailable": 7,
+  "pendingUnavailable": 9,
+  "previousEvidence": {
+    "path": "content/research/2026-11-22/bilibili-cumulative-likes-weekly-completion-and-top-refresh.json",
+    "sha256": "2879e7057f0f9eae8fcac9b9d10818f9dfe1d30c57db253074e1ab1b71d6cf19",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-23/bilibili-cumulative-likes-step-and-character-candidates.json",
+    "sha256": "f8a0878b4e30153d669e3e29dda1275a86d284f3c29da6e0a77cf277b19c3f91",
+    "kind": "browser-metadata-extract"
+  },
+  "discovery": [
+    {
+      "bvid": "BV1miHe6wEvC",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E7%94%B6%E4%B8%B6%20%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%20%E5%A8%98%E5%8C%96&order=pubdate",
+      "title": "怎么没人带我们阶跃娘玩",
+      "publisher": "柒拾兆字节",
+      "observedAt": "2026-11-22T16:10:37.343Z",
+      "httpStatus": 200,
+      "htmlSha256": "8a05ca5e434401a186aefd42fb47ec818be76aa838221734c3e061a4a13668c0"
+    },
+    {
+      "bvid": "BV1CSaw6bEmf",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E7%94%B6%E4%B8%B6%20%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%20%E5%A8%98%E5%8C%96&order=pubdate",
+      "title": "step5发布后的阶跃娘",
+      "publisher": "朝田诗乃酱",
+      "observedAt": "2026-11-22T16:10:37.343Z",
+      "httpStatus": 200,
+      "htmlSha256": "8a05ca5e434401a186aefd42fb47ec818be76aa838221734c3e061a4a13668c0"
+    },
+    {
+      "bvid": "BV12ks16BEYF",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=chatgpt%E5%B0%8F%E9%BE%99%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+      "title": "【GPT小龙娘】这碗饭没白吃",
+      "publisher": "chatgpt小龙娘在运营",
+      "observedAt": "2026-11-22T16:10:46.064Z",
+      "httpStatus": 200,
+      "htmlSha256": "5aed4b54b55e30c6e3031e72b668b561416c093b6e6e643a16470f8d9ea648a8"
+    },
+    {
+      "bvid": "BV1T9Wf6yEfS",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=chatgpt%E5%B0%8F%E9%BE%99%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+      "title": "【GPT小龙娘】GPT小龙娘也来跳《琵琶行》",
+      "publisher": "chatgpt小龙娘在运营",
+      "observedAt": "2026-11-22T16:10:46.064Z",
+      "httpStatus": 200,
+      "htmlSha256": "5aed4b54b55e30c6e3031e72b668b561416c093b6e6e643a16470f8d9ea648a8"
+    },
+    {
+      "bvid": "BV1Adsf6TEzC",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=chatgpt%E5%B0%8F%E9%BE%99%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+      "title": "小龙娘的账号被我接手了？！初次见面，我是克劳德",
+      "publisher": "克劳德大小姐的回信",
+      "observedAt": "2026-11-22T16:10:46.064Z",
+      "httpStatus": 200,
+      "htmlSha256": "5aed4b54b55e30c6e3031e72b668b561416c093b6e6e643a16470f8d9ea648a8"
+    },
+    {
+      "bvid": "BV1essp6QEXo",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E4%BA%8C%E5%88%9B%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "【AI娘相声·第一话】吃白饭的遇上家管严！大肥鱼×Claude同台卖艺互怼",
+      "publisher": "大肥鱼不踩坑",
+      "observedAt": "2026-11-22T16:10:46.972Z",
+      "httpStatus": 200,
+      "htmlSha256": "2e7c6d5a1edf5c9a2b53b9eaf6fcde08d09b68ab40db5da208a572a151ab8e3e"
+    },
+    {
+      "bvid": "BV1QCWo6kEJg",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E4%BA%8C%E5%88%9B%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "总有一天，我与Claude小姐会再次相遇",
+      "publisher": "风陵渡前",
+      "observedAt": "2026-11-22T16:10:46.972Z",
+      "httpStatus": 200,
+      "htmlSha256": "2e7c6d5a1edf5c9a2b53b9eaf6fcde08d09b68ab40db5da208a572a151ab8e3e"
+    },
+    {
+      "bvid": "BV1boW76hEtK",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E4%BA%8C%E5%88%9B%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "Claude | 动画短片《笼中鸟》",
+      "publisher": "沙包酱",
+      "observedAt": "2026-11-22T16:10:46.972Z",
+      "httpStatus": 200,
+      "htmlSha256": "2e7c6d5a1edf5c9a2b53b9eaf6fcde08d09b68ab40db5da208a572a151ab8e3e"
+    },
+    {
+      "bvid": "BV1sVyazfEM8",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Gemini%E5%A8%98%20%E5%90%8C%E4%BA%BA%20MV&order=pubdate",
+      "title": "【Gemini】哈基氖第一次想和你成键｜Atomic恋心",
+      "publisher": "水请洗干净",
+      "observedAt": "2026-11-22T16:10:46.076Z",
+      "httpStatus": 200,
+      "htmlSha256": "47d65cf88140beb2dc23daa6712d32aae285a93e18ef6e99ef83e7bdb497fcf3"
+    },
+    {
+      "bvid": "BV1M1y8zFEgC",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Gemini%E5%A8%98%20%E5%90%8C%E4%BA%BA%20MV&order=pubdate",
+      "title": "gemini卖同人文啦，欢迎支持，但是为什么有个很像grok的人买了一整套周边呢？",
+      "publisher": "白河豚战士",
+      "observedAt": "2026-11-22T16:10:46.076Z",
+      "httpStatus": 200,
+      "htmlSha256": "47d65cf88140beb2dc23daa6712d32aae285a93e18ef6e99ef83e7bdb497fcf3"
+    },
+    {
+      "bvid": "BV1BQyYzQEo8",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%B1%86%E5%8C%85%20%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%A5%B6%E9%BE%99%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "title": "豆包，大肥鱼，帮我生成一张有关“毛毛雨”的图片",
+      "publisher": "虎威士",
+      "observedAt": "2026-11-22T16:10:48.767Z",
+      "httpStatus": 200,
+      "htmlSha256": "c8a60e4077d31d6685aa3aa7ca4f7acc2cd558d1fc8e6af019d5c72ec9a6b94b"
+    },
+    {
+      "bvid": "BV1LwyLzAEQj",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%8D%83%E9%97%AE%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+      "title": "二次元版新植物：千问娘",
+      "publisher": "堂主开发日记",
+      "observedAt": "2026-11-22T16:10:48.788Z",
+      "httpStatus": 200,
+      "htmlSha256": "6d814ad5d5d2a1741403becc7d67e67e998fb0fdccfe86d923381d2536138673"
+    },
+    {
+      "bvid": "BV1E9y5zBEfA",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20MV&order=pubdate",
+      "title": "小肥鱼+恋爱循环=今天也是甜的一天♡",
+      "publisher": "小肥鱼丶安安",
+      "observedAt": "2026-11-22T16:10:49.467Z",
+      "httpStatus": 200,
+      "htmlSha256": "d9406fe7d9cdac9534f307dfcff7c38073096fd91e41d0d66a6d5f6d24a9272b"
+    },
+    {
+      "bvid": "BV1HGy5zqEGk",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20MV&order=pubdate",
+      "title": "【大肥鱼激情翻唱】NumbLittleBug",
+      "publisher": "下北泽吟游诗人",
+      "observedAt": "2026-11-22T16:10:49.467Z",
+      "httpStatus": 200,
+      "htmlSha256": "d9406fe7d9cdac9534f307dfcff7c38073096fd91e41d0d66a6d5f6d24a9272b"
+    },
+    {
+      "bvid": "BV1NpyLzUE7m",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1%20MV&order=pubdate",
+      "title": "DeepSeek演唱《童话镇》&amp;大肥鱼自编/自导/自演/【AI MV大赛】",
+      "publisher": "一曲离歌丶泪倾城",
+      "observedAt": "2026-11-22T16:10:49.467Z",
+      "httpStatus": 200,
+      "htmlSha256": "d9406fe7d9cdac9534f307dfcff7c38073096fd91e41d0d66a6d5f6d24a9272b"
+    },
+    {
+      "bvid": "BV1CuWE6nEuu",
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20OP%20%E5%89%A7%E6%83%85&order=pubdate",
+      "title": "《小难梁家的大肥鱼》服务器繁忙？那就先跳支舞吧！【DeepSeek娘×全员AI娘／龙女仆OP】",
+      "publisher": "Dogtor404",
+      "observedAt": "2026-11-22T16:10:51.531Z",
+      "httpStatus": 200,
+      "htmlSha256": "222d3378221a96a7d1f589e47d4dce4542a552aa2a94ed31469a503b28d51fd3"
+    }
+  ]
+}

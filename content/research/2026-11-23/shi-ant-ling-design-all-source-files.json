@@ -1,0 +1,142 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:11:59.986Z",
+  "url": "https://www.bilibili.com/opus/1258423639675502601",
+  "creator": {
+    "name": "甶丶",
+    "mid": 1758596086
+  },
+  "api": {
+    "url": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1258423639675502601",
+    "httpStatus": 200,
+    "code": 0,
+    "bodySha256": "c079cd468537da938c4e9b002c37dada1a2360422f7b1cebd7ff490e67a6fde5",
+    "accessedAt": "2026-11-22T16:11:22.001Z"
+  },
+  "publicPage": {
+    "httpStatus": 200,
+    "title": "甶丶的动态 - 哔哩哔哩",
+    "accessedAt": "2026-11-22T16:11:37.351Z",
+    "htmlSha256": "31b362da5526dd81b7b2a2570261d2cf660bf2fc543651d80048010799cc7a20",
+    "captionSha256": "307fbb4e7c75837e3297ccca13458c669636c4748b4d9483e79bf1bdb34ec355"
+  },
+  "files": [
+    {
+      "position": 1,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/b2318fa7568f8c73b5f6f49955a4c0321758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:11:55.077Z",
+      "width": 1664,
+      "height": 2496,
+      "format": "png",
+      "bytes": 5013756,
+      "sourceSha256": "cff396ac80dcbd548cc200c42a746fc4dbd9a439b63e22819047f140879524ce"
+    },
+    {
+      "position": 2,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/47d50794ce45b76c8577cd9f9e4b30e41758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:11:56.013Z",
+      "width": 1664,
+      "height": 2496,
+      "format": "png",
+      "bytes": 4693163,
+      "sourceSha256": "a031776535602e69364aa1271200c84fcd75108d30a10df34d62cbdda46f2645"
+    },
+    {
+      "position": 3,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/4a2b017daff7150e20aa14fb2c3485c41758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:11:55.463Z",
+      "width": 1664,
+      "height": 2496,
+      "format": "png",
+      "bytes": 4756218,
+      "sourceSha256": "1b56d48324706de6a06679294f0c55a612d09e2a9b90e4cbb42f0ccf7606bd1b"
+    },
+    {
+      "position": 4,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/16bdeb4dc7ae7962710b8a79e5cb6ff21758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:11:54.254Z",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "bytes": 2045632,
+      "sourceSha256": "c29291deab212976dee983beb6e3c2a743071561c1127672d5b288f28a233400"
+    },
+    {
+      "position": 5,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/e89aca901a0d00db7a4a8fc24437810c1758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:11:57.586Z",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "bytes": 2061505,
+      "sourceSha256": "9836a4d8cd8e7e43a4311e9fdd141c2e3257020f064950a984313a507eb323e0"
+    },
+    {
+      "position": 6,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/464e63a3040df560de70ceec7f9a35231758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:11:58.118Z",
+      "width": 1664,
+      "height": 2496,
+      "format": "png",
+      "bytes": 5125273,
+      "sourceSha256": "d9d2af04cc6a044abe0e95bf1ed5bcf450d16b697b25df8ad5f4f75420f532f8"
+    },
+    {
+      "position": 7,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/11ea661b62591c12e7720e0eb5a7c5781758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:11:56.978Z",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "bytes": 1816275,
+      "sourceSha256": "ee5ecd7084ef20be484250a345e9c86ec4b597c48094641ff8c459d726dc22e9"
+    },
+    {
+      "position": 8,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/dbd3e6b9e10c1cd51bff39e0116cf7e51758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:11:57.801Z",
+      "width": 1664,
+      "height": 2496,
+      "format": "png",
+      "bytes": 4960768,
+      "sourceSha256": "0982ca9b4d5427e0ae9255b8bc226839390917dd6ef0372fba9f70bf0c73fcd5"
+    },
+    {
+      "position": 9,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/83a5c7daa3c2bf353de3a68dfff74ce61758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:11:59.986Z",
+      "width": 1664,
+      "height": 2496,
+      "format": "png",
+      "bytes": 4212953,
+      "sourceSha256": "9ebd27568526ddcc1c08a4cdcb25d3156aa76a3b8b0ec1d148956b34191d6219"
+    }
+  ],
+  "previousEvidence": {
+    "path": "content/research/2026-11-20/shi-ant-ling-design.json",
+    "sha256": "3f61677ec15ecd1373305a6d28e13ef753ba9082210ec9d255eb71e0fade143d",
+    "kind": "browser-metadata-extract"
+  },
+  "officialProduct": {
+    "key": "ling",
+    "url": "https://developer.ant-ling.com/en/docs/models/ling/",
+    "finalUrl": "https://developer.ant-ling.com/en/docs/models/ling/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:11:25.256Z",
+    "title": "Ling",
+    "visible": [
+      "Ling is a general-purpose large language model series independently developed and open-sourced by Ant Group. Built on th"
+    ],
+    "htmlSha256": "9279167913d020f01bd4ae7e5758f9629078511b785cba72d31bebd4fe82ec20"
+  },
+  "scope": "Linked original images in creator-publication order; first file agrees with the earlier observation."
+}

@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:12:16.100Z",
+  "url": "https://www.bilibili.com/video/BV12ks16BEYF/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12ks16BEYF",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV12ks16BEYF",
+    "title": "【GPT小龙娘】这碗饭没白吃",
+    "owner": {
+      "name": "chatgpt小龙娘在运营",
+      "mid": 3546871719004732
+    },
+    "pubdate": 1795050000,
+    "duration": 61
+  },
+  "descriptionSha256": "dfaa69cea44ad4306af097a8d0d2a97f0174c3359c052717bf47ac2b18caf3f9",
+  "uploaderCredits": [
+    "ZipZipPipe"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=chatgpt%E5%B0%8F%E9%BE%99%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "title": "【GPT小龙娘】这碗饭没白吃",
+    "publisher": "chatgpt小龙娘在运营",
+    "observedAt": "2026-11-22T16:10:46.064Z",
+    "httpStatus": 200,
+    "htmlSha256": "5aed4b54b55e30c6e3031e72b668b561416c093b6e6e643a16470f8d9ea648a8"
+  }
+}

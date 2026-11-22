@@ -1,0 +1,195 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:25:50.719Z",
+  "url": "https://www.bilibili.com/opus/1265454286364475399",
+  "creator": {
+    "name": "甶丶",
+    "mid": 1758596086
+  },
+  "api": {
+    "url": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1265454286364475399",
+    "httpStatus": 200,
+    "code": 0,
+    "bodySha256": "3aa993f6b4d7ecd2f4ab33578c31b5198940d18c854e6a491b2749ab3842cb7c",
+    "accessedAt": "2026-11-22T16:11:22.034Z"
+  },
+  "publicPage": {
+    "httpStatus": 200,
+    "title": "验证码_哔哩哔哩",
+    "accessedAt": "2026-11-22T16:25:36.123Z",
+    "htmlSha256": "50db687671182d5c114aba677f83773dddb6b26c2bfe20769f69cbd594c1577c",
+    "captionSha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "originalImageOrder": {
+      "accessedAt": "2026-11-20T14:26:57.468Z",
+      "htmlSha256": "7dc865de42725cb71edfafd006fdd127f9eade0fa0439c052b4513757e5d1c19"
+    }
+  },
+  "files": [
+    {
+      "position": 1,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/2a3aff5b2f2582861a0193bfafbff0d51758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:25:44.912Z",
+      "width": 1728,
+      "height": 2592,
+      "format": "png",
+      "bytes": 3351228,
+      "sourceSha256": "55f107f625de193ea2993aaa6f3d9e81a5dd96d1d4029bcff0cc99ad39a24003"
+    },
+    {
+      "position": 2,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/b64221fac24c1bd6b644db5bc58246ac1758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:25:45.004Z",
+      "width": 1728,
+      "height": 2592,
+      "format": "png",
+      "bytes": 4395601,
+      "sourceSha256": "1ac9cfb6b19b1b3718534af6f48c4f5f8ee9e08e803e62800a2c0c7fb0ec4373"
+    },
+    {
+      "position": 3,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/987a6e38c9d1829c174d4299bb0621751758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:25:45.489Z",
+      "width": 3520,
+      "height": 3390,
+      "format": "png",
+      "bytes": 5237050,
+      "sourceSha256": "fdb224f6df1650ca313a179f2108f43391f9fa9efa48f63f905976acec6b312c"
+    },
+    {
+      "position": 4,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/b43dc93451e79754b82544f562df38b21758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:25:45.720Z",
+      "width": 3520,
+      "height": 3390,
+      "format": "png",
+      "bytes": 6273546,
+      "sourceSha256": "42e12fbb8ede448eceb34c7411c468d35ea1b7e1b8965c46902e716e51c52b40"
+    },
+    {
+      "position": 5,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/deda596e493006a66cf55129be1e27291758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:25:47.066Z",
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "bytes": 1849026,
+      "sourceSha256": "0b490501b451d3e17c4449ce1dca9b769885be591f1958d93efc0753b34f4bb7"
+    },
+    {
+      "position": 6,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/b7eeff0269fd45b813a1c09779c795181758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:25:47.311Z",
+      "width": 1728,
+      "height": 2592,
+      "format": "png",
+      "bytes": 3120216,
+      "sourceSha256": "6451f92e2d7856f697f478ff4308e0532aab95850da10f5520252d66225092c5"
+    },
+    {
+      "position": 7,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/fcec53f9471b74a3b12881c1c998d3ba1758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:25:47.794Z",
+      "width": 1728,
+      "height": 2592,
+      "format": "png",
+      "bytes": 2506732,
+      "sourceSha256": "27b23ddf7d1913be94470264fdb360a7f3745b46135481bbcf212cb419aa09ba"
+    },
+    {
+      "position": 8,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/40b35740f56516a2669e0c8a406dea881758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:25:47.411Z",
+      "width": 1728,
+      "height": 2592,
+      "format": "png",
+      "bytes": 4171428,
+      "sourceSha256": "877d1283f9ecb74ae6ce5bdba5e97e930a2be76613575775a0f0738fdb7f1fa6"
+    },
+    {
+      "position": 9,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/f30d4bf31578daeec4965ed4058db5011758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:25:49.313Z",
+      "width": 1728,
+      "height": 2592,
+      "format": "png",
+      "bytes": 3960681,
+      "sourceSha256": "640aa2637ae198c05510852b2245ba1de6379cd29c195f52b2ca84f3a8753195"
+    },
+    {
+      "position": 10,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/7a6965d807d2b31263633db29d2c8c0a1758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:25:48.503Z",
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "bytes": 1164623,
+      "sourceSha256": "d0f63b324fe9b525501f0d84e7adae71b37e9d10ae60442bd02e7981a7be22b0"
+    },
+    {
+      "position": 11,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/1c3ae7fd5a2a1d0685e7a050044202b21758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:25:48.671Z",
+      "width": 1073,
+      "height": 1466,
+      "format": "png",
+      "bytes": 1243190,
+      "sourceSha256": "633d425736e047c42b03d0f00447412d9f2417ea5ad6530119e7109d161e19a6"
+    },
+    {
+      "position": 12,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/c524282cc649104226f3fab934f51b841758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:25:48.470Z",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "bytes": 1626023,
+      "sourceSha256": "5c5e16e1ba1fda1a6cc8eddb850023ca3133f9a87d991b147ac74757164fdc26"
+    },
+    {
+      "position": 13,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/c61e27e1ec5a825aa06d28291830f2e21758596086.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:25:50.719Z",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "bytes": 1583592,
+      "sourceSha256": "f6557312d282ecdc3de2db311e8703a4de70d37762ed1f68319133b103756d8a"
+    }
+  ],
+  "previousEvidence": {
+    "path": "content/research/2026-11-20/shi-moss-image-design.json",
+    "sha256": "6120f64876e18d4c224e907a6a65722efd022bb6e1063b0c3bbd28aa81fac3ea",
+    "kind": "browser-metadata-extract"
+  },
+  "officialProduct": {
+    "key": "moss",
+    "url": "https://www.moss.cn/",
+    "finalUrl": "https://www.moss.cn/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:25:37.514Z",
+    "htmlSha256": "dc439a985f763647193840e07a40e205aa825a33048b25e51451f1f7dec647cb",
+    "title": "模思智能 - 联接AI、人与物理世界",
+    "matches": [
+      "MOSS Live",
+      "MOSS Create",
+      "MOSS 开放平台",
+      "体验 MOSS Live",
+      "面向类人交互的 MOSS 系列模型",
+      "MOSS-Transcribe-Diarize"
+    ]
+  },
+  "scope": "Linked original images in creator-publication order; first file agrees with the earlier observation."
+}

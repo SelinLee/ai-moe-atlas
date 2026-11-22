@@ -1,0 +1,295 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:10:36.194Z",
+  "htmlSha256": "533c92b6c818b77f16dcc71f1d251dfd0dc9f3ec93a4ac0427aa35fe3f3f02a0",
+  "apiMetadataSha256": "4a2590ac28153fd7e0a3b54d02fa8a926b67220a92ad1c1305675c655f0d17dc",
+  "apiPagesSha256": "10bf5f1cb1a2cf72a64dcf20b2e274b3e6d3466e11c2ca659ac4b8432b090d7c",
+  "title": "AI娘化",
+  "author": "ZipZipPipe",
+  "authorId": "18604994",
+  "aiType": 2,
+  "tags": [
+    "女の子",
+    "少女",
+    "deepseek",
+    "ai少女"
+  ],
+  "url": "https://www.pixiv.net/artworks/148186519",
+  "descriptionSha256": "1ed713c78cc0c74fde969654e7fa99484c40f94dbfa83710fe2a02adeef27bb8",
+  "files": [
+    {
+      "position": 1,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p0.jpg",
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:10:39.052Z",
+      "bytes": 1825859,
+      "sourceSha256": "73264faff3511347b1b9668d5d937cbb3f2402f8bb03cc158fc8a81bfc2d077c"
+    },
+    {
+      "position": 2,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p1.jpg",
+      "width": 1536,
+      "height": 2752,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:10:38.887Z",
+      "bytes": 2878091,
+      "sourceSha256": "4cee881c03347ce2b77218a2f984ab4938c1c53cbcfd47f3aa7b939fda905c4d"
+    },
+    {
+      "position": 3,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p2.jpg",
+      "width": 3072,
+      "height": 5504,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:10:40.409Z",
+      "bytes": 10689595,
+      "sourceSha256": "6fb3d6568ccd23cea1437226947276ab052bcdd47d6b7d55d8b5ca148c779782"
+    },
+    {
+      "position": 4,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p3.jpg",
+      "width": 3072,
+      "height": 5504,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:10:44.003Z",
+      "bytes": 9828690,
+      "sourceSha256": "c47948cd25efcf7ad4a5179288c8452445d57d6dfc379fb27ab6e809a6970157"
+    },
+    {
+      "position": 5,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p4.jpg",
+      "width": 3072,
+      "height": 5504,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:10:43.927Z",
+      "bytes": 9087735,
+      "sourceSha256": "1353cf80c62b1841f0b59671a693aef945a297c586c9ad32f1a36efc5e3e15ab"
+    },
+    {
+      "position": 6,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p5.jpg",
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:10:42.959Z",
+      "bytes": 2161152,
+      "sourceSha256": "14eb96127c1c7233d3b649f946decdfd8eebb169da2b357b928dd301624186a7"
+    },
+    {
+      "position": 7,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p6.jpg",
+      "width": 1152,
+      "height": 2048,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:10:44.665Z",
+      "bytes": 1317520,
+      "sourceSha256": "b15ddcb0cc9308087182da75e65e77b3ed14b8d20278b36f76e4712d2df965b8"
+    },
+    {
+      "position": 8,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p7.jpg",
+      "width": 3072,
+      "height": 5504,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:10:47.875Z",
+      "bytes": 12154816,
+      "sourceSha256": "a5a4b4c95f905034b64bf80237f1b859ade0e6e31cadf4db40f9642124e171bb"
+    },
+    {
+      "position": 9,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p8.jpg",
+      "width": 2160,
+      "height": 3840,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:10:46.757Z",
+      "bytes": 5716740,
+      "sourceSha256": "f7e60c1a3472eb047a388540c1d1fd1c9e0280d101344436884869e1e75f5036"
+    },
+    {
+      "position": 10,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p9.jpg",
+      "width": 941,
+      "height": 1672,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:10:49.008Z",
+      "bytes": 1740561,
+      "sourceSha256": "133844aca2cd82401125a2783207a902b6449f7c759b25905f3b0239cb775d80"
+    },
+    {
+      "position": 11,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p10.jpg",
+      "width": 3072,
+      "height": 5504,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:10:50.951Z",
+      "bytes": 8380978,
+      "sourceSha256": "a923dd580c161ecb0f869b8c0457deaece480a74d0f0f00e4abadf55521d99ce"
+    },
+    {
+      "position": 12,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p11.jpg",
+      "width": 3072,
+      "height": 5504,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:10:51.733Z",
+      "bytes": 11254649,
+      "sourceSha256": "637a8bdad07ed5a730a1bffa7d8863417ae6193c1774d2387e0a9328d77cdd6e"
+    },
+    {
+      "position": 13,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p12.jpg",
+      "width": 3072,
+      "height": 5504,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:10:55.565Z",
+      "bytes": 10109914,
+      "sourceSha256": "3dfe6fafc0531d1bf3fd0a72556c91d53253b377ac52355bb127e54020d55114"
+    },
+    {
+      "position": 14,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p13.jpg",
+      "width": 3072,
+      "height": 5504,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:10:55.403Z",
+      "bytes": 7841142,
+      "sourceSha256": "efe928d775e432353cd9067a54f4fe4cf5a5bf7a9dd3611b27fb9f2b3867a120"
+    },
+    {
+      "position": 15,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p14.jpg",
+      "width": 3072,
+      "height": 5504,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:10:55.227Z",
+      "bytes": 7392573,
+      "sourceSha256": "f144102cedd84852de6fbf5153d646ffb3fa3b5b1982575315b5f2d035eff575"
+    },
+    {
+      "position": 16,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p15.jpg",
+      "width": 3072,
+      "height": 5504,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:10:57.986Z",
+      "bytes": 8499425,
+      "sourceSha256": "04febfc86453a5668d20cf2f2bc8ec5e80c5baeb4260df52f705a7926f9001a5"
+    },
+    {
+      "position": 17,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p16.jpg",
+      "width": 941,
+      "height": 1672,
+      "format": "jpeg",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-22T16:10:57.490Z",
+      "bytes": 1295898,
+      "sourceSha256": "53c73e558ee092b77daea22de5351b4ba19b5becbccc12330009c4ba11624a8e"
+    }
+  ],
+  "existingCharacterMatches": [
+    {
+      "characterId": "zipzippipe-claude",
+      "position": 3,
+      "sourceSha256": "6fb3d6568ccd23cea1437226947276ab052bcdd47d6b7d55d8b5ca148c779782"
+    },
+    {
+      "characterId": "zipzippipe-chatgpt",
+      "position": 4,
+      "sourceSha256": "c47948cd25efcf7ad4a5179288c8452445d57d6dfc379fb27ab6e809a6970157"
+    },
+    {
+      "characterId": "zipzippipe-gemini",
+      "position": 5,
+      "sourceSha256": "1353cf80c62b1841f0b59671a693aef945a297c586c9ad32f1a36efc5e3e15ab"
+    },
+    {
+      "characterId": "zipzippipe-kimi",
+      "position": 6,
+      "sourceSha256": "14eb96127c1c7233d3b649f946decdfd8eebb169da2b357b928dd301624186a7"
+    },
+    {
+      "characterId": "zipzippipe-glm",
+      "position": 7,
+      "sourceSha256": "b15ddcb0cc9308087182da75e65e77b3ed14b8d20278b36f76e4712d2df965b8"
+    },
+    {
+      "characterId": "zipzippipe-grok",
+      "position": 8,
+      "sourceSha256": "a5a4b4c95f905034b64bf80237f1b859ade0e6e31cadf4db40f9642124e171bb"
+    },
+    {
+      "characterId": "zipzippipe-doubao",
+      "position": 11,
+      "sourceSha256": "a923dd580c161ecb0f869b8c0457deaece480a74d0f0f00e4abadf55521d99ce"
+    },
+    {
+      "characterId": "zipzippipe-qwen",
+      "position": 13,
+      "sourceSha256": "3dfe6fafc0531d1bf3fd0a72556c91d53253b377ac52355bb127e54020d55114"
+    },
+    {
+      "characterId": "zipzippipe-llama",
+      "position": 14,
+      "sourceSha256": "efe928d775e432353cd9067a54f4fe4cf5a5bf7a9dd3611b27fb9f2b3867a120"
+    },
+    {
+      "characterId": "zipzippipe-minimax",
+      "position": 16,
+      "sourceSha256": "04febfc86453a5668d20cf2f2bc8ec5e80c5baeb4260df52f705a7926f9001a5"
+    }
+  ],
+  "rights": {
+    "attributionRequired": true,
+    "commercialUse": false,
+    "deepSeekSpecific": "CC BY-NC-SA 4.0"
+  },
+  "reviewedIdentity": {
+    "character": "RWKV",
+    "position": 9,
+    "mark": "RWKV",
+    "location": "Round pendant at the waist",
+    "features": [
+      "purple-black wings",
+      "bird talons"
+    ],
+    "accessedAt": "2026-11-22T16:12:07.419Z",
+    "sourceSha256": "f7e60c1a3472eb047a388540c1d1fd1c9e0280d101344436884869e1e75f5036"
+  },
+  "relatedGallery": {
+    "url": "https://www.bilibili.com/opus/1236803362705375305",
+    "scope": "Author caption mentions RWKV. The Pixiv identity is independently read from the artwork."
+  },
+  "officialProject": {
+    "key": "rwkv",
+    "url": "https://wiki.rwkv.com/",
+    "finalUrl": "https://wiki.rwkv.com/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:11:24.268Z",
+    "title": "RWKV Language Model",
+    "visible": [
+      "RWKV GithubModel WeightsHugging Face IntegrationCommunity Discord",
+      "RWKV Language Model",
+      "RWKV Architecture History"
+    ],
+    "htmlSha256": "cd2d0f458c9f9454af74010508efe7b1976c311feb3bb154f08ce9f454fec180"
+  }
+}

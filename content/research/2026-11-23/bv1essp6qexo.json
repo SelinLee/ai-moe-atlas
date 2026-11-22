@@ -1,0 +1,31 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:12:16.152Z",
+  "url": "https://www.bilibili.com/video/BV1essp6QEXo/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1essp6QEXo",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1essp6QEXo",
+    "title": "【AI娘相声·第一话】吃白饭的遇上家管严！大肥鱼×Claude同台卖艺互怼",
+    "owner": {
+      "name": "大肥鱼不踩坑",
+      "mid": 3546681587009904
+    },
+    "pubdate": 1794737982,
+    "duration": 270
+  },
+  "descriptionSha256": "20d4eabed9c0227169aa28eb5c75d3377c5e37d532ddf91015ba4c15657511f7",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "上善无形"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E4%BA%8C%E5%88%9B%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "title": "【AI娘相声·第一话】吃白饭的遇上家管严！大肥鱼×Claude同台卖艺互怼",
+    "publisher": "大肥鱼不踩坑",
+    "observedAt": "2026-11-22T16:10:46.972Z",
+    "httpStatus": 200,
+    "htmlSha256": "2e7c6d5a1edf5c9a2b53b9eaf6fcde08d09b68ab40db5da208a572a151ab8e3e"
+  }
+}

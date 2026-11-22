@@ -1,0 +1,87 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:21:03.316Z",
+  "url": "https://github.com/miku00039-01/dsh-whale-pet/blob/fff54331c0068f2a10164e425235dbbc6232e88d/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/miku00039-01/dsh-whale-pet/blob/fff54331c0068f2a10164e425235dbbc6232e88d/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/miku00039-01/dsh-whale-pet/fff54331c0068f2a10164e425235dbbc6232e88d/README.md",
+    "sourceSha256": "446aaacd5cd1c9ba65be770f0843a6b6b6c836a295d1478cf1a625a9b2384189",
+    "gitBlobSha": "40463e4f29a79f68752f1b96a5fbd00fc6c77dba",
+    "bytes": 11615,
+    "commit": "fff54331c0068f2a10164e425235dbbc6232e88d"
+  },
+  "sourceFiles": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/miku00039-01/dsh-whale-pet/blob/fff54331c0068f2a10164e425235dbbc6232e88d/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/miku00039-01/dsh-whale-pet/fff54331c0068f2a10164e425235dbbc6232e88d/README.md",
+      "sourceSha256": "446aaacd5cd1c9ba65be770f0843a6b6b6c836a295d1478cf1a625a9b2384189",
+      "gitBlobSha": "40463e4f29a79f68752f1b96a5fbd00fc6c77dba",
+      "bytes": 11615,
+      "commit": "fff54331c0068f2a10164e425235dbbc6232e88d"
+    },
+    {
+      "path": "README.en.md",
+      "url": "https://github.com/miku00039-01/dsh-whale-pet/blob/fff54331c0068f2a10164e425235dbbc6232e88d/README.en.md",
+      "rawUrl": "https://raw.githubusercontent.com/miku00039-01/dsh-whale-pet/fff54331c0068f2a10164e425235dbbc6232e88d/README.en.md",
+      "sourceSha256": "6f4f44259b815373d1f4bae3d5cbc0a89c7357263daea90bb20f62c7a568ed94",
+      "gitBlobSha": "c02e223eace465b8d461d24e982f1adf26cab347",
+      "bytes": 5998,
+      "commit": "fff54331c0068f2a10164e425235dbbc6232e88d"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/miku00039-01/dsh-whale-pet/blob/fff54331c0068f2a10164e425235dbbc6232e88d/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/miku00039-01/dsh-whale-pet/fff54331c0068f2a10164e425235dbbc6232e88d/LICENSE",
+      "sourceSha256": "d97baacd143d065c17a1b7ecda2166a3832d585beec41520e0e6a4e6e22cf0a2",
+      "gitBlobSha": "38bfdc9e78b8f7c0a2fc2230fc7477f1584fcacb",
+      "bytes": 1083,
+      "commit": "fff54331c0068f2a10164e425235dbbc6232e88d"
+    },
+    {
+      "path": "assets/WHALE_ATTRIBUTION.md",
+      "url": "https://github.com/miku00039-01/dsh-whale-pet/blob/fff54331c0068f2a10164e425235dbbc6232e88d/assets/WHALE_ATTRIBUTION.md",
+      "rawUrl": "https://raw.githubusercontent.com/miku00039-01/dsh-whale-pet/fff54331c0068f2a10164e425235dbbc6232e88d/assets/WHALE_ATTRIBUTION.md",
+      "sourceSha256": "853f8aa9e68b8ece27ffc855cebd100cb6afb7be5dc117633369f75202942410",
+      "gitBlobSha": "676b7882d759087bc3638d2683be3004b9d52faa",
+      "bytes": 1712,
+      "commit": "fff54331c0068f2a10164e425235dbbc6232e88d"
+    },
+    {
+      "path": "assets/whale.png",
+      "url": "https://github.com/miku00039-01/dsh-whale-pet/blob/fff54331c0068f2a10164e425235dbbc6232e88d/assets/whale.png",
+      "rawUrl": "https://raw.githubusercontent.com/miku00039-01/dsh-whale-pet/fff54331c0068f2a10164e425235dbbc6232e88d/assets/whale.png",
+      "sourceSha256": "4dd427e33374069c49355c43b6821c7cfd31c1a8e155706c4c802cced6012d7b",
+      "gitBlobSha": "c819306b1c70713e6906eaac9b8826d21091ac5a",
+      "bytes": 72583,
+      "commit": "fff54331c0068f2a10164e425235dbbc6232e88d"
+    }
+  ],
+  "repositoryObservation": {
+    "full_name": "miku00039-01/dsh-whale-pet",
+    "html_url": "https://github.com/miku00039-01/dsh-whale-pet",
+    "stargazers_count": 3,
+    "archived": false,
+    "created_at": "2026-08-16T15:01:39Z",
+    "default_branch": "master",
+    "fork": false,
+    "description": "🐋 DSH 桌宠:DeepSeek Harness 的 Windows 桌面宠物,一键启动/停止/监测服务,双击唤起 GUI,零依赖单文件 exe",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "commit": "fff54331c0068f2a10164e425235dbbc6232e88d",
+    "observedAt": "2026-11-22T16:12:06.807+00:00",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-22T16:21:03.316Z"
+  },
+  "upstream": {
+    "title": "上善无形 · Whale Girl original",
+    "url": "https://www.bilibili.com/opus/1231977657712771073"
+  },
+  "scope": "Pinned documentation and individual Git blob hashes checked. The project’s own license and upstream attribution remain distinct."
+}

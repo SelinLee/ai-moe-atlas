@@ -20,6 +20,8 @@
 
 2026年11月22日。LongCat・Tencent 混元・百度文心の出典項目を追加。混元は甶丶版と阿亮版を個別に収録。阿亮の許諾は自身の混元デザインに適用。文心の単独立ち絵と表紙の利用条件は確認待ち。 [確認記録](../content/research/2026-11-22/aliang-hunyuan-chibi-and-license.json)
 
+2026年11月23日。ZipZipPipe の RWKV と、甶丶の MOSS・蚂蚁百霊・雲知声 U2-Flash の出典を追加。Pixiv 原作品集の9枚目では、腰の丸いタグに RWKV と記載。ほかの3件は作者の原投稿で設定画を照合。 [RWKV の原画確認](../content/research/2026-11-23/zipzippipe-pixiv-first-gallery-rwkv.json)
+
 | AI | 優先候補 | 残りの作業 |
 | --- | --- | --- |
 | DeepSeek | 収集済みクジラ娘メイド素材 | 利用可能。上善无形 → ZipZipPipe → Small-tailqwq のクレジットを保持 |

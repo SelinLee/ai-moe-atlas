@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:12:16.581Z",
+  "url": "https://www.bilibili.com/video/BV1sVyazfEM8/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sVyazfEM8",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1sVyazfEM8",
+    "title": "【Gemini】哈基氖第一次想和你成键｜Atomic恋心",
+    "owner": {
+      "name": "水请洗干净",
+      "mid": 161949528
+    },
+    "pubdate": 1795254543,
+    "duration": 225
+  },
+  "descriptionSha256": "f01868a8bd24c1ea0a9c98b9aeabb62d58d1c7f7df768d7445c2a7b528f0528a",
+  "uploaderCredits": [],
+  "linkedVideos": [
+    "BV1m3GRz2Epa"
+  ],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Gemini%E5%A8%98%20%E5%90%8C%E4%BA%BA%20MV&order=pubdate",
+    "title": "【Gemini】哈基氖第一次想和你成键｜Atomic恋心",
+    "publisher": "水请洗干净",
+    "observedAt": "2026-11-22T16:10:46.076Z",
+    "httpStatus": 200,
+    "htmlSha256": "47d65cf88140beb2dc23daa6712d32aae285a93e18ef6e99ef83e7bdb497fcf3"
+  }
+}

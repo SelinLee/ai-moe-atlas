@@ -22,11 +22,11 @@
 ## リソース一覧
 
 <!-- category-picks:characters -->
-**[🎨 キャラクター図鑑](#characters)** · 38 項目\
+**[🎨 キャラクター図鑑](#characters)** · 42 項目\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/ja/characters/fuh-mimo/) · [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/ja/characters/shangshan-whale/)
 
 <!-- category-picks:songs -->
-**[🎵 楽曲](#songs)** · 65 曲\
+**[🎵 楽曲](#songs)** · 68 曲\
 [人は猫 · 大肥魚カバー](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · アニメーション MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [烂奇迹 · 大肥魚カバー](https://www.bilibili.com/video/BV1fzs26bETg/)
 
 <!-- category-picks:references -->
@@ -34,24 +34,26 @@
 [Claude のキャラクター資料](https://selinlee.github.io/ai-moe-atlas/ja/references/#claude) · [DeepSeek のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#deepseek) · [千問のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#qwen)
 
 <!-- category-picks:animations -->
-**[🎬 アニメ・動画二次創作](#animations)** · 704 件\
+**[🎬 アニメ・動画二次創作](#animations)** · 720 件\
 [チャット画面が彼女の世界のすべてだったら](https://www.bilibili.com/video/BV1xCai6aE9g/) · [負けヒロイン AI が多すぎる！ · PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo 娘キャラクター PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 ペット・インタラクティブ作品](#desktop-pets)** · 115 プロジェクト\
+**[🐾 ペット・インタラクティブ作品](#desktop-pets)** · 117 プロジェクト\
 [CrossPet · 複数の AI に対応するデスクトップペット](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D コーディングペット](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [MIMO ペット · Android のうさ耳ペット](https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/README.md)
 
 <!-- category-picks:sources -->
-**[📚 作者の作品と出典](#sources)** · 80 件\
+**[📚 作者の作品と出典](#sources)** · 81 件\
 [上善无形 · クジラ娘の原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI 娘化作品集](https://www.pixiv.net/artworks/148186519) · [甶丶 · MiMo の立ち絵・三面図投稿](https://github.com/lmy414/ai-girl-stickers/issues/35)
 
 <a id="characters"></a>
 
 ### 🎨 キャラクター図鑑
 
-AI 製品19種からキャラクター、作者、原作を探せます。 [Muse 娘の項目を見る](https://selinlee.github.io/ai-moe-atlas/ja/characters/shizhi-muse/) · [Mistral バゲット猫娘](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-mistral/) · [OpenCode の擬人化項目](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-opencode/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/ja/characters/fuh-mimo/)
+AI 製品23種からキャラクター、作者、原作を探せます。 [Muse 娘の項目を見る](https://selinlee.github.io/ai-moe-atlas/ja/characters/shizhi-muse/) · [Mistral バゲット猫娘](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-mistral/) · [OpenCode の擬人化項目](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-opencode/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/ja/characters/fuh-mimo/)
 
 新しいキャラクター · [小ク Coco](https://selinlee.github.io/ai-moe-atlas/ja/characters/ninon-coco/) · [Gemini Pro](https://selinlee.github.io/ai-moe-atlas/ja/characters/qinv-gemini-pro/) · [MiniMax 宇宙うさぎ](https://selinlee.github.io/ai-moe-atlas/ja/characters/shiho320-minimax-space-bunny/) · [混元娘](https://selinlee.github.io/ai-moe-atlas/ja/characters/aliang-hunyuan/) · [LongCat 龍猫](https://selinlee.github.io/ai-moe-atlas/ja/characters/fuh-longcat/) · [百度文心](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-ernie/)
+
+新着キャラクター · [RWKV](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-rwkv/) · [MOSS](https://selinlee.github.io/ai-moe-atlas/ja/characters/fuh-moss/) · [蚂蚁百霊](https://selinlee.github.io/ai-moe-atlas/ja/characters/fuh-ant-ling/) · [U2-Flash](https://selinlee.github.io/ai-moe-atlas/ja/characters/fuh-unisound-u2/)
 
 [オンラインで絞り込む](https://selinlee.github.io/ai-moe-atlas/ja/#catalog) · [三言語のキャラクター資料](content/characters.json) · [AI 製品一覧](content/entities.json)
 
@@ -80,7 +82,7 @@ AI 製品19種からキャラクター、作者、原作を探せます。 [Muse
 
 <!-- song-ranking:end -->
 
-[原曲の出典](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲とバージョンの確認記録](content/research/2026-11-20/song-originals-and-fan-versions.json) · [主題歌と二次創作の使用曲の確認記録](content/research/2026-11-20/character-songs-and-opening-credits.json) · [ダンス・歌詞 MV の楽曲クレジット](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [「溫室效應」の原曲と二次創作 MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [原曲4曲と二次創作の確認](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [豆包カバーとエンディング曲の出典](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [千問・MiMo・ダンス曲の出典](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [「APT.」と「删了一百遍」の出典](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [カバー曲とゲーム楽曲の原曲](content/research/2026-11-22/november-cover-song-originals-and-versions.json) · [Charlotte・bloom・unhappy の出典](content/research/2026-11-22/november-charlotte-bloom-and-remix-evidence.json) · [週刊・ゲーム原曲の確認](content/research/2026-11-22/november-mili-and-game-soundtrack-verification.json) · [「烂奇迹」の原曲とカバーの確認](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json)
+[原曲の出典](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲とバージョンの確認記録](content/research/2026-11-20/song-originals-and-fan-versions.json) · [主題歌と二次創作の使用曲の確認記録](content/research/2026-11-20/character-songs-and-opening-credits.json) · [ダンス・歌詞 MV の楽曲クレジット](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [「溫室效應」の原曲と二次創作 MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [原曲4曲と二次創作の確認](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [豆包カバーとエンディング曲の出典](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [千問・MiMo・ダンス曲の出典](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [「APT.」と「删了一百遍」の出典](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [カバー曲とゲーム楽曲の原曲](content/research/2026-11-22/november-cover-song-originals-and-versions.json) · [Charlotte・bloom・unhappy の出典](content/research/2026-11-22/november-charlotte-bloom-and-remix-evidence.json) · [週刊・ゲーム原曲の確認](content/research/2026-11-22/november-mili-and-game-soundtrack-verification.json) · [「烂奇迹」の原曲とカバーの確認](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json) · [原曲3曲と二次創作での使用](content/research/2026-11-23/november-renai-numb-and-dragon-maid-originals.json)
 
 <a id="references"></a>
 
@@ -117,7 +119,7 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 
 <!-- animation-ranking:end -->
 
-『AI 娘週刊』の原投稿リンクから18件を追加し、上位15件の公式累計いいね数を更新。旧作7件は前回取得値を掲載し、候補9件は確認待ち。図鑑では公開ページの状態と確認時刻を確認できます。 [今回のいいね数の確認](content/research/2026-11-23/bilibili-weekly-completion-and-top-refresh-scope.json)
+二次創作16件で公式累計いいね数を取得。旧作7件は再確認後も前回取得値を掲載し、候補9件の累計いいね数は確認待ち。 [いいね数の確認記録](content/research/2026-11-23/bilibili-step-and-character-candidates-scope.json)
 
 <a id="desktop-pets"></a>
 
@@ -138,7 +140,7 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 | 9 | [OpenPets · ローカルデスクトップペット基盤](https://github.com/OpenPetsHQ/openpets/blob/9153e40ed37617243f903b074161d7df4bbd27b0/README.md) | [1,402](https://github.com/OpenPetsHQ/openpets) |
 | 10 | [CrossPet · 複数AI対応デスクトップペット](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | [545](https://github.com/lokicorvus/crosspet) |
 
-[ペット・インタラクティブ作品をすべて見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive) · [Star 数の確認記録](content/research/2026-11-23/github-interactive-stars-aboutme-and-leaders.json)
+[ペット・インタラクティブ作品をすべて見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive) · [Star 数の確認記録](content/research/2026-11-23/github-interactive-stars-whale-and-dragon-pets.json)
 
 クロスプラットフォーム版と Android ネイティブ版で、互換動画各106本をそれぞれの上流固定版とファイル単位で照合しました。上流版では素材の商用利用を禁止し、移植2件の文書にはこれらの動画を MIT と記載しています。 [ペット動画の出典照合](content/research/2026-11-21/dsh-pet-shared-animation-file-provenance.json)
 
@@ -159,6 +161,10 @@ ZipZipPipe の[出典と利用声明](https://t.bilibili.com/1231980045693616162
 
 今回追加した出典：
 
+- [ZipZipPipe · 『AI 娘化』原作品集](https://www.pixiv.net/artworks/148186519) · 原寸 JPEG 17枚を照合。9枚目の腰の丸いタグに RWKV とある。図鑑の収録原画10枚とハッシュが一致。 作者はクレジットを必須とし、商用利用を禁止。上善无形を原型とする DeepSeek のデザインには別途 CC BY-NC-SA 4.0 と記載。 [確認記録](content/research/2026-11-23/zipzippipe-pixiv-first-gallery-rwkv.json)
+- [MOSS-Image · 甶丶のオリジナル設定](https://www.bilibili.com/opus/1265454286364475399) · ヤコブの杖、望遠鏡、2種類のデザインを作者が解説。原投稿に画像13点。 原投稿順に原画13枚の SHA-256 を照合。 作者は記事をオリジナルとし、無断転載を禁止。図鑑には出典を掲載。 [確認記録](content/research/2026-11-23/shi-moss-image-design-all-source-files.json)
+- [蚂蚁百灵 · 甶丶のオリジナル設定](https://www.bilibili.com/opus/1258423639675502601) · 作者の「Day 3」投稿に9枚掲載。1枚目は青と黒の衣装、鍵、独自の輪郭を持つ影。 原投稿順に原画9枚の SHA-256 を照合。 作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。 [確認記録](content/research/2026-11-23/shi-ant-ling-design-all-source-files.json)
+- [雲知声 U2-Flash · 甶丶のオリジナル設定](https://www.bilibili.com/opus/1257685897406578689) · 1枚目に UNISOUND U2-FLASH と記載。作者はファンタジー・SF 各3種類の頭身と普段着を説明。 原投稿順に原画9枚の SHA-256 を照合。 作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。 [確認記録](content/research/2026-11-23/shi-unisound-u2-design-all-source-files.json)
 - [「烂奇迹」· 杨羊烊Koi の原投稿](https://www.bilibili.com/video/BV1kxWi6eEBE/) · 原投稿の題名と Bilibili の楽曲タグが「烂奇迹」を示す。星落落_oi のカバーは概要欄にこの BV ID を記載。 原曲とカバーの出典を掲載。利用条件はそれぞれの公開元を参照。 [確認記録](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json)
 - [Claude お嬢様の日記 · 生成イラスト素材集](https://github.com/opsCar/claude-daxiaojie-assets/blob/a7e01f61af5e7963c1616cca8bd4101ec5d959d1/README.md) · 『AI 娘週刊』第5号で参照された立ち絵・表情・物語用素材集。固定版の通常表情の胸像を照合。 公開者は生成派生画像とプロンプトを CC BY-NC-SA 4.0 と記載。素材公開者、ZipZipPipe のキャラクター原案、lmy414 の設定画の表示が必要。 [確認記録](content/research/2026-11-23/opscar-claude-lady-generated-art.json)
 - [アンノウン・マザーグース · Claude 娘 PV 制作資料](https://github.com/entropy622/unknown-mother-goose-claude/blob/6140afffa15bec4d741001bf6bc3a63383bee714/README.md) · A-回首空城 が Bilibili 概要欄に制作リポジトリを掲載。固定版に生成イラストと制作ログがあり、最初の立ち絵を照合。 制作クレジットは ZipZipPipe のデザインと wowaka の原曲。イラスト・コードの個別再利用条件は確認待ち。楽曲は原投稿を参照。 [確認記録](content/research/2026-11-23/unknown-mother-goose-claude-production.json)
@@ -248,6 +254,7 @@ ZipZipPipe の[出典と利用声明](https://t.bilibili.com/1231980045693616162
 
 | 時期・状況 | 内容 |
 | --- | --- |
+| 2026-11-23 · RWKV の原画・甶丶の設定・階躍娘の二次創作 | キャラクター4件、二次創作16件、楽曲3曲、デスクトップペット2件、作品集の出典1件を追加。ZipZipPipe の原画17枚と甶丶の原画44枚を照合。 |
 | 2026-11-23 · 週刊の原作・烂奇迹・アニメ素材 | 二次創作18件、楽曲1曲、出典3件、ペットプロジェクト1件を追加。上位15件のいいね数と確認待ち候補の公開ページの状態を更新。 |
 | 2026-11-22 · 週刊の出典・作品集・ペット | 二次創作21件、楽曲4曲、インタラクティブ作品2件を追加。ZipZipPipe の Pixiv 追加作品集20ページと阿亮の17枚目の混元娘三面図を照合。 |
 | 2026-11-22 · 混元・LongCat・文心の項目 | キャラクター4件、二次創作12件、楽曲3曲、インタラクティブ作品3件を追加。阿亮の混元の許諾、甶丶の LongCat 画像13点、ZipZipPipe の文心表紙を照合。 |

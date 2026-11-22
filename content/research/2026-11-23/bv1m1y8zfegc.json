@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:12:16.635Z",
+  "url": "https://www.bilibili.com/video/BV1M1y8zFEgC/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1M1y8zFEgC",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1M1y8zFEgC",
+    "title": "gemini卖同人文啦，欢迎支持，但是为什么有个很像grok的人买了一整套周边呢？",
+    "owner": {
+      "name": "白河豚战士",
+      "mid": 412863108
+    },
+    "pubdate": 1795233633,
+    "duration": 62
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Gemini%E5%A8%98%20%E5%90%8C%E4%BA%BA%20MV&order=pubdate",
+    "title": "gemini卖同人文啦，欢迎支持，但是为什么有个很像grok的人买了一整套周边呢？",
+    "publisher": "白河豚战士",
+    "observedAt": "2026-11-22T16:10:46.076Z",
+    "httpStatus": 200,
+    "htmlSha256": "47d65cf88140beb2dc23daa6712d32aae285a93e18ef6e99ef83e7bdb497fcf3"
+  }
+}

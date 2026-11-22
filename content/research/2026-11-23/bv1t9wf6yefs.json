@@ -1,0 +1,31 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:12:16.107Z",
+  "url": "https://www.bilibili.com/video/BV1T9Wf6yEfS/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1T9Wf6yEfS",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1T9Wf6yEfS",
+    "title": "【GPT小龙娘】GPT小龙娘也来跳《琵琶行》",
+    "owner": {
+      "name": "chatgpt小龙娘在运营",
+      "mid": 3546871719004732
+    },
+    "pubdate": 1794877200,
+    "duration": 19
+  },
+  "descriptionSha256": "955234901bcb94cbe0b0d71cebf91ebbf94f08f742b568158c0857c04d86c544",
+  "uploaderCredits": [
+    "ZipZipPipe",
+    "阿莎莎"
+  ],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=chatgpt%E5%B0%8F%E9%BE%99%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "title": "【GPT小龙娘】GPT小龙娘也来跳《琵琶行》",
+    "publisher": "chatgpt小龙娘在运营",
+    "observedAt": "2026-11-22T16:10:46.064Z",
+    "httpStatus": 200,
+    "htmlSha256": "5aed4b54b55e30c6e3031e72b668b561416c093b6e6e643a16470f8d9ea648a8"
+  }
+}

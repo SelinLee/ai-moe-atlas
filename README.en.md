@@ -22,11 +22,11 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 ## Resource directory
 
 <!-- category-picks:characters -->
-**[🎨 Character atlas](#characters)** · 38 entries\
+**[🎨 Character atlas](#characters)** · 42 entries\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/) · [MiMo Girl · 甶丶](https://selinlee.github.io/ai-moe-atlas/en/characters/fuh-mimo/) · [Mingyue · Shangshan](https://selinlee.github.io/ai-moe-atlas/en/characters/shangshan-whale/)
 
 <!-- category-picks:songs -->
-**[🎵 Songs](#songs)** · 65 tracks\
+**[🎵 Songs](#songs)** · 68 tracks\
 [Humans Are Cats · Fat Fish cover](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · Animated MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [Rotten Miracle · Fat Fish cover](https://www.bilibili.com/video/BV1fzs26bETg/)
 
 <!-- category-picks:references -->
@@ -34,24 +34,26 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 [Claude reference sheet](https://selinlee.github.io/ai-moe-atlas/en/references/#claude) · [DeepSeek chibi turnaround](https://selinlee.github.io/ai-moe-atlas/en/chibi/#deepseek) · [Qwen chibi turnaround](https://selinlee.github.io/ai-moe-atlas/en/chibi/#qwen)
 
 <!-- category-picks:animations -->
-**[🎬 Animation & fan videos](#animations)** · 704 records\
+**[🎬 Animation & fan videos](#animations)** · 720 records\
 [What If the Chat Window Were Her Whole World?](https://www.bilibili.com/video/BV1xCai6aE9g/) · [Too Many Losing AIs! · Fan PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo Girl Character PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 Pets & interactive projects](#desktop-pets)** · 115 projects\
+**[🐾 Pets & interactive projects](#desktop-pets)** · 117 projects\
 [CrossPet · Cross-AI desktop companion](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D coding companion](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [MIMO Pet · Floating Android Rabbit Girl](https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/README.md)
 
 <!-- category-picks:sources -->
-**[📚 Creator works & sources](#sources)** · 80 sources\
+**[📚 Creator works & sources](#sources)** · 81 sources\
 [Shangshan · Whale Girl original](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI Girl collection](https://www.pixiv.net/artworks/148186519) · [甶丶 · MiMo portrait and turnaround submission](https://github.com/lmy414/ai-girl-stickers/issues/35)
 
 <a id="characters"></a>
 
 ### 🎨 Character atlas
 
-Find characters, creators and original works across 19 AI products. [View the Muse Girl entry](https://selinlee.github.io/ai-moe-atlas/en/characters/shizhi-muse/) · [Mistral Baguette Cat Girl](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-mistral/) · [OpenCode personification](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-opencode/) · [MiMo Girl · 甶丶](https://selinlee.github.io/ai-moe-atlas/en/characters/fuh-mimo/)
+Find characters, creators and original works across 23 AI products. [View the Muse Girl entry](https://selinlee.github.io/ai-moe-atlas/en/characters/shizhi-muse/) · [Mistral Baguette Cat Girl](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-mistral/) · [OpenCode personification](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-opencode/) · [MiMo Girl · 甶丶](https://selinlee.github.io/ai-moe-atlas/en/characters/fuh-mimo/)
 
 New character entries · [Coco](https://selinlee.github.io/ai-moe-atlas/en/characters/ninon-coco/) · [Gemini Pro](https://selinlee.github.io/ai-moe-atlas/en/characters/qinv-gemini-pro/) · [MiniMax Space Bunny](https://selinlee.github.io/ai-moe-atlas/en/characters/shiho320-minimax-space-bunny/) · [Hunyuan Girl](https://selinlee.github.io/ai-moe-atlas/en/characters/aliang-hunyuan/) · [LongCat](https://selinlee.github.io/ai-moe-atlas/en/characters/fuh-longcat/) · [Baidu ERNIE](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-ernie/)
+
+New character entries · [RWKV](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-rwkv/) · [MOSS](https://selinlee.github.io/ai-moe-atlas/en/characters/fuh-moss/) · [Ant Ling](https://selinlee.github.io/ai-moe-atlas/en/characters/fuh-ant-ling/) · [U2-Flash](https://selinlee.github.io/ai-moe-atlas/en/characters/fuh-unisound-u2/)
 
 [Filter online](https://selinlee.github.io/ai-moe-atlas/en/#catalog) · [Trilingual character records](content/characters.json) · [AI product index](content/entities.json)
 
@@ -80,7 +82,7 @@ The top ten tracks by the highest total likes on a listed version. Observation t
 
 <!-- song-ranking:end -->
 
-[Original music sources](content/research/2026-11-20/gemini-mv-original-music.json) · [Song and version verification](content/research/2026-11-20/song-originals-and-fan-versions.json) · [Opening-theme and fan-version credits](content/research/2026-11-20/character-songs-and-opening-credits.json) · [Dance and lyric MV song credits](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [Greenhouse Effect original and fan MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [Four original tracks and fan versions](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [Doubao covers and ending theme sources](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [Qwen, MiMo and dance track sources](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [Music sources for “APT.” and “Deleted a Hundred Times”](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [Cover and game music sources](content/research/2026-11-22/november-cover-song-originals-and-versions.json) · [Sources for Charlotte, bloom and unhappy](content/research/2026-11-22/november-charlotte-bloom-and-remix-evidence.json) · [Music from the weekly roundup and game soundtrack](content/research/2026-11-22/november-mili-and-game-soundtrack-verification.json) · [Original and cover verification for Rotten Miracle](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json)
+[Original music sources](content/research/2026-11-20/gemini-mv-original-music.json) · [Song and version verification](content/research/2026-11-20/song-originals-and-fan-versions.json) · [Opening-theme and fan-version credits](content/research/2026-11-20/character-songs-and-opening-credits.json) · [Dance and lyric MV song credits](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [Greenhouse Effect original and fan MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [Four original tracks and fan versions](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [Doubao covers and ending theme sources](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [Qwen, MiMo and dance track sources](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [Music sources for “APT.” and “Deleted a Hundred Times”](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [Cover and game music sources](content/research/2026-11-22/november-cover-song-originals-and-versions.json) · [Sources for Charlotte, bloom and unhappy](content/research/2026-11-22/november-charlotte-bloom-and-remix-evidence.json) · [Music from the weekly roundup and game soundtrack](content/research/2026-11-22/november-mili-and-game-soundtrack-verification.json) · [Original and cover verification for Rotten Miracle](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json) · [Three original tracks and their fan uses](content/research/2026-11-23/november-renai-numb-and-dragon-maid-originals.json)
 
 <a id="references"></a>
 
@@ -117,7 +119,7 @@ The top ten by Bilibili’s official cumulative likes. Ties use publication date
 
 <!-- animation-ranking:end -->
 
-Added 18 works from AI Girls Weekly’s original upload links and refreshed official likes for the top 15. Seven older works retain their last successful counts, and nine candidates await counts. The atlas shows when and how the public pages responded. [Scope of this like recheck](content/research/2026-11-23/bilibili-weekly-completion-and-top-refresh-scope.json)
+Added official cumulative like snapshots for 16 fan works. Seven older works retain their last successful counts after rechecking them, and nine candidates still await official counts. [Like recheck scope](content/research/2026-11-23/bilibili-step-and-character-candidates-scope.json)
 
 <a id="desktop-pets"></a>
 
@@ -138,7 +140,7 @@ The top ten by GitHub stars as checked on 2026-11-23. Ties are sorted by reposit
 | 9 | [OpenPets · Local Desktop Pet Platform](https://github.com/OpenPetsHQ/openpets/blob/9153e40ed37617243f903b074161d7df4bbd27b0/README.md) | [1,402](https://github.com/OpenPetsHQ/openpets) |
 | 10 | [CrossPet · multi-AI desktop companion](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | [545](https://github.com/lokicorvus/crosspet) |
 
-[Browse all pets and interactive projects](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-23/github-interactive-stars-aboutme-and-leaders.json)
+[Browse all pets and interactive projects](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-23/github-interactive-stars-whale-and-dragon-pets.json)
 
 For both the cross-platform and native Android ports, 106 compatibility clips match the respective pinned upstream trees. The upstream revisions restrict commercial use, and each port’s notice lists MIT for those clips. [Desktop pet animation provenance](content/research/2026-11-21/dsh-pet-shared-animation-file-provenance.json)
 
@@ -159,6 +161,10 @@ See also ZipZipPipe’s [source and usage statement](https://t.bilibili.com/1231
 
 Newly added:
 
+- [ZipZipPipe · Original AI Girls Gallery](https://www.pixiv.net/artworks/148186519) · All 17 original JPEGs were checked. The ninth image reads RWKV on its round waist pendant. Ten files match originals in the atlas by hash. The creator requires attribution and prohibits commercial use. The gallery separately names CC BY-NC-SA 4.0 for the DeepSeek design derived from 上善无形. [Verification record](content/research/2026-11-23/zipzippipe-pixiv-first-gallery-rwkv.json)
+- [MOSS-Image · 甶丶’s Original Design](https://www.bilibili.com/opus/1265454286364475399) · The creator’s article explains the Jacob’s staff, telescope and two designs, with 13 images. All 13 original images were hashed in post order. The creator labels the article as original and requires permission for republication. The atlas links to the source. [Verification record](content/research/2026-11-23/shi-moss-image-design-all-source-files.json)
+- [Ant Ling · 甶丶’s Original Design](https://www.bilibili.com/opus/1258423639675502601) · The creator’s Day 3 post includes nine images. The first shows a blue-and-black outfit, a key and a distinct shadow silhouette. All 9 original images were hashed in post order. The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked. [Verification record](content/research/2026-11-23/shi-ant-ling-design-all-source-files.json)
+- [Unisound U2-Flash · 甶丶’s Original Design](https://www.bilibili.com/opus/1257685897406578689) · The first image is labeled UNISOUND U2-FLASH. The creator describes three proportions each for the fantasy and sci-fi designs, plus casual attire. All 9 original images were hashed in post order. The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked. [Verification record](content/research/2026-11-23/shi-unisound-u2-design-all-source-files.json)
 - [Rotten Miracle · Original Upload by 杨羊烊Koi](https://www.bilibili.com/video/BV1kxWi6eEBE/) · The original title and Bilibili song tag identify Rotten Miracle. 星落落_oi’s Fat Fish cover explicitly links this BV ID. Links to the original recording and cover, with reuse terms governed by their respective publications. [Verification record](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json)
 - [Claude Lady’s Diary · Generated Artwork](https://github.com/opsCar/claude-daxiaojie-assets/blob/a7e01f61af5e7963c1616cca8bd4101ec5d959d1/README.md) · An artwork collection linked by AI Girls Weekly Issue 5, with portraits, expressions and story art. The pinned neutral bust was hashed. The publisher assigns CC BY-NC-SA 4.0 to their generated artwork and prompts. Credits include the asset publisher, ZipZipPipe’s character design and lmy414’s sheets. [Verification record](content/research/2026-11-23/opscar-claude-lady-generated-art.json)
 - [Unknown Mother Goose · Claude Girl PV Production](https://github.com/entropy622/unknown-mother-goose-claude/blob/6140afffa15bec4d741001bf6bc3a63383bee714/README.md) · A-回首空城 links this production repository in the Bilibili description. The pinned revision contains generated illustrations and production logs. The first standing illustration was hashed. Production credits cover ZipZipPipe’s design and wowaka’s song. File-specific artwork and code reuse terms are pending. The track links to the original release. [Verification record](content/research/2026-11-23/unknown-mother-goose-claude-production.json)
@@ -248,6 +254,7 @@ Newly added:
 
 | Date / status | Progress |
 | --- | --- |
+| 2026-11-23 · RWKV artwork, 甶丶’s designs and StepFun fan works | Added four character entries, 16 fan works, three tracks, two desktop pets and one gallery source. Verified 17 ZipZipPipe originals and 44 original files from 甶丶. |
 | 2026-11-23 · Weekly originals, Rotten Miracle and animation assets | Added 18 fan works, one track, three sources and one companion project. Refreshed the top 15 like counts and published the candidate public-page checks. |
 | 2026-11-22 · Weekly leads, gallery files and desktop pets | Added 21 fan works, four tracks and two interactive projects. Checked all 20 pages of ZipZipPipe’s Pixiv follow-up and 阿亮’s labeled Hunyuan turnaround on page 17. |
 | 2026-11-22 · Hunyuan, LongCat and ERNIE | Added four characters, 12 fan works, three tracks and three interactive projects. Verified 阿亮’s Hunyuan terms, 13 LongCat files by 甶丶 and ZipZipPipe’s ERNIE cover. |

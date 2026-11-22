@@ -20,6 +20,8 @@ November 22, 2026. Added a MiMo source entry for 甶丶. The creator-submitted p
 
 November 22, 2026. Added source entries for LongCat, Tencent Hunyuan and Baidu ERNIE. Hunyuan has separate designs by 甶丶 and 阿亮. 阿亮’s terms apply to their own Hunyuan design. ERNIE’s standalone portrait and cover reuse terms remain open. [Verification record](../content/research/2026-11-22/aliang-hunyuan-chibi-and-license.json)
 
+November 23, 2026. Added source entries for ZipZipPipe’s RWKV and 甶丶’s MOSS, Ant Ling and Unisound U2-Flash. RWKV is on page nine of the original Pixiv gallery, where its round waist pendant bears the name. The other three designs were checked against the creator’s original posts. [RWKV source verification](../content/research/2026-11-23/zipzippipe-pixiv-first-gallery-rwkv.json)
+
 | AI | Priority version | Remaining work |
 | --- | --- | --- |
 | DeepSeek | Collected whale-maid assets | Ready; retain 上善无形 → ZipZipPipe → Small-tailqwq attribution |

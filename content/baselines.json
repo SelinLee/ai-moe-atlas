@@ -188,5 +188,45 @@
       "en": "Verify standalone artwork and file-specific display and adaptation terms.",
       "ja": "単独原画と画像別の表示・改変条件を確認する。"
     }
+  },
+  {
+    "entity": "moss",
+    "characterId": "fuh-moss",
+    "reviewedAt": "2026-11-23",
+    "nextAction": {
+      "zh": "逐件核对展示与改编条件。",
+      "en": "Check the display and adaptation terms for each file.",
+      "ja": "画像ごとの表示・改変の条件を確認する。"
+    }
+  },
+  {
+    "entity": "ant-ling",
+    "characterId": "fuh-ant-ling",
+    "reviewedAt": "2026-11-23",
+    "nextAction": {
+      "zh": "逐件核对展示与改编条件。",
+      "en": "Check the display and adaptation terms for each file.",
+      "ja": "画像ごとの表示・改変の条件を確認する。"
+    }
+  },
+  {
+    "entity": "unisound-u2",
+    "characterId": "fuh-unisound-u2",
+    "reviewedAt": "2026-11-23",
+    "nextAction": {
+      "zh": "逐件核对展示与改编条件。",
+      "en": "Check the display and adaptation terms for each file.",
+      "ja": "画像ごとの表示・改変の条件を確認する。"
+    }
+  },
+  {
+    "entity": "rwkv",
+    "characterId": "zipzippipe-rwkv",
+    "reviewedAt": "2026-11-23",
+    "nextAction": {
+      "zh": "逐件核对展示与改编条件。",
+      "en": "Check the display and adaptation terms for each file.",
+      "ja": "画像ごとの表示・改変の条件を確認する。"
+    }
   }
 ]

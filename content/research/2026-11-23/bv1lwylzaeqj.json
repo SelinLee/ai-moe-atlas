@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:12:17.071Z",
+  "url": "https://www.bilibili.com/video/BV1LwyLzAEQj/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LwyLzAEQj",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1LwyLzAEQj",
+    "title": "二次元版新植物：千问娘",
+    "owner": {
+      "name": "堂主开发日记",
+      "mid": 160448226
+    },
+    "pubdate": 1795348211,
+    "duration": 235
+  },
+  "descriptionSha256": "8726f8aa7d7f9c92235ccac938be1c7bd1956a192848a8cfeedb817fcec0b5e2",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%8D%83%E9%97%AE%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "title": "二次元版新植物：千问娘",
+    "publisher": "堂主开发日记",
+    "observedAt": "2026-11-22T16:10:48.788Z",
+    "httpStatus": 200,
+    "htmlSha256": "6d814ad5d5d2a1741403becc7d67e67e998fb0fdccfe86d923381d2536138673"
+  }
+}

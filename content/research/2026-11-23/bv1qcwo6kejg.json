@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T16:12:16.581Z",
+  "url": "https://www.bilibili.com/video/BV1QCWo6kEJg/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QCWo6kEJg",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1QCWo6kEJg",
+    "title": "总有一天，我与Claude小姐会再次相遇",
+    "owner": {
+      "name": "风陵渡前",
+      "mid": 3546814376577843
+    },
+    "pubdate": 1794497183,
+    "duration": 105
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "uploaderCredits": [],
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E4%BA%8C%E5%88%9B%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "title": "总有一天，我与Claude小姐会再次相遇",
+    "publisher": "风陵渡前",
+    "observedAt": "2026-11-22T16:10:46.972Z",
+    "httpStatus": 200,
+    "htmlSha256": "2e7c6d5a1edf5c9a2b53b9eaf6fcde08d09b68ab40db5da208a572a151ab8e3e"
+  }
+}

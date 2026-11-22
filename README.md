@@ -22,11 +22,11 @@
 ## 资源目录
 
 <!-- category-picks:characters -->
-**[🎨 角色图鉴](#characters)** · 38 个词条\
+**[🎨 角色图鉴](#characters)** · 42 个词条\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-mimo/) · [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/zh/characters/shangshan-whale/)
 
 <!-- category-picks:songs -->
-**[🎵 歌曲](#songs)** · 65 首曲目\
+**[🎵 歌曲](#songs)** · 68 首曲目\
 [人是猫 · 大肥鱼翻唱](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · 动画 MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [烂奇迹 · 大肥鱼翻唱](https://www.bilibili.com/video/BV1fzs26bETg/)
 
 <!-- category-picks:references -->
@@ -34,24 +34,26 @@
 [Claude 角色参考图](https://selinlee.github.io/ai-moe-atlas/zh/references/#claude) · [DeepSeek Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#deepseek) · [千问 Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#qwen)
 
 <!-- category-picks:animations -->
-**[🎬 动画与视频二创](#animations)** · 704 条记录\
+**[🎬 动画与视频二创](#animations)** · 720 条记录\
 [如果聊天窗口就是她的整个世界](https://www.bilibili.com/video/BV1xCai6aE9g/) · [败犬 AI 太多了！· 正式 PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo 娘角色 PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 桌宠与交互项目](#desktop-pets)** · 115 个项目\
+**[🐾 桌宠与交互项目](#desktop-pets)** · 117 个项目\
 [CrossPet · 跨 AI 桌宠](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D 编程桌宠](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [MIMO 桌宠 · Android 悬浮兔娘](https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/README.md)
 
 <!-- category-picks:sources -->
-**[📚 作者作品与出处](#sources)** · 80 条来源\
+**[📚 作者作品与出处](#sources)** · 81 条来源\
 [上善无形 · 鲸鱼娘原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI 娘化图集](https://www.pixiv.net/artworks/148186519) · [甶丶 · MiMo 立绘与三视图投稿](https://github.com/lmy414/ai-girl-stickers/issues/35)
 
 <a id="characters"></a>
 
 ### 🎨 角色图鉴
 
-从 19 个 AI 产品中查角色、作者和原作。 [查看 Muse 娘词条](https://selinlee.github.io/ai-moe-atlas/zh/characters/shizhi-muse/) · [Mistral 法棍猫娘](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-mistral/) · [OpenCode 拟人词条](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-opencode/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-mimo/)
+从 23 个 AI 产品中查角色、作者和原作。 [查看 Muse 娘词条](https://selinlee.github.io/ai-moe-atlas/zh/characters/shizhi-muse/) · [Mistral 法棍猫娘](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-mistral/) · [OpenCode 拟人词条](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-opencode/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-mimo/)
 
 新增词条 · [小克 Coco](https://selinlee.github.io/ai-moe-atlas/zh/characters/ninon-coco/) · [Gemini Pro](https://selinlee.github.io/ai-moe-atlas/zh/characters/qinv-gemini-pro/) · [MiniMax 太空兔](https://selinlee.github.io/ai-moe-atlas/zh/characters/shiho320-minimax-space-bunny/) · [混元娘](https://selinlee.github.io/ai-moe-atlas/zh/characters/aliang-hunyuan/) · [LongCat 龙猫](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-longcat/) · [百度文心](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-ernie/)
+
+本轮新增角色 · [RWKV](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-rwkv/) · [MOSS](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-moss/) · [蚂蚁百灵](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-ant-ling/) · [U2-Flash](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-unisound-u2/)
 
 [在线筛选](https://selinlee.github.io/ai-moe-atlas/zh/#catalog) · [三语角色资料](content/characters.json) · [产品索引](content/entities.json)
 
@@ -80,7 +82,7 @@
 
 <!-- song-ranking:end -->
 
-[原曲出处](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲与版本核对](content/research/2026-11-20/song-originals-and-fan-versions.json) · [片头曲与二创用曲核对](content/research/2026-11-20/character-songs-and-opening-credits.json) · [舞蹈与歌词 MV 用曲核对](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [《温室效应》原曲与 MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [原曲与二创核对](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [豆包翻唱与片尾曲出处](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [千问、MiMo 与舞蹈用曲](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [《APT.》与《删了一百遍》的用曲出处](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [翻唱与游戏原曲出处](content/research/2026-11-22/november-cover-song-originals-and-versions.json) · [Charlotte、bloom 与 unhappy 的用曲出处](content/research/2026-11-22/november-charlotte-bloom-and-remix-evidence.json) · [周刊和原声用曲核对](content/research/2026-11-22/november-mili-and-game-soundtrack-verification.json) · [《烂奇迹》原曲与翻唱核对](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json)
+[原曲出处](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲与版本核对](content/research/2026-11-20/song-originals-and-fan-versions.json) · [片头曲与二创用曲核对](content/research/2026-11-20/character-songs-and-opening-credits.json) · [舞蹈与歌词 MV 用曲核对](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [《温室效应》原曲与 MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [原曲与二创核对](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [豆包翻唱与片尾曲出处](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [千问、MiMo 与舞蹈用曲](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [《APT.》与《删了一百遍》的用曲出处](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [翻唱与游戏原曲出处](content/research/2026-11-22/november-cover-song-originals-and-versions.json) · [Charlotte、bloom 与 unhappy 的用曲出处](content/research/2026-11-22/november-charlotte-bloom-and-remix-evidence.json) · [周刊和原声用曲核对](content/research/2026-11-22/november-mili-and-game-soundtrack-verification.json) · [《烂奇迹》原曲与翻唱核对](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json) · [三首原曲与二创用曲](content/research/2026-11-23/november-renai-numb-and-dragon-maid-originals.json)
 
 <a id="references"></a>
 
@@ -117,7 +119,7 @@
 
 <!-- animation-ranking:end -->
 
-按《AI 娘周刊》原作链接补录 18 条二创，刷新前 15 名的官方累计点赞。7 条旧作沿用上次成功值，另有 9 条候选待核。在线图鉴同时标注候选的查询时刻与公开页状态。 [本轮点赞核对](content/research/2026-11-23/bilibili-weekly-completion-and-top-refresh-scope.json)
+新增 16 条二创的官方累计点赞快照。复查 7 条旧作和 9 条候选，旧作沿用上次成功值。候选的累计点赞仍待核。 [本轮点赞核对](content/research/2026-11-23/bilibili-step-and-character-candidates-scope.json)
 
 <a id="desktop-pets"></a>
 
@@ -138,7 +140,7 @@
 | 9 | [OpenPets · 本地桌宠平台](https://github.com/OpenPetsHQ/openpets/blob/9153e40ed37617243f903b074161d7df4bbd27b0/README.md) | [1,402](https://github.com/OpenPetsHQ/openpets) |
 | 10 | [CrossPet · 跨 AI 桌宠](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | [545](https://github.com/lokicorvus/crosspet) |
 
-[在线浏览全部桌宠与交互项目](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-23/github-interactive-stars-aboutme-and-leaders.json)
+[在线浏览全部桌宠与交互项目](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-23/github-interactive-stars-whale-and-dragon-pets.json)
 
 跨平台版与 Android 原生移植版各有 106 段兼容动画与各自引用的固定上游逐文件一致。上游版本限制素材商用，两个移植项目的说明把这批动画写为 MIT。 [桌宠动画来源比对](content/research/2026-11-21/dsh-pet-shared-animation-file-provenance.json)
 
@@ -159,6 +161,10 @@
 
 本次补充：
 
+- [ZipZipPipe ·《AI娘化》原始图集](https://www.pixiv.net/artworks/148186519) · 核对全 17 张原 JPG，第 9 张腰间圆形吊牌写着 RWKV。10 张与图鉴已收录原图的哈希一致。 作者要求署名并禁止商用。图集对衍生自上善无形的 DeepSeek 形象另注明 CC BY-NC-SA 4.0。 [核对记录](content/research/2026-11-23/zipzippipe-pixiv-first-gallery-rwkv.json)
+- [MOSS-Image · 甶丶原创设定](https://www.bilibili.com/opus/1265454286364475399) · 作者在长文中说明雅各布杖、望远镜与两套形态，原帖附 13 张图。 已按原帖顺序核对 13 张原图的 SHA-256。 作者将长文标为原创，并写明未经授权禁止转载。图鉴记录出处。 [核对记录](content/research/2026-11-23/shi-moss-image-design-all-source-files.json)
+- [蚂蚁百灵 · 甶丶原创设定](https://www.bilibili.com/opus/1258423639675502601) · 作者 Day 3 系列原帖附 9 张图。首图展示蓝黑服装、钥匙与具有独立轮廓的影子。 已按原帖顺序核对 9 张原图的 SHA-256。 作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。 [核对记录](content/research/2026-11-23/shi-ant-ling-design-all-source-files.json)
+- [云知声 U2-Flash · 甶丶原创设定](https://www.bilibili.com/opus/1257685897406578689) · 首图标注 UNISOUND U2-FLASH。作者说明奇幻与科技两套造型各有三种比例，另有常服。 已按原帖顺序核对 9 张原图的 SHA-256。 作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。 [核对记录](content/research/2026-11-23/shi-unisound-u2-design-all-source-files.json)
 - [《烂奇迹》· 杨羊烊Koi 原投稿](https://www.bilibili.com/video/BV1kxWi6eEBE/) · 原投稿标题与 B 站音乐标签均指向《烂奇迹》。星落落_oi 的大肥鱼翻唱在简介中明确链接这条 BV。 保留原曲与翻唱出处。音乐和视频的使用条件按对应作者发布核对。 [核对记录](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json)
 - [Claude 大小姐的日记本 · 生成素材库](https://github.com/opsCar/claude-daxiaojie-assets/blob/a7e01f61af5e7963c1616cca8bd4101ec5d959d1/README.md) · 《AI 娘周刊》第 5 期简介链接的素材库。该库包含立绘、表情和剧情素材，已核对固定版的中性半身图。 作者对生成派生图及提示词标注 CC BY-NC-SA 4.0。署名链包含素材发布者、ZipZipPipe 角色原设与 lmy414 设定图。 [核对记录](content/research/2026-11-23/opscar-claude-lady-generated-art.json)
 - [《不为人知的鹅妈妈童谣》· Claude 娘 PV 制作资料](https://github.com/entropy622/unknown-mother-goose-claude/blob/6140afffa15bec4d741001bf6bc3a63383bee714/README.md) · 回首空城在 B 站简介链接制作仓库。固定版保留生成图与制作日志，已核对首张站姿图。 制作说明署名 ZipZipPipe 角色设计和 wowaka 原曲。绘图和代码的逐件再利用条件待核，曲目以作者原发布为准。 [核对记录](content/research/2026-11-23/unknown-mother-goose-claude-production.json)
@@ -248,6 +254,7 @@
 
 | 时间 / 状态 | 进展 |
 | --- | --- |
+| 2026-11-23 · RWKV 原图、甶丶设定与阶跃娘二创 | 新增 4 个角色词条、16 条二创、3 首歌曲、2 个桌宠项目和 1 条图集来源。核对 17 张 ZipZipPipe 原图，并逐件核对甶丶的 44 张原图。 |
 | 2026-11-23 · 周刊原作、烂奇迹与动画素材 | 补录 18 条二创、1 首歌曲、3 条出处和 1 个桌宠项目。复核前 15 名点赞，并展示待核候选的公开页检查结果。 |
 | 2026-11-22 · 周刊线索、图集与桌宠榜 | 新增 21 条二创、4 首歌曲和 2 个交互项目。核对 ZipZipPipe 的 Pixiv 后续图集 20 页与阿亮第 17 张混元娘三视图。 |
 | 2026-11-22 · 混元、LongCat 与文心词条 | 新增 4 个角色词条、12 条二创、3 首歌曲和 3 个交互项目。核对阿亮的混元授权、甶丶 LongCat 的 13 张图和 ZipZipPipe 的文心封面。 |
