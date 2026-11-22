@@ -1,0 +1,51 @@
+{
+  "full_name": "quiet-ledger-99/ZhangguiPet",
+  "html_url": "https://github.com/quiet-ledger-99/ZhangguiPet",
+  "stargazers_count": 6,
+  "archived": false,
+  "created_at": "2026-10-25T04:00:00Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "掌柜台桌宠 ZhangguiPet：千问娘形象非官方粉丝二创 Windows 桌宠（免费 / 离线 / 含 AI 生成内容）",
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": "NOASSERTION",
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "commit": "7bb977a16f39f01dcda418583cc401a47882b569",
+  "observedAt": "2026-11-20T17:02:48.970+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T17:06:11.837Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/quiet-ledger-99/ZhangguiPet/blob/7bb977a16f39f01dcda418583cc401a47882b569/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/quiet-ledger-99/ZhangguiPet/7bb977a16f39f01dcda418583cc401a47882b569/README.md",
+      "sourceSha256": "44b87814d6aa84aa947d631fdc94d8cb6d3242a913070345adcfb714f10ad3e7",
+      "gitBlobSha": "dcaeba9d6aefb92128efe7f7074bf6c3566bc11f",
+      "bytes": 22316,
+      "commit": "7bb977a16f39f01dcda418583cc401a47882b569"
+    },
+    "LICENSE.txt": {
+      "path": "LICENSE.txt",
+      "url": "https://github.com/quiet-ledger-99/ZhangguiPet/blob/7bb977a16f39f01dcda418583cc401a47882b569/LICENSE.txt",
+      "rawUrl": "https://raw.githubusercontent.com/quiet-ledger-99/ZhangguiPet/7bb977a16f39f01dcda418583cc401a47882b569/LICENSE.txt",
+      "sourceSha256": "5c15603437436f44d0b5c742d20eb32588804861d2d46cbf2c3891cffaee8655",
+      "gitBlobSha": "686f1f9c9606751296623577c5a203014152d3b0",
+      "bytes": 2406,
+      "commit": "7bb977a16f39f01dcda418583cc401a47882b569"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/quiet-ledger-99/ZhangguiPet/blob/7bb977a16f39f01dcda418583cc401a47882b569/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/quiet-ledger-99/ZhangguiPet/7bb977a16f39f01dcda418583cc401a47882b569/README.md",
+    "sourceSha256": "44b87814d6aa84aa947d631fdc94d8cb6d3242a913070345adcfb714f10ad3e7",
+    "gitBlobSha": "dcaeba9d6aefb92128efe7f7074bf6c3566bc11f",
+    "bytes": 22316,
+    "commit": "7bb977a16f39f01dcda418583cc401a47882b569"
+  },
+  "method": "github-rest-tree-and-isolated-headless-google-chrome"
+}

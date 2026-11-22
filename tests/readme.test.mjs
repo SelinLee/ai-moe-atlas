@@ -10,6 +10,7 @@ const read = path => readFile(new URL(path, root), 'utf8');
 const chibi=JSON.parse(await read('public/generated/super-chibi-v1/manifest.json'));
 const references=JSON.parse(await read('public/generated/ai-models-v5/manifest.json'));
 const {records}=JSON.parse(await read('content/resources.json'));
+const characters=JSON.parse(await read('content/characters.json'));
 const songs=JSON.parse(await read('content/songs.json'));
 const topVideos=records.filter(record=>record.likes).sort(byCumulativeLikes).slice(0,10);
 const topSongs=rankSongsByLikes(songs,new Map(records.map(record=>[record.id,record])))
@@ -43,7 +44,13 @@ for (const [file, lang, directory, timeline, galleries] of layouts) {
   const firstSection = markdown.indexOf('<a id="characters"></a>', directoryStart);
   const contents = markdown.slice(directoryStart, firstSection);
   const categorySections = markdown.slice(firstSection, markdown.indexOf(`## ${timeline}\n`));
-  const counts = {songs: songs.length, animations: records.filter(record => record.category === 'animation').length};
+  const counts = {
+   characters: characters.length,
+   songs: songs.length,
+   animations: records.filter(record => record.category === 'animation').length,
+   'desktop-pets': records.filter(record => record.category === 'interactive').length,
+   sources: records.filter(record => record.category === 'sources').length
+  };
   assert.doesNotMatch(contents + categorySections, /<img\b|!\[/);
   for (const category of categories) {
    assert.ok(categorySections.includes(`<a id="${category}"></a>\n\n### `), category);

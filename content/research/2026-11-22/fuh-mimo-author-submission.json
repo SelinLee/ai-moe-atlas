@@ -1,0 +1,363 @@
+{
+  "method": "isolated-headless-google-chrome-official-source-and-file-checks",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T17:09:56.388Z",
+  "url": "https://www.bilibili.com/opus/1242097128919007239",
+  "creatorPost": {
+    "id": "mimo-post",
+    "url": "https://api.bilibili.com/x/polymer/web-dynamic/v1/detail?id=1242097128919007239",
+    "httpStatus": 200,
+    "observedAt": "2026-11-20T17:03:09.361Z",
+    "bodySha256": "2d4cea6abdc4693fddfaf05045acbffdec59fe708941b072cf0ef583156ea738",
+    "code": 0,
+    "post": {
+      "id": "1242097128919007239",
+      "author": {
+        "type": "AUTHOR_TYPE_NORMAL",
+        "avatar": {
+          "container_size": {
+            "width": 1.35,
+            "height": 1.35
+          },
+          "layers": [],
+          "fallback_layers": {
+            "group_id": "",
+            "layers": [
+              {
+                "layer_id": "",
+                "visible": true,
+                "general_spec": {
+                  "pos_spec": {
+                    "coordinate_pos": 2,
+                    "axis_x": 0.675,
+                    "axis_y": 0.675
+                  },
+                  "size_spec": {
+                    "width": 1,
+                    "height": 1
+                  },
+                  "render_spec": {
+                    "opacity": 1
+                  }
+                },
+                "layer_config": {
+                  "tags": {
+                    "AVATAR_LAYER": {
+                      "config_type": 0
+                    },
+                    "GENERAL_CFG": {
+                      "config_type": 1,
+                      "general_config": {
+                        "web_css_style": {
+                          "borderRadius": "50%"
+                        }
+                      }
+                    }
+                  },
+                  "is_critical": true,
+                  "allow_over_paint": false,
+                  "layer_mask": null
+                },
+                "resource": {
+                  "res_type": 3,
+                  "res_image": {
+                    "image_src": {
+                      "src_type": 1,
+                      "placeholder": 6,
+                      "remote": {
+                        "url": "https://i1.hdslb.com/bfs/face/df5430348ee17e314cd671d340a55446cae0fe21.jpg",
+                        "bfs_style": "widget-layer-avatar"
+                      }
+                    }
+                  }
+                }
+              }
+            ],
+            "group_mask": null,
+            "is_critical_group": true
+          },
+          "mid": "1758596086"
+        },
+        "face": "https://i1.hdslb.com/bfs/face/df5430348ee17e314cd671d340a55446cae0fe21.jpg",
+        "face_nft": false,
+        "nft_info": null,
+        "name": "甶丶",
+        "name_render": null,
+        "label": "",
+        "mid": 1758596086,
+        "jump_url": "//space.bilibili.com/1758596086/dynamic",
+        "following": null,
+        "pub_ts": "1788036674",
+        "pub_time": "2026年08月30日 04:51",
+        "pub_action": "",
+        "pub_location_text": "",
+        "pendant": {
+          "pid": 0,
+          "name": "",
+          "image": "",
+          "expire": "0",
+          "image_enhance": "",
+          "image_enhance_frame": "",
+          "n_pid": "0"
+        },
+        "vip": {
+          "type": 0,
+          "status": 0,
+          "due_date": "0",
+          "vip_pay_type": 0,
+          "theme_type": 0,
+          "label": {
+            "path": "",
+            "text": "",
+            "label_theme": "",
+            "text_color": "",
+            "bg_style": 0,
+            "bg_color": "",
+            "border_color": "",
+            "use_img_label": true,
+            "img_label_uri_hans": "",
+            "img_label_uri_hant": "",
+            "img_label_uri_hans_static": "https://i0.hdslb.com/bfs/vip/d7b702ef65a976b20ed854cbd04cb9e27341bb79.png",
+            "img_label_uri_hant_static": "https://i0.hdslb.com/bfs/activity-plat/static/20220614/e369244d0b14644f5e1a06431e22a4d5/KJunwh19T5.png"
+          },
+          "avatar_subscript": 0,
+          "nickname_color": "",
+          "role": "0",
+          "avatar_subscript_url": "",
+          "tv_vip_status": 0,
+          "tv_vip_pay_type": 0,
+          "tv_due_date": "0",
+          "avatar_icon": {
+            "icon_type": 0,
+            "icon_resource": {
+              "type": 0,
+              "url": ""
+            }
+          }
+        },
+        "official_verify": {
+          "type": -1,
+          "desc": ""
+        },
+        "decorate": null,
+        "decoration_card": null,
+        "is_top": false,
+        "icon_badge": null,
+        "views_text": "",
+        "official": null,
+        "more": null,
+        "decorate_card": null,
+        "identity_badges": []
+      },
+      "type": "DYNAMIC_TYPE_DRAW",
+      "basic": {
+        "rid_str": "407452542",
+        "comment_type": 11,
+        "comment_id_str": "407452542",
+        "like_icon": {
+          "id": "0",
+          "start_url": "",
+          "action_url": "",
+          "end_url": ""
+        },
+        "in_audit": false,
+        "is_only_fans": false,
+        "editable": false,
+        "open_app_extra": "",
+        "jump_url": "",
+        "aigc": false
+      },
+      "dynamic": {
+        "topic": null,
+        "desc": null,
+        "major": {
+          "type": "MAJOR_TYPE_DRAW",
+          "none": null,
+          "blocked": null,
+          "archive": null,
+          "pgc": null,
+          "courses": null,
+          "draw": {
+            "items": [
+              {
+                "src": "http://i0.hdslb.com/bfs/new_dyn/404e60c67a716a418812a45e0156dc1b1758596086.png",
+                "width": "1024",
+                "height": "1536",
+                "size": "1139",
+                "live_src": "",
+                "tags": []
+              }
+            ],
+            "id": "407452542"
+          },
+          "article": null,
+          "music": null,
+          "common": null,
+          "upower_common": null,
+          "live": null,
+          "live_rcmd": null,
+          "medialist": null,
+          "subscription": null,
+          "ugc_season": null,
+          "subscription_new": null,
+          "opus": null
+        },
+        "additional": null
+      },
+      "media": [
+        {
+          "src": "http://i0.hdslb.com/bfs/new_dyn/404e60c67a716a418812a45e0156dc1b1758596086.png",
+          "width": "1024",
+          "height": "1536",
+          "size": "1139",
+          "live_src": "",
+          "tags": []
+        }
+      ]
+    }
+  },
+  "creatorSubmission": {
+    "url": "https://github.com/lmy414/ai-girl-stickers/issues/35",
+    "api": "https://api.github.com/repos/lmy414/ai-girl-stickers/issues/35",
+    "httpStatus": 200,
+    "source": "GitHub issue connector and Chrome",
+    "bodyHtmlSha256": "f55b3454ce394be3f8d846439f6dcc0b35f003e7b3c594a87a8b33f9aa74a92a",
+    "accessedAt": "2026-11-20T17:09:56.388Z",
+    "authorAccount": "fuzhu-ai-chan",
+    "displayedAuthor": "甶丶",
+    "createdAt": "2026-09-23T14:26:56Z",
+    "updatedAt": "2026-09-25T07:54:21Z",
+    "state": "closed",
+    "bodySha256": "207b79103577bcec4bd628b3670240f7322b0e5fb06c08a25435fa49c244c353",
+    "artworkTerms": {
+      "authorClaim": "author-submitted",
+      "identifier": "CC BY-NC",
+      "version": null,
+      "siteCollectionAndDownloads": true,
+      "statedDestination": "蓝色大肥鱼 archive",
+      "aiGenerated": true
+    },
+    "files": [
+      {
+        "position": 1,
+        "url": "https://github.com/user-attachments/assets/6d7d87c4-1c96-4097-951e-41032c89d154",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T17:09:56.065Z",
+        "width": 1024,
+        "height": 1536,
+        "format": "png",
+        "bytes": 1177875,
+        "sourceSha256": "93e675bcee1937c06c6b621e84e16dd276420d60b651b3e9cc0928372c6f0cf1",
+        "archivePath": "characters/mimo/adult/fuh-bilibili-1242097128919007239-01.png",
+        "archiveHashMatches": true
+      },
+      {
+        "position": 2,
+        "url": "https://github.com/user-attachments/assets/db8bdd94-bd3f-48b4-b632-76afe5a23076",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T17:09:56.388Z",
+        "width": 1536,
+        "height": 1024,
+        "format": "png",
+        "bytes": 1776826,
+        "sourceSha256": "8c0df2f399316d00978e39d5620d056a1d880c4a80bd863d776d2e4d527c56ee",
+        "archivePath": "characters/mimo/turnarounds/fuh-bilibili-1242097128919007239-02.png",
+        "archiveHashMatches": true
+      }
+    ]
+  },
+  "officialProduct": {
+    "url": "https://mimo.mi.com/docs/zh-CN/welcome",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-20T17:05:08.416Z",
+    "title": "Xiaomi MiMo Home",
+    "sourceSha256": "62ded651f4bbc1c020e2635021435f3b378dad702c3a79c819438faf83e869d9"
+  },
+  "pinnedArchive": {
+    "repository": "shuaizenge/ai-girls",
+    "commit": "dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76",
+    "files": [
+      {
+        "path": "NOTICE.md",
+        "url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/NOTICE.md",
+        "gitBlobSha": "afb165da001b499a3a14da25c9faa06f23ca6a02",
+        "archive": true,
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T17:05:02.669Z",
+        "sourceSha256": "af6c46f69ec18fc72c7558bd98df9e20eea4f3454f56ef952a63144d385cb0a4",
+        "bytes": 4420
+      },
+      {
+        "path": "catalog.json",
+        "url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/catalog.json",
+        "gitBlobSha": "3ddb37ace719340d0e84648136ab4eb143e14a73",
+        "archive": true,
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T17:05:02.718Z",
+        "sourceSha256": "45dda1d7241468c850174de7516337c6252f95a628545867390816713eec04a9",
+        "bytes": 52852
+      },
+      {
+        "path": "characters/mimo/adult/fuh-bilibili-1242097128919007239-01.png",
+        "url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/characters/mimo/adult/fuh-bilibili-1242097128919007239-01.png",
+        "gitBlobSha": "e4e6eb86e91df08f7010df819cc94800dcef45e0",
+        "archive": true,
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T17:05:03.990Z",
+        "sourceSha256": "93e675bcee1937c06c6b621e84e16dd276420d60b651b3e9cc0928372c6f0cf1",
+        "bytes": 1177875,
+        "width": 1024,
+        "height": 1536,
+        "format": "png"
+      },
+      {
+        "path": "characters/mimo/turnarounds/fuh-bilibili-1242097128919007239-02.png",
+        "url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/characters/mimo/turnarounds/fuh-bilibili-1242097128919007239-02.png",
+        "gitBlobSha": "9b256627cb429e53833cb5e78b0b885a0d326773",
+        "archive": true,
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T17:05:04.115Z",
+        "sourceSha256": "8c0df2f399316d00978e39d5620d056a1d880c4a80bd863d776d2e4d527c56ee",
+        "bytes": 1776826,
+        "width": 1536,
+        "height": 1024,
+        "format": "png"
+      }
+    ]
+  },
+  "bilibiliPortrait": {
+    "position": 1,
+    "url": "https://i0.hdslb.com/bfs/new_dyn/404e60c67a716a418812a45e0156dc1b1758596086.png",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-20T17:05:04.112Z",
+    "sourceSha256": "6651ba5ba97a19c06b52f76cd18fa2aff64aa863c19d102a25fd05ce73718dff",
+    "bytes": 1166416,
+    "width": 1024,
+    "height": 1536,
+    "format": "png"
+  },
+  "decodedImageComparison": {
+    "width": 1024,
+    "height": 1536,
+    "channels": 4,
+    "sourcePixelSha256": "99ae0a14039de876842dc3508f1731f681051ea8681c0a2c1a9fdb54798646af",
+    "archivePixelSha256": "75c0221c17c333ed3d3b226d4fc45e0f831c1aa6aa1425426340bb4017d5a72a",
+    "matchingChannelFraction": 0.9797002474466959,
+    "meanChannelDifference": 0.25796937942504883,
+    "maxChannelDifference": 255,
+    "decodedWith": "sharp sRGB RGBA"
+  },
+  "previousEvidence": [
+    {
+      "path": "content/research/2026-11-06/mimo.json",
+      "sha256": "feba8279f2820ff69a4507b224809f960de63c61ce0adafea4da40d7948f4716",
+      "kind": "browser-metadata-extract"
+    },
+    {
+      "path": "content/research/2026-11-07/mimo-turnaround.json",
+      "sha256": "4ace9fe4c1e5512639ed90643860db5fdfdcc0b751058ff4063be484e0edd6e9",
+      "kind": "browser-metadata-extract"
+    }
+  ],
+  "scope": "The two creator-submitted PNGs match the pinned archive byte-for-byte. The Bilibili post returned only the portrait, with a different hash."
+}

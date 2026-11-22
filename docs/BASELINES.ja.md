@@ -16,6 +16,8 @@
 
 2026年11月21日。OpenCode の出典項目を追加。ZipZipPipe の原投稿の9枚目は 2160 × 3840 の PNG。SHA-256 で確認し、個別の表示・転載・改変条件は確認待ち。 [確認記録](../content/research/2026-11-21/zipzippipe-opencode-portrait-and-product.json)
 
+2026年11月22日。甶丶による MiMo の出典項目を追加。作者投稿の立ち絵と三面図が固定版アーカイブとバイト単位で一致。作者は AI 生成、CC BY-NC と記載し、版の記載はありません。 [確認記録](../content/research/2026-11-22/fuh-mimo-author-submission.json)
+
 | AI | 優先候補 | 残りの作業 |
 | --- | --- | --- |
 | DeepSeek | 収集済みクジラ娘メイド素材 | 利用可能。上善无形 → ZipZipPipe → Small-tailqwq のクレジットを保持 |

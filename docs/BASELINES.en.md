@@ -16,6 +16,8 @@ November 20, 2026. Added Mistral Baguette Cat Girl. Image 4 in ZipZipPipe’s po
 
 November 21, 2026. Added a source entry for OpenCode. The ninth image in ZipZipPipe’s post is a 2160 × 3840 PNG, checked by SHA-256. Artwork-specific display, redistribution and adaptation terms remain open. [Verification record](../content/research/2026-11-21/zipzippipe-opencode-portrait-and-product.json)
 
+November 22, 2026. Added a MiMo source entry for 甶丶. The creator-submitted portrait and turnaround match the pinned archive byte-for-byte. The creator identifies the images as AI-generated and marks them CC BY-NC, with no version specified. [Verification record](../content/research/2026-11-22/fuh-mimo-author-submission.json)
+
 | AI | Priority version | Remaining work |
 | --- | --- | --- |
 | DeepSeek | Collected whale-maid assets | Ready; retain 上善无形 → ZipZipPipe → Small-tailqwq attribution |

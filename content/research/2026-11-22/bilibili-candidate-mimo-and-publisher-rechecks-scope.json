@@ -1,0 +1,163 @@
+{
+  "checkedAt": "2026-11-22T14:57:58.184Z",
+  "captureScope": "selected-catalog-and-candidates",
+  "newVerified": 20,
+  "existingUpdated": 15,
+  "pendingRechecked": 9,
+  "previousFailuresRechecked": 6,
+  "previousRankingEvidence": {
+    "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
+    "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+    "kind": "browser-metadata-extract"
+  },
+  "selectiveEvidence": {
+    "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+    "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+    "kind": "browser-metadata-extract"
+  },
+  "relatedPublicUploads": [
+    {
+      "bvid": "BV1TBnz6VEbL",
+      "olderIds": [
+        "BV1Pdno69EtJ",
+        "BV1hZHN6sE4b"
+      ],
+      "publisherId": 2015579,
+      "title": "【11月】【原创】大肥鱼日常番《 Off the Page！》先导PV",
+      "publisher": "樱华辉月",
+      "search": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E6%A8%B1%E5%8D%8E%E8%BE%89%E6%9C%88%20%E8%82%A5%E9%B1%BC%E4%B9%8B%E6%97%85%20%E5%BC%80%E6%BA%90%E5%BD%97%E6%98%9F",
+        "observedAt": "2026-11-20T17:02:08.176Z",
+        "httpStatus": 200,
+        "htmlSha256": "b89995a59c66d809d9c63c8b428f37b739a6b7007cea5d07c8f4c879b88bdbda"
+      },
+      "officialLikeQuery": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TBnz6VEbL",
+      "observedAt": "2026-11-22T14:57:56.167Z",
+      "assessment": "Separate uploads. No replacement or transfer of likes established."
+    },
+    {
+      "bvid": "BV1hUsy6yEvL",
+      "olderIds": [
+        "BV1Dw4n61EsW"
+      ],
+      "publisherId": 50391034,
+      "title": "【非凡之爱】⚡️大好人⚡️",
+      "publisher": "酸奶煎个蛋",
+      "search": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E9%85%B8%E5%A5%B6%E7%85%8E%E4%B8%AA%E8%9B%8B%20%E8%B1%86%E5%8C%85%20%E5%A4%A7%E8%82%A5%E9%B1%BC%20Trouble%20maker",
+        "observedAt": "2026-11-20T17:02:11.378Z",
+        "httpStatus": 200,
+        "htmlSha256": "02ade054e339d15a59abcab1bc1263f76e86d9c6d407f8046746b62a008fe83c"
+      },
+      "officialLikeQuery": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hUsy6yEvL",
+      "observedAt": "2026-11-22T14:57:56.602Z",
+      "assessment": "Separate uploads. No replacement or transfer of likes established."
+    }
+  ],
+  "earlierPublisherPageAttempts": [
+    {
+      "publisher": "___瑶光___",
+      "url": "https://space.bilibili.com/535186368",
+      "httpStatus": 412,
+      "observedAt": "2026-11-20T17:04:29.469Z",
+      "title": "出错啦! - bilibili.com",
+      "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01"
+    },
+    {
+      "publisher": "陆嘉静",
+      "url": "https://space.bilibili.com/6857700",
+      "httpStatus": 412,
+      "observedAt": "2026-11-20T17:04:30.420Z",
+      "title": "出错啦! - bilibili.com",
+      "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01"
+    },
+    {
+      "publisher": "克洛涅斯",
+      "url": "https://space.bilibili.com/19510643",
+      "httpStatus": 412,
+      "observedAt": "2026-11-20T17:04:30.008Z",
+      "title": "出错啦! - bilibili.com",
+      "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01"
+    },
+    {
+      "publisher": "Kanasuke_",
+      "url": "https://space.bilibili.com/3546761083751172",
+      "httpStatus": 412,
+      "observedAt": "2026-11-20T17:04:29.592Z",
+      "title": "出错啦! - bilibili.com",
+      "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01"
+    },
+    {
+      "publisher": "不吃脚趾吃手指",
+      "url": "https://space.bilibili.com/3493268952189794",
+      "httpStatus": 412,
+      "observedAt": "2026-11-20T17:04:31.631Z",
+      "title": "出错啦! - bilibili.com",
+      "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01"
+    },
+    {
+      "publisher": "hihihihi202",
+      "url": "https://space.bilibili.com/3546568969947566",
+      "httpStatus": 412,
+      "observedAt": "2026-11-20T17:04:32.042Z",
+      "title": "出错啦! - bilibili.com",
+      "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01"
+    },
+    {
+      "publisher": "樱华辉月",
+      "url": "https://space.bilibili.com/2015579",
+      "httpStatus": 412,
+      "observedAt": "2026-11-20T17:04:32.453Z",
+      "title": "出错啦! - bilibili.com",
+      "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01"
+    },
+    {
+      "publisher": "jwlslab",
+      "url": "https://space.bilibili.com/1764362935",
+      "httpStatus": 412,
+      "observedAt": "2026-11-20T17:04:32.869Z",
+      "title": "出错啦! - bilibili.com",
+      "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01"
+    },
+    {
+      "publisher": "ぴんくのゆり_official",
+      "url": "https://space.bilibili.com/3546878085957791",
+      "httpStatus": 412,
+      "observedAt": "2026-11-20T17:04:34.044Z",
+      "title": "出错啦! - bilibili.com",
+      "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01"
+    },
+    {
+      "publisher": "酸奶煎个蛋",
+      "url": "https://space.bilibili.com/50391034",
+      "httpStatus": 412,
+      "observedAt": "2026-11-20T17:04:34.462Z",
+      "title": "出错啦! - bilibili.com",
+      "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01"
+    },
+    {
+      "publisher": "MiMo兔娘在运营",
+      "url": "https://space.bilibili.com/63273107",
+      "httpStatus": 412,
+      "observedAt": "2026-11-20T17:04:35.302Z",
+      "title": "出错啦! - bilibili.com",
+      "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01"
+    },
+    {
+      "publisher": "椎名瑾",
+      "url": "https://space.bilibili.com/527913474",
+      "httpStatus": 412,
+      "observedAt": "2026-11-20T17:04:34.889Z",
+      "title": "出错啦! - bilibili.com",
+      "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01"
+    },
+    {
+      "publisher": "创果",
+      "url": "https://space.bilibili.com/7630028",
+      "httpStatus": 412,
+      "observedAt": "2026-11-20T17:04:36.413Z",
+      "title": "出错啦! - bilibili.com",
+      "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01"
+    }
+  ]
+}

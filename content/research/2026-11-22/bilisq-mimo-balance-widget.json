@@ -1,0 +1,78 @@
+{
+  "full_name": "bilisq/mimo-balance-widget",
+  "html_url": "https://github.com/bilisq/mimo-balance-widget",
+  "stargazers_count": 2,
+  "archived": false,
+  "created_at": "2026-10-24T15:54:59Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "Windows 桌宠式 MiMo 余额挂件：余额 / Token Plan / 本机会话用量 / 7 日消耗，Cookie 用 DPAPI 加密。Electron + Python（纯标准库）实现，免安装便携包自带运行时。仅支持 Windows，需放在纯英文路径。",
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": "NOASSERTION",
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "commit": "a594066a4e7ba3afef624323d22ccd39016c74a7",
+  "observedAt": "2026-11-20T17:02:45.869+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T17:06:09.010Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/bilisq/mimo-balance-widget/blob/a594066a4e7ba3afef624323d22ccd39016c74a7/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/bilisq/mimo-balance-widget/a594066a4e7ba3afef624323d22ccd39016c74a7/README.md",
+      "sourceSha256": "cf534f64fb7b75e7b44f446f05ad54cb020673aafed05e38c6291964ee2fd777",
+      "gitBlobSha": "c2d280c764eab259b81495db2fc2a8073bd8eae4",
+      "bytes": 14537,
+      "commit": "a594066a4e7ba3afef624323d22ccd39016c74a7"
+    },
+    "NOTICE.md": {
+      "path": "NOTICE.md",
+      "url": "https://github.com/bilisq/mimo-balance-widget/blob/a594066a4e7ba3afef624323d22ccd39016c74a7/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/bilisq/mimo-balance-widget/a594066a4e7ba3afef624323d22ccd39016c74a7/NOTICE.md",
+      "sourceSha256": "f8d3142a5e6edf5d9a35ea71220ecde2cc2016d601644994d83f61220b502bed",
+      "gitBlobSha": "e8920fdf368ce19abfa9abaf9399f1da98db3c5c",
+      "bytes": 1574,
+      "commit": "a594066a4e7ba3afef624323d22ccd39016c74a7"
+    },
+    "artwork-nc/README.md": {
+      "path": "artwork-nc/README.md",
+      "url": "https://github.com/bilisq/mimo-balance-widget/blob/a594066a4e7ba3afef624323d22ccd39016c74a7/artwork-nc/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/bilisq/mimo-balance-widget/a594066a4e7ba3afef624323d22ccd39016c74a7/artwork-nc/README.md",
+      "sourceSha256": "dfe6cce4dc5eafc0ac3770d6f08a4f932a9c7f04d13ae3a55e5d86d134a41f08",
+      "gitBlobSha": "4be69749daee4c88937f02c6f5cd1c85af138fdd",
+      "bytes": 1120,
+      "commit": "a594066a4e7ba3afef624323d22ccd39016c74a7"
+    },
+    "artwork-nc/xiaomi.png": {
+      "path": "artwork-nc/xiaomi.png",
+      "url": "https://github.com/bilisq/mimo-balance-widget/blob/a594066a4e7ba3afef624323d22ccd39016c74a7/artwork-nc/xiaomi.png",
+      "rawUrl": "https://raw.githubusercontent.com/bilisq/mimo-balance-widget/a594066a4e7ba3afef624323d22ccd39016c74a7/artwork-nc/xiaomi.png",
+      "sourceSha256": "c16056b25874ad5e452e0ebd1091fb62e7c2feb93a19e44acdd023ae6d630fb1",
+      "gitBlobSha": "10da48c26b49ebe90fb3c7402cbe058c40dfefb0",
+      "bytes": 554073,
+      "commit": "a594066a4e7ba3afef624323d22ccd39016c74a7"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "url": "https://github.com/bilisq/mimo-balance-widget/blob/a594066a4e7ba3afef624323d22ccd39016c74a7/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/bilisq/mimo-balance-widget/a594066a4e7ba3afef624323d22ccd39016c74a7/LICENSE",
+      "sourceSha256": "3533a0f0c69658b78901a92b7467cac34a6904ac1a677034e538f78153074d1b",
+      "gitBlobSha": "d8f7e365fb46160d8a64816c34ec947616a99b2a",
+      "bytes": 1237,
+      "commit": "a594066a4e7ba3afef624323d22ccd39016c74a7"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/bilisq/mimo-balance-widget/blob/a594066a4e7ba3afef624323d22ccd39016c74a7/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/bilisq/mimo-balance-widget/a594066a4e7ba3afef624323d22ccd39016c74a7/README.md",
+    "sourceSha256": "cf534f64fb7b75e7b44f446f05ad54cb020673aafed05e38c6291964ee2fd777",
+    "gitBlobSha": "c2d280c764eab259b81495db2fc2a8073bd8eae4",
+    "bytes": 14537,
+    "commit": "a594066a4e7ba3afef624323d22ccd39016c74a7"
+  },
+  "method": "github-rest-tree-and-isolated-headless-google-chrome"
+}

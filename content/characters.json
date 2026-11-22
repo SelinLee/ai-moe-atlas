@@ -2026,5 +2026,61 @@
       "en": "The ninth source PNG was checked by SHA-256. Artwork-specific display, redistribution and adaptation terms remain open. The entry links to the creator’s post.",
       "ja": "原投稿の9枚目の PNG を SHA-256 で照合。表示・転載・改変の画像別条件は確認待ちで、作者の原投稿を掲載。"
     }
+  },
+  {
+    "id": "fuh-mimo",
+    "entity": "mimo",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "MiMo 娘 · 甶丶",
+      "en": "MiMo Girl · 甶丶",
+      "ja": "MiMo 娘 · 甶丶"
+    },
+    "description": {
+      "zh": "甶丶发布的 AI 生成小米 MiMo 拟人形象。作者分别投稿了立绘和三视图。",
+      "en": "An AI-generated Xiaomi MiMo personification published by 甶丶, with a submitted portrait and turnaround.",
+      "ja": "甶丶による Xiaomi MiMo の AI 生成擬人化。立ち絵と三面図を公開。"
+    },
+    "story": {
+      "zh": "作者说米字形眼睛向小米姬致敬，并发布了同一拟人企划的角色 PV。",
+      "en": "The creator credits Xiaomi Girl for the star-shaped eyes and published a character PV for this personification.",
+      "ja": "作者は米字形の目で小米姫にオマージュを捧げ、この擬人化のキャラクター PV も公開。"
+    },
+    "features": {
+      "zh": "米字形眼睛和兔耳造型。作者投稿包含 1024 × 1536 立绘，以及 1536 × 1024 三视图。",
+      "en": "Star-shaped eyes and a rabbit-ear silhouette. The submission includes a 1024 × 1536 portrait and a 1536 × 1024 turnaround.",
+      "ja": "米字形の目とうさ耳のシルエット。1024 × 1536 の立ち絵と 1536 × 1024 の三面図を公開。"
+    },
+    "author": "甶丶",
+    "authorUrl": "https://space.bilibili.com/1758596086",
+    "source": "https://www.bilibili.com/opus/1242097128919007239",
+    "sourceTitle": "娘化mimo",
+    "originalPublication": "https://www.bilibili.com/opus/1242097128919007239",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1242097128919007239"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/lmy414/ai-girl-stickers/issues/35",
+    "downloadable": false,
+    "bg": "#f4e7e1",
+    "color": "#8d3e28",
+    "verifiedAt": "2026-11-22",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者投稿写明 AI 生成、CC BY-NC（版本未标注），并允许投稿接收站收录和提供下载。图鉴提供原出处。",
+      "en": "The creator marks these as AI-generated and CC BY-NC (version unspecified), and permits the receiving archive to host them for download. The atlas links to the sources.",
+      "ja": "作者投稿に AI 生成、CC BY-NC（版の記載なし）と明記し、投稿先の収録・ダウンロード提供を許可。図鑑では出典を案内。"
+    }
   }
 ]

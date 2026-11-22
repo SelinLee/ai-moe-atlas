@@ -1,0 +1,78 @@
+{
+  "full_name": "ABL949/mimo-pet",
+  "html_url": "https://github.com/ABL949/mimo-pet",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-11-06T16:34:03Z",
+  "default_branch": "main",
+  "fork": false,
+  "description": "Android 悬浮桌面宠物 · 兔娘/萌版双形象 · 个人二创同人 · AGPL-3.0 开源",
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "commit": "0e32407e04138cadad7619f6d6dd375c2799a1a2",
+  "observedAt": "2026-11-20T17:02:45.015+00:00",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-20T17:06:05.828Z",
+  "documents": {
+    "README.md": {
+      "path": "README.md",
+      "url": "https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/ABL949/mimo-pet/0e32407e04138cadad7619f6d6dd375c2799a1a2/README.md",
+      "sourceSha256": "29fdc2c32e696e269574d017bb878619570ea5f6cf2d7a83177711c6e35105d7",
+      "gitBlobSha": "6a5bc2f040bf8a824749a3e4d381373fc03b7b37",
+      "bytes": 22041,
+      "commit": "0e32407e04138cadad7619f6d6dd375c2799a1a2"
+    },
+    "NOTICE.md": {
+      "path": "NOTICE.md",
+      "url": "https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/ABL949/mimo-pet/0e32407e04138cadad7619f6d6dd375c2799a1a2/NOTICE.md",
+      "sourceSha256": "68e6beecf69c9728200fedb42b2556deb2a31af6d0810ba24e913ae7ecd084ba",
+      "gitBlobSha": "b53b02eecf2c14e0bd2f4923b208b0ff6122d680",
+      "bytes": 2404,
+      "commit": "0e32407e04138cadad7619f6d6dd375c2799a1a2"
+    },
+    "LICENSE": {
+      "path": "LICENSE",
+      "url": "https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/ABL949/mimo-pet/0e32407e04138cadad7619f6d6dd375c2799a1a2/LICENSE",
+      "sourceSha256": "0d96a4ff68ad6d4b6f1f30f713b18d5184912ba8dd389f86aa7710db079abcb0",
+      "gitBlobSha": "be3f7b28e564e7dd05eaf59d64adba1a4065ac0e",
+      "bytes": 34523,
+      "commit": "0e32407e04138cadad7619f6d6dd375c2799a1a2"
+    },
+    "app/assets/pets/bunny.png": {
+      "path": "app/assets/pets/bunny.png",
+      "url": "https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/app/assets/pets/bunny.png",
+      "rawUrl": "https://raw.githubusercontent.com/ABL949/mimo-pet/0e32407e04138cadad7619f6d6dd375c2799a1a2/app/assets/pets/bunny.png",
+      "sourceSha256": "bb8c71b5b3e06df328b26634cb93821fefe67a658008c1c2bbc42ef39018f5a4",
+      "gitBlobSha": "489ceca9a95307ede80f696d4c927da088c506f4",
+      "bytes": 288298,
+      "commit": "0e32407e04138cadad7619f6d6dd375c2799a1a2"
+    },
+    "app/assets/pets/chibi.png": {
+      "path": "app/assets/pets/chibi.png",
+      "url": "https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/app/assets/pets/chibi.png",
+      "rawUrl": "https://raw.githubusercontent.com/ABL949/mimo-pet/0e32407e04138cadad7619f6d6dd375c2799a1a2/app/assets/pets/chibi.png",
+      "sourceSha256": "5d8db93bab2c15f6d7c5c1d4d585351416d5e372133feae31d86ffb2af3b476d",
+      "gitBlobSha": "30e3ba7344b416b3ec9e3bfc105c0ccdb988ec88",
+      "bytes": 431211,
+      "commit": "0e32407e04138cadad7619f6d6dd375c2799a1a2"
+    }
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/ABL949/mimo-pet/0e32407e04138cadad7619f6d6dd375c2799a1a2/README.md",
+    "sourceSha256": "29fdc2c32e696e269574d017bb878619570ea5f6cf2d7a83177711c6e35105d7",
+    "gitBlobSha": "6a5bc2f040bf8a824749a3e4d381373fc03b7b37",
+    "bytes": 22041,
+    "commit": "0e32407e04138cadad7619f6d6dd375c2799a1a2"
+  },
+  "method": "github-rest-tree-and-isolated-headless-google-chrome"
+}

@@ -1,0 +1,49 @@
+{
+  "method": "isolated-headless-google-chrome-bilibili-view-detail-and-official-releases",
+  "tracks": [
+    {
+      "songId": "apt-rose",
+      "officialSource": {
+        "id": "apt-rose",
+        "url": "https://music.apple.com/us/album/apt-single/1773452219",
+        "finalUrl": "https://music.apple.com/us/album/apt-single/1773452219",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T17:06:45.451Z",
+        "htmlSha256": "f4588f39a297df43830bd40da3a0b3b0639de37062439150c02ca0db3286a0fa",
+        "title": "‎APT. - Single - Album by ROSÉ & Bruno Mars - Apple Music",
+        "og": "APT. - Single by ROSÉ & Bruno Mars on Apple Music"
+      },
+      "fanVersion": {
+        "bvid": "BV1EcnH6yEkC",
+        "url": "https://www.bilibili.com/video/BV1EcnH6yEkC/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1EcnH6yEkC",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T17:06:52.082Z",
+        "bodySha256": "397ebd27261c1828001f256cf957b383248afb0bb3f2851c3568c4d706073662",
+        "musicTag": "发现《APT.》"
+      }
+    },
+    {
+      "songId": "deleted-a-hundred-times",
+      "officialSource": {
+        "id": "deleted-a-hundred-times",
+        "url": "https://www.youtube.com/watch?v=HzpDg83IElA",
+        "finalUrl": "https://www.youtube.com/watch?v=HzpDg83IElA",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T17:06:46.487Z",
+        "htmlSha256": "9ec32844a665dd5e9144713dd686864bf70f101de9af299599b9171eea010aad",
+        "title": "删了一百遍 (汪苏泷概念创作集《联名2》作品) - YouTube",
+        "og": "删了一百遍 (汪苏泷概念创作集《联名2》作品)"
+      },
+      "fanVersion": {
+        "bvid": "BV19ZnU6JEoN",
+        "url": "https://www.bilibili.com/video/BV19ZnU6JEoN/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV19ZnU6JEoN",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T17:06:52.093Z",
+        "bodySha256": "da489d16adf79c27abe5bc0e3ac847f918bbdc84ef215f6f815f6cd39295521e",
+        "musicTag": "发现《删了一百遍》"
+      }
+    }
+  ]
+}

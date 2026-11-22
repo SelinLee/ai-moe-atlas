@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T14:57:57.646Z",
+  "url": "https://www.bilibili.com/video/BV1V2hb6pE1m/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1V2hb6pE1m",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1V2hb6pE1m",
+    "title": "能干的蓝色大肥鱼",
+    "owner": {
+      "name": "笔之勇者",
+      "mid": 90917531
+    },
+    "pubdate": 1790176367,
+    "duration": 16
+  },
+  "descriptionSha256": "b646038db627994c0b4527d21878933c8bbd40654c64a9a15a5b0b1aca13f381",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

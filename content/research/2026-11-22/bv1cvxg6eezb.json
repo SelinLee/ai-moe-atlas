@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T14:57:56.602Z",
+  "url": "https://www.bilibili.com/video/BV1CVxg6eEzB/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CVxg6eEzB",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1CVxg6eEzB",
+    "title": "爱撒娇的大肥鱼",
+    "owner": {
+      "name": "让我在最后相信一次",
+      "mid": 1139148876
+    },
+    "pubdate": 1793100149,
+    "duration": 14
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

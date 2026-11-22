@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T14:57:57.080Z",
+  "url": "https://www.bilibili.com/video/BV1zpxg6tEzp/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zpxg6tEzp",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1zpxg6tEzp",
+    "title": "你醒辣，欢迎回到千禧年大肥鱼",
+    "owner": {
+      "name": "真誠最高",
+      "mid": 570592
+    },
+    "pubdate": 1793101259,
+    "duration": 123
+  },
+  "descriptionSha256": "2e5ed7218442bba3d9137d275fd2887ce34bf8c91f93bb4c5846c7d7a614b8e6",
+  "uploaderCredits": [
+    "这个刀子真甜",
+    "ZipZipPipe"
+  ],
+  "linkedVideos": []
+}

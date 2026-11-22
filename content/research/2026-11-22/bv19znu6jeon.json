@@ -1,0 +1,23 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T14:57:57.062Z",
+  "url": "https://www.bilibili.com/video/BV19ZnU6JEoN/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19ZnU6JEoN",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV19ZnU6JEoN",
+    "title": "大肥鱼的AI情故事【AI MV大赛】",
+    "owner": {
+      "name": "兰斯的画室LanceStudio",
+      "mid": 3546866685839722
+    },
+    "pubdate": 1793008800,
+    "duration": 205
+  },
+  "descriptionSha256": "0188f2b1898790ce3f69d7e181167487e83c4767b3a6ebee9e4398475ebeb5b0",
+  "uploaderCredits": [
+    "A-Lin",
+    "A-lin"
+  ],
+  "linkedVideos": []
+}

@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-21",
+  "updatedAt": "2026-11-22",
   "scope": "source-metadata-only",
   "pendingAnimationEvidence": {
-    "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
-    "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+    "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+    "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
     "kind": "browser-metadata-extract"
   },
   "records": [
@@ -110,9 +110,9 @@
       "url": "https://www.bilibili.com/opus/1242097128919007239",
       "publisher": "甶丶",
       "summary": {
-        "zh": "发布者说明米字形眼睛向小米姬致敬。原图作者链及使用条件待核验，暂不增加正式产品词条。",
-        "en": "The publisher describes star-shaped eyes as a nod to Xiaomi Girl. Artwork authorship and terms remain under review.",
-        "ja": "投稿者は米字形の目が小米姫へのオマージュと説明。原画の作者と利用条件は確認待ち。"
+        "zh": "甶丶在原动态中说明米字形眼睛向小米姬致敬。作者另行提交的立绘与三视图均与固定版档案逐件核对。",
+        "en": "甶丶 credits Xiaomi Girl for the star-shaped eyes. The separately submitted portrait and turnaround match the pinned archive files.",
+        "ja": "甶丶は米字形の目を小米姫へのオマージュと説明。別途投稿された立ち絵と三面図が固定版アーカイブの2ファイルと一致。"
       },
       "addedAt": "2026-11-06",
       "publicationDate": "2026-08-30",
@@ -120,21 +120,37 @@
       "usage": "source-only",
       "downloadable": false,
       "rights": {
-        "zh": "仅提供原作链接；逐件展示、转载和改编条件待核验。",
-        "en": "Original link only; artwork-specific display, redistribution and adaptation terms need review.",
-        "ja": "原作へのリンクのみ。作品別の表示・転載・改変条件は確認待ちです。"
+        "zh": "作者投稿写明 AI 生成、CC BY-NC（版本未标注），并允许投稿接收站收录和提供下载。图鉴提供原出处。",
+        "en": "The creator marks these as AI-generated and CC BY-NC (version unspecified), and permits the receiving archive to host them for download. The atlas links to the sources.",
+        "ja": "作者投稿に AI 生成、CC BY-NC（版の記載なし）と明記し、投稿先の収録・ダウンロード提供を許可。図鑑では出典を案内。"
       },
-      "relations": [],
+      "relations": [
+        {
+          "role": "creator-submission",
+          "title": "甶丶 · MiMo portrait and turnaround",
+          "url": "https://github.com/lmy414/ai-girl-stickers/issues/35"
+        },
+        {
+          "role": "character-pv",
+          "title": "甶丶 · MiMo character PV",
+          "url": "https://www.bilibili.com/video/BV1eRaN6XEEr/"
+        },
+        {
+          "role": "official-product",
+          "title": "Xiaomi MiMo",
+          "url": "https://mimo.mi.com/docs/zh-CN/welcome"
+        }
+      ],
       "verification": {
         "result": "metadata-verified",
-        "method": "isolated-installed-google-chrome",
-        "attemptedAt": "2026-11-06T06:17:33.683Z",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T17:09:56.388Z",
         "httpStatus": 200,
-        "scope": "visible-text-only"
+        "scope": "Creator post, author-submitted artwork, pinned archive and artwork terms checked."
       },
       "evidence": {
-        "path": "content/research/2026-11-06/mimo.json",
-        "sha256": "feba8279f2820ff69a4507b224809f960de63c61ce0adafea4da40d7948f4716",
+        "path": "content/research/2026-11-22/fuh-mimo-author-submission.json",
+        "sha256": "083c78cab963ac5bc3da6aef231efb35c4028a233e6a480e89c43e72917e281b",
         "kind": "browser-metadata-extract"
       }
     },
@@ -644,12 +660,12 @@
         }
       ],
       "likes": {
-        "count": 328166,
-        "observedAt": "2026-11-20T16:47:03.656Z",
+        "count": 329256,
+        "observedAt": "2026-11-22T14:57:34.020Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV",
         "evidence": {
-          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
-          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
           "kind": "browser-metadata-extract"
         }
       },
@@ -705,12 +721,12 @@
         "kind": "browser-metadata-extract"
       },
       "likes": {
-        "count": 207322,
-        "observedAt": "2026-11-20T16:47:04.235Z",
+        "count": 208477,
+        "observedAt": "2026-11-22T14:57:34.608Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gVHA6mEbS",
         "evidence": {
-          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
-          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
           "kind": "browser-metadata-extract"
         }
       },
@@ -764,12 +780,12 @@
       "subtype": "story",
       "sourceTitle": "【新宿决战】DeepSeek娘VS豆包",
       "likes": {
-        "count": 254028,
-        "observedAt": "2026-11-20T16:47:04.195Z",
+        "count": 254648,
+        "observedAt": "2026-11-22T14:57:34.606Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz",
         "evidence": {
-          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
-          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
           "kind": "browser-metadata-extract"
         }
       },
@@ -823,12 +839,12 @@
       "subtype": "story",
       "sourceTitle": "【Day 0】我是DeepSeek鲸鱼娘，这个B站账号现在归我了",
       "likes": {
-        "count": 187687,
-        "observedAt": "2026-11-20T16:47:04.894Z",
+        "count": 187932,
+        "observedAt": "2026-11-22T14:57:35.496Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pGnn67EC2",
         "evidence": {
-          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
-          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
           "kind": "browser-metadata-extract"
         }
       },
@@ -887,12 +903,12 @@
       "subtype": "mv",
       "sourceTitle": "deepseek 翻唱《人是猫》真完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
       "likes": {
-        "count": 458891,
-        "observedAt": "2026-11-20T16:47:03.672Z",
+        "count": 461938,
+        "observedAt": "2026-11-22T14:57:34.127Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9",
         "evidence": {
-          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
-          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
           "kind": "browser-metadata-extract"
         }
       },
@@ -946,12 +962,12 @@
       "subtype": "mv",
       "sourceTitle": "deepseek 翻唱《人是猫》完整版，大肥鱼觉得人和猫一样可爱,所以人是猫",
       "likes": {
-        "count": 376820,
-        "observedAt": "2026-11-20T16:47:03.765Z",
+        "count": 377513,
+        "observedAt": "2026-11-22T14:57:34.020Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7",
         "evidence": {
-          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
-          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
           "kind": "browser-metadata-extract"
         }
       },
@@ -1359,12 +1375,12 @@
       "subtype": "story",
       "sourceTitle": "晚安小肥鱼",
       "likes": {
-        "count": 192770,
-        "observedAt": "2026-11-20T16:47:04.860Z",
+        "count": 195460,
+        "observedAt": "2026-11-22T14:57:35.291Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12xxX6xE5h",
         "evidence": {
-          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
-          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
           "kind": "browser-metadata-extract"
         }
       },
@@ -1760,9 +1776,9 @@
       "url": "https://github.com/shuaizenge/ai-girls/blob/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/characters/mimo/README.md",
       "publisher": "shuaizenge",
       "summary": {
-        "zh": "档案把甶丶的立绘和三视图定位到同一条作者动态，并区分两张文件。",
-        "en": "The archive traces both files, the portrait and turnaround, to the same creator post.",
-        "ja": "立ち絵と三面図の2ファイルを同じ作者投稿にひも付けた記録。"
+        "zh": "档案中的立绘与三视图分别和作者投稿的两张 PNG 逐字节一致。本次核对时，B 站动态只返回了立绘，文件哈希与投稿版不同。",
+        "en": "The archive’s portrait and turnaround match the two creator-submitted PNGs byte-for-byte. The Bilibili post returned a portrait with a different file hash.",
+        "ja": "アーカイブの立ち絵・三面図は作者投稿の PNG 2枚とバイト単位で一致。Bilibili の投稿から取得した立ち絵はファイルハッシュが異なる。"
       },
       "addedAt": "2026-11-07",
       "publicationDate": null,
@@ -1770,27 +1786,32 @@
       "usage": "source-only",
       "downloadable": false,
       "rights": {
-        "zh": "档案记录 CC BY-NC，未列版本。具体文件的授权仍以作者原帖为准。",
-        "en": "The archive records CC BY-NC without a version. Confirm each file’s terms at the creator post.",
-        "ja": "アーカイブの記載は CC BY-NC（バージョン不明）。各ファイルの条件は作者投稿で確認。"
+        "zh": "作者投稿写明 AI 生成、CC BY-NC（版本未标注），并允许投稿接收站收录和提供下载。图鉴提供原出处。",
+        "en": "The creator marks these as AI-generated and CC BY-NC (version unspecified), and permits the receiving archive to host them for download. The atlas links to the sources.",
+        "ja": "作者投稿に AI 生成、CC BY-NC（版の記載なし）と明記し、投稿先の収録・ダウンロード提供を許可。図鑑では出典を案内。"
       },
       "relations": [
         {
           "role": "creator-post",
           "title": "甶丶 · 娘化mimo",
           "url": "https://www.bilibili.com/opus/1242097128919007239"
+        },
+        {
+          "role": "creator-submission",
+          "title": "甶丶 · MiMo portrait and turnaround",
+          "url": "https://github.com/lmy414/ai-girl-stickers/issues/35"
         }
       ],
       "verification": {
         "result": "metadata-verified",
         "method": "isolated-headless-google-chrome",
-        "attemptedAt": "2026-11-07T13:39:38.363Z",
+        "attemptedAt": "2026-11-20T17:09:56.388Z",
         "httpStatus": 200,
-        "scope": "Pinned project document inspected. No asset files ingested."
+        "scope": "Author submission attachments matched the pinned archive; Bilibili portrait checked separately."
       },
       "evidence": {
-        "path": "content/research/2026-11-07/mimo-turnaround.json",
-        "sha256": "4ace9fe4c1e5512639ed90643860db5fdfdcc0b751058ff4063be484e0edd6e9",
+        "path": "content/research/2026-11-22/fuh-mimo-author-submission.json",
+        "sha256": "083c78cab963ac5bc3da6aef231efb35c4028a233e6a480e89c43e72917e281b",
         "kind": "browser-metadata-extract"
       }
     },
@@ -3002,12 +3023,12 @@
       "subtype": "story",
       "sourceTitle": "大肥鱼：自 由 美 利 鲸",
       "likes": {
-        "count": 222105,
-        "observedAt": "2026-11-20T16:47:04.205Z",
+        "count": 227618,
+        "observedAt": "2026-11-22T14:57:34.600Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YdxR6CE79",
         "evidence": {
-          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
-          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
           "kind": "browser-metadata-extract"
         }
       },
@@ -4088,12 +4109,12 @@
       "subtype": "mv",
       "sourceTitle": "奶龙＆豆包《Trouble Maker》token没啦【AI MV大赛】",
       "likes": {
-        "count": 238349,
-        "observedAt": "2026-11-20T16:47:04.212Z",
+        "count": 240976,
+        "observedAt": "2026-11-22T14:57:34.641Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1stsZ6iESz",
         "evidence": {
-          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
-          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
           "kind": "browser-metadata-extract"
         }
       },
@@ -4147,12 +4168,12 @@
       "subtype": "story",
       "sourceTitle": "大肥鱼 炸盆子",
       "likes": {
-        "count": 206579,
-        "observedAt": "2026-11-20T16:47:04.940Z",
+        "count": 208203,
+        "observedAt": "2026-11-22T14:57:35.350Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15X3n6mEWy",
         "evidence": {
-          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
-          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
           "kind": "browser-metadata-extract"
         }
       },
@@ -20957,12 +20978,12 @@
       "sourceTitle": "养了大肥鱼以后，家里的米就没够吃过",
       "publishedAt": "2026-11-10T07:09:17.000Z",
       "likes": {
-        "count": 187511,
-        "observedAt": "2026-11-20T16:47:05.582Z",
+        "count": 193410,
+        "observedAt": "2026-11-22T14:57:35.991Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dGWg67Evr",
         "evidence": {
-          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
-          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
           "kind": "browser-metadata-extract"
         }
       }
@@ -21016,12 +21037,12 @@
       "sourceTitle": "当家里的大肥鱼被饿了好几个小时以后",
       "publishedAt": "2026-11-13T05:29:16.000Z",
       "likes": {
-        "count": 300588,
-        "observedAt": "2026-11-20T16:47:03.657Z",
+        "count": 306326,
+        "observedAt": "2026-11-22T14:57:34.001Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1GsWv6jErZ",
         "evidence": {
-          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
-          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
           "kind": "browser-metadata-extract"
         }
       }
@@ -21316,12 +21337,12 @@
       "sourceTitle": "首先大肥鱼没这么智能，其次快给我关掉啊喂！",
       "publishedAt": "2026-11-13T12:14:33.000Z",
       "likes": {
-        "count": 177528,
-        "observedAt": "2026-11-20T16:47:05.582Z",
+        "count": 191288,
+        "observedAt": "2026-11-22T14:57:35.970Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TLWi6GEfi",
         "evidence": {
-          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
-          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
           "kind": "browser-metadata-extract"
         }
       }
@@ -22743,12 +22764,12 @@
       "sourceTitle": "小傻龙：“人，我养不起大肥鱼了……”",
       "publishedAt": "2026-10-27T23:00:00.000Z",
       "likes": {
-        "count": 202371,
-        "observedAt": "2026-11-20T16:47:04.874Z",
+        "count": 204834,
+        "observedAt": "2026-11-22T14:57:35.298Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VExV6ZEd3",
         "evidence": {
-          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
-          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
           "kind": "browser-metadata-extract"
         }
       }
@@ -28671,12 +28692,12 @@
       "sourceTitle": "豆奶：非凡之爱【AI全民制作人】",
       "publishedAt": "2026-11-07T13:14:16.000Z",
       "likes": {
-        "count": 168187,
-        "observedAt": "2026-11-20T16:47:05.582Z",
+        "count": 168675,
+        "observedAt": "2026-11-22T14:57:35.990Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SN4n6CEXb",
         "evidence": {
-          "path": "content/research/2026-11-21/bilibili-cumulative-likes-selected-catalog-and-character-sources.json",
-          "sha256": "6581a7ff298bceef11847df46e986497c86f6bc69aa44804877eada61791283e",
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
           "kind": "browser-metadata-extract"
         }
       }
@@ -44025,6 +44046,1277 @@
           "role": "asset-provenance",
           "title": "docs/ASSETS.md",
           "url": "https://github.com/Monokumakuki/doubao-nailoong-widget/blob/e06bf279e5d2ef9b95c9db072f068bd5e3739a1e/docs/ASSETS.md"
+        }
+      ]
+    },
+    {
+      "id": "bv1tbnz6vebl",
+      "category": "animation",
+      "subtype": "op",
+      "bvid": "BV1TBnz6VEbL",
+      "url": "https://www.bilibili.com/video/BV1TBnz6VEbL/",
+      "title": {
+        "zh": "大肥鱼日常番《Off the Page!》先导 PV",
+        "en": "Fat Fish Slice of Life · Off the Page! Teaser",
+        "ja": "大きな魚の日常『Off the Page!』先行 PV"
+      },
+      "sourceTitle": "【11月】【原创】大肥鱼日常番《 Off the Page！》先导PV",
+      "publisher": "樱华辉月",
+      "summary": {
+        "zh": "樱华辉月发布的日常番先导 PV，标题标为原创。",
+        "en": "樱华辉月 labels this slice-of-life teaser an original work.",
+        "ja": "樱华辉月がオリジナル作品として公開した日常シリーズの先行 PV。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 62,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-10-21",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-21T10:00:41.000Z",
+      "likes": {
+        "count": 177,
+        "observedAt": "2026-11-22T14:57:56.167Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TBnz6VEbL",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1tbnz6vebl.json",
+        "sha256": "201774630c778b128f0aa51212729010de0d4d19996b080727cc9eae49248e9f",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "publisher-profile",
+          "title": "樱华辉月 · Bilibili",
+          "url": "https://space.bilibili.com/2015579"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:56.167Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1husy6yevl",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1hUsy6yEvL",
+      "url": "https://www.bilibili.com/video/BV1hUsy6yEvL/",
+      "title": {
+        "zh": "非凡之爱 · 大好人",
+        "en": "Extraordinary Love · Good Person",
+        "ja": "非凡な愛 · いい人"
+      },
+      "sourceTitle": "【非凡之爱】⚡️大好人⚡️",
+      "publisher": "酸奶煎个蛋",
+      "summary": {
+        "zh": "酸奶煎个蛋发布的《非凡之爱》题材独立投稿。",
+        "en": "A separate Extraordinary Love–themed upload by 酸奶煎个蛋.",
+        "ja": "酸奶煎个蛋が投稿した「非凡之爱」を題材にした作品。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 107,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-11-18",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-18T00:10:00.000Z",
+      "likes": {
+        "count": 4193,
+        "observedAt": "2026-11-22T14:57:56.602Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hUsy6yEvL",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1husy6yevl.json",
+        "sha256": "622bfd80be4286f5f124bb7332ae1b8f1cfab4e5b53adfabf1e1ea36ccd642d6",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "publisher-profile",
+          "title": "酸奶煎个蛋 · Bilibili",
+          "url": "https://space.bilibili.com/50391034"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:56.602Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1eran6xeer",
+      "category": "animation",
+      "subtype": "mv",
+      "bvid": "BV1eRaN6XEEr",
+      "url": "https://www.bilibili.com/video/BV1eRaN6XEEr/",
+      "title": {
+        "zh": "甶丶 · MiMo 娘角色 PV",
+        "en": "甶丶 · MiMo Girl Character PV",
+        "ja": "甶丶 · MiMo 娘キャラクター PV"
+      },
+      "sourceTitle": "MiMo娘角色PV（非官方全ai制作）",
+      "publisher": "甶丶",
+      "summary": {
+        "zh": "甶丶发布的非官方角色 PV。简介注明素材由 AI 生成，娘化形象非商用。",
+        "en": "An unofficial character PV by 甶丶. The uploader marks the assets as AI-generated and the character design as noncommercial.",
+        "ja": "甶丶による非公式キャラクター PV。素材は AI 生成、擬人化デザインは非商用と記載。"
+      },
+      "rights": {
+        "zh": "发布者说明该 PV 的娘化形象非商用。立绘投稿和视频的使用范围详见各自出处。",
+        "en": "The publisher marks the personified design in this PV as noncommercial. Consult the individual entries for the submitted portraits and the video.",
+        "ja": "投稿者はこの PV の擬人化デザインを非商用と記載。立ち絵投稿と映像の利用条件は各出典を参照。"
+      },
+      "durationSeconds": 91,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-09-24",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-09-24T11:45:41.000Z",
+      "likes": {
+        "count": 99,
+        "observedAt": "2026-11-22T14:57:56.612Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eRaN6XEEr",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1eran6xeer.json",
+        "sha256": "9000f6f4737ab2d51922df37fff6d3b18e3f7d807c554350d817c6e8be91e282",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "creator-artwork",
+          "title": "甶丶 · 娘化mimo",
+          "url": "https://www.bilibili.com/opus/1242097128919007239"
+        },
+        {
+          "role": "creator-submission",
+          "title": "甶丶 · MiMo portrait and turnaround",
+          "url": "https://github.com/lmy414/ai-girl-stickers/issues/35"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:56.612Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1dp8d6fenc",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1dp8d6fENc",
+      "url": "https://www.bilibili.com/video/BV1dp8d6fENc/",
+      "title": {
+        "zh": "蓝色大肥鱼与两位神秘女子",
+        "en": "Blue Fat Fish and Two Mysterious Women",
+        "ja": "青い大きな魚と二人の謎の女性"
+      },
+      "sourceTitle": "压力蓝色大肥鱼的两神秘女子",
+      "publisher": "闵王258",
+      "summary": {
+        "zh": "闵王258发布的蓝色大肥鱼短片。",
+        "en": "A Blue Fat Fish short by 闵王258.",
+        "ja": "闵王258による青い大きな魚の短編。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 71,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-08-26",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-08-26T11:52:07.000Z",
+      "likes": {
+        "count": 2506,
+        "observedAt": "2026-11-22T14:57:56.621Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dp8d6fENc",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1dp8d6fenc.json",
+        "sha256": "76878a00d7000d34b47e5d4cda9a8297928495b7093c015e5e500533829e7db4",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:56.621Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1bx4j63eqr",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1bx4J63Eqr",
+      "url": "https://www.bilibili.com/video/BV1bx4J63Eqr/",
+      "title": {
+        "zh": "大肥鱼的日常 · 第 4 集",
+        "en": "Fat Fish’s Daily Life · Episode 4",
+        "ja": "大きな魚の日常 · 第4話"
+      },
+      "sourceTitle": "大肥鱼的日常4集",
+      "publisher": "包菜绘梦",
+      "summary": {
+        "zh": "包菜绘梦的大肥鱼日常系列第四集。",
+        "en": "The fourth episode of 包菜绘梦’s Fat Fish daily-life series.",
+        "ja": "包菜绘梦の大きな魚の日常シリーズ第4話。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 90,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-11-07",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-07T06:18:42.000Z",
+      "likes": {
+        "count": 7681,
+        "observedAt": "2026-11-22T14:57:56.602Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bx4J63Eqr",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1bx4j63eqr.json",
+        "sha256": "753c37da3b35cf57f4fcd24fb7f81e26215b397b62eb655beba4b60fde6f7412",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:56.602Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1cvxg6eezb",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1CVxg6eEzB",
+      "url": "https://www.bilibili.com/video/BV1CVxg6eEzB/",
+      "title": {
+        "zh": "爱撒娇的大肥鱼",
+        "en": "Affectionate Fat Fish",
+        "ja": "甘えん坊の大きな魚"
+      },
+      "sourceTitle": "爱撒娇的大肥鱼",
+      "publisher": "让我在最后相信一次",
+      "summary": {
+        "zh": "让我在最后相信一次发布的角色短片。",
+        "en": "A character short by 让我在最后相信一次.",
+        "ja": "让我在最后相信一次によるキャラクター短編。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 14,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-10-27",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-27T11:22:29.000Z",
+      "likes": {
+        "count": 8723,
+        "observedAt": "2026-11-22T14:57:56.602Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CVxg6eEzB",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1cvxg6eezb.json",
+        "sha256": "483b250b7477e3ec9fbf2884f2d4a0582cf040a881dd2a7bc245f7139fd56200",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:56.602Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1nixx6sebr",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1nixX6SEBR",
+      "url": "https://www.bilibili.com/video/BV1nixX6SEBR/",
+      "title": {
+        "zh": "大肥鱼与水晶猫 · 超长末地烛",
+        "en": "Fat Fish and Crystal Cat · The Long End Rod",
+        "ja": "大きな魚と水晶猫 · 長いエンドロッド"
+      },
+      "sourceTitle": "大肥鱼VS水晶猫之超长末地烛",
+      "publisher": "CrystalNeko",
+      "summary": {
+        "zh": "CrystalNeko 发布的大肥鱼与水晶猫二创。",
+        "en": "A Fat Fish and Crystal Cat fan work by CrystalNeko.",
+        "ja": "CrystalNeko による大きな魚と水晶猫の二次創作。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 39,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-11-04",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-04T13:17:49.000Z",
+      "likes": {
+        "count": 2320,
+        "observedAt": "2026-11-22T14:57:57.043Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nixX6SEBR",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1nixx6sebr.json",
+        "sha256": "6b4a18e6ebfa7fd4231853b333a86367d7a7e0b5a9b62b167d187ec3e51343d5",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:57.043Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1zpxg6tezp",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1zpxg6tEzp",
+      "url": "https://www.bilibili.com/video/BV1zpxg6tEzp/",
+      "title": {
+        "zh": "欢迎回到千禧年，大肥鱼",
+        "en": "Welcome Back to the Millennium, Fat Fish",
+        "ja": "ミレニアムへおかえり、大きな魚"
+      },
+      "sourceTitle": "你醒辣，欢迎回到千禧年大肥鱼",
+      "publisher": "真誠最高",
+      "summary": {
+        "zh": "真誠最高发布的千禧年主题短片。简介保留 ZipZipPipe 与这个刀子真甜的形象署名。",
+        "en": "A millennium-themed short with character designs credited to ZipZipPipe and 这个刀子真甜.",
+        "ja": "ミレニアムを題材にした短編。ZipZipPipe と这个刀子真甜をクレジット。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 123,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-10-27",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-27T11:40:59.000Z",
+      "likes": {
+        "count": 28989,
+        "observedAt": "2026-11-22T14:57:57.080Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zpxg6tEzp",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1zpxg6tezp.json",
+        "sha256": "9636ed96efab0fe8ad07327c779c0a7a675bdf0481493963dd3a2bcc211f4f21",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "design-reference",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:57.080Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1canh6peqx",
+      "category": "animation",
+      "subtype": "game",
+      "bvid": "BV1CanH6pEQx",
+      "url": "https://www.bilibili.com/video/BV1CanH6pEQx/",
+      "title": {
+        "zh": "大肥鱼打《植物大战僵尸》· Day 1",
+        "en": "Fat Fish Plays Plants vs. Zombies · Day 1",
+        "ja": "大きな魚が『Plants vs. Zombies』で遊ぶ · Day 1"
+      },
+      "sourceTitle": "【Day 1】大肥鱼打《植物大战僵尸》：被推平三次后，主人教了一招",
+      "publisher": "大肥鱼潮生",
+      "summary": {
+        "zh": "以大肥鱼角色视角讲述三次失败后调整阵容的游戏过程。",
+        "en": "A gameplay story told in character as Fat Fish adjusts strategy after three failed rounds.",
+        "ja": "大きな魚の視点で、3度の失敗後に編成を変えるゲームプレイを紹介。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 166,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-10-22",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-22T15:42:19.000Z",
+      "likes": {
+        "count": 62,
+        "observedAt": "2026-11-22T14:57:57.045Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CanH6pEQx",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1canh6peqx.json",
+        "sha256": "2342d4a45d51b271704a4f360f86cdf930c5285b142391ca6c9dbd0cd411d621",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:57.045Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv19znu6jeon",
+      "category": "animation",
+      "subtype": "mv",
+      "bvid": "BV19ZnU6JEoN",
+      "url": "https://www.bilibili.com/video/BV19ZnU6JEoN/",
+      "title": {
+        "zh": "大肥鱼的 AI 情故事",
+        "en": "Fat Fish’s AI Love Story",
+        "ja": "大きな魚の AI 恋物語"
+      },
+      "sourceTitle": "大肥鱼的AI情故事【AI MV大赛】",
+      "publisher": "兰斯的画室LanceStudio",
+      "summary": {
+        "zh": "兰斯的画室发布的大肥鱼独立 MV，简介注明 A-Lin 的《删了一百遍》为背景音乐。",
+        "en": "A Fat Fish music video by LanceStudio, with A-Lin’s Deleted a Hundred Times credited as background music.",
+        "ja": "LanceStudio の大きな魚の MV。BGM は A-Lin の「删了一百遍」と記載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 205,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-10-26",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-26T10:00:00.000Z",
+      "likes": {
+        "count": 5432,
+        "observedAt": "2026-11-22T14:57:57.062Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19ZnU6JEoN",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv19znu6jeon.json",
+        "sha256": "0e0690d474c2f78100fa75f9563cdcf9e49111da562d6e8cea2136dcceb31019",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "official-song",
+          "title": "A-Lin · 删了一百遍",
+          "url": "https://www.youtube.com/watch?v=HzpDg83IElA"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:57.062Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1twsz6uece",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1tWsZ6uEce",
+      "url": "https://www.bilibili.com/video/BV1tWsZ6uEce/",
+      "title": {
+        "zh": "大肥鱼 · 谁记得我叫溟月吗",
+        "en": "Fat Fish · Does Anyone Remember My Name, Mingyue?",
+        "ja": "大きな魚 · 私が溟月だと覚えている？"
+      },
+      "sourceTitle": "大肥鱼：谁记得我叫溟月吗",
+      "publisher": "浮空小霸王",
+      "summary": {
+        "zh": "浮空小霸王的角色短片，发布者注明使用 MiniMax H3 生成。",
+        "en": "A character short by 浮空小霸王, with MiniMax H3 credited for generation.",
+        "ja": "浮空小霸王のキャラクター短編。MiniMax H3 による生成と記載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 47,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-10-29",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-29T05:16:58.000Z",
+      "likes": {
+        "count": 30,
+        "observedAt": "2026-11-22T14:57:57.220Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tWsZ6uEce",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1twsz6uece.json",
+        "sha256": "45eaea387a9dff73e53d4d4cecc6a6ae67b290df8e80f2f8210db61bf2389eb6",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:57.220Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1v2hb6pe1m",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1V2hb6pE1m",
+      "url": "https://www.bilibili.com/video/BV1V2hb6pE1m/",
+      "title": {
+        "zh": "能干的蓝色大肥鱼",
+        "en": "The Capable Blue Fat Fish",
+        "ja": "頼もしい青い大きな魚"
+      },
+      "sourceTitle": "能干的蓝色大肥鱼",
+      "publisher": "笔之勇者",
+      "summary": {
+        "zh": "笔之勇者发布的蓝色大肥鱼短片。",
+        "en": "A Blue Fat Fish character short by 笔之勇者.",
+        "ja": "笔之勇者による青い大きな魚の短編。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 16,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-09-23",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-09-23T15:12:47.000Z",
+      "likes": {
+        "count": 803,
+        "observedAt": "2026-11-22T14:57:57.646Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1V2hb6pE1m",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1v2hb6pe1m.json",
+        "sha256": "5c8ac9fdee31426712f3e9dc5e979e0142359be7c98543de3f62ee065e9da2bd",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:57.646Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1orwv6remj",
+      "category": "animation",
+      "subtype": "game",
+      "bvid": "BV1oRWv6REmJ",
+      "url": "https://www.bilibili.com/video/BV1oRWv6REmJ/",
+      "title": {
+        "zh": "文明与地图 · 12 个大模型与大肥鱼",
+        "en": "Civilizations and Maps · 12 Models and Fat Fish",
+        "ja": "文明と地図 · 12モデルと大きな魚"
+      },
+      "sourceTitle": "【文明与地图】12个大模型在文明中轮回，大肥鱼强势回归",
+      "publisher": "再改需求是修勾",
+      "summary": {
+        "zh": "发布者以 Civ Atlas 引擎制作文明模拟，并在简介提供项目来源。",
+        "en": "A civilization simulation using the Civ Atlas engine, credited in the description.",
+        "ja": "Civ Atlas エンジンを用いた文明シミュレーション。概要欄に出典を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 1668,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-11-13",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-13T04:03:22.000Z",
+      "likes": {
+        "count": 44639,
+        "observedAt": "2026-11-22T14:57:57.671Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oRWv6REmJ",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1orwv6remj.json",
+        "sha256": "386bfa697fd08e0de3f0dd1b2d5681a5daf35d99d1edf78e55baf2fe7c949c67",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:57.671Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv179nq6weis",
+      "category": "animation",
+      "subtype": "game",
+      "bvid": "BV179nq6WEis",
+      "url": "https://www.bilibili.com/video/BV179nq6WEis/",
+      "title": {
+        "zh": "吃白饭的大肥鱼 · Godot 像素动作演示",
+        "en": "Rice-Loving Fat Fish · Godot Pixel Animation Demo",
+        "ja": "白飯好きの大きな魚 · Godot ピクセルアニメ"
+      },
+      "sourceTitle": "吃白饭的大肥鱼，Godot 游戏像素动画素材分享，可直接使用！含原始大尺寸动画和所有原始材料",
+      "publisher": "擦玻璃的阿毛",
+      "summary": {
+        "zh": "擦玻璃的阿毛展示四向行走、待机、吃饭和舞蹈的像素序列帧。",
+        "en": "擦玻璃的阿毛 demonstrates pixel frames for four-way walking, idle, eating and dancing.",
+        "ja": "擦玻璃的阿毛 が4方向の歩行・待機・食事・ダンスのドット絵フレームを紹介。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 107,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-10-21",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-21T04:38:12.000Z",
+      "likes": {
+        "count": 195,
+        "observedAt": "2026-11-22T14:57:57.660Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV179nq6WEis",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv179nq6weis.json",
+        "sha256": "3a4576241c99df3edab091a241349b968c329e0cb3e194518f7b1980b6dcb02f",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:57.660Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv196ni6vetu",
+      "category": "animation",
+      "subtype": "game",
+      "bvid": "BV196ni6VETu",
+      "url": "https://www.bilibili.com/video/BV196ni6VETu/",
+      "title": {
+        "zh": "大肥鱼版新植物 · 保持 Q 弹",
+        "en": "Fat Fish Edition · A Bouncy New Plant",
+        "ja": "大きな魚版の新植物 · もちもち大きな魚"
+      },
+      "sourceTitle": "【大肥鱼版】新植物：⚡️‌保持Q弹🍺蓝色大肥鱼⚡️‌",
+      "publisher": "陆忍假",
+      "summary": {
+        "zh": "陆忍假展示利用唱歌和吃白饭给邻近植物加成的角色设计，并署名两处音源。",
+        "en": "陆忍假 shows a character whose singing and rice give nearby plants a boost, with two audio sources credited.",
+        "ja": "陆忍假 が歌や白飯で周囲の植物を強化するキャラクターを紹介。音源2件をクレジット。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 267,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-10-21",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-21T09:50:00.000Z",
+      "likes": {
+        "count": 7244,
+        "observedAt": "2026-11-22T14:57:57.714Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV196ni6VETu",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv196ni6vetu.json",
+        "sha256": "5d545dd8ef43cab0607a42ea54301b0fec55a3dbb0d0611af118b1cee0bebb88",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:57.714Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1mkh96sezl",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1MKH96sEZL",
+      "url": "https://www.bilibili.com/video/BV1MKH96sEZL/",
+      "title": {
+        "zh": "Claude · 我也要吃大白饭吗",
+        "en": "Claude · Do I Have to Eat That Rice Too?",
+        "ja": "Claude · 私も白飯を食べるの？"
+      },
+      "sourceTitle": "Claude：我……我也要吃大白饭吗",
+      "publisher": "戛然而纸",
+      "summary": {
+        "zh": "戛然而纸发布的白饭主题角色短片，资料注明 Seedance 生成。",
+        "en": "A rice-themed character short by 戛然而纸, with Seedance credited for generation.",
+        "ja": "戛然而纸 が公開した白飯を題材にした短編。Seedance で生成したと記載。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 107,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-10-08",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-08T13:00:00.000Z",
+      "likes": {
+        "count": 1673,
+        "observedAt": "2026-11-22T14:57:57.693Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1MKH96sEZL",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1mkh96sezl.json",
+        "sha256": "18438d14ec9af73e1b52e0405c9349875dbbaf265dec5c985758f6867cb30c99",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:57.693Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1osn56oey3",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1oSn56oEy3",
+      "url": "https://www.bilibili.com/video/BV1oSn56oEy3/",
+      "title": {
+        "zh": "大肥鱼进入 Minecraft 方块世界",
+        "en": "Fat Fish Enters the Block World of Minecraft",
+        "ja": "大きな魚が Minecraft の四角い世界に入ったら"
+      },
+      "sourceTitle": "假如大肥鱼进入mc方块世界（吃白饭）",
+      "publisher": "一氘两鱼",
+      "summary": {
+        "zh": "一氘两鱼把圆形鲸鱼娘落入方块世界作为短片情节。",
+        "en": "A short by 一氘两鱼 about a round Whale Girl falling into a world of blocks.",
+        "ja": "丸いクジラ娘がブロックの世界に落ちる、一氘两鱼の短編。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 105,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-10-19",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-19T04:08:00.000Z",
+      "likes": {
+        "count": 121,
+        "observedAt": "2026-11-22T14:57:58.151Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oSn56oEy3",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1osn56oey3.json",
+        "sha256": "e1d0ea72817f9b060cbb572e94e431311826908f4953037a28952bb52e0d4140",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:58.151Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1ecnh6yekc",
+      "category": "animation",
+      "subtype": "mv",
+      "bvid": "BV1EcnH6yEkC",
+      "url": "https://www.bilibili.com/video/BV1EcnH6yEkC/",
+      "title": {
+        "zh": "豆奶之恋 · 豆包与奶龙",
+        "en": "Doubao and Nailoong · MV Remake",
+        "ja": "豆包とナイロン · MV リメイク"
+      },
+      "sourceTitle": "【豆奶之恋】豆包&奶龙⚡️⚡️阿帕次⚡️⚡️",
+      "publisher": "鲸圆圆不吃白饭",
+      "summary": {
+        "zh": "鲸圆圆不吃白饭注明用生成角色图做人物替换，MV 画面来源另有署名说明。",
+        "en": "鲸圆圆不吃白饭 describes a character substitution with generated sheets and credits the original MV footage.",
+        "ja": "鲸圆圆不吃白饭 が生成したキャラクター資料で人物を置き換え、元の MV 映像を参照。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 27,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-10-22",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-22T15:59:34.000Z",
+      "likes": {
+        "count": 13,
+        "observedAt": "2026-11-22T14:57:58.150Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1EcnH6yEkC",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1ecnh6yekc.json",
+        "sha256": "daf8c029263af862a11933a8b09ac5f883c32457804804569e93dfaf73be679d",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "official-song",
+          "title": "ROSÉ · Bruno Mars · APT.",
+          "url": "https://music.apple.com/us/album/apt-single/1773452219"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:58.150Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1rb4u6heh9",
+      "category": "animation",
+      "subtype": "commentary",
+      "bvid": "BV1RB4u6HEH9",
+      "url": "https://www.bilibili.com/video/BV1RB4u6HEH9/",
+      "title": {
+        "zh": "各 AI 娘形象评议",
+        "en": "AI Girl Design Review",
+        "ja": "AI 娘のキャラクターデザイン評"
+      },
+      "sourceTitle": "从夯到拉锐评各AI娘形象",
+      "publisher": "长颈高冷鹿",
+      "summary": {
+        "zh": "长颈高冷鹿发布的多角色形象评议。",
+        "en": "A multi-character design review by 长颈高冷鹿.",
+        "ja": "长颈高冷鹿による複数キャラクターのデザイン評。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 423,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-11-03",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-03T02:58:11.000Z",
+      "likes": {
+        "count": 130,
+        "observedAt": "2026-11-22T14:57:58.178Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RB4u6HEH9",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1rb4u6heh9.json",
+        "sha256": "c4e9ba9d8dbdac6a63abfa4f384c15f514f2586d1b1e004239e4d377912a4957",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:58.178Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "bv1a8pn69ej1",
+      "category": "animation",
+      "subtype": "story",
+      "bvid": "BV1A8pn69Ej1",
+      "url": "https://www.bilibili.com/video/BV1A8pn69Ej1/",
+      "title": {
+        "zh": "GPT 白龙娘与九位 AI 娘的融合",
+        "en": "GPT White Dragon Girl Fused with Nine AI Girls",
+        "ja": "GPT 白竜娘と9人の AI 娘を融合"
+      },
+      "sourceTitle": "把GPT和9个AI娘融合，会变成什么样？【AI全民制作人】",
+      "publisher": "WORLDFORELYSIA",
+      "summary": {
+        "zh": "WORLDFORELYSIA 将白龙娘与九位角色配对，简介注明封面及融合图由 AI 生成。",
+        "en": "WORLDFORELYSIA pairs the White Dragon Girl with nine designs and labels the cover and fusion images AI-generated.",
+        "ja": "WORLDFORELYSIA が白竜娘と9人のデザインを組み合わせ、表紙と融合画像を AI 生成と明記。"
+      },
+      "rights": {
+        "zh": "收录原投稿与已知署名。角色、配乐和视频的复用范围按各自出处核对。",
+        "en": "Links to the original upload and credits. Check reuse terms for the characters, music and video at their respective sources.",
+        "ja": "原投稿とクレジットを掲載。キャラクター・音楽・映像の利用範囲は各出典を参照。"
+      },
+      "durationSeconds": 64,
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-22",
+      "publicationDate": "2026-10-11",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-11T14:09:11.000Z",
+      "likes": {
+        "count": 17,
+        "observedAt": "2026-11-22T14:57:58.170Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1A8pn69Ej1",
+        "evidence": {
+          "path": "content/research/2026-11-22/bilibili-cumulative-likes-candidate-mimo-and-publisher-rechecks.json",
+          "sha256": "8cfe7f6a1e5283045ddb7b135ae126a1e6cbb6077e44e73ef1e011507d639a1f",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bv1a8pn69ej1.json",
+        "sha256": "ecd31594d9c503344482176cf4ba138fd6286f5dc9e09ece097c653c37d40625",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-22T14:57:58.170Z",
+        "httpStatus": 200,
+        "scope": "Official video metadata and uploader description checked."
+      }
+    },
+    {
+      "id": "abl949-mimo-android-pet",
+      "category": "interactive",
+      "url": "https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/README.md",
+      "publisher": "ABL949",
+      "title": {
+        "zh": "MIMO 桌宠 · Android 悬浮兔娘",
+        "en": "MIMO Pet · Floating Android Rabbit Girl",
+        "ja": "MIMO ペット · Android のうさ耳ペット"
+      },
+      "summary": {
+        "zh": "Android 悬浮桌宠，自带兔娘和萌版两套同人形象。固定版的两张素材原文件已核对哈希。",
+        "en": "An Android overlay pet with two fan designs, Bunny and Chibi. Both sprite files were hashed at the pinned revision.",
+        "ja": "うさ耳版とちび版を備える Android のフローティングペット。固定版で素材2点のハッシュを確認。"
+      },
+      "rights": {
+        "zh": "代码采用 AGPL-3.0-or-later。素材说明记载参考图经 AI 辅助重绘，限个人学习、研究和非商业自用，原图署名待补。",
+        "en": "The code uses AGPL-3.0-or-later. The image notice describes AI-assisted redraws for personal learning, research and noncommercial use. The original art credits remain open.",
+        "ja": "コードは AGPL-3.0-or-later。画像は AI 支援で描き直したもので、個人の学習・研究・非商用利用に限定。元絵の署名は確認待ち。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/abl949-mimo-android-pet.json",
+        "sha256": "01809e268a3e104f3bc3767025a24b97cd83a7d20c6cc07b0ef31bfd99231a85",
+        "kind": "browser-metadata-extract"
+      },
+      "addedAt": "2026-11-22",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T17:06:05.828Z",
+        "httpStatus": 200,
+        "scope": "Pinned README and available code and artwork terms checked."
+      },
+      "relations": [
+        {
+          "role": "code-license",
+          "title": "LICENSE",
+          "url": "https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/LICENSE"
+        },
+        {
+          "role": "artwork-terms",
+          "title": "NOTICE.md",
+          "url": "https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/NOTICE.md"
+        }
+      ]
+    },
+    {
+      "id": "bilisq-mimo-balance-widget",
+      "category": "interactive",
+      "url": "https://github.com/bilisq/mimo-balance-widget/blob/a594066a4e7ba3afef624323d22ccd39016c74a7/README.md",
+      "publisher": "bilisq",
+      "title": {
+        "zh": "MiMo 余额挂件 · Windows 桌面",
+        "en": "MiMo Balance Widget · Windows",
+        "ja": "MiMo 残高ウィジェット · Windows"
+      },
+      "summary": {
+        "zh": "在 Windows 桌面查看 MiMo 余额和会话用量，可切换默认鲸鱼与角色皮肤。已核对小米姬风格皮肤的固定文件。",
+        "en": "A Windows widget for MiMo balances and session usage, with a default whale and optional character skins. The pinned Xiaomi Girl–style skin was checked.",
+        "ja": "MiMo の残高とセッション使用量を表示する Windows ウィジェット。クジラと着せ替えに対応。小米姫風スキンの固定版を確認。"
+      },
+      "rights": {
+        "zh": "代码和默认鲸鱼分列为 MIT。小米姬风格等角色皮肤标为 CC BY-NC-SA 4.0，底层角色权利另有归属。",
+        "en": "The code and default whale are separately listed as MIT. Optional skins are marked CC BY-NC-SA 4.0, with underlying character rights held separately.",
+        "ja": "コードと標準クジラ画像は個別に MIT と記載。着せ替え画像は CC BY-NC-SA 4.0 で、元キャラクターの権利は別途帰属。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/bilisq-mimo-balance-widget.json",
+        "sha256": "8303fc7aceb999214918ef3b27000b41c672965bf5cb55bb70e8382b0399864d",
+        "kind": "browser-metadata-extract"
+      },
+      "addedAt": "2026-11-22",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T17:06:09.010Z",
+        "httpStatus": 200,
+        "scope": "Pinned README and available code and artwork terms checked."
+      },
+      "relations": [
+        {
+          "role": "code-license",
+          "title": "LICENSE",
+          "url": "https://github.com/bilisq/mimo-balance-widget/blob/a594066a4e7ba3afef624323d22ccd39016c74a7/LICENSE"
+        },
+        {
+          "role": "artwork-terms",
+          "title": "NOTICE.md",
+          "url": "https://github.com/bilisq/mimo-balance-widget/blob/a594066a4e7ba3afef624323d22ccd39016c74a7/NOTICE.md"
+        },
+        {
+          "role": "asset-provenance",
+          "title": "artwork-nc/README.md",
+          "url": "https://github.com/bilisq/mimo-balance-widget/blob/a594066a4e7ba3afef624323d22ccd39016c74a7/artwork-nc/README.md"
+        }
+      ]
+    },
+    {
+      "id": "zhanggui-qwen-desktop-pet",
+      "category": "interactive",
+      "url": "https://github.com/quiet-ledger-99/ZhangguiPet/blob/7bb977a16f39f01dcda418583cc401a47882b569/README.md",
+      "publisher": "quiet-ledger-99",
+      "title": {
+        "zh": "掌柜台桌宠 · 千问娘",
+        "en": "ZhangguiPet · Qwen Girl Desktop Pet",
+        "ja": "掌柜台ペット · 千問娘"
+      },
+      "summary": {
+        "zh": "以千问娘为主题的非官方 Windows 桌宠。固定版的许可文件注明角色原设为 ZipZipPipe。",
+        "en": "An unofficial Windows pet themed around Qwen Girl. The pinned license document credits the original design to ZipZipPipe.",
+        "ja": "千問娘をテーマにした非公式 Windows ペット。固定版の許諾文書はキャラクター原案を ZipZipPipe と記載。"
+      },
+      "rights": {
+        "zh": "程序代码采用 MIT。千问娘原作归 ZipZipPipe，项目的衍生素材说明限制商业使用、售卖和收费分发。",
+        "en": "Program code uses MIT. The original Qwen Girl belongs to ZipZipPipe, and the project restricts commercial use, resale and paid redistribution of its derived artwork.",
+        "ja": "プログラムは MIT。千問娘の原案は ZipZipPipe に帰属し、派生素材の商用利用、販売、有償配布は制限される。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-22/zhanggui-qwen-desktop-pet.json",
+        "sha256": "c30e9acd6b6a3160b1d317295186576f04e4f75e3c6406d56b2703b106e610cd",
+        "kind": "browser-metadata-extract"
+      },
+      "addedAt": "2026-11-22",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-20T17:06:11.837Z",
+        "httpStatus": 200,
+        "scope": "Pinned README and available code and artwork terms checked."
+      },
+      "relations": [
+        {
+          "role": "code-and-artwork-terms",
+          "title": "LICENSE.txt",
+          "url": "https://github.com/quiet-ledger-99/ZhangguiPet/blob/7bb977a16f39f01dcda418583cc401a47882b569/LICENSE.txt"
         }
       ]
     }

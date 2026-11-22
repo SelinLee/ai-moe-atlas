@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-22T14:57:56.602Z",
+  "url": "https://www.bilibili.com/video/BV1bx4J63Eqr/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bx4J63Eqr",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1bx4J63Eqr",
+    "title": "大肥鱼的日常4集",
+    "owner": {
+      "name": "包菜绘梦",
+      "mid": 223325
+    },
+    "pubdate": 1794032322,
+    "duration": 90
+  },
+  "descriptionSha256": "8710caadc9aca11d176300bb1bff7b3d50d197f12e59a13b7a4f948c7c9cd548",
+  "uploaderCredits": [],
+  "linkedVideos": []
+}

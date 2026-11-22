@@ -16,6 +16,8 @@
 
 2026-11-21 新增 OpenCode 来源词条。核对 ZipZipPipe 原帖第 9 张 2160 × 3840 PNG 的 SHA-256。展示、转载与改编条件待核。 [核对记录](../content/research/2026-11-21/zipzippipe-opencode-portrait-and-product.json)
 
+2026-11-22 新增甶丶的 MiMo 来源词条。作者提交的立绘和三视图均与固定版档案逐字节一致。作者将作品标记为 AI 生成和 CC BY-NC，版本未标注。 [核对记录](../content/research/2026-11-22/fuh-mimo-author-submission.json)
+
 | AI | 优先版本 | 当前缺口 |
 | --- | --- | --- |
 | DeepSeek | 已入库的鲸鱼娘女仆素材 | 已可用；保留上善无形 → ZipZipPipe → Small-tailqwq 署名链 |
