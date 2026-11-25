@@ -1,0 +1,43 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:12:03.273Z",
+  "method": "isolated-headless-google-chrome",
+  "pinnedDocument": {
+    "path": "persona/大肥鱼-人格.md",
+    "url": "https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md",
+    "rawUrl": "https://raw.githubusercontent.com/whyever77/dafeiyu-astrbot/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md",
+    "sourceSha256": "5b1aa08e8433fd96af2e659240bfc7fbadbfb859c2d8582f783a91e7e94a7cab",
+    "gitBlobSha": "4ff7d90a1b7cd8fff6b8779d43cfe92cde586927",
+    "bytes": 12339,
+    "commit": "64274354c4331591620a925b3df498725df4564f",
+    "accessedAt": "2026-11-25T09:12:03.273Z"
+  },
+  "section": "形象与性格 / 聊天节奏",
+  "termsDocument": {
+    "path": "LICENSE",
+    "url": "https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/LICENSE",
+    "rawUrl": "https://raw.githubusercontent.com/whyever77/dafeiyu-astrbot/64274354c4331591620a925b3df498725df4564f/LICENSE",
+    "sourceSha256": "f3e798dacee6d9203fd8bcd3ca8639f3193e151ab6701a3cd6cb3c9b59bcb051",
+    "gitBlobSha": "2f1198047413baf858df5e5f1bc17171fc1400fa",
+    "bytes": 1085,
+    "commit": "64274354c4331591620a925b3df498725df4564f",
+    "accessedAt": "2026-11-25T09:12:01.608Z"
+  },
+  "contextDocuments": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/whyever77/dafeiyu-astrbot/64274354c4331591620a925b3df498725df4564f/README.md",
+      "sourceSha256": "9011cdef70a4ac78e73aada4ab41012ce6c203b47f4ac3c84f8a2b9bfd951b02",
+      "gitBlobSha": "4042d2f056c23c0c961923981d345aaa94bfee0d",
+      "bytes": 18129,
+      "commit": "64274354c4331591620a925b3df498725df4564f",
+      "accessedAt": "2026-11-25T09:12:02.211Z"
+    }
+  ],
+  "textPermission": {
+    "license": "MIT",
+    "scopeUrl": "https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/README.md",
+    "scopeSection": "License"
+  }
+}

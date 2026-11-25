@@ -1,0 +1,38 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:12:02.647Z",
+  "method": "isolated-headless-google-chrome",
+  "pinnedDocument": {
+    "path": "figure.json",
+    "url": "https://github.com/suhong11300/gpt-niang/blob/254cbd0afb267f9b755a0294185a1575909e9821/figure.json",
+    "rawUrl": "https://raw.githubusercontent.com/suhong11300/gpt-niang/254cbd0afb267f9b755a0294185a1575909e9821/figure.json",
+    "sourceSha256": "9a66de5328f8bd64f73c25d08402ae5312e7f3411dd6ec5772f557b4481a9b29",
+    "gitBlobSha": "5e5e478fe8cc8b554f84c4c77b42eeea45d78605",
+    "bytes": 18012,
+    "commit": "254cbd0afb267f9b755a0294185a1575909e9821",
+    "accessedAt": "2026-11-25T09:12:02.647Z"
+  },
+  "section": "$.persona.zh",
+  "termsDocument": {
+    "path": "LICENSE",
+    "url": "https://github.com/suhong11300/gpt-niang/blob/254cbd0afb267f9b755a0294185a1575909e9821/LICENSE",
+    "rawUrl": "https://raw.githubusercontent.com/suhong11300/gpt-niang/254cbd0afb267f9b755a0294185a1575909e9821/LICENSE",
+    "sourceSha256": "02b769011822046da1c5bdedc091e405861e57576454407834cabe42df92bab9",
+    "gitBlobSha": "d90856004e317e02b3dddeb7e432ee615a50d010",
+    "bytes": 1725,
+    "commit": "254cbd0afb267f9b755a0294185a1575909e9821",
+    "accessedAt": "2026-11-25T09:12:01.435Z"
+  },
+  "contextDocuments": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/suhong11300/gpt-niang/blob/254cbd0afb267f9b755a0294185a1575909e9821/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/suhong11300/gpt-niang/254cbd0afb267f9b755a0294185a1575909e9821/README.md",
+      "sourceSha256": "15edb3957954523a6d06daacd355b19849fb3a226da8339a49aa1c25f84a848c",
+      "gitBlobSha": "063aa07676df06834d11ad6318cfc0149f830717",
+      "bytes": 34101,
+      "commit": "254cbd0afb267f9b755a0294185a1575909e9821",
+      "accessedAt": "2026-11-25T09:12:03.490Z"
+    }
+  ]
+}

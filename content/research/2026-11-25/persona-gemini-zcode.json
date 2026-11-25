@@ -1,0 +1,31 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:12:03.470Z",
+  "method": "isolated-headless-google-chrome",
+  "pinnedDocument": {
+    "path": "persona-modes/modes/gemini_chan.md",
+    "url": "https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/gemini_chan.md",
+    "rawUrl": "https://raw.githubusercontent.com/tzzzzzzzx/zcode-persona-modes/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/gemini_chan.md",
+    "sourceSha256": "c794d523bbc221bb71fab081624ff6fb57748ba9b8a040899b49ec8b6f4dfebb",
+    "gitBlobSha": "473d41d57e67c3cf18d72d098cbc0041f84e6052",
+    "bytes": 4782,
+    "commit": "084fce319f06847b2e62a118ba1906604bc8821c",
+    "accessedAt": "2026-11-25T09:12:03.470Z"
+  },
+  "section": "USER_RELATION / CORE / SPEECH_STYLE",
+  "termsDocument": {
+    "path": "LICENSE.md",
+    "url": "https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/LICENSE.md",
+    "rawUrl": "https://raw.githubusercontent.com/tzzzzzzzx/zcode-persona-modes/084fce319f06847b2e62a118ba1906604bc8821c/LICENSE.md",
+    "sourceSha256": "cd7293d4b89243a1cd0c3bd70e0d0a43ce6a4a6aa6c9dbbe49ac296808d74efb",
+    "gitBlobSha": "384daaeffd9353376f2ae52812136a100df0437c",
+    "bytes": 1671,
+    "commit": "084fce319f06847b2e62a118ba1906604bc8821c",
+    "accessedAt": "2026-11-25T09:12:01.341Z"
+  },
+  "textPermission": {
+    "license": "CC BY-NC-SA 4.0",
+    "scopeUrl": "https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/LICENSE.md",
+    "scopeSection": "Character cards (`modes/`) and character artwork prompts (`assets/`)"
+  }
+}

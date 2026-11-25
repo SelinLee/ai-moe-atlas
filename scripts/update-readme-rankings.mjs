@@ -15,6 +15,7 @@ const [characters, leads, chibi, references, doodles] = await Promise.all([
 ].map(async path => JSON.parse(await readFile(new URL(path, root), 'utf8'))));
 const directoryCounts = {
   characters: characters.length,
+  personas: records.filter(record => record.category === 'personas').length,
   songs: songs.length,
   references: chibi.assets.length + references.assets.length + doodles.assets.length,
   animations: records.filter(record => record.category === 'animation').length,

@@ -1,0 +1,38 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:12:03.687Z",
+  "method": "isolated-headless-google-chrome",
+  "pinnedDocument": {
+    "path": "example/personas/gpt-girl.md",
+    "url": "https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/gpt-girl.md",
+    "rawUrl": "https://raw.githubusercontent.com/Charliechen114514/deslop/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/gpt-girl.md",
+    "sourceSha256": "16cde5227934ca09fef91ddfae17b1f77f32c457210e722b873856bc7fd78f8f",
+    "gitBlobSha": "21a453c32610da25674b94bf2cf9a3fd15d7667f",
+    "bytes": 4155,
+    "commit": "70e6a9478baaa270f3c5ca3868e58502d32e6e8c",
+    "accessedAt": "2026-11-25T09:12:03.687Z"
+  },
+  "section": "身份 / 口癖 / 姿态",
+  "termsDocument": {
+    "path": "LICENSE",
+    "url": "https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/LICENSE",
+    "rawUrl": "https://raw.githubusercontent.com/Charliechen114514/deslop/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/LICENSE",
+    "sourceSha256": "3b6ca685cc0254566fe11a0133cd264c06437f2d52bc18ad8fe1c55e863f283d",
+    "gitBlobSha": "3956ea55733a94c3240625b206d8128773842c04",
+    "bytes": 1074,
+    "commit": "70e6a9478baaa270f3c5ca3868e58502d32e6e8c",
+    "accessedAt": "2026-11-25T09:12:01.538Z"
+  },
+  "contextDocuments": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Charliechen114514/deslop/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/README.md",
+      "sourceSha256": "b08542ad8f9bf06dee48e8eacabc4108cbab5cb38ffc4e7bcbe0045e9ba1a509",
+      "gitBlobSha": "7b347719369bde9ef76137d14a7cd159ec8d9579",
+      "bytes": 3743,
+      "commit": "70e6a9478baaa270f3c5ca3868e58502d32e6e8c",
+      "accessedAt": "2026-11-25T09:12:02.152Z"
+    }
+  ]
+}

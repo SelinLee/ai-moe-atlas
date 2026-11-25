@@ -1,0 +1,46 @@
+---
+import { readArchivedPrompt } from '../../scripts/lib/resources.mjs';
+import { pathToFileURL } from 'node:url';
+import type { Resource } from '../lib/resources';
+import type { Locale } from '../lib/i18n';
+import { path } from '../lib/paths';
+import { resourceText } from '../lib/resource-text';
+
+const { archive, lang, credit } = Astro.props as {
+  archive: NonNullable<Resource['promptArchive']>; lang: Locale; credit: string;
+};
+const labels = resourceText[lang].persona;
+const { body } = await readArchivedPrompt(archive, pathToFileURL(process.cwd() + '/'));
+---
+<details class="prompt">
+  <summary>{labels.body}</summary>
+  <p>{credit} <a class="text-link" href={path(archive.licensePath)}>{labels.terms} · {archive.license}</a></p>
+  <button type="button" class="button secondary" data-copy-prompt data-copied={labels.copied} data-manual={labels.manual}>{labels.copy}</button>
+  <span role="status"></span>
+  <pre lang="zh-Hans" tabindex="0">{body}</pre>
+</details>
+<style>
+  .prompt pre{white-space:pre-wrap;overflow-wrap:anywhere;max-height:20rem;overflow-y:auto;background:var(--mint);padding:12px;border-radius:8px;font:inherit;line-height:1.7}
+  .prompt button{margin:10px 6px 10px 0}
+</style>
+<script>
+  for (const button of document.querySelectorAll<HTMLButtonElement>('[data-copy-prompt]')) {
+    button.addEventListener('click', async () => {
+      const panel = button.closest('details')!;
+      const original = panel.querySelector('pre')!;
+      const status = panel.querySelector('[role="status"]')!;
+      try {
+        await navigator.clipboard.writeText(original.textContent ?? '');
+        status.textContent = button.dataset.copied!;
+      } catch {
+        original.focus();
+        const range = document.createRange();
+        range.selectNodeContents(original);
+        const selection = window.getSelection();
+        selection?.removeAllRanges();
+        selection?.addRange(range);
+        status.textContent = button.dataset.manual!;
+      }
+    });
+  }
+</script>

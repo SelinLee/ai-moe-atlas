@@ -25,8 +25,9 @@ const layouts = [
  ['README.en.md', 'en', 'Resource directory', 'Timeline and open items', 'Character galleries'],
  ['README.ja.md', 'ja', 'リソース一覧', '収録の経緯と今後の調査項目', 'キャラクターギャラリー']
 ];
-const categories = ['characters', 'songs', 'references', 'animations', 'desktop-pets', 'sources'];
+const categories = ['characters', 'personas', 'songs', 'references', 'animations', 'desktop-pets', 'sources'];
 const directEntryLinks = {
+ personas: new Set(records.filter(record => record.category === 'personas').map(record => record.url)),
  songs: new Set(songs.flatMap(song => song.versions.map(version => resourceById.get(version.id).url))),
  animations: new Set(records.filter(record => record.category === 'animation').map(record => record.url)),
  'desktop-pets': new Set(records.filter(record => record.category === 'interactive').map(record => record.url)),
@@ -76,6 +77,7 @@ for (const [file, lang, directory, timeline, galleries] of layouts) {
   const categorySections = markdown.slice(firstSection, markdown.indexOf(`## ${timeline}\n`));
   const counts = {
    characters: characters.length,
+   personas: directEntryLinks.personas.size,
    songs: songs.length,
    references: chibi.assets.length + references.assets.length + doodles.assets.length,
    animations: records.filter(record => record.category === 'animation').length,

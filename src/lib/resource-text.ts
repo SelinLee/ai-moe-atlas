@@ -1,7 +1,8 @@
 export const resourceText = {
   zh: {
     homeTitle:'AI 萌化百科', homeIntro:'查角色、找素材、看动画二创。从你感兴趣的分类开始。',
-    categories:'按分类浏览', directory:'资源分类', directoryIntro:'作者作品、动画二创和桌宠项目，附原作链接、署名与使用条件。',
+    categories:'按分类浏览', directory:'资源分类', directoryIntro:'查找动画、交互项目、角色性格提示词和作者原作，查看出处与使用条件。',
+    persona:{original:'查看完整中文提示词',body:'查看与复制中文正文',copy:'复制提示词',copied:'已复制',manual:'请选中下方正文复制。',verified:'已核对提示词原文',scope:'已核对这个版本的提示词原文和项目使用说明。性格描述来自卡片发布者。',terms:'文本许可'},
     latest:'动画二创点赞榜', latestIntro:'按收录作品的累计点赞快照排序。每条附北京时间的观测时刻和来源。', allAnimations:'查看全部动画记录',
     likes:'累计点赞', unranked:'暂无累计点赞快照', indexed:'已核对周刊索引', snapshot:'留存快照', liveLikes:'B 站实时查询',
     previousLikes:'显示最近一次成功核对的点赞', refreshFailures:(count:number)=>`${count} 条旧作本次未取得新数值`,
@@ -23,6 +24,7 @@ export const resourceText = {
     category:{
       characters:{title:'角色图鉴',description:'按 AI 产品、作者和画风查角色。',unit:'个词条'},
       songs:{title:'歌曲',description:'按曲目找原曲、翻唱、改编和同人 MV。',unit:'首曲目'},
+      personas:{title:'角色性格提示词',description:'按角色和作者版本找对话口吻、性格与互动示例。',unit:'张角色卡'},
       references:{title:'三视图与派生参考',description:'Q 版三视图、形象参考和涂鸦模板。',unit:'张参考图'},
       animation:{title:'动画与视频二创',description:'OP、MV、剧情、舞蹈与衍生点评。',unit:'条记录'},
       interactive:{title:'桌宠与交互项目',description:'桌面角色、状态动画、同人游戏与制作工具。',unit:'个项目'},
@@ -31,7 +33,8 @@ export const resourceText = {
   },
   en: {
     homeTitle:'AI Moe Atlas',homeIntro:'Find characters, collect assets and explore animated fan works. Start with a category.',
-    categories:'Browse by category',directory:'Resource directory',directoryIntro:'Creator publications, animated fan works and desktop companions, with sources, credits and terms.',
+    categories:'Browse by category',directory:'Resource directory',directoryIntro:'Find animated fan works, interactive projects, character prompts and creator publications with their sources and usage terms.',
+    persona:{original:'Read the full Chinese prompt',body:'Read and copy the Chinese prompt',copy:'Copy prompt',copied:'Copied',manual:'Select and copy the text below.',verified:'Prompt text checked',scope:'The prompt and project terms were checked for this version. The characterization follows the card publisher’s interpretation.',terms:'Text license'},
     latest:'Animated fan works by likes',latestIntro:'Ranked by observed total likes. Each entry shows its observation time in Beijing time and its source.',allAnimations:'View all animation records',
     likes:'total likes',unranked:'No total-like snapshot',indexed:'Weekly index checked',snapshot:'Saved snapshot',liveLikes:'Live Bilibili query',
     previousLikes:'Likes from the last successful check',refreshFailures:(count:number)=>`${count} existing videos without a fresh count`,
@@ -53,6 +56,7 @@ export const resourceText = {
     category:{
       characters:{title:'Character atlas',description:'Find characters by AI product, creator and style.',unit:'entries'},
       songs:{title:'Songs',description:'Find originals, covers, arrangements and fan MVs by track.',unit:'tracks'},
+      personas:{title:'Character personality prompts',description:'Explore character voices, traits and interactions across creators’ versions.',unit:'cards'},
       references:{title:'Turnarounds & adaptations',description:'Chibi turnarounds, character sheets and doodle prompts.',unit:'reference images'},
       animation:{title:'Animation & fan videos',description:'OPs, MVs, stories, dance and derivative commentary.',unit:'records'},
       interactive:{title:'Pets & interactive projects',description:'Desktop characters, state animations, fan games and creative tools.',unit:'projects'},
@@ -61,7 +65,8 @@ export const resourceText = {
   },
   ja: {
     homeTitle:'AI 萌え図鑑',homeIntro:'キャラクター、素材、アニメ二次創作。気になる分類から探せます。',
-    categories:'分類から探す',directory:'リソース分類',directoryIntro:'作者の作品、アニメ二次創作、デスクトップペットの出典・クレジット・利用条件。',
+    categories:'分類から探す',directory:'リソース分類',directoryIntro:'動画、インタラクティブ作品、キャラクターの性格プロンプト、作者の原作を出典・利用条件とともに探せます。',
+    persona:{original:'中国語のプロンプト全文を読む',body:'中国語の本文を表示・コピー',copy:'プロンプトをコピー',copied:'コピーしました',manual:'下の本文を選択してコピーしてください。',verified:'プロンプト原文を確認済み',scope:'この版の原文とプロジェクトの利用条件を確認しました。性格の説明はカード公開者の解釈に基づきます。',terms:'本文のライセンス'},
     latest:'アニメ二次創作のいいねランキング',latestIntro:'収録作品を累計いいね数の観測値で順位付け。各作品に観測時刻（北京時間）と出典を掲載。',allAnimations:'すべての動画記録を見る',
     likes:'累計いいね',unranked:'累計いいね数の記録なし',indexed:'週刊索引を確認済み',snapshot:'保存済みの記録',liveLikes:'Bilibili の最新照会',
     previousLikes:'前回取得できたいいね数を表示',refreshFailures:(count:number)=>`既存動画 ${count} 件は今回取得できず`,
@@ -83,6 +88,7 @@ export const resourceText = {
     category:{
       characters:{title:'キャラクター図鑑',description:'AI製品・作者・画風からキャラクターを検索。',unit:'項目'},
       songs:{title:'楽曲',description:'曲ごとに原曲、カバー、アレンジ、二次創作 MV を探す。',unit:'曲'},
+      personas:{title:'キャラクター性格プロンプト',description:'キャラクターと作者別に、口調、性格、会話の作例を探せます。',unit:'件'},
       references:{title:'三面図と派生資料',description:'ちびキャラ三面図・形象資料・落書きテンプレート。',unit:'枚'},
       animation:{title:'アニメ・動画二次創作',description:'OP・MV・短編・ダンス・派生コメント作品。',unit:'件'},
       interactive:{title:'ペット・インタラクティブ作品',description:'デスクトップキャラ、状態アニメ、二次創作ゲーム、制作ツール。',unit:'プロジェクト'},

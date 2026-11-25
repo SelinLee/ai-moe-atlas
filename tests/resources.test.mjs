@@ -38,6 +38,14 @@ test('source-only records reject artwork exports, missing languages and false ve
     await assert.rejects(()=>assertResources(copy,root));
   }
 });
+test('a prompt archive requires permission for that card and matching original bytes',async()=>{
+  const archived=registry.records.find(r=>r.id==='persona-glm-zcode');
+  const other=registry.records.find(r=>r.id==='persona-gemini-zcode');
+  const linked=registry.records.find(r=>r.id==='persona-deepseek-fanpack');
+  const validate=record=>assertResources({...registry,pendingAnimationEvidence:undefined,records:[record]},root);
+  await assert.rejects(()=>validate({...linked,usage:archived.usage,promptArchive:archived.promptArchive}),/text-specific permission/);
+  await assert.rejects(()=>validate({...archived,promptArchive:other.promptArchive}),/hash mismatch/);
+});
 test('same-day uploads sort by official time while equal likes use the BV ID',async()=>{
   const first={id:'bv1a',publicationDate:'2026-11-08',publishedAt:'2026-11-07T17:00:00.000Z',likes:{count:10}};
   const last={...first,id:'bv1z',publishedAt:'2026-11-07T18:00:00.000Z'};

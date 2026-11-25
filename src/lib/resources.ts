@@ -13,14 +13,15 @@ import type { Locale } from './i18n';
 
 export { byPublicationDate, byPublicationTime, likesObservedDate, beijingTime } from './animation-ranking.mjs';
 
-export const categories=['characters','songs','references','animation','interactive','sources'] as const;
+export const categories=['characters','personas','songs','references','animation','interactive','sources'] as const;
 export type Category=typeof categories[number];
 type Localized={zh:string;en:string;ja:string};
 export type Resource={
-  id:string;category:'animation'|'interactive'|'sources';title:Localized;url:string;publisher:string;
+  id:string;category:'animation'|'interactive'|'personas'|'sources';title:Localized;url:string;publisher:string;
   summary:Localized;rights:Localized;publicationDate:string|null;publishedAt?:string;addedAt?:string;sourceTitle?:string;
   verification?:{result:string;scope:string};bvid?:string;subtype?:string;durationSeconds?:number|null;
   likes?:{count:number;observedAt:string;sourceUrl:string;evidence?:{path:string;sha256:string}};
+  promptArchive?:{path:string;bodyStartLine:number;license:string;licensePath:string};
   relations:{title:string;url:string;role:string}[];
 };
 const external:Resource[]=registry.records as Resource[];
@@ -46,13 +47,14 @@ export const resources:Resource[]=[...external,...sourceRecords];
 export const sourceAnchorAliases=new Map(external.filter(record=>record.category==='sources').map(record=>[
   record.id,leads.filter(lead=>lead.url===record.url&&lead.id!==record.id).map(lead=>lead.id)
 ]));
-export const directoryCategories=['animation','interactive','sources'] as const;
+export const directoryCategories=['animation','interactive','personas','sources'] as const;
 export const animations=resources.filter(r=>r.category==='animation').sort(byCumulativeLikes);
 export const rankedAnimations=animations.filter(r=>r.likes);
 export const animationRanks=new Map(rankedAnimations.map((r,i)=>[r.id,i+1]));
 export const resourcesUpdatedAt=registry.updatedAt;
 export const resourceCounts:Record<Category,number>={
   characters:characters.length,songs:songs.length,
+  personas:resources.filter(r=>r.category==='personas').length,
   references:chibi.assets.length+references.assets.length+doodles.assets.length,
   animation:animations.length,interactive:resources.filter(r=>r.category==='interactive').length,
   sources:resources.filter(r=>r.category==='sources').length,

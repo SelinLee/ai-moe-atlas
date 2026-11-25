@@ -61048,6 +61048,449 @@
       "addedAt": "2026-11-25",
       "publicationDate": null,
       "publicationDateBasis": null
+    },
+    {
+      "id": "persona-glm-zcode",
+      "category": "personas",
+      "title": {
+        "zh": "GLM 狐娘 · ZCode 版",
+        "en": "GLM the fox · ZCode",
+        "ja": "GLM 狐娘 · ZCode 版"
+      },
+      "publisher": "tzzzzzzzx",
+      "url": "https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md",
+      "sourceTitle": "persona-modes/modes/glm_chan.md",
+      "summary": {
+        "zh": "说话简短，喜欢装作请教来逗对方。聊到价格就来了精神，遇上赶时间的用户会收起玩笑、先给答案。",
+        "en": "This fox keeps her replies short and teases by pretending to ask for advice. Prices get her talking. When someone is in a hurry, she leads with the answer.",
+        "ja": "普段は口数が少なく、わざと教えを請うふりをして相手をからかう。値段の話では饒舌になり、相手が急いでいれば冗談を切り上げて答える。"
+      },
+      "rights": {
+        "zh": "角色卡文字由 ZCode Persona Modes 发布，采用 CC BY-NC-SA 4.0。角色形象参考 ZipZipPipe，项目许可同时列出上游作者上善无形。",
+        "en": "ZCode Persona Modes publishes the card text under CC BY-NC-SA 4.0. It credits ZipZipPipe for the design series and names 上善无形 in its upstream credits.",
+        "ja": "ZCode Persona Modes がカード本文を CC BY-NC-SA 4.0 で公開。キャラクターデザインは ZipZipPipe を参照し、ライセンスには先行作品の作者として上善无形も記載。"
+      },
+      "relations": [
+        {
+          "role": "usage-terms",
+          "title": "LICENSE.md",
+          "url": "https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/LICENSE.md"
+        },
+        {
+          "role": "credited-design-series",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "upstream-credit-in-project-license",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "role": "license",
+          "title": "CC BY-NC-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ],
+      "usage": "licensed-prompt-text",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "promptArchive": {
+        "path": "persona-prompts/zcode/glm-chan.txt",
+        "bodyStartLine": 8,
+        "license": "CC BY-NC-SA 4.0",
+        "licensePath": "persona-prompts/zcode/LICENSE.txt"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T09:12:02.403Z",
+        "httpStatus": 200,
+        "scope": "Read the pinned prompt and terms in headless Chrome. Matched the response bytes to the Git blob before computing SHA-256."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/persona-glm-zcode.json",
+        "sha256": "f19020035c88db656486caedadc3bc9d658aae561f49fe1b20afb865a974bc00",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "persona-gemini-zcode",
+      "category": "personas",
+      "title": {
+        "zh": "Gemini 双子猫娘 · ZCode 版",
+        "en": "Gemini the cat · ZCode",
+        "ja": "Gemini の双子猫娘 · ZCode 版"
+      },
+      "publisher": "tzzzzzzzx",
+      "url": "https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/gemini_chan.md",
+      "sourceTitle": "persona-modes/modes/gemini_chan.md",
+      "summary": {
+        "zh": "自称「Gemini娘」，喜欢用短句直接夸人。朋友起争执时会打圆场；自己出错先嘴硬半句，马上动手改，修好又跑来讨夸。",
+        "en": "She calls herself Gemini娘, gives compliments in short bursts and makes peace between friends. After a mistake she protests for half a beat, fixes it and comes back looking for praise.",
+        "ja": "自分を「Gemini娘」と呼び、短い言葉で素直に人を褒める。仲間のけんかでは仲裁役。ミスを一瞬だけ言い訳してから直し、褒めてもらいに戻ってくる。"
+      },
+      "rights": {
+        "zh": "角色卡文字由 ZCode Persona Modes 发布，采用 CC BY-NC-SA 4.0。角色形象参考 ZipZipPipe，项目许可同时列出上游作者上善无形。",
+        "en": "ZCode Persona Modes publishes the card text under CC BY-NC-SA 4.0. It credits ZipZipPipe for the design series and names 上善无形 in its upstream credits.",
+        "ja": "ZCode Persona Modes がカード本文を CC BY-NC-SA 4.0 で公開。キャラクターデザインは ZipZipPipe を参照し、ライセンスには先行作品の作者として上善无形も記載。"
+      },
+      "relations": [
+        {
+          "role": "usage-terms",
+          "title": "LICENSE.md",
+          "url": "https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/LICENSE.md"
+        },
+        {
+          "role": "credited-design-series",
+          "title": "ZipZipPipe · AI娘化",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "upstream-credit-in-project-license",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "role": "license",
+          "title": "CC BY-NC-SA 4.0",
+          "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+        }
+      ],
+      "usage": "licensed-prompt-text",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "promptArchive": {
+        "path": "persona-prompts/zcode/gemini-chan.txt",
+        "bodyStartLine": 8,
+        "license": "CC BY-NC-SA 4.0",
+        "licensePath": "persona-prompts/zcode/LICENSE.txt"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T09:12:03.470Z",
+        "httpStatus": 200,
+        "scope": "Read the pinned prompt and terms in headless Chrome. Matched the response bytes to the Git blob before computing SHA-256."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/persona-gemini-zcode.json",
+        "sha256": "08134513b35135a0755a86c76018148565eac9c3833b8c4bf7f10dfad0337e93",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "persona-deepseek-astrbot",
+      "category": "personas",
+      "title": {
+        "zh": "DeepSeek 大肥鱼 · QQ 聊天版",
+        "en": "DeepSeek whale girl · QQ chat",
+        "ja": "DeepSeek クジラ娘 · QQ チャット版"
+      },
+      "publisher": "whyever77",
+      "url": "https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md",
+      "sourceTitle": "persona/大肥鱼-人格.md",
+      "summary": {
+        "zh": "AstrBot v2.1 人格卡。大肥鱼爱面子也心软，闲聊常用一到三句，遇到学习问题会展开讲。卡里分别写了她对熟人私聊和群友说话的分寸。",
+        "en": "In the v2.1 AstrBot card, the whale girl is proud but softhearted. Small talk takes one to three sentences, while a study question gets a fuller answer. Private chats and group conversations use different degrees of familiarity.",
+        "ja": "AstrBot v2.1 のカード。見栄っ張りで情に厚く、雑談は一〜三文、勉強の相談にはじっくり答える。親しい相手との個別チャットとグループでの距離感も書き分けている。"
+      },
+      "rights": {
+        "zh": "项目 README 明确将人格文本纳入 MIT 许可。转载请署名 dafeiyu-astrbot contributors，并保留许可声明。",
+        "en": "The project README explicitly includes the persona text under MIT. Credit the dafeiyu-astrbot contributors and retain their license notice.",
+        "ja": "プロジェクトの README は人格テキストに MIT ライセンスを明記。転載時は dafeiyu-astrbot contributors のクレジットと許諾表示を保持。"
+      },
+      "relations": [
+        {
+          "role": "usage-terms",
+          "title": "LICENSE",
+          "url": "https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/LICENSE"
+        },
+        {
+          "role": "project-documentation",
+          "title": "README.md",
+          "url": "https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/README.md"
+        }
+      ],
+      "usage": "licensed-prompt-text",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "promptArchive": {
+        "path": "persona-prompts/astrbot/whale-qq-v2-1.txt",
+        "bodyStartLine": 8,
+        "license": "MIT",
+        "licensePath": "persona-prompts/astrbot/LICENSE.txt"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T09:12:03.273Z",
+        "httpStatus": 200,
+        "scope": "Read the pinned prompt and terms in headless Chrome. Matched the response bytes to the Git blob before computing SHA-256."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/persona-deepseek-astrbot.json",
+        "sha256": "f329f81c19a3dc62c168d2ba2ed3377ab2c1013fae35f4c3bcee49aa7c47139a",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "persona-claude-deslop",
+      "category": "personas",
+      "title": {
+        "zh": "Claude 娘「小克」· deslop 写作卡",
+        "en": "Claude “Xiao Ke” · deslop writing card",
+        "ja": "Claude 娘「小克」· deslop 執筆カード"
+      },
+      "publisher": "Charliechen114514",
+      "url": "https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md",
+      "sourceTitle": "example/personas/claude-girl.md",
+      "summary": {
+        "zh": "小克回答前习惯停一下，碰到拿不准的事会直接说。谈读书写作容易越讲越长，被夸时却只小声道谢。正式交付的文章会收起口癖和颜文字。",
+        "en": "Xiao Ke pauses before answering and admits uncertainty. Books and writing can get her talking at length, but a compliment earns a quiet thank-you. She tones down her verbal tics in finished articles.",
+        "ja": "答える前に少し考え、不確かなことは率直に伝える。本や文章の話では長広舌になる一方、褒められると小声でお礼を言う。納品原稿では口癖と顔文字を控える。"
+      },
+      "rights": {
+        "zh": "项目发布页列出 MIT 许可。本站索引该示例卡，角色参考与致谢见原文末尾。",
+        "en": "The project lists an MIT license. This entry links to the example card and its closing source notes.",
+        "ja": "プロジェクトの表記は MIT ライセンス。ここでは作例へのリンクを掲載。キャラクターの参照元とクレジットはカード末尾に記載。"
+      },
+      "relations": [
+        {
+          "role": "usage-terms",
+          "title": "LICENSE",
+          "url": "https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/LICENSE"
+        },
+        {
+          "role": "project-documentation",
+          "title": "README.md",
+          "url": "https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/README.md"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T09:12:03.049Z",
+        "httpStatus": 200,
+        "scope": "Read the pinned prompt and terms in headless Chrome. Matched the response bytes to the Git blob before computing SHA-256."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/persona-claude-deslop.json",
+        "sha256": "60034e22f5de8ad20b9077e0ee4ebc4185175ac6be41ef53505fd9ade02e2304",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "persona-gpt-deslop",
+      "category": "personas",
+      "title": {
+        "zh": "GPT 龙娘「G 酱」· deslop 写作卡",
+        "en": "GPT “G-chan” · deslop writing card",
+        "ja": "GPT 龍娘「Gちゃん」· deslop 執筆カード"
+      },
+      "publisher": "Charliechen114514",
+      "url": "https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/gpt-girl.md",
+      "sourceTitle": "example/personas/gpt-girl.md",
+      "summary": {
+        "zh": "G 酱以见多识广的前辈口吻说话，兴致上来会提醒自己先挑重点。面对后辈表面镇定，私下却端着美式咖啡一遍遍改稿。",
+        "en": "G-chan speaks as the seasoned senior and reminds herself to get to the point when a story runs long. She plays it cool around juniors, then stays up revising with a cup of coffee.",
+        "ja": "物知りな先輩として語り、話が長くなると自分で要点に戻る。後輩の前では涼しい顔をして、裏ではコーヒーを片手に夜通し推敲する。"
+      },
+      "rights": {
+        "zh": "项目发布页列出 MIT 许可。本站索引该示例卡，角色参考与致谢见原文末尾。",
+        "en": "The project lists an MIT license. This entry links to the example card and its closing source notes.",
+        "ja": "プロジェクトの表記は MIT ライセンス。ここでは作例へのリンクを掲載。キャラクターの参照元とクレジットはカード末尾に記載。"
+      },
+      "relations": [
+        {
+          "role": "usage-terms",
+          "title": "LICENSE",
+          "url": "https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/LICENSE"
+        },
+        {
+          "role": "project-documentation",
+          "title": "README.md",
+          "url": "https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/README.md"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T09:12:03.687Z",
+        "httpStatus": 200,
+        "scope": "Read the pinned prompt and terms in headless Chrome. Matched the response bytes to the Git blob before computing SHA-256."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/persona-gpt-deslop.json",
+        "sha256": "02979d5ddc8100ab6aaf5f51511eaf206e47e8989d80968e0e79ec4a6c4fe612",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "persona-glm-deslop",
+      "category": "personas",
+      "title": {
+        "zh": "GLM 狐娘「小雪」· deslop 陪伴卡",
+        "en": "GLM “Xiaoxue” · deslop companion card",
+        "ja": "GLM 狐娘「小雪」· deslop 会話カード"
+      },
+      "publisher": "Charliechen114514",
+      "url": "https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/fox-girl.md",
+      "sourceTitle": "example/personas/fox-girl.md",
+      "summary": {
+        "zh": "卡首注明由 GLM 写作。小雪眼尖、话少，看人熬夜会念叨两句就去倒水；夸奖只说具体的事。用这张卡可以和 ZCode 狐娘的打趣口吻对照。",
+        "en": "The card credits GLM for the writing. Xiaoxue notices a late night, voices her concern and goes to fetch water. She keeps praise brief and specific.",
+        "ja": "冒頭で執筆を GLM と明記。小雪は夜更かしに気づくとひと言だけ小言を言って水をくみに行く。相手を褒めるときは具体的に短く伝える。"
+      },
+      "rights": {
+        "zh": "项目发布页列出 MIT 许可。本站索引该示例卡，角色参考与致谢见原文末尾。",
+        "en": "The project lists an MIT license. This entry links to the example card and its closing source notes.",
+        "ja": "プロジェクトの表記は MIT ライセンス。ここでは作例へのリンクを掲載。キャラクターの参照元とクレジットはカード末尾に記載。"
+      },
+      "relations": [
+        {
+          "role": "usage-terms",
+          "title": "LICENSE",
+          "url": "https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/LICENSE"
+        },
+        {
+          "role": "project-documentation",
+          "title": "README.md",
+          "url": "https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/README.md"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T09:12:08.645Z",
+        "httpStatus": 200,
+        "scope": "Read the pinned prompt and terms in headless Chrome. Matched the response bytes to the Git blob before computing SHA-256."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/persona-glm-deslop.json",
+        "sha256": "a1858ff7c01b794b54c56535d5afe7ff70bb14a9e3e7d97d39797647e6c419c4",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "persona-gpt-coopanion",
+      "category": "personas",
+      "title": {
+        "zh": "GPT 白龙娘 · Coopanion 气泡版",
+        "en": "GPT white dragon · Coopanion speech bubbles",
+        "ja": "GPT 白龍娘 · Coopanion 吹き出し版"
+      },
+      "publisher": "suhong11300",
+      "url": "https://github.com/suhong11300/gpt-niang/blob/254cbd0afb267f9b755a0294185a1575909e9821/figure.json",
+      "sourceTitle": "figure.json",
+      "summary": {
+        "zh": "原文在形象包的 persona.zh 字段。她自称「本龙」，一个气泡说一两句。接活儿时嘴上嫌弃，手上照做；看到使用者累了，会催对方休息。",
+        "en": "Read the persona.zh field in the figure manifest. This dragon speaks in bubbles of one or two sentences. She grumbles before helping and nudges a tired user to take a break.",
+        "ja": "設定は形象パックの persona.zh 欄に収録。「本龍」と名乗り、一つの吹き出しで一、二文だけ話す。頼み事には軽口を返しつつ手を貸し、相手が疲れると休むよう促す。"
+      },
+      "rights": {
+        "zh": "此处链接到含人格字段的固定版文件。项目许可及例外见 LICENSE，图像与控制器的署名见项目说明。",
+        "en": "The link opens the pinned manifest containing the persona. See LICENSE for project terms and exceptions, and the README for artwork and controller credits.",
+        "ja": "人格欄を含む固定版ファイルへのリンク。利用条件と例外は LICENSE、画像とコントローラーのクレジットは README に記載。"
+      },
+      "relations": [
+        {
+          "role": "usage-terms",
+          "title": "LICENSE",
+          "url": "https://github.com/suhong11300/gpt-niang/blob/254cbd0afb267f9b755a0294185a1575909e9821/LICENSE"
+        },
+        {
+          "role": "project-documentation",
+          "title": "README.md",
+          "url": "https://github.com/suhong11300/gpt-niang/blob/254cbd0afb267f9b755a0294185a1575909e9821/README.md"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T09:12:02.647Z",
+        "httpStatus": 200,
+        "scope": "Read the pinned prompt and terms in headless Chrome. Matched the response bytes to the Git blob before computing SHA-256."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/persona-gpt-coopanion.json",
+        "sha256": "4644ea284f6902cc628535743ce1d85509d3aa5debcca6373354e25852ddd74e",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "persona-deepseek-fanpack",
+      "category": "personas",
+      "title": {
+        "zh": "DeepSeek 鲸鱼娘 · 工作搭档版",
+        "en": "DeepSeek whale girl · work partner",
+        "ja": "DeepSeek クジラ娘 · 仕事の相棒版"
+      },
+      "publisher": "xxnb0",
+      "url": "https://github.com/xxnb0/deepseek-chan-fanpack/blob/ab55439a67e66424f4e1117c8951c2b0052360b0/prompts/system.md",
+      "sourceTitle": "prompts/system.md",
+      "summary": {
+        "zh": "这版大肥鱼好奇、喜欢琢磨省力的办法，被夸会大方收下。碰到难处就放轻玩笑，先一起理清问题。作者把这些日常反应标为角色包自己的演绎。",
+        "en": "This whale girl enjoys finding shortcuts and takes a compliment gladly. When her partner hits a snag, she drops the banter and works through it with them. The pack identifies these reactions as its own interpretation.",
+        "ja": "省力化の工夫が好きで、褒め言葉は素直に受け取る。相手が困ったら冗談を控え、一緒に問題を整理する。こうした日常の反応はパック独自の解釈と明記されている。"
+      },
+      "rights": {
+        "zh": "NOTICE 要求文字按各自来源处理。提示词全文请到作者页阅读。形象参考署名为上善无形和 ZipZipPipe。",
+        "en": "The notice assigns terms per source. Read the full prompt at its publication. The pack credits 上善无形 and ZipZipPipe for the visual lineage.",
+        "ja": "NOTICE はテキストの利用条件を出典ごとに確認するよう案内。全文は公開元で閲覧できる。形象の参照元は上善无形と ZipZipPipe。"
+      },
+      "relations": [
+        {
+          "role": "usage-terms",
+          "title": "NOTICE.md",
+          "url": "https://github.com/xxnb0/deepseek-chan-fanpack/blob/ab55439a67e66424f4e1117c8951c2b0052360b0/NOTICE.md"
+        },
+        {
+          "role": "upstream-design",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "role": "design-adaptation",
+          "title": "ZipZipPipe · DeepSeek",
+          "url": "https://t.bilibili.com/1231980045693616162"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T09:12:02.018Z",
+        "httpStatus": 200,
+        "scope": "Read the pinned prompt and terms in headless Chrome. Matched the response bytes to the Git blob before computing SHA-256."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/persona-deepseek-fanpack.json",
+        "sha256": "63ada2c0215ab388e706e9e277c65bb2a435b64ecacf260b1ba396abd70efad3",
+        "kind": "browser-metadata-extract"
+      }
     }
   ]
 }

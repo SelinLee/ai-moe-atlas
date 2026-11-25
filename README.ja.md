@@ -25,6 +25,10 @@
 **[🎨 キャラクター図鑑](#characters)** · 70 項目\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/) · [Claude 黄色ドレス立ち絵 · MX1951](https://selinlee.github.io/ai-moe-atlas/ja/characters/mx1951-claude/) · [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/ja/characters/shangshan-whale/)
 
+<!-- category-picks:personas -->
+**[💬 キャラクター性格プロンプト](#personas)** · 8 件\
+[GLM 狐娘 · ZCode 版](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md) · [Claude 娘「小克」· deslop 執筆カード](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md) · [DeepSeek クジラ娘 · QQ チャット版](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md)
+
 <!-- category-picks:songs -->
 **[🎵 楽曲](#songs)** · 88 曲\
 [人は猫 · 大肥魚カバー](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · アニメーション MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [烂奇迹 · 大肥魚カバー](https://www.bilibili.com/video/BV1fzs26bETg/)
@@ -64,6 +68,20 @@ Gemini ファミリーとコーディングツールの新規項目 · [Gemini 4
 Tokentaker キャラクター設定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/ja/characters/linguanus-tokentaker-deepseek/) · [GPT](https://selinlee.github.io/ai-moe-atlas/ja/characters/linguanus-tokentaker-chatgpt/) · [Claude](https://selinlee.github.io/ai-moe-atlas/ja/characters/linguanus-tokentaker-claude/) · [Gemini](https://selinlee.github.io/ai-moe-atlas/ja/characters/linguanus-tokentaker-gemini/) · [投稿画像33枚の照合](content/research/2026-11-25/linguanus-tokentaker-submission-and-pinned-artwork.json)
 
 [オンラインで絞り込む](https://selinlee.github.io/ai-moe-atlas/ja/#catalog) · [三言語のキャラクター資料](content/characters.json) · [AI 製品一覧](content/entities.json)
+
+<a id="personas"></a>
+
+### 💬 キャラクター性格プロンプト
+
+同じキャラクターでも、作者の版によって口調や反応がどう違うかを読み比べられます。ZCode の2枚と AstrBot の QQ 版はサイトで中国語本文をコピーできます。全件に固定版の原文と利用条件のリンクがあります。 [キャラクターや口調から探す](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=personas)
+
+| キャラクター | プロンプトの版 |
+| --- | --- |
+| GLM | [GLM 狐娘 · ZCode 版](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md) · [GLM 狐娘「小雪」· deslop 会話カード](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/fox-girl.md) |
+| Gemini | [Gemini の双子猫娘 · ZCode 版](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/gemini_chan.md) |
+| DeepSeek | [DeepSeek クジラ娘 · QQ チャット版](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md) · [DeepSeek クジラ娘 · 仕事の相棒版](https://github.com/xxnb0/deepseek-chan-fanpack/blob/ab55439a67e66424f4e1117c8951c2b0052360b0/prompts/system.md) |
+| Claude | [Claude 娘「小克」· deslop 執筆カード](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md) |
+| GPT | [GPT 白龍娘 · Coopanion 吹き出し版](https://github.com/suhong11300/gpt-niang/blob/254cbd0afb267f9b755a0294185a1575909e9821/figure.json) · [GPT 龍娘「Gちゃん」· deslop 執筆カード](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/gpt-girl.md) |
 
 <a id="songs"></a>
 

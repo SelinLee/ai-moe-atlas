@@ -12,6 +12,39 @@ async function readEvidence(evidence,root){
   return JSON.parse(bytes);
 }
 
+export async function readArchivedPrompt(archive, root) {
+  if (!/^persona-prompts\/[a-z0-9-]+\/[a-z0-9-]+\.txt$/.test(archive.path)) throw new Error('Invalid archived prompt path');
+  const bytes = await readFile(new URL('public/' + archive.path, root));
+  const lines = bytes.toString('utf8').split(/\r?\n/);
+  const start = archive.bodyStartLine;
+  if (!Number.isInteger(start) || start < 1 || !lines[start - 1]?.trim()) throw new Error('Invalid prompt body start');
+  return {bytes, body: lines.slice(start - 1).join('\n')};
+}
+
+async function checkPersona(record, snapshot, root) {
+  const source = snapshot.pinnedDocument;
+  const terms = snapshot.termsDocument;
+  if (record.verification.result !== 'metadata-verified' || (source?.url ?? snapshot.url) !== record.url ||
+    !snapshot.section || !record.relations.some(link => link.role === 'usage-terms' && link.url === terms?.url)) {
+    throw new Error('Persona needs a verified prompt and its terms');
+  }
+  if (new URL(record.url).hostname === 'github.com' && (!source || terms.commit !== source.commit ||
+    !terms.url.startsWith(record.url.split('/blob/')[0] + '/blob/' + source.commit + '/'))) {
+    throw new Error('GitHub prompt and terms must share a pinned revision');
+  }
+  const archive = record.promptArchive;
+  if (!archive) return;
+  const permission = snapshot.textPermission;
+  if (!archive.license?.trim() || permission?.license !== archive.license ||
+    !permission.scopeSection || !record.relations.some(link => link.url === permission.scopeUrl) ||
+    archive.licensePath !== archive.path.replace(/\/[^/]+$/, '/LICENSE.txt')) {
+    throw new Error('Archived prompt requires text-specific permission and a license notice');
+  }
+  const {bytes} = await readArchivedPrompt(archive, root);
+  const notice = await readFile(new URL('public/' + archive.licensePath, root));
+  if (sha256(bytes) !== (source ?? snapshot).sourceSha256 || sha256(notice) !== terms.sourceSha256) throw new Error('Prompt or license hash mismatch');
+}
+
 export async function readPendingAnimationCandidates(registry, root) {
   if (!registry.pendingAnimationEvidence) return [];
   const snapshot = await readEvidence(registry.pendingAnimationEvidence, root);
@@ -37,8 +70,9 @@ export async function assertResources(registry,root){
   const ids=new Set(),urls=new Set();
   for(const r of registry.records){
     if(!/^[a-z0-9-]+$/.test(r.id)||ids.has(r.id)||urls.has(r.url)||!https(r.url))throw new Error('Invalid or duplicate resource identity');ids.add(r.id);urls.add(r.url);
-    if(!['animation','interactive','sources'].includes(r.category)||!localized(r.title)||!localized(r.summary)||!localized(r.rights)||!r.publisher?.trim())throw new Error('Missing localized resource metadata');
-    if(r.usage!=='source-only'||r.downloadable!==false||['preview','assets','imageUrl','thumbnail','packUrl','studioExport'].some(k=>k in r))throw new Error('Source-only resources cannot publish artwork or export capabilities');
+    if(!['animation','interactive','personas','sources'].includes(r.category)||!localized(r.title)||!localized(r.summary)||!localized(r.rights)||!r.publisher?.trim())throw new Error('Missing localized resource metadata');
+    const expectedUsage=r.promptArchive?'licensed-prompt-text':'source-only';
+    if(r.usage!==expectedUsage||r.downloadable!==false||['preview','assets','imageUrl','thumbnail','packUrl','studioExport'].some(k=>k in r))throw new Error('Invalid resource usage or artwork export');
     if(!/^\d{4}-\d{2}-\d{2}$/.test(r.addedAt)||r.addedAt>registry.updatedAt||r.publicationDate!==null&&(!/^\d{4}-\d{2}-\d{2}$/.test(r.publicationDate)||r.publicationDate>r.addedAt))throw new Error('Invalid resource dates');
     if(!Array.isArray(r.relations)||r.relations.some(l=>!https(l.url)||!l.title?.trim()||!l.role?.trim()))throw new Error('Invalid resource source chain');
     const v=r.verification;
@@ -46,6 +80,8 @@ export async function assertResources(registry,root){
     if(['metadata-verified','index-verified'].includes(v.result)&&v.httpStatus!==200)throw new Error('Restricted source cannot claim verified metadata');
     if(r.category==='animation'&&(!/^BV[0-9A-Za-z]{10}$/.test(r.bvid)||!r.url.includes(r.bvid)||!['op','mv','story','commentary','dance','game'].includes(r.subtype)))throw new Error('Video record requires its BV ID and subtype');
     const snapshot=await readEvidence(r.evidence,root);
+    if(r.category==='personas')await checkPersona(r,snapshot,root);
+    else if(r.promptArchive)throw new Error('Only persona records may archive prompt text');
     if(snapshot.httpStatus!==v.httpStatus||snapshot.accessedAt!==v.attemptedAt)throw new Error('Resource evidence disagrees with verification');
     const indexedVideo=snapshot.videos?.find(video=>video.bvid===r.bvid);
     if(v.result==='index-verified'&&(!indexedVideo||indexedVideo.url!==r.url||indexedVideo.title!==r.sourceTitle||indexedVideo.publisher!==r.publisher||indexedVideo.publicationDate!==r.publicationDate))throw new Error('Video identity differs from the retained index');

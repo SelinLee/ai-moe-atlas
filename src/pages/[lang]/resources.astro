@@ -1,5 +1,6 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import PersonaPrompt from '../../components/PersonaPrompt.astro';
 import {locales,type Locale} from '../../lib/i18n';
 import {resourceText} from '../../lib/resource-text';
 import {path} from '../../lib/paths';
@@ -93,15 +94,16 @@ const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid
         : s.unranked}</p>}
       {latestFailure&&<p class="resource-byline" data-like-refresh-failure>{s.previousLikes} · <time datetime={latestFailure.observedAt}>{beijingTime.format(new Date(latestFailure.observedAt))}</time> · {sourceStatus(latestFailure.httpStatus)}</p>}
       <p>{r.summary[lang]}</p>
-      <span class:list={['resource-verification',{'partial':r.verification?.result==='partial-response'||r.verification?.result==='blocked'}]}>{verificationLabel(r,lang)}</span>
+      {r.promptArchive && <PersonaPrompt archive={r.promptArchive} lang={lang} credit={r.rights[lang]}/>}
+      <span class:list={['resource-verification',{'partial':r.verification?.result==='partial-response'||r.verification?.result==='blocked'}]}>{r.category==='personas'?s.persona.verified:verificationLabel(r,lang)}</span>
       <details><summary>{s.more}</summary>
         {r.sourceTitle&&<p>{s.originals} · {r.sourceTitle}</p>}
-        <p>{r.verification?.result==='index-verified'?s.indexScope:r.verification?s.scope:s.inherited}</p>
+        <p>{r.category==='personas'?s.persona.scope:r.verification?.result==='index-verified'?s.indexScope:r.verification?s.scope:s.inherited}</p>
         {r.addedAt&&<p>{s.added} · <time datetime={r.addedAt}>{r.addedAt}</time></p>}
         <h3>{s.rights}</h3><p>{r.rights[lang]}</p>
         {r.relations.length>0&&<><h3>{s.relations}</h3><ul>{r.relations.map(link=><li><a class="text-link" href={link.url} target="_blank" rel="noopener noreferrer">{link.title} ↗</a></li>)}</ul></>}
       </details>
-      <a class="text-link resource-original" href={r.url} target="_blank" rel="noopener noreferrer">{s.visit} ↗</a>
+      <a class="text-link resource-original" href={r.url} target="_blank" rel="noopener noreferrer">{r.category==='personas'?s.persona.original:s.visit} ↗</a>
     </article>})}
   </div>
   <p class="empty-state" id="resource-empty" hidden>{s.empty}</p>

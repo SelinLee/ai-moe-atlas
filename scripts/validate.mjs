@@ -5,7 +5,7 @@ import { assertCandidateReport } from './lib/candidates.mjs';
 import { assertResources } from './lib/resources.mjs';
 const resources=JSON.parse(await readFile('content/resources.json','utf8'));
 const resourceCount=await assertResources(resources,new URL('../',import.meta.url));
-console.log(`Validated ${resourceCount} source-only resource records, localized metadata and retained evidence hashes.`);
+console.log(`Validated ${resourceCount} resource records, localized metadata, prompt permissions and retained evidence hashes.`);
 
 const categoryArtwork=JSON.parse(await readFile('content/category-preview-artwork.json','utf8'));
 if (categoryArtwork.schemaVersion !== 1 || categoryArtwork.scope !== 'noncommercial-category-display') {

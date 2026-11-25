@@ -16,6 +16,7 @@ const animationCount=registry.records.filter(r=>r.category==='animation').length
 const ranked=registry.records.filter(r=>r.likes).sort((a,b)=>
   b.likes.count-a.likes.count||b.publicationDate.localeCompare(a.publicationDate)||a.id.localeCompare(b.id));
 const interactiveCount=registry.records.filter(r=>r.category==='interactive').length;
+const personas=registry.records.filter(r=>r.category==='personas');
 const remainingLeads=unlistedSourceLeads(registry.records,leads);
 const sourceCount=registry.records.filter(r=>r.category==='sources').length+remainingLeads.length;
 const origin=process.env.ATLAS_TEST_URL??'http://127.0.0.1:4322/ai-moe-atlas';
@@ -26,13 +27,42 @@ const page=await context.newPage();const errors=[];page.on('pageerror',e=>errors
 try{
  for(const lang of ['zh','en','ja']){
   const response=await page.goto(`${origin}/${lang}/`,{waitUntil:'networkidle'});assert.equal(response.status(),200);
-  assert.equal(await page.locator('[data-category-link]').count(),6);
+  assert.equal(await page.locator('[data-category-link]').count(),7);
   assert.equal(await page.locator('main h1').count(),1);
   assert.equal(await page.locator('[data-category-link="sources"] .resource-category-count strong').innerText(),String(sourceCount));
-  assert.ok(await page.locator('[data-category-link="sources"]').evaluate(el=>el.getBoundingClientRect().bottom<innerHeight),'All six categories fit the desktop first screen');
+  assert.ok(await page.locator('[data-category-link="sources"]').evaluate(el=>el.getBoundingClientRect().bottom<innerHeight),'All categories fit the desktop first screen');
   const cards=await page.locator('[data-category-link]').evaluateAll(links=>links.map(a=>a.href));
   for(const url of cards){const r=await context.request.get(url);assert.equal(r.status(),200,url);}
   await page.screenshot({path:`.qa/resources-home-${lang}-desktop.png`});
+  const personaLink=page.locator('[data-category-link="personas"]');
+  assert.equal(await personaLink.locator('strong').innerText(),String(personas.length));
+  await personaLink.click();
+  await page.waitForSelector('[data-resource-filter="personas"][aria-pressed="true"]');
+  assert.equal(await page.locator('[data-resource-category]:visible').count(),personas.length);
+  for(const record of personas){
+   const card=page.locator('#'+record.id);
+   assert.equal(await card.locator('.resource-original').getAttribute('href'),record.url);
+   assert.equal(await card.locator('[data-copy-prompt]').count(),record.promptArchive?1:0);
+  }
+  await page.locator('#resource-search').fill('glm');
+  assert.ok(await page.locator('#persona-glm-zcode').isVisible());
+  assert.ok(await page.locator('#persona-gpt-coopanion').isHidden());
+  const prompt=page.locator('#persona-glm-zcode .prompt');
+  await prompt.locator('summary').click();
+  const write=prompt.locator('button');
+  await page.evaluate(()=>{
+   Object.defineProperty(navigator,'clipboard',{configurable:true,value:{
+    writeText:async text=>{window.copiedPrompt=text;}
+   }});
+  });
+  await write.click();
+  const {path:promptPath,bodyStartLine}=personas.find(record=>record.id==='persona-glm-zcode').promptArchive;
+  const expected=(await readFile('public/'+promptPath,'utf8')).split(/\r?\n/).slice(bodyStartLine-1).join('\n');
+  assert.equal(await page.evaluate(()=>window.copiedPrompt),expected);
+  await page.evaluate(()=>{navigator.clipboard.writeText=async()=>{throw Error('Clipboard unavailable');};});
+  await write.click();
+  assert.equal(await page.evaluate(()=>window.getSelection().toString().trim()),expected.trim());
+  await page.goto(`${origin}/${lang}/`);
   await page.locator('[data-category-link="songs"]').click();
   assert.ok(page.url().endsWith(`/${lang}/songs/`));
   assert.deepEqual(await page.locator('[data-song]').evaluateAll(cards=>cards.map(card=>card.id)),rankedSongs.map(({song})=>song.id));
@@ -195,7 +225,7 @@ try{
   if(currentSnapshot.scope)assert.ok(await archive.locator(`[data-capture-scope="${currentSnapshot.scope}"]`).first().isVisible());
   for(const width of [390,768]){
    await page.setViewportSize({width,height:844});
-   for(const route of ['', 'songs/', 'resources/?category=animation&type=mv','resources/?category=interactive']){
+   for(const route of ['', 'songs/', 'resources/?category=personas','resources/?category=animation&type=mv','resources/?category=interactive']){
     await page.goto(`${origin}/${lang}/${route}`,{waitUntil:'networkidle'});
     assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1),false,`${lang}/${route} overflows ${width}px`);
    }

@@ -1,0 +1,26 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:12:02.018Z",
+  "method": "isolated-headless-google-chrome",
+  "pinnedDocument": {
+    "path": "prompts/system.md",
+    "url": "https://github.com/xxnb0/deepseek-chan-fanpack/blob/ab55439a67e66424f4e1117c8951c2b0052360b0/prompts/system.md",
+    "rawUrl": "https://raw.githubusercontent.com/xxnb0/deepseek-chan-fanpack/ab55439a67e66424f4e1117c8951c2b0052360b0/prompts/system.md",
+    "sourceSha256": "8c6b8ec8834941cb86143a4099139962b7621d458a3947be3f6d684237d0c2ea",
+    "gitBlobSha": "0f54c64303a75f8e7375664ca527b637c5463704",
+    "bytes": 3784,
+    "commit": "ab55439a67e66424f4e1117c8951c2b0052360b0",
+    "accessedAt": "2026-11-25T09:12:02.018Z"
+  },
+  "section": "我的底色 / 我怎样说话 / 我怎样相处和做事",
+  "termsDocument": {
+    "path": "NOTICE.md",
+    "url": "https://github.com/xxnb0/deepseek-chan-fanpack/blob/ab55439a67e66424f4e1117c8951c2b0052360b0/NOTICE.md",
+    "rawUrl": "https://raw.githubusercontent.com/xxnb0/deepseek-chan-fanpack/ab55439a67e66424f4e1117c8951c2b0052360b0/NOTICE.md",
+    "sourceSha256": "cdef663b4a3493ad81bc257e54ce6d500e73adeb964ca58345062c12b539ae2e",
+    "gitBlobSha": "5b41d8455ca2f6f5c9990cf0cb519abf505e6c33",
+    "bytes": 908,
+    "commit": "ab55439a67e66424f4e1117c8951c2b0052360b0",
+    "accessedAt": "2026-11-25T09:12:01.435Z"
+  }
+}

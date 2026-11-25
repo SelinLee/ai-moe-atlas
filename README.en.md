@@ -25,6 +25,10 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 **[🎨 Character atlas](#characters)** · 70 entries\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/) · [Claude yellow-dress portrait · MX1951](https://selinlee.github.io/ai-moe-atlas/en/characters/mx1951-claude/) · [Mingyue · Shangshan](https://selinlee.github.io/ai-moe-atlas/en/characters/shangshan-whale/)
 
+<!-- category-picks:personas -->
+**[💬 Character personality prompts](#personas)** · 8 cards\
+[GLM the fox · ZCode](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md) · [Claude “Xiao Ke” · deslop writing card](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md) · [DeepSeek whale girl · QQ chat](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md)
+
 <!-- category-picks:songs -->
 **[🎵 Songs](#songs)** · 88 tracks\
 [Humans Are Cats · Fat Fish cover](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · Animated MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [Rotten Miracle · Fat Fish cover](https://www.bilibili.com/video/BV1fzs26bETg/)
@@ -64,6 +68,20 @@ New Gemini family and coding tool designs · [Gemini 4 Argon](https://selinlee.g
 Tokentaker character designs · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/en/characters/linguanus-tokentaker-deepseek/) · [GPT](https://selinlee.github.io/ai-moe-atlas/en/characters/linguanus-tokentaker-chatgpt/) · [Claude](https://selinlee.github.io/ai-moe-atlas/en/characters/linguanus-tokentaker-claude/) · [Gemini](https://selinlee.github.io/ai-moe-atlas/en/characters/linguanus-tokentaker-gemini/) · [Verification of all 33 submission images](content/research/2026-11-25/linguanus-tokentaker-submission-and-pinned-artwork.json)
 
 [Filter online](https://selinlee.github.io/ai-moe-atlas/en/#catalog) · [Trilingual character records](content/characters.json) · [AI product index](content/entities.json)
+
+<a id="personas"></a>
+
+### 💬 Character personality prompts
+
+Compare how different authors write a character’s voice and reactions. Both ZCode cards and the AstrBot QQ card have Chinese prompt text you can copy in the directory. Each entry links to the pinned source and terms. [Search by character or voice](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=personas)
+
+| Character | Prompt versions |
+| --- | --- |
+| GLM | [GLM the fox · ZCode](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md) · [GLM “Xiaoxue” · deslop companion card](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/fox-girl.md) |
+| Gemini | [Gemini the cat · ZCode](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/gemini_chan.md) |
+| DeepSeek | [DeepSeek whale girl · QQ chat](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md) · [DeepSeek whale girl · work partner](https://github.com/xxnb0/deepseek-chan-fanpack/blob/ab55439a67e66424f4e1117c8951c2b0052360b0/prompts/system.md) |
+| Claude | [Claude “Xiao Ke” · deslop writing card](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md) |
+| GPT | [GPT white dragon · Coopanion speech bubbles](https://github.com/suhong11300/gpt-niang/blob/254cbd0afb267f9b755a0294185a1575909e9821/figure.json) · [GPT “G-chan” · deslop writing card](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/gpt-girl.md) |
 
 <a id="songs"></a>
 
