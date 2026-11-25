@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:19.979Z",
+  "url": "https://www.bilibili.com/video/BV19UyBzFEYQ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19UyBzFEYQ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV19UyBzFEYQ",
+    "title": "【Claude】我让 Claude 给自己做一支 MV，它选了《胧月》【AI MV大赛】",
+    "owner": {
+      "name": "年轻的小丁丁",
+      "mid": 484090033
+    },
+    "pubdate": 1795582807,
+    "duration": 254
+  },
+  "descriptionSha256": "70a3910e063f8a6a86345d1f37bb31113fc4fbb7f553862c1ccc7c546131f300",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20MV&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:02.992Z",
+    "htmlSha256": "a370c8d4920b9acab5ebfdf3ea1a963a51f210933cbf91c9b64a4eb7a8fd318c",
+    "title": "【Claude】我让 Claude 给自己做一支 MV，它选了《胧月》【AI MV大赛】",
+    "publisher": "年轻的小丁丁",
+    "publisherUrl": "https://space.bilibili.com/484090033"
+  }
+}

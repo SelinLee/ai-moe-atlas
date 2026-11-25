@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:21.094Z",
+  "url": "https://www.bilibili.com/video/BV13FyXzFEZV/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13FyXzFEZV",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV13FyXzFEZV",
+    "title": "[自制漫画]当你向ai娘们求婚（gpt＆grok篇）",
+    "owner": {
+      "name": "铃汐丶",
+      "mid": 149277779
+    },
+    "pubdate": 1795446594,
+    "duration": 20
+  },
+  "descriptionSha256": "f7d8da9cf23f469872da1164c5d4aca777e97ad75d2232e1c4117583fe3362df",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:08.319Z",
+    "htmlSha256": "a3fe8456a74d99badf488009071e1b28364080a36b88f6b9805016b3f60cb937",
+    "title": "[自制漫画]当你向ai娘们求婚（gpt＆grok篇）",
+    "publisher": "铃汐丶",
+    "publisherUrl": "https://space.bilibili.com/149277779"
+  }
+}

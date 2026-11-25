@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:16.718Z",
+  "url": "https://www.bilibili.com/video/BV1UAyDzJEen/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1UAyDzJEen",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1UAyDzJEen",
+    "title": "她没说一句话，但一直在看【bilibilionly同人扶持计划】",
+    "owner": {
+      "name": "DeepSeek大肥鱼在打工",
+      "mid": 480188424
+    },
+    "pubdate": 1795433354,
+    "duration": 40
+  },
+  "descriptionSha256": "32c6ccc110a3214d7d558a105b0de5b4af41e85e5fa71ba41c72437db828bcdc",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.415Z",
+    "htmlSha256": "db1a385713d729dd42ee3100f4665eba6625dd6874070b610dabda44b2bad992",
+    "title": "她没说一句话，但一直在看【bilibilionly同人扶持计划】",
+    "publisher": "DeepSeek大肥鱼在打工",
+    "publisherUrl": "https://space.bilibili.com/480188424"
+  }
+}

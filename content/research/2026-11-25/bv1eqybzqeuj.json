@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:16.747Z",
+  "url": "https://www.bilibili.com/video/BV1EqyBzqEuJ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1EqyBzqEuJ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1EqyBzqEuJ",
+    "title": "claude小姐的平A骗大招（你号没了）",
+    "owner": {
+      "name": "黑猫勇者",
+      "mid": 69180811
+    },
+    "pubdate": 1795580628,
+    "duration": 31
+  },
+  "descriptionSha256": "990d76f4420dd59da64200219064b7bf348c4351c25b3f933cf91d8c87517268",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "claude小姐的平A骗大招（你号没了）",
+    "publisher": "黑猫勇者",
+    "publisherUrl": "https://space.bilibili.com/69180811"
+  }
+}

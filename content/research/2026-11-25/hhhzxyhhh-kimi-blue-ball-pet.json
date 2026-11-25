@@ -1,0 +1,42 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:26:21.863Z",
+  "url": "https://github.com/hhhzxyhhh/kimi-desktop-pet/blob/6ef7f1b03254b63e21221edcf728cc34ed55dafc/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/hhhzxyhhh/kimi-desktop-pet/blob/6ef7f1b03254b63e21221edcf728cc34ed55dafc/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/hhhzxyhhh/kimi-desktop-pet/6ef7f1b03254b63e21221edcf728cc34ed55dafc/README.md",
+    "sourceSha256": "f31c07214271f432375f05c4cd84328b51ad716c2edace8ac682688462efecdf",
+    "gitBlobSha": "c22b7e7088cfa4c15faff79cc9fdde23a5abee73",
+    "bytes": 9933,
+    "commit": "6ef7f1b03254b63e21221edcf728cc34ed55dafc",
+    "accessedAt": "2026-11-25T09:26:21.863Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/hhhzxyhhh/kimi-desktop-pet/blob/6ef7f1b03254b63e21221edcf728cc34ed55dafc/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/hhhzxyhhh/kimi-desktop-pet/6ef7f1b03254b63e21221edcf728cc34ed55dafc/README.md",
+      "sourceSha256": "f31c07214271f432375f05c4cd84328b51ad716c2edace8ac682688462efecdf",
+      "gitBlobSha": "c22b7e7088cfa4c15faff79cc9fdde23a5abee73",
+      "bytes": 9933,
+      "commit": "6ef7f1b03254b63e21221edcf728cc34ed55dafc",
+      "accessedAt": "2026-11-25T09:26:21.863Z"
+    }
+  ],
+  "repository": {
+    "full_name": "hhhzxyhhh/kimi-desktop-pet",
+    "html_url": "https://github.com/hhhzxyhhh/kimi-desktop-pet",
+    "stargazers_count": 1,
+    "archived": false,
+    "created_at": "2026-07-17T10:44:08Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "6ef7f1b03254b63e21221edcf728cc34ed55dafc",
+    "observedAt": "2026-11-25T09:24:18.933Z",
+    "httpStatus": 200,
+    "metadataSha256": "297fb7e0fb1d6b5d99a5bea623803f924e8c9e65efea37de89a703e1692d297c",
+    "parent": null
+  },
+  "scope": "Pinned documentation verified by Git blob and SHA-256. Feature descriptions are from the project documents; runtime not tested."
+}

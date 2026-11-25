@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:17.185Z",
+  "url": "https://www.bilibili.com/video/BV1AAyvzPEuz/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AAyvzPEuz",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1AAyvzPEuz",
+    "title": "饿了就找claude？",
+    "owner": {
+      "name": "无敌电饭煲6",
+      "mid": 484470422
+    },
+    "pubdate": 1795292868,
+    "duration": 41
+  },
+  "descriptionSha256": "1b1461fc28f1dd3f4623e8ff836e54f13b808eaeeadf6cb2b011a2bb8204c7df",
+  "linkedVideos": [
+    "BV166Hr6kE62"
+  ],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "饿了就找claude？",
+    "publisher": "无敌电饭煲6",
+    "publisherUrl": "https://space.bilibili.com/484470422"
+  }
+}

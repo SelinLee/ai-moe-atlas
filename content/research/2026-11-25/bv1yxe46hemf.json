@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:18.920Z",
+  "url": "https://www.bilibili.com/video/BV1YXe46HEMf/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YXe46HEMf",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1YXe46HEMf",
+    "title": "大模型弱肉强食这一块",
+    "owner": {
+      "name": "匿名のIK",
+      "mid": 41807397
+    },
+    "pubdate": 1789793257,
+    "duration": 26
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=MiMo%20%E5%A8%98&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:03.055Z",
+    "htmlSha256": "fe0fb9cac01b103cc56101016efe7fce7a7bbfe6713ac601dedc4d5f1f41f989",
+    "title": "大模型弱肉强食这一块",
+    "publisher": "匿名のIK",
+    "publisherUrl": "https://space.bilibili.com/41807397"
+  }
+}

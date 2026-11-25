@@ -1,0 +1,52 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:26:22.321Z",
+  "url": "https://github.com/Ancientandmodern/kimi-desktop-pet/blob/61707f60edd59a205808d43627f2dc2ce8680b38/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/Ancientandmodern/kimi-desktop-pet/blob/61707f60edd59a205808d43627f2dc2ce8680b38/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Ancientandmodern/kimi-desktop-pet/61707f60edd59a205808d43627f2dc2ce8680b38/README.md",
+    "sourceSha256": "15bc26b42ae02755f097ecde0f2217ab9f319a7f03b74146588916196a7e4a46",
+    "gitBlobSha": "c94ff8aee69eaf91e2c0970b726ca86744c00418",
+    "bytes": 6542,
+    "commit": "61707f60edd59a205808d43627f2dc2ce8680b38",
+    "accessedAt": "2026-11-25T09:26:22.321Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/Ancientandmodern/kimi-desktop-pet/blob/61707f60edd59a205808d43627f2dc2ce8680b38/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Ancientandmodern/kimi-desktop-pet/61707f60edd59a205808d43627f2dc2ce8680b38/README.md",
+      "sourceSha256": "15bc26b42ae02755f097ecde0f2217ab9f319a7f03b74146588916196a7e4a46",
+      "gitBlobSha": "c94ff8aee69eaf91e2c0970b726ca86744c00418",
+      "bytes": 6542,
+      "commit": "61707f60edd59a205808d43627f2dc2ce8680b38",
+      "accessedAt": "2026-11-25T09:26:22.321Z"
+    },
+    {
+      "path": "独立桌面版/README.md",
+      "url": "https://github.com/Ancientandmodern/kimi-desktop-pet/blob/61707f60edd59a205808d43627f2dc2ce8680b38/%E7%8B%AC%E7%AB%8B%E6%A1%8C%E9%9D%A2%E7%89%88/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Ancientandmodern/kimi-desktop-pet/61707f60edd59a205808d43627f2dc2ce8680b38/%E7%8B%AC%E7%AB%8B%E6%A1%8C%E9%9D%A2%E7%89%88/README.md",
+      "sourceSha256": "8d0e3536022d8495d30d667804ef2b2acd6de265a989295f1a294703eefd4b67",
+      "gitBlobSha": "99ca61fd65b88e2795a54b9b188d2facf2f3e2f0",
+      "bytes": 3535,
+      "commit": "61707f60edd59a205808d43627f2dc2ce8680b38",
+      "accessedAt": "2026-11-25T09:26:22.791Z"
+    }
+  ],
+  "repository": {
+    "full_name": "Ancientandmodern/kimi-desktop-pet",
+    "html_url": "https://github.com/Ancientandmodern/kimi-desktop-pet",
+    "stargazers_count": 1,
+    "archived": false,
+    "created_at": "2026-11-23T16:04:09Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "61707f60edd59a205808d43627f2dc2ce8680b38",
+    "observedAt": "2026-11-25T09:24:19.168Z",
+    "httpStatus": 200,
+    "metadataSha256": "705eb061c0000f244eadd87744a806e65fa19b1332cecb541d662bac18b9d872",
+    "parent": null
+  },
+  "scope": "Pinned documentation verified by Git blob and SHA-256. Feature descriptions are from the project documents; runtime not tested."
+}

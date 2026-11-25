@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:16.295Z",
+  "url": "https://www.bilibili.com/video/BV13dyBzsE2j/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13dyBzsE2j",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV13dyBzsE2j",
+    "title": "大肥鱼这下可玩大了~（2）",
+    "owner": {
+      "name": "软乎乎-_-",
+      "mid": 3493085224896657
+    },
+    "pubdate": 1795578021,
+    "duration": 30
+  },
+  "descriptionSha256": "43d599aeca8354333a6e18f5195bbd6ab323c216ede6dd49a9b5185456ca6e29",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.428Z",
+    "htmlSha256": "0ebec11064620d1e84049133acb00f988ee5c9a62f2814b51ffe9d67ff7be6d2",
+    "title": "大肥鱼这下可玩大了~（2）",
+    "publisher": "软乎乎-_-",
+    "publisherUrl": "https://space.bilibili.com/3493085224896657"
+  }
+}

@@ -432,7 +432,8 @@
     "id": "unknown-mother-goose",
     "title": {"zh": "不为人知的鹅妈妈童谣", "en": "Unknown Mother Goose", "ja": "アンノウン・マザーグース"},
     "original": {"credit": "wowaka feat. 初音ミク", "url": "https://www.nicovideo.jp/watch/sm31791630"},
-    "versions": [{"id": "bv1svysz1emc", "type": "mv"}]
+    "versions": [{"id": "bv1svysz1emc", "type": "mv"},
+      {"id": "bv1ntyzzfeqd", "type": "mv"}]
   },
   {
     "id": "rotting-miracle",
@@ -591,6 +592,54 @@
     "original": {"credit": "Lia · AIR", "url": "https://key.visualarts.gr.jp/product/air/qa/"},
     "versions": [
       {"id": "bv1xl1azzers", "type": "cover"}
+    ]
+  },
+  {
+    "id": "one-frame-at-a-time",
+    "title": {"zh": "一格格", "en": "One Frame at a Time", "ja": "一格格"},
+    "original": {"credit": "衛蘭 · Janice Vidal", "url": "https://music.apple.com/hk/song/1230515704"},
+    "versions": [
+      {"id": "bv1qe1azdekz", "type": "cover"}
+    ]
+  },
+  {
+    "id": "a-laugh-in-jianghu",
+    "title": {"zh": "一笑江湖", "en": "A Laugh in Jianghu", "ja": "一笑江湖"},
+    "original": {"credit": "闻人听书_", "url": "https://music.apple.com/us/song/1614619690"},
+    "versions": [
+      {"id": "bv1ptyqzuenr", "type": "cover"}
+    ]
+  },
+  {
+    "id": "secret-base-zone",
+    "title": {"zh": "secret base ～君がくれたもの～", "en": "secret base ~Kimi ga Kureta Mono~", "ja": "secret base ～君がくれたもの～"},
+    "original": {"credit": "ZONE", "url": "https://music.apple.com/jp/song/1537517422"},
+    "versions": [
+      {"id": "bv1uxyizuefz", "type": "cover"}
+    ]
+  },
+  {
+    "id": "gimme-gimme",
+    "title": {"zh": "Gimme×Gimme", "en": "Gimme×Gimme", "ja": "Gimme×Gimme"},
+    "original": {"credit": "八王子P × Giga · 初音ミク・鏡音リン", "url": "https://music.apple.com/jp/song/1475739739"},
+    "versions": [
+      {"id": "bv1kmy8zxepf", "type": "mv"}
+    ]
+  },
+  {
+    "id": "oborozuki-minato",
+    "title": {"zh": "胧月", "en": "Oborozuki", "ja": "朧月"},
+    "original": {"credit": "minato（流星P）feat. 初音ミク", "url": "https://www.joysound.com/web/search/song/410230"},
+    "versions": [
+      {"id": "bv19uybzfeyq", "type": "mv"}
+    ]
+  },
+  {
+    "id": "role-playing-game",
+    "title": {"zh": "Role-playing Game", "en": "Role-playing Game", "ja": "ロールプレイングゲーム"},
+    "original": {"credit": "そらまふうらさか", "url": "https://www.nicovideo.jp/watch/sm32355422"},
+    "versions": [
+      {"id": "bv131s66wegg", "type": "mv"}
     ]
   }
 ]

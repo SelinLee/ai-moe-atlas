@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:19.993Z",
+  "url": "https://www.bilibili.com/video/BV1nTyZzfEQD/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nTyZzfEQD",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1nTyZzfEQD",
+    "title": "AI娘们为你唱不为人知的鹅妈妈童谣",
+    "owner": {
+      "name": "铁做的月亮",
+      "mid": 440750803
+    },
+    "pubdate": 1795497674,
+    "duration": 286
+  },
+  "descriptionSha256": "fda8438ac922f611e6d1a81bba8bed7ba4cdb3ea28f582355a795cabd5d99c87",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20MV&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:02.992Z",
+    "htmlSha256": "a370c8d4920b9acab5ebfdf3ea1a963a51f210933cbf91c9b64a4eb7a8fd318c",
+    "title": "AI娘们为你唱不为人知的鹅妈妈童谣",
+    "publisher": "铁做的月亮",
+    "publisherUrl": "https://space.bilibili.com/440750803"
+  }
+}

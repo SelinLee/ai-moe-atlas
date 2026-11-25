@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:18.201Z",
+  "url": "https://www.bilibili.com/video/BV1VZYV62Ems/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VZYV62Ems",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1VZYV62Ems",
+    "title": "带千问娘吃超好吃的自助烧烤！！",
+    "owner": {
+      "name": "小加鸽鸽",
+      "mid": 100668783
+    },
+    "pubdate": 1789106927,
+    "duration": 105
+  },
+  "descriptionSha256": "5e7cd56c4fbffea9f56492c49d256fbbcce49b7a01b726548df65d8c9d5d9c81",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%8D%83%E9%97%AE%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.409Z",
+    "htmlSha256": "750dcb7935b495300266f4f1c12693c32481ad936090579bb6564e05e9c1147d",
+    "title": "带千问娘吃超好吃的自助烧烤！！",
+    "publisher": "小加鸽鸽",
+    "publisherUrl": "https://space.bilibili.com/100668783"
+  }
+}

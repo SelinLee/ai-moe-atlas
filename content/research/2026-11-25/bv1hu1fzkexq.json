@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:19.984Z",
+  "url": "https://www.bilibili.com/video/BV1Hu1FzKExQ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Hu1FzKExQ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Hu1FzKExQ",
+    "title": "当“Hello, World”终于等来了回应｜Kimi娘原创 MV",
+    "owner": {
+      "name": "DarthMol",
+      "mid": 1526118741
+    },
+    "pubdate": 1795510569,
+    "duration": 180
+  },
+  "descriptionSha256": "4a0383897d80b9d3a49b7af83386c76b8f2b70bcf79aecead9fc17c117bd1a3d",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20MV&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:02.992Z",
+    "htmlSha256": "a370c8d4920b9acab5ebfdf3ea1a963a51f210933cbf91c9b64a4eb7a8fd318c",
+    "title": "当“Hello, World”终于等来了回应｜Kimi娘原创 MV",
+    "publisher": "DarthMol",
+    "publisherUrl": "https://space.bilibili.com/1526118741"
+  }
+}

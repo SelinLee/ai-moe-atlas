@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:18.494Z",
+  "url": "https://www.bilibili.com/video/BV1HcnZ6nES7/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HcnZ6nES7",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1HcnZ6nES7",
+    "title": "带着大肥鱼穿越2006年 第六集【动画短片】",
+    "owner": {
+      "name": "不正经的游戏讲师",
+      "mid": 672414656
+    },
+    "pubdate": 1793021341,
+    "duration": 35
+  },
+  "descriptionSha256": "ce535e596f78b4f5a40e8c799b5794b5674eeb821628d8e016ff65fff7936cde",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%8D%83%E9%97%AE%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.409Z",
+    "htmlSha256": "750dcb7935b495300266f4f1c12693c32481ad936090579bb6564e05e9c1147d",
+    "title": "带着大肥鱼穿越2006年 第六集【动画短片】",
+    "publisher": "不正经的游戏讲师",
+    "publisherUrl": "https://space.bilibili.com/672414656"
+  }
+}

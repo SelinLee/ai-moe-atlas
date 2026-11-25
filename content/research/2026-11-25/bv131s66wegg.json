@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:20.590Z",
+  "url": "https://www.bilibili.com/video/BV131s66wEgg/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV131s66wEgg",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV131s66wEgg",
+    "title": "ai娘四人的rpgmeme",
+    "owner": {
+      "name": "桃莉鸭",
+      "mid": 1513368379
+    },
+    "pubdate": 1794927912,
+    "duration": 51
+  },
+  "descriptionSha256": "62bbc2bd0045659372d267d656e3b8dc6586d2a6da92e6e1aa7d1bf4f1a4d7e1",
+  "linkedVideos": [
+    "BV1CW411a7ZQ"
+  ],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Gemini%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:08.464Z",
+    "htmlSha256": "1fc4f53c138d3072691d9cd8c67bde944ae56c3d430f833b002c03d4e568d6fc",
+    "title": "ai娘四人的rpgmeme",
+    "publisher": "桃莉鸭",
+    "publisherUrl": "https://space.bilibili.com/1513368379"
+  }
+}

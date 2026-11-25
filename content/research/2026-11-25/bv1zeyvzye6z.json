@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:17.185Z",
+  "url": "https://www.bilibili.com/video/BV1zeyVzYE6z/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zeyVzYE6z",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1zeyVzYE6z",
+    "title": "claude证明黎曼猜想 GPT震惊瘫坐",
+    "owner": {
+      "name": "江牧cy",
+      "mid": 471143890
+    },
+    "pubdate": 1795334071,
+    "duration": 90
+  },
+  "descriptionSha256": "e6cf5f2f901e032368d1406d482c70e390c1f2bd453f78dce401f28756df8e97",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "claude证明黎曼猜想 GPT震惊瘫坐",
+    "publisher": "江牧cy",
+    "publisherUrl": "https://space.bilibili.com/471143890"
+  }
+}

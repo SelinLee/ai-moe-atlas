@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:16.199Z",
+  "url": "https://www.bilibili.com/video/BV1DE1AzdEKj/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1DE1AzdEKj",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1DE1AzdEKj",
+    "title": "挽回豆姐形象",
+    "owner": {
+      "name": "跃鲤ca",
+      "mid": 496214525
+    },
+    "pubdate": 1795593600,
+    "duration": 70
+  },
+  "descriptionSha256": "164a1c6e76903624b3f1e3fd4060eec2935301bf9cf260d46a17a319ed38f370",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.428Z",
+    "htmlSha256": "0ebec11064620d1e84049133acb00f988ee5c9a62f2814b51ffe9d67ff7be6d2",
+    "title": "挽回豆姐形象",
+    "publisher": "跃鲤ca",
+    "publisherUrl": "https://space.bilibili.com/496214525"
+  }
+}

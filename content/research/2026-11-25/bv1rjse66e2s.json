@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:20.589Z",
+  "url": "https://www.bilibili.com/video/BV1RjsE66E2s/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RjsE66E2s",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1RjsE66E2s",
+    "title": "《AI娘：打完怪，回家吃饭》第五集",
+    "owner": {
+      "name": "硬鲸鲸",
+      "mid": 214412382
+    },
+    "pubdate": 1794712943,
+    "duration": 212
+  },
+  "descriptionSha256": "42468cf81c048e1023d5eeaca5318bcd223cb837b7a913909802a6332b0c8c2c",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Gemini%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:08.464Z",
+    "htmlSha256": "1fc4f53c138d3072691d9cd8c67bde944ae56c3d430f833b002c03d4e568d6fc",
+    "title": "《AI娘：打完怪，回家吃饭》第五集",
+    "publisher": "硬鲸鲸",
+    "publisherUrl": "https://space.bilibili.com/214412382"
+  }
+}

@@ -23,31 +23,31 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 
 <!-- category-picks:characters -->
 **[🎨 Character atlas](#characters)** · 70 entries\
-[GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/) · [Claude yellow-dress portrait · MX1951](https://selinlee.github.io/ai-moe-atlas/en/characters/mx1951-claude/) · [Mingyue · Shangshan](https://selinlee.github.io/ai-moe-atlas/en/characters/shangshan-whale/)
+[GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/) · [Gemini Pro · Portrait and expressions](https://selinlee.github.io/ai-moe-atlas/en/characters/qinv-gemini-pro/) · [Mingyue · Shangshan](https://selinlee.github.io/ai-moe-atlas/en/characters/shangshan-whale/)
 
 <!-- category-picks:personas -->
 **[💬 Character personality prompts](#personas)** · 8 cards\
 [GLM the fox · ZCode](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md) · [Claude “Xiao Ke” · deslop writing card](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md) · [DeepSeek whale girl · QQ chat](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md)
 
 <!-- category-picks:songs -->
-**[🎵 Songs](#songs)** · 88 tracks\
-[Humans Are Cats · Fat Fish cover](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · Animated MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [Rotten Miracle · Fat Fish cover](https://www.bilibili.com/video/BV1fzs26bETg/)
+**[🎵 Songs](#songs)** · 94 tracks\
+[Humans Are Cats · Fat Fish cover](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · Animated MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [Gimme×Gimme · GPT & Grok](https://www.bilibili.com/video/BV1KMy8zxEPf/)
 
 <!-- category-picks:references -->
 **[🧸 Turnarounds & adaptations](#references)** · 20 reference images\
 [Claude reference sheet](https://selinlee.github.io/ai-moe-atlas/en/references/#claude) · [DeepSeek chibi turnaround](https://selinlee.github.io/ai-moe-atlas/en/chibi/#deepseek) · [Qwen chibi turnaround](https://selinlee.github.io/ai-moe-atlas/en/chibi/#qwen)
 
 <!-- category-picks:animations -->
-**[🎬 Animation & fan videos](#animations)** · 817 records\
+**[🎬 Animation & fan videos](#animations)** · 859 records\
 [What If the Chat Window Were Her Whole World?](https://www.bilibili.com/video/BV1xCai6aE9g/) · [Too Many Losing AIs! · Fan PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo Girl Character PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 Pets & interactive projects](#desktop-pets)** · 133 projects\
-[CrossPet · Cross-AI desktop companion](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D coding companion](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [Whale Girl Rice Pet · DSH plugin](https://github.com/DMM-331/dsh-rice-pet/blob/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/README.md)
+**[🐾 Pets & interactive projects](#desktop-pets)** · 139 projects\
+[CrossPet · Cross-AI desktop companion](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D coding companion](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [Gemini Girl · Two-form desktop pet](https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/README.md)
 
 <!-- category-picks:sources -->
-**[📚 Creator works & sources](#sources)** · 122 sources\
-[Shangshan · Whale Girl original](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini family illustration](https://www.bilibili.com/opus/1273349110528737288) · [MX1951 · Seven Claude originals](https://github.com/lmy414/ai-girl-stickers/issues/8)
+**[📚 Creator works & sources](#sources)** · 129 sources\
+[Shangshan · Whale Girl original](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini family illustration](https://www.bilibili.com/opus/1273349110528737288) · [Gemini Pro · Three originals](https://github.com/lmy414/ai-girl-stickers/issues/118)
 
 <a id="characters"></a>
 
@@ -60,6 +60,8 @@ New character entries · [Coco](https://selinlee.github.io/ai-moe-atlas/en/chara
 New character entries · [Qwen School Portrait · MX1951](https://selinlee.github.io/ai-moe-atlas/en/characters/mx1951-qwen/) · [NovelAI Girl · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-novelai/) · [ZCode Girl · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-zcode/) · [Hugging Face Girl · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-huggingface/) · [Perplexity Girl · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-perplexity/) · [Tencent Hunyuan Girl · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-hunyuan/)
 
 Ninon’s Claude Girl designs · [Maid design](https://selinlee.github.io/ai-moe-atlas/en/characters/ninon-claude-maid/) · [Orange-and-white dress](https://selinlee.github.io/ai-moe-atlas/en/characters/ninon-claude-orange-dress/). The original dress, the creator’s separate wallpaper and the adapted design sheet each have a source. [Dress reference sources](content/research/2026-11-23/claude-orange-dress-source-chain.json)
+
+Reviewed artwork pack · [Gemini Pro ver1.00](https://selinlee.github.io/ai-moe-atlas/en/characters/qinv-gemini-pro/) (three original PNGs, CC BY-NC-SA 4.0; attribution, noncommercial, share-alike) · [Creator submission and hashes](content/research/2026-11-25/qinv-gemini-pro-creator-submission.json)
 
 New MX1951 submissions · [Claude yellow-dress portrait](https://selinlee.github.io/ai-moe-atlas/en/characters/mx1951-claude/) (CC0, original PNG and asset pack) · [Whale girl collection](https://selinlee.github.io/ai-moe-atlas/en/characters/mx1951-deepseek/) (13 images, underlying design rights pending). [Claude submission evidence](content/research/2026-11-25/mx1951-issue-8-attachments-and-terms.json) · [Whale submission evidence](content/research/2026-11-25/mx1951-issue-7-attachments-and-terms.json)
 
@@ -110,7 +112,7 @@ The top ten tracks by the highest total likes on a listed version. Observation t
 
 [Original music sources](content/research/2026-11-20/gemini-mv-original-music.json) · [Song and version verification](content/research/2026-11-20/song-originals-and-fan-versions.json) · [Opening-theme and fan-version credits](content/research/2026-11-20/character-songs-and-opening-credits.json) · [Dance and lyric MV song credits](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [Greenhouse Effect original and fan MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [Four original tracks and fan versions](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [Doubao covers and ending theme sources](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [Qwen, MiMo and dance track sources](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [Music sources for “APT.” and “Deleted a Hundred Times”](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [Cover and game music sources](content/research/2026-11-22/november-cover-song-originals-and-versions.json) · [Sources for Charlotte, bloom and unhappy](content/research/2026-11-22/november-charlotte-bloom-and-remix-evidence.json) · [Music from the weekly roundup and game soundtrack](content/research/2026-11-22/november-mili-and-game-soundtrack-verification.json) · [Original and cover verification for Rotten Miracle](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json) · [Three original tracks and their fan uses](content/research/2026-11-23/november-renai-numb-and-dragon-maid-originals.json) · [FIRESTARTER, Bad Apple!! and cover sources](content/research/2026-11-23/november-firestarter-bad-apple-and-cover-attribution.json) · [Original releases for Trouble Maker and A Friend’s Wine](content/research/2026-11-23/november-trouble-maker-and-friends-wine-originals.json)
 
-[Four original tracks and a new Big Fish adaptation](content/research/2026-11-25/november-25-song-originals-and-versions.json) · [Ode to Spring and three other original tracks](content/research/2026-11-25/november-25-composition-and-adaptation-sources.json) · [LOSER, Jiu Zhang Ji, Tori no Uta and music references](content/research/2026-11-25/november-25-original-recording-follow-up.json)
+[Four original tracks and a new Big Fish adaptation](content/research/2026-11-25/november-25-song-originals-and-versions.json) · [Ode to Spring and three other original tracks](content/research/2026-11-25/november-25-composition-and-adaptation-sources.json) · [LOSER, Jiu Zhang Ji, Tori no Uta and music references](content/research/2026-11-25/november-25-original-recording-follow-up.json) · [One Frame at a Time and five other song sources](content/research/2026-11-25/november-25-second-candidate-music-credits.json)
 
 [Five original songs and their covers, including Qwen, Help Me](content/research/2026-11-23/five-original-songs-and-cover-sources.json)
 
@@ -149,7 +151,7 @@ The top ten by Bilibili’s official cumulative likes. Ties use publication date
 
 <!-- animation-ranking:end -->
 
-On 2026-11-25, all 764 previously cataloged videos were queried in batches: 754 refreshed and ten returned no valid video data, retaining their last successful observations. Added 53 ranked works that day; ten earlier candidates remain pending. [Initial recheck](content/research/2026-11-25/bilibili-november-25-recheck-scope.json) · [Remaining 83 rechecks](content/research/2026-11-25/bilibili-november-25-remaining-catalog-follow-up.json)
+On 2026-11-25, all 764 previously cataloged videos were queried in batches: 754 refreshed and ten returned no valid video data, retaining their last successful observations. Added 95 ranked works that day; eleven candidates remain pending. [Initial recheck](content/research/2026-11-25/bilibili-november-25-recheck-scope.json) · [Remaining 83 rechecks](content/research/2026-11-25/bilibili-november-25-remaining-catalog-follow-up.json) · [Second candidate batch](content/research/2026-11-25/bilibili-november-25-second-candidate-scope.json)
 
 <a id="desktop-pets"></a>
 
@@ -170,7 +172,11 @@ Top ten by the latest recorded GitHub stars. The leading 15 projects were rechec
 | 9 | [OpenPets · Local Desktop Pet Platform](https://github.com/OpenPetsHQ/openpets/blob/9153e40ed37617243f903b074161d7df4bbd27b0/README.md) | [1,408](https://github.com/OpenPetsHQ/openpets) |
 | 10 | [CrossPet · multi-AI desktop companion](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | [568](https://github.com/lokicorvus/crosspet) |
 
-[Browse all pets and interactive projects](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-25/github-interactive-stars-november-25-remaining-projects.json)
+[Browse all pets and interactive projects](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-25/github-interactive-stars-november-25-gemini-kimi-grok.json)
+
+New Gemini, Kimi and Grok companions · [Two-form Gemini girl](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#xiaoxindada-gemini-desktop-pet) · [Antigravity Gemini catgirl](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#rzls-gemini-antigravity-pet) · [Gemini quota companion](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#yunxi-gemini-antigravity-companion) · [Kimi Work and standalone pet](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#ancient-kimi-work-and-desktop-pet) · [Kimi vector blue ball](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#hhhzxyhhh-kimi-blue-ball-pet) · [Grok spherical-eye pet](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#necx-grok-spherical-eye-pet)
+
+All 48 same-named PNG sprites in the two-form Gemini pet match the pinned CrossPet WebPs in decoded RGBA pixels. [File-by-file verification](content/research/2026-11-25/xiaoxindada-gemini-desktop-pet.json)
 
 New desktop companions · [Whale Girl Rice Pet](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#dmm-whale-rice-pet) · [GPT and Claude native pets](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#casie-gpt-claude-native-pets) · [Claude pixel companion](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#harriszed-claude-activity-pet) · [Whale balance pet](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#nayru-whale-balance-pet) · [Cenzhi desktop companion](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#sjmsltx-cenzhi-ai-companion) · [Whale balance sea](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#fenyx-dsh-whale-balance-sea)
 
@@ -193,6 +199,8 @@ The LFS hashes for all 106 Whale Girl animations in the pinned seven-character p
 See also ZipZipPipe’s [source and usage statement](https://t.bilibili.com/1231980045693616162).
 
 [Browse all creator works and sources](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources)
+
+New creator submissions · [Gemini Pro originals](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#qinv-gemini-pro-creator-submission) · [Whale wedding portrait](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#naiyoucreamy-whale-wedding-original) · [Whale cooking illustration](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#naiyoucreamy-whale-cooking-original) · [Fat Fish Rescues Claude comic](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#even-sharper-whale-rescues-claude-comic) · [AI ensemble](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#heavy-rabbit-ai-group-illustrations) · [Miss Claude reaction comic](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#shiho320-claude-account-comic)
 
 New source verification · [Whale girl icon and retouched versions](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#fornarwhal-whale-girl-icon) · [Gangban portfolio](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#gangban-creator-portfolio) · [Model Muses source index](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#model-muses-source-index)
 
@@ -302,6 +310,8 @@ Newly added:
 
 | Date / status | Progress |
 | --- | --- |
+| 2026-11-25 · Gemini originals and second fan-work batch | Added 42 fan videos, six tracks, seven creator sources and six pet projects; verified 27 submission attachments and 48 CrossPet conversions, released the three-image Gemini Pro pack. |
+| 2026-11-25 · Character personality prompts | Added a dedicated category with eight cards, three licensed copyable texts and pinned source links for the others. |
 | 2026-11-25 · Remaining video likes and MX1951 submissions | Checked the 83 previously unqueried or restricted works and refreshed 81. Added eight fan videos, three tracks, two characters, six sources and six pet projects; published the Claude CC0 portrait pack. |
 | 2026-11-25 · Gemini family and music sources | Verified seven creator-published images, added six character entries and four tracks. Artwork-specific permissions remain unconfirmed; original images are not republished. |
 | 2026-11-25 · Tokentaker artwork and new fan works | Verified 33 submitted images and 106 shared compatibility clips. Added 45 fan videos, four tracks, four character entries, three sources and four pet projects. Refreshed 673 existing videos. |

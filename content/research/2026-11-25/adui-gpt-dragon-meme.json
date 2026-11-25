@@ -1,0 +1,37 @@
+{
+  "issue": 140,
+  "url": "https://github.com/lmy414/ai-girl-stickers/issues/140",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:22:19.903Z",
+  "author": "Adui1hao",
+  "authorUrl": "https://github.com/Adui1hao",
+  "apiBodySha256": "b2bdd5286d79b182eb0a238b1174d645259ce552f9c3ca1b7b82c6dfd9b66902",
+  "issueBodySha256": "6006e0fa781ff2fe2441921e2be0e25c6c8ec2da76860bb051ba009abc022d79",
+  "pageHtmlSha256": "fe41a5612215feb13e245d4f7c78e19825a27e1266f8d6cc2be332c5b42d5b1c",
+  "title": "[投稿]",
+  "createdAt": "2026-11-06T10:44:12Z",
+  "attachmentCount": 1,
+  "declaredTerms": [],
+  "attachments": [
+    {
+      "position": 1,
+      "url": "https://github.com/user-attachments/assets/4e1143a0-0481-47b1-af40-7bebfa0c90bb",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-25T09:22:27.369Z",
+      "sourceSha256": "ab647130c9644dd23cffd033af7e1f2ee4fa1b7d0a67ac7e4d22d2f0f1e9511a",
+      "gitBlobSha": "bc5fcddf9804a6a8cccdfe1304fb90a0dd3443c5",
+      "bytes": 795786,
+      "width": 1308,
+      "height": 1204,
+      "format": "jpeg",
+      "archive": {
+        "path": "dist/submissions/originals/gpt/ab647130c9644dd2.jpg",
+        "commit": "a63fc3d9536dfc46b7941d61b14efcdf8adddc20",
+        "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gpt/ab647130c9644dd2.jpg",
+        "gitBlobSha": "bc5fcddf9804a6a8cccdfe1304fb90a0dd3443c5"
+      }
+    }
+  ],
+  "archiveMatchCount": 1,
+  "scope": "Original uploaded image bytes matched to the pinned Git tree blob hashes; author submission terms recorded; source-only."
+}

@@ -1,0 +1,285 @@
+{
+  "id": "qinv-gemini-pro",
+  "characterId": "qinv-gemini-pro",
+  "repository": "lmy414/ai-girl-stickers",
+  "revision": "a63fc3d9536dfc46b7941d61b14efcdf8adddc20",
+  "pageUrl": "https://github.com/lmy414/ai-girl-stickers/issues/118",
+  "originalPublication": "https://www.pixiv.net/artworks/150323370",
+  "collectedAt": "2026-11-25",
+  "attribution": [
+    {
+      "name": "我已经有杰米奈了",
+      "url": "https://www.pixiv.net/users/129846508",
+      "role": "original-character",
+      "publication": "https://www.pixiv.net/artworks/150323370"
+    }
+  ],
+  "provenanceStatus": "creator-submitted-with-pinned-byte-match",
+  "rights": {
+    "license": "CC-BY-NC-SA-4.0",
+    "scope": "artwork",
+    "display": true,
+    "redistribute": true,
+    "modify": true,
+    "commercial": false,
+    "evidenceUrl": "https://github.com/lmy414/ai-girl-stickers/issues/118",
+    "reviewedBy": "AI Moe Atlas source review",
+    "reviewedAt": "2026-11-25",
+    "terms": {
+      "zh": "作者在 Gemini Pro 第118号投稿中将这组三张图声明为 CC BY-NC-SA 4.0；须署名、非商业使用，改编同协议共享。素材包保留原 PNG 和完整出处；Google 等名称与标识的权利另属权利方。",
+      "en": "The creator declares CC BY-NC-SA 4.0 for these three images in Gemini Pro submission #118: attribution, noncommercial use and share-alike for adaptations. The pack preserves the original PNGs and provenance. Google and other product names/marks retain their respective rights.",
+      "ja": "作者は Gemini Pro 第118号投稿の画像3点に CC BY-NC-SA 4.0 を指定。クレジット、非商用、改変物の同一条件での共有が必要。元 PNG と出典を保持し、Google 等の名称・標章の権利は各権利者に帰属。"
+    }
+  },
+  "evidenceSnapshots": [
+    {
+      "issue": 118,
+      "url": "https://github.com/lmy414/ai-girl-stickers/issues/118",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-25T09:21:46.637Z",
+      "author": "Qinv-collab",
+      "authorUrl": "https://github.com/Qinv-collab",
+      "apiBodySha256": "5a4c6ceba07348089cbc6754d0938b3665114b854865ff2bf71a4d38d12f67e1",
+      "issueBodySha256": "1257a600dd758090cdd108752741e6b298811e012b586ff7266921075a50e6ad",
+      "pageHtmlSha256": "1be1b0eea36b4ec23e8d705dc95bc0afb2c319a8d60bf77d8c114780aa38dc27",
+      "title": "AI拟人化形象——Gemini Pro",
+      "createdAt": "2026-10-13T08:24:02Z",
+      "attachmentCount": 3,
+      "declaredTerms": [
+        "CC BY-NC-SA 4.0"
+      ],
+      "attachments": [
+        {
+          "position": 1,
+          "url": "https://github.com/user-attachments/assets/070299d6-bb47-4788-96fe-768eaa97e739",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-25T09:21:51.682Z",
+          "sourceSha256": "85ac9ea3a4713772d259d8b5674579d71647a1406053dfddec59d96a9d3e9a24",
+          "gitBlobSha": "e29fd547646a592e43cd1d116b343fed3f74d5d7",
+          "bytes": 1997673,
+          "width": 1076,
+          "height": 1462,
+          "format": "png",
+          "archive": {
+            "path": "dist/submissions/originals/gemini/85ac9ea3a4713772.png",
+            "commit": "a63fc3d9536dfc46b7941d61b14efcdf8adddc20",
+            "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/85ac9ea3a4713772.png",
+            "gitBlobSha": "e29fd547646a592e43cd1d116b343fed3f74d5d7"
+          }
+        },
+        {
+          "position": 2,
+          "url": "https://github.com/user-attachments/assets/d5e11bea-b792-43a3-a9da-7079f4595214",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-25T09:21:51.358Z",
+          "sourceSha256": "d7b0db20e10c4ad0796c2d1bff063f7f0378c5c4bdf52e238c09c7c9fe74c239",
+          "gitBlobSha": "42b5baf81276dd627558669aa6ae0dc0f5172d45",
+          "bytes": 2166540,
+          "width": 1145,
+          "height": 1374,
+          "format": "png",
+          "archive": {
+            "path": "dist/submissions/originals/gemini/d7b0db20e10c4ad0.png",
+            "commit": "a63fc3d9536dfc46b7941d61b14efcdf8adddc20",
+            "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/d7b0db20e10c4ad0.png",
+            "gitBlobSha": "42b5baf81276dd627558669aa6ae0dc0f5172d45"
+          }
+        },
+        {
+          "position": 3,
+          "url": "https://github.com/user-attachments/assets/13fc2db8-f47e-4cd9-84be-8e08376d3cdc",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-25T09:21:51.450Z",
+          "sourceSha256": "f1e87eabf4ff1fe3fa8f3db09ccc1ae12c0a5936e046e5b759476f1540a84c13",
+          "gitBlobSha": "5b2342dfea2170c6a1981840df29947da91b2f40",
+          "bytes": 2239957,
+          "width": 1145,
+          "height": 1374,
+          "format": "png",
+          "archive": {
+            "path": "dist/submissions/originals/gemini/f1e87eabf4ff1fe3.png",
+            "commit": "a63fc3d9536dfc46b7941d61b14efcdf8adddc20",
+            "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/f1e87eabf4ff1fe3.png",
+            "gitBlobSha": "5b2342dfea2170c6a1981840df29947da91b2f40"
+          }
+        }
+      ],
+      "license": "CC BY-NC-SA 4.0",
+      "scope": "Creator submission #118 explicitly permits noncommercial sharing and adaptation with attribution and share-alike; exact three attachments checked.",
+      "originalArtist": "我已经有杰米奈了",
+      "originalArtistProfile": "https://www.pixiv.net/users/129846508",
+      "originalPublication": "https://www.pixiv.net/artworks/150323370"
+    },
+    {
+      "path": "dist/submissions/originals/gemini/85ac9ea3a4713772.png",
+      "commit": "a63fc3d9536dfc46b7941d61b14efcdf8adddc20",
+      "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/85ac9ea3a4713772.png",
+      "gitBlobSha": "e29fd547646a592e43cd1d116b343fed3f74d5d7",
+      "rawUrl": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/85ac9ea3a4713772.png",
+      "sourceSha256": "85ac9ea3a4713772d259d8b5674579d71647a1406053dfddec59d96a9d3e9a24",
+      "attachmentSha256": "85ac9ea3a4713772d259d8b5674579d71647a1406053dfddec59d96a9d3e9a24",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-25T09:24:57.568Z",
+      "byteMatch": true,
+      "width": 1076,
+      "height": 1462,
+      "bytes": 1997673,
+      "format": "png",
+      "position": 1
+    },
+    {
+      "path": "dist/submissions/originals/gemini/d7b0db20e10c4ad0.png",
+      "commit": "a63fc3d9536dfc46b7941d61b14efcdf8adddc20",
+      "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/d7b0db20e10c4ad0.png",
+      "gitBlobSha": "42b5baf81276dd627558669aa6ae0dc0f5172d45",
+      "rawUrl": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/d7b0db20e10c4ad0.png",
+      "sourceSha256": "d7b0db20e10c4ad0796c2d1bff063f7f0378c5c4bdf52e238c09c7c9fe74c239",
+      "attachmentSha256": "d7b0db20e10c4ad0796c2d1bff063f7f0378c5c4bdf52e238c09c7c9fe74c239",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-25T09:24:58.347Z",
+      "byteMatch": true,
+      "width": 1145,
+      "height": 1374,
+      "bytes": 2166540,
+      "format": "png",
+      "position": 2
+    },
+    {
+      "path": "dist/submissions/originals/gemini/f1e87eabf4ff1fe3.png",
+      "commit": "a63fc3d9536dfc46b7941d61b14efcdf8adddc20",
+      "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/f1e87eabf4ff1fe3.png",
+      "gitBlobSha": "5b2342dfea2170c6a1981840df29947da91b2f40",
+      "rawUrl": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/f1e87eabf4ff1fe3.png",
+      "sourceSha256": "f1e87eabf4ff1fe3fa8f3db09ccc1ae12c0a5936e046e5b759476f1540a84c13",
+      "attachmentSha256": "f1e87eabf4ff1fe3fa8f3db09ccc1ae12c0a5936e046e5b759476f1540a84c13",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-25T09:24:59.420Z",
+      "byteMatch": true,
+      "width": 1145,
+      "height": 1374,
+      "bytes": 2239957,
+      "format": "png",
+      "position": 3
+    },
+    {
+      "url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "httpStatus": 200,
+      "title": "Deed - Attribution-NonCommercial-ShareAlike 4.0 International - Creative Commons",
+      "accessedAt": "2026-11-25T09:25:03.130Z",
+      "htmlSha256": "171996eb2ee1d795b844dfc7e39acc6e8c44c96349f260e86fb91b1a4543f8b2"
+    }
+  ],
+  "files": [
+    {
+      "id": "portrait",
+      "path": "dist/submissions/originals/gemini/85ac9ea3a4713772.png",
+      "sha256": "85ac9ea3a4713772d259d8b5674579d71647a1406053dfddec59d96a9d3e9a24",
+      "label": {
+        "zh": "Gemini Pro 全身立绘",
+        "en": "Gemini Pro full-body portrait",
+        "ja": "Gemini Pro 全身立ち絵"
+      }
+    },
+    {
+      "id": "smiling",
+      "path": "dist/submissions/originals/gemini/d7b0db20e10c4ad0.png",
+      "sha256": "d7b0db20e10c4ad0796c2d1bff063f7f0378c5c4bdf52e238c09c7c9fe74c239",
+      "label": {
+        "zh": "Gemini Pro 微笑表情",
+        "en": "Gemini Pro smiling expression",
+        "ja": "Gemini Pro 笑顔"
+      }
+    },
+    {
+      "id": "dizzy",
+      "path": "dist/submissions/originals/gemini/f1e87eabf4ff1fe3.png",
+      "sha256": "f1e87eabf4ff1fe3fa8f3db09ccc1ae12c0a5936e046e5b759476f1540a84c13",
+      "label": {
+        "zh": "Gemini Pro 晕眩表情",
+        "en": "Gemini Pro dizzy expression",
+        "ja": "Gemini Pro めまい表情"
+      }
+    }
+  ],
+  "retrievedAt": "2026-11-25T09:26:35.377Z",
+  "evidence": [
+    {
+      "sourceUrl": "https://github.com/lmy414/ai-girl-stickers/issues/118",
+      "localPath": "collected/qinv-gemini-pro/evidence/source-statement-1.json",
+      "sha256": "e0d3bb1248f0ac0ad81b50189905ed15ac455e11d14c00fb891a952f9a9ae524"
+    },
+    {
+      "sourceUrl": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/85ac9ea3a4713772.png",
+      "localPath": "collected/qinv-gemini-pro/evidence/source-statement-2.json",
+      "sha256": "b69a47a826b9f04b790d0a521d7d250c59bede7b9581e8917ffad84cbfd92ab8"
+    },
+    {
+      "sourceUrl": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/d7b0db20e10c4ad0.png",
+      "localPath": "collected/qinv-gemini-pro/evidence/source-statement-3.json",
+      "sha256": "17a4cccac6f712d94deaf649e60303a7709826948717458cda3f7645183c60d5"
+    },
+    {
+      "sourceUrl": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/f1e87eabf4ff1fe3.png",
+      "localPath": "collected/qinv-gemini-pro/evidence/source-statement-4.json",
+      "sha256": "be0532752cbd060f8a89e1dc3c1ccdcd2334560937b24df7b914e870bee5d422"
+    },
+    {
+      "sourceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "localPath": "collected/qinv-gemini-pro/evidence/source-statement-5.json",
+      "sha256": "c22bb1ed8431ebcee57bec99ee89e911432dd828b69aec5c9277ba9e2e65ad7e"
+    }
+  ],
+  "originals": [
+    {
+      "id": "portrait",
+      "path": "dist/submissions/originals/gemini/85ac9ea3a4713772.png",
+      "sha256": "85ac9ea3a4713772d259d8b5674579d71647a1406053dfddec59d96a9d3e9a24",
+      "label": {
+        "zh": "Gemini Pro 全身立绘",
+        "en": "Gemini Pro full-body portrait",
+        "ja": "Gemini Pro 全身立ち絵"
+      },
+      "sourceUrl": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/85ac9ea3a4713772.png",
+      "sourcePage": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/85ac9ea3a4713772.png",
+      "localPath": "collected/qinv-gemini-pro/portrait/original.png",
+      "width": 1076,
+      "height": 1462,
+      "alpha": false,
+      "bytes": 1997673
+    },
+    {
+      "id": "smiling",
+      "path": "dist/submissions/originals/gemini/d7b0db20e10c4ad0.png",
+      "sha256": "d7b0db20e10c4ad0796c2d1bff063f7f0378c5c4bdf52e238c09c7c9fe74c239",
+      "label": {
+        "zh": "Gemini Pro 微笑表情",
+        "en": "Gemini Pro smiling expression",
+        "ja": "Gemini Pro 笑顔"
+      },
+      "sourceUrl": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/d7b0db20e10c4ad0.png",
+      "sourcePage": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/d7b0db20e10c4ad0.png",
+      "localPath": "collected/qinv-gemini-pro/smiling/original.png",
+      "width": 1145,
+      "height": 1374,
+      "alpha": false,
+      "bytes": 2166540
+    },
+    {
+      "id": "dizzy",
+      "path": "dist/submissions/originals/gemini/f1e87eabf4ff1fe3.png",
+      "sha256": "f1e87eabf4ff1fe3fa8f3db09ccc1ae12c0a5936e046e5b759476f1540a84c13",
+      "label": {
+        "zh": "Gemini Pro 晕眩表情",
+        "en": "Gemini Pro dizzy expression",
+        "ja": "Gemini Pro めまい表情"
+      },
+      "sourceUrl": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/f1e87eabf4ff1fe3.png",
+      "sourcePage": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/f1e87eabf4ff1fe3.png",
+      "localPath": "collected/qinv-gemini-pro/dizzy/original.png",
+      "width": 1145,
+      "height": 1374,
+      "alpha": false,
+      "bytes": 2239957
+    }
+  ]
+}

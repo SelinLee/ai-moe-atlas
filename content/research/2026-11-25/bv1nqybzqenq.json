@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:16.190Z",
+  "url": "https://www.bilibili.com/video/BV1nqyBzqENQ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nqyBzqENQ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1nqyBzqENQ",
+    "title": "也就是说，是大肥鱼赢了",
+    "owner": {
+      "name": "死去活来的不知死活",
+      "mid": 432311798
+    },
+    "pubdate": 1795580506,
+    "duration": 134
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.428Z",
+    "htmlSha256": "0ebec11064620d1e84049133acb00f988ee5c9a62f2814b51ffe9d67ff7be6d2",
+    "title": "也就是说，是大肥鱼赢了",
+    "publisher": "死去活来的不知死活",
+    "publisherUrl": "https://space.bilibili.com/432311798"
+  }
+}

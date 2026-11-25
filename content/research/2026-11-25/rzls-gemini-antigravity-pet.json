@@ -1,0 +1,52 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:26:19.915Z",
+  "url": "https://github.com/rzls420420/gemini-desktop-pet/blob/dfc09867d3dde1f9a1da33ad115561882fa9f662/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/rzls420420/gemini-desktop-pet/blob/dfc09867d3dde1f9a1da33ad115561882fa9f662/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/rzls420420/gemini-desktop-pet/dfc09867d3dde1f9a1da33ad115561882fa9f662/README.md",
+    "sourceSha256": "d0e3740bd587cfc6d4bb1d0daec7666a6620930675a174470d161fe0cacb1cc9",
+    "gitBlobSha": "51aed8429368fa1736f68ca016d1d316a56d7905",
+    "bytes": 3856,
+    "commit": "dfc09867d3dde1f9a1da33ad115561882fa9f662",
+    "accessedAt": "2026-11-25T09:26:19.915Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/rzls420420/gemini-desktop-pet/blob/dfc09867d3dde1f9a1da33ad115561882fa9f662/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/rzls420420/gemini-desktop-pet/dfc09867d3dde1f9a1da33ad115561882fa9f662/README.md",
+      "sourceSha256": "d0e3740bd587cfc6d4bb1d0daec7666a6620930675a174470d161fe0cacb1cc9",
+      "gitBlobSha": "51aed8429368fa1736f68ca016d1d316a56d7905",
+      "bytes": 3856,
+      "commit": "dfc09867d3dde1f9a1da33ad115561882fa9f662",
+      "accessedAt": "2026-11-25T09:26:19.915Z"
+    },
+    {
+      "path": "NOTICE.md",
+      "url": "https://github.com/rzls420420/gemini-desktop-pet/blob/dfc09867d3dde1f9a1da33ad115561882fa9f662/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/rzls420420/gemini-desktop-pet/dfc09867d3dde1f9a1da33ad115561882fa9f662/NOTICE.md",
+      "sourceSha256": "1194282d2ad03e33191e09509c575eef66c93edd19c5c1541725ebb7089ce059",
+      "gitBlobSha": "8904e6d6e01bf18b9001cf08cebf3ca05697b66f",
+      "bytes": 505,
+      "commit": "dfc09867d3dde1f9a1da33ad115561882fa9f662",
+      "accessedAt": "2026-11-25T09:26:20.362Z"
+    }
+  ],
+  "repository": {
+    "full_name": "rzls420420/gemini-desktop-pet",
+    "html_url": "https://github.com/rzls420420/gemini-desktop-pet",
+    "stargazers_count": 0,
+    "archived": false,
+    "created_at": "2026-11-22T04:45:42Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "dfc09867d3dde1f9a1da33ad115561882fa9f662",
+    "observedAt": "2026-11-25T09:24:06.885Z",
+    "httpStatus": 200,
+    "metadataSha256": "d1ae84cb94bb3c4aa1a1986ccc538764fd38ce0dc7ccfa2e27de9d56dbffdbcf",
+    "parent": null
+  },
+  "scope": "Pinned documentation verified by Git blob and SHA-256. Feature descriptions are from the project documents; runtime not tested."
+}

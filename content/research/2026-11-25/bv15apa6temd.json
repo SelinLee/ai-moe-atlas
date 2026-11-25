@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:18.222Z",
+  "url": "https://www.bilibili.com/video/BV15apA6tEmd/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15apA6tEmd",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV15apA6tEmd",
+    "title": "《大模型复读班》第一集：画一只骑自行车的鹈鹕",
+    "owner": {
+      "name": "彼岸花Channel",
+      "mid": 13787349
+    },
+    "pubdate": 1791340200,
+    "duration": 196
+  },
+  "descriptionSha256": "0d7e315f3dcfb4602b33c58fdfddbff08a2fe121ed28c98abf60a152ea271171",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%8D%83%E9%97%AE%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.409Z",
+    "htmlSha256": "750dcb7935b495300266f4f1c12693c32481ad936090579bb6564e05e9c1147d",
+    "title": "《大模型复读班》第一集：画一只骑自行车的鹈鹕",
+    "publisher": "彼岸花Channel",
+    "publisherUrl": "https://space.bilibili.com/13787349"
+  }
+}

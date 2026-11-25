@@ -2142,7 +2142,7 @@
   {
     "id": "qinv-gemini-pro",
     "entity": "gemini",
-    "kind": "reference",
+    "kind": "collected",
     "style": "anime",
     "official": false,
     "name": {
@@ -2156,19 +2156,19 @@
       "ja": "我已经有杰米奈了 による Gemini Pro ver1.00 の擬人化イラスト。"
     },
     "story": {
-      "zh": "作者通过 Pixiv 发布这版 Gemini，并另在 GitHub 提交相关图片。两处文件分别留存核对记录。",
-      "en": "The creator published this Gemini version on Pixiv and submitted related images on GitHub. The two sets of files were verified individually.",
-      "ja": "作者はこの Gemini を Pixiv に公開し、関連画像を GitHub に投稿。両方のファイルを個別に照合。"
+      "zh": "Pixiv 原帖曾核对 1076 × 1462 JPEG。另在作者的 Gemini Pro 第118号投稿中查得三张 PNG（全身与两张表情），逐张匹配固定档案并核实作者的非商业共享声明。第119号 Flash 投稿与校服投稿不混入本包。",
+      "en": "The 1076 × 1462 Pixiv JPEG was previously checked. Creator submission #118 contains three PNGs (full body and two expressions), each verified against the pinned archive and the explicit noncommercial share-alike statement. Flash submission #119 and the school-uniform submission are separate.",
+      "ja": "Pixiv の1076 × 1462 JPEG は以前照合済み。作者の Gemini Pro 第118号投稿の PNG 3枚（全身・表情2枚）を固定アーカイブと照合し、非営利共有条件を確認。Flash 第119号投稿と制服版は別扱い。"
     },
     "features": {
-      "zh": "Pixiv 原始文件为 1076 × 1462 JPEG。另有独立来源的校园制服图。",
-      "en": "The Pixiv original is a 1076 × 1462 JPEG. A school-uniform image appears in a separate submission.",
-      "ja": "Pixiv 原画は 1076 × 1462 の JPEG。制服版は別の投稿に掲載。"
+      "zh": "紫色长发、金色星环、白色外衣、星空裙摆；附微笑与晕眩表情原图。",
+      "en": "Long purple hair, golden star halo, white coat and starry skirt; includes smiling and dizzy expressions.",
+      "ja": "紫の長髪、金色の星の輪、白い上着と星空のスカート。笑顔とめまい表情の原画付き。"
     },
     "author": "我已经有杰米奈了",
     "authorUrl": "https://www.pixiv.net/users/129846508",
-    "source": "https://www.pixiv.net/artworks/150323370",
-    "sourceTitle": "Gemini Pro ver1.00",
+    "source": "https://github.com/lmy414/ai-girl-stickers/issues/118",
+    "sourceTitle": "AI拟人化形象——Gemini Pro · #118",
     "originalPublication": "https://www.pixiv.net/artworks/150323370",
     "sourceStatus": "creator-published",
     "attribution": [
@@ -2180,19 +2180,49 @@
       }
     ],
     "method": "not-disclosed",
-    "license": "source-only",
+    "license": "CC-BY-NC-SA-4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-    "downloadable": false,
+    "downloadable": true,
     "bg": "#e7ebff",
     "color": "#484eb2",
-    "verifiedAt": "2026-11-22",
+    "verifiedAt": "2026-11-25",
     "origin": "web-collected",
-    "preview": null,
-    "assets": [],
+    "preview": "collected/qinv-gemini-pro/portrait/preview.webp",
+    "assets": [
+      {
+        "id": "portrait",
+        "label": {
+          "zh": "Gemini Pro 全身立绘",
+          "en": "Gemini Pro full-body portrait",
+          "ja": "Gemini Pro 全身立ち絵"
+        }
+      },
+      {
+        "id": "smiling",
+        "label": {
+          "zh": "Gemini Pro 微笑表情",
+          "en": "Gemini Pro smiling expression",
+          "ja": "Gemini Pro 笑顔"
+        }
+      },
+      {
+        "id": "dizzy",
+        "label": {
+          "zh": "Gemini Pro 晕眩表情",
+          "en": "Gemini Pro dizzy expression",
+          "ja": "Gemini Pro めまい表情"
+        }
+      }
+    ],
     "provenanceNote": {
-      "zh": "Pixiv 原帖声明 CC BY-NC-SA 4.0。学校制服投稿的条件见独立原帖。",
-      "en": "The Pixiv post declares CC BY-NC-SA 4.0. The separate school-uniform submission has its own source terms.",
-      "ja": "Pixiv 原投稿に CC BY-NC-SA 4.0 と明記。制服イラストは別投稿の利用条件を参照。"
+      "zh": "作者在 Gemini Pro 第118号投稿中将这组三张图声明为 CC BY-NC-SA 4.0；须署名、非商业使用，改编同协议共享。素材包保留原 PNG 和完整出处；Google 等名称与标识的权利另属权利方。",
+      "en": "The creator declares CC BY-NC-SA 4.0 for these three images in Gemini Pro submission #118: attribution, noncommercial use and share-alike for adaptations. The pack preserves the original PNGs and provenance. Google and other product names/marks retain their respective rights.",
+      "ja": "作者は Gemini Pro 第118号投稿の画像3点に CC BY-NC-SA 4.0 を指定。クレジット、非商用、改変物の同一条件での共有が必要。元 PNG と出典を保持し、Google 等の名称・標章の権利は各権利者に帰属。"
+    },
+    "licenseLabel": {
+      "zh": "CC BY-NC-SA 4.0 非商业共享",
+      "en": "CC BY-NC-SA 4.0 Non-commercial",
+      "ja": "CC BY-NC-SA 4.0 非営利共有"
     }
   },
   {

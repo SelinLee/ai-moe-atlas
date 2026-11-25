@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:21.100Z",
+  "url": "https://www.bilibili.com/video/BV1H71wzBEgT/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1H71wzBEgT",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1H71wzBEgT",
+    "title": "老马破产，Grok大小姐靠摆摊杀回华尔街！",
+    "owner": {
+      "name": "孔某人拒绝加班",
+      "mid": 8002550
+    },
+    "pubdate": 1795573800,
+    "duration": 165
+  },
+  "descriptionSha256": "8ea907c5b6e7993f1d101b0e464d4fd246d218dfe8ef3f8a942f42113d8e13ea",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:08.319Z",
+    "htmlSha256": "a3fe8456a74d99badf488009071e1b28364080a36b88f6b9805016b3f60cb937",
+    "title": "老马破产，Grok大小姐靠摆摊杀回华尔街！",
+    "publisher": "孔某人拒绝加班",
+    "publisherUrl": "https://space.bilibili.com/8002550"
+  }
+}

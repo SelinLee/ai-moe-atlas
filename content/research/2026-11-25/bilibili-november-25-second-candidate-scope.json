@@ -1,0 +1,21 @@
+{
+  "previousEvidence": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+  "currentEvidence": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-second-candidate-batch.json",
+  "capturedAt": "2026-11-25T09:18:21.134Z",
+  "queried": 45,
+  "successfulMetadata": 44,
+  "newRankedRows": 42,
+  "newPending": 1,
+  "previousPending": 10,
+  "previousRefreshFailures": 10,
+  "notCataloged": [
+    {
+      "bvid": "BV11WyBzjEvV",
+      "reason": "Editorial selection; not added."
+    },
+    {
+      "bvid": "BV1ZWyzzNEaY",
+      "reason": "Scope not confirmed by title and description."
+    }
+  ]
+}

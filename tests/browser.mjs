@@ -1,6 +1,7 @@
 import {chromium} from 'playwright';
 import assert from 'node:assert/strict';
 import {readFile,mkdir} from 'node:fs/promises';
+import {createHash} from 'node:crypto';
 import JSZip from 'jszip';
 import sharp from 'sharp';
 const origin=process.env.ATLAS_TEST_URL??'http://127.0.0.1:4322/ai-moe-atlas';
@@ -53,12 +54,29 @@ try {
   const qwenPack=page.locator('.asset-section').filter({has:page.locator('a[href$="/packs/mx1951-qwen.zip"]')});
   const olderQwenPack=page.locator('.asset-section').filter({has:page.locator('a[href$="/packs/zipzippipe-qwen.zip"]')});
   const claudePack=page.locator('.asset-section').filter({has:page.locator('a[href$="/packs/mx1951-claude.zip"]')});
+  const qinvPack=page.locator('.asset-section').filter({has:page.locator('a[href$="/packs/qinv-gemini-pro.zip"]')});
   const noncommercial={zh:'仅限非商业用途',en:'Non-commercial only',ja:'非営利利用のみ'}[lang];
   assert.match(await qwenPack.innerText(),/CC0 1\.0/);
   assert.ok(!(await qwenPack.innerText()).includes(noncommercial));
   assert.ok((await olderQwenPack.innerText()).includes(noncommercial));
   assert.match(await claudePack.innerText(),/CC0 1\.0/);
   assert.ok(!(await claudePack.innerText()).includes(noncommercial));
+  assert.match(await qinvPack.innerText(),/CC BY-NC-SA 4\.0/);
+  assert.ok((await qinvPack.innerText()).includes(noncommercial));
+  const qinvResponse=await context.request.get(await qinvPack.locator('a[href$="/packs/qinv-gemini-pro.zip"]').evaluate(a=>a.href));
+  assert.equal(qinvResponse.status(),200);
+  const qinvZip=await JSZip.loadAsync(await qinvResponse.body());
+  const qinvManifest=JSON.parse(await qinvZip.file('manifest.json').async('string'));
+  assert.equal(qinvManifest.source.rights.license,'CC-BY-NC-SA-4.0');
+  assert.equal(qinvManifest.source.rights.commercial,false);
+  assert.equal(qinvManifest.source.pageUrl,'https://github.com/lmy414/ai-girl-stickers/issues/118');
+  assert.equal(qinvManifest.source.originalPublication,'https://www.pixiv.net/artworks/150323370');
+  assert.deepEqual(qinvManifest.assets.map(a=>a.id),['portrait','smiling','dizzy']);
+  for(const o of qinvManifest.source.originals){
+   const bytes=await qinvZip.file(o.id+'/original.png').async('nodebuffer');
+   assert.equal(createHash('sha256').update(bytes).digest('hex'),o.sha256);
+   assert.equal(createHash('sha256').update(await readFile('public/'+o.localPath)).digest('hex'),o.sha256);
+  }
   assert.equal(await page.locator('a[href$="/packs/mx1951-deepseek.zip"]').count(),0);
   const claudeArchive=await context.request.get(await claudePack.locator('a[href$="/packs/mx1951-claude.zip"]').evaluate(a=>a.href));
   assert.equal(claudeArchive.status(),200);

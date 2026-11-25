@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:21.117Z",
+  "url": "https://www.bilibili.com/video/BV1sopq6uEGa/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sopq6uEGa",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1sopq6uEGa",
+    "title": "已雷霆大思考5min......",
+    "owner": {
+      "name": "柒拾兆字节",
+      "mid": 506159361
+    },
+    "pubdate": 1791886718,
+    "duration": 33
+  },
+  "descriptionSha256": "2330661de3d3948d3c5820e8521740361c62c39a93d45f1533044cd5093b4389",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E9%98%B6%E8%B7%83%E5%A8%98&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:07.010Z",
+    "htmlSha256": "c2574a905f48688839c43c1a3490fd479ae88257277d49737dd09202450be941",
+    "title": "已雷霆大思考5min......",
+    "publisher": "柒拾兆字节",
+    "publisherUrl": "https://space.bilibili.com/506159361"
+  }
+}

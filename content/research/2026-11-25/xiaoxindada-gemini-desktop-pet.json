@@ -1,0 +1,1514 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:26:18.429Z",
+  "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/README.md",
+    "sourceSha256": "e3ee37e52c9d42729827561adef7fdf6881b30121eaeec35f50fb49681916240",
+    "gitBlobSha": "8bf9852d890276c4506510ee4a69338f3763e775",
+    "bytes": 2795,
+    "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+    "accessedAt": "2026-11-25T09:26:18.429Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/README.md",
+      "sourceSha256": "e3ee37e52c9d42729827561adef7fdf6881b30121eaeec35f50fb49681916240",
+      "gitBlobSha": "8bf9852d890276c4506510ee4a69338f3763e775",
+      "bytes": 2795,
+      "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+      "accessedAt": "2026-11-25T09:26:18.429Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/LICENSE",
+      "sourceSha256": "d8ec1715581bd71e1df21f89c0abf9808eec931e71e609bf3651c39b18b81abf",
+      "gitBlobSha": "0dab460428ddad3d030beb4fd677014a552d71c2",
+      "bytes": 941,
+      "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+      "accessedAt": "2026-11-25T09:26:19.031Z"
+    },
+    {
+      "path": "CREDITS.md",
+      "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/CREDITS.md",
+      "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/CREDITS.md",
+      "sourceSha256": "445fb6d8ab88ca7269c8b8a86645cab82711571d8cad4fa9c804afaeff2302d7",
+      "gitBlobSha": "88df17ffc47c8bd7ef35355fdd7ab69554744889",
+      "bytes": 1954,
+      "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+      "accessedAt": "2026-11-25T09:26:19.477Z"
+    }
+  ],
+  "repository": {
+    "full_name": "xiaoxindada/GeminiDesktopPet",
+    "html_url": "https://github.com/xiaoxindada/GeminiDesktopPet",
+    "stargazers_count": 11,
+    "archived": false,
+    "created_at": "2026-11-14T19:55:20Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+    "observedAt": "2026-11-25T09:24:06.930Z",
+    "httpStatus": 200,
+    "metadataSha256": "fbc3d06175784c45a186cd49e4e40611688499db62ce6d9dcfe43f174b8ac5c3",
+    "parent": null
+  },
+  "scope": "Pinned documentation verified by Git blob and SHA-256. Feature descriptions are from the project documents; runtime not tested.",
+  "spriteComparison": {
+    "upstream": "lokicorvus/crosspet",
+    "upstreamCommit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+    "downstream": "xiaoxindada/GeminiDesktopPet",
+    "downstreamCommit": "479e040bf499fa980b13e6a532b05cf48090549b",
+    "expectedPairs": 48,
+    "comparedPairs": 48,
+    "decodedRgbaMatches": 48,
+    "visibleMatches": 48,
+    "files": [
+      {
+        "name": "annoyed.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/annoyed.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/annoyed.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/annoyed.webp",
+          "sourceSha256": "0a3459a0b16c89b59740560c3ed9d195fcb393828fb7733cccaf86efc51bc47f",
+          "gitBlobSha": "24a18a3f53353cad34059b49a491bbcbc96a8c24",
+          "bytes": 97258,
+          "width": 500,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:01.915Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/annoyed.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/annoyed.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/annoyed.png",
+          "sourceSha256": "9b3dbd4ef6430a19328beaecf3e4ffbfbea81a0b5c549da7e975672c308262cb",
+          "gitBlobSha": "ee4a1b213b1df3d978fa772595186c0edcdd2ea2",
+          "bytes": 458603,
+          "width": 500,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:02.362Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "asking.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/asking.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/asking.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/asking.webp",
+          "sourceSha256": "a313a2203957cd84009a0ef70a8be54d6267ad2638acc528c2706a3a16a64237",
+          "gitBlobSha": "a453372821b9f78866b2a561cd9c5c083a82abd3",
+          "bytes": 100652,
+          "width": 547,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:01.973Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/asking.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/asking.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/asking.png",
+          "sourceSha256": "c4d5e834c9195bbe026ccf663cf6e102bd552dee61b1220f41cf2a513c9ad817",
+          "gitBlobSha": "e560742c2ee1ba425505ba330d7b2cf330060fe4",
+          "bytes": 470059,
+          "width": 547,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:02.571Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "avatar.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/avatar.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/avatar.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/avatar.webp",
+          "sourceSha256": "7c2b59e66381151bbdd8ce4a8a94183186270993f4302f26870158b5b8d4e22a",
+          "gitBlobSha": "444441f744c50f8ad15af728d2074bd253c69f7d",
+          "bytes": 12676,
+          "width": 192,
+          "height": 192,
+          "accessedAt": "2026-11-25T09:30:01.957Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/avatar.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/avatar.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/avatar.png",
+          "sourceSha256": "586ed5ac8a061bf5492f1342ae1ac84d0be1d721f874c49f23f92dda9edff603",
+          "gitBlobSha": "17e80c8372a233d8710c6db58143b3ea146ae2fe",
+          "bytes": 49112,
+          "width": 192,
+          "height": 192,
+          "accessedAt": "2026-11-25T09:30:02.088Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "busy_left.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/busy_left.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/busy_left.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/busy_left.webp",
+          "sourceSha256": "a2aebb225061c17e2cb0f1e30d35f166a46956d9f192037184d92d127f7fd099",
+          "gitBlobSha": "c7f628a5e07368bc819995a2d7cc7274945b197b",
+          "bytes": 100760,
+          "width": 505,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:03.001Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/busy_left.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/busy_left.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/busy_left.png",
+          "sourceSha256": "f00a28a3c0e5574b4a91f7debe7bcaef4fed002dcb08e9b9cc0d0a9b6269ff9e",
+          "gitBlobSha": "e720a7daf2d3f412e044b0bf800096a3b572188a",
+          "bytes": 465513,
+          "width": 505,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:03.130Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "busy_right.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/busy_right.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/busy_right.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/busy_right.webp",
+          "sourceSha256": "787da0f28087dbd04967ea22d9820c7a8b6f8ac24987d95618800b669e89858d",
+          "gitBlobSha": "f2ebe67c8f1f1efd54a20d185528b16216bb8c6d",
+          "bytes": 99204,
+          "width": 498,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:03.137Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/busy_right.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/busy_right.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/busy_right.png",
+          "sourceSha256": "8cf20e24d2a23ec3b4af3845101729a124203a32909d85a2ecae781a7e2f3fff",
+          "gitBlobSha": "ba9de1f7240b9505e2ba11ec56c38e4c5d67e466",
+          "bytes": 445736,
+          "width": 498,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:03.499Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "bye.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/bye.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/bye.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/bye.webp",
+          "sourceSha256": "684a18a7620ca21ec63a851463682391b0571698b395f110a2db3f403dadb322",
+          "gitBlobSha": "7698159e25f7ffa63e375658c14590da45a7583d",
+          "bytes": 82390,
+          "width": 460,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:03.299Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/bye.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/bye.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/bye.png",
+          "sourceSha256": "7518bc3fbdcf29bb8ba1573b93848a846ee5903973701da1442c8940bad99f7b",
+          "gitBlobSha": "07f0d292257a1066fdd7dc7cc5a586a90376fe8b",
+          "bytes": 393576,
+          "width": 460,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:03.493Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "coaxed.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/coaxed.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/coaxed.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/coaxed.webp",
+          "sourceSha256": "8fd2007416191e595157d573222836080db2ebddb7596335d3a37bc3eefd01ad",
+          "gitBlobSha": "cf95cfe3eb6dc67ba0ee054f4be36d6c97a3b8c7",
+          "bytes": 92634,
+          "width": 473,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:03.918Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/coaxed.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/coaxed.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/coaxed.png",
+          "sourceSha256": "7ea8f9d05de312b2af039e79683eef8af452de7388b725e0c5724c31c2637127",
+          "gitBlobSha": "f82e25a4d59eb5dae7e43bf593f9751dbe8b46e0",
+          "bytes": 439913,
+          "width": 473,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:04.056Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "compact.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/compact.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/compact.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/compact.webp",
+          "sourceSha256": "8acb4bb2a8e60ec54b804be0041a2ce95dfcbf536de82d7dea7207f1c435cc6f",
+          "gitBlobSha": "3d0534c811492412526e6f2def3af4d92990598a",
+          "bytes": 116598,
+          "width": 572,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:04.050Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/compact.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/compact.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/compact.png",
+          "sourceSha256": "43d0c35cdd4651bfa4d8a91f2a726bb3232cde53f225a6eb6265462420ae7972",
+          "gitBlobSha": "f3f2e0d4fcf2bc236ef7a398edf2fd0cb16c9ed2",
+          "bytes": 564608,
+          "width": 572,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:04.603Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "delegating.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/delegating.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/delegating.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/delegating.webp",
+          "sourceSha256": "fd5524dcb8510542cb339c9a96d6821dc6e1738511c9c40f6cd65c586d9f086e",
+          "gitBlobSha": "1f19dbd150d371894171927b0306e0181225c774",
+          "bytes": 125616,
+          "width": 650,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:03.934Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/delegating.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/delegating.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/delegating.png",
+          "sourceSha256": "3a3df8251bccb85eadee31b774974c3684e6f85a5e2913402093b6f12f02a97e",
+          "gitBlobSha": "132e83e743cbee4e8776b0da4cb80801e6f3d60d",
+          "bytes": 574901,
+          "width": 650,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:04.386Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "dizzy.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/dizzy.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/dizzy.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/dizzy.webp",
+          "sourceSha256": "a0609732d8a045fe760b672e98fc408904390b91b51c95297f4c884d1f635191",
+          "gitBlobSha": "a8038a14e326557c85c1df39f37012c0dbadcff9",
+          "bytes": 100196,
+          "width": 501,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:05.029Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/dizzy.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/dizzy.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/dizzy.png",
+          "sourceSha256": "c1ef7aa8c19d069939b99e0db2ad768779348d2459c92c467c6a9ebebd47177c",
+          "gitBlobSha": "c0a3f83d1770e6dff9a44311f1834d3e0e7349d4",
+          "bytes": 466506,
+          "width": 501,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:05.133Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "drawing.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/drawing.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/drawing.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/drawing.webp",
+          "sourceSha256": "b25b7f706b117618e13133dc4d21ee84fd29e2c995514b61fe4526456d43b1fd",
+          "gitBlobSha": "2b08c76b5e2f31d5c6019a4a561396bb43e919c9",
+          "bytes": 115834,
+          "width": 613,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:05.015Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/drawing.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/drawing.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/drawing.png",
+          "sourceSha256": "7cf1574999623f1c6668c0aa96d4a837d2785c2cd01455b5a8fea70bab93be69",
+          "gitBlobSha": "f97ab4c5145920f921efb56e8a6fcdfe197b7304",
+          "bytes": 520714,
+          "width": 613,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:05.338Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "edge_left.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/edge_left.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/edge_left.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/edge_left.webp",
+          "sourceSha256": "1a74184c163e7bcc033f00ab01b9b118179151ed6b24ab0564c2aef185969937",
+          "gitBlobSha": "644f39a9bff906122fd8ab6cf459099aa9d1b54a",
+          "bytes": 62882,
+          "width": 292,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:05.027Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/edge_left.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/edge_left.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/edge_left.png",
+          "sourceSha256": "da33390d3fb24df12ecbaa8f53f0508f8fefcb19ddd767669a771879c6592dd3",
+          "gitBlobSha": "b99302d98fb410216e8e26acc692c54de64f38b0",
+          "bytes": 295811,
+          "width": 292,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:05.194Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "edge_left_peek.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/edge_left_peek.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/edge_left_peek.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/edge_left_peek.webp",
+          "sourceSha256": "b049e951a73c9be7b93778fde7f6e4778b34a87a9df0b7a252b13effe7ca6a2c",
+          "gitBlobSha": "b7ed17cb68f72f19e38c31e287fd02f0564f36d9",
+          "bytes": 81618,
+          "width": 363,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:05.737Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/edge_left_peek.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/edge_left_peek.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/edge_left_peek.png",
+          "sourceSha256": "445f67fb30d71cfed54eceb69c3348710595ccb1658b41941a0e6a998dcc5f32",
+          "gitBlobSha": "938779ea35bb0bf0514499e720931ba62105f149",
+          "bytes": 377659,
+          "width": 363,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:06.222Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "edge_right.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/edge_right.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/edge_right.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/edge_right.webp",
+          "sourceSha256": "78ca2b494459f78d5b5e3e6e9c2badb793c715fa070cd480afafaac6dfc64754",
+          "gitBlobSha": "d7137db63a78850d551311441bcde5bddf9a3322",
+          "bytes": 59318,
+          "width": 270,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:06.090Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/edge_right.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/edge_right.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/edge_right.png",
+          "sourceSha256": "5ef7d4c16083237b7f407ce82f2b97c9978be127bd35638460e953eab3f5c8db",
+          "gitBlobSha": "86119ea3c00cddaab9187c73dbbf57043924ffc6",
+          "bytes": 279569,
+          "width": 270,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:06.253Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "edge_right_peek.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/edge_right_peek.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/edge_right_peek.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/edge_right_peek.webp",
+          "sourceSha256": "97986b76977d2a96c85fb7db419b0ac9dd29f9f42f037604fa5dc7a91c40f4ed",
+          "gitBlobSha": "c33e85c9ea96a9db0eeaee6e383b27c03bf31534",
+          "bytes": 83454,
+          "width": 362,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:05.733Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/edge_right_peek.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/edge_right_peek.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/edge_right_peek.png",
+          "sourceSha256": "6804837a265ab7fdaced890344792daf51d4436d201bfabb44dd82dbdb41dc8b",
+          "gitBlobSha": "62dce6d7765ebb14ac18580549fcbb69ba709e7c",
+          "bytes": 399259,
+          "width": 362,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:05.795Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "float.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/float.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/float.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/float.webp",
+          "sourceSha256": "cfdb3df7a49c662fb6f5df1bb263cef7916ce96b3741eea09056d32752133e97",
+          "gitBlobSha": "f4ac29f0f08fbbf777ed3c48ec9d1f37602c6d78",
+          "bytes": 108486,
+          "width": 497,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:06.922Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/float.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/float.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/float.png",
+          "sourceSha256": "e960d729fc5ffd07620525fa6f7920ffb919ab86e48fd97dcf1830c1fae86b75",
+          "gitBlobSha": "86de9fcbfc3874f842fc116ff791a4674c247f46",
+          "bytes": 465735,
+          "width": 497,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:07.068Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "forgiven.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/forgiven.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/forgiven.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/forgiven.webp",
+          "sourceSha256": "23285200c0b9c1f8c73b2f5544280e9461e60625e2e5f205a461999cce24f1ad",
+          "gitBlobSha": "297467fb76ecc2b9ef55288b249e7b242fd9837e",
+          "bytes": 95522,
+          "width": 530,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:06.954Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/forgiven.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/forgiven.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/forgiven.png",
+          "sourceSha256": "16c07739e43d199ba1c5ddb6838aae42c4ee5c0f118b567391cec85e8326939b",
+          "gitBlobSha": "13e3adfed333bd93a1fcf8c9b6109fbd64234797",
+          "bytes": 457334,
+          "width": 530,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:07.019Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "greet_afternoon.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/greet_afternoon.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/greet_afternoon.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/greet_afternoon.webp",
+          "sourceSha256": "e71a0392df6720ea4a7ca1f699058cf7e5c216fd0a5ce61418da7fac4b86d525",
+          "gitBlobSha": "1ee9b74c4242a8b0a07ac9e97531285769dafc50",
+          "bytes": 106920,
+          "width": 517,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:06.939Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/greet_afternoon.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/greet_afternoon.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/greet_afternoon.png",
+          "sourceSha256": "60b4e5893e40c3073de1d7b218ca3383bfea49a185f3097d4889a93fe728fb32",
+          "gitBlobSha": "f3c0690356bb58e4a1f3aacd9ee648493e33b637",
+          "bytes": 500346,
+          "width": 517,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:07.052Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "greet_dawn.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/greet_dawn.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/greet_dawn.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/greet_dawn.webp",
+          "sourceSha256": "3a8037f210a006bdd63e4e4d6125e3bcb447bbf481e0cf6f9a814e4aced1490b",
+          "gitBlobSha": "5ed3822993ca0fa20eb3104cf2dec12db077aa73",
+          "bytes": 91620,
+          "width": 468,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:07.517Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/greet_dawn.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/greet_dawn.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/greet_dawn.png",
+          "sourceSha256": "979cdd05e231ed6e79bcfe315305055cbc7416ccc24486094d85c1d2cf858d03",
+          "gitBlobSha": "2b78da94cea13c91dc6dcad90eb3d60d7b6f78f9",
+          "bytes": 437941,
+          "width": 468,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:07.784Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "greet_evening.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/greet_evening.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/greet_evening.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/greet_evening.webp",
+          "sourceSha256": "a9c74fc565cec90eeecc10714b780d6ae13e2607a20f900e15628bd871d3e85b",
+          "gitBlobSha": "a402a3817af9190dd6e263fa6160dbba1d499bcc",
+          "bytes": 103276,
+          "width": 524,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:07.522Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/greet_evening.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/greet_evening.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/greet_evening.png",
+          "sourceSha256": "6e39dcb1cf40b6bb5425c64729a6dc60364b27c9b9382e8139c21ce81ae853d1",
+          "gitBlobSha": "04ba4bdf6c6d2588afb1bcf582739eca8d2ab134",
+          "bytes": 483067,
+          "width": 524,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:07.660Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "greet_morning.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/greet_morning.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/greet_morning.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/greet_morning.webp",
+          "sourceSha256": "0acc5b6676b8779448703be0466f5baaa10c4bfd561e782dd4b59672b2983f0d",
+          "gitBlobSha": "2e5318744367a079ef4d1b3c9b5694d57b61bec7",
+          "bytes": 101184,
+          "width": 506,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:07.517Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/greet_morning.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/greet_morning.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/greet_morning.png",
+          "sourceSha256": "3a84b7c548285bf75f8fe603c9a6c7c329862230d294137e7be2f4d367e690ec",
+          "gitBlobSha": "d237f3936d8489ec444899909347dca9a27f23ca",
+          "bytes": 472782,
+          "width": 506,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:07.771Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "greet_night.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/greet_night.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/greet_night.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/greet_night.webp",
+          "sourceSha256": "2a27e22a17e0f9b15fd5170c04063af6e195c56ae82b3da36c6ec4a38a2023cf",
+          "gitBlobSha": "f4ba8d33ad6555325b290b6a3751f00bd285d66c",
+          "bytes": 105234,
+          "width": 546,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:08.247Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/greet_night.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/greet_night.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/greet_night.png",
+          "sourceSha256": "3f2f2fba7857cf5ea118a394d119701749e2668271017611436b4293c8c31f08",
+          "gitBlobSha": "7133538b544627af9c7baaccac8ba4d7281b7f42",
+          "bytes": 499361,
+          "width": 546,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:08.433Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "greet_noon.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/greet_noon.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/greet_noon.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/greet_noon.webp",
+          "sourceSha256": "cf4ff64a59c490533b5ebbdb15ff6e200136efe5d777189a50900689b05cb2f4",
+          "gitBlobSha": "4335371a2ef0d283eeafd85b3759f63b3ed51afe",
+          "bytes": 95672,
+          "width": 484,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:08.216Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/greet_noon.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/greet_noon.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/greet_noon.png",
+          "sourceSha256": "a6d8b8fba229199bc189dadeaf8654671e4cddb364dde893ed188877e803539c",
+          "gitBlobSha": "0a2f0171380d6119b257df627d657333ae37aff5",
+          "bytes": 450670,
+          "width": 484,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:08.689Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "happy.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/happy.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/happy.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/happy.webp",
+          "sourceSha256": "63d24384615ea901cb695e32538e738555da95856b92a60b961b54d4a6a2f886",
+          "gitBlobSha": "cd02217c2c161ebc4c8475c434db99cc59bc5cf5",
+          "bytes": 101282,
+          "width": 502,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:08.227Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/happy.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/happy.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/happy.png",
+          "sourceSha256": "bf386c90809c6b3e7ea997d4effbf46ad993adf41e73e94b74917e524435c0f5",
+          "gitBlobSha": "a313a1f717ae34ae7023226892170bdf8d969a01",
+          "bytes": 478699,
+          "width": 502,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:08.420Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "hum.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/hum.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/hum.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/hum.webp",
+          "sourceSha256": "7d287e6719bd8e3191e9c743a2c05e9eec458ae9345d888e37aa23078d393e70",
+          "gitBlobSha": "e2465c485c777022f74b7bdf3870395147f8fca3",
+          "bytes": 101878,
+          "width": 510,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:09.102Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/hum.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/hum.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/hum.png",
+          "sourceSha256": "a854eb9cb8f2a73f1b80ec8f3102667cf1c8bdacb9618d2516448232ec7772b7",
+          "gitBlobSha": "8d57f3b5396e7df449a46b4382ea66802107232c",
+          "bytes": 476318,
+          "width": 510,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:09.482Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "idle-2.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/idle-2.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/idle-2.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/idle-2.webp",
+          "sourceSha256": "bbc6f448952a0c0d12c45a36cd79987686a68c07dae95acbadc17ad94a5d651a",
+          "gitBlobSha": "7445663f2c0aa8d683743f4de12d954dd4ca43bd",
+          "bytes": 99778,
+          "width": 494,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:09.117Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/idle-2.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/idle-2.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/idle-2.png",
+          "sourceSha256": "0e9978e98172aac649303f8d8fb37bd5fd9e63e9d84e33bf29f58de11fc6319f",
+          "gitBlobSha": "d713fb755a7b3ce676a624e3901d0876ad8a1e86",
+          "bytes": 462948,
+          "width": 494,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:09.160Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "idle-3.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/idle-3.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/idle-3.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/idle-3.webp",
+          "sourceSha256": "8b34a519dfc6f87adc9486d1dcd8abd53a8e147a94cc9eb1c263800195745d19",
+          "gitBlobSha": "c9fb0b518e30e4b57285c7350f6c06d4e2c6ecc9",
+          "bytes": 99470,
+          "width": 503,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:09.111Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/idle-3.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/idle-3.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/idle-3.png",
+          "sourceSha256": "b93a80a5be5f945331c131090c7642ec697f94061286dfcf66b06f705500ef0e",
+          "gitBlobSha": "a244813a039e4293488693f2a05c92461cf0f599",
+          "bytes": 467215,
+          "width": 503,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:09.456Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "idle.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/idle.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/idle.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/idle.webp",
+          "sourceSha256": "fa0c2937114fdd283a65d113a356626c1f02d8a1ba892d8ca85f50b97d7b44f4",
+          "gitBlobSha": "e99915a718c90e02023ebbe23003fac00cc94f21",
+          "bytes": 103710,
+          "width": 555,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:09.900Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/idle.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/idle.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/idle.png",
+          "sourceSha256": "29f5740f7b816eae223f637b346f30eb4ff595700d66c894019ba70ac3e4ad95",
+          "gitBlobSha": "77eb0f501dc336fe957dd09f1d59930f5a3edfaf",
+          "bytes": 508750,
+          "width": 555,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:10.364Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "listening.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/listening.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/listening.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/listening.webp",
+          "sourceSha256": "a312a1091e4b37ef25b13fad7e1d62481e25362fd41492f201292316f08126d9",
+          "gitBlobSha": "681de6724937afc1756509911a80bdb81c62e175",
+          "bytes": 103718,
+          "width": 511,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:09.864Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/listening.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/listening.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/listening.png",
+          "sourceSha256": "cbcc241cdd450c7c5f8f12f92ccd609d0f50ae7ace1fcde69f752e9918ffd4d1",
+          "gitBlobSha": "499da830ff8ae1b7b9cfc6cdb29bd1dccdf92466",
+          "bytes": 482671,
+          "width": 511,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:10.197Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "oops.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/oops.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/oops.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/oops.webp",
+          "sourceSha256": "c4a3b7e1d090f1183e79cecb8d8917ce66b64b4a3bc90522a9ee1e2c857319f3",
+          "gitBlobSha": "2fbe977864880dcfca5223dae9d549607c5638e7",
+          "bytes": 103896,
+          "width": 522,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:09.888Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/oops.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/oops.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/oops.png",
+          "sourceSha256": "1ade9e7f6a930d8bd46b2a14c2be4c4668994ab571bf8552f7888e8cc1862c4a",
+          "gitBlobSha": "cfc49d242ba6027276135d19085f873be7b445f1",
+          "bytes": 490588,
+          "width": 522,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:10.032Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "pat.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/pat.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/pat.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/pat.webp",
+          "sourceSha256": "fb931506a0e861310ad7029d2666aaefe80868ccba3afe43353e83b7cad9895d",
+          "gitBlobSha": "ddd035ee892d3c5309bf4eed5012c450780e8f22",
+          "bytes": 103346,
+          "width": 508,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:10.758Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/pat.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/pat.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/pat.png",
+          "sourceSha256": "55a624b1a17c94e0d71e569e54d01c070930f46728bfcf9da642fce380bc416c",
+          "gitBlobSha": "5ca58dbf94baf2a3ae8a90af88b358bf5ac48a64",
+          "bytes": 490781,
+          "width": 508,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:10.915Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "proud.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/proud.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/proud.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/proud.webp",
+          "sourceSha256": "88b3367a1f4df49cc474d977e053633e3e7b49baebc4b933a459ad0f0a1136bf",
+          "gitBlobSha": "26f8576238335999b84461a93ecca471c3e062f8",
+          "bytes": 100002,
+          "width": 477,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:10.769Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/proud.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/proud.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/proud.png",
+          "sourceSha256": "85f720419dcbbb36e4383f3a679d41a8df627f10c935a56591f9eee8dc9350a2",
+          "gitBlobSha": "f51f5f4db50af23b228396cbdf16599453dddbab",
+          "bytes": 461295,
+          "width": 477,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:10.890Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "puffed.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/puffed.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/puffed.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/puffed.webp",
+          "sourceSha256": "9d79cbe96fbd481cda47a1276048932778f87cc4fe6b7ab882e7a331484e04f4",
+          "gitBlobSha": "854dad14d4ef20a24306472eceab72fd1b3ea147",
+          "bytes": 102452,
+          "width": 501,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:10.764Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/puffed.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/puffed.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/puffed.png",
+          "sourceSha256": "f263a115f00c940e79bb075671e3f04c26700770959e40d47d43f18953fceb9d",
+          "gitBlobSha": "b5c9ae425215cc2b0484d8567340b8f7436eead1",
+          "bytes": 478098,
+          "width": 501,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:11.028Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "reading.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/reading.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/reading.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/reading.webp",
+          "sourceSha256": "b53d38a36b1b0de652034813b5290b47b85fa4d86985c49707d21a9b5af043f2",
+          "gitBlobSha": "4ee8d413352b3ccc0a2589b244821d4aeb9cd91b",
+          "bytes": 102602,
+          "width": 518,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:11.424Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/reading.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/reading.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/reading.png",
+          "sourceSha256": "ee9272cb6dd2121f434b247f92b7ce84e9abe58808438d07f635e466b065b6cb",
+          "gitBlobSha": "e9525c1d35ebd85e3b51f27697cf8c858349a793",
+          "bytes": 485234,
+          "width": 518,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:11.535Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "redhot.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/redhot.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/redhot.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/redhot.webp",
+          "sourceSha256": "3b99e73337ee0a7e3b34052997ec27f8293f98f6e27e77e420724030d7970789",
+          "gitBlobSha": "d21bd7d5eb0e1ce7476d10537865ef7bc006452b",
+          "bytes": 111962,
+          "width": 584,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:11.442Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/redhot.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/redhot.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/redhot.png",
+          "sourceSha256": "048393645e1a66974dac77785af3a9bb40e6a770fc717b0aa42b5d0f6943d7a2",
+          "gitBlobSha": "cf9b9950e10e90e974d351aef0caf51cca883d6d",
+          "bytes": 531282,
+          "width": 584,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:11.530Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "running.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/running.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/running.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/running.webp",
+          "sourceSha256": "7ac7e9b86e1b12668ef8f4b2324e6ea258f373f4cd14e2459433aa3b4fc94ed5",
+          "gitBlobSha": "587bfcb818fd4e76b612e58f82dac30f90a2d10c",
+          "bytes": 104242,
+          "width": 538,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:11.433Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/running.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/running.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/running.png",
+          "sourceSha256": "4bc025eb78c5ed81f550ad6598fb62760e400a6fa715ea73e55adebe4a406e55",
+          "gitBlobSha": "e0c58c47fa8bf01b8e16cc567575aa868dfd12a7",
+          "bytes": 492765,
+          "width": 538,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:11.828Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "searching.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/searching.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/searching.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/searching.webp",
+          "sourceSha256": "eff8337f073bf88fc5ff5cc9f2c3bf61119ad8c6d219c4859d2041f6dfe3ec8b",
+          "gitBlobSha": "f83fba488bab5a221489aca429adb9c5170b99f8",
+          "bytes": 101572,
+          "width": 496,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:12.488Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/searching.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/searching.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/searching.png",
+          "sourceSha256": "babbdd6623db665a96e2265851f13a6c7bc2957ef02138abbfd7b62f8d94069d",
+          "gitBlobSha": "7b5b620d9da03241d782654a23dc558a484ef00c",
+          "bytes": 486182,
+          "width": 496,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:12.556Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "sleeping.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/sleeping.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/sleeping.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/sleeping.webp",
+          "sourceSha256": "977b199b24104e40b1093d862df1bc4b7cf795e7105acc7701e0ce97a128a044",
+          "gitBlobSha": "85751e6f75990aa40d948d8d46ee7211ec928733",
+          "bytes": 98716,
+          "width": 525,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:12.474Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/sleeping.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/sleeping.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/sleeping.png",
+          "sourceSha256": "c958e258ae7372fec6559e6057f55a198e7df7057901ca3189268b5f1cb0f4ef",
+          "gitBlobSha": "9a4ed8dacc7246a234b9eba1429e9aec0ffb89dc",
+          "bytes": 474284,
+          "width": 525,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:12.773Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "stretch.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/stretch.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/stretch.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/stretch.webp",
+          "sourceSha256": "248f3a2124de15f8098cab2437716f7d1a374cd6c2bdc5f3e2efaf674db3f805",
+          "gitBlobSha": "9f1ee0b967ab7607aa4467256e2dd42d3c94be48",
+          "bytes": 98172,
+          "width": 467,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:12.488Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/stretch.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/stretch.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/stretch.png",
+          "sourceSha256": "49a512221a55bc5e2623cb6b7ff1022d5a789631b6ea4daadb38d9debd685157",
+          "gitBlobSha": "239090ee295275fec12ecd968c88b24d9919af0a",
+          "bytes": 459852,
+          "width": 467,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:12.549Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "sulk.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/sulk.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/sulk.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/sulk.webp",
+          "sourceSha256": "8f7b005e367740fc6a5ef85c77a2a943defac425563a98a0c909659f7a0ee17e",
+          "gitBlobSha": "fc4fda5c7b316e08628e18943f95227d289aef91",
+          "bytes": 100330,
+          "width": 548,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:13.155Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/sulk.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/sulk.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/sulk.png",
+          "sourceSha256": "ad096f3668e8ff4540c4509663175c5881a4a4423e889db006d63cef147646fe",
+          "gitBlobSha": "06698862274570bbdd4f13ab5c853d501beee391",
+          "bytes": 494922,
+          "width": 548,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:13.279Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "surprised.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/surprised.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/surprised.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/surprised.webp",
+          "sourceSha256": "d9466d9bdeb90852ca4321b5504d622baa8ece0d99328a513bd7d374975e18a4",
+          "gitBlobSha": "56a0d87e0e48369e2cac1bd0ed60771fa83e0fe7",
+          "bytes": 105258,
+          "width": 534,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:13.171Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/surprised.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/surprised.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/surprised.png",
+          "sourceSha256": "333c1f3a43cde34d88b75da919fd977521002b04b2373117771101a4e3f7fcb7",
+          "gitBlobSha": "60fb2f76169be968f2e3b9ee9f42bdaf9412658d",
+          "bytes": 499778,
+          "width": 534,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:13.317Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "swamped_left.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/swamped_left.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/swamped_left.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/swamped_left.webp",
+          "sourceSha256": "370da477b93fe869a87227bde81135caa58c1c5210c0b957a81fad8528c43a2b",
+          "gitBlobSha": "27849c580818958abac032f275f21ac7d79682c0",
+          "bytes": 93434,
+          "width": 516,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:13.171Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/swamped_left.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/swamped_left.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/swamped_left.png",
+          "sourceSha256": "085395857865e590277dcce7e3beae4ec84cd30b1bd659b8e714a01964e30a49",
+          "gitBlobSha": "5998ae1406ca5773fec1859df9e07a0d0cfd6eca",
+          "bytes": 443649,
+          "width": 516,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:13.263Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "swamped_right.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/swamped_right.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/swamped_right.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/swamped_right.webp",
+          "sourceSha256": "8539e6a84273a50f9c777ece8bde9e7dc3f08bc589c1cf8e1992a68dfc2b7773",
+          "gitBlobSha": "cbdb5bb8448e409352196a5fd6390f2e7518e221",
+          "bytes": 91056,
+          "width": 496,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:13.840Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/swamped_right.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/swamped_right.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/swamped_right.png",
+          "sourceSha256": "d02e78209a9fd2d6a828379ffd43b323dc61cdcada9872f43c02f650571fba11",
+          "gitBlobSha": "081643630828747665708e70d56ee0061c49f3b7",
+          "bytes": 421765,
+          "width": 496,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:13.840Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "thinking.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/thinking.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/thinking.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/thinking.webp",
+          "sourceSha256": "e65d59aad594010da377f461413a6d11b0e55454c6fcb8a42d5bfc7c4cc832b0",
+          "gitBlobSha": "3adfc962e574c5a97413dd879c879544ed93dbb8",
+          "bytes": 100110,
+          "width": 504,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:13.716Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/thinking.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/thinking.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/thinking.png",
+          "sourceSha256": "1959fd662c519ba01e1c7c1702d247e790eb2051fb277f6a00ce7b75fa9e6a4c",
+          "gitBlobSha": "b07bb7d739a8fa385d8eaf4afe2af27cf8044c34",
+          "bytes": 478026,
+          "width": 504,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:13.847Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "tired.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/tired.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/tired.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/tired.webp",
+          "sourceSha256": "883aa194a2d9883c1f5313e4ddb15ed3fbf6f615891fc8767f4a6c4619aec2ba",
+          "gitBlobSha": "ef3e4336c4d42ba6d2662c2eb9262a7f7330b416",
+          "bytes": 97332,
+          "width": 499,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:13.737Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/tired.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/tired.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/tired.png",
+          "sourceSha256": "a474d20aa9600ab1a339bab1aa8b03b97c0dd366c349702699ca7ba599a18bb7",
+          "gitBlobSha": "a140fd53945145eecd00fba9a55b382c921b437b",
+          "bytes": 459583,
+          "width": 499,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:13.843Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "update.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/update.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/update.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/update.webp",
+          "sourceSha256": "48fb7fc54132ed17aef8e85074d7195cfed180582236c491bb59202f6c173260",
+          "gitBlobSha": "d5cf40ea56c5bd736aeefae8fe7be94b9e5ba91a",
+          "bytes": 98912,
+          "width": 482,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:14.265Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/update.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/update.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/update.png",
+          "sourceSha256": "4606c9176f6acfcffb7d278f0140e74edf90b1698d76fd56d3dc4f2fb0b8cedb",
+          "gitBlobSha": "b816dc0d9054857063d1f76976e7cec3b159bbbf",
+          "bytes": 464736,
+          "width": 482,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:14.520Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "writing.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/writing.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/writing.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/writing.webp",
+          "sourceSha256": "56c16f8f18eee052fdf7fa614f2848928abea03c70b62fe3253da1a50bf81fc1",
+          "gitBlobSha": "840a1c1108ba566718cac38a39076016d5c447a1",
+          "bytes": 104592,
+          "width": 494,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:14.250Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/writing.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/writing.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/writing.png",
+          "sourceSha256": "e508aafce4d3d28f024fe3a41b9a33ae9fed935d87c5dda29a65182870fdb90d",
+          "gitBlobSha": "7e18bfcc35ac941b69f1b862d1af84a24e677236",
+          "bytes": 491099,
+          "width": 494,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:14.358Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      },
+      {
+        "name": "yawn.png",
+        "upstream": {
+          "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/yawn.webp",
+          "rawUrl": "https://raw.githubusercontent.com/lokicorvus/crosspet/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/gemini/yawn.webp",
+          "commit": "8954eb8f7f69fcfb8d35e9deceeb78e10c804402",
+          "path": "characters/gemini/yawn.webp",
+          "sourceSha256": "3f1776393a2d981e3dda669f4d97cffb0a087035aee87689fbd34b554df1c258",
+          "gitBlobSha": "a68649240645db69ca8f128c94c35f8a1f5896c3",
+          "bytes": 101710,
+          "width": 514,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:14.242Z"
+        },
+        "downstream": {
+          "url": "https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/yawn.png",
+          "rawUrl": "https://raw.githubusercontent.com/xiaoxindada/GeminiDesktopPet/479e040bf499fa980b13e6a532b05cf48090549b/Assets/Sprites/yawn.png",
+          "commit": "479e040bf499fa980b13e6a532b05cf48090549b",
+          "path": "Assets/Sprites/yawn.png",
+          "sourceSha256": "16b637f588b1ac7a32f1fb01bfe530a77dc11f3a78c769198cb50598ae54886e",
+          "gitBlobSha": "94f4950ed8fe3ce3792c009da81519c69549d3b2",
+          "bytes": 473345,
+          "width": 514,
+          "height": 640,
+          "accessedAt": "2026-11-25T09:30:14.348Z"
+        },
+        "sameDimensions": true,
+        "decodedRgbaMatch": true,
+        "visibleMatch": true
+      }
+    ]
+  }
+}

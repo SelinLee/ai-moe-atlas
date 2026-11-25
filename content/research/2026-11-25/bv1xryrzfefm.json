@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:16.754Z",
+  "url": "https://www.bilibili.com/video/BV1xRyRzFEFm/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xRyRzFEFm",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1xRyRzFEFm",
+    "title": "【小短片】你的AI（claude与deepseek）",
+    "owner": {
+      "name": "_故今安",
+      "mid": 701474111
+    },
+    "pubdate": 1795481942,
+    "duration": 38
+  },
+  "descriptionSha256": "fde89e6e975ce47db13a3670040658610f87782246a711790f47580dff82147a",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "【小短片】你的AI（claude与deepseek）",
+    "publisher": "_故今安",
+    "publisherUrl": "https://space.bilibili.com/701474111"
+  }
+}

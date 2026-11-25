@@ -1,0 +1,62 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:26:23.237Z",
+  "url": "https://github.com/necx26/GrokDesktopPet/blob/fbab9bb2ef6200e676f853199de85c2b16880ced/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/necx26/GrokDesktopPet/blob/fbab9bb2ef6200e676f853199de85c2b16880ced/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/necx26/GrokDesktopPet/fbab9bb2ef6200e676f853199de85c2b16880ced/README.md",
+    "sourceSha256": "4cbe4c7421dda53435596281f7c2c3ea8dd02e478ccab0c060bc18bb091884b1",
+    "gitBlobSha": "5c32200fe3b6adc1c883c310da865ee7dcbb552d",
+    "bytes": 3809,
+    "commit": "fbab9bb2ef6200e676f853199de85c2b16880ced",
+    "accessedAt": "2026-11-25T09:26:23.237Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/necx26/GrokDesktopPet/blob/fbab9bb2ef6200e676f853199de85c2b16880ced/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/necx26/GrokDesktopPet/fbab9bb2ef6200e676f853199de85c2b16880ced/README.md",
+      "sourceSha256": "4cbe4c7421dda53435596281f7c2c3ea8dd02e478ccab0c060bc18bb091884b1",
+      "gitBlobSha": "5c32200fe3b6adc1c883c310da865ee7dcbb552d",
+      "bytes": 3809,
+      "commit": "fbab9bb2ef6200e676f853199de85c2b16880ced",
+      "accessedAt": "2026-11-25T09:26:23.237Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/necx26/GrokDesktopPet/blob/fbab9bb2ef6200e676f853199de85c2b16880ced/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/necx26/GrokDesktopPet/fbab9bb2ef6200e676f853199de85c2b16880ced/LICENSE",
+      "sourceSha256": "f2dd11e3da484b5b26450f634998c3020f2d1a23cabc248f04cd664b7224bce6",
+      "gitBlobSha": "5e4ddf2ff32f0a54dee1adc3ee1236e44d7eecc6",
+      "bytes": 1084,
+      "commit": "fbab9bb2ef6200e676f853199de85c2b16880ced",
+      "accessedAt": "2026-11-25T09:26:23.678Z"
+    },
+    {
+      "path": "NOTICE.md",
+      "url": "https://github.com/necx26/GrokDesktopPet/blob/fbab9bb2ef6200e676f853199de85c2b16880ced/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/necx26/GrokDesktopPet/fbab9bb2ef6200e676f853199de85c2b16880ced/NOTICE.md",
+      "sourceSha256": "e33a842fab18411ad9bdbcb9feb3c438255a173fe938498658944a48008586ac",
+      "gitBlobSha": "a61b9ee7a1e9d6508c7a3f61d881767b2934e583",
+      "bytes": 811,
+      "commit": "fbab9bb2ef6200e676f853199de85c2b16880ced",
+      "accessedAt": "2026-11-25T09:26:24.128Z"
+    }
+  ],
+  "repository": {
+    "full_name": "necx26/GrokDesktopPet",
+    "html_url": "https://github.com/necx26/GrokDesktopPet",
+    "stargazers_count": 0,
+    "archived": false,
+    "created_at": "2026-11-19T12:12:40Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "fbab9bb2ef6200e676f853199de85c2b16880ced",
+    "observedAt": "2026-11-25T09:24:20.727Z",
+    "httpStatus": 200,
+    "metadataSha256": "0ddd98b51085ab7990fa5209eb72959104e2c264bfd45f14f2ec21de4da28daa",
+    "parent": null
+  },
+  "scope": "Pinned documentation verified by Git blob and SHA-256. Feature descriptions are from the project documents; runtime not tested."
+}

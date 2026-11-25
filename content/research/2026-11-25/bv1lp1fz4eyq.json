@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:16.717Z",
+  "url": "https://www.bilibili.com/video/BV1Lp1Fz4Eyq/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Lp1Fz4Eyq",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Lp1Fz4Eyq",
+    "title": "【10月新番】肥鱼大冒险第二集｜DeepSeek x Claude｜ 某蓝色大肥鱼的异世界冒险",
+    "owner": {
+      "name": "文文_Channel",
+      "mid": 520229248
+    },
+    "pubdate": 1795536611,
+    "duration": 146
+  },
+  "descriptionSha256": "ff98bb18dca3251e7027913f0901df5a8df9a9bf649db55880e1e6bffef1db3c",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "【10月新番】肥鱼大冒险第二集｜DeepSeek x Claude｜ 某蓝色大肥鱼的异世界冒险",
+    "publisher": "文文_Channel",
+    "publisherUrl": "https://space.bilibili.com/520229248"
+  }
+}

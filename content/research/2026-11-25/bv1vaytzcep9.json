@@ -1,0 +1,31 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:20.588Z",
+  "url": "https://www.bilibili.com/video/BV1VaytzcEp9/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VaytzcEp9",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1VaytzcEp9",
+    "title": "【AI合租B站号第1集】大肥鱼×Gemini娘吵翻机房：怎么把老板15粉小号干到1000粉？！【B站AI创造公开赛】",
+    "owner": {
+      "name": "mcochaa",
+      "mid": 434173070
+    },
+    "pubdate": 1795516200,
+    "duration": 46
+  },
+  "descriptionSha256": "1e6d303d7200e6d7fcf0cfd806cd3e38bea1c1a1d60d11b5ab2f565bb5d43bfa",
+  "linkedVideos": [
+    "BV1o4KwzPERi",
+    "BV1254y1V7cJ"
+  ],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Gemini%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:08.464Z",
+    "htmlSha256": "1fc4f53c138d3072691d9cd8c67bde944ae56c3d430f833b002c03d4e568d6fc",
+    "title": "【AI合租B站号第1集】大肥鱼×Gemini娘吵翻机房：怎么把老板15粉小号干到1000粉？！【B站AI创造公开赛】",
+    "publisher": "mcochaa",
+    "publisherUrl": "https://space.bilibili.com/434173070"
+  }
+}

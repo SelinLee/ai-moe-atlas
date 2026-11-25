@@ -2920,11 +2920,50 @@
   },
   {
     "characterId": "qinv-gemini-pro",
-    "reviewedAt": "2026-11-22",
-    "reviewBasis": "Pixiv caption declares CC BY-NC-SA 4.0. Original JPEG and three related GitHub PNGs were independently hashed.",
-    "artworks": [],
-    "evidence": [],
-    "evidenceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "reviewedAt": "2026-11-25",
+    "reviewBasis": "Creator submission #118 explicitly permits noncommercial sharing and adaptation under CC BY-NC-SA 4.0. All three original PNG attachments are byte-identical to pinned raw archive files.",
+    "artworks": [
+      {
+        "assetId": "portrait",
+        "sha256": "85ac9ea3a4713772d259d8b5674579d71647a1406053dfddec59d96a9d3e9a24"
+      },
+      {
+        "assetId": "smiling",
+        "sha256": "d7b0db20e10c4ad0796c2d1bff063f7f0378c5c4bdf52e238c09c7c9fe74c239"
+      },
+      {
+        "assetId": "dizzy",
+        "sha256": "f1e87eabf4ff1fe3fa8f3db09ccc1ae12c0a5936e046e5b759476f1540a84c13"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://github.com/lmy414/ai-girl-stickers/issues/118",
+        "localPath": "collected/qinv-gemini-pro/evidence/source-statement-1.json",
+        "sha256": "e0d3bb1248f0ac0ad81b50189905ed15ac455e11d14c00fb891a952f9a9ae524"
+      },
+      {
+        "sourceUrl": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/85ac9ea3a4713772.png",
+        "localPath": "collected/qinv-gemini-pro/evidence/source-statement-2.json",
+        "sha256": "b69a47a826b9f04b790d0a521d7d250c59bede7b9581e8917ffad84cbfd92ab8"
+      },
+      {
+        "sourceUrl": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/d7b0db20e10c4ad0.png",
+        "localPath": "collected/qinv-gemini-pro/evidence/source-statement-3.json",
+        "sha256": "17a4cccac6f712d94deaf649e60303a7709826948717458cda3f7645183c60d5"
+      },
+      {
+        "sourceUrl": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/gemini/f1e87eabf4ff1fe3.png",
+        "localPath": "collected/qinv-gemini-pro/evidence/source-statement-4.json",
+        "sha256": "be0532752cbd060f8a89e1dc3c1ccdcd2334560937b24df7b914e870bee5d422"
+      },
+      {
+        "sourceUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "localPath": "collected/qinv-gemini-pro/evidence/source-statement-5.json",
+        "sha256": "c22bb1ed8431ebcee57bec99ee89e911432dd828b69aec5c9277ba9e2e65ad7e"
+      }
+    ],
+    "evidenceUrl": "https://github.com/lmy414/ai-girl-stickers/issues/118",
     "attribution": [
       {
         "name": "我已经有杰米奈了",
@@ -2935,67 +2974,67 @@
     ],
     "uses": {
       "featured": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
         "conditions": {
-          "zh": "Pixiv 原帖声明 CC BY-NC-SA 4.0。学校制服投稿的条件见独立原帖。",
-          "en": "The Pixiv post declares CC BY-NC-SA 4.0. The separate school-uniform submission has its own source terms.",
-          "ja": "Pixiv 原投稿に CC BY-NC-SA 4.0 と明記。制服イラストは別投稿の利用条件を参照。"
+          "zh": "作者在 Gemini Pro 第118号投稿中将这组三张图声明为 CC BY-NC-SA 4.0；须署名、非商业使用，改编同协议共享。素材包保留原 PNG 和完整出处；Google 等名称与标识的权利另属权利方。",
+          "en": "The creator declares CC BY-NC-SA 4.0 for these three images in Gemini Pro submission #118: attribution, noncommercial use and share-alike for adaptations. The pack preserves the original PNGs and provenance. Google and other product names/marks retain their respective rights.",
+          "ja": "作者は Gemini Pro 第118号投稿の画像3点に CC BY-NC-SA 4.0 を指定。クレジット、非商用、改変物の同一条件での共有が必要。元 PNG と出典を保持し、Google 等の名称・標章の権利は各権利者に帰属。"
         }
       },
       "social-cover": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
         "conditions": {
-          "zh": "Pixiv 原帖声明 CC BY-NC-SA 4.0。学校制服投稿的条件见独立原帖。",
-          "en": "The Pixiv post declares CC BY-NC-SA 4.0. The separate school-uniform submission has its own source terms.",
-          "ja": "Pixiv 原投稿に CC BY-NC-SA 4.0 と明記。制服イラストは別投稿の利用条件を参照。"
+          "zh": "作者在 Gemini Pro 第118号投稿中将这组三张图声明为 CC BY-NC-SA 4.0；须署名、非商业使用，改编同协议共享。素材包保留原 PNG 和完整出处；Google 等名称与标识的权利另属权利方。",
+          "en": "The creator declares CC BY-NC-SA 4.0 for these three images in Gemini Pro submission #118: attribution, noncommercial use and share-alike for adaptations. The pack preserves the original PNGs and provenance. Google and other product names/marks retain their respective rights.",
+          "ja": "作者は Gemini Pro 第118号投稿の画像3点に CC BY-NC-SA 4.0 を指定。クレジット、非商用、改変物の同一条件での共有が必要。元 PNG と出典を保持し、Google 等の名称・標章の権利は各権利者に帰属。"
         }
       },
       "avatar-canvas": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
         "conditions": {
-          "zh": "Pixiv 原帖声明 CC BY-NC-SA 4.0。学校制服投稿的条件见独立原帖。",
-          "en": "The Pixiv post declares CC BY-NC-SA 4.0. The separate school-uniform submission has its own source terms.",
-          "ja": "Pixiv 原投稿に CC BY-NC-SA 4.0 と明記。制服イラストは別投稿の利用条件を参照。"
+          "zh": "作者在 Gemini Pro 第118号投稿中将这组三张图声明为 CC BY-NC-SA 4.0；须署名、非商业使用，改编同协议共享。素材包保留原 PNG 和完整出处；Google 等名称与标识的权利另属权利方。",
+          "en": "The creator declares CC BY-NC-SA 4.0 for these three images in Gemini Pro submission #118: attribution, noncommercial use and share-alike for adaptations. The pack preserves the original PNGs and provenance. Google and other product names/marks retain their respective rights.",
+          "ja": "作者は Gemini Pro 第118号投稿の画像3点に CC BY-NC-SA 4.0 を指定。クレジット、非商用、改変物の同一条件での共有が必要。元 PNG と出典を保持し、Google 等の名称・標章の権利は各権利者に帰属。"
         }
       },
       "full-portrait": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
         "conditions": {
-          "zh": "Pixiv 原帖声明 CC BY-NC-SA 4.0。学校制服投稿的条件见独立原帖。",
-          "en": "The Pixiv post declares CC BY-NC-SA 4.0. The separate school-uniform submission has its own source terms.",
-          "ja": "Pixiv 原投稿に CC BY-NC-SA 4.0 と明記。制服イラストは別投稿の利用条件を参照。"
+          "zh": "作者在 Gemini Pro 第118号投稿中将这组三张图声明为 CC BY-NC-SA 4.0；须署名、非商业使用，改编同协议共享。素材包保留原 PNG 和完整出处；Google 等名称与标识的权利另属权利方。",
+          "en": "The creator declares CC BY-NC-SA 4.0 for these three images in Gemini Pro submission #118: attribution, noncommercial use and share-alike for adaptations. The pack preserves the original PNGs and provenance. Google and other product names/marks retain their respective rights.",
+          "ja": "作者は Gemini Pro 第118号投稿の画像3点に CC BY-NC-SA 4.0 を指定。クレジット、非商用、改変物の同一条件での共有が必要。元 PNG と出典を保持し、Google 等の名称・標章の権利は各権利者に帰属。"
         }
       },
       "intro-card": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
         "conditions": {
-          "zh": "Pixiv 原帖声明 CC BY-NC-SA 4.0。学校制服投稿的条件见独立原帖。",
-          "en": "The Pixiv post declares CC BY-NC-SA 4.0. The separate school-uniform submission has its own source terms.",
-          "ja": "Pixiv 原投稿に CC BY-NC-SA 4.0 と明記。制服イラストは別投稿の利用条件を参照。"
+          "zh": "作者在 Gemini Pro 第118号投稿中将这组三张图声明为 CC BY-NC-SA 4.0；须署名、非商业使用，改编同协议共享。素材包保留原 PNG 和完整出处；Google 等名称与标识的权利另属权利方。",
+          "en": "The creator declares CC BY-NC-SA 4.0 for these three images in Gemini Pro submission #118: attribution, noncommercial use and share-alike for adaptations. The pack preserves the original PNGs and provenance. Google and other product names/marks retain their respective rights.",
+          "ja": "作者は Gemini Pro 第118号投稿の画像3点に CC BY-NC-SA 4.0 を指定。クレジット、非商用、改変物の同一条件での共有が必要。元 PNG と出典を保持し、Google 等の名称・標章の権利は各権利者に帰属。"
         }
       },
       "lineup-card": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
         "conditions": {
-          "zh": "Pixiv 原帖声明 CC BY-NC-SA 4.0。学校制服投稿的条件见独立原帖。",
-          "en": "The Pixiv post declares CC BY-NC-SA 4.0. The separate school-uniform submission has its own source terms.",
-          "ja": "Pixiv 原投稿に CC BY-NC-SA 4.0 と明記。制服イラストは別投稿の利用条件を参照。"
+          "zh": "作者在 Gemini Pro 第118号投稿中将这组三张图声明为 CC BY-NC-SA 4.0；须署名、非商业使用，改编同协议共享。素材包保留原 PNG 和完整出处；Google 等名称与标识的权利另属权利方。",
+          "en": "The creator declares CC BY-NC-SA 4.0 for these three images in Gemini Pro submission #118: attribution, noncommercial use and share-alike for adaptations. The pack preserves the original PNGs and provenance. Google and other product names/marks retain their respective rights.",
+          "ja": "作者は Gemini Pro 第118号投稿の画像3点に CC BY-NC-SA 4.0 を指定。クレジット、非商用、改変物の同一条件での共有が必要。元 PNG と出典を保持し、Google 等の名称・標章の権利は各権利者に帰属。"
         }
       },
       "readme-demo": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
         "conditions": {
-          "zh": "Pixiv 原帖声明 CC BY-NC-SA 4.0。学校制服投稿的条件见独立原帖。",
-          "en": "The Pixiv post declares CC BY-NC-SA 4.0. The separate school-uniform submission has its own source terms.",
-          "ja": "Pixiv 原投稿に CC BY-NC-SA 4.0 と明記。制服イラストは別投稿の利用条件を参照。"
+          "zh": "作者在 Gemini Pro 第118号投稿中将这组三张图声明为 CC BY-NC-SA 4.0；须署名、非商业使用，改编同协议共享。素材包保留原 PNG 和完整出处；Google 等名称与标识的权利另属权利方。",
+          "en": "The creator declares CC BY-NC-SA 4.0 for these three images in Gemini Pro submission #118: attribution, noncommercial use and share-alike for adaptations. The pack preserves the original PNGs and provenance. Google and other product names/marks retain their respective rights.",
+          "ja": "作者は Gemini Pro 第118号投稿の画像3点に CC BY-NC-SA 4.0 を指定。クレジット、非商用、改変物の同一条件での共有が必要。元 PNG と出典を保持し、Google 等の名称・標章の権利は各権利者に帰属。"
         }
       },
       "technical-canvas": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
         "conditions": {
-          "zh": "Pixiv 原帖声明 CC BY-NC-SA 4.0。学校制服投稿的条件见独立原帖。",
-          "en": "The Pixiv post declares CC BY-NC-SA 4.0. The separate school-uniform submission has its own source terms.",
-          "ja": "Pixiv 原投稿に CC BY-NC-SA 4.0 と明記。制服イラストは別投稿の利用条件を参照。"
+          "zh": "作者在 Gemini Pro 第118号投稿中将这组三张图声明为 CC BY-NC-SA 4.0；须署名、非商业使用，改编同协议共享。素材包保留原 PNG 和完整出处；Google 等名称与标识的权利另属权利方。",
+          "en": "The creator declares CC BY-NC-SA 4.0 for these three images in Gemini Pro submission #118: attribution, noncommercial use and share-alike for adaptations. The pack preserves the original PNGs and provenance. Google and other product names/marks retain their respective rights.",
+          "ja": "作者は Gemini Pro 第118号投稿の画像3点に CC BY-NC-SA 4.0 を指定。クレジット、非商用、改変物の同一条件での共有が必要。元 PNG と出典を保持し、Google 等の名称・標章の権利は各権利者に帰属。"
         }
       }
     }

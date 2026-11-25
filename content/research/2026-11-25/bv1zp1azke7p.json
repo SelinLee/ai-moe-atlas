@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:19.539Z",
+  "url": "https://www.bilibili.com/video/BV1ZP1AzKE7P/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZP1AzKE7P",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1ZP1AzKE7P",
+    "title": "《青花瓷》大肥鱼乐队版",
+    "owner": {
+      "name": "大肥鱼呦喂",
+      "mid": 510163442
+    },
+    "pubdate": 1795545377,
+    "duration": 206
+  },
+  "descriptionSha256": "a17ea5d0cc837bfdd9eef77d3f86afb5e3fd28ad657ba94849c776e440b8c61c",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:05.300Z",
+    "htmlSha256": "f30a43c2a4493c2eb35429bfc5d1f9e2331ca0379abad7d5c2013cc9d82c772c",
+    "title": "《青花瓷》大肥鱼乐队版",
+    "publisher": "大肥鱼呦喂",
+    "publisherUrl": "https://space.bilibili.com/510163442"
+  }
+}

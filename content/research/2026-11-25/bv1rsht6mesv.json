@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:18.926Z",
+  "url": "https://www.bilibili.com/video/BV1Rsht6mEsV/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Rsht6mEsV",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Rsht6mEsV",
+    "title": "所有AI面部大检查！",
+    "owner": {
+      "name": "匿名のIK",
+      "mid": 41807397
+    },
+    "pubdate": 1790153072,
+    "duration": 137
+  },
+  "descriptionSha256": "5376b008d69af718b5e95d8beadd1b14992eaf974a5141624939f852b6ec30d5",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=MiMo%20%E5%A8%98&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:03.055Z",
+    "htmlSha256": "fe0fb9cac01b103cc56101016efe7fce7a7bbfe6713ac601dedc4d5f1f41f989",
+    "title": "所有AI面部大检查！",
+    "publisher": "匿名のIK",
+    "publisherUrl": "https://space.bilibili.com/41807397"
+  }
+}

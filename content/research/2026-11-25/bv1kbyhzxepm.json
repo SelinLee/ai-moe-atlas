@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:20.590Z",
+  "url": "https://www.bilibili.com/video/BV1kByhzXEPm/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kByhzXEPm",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1kByhzXEPm",
+    "title": "【科普向】《Gemini珍藏的宝藏》",
+    "owner": {
+      "name": "Muto_66",
+      "mid": 15475629
+    },
+    "pubdate": 1795257224,
+    "duration": 82
+  },
+  "descriptionSha256": "45e7419e5c0be1f44b601d87a6ffbd461885873358e17899eff56cf62b5b8675",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Gemini%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:08.464Z",
+    "htmlSha256": "1fc4f53c138d3072691d9cd8c67bde944ae56c3d430f833b002c03d4e568d6fc",
+    "title": "【科普向】《Gemini珍藏的宝藏》",
+    "publisher": "Muto_66",
+    "publisherUrl": "https://space.bilibili.com/15475629"
+  }
+}

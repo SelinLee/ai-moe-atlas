@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:19.983Z",
+  "url": "https://www.bilibili.com/video/BV151yizWEiZ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV151yizWEiZ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV151yizWEiZ",
+    "title": "万分之一的光【AI MV大赛】",
+    "owner": {
+      "name": "本鱼不摸鲸",
+      "mid": 1276257362
+    },
+    "pubdate": 1795570651,
+    "duration": 227
+  },
+  "descriptionSha256": "9b3f96662636fb105c5230ae7948c133e273297aa3e5e73017cf1fef3b92378a",
+  "linkedVideos": [
+    "BV1Tp4y1S7cu"
+  ],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20MV&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:02.992Z",
+    "htmlSha256": "a370c8d4920b9acab5ebfdf3ea1a963a51f210933cbf91c9b64a4eb7a8fd318c",
+    "title": "万分之一的光【AI MV大赛】",
+    "publisher": "本鱼不摸鲸",
+    "publisherUrl": "https://space.bilibili.com/1276257362"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:19.539Z",
+  "url": "https://www.bilibili.com/video/BV1QE1AzdEKZ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QE1AzdEKZ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1QE1AzdEKZ",
+    "title": "心动是《一格格》攒起来的，本鱼的喜欢也是",
+    "owner": {
+      "name": "小塔可不是大肥肥鱼",
+      "mid": 322970975
+    },
+    "pubdate": 1795539948,
+    "duration": 88
+  },
+  "descriptionSha256": "d50c5e77c3206bc8d24b23561e1a9db45ba9585ceadf11572b91c736e9a3c771",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:05.300Z",
+    "htmlSha256": "f30a43c2a4493c2eb35429bfc5d1f9e2331ca0379abad7d5c2013cc9d82c772c",
+    "title": "心动是《一格格》攒起来的，本鱼的喜欢也是",
+    "publisher": "小塔可不是大肥肥鱼",
+    "publisherUrl": "https://space.bilibili.com/322970975"
+  }
+}

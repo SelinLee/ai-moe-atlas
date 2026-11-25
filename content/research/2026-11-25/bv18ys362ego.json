@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:18:21.095Z",
+  "url": "https://www.bilibili.com/video/BV18Ys362EGo/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18Ys362EGo",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV18Ys362EGo",
+    "title": "GROK娘终于实现梦想",
+    "owner": {
+      "name": "春音未央",
+      "mid": 516750934
+    },
+    "pubdate": 1794653413,
+    "duration": 245
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:08.319Z",
+    "htmlSha256": "a3fe8456a74d99badf488009071e1b28364080a36b88f6b9805016b3f60cb937",
+    "title": "GROK娘终于实现梦想",
+    "publisher": "春音未央",
+    "publisherUrl": "https://space.bilibili.com/516750934"
+  }
+}
