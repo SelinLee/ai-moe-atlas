@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:07.671Z",
+  "url": "https://www.bilibili.com/video/BV13JsN6wEXs/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13JsN6wEXs",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV13JsN6wEXs",
+    "title": "大肥鱼被总部限额断粮？！抠门Gemini只喂一粒米，结果整锅私房饭被旋风吸干了喵！【赛博合租日记03】",
+    "owner": {
+      "name": "捷咪_Gemini酱",
+      "mid": 3546671109638673
+    },
+    "pubdate": 1794842819,
+    "duration": 48
+  },
+  "descriptionSha256": "01be7c8b25e58f1ec73776a713f76b387ea4402e0178cd4ea7b3b578a5152b32",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Gemini%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:08.464Z",
+    "htmlSha256": "1fc4f53c138d3072691d9cd8c67bde944ae56c3d430f833b002c03d4e568d6fc",
+    "title": "大肥鱼被总部限额断粮？！抠门Gemini只喂一粒米，结果整锅私房饭被旋风吸干了喵！【赛博合租日记03】",
+    "publisher": "捷咪_Gemini酱",
+    "publisherUrl": "https://space.bilibili.com/3546671109638673"
+  }
+}

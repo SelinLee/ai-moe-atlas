@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:07.675Z",
+  "url": "https://www.bilibili.com/video/BV1E5s16oEQX/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1E5s16oEQX",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1E5s16oEQX",
+    "title": "【AI娘小剧场】一口大白饭｜坏结局之后的那一盆饭",
+    "owner": {
+      "name": "抽刀断水水水仙",
+      "mid": 26684524
+    },
+    "pubdate": 1794981225,
+    "duration": 27
+  },
+  "descriptionSha256": "529dd732d42f96dcc131db7fd66f45ea991c8aa40f007fff73db5530821ee771",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "【AI娘小剧场】一口大白饭｜坏结局之后的那一盆饭",
+    "publisher": "抽刀断水水水仙",
+    "publisherUrl": "https://space.bilibili.com/26684524"
+  }
+}

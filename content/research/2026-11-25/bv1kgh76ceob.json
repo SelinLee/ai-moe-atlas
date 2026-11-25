@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:07.698Z",
+  "url": "https://www.bilibili.com/video/BV1kGH76CEob/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kGH76CEob",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1kGH76CEob",
+    "title": "【DS娘 || 我的世界｜比特沙海·深度唤醒】【bilibilionly同人扶持计划】",
+    "owner": {
+      "name": "彼岸花Channel",
+      "mid": 13787349
+    },
+    "pubdate": 1791172800,
+    "duration": 256
+  },
+  "descriptionSha256": "13ea3f249cc97f7019a99c52342af92cfc0d31f4752b482b63a6010cb53f53ae",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E6%99%BA%E8%B0%B1%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:02.559Z",
+    "htmlSha256": "9f4296cccb10d96013477fe13eeaac4fc6f2600b68acf9bcc6b187132d4b71da",
+    "title": "【DS娘 || 我的世界｜比特沙海·深度唤醒】【bilibilionly同人扶持计划】",
+    "publisher": "彼岸花Channel",
+    "publisherUrl": "https://space.bilibili.com/13787349"
+  }
+}

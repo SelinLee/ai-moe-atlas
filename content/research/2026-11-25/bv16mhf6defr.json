@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:08.792Z",
+  "url": "https://www.bilibili.com/video/BV16mHF6dEfr/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16mHF6dEfr",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV16mHF6dEfr",
+    "title": "AI娘斗地主 06 “王炸，下周交付！”——下周是哪一周？",
+    "owner": {
+      "name": "识知不失智",
+      "mid": 6348099
+    },
+    "pubdate": 1793063299,
+    "duration": 123
+  },
+  "descriptionSha256": "6027a83bbbfff1567c1fd794637781fda7ff4adb6accbd191c94186b2522e549",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:08.319Z",
+    "htmlSha256": "a3fe8456a74d99badf488009071e1b28364080a36b88f6b9805016b3f60cb937",
+    "title": "AI娘斗地主 06 “王炸，下周交付！”——下周是哪一周？",
+    "publisher": "识知不失智",
+    "publisherUrl": "https://space.bilibili.com/6348099"
+  }
+}

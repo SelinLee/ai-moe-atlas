@@ -1,0 +1,42 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:22.801Z",
+  "url": "https://github.com/dayun-cloud/DSTI/blob/c381a558bfb51e22129055f626cc9d787a8f45fd/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/dayun-cloud/DSTI/blob/c381a558bfb51e22129055f626cc9d787a8f45fd/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/dayun-cloud/DSTI/c381a558bfb51e22129055f626cc9d787a8f45fd/README.md",
+    "sourceSha256": "eb07f9ca96f61e2a7340ca1af475ba3357b96f9261272e28aad7c5d38227ee4d",
+    "gitBlobSha": "d7f11994db80399b72311c45a3d74df8914d210b",
+    "bytes": 2844,
+    "commit": "c381a558bfb51e22129055f626cc9d787a8f45fd",
+    "accessedAt": "2026-11-25T09:47:22.801Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/dayun-cloud/DSTI/blob/c381a558bfb51e22129055f626cc9d787a8f45fd/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/dayun-cloud/DSTI/c381a558bfb51e22129055f626cc9d787a8f45fd/README.md",
+      "sourceSha256": "eb07f9ca96f61e2a7340ca1af475ba3357b96f9261272e28aad7c5d38227ee4d",
+      "gitBlobSha": "d7f11994db80399b72311c45a3d74df8914d210b",
+      "bytes": 2844,
+      "commit": "c381a558bfb51e22129055f626cc9d787a8f45fd",
+      "accessedAt": "2026-11-25T09:47:22.801Z"
+    }
+  ],
+  "repository": {
+    "full_name": "dayun-cloud/DSTI",
+    "html_url": "https://github.com/dayun-cloud/DSTI",
+    "stargazers_count": 0,
+    "archived": false,
+    "created_at": "2026-11-05T13:41:13Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "c381a558bfb51e22129055f626cc9d787a8f45fd",
+    "observedAt": "2026-11-25T09:46:41.809Z",
+    "httpStatus": 200,
+    "metadataSha256": "6f48d92f6be2c99609a76eebfeb2b1a7f6189876c16cc0d226d787c50b29bc02",
+    "parent": null
+  },
+  "scope": "Pinned documentation verified by Git blob and SHA-256. Runtime not tested."
+}

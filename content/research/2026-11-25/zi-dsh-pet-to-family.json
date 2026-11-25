@@ -1,0 +1,62 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:23.313Z",
+  "url": "https://github.com/zi-O1/dsh-pet-to-family/blob/b035e47178d3ebbc80245ddc5a2787eba4f84e71/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/zi-O1/dsh-pet-to-family/blob/b035e47178d3ebbc80245ddc5a2787eba4f84e71/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/zi-O1/dsh-pet-to-family/b035e47178d3ebbc80245ddc5a2787eba4f84e71/README.md",
+    "sourceSha256": "fed117f18573f19c617aaed695e67063ab4226a464d06b072528d8bd60aaedfe",
+    "gitBlobSha": "21d05e10fee3f36b13545d176bf364ff9302b909",
+    "bytes": 62535,
+    "commit": "b035e47178d3ebbc80245ddc5a2787eba4f84e71",
+    "accessedAt": "2026-11-25T09:47:23.313Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/zi-O1/dsh-pet-to-family/blob/b035e47178d3ebbc80245ddc5a2787eba4f84e71/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/zi-O1/dsh-pet-to-family/b035e47178d3ebbc80245ddc5a2787eba4f84e71/README.md",
+      "sourceSha256": "fed117f18573f19c617aaed695e67063ab4226a464d06b072528d8bd60aaedfe",
+      "gitBlobSha": "21d05e10fee3f36b13545d176bf364ff9302b909",
+      "bytes": 62535,
+      "commit": "b035e47178d3ebbc80245ddc5a2787eba4f84e71",
+      "accessedAt": "2026-11-25T09:47:23.313Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/zi-O1/dsh-pet-to-family/blob/b035e47178d3ebbc80245ddc5a2787eba4f84e71/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/zi-O1/dsh-pet-to-family/b035e47178d3ebbc80245ddc5a2787eba4f84e71/LICENSE",
+      "sourceSha256": "22757dc9c895b2729a2fc684d227cadfb54d5af3dd300029926839e8c4e269ce",
+      "gitBlobSha": "7d87632065ae9bbebe4fb7a275f38f3cd1c30c41",
+      "bytes": 1069,
+      "commit": "b035e47178d3ebbc80245ddc5a2787eba4f84e71",
+      "accessedAt": "2026-11-25T09:47:23.709Z"
+    },
+    {
+      "path": "dsh-pet/THIRD_PARTY_NOTICES.md",
+      "url": "https://github.com/zi-O1/dsh-pet-to-family/blob/b035e47178d3ebbc80245ddc5a2787eba4f84e71/dsh-pet/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/zi-O1/dsh-pet-to-family/b035e47178d3ebbc80245ddc5a2787eba4f84e71/dsh-pet/THIRD_PARTY_NOTICES.md",
+      "sourceSha256": "f2f56c9ad5e52687453aef0c965194eda31b6dab2e401168debad4068c9b971a",
+      "gitBlobSha": "c462d360502463dea4a66dbfafe6346d2334c084",
+      "bytes": 3468,
+      "commit": "b035e47178d3ebbc80245ddc5a2787eba4f84e71",
+      "accessedAt": "2026-11-25T09:47:24.326Z"
+    }
+  ],
+  "repository": {
+    "full_name": "zi-O1/dsh-pet-to-family",
+    "html_url": "https://github.com/zi-O1/dsh-pet-to-family",
+    "stargazers_count": 1,
+    "archived": false,
+    "created_at": "2026-10-31T01:50:26Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "b035e47178d3ebbc80245ddc5a2787eba4f84e71",
+    "observedAt": "2026-11-25T09:46:41.966Z",
+    "httpStatus": 200,
+    "metadataSha256": "e8af7c23def956283081cbdd77c10ad23bc94f894c77d20c425da41f338e1cdb",
+    "parent": null
+  },
+  "scope": "Pinned documentation verified by Git blob and SHA-256. Runtime not tested."
+}

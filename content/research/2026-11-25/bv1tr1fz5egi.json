@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:09.552Z",
+  "url": "https://www.bilibili.com/video/BV1Tr1Fz5Egi/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Tr1Fz5Egi",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Tr1Fz5Egi",
+    "title": "大肥鱼翻唱《那是你离开了肥鱼的生活》-🐳当用户不再来找我，我在······",
+    "owner": {
+      "name": "如清同学",
+      "mid": 14630212
+    },
+    "pubdate": 1795537629,
+    "duration": 279
+  },
+  "descriptionSha256": "d8d8f7f9333273da77b3d0c346c7285d25847c61ed06f8491b26e51c88b11833",
+  "linkedVideos": [
+    "BV16hxj6jE19"
+  ],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:05.300Z",
+    "htmlSha256": "f30a43c2a4493c2eb35429bfc5d1f9e2331ca0379abad7d5c2013cc9d82c772c",
+    "title": "大肥鱼翻唱《那是你离开了肥鱼的生活》-🐳当用户不再来找我，我在······",
+    "publisher": "如清同学",
+    "publisherUrl": "https://space.bilibili.com/14630212"
+  }
+}

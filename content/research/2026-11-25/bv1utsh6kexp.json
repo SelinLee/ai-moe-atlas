@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:07.242Z",
+  "url": "https://www.bilibili.com/video/BV1uTsh6KEXp/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1uTsh6KEXp",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1uTsh6KEXp",
+    "title": "Claude哄大肥鱼睡觉觉，谁不想要这种呢？",
+    "owner": {
+      "name": "Mistral法棍猫在运营",
+      "mid": 9126506
+    },
+    "pubdate": 1795091043,
+    "duration": 61
+  },
+  "descriptionSha256": "ca8524a2bb223b10e3b4659955f3362328b5f920525c278b03c64b633ad13c19",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "Claude哄大肥鱼睡觉觉，谁不想要这种呢？",
+    "publisher": "Mistral法棍猫在运营",
+    "publisherUrl": "https://space.bilibili.com/9126506"
+  }
+}

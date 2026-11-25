@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:07.094Z",
+  "url": "https://www.bilibili.com/video/BV17esQ6MEFg/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17esQ6MEFg",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV17esQ6MEFg",
+    "title": "大肥鱼和Claude的绝对恋爱规则",
+    "owner": {
+      "name": "羽丘圣爱音",
+      "mid": 1478389260
+    },
+    "pubdate": 1795050000,
+    "duration": 26
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "大肥鱼和Claude的绝对恋爱规则",
+    "publisher": "羽丘圣爱音",
+    "publisherUrl": "https://space.bilibili.com/1478389260"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:08.585Z",
+  "url": "https://www.bilibili.com/video/BV1ogxe69EEv/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ogxe69EEv",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1ogxe69EEv",
+    "title": "《WEB School》第二集·Duel！Grok Vs Claude",
+    "owner": {
+      "name": "昴儿大肥鱼",
+      "mid": 387349278
+    },
+    "pubdate": 1793327585,
+    "duration": 313
+  },
+  "descriptionSha256": "340d06dfd8354535617c78b59e30aca070327811ae0fdfcf06b2b6fd0f1fe2fa",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:08.319Z",
+    "htmlSha256": "a3fe8456a74d99badf488009071e1b28364080a36b88f6b9805016b3f60cb937",
+    "title": "《WEB School》第二集·Duel！Grok Vs Claude",
+    "publisher": "昴儿大肥鱼",
+    "publisherUrl": "https://space.bilibili.com/387349278"
+  }
+}

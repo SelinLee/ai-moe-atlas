@@ -1,0 +1,111 @@
+{
+  "method": "isolated-headless-google-chrome-and-official-video-metadata",
+  "observations": [
+    {
+      "songId": "azalea-song",
+      "original": {
+        "id": "azalea",
+        "url": "https://music.apple.com/us/song/1840847548",
+        "finalUrl": "https://music.apple.com/us/song/%E6%98%A0%E5%B1%B1%E7%BA%A2/1840847548",
+        "httpStatus": 200,
+        "title": "‎映山红 - Song with Lyrics by 邓玉华 - Apple Music",
+        "accessedAt": "2026-11-25T09:48:18.354Z",
+        "htmlSha256": "3a340cb57bf5131b14075b2d10dd991c25d899d84cd7a4ee14413fd14caa6b9d",
+        "matches": [
+          "映山红",
+          "华人金曲(一) (影视版)  邓玉华 January 1, 1993",
+          "More By 邓玉华"
+        ],
+        "tags": []
+      },
+      "version": {
+        "bvid": "BV1tUyXzxEbk",
+        "url": "https://www.bilibili.com/video/BV1tUyXzxEbk/",
+        "title": "【大肥鱼电台】《映山红》电台版｜大肥鱼 翻唱",
+        "publisher": "坦诚的鱼",
+        "descriptionSha256": "1e08ba3674b0aecd2ed3998611a886ddb1f1010cb1a016dde10074f7c2e63829"
+      },
+      "note": "Uploader identifies the composition and original singer. Original recording listing independently verified; release year not inferred from fan description."
+    },
+    {
+      "songId": "since-you-left-beijing",
+      "original": {
+        "id": "beijing",
+        "url": "https://music.apple.com/us/song/1787929793",
+        "finalUrl": "https://music.apple.com/us/song/%E9%82%A3%E6%98%AF%E4%BD%A0%E7%A6%BB%E5%BC%80%E4%BA%86%E5%8C%97%E4%BA%AC%E7%9A%84%E7%94%9F%E6%B4%BB/1787929793",
+        "httpStatus": 200,
+        "title": "‎那是你离开了北京的生活 - Song with Lyrics by Joker Xue - Apple Music",
+        "accessedAt": "2026-11-25T09:48:18.356Z",
+        "htmlSha256": "93bfc82c3ae22fd4b82f41dd8c7db3ea00e4bc453ffbf67290115852d2c0d176",
+        "matches": [
+          "那是你离开了北京的生活",
+          "那是你离开了北京的生活 - Single  Joker Xue June 8, 2018",
+          "More By Joker Xue"
+        ],
+        "tags": []
+      },
+      "version": {
+        "bvid": "BV1Tr1Fz5Egi",
+        "url": "https://www.bilibili.com/video/BV1Tr1Fz5Egi/",
+        "title": "大肥鱼翻唱《那是你离开了肥鱼的生活》-🐳当用户不再来找我，我在······",
+        "publisher": "如清同学",
+        "descriptionSha256": "d8d8f7f9333273da77b3d0c346c7285d25847c61ed06f8491b26e51c88b11833"
+      },
+      "note": "Uploader identifies the composition and original singer. Original recording listing independently verified; release year not inferred from fan description."
+    },
+    {
+      "songId": "stars-and-sea",
+      "original": {
+        "id": "stars",
+        "url": "https://music.apple.com/us/song/1725936614",
+        "finalUrl": "https://music.apple.com/us/song/%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7/1725936614",
+        "httpStatus": 200,
+        "title": "‎星辰大海 - Song with Lyrics by 黃霄雲 - Apple Music",
+        "accessedAt": "2026-11-25T09:48:18.356Z",
+        "htmlSha256": "4b9a3e127d5be67fa9bdbea4197363c80b85e24155cdf15cddeda4e75863cdb7",
+        "matches": [
+          "星辰大海",
+          "星辰大海 - Single  黃霄雲 January 15, 2021",
+          "More By 黃霄雲"
+        ],
+        "tags": []
+      },
+      "version": {
+        "bvid": "BV1Lp1Fz4EDw",
+        "url": "https://www.bilibili.com/video/BV1Lp1Fz4EDw/",
+        "title": "星辰大海 · 大肥鱼翻唱",
+        "publisher": "晚上好鸭大肥鱼",
+        "descriptionSha256": "623db7a311931fdcf12aca0da49222eea46c8785992bf62ed409dd7a7c9998e1"
+      },
+      "note": "Uploader identifies the composition and original singer. Original recording listing independently verified; release year not inferred from fan description."
+    },
+    {
+      "songId": "little-jumping-frog",
+      "original": {
+        "id": "frog",
+        "url": "https://music.apple.com/us/song/1712287252",
+        "finalUrl": "https://music.apple.com/us/song/%E5%B0%8F%E8%B7%B3%E8%9B%99/1712287252",
+        "httpStatus": 200,
+        "title": "‎小跳蛙 - Song with Lyrics by 青蛙乐队 - Apple Music",
+        "accessedAt": "2026-11-25T09:48:19.325Z",
+        "htmlSha256": "03a4c1d42c15b95eb04c2ab6e9bdc33110c3cf6ae6f298de436bb4f8a540c1d1",
+        "matches": [
+          "小跳蛙",
+          "小跳蛙 - Single  青蛙乐队 January 1, 2009",
+          "More By 青蛙乐队",
+          "小跳蛙 - Single",
+          "小跳蛙 - Single"
+        ],
+        "tags": []
+      },
+      "version": {
+        "bvid": "BV1HQ1FzqEJW",
+        "url": "https://www.bilibili.com/video/BV1HQ1FzqEJW/",
+        "title": "肥鱼也想小跳蛙",
+        "publisher": "汐月不吃白饭",
+        "descriptionSha256": "9ff19ac8e036b6885b13e0ab4590fcfd35da6600a70e2e0ef4dea6ab7c2848fe"
+      },
+      "note": "Uploader identifies the composition and original singer. Original recording listing independently verified; release year not inferred from fan description."
+    }
+  ]
+}

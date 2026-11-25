@@ -1,0 +1,38 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:20.618Z",
+  "method": "isolated-headless-google-chrome",
+  "pinnedDocument": {
+    "path": "人设原文.md",
+    "url": "https://github.com/linsport/dsh-whale-persona/blob/431f34ab9410b467e3e44ce52c659c0130ca72e9/%E4%BA%BA%E8%AE%BE%E5%8E%9F%E6%96%87.md",
+    "rawUrl": "https://raw.githubusercontent.com/linsport/dsh-whale-persona/431f34ab9410b467e3e44ce52c659c0130ca72e9/%E4%BA%BA%E8%AE%BE%E5%8E%9F%E6%96%87.md",
+    "sourceSha256": "1d32d5248da70f510d0ca3c14b27a9f950000647b7ab6f11476f888ffbdfc97e",
+    "gitBlobSha": "079aed01208d7cc93edb7462274cd8119527f49b",
+    "bytes": 29168,
+    "commit": "431f34ab9410b467e3e44ce52c659c0130ca72e9",
+    "accessedAt": "2026-11-25T09:47:20.618Z"
+  },
+  "section": "身份 / 干净的东西和热乎的话 / 事实与幻觉红线",
+  "termsDocument": {
+    "path": "LICENSE",
+    "url": "https://github.com/linsport/dsh-whale-persona/blob/431f34ab9410b467e3e44ce52c659c0130ca72e9/LICENSE",
+    "rawUrl": "https://raw.githubusercontent.com/linsport/dsh-whale-persona/431f34ab9410b467e3e44ce52c659c0130ca72e9/LICENSE",
+    "sourceSha256": "900af425b7b22539550beb60f69ea3f58dc7aad6bd8d852d4a6da1c7928c47b3",
+    "gitBlobSha": "7447b4fa10962e82c8dcb7fde2a994a5d0010516",
+    "bytes": 2517,
+    "commit": "431f34ab9410b467e3e44ce52c659c0130ca72e9",
+    "accessedAt": "2026-11-25T09:47:20.164Z"
+  },
+  "contextDocuments": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/linsport/dsh-whale-persona/blob/431f34ab9410b467e3e44ce52c659c0130ca72e9/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/linsport/dsh-whale-persona/431f34ab9410b467e3e44ce52c659c0130ca72e9/README.md",
+      "sourceSha256": "a45aac0fbdc687f15c7c8e5911787305b52d7292b2b0f7a6485e41c4e5fce75e",
+      "gitBlobSha": "c94a4878d7f0007f8efc7e1446f937b63ea88689",
+      "bytes": 4047,
+      "commit": "431f34ab9410b467e3e44ce52c659c0130ca72e9",
+      "accessedAt": "2026-11-25T09:47:19.747Z"
+    }
+  ]
+}

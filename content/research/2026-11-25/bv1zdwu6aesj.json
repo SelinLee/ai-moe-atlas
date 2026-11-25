@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:08.149Z",
+  "url": "https://www.bilibili.com/video/BV1ZdWU6aESJ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZdWU6aESJ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1ZdWU6aESJ",
+    "title": "【重置版cmd】Gemini娘的world execute me",
+    "owner": {
+      "name": "勒贝尔_",
+      "mid": 3546964018858242
+    },
+    "pubdate": 1794412159,
+    "duration": 424
+  },
+  "descriptionSha256": "62eef4b1fa834ee26ae569e211ad2ef414815cb4219003b77d1149008a93dc42",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Gemini%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:08.464Z",
+    "htmlSha256": "1fc4f53c138d3072691d9cd8c67bde944ae56c3d430f833b002c03d4e568d6fc",
+    "title": "【重置版cmd】Gemini娘的world execute me",
+    "publisher": "勒贝尔_",
+    "publisherUrl": "https://space.bilibili.com/3546964018858242"
+  }
+}

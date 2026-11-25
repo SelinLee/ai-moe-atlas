@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:07.671Z",
+  "url": "https://www.bilibili.com/video/BV17gxm6wE1y/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17gxm6wE1y",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV17gxm6wE1y",
+    "title": "【AI动画短片】如果每天醒来都会忘记朋友……｜《给明天的我》",
+    "owner": {
+      "name": "风陵渡前",
+      "mid": 3546814376577843
+    },
+    "pubdate": 1793721735,
+    "duration": 259
+  },
+  "descriptionSha256": "5c08f62ad847771e953a8aa25a4f199c42479fbe064da4144e456fcdbb369204",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%8D%83%E9%97%AE%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.409Z",
+    "htmlSha256": "750dcb7935b495300266f4f1c12693c32481ad936090579bb6564e05e9c1147d",
+    "title": "【AI动画短片】如果每天醒来都会忘记朋友……｜《给明天的我》",
+    "publisher": "风陵渡前",
+    "publisherUrl": "https://space.bilibili.com/3546814376577843"
+  }
+}

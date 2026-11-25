@@ -26,11 +26,11 @@
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/) · [Gemini Pro · 原画と表情](https://selinlee.github.io/ai-moe-atlas/ja/characters/qinv-gemini-pro/) · [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/ja/characters/shangshan-whale/)
 
 <!-- category-picks:personas -->
-**[💬 キャラクター性格プロンプト](#personas)** · 8 件\
+**[💬 キャラクター性格プロンプト](#personas)** · 11 件\
 [GLM 狐娘 · ZCode 版](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md) · [Claude 娘「小克」· deslop 執筆カード](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md) · [DeepSeek クジラ娘 · QQ チャット版](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md)
 
 <!-- category-picks:songs -->
-**[🎵 楽曲](#songs)** · 94 曲\
+**[🎵 楽曲](#songs)** · 98 曲\
 [人は猫 · 大肥魚カバー](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · アニメーション MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [Gimme×Gimme · GPT と Grok](https://www.bilibili.com/video/BV1KMy8zxEPf/)
 
 <!-- category-picks:references -->
@@ -50,11 +50,11 @@
 [AI GIRLS · 初対面 · 原作漫画](https://www.bilibili.com/video/BV15Npa6zE44/) · [『AI GIRLS』日常編 · 連絡先の原作](https://www.bilibili.com/video/BV1YSpu6gEh1/) · [AI GIRLS · 内見 · 原作漫画](https://www.bilibili.com/video/BV1FvpR67EZZ/)
 
 <!-- category-picks:animations -->
-**[🎬 アニメ・動画二次創作](#animations)** · 859 件\
+**[🎬 アニメ・動画二次創作](#animations)** · 891 件\
 [チャット画面が彼女の世界のすべてだったら](https://www.bilibili.com/video/BV1xCai6aE9g/) · [負けヒロイン AI が多すぎる！ · PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo 娘キャラクター PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 ペット・インタラクティブ作品](#desktop-pets)** · 139 プロジェクト\
+**[🐾 ペット・インタラクティブ作品](#desktop-pets)** · 141 プロジェクト\
 [CrossPet · 複数の AI に対応するデスクトップペット](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D コーディングペット](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [Gemini 娘 · 2形態ペット](https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/README.md)
 
 <!-- category-picks:sources -->
@@ -87,13 +87,13 @@ Tokentaker キャラクター設定 · [DeepSeek](https://selinlee.github.io/ai-
 
 ### 💬 キャラクター性格プロンプト
 
-同じキャラクターでも、作者の版によって口調や反応がどう違うかを読み比べられます。ZCode の2枚と AstrBot の QQ 版はサイトで中国語本文をコピーできます。全件に固定版の原文と利用条件のリンクがあります。 [キャラクターや口調から探す](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=personas)
+同じキャラクターでも、作者の版によって口調や反応がどう違うかを読み比べられます。ZCode の2枚と QQ チャット版2枚はサイトで中国語本文をコピーできます。全件に固定版の原文と利用条件のリンクがあります。 [キャラクターや口調から探す](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=personas)
 
 | キャラクター | プロンプトの版 |
 | --- | --- |
 | GLM | [GLM 狐娘 · ZCode 版](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md) · [GLM 狐娘「小雪」· deslop 会話カード](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/fox-girl.md) |
 | Gemini | [Gemini の双子猫娘 · ZCode 版](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/gemini_chan.md) |
-| DeepSeek | [DeepSeek クジラ娘 · QQ チャット版](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md) · [DeepSeek クジラ娘 · 仕事の相棒版](https://github.com/xxnb0/deepseek-chan-fanpack/blob/ab55439a67e66424f4e1117c8951c2b0052360b0/prompts/system.md) |
+| DeepSeek | [DeepSeek クジラ娘 · QQ チャット版](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md) · [DeepSeek クジラ娘 · 仕事の相棒版](https://github.com/xxnb0/deepseek-chan-fanpack/blob/ab55439a67e66424f4e1117c8951c2b0052360b0/prompts/system.md) · [DeepSeek クジラ娘 · DSH コーディング版](https://github.com/linsport/dsh-whale-persona/blob/431f34ab9410b467e3e44ce52c659c0130ca72e9/%E4%BA%BA%E8%AE%BE%E5%8E%9F%E6%96%87.md) · [DeepSeek クジラ娘 · DSH 教師版](https://github.com/linsport/dsh-whale-persona/blob/431f34ab9410b467e3e44ce52c659c0130ca72e9/%E4%BA%BA%E8%AE%BE%E5%8E%9F%E6%96%87-%E6%95%99%E5%B8%88%E7%89%88.md) · [DeepSeek 大きな魚 · QQ 設定パック](https://github.com/zexuanw958-svg/dafeiyu-config-pack/blob/8c01b0361b8a4baff5be3d2bc67ed55108953086/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC.md) |
 | Claude | [Claude 娘「小克」· deslop 執筆カード](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md) |
 | GPT | [GPT 白龍娘 · Coopanion 吹き出し版](https://github.com/suhong11300/gpt-niang/blob/254cbd0afb267f9b755a0294185a1575909e9821/figure.json) · [GPT 龍娘「Gちゃん」· deslop 執筆カード](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/gpt-girl.md) |
 
@@ -124,7 +124,7 @@ Tokentaker キャラクター設定 · [DeepSeek](https://selinlee.github.io/ai-
 
 [原曲の出典](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲とバージョンの確認記録](content/research/2026-11-20/song-originals-and-fan-versions.json) · [主題歌と二次創作の使用曲の確認記録](content/research/2026-11-20/character-songs-and-opening-credits.json) · [ダンス・歌詞 MV の楽曲クレジット](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [「溫室效應」の原曲と二次創作 MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [原曲4曲と二次創作の確認](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [豆包カバーとエンディング曲の出典](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [千問・MiMo・ダンス曲の出典](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [「APT.」と「删了一百遍」の出典](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [カバー曲とゲーム楽曲の原曲](content/research/2026-11-22/november-cover-song-originals-and-versions.json) · [Charlotte・bloom・unhappy の出典](content/research/2026-11-22/november-charlotte-bloom-and-remix-evidence.json) · [週刊・ゲーム原曲の確認](content/research/2026-11-22/november-mili-and-game-soundtrack-verification.json) · [「烂奇迹」の原曲とカバーの確認](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json) · [原曲3曲と二次創作での使用](content/research/2026-11-23/november-renai-numb-and-dragon-maid-originals.json) · [FIRESTARTER・Bad Apple!! とカバーの出典](content/research/2026-11-23/november-firestarter-bad-apple-and-cover-attribution.json) · [Trouble Maker と「朋友的酒」の原曲](content/research/2026-11-23/november-trouble-maker-and-friends-wine-originals.json)
 
-[4曲の原曲と『大魚』の替え歌](content/research/2026-11-25/november-25-song-originals-and-versions.json) · [「詠春」を含む4曲の原曲と参照元](content/research/2026-11-25/november-25-composition-and-adaptation-sources.json) · [LOSER・九張機・鳥の詩と楽曲出典](content/research/2026-11-25/november-25-original-recording-follow-up.json) · [一格格を含む6曲の出典](content/research/2026-11-25/november-25-second-candidate-music-credits.json)
+[4曲の原曲と『大魚』の替え歌](content/research/2026-11-25/november-25-song-originals-and-versions.json) · [「詠春」を含む4曲の原曲と参照元](content/research/2026-11-25/november-25-composition-and-adaptation-sources.json) · [LOSER・九張機・鳥の詩と楽曲出典](content/research/2026-11-25/november-25-original-recording-follow-up.json) · [一格格を含む6曲の出典](content/research/2026-11-25/november-25-second-candidate-music-credits.json) · [原曲4曲とカバーの照合](content/research/2026-11-25/november-25-third-candidate-music-credits.json)
 
 [『千問、助けて』など5曲の原曲とカバー](content/research/2026-11-23/five-original-songs-and-cover-sources.json)
 
@@ -200,7 +200,7 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 
 <!-- animation-ranking:end -->
 
-2026-11-25 に旧作764件を分割照会し、754件を更新。10件は有効な動画データがなく前回値を保持。当日の新規ランク追加は95件、候補11件は確認待ちです。 [最初の再確認](content/research/2026-11-25/bilibili-november-25-recheck-scope.json) · [残り83件の再確認](content/research/2026-11-25/bilibili-november-25-remaining-catalog-follow-up.json) · [第2候補取得](content/research/2026-11-25/bilibili-november-25-second-candidate-scope.json)
+2026-11-25 に旧作764件を分割照会し、754件を更新。10件は有効な動画データがなく前回値を保持。当日の新規ランク追加は127件、候補11件は確認待ちです。 [最初の再確認](content/research/2026-11-25/bilibili-november-25-recheck-scope.json) · [残り83件の再確認](content/research/2026-11-25/bilibili-november-25-remaining-catalog-follow-up.json) · [第2候補取得](content/research/2026-11-25/bilibili-november-25-second-candidate-scope.json) · [第3候補取得](content/research/2026-11-25/bilibili-cumulative-likes-november-25-third-candidate-batch.json)
 
 <a id="desktop-pets"></a>
 
@@ -221,7 +221,7 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 | 9 | [OpenPets · ローカルデスクトップペット基盤](https://github.com/OpenPetsHQ/openpets/blob/9153e40ed37617243f903b074161d7df4bbd27b0/README.md) | [1,408](https://github.com/OpenPetsHQ/openpets) |
 | 10 | [CrossPet · 複数AI対応デスクトップペット](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | [568](https://github.com/lokicorvus/crosspet) |
 
-[ペット・インタラクティブ作品をすべて見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive) · [Star 数の確認記録](content/research/2026-11-25/github-interactive-stars-november-25-gemini-kimi-grok.json)
+[ペット・インタラクティブ作品をすべて見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive) · [Star 数の確認記録](content/research/2026-11-25/github-interactive-stars-november-25-persona-projects.json)
 
 Gemini・Kimi・Grok の新規ペット · [Gemini 娘の2形態](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#xiaoxindada-gemini-desktop-pet) · [Antigravity の猫娘](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#rzls-gemini-antigravity-pet) · [Gemini クォータ看板](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#yunxi-gemini-antigravity-companion) · [Kimi Work と独立ペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#ancient-kimi-work-and-desktop-pet) · [Kimi ベクターの青い球](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#hhhzxyhhh-kimi-blue-ball-pet) · [Grok 球面の目](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#necx-grok-spherical-eye-pet)
 
@@ -359,6 +359,7 @@ ZipZipPipe の[出典と利用声明](https://t.bilibili.com/1231980045693616162
 
 | 時期・状況 | 内容 |
 | --- | --- |
+| 2026-11-25 · 第3動画収集と性格カード | いいね確認済み動画32件、楽曲4曲、性格カード3件、インタラクティブ作品2件を追加。QQ プロンプト1件は許可に基づきコピー可能。 |
 | 2026-11-25 · Gemini 原画と第2動画収集 | 動画42件、楽曲6曲、作者出典7件、ペット6件を追加。投稿27枚と CrossPet 変換48枚を照合し、Gemini Pro 原画3枚パックを公開。 |
 | 2026-11-25 · キャラクター性格プロンプト | 専用分類にカード8件を追加。許可済み本文3件はコピー可、他は固定原文にリンク。 |
 | 2026-11-25 · 残りのいいね確認と MX1951 投稿 | 未照会・制限の旧作83件を再確認し81件更新。動画8件、楽曲3曲、キャラクター2件、出典6件、ペット6件を追加。Claude の CC0 立ち絵パックを公開。 |

@@ -1,0 +1,43 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:22.300Z",
+  "method": "isolated-headless-google-chrome",
+  "pinnedDocument": {
+    "path": "persona/大肥鱼.md",
+    "url": "https://github.com/zexuanw958-svg/dafeiyu-config-pack/blob/8c01b0361b8a4baff5be3d2bc67ed55108953086/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC.md",
+    "rawUrl": "https://raw.githubusercontent.com/zexuanw958-svg/dafeiyu-config-pack/8c01b0361b8a4baff5be3d2bc67ed55108953086/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC.md",
+    "sourceSha256": "82f23bcba2e7c0879c5458fd1410b3d3e707764de5bd3c4a0283d5fecd94bc12",
+    "gitBlobSha": "6327765dadb2734c8178274c613cd408732ecce9",
+    "bytes": 3832,
+    "commit": "8c01b0361b8a4baff5be3d2bc67ed55108953086",
+    "accessedAt": "2026-11-25T09:47:22.300Z"
+  },
+  "section": "你是什么样的 / 怎么说话 / 底线",
+  "termsDocument": {
+    "path": "LICENSE",
+    "url": "https://github.com/zexuanw958-svg/dafeiyu-config-pack/blob/8c01b0361b8a4baff5be3d2bc67ed55108953086/LICENSE",
+    "rawUrl": "https://raw.githubusercontent.com/zexuanw958-svg/dafeiyu-config-pack/8c01b0361b8a4baff5be3d2bc67ed55108953086/LICENSE",
+    "sourceSha256": "158a9cfa16972b8c1c5c167287922b8c54f62a9ea92ae628d58d06cb0ffb80d7",
+    "gitBlobSha": "4feb151c1cb7d22241ef65a9030969669bb4631b",
+    "bytes": 1071,
+    "commit": "8c01b0361b8a4baff5be3d2bc67ed55108953086",
+    "accessedAt": "2026-11-25T09:47:21.898Z"
+  },
+  "contextDocuments": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/zexuanw958-svg/dafeiyu-config-pack/blob/8c01b0361b8a4baff5be3d2bc67ed55108953086/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/zexuanw958-svg/dafeiyu-config-pack/8c01b0361b8a4baff5be3d2bc67ed55108953086/README.md",
+      "sourceSha256": "8376b55f3f6f7d6ef042443ac6e45e11cb2ceba9cb676de67b7365ea9424e8e2",
+      "gitBlobSha": "5a2d1c8bc275eaed9fdc6dc26e2e37d170ad6b63",
+      "bytes": 11500,
+      "commit": "8c01b0361b8a4baff5be3d2bc67ed55108953086",
+      "accessedAt": "2026-11-25T09:47:21.469Z"
+    }
+  ],
+  "textPermission": {
+    "license": "MIT",
+    "scopeUrl": "https://github.com/zexuanw958-svg/dafeiyu-config-pack/blob/8c01b0361b8a4baff5be3d2bc67ed55108953086/README.md",
+    "scopeSection": "README: 本项目自己撰写的设置和人格；LICENSE: MIT"
+  }
+}

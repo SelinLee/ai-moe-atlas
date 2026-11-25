@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:07.679Z",
+  "url": "https://www.bilibili.com/video/BV1C9sL6UEzt/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1C9sL6UEzt",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1C9sL6UEzt",
+    "title": "地牢干饭记【AI娘X迷宫饭-自制AI动画】",
+    "owner": {
+      "name": "疾跑高松灯",
+      "mid": 43245822
+    },
+    "pubdate": 1794672385,
+    "duration": 101
+  },
+  "descriptionSha256": "e9207ee5400c7066984926adace59a042a3fb71a9254f0598c0e8427ee6766d1",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Gemini%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:08.464Z",
+    "htmlSha256": "1fc4f53c138d3072691d9cd8c67bde944ae56c3d430f833b002c03d4e568d6fc",
+    "title": "地牢干饭记【AI娘X迷宫饭-自制AI动画】",
+    "publisher": "疾跑高松灯",
+    "publisherUrl": "https://space.bilibili.com/43245822"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:06.891Z",
+  "url": "https://www.bilibili.com/video/BV1LZs86GEWS/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LZs86GEWS",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1LZs86GEWS",
+    "title": "“大肥鱼，你就这么喜欢人类吗？”《新大肥鱼》【开源之战】Claude 白龙娘 登场",
+    "owner": {
+      "name": "星阳云野",
+      "mid": 503237971
+    },
+    "pubdate": 1795091675,
+    "duration": 332
+  },
+  "descriptionSha256": "ef7bfe85a9eff0a0ebc3c98a26facca24f0cf00b9c48673748cf31870cc20b13",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "“大肥鱼，你就这么喜欢人类吗？”《新大肥鱼》【开源之战】Claude 白龙娘 登场",
+    "publisher": "星阳云野",
+    "publisherUrl": "https://space.bilibili.com/503237971"
+  }
+}

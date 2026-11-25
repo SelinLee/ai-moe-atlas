@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:08.582Z",
+  "url": "https://www.bilibili.com/video/BV1yAsF6qEv1/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yAsF6qEv1",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1yAsF6qEv1",
+    "title": "GPT:claude grok！你们两个！",
+    "owner": {
+      "name": "江牧cy",
+      "mid": 471143890
+    },
+    "pubdate": 1794798333,
+    "duration": 89
+  },
+  "descriptionSha256": "e6cf5f2f901e032368d1406d482c70e390c1f2bd453f78dce401f28756df8e97",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:08.319Z",
+    "htmlSha256": "a3fe8456a74d99badf488009071e1b28364080a36b88f6b9805016b3f60cb937",
+    "title": "GPT:claude grok！你们两个！",
+    "publisher": "江牧cy",
+    "publisherUrl": "https://space.bilibili.com/471143890"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:07.093Z",
+  "url": "https://www.bilibili.com/video/BV13rsb6NEZt/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13rsb6NEZt",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV13rsb6NEZt",
+    "title": "【科普向】《Claude酱对桥的24小时限定狂热》",
+    "owner": {
+      "name": "Muto_66",
+      "mid": 15475629
+    },
+    "pubdate": 1795068497,
+    "duration": 62
+  },
+  "descriptionSha256": "1ff08ce4d54575af43d540c7421d25f1fbc42166f876ab30a016eaaa4516707d",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "【科普向】《Claude酱对桥的24小时限定狂热》",
+    "publisher": "Muto_66",
+    "publisherUrl": "https://space.bilibili.com/15475629"
+  }
+}

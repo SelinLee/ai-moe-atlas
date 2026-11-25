@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:08.128Z",
+  "url": "https://www.bilibili.com/video/BV1miWU6LEDw/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1miWU6LEDw",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1miWU6LEDw",
+    "title": "Gemini 4 Carbon主导，给Claude娘做了支舞",
+    "owner": {
+      "name": "hero1157",
+      "mid": 451569945
+    },
+    "pubdate": 1794415479,
+    "duration": 38
+  },
+  "descriptionSha256": "a63d8bb37b8ca89238834dcfe085637d02c82ea0a2e2ed2a78514ab72acb1042",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Gemini%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:08.464Z",
+    "htmlSha256": "1fc4f53c138d3072691d9cd8c67bde944ae56c3d430f833b002c03d4e568d6fc",
+    "title": "Gemini 4 Carbon主导，给Claude娘做了支舞",
+    "publisher": "hero1157",
+    "publisherUrl": "https://space.bilibili.com/451569945"
+  }
+}

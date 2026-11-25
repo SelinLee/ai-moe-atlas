@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T09:47:06.908Z",
+  "url": "https://www.bilibili.com/video/BV1bTsQ6dEcw/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bTsQ6dEcw",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1bTsQ6dEcw",
+    "title": "【deepseek×Claude×GPT×user】少女们的茶话会",
+    "owner": {
+      "name": "初稜",
+      "mid": 157298616
+    },
+    "pubdate": 1795021604,
+    "duration": 104
+  },
+  "descriptionSha256": "e4267efe370ad920b1181734d11b67c19e90e344169d8a3cdcf388bad9b0b83b",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "【deepseek×Claude×GPT×user】少女们的茶话会",
+    "publisher": "初稜",
+    "publisherUrl": "https://space.bilibili.com/157298616"
+  }
+}

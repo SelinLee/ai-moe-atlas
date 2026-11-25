@@ -57,7 +57,8 @@
       {"id": "bv1qhpy6ue1s", "type": "mv"},
       {"id": "bv1arpz6web7", "type": "mv"},
       {"id": "bv17xpq6mer3", "type": "mv"},
-      {"id": "bv1jjhl6we8q", "type": "mv"}
+      {"id": "bv1jjhl6we8q", "type": "mv"},
+      {"id": "bv1zdwu6aesj", "type": "mv"}
     ]
   },
   {
@@ -71,7 +72,8 @@
       {"id": "bv11fsc6be2h", "type": "cover"},
       {"id": "bv1dhwj6venx", "type": "cover"},
       {"id": "bv1evsb6fevj", "type": "mv"},
-      {"id": "bv13yyazbe7m", "type": "cover"}
+      {"id": "bv13yyazbe7m", "type": "cover"},
+      {"id": "bv1xv1czhe8q", "type": "cover"}
     ]
   },
   {
@@ -481,7 +483,10 @@
     "id": "friends-wine",
     "title": {"zh": "朋友的酒", "en": "A Friend’s Wine", "ja": "朋友的酒"},
     "original": {"credit": "李晓杰 · Li Xiaojie", "url": "https://music.apple.com/us/song/%E6%9C%8B%E5%8F%8B%E7%9A%84%E9%85%92/1843716589"},
-    "versions": [{"id": "bv14bnz6getk", "type": "remix"}]
+    "versions": [
+      {"id": "bv14bnz6getk", "type": "remix"},
+      {"id": "bv19t1czxe9j", "type": "cover"}
+    ]
   },
   {
     "id": "qwen-help-me",
@@ -640,6 +645,38 @@
     "original": {"credit": "そらまふうらさか", "url": "https://www.nicovideo.jp/watch/sm32355422"},
     "versions": [
       {"id": "bv131s66wegg", "type": "mv"}
+    ]
+  },
+  {
+    "id": "azalea-song",
+    "title": {"zh": "映山红", "en": "Azaleas", "ja": "映山紅"},
+    "original": {"credit": "邓玉华", "url": "https://music.apple.com/us/song/1840847548"},
+    "versions": [
+      {"id": "bv1tuyxzxebk", "type": "cover"}
+    ]
+  },
+  {
+    "id": "since-you-left-beijing",
+    "title": {"zh": "那是你离开了北京的生活", "en": "Since You Left Beijing", "ja": "那是你離開了北京的生活"},
+    "original": {"credit": "薛之谦 · Joker Xue", "url": "https://music.apple.com/us/song/1787929793"},
+    "versions": [
+      {"id": "bv1tr1fz5egi", "type": "arrangement"}
+    ]
+  },
+  {
+    "id": "stars-and-sea",
+    "title": {"zh": "星辰大海", "en": "Stars and Sea", "ja": "星辰大海"},
+    "original": {"credit": "黄霄雲", "url": "https://music.apple.com/us/song/1725936614"},
+    "versions": [
+      {"id": "bv1lp1fz4edw", "type": "cover"}
+    ]
+  },
+  {
+    "id": "little-jumping-frog",
+    "title": {"zh": "小跳蛙", "en": "Little Jumping Frog", "ja": "小跳蛙"},
+    "original": {"credit": "青蛙乐队", "url": "https://music.apple.com/us/song/1712287252"},
+    "versions": [
+      {"id": "bv1hq1fzqejw", "type": "cover"}
     ]
   }
 ]
