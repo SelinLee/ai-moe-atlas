@@ -1,5 +1,7 @@
 # Studio guide
 
+> The studio has been retired. Find character PNGs, ZIP packs and credits in [Downloads](https://selinlee.github.io/ai-moe-atlas/en/assets/)
+
 [中文](STUDIO.zh.md) · [English](STUDIO.en.md) · [日本語](STUDIO.ja.md)
 
 Use the studio link on a character or asset, or choose a local image in the studio. Processing stays in the browser. Local images, creators and declarations are not uploaded or added to the public atlas.

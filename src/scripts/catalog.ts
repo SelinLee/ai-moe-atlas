@@ -50,5 +50,4 @@ document.querySelector<HTMLButtonElement>('#copy-results')!.addEventListener('cl
   try{await navigator.clipboard.writeText(url);if(location.href===url)status.textContent=button.dataset.done!;}
   catch{if(location.href===url){status.textContent=button.dataset.failed!;link.value=url;link.hidden=false;link.focus();link.select();}}
 });
-document.addEventListener('keydown',e=>{if(e.key==='/'&&!(e.target instanceof HTMLInputElement||e.target instanceof HTMLTextAreaElement||e.target instanceof HTMLSelectElement||(e.target as HTMLElement).isContentEditable)){e.preventDefault();search.focus();}});
 restore();

@@ -6,7 +6,7 @@ Explore AI character designs, usable assets and community fan works with traceab
 
 <a id="assets"></a>
 
-[Open the character atlas](https://selinlee.github.io/ai-moe-atlas/en/) · [Download asset packs](https://selinlee.github.io/ai-moe-atlas/en/assets/) · [Open the studio](https://selinlee.github.io/ai-moe-atlas/en/studio/)
+[Open the character atlas](https://selinlee.github.io/ai-moe-atlas/en/) · [Download asset packs](https://selinlee.github.io/ai-moe-atlas/en/assets/) · [Search all resources](https://selinlee.github.io/ai-moe-atlas/en/collection/)
 
 <p align="center">
   <a href="public/generated/rough-doodle-v1/openai/doodle-v1.png"><img src="public/generated/rough-doodle-v1/openai/preview.webp" width="84" alt="GPT"></a>
@@ -526,11 +526,10 @@ Collected from 上善无形’s Bilibili post, Small-tailqwq/dsh-deep-whale and 
 
 MX1951’s Qwen school portrait uses CC0 1.0. The pack preserves the submitted PNG, creator credit and file hashes. [Verification record](content/research/2026-11-23/mx1951-qwen-cc0-attachment-and-archive.json)
 
-Prefer creator-published high-resolution originals. If unavailable, a fixed depiction may be generated from collected references, preserving identity and provenance and labeling the generated derivative separately. It must not be presented as a creator original or recovered detail. The studio does not integrate generative processing. This grants no additional upstream rights and does not allow inventing unrelated characters or lore.
+Prefer creator-published high-resolution originals. If unavailable, a fixed depiction may be generated from collected references, preserving identity and provenance and labeling the generated derivative separately. It must not be presented as a creator original or recovered detail. This grants no additional upstream rights and does not allow inventing unrelated characters or lore.
 
 ## Maintain
 
-- [Studio guide](docs/STUDIO.en.md)
 - [Contribution guide](docs/CONTRIBUTING.en.md)
 - [Collection manual](docs/COLLECTION.en.md)
 - [Artwork terms](RIGHTS.md)

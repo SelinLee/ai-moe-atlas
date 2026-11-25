@@ -123,7 +123,7 @@ for (const [file, lang, directory, timeline, galleries] of layouts) {
   const [directoryStart, timelineStart, galleryStart] = sections;
   assert.ok(0 < directoryStart && directoryStart < timelineStart && timelineStart < galleryStart);
   const intro = markdown.slice(0, directoryStart);
-  for (const route of ['', 'assets/', 'studio/']) {
+  for (const route of ['', 'assets/', 'collection/']) {
    assert.ok(intro.includes(`(https://selinlee.github.io/ai-moe-atlas/${lang}/${route})`));
   }
   assert.match(intro, /<img src="public\/generated\/rough-doodle-v1\//);

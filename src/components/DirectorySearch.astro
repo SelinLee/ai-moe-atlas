@@ -1,0 +1,28 @@
+---
+import Icon from './Icon.astro';
+import { path } from '../lib/paths';
+import { navigation } from '../lib/navigation';
+import { categories } from '../lib/resources';
+import { resourceText } from '../lib/resource-text';
+import type { Locale } from '../lib/i18n';
+const { lang, scoped = false } = Astro.props as {lang: Locale; scoped?: boolean};
+const n = navigation[lang];
+---
+<form class="directory-form" role="search" aria-label={n.directory} action={path(`${lang}/collection/`)} method="get">
+  <label class="search-field"><Icon name="search" size={19}/><input type="search" name="q" maxlength="200" aria-label={n.placeholder} placeholder={n.placeholder}/><kbd aria-hidden="true">/</kbd></label>
+  {scoped && <select name="category" aria-label={n.scope}>
+    <option value="">{n.all}</option>
+    {categories.map(c => <option value={c}>{resourceText[lang].category[c].title}</option>)}
+  </select>}
+  <button type="submit" class="button">{n.search}</button>
+</form>
+<script>
+  const query = document.querySelector<HTMLInputElement>('.directory-form [name="q"]')!;
+  document.addEventListener('keydown', event => {
+    const target = event.target;
+    if (event.key !== '/' || event.metaKey || event.ctrlKey || event.altKey || event.isComposing) return;
+    if (target instanceof HTMLElement && (target.isContentEditable || target.closest('input, textarea, select'))) return;
+    event.preventDefault();
+    query.focus();
+  });
+</script>

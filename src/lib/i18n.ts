@@ -65,7 +65,7 @@ const zh = {
   rightsEvidence: '依据链接或说明', rightsContact: '可公开的署名或主页链接（可选）',
   openingLead: '正在打开 GitHub 线索表单…', openingCorrection: '正在打开 GitHub 纠错表单…', openingRights: '正在打开 GitHub 用途确认表单…', fillRequired: '请先填写必填项。',
   rightsSubmit: '打开用途确认表单', rightsNoAuto: '提交后由维护者核对并更新用途记录；公开页面不会展示未经核验的结论。',
-  useFeatured: '图鉴精选展示', useSocialCover: '分享宣传封面', useAvatarCanvas: '工坊头像画布', useFullPortrait: '工坊完整立绘', useTechnicalCanvas: '工坊自定义适配', useIntroCard: '角色介绍卡', useLineupCard: '我的阵容卡', useReadmeDemo: 'README 演示',
+  useFeatured: '图鉴精选展示', useSocialCover: '分享宣传封面', useAvatarCanvas: '头像画布', useFullPortrait: '完整立绘', useTechnicalCanvas: '自定义尺寸适配', useIntroCard: '角色介绍卡', useLineupCard: '我的阵容卡', useReadmeDemo: 'README 演示',
 };
 const en: Record<keyof typeof zh, string> = {
   brand: 'AI Moe Atlas', tagline: 'Another face of AI', atlas: 'Character atlas', assets: 'Asset library', studio: 'Asset studio', models: 'AI index', contribute: 'Contribute',
@@ -131,7 +131,7 @@ const en: Record<keyof typeof zh, string> = {
   rightsEvidence: 'Evidence link or statement', rightsContact: 'Public credit or profile link (optional)',
   openingLead: 'Opening the GitHub lead form…', openingCorrection: 'Opening the GitHub correction form…', openingRights: 'Opening the GitHub permission form…', fillRequired: 'Please fill in the required fields first.',
   rightsSubmit: 'Open confirmation form', rightsNoAuto: 'A maintainer verifies each submission before the use record changes. Unverified decisions are never published.',
-  useFeatured: 'Featured atlas display', useSocialCover: 'Social share cover', useAvatarCanvas: 'Studio avatar canvas', useFullPortrait: 'Studio full portrait', useTechnicalCanvas: 'Studio custom fitting', useIntroCard: 'Introduction card', useLineupCard: 'My lineup card', useReadmeDemo: 'README demo',
+  useFeatured: 'Featured atlas display', useSocialCover: 'Social share cover', useAvatarCanvas: 'Avatar canvas', useFullPortrait: 'Full portrait', useTechnicalCanvas: 'Custom fitting', useIntroCard: 'Introduction card', useLineupCard: 'My lineup card', useReadmeDemo: 'README demo',
 };
 const ja: Record<keyof typeof zh, string> = {
   brand: 'AI 萌え図鑑', tagline: 'AI の、もうひとつの顔', atlas: 'キャラクター図鑑', assets: '素材ライブラリ', studio: '素材工房', models: 'AI 一覧', contribute: '参加する',
@@ -196,7 +196,7 @@ const ja: Record<keyof typeof zh, string> = {
   rightsEvidence: '根拠となるリンクや説明', rightsContact: '公開してよいクレジット・プロフィール URL（任意）',
   openingLead: 'GitHub の投稿フォームを開いています…', openingCorrection: 'GitHub の訂正フォームを開いています…', openingRights: 'GitHub の確認フォームを開いています…', fillRequired: '必須項目を先に入力してください。',
   rightsSubmit: '確認フォームを開く', rightsNoAuto: '管理者が確認してから用途記録を更新します。未確認の結論は公開されません。',
-  useFeatured: '図鑑のピックアップ表示', useSocialCover: '共有用の表紙', useAvatarCanvas: '工房のアイコン用キャンバス', useFullPortrait: '工房の全身立ち絵', useTechnicalCanvas: '工房のカスタム調整', useIntroCard: '紹介カード', useLineupCard: 'マイラインナップカード', useReadmeDemo: 'README の操作デモ',
+  useFeatured: '図鑑のピックアップ表示', useSocialCover: '共有用の表紙', useAvatarCanvas: 'アイコン用キャンバス', useFullPortrait: '全身立ち絵', useTechnicalCanvas: 'カスタム調整', useIntroCard: '紹介カード', useLineupCard: 'マイラインナップカード', useReadmeDemo: 'README の操作デモ',
 };
 export const translations = { zh, en, ja };
 export const t = (locale: Locale) => translations[locale];

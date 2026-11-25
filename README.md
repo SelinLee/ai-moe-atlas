@@ -6,7 +6,7 @@
 
 <a id="assets"></a>
 
-[打开在线图鉴](https://selinlee.github.io/ai-moe-atlas/zh/) · [下载素材包](https://selinlee.github.io/ai-moe-atlas/zh/assets/) · [打开素材工坊](https://selinlee.github.io/ai-moe-atlas/zh/studio/)
+[打开在线图鉴](https://selinlee.github.io/ai-moe-atlas/zh/) · [下载素材包](https://selinlee.github.io/ai-moe-atlas/zh/assets/) · [检索全部资源](https://selinlee.github.io/ai-moe-atlas/zh/collection/)
 
 <p align="center">
   <a href="public/generated/rough-doodle-v1/openai/doodle-v1.png"><img src="public/generated/rough-doodle-v1/openai/preview.webp" width="84" alt="GPT"></a>
@@ -526,11 +526,10 @@ GPT、Gemini、Claude、Kimi、Qwen 的社区设计：ZipZipPipe；DeepSeek：�
 
 MX1951 的千问校园立绘单独按 CC0 1.0 提供。素材包保留原投稿的 PNG、作者署名及校验记录。 [核对记录](content/research/2026-11-23/mx1951-qwen-cc0-attachment-and-archive.json)
 
-优先获取原作者发布的高清原图；原图不可得时，可依据已收集参考制作固定形象派生图，并单独标注生成来源、身份与加工记录，不冒充作者原图或恢复出的细节。工坊未集成生成式处理，不扩大上游许可，也不允许凭空新造无关角色或设定。
+优先获取原作者发布的高清原图；原图不可得时，可依据已收集参考制作固定形象派生图，并单独标注生成来源、身份与加工记录，不冒充作者原图或恢复出的细节。此展示授权不扩大上游许可，也不允许凭空新造无关角色或设定。
 
 ## 资料与维护
 
-- [工坊使用指南](docs/STUDIO.zh.md)
 - [投稿指南](CONTRIBUTING.md)
 - [采集操作手册](docs/COLLECTION.zh.md)
 - [素材使用条件](RIGHTS.md)

@@ -6,7 +6,7 @@
 
 <a id="assets"></a>
 
-[オンライン図鑑を開く](https://selinlee.github.io/ai-moe-atlas/ja/) · [素材パックを見る](https://selinlee.github.io/ai-moe-atlas/ja/assets/) · [素材工房を開く](https://selinlee.github.io/ai-moe-atlas/ja/studio/)
+[オンライン図鑑を開く](https://selinlee.github.io/ai-moe-atlas/ja/) · [素材パックを見る](https://selinlee.github.io/ai-moe-atlas/ja/assets/) · [すべての資料を検索](https://selinlee.github.io/ai-moe-atlas/ja/collection/)
 
 <p align="center">
   <a href="public/generated/rough-doodle-v1/openai/doodle-v1.png"><img src="public/generated/rough-doodle-v1/openai/preview.webp" width="84" alt="GPT"></a>
@@ -526,11 +526,10 @@ ai_video の固定形象資料6枚。各画像に通常頭身とちびキャラ�
 
 MX1951 の千問学園風立ち絵は CC0 1.0。素材パックに投稿時の PNG、作者名とハッシュを収録。 [確認記録](content/research/2026-11-23/mx1951-qwen-cc0-attachment-and-archive.json)
 
-作者が公開した高解像度原図を優先します。入手できない場合、収集した参照画像を基に同一の姿を保つ派生画像を生成できますが、作者・出典・加工履歴を保持し、生成派生物として別途明記します。作者の原図や復元された細部とは表記しません。工房に生成処理は組み込んでいません。上流の許諾を拡大せず、無関係なキャラクターや設定の創作も認めません。
+作者が公開した高解像度原図を優先します。入手できない場合、収集した参照画像を基に同一の姿を保つ派生画像を生成できますが、作者・出典・加工履歴を保持し、生成派生物として別途明記します。作者の原図や復元された細部とは表記しません。上流の許諾を拡大せず、無関係なキャラクターや設定の創作も認めません。
 
 ## 維持・更新
 
-- [素材工房ガイド](docs/STUDIO.ja.md)
 - [投稿ガイド](docs/CONTRIBUTING.ja.md)
 - [収集マニュアル](docs/COLLECTION.ja.md)
 - [素材の利用条件](RIGHTS.md)

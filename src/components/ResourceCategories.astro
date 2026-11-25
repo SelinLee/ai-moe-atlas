@@ -11,8 +11,8 @@ const icons={characters:'atlas',personas:'chat',songs:'music',references:'assets
   <div class="resource-category-grid">
     {categories.map(category=><a class="resource-category" data-category-link={category} href={categoryURL(category,lang)}>
       <span class="resource-category-icon"><Icon name={icons[category]} size={23}/></span>
-      <div><h3>{s.category[category].title}</h3><p>{s.category[category].description}</p><span class="resource-category-count"><strong>{resourceCounts[category]}</strong> {s.category[category].unit}</span></div>
-      <span class="resource-category-arrow"><Icon name="arrow" size={18}/></span>
+      <div><h3>{s.category[category].title}</h3><p>{s.category[category].description}</p></div>
+      <span class="resource-category-count"><strong>{resourceCounts[category]}</strong> {s.category[category].unit}</span>
     </a>)}
   </div>
 </section>

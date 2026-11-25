@@ -1,4 +1,6 @@
-const filters = [...document.querySelectorAll<HTMLButtonElement>('[data-resource-filter]')];
+import { normalizeSearch, searchText } from '../lib/search-text';
+const categorySelect = document.querySelector<HTMLSelectElement>('#resource-category')!;
+const heading = document.querySelector<HTMLElement>('#resource-heading')!;
 const typeFilters = [...document.querySelectorAll<HTMLButtonElement>('[data-resource-type-filter]')];
 const typeGroups = [...document.querySelectorAll<HTMLElement>('[data-resource-type-group]')];
 const intros = [...document.querySelectorAll<HTMLElement>('[data-resource-intro]')];
@@ -13,20 +15,6 @@ const archive = document.querySelector<HTMLDetailsElement>('#like-evidence');
 const pending = document.querySelector<HTMLDetailsElement>('#pending-animation-evidence');
 const pendingCount = document.querySelector<HTMLElement>('#pending-animation-count');
 const pendingRows = [...document.querySelectorAll<HTMLElement>('[data-pending-search]')];
-const normalizeSearch = (value: string) => value.normalize('NFKC').toLowerCase();
-const aliases = [
-  [/\bqwen(?:\d+(?:\.\d+)?)?\b|千问|千問/, 'qwen 千问 千問'],
-  [/\bdoubao\b|豆包/, 'doubao 豆包'],
-  [/\bclaude\b|克劳德|克勞德/, 'claude 克劳德 克勞德'],
-  [/\bminimax\b|海螺娘|海螺\s*ai/, 'minimax 海螺娘 海螺 ai'],
-  [/\b(?:deepseek|whale girl|(?:blue )?fat fish)\b|大肥[鱼魚]|[鲸鯨][鱼魚]娘|クジラ娘/, 'deepseek whale girl blue fat fish 大肥鱼 大肥魚 鲸鱼娘 鯨魚娘 クジラ娘'],
-] as const;
-
-function searchText(value: string) {
-  const text = normalizeSearch(value);
-  return [text, ...aliases.filter(([pattern]) => pattern.test(text)).map(([, names]) => names)].join(' ');
-}
-
 const cardSearch = cards.map(card => searchText(card.dataset.resourceSearch ?? ''));
 const pendingSearch = pendingRows.map(row => searchText(row.dataset.pendingSearch ?? ''));
 const byLikes = cards.filter(card => card.dataset.resourceCategory === 'animation');
@@ -50,7 +38,8 @@ function activeTypeGroup() {
 
 function readURL() {
   const params = new URL(location.href).searchParams;
-  category = filters.find(button => button.dataset.resourceFilter === params.get('category'))?.dataset.resourceFilter ?? 'all';
+  categorySelect.value = params.get('category') ?? 'all';
+  category = categorySelect.value || 'all';
   const group = activeTypeGroup();
   type = typeFilters.find(button => group?.contains(button) && button.dataset.resourceTypeFilter === params.get('type'))?.dataset.resourceTypeFilter ?? 'all';
   sort.value = category === 'animation' && params.get('sort') === 'recent' ? 'recent' : 'likes';
@@ -79,7 +68,7 @@ function update(writeURL = true) {
   }
   const inCollection = categoryMatchers[category];
   const group = activeTypeGroup();
-  const introCategory = inCollection || category === 'animation' ? category : 'default';
+  const introCategory = category === 'all' ? 'default' : category;
   for (const intro of intros) intro.hidden = intro.dataset.resourceIntro !== introCategory;
   let count = 0;
   for (const [index, card] of cards.entries()) {
@@ -98,7 +87,9 @@ function update(writeURL = true) {
     pendingCount.textContent = String(matches);
     if (terms.length && !pending.hidden) pending.open = true;
   }
-  for (const button of filters) markSelected(button, button.dataset.resourceFilter === category);
+  categorySelect.value = category;
+  heading.textContent = category === 'all' ? heading.dataset.title! : categorySelect.selectedOptions[0].label;
+  list.classList.toggle('filtered-category', category !== 'all');
   for (const button of typeFilters) markSelected(button, button.dataset.resourceTypeFilter === (group?.contains(button) ? type : 'all'));
   countOutput.textContent = String(count);
   empty.hidden = count > 0 || Boolean(pending && terms.length && !pending.hidden);
@@ -117,12 +108,10 @@ function update(writeURL = true) {
   }
 }
 
-for (const button of filters) button.addEventListener('click', () => {
-  if (category !== button.dataset.resourceFilter) {
-    type = 'all';
-    sort.value = 'likes';
-  }
-  category = button.dataset.resourceFilter!;
+categorySelect.addEventListener('change', () => {
+  category = categorySelect.value;
+  type = 'all';
+  sort.value = 'likes';
   update();
 });
 for (const button of typeFilters) button.addEventListener('click', () => {

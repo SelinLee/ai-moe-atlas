@@ -53,7 +53,7 @@ export const rigFormats={live2d:'Live2D',mmd:'MMD',vrm:'VRM'} as const;
 export const sourceAnchorAliases=new Map(external.filter(record=>record.category==='sources').map(record=>[
   record.id,leads.filter(lead=>lead.url===record.url&&lead.id!==record.id).map(lead=>lead.id)
 ]));
-export const directoryCategories=['animation','interactive','personas',...collectionCategories,'sources'] as const;
+export const directoryCategories=categories.filter(c=>c!=='characters' && c!=='songs' && c!=='references');
 export const animations=resources.filter(r=>r.category==='animation').sort(byCumulativeLikes);
 export const rankedAnimations=animations.filter(r=>r.likes);
 export const animationRanks=new Map(rankedAnimations.map((r,i)=>[r.id,i+1]));

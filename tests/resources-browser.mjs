@@ -40,7 +40,7 @@ try{
   const visibleRecords=page.locator('[data-resource-category]:visible');
   for(const [category, entries] of Object.entries(collections)){
    await page.locator(`[data-category-link="${category}"]`).click();
-   await page.waitForSelector(`[data-resource-filter="${category}"][aria-pressed="true"]`);
+   await page.waitForFunction(c=>document.querySelector("#resource-category")?.value===c, category);
    const ids=await visibleRecords.evaluateAll(cards=>cards.map(card=>card.id));
    const expectedIds=entries.map(entry=>entry.id);
    assert.deepEqual(category==='comics'?ids:[...ids].sort(),category==='comics'?expectedIds:[...expectedIds].sort());
@@ -59,13 +59,13 @@ try{
     }
     await page.reload();
     await page.waitForSelector('[data-resource-type-filter="live2d"][aria-pressed="true"]:visible');
-    await page.locator('[data-resource-filter="sources"]').click();
+    await page.locator('#resource-category').selectOption('sources');
     assert.equal(new URL(page.url()).searchParams.has('type'),false);
    }
    if(category==='comics'){
     const original=entries[1];
     await page.locator(`#${original.id} [data-comic-adaptation]`).click();
-    await page.waitForSelector('[data-resource-filter="animation"][aria-pressed="true"]');
+    await page.waitForFunction(()=>document.querySelector('#resource-category')?.value==='animation');
     assert.equal(new URL(page.url()).hash,'#'+original.adaptation);
     assert.ok(await page.locator('#'+original.adaptation).isVisible());
    }
@@ -74,7 +74,7 @@ try{
   const personaLink=page.locator('[data-category-link="personas"]');
   assert.equal(await personaLink.locator('strong').innerText(),String(personas.length));
   await personaLink.click();
-  await page.waitForSelector('[data-resource-filter="personas"][aria-pressed="true"]');
+  await page.waitForFunction(()=>document.querySelector('#resource-category')?.value==='personas');
   assert.equal(await page.locator('[data-resource-category]:visible').count(),personas.length);
   for(const record of personas){
    const card=page.locator('#'+record.id);
@@ -191,7 +191,7 @@ try{
   await page.locator('#bv1yfn46seer summary').click();
   assert.ok(await page.locator('#bv1yfn46seer details a[href*="BV1AAnt6qEek"]').isVisible());
   const languageLink=page.locator('.language-switch a').filter({hasText:lang==='ja'?'English':'日本語'});await languageLink.click();
-  await page.waitForSelector('[data-resource-filter="animation"][aria-pressed="true"]');
+  await page.waitForFunction(()=>document.querySelector('#resource-category')?.value==='animation');
   assert.equal(await page.locator('[data-resource-category]:visible').count(),1);
   assert.ok(page.url().includes('category=animation'));
   await page.goto(`${origin}/${lang}/resources/?category=animation#pending-animation-evidence`,{waitUntil:'networkidle'});
@@ -239,14 +239,14 @@ try{
    }
    await page.locator('#resource-search').fill('');
   }
-  await page.locator('[data-resource-filter="interactive"]').click();assert.equal(await page.locator('[data-resource-category]:visible').count(),interactiveCount);
+  await page.locator('#resource-category').selectOption('interactive');assert.equal(await page.locator('[data-resource-category]:visible').count(),interactiveCount);
   assert.ok(await page.locator('#pending-animation-evidence').isHidden());
   assert.ok(await page.locator('#like-evidence').isHidden());
   assert.ok(await page.locator('#resource-types').isHidden());
   assert.equal(new URL(page.url()).searchParams.has('type'),false);
   await page.locator('#resource-search').fill('no-such-work-xyz');assert.ok(await page.locator('#resource-empty').isVisible());
   await page.locator('#resource-reset').click();assert.equal(await page.locator('[data-resource-category]:visible').count(),registry.records.length+remainingLeads.length);
-  await page.locator('[data-resource-filter="sources"]').click();
+  await page.locator('#resource-category').selectOption('sources');
   assert.equal(await page.locator('[data-resource-category="sources"]:visible').count(),sourceCount);
   const gallery=page.locator('[data-resource-category="sources"]:visible h2 a[href="https://www.pixiv.net/artworks/148186519"]');
   assert.equal(await gallery.count(),1);

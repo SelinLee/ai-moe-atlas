@@ -11,7 +11,7 @@ const absolute = (route: string) => new URL(path(route), Astro.site).href;
 const config = { lang, purposes: usePurposes, openingLead: s.openingLead, openingCorrection: s.openingCorrection, openingRights: s.openingRights, fillRequired: s.fillRequired };
 ---
 <Layout lang={lang} title={s.contribute} description={s.contributeIntro} active="contribute" route="contribute/">
-  <section class="page-heading"><div><p class="eyebrow">BUILT BY THE COMMUNITY</p><h1>{s.contributeTitle}</h1><p class="lead">{s.contributeIntro}</p></div></section>
+  <section class="page-heading"><div><h1>{s.contributeTitle}</h1><p class="lead">{s.contributeIntro}</p></div></section>
 
   <div id="contribute-forms" data-config={JSON.stringify(config)}>
   <section class="panel" aria-labelledby="lead-title">
@@ -54,7 +54,7 @@ const config = { lang, purposes: usePurposes, openingLead: s.openingLead, openin
       </details>
       <div class="button-row">
         <button class="button" type="submit">{s.leadOpen} ↗</button>
-        <a class="button secondary" href={path(`${lang}/collection/`)}>{s.collectionFlow} →</a>
+        <a class="button secondary" href={`${repo}/blob/main/docs/COLLECTION.${lang}.md`}>{s.collectionFlow} →</a>
       </div>
       <p class="status" id="lead-status" role="status" aria-live="polite"></p>
       <p class="subtle">{s.noAuto}</p>
@@ -137,11 +137,9 @@ const config = { lang, purposes: usePurposes, openingLead: s.openingLead, openin
   <section class="panel" style="margin-top:24px">
     <h2>{s.policy}</h2>
     <p>{s.policyText}</p>
-    <h3>{s.scope}</h3>
-    <p>{s.scopeText}</p>
     <div class="file-links">
       <a href={`${repo}/blob/main/${guide}`} target="_blank" rel="noopener noreferrer">{s.guide} ↗</a>
-      <a href={path(`${lang}/collection/`)}>{s.collectionFlow} →</a>
+      <a href={`${repo}/blob/main/docs/COLLECTION.${lang}.md`}>{s.collectionFlow} →</a>
     </div>
   </section>
   </div>

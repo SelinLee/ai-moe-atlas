@@ -1,5 +1,7 @@
 # 素材工坊使用指南
 
+> 素材工坊已下线。现有角色的 PNG、ZIP 和署名信息请前往 [素材下载](https://selinlee.github.io/ai-moe-atlas/zh/assets/)
+
 [中文](STUDIO.zh.md) · [English](STUDIO.en.md) · [日本語](STUDIO.ja.md)
 
 从角色详情或某张素材的“在工坊中使用”进入，也可以打开工坊选择本地图片。处理在浏览器中完成；本地图片、作者和声明不会上传或自动加入公开库。

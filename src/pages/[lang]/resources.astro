@@ -4,7 +4,7 @@ import PersonaPrompt from '../../components/PersonaPrompt.astro';
 import {locales,type Locale} from '../../lib/i18n';
 import {resourceText} from '../../lib/resource-text';
 import {path} from '../../lib/paths';
-import {resources,animations,animationRanks,byPublicationDate,byPublicationTime,directoryCategories,resourceCounts,resourcesUpdatedAt,beijingTime,verificationLabel,sourceAnchorAliases,stickerEntries,rigEntries,rigFormats,comicEntries,collectionCategories} from '../../lib/resources';
+import {resources,animations,animationRanks,byPublicationDate,byPublicationTime,directoryCategories,beijingTime,verificationLabel,sourceAnchorAliases,stickerEntries,rigEntries,rigFormats,comicEntries} from '../../lib/resources';
 import registry from '../../../content/resources.json';
 import {readPendingAnimationCandidates} from '../../../scripts/lib/resources.mjs';
 import {readLikeArchive} from '../../../scripts/lib/like-archive.mjs';
@@ -22,17 +22,12 @@ const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid
 <Layout lang={lang} title={s.directory} description={s.directoryIntro} active="resources" route="resources/">
   <section class="page-heading">
     <div>
-      <p class="eyebrow">{resourcesUpdatedAt}</p>
-      <h1>{s.directory}</h1>
+      <h1 id="resource-heading" data-title={s.directory}>{s.directory}</h1>
       <p class="lead" data-resource-intro="default">{s.directoryIntro}</p>
       <p class="lead" data-resource-intro="animation" hidden>{s.latestIntro}</p>
-      {collectionCategories.map(category=><p class="lead" data-resource-intro={category} hidden>{s.category[category].description}</p>)}
+      {directoryCategories.filter(c=>c!=='animation').map(category=><p class="lead" data-resource-intro={category} hidden>{s.category[category].description}</p>)}
     </div>
   </section>
-  <div class="resource-filters" role="group" aria-label={s.categories}>
-    <button class="selected" data-resource-filter="all" aria-pressed="true">{s.all} <span>{resources.length}</span></button>
-    {directoryCategories.map(c=><button data-resource-filter={c} aria-pressed="false">{s.category[c].title} <span>{resourceCounts[c]}</span></button>)}
-  </div>
   <div class="resource-filters resource-type-filters" id="resource-types" data-resource-type-group="animation" role="group" aria-label={s.videoTypes} hidden>
     <button class="selected" data-resource-type-filter="all" aria-pressed="true">{s.allVideoTypes}</button>
     {Object.entries(s.types).map(([type,label])=><button data-resource-type-filter={type} aria-pressed="false">{label} <span>{animations.filter(r=>r.subtype===type).length}</span></button>)}
@@ -42,6 +37,10 @@ const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid
     {Object.entries(rigFormats).map(([format,label])=><button data-resource-type-filter={format} aria-pressed="false">{label}</button>)}
   </div>
   <div class="filter-bar">
+    <select id="resource-category" aria-label={s.categories}>
+      <option value="all">{s.all}</option>
+      {directoryCategories.map(c=><option value={c}>{s.category[c].title}</option>)}
+    </select>
     <label class="search-field"><input id="resource-search" type="search" placeholder={s.search} aria-label={s.search}/></label>
     <label id="resource-sort-label" class="resource-sort" hidden>{s.sort}
       <select id="resource-sort">
@@ -108,7 +107,7 @@ const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid
       ].join(' ')}>
       {sourceAnchorAliases.get(r.id)?.map(id=><span id={id} aria-hidden="true"></span>)}
       <div class="resource-record-top">
-        <span class="pill">{s.category[r.category].title}</span>
+        <span class="pill record-category">{s.category[r.category].title}</span>
         {r.subtype&&<span class="resource-subtype">{s.types[r.subtype as keyof typeof s.types]}</span>}
         {format&&<span class="pill">{format}</span>}
         {episode&&<span class="pill">{comic?.series} · {s.comicEpisode(episode)}</span>}
