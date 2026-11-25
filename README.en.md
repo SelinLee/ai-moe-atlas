@@ -37,6 +37,18 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 **[🧸 Turnarounds & adaptations](#references)** · 20 reference images\
 [Claude reference sheet](https://selinlee.github.io/ai-moe-atlas/en/references/#claude) · [DeepSeek chibi turnaround](https://selinlee.github.io/ai-moe-atlas/en/chibi/#deepseek) · [Qwen chibi turnaround](https://selinlee.github.io/ai-moe-atlas/en/chibi/#qwen)
 
+<!-- category-picks:stickers -->
+**[🗨️ Stickers & reaction images](#stickers)** · 6 entries\
+[雾雪 · original Fat Fish and GPT-girl sticker publication](https://www.bilibili.com/video/BV13xnt6QE6s/) · [Gemini Cat Girl · Reactions and Earless Variants](https://www.bilibili.com/opus/1264669110489317411) · [莫末陌寞 · original Gemini chat sticker post](https://www.bilibili.com/video/BV1F34G6BEVA/)
+
+<!-- category-picks:rigs -->
+**[🧩 Rigged models](#rigs)** · 5 entries\
+[Kamiya Ryoko · original DeepSeek-chan Live2D release](https://www.bilibili.com/video/BV1KmxY66EZ3/) · [水原镜 · Blue Fat Fish MMD distribution](https://www.aplaybox.com/details/model/j9z4quaACJV1) · [木子恶魔 · Blue Fat Fish VRM original release](https://www.aplaybox.com/details/model/ayXkRzVflmnd)
+
+<!-- category-picks:comics -->
+**[📖 Comics & serials](#comics)** · 5 works\
+[AI GIRLS · First Meeting · Original Comic](https://www.bilibili.com/video/BV15Npa6zE44/) · [AI GIRLS Daily Life · Contact Details Original](https://www.bilibili.com/video/BV1YSpu6gEh1/) · [AI GIRLS · House Hunting · Original Comic](https://www.bilibili.com/video/BV1FvpR67EZZ/)
+
 <!-- category-picks:animations -->
 **[🎬 Animation & fan videos](#animations)** · 859 records\
 [What If the Chat Window Were Her Whole World?](https://www.bilibili.com/video/BV1xCai6aE9g/) · [Too Many Losing AIs! · Fan PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo Girl Character PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
@@ -123,6 +135,43 @@ The top ten tracks by the highest total likes on a listed version. Observation t
 All 20 images are generated adaptations with references, credits and generation records.
 
 [7 chibi turnarounds](#chibi-gallery) · [6 standard and chibi sheets](#v5-gallery) · [7 doodles and prompt templates](#doodle-gallery)
+
+<a id="stickers"></a>
+
+### 🗨️ Stickers & reaction images
+
+Find chat stickers, paired reactions and expression variants by character or mood. Kiriyuki’s index includes tags for happiness, shyness, confusion and anger. [Browse stickers and reactions](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=stickers) · [Mood tag evidence](content/research/2026-11-25/kiriyuki-nekowhale-emotion-tags.json)
+
+- [雾雪 · original Fat Fish and GPT-girl sticker publication](https://www.bilibili.com/video/BV13xnt6QE6s/)
+- [Gemini Cat Girl · Reactions and Earless Variants](https://www.bilibili.com/opus/1264669110489317411)
+- [莫末陌寞 · original Gemini chat sticker post](https://www.bilibili.com/video/BV1F34G6BEVA/)
+- [红メ月 · GPT dragon-girl turnaround and stickers](https://www.bilibili.com/video/BV1p3JU6ZE8Z/)
+- [Coco · Design and Expression Sheets](https://github.com/lmy414/ai-girl-stickers/issues/120)
+- [A队1号是菜鸡 · GPT Dragon Girl Meme](https://github.com/lmy414/ai-girl-stickers/issues/140)
+
+<a id="rigs"></a>
+
+### 🧩 Rigged models
+
+Browse creators’ releases by format and check modeling or rigging credits and terms for each work. [Browse rigged models](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=rigs)
+
+- [Live2D](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=rigs&type=live2d) · [Kamiya Ryoko · original DeepSeek-chan Live2D release](https://www.bilibili.com/video/BV1KmxY66EZ3/) · [DSH Whale Girl · 氵六青 Live2D edition](https://github.com/Andersen216/dsh-whale-girl-live2d/blob/f977bef508690e75ba6535cd8f4ce18e7f6ba9b0/README.md) · [GPT Dragon Girl · Live2D work companion](https://github.com/ycwycw2020/GPT_Dragon_girl_transformation/blob/257e4051a7bd5ecc87567af7d0fb078af02c97d4/README.md)
+- [MMD](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=rigs&type=mmd) · [水原镜 · Blue Fat Fish MMD distribution](https://www.aplaybox.com/details/model/j9z4quaACJV1)
+- [VRM](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=rigs&type=vrm) · [木子恶魔 · Blue Fat Fish VRM original release](https://www.aplaybox.com/details/model/ayXkRzVflmnd)
+
+<a id="comics"></a>
+
+### 📖 Comics & serials
+
+The first three episodes of 萤火之森QWQ’s AI GIRLS slice-of-life series are listed in reading order with the corresponding animated adaptations. [Browse comics and serials](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=comics)
+
+| Episode | Original comic | Animated adaptation |
+| ---: | --- | --- |
+| 1 | [AI GIRLS · First Meeting · Original Comic](https://www.bilibili.com/video/BV15Npa6zE44/) | [AI GIRLS Daily Life 1 · First Meeting](https://www.bilibili.com/video/BV1xMsS67Efr/) |
+| 2 | [AI GIRLS Daily Life · Contact Details Original](https://www.bilibili.com/video/BV1YSpu6gEh1/) | [AI GIRLS Daily Life 2 · Contact Details](https://www.bilibili.com/video/BV1Ebyez4EUj/) |
+| 3 | [AI GIRLS · House Hunting · Original Comic](https://www.bilibili.com/video/BV1FvpR67EZZ/) | [AI GIRLS Daily Life 3 · House Hunting](https://www.bilibili.com/video/BV13a1FznEcw/) |
+
+Standalone comics · [添章怪树木 · Fat Fish Rescues Claude Comic (15 images)](https://github.com/lmy414/ai-girl-stickers/issues/98) · [Shiho320 · Miss Claude Reaction Comic](https://github.com/lmy414/ai-girl-stickers/issues/121)
 
 <a id="animations"></a>
 

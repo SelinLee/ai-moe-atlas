@@ -2,9 +2,10 @@ import { readFile,readdir,access } from 'node:fs/promises';
 import { assertSource,sha256 } from './lib/policy.mjs';
 import { assertUsageReview } from '../src/lib/usage-policy.mjs';
 import { assertCandidateReport } from './lib/candidates.mjs';
-import { assertResources } from './lib/resources.mjs';
+import { assertResources, assertResourceCollections } from './lib/resources.mjs';
 const resources=JSON.parse(await readFile('content/resources.json','utf8'));
 const resourceCount=await assertResources(resources,new URL('../',import.meta.url));
+assertResourceCollections(JSON.parse(await readFile('content/resource-collections.json','utf8')),resources.records);
 console.log(`Validated ${resourceCount} resource records, localized metadata, prompt permissions and retained evidence hashes.`);
 
 const categoryArtwork=JSON.parse(await readFile('content/category-preview-artwork.json','utf8'));

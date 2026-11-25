@@ -37,6 +37,18 @@
 **[🧸 三面図と生成派生資料](#references)** · 20 枚\
 [Claude のキャラクター資料](https://selinlee.github.io/ai-moe-atlas/ja/references/#claude) · [DeepSeek のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#deepseek) · [千問のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#qwen)
 
+<!-- category-picks:stickers -->
+**[🗨️ スタンプとリアクション画像](#stickers)** · 6 件\
+[雾雪 · 大きな魚と GPT 娘スタンプの作者投稿](https://www.bilibili.com/video/BV13xnt6QE6s/) · [Gemini 猫娘 · 表情スタンプと猫耳なし差分](https://www.bilibili.com/opus/1264669110489317411) · [莫末陌寞 · Gemini チャットスタンプの原投稿](https://www.bilibili.com/video/BV1F34G6BEVA/)
+
+<!-- category-picks:rigs -->
+**[🧩 可動モデルとリギング](#rigs)** · 5 件\
+[神宫凉子 · DeepSeek-chan Live2D 作者配布](https://www.bilibili.com/video/BV1KmxY66EZ3/) · [水原镜 · 青い大きな魚 MMD モデル配布](https://www.aplaybox.com/details/model/j9z4quaACJV1) · [木子悪魔 · 青い小さな魚 VRM の作者公開ページ](https://www.aplaybox.com/details/model/ayXkRzVflmnd)
+
+<!-- category-picks:comics -->
+**[📖 漫画と連載](#comics)** · 5 作品\
+[AI GIRLS · 初対面 · 原作漫画](https://www.bilibili.com/video/BV15Npa6zE44/) · [『AI GIRLS』日常編 · 連絡先の原作](https://www.bilibili.com/video/BV1YSpu6gEh1/) · [AI GIRLS · 内見 · 原作漫画](https://www.bilibili.com/video/BV1FvpR67EZZ/)
+
 <!-- category-picks:animations -->
 **[🎬 アニメ・動画二次創作](#animations)** · 859 件\
 [チャット画面が彼女の世界のすべてだったら](https://www.bilibili.com/video/BV1xCai6aE9g/) · [負けヒロイン AI が多すぎる！ · PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo 娘キャラクター PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
@@ -123,6 +135,43 @@ Tokentaker キャラクター設定 · [DeepSeek](https://selinlee.github.io/ai-
 20枚は生成派生の展示画像です。参照元・作者表示・生成記録を保持しています。
 
 [ちびキャラ三面図7枚](#chibi-gallery) · [通常頭身・ちびキャラ資料6枚](#v5-gallery) · [落書き7枚とプロンプト集](#doodle-gallery)
+
+<a id="stickers"></a>
+
+### 🗨️ スタンプとリアクション画像
+
+キャラクターや感情から会話用スタンプ、二人のやり取り、表情差分を探せます。雾雪の索引には喜び、照れ、困惑、怒りなどのタグがあります。 [スタンプとリアクション画像を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=stickers) · [感情タグの確認記録](content/research/2026-11-25/kiriyuki-nekowhale-emotion-tags.json)
+
+- [雾雪 · 大きな魚と GPT 娘スタンプの作者投稿](https://www.bilibili.com/video/BV13xnt6QE6s/)
+- [Gemini 猫娘 · 表情スタンプと猫耳なし差分](https://www.bilibili.com/opus/1264669110489317411)
+- [莫末陌寞 · Gemini チャットスタンプの原投稿](https://www.bilibili.com/video/BV1F34G6BEVA/)
+- [红メ月 · GPT ちび竜娘の三面図とスタンプ](https://www.bilibili.com/video/BV1p3JU6ZE8Z/)
+- [小ク Coco · 設定表と表情集](https://github.com/lmy414/ai-girl-stickers/issues/120)
+- [A队1号是菜鸡 · GPT 龍娘ネタ画像](https://github.com/lmy414/ai-girl-stickers/issues/140)
+
+<a id="rigs"></a>
+
+### 🧩 可動モデルとリギング
+
+モデル形式ごとに配布元、モデリングやリギングの担当、作品ごとの利用条件を確認できます。 [可動モデルを見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=rigs)
+
+- [Live2D](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=rigs&type=live2d) · [神宫凉子 · DeepSeek-chan Live2D 作者配布](https://www.bilibili.com/video/BV1KmxY66EZ3/) · [DSH クジラ娘 · 氵六青 Live2D 版](https://github.com/Andersen216/dsh-whale-girl-live2d/blob/f977bef508690e75ba6535cd8f4ce18e7f6ba9b0/README.md) · [GPT ドラゴン娘 · Live2D 作業コンパニオン](https://github.com/ycwycw2020/GPT_Dragon_girl_transformation/blob/257e4051a7bd5ecc87567af7d0fb078af02c97d4/README.md)
+- [MMD](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=rigs&type=mmd) · [水原镜 · 青い大きな魚 MMD モデル配布](https://www.aplaybox.com/details/model/j9z4quaACJV1)
+- [VRM](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=rigs&type=vrm) · [木子悪魔 · 青い小さな魚 VRM の作者公開ページ](https://www.aplaybox.com/details/model/ayXkRzVflmnd)
+
+<a id="comics"></a>
+
+### 📖 漫画と連載
+
+萤火之森QWQ の『AI GIRLS』日常編を話数順に掲載し、各話に対応するアニメ版も案内します。 [漫画と連載を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=comics)
+
+| 話数 | 原作漫画 | アニメ版 |
+| ---: | --- | --- |
+| 1 | [AI GIRLS · 初対面 · 原作漫画](https://www.bilibili.com/video/BV15Npa6zE44/) | [AI GIRLS 日常編1 · 初対面](https://www.bilibili.com/video/BV1xMsS67Efr/) |
+| 2 | [『AI GIRLS』日常編 · 連絡先の原作](https://www.bilibili.com/video/BV1YSpu6gEh1/) | [『AI GIRLS』日常編第2話 · 連絡先](https://www.bilibili.com/video/BV1Ebyez4EUj/) |
+| 3 | [AI GIRLS · 内見 · 原作漫画](https://www.bilibili.com/video/BV1FvpR67EZZ/) | [AI GIRLS 日常編3 · 内見](https://www.bilibili.com/video/BV13a1FznEcw/) |
+
+読み切り漫画 · [添章怪树木 · 大きな魚が Claude を救う漫画（15枚）](https://github.com/lmy414/ai-girl-stickers/issues/98) · [Shiho320 · Claude お嬢さんの反応漫画](https://github.com/lmy414/ai-girl-stickers/issues/121)
 
 <a id="animations"></a>
 

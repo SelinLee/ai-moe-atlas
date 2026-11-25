@@ -64,6 +64,44 @@ export async function readPendingAnimationCandidates(registry, root) {
   return snapshot.pendingCandidates;
 }
 
+export function assertResourceCollections(collections, records) {
+  const byId = new Map(records.map(record => [record.id, record]));
+  for (const category of ['stickers', 'rigs', 'comics']) {
+    const entries = collections[category];
+    if (!Array.isArray(entries) || new Set(entries.map(entry => entry.id)).size !== entries.length) {
+      throw new Error('Invalid resource collection: ' + category);
+    }
+    for (const entry of entries) {
+      const record = byId.get(entry.id);
+      if (record?.verification?.result !== 'metadata-verified' ||
+        !(record.category === 'sources' || category === 'rigs' && record.category === 'interactive')) {
+        throw new Error('Collection entry needs a verified source: ' + entry.id);
+      }
+    }
+  }
+  for (const {id, characters, tags} of collections.stickers) {
+    if (!characters?.length || characters.some(name => !name.trim()) || !tags?.length ||
+      tags.some(tag => !['pair','solo','happy','shy','confused','angry','variants','chat','meme'].includes(tag))) {
+      throw new Error('Invalid sticker tags: ' + id);
+    }
+  }
+  for (const {id, format} of collections.rigs) {
+    if (!['live2d','mmd','vrm'].includes(format)) throw new Error('Invalid rig format: ' + id);
+  }
+  const lastEpisodes = new Map();
+  for (const {id, series, episode, adaptation} of collections.comics) {
+    const video = byId.get(adaptation);
+    if (adaptation && (video?.category !== 'animation' || !byId.get(id).relations.some(link => link.url === video.url))) {
+      throw new Error('Comic adaptation must match the original source record: ' + id);
+    }
+    if (series === undefined && episode === undefined) continue;
+    if (!series?.trim() || !Number.isSafeInteger(episode) || episode <= (lastEpisodes.get(series) ?? 0)) {
+      throw new Error('Comic episodes must be listed in series order: ' + id);
+    }
+    lastEpisodes.set(series, episode);
+  }
+}
+
 export async function assertResources(registry,root){
   if(registry.schemaVersion!==1||registry.scope!=='source-metadata-only'||!/^\d{4}-\d{2}-\d{2}$/.test(registry.updatedAt)||!Array.isArray(registry.records))throw new Error('Invalid resource registry');
   await readPendingAnimationCandidates(registry, root);

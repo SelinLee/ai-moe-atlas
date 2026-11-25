@@ -4,7 +4,7 @@ import PersonaPrompt from '../../components/PersonaPrompt.astro';
 import {locales,type Locale} from '../../lib/i18n';
 import {resourceText} from '../../lib/resource-text';
 import {path} from '../../lib/paths';
-import {resources,animations,animationRanks,byPublicationDate,byPublicationTime,directoryCategories,resourceCounts,resourcesUpdatedAt,beijingTime,verificationLabel,sourceAnchorAliases} from '../../lib/resources';
+import {resources,animations,animationRanks,byPublicationDate,byPublicationTime,directoryCategories,resourceCounts,resourcesUpdatedAt,beijingTime,verificationLabel,sourceAnchorAliases,stickerEntries,rigEntries,rigFormats,comicEntries,collectionCategories} from '../../lib/resources';
 import registry from '../../../content/resources.json';
 import {readPendingAnimationCandidates} from '../../../scripts/lib/resources.mjs';
 import {readLikeArchive} from '../../../scripts/lib/like-archive.mjs';
@@ -20,14 +20,26 @@ const sourceStatus=(httpStatus:number)=>[412,429].includes(httpStatus)?s.pending
 const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid,row]));
 ---
 <Layout lang={lang} title={s.directory} description={s.directoryIntro} active="resources" route="resources/">
-  <section class="page-heading"><div><p class="eyebrow">{resourcesUpdatedAt}</p><h1>{s.directory}</h1><p class="lead">{s.directoryIntro} {s.latestIntro}</p></div></section>
+  <section class="page-heading">
+    <div>
+      <p class="eyebrow">{resourcesUpdatedAt}</p>
+      <h1>{s.directory}</h1>
+      <p class="lead" data-resource-intro="default">{s.directoryIntro}</p>
+      <p class="lead" data-resource-intro="animation" hidden>{s.latestIntro}</p>
+      {collectionCategories.map(category=><p class="lead" data-resource-intro={category} hidden>{s.category[category].description}</p>)}
+    </div>
+  </section>
   <div class="resource-filters" role="group" aria-label={s.categories}>
     <button class="selected" data-resource-filter="all" aria-pressed="true">{s.all} <span>{resources.length}</span></button>
     {directoryCategories.map(c=><button data-resource-filter={c} aria-pressed="false">{s.category[c].title} <span>{resourceCounts[c]}</span></button>)}
   </div>
-  <div class="resource-filters resource-type-filters" id="resource-types" role="group" aria-label={s.videoTypes} hidden>
+  <div class="resource-filters resource-type-filters" id="resource-types" data-resource-type-group="animation" role="group" aria-label={s.videoTypes} hidden>
     <button class="selected" data-resource-type-filter="all" aria-pressed="true">{s.allVideoTypes}</button>
     {Object.entries(s.types).map(([type,label])=><button data-resource-type-filter={type} aria-pressed="false">{label} <span>{animations.filter(r=>r.subtype===type).length}</span></button>)}
+  </div>
+  <div class="resource-filters resource-type-filters" data-resource-type-group="rigs" role="group" aria-label={s.rigFormats} hidden>
+    <button class="selected" data-resource-type-filter="all" aria-pressed="true">{s.allRigFormats}</button>
+    {Object.entries(rigFormats).map(([format,label])=><button data-resource-type-filter={format} aria-pressed="false">{label}</button>)}
   </div>
   <div class="filter-bar">
     <label class="search-field"><input id="resource-search" type="search" placeholder={s.search} aria-label={s.search}/></label>
@@ -79,14 +91,28 @@ const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid
     {ordered.map(r=>{
       const saved=r.likes?.evidence&&archiveByPath.get(r.likes.evidence.path);
       const latestFailure=r.bvid&&refreshFailures.get(r.bvid);
+      const sticker=stickerEntries.get(r.id);
+      const rig=rigEntries.get(r.id);
+      const format=rig&&rigFormats[rig.format as keyof typeof rigFormats];
+      const comic=comicEntries.get(r.id);
+      const episode=comic?.episode;
+      const stickerTags=(locale:Locale)=>sticker?.tags.map(tag=>resourceText[locale].stickerTags[tag as keyof typeof s.stickerTags])??[];
       return <article class="resource-record" id={r.id} data-resource-category={r.category} data-resource-type={r.subtype} data-recent-order={recentOrder.get(r.id)}
+      data-sticker={sticker?'':undefined} data-rig-format={rig?.format} data-comic-order={comic?.order}
       data-resource-search={[
         r.title.zh,r.title.en,r.title.ja,r.sourceTitle,r.publisher,r.bvid,r.summary.zh,r.summary.en,r.summary.ja,
         r.subtype&&locales.map(locale=>resourceText[locale].types[r.subtype as keyof typeof s.types]).join(' '),
+        ...(sticker?.characters??[]),...locales.flatMap(stickerTags),format,comic?.series,
+        episode&&locales.map(locale=>resourceText[locale].comicEpisode(episode)).join(' '),
         ...r.relations.map(link=>link.title),
       ].join(' ')}>
       {sourceAnchorAliases.get(r.id)?.map(id=><span id={id} aria-hidden="true"></span>)}
-      <div class="resource-record-top"><span class="pill">{s.category[r.category].title}</span>{r.subtype&&<span class="resource-subtype">{s.types[r.subtype as keyof typeof s.types]}</span>}</div>
+      <div class="resource-record-top">
+        <span class="pill">{s.category[r.category].title}</span>
+        {r.subtype&&<span class="resource-subtype">{s.types[r.subtype as keyof typeof s.types]}</span>}
+        {format&&<span class="pill">{format}</span>}
+        {episode&&<span class="pill">{comic?.series} · {s.comicEpisode(episode)}</span>}
+      </div>
       <h2><a href={r.url} target="_blank" rel="noopener noreferrer">{r.title[lang]} ↗</a></h2>
       <p class="resource-byline">{s.publisher} · {r.publisher} {r.publicationDate&&<> · {s.published} <time datetime={r.publishedAt??r.publicationDate}>{r.publishedAt?beijingTime.format(new Date(r.publishedAt)):r.publicationDate}</time>{r.publishedAt&&<> ({s.publicationZone})</>}</>}{r.bvid&&<> · {r.bvid}</>}</p>
       {r.category==='animation'&&<p class="resource-byline">{r.likes
@@ -94,6 +120,8 @@ const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid
         : s.unranked}</p>}
       {latestFailure&&<p class="resource-byline" data-like-refresh-failure>{s.previousLikes} · <time datetime={latestFailure.observedAt}>{beijingTime.format(new Date(latestFailure.observedAt))}</time> · {sourceStatus(latestFailure.httpStatus)}</p>}
       <p>{r.summary[lang]}</p>
+      {sticker&&<ul class="sticker-tags">{[...sticker.characters,...stickerTags(lang)].map(tag=><li>{tag}</li>)}</ul>}
+      {comic?.adaptation&&<p><a class="text-link" data-comic-adaptation href={path(`${lang}/resources/?category=animation#${comic.adaptation}`)}>{s.comicAdaptation} ↗</a></p>}
       {r.promptArchive && <PersonaPrompt archive={r.promptArchive} lang={lang} credit={r.rights[lang]}/>}
       <span class:list={['resource-verification',{'partial':r.verification?.result==='partial-response'||r.verification?.result==='blocked'}]}>{r.category==='personas'?s.persona.verified:verificationLabel(r,lang)}</span>
       <details><summary>{s.more}</summary>
@@ -110,6 +138,8 @@ const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid
 </Layout>
 <style>
   .resource-type-filters{margin-top:12px}
+  .sticker-tags{display:flex;flex-wrap:wrap;gap:6px;margin:10px 0 0;padding:0;list-style:none}
+  .sticker-tags li{border:1px solid var(--border);border-radius:5px;padding:2px 6px;color:var(--muted);font-size:11px}
   .resource-sort{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:13px}
   .animation-evidence-panel{margin-block:12px;scroll-margin-top:22px}
   .animation-evidence-panel summary{cursor:pointer;font-weight:600}

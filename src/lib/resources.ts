@@ -1,4 +1,5 @@
 import registry from '../../content/resources.json';
+import collections from '../../content/resource-collections.json';
 import leads from '../../content/leads.json';
 import songs from '../../content/songs.json';
 import { characters } from './data';
@@ -13,7 +14,8 @@ import type { Locale } from './i18n';
 
 export { byPublicationDate, byPublicationTime, likesObservedDate, beijingTime } from './animation-ranking.mjs';
 
-export const categories=['characters','personas','songs','references','animation','interactive','sources'] as const;
+export const collectionCategories=['stickers','rigs','comics'] as const;
+export const categories=['characters','personas','songs','references',...collectionCategories,'animation','interactive','sources'] as const;
 export type Category=typeof categories[number];
 type Localized={zh:string;en:string;ja:string};
 export type Resource={
@@ -44,10 +46,14 @@ const sourceRecords:Resource[]=unlistedSourceLeads(external,leads).map(l=>({
   publicationDate:null,relations:[],
 }));
 export const resources:Resource[]=[...external,...sourceRecords];
+export const stickerEntries=new Map(collections.stickers.map(entry=>[entry.id,entry]));
+export const rigEntries=new Map(collections.rigs.map(entry=>[entry.id,entry]));
+export const comicEntries=new Map(collections.comics.map((entry,index)=>[entry.id,{...entry,order:index}]));
+export const rigFormats={live2d:'Live2D',mmd:'MMD',vrm:'VRM'} as const;
 export const sourceAnchorAliases=new Map(external.filter(record=>record.category==='sources').map(record=>[
   record.id,leads.filter(lead=>lead.url===record.url&&lead.id!==record.id).map(lead=>lead.id)
 ]));
-export const directoryCategories=['animation','interactive','personas','sources'] as const;
+export const directoryCategories=['animation','interactive','personas',...collectionCategories,'sources'] as const;
 export const animations=resources.filter(r=>r.category==='animation').sort(byCumulativeLikes);
 export const rankedAnimations=animations.filter(r=>r.likes);
 export const animationRanks=new Map(rankedAnimations.map((r,i)=>[r.id,i+1]));
@@ -55,6 +61,7 @@ export const resourcesUpdatedAt=registry.updatedAt;
 export const resourceCounts:Record<Category,number>={
   characters:characters.length,songs:songs.length,
   personas:resources.filter(r=>r.category==='personas').length,
+  stickers:stickerEntries.size,rigs:rigEntries.size,comics:comicEntries.size,
   references:chibi.assets.length+references.assets.length+doodles.assets.length,
   animation:animations.length,interactive:resources.filter(r=>r.category==='interactive').length,
   sources:resources.filter(r=>r.category==='sources').length,

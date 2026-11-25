@@ -9,6 +9,7 @@ import {unlistedSourceLeads} from '../src/lib/source-leads.mjs';
 const registry=JSON.parse(await readFile('content/resources.json','utf8'));
 const leads=JSON.parse(await readFile('content/leads.json','utf8'));
 const songs=JSON.parse(await readFile('content/songs.json','utf8'));
+const collections=JSON.parse(await readFile('content/resource-collections.json','utf8'));
 const rankedSongs=rankSongsByLikes(songs,new Map(registry.records.map(record=>[record.id,record])));
 const pending=await readPendingAnimationCandidates(registry,new URL('../',import.meta.url));
 const currentSnapshot=JSON.parse(await readFile(registry.pendingAnimationEvidence.path,'utf8'));
@@ -27,13 +28,49 @@ const page=await context.newPage();const errors=[];page.on('pageerror',e=>errors
 try{
  for(const lang of ['zh','en','ja']){
   const response=await page.goto(`${origin}/${lang}/`,{waitUntil:'networkidle'});assert.equal(response.status(),200);
-  assert.equal(await page.locator('[data-category-link]').count(),7);
+  assert.equal(await page.locator('[data-category-link]').count(),10);
+  const collectionOrder=await page.locator('[data-category-link]').evaluateAll(links=>links.slice(4,7).map(link=>link.dataset.categoryLink));
+  assert.deepEqual(collectionOrder,['stickers','rigs','comics']);
   assert.equal(await page.locator('main h1').count(),1);
   assert.equal(await page.locator('[data-category-link="sources"] .resource-category-count strong').innerText(),String(sourceCount));
   assert.ok(await page.locator('[data-category-link="sources"]').evaluate(el=>el.getBoundingClientRect().bottom<innerHeight),'All categories fit the desktop first screen');
   const cards=await page.locator('[data-category-link]').evaluateAll(links=>links.map(a=>a.href));
   for(const url of cards){const r=await context.request.get(url);assert.equal(r.status(),200,url);}
   await page.screenshot({path:`.qa/resources-home-${lang}-desktop.png`});
+  const visibleRecords=page.locator('[data-resource-category]:visible');
+  for(const [category, entries] of Object.entries(collections)){
+   await page.locator(`[data-category-link="${category}"]`).click();
+   await page.waitForSelector(`[data-resource-filter="${category}"][aria-pressed="true"]`);
+   const ids=await visibleRecords.evaluateAll(cards=>cards.map(card=>card.id));
+   const expectedIds=entries.map(entry=>entry.id);
+   assert.deepEqual(category==='comics'?ids:[...ids].sort(),category==='comics'?expectedIds:[...expectedIds].sort());
+   assert.equal(await page.locator('#resource-count').innerText(),String(entries.length));
+   if(category==='stickers'){
+    const mood={zh:'害羞',en:'Shy',ja:'照れ'}[lang];
+    await page.locator('#resource-search').fill('GPT '+mood);
+    assert.deepEqual(await visibleRecords.evaluateAll(cards=>cards.map(card=>card.id)),['kiriyuki-nekowhale-sticker-source']);
+   }
+   if(category==='rigs'){
+    for(const format of ['mmd','vrm','live2d']){
+     const button=page.locator(`[data-resource-type-filter="${format}"]`);
+     await button.click();
+     assert.equal(new URL(page.url()).searchParams.get('type'),format);
+     assert.equal(await visibleRecords.count(),entries.filter(entry=>entry.format===format).length);
+    }
+    await page.reload();
+    await page.waitForSelector('[data-resource-type-filter="live2d"][aria-pressed="true"]:visible');
+    await page.locator('[data-resource-filter="sources"]').click();
+    assert.equal(new URL(page.url()).searchParams.has('type'),false);
+   }
+   if(category==='comics'){
+    const original=entries[1];
+    await page.locator(`#${original.id} [data-comic-adaptation]`).click();
+    await page.waitForSelector('[data-resource-filter="animation"][aria-pressed="true"]');
+    assert.equal(new URL(page.url()).hash,'#'+original.adaptation);
+    assert.ok(await page.locator('#'+original.adaptation).isVisible());
+   }
+   await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});
+  }
   const personaLink=page.locator('[data-category-link="personas"]');
   assert.equal(await personaLink.locator('strong').innerText(),String(personas.length));
   await personaLink.click();
@@ -225,7 +262,7 @@ try{
   if(currentSnapshot.scope)assert.ok(await archive.locator(`[data-capture-scope="${currentSnapshot.scope}"]`).first().isVisible());
   for(const width of [390,768]){
    await page.setViewportSize({width,height:844});
-   for(const route of ['', 'songs/', 'resources/?category=personas','resources/?category=animation&type=mv','resources/?category=interactive']){
+   for(const route of ['', 'songs/', 'resources/?category=personas','resources/?category=animation&type=mv','resources/?category=interactive',...Object.keys(collections).map(category=>`resources/?category=${category}`)]){
     await page.goto(`${origin}/${lang}/${route}`,{waitUntil:'networkidle'});
     assert.equal(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth+1),false,`${lang}/${route} overflows ${width}px`);
    }

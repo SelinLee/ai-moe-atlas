@@ -1,7 +1,8 @@
 const filters = [...document.querySelectorAll<HTMLButtonElement>('[data-resource-filter]')];
 const typeFilters = [...document.querySelectorAll<HTMLButtonElement>('[data-resource-type-filter]')];
+const typeGroups = [...document.querySelectorAll<HTMLElement>('[data-resource-type-group]')];
+const intros = [...document.querySelectorAll<HTMLElement>('[data-resource-intro]')];
 const cards = [...document.querySelectorAll<HTMLElement>('[data-resource-category]')];
-const typeGroup = document.querySelector<HTMLElement>('#resource-types')!;
 const input = document.querySelector<HTMLInputElement>('#resource-search')!;
 const sort = document.querySelector<HTMLSelectElement>('#resource-sort')!;
 const sortLabel = document.querySelector<HTMLElement>('#resource-sort-label')!;
@@ -30,17 +31,28 @@ const cardSearch = cards.map(card => searchText(card.dataset.resourceSearch ?? '
 const pendingSearch = pendingRows.map(row => searchText(row.dataset.pendingSearch ?? ''));
 const byLikes = cards.filter(card => card.dataset.resourceCategory === 'animation');
 const byRecent = [...byLikes].sort((a, b) => Number(a.dataset.recentOrder) - Number(b.dataset.recentOrder));
-const firstOther = cards.find(card => card.dataset.resourceCategory !== 'animation') ?? null;
+const nonAnimation = cards.filter(card => card.dataset.resourceCategory !== 'animation');
+const byComicOrder = nonAnimation.filter(card => card.dataset.comicOrder !== undefined)
+  .sort((a, b) => Number(a.dataset.comicOrder) - Number(b.dataset.comicOrder));
+const categoryMatchers: Record<string, (card: HTMLElement) => boolean> = {
+  stickers: card => card.hasAttribute('data-sticker'),
+  rigs: card => card.dataset.rigFormat !== undefined,
+  comics: card => card.dataset.comicOrder !== undefined,
+};
 let appliedOrder = 'likes';
+let comicOrderActive = false;
 let category = 'all';
 let type = 'all';
+
+function activeTypeGroup() {
+  return typeGroups.find(group => group.dataset.resourceTypeGroup === category);
+}
 
 function readURL() {
   const params = new URL(location.href).searchParams;
   category = filters.find(button => button.dataset.resourceFilter === params.get('category'))?.dataset.resourceFilter ?? 'all';
-  type = category === 'animation'
-    ? typeFilters.find(button => button.dataset.resourceTypeFilter === params.get('type'))?.dataset.resourceTypeFilter ?? 'all'
-    : 'all';
+  const group = activeTypeGroup();
+  type = typeFilters.find(button => group?.contains(button) && button.dataset.resourceTypeFilter === params.get('type'))?.dataset.resourceTypeFilter ?? 'all';
   sort.value = category === 'animation' && params.get('sort') === 'recent' ? 'recent' : 'likes';
   input.value = (params.get('q') ?? '').slice(0, 200);
   if (archive && location.hash === '#like-evidence') archive.open = true;
@@ -57,19 +69,26 @@ function update(writeURL = true) {
   const terms = query ? normalizeSearch(query).split(/\s+/) : [];
   const matchesSearch = (text: string) => terms.every(term => text.includes(term));
   if (sort.value !== appliedOrder) {
-    const ordered = document.createDocumentFragment();
-    ordered.append(...(sort.value === 'recent' ? byRecent : byLikes));
-    list.insertBefore(ordered, firstOther);
+    list.prepend(...(sort.value === 'recent' ? byRecent : byLikes));
     appliedOrder = sort.value;
   }
+  const showComics = category === 'comics';
+  if (showComics !== comicOrderActive) {
+    list.append(...(showComics ? byComicOrder : nonAnimation));
+    comicOrderActive = showComics;
+  }
+  const inCollection = categoryMatchers[category];
+  const group = activeTypeGroup();
+  const introCategory = inCollection || category === 'animation' ? category : 'default';
+  for (const intro of intros) intro.hidden = intro.dataset.resourceIntro !== introCategory;
   let count = 0;
   for (const [index, card] of cards.entries()) {
-    const matchesCategory = category === 'all' || card.dataset.resourceCategory === category;
-    const matchesType = type === 'all' || card.dataset.resourceType === type;
+    const matchesCategory = category === 'all' || card.dataset.resourceCategory === category || inCollection?.(card);
+    const matchesType = type === 'all' || (category === 'rigs' ? card.dataset.rigFormat : card.dataset.resourceType) === type;
     card.hidden = !matchesCategory || !matchesType || !matchesSearch(cardSearch[index]);
     if (!card.hidden) count++;
   }
-  typeGroup.hidden = category !== 'animation';
+  for (const typeGroup of typeGroups) typeGroup.hidden = typeGroup !== group;
   sortLabel.hidden = category !== 'animation';
   if (archive) archive.hidden = category !== 'all' && category !== 'animation';
   if (pending && pendingCount) {
@@ -80,7 +99,7 @@ function update(writeURL = true) {
     if (terms.length && !pending.hidden) pending.open = true;
   }
   for (const button of filters) markSelected(button, button.dataset.resourceFilter === category);
-  for (const button of typeFilters) markSelected(button, button.dataset.resourceTypeFilter === type);
+  for (const button of typeFilters) markSelected(button, button.dataset.resourceTypeFilter === (group?.contains(button) ? type : 'all'));
   countOutput.textContent = String(count);
   empty.hidden = count > 0 || Boolean(pending && terms.length && !pending.hidden);
 
@@ -99,11 +118,11 @@ function update(writeURL = true) {
 }
 
 for (const button of filters) button.addEventListener('click', () => {
-  category = button.dataset.resourceFilter!;
-  if (category !== 'animation') {
+  if (category !== button.dataset.resourceFilter) {
     type = 'all';
     sort.value = 'likes';
   }
+  category = button.dataset.resourceFilter!;
   update();
 });
 for (const button of typeFilters) button.addEventListener('click', () => {

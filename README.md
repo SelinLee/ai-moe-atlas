@@ -37,6 +37,18 @@
 **[🧸 三视图与派生参考](#references)** · 20 张参考图\
 [Claude 角色参考图](https://selinlee.github.io/ai-moe-atlas/zh/references/#claude) · [DeepSeek Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#deepseek) · [千问 Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#qwen)
 
+<!-- category-picks:stickers -->
+**[🗨️ 表情包与反应图](#stickers)** · 6 条记录\
+[雾雪 · 大肥鱼与 GPT 娘表情包原发布](https://www.bilibili.com/video/BV13xnt6QE6s/) · [Gemini 猫娘 · 表情包与无猫耳差分](https://www.bilibili.com/opus/1264669110489317411) · [莫末陌寞 · Gemini 聊天表情原发布](https://www.bilibili.com/video/BV1F34G6BEVA/)
+
+<!-- category-picks:rigs -->
+**[🧩 可动模型与绑定](#rigs)** · 5 条记录\
+[神宫凉子 · DeepSeek-chan Live2D 原发布](https://www.bilibili.com/video/BV1KmxY66EZ3/) · [水原镜 · 蓝色大肥鱼 MMD 模型配布](https://www.aplaybox.com/details/model/j9z4quaACJV1) · [木子恶魔 · 蓝色小肥鱼 VRM 原发布](https://www.aplaybox.com/details/model/ayXkRzVflmnd)
+
+<!-- category-picks:comics -->
+**[📖 漫画与连载](#comics)** · 5 篇作品\
+[AI GIRLS · 初见 · 原作漫画](https://www.bilibili.com/video/BV15Npa6zE44/) · [《AI GIRLS》日常篇 · 联系方式原作](https://www.bilibili.com/video/BV1YSpu6gEh1/) · [AI GIRLS · 看房 · 原作漫画](https://www.bilibili.com/video/BV1FvpR67EZZ/)
+
 <!-- category-picks:animations -->
 **[🎬 动画与视频二创](#animations)** · 859 条记录\
 [如果聊天窗口就是她的整个世界](https://www.bilibili.com/video/BV1xCai6aE9g/) · [败犬 AI 太多了！· 正式 PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo 娘角色 PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
@@ -123,6 +135,43 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 20 张均为生成派生展示图，保留参考出处、署名和生成记录。
 
 [7 套 Q 版三视图](#chibi-gallery) · [6 套常规比例与 Q 版参考](#v5-gallery) · [7 张角色涂鸦与提示词](#doodle-gallery)
+
+<a id="stickers"></a>
+
+### 🗨️ 表情包与反应图
+
+按角色或情绪找会话表情、双人互动和表情差分。雾雪的索引标有开心、害羞、疑惑和生气等情绪。 [浏览表情包与反应图](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=stickers) · [情绪标签核对](content/research/2026-11-25/kiriyuki-nekowhale-emotion-tags.json)
+
+- [雾雪 · 大肥鱼与 GPT 娘表情包原发布](https://www.bilibili.com/video/BV13xnt6QE6s/)
+- [Gemini 猫娘 · 表情包与无猫耳差分](https://www.bilibili.com/opus/1264669110489317411)
+- [莫末陌寞 · Gemini 聊天表情原发布](https://www.bilibili.com/video/BV1F34G6BEVA/)
+- [红メ月 · GPT 小龙娘三视图与表情](https://www.bilibili.com/video/BV1p3JU6ZE8Z/)
+- [小克 Coco · 设定表与表情图](https://github.com/lmy414/ai-girl-stickers/issues/120)
+- [A队1号是菜鸡 · GPT 龙娘梗图](https://github.com/lmy414/ai-girl-stickers/issues/140)
+
+<a id="rigs"></a>
+
+### 🧩 可动模型与绑定
+
+按格式查作者发布、建模或绑定署名，以及逐件使用条件。 [浏览可动模型](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=rigs)
+
+- [Live2D](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=rigs&type=live2d) · [神宫凉子 · DeepSeek-chan Live2D 原发布](https://www.bilibili.com/video/BV1KmxY66EZ3/) · [DSH 鲸鱼娘 · 氵六青 Live2D 版](https://github.com/Andersen216/dsh-whale-girl-live2d/blob/f977bef508690e75ba6535cd8f4ce18e7f6ba9b0/README.md) · [GPT 龙娘 · Live2D 工作伴侣](https://github.com/ycwycw2020/GPT_Dragon_girl_transformation/blob/257e4051a7bd5ecc87567af7d0fb078af02c97d4/README.md)
+- [MMD](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=rigs&type=mmd) · [水原镜 · 蓝色大肥鱼 MMD 模型配布](https://www.aplaybox.com/details/model/j9z4quaACJV1)
+- [VRM](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=rigs&type=vrm) · [木子恶魔 · 蓝色小肥鱼 VRM 原发布](https://www.aplaybox.com/details/model/ayXkRzVflmnd)
+
+<a id="comics"></a>
+
+### 📖 漫画与连载
+
+萤火之森QWQ 的《AI GIRLS》日常篇按话数排列，每话附对应的动画改编。 [浏览漫画与连载](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=comics)
+
+| 话数 | 漫画原作 | 动画改编 |
+| ---: | --- | --- |
+| 1 | [AI GIRLS · 初见 · 原作漫画](https://www.bilibili.com/video/BV15Npa6zE44/) | [AI GIRLS 日常篇 1 · 初见](https://www.bilibili.com/video/BV1xMsS67Efr/) |
+| 2 | [《AI GIRLS》日常篇 · 联系方式原作](https://www.bilibili.com/video/BV1YSpu6gEh1/) | [《AI GIRLS》日常篇第 2 话 · 联系方式](https://www.bilibili.com/video/BV1Ebyez4EUj/) |
+| 3 | [AI GIRLS · 看房 · 原作漫画](https://www.bilibili.com/video/BV1FvpR67EZZ/) | [AI GIRLS 日常篇 3 · 看房](https://www.bilibili.com/video/BV13a1FznEcw/) |
+
+独立漫画 · [添章怪树木 · 大肥鱼拯救 Claude 漫画（15 张）](https://github.com/lmy414/ai-girl-stickers/issues/98) · [Shiho320 · Claude 小姐反应漫画](https://github.com/lmy414/ai-girl-stickers/issues/121)
 
 <a id="animations"></a>
 

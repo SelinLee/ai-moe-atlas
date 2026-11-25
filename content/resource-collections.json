@@ -1,0 +1,63 @@
+{
+  "stickers": [
+    {
+      "id": "kiriyuki-nekowhale-sticker-source",
+      "characters": ["DeepSeek", "GPT"],
+      "tags": ["pair", "solo", "happy", "shy", "confused", "angry"]
+    },
+    {
+      "id": "xxwuwang-gemini-expressions",
+      "characters": ["Gemini"],
+      "tags": ["variants"]
+    },
+    {
+      "id": "momo-gemini-sticker-release",
+      "characters": ["Gemini"],
+      "tags": ["chat"]
+    },
+    {
+      "id": "redmoon-gpt-dragon-turnaround",
+      "characters": ["GPT"],
+      "tags": ["variants"]
+    },
+    {
+      "id": "ninon-coco-design-submission",
+      "characters": ["Claude · Coco"],
+      "tags": ["variants"]
+    },
+    {
+      "id": "adui-gpt-dragon-meme",
+      "characters": ["GPT"],
+      "tags": ["meme"]
+    }
+  ],
+  "rigs": [
+    { "id": "kamiya-deepseek-live2d-release", "format": "live2d" },
+    { "id": "mizuhara-fat-fish-mmd", "format": "mmd" },
+    { "id": "blue-fat-fish-vrm", "format": "vrm" },
+    { "id": "andersen-whale-live2d", "format": "live2d" },
+    { "id": "gpt-dragon-live2d-companion", "format": "live2d" }
+  ],
+  "comics": [
+    {
+      "id": "ai-girls-first-meeting-original",
+      "series": "AI GIRLS",
+      "episode": 1,
+      "adaptation": "bv1xmss67efr"
+    },
+    {
+      "id": "ai-girls-contact-details-original",
+      "series": "AI GIRLS",
+      "episode": 2,
+      "adaptation": "bv1ebyez4euj"
+    },
+    {
+      "id": "ai-girls-house-hunting-original",
+      "series": "AI GIRLS",
+      "episode": 3,
+      "adaptation": "bv13a1fznecw"
+    },
+    { "id": "even-sharper-whale-rescues-claude-comic" },
+    { "id": "shiho320-claude-account-comic" }
+  ]
+}

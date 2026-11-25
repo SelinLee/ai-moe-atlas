@@ -15,6 +15,7 @@ const {records}=JSON.parse(await read('content/resources.json'));
 const leads=JSON.parse(await read('content/leads.json'));
 const characters=JSON.parse(await read('content/characters.json'));
 const songs=JSON.parse(await read('content/songs.json'));
+const collections=JSON.parse(await read('content/resource-collections.json'));
 const resourceById=new Map(records.map(record=>[record.id,record]));
 const topVideos=records.filter(record=>record.likes).sort(byCumulativeLikes).slice(0,10);
 const topSongs=rankSongsByLikes(songs,resourceById)
@@ -25,8 +26,10 @@ const layouts = [
  ['README.en.md', 'en', 'Resource directory', 'Timeline and open items', 'Character galleries'],
  ['README.ja.md', 'ja', 'リソース一覧', '収録の経緯と今後の調査項目', 'キャラクターギャラリー']
 ];
-const categories = ['characters', 'personas', 'songs', 'references', 'animations', 'desktop-pets', 'sources'];
+const categories = ['characters', 'personas', 'songs', 'references', ...Object.keys(collections), 'animations', 'desktop-pets', 'sources'];
 const directEntryLinks = {
+ ...Object.fromEntries(Object.entries(collections).map(([category, entries]) =>
+  [category, new Set(entries.map(entry => resourceById.get(entry.id).url))])),
  personas: new Set(records.filter(record => record.category === 'personas').map(record => record.url)),
  songs: new Set(songs.flatMap(song => song.versions.map(version => resourceById.get(version.id).url))),
  animations: new Set(records.filter(record => record.category === 'animation').map(record => record.url)),
@@ -80,6 +83,7 @@ for (const [file, lang, directory, timeline, galleries] of layouts) {
    personas: directEntryLinks.personas.size,
    songs: songs.length,
    references: chibi.assets.length + references.assets.length + doodles.assets.length,
+   ...Object.fromEntries(Object.entries(collections).map(([category, entries]) => [category, entries.length])),
    animations: records.filter(record => record.category === 'animation').length,
    'desktop-pets': records.filter(record => record.category === 'interactive').length,
    sources: records.filter(record => record.category === 'sources').length + unlistedSourceLeads(records, leads).length

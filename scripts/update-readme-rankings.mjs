@@ -7,6 +7,7 @@ import { unlistedSourceLeads } from '../src/lib/source-leads.mjs';
 const root = new URL('../', import.meta.url);
 const registry = JSON.parse(await readFile(new URL('content/resources.json', root), 'utf8'));
 const songs = JSON.parse(await readFile(new URL('content/songs.json', root), 'utf8'));
+const collections = JSON.parse(await readFile(new URL('content/resource-collections.json', root), 'utf8'));
 const { records } = registry;
 const [characters, leads, chibi, references, doodles] = await Promise.all([
   'content/characters.json', 'content/leads.json',
@@ -18,6 +19,7 @@ const directoryCounts = {
   personas: records.filter(record => record.category === 'personas').length,
   songs: songs.length,
   references: chibi.assets.length + references.assets.length + doodles.assets.length,
+  ...Object.fromEntries(Object.entries(collections).map(([category, entries]) => [category, entries.length])),
   animations: records.filter(record => record.category === 'animation').length,
   'desktop-pets': records.filter(record => record.category === 'interactive').length,
   sources: records.filter(record => record.category === 'sources').length + unlistedSourceLeads(records, leads).length,
