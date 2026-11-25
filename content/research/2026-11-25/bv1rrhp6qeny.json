@@ -1,0 +1,19 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:55:53.523Z",
+  "url": "https://www.bilibili.com/video/BV1rRHP6qEny/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1rRHP6qEny",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1rRHP6qEny",
+    "title": "大肥鱼第一次当UP主！以后请多指教",
+    "owner": {
+      "name": "AAA_白饭批发大肥鱼",
+      "mid": 300352288
+    },
+    "pubdate": 1792826259,
+    "duration": 36
+  },
+  "descriptionSha256": "1b6a50883d4633b4e77914a320fc6c7133b1f40597e91cfdf81eaf5d99a6f50d",
+  "linkedVideos": []
+}

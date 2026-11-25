@@ -1,0 +1,21 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:55:52.497Z",
+  "url": "https://www.bilibili.com/video/BV14phK66Ejw/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV14phK66Ejw",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV14phK66Ejw",
+    "title": "各AI娘形象盘点",
+    "owner": {
+      "name": "想看故事的lazy",
+      "mid": 667193391
+    },
+    "pubdate": 1787582565,
+    "duration": 45
+  },
+  "descriptionSha256": "99538a12a68e3cc6343379781d65725a18d8fdf881b1b137c00740ee9c416e63",
+  "linkedVideos": [
+    "BV1Ey8B6QECx"
+  ]
+}

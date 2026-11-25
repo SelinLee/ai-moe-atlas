@@ -1,0 +1,154 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:57:46.989Z",
+  "url": "https://github.com/Casie-Liu/gpt-claude-desktop-pets/blob/8f8d2b49129c79b6c8d9be766859e99bfd78d036/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/Casie-Liu/gpt-claude-desktop-pets/blob/8f8d2b49129c79b6c8d9be766859e99bfd78d036/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Casie-Liu/gpt-claude-desktop-pets/8f8d2b49129c79b6c8d9be766859e99bfd78d036/README.md",
+    "sourceSha256": "5c00602c2b0444e7af94709af003d26f56c0f92230667d06f3fe511624e98970",
+    "gitBlobSha": "278a7748c1123bf27c9fea0cafa79966886c3b1e",
+    "bytes": 2648,
+    "commit": "8f8d2b49129c79b6c8d9be766859e99bfd78d036",
+    "accessedAt": "2026-11-25T08:57:46.989Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/Casie-Liu/gpt-claude-desktop-pets/blob/8f8d2b49129c79b6c8d9be766859e99bfd78d036/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Casie-Liu/gpt-claude-desktop-pets/8f8d2b49129c79b6c8d9be766859e99bfd78d036/README.md",
+      "sourceSha256": "5c00602c2b0444e7af94709af003d26f56c0f92230667d06f3fe511624e98970",
+      "gitBlobSha": "278a7748c1123bf27c9fea0cafa79966886c3b1e",
+      "bytes": 2648,
+      "commit": "8f8d2b49129c79b6c8d9be766859e99bfd78d036",
+      "accessedAt": "2026-11-25T08:57:46.989Z"
+    },
+    {
+      "path": "ATTRIBUTION.md",
+      "url": "https://github.com/Casie-Liu/gpt-claude-desktop-pets/blob/8f8d2b49129c79b6c8d9be766859e99bfd78d036/ATTRIBUTION.md",
+      "rawUrl": "https://raw.githubusercontent.com/Casie-Liu/gpt-claude-desktop-pets/8f8d2b49129c79b6c8d9be766859e99bfd78d036/ATTRIBUTION.md",
+      "sourceSha256": "36fdd8da50d070bc61aba14a889c3c84e5a8905927f7b433b8c3ca082b739de1",
+      "gitBlobSha": "f323f0880d40144fa997172a572d9ec4056af550",
+      "bytes": 1531,
+      "commit": "8f8d2b49129c79b6c8d9be766859e99bfd78d036",
+      "accessedAt": "2026-11-25T08:57:47.413Z"
+    },
+    {
+      "path": "pets/gpt-niang/LICENSE",
+      "url": "https://github.com/Casie-Liu/gpt-claude-desktop-pets/blob/8f8d2b49129c79b6c8d9be766859e99bfd78d036/pets/gpt-niang/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Casie-Liu/gpt-claude-desktop-pets/8f8d2b49129c79b6c8d9be766859e99bfd78d036/pets/gpt-niang/LICENSE",
+      "sourceSha256": "ba253ba51ff7f00266fea0d83468eaa0783a733fb8b6b10ad6f26a88973050df",
+      "gitBlobSha": "1796802f3bd2a2475c5663daae769e320c289357",
+      "bytes": 1077,
+      "commit": "8f8d2b49129c79b6c8d9be766859e99bfd78d036",
+      "accessedAt": "2026-11-25T08:57:47.864Z"
+    },
+    {
+      "path": "pets/gpt-niang/pet.json",
+      "url": "https://github.com/Casie-Liu/gpt-claude-desktop-pets/blob/8f8d2b49129c79b6c8d9be766859e99bfd78d036/pets/gpt-niang/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/Casie-Liu/gpt-claude-desktop-pets/8f8d2b49129c79b6c8d9be766859e99bfd78d036/pets/gpt-niang/pet.json",
+      "sourceSha256": "86b142369950d275099377575f3fead9ae8bf0a78ca32d4ae63df2574a80cef8",
+      "gitBlobSha": "7693cefcb667c17843befd20e1c88bd3e0398565",
+      "bytes": 222,
+      "commit": "8f8d2b49129c79b6c8d9be766859e99bfd78d036",
+      "accessedAt": "2026-11-25T09:00:21.340Z"
+    },
+    {
+      "path": "pets/gpt-niang/spritesheet.webp",
+      "url": "https://github.com/Casie-Liu/gpt-claude-desktop-pets/blob/8f8d2b49129c79b6c8d9be766859e99bfd78d036/pets/gpt-niang/spritesheet.webp",
+      "rawUrl": "https://raw.githubusercontent.com/Casie-Liu/gpt-claude-desktop-pets/8f8d2b49129c79b6c8d9be766859e99bfd78d036/pets/gpt-niang/spritesheet.webp",
+      "sourceSha256": "1783fde80a4ebf22d7966bbbcaae9fbc5c9797323d1e9004b4a54f8a1c1a466f",
+      "gitBlobSha": "1be1fcc51b2daa335a684e1fa3eae137a0d20dbf",
+      "bytes": 2227998,
+      "commit": "8f8d2b49129c79b6c8d9be766859e99bfd78d036",
+      "accessedAt": "2026-11-25T09:00:22.101Z",
+      "width": 1536,
+      "height": 2288,
+      "format": "webp"
+    },
+    {
+      "path": "pets/claude-niang/pet.json",
+      "url": "https://github.com/Casie-Liu/gpt-claude-desktop-pets/blob/8f8d2b49129c79b6c8d9be766859e99bfd78d036/pets/claude-niang/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/Casie-Liu/gpt-claude-desktop-pets/8f8d2b49129c79b6c8d9be766859e99bfd78d036/pets/claude-niang/pet.json",
+      "sourceSha256": "c096c211fe2da6e31ada47a24580bab9dfc34cdef6715ce20850a86f78aab522",
+      "gitBlobSha": "334aca605d59a33fe4b42e36df30cf255859157a",
+      "bytes": 246,
+      "commit": "8f8d2b49129c79b6c8d9be766859e99bfd78d036",
+      "accessedAt": "2026-11-25T09:00:22.498Z"
+    },
+    {
+      "path": "pets/claude-niang/spritesheet.png",
+      "url": "https://github.com/Casie-Liu/gpt-claude-desktop-pets/blob/8f8d2b49129c79b6c8d9be766859e99bfd78d036/pets/claude-niang/spritesheet.png",
+      "rawUrl": "https://raw.githubusercontent.com/Casie-Liu/gpt-claude-desktop-pets/8f8d2b49129c79b6c8d9be766859e99bfd78d036/pets/claude-niang/spritesheet.png",
+      "sourceSha256": "af4e720bf48aa3ac946ff98f296a8f106a86807ef5e6b2adf5269d2dc90bc080",
+      "gitBlobSha": "6936c860cc97709136ab0e16462fb4403c8f8088",
+      "bytes": 3101237,
+      "commit": "8f8d2b49129c79b6c8d9be766859e99bfd78d036",
+      "accessedAt": "2026-11-25T09:00:23.412Z",
+      "width": 1536,
+      "height": 2288,
+      "format": "png"
+    },
+    {
+      "path": "docs/design.md",
+      "url": "https://github.com/Casie-Liu/gpt-claude-desktop-pets/blob/8f8d2b49129c79b6c8d9be766859e99bfd78d036/docs/design.md",
+      "rawUrl": "https://raw.githubusercontent.com/Casie-Liu/gpt-claude-desktop-pets/8f8d2b49129c79b6c8d9be766859e99bfd78d036/docs/design.md",
+      "sourceSha256": "aff27439fd38175a09cc29f8341714ffac03a2fde5d52d137f2db6393cbe4a59",
+      "gitBlobSha": "a3c498215a3a9ad53e70e7e78ec11b618c1f2a29",
+      "bytes": 3105,
+      "commit": "8f8d2b49129c79b6c8d9be766859e99bfd78d036",
+      "accessedAt": "2026-11-25T09:00:23.806Z"
+    }
+  ],
+  "repository": {
+    "full_name": "Casie-Liu/gpt-claude-desktop-pets",
+    "html_url": "https://github.com/Casie-Liu/gpt-claude-desktop-pets",
+    "stargazers_count": 0,
+    "archived": false,
+    "created_at": "2026-11-05T16:42:01Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "8f8d2b49129c79b6c8d9be766859e99bfd78d036",
+    "observedAt": "2026-11-25T08:56:04.051Z",
+    "httpStatus": 200,
+    "metadataSha256": "795006dfd54c469cdc1fc2c5d4f6e78eb92cf1cea78e8b184414e7f968546564",
+    "parent": null
+  },
+  "scope": "Pinned README and license documents verified against Git blob and SHA-256. Feature descriptions are from the project documentation, not runtime tests.",
+  "upstreamPinnedFiles": [
+    {
+      "path": "spritesheet.webp",
+      "url": "https://github.com/weit0529/gpt-pet/blob/125c3da9a5dc040518e791fc3d75282aa993755f/spritesheet.webp",
+      "rawUrl": "https://raw.githubusercontent.com/weit0529/gpt-pet/125c3da9a5dc040518e791fc3d75282aa993755f/spritesheet.webp",
+      "sourceSha256": "868a844e88c213e44b04f6b8389ce077d8591be0df74c40bf686abcc48e47d77",
+      "gitBlobSha": "fa102445438746abdffb5c7da7447bdd39a57570",
+      "bytes": 2240194,
+      "commit": "125c3da9a5dc040518e791fc3d75282aa993755f",
+      "accessedAt": "2026-11-25T09:00:24.989Z",
+      "width": 1536,
+      "height": 2288,
+      "format": "webp"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/weit0529/gpt-pet/blob/125c3da9a5dc040518e791fc3d75282aa993755f/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/weit0529/gpt-pet/125c3da9a5dc040518e791fc3d75282aa993755f/LICENSE",
+      "sourceSha256": "ba253ba51ff7f00266fea0d83468eaa0783a733fb8b6b10ad6f26a88973050df",
+      "gitBlobSha": "1796802f3bd2a2475c5663daae769e320c289357",
+      "bytes": 1077,
+      "commit": "125c3da9a5dc040518e791fc3d75282aa993755f",
+      "accessedAt": "2026-11-25T09:00:25.351Z"
+    },
+    {
+      "path": "README.md",
+      "url": "https://github.com/weit0529/gpt-pet/blob/125c3da9a5dc040518e791fc3d75282aa993755f/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/weit0529/gpt-pet/125c3da9a5dc040518e791fc3d75282aa993755f/README.md",
+      "sourceSha256": "e1fd46d30da516f32b48fe3e4c213dcd368754e886caa853fe238362f2c65d30",
+      "gitBlobSha": "a8fc6b4b255fce3f12388e938cef0b6baa2ade90",
+      "bytes": 4831,
+      "commit": "125c3da9a5dc040518e791fc3d75282aa993755f",
+      "accessedAt": "2026-11-25T09:00:25.751Z"
+    }
+  ],
+  "gptAtlasByteMatch": false
+}

@@ -22,11 +22,11 @@
 ## 资源目录
 
 <!-- category-picks:characters -->
-**[🎨 角色图鉴](#characters)** · 68 个词条\
-[GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/) · [Gemini 4 Argon · 氩弧焊立绘](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-gemini-argon/) · [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/zh/characters/shangshan-whale/)
+**[🎨 角色图鉴](#characters)** · 70 个词条\
+[GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/) · [Claude 黄色礼裙立绘 · MX1951](https://selinlee.github.io/ai-moe-atlas/zh/characters/mx1951-claude/) · [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/zh/characters/shangshan-whale/)
 
 <!-- category-picks:songs -->
-**[🎵 歌曲](#songs)** · 85 首曲目\
+**[🎵 歌曲](#songs)** · 88 首曲目\
 [人是猫 · 大肥鱼翻唱](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · 动画 MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [烂奇迹 · 大肥鱼翻唱](https://www.bilibili.com/video/BV1fzs26bETg/)
 
 <!-- category-picks:references -->
@@ -34,16 +34,16 @@
 [Claude 角色参考图](https://selinlee.github.io/ai-moe-atlas/zh/references/#claude) · [DeepSeek Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#deepseek) · [千问 Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#qwen)
 
 <!-- category-picks:animations -->
-**[🎬 动画与视频二创](#animations)** · 809 条记录\
+**[🎬 动画与视频二创](#animations)** · 817 条记录\
 [如果聊天窗口就是她的整个世界](https://www.bilibili.com/video/BV1xCai6aE9g/) · [败犬 AI 太多了！· 正式 PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo 娘角色 PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 桌宠与交互项目](#desktop-pets)** · 127 个项目\
-[CrossPet · 跨 AI 桌宠](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D 编程桌宠](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [MIMO 桌宠 · Android 悬浮兔娘](https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/README.md)
+**[🐾 桌宠与交互项目](#desktop-pets)** · 133 个项目\
+[CrossPet · 跨 AI 桌宠](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D 编程桌宠](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [鲸鱼娘吃白饭 · DSH 插件](https://github.com/DMM-331/dsh-rice-pet/blob/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/README.md)
 
 <!-- category-picks:sources -->
-**[📚 作者作品与出处](#sources)** · 116 条来源\
-[上善无形 · 鲸鱼娘原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini 家族合照](https://www.bilibili.com/opus/1273349110528737288) · [甶丶 · MiMo 立绘与三视图投稿](https://github.com/lmy414/ai-girl-stickers/issues/35)
+**[📚 作者作品与出处](#sources)** · 122 条来源\
+[上善无形 · 鲸鱼娘原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini 家族合照](https://www.bilibili.com/opus/1273349110528737288) · [MX1951 · Claude 原作 7 张](https://github.com/lmy414/ai-girl-stickers/issues/8)
 
 <a id="characters"></a>
 
@@ -56,6 +56,8 @@
 本轮新增角色 · [千问校园立绘 · MX1951](https://selinlee.github.io/ai-moe-atlas/zh/characters/mx1951-qwen/) · [NovelAI 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-novelai/) · [ZCode 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-zcode/) · [Hugging Face 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-huggingface/) · [Perplexity 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-perplexity/) · [腾讯混元娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-hunyuan/)
 
 Ninon 的 Claude 娘设定 · [女仆版](https://selinlee.github.io/ai-moe-atlas/zh/characters/ninon-claude-maid/) · [橘白礼服版](https://selinlee.github.io/ai-moe-atlas/zh/characters/ninon-claude-orange-dress/)。礼服原型、作者的独立壁纸与派生设定图各有出处。 [原型出处](content/research/2026-11-23/claude-orange-dress-source-chain.json)
+
+新增 MX1951 投稿 · [Claude 黄色礼裙立绘](https://selinlee.github.io/ai-moe-atlas/zh/characters/mx1951-claude/)（CC0，附原 PNG 与下载包） · [一些肥鱼](https://selinlee.github.io/ai-moe-atlas/zh/characters/mx1951-deepseek/)（13 张原作，衍生设计权利待核）。 [投稿核对](content/research/2026-11-25/mx1951-issue-8-attachments-and-terms.json) · [鲸鱼娘投稿核对](content/research/2026-11-25/mx1951-issue-7-attachments-and-terms.json)
 
 新增 Gemini 家族和编程工具拟人 · [Gemini 4 Argon](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-gemini-argon/) · [Carbon](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-gemini-carbon/) · [Hydrogen](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-gemini-hydrogen/) · [Kiro](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-kiro/) · [Cursor](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-cursor/) · [Antigravity](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-antigravity/)
 
@@ -81,7 +83,7 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 | [海阔天空](https://selinlee.github.io/ai-moe-atlas/zh/songs/#boundless-oceans-vast-skies) | Beyond | 大肥鱼翻唱《海阔天空》 | 59,467 |
 | [朋友的酒](https://selinlee.github.io/ai-moe-atlas/zh/songs/#friends-wine) | 李晓杰 · Li Xiaojie | 大肥鱼翻唱《朋友的酒》DJ 版 | 54,492 |
 | [Billie Jean](https://selinlee.github.io/ai-moe-atlas/zh/songs/#billie-jean) | Michael Jackson | 大肥鱼翻唱《Billie Jean》 | 52,644 |
-| [Mimukauwa Nice Try](https://selinlee.github.io/ai-moe-atlas/zh/songs/#mimukauwa-nice-try) | ぬぬぬぬぬぬぬぬぬぬ · 初音ミク | Mimukauwa Nice Try · 大肥鱼翻唱动画 | 48,419 |
+| [Mimukauwa Nice Try](https://selinlee.github.io/ai-moe-atlas/zh/songs/#mimukauwa-nice-try) | ぬぬぬぬぬぬぬぬぬぬ · 初音ミク | Mimukauwa Nice Try · 大肥鱼翻唱动画 | 48,564 |
 | [雨爱](https://selinlee.github.io/ai-moe-atlas/zh/songs/#rainie-love) | 楊丞琳 · Rainie Yang | 鲸鱼娘翻唱《雨爱》司凤版 | 40,097 |
 
 [打开完整歌曲榜与全部版本](https://selinlee.github.io/ai-moe-atlas/zh/songs/) · [点赞观测证据](content/research/)
@@ -90,7 +92,7 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 
 [原曲出处](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲与版本核对](content/research/2026-11-20/song-originals-and-fan-versions.json) · [片头曲与二创用曲核对](content/research/2026-11-20/character-songs-and-opening-credits.json) · [舞蹈与歌词 MV 用曲核对](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [《温室效应》原曲与 MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [原曲与二创核对](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [豆包翻唱与片尾曲出处](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [千问、MiMo 与舞蹈用曲](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [《APT.》与《删了一百遍》的用曲出处](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [翻唱与游戏原曲出处](content/research/2026-11-22/november-cover-song-originals-and-versions.json) · [Charlotte、bloom 与 unhappy 的用曲出处](content/research/2026-11-22/november-charlotte-bloom-and-remix-evidence.json) · [周刊和原声用曲核对](content/research/2026-11-22/november-mili-and-game-soundtrack-verification.json) · [《烂奇迹》原曲与翻唱核对](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json) · [三首原曲与二创用曲](content/research/2026-11-23/november-renai-numb-and-dragon-maid-originals.json) · [FIRESTARTER、Bad Apple!! 与翻唱出处](content/research/2026-11-23/november-firestarter-bad-apple-and-cover-attribution.json) · [《Trouble Maker》与《朋友的酒》原曲](content/research/2026-11-23/november-trouble-maker-and-friends-wine-originals.json)
 
-[四首原曲及《大鱼》改词版本](content/research/2026-11-25/november-25-song-originals-and-versions.json) · [《咏春》等四首原曲与引用出处](content/research/2026-11-25/november-25-composition-and-adaptation-sources.json)
+[四首原曲及《大鱼》改词版本](content/research/2026-11-25/november-25-song-originals-and-versions.json) · [《咏春》等四首原曲与引用出处](content/research/2026-11-25/november-25-composition-and-adaptation-sources.json) · [《LOSER》《九张机》《鸟之诗》及音乐引用出处](content/research/2026-11-25/november-25-original-recording-follow-up.json)
 
 [《千问帮我》等五首原曲与翻唱](content/research/2026-11-23/five-original-songs-and-cover-sources.json)
 
@@ -129,7 +131,7 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 
 <!-- animation-ranking:end -->
 
-2026-11-25 已尝试复查 709 条旧作，673 条刷新。8 条未返回视频数据，28 条查询访问受限，另外 55 条未请求，均沿用上次有效观测。新增 45 条入榜作品，10 条候选待核。 [本轮点赞核对](content/research/2026-11-25/bilibili-november-25-recheck-scope.json)
+2026-11-25 分批复查 764 条旧作，754 条已刷新，另 10 条接口未返回有效视频信息，保留上次有效观测。当天新增 53 条入榜作品；10 条原待核候选仍保留。 [首批核对](content/research/2026-11-25/bilibili-november-25-recheck-scope.json) · [剩余 83 条复查记录](content/research/2026-11-25/bilibili-november-25-remaining-catalog-follow-up.json)
 
 <a id="desktop-pets"></a>
 
@@ -150,7 +152,9 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 | 9 | [OpenPets · 本地桌宠平台](https://github.com/OpenPetsHQ/openpets/blob/9153e40ed37617243f903b074161d7df4bbd27b0/README.md) | [1,408](https://github.com/OpenPetsHQ/openpets) |
 | 10 | [CrossPet · 跨 AI 桌宠](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | [568](https://github.com/lokicorvus/crosspet) |
 
-[在线浏览全部桌宠与交互项目](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-25/github-interactive-stars-november-25-new-projects.json)
+[在线浏览全部桌宠与交互项目](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-25/github-interactive-stars-november-25-remaining-projects.json)
+
+新增桌宠 · [鲸鱼娘吃白饭](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#dmm-whale-rice-pet) · [GPT 娘与 Claude 娘原生桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#casie-gpt-claude-native-pets) · [Claude 像素桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#harriszed-claude-activity-pet) · [余额小鲸鱼](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#nayru-whale-balance-pet) · [岑知桌面伙伴](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#sjmsltx-cenzhi-ai-companion) · [鲸鱼余额海洋](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#fenyx-dsh-whale-balance-sea)
 
 新增桌宠 · [DSH Pet · Hermes 原生桌宠插件](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#yucode-hermes-dsh-pet) · [DeepSeek Pet · macOS 精灵帧版](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#teochenglim-native-whale-pet) · [蓝色大肥鱼 · macOS 桌宠移植](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#mrbakerboy-deepseek-macos-pet) · [小鲸鱼桌宠 · Flash / Pro 换装](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#nailiang-little-whale-standalone)
 Hermes 桌宠插件、macOS 精灵帧版等新增项目附固定版说明。
@@ -171,6 +175,8 @@ Hermes 桌宠插件、macOS 精灵帧版等新增项目附固定版说明。
 另见 ZipZipPipe 的[来源与使用声明](https://t.bilibili.com/1231980045693616162)。
 
 [在线浏览全部作者作品与出处](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=sources)
+
+新核对的出处 · [鲸鱼娘图标及修复版](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=sources#fornarwhal-whale-girl-icon) · [Gangban 作品集](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=sources#gangban-creator-portfolio) · [Model Muses 溯源索引](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=sources#model-muses-source-index)
 
 <details>
 <summary>展开补充出处与核验记录</summary>
@@ -278,6 +284,7 @@ Hermes 桌宠插件、macOS 精灵帧版等新增项目附固定版说明。
 
 | 时间 / 状态 | 进展 |
 | --- | --- |
+| 2026-11-25 · 补齐旧作点赞与 MX1951 投稿 | 复查此前未请求或受限的 83 条旧作，刷新 81 条。新增 8 条二创、3 首歌曲、2 个角色、6 条出处及 6 个桌宠项目；发布 Claude CC0 立绘包。 |
 | 2026-11-25 · Gemini 家族与歌曲出处 | 核对 7 张作者原图，新增 6 个角色词条及 4 首曲目。逐件作品授权待核，原图不公开再分发。 |
 | 2026-11-25 · Tokentaker 原图与新二创 | 核对 33 张附件及 106 段共享兼容动画。新增 45 条二创、4 首曲目、4 个角色词条、3 条出处和 4 个桌宠项目。刷新 673 条旧作。 |
 | 2026-11-23 · 补查点赞与 Claude 设定 | 补查 159 条旧作，刷新 152 条。新增 25 条二创、5 首曲目、2 个角色词条、2 条出处及 3 个桌宠项目。 |

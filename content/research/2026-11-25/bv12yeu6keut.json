@@ -1,0 +1,19 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:55:53.531Z",
+  "url": "https://www.bilibili.com/video/BV12yeU6KEUt/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12yeU6KEUt",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV12yeU6KEUt",
+    "title": "让你别找千问外包，没让你找克劳德啊！",
+    "owner": {
+      "name": "阳光爬行者SunCreeper",
+      "mid": 3706988261280389
+    },
+    "pubdate": 1789748004,
+    "duration": 87
+  },
+  "descriptionSha256": "8c5c64328e9902fd966b6eaf5c61d4c8fd52ce1db5651d49b948bd57833f1b20",
+  "linkedVideos": []
+}

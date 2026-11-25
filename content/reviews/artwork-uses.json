@@ -5902,5 +5902,190 @@
         }
       }
     }
+  },
+  {
+    "characterId": "mx1951-claude",
+    "reviewedAt": "2026-11-25",
+    "reviewBasis": "Creator selected CC0 for submission #8 and confirmed submission rights. Exact standalone attachment seven matches pinned raw bytes.",
+    "artworks": [
+      {
+        "assetId": "portrait",
+        "sha256": "879b7716aa9eaa2c10132956787022ccb9f0bcce9363fd4c2d0ac6480c290061"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://github.com/lmy414/ai-girl-stickers/issues/8",
+        "localPath": "collected/mx1951-claude/evidence/source-statement-1.json",
+        "sha256": "e152ce56d9d5fee088e36db3a1bb2b677ac558eea5d0b941f94c49fef3fc6578"
+      },
+      {
+        "sourceUrl": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/claude/issue-08-007.png",
+        "localPath": "collected/mx1951-claude/evidence/source-statement-2.json",
+        "sha256": "0f83d7d285ddfd7956e248bc79c1e656f4d024703e7461f0b36018fd802af76f"
+      },
+      {
+        "sourceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "localPath": "collected/mx1951-claude/evidence/source-statement-3.json",
+        "sha256": "82fd3f72e85cac409091c646bef34fe4d4db1d8b441d6563a8a909fc7180f86b"
+      }
+    ],
+    "evidenceUrl": "https://github.com/lmy414/ai-girl-stickers/issues/8",
+    "attribution": [
+      {
+        "name": "MX1951",
+        "url": "https://github.com/MX1951",
+        "role": "original-character",
+        "publication": "https://github.com/lmy414/ai-girl-stickers/issues/8"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "MX1951 在第 8 号投稿中声明作品为自行创作或生成，并逐组标为 CC0。此素材包仅含第 7 张独立白底立绘；保留原 PNG 和作者出处。Claude 等产品名称与标识的权利由相应权利方保留。",
+          "en": "MX1951 identifies the submission as self-created or generated and selects CC0. This pack contains only image seven, the standalone white-background portrait, with original PNG and creator attribution. Product names and marks retain their respective rights.",
+          "ja": "MX1951 は第8号投稿を自作または生成作品とし、CC0 を指定。このパックは7枚目の白背景の単独立ち絵のみを収録し、元PNGと出典を保持。製品名と標章の権利は各権利者に帰属します。"
+        }
+      },
+      "social-cover": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "MX1951 在第 8 号投稿中声明作品为自行创作或生成，并逐组标为 CC0。此素材包仅含第 7 张独立白底立绘；保留原 PNG 和作者出处。Claude 等产品名称与标识的权利由相应权利方保留。",
+          "en": "MX1951 identifies the submission as self-created or generated and selects CC0. This pack contains only image seven, the standalone white-background portrait, with original PNG and creator attribution. Product names and marks retain their respective rights.",
+          "ja": "MX1951 は第8号投稿を自作または生成作品とし、CC0 を指定。このパックは7枚目の白背景の単独立ち絵のみを収録し、元PNGと出典を保持。製品名と標章の権利は各権利者に帰属します。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "MX1951 在第 8 号投稿中声明作品为自行创作或生成，并逐组标为 CC0。此素材包仅含第 7 张独立白底立绘；保留原 PNG 和作者出处。Claude 等产品名称与标识的权利由相应权利方保留。",
+          "en": "MX1951 identifies the submission as self-created or generated and selects CC0. This pack contains only image seven, the standalone white-background portrait, with original PNG and creator attribution. Product names and marks retain their respective rights.",
+          "ja": "MX1951 は第8号投稿を自作または生成作品とし、CC0 を指定。このパックは7枚目の白背景の単独立ち絵のみを収録し、元PNGと出典を保持。製品名と標章の権利は各権利者に帰属します。"
+        }
+      },
+      "full-portrait": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "MX1951 在第 8 号投稿中声明作品为自行创作或生成，并逐组标为 CC0。此素材包仅含第 7 张独立白底立绘；保留原 PNG 和作者出处。Claude 等产品名称与标识的权利由相应权利方保留。",
+          "en": "MX1951 identifies the submission as self-created or generated and selects CC0. This pack contains only image seven, the standalone white-background portrait, with original PNG and creator attribution. Product names and marks retain their respective rights.",
+          "ja": "MX1951 は第8号投稿を自作または生成作品とし、CC0 を指定。このパックは7枚目の白背景の単独立ち絵のみを収録し、元PNGと出典を保持。製品名と標章の権利は各権利者に帰属します。"
+        }
+      },
+      "intro-card": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "MX1951 在第 8 号投稿中声明作品为自行创作或生成，并逐组标为 CC0。此素材包仅含第 7 张独立白底立绘；保留原 PNG 和作者出处。Claude 等产品名称与标识的权利由相应权利方保留。",
+          "en": "MX1951 identifies the submission as self-created or generated and selects CC0. This pack contains only image seven, the standalone white-background portrait, with original PNG and creator attribution. Product names and marks retain their respective rights.",
+          "ja": "MX1951 は第8号投稿を自作または生成作品とし、CC0 を指定。このパックは7枚目の白背景の単独立ち絵のみを収録し、元PNGと出典を保持。製品名と標章の権利は各権利者に帰属します。"
+        }
+      },
+      "lineup-card": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "MX1951 在第 8 号投稿中声明作品为自行创作或生成，并逐组标为 CC0。此素材包仅含第 7 张独立白底立绘；保留原 PNG 和作者出处。Claude 等产品名称与标识的权利由相应权利方保留。",
+          "en": "MX1951 identifies the submission as self-created or generated and selects CC0. This pack contains only image seven, the standalone white-background portrait, with original PNG and creator attribution. Product names and marks retain their respective rights.",
+          "ja": "MX1951 は第8号投稿を自作または生成作品とし、CC0 を指定。このパックは7枚目の白背景の単独立ち絵のみを収録し、元PNGと出典を保持。製品名と標章の権利は各権利者に帰属します。"
+        }
+      },
+      "readme-demo": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "MX1951 在第 8 号投稿中声明作品为自行创作或生成，并逐组标为 CC0。此素材包仅含第 7 张独立白底立绘；保留原 PNG 和作者出处。Claude 等产品名称与标识的权利由相应权利方保留。",
+          "en": "MX1951 identifies the submission as self-created or generated and selects CC0. This pack contains only image seven, the standalone white-background portrait, with original PNG and creator attribution. Product names and marks retain their respective rights.",
+          "ja": "MX1951 は第8号投稿を自作または生成作品とし、CC0 を指定。このパックは7枚目の白背景の単独立ち絵のみを収録し、元PNGと出典を保持。製品名と標章の権利は各権利者に帰属します。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "MX1951 在第 8 号投稿中声明作品为自行创作或生成，并逐组标为 CC0。此素材包仅含第 7 张独立白底立绘；保留原 PNG 和作者出处。Claude 等产品名称与标识的权利由相应权利方保留。",
+          "en": "MX1951 identifies the submission as self-created or generated and selects CC0. This pack contains only image seven, the standalone white-background portrait, with original PNG and creator attribution. Product names and marks retain their respective rights.",
+          "ja": "MX1951 は第8号投稿を自作または生成作品とし、CC0 を指定。このパックは7枚目の白背景の単独立ち絵のみを収録し、元PNGと出典を保持。製品名と標章の権利は各権利者に帰属します。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "mx1951-deepseek",
+    "reviewedAt": "2026-11-25",
+    "reviewBasis": "Creator declaration and all thirteen original attachments verified. Separate underlying character design permission unresolved.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/lmy414/ai-girl-stickers/issues/7",
+    "attribution": [
+      {
+        "name": "MX1951",
+        "url": "https://github.com/MX1951",
+        "role": "published-adaptation",
+        "publication": "https://github.com/lmy414/ai-girl-stickers/issues/7"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "MX1951 在本组投稿选择 CC0。蓝色鲸鱼女仆包含既有社区形象特征，其上游设计权利仍需追溯；本组暂仅提供原作链接。",
+          "en": "MX1951 selects CC0 for the submission. The blue whale-maid design has familiar community features; underlying design rights await tracing. This series remains link-only.",
+          "ja": "MX1951 は投稿に CC0 を指定。青いクジラメイドには既存コミュニティの特徴があり、原型デザインの権利は追跡中。このシリーズはリンク掲載のみ。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "MX1951 在本组投稿选择 CC0。蓝色鲸鱼女仆包含既有社区形象特征，其上游设计权利仍需追溯；本组暂仅提供原作链接。",
+          "en": "MX1951 selects CC0 for the submission. The blue whale-maid design has familiar community features; underlying design rights await tracing. This series remains link-only.",
+          "ja": "MX1951 は投稿に CC0 を指定。青いクジラメイドには既存コミュニティの特徴があり、原型デザインの権利は追跡中。このシリーズはリンク掲載のみ。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "MX1951 在本组投稿选择 CC0。蓝色鲸鱼女仆包含既有社区形象特征，其上游设计权利仍需追溯；本组暂仅提供原作链接。",
+          "en": "MX1951 selects CC0 for the submission. The blue whale-maid design has familiar community features; underlying design rights await tracing. This series remains link-only.",
+          "ja": "MX1951 は投稿に CC0 を指定。青いクジラメイドには既存コミュニティの特徴があり、原型デザインの権利は追跡中。このシリーズはリンク掲載のみ。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "MX1951 在本组投稿选择 CC0。蓝色鲸鱼女仆包含既有社区形象特征，其上游设计权利仍需追溯；本组暂仅提供原作链接。",
+          "en": "MX1951 selects CC0 for the submission. The blue whale-maid design has familiar community features; underlying design rights await tracing. This series remains link-only.",
+          "ja": "MX1951 は投稿に CC0 を指定。青いクジラメイドには既存コミュニティの特徴があり、原型デザインの権利は追跡中。このシリーズはリンク掲載のみ。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "MX1951 在本组投稿选择 CC0。蓝色鲸鱼女仆包含既有社区形象特征，其上游设计权利仍需追溯；本组暂仅提供原作链接。",
+          "en": "MX1951 selects CC0 for the submission. The blue whale-maid design has familiar community features; underlying design rights await tracing. This series remains link-only.",
+          "ja": "MX1951 は投稿に CC0 を指定。青いクジラメイドには既存コミュニティの特徴があり、原型デザインの権利は追跡中。このシリーズはリンク掲載のみ。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "MX1951 在本组投稿选择 CC0。蓝色鲸鱼女仆包含既有社区形象特征，其上游设计权利仍需追溯；本组暂仅提供原作链接。",
+          "en": "MX1951 selects CC0 for the submission. The blue whale-maid design has familiar community features; underlying design rights await tracing. This series remains link-only.",
+          "ja": "MX1951 は投稿に CC0 を指定。青いクジラメイドには既存コミュニティの特徴があり、原型デザインの権利は追跡中。このシリーズはリンク掲載のみ。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "MX1951 在本组投稿选择 CC0。蓝色鲸鱼女仆包含既有社区形象特征，其上游设计权利仍需追溯；本组暂仅提供原作链接。",
+          "en": "MX1951 selects CC0 for the submission. The blue whale-maid design has familiar community features; underlying design rights await tracing. This series remains link-only.",
+          "ja": "MX1951 は投稿に CC0 を指定。青いクジラメイドには既存コミュニティの特徴があり、原型デザインの権利は追跡中。このシリーズはリンク掲載のみ。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "MX1951 在本组投稿选择 CC0。蓝色鲸鱼女仆包含既有社区形象特征，其上游设计权利仍需追溯；本组暂仅提供原作链接。",
+          "en": "MX1951 selects CC0 for the submission. The blue whale-maid design has familiar community features; underlying design rights await tracing. This series remains link-only.",
+          "ja": "MX1951 は投稿に CC0 を指定。青いクジラメイドには既存コミュニティの特徴があり、原型デザインの権利は追跡中。このシリーズはリンク掲載のみ。"
+        }
+      }
+    }
   }
 ]

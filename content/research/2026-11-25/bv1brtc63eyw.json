@@ -1,0 +1,19 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:55:52.394Z",
+  "url": "https://www.bilibili.com/video/BV1Brtc63EyW/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Brtc63EyW",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Brtc63EyW",
+    "title": "蓝色大肥鱼是怎么来的？",
+    "owner": {
+      "name": "天宇董事长",
+      "mid": 210325
+    },
+    "pubdate": 1787898892,
+    "duration": 84
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "linkedVideos": []
+}

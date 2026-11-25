@@ -1,0 +1,62 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:57:50.896Z",
+  "url": "https://github.com/sjmsltx/deepseek-desktop-pet/blob/a120e821821c5bab7c63bc562958c989be13b7b1/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/sjmsltx/deepseek-desktop-pet/blob/a120e821821c5bab7c63bc562958c989be13b7b1/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/sjmsltx/deepseek-desktop-pet/a120e821821c5bab7c63bc562958c989be13b7b1/README.md",
+    "sourceSha256": "6b0f28f212203cb3ceb85a45b8e7140f7e3a0443bbce498ab1dabbd0d5a37b68",
+    "gitBlobSha": "ef4a7b09c3e314db043ab605763c40972213440a",
+    "bytes": 55566,
+    "commit": "a120e821821c5bab7c63bc562958c989be13b7b1",
+    "accessedAt": "2026-11-25T08:57:50.896Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/sjmsltx/deepseek-desktop-pet/blob/a120e821821c5bab7c63bc562958c989be13b7b1/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/sjmsltx/deepseek-desktop-pet/a120e821821c5bab7c63bc562958c989be13b7b1/README.md",
+      "sourceSha256": "6b0f28f212203cb3ceb85a45b8e7140f7e3a0443bbce498ab1dabbd0d5a37b68",
+      "gitBlobSha": "ef4a7b09c3e314db043ab605763c40972213440a",
+      "bytes": 55566,
+      "commit": "a120e821821c5bab7c63bc562958c989be13b7b1",
+      "accessedAt": "2026-11-25T08:57:50.896Z"
+    },
+    {
+      "path": "README.en.md",
+      "url": "https://github.com/sjmsltx/deepseek-desktop-pet/blob/a120e821821c5bab7c63bc562958c989be13b7b1/README.en.md",
+      "rawUrl": "https://raw.githubusercontent.com/sjmsltx/deepseek-desktop-pet/a120e821821c5bab7c63bc562958c989be13b7b1/README.en.md",
+      "sourceSha256": "9a07dab657acade67b20b888d9925a2b95edec7db93b08b9f221841e58256644",
+      "gitBlobSha": "7eeae3c6e2b69100f5ba56393ad3a23cdbdb3498",
+      "bytes": 12551,
+      "commit": "a120e821821c5bab7c63bc562958c989be13b7b1",
+      "accessedAt": "2026-11-25T08:57:51.336Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/sjmsltx/deepseek-desktop-pet/blob/a120e821821c5bab7c63bc562958c989be13b7b1/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/sjmsltx/deepseek-desktop-pet/a120e821821c5bab7c63bc562958c989be13b7b1/LICENSE",
+      "sourceSha256": "a95351000067a571f1b6b4842f6a98d9d628823399056c4ec15a133f9d7d5d3b",
+      "gitBlobSha": "1d8175559228ddb277a526652d8f25197960aac1",
+      "bytes": 1091,
+      "commit": "a120e821821c5bab7c63bc562958c989be13b7b1",
+      "accessedAt": "2026-11-25T08:57:51.762Z"
+    }
+  ],
+  "repository": {
+    "full_name": "sjmsltx/deepseek-desktop-pet",
+    "html_url": "https://github.com/sjmsltx/deepseek-desktop-pet",
+    "stargazers_count": 18,
+    "archived": false,
+    "created_at": "2026-08-02T13:48:23Z",
+    "default_branch": "master",
+    "fork": false,
+    "commit": "a120e821821c5bab7c63bc562958c989be13b7b1",
+    "observedAt": "2026-11-25T08:56:14.237Z",
+    "httpStatus": 200,
+    "metadataSha256": "73f244474fbc1a587c1ceaa218b0584f9942905160a593a4bbbef718b52f1f6c",
+    "parent": null
+  },
+  "scope": "Pinned README and license documents verified against Git blob and SHA-256. Feature descriptions are from the project documentation, not runtime tests."
+}

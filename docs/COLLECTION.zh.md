@@ -39,8 +39,10 @@ node scripts/collect-bilibili-likes.mjs > /tmp/atlas-bilibili-likes.json
 
 命令用独立无头 Chrome 采集现有二创的官方累计点赞。在脚本名后加上候选作品的 BV 号，即可一并核查。输出是待审核的 JSON，退出状态为 1 时检查错误输出列出的 BV 号。逐条核对标题、投稿人、BV 号和发布日期，采集失败时保留上次的有效观测。审核后的数据保存到 `content/research/`，在 `content/resources.json` 中记录证据路径和 SHA-256，再运行 `node scripts/update-readme-rankings.mjs` 同步三语 README 的榜单及二创数量。
 
-`pendingAnimationEvidence` 指向待复查候选的证据。每次采集都会把这些 BV 号加入查询计划，并在报告的 `trackedCandidateIds` 中列出。仍取不到数据的待复查候选会在错误输出中列出，已收录或本次手动指定的作品核验失败时命令返回状态 1。候选恢复后先核对原投稿，再从待复查清单移入作品目录。
+`pendingAnimationEvidence` 指向待复查候选的证据。完整采集及 `--candidates-only` 会把这些 BV 号加入查询计划；所有模式均在报告的 `trackedCandidateIds` 中列出。仍取不到数据的待复查候选会在错误输出中列出，已收录或本次手动指定的作品核验失败时命令返回状态 1。候选恢复后先核对原投稿，再从待复查清单移入作品目录。
 
 只复查待核项及本次新增的候选时，可用 `node scripts/collect-bilibili-likes.mjs --candidates-only [BV 号…]`。一组请求全部收到 HTTP 412 或 429 时，采集会提前停止并返回状态 1。报告中的 `captureComplete: false` 表示只尝试了 `attemptedCount` 条，计划总数为 `requestedCount`。按实际返回的 BV 号记录观测，继续保留现有榜单快照。
 
 只补查指定的在榜作品时，可用 `node scripts/collect-bilibili-likes.mjs --videos-only [BV 号…]`。至少提供一个已收录的 BV 号。
+
+只核验明确指定的未入榜候选、不重复请求其他待核项时，可用 `node scripts/collect-bilibili-likes.mjs --candidate-selection [BV 号…]`。未请求的待核项及原观测记录仍须保留。

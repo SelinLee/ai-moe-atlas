@@ -2,6 +2,8 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
+import {spawnSync} from 'node:child_process';
+import {fileURLToPath} from 'node:url';
 import {assertResources,readPendingAnimationCandidates} from '../scripts/lib/resources.mjs';
 import {beijingTime,byCumulativeLikes,byPublicationTime} from '../src/lib/animation-ranking.mjs';
 import {rankSongsByLikes} from '../src/lib/song-ranking.mjs';
@@ -56,6 +58,15 @@ test('pending animation evidence is checked and cannot duplicate cataloged BV ID
   assert.deepEqual(candidates.map(row=>row.bvid),['BV1rfsf6PEiQ','BV1NL4u6MEGE']);
   await assert.rejects(()=>readPendingAnimationCandidates({...draft,records:[{bvid:candidates[0].bvid}]},root),/duplicate/);
   await assert.rejects(()=>readPendingAnimationCandidates({...draft,pendingAnimationEvidence:{...pendingAnimationEvidence,sha256:'0'.repeat(64)}},root),/hash mismatch/);
+});
+test('explicit candidate selection rejects empty and already cataloged selections without requesting video metadata',()=>{
+  const script=fileURLToPath(new URL('scripts/collect-bilibili-likes.mjs',root));
+  const cataloged=registry.records.find(row=>row.category==='animation').bvid;
+  for(const args of [[],[cataloged]]){
+    const result=spawnSync(process.execPath,[script,'--candidate-selection',...args],{encoding:'utf8',timeout:5000});
+    assert.equal(result.status,1);
+    assert.match(result.stderr,/requires at least one BV ID outside the catalog/);
+  }
 });
 test('the public like archive retains current evidence bytes and historical batches',async()=>{
   const archives=await readLikeArchive(root);

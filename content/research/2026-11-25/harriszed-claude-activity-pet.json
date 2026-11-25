@@ -1,0 +1,62 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:57:49.270Z",
+  "url": "https://github.com/Harriszed/claude-desktop-pet/blob/e799a6e2ed77519b316e8939e125e2a0cf35cc83/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/Harriszed/claude-desktop-pet/blob/e799a6e2ed77519b316e8939e125e2a0cf35cc83/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Harriszed/claude-desktop-pet/e799a6e2ed77519b316e8939e125e2a0cf35cc83/README.md",
+    "sourceSha256": "5836cf2db53f83d1499982b7a6e3bf087a5c4ed7c5a5ebeee8ca8a30ee5b27b6",
+    "gitBlobSha": "830d6cb1e8f903a130a583115e2fe8220236e84d",
+    "bytes": 14630,
+    "commit": "e799a6e2ed77519b316e8939e125e2a0cf35cc83",
+    "accessedAt": "2026-11-25T08:57:49.270Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/Harriszed/claude-desktop-pet/blob/e799a6e2ed77519b316e8939e125e2a0cf35cc83/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Harriszed/claude-desktop-pet/e799a6e2ed77519b316e8939e125e2a0cf35cc83/README.md",
+      "sourceSha256": "5836cf2db53f83d1499982b7a6e3bf087a5c4ed7c5a5ebeee8ca8a30ee5b27b6",
+      "gitBlobSha": "830d6cb1e8f903a130a583115e2fe8220236e84d",
+      "bytes": 14630,
+      "commit": "e799a6e2ed77519b316e8939e125e2a0cf35cc83",
+      "accessedAt": "2026-11-25T08:57:49.270Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/Harriszed/claude-desktop-pet/blob/e799a6e2ed77519b316e8939e125e2a0cf35cc83/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Harriszed/claude-desktop-pet/e799a6e2ed77519b316e8939e125e2a0cf35cc83/LICENSE",
+      "sourceSha256": "ce9d50eef42c3a1765d34b19a736d97e328ce562ef3a60c7e50f3551c2170040",
+      "gitBlobSha": "8983f21512bc665a7a8720bdf4a578ac898f0a39",
+      "bytes": 1105,
+      "commit": "e799a6e2ed77519b316e8939e125e2a0cf35cc83",
+      "accessedAt": "2026-11-25T08:57:49.685Z"
+    },
+    {
+      "path": "NOTICE.md",
+      "url": "https://github.com/Harriszed/claude-desktop-pet/blob/e799a6e2ed77519b316e8939e125e2a0cf35cc83/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/Harriszed/claude-desktop-pet/e799a6e2ed77519b316e8939e125e2a0cf35cc83/NOTICE.md",
+      "sourceSha256": "20b47907550892b3b361847cead64827e09707099cf57441cada93c2e0ab0ca5",
+      "gitBlobSha": "06c64c151223f12b54785d91c042a91c85f5b724",
+      "bytes": 1641,
+      "commit": "e799a6e2ed77519b316e8939e125e2a0cf35cc83",
+      "accessedAt": "2026-11-25T08:57:50.355Z"
+    }
+  ],
+  "repository": {
+    "full_name": "Harriszed/claude-desktop-pet",
+    "html_url": "https://github.com/Harriszed/claude-desktop-pet",
+    "stargazers_count": 16,
+    "archived": false,
+    "created_at": "2026-10-11T18:14:13Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "e799a6e2ed77519b316e8939e125e2a0cf35cc83",
+    "observedAt": "2026-11-25T08:56:14.166Z",
+    "httpStatus": 200,
+    "metadataSha256": "5add72360905f9d1752a82eb7bd1b4437d59a742894cb4cf0070de404c73adf2",
+    "parent": null
+  },
+  "scope": "Pinned README and license documents verified against Git blob and SHA-256. Feature descriptions are from the project documentation, not runtime tests."
+}

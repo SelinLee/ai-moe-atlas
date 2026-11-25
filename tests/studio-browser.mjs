@@ -12,13 +12,13 @@ const browser=await chromium.launch({...(process.env.CHROME_PATH?{executablePath
 const context=await browser.newContext({viewport:{width:1440,height:1100},acceptDownloads:true});
 const page=await context.newPage();const errors=[],requests=[];
 page.on('pageerror',e=>errors.push(e.message));page.on('request',r=>requests.push(r));
-const ready=()=>page.waitForFunction(()=>!document.getElementById('export-pack').disabled);
+const ready=()=>page.waitForFunction(()=>document.getElementById('export-pack')?.disabled===false);
 async function exported(name){
   const preview=await page.locator('#canvas').evaluate(c=>c.toDataURL('image/png'));
   const dl=page.waitForEvent('download');await page.click('#export-pack');const download=await dl;await download.saveAs(`.qa/${name}.zip`);
   const zip=await JSZip.loadAsync(await readFile(`.qa/${name}.zip`));const m=JSON.parse(await zip.file('provenance.json').async('string'));
   const bytes=await zip.file(m.output.file).async('nodebuffer');assert.equal(hash(bytes),m.output.sha256);
-  if(m.processing.format==='png')assert.deepEqual(bytes,Buffer.from(preview.split(',')[1],'base64'),'preview must be the exact exported PNG');
+  if(m.processing.format==='png')assert.equal(hash(bytes),hash(Buffer.from(preview.split(',')[1],'base64')),'preview must be the exact exported PNG');
   assert.equal(m.output.visibleCredits,true);assert.ok(m.processing.layout.credits.text.length>0);
   const g=m.processing.layout.image;assert.ok(g.y+g.drawH<=m.processing.layout.credits.y+.001);
   return {zip,m,bytes};
@@ -38,6 +38,15 @@ try{
     assert.equal(card.m.useReview.uses['intro-card'].decision,'allowed');
     assert.equal(card.m.output.layoutLicense,'CC-BY-NC-SA-4.0');
     await page.screenshot({path:`.qa/studio-p1-${lang}.png`,fullPage:true});
+    await page.goto(`${origin}/${lang}/studio/?asset=mx1951-claude&pose=portrait`);await ready();
+    assert.equal(await page.locator('#character-select').inputValue(),'mx1951-claude');
+    assert.equal(await page.locator('#preset option[value="intro-card"]').isDisabled(),false);
+    await page.selectOption('#preset','intro-card');await ready();
+    const cc0=await exported(`cc0-claude-${lang}`);
+    assert.equal(cc0.m.source.rights.license,'CC0-1.0');
+    assert.equal(cc0.m.output.layoutLicense,'CC0-1.0');
+    assert.match(cc0.m.processing.layout.credits.text,/MX1951/);
+    assert.deepEqual(await cc0.zip.file('source-original.png').async('nodebuffer'),await readFile('public/collected/mx1951-claude/portrait/original.png'));
     await page.goto(`${origin}/${lang}/studio/?asset=zipzippipe-chatgpt&pose=portrait`);await ready();
     assert.equal(await page.locator('#preset option[value="intro-card"]').isDisabled(),true);
     await page.selectOption('#preset','avatar-canvas');await ready();const technical=await exported(`technical-avatar-${lang}`);
@@ -97,7 +106,12 @@ try{
   const lockedDownload=page.waitForEvent('download');lockedDownload.catch(()=>{});await page.click('#export-pack');
   assert.equal(await page.locator('#studio-controls').evaluate(e=>e.disabled),true);assert.equal(await page.locator('#upload').isDisabled(),true);
   resume();await lockedDownload;await page.unroute('**/evidence/NOTICE.txt');await ready();
-  // Canvas conversion failure does not produce a misleading successful ZIP.
+  // PNG preview encoding and lossy canvas conversion failures must both block the ZIP.
+  await page.evaluate(()=>{window.originalToDataURL=HTMLCanvasElement.prototype.toDataURL;HTMLCanvasElement.prototype.toDataURL=function(){return 'data:,';};});
+  unexpected=false;page.on('download',capture);await page.click('#export-pack');await ready();assert.equal(unexpected,false);assert.match(await page.locator('#studio-status').textContent(),/image|Image/);
+  await page.evaluate(()=>HTMLCanvasElement.prototype.toDataURL=window.originalToDataURL);page.off('download',capture);
+  await page.locator('#advanced-settings').evaluate(details=>details.open=true);
+  await page.selectOption('#format','webp');await ready();
   await page.evaluate(()=>{window.originalToBlob=HTMLCanvasElement.prototype.toBlob;HTMLCanvasElement.prototype.toBlob=function(cb){cb(null);};});
   unexpected=false;page.on('download',capture);await page.click('#export-pack');await ready();assert.equal(unexpected,false);assert.match(await page.locator('#studio-status').textContent(),/image|Image/);
   await page.evaluate(()=>HTMLCanvasElement.prototype.toBlob=window.originalToBlob);page.off('download',capture);

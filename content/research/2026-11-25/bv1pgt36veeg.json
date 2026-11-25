@@ -1,0 +1,19 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:55:52.497Z",
+  "url": "https://www.bilibili.com/video/BV1Pgt36VEeg/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Pgt36VEeg",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Pgt36VEeg",
+    "title": "你怎么知道我钓到了蓝色大肥鱼？",
+    "owner": {
+      "name": "ZipZipPipe",
+      "mid": 4168597
+    },
+    "pubdate": 1788257305,
+    "duration": 24
+  },
+  "descriptionSha256": "f1e939a706470a38d9b7a24ea4b7945b50c0a0f52b98ea52b3f4377861187e49",
+  "linkedVideos": []
+}

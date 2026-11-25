@@ -4180,5 +4180,131 @@
       "en": "Original group PNG checked by hash. A separate portrait and artwork-specific permissions remain unverified.",
       "ja": "集合絵の原 PNG をハッシュで照合。単独立ち絵と画像別利用許可は未確認。"
     }
+  },
+  {
+    "id": "mx1951-claude",
+    "entity": "claude",
+    "kind": "collected",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Claude 黄色礼裙立绘 · MX1951",
+      "en": "Claude Yellow-Dress Portrait · MX1951",
+      "ja": "Claude 黄色ドレス立ち絵 · MX1951"
+    },
+    "description": {
+      "zh": "MX1951 投稿的黑发双马尾、黄色礼裙 Claude 社区拟人。",
+      "en": "MX1951’s fan personification of Claude with dark twin tails and a yellow dress.",
+      "ja": "MX1951 が投稿した黒髪ツインテールと黄色ドレスの Claude 擬人化。"
+    },
+    "story": {
+      "zh": "原作者投稿 7 张黑色双马尾黄色礼裙形象；全部匹配固定档案，第 7 张白底单人立绘已单独整理。",
+      "en": "Seven creator-submitted images of a dark twin-tailed girl in a yellow dress; all match the pinned archive. The seventh, a white-background standalone portrait, has been packaged separately.",
+      "ja": "黒髪ツインテールと黄色のドレスの作者投稿7枚。全点が固定アーカイブと一致。7枚目の白背景単独立ち絵を個別整理。"
+    },
+    "features": {
+      "zh": "黑色长双马尾、金黄色蝴蝶结、琥珀眼、荷叶边白领与黄色礼裙。",
+      "en": "Long dark twin tails, gold bows, amber eyes, white ruffled collar and a yellow dress.",
+      "ja": "黒い長いツインテール、金色のリボン、琥珀色の目、白いフリル襟と黄色のドレス。"
+    },
+    "author": "MX1951",
+    "authorUrl": "https://github.com/MX1951",
+    "source": "https://github.com/lmy414/ai-girl-stickers/issues/8",
+    "sourceTitle": "[投稿] 原生家庭有些不好的Claude · #8",
+    "originalPublication": "https://github.com/lmy414/ai-girl-stickers/issues/8",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "MX1951",
+        "url": "https://github.com/MX1951",
+        "role": "original-character",
+        "publication": "https://github.com/lmy414/ai-girl-stickers/issues/8"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseLabel": {
+      "zh": "CC0 1.0 公共领域",
+      "en": "CC0 1.0 Public Domain",
+      "ja": "CC0 1.0 パブリックドメイン"
+    },
+    "downloadable": true,
+    "bg": "#f8efd8",
+    "color": "#795b2f",
+    "verifiedAt": "2026-11-25",
+    "origin": "web-collected",
+    "preview": "collected/mx1951-claude/portrait/preview.webp",
+    "assets": [
+      {
+        "id": "portrait",
+        "label": {
+          "zh": "MX1951 发布的 Claude 黄色礼裙立绘",
+          "en": "Claude yellow-dress portrait published by MX1951",
+          "ja": "MX1951 公開の Claude 黄色ドレス立ち絵"
+        }
+      }
+    ],
+    "provenanceNote": {
+      "zh": "MX1951 在第 8 号投稿中声明作品为自行创作或生成，并逐组标为 CC0。此素材包仅含第 7 张独立白底立绘；保留原 PNG 和作者出处。Claude 等产品名称与标识的权利由相应权利方保留。",
+      "en": "MX1951 identifies the submission as self-created or generated and selects CC0. This pack contains only image seven, the standalone white-background portrait, with original PNG and creator attribution. Product names and marks retain their respective rights.",
+      "ja": "MX1951 は第8号投稿を自作または生成作品とし、CC0 を指定。このパックは7枚目の白背景の単独立ち絵のみを収録し、元PNGと出典を保持。製品名と標章の権利は各権利者に帰属します。"
+    }
+  },
+  {
+    "id": "mx1951-deepseek",
+    "entity": "deepseek",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "一些肥鱼 · MX1951",
+      "en": "Whale Girl Collection · MX1951",
+      "ja": "クジラ娘作品集 · MX1951"
+    },
+    "description": {
+      "zh": "MX1951 的鲸鱼娘衍生服装与插画合集。",
+      "en": "MX1951’s collection of whale-girl costume variants and illustrations.",
+      "ja": "MX1951 のクジラ娘衣装バリエーション・イラスト集。"
+    },
+    "story": {
+      "zh": "原作者投稿 13 张，含水手服、休闲服、连体鲸鱼睡衣、女仆与场景插画；全部匹配固定档案中的原文件。",
+      "en": "Thirteen creator-submitted images including sailor uniform, casual clothes, whale onesie, maid dress and scene illustrations. Every attachment matches the pinned archive.",
+      "ja": "作者投稿13枚。セーラー服・私服・クジラの着ぐるみ・メイド服・場面絵。全添付画像が固定アーカイブと一致。"
+    },
+    "features": {
+      "zh": "蓝色渐变长发、鲸尾、女仆服与多款日常衣装。",
+      "en": "Long gradient-blue hair, whale tail, maid dress and everyday outfits.",
+      "ja": "青いグラデーション長髪、クジラの尾、メイド服と日常衣装。"
+    },
+    "author": "MX1951",
+    "authorUrl": "https://github.com/MX1951",
+    "source": "https://github.com/lmy414/ai-girl-stickers/issues/7",
+    "sourceTitle": "[投稿] 一些肥鱼 · #7",
+    "originalPublication": "https://github.com/lmy414/ai-girl-stickers/issues/7",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "MX1951",
+        "url": "https://github.com/MX1951",
+        "role": "published-adaptation",
+        "publication": "https://github.com/lmy414/ai-girl-stickers/issues/7"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/lmy414/ai-girl-stickers/issues/7",
+    "downloadable": false,
+    "bg": "#e6f0fc",
+    "color": "#405b94",
+    "verifiedAt": "2026-11-25",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "MX1951 在本组投稿选择 CC0。蓝色鲸鱼女仆包含既有社区形象特征，其上游设计权利仍需追溯；本组暂仅提供原作链接。",
+      "en": "MX1951 selects CC0 for the submission. The blue whale-maid design has familiar community features; underlying design rights await tracing. This series remains link-only.",
+      "ja": "MX1951 は投稿に CC0 を指定。青いクジラメイドには既存コミュニティの特徴があり、原型デザインの権利は追跡中。このシリーズはリンク掲載のみ。"
+    }
   }
 ]

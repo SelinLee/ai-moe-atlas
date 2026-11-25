@@ -1,0 +1,62 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:57:52.219Z",
+  "url": "https://github.com/FenyxHuang/dsh-desktop-pet/blob/12edce05da4d83ebd4bae241f07aad364f0f54eb/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/FenyxHuang/dsh-desktop-pet/blob/12edce05da4d83ebd4bae241f07aad364f0f54eb/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/FenyxHuang/dsh-desktop-pet/12edce05da4d83ebd4bae241f07aad364f0f54eb/README.md",
+    "sourceSha256": "378242fe30e3ae82d258fa0a630397d984ff2059a030c7dab86e7c4671435c0d",
+    "gitBlobSha": "5bf5e0dd9cf1f9abde825892c8b06ea5b35dfd8f",
+    "bytes": 4413,
+    "commit": "12edce05da4d83ebd4bae241f07aad364f0f54eb",
+    "accessedAt": "2026-11-25T08:57:52.219Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/FenyxHuang/dsh-desktop-pet/blob/12edce05da4d83ebd4bae241f07aad364f0f54eb/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/FenyxHuang/dsh-desktop-pet/12edce05da4d83ebd4bae241f07aad364f0f54eb/README.md",
+      "sourceSha256": "378242fe30e3ae82d258fa0a630397d984ff2059a030c7dab86e7c4671435c0d",
+      "gitBlobSha": "5bf5e0dd9cf1f9abde825892c8b06ea5b35dfd8f",
+      "bytes": 4413,
+      "commit": "12edce05da4d83ebd4bae241f07aad364f0f54eb",
+      "accessedAt": "2026-11-25T08:57:52.219Z"
+    },
+    {
+      "path": "README.zh.md",
+      "url": "https://github.com/FenyxHuang/dsh-desktop-pet/blob/12edce05da4d83ebd4bae241f07aad364f0f54eb/README.zh.md",
+      "rawUrl": "https://raw.githubusercontent.com/FenyxHuang/dsh-desktop-pet/12edce05da4d83ebd4bae241f07aad364f0f54eb/README.zh.md",
+      "sourceSha256": "cee139764bf44b1356b458f3c3ead1dafecc253bc6aa117928e330839d35c824",
+      "gitBlobSha": "f321b0f332a4a842424ef1a66a2c83ca3df76a95",
+      "bytes": 3747,
+      "commit": "12edce05da4d83ebd4bae241f07aad364f0f54eb",
+      "accessedAt": "2026-11-25T08:57:52.640Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/FenyxHuang/dsh-desktop-pet/blob/12edce05da4d83ebd4bae241f07aad364f0f54eb/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/FenyxHuang/dsh-desktop-pet/12edce05da4d83ebd4bae241f07aad364f0f54eb/LICENSE",
+      "sourceSha256": "ebb4f09972aee8608be255debaf78451a68e95c290f55c240dec2ecfa16ea6be",
+      "gitBlobSha": "c1f7a78e89e4e4dc7b86664c3b3c76eb5eee1785",
+      "bytes": 1065,
+      "commit": "12edce05da4d83ebd4bae241f07aad364f0f54eb",
+      "accessedAt": "2026-11-25T08:57:53.066Z"
+    }
+  ],
+  "repository": {
+    "full_name": "FenyxHuang/dsh-desktop-pet",
+    "html_url": "https://github.com/FenyxHuang/dsh-desktop-pet",
+    "stargazers_count": 6,
+    "archived": false,
+    "created_at": "2026-08-16T01:40:59Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "12edce05da4d83ebd4bae241f07aad364f0f54eb",
+    "observedAt": "2026-11-25T08:56:15.825Z",
+    "httpStatus": 200,
+    "metadataSha256": "57f5d54000c167151092396dc74141dadb669c6890903bbd0470dcee09190062",
+    "parent": null
+  },
+  "scope": "Pinned README and license documents verified against Git blob and SHA-256. Feature descriptions are from the project documentation, not runtime tests."
+}

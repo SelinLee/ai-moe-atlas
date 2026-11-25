@@ -1,0 +1,110 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:57:45.278Z",
+  "url": "https://github.com/DMM-331/dsh-rice-pet/blob/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/DMM-331/dsh-rice-pet/blob/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/DMM-331/dsh-rice-pet/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/README.md",
+    "sourceSha256": "6dee875518bc34afc108b448a365235b6783a5cf3ed87fb66ebd40607ea9555e",
+    "gitBlobSha": "1239e231a9dcaabe988134391ab414e0591cf4f5",
+    "bytes": 11112,
+    "commit": "f6149c4134f6e92e1f974fcc688b3c98bd88d17e",
+    "accessedAt": "2026-11-25T08:57:45.278Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/DMM-331/dsh-rice-pet/blob/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/DMM-331/dsh-rice-pet/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/README.md",
+      "sourceSha256": "6dee875518bc34afc108b448a365235b6783a5cf3ed87fb66ebd40607ea9555e",
+      "gitBlobSha": "1239e231a9dcaabe988134391ab414e0591cf4f5",
+      "bytes": 11112,
+      "commit": "f6149c4134f6e92e1f974fcc688b3c98bd88d17e",
+      "accessedAt": "2026-11-25T08:57:45.278Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/DMM-331/dsh-rice-pet/blob/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/DMM-331/dsh-rice-pet/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/LICENSE",
+      "sourceSha256": "bd327a58b52d874f270ca2578b2da5cbb8fb47886acd93c1d7bfa56a8476f8b6",
+      "gitBlobSha": "455b4d4ca85f5b7458972a3b8446b41c2b67fa88",
+      "bytes": 1218,
+      "commit": "f6149c4134f6e92e1f974fcc688b3c98bd88d17e",
+      "accessedAt": "2026-11-25T08:57:45.694Z"
+    },
+    {
+      "path": "NOTICE",
+      "url": "https://github.com/DMM-331/dsh-rice-pet/blob/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/NOTICE",
+      "rawUrl": "https://raw.githubusercontent.com/DMM-331/dsh-rice-pet/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/NOTICE",
+      "sourceSha256": "1f4be863d5f0ad2399b2bdaac13048d243802e03081d237b3f2570e173f63ec2",
+      "gitBlobSha": "b14c21d376323157c6a6587a9975942bc1c8f88e",
+      "bytes": 943,
+      "commit": "f6149c4134f6e92e1f974fcc688b3c98bd88d17e",
+      "accessedAt": "2026-11-25T08:57:46.153Z"
+    },
+    {
+      "path": "assets/LICENSE-ARTWORK",
+      "url": "https://github.com/DMM-331/dsh-rice-pet/blob/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/assets/LICENSE-ARTWORK",
+      "rawUrl": "https://raw.githubusercontent.com/DMM-331/dsh-rice-pet/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/assets/LICENSE-ARTWORK",
+      "sourceSha256": "8efe0e100c2eb7810283d92d027b028705190c718b0418332bdfee8f91f379ff",
+      "gitBlobSha": "b5368cecee310771590a14e3267871ecb73629e6",
+      "bytes": 316,
+      "commit": "f6149c4134f6e92e1f974fcc688b3c98bd88d17e",
+      "accessedAt": "2026-11-25T08:57:46.569Z"
+    },
+    {
+      "path": "art/reference.jpg",
+      "url": "https://github.com/DMM-331/dsh-rice-pet/blob/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/art/reference.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/DMM-331/dsh-rice-pet/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/art/reference.jpg",
+      "sourceSha256": "75e28c2879b9680ee4f9cbbb7747a1ab9be27f65ad2536dbed6cb1a645870c79",
+      "gitBlobSha": "e1e94b9cdce99002f320df824c58059bcfac31f2",
+      "bytes": 177997,
+      "commit": "f6149c4134f6e92e1f974fcc688b3c98bd88d17e",
+      "accessedAt": "2026-11-25T09:00:19.839Z",
+      "width": 1024,
+      "height": 1024,
+      "format": "jpeg"
+    },
+    {
+      "path": "assets/sprites/whale.json",
+      "url": "https://github.com/DMM-331/dsh-rice-pet/blob/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/assets/sprites/whale.json",
+      "rawUrl": "https://raw.githubusercontent.com/DMM-331/dsh-rice-pet/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/assets/sprites/whale.json",
+      "sourceSha256": "7bdc440990c7e0653d82cb6635f31533514f4c75f81197e40fc0add14d017679",
+      "gitBlobSha": "3db0982ec802cca195948bf48209a0c63ada48b0",
+      "bytes": 10427,
+      "commit": "f6149c4134f6e92e1f974fcc688b3c98bd88d17e",
+      "accessedAt": "2026-11-25T09:00:20.246Z"
+    },
+    {
+      "path": "assets/sprites/whale.webp",
+      "url": "https://github.com/DMM-331/dsh-rice-pet/blob/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/assets/sprites/whale.webp",
+      "rawUrl": "https://raw.githubusercontent.com/DMM-331/dsh-rice-pet/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/assets/sprites/whale.webp",
+      "sourceSha256": "82e41e7a35150f0229c6c1722f6c7a2907073c5be9a7fe4c983e3ecbb243f76d",
+      "gitBlobSha": "0bcb902af5181b0df7f40f497f02aae1800a6b85",
+      "bytes": 3305386,
+      "commit": "f6149c4134f6e92e1f974fcc688b3c98bd88d17e",
+      "accessedAt": "2026-11-25T09:00:20.986Z",
+      "width": 3763,
+      "height": 5998,
+      "format": "webp"
+    }
+  ],
+  "repository": {
+    "full_name": "DMM-331/dsh-rice-pet",
+    "html_url": "https://github.com/DMM-331/dsh-rice-pet",
+    "stargazers_count": 1,
+    "archived": false,
+    "created_at": "2026-10-20T05:48:35Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "f6149c4134f6e92e1f974fcc688b3c98bd88d17e",
+    "observedAt": "2026-11-25T08:56:04.051Z",
+    "httpStatus": 200,
+    "metadataSha256": "352d6b152660b5ea4cbe6289e025bf5c0aea402d85fcdf9ed5a36b0a65cd7788",
+    "parent": null
+  },
+  "scope": "Pinned README and license documents verified against Git blob and SHA-256. Feature descriptions are from the project documentation, not runtime tests.",
+  "declaredUpstreamIconCommit": "bc2ac790e6f6a0cbc88879c56383b6f08ed3ef83",
+  "upstreamOriginalSha256": "c1d8ced2d461348d14128178dc7950ab037583aee27516dfa69ec0f7d5def3b2"
+}

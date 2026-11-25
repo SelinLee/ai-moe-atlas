@@ -39,8 +39,10 @@ node scripts/collect-bilibili-likes.mjs > /tmp/atlas-bilibili-likes.json
 
 独立したヘッドレス Chrome セッションで、収録済み二次創作の公式累計いいね数を取得します。スクリプト名の後に候補の BV ID を指定すると、同時に確認できます。出力 JSON は確認用です。終了コードが 1 の場合は、エラー出力に表示された BV ID を確認してください。題名・投稿者・BV ID・公開日を照合し、取得に失敗した作品は前回の有効な観測を保持します。確認済みの証拠を `content/research/` に保存し、パスと SHA-256 を `content/resources.json` に記録します。`node scripts/update-readme-rankings.mjs` を実行し、3言語の README の順位表と作品数を更新します。
 
-`pendingAnimationEvidence` は再確認待ちの候補の証拠を指します。取得のたびに対象の BV ID を確認計画に含め、`trackedCandidateIds` に記録します。確認できなかった ID はエラー出力に表示します。収録済み、または今回明示指定した動画の確認に失敗すると終了コードは 1 になります。候補が取得できたら、元の投稿を確認してから作品一覧に移します。
+`pendingAnimationEvidence` は再確認待ちの候補の証拠を指します。全件取得と `--candidates-only` では対象の BV ID を確認計画に含め、どの取得モードでも `trackedCandidateIds` に記録します。確認できなかった ID はエラー出力に表示します。収録済み、または今回明示指定した動画の確認に失敗すると終了コードは 1 になります。候補が取得できたら、元の投稿を確認してから作品一覧に移します。
 
 確認待ちと新たに指定した候補だけを調べるには、`node scripts/collect-bilibili-likes.mjs --candidates-only [BV ID…]` を実行します。1組のリクエストがすべて HTTP 412 または 429 を返す場合、取得を途中で終了して終了コード 1 を返します。`captureComplete: false` の報告では、取得を試みた件数を `attemptedCount`、予定件数を `requestedCount` で示します。データが返った BV ID の観測を記録し、現在のランキングのスナップショットを保持します。
 
 収録済みの動画を指定して再確認するには、`node scripts/collect-bilibili-likes.mjs --videos-only [BV ID…]` を実行します。収録済みの BV ID を1件以上指定します。
+
+確認待ちの他の候補を再取得せず指定した未収録候補だけを確認するには、`node scripts/collect-bilibili-likes.mjs --candidate-selection [BV ID…]` を実行します。未取得の確認待ち項目と過去の観測記録は保持してください。

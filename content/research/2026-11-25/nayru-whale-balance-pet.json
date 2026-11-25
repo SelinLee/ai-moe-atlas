@@ -1,0 +1,52 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:57:48.318Z",
+  "url": "https://github.com/nayru77mi/deepseek-DesktopPet-Shimeji/blob/a4e28c9222ad9dd50d1db602941243600fa310da/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/nayru77mi/deepseek-DesktopPet-Shimeji/blob/a4e28c9222ad9dd50d1db602941243600fa310da/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/nayru77mi/deepseek-DesktopPet-Shimeji/a4e28c9222ad9dd50d1db602941243600fa310da/README.md",
+    "sourceSha256": "6a9a3872ae5fed8555a000ddd9b8cb82fe69279b70541c271d9f220eba971865",
+    "gitBlobSha": "daf33d1a50deb93fff3f45e284bcf6611a40b54f",
+    "bytes": 8377,
+    "commit": "a4e28c9222ad9dd50d1db602941243600fa310da",
+    "accessedAt": "2026-11-25T08:57:48.318Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/nayru77mi/deepseek-DesktopPet-Shimeji/blob/a4e28c9222ad9dd50d1db602941243600fa310da/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/nayru77mi/deepseek-DesktopPet-Shimeji/a4e28c9222ad9dd50d1db602941243600fa310da/README.md",
+      "sourceSha256": "6a9a3872ae5fed8555a000ddd9b8cb82fe69279b70541c271d9f220eba971865",
+      "gitBlobSha": "daf33d1a50deb93fff3f45e284bcf6611a40b54f",
+      "bytes": 8377,
+      "commit": "a4e28c9222ad9dd50d1db602941243600fa310da",
+      "accessedAt": "2026-11-25T08:57:48.318Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/nayru77mi/deepseek-DesktopPet-Shimeji/blob/a4e28c9222ad9dd50d1db602941243600fa310da/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/nayru77mi/deepseek-DesktopPet-Shimeji/a4e28c9222ad9dd50d1db602941243600fa310da/LICENSE",
+      "sourceSha256": "bbbd384f5f8b2cd0b6199f1e16bb2b99cec359a92f9e9ed52f8999e9ff97605c",
+      "gitBlobSha": "bca995e15cac845b3d91be3e0bf2692c3c494b53",
+      "bytes": 1066,
+      "commit": "a4e28c9222ad9dd50d1db602941243600fa310da",
+      "accessedAt": "2026-11-25T08:57:48.774Z"
+    }
+  ],
+  "repository": {
+    "full_name": "nayru77mi/deepseek-DesktopPet-Shimeji",
+    "html_url": "https://github.com/nayru77mi/deepseek-DesktopPet-Shimeji",
+    "stargazers_count": 9,
+    "archived": false,
+    "created_at": "2026-08-22T03:02:17Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "a4e28c9222ad9dd50d1db602941243600fa310da",
+    "observedAt": "2026-11-25T08:56:03.958Z",
+    "httpStatus": 200,
+    "metadataSha256": "6e95ea9a91c602e51eedf72fdfcf33e7c275da99c19f138e3e21d33a405dc2e9",
+    "parent": null
+  },
+  "scope": "Pinned README and license documents verified against Git blob and SHA-256. Feature descriptions are from the project documentation, not runtime tests."
+}

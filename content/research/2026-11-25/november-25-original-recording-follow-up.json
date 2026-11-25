@@ -1,0 +1,106 @@
+{
+  "method": "isolated-headless-google-chrome-original-release-and-video-metadata",
+  "tracks": [
+    {
+      "id": "loser-kenshi-yonezu",
+      "original": {
+        "credit": "米津玄師 · Kenshi Yonezu",
+        "url": "https://reissuerecords.net/discography/loser-%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%B3/"
+      },
+      "originalPage": {
+        "url": "https://reissuerecords.net/discography/loser-%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%B3/",
+        "httpStatus": 200,
+        "title": "LOSER / ナンバーナイン | 米津玄師 official site「REISSUE RECORDS」",
+        "accessedAt": "2026-11-25T08:57:36.336Z",
+        "htmlSha256": "eab09c3fa0c028b9a0b9465cfb2870b9e29c1fe6b41ccf91c1d5b359eca6aef9"
+      },
+      "fanUpload": {
+        "bvid": "BV1vSy6zTEaB",
+        "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+        "page": {
+          "url": "https://www.bilibili.com/zh-Hans/video/BV1vSy6zTEaB/",
+          "httpStatus": 200,
+          "title": "大肥鱼唱《LOSER》纯享版_哔哩哔哩_bilibili",
+          "accessedAt": "2026-11-25T08:42:06.328Z",
+          "htmlSha256": "0e1f09f768821bb7b4488b9c3c890bff5937c59bb4af16e6330b0fa7d8cd1778"
+        },
+        "tags": [
+          "唱歌",
+          "翻唱",
+          "米津玄師"
+        ]
+      }
+    },
+    {
+      "id": "jiu-zhang-ji",
+      "original": {
+        "credit": "叶炫清 · Ye Xuanqing",
+        "url": "https://music.apple.com/us/song/1590657599"
+      },
+      "originalPage": {
+        "url": "https://music.apple.com/us/song/1590657599",
+        "httpStatus": 200,
+        "title": "‎九张机 (《双世宠妃》网剧主题曲) - Song with Lyrics by Ye Xuanqing - Apple Music",
+        "accessedAt": "2026-11-25T08:57:35.816Z",
+        "htmlSha256": "0d3fc7981340ba9c2e6aaa6dc0a809b3076d1de6ce9745c40147293686ad0ecf"
+      },
+      "fanUpload": {
+        "bvid": "BV1xby6zDEEm",
+        "descriptionSha256": "1fc286eca1b5af369014bbfe61fb1c9e05d41093922dacdf6408df743babe9d2"
+      }
+    },
+    {
+      "id": "tori-no-uta-air",
+      "original": {
+        "credit": "Lia · AIR",
+        "url": "https://key.visualarts.gr.jp/product/air/qa/"
+      },
+      "originalPage": {
+        "url": "https://key.visualarts.gr.jp/product/air/qa/",
+        "httpStatus": 200,
+        "title": "AIR：Q&A｜Key Official HomePage",
+        "accessedAt": "2026-11-25T08:42:01.918Z",
+        "htmlSha256": "ca53d47d8eba1b60023184c1ab18404f6e61b7a4667b7cd96d586c8c82a94e12"
+      },
+      "fanUpload": {
+        "bvid": "BV1XL1AzZERs",
+        "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "page": {
+          "url": "https://www.bilibili.com/zh-Hans/video/BV1XL1AzZERs/",
+          "httpStatus": 200,
+          "title": "🐋deepseek翻唱鸟之诗🎵是更温柔的鳥の詩哦(｡•ᴗ•｡)ﾉ≋♡_哔哩哔哩_bilibili",
+          "accessedAt": "2026-11-25T08:42:03.344Z",
+          "htmlSha256": "0c272c4743fdfe458d6f96ec84229775a91ebe1b20f1c0f749001c708e8e6f91"
+        },
+        "tags": [
+          "治愈",
+          "助眠",
+          "ACG音乐",
+          "鸟之诗",
+          "日语翻唱",
+          "温柔",
+          "养娃",
+          "ds",
+          "大肥鱼"
+        ],
+        "scope": "Exact Japanese title and ACG/Japanese cover tags match AIR opening; the uploader does not specify the original recording or arrangement."
+      }
+    }
+  ],
+  "linkedAdaptation": {
+    "track": "stronger-than-you",
+    "bvid": "BV1P24q6DExx",
+    "citingVideo": "BV1cQ1FzqE2i"
+  },
+  "backgroundMusic": {
+    "page": {
+      "url": "https://music.apple.com/us/song/1440840442",
+      "httpStatus": 200,
+      "title": "‎The Other Side of Paradise - Song with Lyrics by Glass Animals - Apple Music",
+      "accessedAt": "2026-11-25T08:57:35.813Z",
+      "htmlSha256": "84880214c42ffabc1a7b7fbf0e6a0564faaf7ef770f6e378868bbf6cb5a5d73c"
+    },
+    "bvid": "BV12yeU6KEUt",
+    "scope": "Credited background music; narrative video is not counted as a song version."
+  }
+}

@@ -557,7 +557,8 @@
     "title": {"zh": "Stronger Than You", "en": "Stronger Than You", "ja": "Stronger Than You"},
     "original": {"credit": "Steven Universe · Estelle", "url": "https://music.apple.com/us/song/1511215621"},
     "versions": [
-      {"id": "bv1cq1fzqe2i", "type": "arrangement"}
+      {"id": "bv1cq1fzqe2i", "type": "arrangement"},
+      {"id": "bv1p24q6dexx", "type": "mv"}
     ]
   },
   {
@@ -566,6 +567,30 @@
     "original": {"credit": "Chase Atlantic", "url": "https://music.apple.com/us/song/1812458627"},
     "versions": [
       {"id": "bv1zbylzqeqm", "type": "mv"}
+    ]
+  },
+  {
+    "id": "loser-kenshi-yonezu",
+    "title": {"zh": "LOSER", "en": "LOSER", "ja": "LOSER"},
+    "original": {"credit": "米津玄師 · Kenshi Yonezu", "url": "https://reissuerecords.net/discography/loser-%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%B3/"},
+    "versions": [
+      {"id": "bv1vsy6zteab", "type": "cover"}
+    ]
+  },
+  {
+    "id": "jiu-zhang-ji",
+    "title": {"zh": "九张机", "en": "Jiu Zhang Ji", "ja": "九張機"},
+    "original": {"credit": "叶炫清 · Ye Xuanqing", "url": "https://music.apple.com/us/song/1590657599"},
+    "versions": [
+      {"id": "bv1xby6zdeem", "type": "cover"}
+    ]
+  },
+  {
+    "id": "tori-no-uta-air",
+    "title": {"zh": "鸟之诗", "en": "Tori no Uta", "ja": "鳥の詩"},
+    "original": {"credit": "Lia · AIR", "url": "https://key.visualarts.gr.jp/product/air/qa/"},
+    "versions": [
+      {"id": "bv1xl1azzers", "type": "cover"}
     ]
   }
 ]

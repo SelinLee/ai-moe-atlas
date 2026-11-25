@@ -5,7 +5,8 @@ import { readPendingAnimationCandidates } from './lib/resources.mjs';
 const args = process.argv.slice(2);
 const candidatesOnly = args[0] === '--candidates-only';
 const videosOnly = args[0] === '--videos-only';
-const supplied = candidatesOnly || videosOnly ? args.slice(1) : args;
+const candidateSelection = args[0] === '--candidate-selection';
+const supplied = candidatesOnly || videosOnly || candidateSelection ? args.slice(1) : args;
 if (supplied.some(id => !/^BV[0-9A-Za-z]{10}$/.test(id))) {
   throw new Error('Arguments must be Bilibili BV IDs');
 }
@@ -16,6 +17,9 @@ const ids = new Set(registry.records.filter(record => record.category === 'anima
 const selectedVideos = [...new Set(supplied)];
 if (videosOnly && (!selectedVideos.length || selectedVideos.some(id => !ids.has(id)))) {
   throw new Error('--videos-only requires at least one cataloged BV ID');
+}
+if (candidateSelection && (!selectedVideos.length || selectedVideos.some(id => ids.has(id)))) {
+  throw new Error('--candidate-selection requires at least one BV ID outside the catalog');
 }
 const tracked = (await readPendingAnimationCandidates(registry, root)).map(row => row.bvid);
 const leads = [...new Set([...tracked, ...supplied])].filter(id => !ids.has(id));
@@ -39,6 +43,10 @@ try {
   if (videosOnly) {
     requested = selectedVideos;
     captureScope = 'catalog-selection';
+  }
+  if (candidateSelection) {
+    requested = selectedVideos;
+    captureScope = 'candidate-selection';
   }
   let stoppedEarly = false;
   for (let index = 0; index < requested.length; index += 5) {

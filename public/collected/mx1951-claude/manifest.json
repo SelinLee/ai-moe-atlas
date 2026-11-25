@@ -1,0 +1,192 @@
+{
+  "version": 1,
+  "characterId": "mx1951-claude",
+  "source": {
+    "id": "mx1951-claude",
+    "characterId": "mx1951-claude",
+    "repository": "lmy414/ai-girl-stickers",
+    "revision": "a63fc3d9536dfc46b7941d61b14efcdf8adddc20",
+    "pageUrl": "https://github.com/lmy414/ai-girl-stickers/issues/8",
+    "originalPublication": "https://github.com/lmy414/ai-girl-stickers/issues/8",
+    "collectedAt": "2026-11-25",
+    "attribution": [
+      {
+        "name": "MX1951",
+        "url": "https://github.com/MX1951",
+        "role": "original-character",
+        "publication": "https://github.com/lmy414/ai-girl-stickers/issues/8"
+      }
+    ],
+    "provenanceStatus": "creator-submitted-with-pinned-byte-match",
+    "rights": {
+      "license": "CC0-1.0",
+      "scope": "artwork",
+      "display": true,
+      "redistribute": true,
+      "modify": true,
+      "commercial": true,
+      "evidenceUrl": "https://github.com/lmy414/ai-girl-stickers/issues/8",
+      "reviewedBy": "AI Moe Atlas source review",
+      "reviewedAt": "2026-11-25",
+      "terms": {
+        "zh": "MX1951 在第 8 号投稿中声明作品为自行创作或生成，并逐组标为 CC0。此素材包仅含第 7 张独立白底立绘；保留原 PNG 和作者出处。Claude 等产品名称与标识的权利由相应权利方保留。",
+        "en": "MX1951 identifies the submission as self-created or generated and selects CC0. This pack contains only image seven, the standalone white-background portrait, with original PNG and creator attribution. Product names and marks retain their respective rights.",
+        "ja": "MX1951 は第8号投稿を自作または生成作品とし、CC0 を指定。このパックは7枚目の白背景の単独立ち絵のみを収録し、元PNGと出典を保持。製品名と標章の権利は各権利者に帰属します。"
+      }
+    },
+    "evidenceSnapshots": [
+      {
+        "url": "https://github.com/lmy414/ai-girl-stickers/issues/8",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-25T08:59:41.866Z",
+        "author": "MX1951",
+        "opened": "2026-09-20T08:40:20Z",
+        "htmlSha256": "f8fc0a001ee50154e05fd934fca00dbdd290daaf71188803d57fb97a215396cb",
+        "bodySha256": "1b7c23861c788e60543b94f5ce94ddb9c02f00c32e8abf27f93879f6193e9004",
+        "selectedOrigin": "self-created",
+        "selectedLicense": "cc0",
+        "attachmentUrl": "https://github.com/user-attachments/assets/24a40502-ea62-4d94-820c-06130d090012",
+        "attachmentSha256": "879b7716aa9eaa2c10132956787022ccb9f0bcce9363fd4c2d0ac6480c290061",
+        "attachmentStatus": 200,
+        "attachmentAccessedAt": "2026-11-25T08:59:54.966Z",
+        "attachmentDimensions": {
+          "width": 1086,
+          "height": 1448,
+          "format": "png"
+        },
+        "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "scope": "Creator-submitted standalone portrait, attachment seven in issue #8"
+      },
+      {
+        "path": "dist/submissions/originals/claude/issue-08-007.png",
+        "commit": "a63fc3d9536dfc46b7941d61b14efcdf8adddc20",
+        "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/claude/issue-08-007.png",
+        "gitBlobSha": "45d8ff382280bdeabd3521fd5aeb85eb0fed5bad",
+        "matchedBy": "Git tree blob SHA-1 of exact attachment bytes",
+        "rawUrl": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/claude/issue-08-007.png",
+        "sourceSha256": "879b7716aa9eaa2c10132956787022ccb9f0bcce9363fd4c2d0ac6480c290061",
+        "attachmentSha256": "879b7716aa9eaa2c10132956787022ccb9f0bcce9363fd4c2d0ac6480c290061",
+        "bytes": 2106996,
+        "width": 1086,
+        "height": 1448,
+        "format": "png",
+        "byteMatch": true,
+        "accessedAt": "2026-11-25T09:08:15.555Z",
+        "scope": "Pinned raw PNG checked by SHA-256 against creator attachment and collected original bytes.",
+        "httpStatus": 200
+      },
+      {
+        "url": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-25T09:08:20.134Z",
+        "title": "Deed - CC0 1.0 Universal - Creative Commons",
+        "htmlSha256": "4f7659a6941f5160fc0afde17380d7312ab8d5382a6e5355ee07c7d6d7d2349d"
+      }
+    ],
+    "files": [
+      {
+        "id": "portrait",
+        "path": "dist/submissions/originals/claude/issue-08-007.png",
+        "sha256": "879b7716aa9eaa2c10132956787022ccb9f0bcce9363fd4c2d0ac6480c290061",
+        "label": {
+          "zh": "MX1951 发布的 Claude 黄色礼裙立绘",
+          "en": "Claude yellow-dress portrait published by MX1951",
+          "ja": "MX1951 公開の Claude 黄色ドレス立ち絵"
+        }
+      }
+    ],
+    "retrievedAt": "2026-11-25T09:01:12.712Z",
+    "evidence": [
+      {
+        "sourceUrl": "https://github.com/lmy414/ai-girl-stickers/issues/8",
+        "localPath": "collected/mx1951-claude/evidence/source-statement-1.json",
+        "sha256": "e152ce56d9d5fee088e36db3a1bb2b677ac558eea5d0b941f94c49fef3fc6578"
+      },
+      {
+        "sourceUrl": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/claude/issue-08-007.png",
+        "localPath": "collected/mx1951-claude/evidence/source-statement-2.json",
+        "sha256": "0f83d7d285ddfd7956e248bc79c1e656f4d024703e7461f0b36018fd802af76f"
+      },
+      {
+        "sourceUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+        "localPath": "collected/mx1951-claude/evidence/source-statement-3.json",
+        "sha256": "82fd3f72e85cac409091c646bef34fe4d4db1d8b441d6563a8a909fc7180f86b"
+      }
+    ],
+    "originals": [
+      {
+        "id": "portrait",
+        "path": "dist/submissions/originals/claude/issue-08-007.png",
+        "sha256": "879b7716aa9eaa2c10132956787022ccb9f0bcce9363fd4c2d0ac6480c290061",
+        "label": {
+          "zh": "MX1951 发布的 Claude 黄色礼裙立绘",
+          "en": "Claude yellow-dress portrait published by MX1951",
+          "ja": "MX1951 公開の Claude 黄色ドレス立ち絵"
+        },
+        "sourceUrl": "https://raw.githubusercontent.com/lmy414/ai-girl-stickers/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/claude/issue-08-007.png",
+        "sourcePage": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/claude/issue-08-007.png",
+        "localPath": "collected/mx1951-claude/portrait/original.png",
+        "width": 1086,
+        "height": 1448,
+        "alpha": false,
+        "bytes": 2106996
+      }
+    ]
+  },
+  "normalization": {
+    "tool": "sharp 0.34.5",
+    "policy": "preserve-original-identity",
+    "generative": false,
+    "notes": "Fit complete original to canvas. No new pose, expression, costume, background removal, or invented detail. 2x output is resampling, not recovered detail."
+  },
+  "assets": [
+    {
+      "id": "portrait",
+      "label": {
+        "zh": "MX1951 发布的 Claude 黄色礼裙立绘",
+        "en": "Claude yellow-dress portrait published by MX1951",
+        "ja": "MX1951 公開の Claude 黄色ドレス立ち絵"
+      },
+      "original": "collected/mx1951-claude/portrait/original.png",
+      "originalSha256": "879b7716aa9eaa2c10132956787022ccb9f0bcce9363fd4c2d0ac6480c290061",
+      "outputs": [
+        {
+          "path": "collected/mx1951-claude/portrait/standard.png",
+          "sha256": "2eacf0e380b7652359d7729d1da25f7b2d1ff6b08167c1a5ddc2feae371c1293",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "879b7716aa9eaa2c10132956787022ccb9f0bcce9363fd4c2d0ac6480c290061"
+        },
+        {
+          "path": "collected/mx1951-claude/portrait/preview.webp",
+          "sha256": "1cd087f56070f7e682cf13550f030774455c412a1622a08cfd26651d4c22bbfb",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "879b7716aa9eaa2c10132956787022ccb9f0bcce9363fd4c2d0ac6480c290061"
+        },
+        {
+          "path": "collected/mx1951-claude/portrait/avatar.png",
+          "sha256": "4f865f1f60e9b3dcae0cc9d78fcdb56718ec1fd3275030eea0bdc625f7d4b0c1",
+          "width": 256,
+          "height": 256,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "879b7716aa9eaa2c10132956787022ccb9f0bcce9363fd4c2d0ac6480c290061"
+        },
+        {
+          "path": "collected/mx1951-claude/portrait/large-1024.png",
+          "sha256": "3ac46c5995e1a4a996f6114f23271c0b96b76d2e55aa5ed1e2f8aaf1959b501f",
+          "width": 1024,
+          "height": 1024,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "879b7716aa9eaa2c10132956787022ccb9f0bcce9363fd4c2d0ac6480c290061"
+        }
+      ]
+    }
+  ]
+}

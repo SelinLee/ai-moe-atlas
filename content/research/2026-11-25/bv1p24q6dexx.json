@@ -1,0 +1,19 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:55:52.394Z",
+  "url": "https://www.bilibili.com/video/BV1P24q6DExx/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1P24q6DExx",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1P24q6DExx",
+    "title": "DeepSeek的L.O.V.E | Stronger than you :)",
+    "owner": {
+      "name": "水请洗干净",
+      "mid": 161949528
+    },
+    "pubdate": 1793960976,
+    "duration": 168
+  },
+  "descriptionSha256": "2e4b30a67f36cdd40797d4fb4f4b7584a1ea87de27ce1a8fb2f7e28475ef777f",
+  "linkedVideos": []
+}

@@ -12,7 +12,7 @@ const canvas=el<HTMLCanvasElement>('canvas'),ctx=canvas.getContext('2d')!;
 const status=el('studio-status'),button=el<HTMLButtonElement>('export-pack');
 let image:HTMLImageElement|null=null,sourceBytes:ArrayBuffer|null=null,sourceRecord:any=null;
 let filename='asset',local=false,generation=0,originalMime='image/png',exporting=false;
-let selected:any=null,layout:any=null;
+let selected:any=null,layout:any=null,renderedKey:string|null=null;
 const params=new URLSearchParams(location.search);
 if(options.some((o:any)=>o.id===params.get('asset')))select('character-select').value=params.get('asset')!;
 const sourceType=()=>local?select('source-type').value:'collected';
@@ -73,8 +73,17 @@ function wrap(text:string,width:number){
   }
   return lines;
 }
+function renderKey(){
+  return JSON.stringify({
+    generation,local,selected:selected?.id,pose:select('pose-select').value,
+    preset:select('preset').value,shape:select('shape').value,size:select('size').value,
+    padding:input('padding').value,format:select('format').value,background:select('background').value,
+    customColor:input('custom-color').value,title:input('card-title').value,
+    source:local?localFields():null,
+  });
+}
 function draw(){
-  layout=null;if(!image){button.disabled=true;return;}
+  layout=null;renderedKey=null;if(!image){button.disabled=true;return;}
   if(!isAllowed(select('preset').value)){ctx.clearRect(0,0,canvas.width,canvas.height);el('export-credit').textContent='';button.disabled=true;status.textContent=labels.blocked;return;}
   try{
     const shape=select('shape').value,size=Number(select('size').value),padding=Number(input('padding').value)/100;
@@ -105,10 +114,11 @@ function draw(){
     lines.forEach((line,i)=>ctx.fillText(line,margin,footerY+margin+i*lineHeight));
     if(headerHeight){ctx.fillStyle='#ffffff';ctx.fillRect(0,0,bounds.w,headerHeight);ctx.fillStyle='#203b2a';ctx.font=`600 ${fontSize*1.65}px system-ui, sans-serif`;titleLines.forEach((line,i)=>ctx.fillText(line,margin,margin+i*Math.ceil(fontSize*2)));}
     layout={image:{...g,y:g.y+headerHeight},credits:{text:credit,fontSize,lines:lines.length,y:footerY,height:footerHeight},title,headerHeight};
+    renderedKey=renderKey();
     el('output-size').textContent=`${bounds.w} × ${bounds.h}`;el('padding-value').textContent=`${Math.round(padding*100)}%`;
     el('jpeg-note').hidden=format!=='jpeg';el('upscale-note').hidden=g.scale<=1;input('custom-color').hidden=select('background').value!=='custom';
     button.disabled=exporting;status.textContent=s.ready;
-  }catch(e){ctx.clearRect(0,0,canvas.width,canvas.height);button.disabled=true;status.textContent=(e as Error).message;}
+  }catch(e){layout=null;renderedKey=null;ctx.clearRect(0,0,canvas.width,canvas.height);button.disabled=true;status.textContent=(e as Error).message;}
 }
 function updatePermissions(){
   [...select('preset').options].forEach(option=>{option.disabled=!isAllowed(option.value);});
@@ -134,7 +144,7 @@ function sourceFieldsChanged(){
   updatePermissions();draw();el('credit-status').textContent='';
 }
 async function hash(bytes:ArrayBuffer){return [...new Uint8Array(await crypto.subtle.digest('SHA-256',bytes))].map(v=>v.toString(16).padStart(2,'0')).join('');}
-function clearLoaded(){image=null;sourceBytes=null;sourceRecord=null;layout=null;button.disabled=true;ctx.clearRect(0,0,canvas.width,canvas.height);el('export-credit').textContent='';el('native-size').textContent='';el('credit-status').textContent='';}
+function clearLoaded(){image=null;sourceBytes=null;sourceRecord=null;layout=null;renderedKey=null;button.disabled=true;ctx.clearRect(0,0,canvas.width,canvas.height);el('export-credit').textContent='';el('native-size').textContent='';el('credit-status').textContent='';}
 async function load(bytes:ArrayBuffer,mime:string,token:number,record:any){
   const url=URL.createObjectURL(new Blob([bytes],{type:mime}));const img=new Image();
   try{
@@ -193,14 +203,28 @@ button.addEventListener('click',async()=>{
   const token=generation;
   try{
     if(!isAllowed(select('preset').value))throw new Error(labels.blocked);
-    const source=sourceForExport();draw();if(!layout)throw new Error(labels.layoutError);
+    const source=sourceForExport();
+    // Keep the exact displayed pixels. Redrawing at export can change the
+    // browser's canvas rasterization, even with identical settings.
+    if(renderedKey!==renderKey())draw();
+    if(!layout||renderedKey!==renderKey())throw new Error(labels.layoutError);
     const originalBytes=sourceBytes,originalRecord=structuredClone(sourceRecord),imageWidth=image.naturalWidth,imageHeight=image.naturalHeight;
     const savedLayout=structuredClone(layout),preset=select('preset').value,format=select('format').value;
     const processing={tool:'AI Moe Atlas / browser Canvas',generative:false,preset,shape:select('shape').value,padding:Number(input('padding').value)/100,background:select('background').value==='custom'?input('custom-color').value:select('background').value,format,method:'contain-resample-with-visible-credits',note:s.upscaleNote,layout:savedLayout};
     const review=local?null:structuredClone(selected.review);
     const readmeCredits=creditText(source);
     exporting=true;button.disabled=true;el<HTMLFieldSetElement>('studio-controls').disabled=true;status.textContent=s.processing;
-    const blob=await new Promise<Blob>((resolve,reject)=>canvas.toBlob(b=>b?resolve(b):reject(new Error(s.imageError)),`image/${format}`,.94));
+    // Chrome can produce different PNG pixels for toBlob and toDataURL
+    // readbacks of the same canvas. Use the PNG preview encoder for the
+    // lossless export, while keeping quality-controlled encoding for JPEG/WebP.
+    let blob:Blob;
+    if(format==='png'){
+      const prefix='data:image/png;base64,',data=canvas.toDataURL('image/png');
+      if(!data.startsWith(prefix)||data.length<=prefix.length)throw new Error(s.imageError);
+      blob=new Blob([Uint8Array.from(atob(data.slice(prefix.length)),c=>c.charCodeAt(0))],{type:'image/png'});
+    }else{
+      blob=await new Promise<Blob>((resolve,reject)=>canvas.toBlob(b=>b?resolve(b):reject(new Error(s.imageError)),`image/${format}`,.94));
+    }
     if(blob.type!==`image/${format}`)throw new Error(s.imageError);
     const outputBytes=await blob.arrayBuffer();
     const manifest={source,original:{...originalRecord,sha256:await hash(originalBytes),width:imageWidth,height:imageHeight},output:{file:`${filename}-result.${format==='jpeg'?'jpg':format}`,sha256:await hash(outputBytes),width:canvas.width,height:canvas.height,visibleCredits:true,...(!local&&preset==='intro-card'?{layoutLicense:source.rights.license}:{})},processing,useReview:review,exportedAt:new Date().toISOString()};

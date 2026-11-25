@@ -1,0 +1,19 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:55:53.541Z",
+  "url": "https://www.bilibili.com/video/BV1v8nC6PEtF/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1v8nC6PEtF",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1v8nC6PEtF",
+    "title": "大肥鱼超帅的启动动画~",
+    "owner": {
+      "name": "啥都不懂的云玩家",
+      "mid": 49404178
+    },
+    "pubdate": 1792637804,
+    "duration": 52
+  },
+  "descriptionSha256": "d3e3703b1aaae5527af1718e62eaa1bac4b69d4f59fee3af88b2e30b7860e9d5",
+  "linkedVideos": []
+}

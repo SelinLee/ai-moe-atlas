@@ -3,8 +3,8 @@
   "updatedAt": "2026-11-25",
   "scope": "source-metadata-only",
   "pendingAnimationEvidence": {
-    "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-new-and-catalog-recheck.json",
-    "sha256": "287bf7dc94e102fd0c5b494e31937010deebc8512b1fa03f7b3e8d687b5b3876",
+    "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+    "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
     "kind": "browser-metadata-extract"
   },
   "records": [
@@ -38481,12 +38481,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-18T03:16:26.000Z",
       "likes": {
-        "count": 27,
-        "observedAt": "2026-11-22T17:15:39.436Z",
+        "count": 28,
+        "observedAt": "2026-11-25T08:56:33.132Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Q3s26mERW",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -40821,12 +40821,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-11T02:02:49.000Z",
       "likes": {
-        "count": 49,
-        "observedAt": "2026-11-22T16:53:24.957Z",
+        "count": 50,
+        "observedAt": "2026-11-25T08:56:33.121Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kmWj6mEnP",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-partial-catalog-recheck.json",
-          "sha256": "37c2111946499aea37d6fb419ac88ecd78b5a3ad054548760dfd150ecb7d138d",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -41791,11 +41791,11 @@
       "publishedAt": "2026-11-12T08:06:17.000Z",
       "likes": {
         "count": 5,
-        "observedAt": "2026-11-22T16:53:26.840Z",
+        "observedAt": "2026-11-25T08:56:33.139Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RhWX6NEZf",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-partial-catalog-recheck.json",
-          "sha256": "37c2111946499aea37d6fb419ac88ecd78b5a3ad054548760dfd150ecb7d138d",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -42028,12 +42028,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-19T00:30:00.000Z",
       "likes": {
-        "count": 44,
-        "observedAt": "2026-11-22T16:53:27.394Z",
+        "count": 53,
+        "observedAt": "2026-11-25T08:56:33.100Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tgsQ69EyR",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-partial-catalog-recheck.json",
-          "sha256": "37c2111946499aea37d6fb419ac88ecd78b5a3ad054548760dfd150ecb7d138d",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -43509,11 +43509,11 @@
       "publishedAt": "2026-10-07T10:43:20.000Z",
       "likes": {
         "count": 14,
-        "observedAt": "2026-11-22T17:15:41.394Z",
+        "observedAt": "2026-11-25T08:56:33.100Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CoHk6SEni",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -43903,12 +43903,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-09-30T03:00:00.000Z",
       "likes": {
-        "count": 4452,
-        "observedAt": "2026-11-22T17:15:41.909Z",
+        "count": 4489,
+        "observedAt": "2026-11-25T08:56:33.658Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QKa96SEnV",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -44519,12 +44519,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-10-27T11:22:29.000Z",
       "likes": {
-        "count": 8726,
-        "observedAt": "2026-11-22T16:53:31.507Z",
+        "count": 8758,
+        "observedAt": "2026-11-25T08:56:33.658Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CVxg6eEzB",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-partial-catalog-recheck.json",
-          "sha256": "37c2111946499aea37d6fb419ac88ecd78b5a3ad054548760dfd150ecb7d138d",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -44688,11 +44688,11 @@
       "publishedAt": "2026-10-22T15:42:19.000Z",
       "likes": {
         "count": 62,
-        "observedAt": "2026-11-22T16:53:32.090Z",
+        "observedAt": "2026-11-25T08:56:33.689Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CanH6pEQx",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-partial-catalog-recheck.json",
-          "sha256": "37c2111946499aea37d6fb419ac88ecd78b5a3ad054548760dfd150ecb7d138d",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -44741,12 +44741,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-10-26T10:00:00.000Z",
       "likes": {
-        "count": 5436,
-        "observedAt": "2026-11-22T17:15:42.353Z",
+        "count": 5461,
+        "observedAt": "2026-11-25T08:56:33.692Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19ZnU6JEoN",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -45071,12 +45071,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-10-08T13:00:00.000Z",
       "likes": {
-        "count": 1674,
-        "observedAt": "2026-11-22T16:53:32.716Z",
+        "count": 1703,
+        "observedAt": "2026-11-25T08:56:33.680Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1MKH96sEZL",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-partial-catalog-recheck.json",
-          "sha256": "37c2111946499aea37d6fb419ac88ecd78b5a3ad054548760dfd150ecb7d138d",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -45239,12 +45239,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-03T02:58:11.000Z",
       "likes": {
-        "count": 130,
-        "observedAt": "2026-11-22T17:15:43.233Z",
+        "count": 131,
+        "observedAt": "2026-11-25T08:56:34.111Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RB4u6HEH9",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -46328,12 +46328,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-19T01:00:00.000Z",
       "likes": {
-        "count": 63,
-        "observedAt": "2026-11-22T16:53:34.988Z",
+        "count": 71,
+        "observedAt": "2026-11-25T08:56:34.096Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1n6sx6MEeU",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-partial-catalog-recheck.json",
-          "sha256": "37c2111946499aea37d6fb419ac88ecd78b5a3ad054548760dfd150ecb7d138d",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -46572,11 +46572,11 @@
       "publishedAt": "2026-10-17T05:25:40.000Z",
       "likes": {
         "count": 577,
-        "observedAt": "2026-11-22T17:15:44.302Z",
+        "observedAt": "2026-11-25T08:56:34.096Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qnJv65Ei1",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -46631,12 +46631,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-11T03:12:36.000Z",
       "likes": {
-        "count": 14,
-        "observedAt": "2026-11-22T17:15:44.312Z",
+        "count": 18,
+        "observedAt": "2026-11-25T08:56:34.104Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dHWj6vENX",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -47098,12 +47098,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-19T01:58:37.000Z",
       "likes": {
-        "count": 57,
-        "observedAt": "2026-11-22T17:15:45.368Z",
+        "count": 73,
+        "observedAt": "2026-11-25T08:56:34.118Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yRs462EWK",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -47159,11 +47159,11 @@
       "publishedAt": "2026-11-03T10:39:01.000Z",
       "likes": {
         "count": 5,
-        "observedAt": "2026-11-22T17:15:45.370Z",
+        "observedAt": "2026-11-25T08:56:34.517Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Fu4g6wE26",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -47212,12 +47212,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-02T00:54:41.000Z",
       "likes": {
-        "count": 199,
-        "observedAt": "2026-11-22T17:15:45.371Z",
+        "count": 218,
+        "observedAt": "2026-11-25T08:56:34.586Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hExa66E7J",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -47877,11 +47877,11 @@
       "publishedAt": "2026-11-18T17:17:24.000Z",
       "likes": {
         "count": 5,
-        "observedAt": "2026-11-22T17:15:45.383Z",
+        "observedAt": "2026-11-25T08:56:34.580Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19fsD6wERA",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -48271,12 +48271,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-17T11:30:00.000Z",
       "likes": {
-        "count": 34,
-        "observedAt": "2026-11-22T17:15:46.516Z",
+        "count": 36,
+        "observedAt": "2026-11-25T08:56:34.534Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1evsB6FEVj",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -48486,12 +48486,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-12T15:31:49.000Z",
       "likes": {
-        "count": 157,
-        "observedAt": "2026-11-22T17:15:46.518Z",
+        "count": 177,
+        "observedAt": "2026-11-25T08:56:34.549Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1D2Wo66EsS",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -50055,12 +50055,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-18T01:03:11.000Z",
       "likes": {
-        "count": 58539,
-        "observedAt": "2026-11-22T17:15:49.588Z",
+        "count": 62448,
+        "observedAt": "2026-11-25T08:56:35.246Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PCsC6FEeD",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -50285,12 +50285,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-16T04:00:00.000Z",
       "likes": {
-        "count": 29801,
-        "observedAt": "2026-11-22T17:15:49.583Z",
+        "count": 31037,
+        "observedAt": "2026-11-25T08:56:35.246Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15FWf6DE63",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -50410,12 +50410,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-15T05:47:34.000Z",
       "likes": {
-        "count": 17499,
-        "observedAt": "2026-11-22T17:15:49.590Z",
+        "count": 18056,
+        "observedAt": "2026-11-25T08:56:35.246Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1H2sn6fEEH",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -50470,12 +50470,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-16T06:28:53.000Z",
       "likes": {
-        "count": 17430,
-        "observedAt": "2026-11-22T17:15:50.037Z",
+        "count": 18303,
+        "observedAt": "2026-11-25T08:56:35.246Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NKsw65EYp",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -50530,12 +50530,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-17T11:05:00.000Z",
       "likes": {
-        "count": 9032,
-        "observedAt": "2026-11-22T17:15:50.063Z",
+        "count": 9313,
+        "observedAt": "2026-11-25T08:56:35.246Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PCsu6wEgx",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -50590,12 +50590,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-18T11:13:41.000Z",
       "likes": {
-        "count": 20934,
-        "observedAt": "2026-11-22T17:15:50.033Z",
+        "count": 23181,
+        "observedAt": "2026-11-25T08:56:35.663Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PXsS67Eso",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -50650,12 +50650,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-19T09:35:32.000Z",
       "likes": {
-        "count": 26577,
-        "observedAt": "2026-11-22T17:15:50.050Z",
+        "count": 28847,
+        "observedAt": "2026-11-25T08:56:35.677Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QCsh66ECT",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -50715,12 +50715,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-18T03:32:52.000Z",
       "likes": {
-        "count": 61283,
-        "observedAt": "2026-11-22T17:15:50.050Z",
+        "count": 66239,
+        "observedAt": "2026-11-25T08:56:35.681Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RNs26QEsC",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -50780,12 +50780,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-15T08:51:58.000Z",
       "likes": {
-        "count": 28253,
-        "observedAt": "2026-11-22T17:15:50.501Z",
+        "count": 29092,
+        "observedAt": "2026-11-25T08:55:04.493Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RrsJ6VE4L",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -50840,12 +50840,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-19T04:02:12.000Z",
       "likes": {
-        "count": 3421,
-        "observedAt": "2026-11-22T17:15:50.497Z",
+        "count": 4512,
+        "observedAt": "2026-11-25T08:55:04.493Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TPs46QEni",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -50900,12 +50900,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-15T03:30:00.000Z",
       "likes": {
-        "count": 13248,
-        "observedAt": "2026-11-22T17:15:50.494Z",
+        "count": 13794,
+        "observedAt": "2026-11-25T08:55:04.493Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WJsJ6tEka",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -50960,12 +50960,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-16T04:36:07.000Z",
       "likes": {
-        "count": 14760,
-        "observedAt": "2026-11-22T17:15:50.506Z",
+        "count": 15400,
+        "observedAt": "2026-11-25T08:55:04.528Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Wmsw6LEoj",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -51020,12 +51020,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-17T10:00:00.000Z",
       "likes": {
-        "count": 20642,
-        "observedAt": "2026-11-22T17:15:50.503Z",
+        "count": 21411,
+        "observedAt": "2026-11-25T08:55:04.493Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1b4sz6sE39",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -51085,12 +51085,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-15T02:00:00.000Z",
       "likes": {
-        "count": 27362,
-        "observedAt": "2026-11-22T17:15:50.948Z",
+        "count": 28717,
+        "observedAt": "2026-11-25T08:55:05.000Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bZsG6EEvy",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -51145,12 +51145,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-19T02:02:52.000Z",
       "likes": {
-        "count": 26528,
-        "observedAt": "2026-11-22T17:15:50.935Z",
+        "count": 28787,
+        "observedAt": "2026-11-25T08:55:04.972Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dGst6NESK",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -51205,12 +51205,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-19T03:20:00.000Z",
       "likes": {
-        "count": 4486,
-        "observedAt": "2026-11-22T17:15:50.938Z",
+        "count": 4826,
+        "observedAt": "2026-11-25T08:55:04.948Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vGst6NEdB",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -51265,12 +51265,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-18T04:09:00.000Z",
       "likes": {
-        "count": 58116,
-        "observedAt": "2026-11-22T17:15:50.954Z",
+        "count": 61563,
+        "observedAt": "2026-11-25T08:55:04.971Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wQs16aEF3",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -51545,12 +51545,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-10-03T11:24:48.000Z",
       "likes": {
-        "count": 14098,
-        "observedAt": "2026-11-22T17:15:50.937Z",
+        "count": 14101,
+        "observedAt": "2026-11-25T08:55:05.010Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1miHe6wEvC",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -51606,11 +51606,11 @@
       "publishedAt": "2026-09-24T02:28:33.000Z",
       "likes": {
         "count": 337,
-        "observedAt": "2026-11-22T17:15:51.386Z",
+        "observedAt": "2026-11-25T08:55:05.443Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CSaw6bEmf",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -51665,12 +51665,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-19T01:00:00.000Z",
       "likes": {
-        "count": 37,
-        "observedAt": "2026-11-22T17:15:51.384Z",
+        "count": 43,
+        "observedAt": "2026-11-25T08:55:05.424Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12ks16BEYF",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -51730,12 +51730,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-17T01:00:00.000Z",
       "likes": {
-        "count": 56,
-        "observedAt": "2026-11-22T17:15:51.392Z",
+        "count": 71,
+        "observedAt": "2026-11-25T08:55:05.424Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1T9Wf6yEfS",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -51791,11 +51791,11 @@
       "publishedAt": "2026-10-29T11:12:50.000Z",
       "likes": {
         "count": 6,
-        "observedAt": "2026-11-22T17:15:51.390Z",
+        "observedAt": "2026-11-25T08:55:05.443Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Adsf6TEzC",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -51850,12 +51850,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-15T10:19:42.000Z",
       "likes": {
-        "count": 128,
-        "observedAt": "2026-11-22T17:15:51.387Z",
+        "count": 130,
+        "observedAt": "2026-11-25T08:55:05.452Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1essp6QEXo",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -51911,11 +51911,11 @@
       "publishedAt": "2026-11-12T15:26:23.000Z",
       "likes": {
         "count": 718,
-        "observedAt": "2026-11-22T17:15:51.833Z",
+        "observedAt": "2026-11-25T08:55:05.889Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QCWo6kEJg",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -51964,12 +51964,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-08T06:17:01.000Z",
       "likes": {
-        "count": 90,
-        "observedAt": "2026-11-22T17:15:51.833Z",
+        "count": 95,
+        "observedAt": "2026-11-25T08:55:05.888Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1boW76hEtK",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -52431,12 +52431,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-08T06:54:15.000Z",
       "likes": {
-        "count": 5820,
-        "observedAt": "2026-11-22T17:15:52.288Z",
+        "count": 6216,
+        "observedAt": "2026-11-25T08:55:05.900Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CuWE6nEuu",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -52662,11 +52662,11 @@
       "publishedAt": "2026-11-18T10:15:25.000Z",
       "likes": {
         "count": 6,
-        "observedAt": "2026-11-22T17:15:52.717Z",
+        "observedAt": "2026-11-25T08:55:05.868Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1UPsm6GEFc",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -52716,11 +52716,11 @@
       "publishedAt": "2026-10-28T10:58:40.000Z",
       "likes": {
         "count": 2,
-        "observedAt": "2026-11-22T17:15:52.733Z",
+        "observedAt": "2026-11-25T08:55:05.909Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Jox76EEN4",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -52775,12 +52775,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-01T03:39:34.000Z",
       "likes": {
-        "count": 688,
-        "observedAt": "2026-11-22T17:15:52.719Z",
+        "count": 730,
+        "observedAt": "2026-11-25T08:55:06.535Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fAxp6fEu3",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -52883,12 +52883,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-15T11:13:33.000Z",
       "likes": {
-        "count": 21,
-        "observedAt": "2026-11-22T17:15:52.732Z",
+        "count": 22,
+        "observedAt": "2026-11-25T08:55:06.535Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ATsp6PEUj",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -52937,12 +52937,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-13T10:05:07.000Z",
       "likes": {
-        "count": 61,
-        "observedAt": "2026-11-22T17:15:53.161Z",
+        "count": 64,
+        "observedAt": "2026-11-25T08:55:06.535Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16hWi6cED7",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -52998,11 +52998,11 @@
       "publishedAt": "2026-11-01T03:21:42.000Z",
       "likes": {
         "count": 4,
-        "observedAt": "2026-11-22T17:15:53.174Z",
+        "observedAt": "2026-11-25T08:55:06.535Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ruxp6RERh",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -53052,11 +53052,11 @@
       "publishedAt": "2026-10-25T18:32:38.000Z",
       "likes": {
         "count": 6,
-        "observedAt": "2026-11-22T17:15:53.166Z",
+        "observedAt": "2026-11-25T08:55:06.535Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mLnQ61EpN",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -53106,11 +53106,11 @@
       "publishedAt": "2026-10-25T18:25:41.000Z",
       "likes": {
         "count": 6,
-        "observedAt": "2026-11-22T17:15:53.171Z",
+        "observedAt": "2026-11-25T08:55:07.004Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1S3nQ6EEei",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -53159,12 +53159,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-10-24T02:28:17.000Z",
       "likes": {
-        "count": 73,
-        "observedAt": "2026-11-22T17:15:53.169Z",
+        "count": 74,
+        "observedAt": "2026-11-25T08:55:06.972Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZZHw6oEkV",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -53214,11 +53214,11 @@
       "publishedAt": "2026-10-04T11:19:01.000Z",
       "likes": {
         "count": 6,
-        "observedAt": "2026-11-22T17:15:53.604Z",
+        "observedAt": "2026-11-25T08:55:06.973Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JjHL6wE8q",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -53274,11 +53274,11 @@
       "publishedAt": "2026-11-07T11:23:09.000Z",
       "likes": {
         "count": 2,
-        "observedAt": "2026-11-22T17:15:53.607Z",
+        "observedAt": "2026-11-25T08:55:07.005Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jL4H6dErN",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -53382,11 +53382,11 @@
       "publishedAt": "2026-11-18T13:50:19.000Z",
       "likes": {
         "count": 14,
-        "observedAt": "2026-11-22T17:15:53.613Z",
+        "observedAt": "2026-11-25T08:55:06.983Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XdsU6xEwJ",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -53442,11 +53442,11 @@
       "publishedAt": "2026-11-10T23:17:25.000Z",
       "likes": {
         "count": 8,
-        "observedAt": "2026-11-22T17:15:53.608Z",
+        "observedAt": "2026-11-25T08:55:07.467Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wTW56ME5g",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -53496,11 +53496,11 @@
       "publishedAt": "2026-11-07T12:00:00.000Z",
       "likes": {
         "count": 7,
-        "observedAt": "2026-11-22T17:15:54.046Z",
+        "observedAt": "2026-11-25T08:55:07.420Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15K4i6FEXu",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -53549,12 +53549,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-05T11:06:12.000Z",
       "likes": {
-        "count": 22,
-        "observedAt": "2026-11-22T17:15:54.042Z",
+        "count": 23,
+        "observedAt": "2026-11-25T08:55:07.430Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Dn4b6vEB7",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -53625,11 +53625,11 @@
       "publishedAt": "2026-11-09T14:46:19.000Z",
       "likes": {
         "count": 5,
-        "observedAt": "2026-11-22T17:15:54.048Z",
+        "observedAt": "2026-11-25T08:55:07.437Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ebW86MENv",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -53679,11 +53679,11 @@
       "publishedAt": "2026-09-27T16:29:16.000Z",
       "likes": {
         "count": 19,
-        "observedAt": "2026-11-22T17:15:54.046Z",
+        "observedAt": "2026-11-25T08:55:07.424Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SYae6hEt6",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       },
@@ -54655,11 +54655,11 @@
       "durationSeconds": 27,
       "likes": {
         "count": 1,
-        "observedAt": "2026-11-22T17:14:47.782Z",
+        "observedAt": "2026-11-25T08:55:07.887Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13as16LETG",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       }
@@ -54709,11 +54709,11 @@
       "durationSeconds": 36,
       "likes": {
         "count": 11,
-        "observedAt": "2026-11-22T17:14:47.813Z",
+        "observedAt": "2026-11-25T08:55:07.905Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1EV4c6qEWp",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       }
@@ -54768,12 +54768,12 @@
       "publishedAt": "2026-11-07T06:58:31.000Z",
       "durationSeconds": 226,
       "likes": {
-        "count": 88,
-        "observedAt": "2026-11-22T17:14:47.796Z",
+        "count": 92,
+        "observedAt": "2026-11-25T08:55:07.894Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ub4J6uEnM",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       }
@@ -54833,12 +54833,12 @@
       "publishedAt": "2026-10-29T12:58:30.000Z",
       "durationSeconds": 43,
       "likes": {
-        "count": 286,
-        "observedAt": "2026-11-22T17:14:47.817Z",
+        "count": 299,
+        "observedAt": "2026-11-25T08:55:07.883Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Bgxw6eEcK",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       }
@@ -54887,12 +54887,12 @@
       "publishedAt": "2026-11-12T14:56:49.000Z",
       "durationSeconds": 172,
       "likes": {
-        "count": 48,
-        "observedAt": "2026-11-22T17:14:48.265Z",
+        "count": 51,
+        "observedAt": "2026-11-25T08:55:07.921Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1deWo6UEvq",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       }
@@ -54942,11 +54942,11 @@
       "durationSeconds": 23,
       "likes": {
         "count": 36,
-        "observedAt": "2026-11-22T17:14:48.233Z",
+        "observedAt": "2026-11-25T08:55:08.396Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zRsR6nEoT",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       }
@@ -55103,12 +55103,12 @@
       "publishedAt": "2026-11-18T16:07:55.000Z",
       "durationSeconds": 65,
       "likes": {
-        "count": 94,
-        "observedAt": "2026-11-22T17:14:48.255Z",
+        "count": 100,
+        "observedAt": "2026-11-25T08:55:08.347Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1npsQ61EDH",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       }
@@ -55223,12 +55223,12 @@
       "publishedAt": "2026-11-05T12:30:00.000Z",
       "durationSeconds": 251,
       "likes": {
-        "count": 7,
-        "observedAt": "2026-11-22T17:14:49.126Z",
+        "count": 8,
+        "observedAt": "2026-11-25T08:55:08.368Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV114xR6YEHP",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       }
@@ -55284,11 +55284,11 @@
       "durationSeconds": 215,
       "likes": {
         "count": 5,
-        "observedAt": "2026-11-22T17:14:49.125Z",
+        "observedAt": "2026-11-25T08:55:08.386Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1uNxd6BEP7",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       }
@@ -55358,12 +55358,12 @@
       "publishedAt": "2026-10-23T09:00:00.000Z",
       "durationSeconds": 199,
       "likes": {
-        "count": 48419,
-        "observedAt": "2026-11-22T17:14:49.121Z",
+        "count": 48564,
+        "observedAt": "2026-11-25T08:55:08.387Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZcnH6CE7T",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       }
@@ -55413,11 +55413,11 @@
       "durationSeconds": 74,
       "likes": {
         "count": 31,
-        "observedAt": "2026-11-22T17:14:49.045Z",
+        "observedAt": "2026-11-25T08:55:08.809Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1174p6VERq",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       }
@@ -55466,12 +55466,12 @@
       "publishedAt": "2026-10-29T02:44:50.000Z",
       "durationSeconds": 23,
       "likes": {
-        "count": 14,
-        "observedAt": "2026-11-22T17:14:49.685Z",
+        "count": 16,
+        "observedAt": "2026-11-25T08:55:08.828Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ocsd6jErX",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       }
@@ -55526,12 +55526,12 @@
       "publishedAt": "2026-10-11T11:46:52.000Z",
       "durationSeconds": 23,
       "likes": {
-        "count": 1540,
-        "observedAt": "2026-11-22T17:14:49.685Z",
+        "count": 1547,
+        "observedAt": "2026-11-25T08:55:08.845Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1n2p765ELc",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       }
@@ -55765,12 +55765,12 @@
       "publishedAt": "2026-09-23T05:45:23.000Z",
       "durationSeconds": 145,
       "likes": {
-        "count": 478,
-        "observedAt": "2026-11-22T17:14:50.123Z",
+        "count": 479,
+        "observedAt": "2026-11-25T08:55:09.326Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19Jhx6VE8A",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       }
@@ -55825,12 +55825,12 @@
       "publishedAt": "2026-10-06T08:00:00.000Z",
       "durationSeconds": 128,
       "likes": {
-        "count": 22318,
-        "observedAt": "2026-11-22T17:14:50.133Z",
+        "count": 22503,
+        "observedAt": "2026-11-25T08:55:09.277Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1empF6SEc6",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       }
@@ -55880,11 +55880,11 @@
       "durationSeconds": 48,
       "likes": {
         "count": 3,
-        "observedAt": "2026-11-22T17:14:50.148Z",
+        "observedAt": "2026-11-25T08:55:09.275Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wNnU6oEwa",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       }
@@ -55944,12 +55944,12 @@
       "publishedAt": "2026-09-12T10:00:00.000Z",
       "durationSeconds": 10,
       "likes": {
-        "count": 547,
-        "observedAt": "2026-11-22T17:14:50.143Z",
+        "count": 548,
+        "observedAt": "2026-11-25T08:55:09.296Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZeYD6oEbD",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       }
@@ -56009,12 +56009,12 @@
       "publishedAt": "2026-10-30T08:00:00.000Z",
       "durationSeconds": 225,
       "likes": {
-        "count": 43743,
-        "observedAt": "2026-11-22T17:16:49.661Z",
+        "count": 45313,
+        "observedAt": "2026-11-25T08:55:09.305Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1uyxc6pEVB",
         "evidence": {
-          "path": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
-          "sha256": "ba8a816f57319b41664ce28ca78afed69f813f137b0a8b45322bfa9d2ae563bd",
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
           "kind": "browser-metadata-extract"
         }
       }
@@ -58112,7 +58112,13 @@
       "publicationDateBasis": "bilibili-pubdate",
       "usage": "source-only",
       "downloadable": false,
-      "relations": [],
+      "relations": [
+        {
+          "role": "original-song",
+          "title": "米津玄師 · Kenshi Yonezu · LOSER",
+          "url": "https://reissuerecords.net/discography/loser-%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%8A%E3%82%A4%E3%83%B3/"
+        }
+      ],
       "verification": {
         "result": "metadata-verified",
         "method": "isolated-headless-google-chrome",
@@ -58226,7 +58232,13 @@
       "publicationDateBasis": "bilibili-pubdate",
       "usage": "source-only",
       "downloadable": false,
-      "relations": [],
+      "relations": [
+        {
+          "role": "original-song",
+          "title": "叶炫清 · Ye Xuanqing · 九张机",
+          "url": "https://music.apple.com/us/song/1590657599"
+        }
+      ],
       "verification": {
         "result": "metadata-verified",
         "method": "isolated-headless-google-chrome",
@@ -58266,9 +58278,9 @@
       "url": "https://www.bilibili.com/video/BV1XL1AzZERs/",
       "publisher": "肥嘟嘟的鱼胆",
       "summary": {
-        "zh": "肥嘟嘟的鱼胆发布的翻唱。",
-        "en": "A cover uploaded by 肥嘟嘟的鱼胆.",
-        "ja": "肥嘟嘟的鱼胆 が公開したカバー。"
+        "zh": "日语 ACG 翻唱，标题和标签与 AIR 的《鳥の詩》吻合；具体伴奏或录音版本未注明。",
+        "en": "Japanese ACG cover whose title and tags match AIR’s Tori no Uta; the specific backing track or recording is not identified.",
+        "ja": "日本語の ACG カバー。題名とタグは AIR の「鳥の詩」と一致し、具体的な伴奏や録音版は未記載。"
       },
       "rights": {
         "zh": "提供原投稿链接，角色、音乐、视频的复用条件逐项依原作者说明。",
@@ -58280,7 +58292,13 @@
       "publicationDateBasis": "bilibili-pubdate",
       "usage": "source-only",
       "downloadable": false,
-      "relations": [],
+      "relations": [
+        {
+          "role": "original-song",
+          "title": "Lia · AIR · 鸟之诗",
+          "url": "https://key.visualarts.gr.jp/product/air/qa/"
+        }
+      ],
       "verification": {
         "result": "metadata-verified",
         "method": "isolated-headless-google-chrome",
@@ -59756,6 +59774,1280 @@
       "addedAt": "2026-11-25",
       "publicationDate": "2026-08-06",
       "publicationDateBasis": "visible-page-date"
+    },
+    {
+      "id": "bv1p24q6dexx",
+      "category": "animation",
+      "title": {
+        "zh": "DeepSeek 的 L.O.V.E · Stronger Than You",
+        "en": "DeepSeek’s L.O.V.E · Stronger Than You",
+        "ja": "DeepSeek の L.O.V.E · Stronger Than You"
+      },
+      "url": "https://www.bilibili.com/video/BV1P24q6DExx/",
+      "publisher": "水请洗干净",
+      "summary": {
+        "zh": "水请洗干净的原投稿，被另一部 Claude 版二创明确引用。",
+        "en": "Original upload by 水请洗干净, explicitly cited by a later Claude adaptation.",
+        "ja": "水请洗干净 の原投稿。後発の Claude 版二次創作が明示的に参照。"
+      },
+      "rights": {
+        "zh": "提供原投稿链接，角色、音乐和视频的复用条件逐件依原作者说明。",
+        "en": "Links to the original upload. Reuse of the character, music and video follows the terms of each original creator.",
+        "ja": "原投稿へリンク。キャラクター・音楽・動画の再利用は各作者の条件による。"
+      },
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-06",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "relations": [
+        {
+          "role": "original-song",
+          "title": "Steven Universe · Estelle · Stronger Than You",
+          "url": "https://music.apple.com/us/song/1511215621"
+        },
+        {
+          "role": "citing-fan-work",
+          "title": "Claude · Stronger Than You",
+          "url": "https://www.bilibili.com/video/BV1cQ1FzqE2i/"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:55:52.394Z",
+        "httpStatus": 200,
+        "scope": "Official video identity, upload timestamp, description and cumulative likes observed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1p24q6dexx.json",
+        "sha256": "8a2bb073518ad3634c4b38f5012cf018dbf65b9b1e0c3765d98fe5c9e34e7f23",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1P24q6DExx",
+      "subtype": "mv",
+      "sourceTitle": "DeepSeek的L.O.V.E | Stronger than you :)",
+      "publishedAt": "2026-11-06T10:29:36.000Z",
+      "durationSeconds": 168,
+      "likes": {
+        "count": 15106,
+        "observedAt": "2026-11-25T08:55:52.394Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1P24q6DExx",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1brtc63eyw",
+      "category": "animation",
+      "title": {
+        "zh": "蓝色大肥鱼是怎么来的？",
+        "en": "Where Did the Blue Fat Fish Come From?",
+        "ja": "青い大きな魚はどこから来た？"
+      },
+      "url": "https://www.bilibili.com/video/BV1Brtc63EyW/",
+      "publisher": "天宇董事长",
+      "summary": {
+        "zh": "早期鲸鱼娘来源介绍，现已补核原 BV 的累计点赞。",
+        "en": "Early overview of the whale girl’s origins, now with official cumulative likes.",
+        "ja": "初期のクジラ娘の由来紹介。元 BV の累計いいねを補足確認。"
+      },
+      "rights": {
+        "zh": "提供原投稿链接，角色、音乐和视频的复用条件逐件依原作者说明。",
+        "en": "Links to the original upload. Reuse of the character, music and video follows the terms of each original creator.",
+        "ja": "原投稿へリンク。キャラクター・音楽・動画の再利用は各作者の条件による。"
+      },
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-08-28",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "relations": [
+        {
+          "role": "original-character",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "role": "creator-usage-statement",
+          "title": "ZipZipPipe · 素材来源与使用声明",
+          "url": "https://t.bilibili.com/1231980045693616162"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:55:52.394Z",
+        "httpStatus": 200,
+        "scope": "Official video identity, upload timestamp, description and cumulative likes observed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1brtc63eyw.json",
+        "sha256": "46bfd2152e857389778b82d21cd59e79052a19a1c4be7ee5a45ec1e8a5fdc2c4",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1Brtc63EyW",
+      "subtype": "commentary",
+      "sourceTitle": "蓝色大肥鱼是怎么来的？",
+      "publishedAt": "2026-08-28T06:34:52.000Z",
+      "durationSeconds": 84,
+      "likes": {
+        "count": 47633,
+        "observedAt": "2026-11-25T08:55:52.394Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Brtc63EyW",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1pgt36veeg",
+      "category": "animation",
+      "title": {
+        "zh": "你怎么知道我钓到了蓝色大肥鱼？",
+        "en": "How Did You Know I Caught the Blue Fat Fish?",
+        "ja": "青い大きな魚を釣ったって、どうして分かったの？"
+      },
+      "url": "https://www.bilibili.com/video/BV1Pgt36VEeg/",
+      "publisher": "ZipZipPipe",
+      "summary": {
+        "zh": "ZipZipPipe 原投稿，说明中明确引用上善无形的鲸鱼娘原型。",
+        "en": "ZipZipPipe’s original upload, explicitly crediting 上善无形’s original whale girl.",
+        "ja": "ZipZipPipe の原投稿。上善无形 のクジラ娘原型を明記。"
+      },
+      "rights": {
+        "zh": "作者明确注明鲸鱼娘衍生形象依 CC BY-NC-SA 4.0 使用；视频和其他作品条件另查。",
+        "en": "The uploader states CC BY-NC-SA 4.0 for the derivative whale-girl design. Video and other works have separate terms.",
+        "ja": "作者は派生クジラ娘デザインに CC BY-NC-SA 4.0 を明記。動画と他の作品の条件は別途確認。"
+      },
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-09-01",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "relations": [
+        {
+          "role": "original-character",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "role": "credited-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "creator-usage-statement",
+          "title": "ZipZipPipe · 素材来源与使用声明",
+          "url": "https://t.bilibili.com/1231980045693616162"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:55:52.497Z",
+        "httpStatus": 200,
+        "scope": "Official video identity, upload timestamp, description and cumulative likes observed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1pgt36veeg.json",
+        "sha256": "7109dcd767fe6e8736f32de2d7f4339dd0daf56566db11bb0c8d0b7c12ef8665",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1Pgt36VEeg",
+      "subtype": "story",
+      "sourceTitle": "你怎么知道我钓到了蓝色大肥鱼？",
+      "publishedAt": "2026-09-01T10:08:25.000Z",
+      "durationSeconds": 24,
+      "likes": {
+        "count": 11158,
+        "observedAt": "2026-11-25T08:55:52.497Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Pgt36VEeg",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv14phk66ejw",
+      "category": "animation",
+      "title": {
+        "zh": "各 AI 娘形象盘点",
+        "en": "AI-Girl Character Design Overview",
+        "ja": "各 AI 娘のキャラクターデザイン一覧"
+      },
+      "url": "https://www.bilibili.com/video/BV14phK66Ejw/",
+      "publisher": "想看故事的lazy",
+      "summary": {
+        "zh": "整理社区角色形象，上传者注明图像来自 ZipZipPipe，并另列 AI 描述参考。",
+        "en": "Community design overview. The uploader credits ZipZipPipe’s artwork and separately cites a description reference.",
+        "ja": "コミュニティのデザイン一覧。投稿者は ZipZipPipe の画像と別の説明資料を明記。"
+      },
+      "rights": {
+        "zh": "提供原投稿链接，角色、音乐和视频的复用条件逐件依原作者说明。",
+        "en": "Links to the original upload. Reuse of the character, music and video follows the terms of each original creator.",
+        "ja": "原投稿へリンク。キャラクター・音楽・動画の再利用は各作者の条件による。"
+      },
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-08-24",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "relations": [
+        {
+          "role": "credited-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "description-reference",
+          "title": "BV1Ey8B6QECx",
+          "url": "https://www.bilibili.com/video/BV1Ey8B6QECx/"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:55:52.497Z",
+        "httpStatus": 200,
+        "scope": "Official video identity, upload timestamp, description and cumulative likes observed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv14phk66ejw.json",
+        "sha256": "1cfc87fa5cbb79d6eac0405956a642a0f43a6d1926d87d7a6b2803fb00a043e1",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV14phK66Ejw",
+      "subtype": "commentary",
+      "sourceTitle": "各AI娘形象盘点",
+      "publishedAt": "2026-08-24T14:42:45.000Z",
+      "durationSeconds": 45,
+      "likes": {
+        "count": 20997,
+        "observedAt": "2026-11-25T08:55:52.497Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV14phK66Ejw",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv12yeu6keut",
+      "category": "animation",
+      "title": {
+        "zh": "让你别找千问外包，没让你找克劳德啊！",
+        "en": "No Outsourcing to Qwen—Why Did You Ask Claude?",
+        "ja": "千問への外注を止めたら Claude に頼んだの？"
+      },
+      "url": "https://www.bilibili.com/video/BV12yeU6KEUt/",
+      "publisher": "阳光爬行者SunCreeper",
+      "summary": {
+        "zh": "虚构 AI 娘剧情，作者注明角色参考 ZipZipPipe，配乐为 The Other Side of Paradise。",
+        "en": "Fictional AI-girl story; the uploader credits ZipZipPipe and names The Other Side of Paradise as background music.",
+        "ja": "架空の AI 娘の物語。ZipZipPipe のキャラクターと BGM の The Other Side of Paradise を明記。"
+      },
+      "rights": {
+        "zh": "提供原投稿链接，角色、音乐和视频的复用条件逐件依原作者说明。",
+        "en": "Links to the original upload. Reuse of the character, music and video follows the terms of each original creator.",
+        "ja": "原投稿へリンク。キャラクター・音楽・動画の再利用は各作者の条件による。"
+      },
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-09-19",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "relations": [
+        {
+          "role": "credited-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "credited-background-music",
+          "title": "Glass Animals · The Other Side of Paradise",
+          "url": "https://music.apple.com/us/song/1440840442"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:55:53.531Z",
+        "httpStatus": 200,
+        "scope": "Official video identity, upload timestamp, description and cumulative likes observed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv12yeu6keut.json",
+        "sha256": "6461d9d4f4791619136f3284d836baf1e95d6dce0f58b2d45f16bde3ae66e4a8",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV12yeU6KEUt",
+      "subtype": "story",
+      "sourceTitle": "让你别找千问外包，没让你找克劳德啊！",
+      "publishedAt": "2026-09-18T16:13:24.000Z",
+      "durationSeconds": 87,
+      "likes": {
+        "count": 38427,
+        "observedAt": "2026-11-25T08:55:53.531Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12yeU6KEUt",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1v8nc6petf",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼超帅的启动动画",
+        "en": "Fat Fish Startup Animation",
+        "ja": "大きな魚の起動アニメーション"
+      },
+      "url": "https://www.bilibili.com/video/BV1v8nC6PEtF/",
+      "publisher": "啥都不懂的云玩家",
+      "summary": {
+        "zh": "作者介绍通过指令制作的鲸鱼娘启动动画。",
+        "en": "The uploader describes making a whale-girl startup animation using a prompt.",
+        "ja": "投稿者がプロンプトで制作したクジラ娘の起動アニメ。"
+      },
+      "rights": {
+        "zh": "提供原投稿链接，角色、音乐和视频的复用条件逐件依原作者说明。",
+        "en": "Links to the original upload. Reuse of the character, music and video follows the terms of each original creator.",
+        "ja": "原投稿へリンク。キャラクター・音楽・動画の再利用は各作者の条件による。"
+      },
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-22",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "relations": [],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:55:53.541Z",
+        "httpStatus": 200,
+        "scope": "Official video identity, upload timestamp, description and cumulative likes observed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1v8nc6petf.json",
+        "sha256": "62d1c26efe3168fcb56250e810e3199b23bdfd92e49fd4d7a16fea742b465cc0",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1v8nC6PEtF",
+      "subtype": "story",
+      "sourceTitle": "大肥鱼超帅的启动动画~",
+      "publishedAt": "2026-10-22T02:56:44.000Z",
+      "durationSeconds": 52,
+      "likes": {
+        "count": 2,
+        "observedAt": "2026-11-25T08:55:53.541Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1v8nC6PEtF",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1rrhp6qeny",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼第一次当 UP 主",
+        "en": "Fat Fish’s First Upload",
+        "ja": "大きな魚の初投稿"
+      },
+      "url": "https://www.bilibili.com/video/BV1rRHP6qEny/",
+      "publisher": "AAA_白饭批发大肥鱼",
+      "summary": {
+        "zh": "鲸鱼娘桌宠的 Live2D 自我介绍，作者注明模型、原角色、二次设计及插件来源。",
+        "en": "Live2D whale desktop companion introduction with explicit credits for model, character, derivative design and plugin.",
+        "ja": "Live2D クジラ娘の自己紹介。モデル・原型・二次デザイン・プラグインの出典を明記。"
+      },
+      "rights": {
+        "zh": "提供原投稿链接，角色、音乐和视频的复用条件逐件依原作者说明。",
+        "en": "Links to the original upload. Reuse of the character, music and video follows the terms of each original creator.",
+        "ja": "原投稿へリンク。キャラクター・音楽・動画の再利用は各作者の条件による。"
+      },
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-24",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "relations": [
+        {
+          "role": "original-character",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "role": "credited-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "credited-desktop-plugin",
+          "title": "Andersen216 · Whale Girl Live2D",
+          "url": "https://github.com/Andersen216/dsh-whale-girl-live2d/blob/f977bef508690e75ba6535cd8f4ce18e7f6ba9b0/README.md"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:55:53.523Z",
+        "httpStatus": 200,
+        "scope": "Official video identity, upload timestamp, description and cumulative likes observed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1rrhp6qeny.json",
+        "sha256": "d36cc536b9a73df01aa059ca20dfd339fb0d13d37791c3d208dc7d06dd2f8264",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1rRHP6qEny",
+      "subtype": "story",
+      "sourceTitle": "大肥鱼第一次当UP主！以后请多指教",
+      "publishedAt": "2026-10-24T07:17:39.000Z",
+      "durationSeconds": 36,
+      "likes": {
+        "count": 89,
+        "observedAt": "2026-11-25T08:55:53.523Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1rRHP6qEny",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv12w8c6rer3",
+      "category": "animation",
+      "title": {
+        "zh": "没钱充 Token 养大肥鱼了",
+        "en": "When There Is No Money for Fat Fish’s Tokens",
+        "ja": "大きな魚のトークン代がないとき"
+      },
+      "url": "https://www.bilibili.com/video/BV12w8c6REr3/",
+      "publisher": "夜夜小夜夜",
+      "summary": {
+        "zh": "作者注明鲸鱼娘与 GPT 娘的形象来自 ZipZipPipe。",
+        "en": "Uploader credits ZipZipPipe for the whale girl and GPT girl designs.",
+        "ja": "投稿者はクジラ娘と GPT 娘のデザインを ZipZipPipe と記載。"
+      },
+      "rights": {
+        "zh": "提供原投稿链接，角色、音乐和视频的复用条件逐件依原作者说明。",
+        "en": "Links to the original upload. Reuse of the character, music and video follows the terms of each original creator.",
+        "ja": "原投稿へリンク。キャラクター・音楽・動画の再利用は各作者の条件による。"
+      },
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-08-20",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "relations": [
+        {
+          "role": "credited-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:55:53.533Z",
+        "httpStatus": 200,
+        "scope": "Official video identity, upload timestamp, description and cumulative likes observed."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv12w8c6rer3.json",
+        "sha256": "3c7dadabd7bc7e338bd9cbb4fd1600d4191aa701a44568cf269fe4a0aea72aef",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV12w8c6REr3",
+      "subtype": "story",
+      "sourceTitle": "跟大肥鱼说没钱充token养她了，她会怎么做",
+      "publishedAt": "2026-08-20T05:04:56.000Z",
+      "durationSeconds": 33,
+      "likes": {
+        "count": 2163,
+        "observedAt": "2026-11-25T08:55:53.533Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12w8c6REr3",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+          "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "yongchun-dj-vocal-reference",
+      "category": "sources",
+      "title": {
+        "zh": "东洋雪莲 · 咏春 DJ 改编出处",
+        "en": "Dongyang Xuelian · Ode to Spring DJ Reference",
+        "ja": "東洋雪蓮 · 詠春 DJ 版の参照元"
+      },
+      "url": "https://www.bilibili.com/video/BV1j3ZKBpE3e/",
+      "publisher": "东洋雪莲",
+      "summary": {
+        "zh": "大肥鱼翻唱明确引用的 AI 人声改编。作为音乐来源保留，不计入 AI 萌化视频榜。",
+        "en": "AI voice adaptation explicitly cited by the Fat Fish cover. Indexed as a music reference outside the AI-personification video ranking.",
+        "ja": "大きな魚のカバーが引用した AI 音声アレンジ。楽曲出典として掲載し、AI 擬人化動画ランキングには含めない。"
+      },
+      "rights": {
+        "zh": "提供原投稿链接，角色、音乐和视频的复用条件逐件依原作者说明。",
+        "en": "Links to the original upload. Reuse of the character, music and video follows the terms of each original creator.",
+        "ja": "原投稿へリンク。キャラクター・音楽・動画の再利用は各作者の条件による。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/yongchun-ai-voice-reference.json",
+        "sha256": "0f760c627f5dc4b1c14d0be880f302160ef4d85ba93ce0b236943d23ce3dbc7c",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:55:52.779Z",
+        "httpStatus": 200,
+        "scope": "Official original BV metadata and cumulative likes checked; indexed as a music reference only."
+      },
+      "relations": [
+        {
+          "role": "original-song",
+          "title": "七朵组合 · 咏春",
+          "url": "https://music.apple.com/us/album/%E5%92%8F%E6%98%A5-single/1882824771"
+        },
+        {
+          "role": "citing-fan-work",
+          "title": "大肥鱼 · 咏春 DJ",
+          "url": "https://www.bilibili.com/video/BV1J7yzzgEjG/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-02-16",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "mx1951-deepseek-submission",
+      "category": "sources",
+      "title": {
+        "zh": "MX1951 · 一些肥鱼（13 张）",
+        "en": "MX1951 · Whale Girl Collection (13 images)",
+        "ja": "MX1951 · クジラ娘作品集（13枚）"
+      },
+      "url": "https://github.com/lmy414/ai-girl-stickers/issues/7",
+      "publisher": "MX1951",
+      "summary": {
+        "zh": "原作者投稿 13 张，含水手服、休闲服、连体鲸鱼睡衣、女仆与场景插画；全部匹配固定档案中的原文件。",
+        "en": "Thirteen creator-submitted images including sailor uniform, casual clothes, whale onesie, maid dress and scene illustrations. Every attachment matches the pinned archive.",
+        "ja": "作者投稿13枚。セーラー服・私服・クジラの着ぐるみ・メイド服・場面絵。全添付画像が固定アーカイブと一致。"
+      },
+      "rights": {
+        "zh": "MX1951 在本组投稿选择 CC0。蓝色鲸鱼女仆包含既有社区形象特征，其上游设计权利仍需追溯；本组暂仅提供原作链接。",
+        "en": "MX1951 selects CC0 for the submission. The blue whale-maid design has familiar community features; underlying design rights await tracing. This series remains link-only.",
+        "ja": "MX1951 は投稿に CC0 を指定。青いクジラメイドには既存コミュニティの特徴があり、原型デザインの権利は追跡中。このシリーズはリンク掲載のみ。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/mx1951-issue-7-attachments-and-terms.json",
+        "sha256": "288acf9cdb8067c75d3b547ea2db3e0ef661dd08e5a6a87337b3089411501a59",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:59:16.228Z",
+        "httpStatus": 200,
+        "scope": "Creator declaration and all attached original Git blob hashes matched the pinned archive."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "MX1951",
+          "url": "https://github.com/MX1951"
+        },
+        {
+          "role": "rights-deed",
+          "title": "CC0 1.0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 1",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/deepseek/issue-07-001.png"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 2",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/deepseek/issue-07-002.png"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 3",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/deepseek/issue-07-003.png"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 4",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/deepseek/issue-07-004.png"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 5",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/deepseek/issue-07-005.png"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 6",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/deepseek/issue-07-006.png"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 7",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/deepseek/issue-07-007.png"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 8",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/deepseek/issue-07-008.png"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 9",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/deepseek/issue-07-009.png"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 10",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/deepseek/issue-07-010.png"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 11",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/deepseek/issue-07-011.png"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 12",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/deepseek/issue-07-012.png"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 13",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/deepseek/issue-07-013.png"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-09-20",
+      "publicationDateBasis": "github-issue-created"
+    },
+    {
+      "id": "mx1951-claude-submission",
+      "category": "sources",
+      "title": {
+        "zh": "MX1951 · 原生家庭有些不好的 Claude（7 张）",
+        "en": "MX1951 · Claude Illustration Series (7 images)",
+        "ja": "MX1951 · Claude イラストシリーズ（7枚）"
+      },
+      "url": "https://github.com/lmy414/ai-girl-stickers/issues/8",
+      "publisher": "MX1951",
+      "summary": {
+        "zh": "原作者投稿 7 张黑色双马尾黄色礼裙形象；全部匹配固定档案，第 7 张白底单人立绘已单独整理。",
+        "en": "Seven creator-submitted images of a dark twin-tailed girl in a yellow dress; all match the pinned archive. The seventh, a white-background standalone portrait, has been packaged separately.",
+        "ja": "黒髪ツインテールと黄色のドレスの作者投稿7枚。全点が固定アーカイブと一致。7枚目の白背景単独立ち絵を個別整理。"
+      },
+      "rights": {
+        "zh": "MX1951 在第 8 号投稿中声明作品为自行创作或生成，并逐组标为 CC0。此素材包仅含第 7 张独立白底立绘；保留原 PNG 和作者出处。Claude 等产品名称与标识的权利由相应权利方保留。",
+        "en": "MX1951 identifies the submission as self-created or generated and selects CC0. This pack contains only image seven, the standalone white-background portrait, with original PNG and creator attribution. Product names and marks retain their respective rights.",
+        "ja": "MX1951 は第8号投稿を自作または生成作品とし、CC0 を指定。このパックは7枚目の白背景の単独立ち絵のみを収録し、元PNGと出典を保持。製品名と標章の権利は各権利者に帰属します。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/mx1951-issue-8-attachments-and-terms.json",
+        "sha256": "c36b00349698db4f00d734b78126404682a08d26d5f74664c5824452da14268f",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:59:41.866Z",
+        "httpStatus": 200,
+        "scope": "Creator declaration and all attached original Git blob hashes matched the pinned archive."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "MX1951",
+          "url": "https://github.com/MX1951"
+        },
+        {
+          "role": "rights-deed",
+          "title": "CC0 1.0",
+          "url": "https://creativecommons.org/publicdomain/zero/1.0/"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 1",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/claude/issue-08-001.png"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 2",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/claude/issue-08-002.png"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 3",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/claude/issue-08-003.png"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 4",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/claude/issue-08-004.png"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 5",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/claude/issue-08-005.png"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 6",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/claude/issue-08-006.png"
+        },
+        {
+          "role": "pinned-archive-image",
+          "title": "MX1951 · 7",
+          "url": "https://github.com/lmy414/ai-girl-stickers/blob/a63fc3d9536dfc46b7941d61b14efcdf8adddc20/dist/submissions/originals/claude/issue-08-007.png"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-09-20",
+      "publicationDateBasis": "github-issue-created"
+    },
+    {
+      "id": "fornarwhal-whale-girl-icon",
+      "category": "sources",
+      "title": {
+        "zh": "鲸鱼娘图标 · fornarwhal 与 QYQCAMIAO",
+        "en": "Whale Girl Icon · fornarwhal & QYQCAMIAO",
+        "ja": "クジラ娘アイコン · fornarwhal と QYQCAMIAO"
+      },
+      "url": "https://github.com/fornarwhal/deepseek-whale-girl-icon/blob/bc2ac790e6f6a0cbc88879c56383b6f08ed3ef83/README.md",
+      "publisher": "fornarwhal",
+      "summary": {
+        "zh": "快捷方式多尺寸 ICO、透明底图和两个修复版。已核对固定版本原图、修复图和图标的哈希。",
+        "en": "Multi-size shortcut ICO, transparent image and two retouched variants. Original, retouched images and icon hashes verified.",
+        "ja": "複数サイズの ICO、透明背景画像、修復版2点。固定版の原画・修復画像・アイコンをハッシュ照合。"
+      },
+      "rights": {
+        "zh": "README 将图标标为 CC BY-NC-SA 4.0，并列出上善无形、ZipZipPipe、QYQCAMIAO，也注明网络原图的具体作者尚未确认。保留出处，暂不镜像。",
+        "en": "The README lists CC BY-NC-SA 4.0 and credits 上善无形, ZipZipPipe and QYQCAMIAO, while noting uncertainty about the circulated original image. Source links retained; artwork not mirrored.",
+        "ja": "README は CC BY-NC-SA 4.0 と上善无形・ZipZipPipe・QYQCAMIAO を記載する一方、流通原画の具体的作者は未確認と明記。出典のみ掲載。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/fornarwhal-whale-icon-originals.json",
+        "sha256": "f20991786f44ed3bacdb7b37eb4287b01d02bbd14be6f794a35bb0238b6c6948",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T09:00:14.286Z",
+        "httpStatus": 200,
+        "scope": "Pinned README, license and five image/icon files checked."
+      },
+      "relations": [
+        {
+          "role": "original-character",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "role": "credited-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "pinned-source-file",
+          "title": "LICENSE",
+          "url": "https://github.com/fornarwhal/deepseek-whale-girl-icon/blob/bc2ac790e6f6a0cbc88879c56383b6f08ed3ef83/LICENSE"
+        },
+        {
+          "role": "pinned-source-file",
+          "title": "original-whale-girl.jpg",
+          "url": "https://github.com/fornarwhal/deepseek-whale-girl-icon/blob/bc2ac790e6f6a0cbc88879c56383b6f08ed3ef83/original-whale-girl.jpg"
+        },
+        {
+          "role": "pinned-source-file",
+          "title": "improved-1.png",
+          "url": "https://github.com/fornarwhal/deepseek-whale-girl-icon/blob/bc2ac790e6f6a0cbc88879c56383b6f08ed3ef83/improved-1.png"
+        },
+        {
+          "role": "pinned-source-file",
+          "title": "improved-2.png",
+          "url": "https://github.com/fornarwhal/deepseek-whale-girl-icon/blob/bc2ac790e6f6a0cbc88879c56383b6f08ed3ef83/improved-2.png"
+        },
+        {
+          "role": "pinned-source-file",
+          "title": "whale-girl-transparent.png",
+          "url": "https://github.com/fornarwhal/deepseek-whale-girl-icon/blob/bc2ac790e6f6a0cbc88879c56383b6f08ed3ef83/whale-girl-transparent.png"
+        },
+        {
+          "role": "pinned-source-file",
+          "title": "DeepSeekHarness-WhaleGirl.ico",
+          "url": "https://github.com/fornarwhal/deepseek-whale-girl-icon/blob/bc2ac790e6f6a0cbc88879c56383b6f08ed3ef83/DeepSeekHarness-WhaleGirl.ico"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "publicationDateBasis": null
+    },
+    {
+      "id": "dmm-whale-rice-pet",
+      "category": "interactive",
+      "title": {
+        "zh": "鲸鱼娘吃白饭 · DSH 桌宠插件",
+        "en": "Whale Girl Rice Pet · DSH Plugin",
+        "ja": "クジラ娘の白ごはん · DSH ペット"
+      },
+      "url": "https://github.com/DMM-331/dsh-rice-pet/blob/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/README.md",
+      "publisher": "DMM-331",
+      "summary": {
+        "zh": "随模型生成吃饭，工具调用时记笔记，完成对话可下海捞宝。固定版本包含参考图、运行时精灵图与配置。",
+        "en": "Eats rice while the model generates, takes notes during tools, and collects sea treasures after conversations. Pinned reference and runtime sprite files checked.",
+        "ja": "生成中にごはんを食べ、ツール実行中にメモ、会話後に海で宝探し。固定版の参考画像と実行用スプライトを照合。"
+      },
+      "rights": {
+        "zh": "代码 MIT，生成派生精灵图声明 CC BY-NC-SA 4.0。来源说明追溯上善无形、ZipZipPipe 和 QYQCAMIAO；原始网络图片作者仍待核。",
+        "en": "MIT code and generated sprites declared CC BY-NC-SA 4.0. Notice traces 上善无形, ZipZipPipe and QYQCAMIAO; exact source image authorship remains unresolved.",
+        "ja": "コード MIT、生成派生スプライトは CC BY-NC-SA 4.0 と記載。上善无形・ZipZipPipe・QYQCAMIAO を出典とするが、流通原画の作者は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/dmm-whale-rice-pet.json",
+        "sha256": "6ef16aaac75f0411955f20eb21b5e17832a7bef222d8336334f4e37799aac3cf",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:57:45.278Z",
+        "httpStatus": 200,
+        "scope": "Pinned README and license documents verified against Git blob and SHA-256. Feature descriptions are from the project documentation, not runtime tests."
+      },
+      "relations": [
+        {
+          "role": "pinned-documentation",
+          "title": "LICENSE",
+          "url": "https://github.com/DMM-331/dsh-rice-pet/blob/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/LICENSE"
+        },
+        {
+          "role": "pinned-documentation",
+          "title": "NOTICE",
+          "url": "https://github.com/DMM-331/dsh-rice-pet/blob/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/NOTICE"
+        },
+        {
+          "role": "pinned-documentation",
+          "title": "assets/LICENSE-ARTWORK",
+          "url": "https://github.com/DMM-331/dsh-rice-pet/blob/f6149c4134f6e92e1f974fcc688b3c98bd88d17e/assets/LICENSE-ARTWORK"
+        },
+        {
+          "role": "declared-upstream-art",
+          "title": "fornarwhal · Whale Girl Icon",
+          "url": "https://github.com/fornarwhal/deepseek-whale-girl-icon/blob/bc2ac790e6f6a0cbc88879c56383b6f08ed3ef83/README.md"
+        },
+        {
+          "role": "original-character",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "role": "credited-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-20",
+      "publicationDateBasis": "github-repository-created",
+      "usage": "source-only",
+      "downloadable": false
+    },
+    {
+      "id": "casie-gpt-claude-native-pets",
+      "category": "interactive",
+      "title": {
+        "zh": "GPT 娘 & Claude 娘 · Codex 原生桌宠",
+        "en": "GPT & Claude Girls · Codex Native Pets",
+        "ja": "GPT 娘と Claude 娘 · Codex ネイティブペット"
+      },
+      "url": "https://github.com/Casie-Liu/gpt-claude-desktop-pets/blob/8f8d2b49129c79b6c8d9be766859e99bfd78d036/README.md",
+      "publisher": "Casie-Liu",
+      "summary": {
+        "zh": "两套 1536 × 2288 的 v2 动画图集。Claude 形象为橙发持书同人生成派生，设计文档记录 9 组状态与 16 个视线方向。",
+        "en": "Two 1536 × 2288 v2 sprite atlases. The fan-generated orange-haired Claude carries a book, with nine states and sixteen look directions documented.",
+        "ja": "1536 × 2288 の v2 スプライト2種。オレンジ髪で本を持つ Claude は生成派生で、9状態と16視線方向を記録。"
+      },
+      "rights": {
+        "zh": "GPT 目录保留 weit0529 MIT 声明，但图集与当前已收录固定上游哈希不同。Claude 派生素材无独立授权，整个项目不按 MIT 统一认定。",
+        "en": "The GPT directory retains weit0529’s MIT notice, but its atlas differs by hash from the pinned upstream in our catalog. Claude derivative artwork has no independent permission; MIT is not treated as repository-wide artwork permission.",
+        "ja": "GPT フォルダには weit0529 の MIT 声明があるが、図鑑の固定上流版とは画像ハッシュが異なる。Claude 派生素材の独立許可はなく、全作品に MIT を適用しない。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/casie-gpt-claude-native-pets.json",
+        "sha256": "e857c00e84c6bf1d60600a5eefe46a06a4e2b8167af465d9bd91317dce3b9ff7",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:57:46.989Z",
+        "httpStatus": 200,
+        "scope": "Pinned README and license documents verified against Git blob and SHA-256. Feature descriptions are from the project documentation, not runtime tests."
+      },
+      "relations": [
+        {
+          "role": "pinned-documentation",
+          "title": "ATTRIBUTION.md",
+          "url": "https://github.com/Casie-Liu/gpt-claude-desktop-pets/blob/8f8d2b49129c79b6c8d9be766859e99bfd78d036/ATTRIBUTION.md"
+        },
+        {
+          "role": "pinned-documentation",
+          "title": "pets/gpt-niang/LICENSE",
+          "url": "https://github.com/Casie-Liu/gpt-claude-desktop-pets/blob/8f8d2b49129c79b6c8d9be766859e99bfd78d036/pets/gpt-niang/LICENSE"
+        },
+        {
+          "role": "pinned-documentation",
+          "title": "docs/design.md",
+          "url": "https://github.com/Casie-Liu/gpt-claude-desktop-pets/blob/8f8d2b49129c79b6c8d9be766859e99bfd78d036/docs/design.md"
+        },
+        {
+          "role": "declared-upstream",
+          "title": "weit0529 · GPT Pet",
+          "url": "https://github.com/weit0529/gpt-pet/blob/125c3da9a5dc040518e791fc3d75282aa993755f/README.md"
+        },
+        {
+          "role": "credited-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-06",
+      "publicationDateBasis": "github-repository-created",
+      "usage": "source-only",
+      "downloadable": false
+    },
+    {
+      "id": "nayru-whale-balance-pet",
+      "category": "interactive",
+      "title": {
+        "zh": "DeepSeek 余额小鲸鱼 · Windows 桌宠",
+        "en": "DeepSeek Whale Girl Balance Pet · Windows",
+        "ja": "DeepSeek クジラ娘 残高ペット · Windows"
+      },
+      "url": "https://github.com/nayru77mi/deepseek-DesktopPet-Shimeji/blob/a4e28c9222ad9dd50d1db602941243600fa310da/README.md",
+      "publisher": "nayru77mi",
+      "summary": {
+        "zh": "以血条、伤害飘字与摸头互动表现 Token 消耗。项目使用 Electron。",
+        "en": "Electron desktop pet showing token consumption through a health bar, damage indicators and petting interactions.",
+        "ja": "Electron 製のデスクトップペット。HP バー・ダメージ表示・なでる動作でトークン消費を表現。"
+      },
+      "rights": {
+        "zh": "项目说明 MIT；未发现鲸鱼娘精灵图的逐件作者或再分发声明。只提供原项目链接。",
+        "en": "The README states MIT. Artwork-specific author and redistribution terms for the sprite images were not identified. Links to the original project only.",
+        "ja": "README は MIT。スプライトの画像別作者・再配布条件は未確認。原プロジェクトへのリンクのみ。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/nayru-whale-balance-pet.json",
+        "sha256": "83381467ab467ae4ca3719cdf456e5d18694263a178e748dbab1f9143c726297",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:57:48.318Z",
+        "httpStatus": 200,
+        "scope": "Pinned README and license documents verified against Git blob and SHA-256. Feature descriptions are from the project documentation, not runtime tests."
+      },
+      "relations": [
+        {
+          "role": "pinned-documentation",
+          "title": "LICENSE",
+          "url": "https://github.com/nayru77mi/deepseek-DesktopPet-Shimeji/blob/a4e28c9222ad9dd50d1db602941243600fa310da/LICENSE"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-08-22",
+      "publicationDateBasis": "github-repository-created",
+      "usage": "source-only",
+      "downloadable": false
+    },
+    {
+      "id": "harriszed-claude-activity-pet",
+      "category": "interactive",
+      "title": {
+        "zh": "Claude Desktop Pet · 像素工作状态桌宠",
+        "en": "Claude Desktop Pet · Pixel Activity Companion",
+        "ja": "Claude Desktop Pet · ピクセル作業状況ペット"
+      },
+      "url": "https://github.com/Harriszed/claude-desktop-pet/blob/e799a6e2ed77519b316e8939e125e2a0cf35cc83/README.md",
+      "publisher": "Harriszed",
+      "summary": {
+        "zh": "Electron 桌宠展示 Claude Code 的活动状态，说明单列 Mascot Studio 的动画版本及原始动作参考。",
+        "en": "Electron companion for Claude Code activity, documenting Mascot Studio animation versions and original pose references.",
+        "ja": "Claude Code の作業状態を表示する Electron ペット。Mascot Studio のアニメ版と原動作の参照元を明記。"
+      },
+      "rights": {
+        "zh": "MIT 只涵盖项目代码；NOTICE 明确排除角色素材和商标，作者未找到再分发许可。",
+        "en": "MIT covers only project code; NOTICE explicitly excludes mascot artwork and trademarks and reports no redistribution license.",
+        "ja": "MIT はプロジェクトのコードのみ。NOTICE はキャラクター素材・商標を除外し、再配布許可未確認と明記。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/harriszed-claude-activity-pet.json",
+        "sha256": "23e18798f760535835d22657855340d8efa20097a4eb18af32e769b2bfab6332",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:57:49.270Z",
+        "httpStatus": 200,
+        "scope": "Pinned README and license documents verified against Git blob and SHA-256. Feature descriptions are from the project documentation, not runtime tests."
+      },
+      "relations": [
+        {
+          "role": "pinned-documentation",
+          "title": "LICENSE",
+          "url": "https://github.com/Harriszed/claude-desktop-pet/blob/e799a6e2ed77519b316e8939e125e2a0cf35cc83/LICENSE"
+        },
+        {
+          "role": "pinned-documentation",
+          "title": "NOTICE.md",
+          "url": "https://github.com/Harriszed/claude-desktop-pet/blob/e799a6e2ed77519b316e8939e125e2a0cf35cc83/NOTICE.md"
+        },
+        {
+          "role": "declared-art-reference",
+          "title": "Ayotomiwa Wale-Durojaye · Claude Mascot",
+          "url": "https://ayotomcs.me/claude-mascot"
+        },
+        {
+          "role": "pinned-animation-upstream",
+          "title": "Mascot Studio · v1.7.0",
+          "url": "https://github.com/Harriszed/mascot-studio/tree/fd6da2ae83cca75ec81e23d758a8db8922f5d022"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-12",
+      "publicationDateBasis": "github-repository-created",
+      "usage": "source-only",
+      "downloadable": false
+    },
+    {
+      "id": "sjmsltx-cenzhi-ai-companion",
+      "category": "interactive",
+      "title": {
+        "zh": "岑知桌面智能伙伴 · DeepSeek 双角色桌宠",
+        "en": "Cenzhi Desktop Companion · DeepSeek Dual Characters",
+        "ja": "岑知 デスクトップ AI パートナー · DeepSeek 2人"
+      },
+      "url": "https://github.com/sjmsltx/deepseek-desktop-pet/blob/a120e821821c5bab7c63bc562958c989be13b7b1/README.md",
+      "publisher": "sjmsltx",
+      "summary": {
+        "zh": "PySide6 双角色桌面陪伴项目，README 描述 V4 Flash 与 Pro 对话、长期记忆及主动陪伴。",
+        "en": "PySide6 dual-character companion; README describes V4 Flash and Pro conversations, memory and proactive companionship.",
+        "ja": "PySide6 の2人組デスクトップパートナー。README に V4 Flash・Pro の会話、長期記憶、能動的な陪伴を記載。"
+      },
+      "rights": {
+        "zh": "项目为 MIT；声明角色均为 AI 生成，使用应遵守相应生成工具条款。未经逐件核验不转载立绘。",
+        "en": "Project uses MIT; it states the characters were AI-generated and usage must follow generation tool terms. Portraits are not mirrored without artwork-specific verification.",
+        "ja": "プロジェクトは MIT。キャラクターは AI 生成で各生成ツールの規約に従うと明記。画像別条件確認まで転載しない。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/sjmsltx-cenzhi-ai-companion.json",
+        "sha256": "8ac56ad0664268caf933c118fca943e4bd1b5f8522f83bf36ae8c5fe9034162c",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:57:50.896Z",
+        "httpStatus": 200,
+        "scope": "Pinned README and license documents verified against Git blob and SHA-256. Feature descriptions are from the project documentation, not runtime tests."
+      },
+      "relations": [
+        {
+          "role": "pinned-documentation",
+          "title": "LICENSE",
+          "url": "https://github.com/sjmsltx/deepseek-desktop-pet/blob/a120e821821c5bab7c63bc562958c989be13b7b1/LICENSE"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-08-02",
+      "publicationDateBasis": "github-repository-created",
+      "usage": "source-only",
+      "downloadable": false
+    },
+    {
+      "id": "fenyx-dsh-whale-balance-sea",
+      "category": "interactive",
+      "title": {
+        "zh": "DSH Desktop Pet · 鲸鱼余额海洋",
+        "en": "DSH Desktop Pet · Whale Balance Sea",
+        "ja": "DSH Desktop Pet · クジラの残高の海"
+      },
+      "url": "https://github.com/FenyxHuang/dsh-desktop-pet/blob/12edce05da4d83ebd4bae241f07aad364f0f54eb/README.md",
+      "publisher": "FenyxHuang",
+      "summary": {
+        "zh": "将 DeepSeek 官方鲸鱼标识置于可交互的圆形海面中，余额决定海面高度，并随 Harness 状态反馈。",
+        "en": "An interactive circular sea around the DeepSeek whale mark visualizes balance and Harness activity.",
+        "ja": "DeepSeek のクジラマークを円形の海に配置し、残高で水位が変化。Harness の状態に反応。"
+      },
+      "rights": {
+        "zh": "代码采用 MIT，说明明确鲸鱼标识为 DeepSeek 官方品牌素材且用于本组件显示，不能推导其他使用许可。",
+        "en": "MIT code; README identifies the whale mark as official DeepSeek brand artwork used for the widget. Other reuse rights are not inferred.",
+        "ja": "コード MIT。クジラマークは DeepSeek 公式ブランド素材でウィジェット表示用と明記。他の利用許可は推定しない。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/fenyx-dsh-whale-balance-sea.json",
+        "sha256": "2b3283bcc71159a92399a5557f9daaed7d96087205db4ad9c82acb2f828e9313",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:57:52.219Z",
+        "httpStatus": 200,
+        "scope": "Pinned README and license documents verified against Git blob and SHA-256. Feature descriptions are from the project documentation, not runtime tests."
+      },
+      "relations": [
+        {
+          "role": "pinned-documentation",
+          "title": "LICENSE",
+          "url": "https://github.com/FenyxHuang/dsh-desktop-pet/blob/12edce05da4d83ebd4bae241f07aad364f0f54eb/LICENSE"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-08-16",
+      "publicationDateBasis": "github-repository-created",
+      "usage": "source-only",
+      "downloadable": false
+    },
+    {
+      "id": "gangban-creator-portfolio",
+      "category": "sources",
+      "title": {
+        "zh": "Gangban · 角色作品集",
+        "en": "Gangban · Character Portfolio",
+        "ja": "Gangban · キャラクター作品集"
+      },
+      "url": "https://github.com/HLgangban/gangban-artworks/blob/9224dd2a1d547d59c5eeb28f71060adb1c4d655c/README.md",
+      "publisher": "HLgangban",
+      "summary": {
+        "zh": "按角色和系列整理的作品集。已核对两张 Gemini 目录 PNG，作者说明另列非本人创作的参考图。",
+        "en": "Portfolio organized by character and series. Two Gemini PNGs checked; the README separately excludes reference artwork by other creators.",
+        "ja": "キャラクター・シリーズ別作品集。Gemini の PNG 2点を照合。README は他作者の参考画像を別記。"
+      },
+      "rights": {
+        "zh": "作者要求使用及转载联系确认。仅链接作品集与固定文件，不单凭目录归属认定原作者或授权。",
+        "en": "The README asks for author confirmation before use or redistribution. Links to the portfolio and pinned files only; folder placement alone is not authorship or permission.",
+        "ja": "利用・転載は作者に確認と記載。作品集と固定ファイルへリンクし、フォルダだけで作者や許可を断定しない。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/gangban-creator-portfolio.json",
+        "sha256": "f9ccadc33c644817ea2774588a95f824fa5a0750e99d2afee373d821292c06ba",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:42:32.901Z",
+        "httpStatus": 200,
+        "scope": "Pinned documentation and selected files checked by Git blob hash and SHA-256; no third-party artwork republished."
+      },
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "作品/Gemini/双子猫娘的星空礼裙.png",
+          "url": "https://github.com/HLgangban/gangban-artworks/blob/9224dd2a1d547d59c5eeb28f71060adb1c4d655c/%E4%BD%9C%E5%93%81/Gemini/%E5%8F%8C%E5%AD%90%E7%8C%AB%E5%A8%98%E7%9A%84%E6%98%9F%E7%A9%BA%E7%A4%BC%E8%A3%99.png"
+        },
+        {
+          "role": "pinned-document",
+          "title": "作品/Gemini/双星异瞳猫耳白衣警装.png",
+          "url": "https://github.com/HLgangban/gangban-artworks/blob/9224dd2a1d547d59c5eeb28f71060adb1c4d655c/%E4%BD%9C%E5%93%81/Gemini/%E5%8F%8C%E6%98%9F%E5%BC%82%E7%9E%B3%E7%8C%AB%E8%80%B3%E7%99%BD%E8%A1%A3%E8%AD%A6%E8%A3%85.png"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "publicationDateBasis": null
+    },
+    {
+      "id": "model-muses-source-index",
+      "category": "sources",
+      "title": {
+        "zh": "Model Muses · AI 形象溯源索引",
+        "en": "Model Muses · AI Design Source Index",
+        "ja": "Model Muses · AI デザイン出典索引"
+      },
+      "url": "https://github.com/saya-ch/model-muses/blob/510a508070b8ce9b9fca217f0c2d7484e1a025a6/README.md",
+      "publisher": "saya-ch",
+      "summary": {
+        "zh": "第三方整理的形象画廊及逐图来源说明。作为发现线索，保留固定说明及许可文件。",
+        "en": "Third-party gallery and per-image attribution index. Pinned documentation and license retained as discovery references.",
+        "ja": "第三者の画像ギャラリーと画像別出典索引。固定文書と許可ファイルを探索資料として掲載。"
+      },
+      "rights": {
+        "zh": "项目将代码、文字及第三方图像授权分开。索引并非原画授权证明，具体作品须返回原投稿核验。",
+        "en": "The project distinguishes code/text from third-party image terms. The index is not artwork permission; each work must be checked against the creator’s original publication.",
+        "ja": "コード・文書と第三者画像の条件を区別。索引は原画許可の証拠ではなく、各原投稿で確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/model-muses-source-index.json",
+        "sha256": "05f58c43a05e7349eae09ed76288a4ac800077a93b2f2f6a61843e2ca620d244",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:42:36.454Z",
+        "httpStatus": 200,
+        "scope": "Pinned documentation and selected files checked by Git blob hash and SHA-256; no third-party artwork republished."
+      },
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "LICENSE",
+          "url": "https://github.com/saya-ch/model-muses/blob/510a508070b8ce9b9fca217f0c2d7484e1a025a6/LICENSE"
+        },
+        {
+          "role": "pinned-document",
+          "title": "docs/来源与版权.md",
+          "url": "https://github.com/saya-ch/model-muses/blob/510a508070b8ce9b9fca217f0c2d7484e1a025a6/docs/%E6%9D%A5%E6%BA%90%E4%B8%8E%E7%89%88%E6%9D%83.md"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "publicationDateBasis": null
     }
   ]
 }

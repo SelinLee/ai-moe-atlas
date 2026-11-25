@@ -1,0 +1,48 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:42:36.454Z",
+  "url": "https://github.com/saya-ch/model-muses/blob/510a508070b8ce9b9fca217f0c2d7484e1a025a6/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/saya-ch/model-muses/blob/510a508070b8ce9b9fca217f0c2d7484e1a025a6/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/saya-ch/model-muses/510a508070b8ce9b9fca217f0c2d7484e1a025a6/README.md",
+    "commit": "510a508070b8ce9b9fca217f0c2d7484e1a025a6",
+    "bytes": 38137,
+    "sourceSha256": "b605ef9eff5e06dec53769b667726a96ebe215f466c6fb56aedfd3b626b00c3e",
+    "gitBlobSha": "45ec9b03b523bcc58898f842d0f32be6c7fcf3ab",
+    "accessedAt": "2026-11-25T08:42:36.454Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/saya-ch/model-muses/blob/510a508070b8ce9b9fca217f0c2d7484e1a025a6/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/saya-ch/model-muses/510a508070b8ce9b9fca217f0c2d7484e1a025a6/README.md",
+      "commit": "510a508070b8ce9b9fca217f0c2d7484e1a025a6",
+      "bytes": 38137,
+      "sourceSha256": "b605ef9eff5e06dec53769b667726a96ebe215f466c6fb56aedfd3b626b00c3e",
+      "gitBlobSha": "45ec9b03b523bcc58898f842d0f32be6c7fcf3ab",
+      "accessedAt": "2026-11-25T08:42:36.454Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/saya-ch/model-muses/blob/510a508070b8ce9b9fca217f0c2d7484e1a025a6/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/saya-ch/model-muses/510a508070b8ce9b9fca217f0c2d7484e1a025a6/LICENSE",
+      "commit": "510a508070b8ce9b9fca217f0c2d7484e1a025a6",
+      "bytes": 23875,
+      "sourceSha256": "d1f50aaca1d0f4e825d3279aececaebeddd88951da07cda4c97ccb07ed815d4a",
+      "gitBlobSha": "8353bbfbb00c5e860423abbb6ce62c6c7fc22576",
+      "accessedAt": "2026-11-25T08:42:36.915Z"
+    },
+    {
+      "path": "docs/来源与版权.md",
+      "url": "https://github.com/saya-ch/model-muses/blob/510a508070b8ce9b9fca217f0c2d7484e1a025a6/docs/%E6%9D%A5%E6%BA%90%E4%B8%8E%E7%89%88%E6%9D%83.md",
+      "rawUrl": "https://raw.githubusercontent.com/saya-ch/model-muses/510a508070b8ce9b9fca217f0c2d7484e1a025a6/docs/%E6%9D%A5%E6%BA%90%E4%B8%8E%E7%89%88%E6%9D%83.md",
+      "commit": "510a508070b8ce9b9fca217f0c2d7484e1a025a6",
+      "bytes": 58429,
+      "sourceSha256": "65ca1bffef495a817fbf15d4a8a092892a8b08e5dd5946b30af4c4a597f11931",
+      "gitBlobSha": "45e0f719c5faaa2b6b198d9de3551a23e5c823b3",
+      "accessedAt": "2026-11-25T08:42:37.320Z"
+    }
+  ],
+  "scope": "Pinned documentation and selected files checked by Git blob hash and SHA-256; no third-party artwork republished."
+}
