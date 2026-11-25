@@ -57234,7 +57234,13 @@
       "publicationDateBasis": "bilibili-pubdate",
       "usage": "source-only",
       "downloadable": false,
-      "relations": [],
+      "relations": [
+        {
+          "role": "original-song",
+          "title": "Chase Atlantic · Swim",
+          "url": "https://music.apple.com/us/song/1812458627"
+        }
+      ],
       "verification": {
         "result": "metadata-verified",
         "method": "isolated-headless-google-chrome",
@@ -57575,7 +57581,18 @@
       "publicationDateBasis": "bilibili-pubdate",
       "usage": "source-only",
       "downloadable": false,
-      "relations": [],
+      "relations": [
+        {
+          "role": "original-song",
+          "title": "Steven Universe · Estelle · Stronger Than You",
+          "url": "https://music.apple.com/us/song/1511215621"
+        },
+        {
+          "role": "credited-adaptation-reference",
+          "title": "DeepSeek的L.O.V.E | Stronger than you :)",
+          "url": "https://www.bilibili.com/zh-Hans/video/BV1P24q6DExx/"
+        }
+      ],
       "verification": {
         "result": "metadata-verified",
         "method": "isolated-headless-google-chrome",
@@ -58382,7 +58399,23 @@
       "publicationDateBasis": "bilibili-pubdate",
       "usage": "source-only",
       "downloadable": false,
-      "relations": [],
+      "relations": [
+        {
+          "role": "original-song",
+          "title": "七朵组合 · Seven combination · 咏春",
+          "url": "https://music.apple.com/us/album/%E5%92%8F%E6%98%A5-single/1882824771"
+        },
+        {
+          "role": "credited-adaptation-reference",
+          "title": "AI 東雪蓮 · 咏春 DJ",
+          "url": "https://www.bilibili.com/zh-Hans/video/BV1j3ZKBpE3e/"
+        },
+        {
+          "role": "credited-adaptation-reference",
+          "title": "咏春 · DJ 版",
+          "url": "https://www.bilibili.com/zh-Hans/video/BV1t7FvzZEJJ/"
+        }
+      ],
       "verification": {
         "result": "metadata-verified",
         "method": "isolated-headless-google-chrome",
@@ -58441,6 +58474,26 @@
           "role": "credited-creator",
           "title": "ZipZipPipe · Bilibili",
           "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "credited-character-source",
+          "title": "Gemini 4 Argon",
+          "url": "https://www.bilibili.com/opus/1259436942689304579"
+        },
+        {
+          "role": "credited-character-source",
+          "title": "Gemini 4 Carbon",
+          "url": "https://www.bilibili.com/opus/1269437134073233414"
+        },
+        {
+          "role": "credited-character-source",
+          "title": "Gemini 4 Hydrogen",
+          "url": "https://www.bilibili.com/opus/1273367321200558082"
+        },
+        {
+          "role": "credited-character-source",
+          "title": "5.5万粉丝贺图——哈基米们",
+          "url": "https://www.bilibili.com/opus/1273349110528737288"
         }
       ],
       "verification": {
@@ -58556,7 +58609,18 @@
       "publicationDateBasis": "bilibili-pubdate",
       "usage": "source-only",
       "downloadable": false,
-      "relations": [],
+      "relations": [
+        {
+          "role": "original-song",
+          "title": "瀬戸麻沙美・種﨑敦美・東山奈央・内田真礼・久保ユリカ・水瀬いのり · 不可思议的病历",
+          "url": "https://www.aniplex.co.jp/news/detail/?id=47970"
+        },
+        {
+          "role": "credited-adaptation-reference",
+          "title": "青春猪头少年不会梦到兔女郎学OPED无水印1080P",
+          "url": "https://www.bilibili.com/zh-Hans/video/BV1KC4y1a74D/"
+        }
+      ],
       "verification": {
         "result": "metadata-verified",
         "method": "isolated-headless-google-chrome",
@@ -59307,6 +59371,391 @@
           "url": "https://github.com/nailiang002-wq/deepseek-girl-harness"
         }
       ]
+    },
+    {
+      "id": "zipzippipe-gemini-argon-original",
+      "category": "sources",
+      "title": {
+        "zh": "Gemini 4 Argon · 氩弧焊立绘",
+        "en": "Gemini 4 Argon · Welding Portrait",
+        "ja": "Gemini 4 Argon · アルゴン溶接立ち絵"
+      },
+      "url": "https://www.bilibili.com/opus/1259436942689304579",
+      "publisher": "ZipZipPipe",
+      "summary": {
+        "zh": "以氩的紫色辉光和氩弧焊为设计主题。",
+        "en": "Argon’s purple glow and arc welding are the design motifs.",
+        "ja": "アルゴンの紫色の発光とアーク溶接をモチーフにしたデザイン。"
+      },
+      "rights": {
+        "zh": "逐件展示、转载与改编许可尚未确认，提供作者原帖。",
+        "en": "Artwork-specific display, republication and adaptation permissions are unconfirmed. Links to the creator’s original post.",
+        "ja": "画像ごとの表示・転載・改変許可は確認待ち。作者の原投稿へリンク。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/zipzippipe-gemini-argon-original.json",
+        "sha256": "d8ecc3e34ee231784a33e665c903dbe37e52f519e809066eec0c447a65832dee",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:40:08.857Z",
+        "httpStatus": 200,
+        "scope": "Creator caption, exact image URL, original PNG SHA-256 and visible design inspected."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "related-creator-artwork",
+          "title": "5.5万粉丝贺图——哈基米们",
+          "url": "https://www.bilibili.com/opus/1273349110528737288"
+        },
+        {
+          "role": "related-creator-artwork",
+          "title": "正在进行氩弧焊的的哈基米",
+          "url": "https://www.bilibili.com/opus/1260046690583314457"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "publicationDateBasis": null
+    },
+    {
+      "id": "zipzippipe-gemini-argon-welding",
+      "category": "sources",
+      "title": {
+        "zh": "Gemini 4 Argon · 焊接插画",
+        "en": "Gemini 4 Argon · Welding Illustration",
+        "ja": "Gemini 4 Argon · 溶接イラスト"
+      },
+      "url": "https://www.bilibili.com/opus/1260046690583314457",
+      "publisher": "ZipZipPipe",
+      "summary": {
+        "zh": "同一 Argon 形象正在进行焊接的横幅作品。",
+        "en": "A landscape illustration showing the same Argon character welding.",
+        "ja": "同じ Argon が溶接する横長のイラスト。"
+      },
+      "rights": {
+        "zh": "逐件展示、转载与改编许可尚未确认，提供作者原帖。",
+        "en": "Artwork-specific display, republication and adaptation permissions are unconfirmed. Links to the creator’s original post.",
+        "ja": "画像ごとの表示・転載・改変許可は確認待ち。作者の原投稿へリンク。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/zipzippipe-gemini-argon-welding.json",
+        "sha256": "c9e248068356cb87ccdf1b1f103f0aea25cd64d30c582490778199a05d38ecf6",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:40:16.458Z",
+        "httpStatus": 200,
+        "scope": "Creator caption, exact image URL, original PNG SHA-256 and visible design inspected."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "related-creator-artwork",
+          "title": "5.5万粉丝贺图——哈基米们",
+          "url": "https://www.bilibili.com/opus/1273349110528737288"
+        },
+        {
+          "role": "related-creator-artwork",
+          "title": "Gemini 4 Argon",
+          "url": "https://www.bilibili.com/opus/1259436942689304579"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "publicationDateBasis": null
+    },
+    {
+      "id": "zipzippipe-gemini-carbon-original",
+      "category": "sources",
+      "title": {
+        "zh": "Gemini 4 Carbon · 碳元素立绘",
+        "en": "Gemini 4 Carbon · Carbon Portrait",
+        "ja": "Gemini 4 Carbon · 炭素の立ち絵"
+      },
+      "url": "https://www.bilibili.com/opus/1269437134073233414",
+      "publisher": "ZipZipPipe",
+      "summary": {
+        "zh": "作者以石墨、钻石与 C60 为灵感，采用虹彩黑色的设计。",
+        "en": "The creator references graphite, diamond and C60 for an iridescent black design.",
+        "ja": "黒鉛・ダイヤモンド・C60 を着想源にした虹色の黒いデザイン。"
+      },
+      "rights": {
+        "zh": "逐件展示、转载与改编许可尚未确认，提供作者原帖。",
+        "en": "Artwork-specific display, republication and adaptation permissions are unconfirmed. Links to the creator’s original post.",
+        "ja": "画像ごとの表示・転載・改変許可は確認待ち。作者の原投稿へリンク。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/zipzippipe-gemini-carbon-original.json",
+        "sha256": "048b04255fa1e2659706aeb80464da6bcf48fead642105f56ec46b5d91062e8e",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:40:19.301Z",
+        "httpStatus": 200,
+        "scope": "Creator caption, exact image URL, original PNG SHA-256 and visible design inspected."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "related-creator-artwork",
+          "title": "5.5万粉丝贺图——哈基米们",
+          "url": "https://www.bilibili.com/opus/1273349110528737288"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "publicationDateBasis": null
+    },
+    {
+      "id": "zipzippipe-gemini-hydrogen-original",
+      "category": "sources",
+      "title": {
+        "zh": "Gemini 4 Hydrogen · 氢元素立绘",
+        "en": "Gemini 4 Hydrogen · Hydrogen Portrait",
+        "ja": "Gemini 4 Hydrogen · 水素の立ち絵"
+      },
+      "url": "https://www.bilibili.com/opus/1273367321200558082",
+      "publisher": "ZipZipPipe",
+      "summary": {
+        "zh": "以 Hydrogen 为标题发布的独立立绘，彩虹长发与红色气球。",
+        "en": "Standalone portrait published as Hydrogen, with rainbow hair and a red balloon.",
+        "ja": "Hydrogen の題名で公開された、虹色の長髪と赤い風船の単独立ち絵。"
+      },
+      "rights": {
+        "zh": "逐件展示、转载与改编许可尚未确认，提供作者原帖。",
+        "en": "Artwork-specific display, republication and adaptation permissions are unconfirmed. Links to the creator’s original post.",
+        "ja": "画像ごとの表示・転載・改変許可は確認待ち。作者の原投稿へリンク。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/zipzippipe-gemini-hydrogen-original.json",
+        "sha256": "2cb9ee3eedff74434efc09cfb25427dd804b8d4343419de909a6fabcef7f37ad",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:40:23.472Z",
+        "httpStatus": 200,
+        "scope": "Creator caption, exact image URL, original PNG SHA-256 and visible design inspected."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "related-creator-artwork",
+          "title": "5.5万粉丝贺图——哈基米们",
+          "url": "https://www.bilibili.com/opus/1273349110528737288"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "publicationDateBasis": null
+    },
+    {
+      "id": "zipzippipe-gemini-family-55k",
+      "category": "sources",
+      "title": {
+        "zh": "ZipZipPipe · 5.5 万粉丝 Gemini 家族贺图",
+        "en": "ZipZipPipe · 55K Gemini Family Illustration",
+        "ja": "ZipZipPipe · 5.5万フォロワー Gemini ファミリー記念絵"
+      },
+      "url": "https://www.bilibili.com/opus/1273349110528737288",
+      "publisher": "ZipZipPipe",
+      "summary": {
+        "zh": "作者点名 Hydrogen、Carbon、Argon、Gemini 和 Antigravity。",
+        "en": "The creator names Hydrogen, Carbon, Argon, Gemini and Antigravity.",
+        "ja": "作者が Hydrogen、Carbon、Argon、Gemini、Antigravity と明記。"
+      },
+      "rights": {
+        "zh": "逐件展示、转载与改编许可尚未确认，提供作者原帖。",
+        "en": "Artwork-specific display, republication and adaptation permissions are unconfirmed. Links to the creator’s original post.",
+        "ja": "画像ごとの表示・転載・改変許可は確認待ち。作者の原投稿へリンク。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/zipzippipe-gemini-family-55k.json",
+        "sha256": "1ba80ef13c16f887d225b617a59ffb7560c5143387c78b8a706c16d3d0638a96",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:40:25.510Z",
+        "httpStatus": 200,
+        "scope": "Creator caption, exact image URL, original PNG SHA-256 and visible design inspected."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "related-creator-artwork",
+          "title": "Gemini 4 Argon",
+          "url": "https://www.bilibili.com/opus/1259436942689304579"
+        },
+        {
+          "role": "related-creator-artwork",
+          "title": "Gemini 4 Carbon",
+          "url": "https://www.bilibili.com/opus/1269437134073233414"
+        },
+        {
+          "role": "related-creator-artwork",
+          "title": "Gemini 4 Hydrogen",
+          "url": "https://www.bilibili.com/opus/1273367321200558082"
+        },
+        {
+          "role": "related-creator-artwork",
+          "title": "2000粉丝了，这次是AI代码工具的娘化。",
+          "url": "https://www.bilibili.com/opus/1233310497725481001"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "publicationDateBasis": null
+    },
+    {
+      "id": "zipzippipe-40k-group",
+      "category": "sources",
+      "title": {
+        "zh": "ZipZipPipe · 4 万粉丝贺图",
+        "en": "ZipZipPipe · 40K Celebration Illustration",
+        "ja": "ZipZipPipe · 4万フォロワー記念絵"
+      },
+      "url": "https://www.bilibili.com/opus/1261140146361729024",
+      "publisher": "ZipZipPipe",
+      "summary": {
+        "zh": "作者注明 v4.1f-1017、Gemini 4、GitHub/Microsoft Copilot 与 Stepfun。",
+        "en": "The creator names v4.1f-1017, Gemini 4, GitHub/Microsoft Copilot and Stepfun.",
+        "ja": "作者が v4.1f-1017、Gemini 4、GitHub/Microsoft Copilot、Stepfun と明記。"
+      },
+      "rights": {
+        "zh": "逐件展示、转载与改编许可尚未确认，提供作者原帖。",
+        "en": "Artwork-specific display, republication and adaptation permissions are unconfirmed. Links to the creator’s original post.",
+        "ja": "画像ごとの表示・転載・改変許可は確認待ち。作者の原投稿へリンク。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/zipzippipe-40k-group.json",
+        "sha256": "dc6b19a28e242eaaa547eec736f8664ed4e8a77e7a6acd85403a1d3a062bbf50",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:40:27.366Z",
+        "httpStatus": 200,
+        "scope": "Creator caption, exact image URL, original PNG SHA-256 and visible design inspected."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "publicationDateBasis": null
+    },
+    {
+      "id": "zipzippipe-coding-tools-group",
+      "category": "sources",
+      "title": {
+        "zh": "ZipZipPipe · AI 编程工具四人合照",
+        "en": "ZipZipPipe · Four Coding Tool Girls",
+        "ja": "ZipZipPipe · AI コーディングツール4人の集合絵"
+      },
+      "url": "https://www.bilibili.com/opus/1233310497725481001",
+      "publisher": "ZipZipPipe",
+      "summary": {
+        "zh": "作者注明从左到右是 OpenCode、Kiro、Cursor、Antigravity。",
+        "en": "The creator identifies the four characters left to right as OpenCode, Kiro, Cursor and Antigravity.",
+        "ja": "作者によると左から OpenCode、Kiro、Cursor、Antigravity。"
+      },
+      "rights": {
+        "zh": "逐件展示、转载与改编许可尚未确认，提供作者原帖。",
+        "en": "Artwork-specific display, republication and adaptation permissions are unconfirmed. Links to the creator’s original post.",
+        "ja": "画像ごとの表示・転載・改変許可は確認待ち。作者の原投稿へリンク。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/zipzippipe-coding-tools-group.json",
+        "sha256": "1db31c22942050ffe9d42db3bf781dffa55e9fa817288e99a3cded6eb009b17d",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T08:41:10.748Z",
+        "httpStatus": 200,
+        "scope": "Creator caption, exact image URL, original PNG SHA-256 and visible design inspected."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "official-product",
+          "title": "Kiro: Ship quality software",
+          "url": "https://kiro.dev/"
+        },
+        {
+          "role": "official-product",
+          "title": "AI Coding Agent for Building Ambitious Software | Cursor",
+          "url": "https://cursor.com/"
+        },
+        {
+          "role": "official-product",
+          "title": "Google Antigravity",
+          "url": "https://antigravity.google/"
+        },
+        {
+          "role": "related-creator-artwork",
+          "title": "5.5万粉丝贺图——哈基米们",
+          "url": "https://www.bilibili.com/opus/1273349110528737288"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-08-06",
+      "publicationDateBasis": "visible-page-date"
     }
   ]
 }

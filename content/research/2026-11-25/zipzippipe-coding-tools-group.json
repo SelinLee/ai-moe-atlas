@@ -1,0 +1,59 @@
+{
+  "method": "isolated-headless-google-chrome",
+  "url": "https://www.bilibili.com/opus/1233310497725481001",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:41:10.748Z",
+  "htmlSha256": "cfb25eb1f9d1fd554e4d63ece0bd018fa5980172f20f4a82be36cc65d79bec62",
+  "creator": {
+    "name": "ZipZipPipe",
+    "profile": "https://space.bilibili.com/4168597"
+  },
+  "title": "2000粉丝了，这次是AI代码工具的娘化。",
+  "captionSha256": "8375d53cc317c7d358ff96df0c181259cefea7ff44bad5c6f5e5e52348c19ba5",
+  "files": [
+    {
+      "position": 1,
+      "url": "https://i0.hdslb.com/bfs/new_dyn/b346fb649a853bc4dbaaaaa2f138b1d54168597.png",
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "bytes": 2144480,
+      "sourceSha256": "0d761ca5c6243414e91f6d086fdd82504ce4e6e475ad1434782808cdcf5c2cd5",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-25T08:41:18.421Z"
+    }
+  ],
+  "sourceImageMatched": true,
+  "processing": "Original PNG retained locally by SHA-256; no public derivative or image.",
+  "officialProducts": [
+    {
+      "id": "kiro",
+      "url": "https://kiro.dev/",
+      "finalUrl": "https://kiro.dev/",
+      "httpStatus": 200,
+      "title": "Kiro: Ship quality software",
+      "accessedAt": "2026-11-25T08:42:42.051Z",
+      "htmlSha256": "eac656d35ba5be83c8abca117b592568482adde798787aab35718358f7347877",
+      "nameVisible": true
+    },
+    {
+      "id": "cursor",
+      "url": "https://cursor.com/",
+      "finalUrl": "https://cursor.com/",
+      "httpStatus": 200,
+      "title": "AI Coding Agent for Building Ambitious Software | Cursor",
+      "accessedAt": "2026-11-25T08:42:44.516Z",
+      "htmlSha256": "415c9fd0aee02ca2c67ecedf3996c2a6635f967946c4f6ec048b2e1cd483b837",
+      "nameVisible": true
+    },
+    {
+      "id": "antigravity",
+      "httpStatus": 200,
+      "url": "https://antigravity.google/",
+      "finalUrl": "https://antigravity.google/",
+      "title": "Google Antigravity",
+      "accessedAt": "2026-11-25T08:41:26.319Z",
+      "htmlSha256": "4c249d49687caa4020c5e817932ddb91511f13ed8d46239dd403e657f2ec9047"
+    }
+  ]
+}

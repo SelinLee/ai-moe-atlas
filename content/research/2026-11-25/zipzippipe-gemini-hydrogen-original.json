@@ -1,0 +1,49 @@
+{
+  "method": "isolated-headless-google-chrome",
+  "url": "https://www.bilibili.com/opus/1273367321200558082",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:40:23.472Z",
+  "htmlSha256": "e45ecd9687307e7e58c0358295fb5776df1f2a9761633076b9bdaa907ce7fd9a",
+  "creator": {
+    "name": "ZipZipPipe",
+    "profile": "https://space.bilibili.com/4168597"
+  },
+  "title": "Gemini 4 Hydrogen",
+  "captionSha256": "689c7f6f3a2884b3dd35dbc028bd9c58e5e585675d997a4538ca6dc8d29f54da",
+  "files": [
+    {
+      "url": "https://i0.hdslb.com/bfs/new_dyn/745a3212e04727bd57d03bf5758e3b244168597.png",
+      "httpStatus": 200,
+      "sourceSha256": "7ca41947c072ec5d3beb6593cdba0e0161f1eef7702a6f45468b452cbb49fb3c",
+      "bytes": 1784162,
+      "width": 1152,
+      "height": 2048,
+      "format": "png",
+      "accessedAt": "2026-11-25T08:40:24.342Z"
+    }
+  ],
+  "sourceImageMatched": true,
+  "processing": "Original PNG retained locally by SHA-256; no public derivative or image.",
+  "discoveryReferences": [
+    {
+      "path": "characters/gemini.md",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/characters/gemini.md",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/characters/gemini.md",
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "bytes": 6480,
+      "sourceSha256": "d894ebf93ec629ae669f44ad33d9c01978ff74dcc73b80d176869dd0cb2b71fe",
+      "gitBlobSha": "3ed87396409aa46a190a4eccfd60531954641e54",
+      "accessedAt": "2026-11-25T08:42:31.580Z"
+    },
+    {
+      "path": "research/2026-11-22/SOURCE_LEDGER.md",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/SOURCE_LEDGER.md",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/SOURCE_LEDGER.md",
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "bytes": 3934,
+      "sourceSha256": "bf78c948092f2094b6427537fb4b5361b02824712dab4612f223755e4a388d1c",
+      "gitBlobSha": "e4192a512527a26227d9d832a5d9465014773ef3",
+      "accessedAt": "2026-11-25T08:42:32.023Z"
+    }
+  ]
+}

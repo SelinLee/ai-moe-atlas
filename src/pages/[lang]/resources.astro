@@ -3,7 +3,7 @@ import Layout from '../../layouts/Layout.astro';
 import {locales,type Locale} from '../../lib/i18n';
 import {resourceText} from '../../lib/resource-text';
 import {path} from '../../lib/paths';
-import {resources,animations,animationRanks,byPublicationDate,byPublicationTime,directoryCategories,resourceCounts,resourcesUpdatedAt,beijingTime,verificationLabel} from '../../lib/resources';
+import {resources,animations,animationRanks,byPublicationDate,byPublicationTime,directoryCategories,resourceCounts,resourcesUpdatedAt,beijingTime,verificationLabel,sourceAnchorAliases} from '../../lib/resources';
 import registry from '../../../content/resources.json';
 import {readPendingAnimationCandidates} from '../../../scripts/lib/resources.mjs';
 import {readLikeArchive} from '../../../scripts/lib/like-archive.mjs';
@@ -84,6 +84,7 @@ const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid
         r.subtype&&locales.map(locale=>resourceText[locale].types[r.subtype as keyof typeof s.types]).join(' '),
         ...r.relations.map(link=>link.title),
       ].join(' ')}>
+      {sourceAnchorAliases.get(r.id)?.map(id=><span id={id} aria-hidden="true"></span>)}
       <div class="resource-record-top"><span class="pill">{s.category[r.category].title}</span>{r.subtype&&<span class="resource-subtype">{s.types[r.subtype as keyof typeof s.types]}</span>}</div>
       <h2><a href={r.url} target="_blank" rel="noopener noreferrer">{r.title[lang]} ↗</a></h2>
       <p class="resource-byline">{s.publisher} · {r.publisher} {r.publicationDate&&<> · {s.published} <time datetime={r.publishedAt??r.publicationDate}>{r.publishedAt?beijingTime.format(new Date(r.publishedAt)):r.publicationDate}</time>{r.publishedAt&&<> ({s.publicationZone})</>}</>}{r.bvid&&<> · {r.bvid}</>}</p>

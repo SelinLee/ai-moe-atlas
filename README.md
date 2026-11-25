@@ -22,11 +22,11 @@
 ## 资源目录
 
 <!-- category-picks:characters -->
-**[🎨 角色图鉴](#characters)** · 62 个词条\
-[GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-mimo/) · [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/zh/characters/shangshan-whale/)
+**[🎨 角色图鉴](#characters)** · 68 个词条\
+[GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/) · [Gemini 4 Argon · 氩弧焊立绘](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-gemini-argon/) · [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/zh/characters/shangshan-whale/)
 
 <!-- category-picks:songs -->
-**[🎵 歌曲](#songs)** · 81 首曲目\
+**[🎵 歌曲](#songs)** · 85 首曲目\
 [人是猫 · 大肥鱼翻唱](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · 动画 MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [烂奇迹 · 大肥鱼翻唱](https://www.bilibili.com/video/BV1fzs26bETg/)
 
 <!-- category-picks:references -->
@@ -42,20 +42,22 @@
 [CrossPet · 跨 AI 桌宠](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D 编程桌宠](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [MIMO 桌宠 · Android 悬浮兔娘](https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/README.md)
 
 <!-- category-picks:sources -->
-**[📚 作者作品与出处](#sources)** · 99 条来源\
-[上善无形 · 鲸鱼娘原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI 娘化图集](https://www.pixiv.net/artworks/148186519) · [甶丶 · MiMo 立绘与三视图投稿](https://github.com/lmy414/ai-girl-stickers/issues/35)
+**[📚 作者作品与出处](#sources)** · 116 条来源\
+[上善无形 · 鲸鱼娘原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini 家族合照](https://www.bilibili.com/opus/1273349110528737288) · [甶丶 · MiMo 立绘与三视图投稿](https://github.com/lmy414/ai-girl-stickers/issues/35)
 
 <a id="characters"></a>
 
 ### 🎨 角色图鉴
 
-从 33 个 AI 产品中查角色、作者和原作。 [查看 Muse 娘词条](https://selinlee.github.io/ai-moe-atlas/zh/characters/shizhi-muse/) · [Mistral 法棍猫娘](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-mistral/) · [OpenCode 拟人词条](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-opencode/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-mimo/)
+从 36 个 AI 产品中查角色、作者和原作。 [查看 Muse 娘词条](https://selinlee.github.io/ai-moe-atlas/zh/characters/shizhi-muse/) · [Mistral 法棍猫娘](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-mistral/) · [OpenCode 拟人词条](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-opencode/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-mimo/)
 
 新增词条 · [小克 Coco](https://selinlee.github.io/ai-moe-atlas/zh/characters/ninon-coco/) · [Gemini Pro](https://selinlee.github.io/ai-moe-atlas/zh/characters/qinv-gemini-pro/) · [MiniMax 太空兔](https://selinlee.github.io/ai-moe-atlas/zh/characters/shiho320-minimax-space-bunny/) · [混元娘](https://selinlee.github.io/ai-moe-atlas/zh/characters/aliang-hunyuan/) · [LongCat 龙猫](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-longcat/) · [百度文心](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-ernie/)
 
 本轮新增角色 · [千问校园立绘 · MX1951](https://selinlee.github.io/ai-moe-atlas/zh/characters/mx1951-qwen/) · [NovelAI 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-novelai/) · [ZCode 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-zcode/) · [Hugging Face 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-huggingface/) · [Perplexity 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-perplexity/) · [腾讯混元娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-hunyuan/)
 
 Ninon 的 Claude 娘设定 · [女仆版](https://selinlee.github.io/ai-moe-atlas/zh/characters/ninon-claude-maid/) · [橘白礼服版](https://selinlee.github.io/ai-moe-atlas/zh/characters/ninon-claude-orange-dress/)。礼服原型、作者的独立壁纸与派生设定图各有出处。 [原型出处](content/research/2026-11-23/claude-orange-dress-source-chain.json)
+
+新增 Gemini 家族和编程工具拟人 · [Gemini 4 Argon](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-gemini-argon/) · [Carbon](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-gemini-carbon/) · [Hydrogen](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-gemini-hydrogen/) · [Kiro](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-kiro/) · [Cursor](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-cursor/) · [Antigravity](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-antigravity/)
 
 Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh/characters/linguanus-tokentaker-deepseek/) · [GPT](https://selinlee.github.io/ai-moe-atlas/zh/characters/linguanus-tokentaker-chatgpt/) · [Claude](https://selinlee.github.io/ai-moe-atlas/zh/characters/linguanus-tokentaker-claude/) · [Gemini](https://selinlee.github.io/ai-moe-atlas/zh/characters/linguanus-tokentaker-gemini/) · [33 张原图与投稿附件核对](content/research/2026-11-25/linguanus-tokentaker-submission-and-pinned-artwork.json)
 
@@ -88,7 +90,7 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 
 [原曲出处](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲与版本核对](content/research/2026-11-20/song-originals-and-fan-versions.json) · [片头曲与二创用曲核对](content/research/2026-11-20/character-songs-and-opening-credits.json) · [舞蹈与歌词 MV 用曲核对](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [《温室效应》原曲与 MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [原曲与二创核对](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [豆包翻唱与片尾曲出处](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [千问、MiMo 与舞蹈用曲](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [《APT.》与《删了一百遍》的用曲出处](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [翻唱与游戏原曲出处](content/research/2026-11-22/november-cover-song-originals-and-versions.json) · [Charlotte、bloom 与 unhappy 的用曲出处](content/research/2026-11-22/november-charlotte-bloom-and-remix-evidence.json) · [周刊和原声用曲核对](content/research/2026-11-22/november-mili-and-game-soundtrack-verification.json) · [《烂奇迹》原曲与翻唱核对](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json) · [三首原曲与二创用曲](content/research/2026-11-23/november-renai-numb-and-dragon-maid-originals.json) · [FIRESTARTER、Bad Apple!! 与翻唱出处](content/research/2026-11-23/november-firestarter-bad-apple-and-cover-attribution.json) · [《Trouble Maker》与《朋友的酒》原曲](content/research/2026-11-23/november-trouble-maker-and-friends-wine-originals.json)
 
-[四首原曲及《大鱼》改词版本](content/research/2026-11-25/november-25-song-originals-and-versions.json)
+[四首原曲及《大鱼》改词版本](content/research/2026-11-25/november-25-song-originals-and-versions.json) · [《咏春》等四首原曲与引用出处](content/research/2026-11-25/november-25-composition-and-adaptation-sources.json)
 
 [《千问帮我》等五首原曲与翻唱](content/research/2026-11-23/five-original-songs-and-cover-sources.json)
 
@@ -276,6 +278,7 @@ Hermes 桌宠插件、macOS 精灵帧版等新增项目附固定版说明。
 
 | 时间 / 状态 | 进展 |
 | --- | --- |
+| 2026-11-25 · Gemini 家族与歌曲出处 | 核对 7 张作者原图，新增 6 个角色词条及 4 首曲目。逐件作品授权待核，原图不公开再分发。 |
 | 2026-11-25 · Tokentaker 原图与新二创 | 核对 33 张附件及 106 段共享兼容动画。新增 45 条二创、4 首曲目、4 个角色词条、3 条出处和 4 个桌宠项目。刷新 673 条旧作。 |
 | 2026-11-23 · 补查点赞与 Claude 设定 | 补查 159 条旧作，刷新 152 条。新增 25 条二创、5 首曲目、2 个角色词条、2 条出处及 3 个桌宠项目。 |
 | 2026-11-23 · 千问 CC0 素材与二创复查 | 上线 MX1951 千问原图包，新增 6 个角色词条、6 条来源、2 首曲目和 1 个交互项目。复查 580 条作品的累计点赞。 |

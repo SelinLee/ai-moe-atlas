@@ -3844,5 +3844,341 @@
       "en": "The submitter confirms the right or permission to submit the files and permits this receiving archive to collect them. The archive does not identify a separate original artist or general reuse license; the submission credit and source are retained.",
       "ja": "投稿者は提出権限または許可を確認し、藍色大肥魚での収録を許可。個別の原画作者と一般的な再利用許諾は明記されていないため、投稿のクレジットと出典を記録。"
     }
+  },
+  {
+    "id": "zipzippipe-gemini-argon",
+    "entity": "gemini",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Gemini 4 Argon · ZipZipPipe",
+      "en": "Gemini 4 Argon · ZipZipPipe",
+      "ja": "Gemini 4 Argon · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 发布的 Gemini 家族独立立绘。",
+      "en": "ZipZipPipe’s standalone Gemini family portrait.",
+      "ja": "ZipZipPipe が公開した Gemini ファミリーの単独立ち絵。"
+    },
+    "story": {
+      "zh": "以氩的紫色辉光和氩弧焊为设计主题。",
+      "en": "Argon’s purple glow and arc welding are the design motifs.",
+      "ja": "アルゴンの紫色の発光とアーク溶接をモチーフにしたデザイン。"
+    },
+    "features": {
+      "zh": "紫蓝发、护目镜、黑色工作服、紫色光带与手持焊枪。",
+      "en": "Blue-purple hair, goggles, black workwear, purple luminous trim and a welding gun.",
+      "ja": "青紫の髪、ゴーグル、黒い作業服、紫色の発光ラインと溶接トーチ。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/opus/1259436942689304579",
+    "sourceTitle": "Gemini 4 Argon",
+    "originalPublication": "https://www.bilibili.com/opus/1259436942689304579",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1259436942689304579"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1259436942689304579",
+    "downloadable": false,
+    "bg": "#ebe9f8",
+    "color": "#51417b",
+    "verifiedAt": "2026-11-25",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "已核对原始 1152 × 2048 PNG 哈希。逐件展示、转载和改编条件待核。",
+      "en": "Original 1152 × 2048 PNG checked by hash. Artwork-specific display, republication and adaptation terms are unconfirmed.",
+      "ja": "元の 1152 × 2048 PNG をハッシュで照合。表示・転載・改変条件は確認待ち。"
+    }
+  },
+  {
+    "id": "zipzippipe-gemini-carbon",
+    "entity": "gemini",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Gemini 4 Carbon · ZipZipPipe",
+      "en": "Gemini 4 Carbon · ZipZipPipe",
+      "ja": "Gemini 4 Carbon · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 发布的 Gemini 家族独立立绘。",
+      "en": "ZipZipPipe’s standalone Gemini family portrait.",
+      "ja": "ZipZipPipe が公開した Gemini ファミリーの単独立ち絵。"
+    },
+    "story": {
+      "zh": "作者以石墨、钻石与 C60 为灵感，采用虹彩黑色的设计。",
+      "en": "The creator references graphite, diamond and C60 for an iridescent black design.",
+      "ja": "黒鉛・ダイヤモンド・C60 を着想源にした虹色の黒いデザイン。"
+    },
+    "features": {
+      "zh": "黑发、带虹彩的黑色层叠礼服、六边形腰饰与多面体配件。",
+      "en": "Dark hair, a black iridescent layered dress, a hexagonal belt and faceted accessories.",
+      "ja": "黒髪、虹色に光る黒の重ねドレス、六角形の腰飾りと多面体の小物。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/opus/1269437134073233414",
+    "sourceTitle": "Gemini 4 Carbon",
+    "originalPublication": "https://www.bilibili.com/opus/1269437134073233414",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1269437134073233414"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1269437134073233414",
+    "downloadable": false,
+    "bg": "#e7e4ed",
+    "color": "#50445d",
+    "verifiedAt": "2026-11-25",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "已核对原始 1152 × 2048 PNG 哈希。逐件展示、转载和改编条件待核。",
+      "en": "Original 1152 × 2048 PNG checked by hash. Artwork-specific display, republication and adaptation terms are unconfirmed.",
+      "ja": "元の 1152 × 2048 PNG をハッシュで照合。表示・転載・改変条件は確認待ち。"
+    }
+  },
+  {
+    "id": "zipzippipe-gemini-hydrogen",
+    "entity": "gemini",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Gemini 4 Hydrogen · ZipZipPipe",
+      "en": "Gemini 4 Hydrogen · ZipZipPipe",
+      "ja": "Gemini 4 Hydrogen · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 发布的 Gemini 家族独立立绘。",
+      "en": "ZipZipPipe’s standalone Gemini family portrait.",
+      "ja": "ZipZipPipe が公開した Gemini ファミリーの単独立ち絵。"
+    },
+    "story": {
+      "zh": "以 Hydrogen 为标题发布的独立立绘，彩虹长发与红色气球。",
+      "en": "Standalone portrait published as Hydrogen, with rainbow hair and a red balloon.",
+      "ja": "Hydrogen の題名で公開された、虹色の長髪と赤い風船の単独立ち絵。"
+    },
+    "features": {
+      "zh": "彩虹长发、透明层叠裙、紫色蝴蝶结和红色气球。",
+      "en": "Long rainbow hair, translucent layered dress, purple bow and a red balloon.",
+      "ja": "虹色の長髪、透け感のある重ねスカート、紫のリボンと赤い風船。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/opus/1273367321200558082",
+    "sourceTitle": "Gemini 4 Hydrogen",
+    "originalPublication": "https://www.bilibili.com/opus/1273367321200558082",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1273367321200558082"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1273367321200558082",
+    "downloadable": false,
+    "bg": "#f1e7fa",
+    "color": "#7c4b88",
+    "verifiedAt": "2026-11-25",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "已核对原始 1152 × 2048 PNG 哈希。逐件展示、转载和改编条件待核。",
+      "en": "Original 1152 × 2048 PNG checked by hash. Artwork-specific display, republication and adaptation terms are unconfirmed.",
+      "ja": "元の 1152 × 2048 PNG をハッシュで照合。表示・転載・改変条件は確認待ち。"
+    }
+  },
+  {
+    "id": "zipzippipe-kiro",
+    "entity": "kiro",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Kiro · ZipZipPipe",
+      "en": "Kiro · ZipZipPipe",
+      "ja": "Kiro · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 编程工具合照中由作者点名的社区拟人。",
+      "en": "Creator-identified fan personification in ZipZipPipe’s coding tools group.",
+      "ja": "ZipZipPipe のコーディングツール集合絵で作者が明記した擬人化。"
+    },
+    "story": {
+      "zh": "作者注明从左到右是 OpenCode、Kiro、Cursor、Antigravity。",
+      "en": "The creator identifies the four characters left to right as OpenCode, Kiro, Cursor and Antigravity.",
+      "ja": "作者によると左から OpenCode、Kiro、Cursor、Antigravity。"
+    },
+    "features": {
+      "zh": "四人合照从左数第二位，紫发与幽灵造型披衣。",
+      "en": "Second from the left in the group, with purple hair and a ghost-shaped cloak.",
+      "ja": "集合絵の左から2人目。紫の髪とお化け風のケープ。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/opus/1233310497725481001",
+    "sourceTitle": "2000粉丝了，这次是AI代码工具的娘化。",
+    "originalPublication": "https://www.bilibili.com/opus/1233310497725481001",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1233310497725481001"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1233310497725481001",
+    "downloadable": false,
+    "bg": "#f2e5fa",
+    "color": "#7447a1",
+    "verifiedAt": "2026-11-25",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "已核对作者合照 PNG 原始哈希。暂未确认独立立绘及逐件授权。",
+      "en": "Original group PNG checked by hash. A separate portrait and artwork-specific permissions remain unverified.",
+      "ja": "集合絵の原 PNG をハッシュで照合。単独立ち絵と画像別利用許可は未確認。"
+    }
+  },
+  {
+    "id": "zipzippipe-cursor",
+    "entity": "cursor",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Cursor · ZipZipPipe",
+      "en": "Cursor · ZipZipPipe",
+      "ja": "Cursor · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 编程工具合照中由作者点名的社区拟人。",
+      "en": "Creator-identified fan personification in ZipZipPipe’s coding tools group.",
+      "ja": "ZipZipPipe のコーディングツール集合絵で作者が明記した擬人化。"
+    },
+    "story": {
+      "zh": "作者注明从左到右是 OpenCode、Kiro、Cursor、Antigravity。",
+      "en": "The creator identifies the four characters left to right as OpenCode, Kiro, Cursor and Antigravity.",
+      "ja": "作者によると左から OpenCode、Kiro、Cursor、Antigravity。"
+    },
+    "features": {
+      "zh": "四人合照从左数第三位，银发、红眼、深色衣装和带方块标志的手杖。",
+      "en": "Third from the left, with silver hair, red eyes, dark clothes and a staff with a cube symbol.",
+      "ja": "左から3人目。銀髪、赤い瞳、暗色の衣装と立方体の印の杖。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/opus/1233310497725481001",
+    "sourceTitle": "2000粉丝了，这次是AI代码工具的娘化。",
+    "originalPublication": "https://www.bilibili.com/opus/1233310497725481001",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1233310497725481001"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1233310497725481001",
+    "downloadable": false,
+    "bg": "#e7e6ec",
+    "color": "#4d4658",
+    "verifiedAt": "2026-11-25",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "已核对作者合照 PNG 原始哈希。暂未确认独立立绘及逐件授权。",
+      "en": "Original group PNG checked by hash. A separate portrait and artwork-specific permissions remain unverified.",
+      "ja": "集合絵の原 PNG をハッシュで照合。単独立ち絵と画像別利用許可は未確認。"
+    }
+  },
+  {
+    "id": "zipzippipe-antigravity",
+    "entity": "antigravity",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Google Antigravity · ZipZipPipe",
+      "en": "Google Antigravity · ZipZipPipe",
+      "ja": "Google Antigravity · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 编程工具合照中由作者点名的社区拟人。",
+      "en": "Creator-identified fan personification in ZipZipPipe’s coding tools group.",
+      "ja": "ZipZipPipe のコーディングツール集合絵で作者が明記した擬人化。"
+    },
+    "story": {
+      "zh": "作者注明从左到右是 OpenCode、Kiro、Cursor、Antigravity。",
+      "en": "The creator identifies the four characters left to right as OpenCode, Kiro, Cursor and Antigravity.",
+      "ja": "作者によると左から OpenCode、Kiro、Cursor、Antigravity。"
+    },
+    "features": {
+      "zh": "四人合照最右位，青色虹彩头发、猫耳、彩色衣装和蓝色道具；另一张 Gemini 贺图最右也被作者标为 Antigravity。",
+      "en": "Rightmost in the group, with iridescent cyan hair, cat ears, a colorful outfit and a blue prop. Also named at right in the Gemini celebration illustration.",
+      "ja": "集合絵の右端。虹色の水色の髪、猫耳、彩色衣装、青い小物。Gemini 記念絵の右端も Antigravity と記載。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/opus/1233310497725481001",
+    "sourceTitle": "2000粉丝了，这次是AI代码工具的娘化。",
+    "originalPublication": "https://www.bilibili.com/opus/1233310497725481001",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1233310497725481001"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1233310497725481001",
+    "downloadable": false,
+    "bg": "#e4f5fa",
+    "color": "#416980",
+    "verifiedAt": "2026-11-25",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "已核对作者合照 PNG 原始哈希。暂未确认独立立绘及逐件授权。",
+      "en": "Original group PNG checked by hash. A separate portrait and artwork-specific permissions remain unverified.",
+      "ja": "集合絵の原 PNG をハッシュで照合。単独立ち絵と画像別利用許可は未確認。"
+    }
   }
 ]

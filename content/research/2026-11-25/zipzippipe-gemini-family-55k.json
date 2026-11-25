@@ -1,0 +1,49 @@
+{
+  "method": "isolated-headless-google-chrome",
+  "url": "https://www.bilibili.com/opus/1273349110528737288",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:40:25.510Z",
+  "htmlSha256": "d6f6f6841419bb7237de3f5420c612afd636b96f79da9f05f9aecc552b43c635",
+  "creator": {
+    "name": "ZipZipPipe",
+    "profile": "https://space.bilibili.com/4168597"
+  },
+  "title": "5.5万粉丝贺图——哈基米们",
+  "captionSha256": "35dac28453cdf14c550121a8f34844c30f7172d9c7e07e821c3b63a99825556d",
+  "files": [
+    {
+      "url": "https://i0.hdslb.com/bfs/new_dyn/1cb3841c25e2acf0c02eed85e60a45454168597.png",
+      "httpStatus": 200,
+      "sourceSha256": "b15fb923d28b0f2a310f0b66eb67b4d105a1fda9807b2fcafd2f32ecee821268",
+      "bytes": 3541607,
+      "width": 1280,
+      "height": 1280,
+      "format": "png",
+      "accessedAt": "2026-11-25T08:40:26.143Z"
+    }
+  ],
+  "sourceImageMatched": true,
+  "processing": "Original PNG retained locally by SHA-256; no public derivative or image.",
+  "discoveryReferences": [
+    {
+      "path": "characters/gemini.md",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/characters/gemini.md",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/characters/gemini.md",
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "bytes": 6480,
+      "sourceSha256": "d894ebf93ec629ae669f44ad33d9c01978ff74dcc73b80d176869dd0cb2b71fe",
+      "gitBlobSha": "3ed87396409aa46a190a4eccfd60531954641e54",
+      "accessedAt": "2026-11-25T08:42:31.580Z"
+    },
+    {
+      "path": "research/2026-11-22/SOURCE_LEDGER.md",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/SOURCE_LEDGER.md",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/SOURCE_LEDGER.md",
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "bytes": 3934,
+      "sourceSha256": "bf78c948092f2094b6427537fb4b5361b02824712dab4612f223755e4a388d1c",
+      "gitBlobSha": "e4192a512527a26227d9d832a5d9465014773ef3",
+      "accessedAt": "2026-11-25T08:42:32.023Z"
+    }
+  ]
+}

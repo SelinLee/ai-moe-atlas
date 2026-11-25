@@ -196,5 +196,23 @@
     "name": "Perplexity",
     "provider": "Perplexity",
     "url": "https://www.perplexity.ai/"
+  },
+  {
+    "id": "kiro",
+    "name": "Kiro",
+    "provider": "AWS",
+    "url": "https://kiro.dev/"
+  },
+  {
+    "id": "cursor",
+    "name": "Cursor",
+    "provider": "Anysphere",
+    "url": "https://cursor.com/"
+  },
+  {
+    "id": "antigravity",
+    "name": "Google Antigravity",
+    "provider": "Google",
+    "url": "https://antigravity.google/"
   }
 ]

@@ -22,11 +22,11 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 ## Resource directory
 
 <!-- category-picks:characters -->
-**[🎨 Character atlas](#characters)** · 62 entries\
-[GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/) · [MiMo Girl · 甶丶](https://selinlee.github.io/ai-moe-atlas/en/characters/fuh-mimo/) · [Mingyue · Shangshan](https://selinlee.github.io/ai-moe-atlas/en/characters/shangshan-whale/)
+**[🎨 Character atlas](#characters)** · 68 entries\
+[GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/) · [Gemini 4 Argon · Welding portrait](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-gemini-argon/) · [Mingyue · Shangshan](https://selinlee.github.io/ai-moe-atlas/en/characters/shangshan-whale/)
 
 <!-- category-picks:songs -->
-**[🎵 Songs](#songs)** · 81 tracks\
+**[🎵 Songs](#songs)** · 85 tracks\
 [Humans Are Cats · Fat Fish cover](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · Animated MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [Rotten Miracle · Fat Fish cover](https://www.bilibili.com/video/BV1fzs26bETg/)
 
 <!-- category-picks:references -->
@@ -42,20 +42,22 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 [CrossPet · Cross-AI desktop companion](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D coding companion](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [MIMO Pet · Floating Android Rabbit Girl](https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/README.md)
 
 <!-- category-picks:sources -->
-**[📚 Creator works & sources](#sources)** · 99 sources\
-[Shangshan · Whale Girl original](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI Girl collection](https://www.pixiv.net/artworks/148186519) · [甶丶 · MiMo portrait and turnaround submission](https://github.com/lmy414/ai-girl-stickers/issues/35)
+**[📚 Creator works & sources](#sources)** · 116 sources\
+[Shangshan · Whale Girl original](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini family illustration](https://www.bilibili.com/opus/1273349110528737288) · [甶丶 · MiMo portrait and turnaround submission](https://github.com/lmy414/ai-girl-stickers/issues/35)
 
 <a id="characters"></a>
 
 ### 🎨 Character atlas
 
-Find characters, creators and original works across 33 AI products. [View the Muse Girl entry](https://selinlee.github.io/ai-moe-atlas/en/characters/shizhi-muse/) · [Mistral Baguette Cat Girl](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-mistral/) · [OpenCode personification](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-opencode/) · [MiMo Girl · 甶丶](https://selinlee.github.io/ai-moe-atlas/en/characters/fuh-mimo/)
+Find characters, creators and original works across 36 AI products. [View the Muse Girl entry](https://selinlee.github.io/ai-moe-atlas/en/characters/shizhi-muse/) · [Mistral Baguette Cat Girl](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-mistral/) · [OpenCode personification](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-opencode/) · [MiMo Girl · 甶丶](https://selinlee.github.io/ai-moe-atlas/en/characters/fuh-mimo/)
 
 New character entries · [Coco](https://selinlee.github.io/ai-moe-atlas/en/characters/ninon-coco/) · [Gemini Pro](https://selinlee.github.io/ai-moe-atlas/en/characters/qinv-gemini-pro/) · [MiniMax Space Bunny](https://selinlee.github.io/ai-moe-atlas/en/characters/shiho320-minimax-space-bunny/) · [Hunyuan Girl](https://selinlee.github.io/ai-moe-atlas/en/characters/aliang-hunyuan/) · [LongCat](https://selinlee.github.io/ai-moe-atlas/en/characters/fuh-longcat/) · [Baidu ERNIE](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-ernie/)
 
 New character entries · [Qwen School Portrait · MX1951](https://selinlee.github.io/ai-moe-atlas/en/characters/mx1951-qwen/) · [NovelAI Girl · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-novelai/) · [ZCode Girl · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-zcode/) · [Hugging Face Girl · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-huggingface/) · [Perplexity Girl · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-perplexity/) · [Tencent Hunyuan Girl · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-hunyuan/)
 
 Ninon’s Claude Girl designs · [Maid design](https://selinlee.github.io/ai-moe-atlas/en/characters/ninon-claude-maid/) · [Orange-and-white dress](https://selinlee.github.io/ai-moe-atlas/en/characters/ninon-claude-orange-dress/). The original dress, the creator’s separate wallpaper and the adapted design sheet each have a source. [Dress reference sources](content/research/2026-11-23/claude-orange-dress-source-chain.json)
+
+New Gemini family and coding tool designs · [Gemini 4 Argon](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-gemini-argon/) · [Carbon](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-gemini-carbon/) · [Hydrogen](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-gemini-hydrogen/) · [Kiro](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-kiro/) · [Cursor](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-cursor/) · [Antigravity](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-antigravity/)
 
 Tokentaker character designs · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/en/characters/linguanus-tokentaker-deepseek/) · [GPT](https://selinlee.github.io/ai-moe-atlas/en/characters/linguanus-tokentaker-chatgpt/) · [Claude](https://selinlee.github.io/ai-moe-atlas/en/characters/linguanus-tokentaker-claude/) · [Gemini](https://selinlee.github.io/ai-moe-atlas/en/characters/linguanus-tokentaker-gemini/) · [Verification of all 33 submission images](content/research/2026-11-25/linguanus-tokentaker-submission-and-pinned-artwork.json)
 
@@ -88,7 +90,7 @@ The top ten tracks by the highest total likes on a listed version. Observation t
 
 [Original music sources](content/research/2026-11-20/gemini-mv-original-music.json) · [Song and version verification](content/research/2026-11-20/song-originals-and-fan-versions.json) · [Opening-theme and fan-version credits](content/research/2026-11-20/character-songs-and-opening-credits.json) · [Dance and lyric MV song credits](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [Greenhouse Effect original and fan MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [Four original tracks and fan versions](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [Doubao covers and ending theme sources](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [Qwen, MiMo and dance track sources](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [Music sources for “APT.” and “Deleted a Hundred Times”](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [Cover and game music sources](content/research/2026-11-22/november-cover-song-originals-and-versions.json) · [Sources for Charlotte, bloom and unhappy](content/research/2026-11-22/november-charlotte-bloom-and-remix-evidence.json) · [Music from the weekly roundup and game soundtrack](content/research/2026-11-22/november-mili-and-game-soundtrack-verification.json) · [Original and cover verification for Rotten Miracle](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json) · [Three original tracks and their fan uses](content/research/2026-11-23/november-renai-numb-and-dragon-maid-originals.json) · [FIRESTARTER, Bad Apple!! and cover sources](content/research/2026-11-23/november-firestarter-bad-apple-and-cover-attribution.json) · [Original releases for Trouble Maker and A Friend’s Wine](content/research/2026-11-23/november-trouble-maker-and-friends-wine-originals.json)
 
-[Four original tracks and a new Big Fish adaptation](content/research/2026-11-25/november-25-song-originals-and-versions.json)
+[Four original tracks and a new Big Fish adaptation](content/research/2026-11-25/november-25-song-originals-and-versions.json) · [Ode to Spring and three other original tracks](content/research/2026-11-25/november-25-composition-and-adaptation-sources.json)
 
 [Five original songs and their covers, including Qwen, Help Me](content/research/2026-11-23/five-original-songs-and-cover-sources.json)
 
@@ -276,6 +278,7 @@ Newly added:
 
 | Date / status | Progress |
 | --- | --- |
+| 2026-11-25 · Gemini family and music sources | Verified seven creator-published images, added six character entries and four tracks. Artwork-specific permissions remain unconfirmed; original images are not republished. |
 | 2026-11-25 · Tokentaker artwork and new fan works | Verified 33 submitted images and 106 shared compatibility clips. Added 45 fan videos, four tracks, four character entries, three sources and four pet projects. Refreshed 673 existing videos. |
 | 2026-11-23 · Like follow-up and Claude designs | Rechecked 159 cataloged videos and refreshed 152 counts. Added 25 fan videos, five tracks, two character entries, two sources and three desktop pets. |
 | 2026-11-23 · Qwen CC0 pack and fan-work recheck | Published MX1951’s Qwen pack. Added six character entries, six sources, two tracks and one interactive project. Refreshed cumulative likes for 580 works. |

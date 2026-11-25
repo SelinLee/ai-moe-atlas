@@ -8,6 +8,7 @@ import doodles from '../../public/generated/rough-doodle-v1/manifest.json';
 import { path } from './paths';
 import { resourceText } from './resource-text';
 import { byCumulativeLikes } from './animation-ranking.mjs';
+import { unlistedSourceLeads } from './source-leads.mjs';
 import type { Locale } from './i18n';
 
 export { byPublicationDate, byPublicationTime, likesObservedDate, beijingTime } from './animation-ranking.mjs';
@@ -36,12 +37,15 @@ const sourceTitles:Record<string,Localized>={
   'bili-billionaires':{zh:'“亿万”身家的她们',en:'The billionaire AI girls',ja:'億万長者のAI娘たち'},
   'identity-cross-check':{zh:'各 AI 娘的公开形象整理',en:'Public AI-girl design references',ja:'公開されたAI娘デザインの整理'},
 };
-const sourceRecords:Resource[]=leads.map(l=>({
+const sourceRecords:Resource[]=unlistedSourceLeads(external,leads).map(l=>({
   id:l.id,category:'sources',title:sourceTitles[l.id],sourceTitle:l.title,url:l.url,publisher:l.creator,
   summary:l.note,rights:{zh:'按原作逐件使用条件核对；已有收录状态详见来源档案。',en:'Check artwork-specific terms at the original. Existing collection status is documented in the source archive.',ja:'原作の作品別利用条件を確認してください。収録状況は既存の出典記録を参照。'},
   publicationDate:null,relations:[],
 }));
 export const resources:Resource[]=[...external,...sourceRecords];
+export const sourceAnchorAliases=new Map(external.filter(record=>record.category==='sources').map(record=>[
+  record.id,leads.filter(lead=>lead.url===record.url&&lead.id!==record.id).map(lead=>lead.id)
+]));
 export const directoryCategories=['animation','interactive','sources'] as const;
 export const animations=resources.filter(r=>r.category==='animation').sort(byCumulativeLikes);
 export const rankedAnimations=animations.filter(r=>r.likes);

@@ -328,5 +328,35 @@
       "en": "Verify republication and adaptation terms for this portrait.",
       "ja": "この版の転載・改変条件を引き続き確認する。"
     }
+  },
+  {
+    "entity": "kiro",
+    "characterId": "zipzippipe-kiro",
+    "reviewedAt": "2026-11-25",
+    "nextAction": {
+      "zh": "寻找独立立绘并确认逐件展示、转载与改编条件。",
+      "en": "Find a standalone portrait and verify artwork-specific display, republication and adaptation terms.",
+      "ja": "単独立ち絵を探し、表示・転載・改変の画像別条件を確認する。"
+    }
+  },
+  {
+    "entity": "cursor",
+    "characterId": "zipzippipe-cursor",
+    "reviewedAt": "2026-11-25",
+    "nextAction": {
+      "zh": "寻找独立立绘并确认逐件展示、转载与改编条件。",
+      "en": "Find a standalone portrait and verify artwork-specific display, republication and adaptation terms.",
+      "ja": "単独立ち絵を探し、表示・転載・改変の画像別条件を確認する。"
+    }
+  },
+  {
+    "entity": "antigravity",
+    "characterId": "zipzippipe-antigravity",
+    "reviewedAt": "2026-11-25",
+    "nextAction": {
+      "zh": "寻找独立立绘并确认逐件展示、转载与改编条件。",
+      "en": "Find a standalone portrait and verify artwork-specific display, republication and adaptation terms.",
+      "ja": "単独立ち絵を探し、表示・転載・改変の画像別条件を確認する。"
+    }
   }
 ]

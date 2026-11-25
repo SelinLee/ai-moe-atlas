@@ -2,11 +2,25 @@ import { readFile, writeFile } from 'node:fs/promises';
 import { beijingTime, byCumulativeLikes } from '../src/lib/animation-ranking.mjs';
 import { rankSongsByLikes } from '../src/lib/song-ranking.mjs';
 import { readPendingAnimationCandidates } from './lib/resources.mjs';
+import { unlistedSourceLeads } from '../src/lib/source-leads.mjs';
 
 const root = new URL('../', import.meta.url);
 const registry = JSON.parse(await readFile(new URL('content/resources.json', root), 'utf8'));
 const songs = JSON.parse(await readFile(new URL('content/songs.json', root), 'utf8'));
 const { records } = registry;
+const [characters, leads, chibi, references, doodles] = await Promise.all([
+  'content/characters.json', 'content/leads.json',
+  'public/generated/super-chibi-v1/manifest.json', 'public/generated/ai-models-v5/manifest.json',
+  'public/generated/rough-doodle-v1/manifest.json',
+].map(async path => JSON.parse(await readFile(new URL(path, root), 'utf8'))));
+const directoryCounts = {
+  characters: characters.length,
+  songs: songs.length,
+  references: chibi.assets.length + references.assets.length + doodles.assets.length,
+  animations: records.filter(record => record.category === 'animation').length,
+  'desktop-pets': records.filter(record => record.category === 'interactive').length,
+  sources: records.filter(record => record.category === 'sources').length + unlistedSourceLeads(records, leads).length,
+};
 const pendingCandidates = await readPendingAnimationCandidates(registry, root);
 const animations = records.filter(record => record.category === 'animation');
 const ranked = animations.filter(record => record.likes).sort(byCumulativeLikes);
@@ -101,7 +115,8 @@ for (const [lang, copy] of Object.entries(text)) {
   const songParts = [copy.songIntro, [copy.songHeader, '| --- | --- | --- | ---: |', ...songRows].join('\n'),
     `[${copy.songBrowse}](${songsUrl}) · [${copy.evidence}](${songEvidence})`];
   updated = replaceRanking(updated, 'song', songParts, copy.file);
-  updated = updateDirectoryCount(updated, 'animations', animations.length);
-  updated = updateDirectoryCount(updated, 'songs', songs.length);
+  for (const [category, count] of Object.entries(directoryCounts)) {
+    updated = updateDirectoryCount(updated, category, count);
+  }
   if (updated !== original) await writeFile(file, updated);
 }

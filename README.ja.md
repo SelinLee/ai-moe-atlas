@@ -22,11 +22,11 @@
 ## リソース一覧
 
 <!-- category-picks:characters -->
-**[🎨 キャラクター図鑑](#characters)** · 62 項目\
-[GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/ja/characters/fuh-mimo/) · [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/ja/characters/shangshan-whale/)
+**[🎨 キャラクター図鑑](#characters)** · 68 項目\
+[GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/) · [Gemini 4 Argon · 溶接立ち絵](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-gemini-argon/) · [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/ja/characters/shangshan-whale/)
 
 <!-- category-picks:songs -->
-**[🎵 楽曲](#songs)** · 81 曲\
+**[🎵 楽曲](#songs)** · 85 曲\
 [人は猫 · 大肥魚カバー](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · アニメーション MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [烂奇迹 · 大肥魚カバー](https://www.bilibili.com/video/BV1fzs26bETg/)
 
 <!-- category-picks:references -->
@@ -42,20 +42,22 @@
 [CrossPet · 複数の AI に対応するデスクトップペット](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D コーディングペット](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [MIMO ペット · Android のうさ耳ペット](https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/README.md)
 
 <!-- category-picks:sources -->
-**[📚 作者の作品と出典](#sources)** · 99 件\
-[上善无形 · クジラ娘の原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI 娘化作品集](https://www.pixiv.net/artworks/148186519) · [甶丶 · MiMo の立ち絵・三面図投稿](https://github.com/lmy414/ai-girl-stickers/issues/35)
+**[📚 作者の作品と出典](#sources)** · 116 件\
+[上善无形 · クジラ娘の原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini ファミリー集合絵](https://www.bilibili.com/opus/1273349110528737288) · [甶丶 · MiMo の立ち絵・三面図投稿](https://github.com/lmy414/ai-girl-stickers/issues/35)
 
 <a id="characters"></a>
 
 ### 🎨 キャラクター図鑑
 
-AI 製品33種からキャラクター、作者、原作を探せます。 [Muse 娘の項目を見る](https://selinlee.github.io/ai-moe-atlas/ja/characters/shizhi-muse/) · [Mistral バゲット猫娘](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-mistral/) · [OpenCode の擬人化項目](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-opencode/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/ja/characters/fuh-mimo/)
+AI 製品36種からキャラクター、作者、原作を探せます。 [Muse 娘の項目を見る](https://selinlee.github.io/ai-moe-atlas/ja/characters/shizhi-muse/) · [Mistral バゲット猫娘](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-mistral/) · [OpenCode の擬人化項目](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-opencode/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/ja/characters/fuh-mimo/)
 
 新しいキャラクター · [小ク Coco](https://selinlee.github.io/ai-moe-atlas/ja/characters/ninon-coco/) · [Gemini Pro](https://selinlee.github.io/ai-moe-atlas/ja/characters/qinv-gemini-pro/) · [MiniMax 宇宙うさぎ](https://selinlee.github.io/ai-moe-atlas/ja/characters/shiho320-minimax-space-bunny/) · [混元娘](https://selinlee.github.io/ai-moe-atlas/ja/characters/aliang-hunyuan/) · [LongCat 龍猫](https://selinlee.github.io/ai-moe-atlas/ja/characters/fuh-longcat/) · [百度文心](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-ernie/)
 
 新着キャラクター · [千問 学園風立ち絵 · MX1951](https://selinlee.github.io/ai-moe-atlas/ja/characters/mx1951-qwen/) · [NovelAI 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-novelai/) · [ZCode 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-zcode/) · [Hugging Face 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-huggingface/) · [Perplexity 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-perplexity/) · [Tencent 混元娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-hunyuan/)
 
 Ninon の Claude 娘設定 · [メイド版](https://selinlee.github.io/ai-moe-atlas/ja/characters/ninon-claude-maid/) · [橙白ドレス版](https://selinlee.github.io/ai-moe-atlas/ja/characters/ninon-claude-orange-dress/)。原型のドレス、作者の別の壁紙、派生設定画の出典を掲載。 [ドレス原案の出典](content/research/2026-11-23/claude-orange-dress-source-chain.json)
+
+Gemini ファミリーとコーディングツールの新規項目 · [Gemini 4 Argon](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-gemini-argon/) · [Carbon](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-gemini-carbon/) · [Hydrogen](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-gemini-hydrogen/) · [Kiro](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-kiro/) · [Cursor](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-cursor/) · [Antigravity](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-antigravity/)
 
 Tokentaker キャラクター設定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/ja/characters/linguanus-tokentaker-deepseek/) · [GPT](https://selinlee.github.io/ai-moe-atlas/ja/characters/linguanus-tokentaker-chatgpt/) · [Claude](https://selinlee.github.io/ai-moe-atlas/ja/characters/linguanus-tokentaker-claude/) · [Gemini](https://selinlee.github.io/ai-moe-atlas/ja/characters/linguanus-tokentaker-gemini/) · [投稿画像33枚の照合](content/research/2026-11-25/linguanus-tokentaker-submission-and-pinned-artwork.json)
 
@@ -88,7 +90,7 @@ Tokentaker キャラクター設定 · [DeepSeek](https://selinlee.github.io/ai-
 
 [原曲の出典](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲とバージョンの確認記録](content/research/2026-11-20/song-originals-and-fan-versions.json) · [主題歌と二次創作の使用曲の確認記録](content/research/2026-11-20/character-songs-and-opening-credits.json) · [ダンス・歌詞 MV の楽曲クレジット](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [「溫室效應」の原曲と二次創作 MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [原曲4曲と二次創作の確認](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [豆包カバーとエンディング曲の出典](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [千問・MiMo・ダンス曲の出典](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [「APT.」と「删了一百遍」の出典](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [カバー曲とゲーム楽曲の原曲](content/research/2026-11-22/november-cover-song-originals-and-versions.json) · [Charlotte・bloom・unhappy の出典](content/research/2026-11-22/november-charlotte-bloom-and-remix-evidence.json) · [週刊・ゲーム原曲の確認](content/research/2026-11-22/november-mili-and-game-soundtrack-verification.json) · [「烂奇迹」の原曲とカバーの確認](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json) · [原曲3曲と二次創作での使用](content/research/2026-11-23/november-renai-numb-and-dragon-maid-originals.json) · [FIRESTARTER・Bad Apple!! とカバーの出典](content/research/2026-11-23/november-firestarter-bad-apple-and-cover-attribution.json) · [Trouble Maker と「朋友的酒」の原曲](content/research/2026-11-23/november-trouble-maker-and-friends-wine-originals.json)
 
-[4曲の原曲と『大魚』の替え歌](content/research/2026-11-25/november-25-song-originals-and-versions.json)
+[4曲の原曲と『大魚』の替え歌](content/research/2026-11-25/november-25-song-originals-and-versions.json) · [「詠春」を含む4曲の原曲と参照元](content/research/2026-11-25/november-25-composition-and-adaptation-sources.json)
 
 [『千問、助けて』など5曲の原曲とカバー](content/research/2026-11-23/five-original-songs-and-cover-sources.json)
 
@@ -276,6 +278,7 @@ ZipZipPipe の[出典と利用声明](https://t.bilibili.com/1231980045693616162
 
 | 時期・状況 | 内容 |
 | --- | --- |
+| 2026-11-25 · Gemini ファミリーと楽曲出典 | 作者公開画像7枚を照合し、キャラクター6項目、楽曲4曲を追加。画像別の許可は確認待ちのため原画を再配布しない。 |
 | 2026-11-25 · Tokentaker 原画と二次創作 | 添付画像33枚、共有互換アニメ106本を照合。動画45件、楽曲4曲、キャラクター4件、出典3件、ペット4件を追加。旧作673件を更新。 |
 | 2026-11-23 · いいね数の再確認と Claude 設定画 | 旧作159件を再確認し、152件を更新。二次創作25件、楽曲5曲、キャラクター2件、出典2件、ペット3件を追加。 |
 | 2026-11-23 · 千問 CC0 素材と二次創作の再確認 | MX1951 の千問素材パックを公開。キャラクター6件、出典6件、楽曲2曲、インタラクティブ作品1件を追加。580件の累計いいね数を更新。 |

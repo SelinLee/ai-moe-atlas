@@ -535,5 +535,37 @@
     "title": {"zh": "Just the Two of Us", "en": "Just the Two of Us", "ja": "Just the Two of Us"},
     "original": {"credit": "Grover Washington, Jr. · Bill Withers", "url": "https://music.apple.com/us/song/321975002"},
     "versions": [{"id": "bv1kvyezhe2b", "type": "mv"}]
+  },
+  {
+    "id": "ode-to-spring",
+    "title": {"zh": "咏春", "en": "Ode to Spring", "ja": "詠春"},
+    "original": {"credit": "七朵组合 · Seven combination", "url": "https://music.apple.com/us/album/%E5%92%8F%E6%98%A5-single/1882824771"},
+    "versions": [
+      {"id": "bv1j7yzzgejg", "type": "cover"}
+    ]
+  },
+  {
+    "id": "fukashigi-no-carte",
+    "title": {"zh": "不可思议的病历", "en": "Fukashigi no Carte", "ja": "不可思議のカルテ"},
+    "original": {"credit": "瀬戸麻沙美・種﨑敦美・東山奈央・内田真礼・久保ユリカ・水瀬いのり", "url": "https://www.aniplex.co.jp/news/detail/?id=47970"},
+    "versions": [
+      {"id": "bv1suy8z9eu1", "type": "mv"}
+    ]
+  },
+  {
+    "id": "stronger-than-you",
+    "title": {"zh": "Stronger Than You", "en": "Stronger Than You", "ja": "Stronger Than You"},
+    "original": {"credit": "Steven Universe · Estelle", "url": "https://music.apple.com/us/song/1511215621"},
+    "versions": [
+      {"id": "bv1cq1fzqe2i", "type": "arrangement"}
+    ]
+  },
+  {
+    "id": "swim-chase-atlantic",
+    "title": {"zh": "Swim", "en": "Swim", "ja": "Swim"},
+    "original": {"credit": "Chase Atlantic", "url": "https://music.apple.com/us/song/1812458627"},
+    "versions": [
+      {"id": "bv1zbylzqeqm", "type": "mv"}
+    ]
   }
 ]

@@ -4,12 +4,15 @@ import {readFile, stat} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {beijingTime,byCumulativeLikes} from '../src/lib/animation-ranking.mjs';
 import {rankSongsByLikes} from '../src/lib/song-ranking.mjs';
+import {unlistedSourceLeads} from '../src/lib/source-leads.mjs';
 
 const root = new URL('../', import.meta.url);
 const read = path => readFile(new URL(path, root), 'utf8');
 const chibi=JSON.parse(await read('public/generated/super-chibi-v1/manifest.json'));
 const references=JSON.parse(await read('public/generated/ai-models-v5/manifest.json'));
+const doodles=JSON.parse(await read('public/generated/rough-doodle-v1/manifest.json'));
 const {records}=JSON.parse(await read('content/resources.json'));
+const leads=JSON.parse(await read('content/leads.json'));
 const characters=JSON.parse(await read('content/characters.json'));
 const songs=JSON.parse(await read('content/songs.json'));
 const resourceById=new Map(records.map(record=>[record.id,record]));
@@ -26,7 +29,11 @@ const categories = ['characters', 'songs', 'references', 'animations', 'desktop-
 const directEntryLinks = {
  songs: new Set(songs.flatMap(song => song.versions.map(version => resourceById.get(version.id).url))),
  animations: new Set(records.filter(record => record.category === 'animation').map(record => record.url)),
- 'desktop-pets': new Set(records.filter(record => record.category === 'interactive').map(record => record.url))
+ 'desktop-pets': new Set(records.filter(record => record.category === 'interactive').map(record => record.url)),
+ sources: new Set([
+  ...leads.map(lead => lead.url),
+  ...records.filter(record => record.category === 'sources').flatMap(record => [record.url, ...record.relations.map(link => link.url)])
+ ])
 };
 for (const [file, lang, directory, timeline, galleries] of layouts) {
  test(`${file}: compact previews match the video and song rankings`,async()=>{
@@ -70,9 +77,10 @@ for (const [file, lang, directory, timeline, galleries] of layouts) {
   const counts = {
    characters: characters.length,
    songs: songs.length,
+   references: chibi.assets.length + references.assets.length + doodles.assets.length,
    animations: records.filter(record => record.category === 'animation').length,
    'desktop-pets': records.filter(record => record.category === 'interactive').length,
-   sources: records.filter(record => record.category === 'sources').length
+   sources: records.filter(record => record.category === 'sources').length + unlistedSourceLeads(records, leads).length
   };
   assert.doesNotMatch(contents + categorySections, /<img\b|!\[/);
   for (const category of categories) {
@@ -89,6 +97,13 @@ for (const [file, lang, directory, timeline, galleries] of layouts) {
     }
     if (directEntryLinks[category]) {
      assert.ok(directEntryLinks[category].has(url.href), `${category}: ${url.href}`);
+    }
+    if (category === 'characters') {
+     assert.ok(characters.some(character => url.href === `https://selinlee.github.io/ai-moe-atlas/${lang}/characters/${character.id}/`), url.href);
+    }
+    if (category === 'references') {
+     assert.ok([...references.assets.map(asset => `https://selinlee.github.io/ai-moe-atlas/${lang}/references/#${asset.id}`),
+      ...chibi.assets.map(asset => `https://selinlee.github.io/ai-moe-atlas/${lang}/chibi/#${asset.id}`)].includes(url.href), url.href);
     }
     return url.href;
    });

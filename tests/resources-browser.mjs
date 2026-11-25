@@ -5,6 +5,7 @@ import {readFile,mkdir} from 'node:fs/promises';
 import {readPendingAnimationCandidates} from '../scripts/lib/resources.mjs';
 import {byPublicationTime,beijingTime} from '../src/lib/animation-ranking.mjs';
 import {rankSongsByLikes} from '../src/lib/song-ranking.mjs';
+import {unlistedSourceLeads} from '../src/lib/source-leads.mjs';
 const registry=JSON.parse(await readFile('content/resources.json','utf8'));
 const leads=JSON.parse(await readFile('content/leads.json','utf8'));
 const songs=JSON.parse(await readFile('content/songs.json','utf8'));
@@ -15,6 +16,8 @@ const animationCount=registry.records.filter(r=>r.category==='animation').length
 const ranked=registry.records.filter(r=>r.likes).sort((a,b)=>
   b.likes.count-a.likes.count||b.publicationDate.localeCompare(a.publicationDate)||a.id.localeCompare(b.id));
 const interactiveCount=registry.records.filter(r=>r.category==='interactive').length;
+const remainingLeads=unlistedSourceLeads(registry.records,leads);
+const sourceCount=registry.records.filter(r=>r.category==='sources').length+remainingLeads.length;
 const origin=process.env.ATLAS_TEST_URL??'http://127.0.0.1:4322/ai-moe-atlas';
 await mkdir('.qa',{recursive:true});
 const browser=await chromium.launch({channel:'chrome',headless:true});
@@ -25,6 +28,7 @@ try{
   const response=await page.goto(`${origin}/${lang}/`,{waitUntil:'networkidle'});assert.equal(response.status(),200);
   assert.equal(await page.locator('[data-category-link]').count(),6);
   assert.equal(await page.locator('main h1').count(),1);
+  assert.equal(await page.locator('[data-category-link="sources"] .resource-category-count strong').innerText(),String(sourceCount));
   assert.ok(await page.locator('[data-category-link="sources"]').evaluate(el=>el.getBoundingClientRect().bottom<innerHeight),'All six categories fit the desktop first screen');
   const cards=await page.locator('[data-category-link]').evaluateAll(links=>links.map(a=>a.href));
   for(const url of cards){const r=await context.request.get(url);assert.equal(r.status(),200,url);}
@@ -174,7 +178,12 @@ try{
   assert.ok(await page.locator('#resource-types').isHidden());
   assert.equal(new URL(page.url()).searchParams.has('type'),false);
   await page.locator('#resource-search').fill('no-such-work-xyz');assert.ok(await page.locator('#resource-empty').isVisible());
-  await page.locator('#resource-reset').click();assert.equal(await page.locator('[data-resource-category]:visible').count(),registry.records.length+leads.length);
+  await page.locator('#resource-reset').click();assert.equal(await page.locator('[data-resource-category]:visible').count(),registry.records.length+remainingLeads.length);
+  await page.locator('[data-resource-filter="sources"]').click();
+  assert.equal(await page.locator('[data-resource-category="sources"]:visible').count(),sourceCount);
+  const gallery=page.locator('[data-resource-category="sources"]:visible h2 a[href="https://www.pixiv.net/artworks/148186519"]');
+  assert.equal(await gallery.count(),1);
+  assert.equal(await page.locator('#pixiv-ai-girls').locator('xpath=ancestor::article[1]').getAttribute('id'),'zipzippipe-pixiv-ai-girls-gallery');
   await page.goto(`${origin}/${lang}/resources/?category=unknown&q=BV1C7h16jEHJ`);
   assert.equal(await page.locator('[data-resource-category]:visible').count(),1);
   assert.ok(await page.locator('#bv1c7h16jehj').isVisible());

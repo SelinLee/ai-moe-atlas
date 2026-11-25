@@ -5,6 +5,11 @@ import JSZip from 'jszip';
 import sharp from 'sharp';
 const origin=process.env.ATLAS_TEST_URL??'http://127.0.0.1:4322/ai-moe-atlas';
 const chars=JSON.parse(await readFile('content/characters.json','utf8'));
+const selections=JSON.parse(await readFile('content/baselines.json','utf8'));
+const baselineStates=selections.map(selection=>{
+ const character=chars.find(c=>c.id===selection.characterId);
+ return !character?'missing':character.preview&&character.downloadable?'ready':'candidate';
+});
 await mkdir('.qa',{recursive:true});
 const browser=await chromium.launch({...(process.env.CHROME_PATH?{executablePath:process.env.CHROME_PATH}:{channel:'chrome'}),headless:true});
 const context=await browser.newContext({viewport:{width:1440,height:1000},acceptDownloads:true});
@@ -39,10 +44,10 @@ try {
   }
   await page.goto(`${origin}/${lang}/`,{waitUntil:'domcontentloaded'});
   await page.goto(`${origin}/${lang}/models/`,{waitUntil:'domcontentloaded'});
-  assert.equal(await page.locator('[data-baseline]').count(),33);
-  assert.equal(await page.locator('[data-state="ready"]').count(),12);
-  assert.equal(await page.locator('[data-state="candidate"]').count(),21);
-  assert.equal(await page.locator('[data-state="missing"]').count(),0);
+  assert.equal(await page.locator('[data-baseline]').count(),baselineStates.length);
+  assert.equal(await page.locator('[data-state="ready"]').count(),baselineStates.filter(state=>state==='ready').length);
+  assert.equal(await page.locator('[data-state="candidate"]').count(),baselineStates.filter(state=>state==='candidate').length);
+  assert.equal(await page.locator('[data-state="missing"]').count(),baselineStates.filter(state=>state==='missing').length);
   assert.equal(await page.locator('[data-state="candidate"] img').count(),0);
   await page.goto(`${origin}/${lang}/assets/`,{waitUntil:'domcontentloaded'});
   const qwenPack=page.locator('.asset-section').filter({has:page.locator('a[href$="/packs/mx1951-qwen.zip"]')});
@@ -155,16 +160,16 @@ try {
   await page.locator('#copy-results').click();await page.locator('#results-link').waitFor({state:'visible'});assert.equal(await page.locator('#results-link').inputValue(),page.url());
   await page.goto(`${origin}/${lang}/characters/deep-whale-maid/`);
   await page.locator('.detail-info a[href*="/studio/?"]').focus();await page.keyboard.press('Enter');
-  await page.waitForFunction(()=>!document.getElementById('export-pack').disabled);
+  await page.waitForFunction(()=>document.getElementById('export-pack')?.disabled===false);
   assert.equal(await page.locator('#character-select').inputValue(),'deep-whale-maid');assert.equal(await page.locator('#pose-select').inputValue(),'delighted');
   await page.goto(`${origin}/${lang}/characters/deep-whale-maid/`);
   await page.setViewportSize({width:390,height:844});
   await page.locator('.expression-actions a[href*="pose=sleepy"]').click();
-  await page.waitForFunction(()=>!document.getElementById('export-pack').disabled);assert.equal(await page.locator('#pose-select').inputValue(),'sleepy');
+  await page.waitForFunction(()=>document.getElementById('export-pack')?.disabled===false);assert.equal(await page.locator('#pose-select').inputValue(),'sleepy');
   await page.setViewportSize({width:1440,height:1000});
   await page.goto(`${origin}/${lang}/characters/clawd-desktop/`);assert.equal(await page.locator('.detail-info a[href*="/studio/?"]').count(),0);
   await page.goto(`${origin}/${lang}/studio/?asset=deep-whale-maid&pose=sleepy`,{waitUntil:'domcontentloaded'});
-  await page.waitForFunction(()=>!document.getElementById('export-pack').disabled);
+  await page.waitForFunction(()=>document.getElementById('export-pack')?.disabled===false);
   assert.equal(await page.locator('#pose-select').inputValue(),'sleepy');
   await page.locator('#advanced-settings').evaluate(e=>e.open=true);
   await page.selectOption('#size','1024');await page.selectOption('#shape','portrait');await page.selectOption('#format','webp');
@@ -172,10 +177,10 @@ try {
   const zip=await JSZip.loadAsync(await readFile(out));const manifest=JSON.parse(await zip.file('provenance.json').async('string'));
   assert.equal(manifest.output.width,768);assert.equal(manifest.output.height,1024);assert.equal(manifest.source.rights.license,'CC-BY-NC-SA-4.0');assert.equal(manifest.processing.generative,false);
   assert.ok(Object.keys(zip.files).some(p=>p==='evidence/NOTICE.txt'));const m=await sharp(await zip.file(manifest.output.file).async('nodebuffer')).metadata();assert.equal(m.width,768);assert.equal(m.format,'webp');
-  const target=lang==='ja'?'en':'ja';await page.locator(`.language-switch a[hreflang="${target}"]`).click();await page.waitForFunction(()=>!document.getElementById('export-pack').disabled);assert.equal(await page.locator('#pose-select').inputValue(),'sleepy');
+  const target=lang==='ja'?'en':'ja';await page.locator(`.language-switch a[hreflang="${target}"]`).click();await page.waitForFunction(()=>document.getElementById('export-pack')?.disabled===false);assert.equal(await page.locator('#pose-select').inputValue(),'sleepy');
  }
  await page.goto(`${origin}/en/studio/?asset=zipzippipe-chatgpt&pose=portrait`,{waitUntil:'domcontentloaded'});
- await page.waitForFunction(()=>!document.getElementById('export-pack').disabled);
+ await page.waitForFunction(()=>document.getElementById('export-pack')?.disabled===false);
  assert.ok((await page.locator('#usage-note').textContent()).includes('Creator terms'));
  const originalDownload=page.waitForEvent('download');await page.click('#export-pack');await (await originalDownload).saveAs('.qa/pixiv-export.zip');
  const originalZip=await JSZip.loadAsync(await readFile('.qa/pixiv-export.zip'));
@@ -185,8 +190,8 @@ try {
  assert.equal(originalManifest.source.rights.license,'LicenseRef-ZipZipPipe-NC');
  assert.equal(originalManifest.source.rights.modify,false);
  assert.ok((await originalZip.file('README.txt').async('string')).includes('Creator terms'));
- await page.goto(`${origin}/en/studio/`,{waitUntil:'domcontentloaded'});await page.waitForFunction(()=>!document.getElementById('export-pack').disabled);
- await page.locator('#upload').setInputFiles('public/collected/shangshan-whale/portrait/original.png');await page.waitForFunction(()=>!document.getElementById('export-pack').disabled);
+ await page.goto(`${origin}/en/studio/`,{waitUntil:'domcontentloaded'});await page.waitForFunction(()=>document.getElementById('export-pack')?.disabled===false);
+ await page.locator('#upload').setInputFiles('public/collected/shangshan-whale/portrait/original.png');await page.waitForFunction(()=>document.getElementById('export-pack')?.disabled===false);
  await page.click('#export-pack');await page.waitForFunction(()=>document.getElementById('studio-status').textContent.includes('source URL'));
  await page.fill('#source-url','https://www.bilibili.com/opus/1231977657712771073');await page.fill('#source-author','上善无形');await page.fill('#source-terms','CC BY-NC-SA 4.0');await page.locator('#advanced-settings').evaluate(e=>e.open=true);await page.selectOption('#format','jpeg');await page.selectOption('#shape','circle');
  const localDL=page.waitForEvent('download');await page.click('#export-pack');await (await localDL).saveAs('.qa/local-export.zip');
