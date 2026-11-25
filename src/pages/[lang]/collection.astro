@@ -1,97 +1,49 @@
 ---
 import Layout from '../../layouts/Layout.astro';
 import DirectorySearch from '../../components/DirectorySearch.astro';
-import ResourceCategories from '../../components/ResourceCategories.astro';
 import { locales, type Locale } from '../../lib/i18n';
+import { directoryIndex } from '../../lib/directory';
+import { categories, categoryURL } from '../../lib/resources';
 import { resourceText } from '../../lib/resource-text';
 import { navigation } from '../../lib/navigation';
 import { path } from '../../lib/paths';
-export function getStaticPaths() { return locales.map(lang => ({params: {lang}})); }
+export function getStaticPaths() { return locales.map(lang => ({ params: { lang } })); }
 const lang = Astro.params.lang as Locale;
 const n = navigation[lang], rs = resourceText[lang];
+const url = path(`${lang}/collection/`);
+const rows = directoryIndex(lang);
+const pageSize = 30;
 ---
 <Layout lang={lang} title={n.directory} description={n.intro} active="resources" route="collection/">
-  <section class="page-heading resource-home-heading"><div><h1>{n.directory}</h1></div></section>
-  <DirectorySearch lang={lang} scoped/>
-  <section id="directory-results" data-index={path(`${lang}/collection/index.json`)} data-units={rs.results}
-    data-empty={rs.empty} data-loading={n.loading} data-failure={n.failure} hidden>
-    <div class="directory-summary"><p role="status"></p><a href={path(`${lang}/collection/`)}>{rs.clear}</a></div>
-    <ul class="directory-list"></ul>
-    <button id="directory-more" class="button secondary" hidden>{n.more}</button>
-    <button id="directory-retry" class="button secondary" hidden>{n.retry}</button>
-  </section>
-  <div id="browse-categories"><ResourceCategories lang={lang}/></div>
+  <header class="directory-heading"><h1>{n.directory}</h1><DirectorySearch lang={lang}/></header>
+  <div class="directory-layout">
+    <nav class="directory-sidebar" aria-label={rs.categories}>
+      <a data-scope="" href={url} aria-current="true">{n.allResources}</a>
+      {categories.map(key => <a data-scope={key} href={categoryURL(key, lang)} aria-label={rs.category[key].title}>
+        <span class="scope-full">{rs.category[key].title}</span><span class="scope-short">{n.shortCategory[key]}</span>
+      </a>)}
+    </nav>
+    <section id="directory-results" aria-labelledby="directory-title" data-index={url+'index.json'}
+      data-page-size={pageSize} data-total={rows.length} data-units={rs.results} data-empty={rs.empty} data-loading={n.loading} data-failure={n.failure}>
+      <div class="directory-panel-heading">
+        <h2 id="directory-title">{n.allResources}</h2>
+        <a id="directory-category-page" hidden>{n.openCategory} →</a>
+      </div>
+      <div class="directory-summary">
+        <p role="status">{rows.length} {rs.results}</p>
+        <a id="directory-clear" href={url} hidden>{rs.clear}</a>
+      </div>
+      <ul class="directory-list">
+        {rows.slice(0, pageSize).map(row => <li>
+          <div><a href={row.href}>{row.title}</a><small>{[rs.category[row.categories[0]].title, row.by].filter(Boolean).join(' · ')}</small></div>
+          <a href={row.action.href} download={row.action.download}>{row.action.label}</a>
+        </li>)}
+      </ul>
+      <button id="directory-more" class="button secondary" hidden>{n.more}</button>
+      <button id="directory-retry" class="button secondary" hidden>{n.retry}</button>
+    </section>
+  </div>
 </Layout>
 <script>
-  import type { SearchResult } from '../../lib/directory';
-  import { normalizeSearch } from '../../lib/search-text';
-  const form = document.querySelector<HTMLFormElement>('.directory-form')!;
-  const box = form.elements.namedItem('q') as HTMLInputElement;
-  const scope = form.elements.namedItem('category') as HTMLSelectElement;
-  const area = document.getElementById('directory-results')!;
-  const list = area.querySelector('ul')!, status = area.querySelector('[role=status]')!;
-  const more = document.getElementById('directory-more')!, retry = document.getElementById('directory-retry')!;
-  const categories = document.getElementById('browse-categories')!;
-  const params = new URLSearchParams(location.search);
-  box.value = (params.get('q') ?? '').slice(0, box.maxLength);
-  scope.value = params.get('category') ?? '';
-  if (scope.selectedIndex < 0) scope.selectedIndex = 0;
-  const query = normalizeSearch(box.value.trim());
-  const terms = query.split(/\s+/).filter(Boolean);
-  const category = scope.value;
-  const labels = new Map([...scope.options].map(o => [o.value, o.label]));
-  let matches: SearchResult[] = [], shown = 0;
-  function showMore() {
-    const batch = matches.slice(shown, shown + 30);
-    for (const row of batch) {
-      const item = document.createElement('li'), info = document.createElement('div');
-      const title = document.createElement('a'), meta = document.createElement('small');
-      const target = new URL(row.href, location.href);
-      if (category && target.searchParams.has('category')) target.searchParams.set('category', category);
-      title.href = target.href;
-      title.textContent = row.title;
-      meta.textContent = [labels.get(category || row.categories[0]), row.by].filter(Boolean).join(' · ');
-      info.append(title, meta);
-      item.append(info);
-      const action = document.createElement('a');
-      action.href = row.action.href;
-      action.textContent = row.action.label;
-      if (row.action.download) action.download = '';
-      item.append(action);
-      list.append(item);
-    }
-    shown += batch.length;
-    more.hidden = shown >= matches.length;
-  }
-  async function search() {
-    retry.hidden = true;
-    area.hidden = false;
-    status.textContent = area.dataset.loading!;
-    try {
-      const response = await fetch(area.dataset.index!);
-      if (!response.ok) throw new Error(String(response.status));
-      const rows: SearchResult[] = await response.json();
-      matches = rows.filter(row => (!category || row.categories.some(c => c === category)) && terms.every(t => row.keywords.includes(t)));
-      if (terms.length) {
-        const rank = (row: SearchResult) => {
-          const title = normalizeSearch(row.title);
-          return title === query ? 0 : title.includes(query) ? 1 : 2;
-        };
-        matches.sort((a,b) => rank(a)-rank(b));
-      }
-      categories.hidden = matches.length > 0;
-      status.textContent = matches.length ? `${matches.length} ${area.dataset.units}` : area.dataset.empty!;
-      showMore();
-    } catch {
-      status.textContent = area.dataset.failure!;
-      retry.hidden = false;
-    }
-  }
-  scope.addEventListener('change', () => form.requestSubmit());
-  form.addEventListener('formdata', e => {
-    for (const key of ['q','category']) if (!String(e.formData.get(key) ?? '').trim()) e.formData.delete(key);
-  });
-  more.addEventListener('click', showMore);
-  retry.addEventListener('click', search);
-  if (query || category) search();
+  import '../../scripts/directory';
 </script>
