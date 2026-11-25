@@ -1,0 +1,19 @@
+---
+import Icon from './Icon.astro';
+import type { SearchResult } from '../lib/directory';
+import { categoryIcons } from '../lib/resources';
+const { row, categoryLabel } = Astro.props as { row?: SearchResult; categoryLabel?: string };
+const category = row?.categories[0];
+---
+<li class="directory-card" data-kind={category} data-picture={row?.image ? '' : undefined}>
+  <a class="directory-entry" href={row?.href}>
+    <span class="directory-art">
+      {row?.image ? <img src={row.image.src} alt="" width="256" height="160" loading="lazy" decoding="async"/> : category && <Icon name={categoryIcons[category]} size={42}/>}
+      {row?.mediaLabel && <span>{row.mediaLabel}</span>}
+    </span>
+    <strong>{row?.title}</strong>
+  </a>
+  <small class="directory-byline">{[categoryLabel, row?.by].filter(Boolean).join(' · ')}</small>
+  <a class="directory-credit" href={row?.image?.source} hidden={!row?.image}>{row?.image?.credit}</a>
+  <a class="directory-action" href={row?.action.href} download={row?.action.download}>{row?.action.label}</a>
+</li>

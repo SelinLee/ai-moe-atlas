@@ -5,6 +5,7 @@
     {
       "id": "crosspet-whale",
       "target": "crosspet",
+      "credit": "上善无形 → ZipZipPipe → CrossPet",
       "usage": "Original CrossPet AI-assisted whale girl idle artwork. Original design by 上善无形, maid design by ZipZipPipe, project redraw by CrossPet.",
       "source": {
         "url": "https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/characters/deepseek/idle.webp",
@@ -39,6 +40,7 @@
     {
       "id": "misaka-dsh-whale",
       "target": "bv1xcai6ae9g",
+      "credit": "上善无形 → ZipZipPipe → Small-tailqwq",
       "usage": "Whale girl portrait used in MisakaZentai’s PV production. Original design by 上善无形, maid design by ZipZipPipe, portrait by Small-tailqwq / dsh-deep-whale.",
       "source": {
         "url": "https://github.com/MisakaZentai/world-execute-me-dsh-pv/blob/a598092a1b1db91fa43961a81269353d13419f6f/film/third_party_references/whale_maid_expanded_20260926/maid-left.webp",
@@ -73,6 +75,7 @@
     {
       "id": "whale-night-companion",
       "target": "deep-whale-day-night",
+      "credit": "上善无形 → ZipZipPipe → Small-tailqwq",
       "usage": "Night sidebar companion from Deep Whale Day & Night. Original design by 上善无形, maid design by ZipZipPipe, generated theme adaptation by Small-tailqwq (dsh-external/dsh-deep-whale).",
       "source": {
         "url": "https://github.com/GGBond2424648901/deep-whale-day-night-theme/blob/3f6c4f14716d1e500f585be0c0d3c139c7a8a90b/assets/deep-whale-night-companion-v1.webp",
@@ -107,6 +110,7 @@
     {
       "id": "nyankomint-claude-silhouette",
       "target": "bv186pc65e68",
+      "credit": "Nyankomint",
       "usage": "Nyankomint’s AI-generated Claude fan-art profile for the fourth version of the lyric MV.",
       "source": {
         "url": "https://github.com/Nyankomintsu/world-execute-me-lyric-mv/blob/93ac63775ee58b33ff102167514f2603a48940cc/assets/character/f_profile.png",
@@ -141,6 +145,7 @@
     {
       "id": "workbuddy-whale-curious",
       "target": "workbuddy-whale-pet",
+      "credit": "上善无形 → ZipZipPipe → Vast-Beyond-Space/pet-app → capricornus9527",
       "usage": "Curious pose from the WorkBuddy project’s processed static artwork. Original design by 上善无形, maid design by ZipZipPipe, source art compiled by Vast-Beyond-Space/pet-app, and technical preparation by capricornus9527.",
       "source": {
         "url": "https://github.com/capricornus9527/workbuddy-whale-pet/blob/09c97b64e9c626a1817b04fc7d1d033b9458f6ee/assets/pet/curious.png",

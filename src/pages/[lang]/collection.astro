@@ -1,9 +1,11 @@
 ---
 import Layout from '../../layouts/Layout.astro';
+import DirectoryCard from '../../components/DirectoryCard.astro';
+import Icon from '../../components/Icon.astro';
 import DirectorySearch from '../../components/DirectorySearch.astro';
 import { locales, type Locale } from '../../lib/i18n';
 import { directoryIndex } from '../../lib/directory';
-import { categories, categoryURL } from '../../lib/resources';
+import { categories, categoryURL, categoryIcons } from '../../lib/resources';
 import { resourceText } from '../../lib/resource-text';
 import { navigation } from '../../lib/navigation';
 import { path } from '../../lib/paths';
@@ -18,9 +20,9 @@ const pageSize = 30;
   <header class="directory-heading"><h1>{n.directory}</h1><DirectorySearch lang={lang}/></header>
   <div class="directory-layout">
     <nav class="directory-sidebar" aria-label={rs.categories}>
-      <a data-scope="" href={url} aria-current="true">{n.allResources}</a>
+      <a data-scope="" aria-label={n.allResources} href={url} aria-current="true"><Icon name="atlas" size={18}/>{n.allResources}</a>
       {categories.map(key => <a data-scope={key} href={categoryURL(key, lang)} aria-label={rs.category[key].title}>
-        <span class="scope-full">{rs.category[key].title}</span><span class="scope-short">{n.shortCategory[key]}</span>
+        <Icon name={categoryIcons[key]} size={18}/><span class="scope-full">{rs.category[key].title}</span><span class="scope-short">{n.shortCategory[key]}</span>
       </a>)}
     </nav>
     <section id="directory-results" aria-labelledby="directory-title" data-index={url+'index.json'}
@@ -34,11 +36,9 @@ const pageSize = 30;
         <a id="directory-clear" href={url} hidden>{rs.clear}</a>
       </div>
       <ul class="directory-list">
-        {rows.slice(0, pageSize).map(row => <li>
-          <div><a href={row.href}>{row.title}</a><small>{[rs.category[row.categories[0]].title, row.by].filter(Boolean).join(' · ')}</small></div>
-          <a href={row.action.href} download={row.action.download}>{row.action.label}</a>
-        </li>)}
+        {rows.slice(0, pageSize).map(row => <DirectoryCard row={row} categoryLabel={rs.category[row.categories[0]].title}/>)}
       </ul>
+      <template id="directory-card-template"><DirectoryCard/></template>
       <button id="directory-more" class="button secondary" hidden>{n.more}</button>
       <button id="directory-retry" class="button secondary" hidden>{n.retry}</button>
     </section>

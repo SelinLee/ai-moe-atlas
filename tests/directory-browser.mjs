@@ -1,6 +1,9 @@
 import { chromium } from 'playwright';
+import { readFile } from 'node:fs/promises';
+import { allowsUse } from '../src/lib/usage-policy.mjs';
 import assert from 'node:assert/strict';
 const origin = process.env.ATLAS_TEST_URL ?? 'http://127.0.0.1:4322/ai-moe-atlas';
+const reviews = JSON.parse(await readFile('content/reviews/artwork-uses.json', 'utf8'));
 const browser = await chromium.launch({ channel:'chrome', headless:true });
 try {
   const page = await browser.newPage({viewport:{width:390,height:844}});
@@ -20,6 +23,26 @@ try {
     const index = await (await page.request.get(root + '/collection/index.json')).json();
     assert.deepEqual(await sidebar.locator('a').evaluateAll(links => links.map(a => a.dataset.scope)), ['', ...home.map(c => c.key)]);
     assert.equal(await results.count(),30);
+    async function checkPreviews(rows) {
+      const expected = rows.slice(0,30).filter(row=>row.image).map(row=>[row.image.src,row.image.credit,row.image.source]);
+      const cards = page.locator('.directory-card[data-picture]');
+      assert.deepEqual(await cards.evaluateAll(items=>items.map(item=>[
+        item.querySelector('img').getAttribute('src'), item.querySelector('.directory-credit').textContent,
+        item.querySelector('.directory-credit').getAttribute('href'),
+      ])),expected);
+      assert.equal(await page.locator('.directory-card:not([data-picture]) img').count(),0);
+    }
+    await checkPreviews(index);
+    assert.ok(await results.first().locator('img').evaluate(async image => {
+      await image.decode();
+      return image.naturalWidth > 0 && getComputedStyle(image).objectFit === 'contain';
+    }));
+    for (const row of index.filter(row=>row.categories.includes('characters') && row.image)) {
+      const id = row.href.split('/').at(-2);
+      assert.ok(allowsUse(reviews,id,'featured'),id);
+    }
+    assert.ok(index.find(row=>row.href.endsWith('#persona-glm-zcode')).image.src.includes('/collected/zipzippipe-glm/'));
+    assert.ok(index.some(row=>row.image?.src.includes('/category-previews/')));
     for (const width of [1280, 390, 320]) {
       await page.setViewportSize({width, height:844});
       const left = await sidebar.boundingBox(), right = await page.locator('#directory-results').boundingBox();
@@ -35,6 +58,7 @@ try {
       await tab(key).click();
       await results.first().waitFor();
       assert.equal(await results.count(), Math.min(count, 30));
+      await checkPreviews(index.filter(row=>row.categories.includes(key)));
       assert.equal(await tab(key).getAttribute('aria-current'), 'true');
       assert.equal(await page.locator('#directory-category-page').evaluate(a=>a.href), href);
       assert.equal(Number.parseInt(await page.locator('#directory-results [role=status]').innerText()), count);

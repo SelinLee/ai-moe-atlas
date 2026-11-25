@@ -1,9 +1,11 @@
 import { characters, entityName } from './data';
-import { resources, stickerEntries, rigEntries, comicEntries, categories, type Category } from './resources';
+import { resources, stickerEntries, rigEntries, rigFormats, comicEntries, categories, type Category } from './resources';
 import { chibiCollection } from './chibi';
 import { referenceCollection } from './references';
 import doodles from '../../public/generated/rough-doodle-v1/manifest.json';
 import songs from '../../content/songs.json';
+import categoryArtwork from '../../content/category-preview-artwork.json';
+import { canUse } from './usage';
 import { path, repo } from './paths';
 import { navigation } from './navigation';
 import { resourceText } from './resource-text';
@@ -16,8 +18,37 @@ export type SearchResult = {
   categories: Category[];
   href: string;
   keywords: string;
+  image?: { src: string; credit: string; source: string };
+  mediaLabel?: string;
   action: { label: string; href: string; download?: boolean };
 };
+
+// These portraits identify the character described by a text card. Each caption links to the art separately.
+const personaPortraits: Record<string, string> = {
+  'persona-glm-zcode': 'zipzippipe-glm',
+  'persona-glm-deslop': 'zipzippipe-glm',
+  'persona-gemini-zcode': 'zipzippipe-gemini',
+  'persona-claude-deslop': 'zipzippipe-claude',
+  'persona-gpt-deslop': 'zipzippipe-chatgpt',
+  'persona-gpt-coopanion': 'zipzippipe-chatgpt',
+  'persona-deepseek-astrbot': 'shangshan-whale',
+  'persona-deepseek-fanpack': 'shangshan-whale',
+  'persona-deepseek-linsport-coding': 'shangshan-whale',
+  'persona-deepseek-linsport-teaching': 'shangshan-whale',
+  'persona-deepseek-zexuan-qq': 'shangshan-whale',
+};
+const portraits = new Map(characters.filter(c => c.preview && canUse(c.id, 'featured')).map(c => [c.id, c]));
+const projectImages = new Map(categoryArtwork.assets.map(a => [a.target, a]));
+
+function portrait(id: string, kind: string, lang: Locale): SearchResult['image'] {
+  const c = portraits.get(id);
+  if (!c?.preview) return;
+  return {
+    src: path(c.preview),
+    credit: `${kind} · ${c.attribution.map(a => a.name).join(' → ')}`,
+    source: path(`${lang}/characters/${c.id}/`),
+  };
+}
 
 export function directoryIndex(lang: Locale) {
   const n = navigation[lang];
@@ -25,11 +56,12 @@ export function directoryIndex(lang: Locale) {
   const rs = resourceText[lang];
   const rows: SearchResult[] = characters.map(c => ({
     title: c.name[lang],
-    by: [c.author, c.downloadable && (c.licenseLabel?.[lang] ?? c.license)].filter(Boolean).join(' · '),
+    by: [!portraits.has(c.id) && c.author, c.downloadable && (c.licenseLabel?.[lang] ?? c.license)].filter(Boolean).join(' · '),
     categories: ['characters'],
+    image: portrait(c.id, n.artCredit, lang),
     href: path(`${lang}/characters/${c.id}/`),
     keywords: [
-      ...Object.values(c.name), entityName(c.entity), c.description[lang],
+      ...Object.values(c.name), entityName(c.entity), c.author, c.description[lang],
       c.sourceTitle, c.source, ...c.attribution.map(a => a.name),
     ].join(' '),
     action: c.downloadable
@@ -43,6 +75,11 @@ export function directoryIndex(lang: Locale) {
       categories: ['songs'],
       href: path(`${lang}/songs/#${song.id}`),
       keywords: [...Object.values(song.title), song.original.url, ...song.versions.map(v => v.id)].join(' '),
+      image: song.image && {
+        src: path(song.image.path),
+        credit: `${rs.songs[song.image.kind as 'productionArt' | 'characterReference']} · ${song.image.credit}`,
+        source: song.image.source,
+      },
       action: { label: rs.songs.original, href: song.original.url },
     });
   }
@@ -53,14 +90,20 @@ export function directoryIndex(lang: Locale) {
   ] as const;
   for (const [collection, label, route] of series) {
     for (const sheet of collection.assets) {
+      const canShowSheet = sheet.rights.status === 'upstream-sharealike-statement' && sheet.rights.license === 'CC-BY-NC-SA-4.0';
+      const credit = sheet.attribution.map(a => a.name).join(' → ');
+      const href = route === 'doodle' ? `${repo}/blob/main/docs/DOODLE.${lang}.md` : path(`${lang}/${route}/#${sheet.id}`);
       rows.push({
         title: `${sheet.name[lang]} · ${label}`,
-        by: sheet.attribution.map(a => a.name).join(' → '),
+        by: canShowSheet ? 'CC BY-NC-SA 4.0' : credit,
         categories: ['references'],
         keywords: [sheet.id, sheet.characterId, ...Object.values(sheet.name)].join(' '),
-        href: route === 'doodle'
-          ? `${repo}/blob/main/docs/DOODLE.${lang}.md`
-          : path(`${lang}/${route}/#${sheet.id}`),
+        href,
+        image: canShowSheet ? {
+          src: path(sheet.preview.path),
+          credit: `${n.generatedArt} · ${credit}`,
+          source: href,
+        } : undefined,
         action: { label: n.viewImage, href: path(sheet.original.path) },
       });
     }
@@ -74,6 +117,15 @@ export function directoryIndex(lang: Locale) {
     if (rig) groups.push('rigs');
     if (comic) groups.push('comics');
     groups.push(r.category);
+    const artwork = projectImages.get(r.id);
+    let mediaLabel;
+    if (comic) mediaLabel = rs.comicEpisode(comic.episode);
+    else if (rig) mediaLabel = rigFormats[rig.format as keyof typeof rigFormats];
+    else if (!artwork && r.category === 'animation' && r.subtype) {
+      const seconds = r.durationSeconds;
+      const duration = seconds ? `${Math.floor(seconds / 60)}:${String(seconds % 60).padStart(2, '0')}` : '';
+      mediaLabel = [rs.types[r.subtype as keyof typeof rs.types], duration].filter(Boolean).join(' · ');
+    }
     rows.push({
       title: r.title[lang],
       by: r.publisher,
@@ -84,12 +136,22 @@ export function directoryIndex(lang: Locale) {
         comic?.series, comic && rs.comicEpisode(comic.episode), ...(sticker?.characters ?? []),
         ...(sticker?.tags ?? []).map(tag => rs.stickerTags[tag as keyof typeof rs.stickerTags]),
       ].filter(Boolean).join(' '),
+      image: artwork ? {
+        src: path(artwork.preview.path),
+        credit: `${n.projectArt} · ${artwork.credit}`,
+        source: artwork.terms,
+      } : portrait(personaPortraits[r.id], rs.songs.characterReference, lang),
+      mediaLabel,
       action: { label: r.category === 'personas' ? rs.persona.original : rs.visit, href: r.url },
     });
   }
   for (const row of rows) {
     const labels = row.categories.map(c => rs.category[c].title);
-    row.keywords = searchText([row.title, row.by, row.keywords, ...labels].join(' '));
+    row.keywords = searchText([row.title, row.by, row.image?.credit, row.keywords, ...labels].join(' '));
   }
-  return rows.sort((a, b) => categories.indexOf(a.categories[0]) - categories.indexOf(b.categories[0]));
+  rows.sort((a, b) => categories.indexOf(a.categories[0]) - categories.indexOf(b.categories[0])
+    || Number(Boolean(b.image)) - Number(Boolean(a.image)));
+  // Show one illustrated entry from each available category when browsing everything.
+  const highlights = new Set(categories.map(c => rows.find(row => row.categories[0] === c && row.image)).filter(row => row !== undefined));
+  return [...highlights, ...rows.filter(row => !highlights.has(row))];
 }

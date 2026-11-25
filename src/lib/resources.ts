@@ -17,6 +17,10 @@ export { byPublicationDate, byPublicationTime, likesObservedDate, beijingTime } 
 export const collectionCategories=['stickers','rigs','comics'] as const;
 export const categories=['characters','personas','songs','references',...collectionCategories,'animation','interactive','sources'] as const;
 export type Category=typeof categories[number];
+export const categoryIcons = {
+  characters:'character', personas:'chat', songs:'music', references:'assets', stickers:'sticker',
+  rigs:'rig', comics:'comic', animation:'play', interactive:'models', sources:'book',
+} satisfies Record<Category, string>;
 type Localized={zh:string;en:string;ja:string};
 export type Resource={
   id:string;category:'animation'|'interactive'|'personas'|'sources';title:Localized;url:string;publisher:string;

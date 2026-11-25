@@ -15,7 +15,9 @@ const tabs = [...document.querySelectorAll<HTMLAnchorElement>('.directory-sideba
 const scopes = new Map(tabs.map(tab => [tab.dataset.scope!, {
   label: tab.getAttribute('aria-label') ?? tab.textContent.trim(),
   page: tab.href,
+  icon: tab.querySelector('svg')!,
 }]));
+const cardTemplate = document.querySelector<HTMLTemplateElement>('#directory-card-template')!;
 const pageSize = Number(area.dataset.pageSize);
 let index: Promise<SearchResult[]> | undefined;
 let category = '', revision = 0;
@@ -42,19 +44,41 @@ function appendResults() {
   const batch = matches.slice(shown, shown + pageSize);
   const fragment = document.createDocumentFragment();
   for (const row of batch) {
-    const item = document.createElement('li'), info = document.createElement('div');
-    const link = document.createElement('a'), meta = document.createElement('small');
+    const item = cardTemplate.content.firstElementChild!.cloneNode(true) as HTMLLIElement;
+    const kind = category || row.categories[0];
+    item.dataset.kind = kind;
+    const media = item.querySelector('.directory-art')!;
+    const credit = item.querySelector<HTMLAnchorElement>('.directory-credit')!;
+    if (row.image) {
+      item.dataset.picture = '';
+      const image = document.createElement('img');
+      image.alt = '';
+      image.width = 256;
+      image.height = 160;
+      image.loading = 'lazy';
+      image.decoding = 'async';
+      image.src = row.image.src;
+      media.append(image);
+      credit.href = row.image.source;
+      credit.textContent = row.image.credit;
+      credit.hidden = false;
+    } else {
+      media.append(scopes.get(kind)!.icon.cloneNode(true));
+    }
+    if (row.mediaLabel) {
+      const label = document.createElement('span');
+      label.textContent = row.mediaLabel;
+      media.append(label);
+    }
     const target = new URL(row.href, location.href);
     if (category && target.searchParams.has('category')) target.searchParams.set('category', category);
-    link.href = target.href;
-    link.textContent = row.title;
-    meta.textContent = [!category && scopes.get(row.categories[0])?.label, row.by].filter(Boolean).join(' · ');
-    info.append(link, meta);
-    const action = document.createElement('a');
+    item.querySelector<HTMLAnchorElement>('.directory-entry')!.href = target.href;
+    item.querySelector('strong')!.textContent = row.title;
+    item.querySelector('.directory-byline')!.textContent = [!category && scopes.get(kind)?.label, row.by].filter(Boolean).join(' · ');
+    const action = item.querySelector<HTMLAnchorElement>('.directory-action')!;
     action.href = row.action.href;
     action.textContent = row.action.label;
     if (row.action.download) action.download = '';
-    item.append(info, action);
     fragment.append(item);
   }
   list.append(fragment);

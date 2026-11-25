@@ -12,7 +12,7 @@ const categoryArtwork=JSON.parse(await readFile('content/category-preview-artwor
 if (categoryArtwork.schemaVersion !== 1 || categoryArtwork.scope !== 'noncommercial-category-display') {
   throw new Error('Invalid category artwork scope');
 }
-for (const {id,target,source,terms,license,original,preview,notices=[]} of categoryArtwork.assets) {
+for (const {id,target,credit,source,terms,license,original,preview,notices=[]} of categoryArtwork.assets) {
   const {commit,sourceSha256,format} = source;
   if (!/^[a-z0-9-]+$/.test(id) || !/^[a-f0-9]{40}$/.test(commit) ||
       !['webp','png'].includes(format) || !source.rawUrl.endsWith(`.${format}`) ||
@@ -20,7 +20,7 @@ for (const {id,target,source,terms,license,original,preview,notices=[]} of categ
       !terms.includes(`/blob/${commit}/`)) {
     throw new Error(`Category artwork must retain pinned sources: ${id}`);
   }
-  if (!resources.records.some(record => record.id === target) ||
+  if (!credit?.trim() || !resources.records.some(record => record.id === target) ||
       license !== 'https://creativecommons.org/licenses/by-nc-sa/4.0/' ||
       preview.parentSha256 !== sourceSha256 || original.sha256 !== sourceSha256) {
     throw new Error(`Category artwork attribution or provenance mismatch: ${id}`);
