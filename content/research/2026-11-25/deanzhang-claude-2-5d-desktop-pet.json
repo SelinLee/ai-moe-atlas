@@ -1,0 +1,72 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:22:24.779Z",
+  "url": "https://github.com/deanzhang2026-max/claude-chan-desktop-pet/blob/333898b36c591037d8716b8e4d408abb5fd7045c/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/deanzhang2026-max/claude-chan-desktop-pet/blob/333898b36c591037d8716b8e4d408abb5fd7045c/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/deanzhang2026-max/claude-chan-desktop-pet/333898b36c591037d8716b8e4d408abb5fd7045c/README.md",
+    "sourceSha256": "db126e8f482a5fc0ecc086e71ad715fefd8aab89a61f24237e8b58b1d4f5c226",
+    "gitBlobSha": "c78ba26431881f8dc738fa9e66194bbd9fcd7692",
+    "bytes": 6603,
+    "commit": "333898b36c591037d8716b8e4d408abb5fd7045c",
+    "accessedAt": "2026-11-25T10:22:24.779Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/deanzhang2026-max/claude-chan-desktop-pet/blob/333898b36c591037d8716b8e4d408abb5fd7045c/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/deanzhang2026-max/claude-chan-desktop-pet/333898b36c591037d8716b8e4d408abb5fd7045c/README.md",
+      "sourceSha256": "db126e8f482a5fc0ecc086e71ad715fefd8aab89a61f24237e8b58b1d4f5c226",
+      "gitBlobSha": "c78ba26431881f8dc738fa9e66194bbd9fcd7692",
+      "bytes": 6603,
+      "commit": "333898b36c591037d8716b8e4d408abb5fd7045c",
+      "accessedAt": "2026-11-25T10:22:24.779Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/deanzhang2026-max/claude-chan-desktop-pet/blob/333898b36c591037d8716b8e4d408abb5fd7045c/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/deanzhang2026-max/claude-chan-desktop-pet/333898b36c591037d8716b8e4d408abb5fd7045c/LICENSE",
+      "sourceSha256": "e66c269d4819aaab34b49ef5220c4ddab6756f21bb5180761a4eb8561f2b7bbd",
+      "gitBlobSha": "7cdbe0b482f604a06a0988dad8877ae8d9257f7d",
+      "bytes": 20850,
+      "commit": "333898b36c591037d8716b8e4d408abb5fd7045c",
+      "accessedAt": "2026-11-25T10:22:25.219Z"
+    },
+    {
+      "path": "web/rig/README.md",
+      "url": "https://github.com/deanzhang2026-max/claude-chan-desktop-pet/blob/333898b36c591037d8716b8e4d408abb5fd7045c/web/rig/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/deanzhang2026-max/claude-chan-desktop-pet/333898b36c591037d8716b8e4d408abb5fd7045c/web/rig/README.md",
+      "sourceSha256": "f2b1c631361e2cfd26a166d896493cb2fd92cd9185ba8557c4844453fa6ec05b",
+      "gitBlobSha": "bf513a541e762cffedce98a79e773c2edb57039b",
+      "bytes": 637,
+      "commit": "333898b36c591037d8716b8e4d408abb5fd7045c",
+      "accessedAt": "2026-11-25T10:22:25.615Z"
+    },
+    {
+      "path": "web/rig/LICENSE",
+      "url": "https://github.com/deanzhang2026-max/claude-chan-desktop-pet/blob/333898b36c591037d8716b8e4d408abb5fd7045c/web/rig/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/deanzhang2026-max/claude-chan-desktop-pet/333898b36c591037d8716b8e4d408abb5fd7045c/web/rig/LICENSE",
+      "sourceSha256": "15183bfbec774052a5817a28eb03730c40ec941a642097b597f0c50092594adb",
+      "gitBlobSha": "560026b612af27d4898ec9e22fb5a44b0f98615d",
+      "bytes": 1065,
+      "commit": "333898b36c591037d8716b8e4d408abb5fd7045c",
+      "accessedAt": "2026-11-25T10:22:25.982Z"
+    }
+  ],
+  "repository": {
+    "full_name": "deanzhang2026-max/claude-chan-desktop-pet",
+    "html_url": "https://github.com/deanzhang2026-max/claude-chan-desktop-pet",
+    "stargazers_count": 8,
+    "archived": false,
+    "created_at": "2026-10-23T04:44:00Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "333898b36c591037d8716b8e4d408abb5fd7045c",
+    "observedAt": "2026-11-25T10:21:52.860Z",
+    "httpStatus": 200,
+    "metadataSha256": "e6011a9fe9de44852b7cf9a27a60a27ef16eb09140a927ac97467ff68a1347e0",
+    "parent": null
+  },
+  "scope": "Pinned documentation and separate art notices matched Git blob hashes. Runtime not executed."
+}

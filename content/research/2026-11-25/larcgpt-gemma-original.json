@@ -1,0 +1,64 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:23:58.357Z",
+  "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Gemma/Gemma_Main_1.png",
+  "pinnedDocument": {
+    "path": "Gemma/Gemma_Main_1.png",
+    "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Gemma/Gemma_Main_1.png",
+    "rawUrl": "https://raw.githubusercontent.com/larcgpt/ai-model-musume/8899faddadb58f639722eb1db2e1e6458893246b/Gemma/Gemma_Main_1.png",
+    "sourceSha256": "5c0ccc536ce1c38e23e15388a3f471cd40280e098f6a494d7c8d6d8b2ed9e860",
+    "gitBlobSha": "3493f032a4ec6a0d84451867e7ef2ca540398292",
+    "bytes": 2545408,
+    "commit": "8899faddadb58f639722eb1db2e1e6458893246b",
+    "accessedAt": "2026-11-25T10:23:58.357Z",
+    "httpStatus": 200,
+    "width": 1024,
+    "height": 1536,
+    "format": "png"
+  },
+  "contextDocuments": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/larcgpt/ai-model-musume/8899faddadb58f639722eb1db2e1e6458893246b/README.md",
+      "sourceSha256": "b20fdeb122de8db9b9fc101cb42d8566e742a8c3d6a654119af3b8b540f57695",
+      "gitBlobSha": "7ac6905d312d5ddcb495fcff92c7783590f40c7e",
+      "bytes": 7589,
+      "commit": "8899faddadb58f639722eb1db2e1e6458893246b",
+      "accessedAt": "2026-11-25T10:23:55.689Z",
+      "httpStatus": 200
+    },
+    {
+      "path": "settings.md",
+      "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/settings.md",
+      "rawUrl": "https://raw.githubusercontent.com/larcgpt/ai-model-musume/8899faddadb58f639722eb1db2e1e6458893246b/settings.md",
+      "sourceSha256": "f32da98775616fb2180b3cdcf51652602a9224f700e9affb8f58ba5b9842378f",
+      "gitBlobSha": "61c65f72dd15c940736d1063f201e37144366ed9",
+      "bytes": 48120,
+      "commit": "8899faddadb58f639722eb1db2e1e6458893246b",
+      "accessedAt": "2026-11-25T10:23:56.213Z",
+      "httpStatus": 200
+    }
+  ],
+  "officialProduct": {
+    "id": "gemma",
+    "url": "https://gemma.ai/",
+    "finalUrl": "https://gemma.ai/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-25T10:24:27.075Z",
+    "title": "Google Gemma Open Models - Gemma Docs",
+    "author": "Google DeepMind",
+    "htmlSha256": "77ee7fdb7a3cadaca98bc0a15bf53cf38cb9e5b8936fc2660b69c4968e579024",
+    "matches": [
+      "Gemma Documentation",
+      "Google Gemma Open Models",
+      "Gemma",
+      "Run Gemma 4 locally with Ollama…",
+      "Compare Gemma 4 model sizes & context…",
+      "Try in Google AI Studio"
+    ],
+    "descriptionMatches": "Google"
+  },
+  "licenseFiles": [],
+  "visualReview": "Reviewed Main_1 image separately from written character concept."
+}

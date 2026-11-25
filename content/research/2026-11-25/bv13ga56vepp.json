@@ -1,0 +1,33 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:24:51.792Z",
+  "url": "https://www.bilibili.com/video/BV13Ga56VEpp/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13Ga56VEpp",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV13Ga56VEpp",
+    "title": "跟我学，保证饿不死",
+    "owner": {
+      "name": "冬冰",
+      "mid": 44748304
+    },
+    "pubdate": 1790593485,
+    "duration": 185
+  },
+  "descriptionSha256": "e14b20b84a3dd2e432e86cda53181793c0551bf228351d41f4498eb22dee2f90",
+  "linkedVideos": [],
+  "discovery": {
+    "indexDocument": {
+      "path": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+      "sourceSha256": "c413280b5fe64ae523ece15ea1414e8a3330450e10fbbc65e14240874b9d4542",
+      "gitBlobSha": "e6619e6313409f3357647300be377421a82a2bd0",
+      "bytes": 5781,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T10:23:59.650Z",
+      "httpStatus": 200
+    },
+    "seriesOrder": 7
+  }
+}

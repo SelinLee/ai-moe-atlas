@@ -95,6 +95,7 @@ const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid
       const format=rig&&rigFormats[rig.format as keyof typeof rigFormats];
       const comic=comicEntries.get(r.id);
       const episode=comic?.episode;
+      const sequence=comic?.sequence;
       const stickerTags=(locale:Locale)=>sticker?.tags.map(tag=>resourceText[locale].stickerTags[tag as keyof typeof s.stickerTags])??[];
       return <article class="resource-record" id={r.id} data-resource-category={r.category} data-resource-type={r.subtype} data-recent-order={recentOrder.get(r.id)}
       data-sticker={sticker?'':undefined} data-rig-format={rig?.format} data-comic-order={comic?.order}
@@ -103,6 +104,7 @@ const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid
         r.subtype&&locales.map(locale=>resourceText[locale].types[r.subtype as keyof typeof s.types]).join(' '),
         ...(sticker?.characters??[]),...locales.flatMap(stickerTags),format,comic?.series,
         episode&&locales.map(locale=>resourceText[locale].comicEpisode(episode)).join(' '),
+        sequence&&locales.map(locale=>resourceText[locale].comicSequence(sequence)).join(' '),
         ...r.relations.map(link=>link.title),
       ].join(' ')}>
       {sourceAnchorAliases.get(r.id)?.map(id=><span id={id} aria-hidden="true"></span>)}
@@ -110,7 +112,7 @@ const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid
         <span class="pill record-category">{s.category[r.category].title}</span>
         {r.subtype&&<span class="resource-subtype">{s.types[r.subtype as keyof typeof s.types]}</span>}
         {format&&<span class="pill">{format}</span>}
-        {episode&&<span class="pill">{comic?.series} · {s.comicEpisode(episode)}</span>}
+        {(episode||sequence)&&<span class="pill">{comic?.series} · {[sequence&&s.comicSequence(sequence),episode&&s.comicEpisode(episode)].filter(Boolean).join(" · ")}</span>}
       </div>
       <h2><a href={r.url} target="_blank" rel="noopener noreferrer">{r.title[lang]} ↗</a></h2>
       <p class="resource-byline">{s.publisher} · {r.publisher} {r.publicationDate&&<> · {s.published} <time datetime={r.publishedAt??r.publicationDate}>{r.publishedAt?beijingTime.format(new Date(r.publishedAt)):r.publicationDate}</time>{r.publishedAt&&<> ({s.publicationZone})</>}</>}{r.bvid&&<> · {r.bvid}</>}</p>

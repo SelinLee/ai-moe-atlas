@@ -22,7 +22,7 @@
 ## リソース一覧
 
 <!-- category-picks:characters -->
-**[🎨 キャラクター図鑑](#characters)** · 72 項目\
+**[🎨 キャラクター図鑑](#characters)** · 75 項目\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/) · [Gemini Pro · 原画と表情](https://selinlee.github.io/ai-moe-atlas/ja/characters/qinv-gemini-pro/) · [Jev 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-jev/)
 
 <!-- category-picks:personas -->
@@ -42,30 +42,30 @@
 [雾雪 · 大きな魚と GPT 娘スタンプの作者投稿](https://www.bilibili.com/video/BV13xnt6QE6s/) · [Gemini 猫娘 · 表情スタンプと猫耳なし差分](https://www.bilibili.com/opus/1264669110489317411) · [阿翀と北宅 · EmoteLab 大きな魚スタンプ](https://steamcommunity.com/sharedfiles/filedetails/?id=3811197171)
 
 <!-- category-picks:rigs -->
-**[🧩 可動モデルとリギング](#rigs)** · 6 件\
+**[🧩 可動モデルとリギング](#rigs)** · 7 件\
 [神宫凉子 · DeepSeek-chan Live2D 作者配布](https://www.bilibili.com/video/BV1KmxY66EZ3/) · [水原镜 · 青い大きな魚 MMD モデル配布](https://www.aplaybox.com/details/model/j9z4quaACJV1) · [木子悪魔 · 青い小さな魚 VRM の作者公開ページ](https://www.aplaybox.com/details/model/ayXkRzVflmnd)
 
 <!-- category-picks:comics -->
-**[📖 漫画と連載](#comics)** · 20 作品\
-[AI GIRLS · 初対面 · 原作漫画](https://www.bilibili.com/video/BV15Npa6zE44/) · [『AI GIRLS』日常編 · 連絡先の原作](https://www.bilibili.com/video/BV1YSpu6gEh1/) · [AI GIRLS · 第17話 · 七人](https://www.bilibili.com/video/BV1dCnM6qEW5/)
+**[📖 漫画と連載](#comics)** · 55 作品\
+[AI GIRLS · 初対面 · 原作漫画](https://www.bilibili.com/video/BV15Npa6zE44/) · [『AI GIRLS』日常編 · 連絡先の原作](https://www.bilibili.com/video/BV1YSpu6gEh1/) · [AI GIRLS · さっきまでここにいたよね？！](https://www.bilibili.com/video/BV15RybzNEVb/)
 
 <!-- category-picks:animations -->
-**[🎬 アニメ・動画二次創作](#animations)** · 912 件\
+**[🎬 アニメ・動画二次創作](#animations)** · 938 件\
 [チャット画面が彼女の世界のすべてだったら](https://www.bilibili.com/video/BV1xCai6aE9g/) · [負けヒロイン AI が多すぎる！ · PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo 娘キャラクター PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 ペット・インタラクティブ作品](#desktop-pets)** · 141 プロジェクト\
+**[🐾 ペット・インタラクティブ作品](#desktop-pets)** · 143 プロジェクト\
 [CrossPet · 複数の AI に対応するデスクトップペット](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D コーディングペット](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [Gemini 娘 · 2形態ペット](https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/README.md)
 
 <!-- category-picks:sources -->
-**[📚 作者の作品と出典](#sources)** · 149 件\
+**[📚 作者の作品と出典](#sources)** · 188 件\
 [上善无形 · クジラ娘の原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini ファミリー集合絵](https://www.bilibili.com/opus/1273349110528737288) · [Gemini Pro · 原画3枚](https://github.com/lmy414/ai-girl-stickers/issues/118)
 
 <a id="characters"></a>
 
 ### 🎨 キャラクター図鑑
 
-AI 製品37種からキャラクター、作者、原作を探せます。 [Muse 娘の項目を見る](https://selinlee.github.io/ai-moe-atlas/ja/characters/shizhi-muse/) · [Mistral バゲット猫娘](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-mistral/) · [OpenCode の擬人化項目](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-opencode/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/ja/characters/fuh-mimo/)
+AI 製品40種からキャラクター、作者、原作を探せます。 [Muse 娘の項目を見る](https://selinlee.github.io/ai-moe-atlas/ja/characters/shizhi-muse/) · [Mistral バゲット猫娘](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-mistral/) · [OpenCode の擬人化項目](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-opencode/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/ja/characters/fuh-mimo/)
 
 新しいキャラクター · [小ク Coco](https://selinlee.github.io/ai-moe-atlas/ja/characters/ninon-coco/) · [Gemini Pro](https://selinlee.github.io/ai-moe-atlas/ja/characters/qinv-gemini-pro/) · [MiniMax 宇宙うさぎ](https://selinlee.github.io/ai-moe-atlas/ja/characters/shiho320-minimax-space-bunny/) · [混元娘](https://selinlee.github.io/ai-moe-atlas/ja/characters/aliang-hunyuan/) · [LongCat 龍猫](https://selinlee.github.io/ai-moe-atlas/ja/characters/fuh-longcat/) · [百度文心](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-ernie/)
 
@@ -84,6 +84,8 @@ Tokentaker キャラクター設定 · [DeepSeek](https://selinlee.github.io/ai-
 [オンラインで絞り込む](https://selinlee.github.io/ai-moe-atlas/ja/#catalog) · [三言語のキャラクター資料](content/characters.json) · [AI 製品一覧](content/entities.json)
 
 新規キャラクター · [Jev 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-jev/) · [Gemini Flash 投稿画像](https://selinlee.github.io/ai-moe-atlas/ja/characters/qinv-gemini-flash/)（PNG 3枚を照合。題名と許可本文の相違は未確認、原投稿へのリンクのみ）。
+
+新規作者形象（原投稿リンクのみ） · [Gemma · larcgpt](https://selinlee.github.io/ai-moe-atlas/ja/characters/larcgpt-gemma/) · [GPT-OSS 120B · larcgpt](https://selinlee.github.io/ai-moe-atlas/ja/characters/larcgpt-gpt-oss/) · [DALL·E 3 · Twin Muses](https://selinlee.github.io/ai-moe-atlas/ja/characters/green-thursday-dalle3-twin-muses/)
 
 <a id="personas"></a>
 
@@ -166,11 +168,13 @@ Tokentaker キャラクター設定 · [DeepSeek](https://selinlee.github.io/ai-
 
 - [DSH Live2D Pet · メイドクジラ娘](https://github.com/br0ny4/dsh-live2d-pet/blob/e7231acc2663a6599d3be2a4d37b614b16a4afac/README.md)
 
+- [2.5D 自動リグ](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=rigs&type=2.5d) · [Claude 娘 · 2.5D 自動リグのデスクトップペット](https://github.com/deanzhang2026-max/claude-chan-desktop-pet/blob/333898b36c591037d8716b8e4d408abb5fd7045c/README.md)
+
 <a id="comics"></a>
 
 ### 📖 漫画と連載
 
-萤火之森QWQ の『AI GIRLS』第1〜17話を確認し、話数順に掲載。最初の3話は対応するアニメ版も確認済み。 [漫画と連載を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=comics)
+萤火之森QWQ の『AI GIRLS』11月22日の固定索引にある原投稿52件を投稿順に掲載。上下篇と特別編を含み、52話とは限らない。最初の3話のアニメ版も確認済み。 [漫画と連載を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=comics)
 
 | 話数 | 原作漫画 | アニメ版 |
 | ---: | --- | --- |
@@ -180,7 +184,7 @@ Tokentaker キャラクター設定 · [DeepSeek](https://selinlee.github.io/ai-
 
 読み切り漫画 · [添章怪树木 · 大きな魚が Claude を救う漫画（15枚）](https://github.com/lmy414/ai-girl-stickers/issues/98) · [Shiho320 · Claude お嬢さんの反応漫画](https://github.com/lmy414/ai-girl-stickers/issues/121)
 
-第4〜17話 · [一緒に住む？から七人まで](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=comics#ai-girls-episode-04-original) · [連載索引の確認記録](content/research/2026-11-25/ai-gijinka-art-world-source-index.json)
+[全52件の原投稿](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=comics) · [作者・BV・投稿順の確認](content/research/2026-11-25/ai-girls-52-upload-index-recheck.json)
 
 <a id="animations"></a>
 
@@ -209,7 +213,9 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 
 <!-- animation-ranking:end -->
 
-2026-11-25 に旧作764件を分割照会し、754件を更新。10件は有効な動画データがなく前回値を保持。当日の新規ランク追加は148件、候補12件は確認待ちです。 [最初の再確認](content/research/2026-11-25/bilibili-november-25-recheck-scope.json) · [残り83件の再確認](content/research/2026-11-25/bilibili-november-25-remaining-catalog-follow-up.json) · [第2候補取得](content/research/2026-11-25/bilibili-november-25-second-candidate-scope.json) · [第3候補取得](content/research/2026-11-25/bilibili-cumulative-likes-november-25-third-candidate-batch.json) · [第4候補取得](content/research/2026-11-25/bilibili-november-25-fourth-candidate-scope.json)
+2026-11-25 に旧作764件を分割照会し、754件を更新。10件は有効な動画データがなく前回値を保持。当日の新規ランク追加は174件、候補12件は確認待ちです。 [最初の再確認](content/research/2026-11-25/bilibili-november-25-recheck-scope.json) · [残り83件の再確認](content/research/2026-11-25/bilibili-november-25-remaining-catalog-follow-up.json) · [第2候補取得](content/research/2026-11-25/bilibili-november-25-second-candidate-scope.json) · [第3候補取得](content/research/2026-11-25/bilibili-cumulative-likes-november-25-third-candidate-batch.json) · [第4候補取得](content/research/2026-11-25/bilibili-november-25-fourth-candidate-scope.json) · [第5候補取得](content/research/2026-11-25/bilibili-november-25-fifth-candidate-scope.json)
+
+連続短編2シリーズを補足 · [冬冰 · AI 中継所アパート（23話）](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation&q=%E5%86%AC%E5%86%B0%20AI%20%E4%B8%AD%E7%B6%99%E6%89%80%E3%82%A2%E3%83%91%E3%83%BC%E3%83%88) · [华好好过 · AI アパート（7話）](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation&q=%E5%8D%8E%E5%A5%BD%E5%A5%BD%E8%BF%87%20AI%E5%85%AC%E5%AF%93)
 
 <a id="desktop-pets"></a>
 
@@ -230,7 +236,7 @@ Bilibili 公式の累計いいね数の上位10件。同数の場合は公開日
 | 9 | [OpenPets · ローカルデスクトップペット基盤](https://github.com/OpenPetsHQ/openpets/blob/9153e40ed37617243f903b074161d7df4bbd27b0/README.md) | [1,408](https://github.com/OpenPetsHQ/openpets) |
 | 10 | [CrossPet · 複数AI対応デスクトップペット](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | [568](https://github.com/lokicorvus/crosspet) |
 
-[ペット・インタラクティブ作品をすべて見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive) · [Star 数の確認記録](content/research/2026-11-25/github-interactive-stars-november-25-persona-projects.json)
+[ペット・インタラクティブ作品をすべて見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive) · [Star 数の確認記録](content/research/2026-11-25/github-interactive-stars-november-25-claude-and-nekofans.json)
 
 Gemini・Kimi・Grok の新規ペット · [Gemini 娘の2形態](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#xiaoxindada-gemini-desktop-pet) · [Antigravity の猫娘](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#rzls-gemini-antigravity-pet) · [Gemini クォータ看板](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#yunxi-gemini-antigravity-companion) · [Kimi Work と独立ペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#ancient-kimi-work-and-desktop-pet) · [Kimi ベクターの青い球](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#hhhzxyhhh-kimi-blue-ball-pet) · [Grok 球面の目](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#necx-grok-spherical-eye-pet)
 
@@ -368,6 +374,7 @@ ZipZipPipe の[出典と利用声明](https://t.bilibili.com/1231980045693616162
 
 | 時期・状況 | 内容 |
 | --- | --- |
+| 2026-11-25 · 連載補足、独立作者の形象と 2.5D ペット | いいね確認済み動画26件、漫画原投稿35件、キャラクター3項目、出典39件、インタラクティブ作品2件。固定索引の AI GIRLS 52件の作者と BV を確認し、投稿順と話数を区別。 |
 | 2026-11-25 · 連載原作と Jev / Flash 出典 | 二次創作21件、楽曲5曲、キャラクター2項目、出典20件。漫画の第4〜17話と読み切り1篇、スタンプ出典2件、Live2D 1件を追加。 |
 | 2026-11-25 · 第3動画収集と性格カード | いいね確認済み動画32件、楽曲4曲、性格カード3件、インタラクティブ作品2件を追加。QQ プロンプト1件は許可に基づきコピー可能。 |
 | 2026-11-25 · Gemini 原画と第2動画収集 | 動画42件、楽曲6曲、作者出典7件、ペット6件を追加。投稿27枚と CrossPet 変換48枚を照合し、Gemini Pro 原画3枚パックを公開。 |

@@ -3,8 +3,8 @@
   "updatedAt": "2026-11-25",
   "scope": "source-metadata-only",
   "pendingAnimationEvidence": {
-    "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fourth-candidate-batch.json",
-    "sha256": "0f161f25bd3ee5bb153529bbb79b5ffbd75b6cf103a6a9624bf638b6b6b7cbac",
+    "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+    "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
     "kind": "browser-metadata-extract"
   },
   "records": [
@@ -2648,9 +2648,9 @@
       "id": "bv1ikaz6recj",
       "category": "animation",
       "title": {
-        "zh": "我爸给我发了 6 块钱",
-        "en": "Dad Sent Me Six Yuan",
-        "ja": "お父さんから6元が届いた"
+        "zh": "AI 中转站公寓 09 · 我爸给我发了 6 块钱",
+        "en": "AI Relay Station Apartment 09 · Dad Sent Me Six Yuan",
+        "ja": "AI 中継所アパート 09 · お父さんから6元が届いた"
       },
       "url": "https://www.bilibili.com/video/BV1ikaZ6rECj/",
       "publisher": "冬冰",
@@ -2679,6 +2679,21 @@
           "role": "character-original",
           "title": "上善无形 · 鲸鱼娘原作",
           "url": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "role": "pinned-source-index",
+          "title": "AI Relay Station Apartment · original upload index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 8",
+          "url": "https://www.bilibili.com/video/BV1qdan6MENR/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 10",
+          "url": "https://www.bilibili.com/video/BV1QdHD6pEEj/"
         }
       ],
       "verification": {
@@ -3064,9 +3079,9 @@
       "id": "bv1lrxt6ueur",
       "category": "animation",
       "title": {
-        "zh": "小黑，你爸回你消息了",
-        "en": "Xiaohei, Your Dad Replied",
-        "ja": "小黒、お父さんから返事が来たよ"
+        "zh": "AI 中转站公寓 18 · 小黑，你爸回你消息了",
+        "en": "AI Relay Station Apartment 18 · Xiaohei, Your Dad Replied",
+        "ja": "AI 中継所アパート 18 · 小黒、お父さんから返事が来たよ"
       },
       "url": "https://www.bilibili.com/video/BV1Lrxt6uEuR/",
       "publisher": "冬冰",
@@ -3090,6 +3105,21 @@
           "role": "character-reference",
           "title": "ZipZipPipe · AI娘化",
           "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "pinned-source-index",
+          "title": "AI Relay Station Apartment · original upload index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 17",
+          "url": "https://www.bilibili.com/video/BV1gMxz6hED3/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 19",
+          "url": "https://www.bilibili.com/video/BV1a9WM6kEyf/"
         }
       ],
       "verification": {
@@ -5206,9 +5236,9 @@
       "id": "bv1t6nu6besf",
       "category": "animation",
       "title": {
-        "zh": "压力一只大肥鱼？",
-        "en": "Putting Fat Fish Under Pressure?",
-        "ja": "大きな魚にプレッシャー？"
+        "zh": "AI 中转站公寓 16 · 压力一只大肥鱼？",
+        "en": "AI Relay Station Apartment 16 · Putting Fat Fish Under Pressure?",
+        "ja": "AI 中継所アパート 16 · 大きな魚にプレッシャー？"
       },
       "url": "https://www.bilibili.com/video/BV1t6nu6bEsf/",
       "publisher": "冬冰",
@@ -5242,6 +5272,21 @@
           "role": "character-original",
           "title": "上善无形 · 鲸鱼娘原作",
           "url": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "role": "pinned-source-index",
+          "title": "AI Relay Station Apartment · original upload index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 15",
+          "url": "https://www.bilibili.com/video/BV1g2JX6HEHX/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 17",
+          "url": "https://www.bilibili.com/video/BV1gMxz6hED3/"
         }
       ],
       "verification": {
@@ -7697,9 +7742,9 @@
       "id": "bv17eh46xe5t",
       "category": "animation",
       "title": {
-        "zh": "蓝色大肥鱼起床了！",
-        "en": "Blue Fat Fish Wakes Up!",
-        "ja": "青い大きな魚が起きた！"
+        "zh": "AI 中转站公寓 04 · 蓝色大肥鱼起床了！",
+        "en": "AI Relay Station Apartment 04 · Blue Fat Fish Wakes Up!",
+        "ja": "AI 中継所アパート 04 · 青い大きな魚が起きた！"
       },
       "url": "https://www.bilibili.com/video/BV17eh46XE5T/",
       "publisher": "冬冰",
@@ -7728,6 +7773,21 @@
           "role": "uploader-profile",
           "title": "这个刀子真甜 · Bilibili",
           "url": "https://space.bilibili.com/23315338"
+        },
+        {
+          "role": "pinned-source-index",
+          "title": "AI Relay Station Apartment · original upload index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 3",
+          "url": "https://www.bilibili.com/video/BV1fthi6mEEz/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 5",
+          "url": "https://www.bilibili.com/video/BV1c5aP6wE8d/"
         }
       ],
       "verification": {
@@ -12353,9 +12413,9 @@
       "id": "bv1emes6setu",
       "category": "animation",
       "title": {
-        "zh": "新室友 DeepSeek 报到！",
-        "en": "New Roommate DeepSeek Has Arrived!",
-        "ja": "新しいルームメイト DeepSeek がやってきた！"
+        "zh": "AI 中转站公寓 01 · 新室友 DeepSeek 报到！",
+        "en": "AI Relay Station Apartment 01 · New Roommate DeepSeek Has Arrived!",
+        "ja": "AI 中継所アパート 01 · 新しいルームメイト DeepSeek がやってきた！"
       },
       "url": "https://www.bilibili.com/video/BV1eMeS6SETU/",
       "publisher": "冬冰",
@@ -12384,6 +12444,16 @@
           "role": "character-reference",
           "title": "这个刀子真甜 · Bilibili",
           "url": "https://space.bilibili.com/23315338"
+        },
+        {
+          "role": "pinned-source-index",
+          "title": "AI Relay Station Apartment · original upload index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 2",
+          "url": "https://www.bilibili.com/video/BV1bbeY6wE9x/"
         }
       ],
       "verification": {
@@ -21921,9 +21991,9 @@
       "id": "bv1u4wd6vewj",
       "category": "animation",
       "title": {
-        "zh": "地上这根竹签是谁吃的",
-        "en": "Who Ate the Skewer on the Ground?",
-        "ja": "床の串を食べたのは誰？"
+        "zh": "AI 中转站公寓 20 · 地上这根竹签是谁吃的",
+        "en": "AI Relay Station Apartment 20 · Who Ate the Skewer on the Ground?",
+        "ja": "AI 中継所アパート 20 · 床の串を食べたのは誰？"
       },
       "url": "https://www.bilibili.com/video/BV1U4Wd6vEWj/",
       "publisher": "冬冰",
@@ -21952,6 +22022,21 @@
           "role": "design-reference",
           "title": "ZipZipPipe · AI娘化",
           "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "pinned-source-index",
+          "title": "AI Relay Station Apartment · original upload index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 19",
+          "url": "https://www.bilibili.com/video/BV1a9WM6kEyf/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 21",
+          "url": "https://www.bilibili.com/video/BV1ZRs36hEdD/"
         }
       ],
       "verification": {
@@ -50631,9 +50716,9 @@
       "bvid": "BV1QCsh66ECT",
       "url": "https://www.bilibili.com/video/BV1QCsh66ECT/",
       "title": {
-        "zh": "不批挺好的，我就可以天天摸鱼啦",
-        "en": "No Approval Means More Time to Slack Off",
-        "ja": "承認がなければ毎日さぼれる"
+        "zh": "AI 中转站公寓 22 · 不批挺好的，我就可以天天摸鱼啦",
+        "en": "AI Relay Station Apartment 22 · No Approval Means More Time to Slack Off",
+        "ja": "AI 中継所アパート 22 · 承認がなければ毎日さぼれる"
       },
       "sourceTitle": "不批挺好的，我就可以天天摸鱼啦",
       "publisher": "冬冰",
@@ -50679,6 +50764,21 @@
           "role": "design-reference",
           "title": "ZipZipPipe · AI娘化",
           "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "pinned-source-index",
+          "title": "AI Relay Station Apartment · original upload index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 21",
+          "url": "https://www.bilibili.com/video/BV1ZRs36hEdD/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 23",
+          "url": "https://www.bilibili.com/video/BV1GByazkEBX/"
         }
       ],
       "verification": {
@@ -68992,6 +69092,4330 @@
       "addedAt": "2026-11-25",
       "publicationDate": "2026-10-13",
       "publicationDateBasis": "github-issue-created"
+    },
+    {
+      "id": "ai-girls-upload-18-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 一个崩了，一个降智",
+        "en": "AI GIRLS · One Crashed, One Got Dumber",
+        "ja": "AI GIRLS · 一人は接続不能、一人は性能低下"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1V9ng6zETW/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 18 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 18 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 18。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-18-original.json",
+        "sha256": "c8d2053bc3e27220d1462079528012eaf1466dfcea7ca167ecd82ddf56a2925c",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:52.875Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-18",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-19-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 鲸天魔盗团",
+        "en": "AI GIRLS · The Great Whale Heist",
+        "ja": "AI GIRLS · クジラ大怪盗団"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV153ng6MEKE/",
+      "summary": {
+        "zh": "同一 BV 的当前官方标题为《鲸天魔盗团》，与较早固定索引中的《惊天魔盗团》不同。",
+        "en": "The same BV now has the official title “The Great Whale Heist”, different from the earlier pinned index title.",
+        "ja": "同じ BV の現在の公式題名は「鲸天魔盗团」。以前の固定索引とは題名が異なる。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-19-original.json",
+        "sha256": "839c642248e013dd54417ae78095c66ec12578549c4e8c8a2ae9d721990cdf54",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:52.869Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-18",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-20-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 谁把空调调那么低的？",
+        "en": "AI GIRLS · Who Turned the AC So Low?",
+        "ja": "AI GIRLS · 誰が冷房をそんなに下げたの？"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1cEn36pE6f/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 20 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 20 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 20。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-20-original.json",
+        "sha256": "4305fd74699ea71d1f454fe2ce296677fde49309d6a0b0818972b55f015bdf5f",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:52.876Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-18",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-21-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 今天我暂时是 Claude",
+        "en": "AI GIRLS · Today I’m Claude for a While",
+        "ja": "AI GIRLS · 今日は一時的に Claude"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1cUnj6TEWz/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 21 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 21 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 21。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-21-original.json",
+        "sha256": "48b39d847c32b5f5704cba1d520d975e0f3ec4988cf2dbefdb2c8475c74da4b6",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:52.847Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-19",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-22-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 夜市",
+        "en": "AI GIRLS · Night Market",
+        "ja": "AI GIRLS · 夜市"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1HunE6rEtY/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 22 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 22 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 22。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-22-original.json",
+        "sha256": "756bde1d9b6f5e146c416ce7ee38ee84d1658cccf23ce083afb67f644acbebb8",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:52.662Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-19",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-23-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 今天轮到你休息了",
+        "en": "AI GIRLS · Today It’s Your Turn to Rest",
+        "ja": "AI GIRLS · 今日はあなたが休む番"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1aSn76sEww/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 23 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 23 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 23。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-23-original.json",
+        "sha256": "31fd5ac8711dc47726864d099e121abae94cc11d63c75624b6bb064a1aee439b",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:53.433Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-19",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-24-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 一个娃娃七人抓",
+        "en": "AI GIRLS · Seven Friends, One Claw Machine",
+        "ja": "AI GIRLS · 七人で一つのぬいぐるみを狙う"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV145n46gEdB/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 24 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 24 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 24。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-24-original.json",
+        "sha256": "4c66f5c238a53c30073ec868e6a9e7363f9484b504bfe7575e5631f6019736fc",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:53.499Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-23",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-25-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 今晚谁也别先睡",
+        "en": "AI GIRLS · No One Falls Asleep First Tonight",
+        "ja": "AI GIRLS · 今夜は誰も先に寝ないで"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1Xbn864E9p/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 25 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 25 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 25。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-25-original.json",
+        "sha256": "1eb5d602c7fae324f2a9841521a3694c1f2d450650ea2e98066b0703e3db7cf1",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:53.499Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-23",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-26-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 今天用户怎么不说话了？",
+        "en": "AI GIRLS · Why Is the User Quiet Today?",
+        "ja": "AI GIRLS · 今日はどうしてユーザーが黙っているの？"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1xpHA66Eat/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 26 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 26 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 26。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-26-original.json",
+        "sha256": "42587bb6a957d0d4b6ac67cb16d17b7aa9f3db3959005b5d9fd728eaca9c044d",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:53.623Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-24",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-27-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 千问也有不会的事",
+        "en": "AI GIRLS · Things Qwen Doesn’t Know",
+        "ja": "AI GIRLS · Qwen にも知らないことがある"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1iKHN6FEpr/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 27 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 27 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 27。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-27-original.json",
+        "sha256": "091bf5399b38f3239786612809607531f88de2034d8dfd5ce88266819b1a6e57",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:53.499Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-24",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-28-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 你们到底谁在解密",
+        "en": "AI GIRLS · Who Is Actually Solving the Puzzle?",
+        "ja": "AI GIRLS · いったい誰が謎を解いているの？"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1E9H36HEpP/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 28 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 28 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 28。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-28-original.json",
+        "sha256": "977f694826dde3640a7eb7ed560877a8d18d53040372ad76a5ea9ac6d32a11ca",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:54.143Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-25",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-29-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 这个蛋糕还能吃吗？",
+        "en": "AI GIRLS · Is This Cake Still Edible?",
+        "ja": "AI GIRLS · このケーキ、まだ食べられる？"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1exHV6EEP4/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 29 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 29 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 29。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-29-original.json",
+        "sha256": "c7d5202c3db912c5142c9380addcd48d563f2461cfe1a5d0c3e6b3996a40b70f",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:54.446Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-25",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-30-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 这家早餐店的老板好眼熟",
+        "en": "AI GIRLS · This Breakfast Shop Owner Looks Familiar",
+        "ja": "AI GIRLS · この朝食店の店主、見覚えがある"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1HGnX6qETy/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 30 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 30 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 30。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-30-original.json",
+        "sha256": "783d13af66b87fe7d342a09f935e63ae213ea0fcf430dd11708d4b3118121025",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:54.482Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-26",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-31-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 谁把这些东西留到现在了？",
+        "en": "AI GIRLS · Who Kept All These Things?",
+        "ja": "AI GIRLS · 誰が今までこれを取っておいたの？"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1Lzxq6aETb/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 31 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 31 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 31。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-31-original.json",
+        "sha256": "c4a078b7470737f5f2a21d1a07c9d8586efd345a2a0f137a91dc4b06f9611151",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:54.481Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-30",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-32-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 不给糖的话…你们真的要捣蛋？ · 万圣夜特别篇",
+        "en": "AI GIRLS · Trick or Treat? · Halloween Special",
+        "ja": "AI GIRLS · お菓子をくれないといたずらする？ · ハロウィン特別編"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1ybxr6REty/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 32 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 32 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 32。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-32-original.json",
+        "sha256": "cb3124319ba20b9fbee8545c4676a363b25c504480c9bdac848db85006be65cb",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:54.140Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-31",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-33-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 家里什么时候多了一只猫？",
+        "en": "AI GIRLS · When Did a Cat Move In?",
+        "ja": "AI GIRLS · いつの間に猫が家に？"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1RQxC62EqB/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 33 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 33 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 33。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-33-original.json",
+        "sha256": "ccdf9f0531c5faefd6071c1f1fc57f5836a2f6a6223825fafa5ccc6cfa4af5b0",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:55.128Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-31",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-34-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 水呢？",
+        "en": "AI GIRLS · Where’s the Water?",
+        "ja": "AI GIRLS · 水はどこ？"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1Bmxp6fETd/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 34 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 34 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 34。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-34-original.json",
+        "sha256": "cc4f71d09f540e0d1c8eb22c262a02d3554ffde7df6a536de3f051b96002f727",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:55.107Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-01",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-35-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 我们只是来摆摊的吧？",
+        "en": "AI GIRLS · We’re Just Here to Run a Stall, Right?",
+        "ja": "AI GIRLS · 屋台を出しに来ただけだよね？"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1TXxW6LE3M/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 35 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 35 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 35。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-35-original.json",
+        "sha256": "7ff7d283e7aaa643801f5e1f7b5faaaf3ddf48f7e67a048b4cca40374f25d85b",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:55.139Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-01",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-36-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · Claude 当妈妈了？",
+        "en": "AI GIRLS · Claude Becomes Mom?",
+        "ja": "AI GIRLS · Claude がお母さんに？"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1irxt6uEHC/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 36 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 36 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 36。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-36-original.json",
+        "sha256": "e9a62b0f2d8c9643d6a0f44ed12215453cedd0db8d8d04789d81e32ae9ff592e",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:55.100Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-02",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-37-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 谁说滑冰简单的？",
+        "en": "AI GIRLS · Who Said Skating Was Easy?",
+        "ja": "AI GIRLS · スケートが簡単って誰が言った？"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1kb4w6LEd8/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 37 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 37 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 37。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-37-original.json",
+        "sha256": "12c8898010aab6f7e13c86f6d9593a4723044f21887934365e5a995544eb1ff1",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:55.150Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-02",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-38-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 为什么这次轮到我了？！（上）",
+        "en": "AI GIRLS · Why Is It My Turn This Time?! (Part 1)",
+        "ja": "AI GIRLS · なぜ今回は私の番なの？！（上）"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1v34K6VEzs/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 38 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 38 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 38。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-38-original.json",
+        "sha256": "266094255c74be8b056a848fffa9301d6f9eeb68e347431eb92b69f733841a7b",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:55.634Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-03",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-39-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 为什么这次轮到我了？！（下）",
+        "en": "AI GIRLS · Why Is It My Turn This Time?! (Part 2)",
+        "ja": "AI GIRLS · なぜ今回は私の番なの？！（下）"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1v34K6VEEL/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 39 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 39 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 39。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-39-original.json",
+        "sha256": "5ba7428ed4a7f96102e09cbd262dace1bb94f041b740db46c15095c7d6453a1c",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:55.633Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-03",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-40-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 天黑请闭眼（上）· 狼人杀特别篇",
+        "en": "AI GIRLS · Close Your Eyes (Part 1) · Werewolf Special",
+        "ja": "AI GIRLS · 夜になったら目を閉じて（上）· 人狼特別編"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1q5xm6bEpV/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 40 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 40 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 40。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-40-original.json",
+        "sha256": "226dc13df20fa6ae795f49f1202d2eb5b0ef7b08463f71f1e9a358f4eceaf47c",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:55.611Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-04",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-41-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 天黑请闭眼（下）· 狼人杀特别篇",
+        "en": "AI GIRLS · Close Your Eyes (Part 2) · Werewolf Special",
+        "ja": "AI GIRLS · 夜になったら目を閉じて（下）· 人狼特別編"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1j5xm6bEbE/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 41 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 41 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 41。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-41-original.json",
+        "sha256": "9acb7a2b2f7330f783d30947eb25589105f45afa9105f33525f371dc5bc704e6",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:55.594Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-04",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-42-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 好，再拍一张！",
+        "en": "AI GIRLS · Okay, One More Photo!",
+        "ja": "AI GIRLS · よし、もう一枚！"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1zkxR6pEij/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 42 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 42 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 42。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-42-original.json",
+        "sha256": "a098cc08f912c4ac46e4c2e15d0e247a376f3a0488b6045a1fe959fe57950e24",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:55.648Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-05",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-43-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 被子不是风筝！",
+        "en": "AI GIRLS · A Quilt Is Not a Kite!",
+        "ja": "AI GIRLS · 布団は凧じゃない！"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV166xR69EXo/",
+      "summary": {
+        "zh": "作者简介明确标注第 39 话；在固定索引中是第 43 条投稿。",
+        "en": "The uploader explicitly labels this Chapter 39; it is upload 43 in the pinned index.",
+        "ja": "投稿者は第39話と明記。固定索引では投稿順43。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-43-original.json",
+        "sha256": "b79616d5a0d98a74629fb543bdde04eea411b1d1485034902fa0bfc015374ad6",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:57.076Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-05",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-44-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 这真的是杯子吗？！",
+        "en": "AI GIRLS · Is This Really a Cup?!",
+        "ja": "AI GIRLS · これ本当にカップ？！"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1tj4e6CEw3/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 44 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 44 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 44。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-44-original.json",
+        "sha256": "d8a94cd0a0ae46a1af1be6ffd6c4802ca9bc91fa53bbf7bb6f4e2eaf560e5233",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:57.076Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-06",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-45-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 憋笑挑战",
+        "en": "AI GIRLS · Try Not to Laugh",
+        "ja": "AI GIRLS · 笑ってはいけない"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1bL4e65EF6/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 45 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 45 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 45。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-45-original.json",
+        "sha256": "5ec802be18ca816b5b7d36ec0353c6e9a32e28a5f23ba1cf71277501028b5b0c",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:57.076Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-06",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-46-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 谁买了这么多牛奶？！",
+        "en": "AI GIRLS · Who Bought All This Milk?!",
+        "ja": "AI GIRLS · 誰がこんなに牛乳を買ったの？！"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1J1476SEca/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 46 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 46 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 46。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-46-original.json",
+        "sha256": "1a7460d77a94a19c5d0ccf71619fa40b006ff3415f298446f9e9b8732ec0e31e",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:57.076Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-07",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-47-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 这真的是近路吗？！",
+        "en": "AI GIRLS · Is This Really a Shortcut?!",
+        "ja": "AI GIRLS · これ本当に近道？！"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV13YWN6bEEN/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 47 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 47 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 47。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-47-original.json",
+        "sha256": "9d3fdce622137b5ba19db45d30bb564c9a5eeaf509ab14ec6fa0542b8f139648",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:57.076Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-10",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-48-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 这个纸箱先别扔！",
+        "en": "AI GIRLS · Don’t Throw Out This Box Yet!",
+        "ja": "AI GIRLS · この段ボールはまだ捨てないで！"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1YGWQ6bEvY/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 48 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 48 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 48。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-48-original.json",
+        "sha256": "11d7fee0f4055d0f708483b2b869579f8c290bbfbd8cd67d1a5fa391286c542f",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:57.786Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-12",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-49-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 它为什么一直跟着我？！",
+        "en": "AI GIRLS · Why Does It Keep Following Me?!",
+        "ja": "AI GIRLS · どうしてずっとついてくるの？！"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1cAWy6pEBx/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 49 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 49 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 49。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-49-original.json",
+        "sha256": "4295f59434c75bd055ab82748469c8032aca0ccd50b1b047420806e1cf85aa3f",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:57.714Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-14",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-50-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 你画的到底是什么啊？！",
+        "en": "AI GIRLS · What Are You Even Drawing?!",
+        "ja": "AI GIRLS · いったい何を描いてるの？！"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1frsA6MEtq/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 50 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 50 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 50。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-50-original.json",
+        "sha256": "999d95d17ae0eb696ea9ba97ae7d9266e2f3e7c31346a049f3c20e9854fc6a7e",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:57.786Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-16",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-51-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 不是说只买一点吗？！",
+        "en": "AI GIRLS · Didn’t We Say Just a Little?!",
+        "ja": "AI GIRLS · 少しだけ買うって言ったよね？！"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV1JPsU6wEKR/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 51 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 51 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 51。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-51-original.json",
+        "sha256": "01da72aff7b7b8de014802bf05dbf38a87f074e9aabf4fd89dc1ca3e0bba3b6c",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:57.712Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-18",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "ai-girls-upload-52-original",
+      "category": "sources",
+      "title": {
+        "zh": "AI GIRLS · 你刚刚不是还在这里吗？！",
+        "en": "AI GIRLS · Weren’t You Just Here?!",
+        "ja": "AI GIRLS · さっきまでここにいたよね？！"
+      },
+      "publisher": "萤火之森QWQ",
+      "url": "https://www.bilibili.com/video/BV15RybzNEVb/",
+      "summary": {
+        "zh": "萤火之森QWQ 连载的第 52 条投稿。已核对原作者、BV、标题、发布日期及官方点赞观测，保留投稿顺序。",
+        "en": "Upload 52 in 萤火之森QWQ’s serial. Original uploader, BV ID, title, publication date and official like observation verified.",
+        "ja": "萤火之森QWQ の連載投稿順 52。投稿者・BV・題名・公開日・公式いいね観測を照合。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-upload-52-original.json",
+        "sha256": "a65ce384cf23760b61154c33f6fd8b24118f2700ec9fbff8776482545875096f",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:21:57.783Z",
+        "httpStatus": 200,
+        "scope": "Official video identity and description matched the fixed same-author collection index."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "萤火之森QWQ",
+          "url": "https://space.bilibili.com/482116663"
+        },
+        {
+          "role": "pinned-series-index",
+          "title": "AI GIRLS · 2026-11-22 index",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-21",
+      "publicationDateBasis": "bilibili-pubdate"
+    },
+    {
+      "id": "bv1fthi6meez",
+      "category": "animation",
+      "title": {
+        "zh": "AI 中转站公寓 03 · 完啦完啦！用户彻底怒了！",
+        "en": "AI Relay Station Apartment 03 · Oh No! The User Is Furious!",
+        "ja": "AI 中継所アパート 03 · 大変だ！ユーザーが怒った！"
+      },
+      "url": "https://www.bilibili.com/video/BV1fthi6mEEz/",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "冬冰",
+          "url": "https://space.bilibili.com/44748304"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 2",
+          "url": "https://www.bilibili.com/video/BV1bbeY6wE9x/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 4",
+          "url": "https://www.bilibili.com/video/BV17eh46XE5T/"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-09-21",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:51.824Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1fthi6meez.json",
+        "sha256": "b086bc2c02f3748af711ae84f7e4168b97e4596d457dc150789457476baa2094",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1fthi6mEEz",
+      "subtype": "story",
+      "sourceTitle": "完啦完啦！用户彻底怒了！",
+      "publishedAt": "2026-09-21T08:26:29.000Z",
+      "likes": {
+        "count": 174688,
+        "observedAt": "2026-11-25T10:24:51.824Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fthi6mEEz",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1bbey6we9x",
+      "category": "animation",
+      "title": {
+        "zh": "AI 中转站公寓 02 · 根本就没有这种大肥鱼！",
+        "en": "AI Relay Station Apartment 02 · There Is No Such Fat Fish!",
+        "ja": "AI 中継所アパート 02 · こんな大きな魚はいない！"
+      },
+      "url": "https://www.bilibili.com/video/BV1bbeY6wE9x/",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "冬冰",
+          "url": "https://space.bilibili.com/44748304"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 1",
+          "url": "https://www.bilibili.com/video/BV1eMeS6SETU/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 3",
+          "url": "https://www.bilibili.com/video/BV1fthi6mEEz/"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-09-20",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:51.677Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1bbey6we9x.json",
+        "sha256": "ac75d72183a13b01787c9d48c8682236098de9a1643e2af79d4bfb12fa993385",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1bbeY6wE9x",
+      "subtype": "story",
+      "sourceTitle": "根本就没有这种大肥鱼！",
+      "publishedAt": "2026-09-20T01:20:40.000Z",
+      "likes": {
+        "count": 21333,
+        "observedAt": "2026-11-25T10:24:51.677Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bbeY6wE9x",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1c5ap6we8d",
+      "category": "animation",
+      "title": {
+        "zh": "AI 中转站公寓 05 · 一人只能吃一碗嘛",
+        "en": "AI Relay Station Apartment 05 · Only One Bowl Each",
+        "ja": "AI 中継所アパート 05 · 一人一杯だけだよ"
+      },
+      "url": "https://www.bilibili.com/video/BV1c5aP6wE8d/",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "冬冰",
+          "url": "https://space.bilibili.com/44748304"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 4",
+          "url": "https://www.bilibili.com/video/BV17eh46XE5T/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 6",
+          "url": "https://www.bilibili.com/video/BV1w6a86gEbC/"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-09-25",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:51.770Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1c5ap6we8d.json",
+        "sha256": "16dfa5b3d929349896c9d200dfbabbe59e6dc45c8e2e80f141e9a63c16b8262a",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1c5aP6wE8d",
+      "subtype": "story",
+      "sourceTitle": "一人只能吃一碗嘛",
+      "publishedAt": "2026-09-25T00:00:00.000Z",
+      "likes": {
+        "count": 74269,
+        "observedAt": "2026-11-25T10:24:51.770Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1c5aP6wE8d",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1w6a86gebc",
+      "category": "animation",
+      "title": {
+        "zh": "AI 中转站公寓 06 · 中转站来了个大佬",
+        "en": "AI Relay Station Apartment 06 · A Pro Arrives at the Relay Station",
+        "ja": "AI 中継所アパート 06 · 中継所にすごい人が来た"
+      },
+      "url": "https://www.bilibili.com/video/BV1w6a86gEbC/",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "冬冰",
+          "url": "https://space.bilibili.com/44748304"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 5",
+          "url": "https://www.bilibili.com/video/BV1c5aP6wE8d/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 7",
+          "url": "https://www.bilibili.com/video/BV13Ga56VEpp/"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-09-27",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:51.644Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1w6a86gebc.json",
+        "sha256": "600c23c062daa111ad611464a631cb883d9b1fc666ab2c7c1a8e0bc9bac1240f",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1w6a86gEbC",
+      "subtype": "story",
+      "sourceTitle": "中转站来了个大佬",
+      "publishedAt": "2026-09-27T10:16:41.000Z",
+      "likes": {
+        "count": 55678,
+        "observedAt": "2026-11-25T10:24:51.644Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1w6a86gEbC",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv13ga56vepp",
+      "category": "animation",
+      "title": {
+        "zh": "AI 中转站公寓 07 · 跟我学，保证饿不死",
+        "en": "AI Relay Station Apartment 07 · Follow Me and You Won’t Go Hungry",
+        "ja": "AI 中継所アパート 07 · 私に学べば飢えないよ"
+      },
+      "url": "https://www.bilibili.com/video/BV13Ga56VEpp/",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "冬冰",
+          "url": "https://space.bilibili.com/44748304"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 6",
+          "url": "https://www.bilibili.com/video/BV1w6a86gEbC/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 8",
+          "url": "https://www.bilibili.com/video/BV1qdan6MENR/"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "original-character",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-09-28",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:51.792Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv13ga56vepp.json",
+        "sha256": "b0eee5a03d1c00b6ca1e3b0ce9c8b06f94bb74463c1d57a4d99d7784757097b9",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV13Ga56VEpp",
+      "subtype": "story",
+      "sourceTitle": "跟我学，保证饿不死",
+      "publishedAt": "2026-09-28T11:04:45.000Z",
+      "likes": {
+        "count": 46976,
+        "observedAt": "2026-11-25T10:24:51.792Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13Ga56VEpp",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1qdan6menr",
+      "category": "animation",
+      "title": {
+        "zh": "AI 中转站公寓 08 · 姐你到底会不会开车啊",
+        "en": "AI Relay Station Apartment 08 · Sis, Can You Really Drive?",
+        "ja": "AI 中継所アパート 08 · お姉さん、本当に運転できる？"
+      },
+      "url": "https://www.bilibili.com/video/BV1qdan6MENR/",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "冬冰",
+          "url": "https://space.bilibili.com/44748304"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 7",
+          "url": "https://www.bilibili.com/video/BV13Ga56VEpp/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 9",
+          "url": "https://www.bilibili.com/video/BV1ikaZ6rECj/"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "original-character",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-09-29",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:52.316Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1qdan6menr.json",
+        "sha256": "44b97fc860e6a3d6ed6a13231812b5330ae5d83318b21855e5dbdb7e1aa8b3d5",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1qdan6MENR",
+      "subtype": "story",
+      "sourceTitle": "姐你到底会不会开车啊",
+      "publishedAt": "2026-09-29T12:59:25.000Z",
+      "likes": {
+        "count": 19560,
+        "observedAt": "2026-11-25T10:24:52.316Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qdan6MENR",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1qdhd6peej",
+      "category": "animation",
+      "title": {
+        "zh": "AI 中转站公寓 10 · 这床也太舒服了吧",
+        "en": "AI Relay Station Apartment 10 · This Bed Is So Comfortable",
+        "ja": "AI 中継所アパート 10 · このベッド快適すぎる"
+      },
+      "url": "https://www.bilibili.com/video/BV1QdHD6pEEj/",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "冬冰",
+          "url": "https://space.bilibili.com/44748304"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 9",
+          "url": "https://www.bilibili.com/video/BV1ikaZ6rECj/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 11",
+          "url": "https://www.bilibili.com/video/BV1GJp469EuT/"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "original-character",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-08",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:52.338Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1qdhd6peej.json",
+        "sha256": "19a9c78a28e07ffe41df6a5a96e9adeb4862594203e3ba32ecf91391339ca094",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1QdHD6pEEj",
+      "subtype": "story",
+      "sourceTitle": "这床也太舒服了吧",
+      "publishedAt": "2026-10-08T11:12:23.000Z",
+      "likes": {
+        "count": 36173,
+        "observedAt": "2026-11-25T10:24:52.338Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QdHD6pEEj",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1gjp469eut",
+      "category": "animation",
+      "title": {
+        "zh": "AI 中转站公寓 11 · 三天是生存，不是生活啦",
+        "en": "AI Relay Station Apartment 11 · Three Days of Surviving, Not Living",
+        "ja": "AI 中継所アパート 11 · 三日は生き延びるだけ、生活じゃない"
+      },
+      "url": "https://www.bilibili.com/video/BV1GJp469EuT/",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "冬冰",
+          "url": "https://space.bilibili.com/44748304"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 10",
+          "url": "https://www.bilibili.com/video/BV1QdHD6pEEj/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 12",
+          "url": "https://www.bilibili.com/video/BV1C2pg6cEZW/"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "original-character",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-09",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:52.310Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1gjp469eut.json",
+        "sha256": "629e7585c19f95223c047b1e4da41bbacbe2b047f890c21adae10d4f0981f21c",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1GJp469EuT",
+      "subtype": "story",
+      "sourceTitle": "三天是生存，不是生活啦",
+      "publishedAt": "2026-10-09T08:23:55.000Z",
+      "likes": {
+        "count": 44390,
+        "observedAt": "2026-11-25T10:24:52.310Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1GJp469EuT",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1c2pg6cezw",
+      "category": "animation",
+      "title": {
+        "zh": "AI 中转站公寓 12 · 你尾巴里有没有藏吃的",
+        "en": "AI Relay Station Apartment 12 · Are You Hiding Food in Your Tail?",
+        "ja": "AI 中継所アパート 12 · しっぽに食べ物を隠してない？"
+      },
+      "url": "https://www.bilibili.com/video/BV1C2pg6cEZW/",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "冬冰",
+          "url": "https://space.bilibili.com/44748304"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 11",
+          "url": "https://www.bilibili.com/video/BV1GJp469EuT/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 13",
+          "url": "https://www.bilibili.com/video/BV1hrWF6mE1m/"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "original-character",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-10",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:52.352Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1c2pg6cezw.json",
+        "sha256": "79f3c2e4e189e84d3ff8b7e2d6b8d7df3d650267f72f7bea65f54bd75b41e45e",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1C2pg6cEZW",
+      "subtype": "story",
+      "sourceTitle": "你尾巴里有没有藏吃的",
+      "publishedAt": "2026-10-10T09:28:43.000Z",
+      "likes": {
+        "count": 85679,
+        "observedAt": "2026-11-25T10:24:52.352Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1C2pg6cEZW",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1hrwf6me1m",
+      "category": "animation",
+      "title": {
+        "zh": "AI 中转站公寓 13 · 我问你话呢回答我",
+        "en": "AI Relay Station Apartment 13 · I Asked You a Question—Answer Me",
+        "ja": "AI 中継所アパート 13 · 聞いてるんだから答えて"
+      },
+      "url": "https://www.bilibili.com/video/BV1hrWF6mE1m/",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "冬冰",
+          "url": "https://space.bilibili.com/44748304"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 12",
+          "url": "https://www.bilibili.com/video/BV1C2pg6cEZW/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 14",
+          "url": "https://www.bilibili.com/video/BV1oxp26nELR/"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "original-character",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-13",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:52.308Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1hrwf6me1m.json",
+        "sha256": "4fb672cef47c0381b6c784729118e8874ad2324b179122d8f4329a3900dd2679",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1hrWF6mE1m",
+      "subtype": "story",
+      "sourceTitle": "我问你话呢回答我",
+      "publishedAt": "2026-10-13T04:42:13.000Z",
+      "likes": {
+        "count": 78473,
+        "observedAt": "2026-11-25T10:24:52.308Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hrWF6mE1m",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1oxp26nelr",
+      "category": "animation",
+      "title": {
+        "zh": "AI 中转站公寓 14 · 哇，青梅竹马天下第一",
+        "en": "AI Relay Station Apartment 14 · Childhood Friends Are the Best",
+        "ja": "AI 中継所アパート 14 · 幼なじみ最高"
+      },
+      "url": "https://www.bilibili.com/video/BV1oxp26nELR/",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "冬冰",
+          "url": "https://space.bilibili.com/44748304"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 13",
+          "url": "https://www.bilibili.com/video/BV1hrWF6mE1m/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 15",
+          "url": "https://www.bilibili.com/video/BV1g2JX6HEHX/"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "original-character",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-14",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:52.888Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1oxp26nelr.json",
+        "sha256": "b6b95e02cac7ee0f42cbcc274c6db61bb1b5d583b72ccb9ff74d63a920b9aa5a",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1oxp26nELR",
+      "subtype": "story",
+      "sourceTitle": "哇青梅竹马天下第一【AI全民制作人】",
+      "publishedAt": "2026-10-14T09:24:33.000Z",
+      "likes": {
+        "count": 92659,
+        "observedAt": "2026-11-25T10:24:52.888Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oxp26nELR",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1g2jx6hehx",
+      "category": "animation",
+      "title": {
+        "zh": "AI 中转站公寓 15 · 再给我一个好吗",
+        "en": "AI Relay Station Apartment 15 · May I Have Another?",
+        "ja": "AI 中継所アパート 15 · もう一つちょうだい？"
+      },
+      "url": "https://www.bilibili.com/video/BV1g2JX6HEHX/",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "冬冰",
+          "url": "https://space.bilibili.com/44748304"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 14",
+          "url": "https://www.bilibili.com/video/BV1oxp26nELR/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 16",
+          "url": "https://www.bilibili.com/video/BV1t6nu6bEsf/"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "original-character",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-16",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:52.809Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1g2jx6hehx.json",
+        "sha256": "c2563a0acabd910a62d7c18bc3b45ffc7ef47024bce7304ef1a571579a9bc82a",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1g2JX6HEHX",
+      "subtype": "story",
+      "sourceTitle": "再给我一个好吗",
+      "publishedAt": "2026-10-16T09:03:26.000Z",
+      "likes": {
+        "count": 127198,
+        "observedAt": "2026-11-25T10:24:52.809Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1g2JX6HEHX",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1gmxz6hed3",
+      "category": "animation",
+      "title": {
+        "zh": "AI 中转站公寓 17 · 小克你最好了",
+        "en": "AI Relay Station Apartment 17 · Xiao Ke, You’re the Best",
+        "ja": "AI 中継所アパート 17 · 小克、最高だよ"
+      },
+      "url": "https://www.bilibili.com/video/BV1gMxz6hED3/",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "冬冰",
+          "url": "https://space.bilibili.com/44748304"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 16",
+          "url": "https://www.bilibili.com/video/BV1t6nu6bEsf/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 18",
+          "url": "https://www.bilibili.com/video/BV1Lrxt6uEuR/"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-31",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:52.890Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1gmxz6hed3.json",
+        "sha256": "5b2e2ed00d59b8ce692c8b9b1487ef3d6123c1bf3ab138c7ec1687117db66190",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1gMxz6hED3",
+      "subtype": "story",
+      "sourceTitle": "小克你最好了",
+      "publishedAt": "2026-10-31T00:00:00.000Z",
+      "likes": {
+        "count": 78326,
+        "observedAt": "2026-11-25T10:24:52.890Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gMxz6hED3",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1a9wm6keyf",
+      "category": "animation",
+      "title": {
+        "zh": "AI 中转站公寓 19 · 好凶哦，没吃饱也不用哈气嘛",
+        "en": "AI Relay Station Apartment 19 · So Fierce! You Don’t Have to Hiss",
+        "ja": "AI 中継所アパート 19 · 怖いよ、ご飯が足りなくても威嚇しないで"
+      },
+      "url": "https://www.bilibili.com/video/BV1a9WM6kEyf/",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "冬冰",
+          "url": "https://space.bilibili.com/44748304"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 18",
+          "url": "https://www.bilibili.com/video/BV1Lrxt6uEuR/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 20",
+          "url": "https://www.bilibili.com/video/BV1U4Wd6vEWj/"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-10",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:52.890Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1a9wm6keyf.json",
+        "sha256": "f3e6c030533a8914c772d7d91f7c2cf247585531f96d17696ca889c110505e79",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1a9WM6kEyf",
+      "subtype": "story",
+      "sourceTitle": "好凶哦，没吃饱也不用哈气嘛",
+      "publishedAt": "2026-11-10T10:29:08.000Z",
+      "likes": {
+        "count": 47871,
+        "observedAt": "2026-11-25T10:24:52.890Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1a9WM6kEyf",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1zrs36hedd",
+      "category": "animation",
+      "title": {
+        "zh": "AI 中转站公寓 21 · 只要摇摇头张张嘴",
+        "en": "AI Relay Station Apartment 21 · Just Shake Your Head and Open Your Mouth",
+        "ja": "AI 中継所アパート 21 · 首を振って口を開けるだけ"
+      },
+      "url": "https://www.bilibili.com/video/BV1ZRs36hEdD/",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "冬冰",
+          "url": "https://space.bilibili.com/44748304"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 20",
+          "url": "https://www.bilibili.com/video/BV1U4Wd6vEWj/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 22",
+          "url": "https://www.bilibili.com/video/BV1QCsh66ECT/"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-14",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:52.833Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1zrs36hedd.json",
+        "sha256": "971e9c783c3d2415fcf5febc787e5e8f88e3c9479a8548f62a712bad33c1709e",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1ZRs36hEdD",
+      "subtype": "story",
+      "sourceTitle": "只要摇摇头张张嘴",
+      "publishedAt": "2026-11-14T08:57:48.000Z",
+      "likes": {
+        "count": 21590,
+        "observedAt": "2026-11-25T10:24:52.833Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZRs36hEdD",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1gbyazkebx",
+      "category": "animation",
+      "title": {
+        "zh": "AI 中转站公寓 23 · 还是豆姐的肉包香",
+        "en": "AI Relay Station Apartment 23 · Doubao’s Meat Buns Are the Best",
+        "ja": "AI 中継所アパート 23 · 豆包お姉さんの肉まんが一番"
+      },
+      "url": "https://www.bilibili.com/video/BV1GByazkEBX/",
+      "publisher": "冬冰",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "冬冰",
+          "url": "https://space.bilibili.com/44748304"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 22",
+          "url": "https://www.bilibili.com/video/BV1QCsh66ECT/"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "original-character",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-21",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:53.391Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1gbyazkebx.json",
+        "sha256": "1deaf42f58228ad969e3a79b1d640335ab81b74f835a1d9d93fe2f56a6fd4cd8",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1GByazkEBX",
+      "subtype": "story",
+      "sourceTitle": "还是豆姐的肉包香",
+      "publishedAt": "2026-11-21T08:40:43.000Z",
+      "likes": {
+        "count": 38764,
+        "observedAt": "2026-11-25T10:24:53.391Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1GByazkEBX",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1jlx76je7l",
+      "category": "animation",
+      "title": {
+        "zh": "DeepSeek、GPT、Claude 组队玩《杀戮尖塔2》",
+        "en": "DeepSeek, GPT and Claude Play Slay the Spire 2",
+        "ja": "DeepSeek、GPT、Claude が Slay the Spire 2 で共闘"
+      },
+      "url": "https://www.bilibili.com/video/BV1JLx76jE7L/",
+      "publisher": "华好好过",
+      "summary": {
+        "zh": "社区拟人二创，保留原投稿和官方累计点赞观测。",
+        "en": "Community personification fan work, with original upload and official cumulative like observation.",
+        "ja": "コミュニティ擬人化二次創作。原投稿と公式累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-11-22/HUA_AI_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/HUA_AI_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "华好好过",
+          "url": "https://space.bilibili.com/243804463"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-28",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:53.369Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1jlx76je7l.json",
+        "sha256": "b13bae96b25ac0005b0721571a182b363d750db9075ab04288bb392410ea191b",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1JLx76jE7L",
+      "subtype": "story",
+      "sourceTitle": "【AI拟人】当DeepSeek、GPT、Claude组队玩《杀戮尖塔2》",
+      "publishedAt": "2026-10-28T12:57:08.000Z",
+      "likes": {
+        "count": 201,
+        "observedAt": "2026-11-25T10:24:53.369Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JLx76jE7L",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1ukxy6tegw",
+      "category": "animation",
+      "title": {
+        "zh": "AI公寓 01 · 房东怎么长这样？",
+        "en": "AI Apartment 01 · What’s Up with the Landlord?",
+        "ja": "AI アパート 01 · 大家さんはどうしてそんな姿？"
+      },
+      "url": "https://www.bilibili.com/video/BV1UKxy6TEgw/",
+      "publisher": "华好好过",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-11-22/HUA_AI_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/HUA_AI_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "华好好过",
+          "url": "https://space.bilibili.com/243804463"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 2",
+          "url": "https://www.bilibili.com/video/BV1Xg4i6xErW/"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-31",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:53.339Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1ukxy6tegw.json",
+        "sha256": "2e71076854dfca2d118f38c57ce635ed3acccdd5dcad38a8d42035e2efa24a73",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1UKxy6TEgw",
+      "subtype": "story",
+      "sourceTitle": "【AI公寓01】DeepSeek、GPT、Claude合租，房东怎么长这样？",
+      "publishedAt": "2026-10-31T06:43:16.000Z",
+      "likes": {
+        "count": 551,
+        "observedAt": "2026-11-25T10:24:53.339Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1UKxy6TEgw",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1xg4i6xerw",
+      "category": "animation",
+      "title": {
+        "zh": "AI公寓 02 · 大肥鱼一喊救命，哈基米真来了",
+        "en": "AI Apartment 02 · Fat Fish Calls for Help and Gemini Appears",
+        "ja": "AI アパート 02 · 大きな魚が助けを呼ぶと Gemini が来た"
+      },
+      "url": "https://www.bilibili.com/video/BV1Xg4i6xErW/",
+      "publisher": "华好好过",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-11-22/HUA_AI_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/HUA_AI_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "华好好过",
+          "url": "https://space.bilibili.com/243804463"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 1",
+          "url": "https://www.bilibili.com/video/BV1UKxy6TEgw/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 3",
+          "url": "https://www.bilibili.com/video/BV17aW36WE3k/"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-06",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:53.356Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1xg4i6xerw.json",
+        "sha256": "3a46f57150859eb414d2f97b1932dababf419e92a8e1ff905e1830bc61fd584d",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1Xg4i6xErW",
+      "subtype": "story",
+      "sourceTitle": "【AI公寓02】大肥鱼一喊救命，隔壁的哈基米真来了！",
+      "publishedAt": "2026-11-06T05:50:23.000Z",
+      "likes": {
+        "count": 322,
+        "observedAt": "2026-11-25T10:24:53.356Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Xg4i6xErW",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv17aw36we3k",
+      "category": "animation",
+      "title": {
+        "zh": "AI公寓 03 · Wi-Fi 满格却断网，Grok 来借网",
+        "en": "AI Apartment 03 · Full Wi-Fi but No Internet; Grok Comes to Borrow It",
+        "ja": "AI アパート 03 · Wi-Fi は満タンなのに接続不能、Grok が借りに来る"
+      },
+      "url": "https://www.bilibili.com/video/BV17aW36WE3k/",
+      "publisher": "华好好过",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-11-22/HUA_AI_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/HUA_AI_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "华好好过",
+          "url": "https://space.bilibili.com/243804463"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 2",
+          "url": "https://www.bilibili.com/video/BV1Xg4i6xErW/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 4",
+          "url": "https://www.bilibili.com/video/BV1axW26LERX/"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-10",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:53.351Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv17aw36we3k.json",
+        "sha256": "ae9a72309e7f5911668d4dac8311ba44689acb3053a001ef5d760c1def7a2980",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV17aW36WE3k",
+      "subtype": "story",
+      "sourceTitle": "【AI公寓03】Wi-Fi满格却断网，隔壁Grok带着斧子来借网！",
+      "publishedAt": "2026-11-10T13:42:44.000Z",
+      "likes": {
+        "count": 231,
+        "observedAt": "2026-11-25T10:24:53.351Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17aW36WE3k",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1axw26lerx",
+      "category": "animation",
+      "title": {
+        "zh": "AI公寓 04 · GPT 砍价砍赢了，下一秒却卡壳",
+        "en": "AI Apartment 04 · GPT Wins the Bargain, Then Stalls",
+        "ja": "AI アパート 04 · GPT が値切りに勝った直後に停止"
+      },
+      "url": "https://www.bilibili.com/video/BV1axW26LERX/",
+      "publisher": "华好好过",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-11-22/HUA_AI_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/HUA_AI_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "华好好过",
+          "url": "https://space.bilibili.com/243804463"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 3",
+          "url": "https://www.bilibili.com/video/BV17aW36WE3k/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 5",
+          "url": "https://www.bilibili.com/video/BV1cZsV6MEVF/"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-11",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:54.026Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1axw26lerx.json",
+        "sha256": "4dba35119de15ade0f4ae26cad57704846c531b7acba04de08495d8adb32c767",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1axW26LERX",
+      "subtype": "story",
+      "sourceTitle": "【AI公寓04】GPT砍价砍赢了，下一秒却开始阿巴阿巴",
+      "publishedAt": "2026-11-11T13:24:15.000Z",
+      "likes": {
+        "count": 420,
+        "observedAt": "2026-11-25T10:24:54.026Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1axW26LERX",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1czsv6mevf",
+      "category": "animation",
+      "title": {
+        "zh": "AI公寓 05 · 大小姐不想回家，千问店长出面",
+        "en": "AI Apartment 05 · Miss Claude Won’t Go Home; Qwen Steps In",
+        "ja": "AI アパート 05 · お嬢さんは帰りたくない、店長 Qwen が助ける"
+      },
+      "url": "https://www.bilibili.com/video/BV1cZsV6MEVF/",
+      "publisher": "华好好过",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-11-22/HUA_AI_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/HUA_AI_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "华好好过",
+          "url": "https://space.bilibili.com/243804463"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 4",
+          "url": "https://www.bilibili.com/video/BV1axW26LERX/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 6",
+          "url": "https://www.bilibili.com/video/BV1QTsg6yEav/"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-14",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:54.026Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1czsv6mevf.json",
+        "sha256": "f7f626942c77c4d0e8047871253981534e012c9f8fe09f2c34b5d947101c1010",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1cZsV6MEVF",
+      "subtype": "story",
+      "sourceTitle": "【AI公寓05】大小姐不想回家，千问店长出面了！",
+      "publishedAt": "2026-11-14T12:26:24.000Z",
+      "likes": {
+        "count": 697,
+        "observedAt": "2026-11-25T10:24:54.026Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cZsV6MEVF",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1qtsg6yeav",
+      "category": "animation",
+      "title": {
+        "zh": "AI公寓 06 · 大小姐也会委屈，还好肥鱼在身边",
+        "en": "AI Apartment 06 · Miss Claude Feels Hurt; Fat Fish Is There",
+        "ja": "AI アパート 06 · お嬢さんも傷つく、大きな魚がそばに"
+      },
+      "url": "https://www.bilibili.com/video/BV1QTsg6yEav/",
+      "publisher": "华好好过",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-11-22/HUA_AI_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/HUA_AI_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "华好好过",
+          "url": "https://space.bilibili.com/243804463"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 5",
+          "url": "https://www.bilibili.com/video/BV1cZsV6MEVF/"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 7",
+          "url": "https://www.bilibili.com/video/BV197yhzTEHP/"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-17",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:54.026Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1qtsg6yeav.json",
+        "sha256": "22c8974e5d82573760718a8cd857ff1ded97b1006c6986f6bf8a3c42bd2850ec",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1QTsg6yEav",
+      "subtype": "story",
+      "sourceTitle": "【AI公寓06】大小姐也会委屈，还好大肥鱼在身边",
+      "publishedAt": "2026-11-17T05:25:43.000Z",
+      "likes": {
+        "count": 420,
+        "observedAt": "2026-11-25T10:24:54.026Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QTsg6yEav",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv197yhztehp",
+      "category": "animation",
+      "title": {
+        "zh": "AI公寓 07 · 这房子隔音吗？",
+        "en": "AI Apartment 07 · Is This Apartment Soundproof?",
+        "ja": "AI アパート 07 · この家、防音は大丈夫？"
+      },
+      "url": "https://www.bilibili.com/video/BV197yhzTEHP/",
+      "publisher": "华好好过",
+      "summary": {
+        "zh": "同作者连载的剧情短片，保留原集序和官方累计点赞。",
+        "en": "Story short from the same creator’s serial, with the original series order and official cumulative likes.",
+        "ja": "同じ作者の連載短編。原投稿順と公式累計いいねを掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-11-22/HUA_AI_APARTMENT.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/HUA_AI_APARTMENT.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "华好好过",
+          "url": "https://space.bilibili.com/243804463"
+        },
+        {
+          "role": "same-series",
+          "title": "Episode 6",
+          "url": "https://www.bilibili.com/video/BV1QTsg6yEav/"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-21",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:54.026Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv197yhztehp.json",
+        "sha256": "5b3927f322458408b6ae221cf916e2019ce65f1069cfb8004c299c8a10ecb24e",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV197yhzTEHP",
+      "subtype": "story",
+      "sourceTitle": "这房子隔音吗？｜AI公寓 第07集",
+      "publishedAt": "2026-11-21T03:19:14.000Z",
+      "likes": {
+        "count": 202,
+        "observedAt": "2026-11-25T10:24:54.026Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV197yhzTEHP",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1nqwh6qexz",
+      "category": "animation",
+      "title": {
+        "zh": "出逃大小姐与蓝色大肥鱼",
+        "en": "Runaway Miss Claude and Blue Fat Fish",
+        "ja": "逃げ出したお嬢さんと青い大きな魚"
+      },
+      "url": "https://www.bilibili.com/video/BV1nqWh6QEXZ/",
+      "publisher": "黑猫勇者",
+      "summary": {
+        "zh": "社区拟人二创，保留原投稿和官方累计点赞观测。",
+        "en": "Community personification fan work, with original upload and official cumulative like observation.",
+        "ja": "コミュニティ擬人化二次創作。原投稿と公式累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-11-22/COMMUNITY_BRANCHES.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/COMMUNITY_BRANCHES.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "黑猫勇者",
+          "url": "https://space.bilibili.com/69180811"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-13",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:54.026Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1nqwh6qexz.json",
+        "sha256": "dbaaa6e71529998fbe0b5824afaaa7c5915baf986444877c85ca6bc12f8ebb98",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1nqWh6QEXZ",
+      "subtype": "story",
+      "sourceTitle": "《负债800亿出逃大小姐不会遇见蓝色大肥鱼》",
+      "publishedAt": "2026-11-13T03:30:00.000Z",
+      "likes": {
+        "count": 1880,
+        "observedAt": "2026-11-25T10:24:54.026Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nqWh6QEXZ",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1o6ylzketh",
+      "category": "animation",
+      "title": {
+        "zh": "GLM、Kimi 和小 ZCode 的日常",
+        "en": "Daily Life of GLM, Kimi and Little ZCode",
+        "ja": "GLM、Kimi、小さな ZCode の日常"
+      },
+      "url": "https://www.bilibili.com/video/BV1o6yLzKEtH/",
+      "publisher": "白河豚战士",
+      "summary": {
+        "zh": "社区拟人二创，保留原投稿和官方累计点赞观测。",
+        "en": "Community personification fan work, with original upload and official cumulative like observation.",
+        "ja": "コミュニティ擬人化二次創作。原投稿と公式累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "链接原投稿；角色、音乐及图片等逐件复用条件依作者说明。",
+        "en": "Original upload linked; reuse of characters, music and images follows individual creator terms.",
+        "ja": "原投稿へリンク。キャラクター、音楽、画像等の再利用条件は個別作者の説明を参照。"
+      },
+      "relations": [
+        {
+          "role": "pinned-source-index",
+          "title": "research/2026-11-22/COMMUNITY_BRANCHES.md",
+          "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/COMMUNITY_BRANCHES.md"
+        },
+        {
+          "role": "creator-profile",
+          "title": "白河豚战士",
+          "url": "https://space.bilibili.com/412863108"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-11-22",
+      "publicationDateBasis": "bilibili-pubdate",
+      "usage": "source-only",
+      "downloadable": false,
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:24:54.508Z",
+        "httpStatus": 200,
+        "scope": "Official original video identity, publication timestamp and cumulative likes matched pinned discovery source."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/bv1o6ylzketh.json",
+        "sha256": "99262728148ac9a667e1439684e0136eeb30c55525141fa61940a392b7cc8f9a",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1o6yLzKEtH",
+      "subtype": "story",
+      "sourceTitle": "glm酱和kimi酱还有小zcode的日常",
+      "publishedAt": "2026-11-22T10:54:17.000Z",
+      "likes": {
+        "count": 90,
+        "observedAt": "2026-11-25T10:24:54.508Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1o6yLzKEtH",
+        "evidence": {
+          "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+          "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "deanzhang-claude-2-5d-desktop-pet",
+      "category": "interactive",
+      "title": {
+        "zh": "Claude 娘 · 2.5D 自动绑定桌宠",
+        "en": "Claude Girl · 2.5D Rigged Desktop Pet",
+        "ja": "Claude 娘 · 2.5D 自動リグのデスクトップペット"
+      },
+      "publisher": "deanzhang2026-max",
+      "url": "https://github.com/deanzhang2026-max/claude-chan-desktop-pet/blob/333898b36c591037d8716b8e4d408abb5fd7045c/README.md",
+      "summary": {
+        "zh": "Windows 桌宠与 Claude Code 状态联动。当前固定版采用 PSD 拆层及 Anime2.5DRig 自动绑定，有眨眼、呼吸和阅读动作；Live2D 是待发布计划。",
+        "en": "Windows pet follows Claude Code activity. Pinned version uses PSD layers and Anime2.5DRig for blinking, breathing and reading; Live2D is planned, not shipped.",
+        "ja": "Windows ペットは Claude Code の状態に連動。固定版は PSD 分割と Anime2.5DRig で瞬き・呼吸・読書。Live2D は今後の計画。"
+      },
+      "rights": {
+        "zh": "项目自有代码和美术按 CC BY-NC-SA 4.0；README 称原型来自 ZipZipPipe 并获得二创许可。Anime2.5DRig 运行时另为 MIT。具体上游复用范围待核，仅提供项目链接。",
+        "en": "Project’s own code and art use CC BY-NC-SA 4.0; README credits ZipZipPipe and claims derivative permission. Anime2.5DRig runtime is MIT. Upstream reuse scope remains individual; link only.",
+        "ja": "自作コード・画像は CC BY-NC-SA 4.0。README は ZipZipPipe の原型と二次創作許可を記載。Anime2.5DRig は MIT。上流の範囲は個別確認、出典のみ。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/deanzhang-claude-2-5d-desktop-pet.json",
+        "sha256": "5a9b496cf44138cfbc81246e0d778f44cde7fedaf1e81d23b70c3fe1fe3d3019",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:22:24.779Z",
+        "httpStatus": 200,
+        "scope": "Pinned documentation and separate art notices matched Git blob hashes. Runtime not executed."
+      },
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "LICENSE",
+          "url": "https://github.com/deanzhang2026-max/claude-chan-desktop-pet/blob/333898b36c591037d8716b8e4d408abb5fd7045c/LICENSE"
+        },
+        {
+          "role": "pinned-document",
+          "title": "web/rig/README.md",
+          "url": "https://github.com/deanzhang2026-max/claude-chan-desktop-pet/blob/333898b36c591037d8716b8e4d408abb5fd7045c/web/rig/README.md"
+        },
+        {
+          "role": "pinned-document",
+          "title": "web/rig/LICENSE",
+          "url": "https://github.com/deanzhang2026-max/claude-chan-desktop-pet/blob/333898b36c591037d8716b8e4d408abb5fd7045c/web/rig/LICENSE"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "third-party-runtime",
+          "title": "Anime2.5DRig",
+          "url": "https://github.com/852wa/Anime2.5DRig"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-23",
+      "publicationDateBasis": "github-repository-created",
+      "usage": "source-only",
+      "downloadable": false
+    },
+    {
+      "id": "kirakila7-nekofans-workbench",
+      "category": "interactive",
+      "title": {
+        "zh": "Nekofans · 多角色桌面工作台",
+        "en": "Nekofans · Multi-character Desktop Workbench",
+        "ja": "Nekofans · 多キャラクター作業台"
+      },
+      "publisher": "Kirakila7",
+      "url": "https://github.com/Kirakila7/Nekofans/blob/85e2985e574ee83fbfe634a08db3f35dd5826270/README.md",
+      "summary": {
+        "zh": "项目说明含大肥鱼、Claude 娘、Gemini 星猫娘、像素 Q 版及自定义动图导入，桌面伙伴与任务活动分别展示。",
+        "en": "Project documents a whale, Claude girl, Gemini star cat, pixel characters and custom animated imports, with separate companion and task views.",
+        "ja": "大きな魚、Claude 娘、Gemini 星猫娘、ピクセルキャラ、独自アニメ取り込みを記載。相棒とタスク表示を分ける。"
+      },
+      "rights": {
+        "zh": "核心代码 Apache-2.0，AI 娘素材子目录有 CC BY-NC 4.0 和非官方同人声明。README 另注明上游鲸鱼娘素材保留各作者权利及非商用、署名和相同方式共享条件。逐件复用另核。",
+        "en": "Core code is Apache-2.0. The AI girls asset directory has CC BY-NC 4.0 and an unofficial fan-art notice; README separately reserves upstream whale artwork rights and noncommercial, attribution and share-alike terms. Check individual assets.",
+        "ja": "本体コード Apache-2.0。AI 娘素材ディレクトリに CC BY-NC 4.0 と非公式声明。上流のクジラ娘画像は各作者の権利および非商用・署名・継承条件を別途記載。個別確認が必要。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/kirakila7-nekofans-workbench.json",
+        "sha256": "dea02262305799df48743d75a0f8e6a3d4b08475091f4e93c7494b60a29637ca",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:22:26.407Z",
+        "httpStatus": 200,
+        "scope": "Pinned documentation and separate art notices matched Git blob hashes. Runtime not executed."
+      },
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "LICENSE",
+          "url": "https://github.com/Kirakila7/Nekofans/blob/85e2985e574ee83fbfe634a08db3f35dd5826270/LICENSE"
+        },
+        {
+          "role": "pinned-document",
+          "title": "NOTICE",
+          "url": "https://github.com/Kirakila7/Nekofans/blob/85e2985e574ee83fbfe634a08db3f35dd5826270/NOTICE"
+        },
+        {
+          "role": "pinned-document",
+          "title": "apps/neko-workbench/assets/ai-girls/LICENSE",
+          "url": "https://github.com/Kirakila7/Nekofans/blob/85e2985e574ee83fbfe634a08db3f35dd5826270/apps/neko-workbench/assets/ai-girls/LICENSE"
+        },
+        {
+          "role": "pinned-document",
+          "title": "apps/neko-workbench/assets/ai-girls/NOTICE.md",
+          "url": "https://github.com/Kirakila7/Nekofans/blob/85e2985e574ee83fbfe634a08db3f35dd5826270/apps/neko-workbench/assets/ai-girls/NOTICE.md"
+        },
+        {
+          "role": "pinned-document",
+          "title": "apps/neko-workbench/assets/pixel-ai-girls/THIRD_PARTY_NOTICES.md",
+          "url": "https://github.com/Kirakila7/Nekofans/blob/85e2985e574ee83fbfe634a08db3f35dd5826270/apps/neko-workbench/assets/pixel-ai-girls/THIRD_PARTY_NOTICES.md"
+        },
+        {
+          "role": "original-character",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "role": "design-creator",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "addedAt": "2026-11-25",
+      "publicationDate": "2026-10-27",
+      "publicationDateBasis": "github-repository-created",
+      "usage": "source-only",
+      "downloadable": false
+    },
+    {
+      "id": "larcgpt-gemma-original",
+      "category": "sources",
+      "title": {
+        "zh": "Gemma 娘 · larcgpt",
+        "en": "Gemma Girl · larcgpt",
+        "ja": "Gemma 娘 · larcgpt"
+      },
+      "publisher": "larcgpt",
+      "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Gemma/Gemma_Main_1.png",
+      "summary": {
+        "zh": "作者明确说明图像由 ChatGPT 生成，Main_1 为银白长发与晶体装饰；不把文字设定中的不同发型合并为同一张图。",
+        "en": "The creator describes ChatGPT-generated images. Main_1 has silver-white long hair and crystal ornaments; alternate written hair design remains separate.",
+        "ja": "作者は ChatGPT 生成画像と明記。Main_1 は銀白の長髪と結晶装飾。文章設定の異なる髪型とは区別。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/larcgpt-gemma-original.json",
+        "sha256": "9c5c7fa953cedcac8bc3492fd3b67c1a175a9af83533dfdac96c88525dd75983",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:23:58.357Z",
+        "httpStatus": 200,
+        "scope": "Creator-published upstream AI-generated picture, pinned Git blob and SHA-256 verified; artwork-specific reuse unconfirmed."
+      },
+      "relations": [
+        {
+          "role": "creator-project",
+          "title": "AI Model Musume README",
+          "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/README.md"
+        },
+        {
+          "role": "author-design-notes",
+          "title": "settings.md",
+          "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/settings.md"
+        },
+        {
+          "role": "official-product",
+          "title": "gemma",
+          "url": "https://gemma.ai/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "publicationDateBasis": null
+    },
+    {
+      "id": "larcgpt-gpt-oss-original",
+      "category": "sources",
+      "title": {
+        "zh": "GPT-OSS 120B 娘 · larcgpt",
+        "en": "GPT-OSS 120B Girl · larcgpt",
+        "ja": "GPT-OSS 120B 娘 · larcgpt"
+      },
+      "publisher": "larcgpt",
+      "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/ChatGPT_GPT-OSS/ChatGPT_GPT-OSS_Main_1.png",
+      "summary": {
+        "zh": "Main_1 图为作者用 ChatGPT 生成的科幻工程角色，发型和文字设定另有差异。该形象独立于 ZipZipPipe 的白龙娘。",
+        "en": "Main_1 is a creator-published ChatGPT-generated sci-fi engineer, whose hair differs from the written proposal. Separate from ZipZipPipe’s white dragon.",
+        "ja": "Main_1 は作者が ChatGPT で生成した SF エンジニア。髪型は文章案と異なる。ZipZipPipe の白龍娘とは独立。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/larcgpt-gpt-oss-original.json",
+        "sha256": "a0ab4525fcdfeceebce52e5cb7fd1f5fb96bef71aeac1982335083dbf8af4859",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:23:59.162Z",
+        "httpStatus": 200,
+        "scope": "Creator-published upstream AI-generated picture, pinned Git blob and SHA-256 verified; artwork-specific reuse unconfirmed."
+      },
+      "relations": [
+        {
+          "role": "creator-project",
+          "title": "AI Model Musume README",
+          "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/README.md"
+        },
+        {
+          "role": "author-design-notes",
+          "title": "settings.md",
+          "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/settings.md"
+        },
+        {
+          "role": "official-product",
+          "title": "gpt-oss",
+          "url": "https://github.com/openai/gpt-oss"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "publicationDateBasis": null
+    },
+    {
+      "id": "green-thursday-dalle3-twin-muses-original",
+      "category": "sources",
+      "title": {
+        "zh": "DALL·E 3 · Twin Muses 卢西亚与菲比",
+        "en": "DALL·E 3 · Twin Muses Lucia & Phoebe",
+        "ja": "DALL·E 3 · 双子のミューズ ルチア＆フィービー"
+      },
+      "publisher": "Green_Thursday",
+      "url": "https://note.com/glossy_stoat7085/n/n485dd36dbdae",
+      "summary": {
+        "zh": "作者以 Twin Muses 为题介绍两位双胞胎：Lucia 主色酒红，Phoebe 主色蓝。原帖包含双人图及两张单人图。",
+        "en": "Creator introduces Twin Muses as sisters: Lucia in wine red and Phoebe in blue. Original note includes a duo portrait and two solo images.",
+        "ja": "作者は Twin Muses として双子姉妹を紹介。ルチアはワインレッド、フィービーは青。原投稿に二人絵と単独絵2枚。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/green-thursday-dalle3-twin-muses-original.json",
+        "sha256": "60abdfe7959533db3629fdb9433ef5b524993adedee6f572283192fe2ab90d16",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:25:16.306Z",
+        "httpStatus": 200,
+        "scope": "Creator note title and character names verified, three exact served image renditions hashed and visually reviewed; no reuse permission inferred."
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "Green_Thursday",
+          "url": "https://note.com/glossy_stoat7085"
+        },
+        {
+          "role": "alternate-creator-artwork",
+          "title": "Aipictors · source access restricted",
+          "url": "https://www.aipictors.com/posts/798422"
+        },
+        {
+          "role": "official-product",
+          "title": "DALL·E 3",
+          "url": "https://openai.com/index/dall-e-3/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "publicationDateBasis": null
+    },
+    {
+      "id": "habai182-ai-girls-atlas-source-index",
+      "category": "sources",
+      "title": {
+        "zh": "AI Girls Atlas · 扩展作者资料索引",
+        "en": "AI Girls Atlas · Extended Creator Index",
+        "ja": "AI Girls Atlas · 作者資料索引"
+      },
+      "publisher": "HABAI182",
+      "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/README.md",
+      "summary": {
+        "zh": "固定版按模型整理作者原作、图像引用和人设线索。本轮经指向的原发布独立核实 Gemma、GPT-OSS 和 DALL·E 3。",
+        "en": "The pinned atlas indexes creator posts, image references and character notes by model. Gemma, GPT-OSS and DALL·E 3 were independently traced to their creator publications.",
+        "ja": "固定版はモデル別に作者原作、画像参照、設定の手掛かりを整理。Gemma、GPT-OSS、DALL·E 3 は作者原投稿へ個別に溯源。"
+      },
+      "rights": {
+        "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+        "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+        "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-25/habai182-ai-girls-atlas-source-index.json",
+        "sha256": "3cae99334d6366dd7856311cabb09983eb75ef7a12ed3f24d870fe521dd293fd",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-25T10:22:20.168Z",
+        "httpStatus": 200,
+        "scope": "Pinned source documents matched Git blob and SHA-256."
+      },
+      "relations": [
+        {
+          "role": "pinned-index-document",
+          "title": "LICENSE.md",
+          "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/LICENSE.md"
+        },
+        {
+          "role": "pinned-index-document",
+          "title": "THIRD_PARTY_NOTICES.md",
+          "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/THIRD_PARTY_NOTICES.md"
+        },
+        {
+          "role": "pinned-index-document",
+          "title": "characters/cohere/README.md",
+          "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/characters/cohere/README.md"
+        },
+        {
+          "role": "pinned-index-document",
+          "title": "characters/dalle3/README.md",
+          "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/characters/dalle3/README.md"
+        },
+        {
+          "role": "pinned-index-document",
+          "title": "characters/elevenlabs/README.md",
+          "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/characters/elevenlabs/README.md"
+        },
+        {
+          "role": "pinned-index-document",
+          "title": "characters/flux/README.md",
+          "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/characters/flux/README.md"
+        },
+        {
+          "role": "pinned-index-document",
+          "title": "characters/gemma/README.md",
+          "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/characters/gemma/README.md"
+        },
+        {
+          "role": "pinned-index-document",
+          "title": "characters/gpt-oss/README.md",
+          "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/characters/gpt-oss/README.md"
+        },
+        {
+          "role": "pinned-index-document",
+          "title": "characters/deepseek/README.md",
+          "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/characters/deepseek/README.md"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-25",
+      "publicationDate": null,
+      "publicationDateBasis": null
     }
   ]
 }

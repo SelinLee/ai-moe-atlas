@@ -1,0 +1,49 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:21:54.481Z",
+  "url": "https://www.bilibili.com/video/BV1Lzxq6aETb/",
+  "officialVideo": {
+    "bvid": "BV1Lzxq6aETb",
+    "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Lzxq6aETb",
+    "observedAt": "2026-11-25T10:21:54.481Z",
+    "httpStatus": 200,
+    "code": 0,
+    "title": "《谁把这些东西留到现在了？》",
+    "publisher": "萤火之森QWQ",
+    "publisherId": 482116663,
+    "publicationDate": "2026-10-30",
+    "pubdate": 1793362502,
+    "likes": 828
+  },
+  "descriptionSha256": "84ba635f144fa5249911a749e637e48fecda4cc458ef41fd44442cf42a8c5d66",
+  "sourceSeries": {
+    "author": {
+      "mid": 482116663,
+      "name": "萤火之森QWQ"
+    },
+    "season": {
+      "id": 9320273,
+      "title": "《AI GIRLS》",
+      "intro": "",
+      "ep_count": 52
+    },
+    "uploadOrder": 31,
+    "indexDocument": {
+      "path": "research/2026-10-31/AI_GIRLS_INDEX.json",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "sourceSha256": "2da4d75814df6d277147072b702098625f93b8a1b7d4390a08a0e3ad144400b2",
+      "gitBlobSha": "743d405594cca90412cab3dc9de9e1a475db3ea1",
+      "bytes": 18758,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T09:59:14.658Z"
+    },
+    "indexEpisode": {
+      "order": 31,
+      "bvid": "BV1Lzxq6aETb",
+      "title": "《谁把这些东西留到现在了？》",
+      "pubdate": 1793362502
+    }
+  },
+  "formatEvidence": "Original view API matches the fixed same-author collection index. The index records uploads, including split specials; upload order is not treated as a published episode number. Individual frame review not claimed."
+}

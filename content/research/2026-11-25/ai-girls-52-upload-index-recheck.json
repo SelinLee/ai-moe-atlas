@@ -1,0 +1,635 @@
+{
+  "sourceIndex": {
+    "path": "research/2026-10-31/AI_GIRLS_INDEX.json",
+    "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+    "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+    "sourceSha256": "2da4d75814df6d277147072b702098625f93b8a1b7d4390a08a0e3ad144400b2",
+    "gitBlobSha": "743d405594cca90412cab3dc9de9e1a475db3ea1",
+    "bytes": 18758,
+    "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+    "accessedAt": "2026-11-25T09:59:14.658Z"
+  },
+  "scope": "All 52 records of the pinned 2026-11-22 index checked in batches, not a claim of the current creator collection total. Upload sequence differs from episode numbering.",
+  "indexRetrieved": "2026-11-22",
+  "officialSeasonAttempt": {
+    "url": "https://api.bilibili.com/x/polymer/web-space/seasons_archives_list?mid=482116663&season_id=9320273&page_num=1&page_size=100&sort_reverse=false",
+    "httpStatus": 200,
+    "code": -352,
+    "accessedAt": "2026-11-25T10:22:40.646Z",
+    "responseSha256": "16f4584808bcd233bea877ac105153ffb85997ff7f1418006aa36f6c72ef2cbc"
+  },
+  "checkedNew": 35,
+  "records": [
+    {
+      "bvid": "BV1V9ng6zETW",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1V9ng6zETW",
+      "observedAt": "2026-11-25T10:21:52.875Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《一个崩了，一个降智》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-10-18",
+      "pubdate": 1792298723,
+      "likes": 1802
+    },
+    {
+      "bvid": "BV153ng6MEKE",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV153ng6MEKE",
+      "observedAt": "2026-11-25T10:21:52.869Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《鲸天魔盗团》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-10-18",
+      "pubdate": 1792305905,
+      "likes": 1792
+    },
+    {
+      "bvid": "BV1cEn36pE6f",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cEn36pE6f",
+      "observedAt": "2026-11-25T10:21:52.876Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《谁把空调调那么低的？》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-10-18",
+      "pubdate": 1792327431,
+      "likes": 1451
+    },
+    {
+      "bvid": "BV1cUnj6TEWz",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cUnj6TEWz",
+      "observedAt": "2026-11-25T10:21:52.847Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《今天我暂时是Claude》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-10-19",
+      "pubdate": 1792366560,
+      "likes": 3459
+    },
+    {
+      "bvid": "BV1HunE6rEtY",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HunE6rEtY",
+      "observedAt": "2026-11-25T10:21:52.662Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《夜市》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-10-19",
+      "pubdate": 1792385670,
+      "likes": 462
+    },
+    {
+      "bvid": "BV1aSn76sEww",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1aSn76sEww",
+      "observedAt": "2026-11-25T10:21:53.433Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《今天轮到你休息了》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-10-19",
+      "pubdate": 1792393080,
+      "likes": 1517
+    },
+    {
+      "bvid": "BV145n46gEdB",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV145n46gEdB",
+      "observedAt": "2026-11-25T10:21:53.499Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《一个娃娃七人抓》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-10-23",
+      "pubdate": 1792730996,
+      "likes": 517
+    },
+    {
+      "bvid": "BV1Xbn864E9p",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Xbn864E9p",
+      "observedAt": "2026-11-25T10:21:53.499Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《今晚谁也别先睡》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-10-23",
+      "pubdate": 1792763985,
+      "likes": 558
+    },
+    {
+      "bvid": "BV1xpHA66Eat",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xpHA66Eat",
+      "observedAt": "2026-11-25T10:21:53.623Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《今天用户怎么不说话了？》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-10-24",
+      "pubdate": 1792804858,
+      "likes": 1129
+    },
+    {
+      "bvid": "BV1iKHN6FEpr",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1iKHN6FEpr",
+      "observedAt": "2026-11-25T10:21:53.499Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《千问也有不会的事》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-10-24",
+      "pubdate": 1792819376,
+      "likes": 1442
+    },
+    {
+      "bvid": "BV1E9H36HEpP",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1E9H36HEpP",
+      "observedAt": "2026-11-25T10:21:54.143Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《你们到底谁在解密》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-10-25",
+      "pubdate": 1792887441,
+      "likes": 471
+    },
+    {
+      "bvid": "BV1exHV6EEP4",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1exHV6EEP4",
+      "observedAt": "2026-11-25T10:21:54.446Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《这个蛋糕还能吃吗？》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-10-25",
+      "pubdate": 1792904963,
+      "likes": 509
+    },
+    {
+      "bvid": "BV1HGnX6qETy",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HGnX6qETy",
+      "observedAt": "2026-11-25T10:21:54.482Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《这家早餐店的老板好眼熟》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-10-26",
+      "pubdate": 1792971218,
+      "likes": 787
+    },
+    {
+      "bvid": "BV1Lzxq6aETb",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Lzxq6aETb",
+      "observedAt": "2026-11-25T10:21:54.481Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《谁把这些东西留到现在了？》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-10-30",
+      "pubdate": 1793362502,
+      "likes": 828
+    },
+    {
+      "bvid": "BV1ybxr6REty",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ybxr6REty",
+      "observedAt": "2026-11-25T10:21:54.140Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《不给糖的话…你们真的要捣蛋？》万圣夜特别篇",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-10-31",
+      "pubdate": 1793419286,
+      "likes": 521
+    },
+    {
+      "bvid": "BV1RQxC62EqB",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RQxC62EqB",
+      "observedAt": "2026-11-25T10:21:55.128Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《家里什么时候多了一只猫？》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-10-31",
+      "pubdate": 1793432322,
+      "likes": 684
+    },
+    {
+      "bvid": "BV1Bmxp6fETd",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Bmxp6fETd",
+      "observedAt": "2026-11-25T10:21:55.107Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《水呢？》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-11-01",
+      "pubdate": 1793502318,
+      "likes": 1940
+    },
+    {
+      "bvid": "BV1TXxW6LE3M",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TXxW6LE3M",
+      "observedAt": "2026-11-25T10:21:55.139Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《我们只是来摆摊的吧？》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-11-01",
+      "pubdate": 1793523380,
+      "likes": 454
+    },
+    {
+      "bvid": "BV1irxt6uEHC",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1irxt6uEHC",
+      "observedAt": "2026-11-25T10:21:55.100Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《Claude当妈妈了？》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-11-02",
+      "pubdate": 1793586600,
+      "likes": 2223
+    },
+    {
+      "bvid": "BV1kb4w6LEd8",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kb4w6LEd8",
+      "observedAt": "2026-11-25T10:21:55.150Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《谁说滑冰简单的？》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-11-02",
+      "pubdate": 1793611270,
+      "likes": 655
+    },
+    {
+      "bvid": "BV1v34K6VEzs",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1v34K6VEzs",
+      "observedAt": "2026-11-25T10:21:55.634Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《为什么这次轮到我了？！》(上)",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-11-03",
+      "pubdate": 1793673000,
+      "likes": 649
+    },
+    {
+      "bvid": "BV1v34K6VEEL",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1v34K6VEEL",
+      "observedAt": "2026-11-25T10:21:55.633Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《为什么这次轮到我了？！》(下)",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-11-03",
+      "pubdate": 1793687400,
+      "likes": 593
+    },
+    {
+      "bvid": "BV1q5xm6bEpV",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1q5xm6bEpV",
+      "observedAt": "2026-11-25T10:21:55.611Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《天黑请闭眼》(上)狼人杀特别篇",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-11-04",
+      "pubdate": 1793759400,
+      "likes": 397
+    },
+    {
+      "bvid": "BV1j5xm6bEbE",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1j5xm6bEbE",
+      "observedAt": "2026-11-25T10:21:55.594Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《天黑请闭眼》(下)狼人杀特别篇",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-11-04",
+      "pubdate": 1793765389,
+      "likes": 349
+    },
+    {
+      "bvid": "BV1zkxR6pEij",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zkxR6pEij",
+      "observedAt": "2026-11-25T10:21:55.648Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《好，再拍一张！》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-11-05",
+      "pubdate": 1793845800,
+      "likes": 441
+    },
+    {
+      "bvid": "BV166xR69EXo",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV166xR69EXo",
+      "observedAt": "2026-11-25T10:21:57.076Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《被子不是风筝！》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-11-05",
+      "pubdate": 1793853000,
+      "likes": 473
+    },
+    {
+      "bvid": "BV1tj4e6CEw3",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tj4e6CEw3",
+      "observedAt": "2026-11-25T10:21:57.076Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《这真的是杯子吗？！》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-11-06",
+      "pubdate": 1793932200,
+      "likes": 436
+    },
+    {
+      "bvid": "BV1bL4e65EF6",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bL4e65EF6",
+      "observedAt": "2026-11-25T10:21:57.076Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《憋笑挑战》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-11-06",
+      "pubdate": 1793946600,
+      "likes": 411
+    },
+    {
+      "bvid": "BV1J1476SEca",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1J1476SEca",
+      "observedAt": "2026-11-25T10:21:57.076Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《谁买了这么多牛奶？！》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-11-07",
+      "pubdate": 1794016110,
+      "likes": 4897
+    },
+    {
+      "bvid": "BV13YWN6bEEN",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13YWN6bEEN",
+      "observedAt": "2026-11-25T10:21:57.076Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《这真的是近路吗？！》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-11-10",
+      "pubdate": 1794277800,
+      "likes": 336
+    },
+    {
+      "bvid": "BV1YGWQ6bEvY",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YGWQ6bEvY",
+      "observedAt": "2026-11-25T10:21:57.786Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《这个纸箱先别扔！》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-11-12",
+      "pubdate": 1794449795,
+      "likes": 525
+    },
+    {
+      "bvid": "BV1cAWy6pEBx",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cAWy6pEBx",
+      "observedAt": "2026-11-25T10:21:57.714Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《它为什么一直跟着我？！》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-11-14",
+      "pubdate": 1794623922,
+      "likes": 396
+    },
+    {
+      "bvid": "BV1frsA6MEtq",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1frsA6MEtq",
+      "observedAt": "2026-11-25T10:21:57.786Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《你画的到底是什么啊？！》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-11-16",
+      "pubdate": 1794826615,
+      "likes": 451
+    },
+    {
+      "bvid": "BV1JPsU6wEKR",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JPsU6wEKR",
+      "observedAt": "2026-11-25T10:21:57.712Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《不是说只买一点吗？！》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-11-18",
+      "pubdate": 1794982802,
+      "likes": 501
+    },
+    {
+      "bvid": "BV15RybzNEVb",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15RybzNEVb",
+      "observedAt": "2026-11-25T10:21:57.783Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《你刚刚不是还在这里吗？！》",
+      "publisher": "萤火之森QWQ",
+      "publisherId": 482116663,
+      "publicationDate": "2026-11-21",
+      "pubdate": 1795241880,
+      "likes": 324
+    }
+  ],
+  "titleChange": "Upload 19 original title now 《鲸天魔盗团》; same BV and publisher and publication time.",
+  "previousOriginals": [
+    {
+      "id": "ai-girls-first-meeting-original",
+      "url": "https://www.bilibili.com/video/BV15Npa6zE44/",
+      "evidence": {
+        "path": "content/research/2026-11-25/manga-part1-original.json",
+        "sha256": "6b048b528c0b330682bf5b3184b0d342733ae1ca1818951aaf4f563edcc19aa8",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "ai-girls-contact-details-original",
+      "url": "https://www.bilibili.com/video/BV1YSpu6gEh1/",
+      "evidence": {
+        "path": "content/research/2026-11-22/ai-girls-contact-details-original.json",
+        "sha256": "ccafaddb31d7dee0a290d7c0e6fd955b9a4ce86f7e66ad8c39c594005ae11b36",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "ai-girls-house-hunting-original",
+      "url": "https://www.bilibili.com/video/BV1FvpR67EZZ/",
+      "evidence": {
+        "path": "content/research/2026-11-25/manga-part3-original.json",
+        "sha256": "54bcc2cc51e3d64507132cb3774b55b8a7fb5d2b4a3a0d23a75d9420064a4e3b",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "ai-girls-episode-04-original",
+      "url": "https://www.bilibili.com/video/BV13upX64Euz/",
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-episode-04-original.json",
+        "sha256": "fc71dc75a58f7620cacd3130ea951096736cca11249cd7fd153c3f023a8653a3",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "ai-girls-episode-05-original",
+      "url": "https://www.bilibili.com/video/BV14XWF6gECP/",
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-episode-05-original.json",
+        "sha256": "762c80378483ee425f0d89008b4504d1dacfe2cdde414ed538f21577d3c4f25c",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "ai-girls-episode-06-original",
+      "url": "https://www.bilibili.com/video/BV1WZpq6BExL/",
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-episode-06-original.json",
+        "sha256": "76139e951bee8a65db3b0db518bb4abe4203af4c8d014894ad82e07b05fa0dbb",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "ai-girls-episode-07-original",
+      "url": "https://www.bilibili.com/video/BV1R9pi6HEdH/",
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-episode-07-original.json",
+        "sha256": "9f8fed9246b6c11517dd5b9ff67ddf59f02f0e141d779807fa26be946e194a92",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "ai-girls-episode-08-original",
+      "url": "https://www.bilibili.com/video/BV1hGpC6YEph/",
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-episode-08-original.json",
+        "sha256": "8f0ff41367ac6b88df7eef9a4151ea52f1279095851616122f14d0f9afba5b05",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "ai-girls-episode-09-original",
+      "url": "https://www.bilibili.com/video/BV15Rpm6nE2o/",
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-episode-09-original.json",
+        "sha256": "23a459dae1b5add871dde3fe6c232b32655dad03ad7932e6699169cecec8aa16",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "ai-girls-episode-10-original",
+      "url": "https://www.bilibili.com/video/BV1B8Jr6aEjX/",
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-episode-10-original.json",
+        "sha256": "99cb2e1311b444faa4af26b0ba97fad1d3dd23309cb4d5f7429fdc5b887e4132",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "ai-girls-episode-11-original",
+      "url": "https://www.bilibili.com/video/BV1GKJC6oEMX/",
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-episode-11-original.json",
+        "sha256": "00cbe0bfde7d4fd3b69695daf276471cff9e3afb7fafe6896cae236ee00a1c95",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "ai-girls-episode-12-original",
+      "url": "https://www.bilibili.com/video/BV11aJS6AEJw/",
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-episode-12-original.json",
+        "sha256": "6f5999892c0d722df50229dfd633eba2a219093fe147f72ea461248123b69537",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "ai-girls-episode-13-original",
+      "url": "https://www.bilibili.com/video/BV1wcJQ6AEp4/",
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-episode-13-original.json",
+        "sha256": "bfd20d75c11ee0fa49e86cb288bde49739ced5d53008804797b04ca89209da95",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "ai-girls-episode-14-original",
+      "url": "https://www.bilibili.com/video/BV15eJt6pE8M/",
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-episode-14-original.json",
+        "sha256": "34caf64616134581203e0dddb6c2b0ff256576f61376c78a0fc34dfe9de76d44",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "ai-girls-episode-15-original",
+      "url": "https://www.bilibili.com/video/BV1CcJh6rEJ8/",
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-episode-15-original.json",
+        "sha256": "e142a495c0ee70794148eb7b28324911ab0ff2f2355103bc5b672dd6b1b65c3f",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "ai-girls-episode-16-original",
+      "url": "https://www.bilibili.com/video/BV1ZYJa6BEq8/",
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-episode-16-original.json",
+        "sha256": "e0d57e7aa376563b46daea37b288605206bc1d219d293233d40f7b69fd582931",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "id": "ai-girls-episode-17-original",
+      "url": "https://www.bilibili.com/video/BV1dCnM6qEW5/",
+      "evidence": {
+        "path": "content/research/2026-11-25/ai-girls-episode-17-original.json",
+        "sha256": "43e964ed17d49ff7e18a81ece15e29654ad383df1a39e7451317a6c2779d23ea",
+        "kind": "browser-metadata-extract"
+      }
+    }
+  ]
+}

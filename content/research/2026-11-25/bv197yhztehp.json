@@ -1,0 +1,33 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:24:54.026Z",
+  "url": "https://www.bilibili.com/video/BV197yhzTEHP/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV197yhzTEHP",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV197yhzTEHP",
+    "title": "这房子隔音吗？｜AI公寓 第07集",
+    "owner": {
+      "name": "华好好过",
+      "mid": 243804463
+    },
+    "pubdate": 1795231154,
+    "duration": 160
+  },
+  "descriptionSha256": "6921ae9e3b2af7722b04fe4ab0389787e9faf5eaca68410473fcaae194665bfc",
+  "linkedVideos": [],
+  "discovery": {
+    "indexDocument": {
+      "path": "research/2026-11-22/HUA_AI_APARTMENT.md",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/HUA_AI_APARTMENT.md",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/HUA_AI_APARTMENT.md",
+      "sourceSha256": "4d022c01547378bfc3379b08461fb0d39bdfb9875c9f8b1df5abcee66c4555cf",
+      "gitBlobSha": "4070367707a23b6822ed39e2c34c7eff4ebac8e2",
+      "bytes": 4948,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T10:24:00.067Z",
+      "httpStatus": 200
+    },
+    "seriesOrder": 7
+  }
+}

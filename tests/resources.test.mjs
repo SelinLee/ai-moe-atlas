@@ -4,12 +4,19 @@ import {readFile} from 'node:fs/promises';
 import {createHash} from 'node:crypto';
 import {spawnSync} from 'node:child_process';
 import {fileURLToPath} from 'node:url';
-import {assertResources,readPendingAnimationCandidates} from '../scripts/lib/resources.mjs';
+import {assertResources,assertResourceCollections,readPendingAnimationCandidates} from '../scripts/lib/resources.mjs';
 import {beijingTime,byCumulativeLikes,byPublicationTime} from '../src/lib/animation-ranking.mjs';
 import {rankSongsByLikes} from '../src/lib/song-ranking.mjs';
 import {readLikeArchive} from '../scripts/lib/like-archive.mjs';
 const root=new URL('../',import.meta.url);
 const registry=JSON.parse(await readFile(new URL('content/resources.json',root),'utf8'));
+test('serial upload order preserves explicit episode numbers and split postings independently',()=>{
+  const records=['a','b','c','d'].map(id=>({id,category:'sources',verification:{result:'metadata-verified'},relations:[]}));
+  const collections={stickers:[],rigs:[],comics:[{id:'a',series:'Series',episode:38},{id:'b',series:'Series',sequence:39,episode:39},{id:'c',series:'Series',sequence:40,episode:39},{id:'d',series:'Series',sequence:41}]};
+  assert.doesNotThrow(()=>assertResourceCollections(collections,records));
+  const invalid=structuredClone(collections);invalid.comics[2].sequence=39;
+  assert.throws(()=>assertResourceCollections(invalid,records),/series order/);
+});
 test('the song ranking uses the best observed version and retains unranked tracks',()=>{
   const songs=[
     {id:'unranked',versions:[{id:'source'}]},

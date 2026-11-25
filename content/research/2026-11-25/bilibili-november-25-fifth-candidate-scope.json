@@ -1,0 +1,44 @@
+{
+  "previousEvidence": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fourth-candidate-batch.json",
+  "currentEvidence": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+  "capturedAt": "2026-11-25T10:24:54.510Z",
+  "queried": 26,
+  "successfulMetadata": 26,
+  "newRankedRows": 26,
+  "sourceIndexes": [
+    {
+      "path": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+      "sourceSha256": "c413280b5fe64ae523ece15ea1414e8a3330450e10fbbc65e14240874b9d4542",
+      "gitBlobSha": "e6619e6313409f3357647300be377421a82a2bd0",
+      "bytes": 5781,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T10:23:59.650Z",
+      "httpStatus": 200
+    },
+    {
+      "path": "research/2026-11-22/HUA_AI_APARTMENT.md",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/HUA_AI_APARTMENT.md",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/HUA_AI_APARTMENT.md",
+      "sourceSha256": "4d022c01547378bfc3379b08461fb0d39bdfb9875c9f8b1df5abcee66c4555cf",
+      "gitBlobSha": "4070367707a23b6822ed39e2c34c7eff4ebac8e2",
+      "bytes": 4948,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T10:24:00.067Z",
+      "httpStatus": 200
+    },
+    {
+      "path": "research/2026-11-22/COMMUNITY_BRANCHES.md",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/COMMUNITY_BRANCHES.md",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/COMMUNITY_BRANCHES.md",
+      "sourceSha256": "e2f3b49531e2d05c93776b795240a83f97d9212302446e5c2cfc88b6e2003228",
+      "gitBlobSha": "b6a845c074b62af0b1cbc6569a35101f0198acae",
+      "bytes": 11079,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T10:24:00.951Z",
+      "httpStatus": 200
+    }
+  ],
+  "comicSourceEvidence": "content/research/2026-11-25/ai-girls-52-upload-index-recheck.json"
+}

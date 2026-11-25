@@ -4448,5 +4448,173 @@
       "en": "Issue #119 is titled Gemini Flash but its body refers to the Gemini Pro Pixiv post. Although it contains CC BY-NC-SA 4.0 wording, its image-specific scope is unresolved; link only.",
       "ja": "第119号の題名は Gemini Flash、本文は Gemini Pro の Pixiv 投稿を参照。CC BY-NC-SA 4.0 の記載はあるが、画像別の適用範囲は未確認。出典のみ。"
     }
+  },
+  {
+    "id": "larcgpt-gemma",
+    "entity": "gemma",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Gemma 娘 · larcgpt",
+      "en": "Gemma Girl · larcgpt",
+      "ja": "Gemma 娘 · larcgpt"
+    },
+    "description": {
+      "zh": "AI Model Musume 企划中由作者公开的 Gemma 娘。",
+      "en": "Gemma personification published in the AI Model Musume project.",
+      "ja": "AI Model Musume 企画で作者が公開した Gemma 娘。"
+    },
+    "story": {
+      "zh": "作者明确说明图像由 ChatGPT 生成，Main_1 为银白长发与晶体装饰；不把文字设定中的不同发型合并为同一张图。",
+      "en": "The creator describes ChatGPT-generated images. Main_1 has silver-white long hair and crystal ornaments; alternate written hair design remains separate.",
+      "ja": "作者は ChatGPT 生成画像と明記。Main_1 は銀白の長髪と結晶装飾。文章設定の異なる髪型とは区別。"
+    },
+    "features": {
+      "zh": "银白长发、蓝紫眼、浅色棱镜与宝石图案。",
+      "en": "Long silver-white hair, blue-violet eyes, pale prism and gem motifs.",
+      "ja": "銀白の長髪、青紫の目、淡色のプリズムと宝石モチーフ。"
+    },
+    "author": "larcgpt",
+    "authorUrl": "https://github.com/larcgpt",
+    "source": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Gemma/Gemma_Main_1.png",
+    "sourceTitle": "Gemma/Gemma_Main_1.png",
+    "originalPublication": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Gemma/Gemma_Main_1.png",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "larcgpt",
+        "url": "https://github.com/larcgpt",
+        "role": "original-character",
+        "publication": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Gemma/Gemma_Main_1.png"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Gemma/Gemma_Main_1.png",
+    "downloadable": false,
+    "bg": "#edf3fb",
+    "color": "#48678d",
+    "verifiedAt": "2026-11-25",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "核对固定 Git 版本的 1024 × 1536 PNG 字节及 SHA-256。仓库无明确许可文件，图片不再分发。",
+      "en": "Verified the 1024 × 1536 PNG bytes and SHA-256 at a fixed Git revision. No explicit license file found; image not redistributed.",
+      "ja": "固定 Git 版の1024 × 1536 PNG バイトと SHA-256 を照合。許可ファイル未確認のため再配布しない。"
+    }
+  },
+  {
+    "id": "larcgpt-gpt-oss",
+    "entity": "gpt-oss",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "GPT-OSS 120B 娘 · larcgpt",
+      "en": "GPT-OSS 120B Girl · larcgpt",
+      "ja": "GPT-OSS 120B 娘 · larcgpt"
+    },
+    "description": {
+      "zh": "AI Model Musume 企划中具名的 GPT-OSS 120B 娘化角色。",
+      "en": "Named GPT-OSS 120B personification in AI Model Musume.",
+      "ja": "AI Model Musume 企画の GPT-OSS 120B 擬人化キャラクター。"
+    },
+    "story": {
+      "zh": "Main_1 图为作者用 ChatGPT 生成的科幻工程角色，发型和文字设定另有差异。该形象独立于 ZipZipPipe 的白龙娘。",
+      "en": "Main_1 is a creator-published ChatGPT-generated sci-fi engineer, whose hair differs from the written proposal. Separate from ZipZipPipe’s white dragon.",
+      "ja": "Main_1 は作者が ChatGPT で生成した SF エンジニア。髪型は文章案と異なる。ZipZipPipe の白龍娘とは独立。"
+    },
+    "features": {
+      "zh": "黑色短发、青绿发尾、机械臂、机能风外套及绿色终端意象。",
+      "en": "Black short hair with teal tips, robot arm, techwear jacket and teal terminal imagery.",
+      "ja": "黒い短髪と青緑の毛先、機械腕、テックウェア、青緑の端末モチーフ。"
+    },
+    "author": "larcgpt",
+    "authorUrl": "https://github.com/larcgpt",
+    "source": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/ChatGPT_GPT-OSS/ChatGPT_GPT-OSS_Main_1.png",
+    "sourceTitle": "ChatGPT_GPT-OSS/ChatGPT_GPT-OSS_Main_1.png",
+    "originalPublication": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/ChatGPT_GPT-OSS/ChatGPT_GPT-OSS_Main_1.png",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "larcgpt",
+        "url": "https://github.com/larcgpt",
+        "role": "original-character",
+        "publication": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/ChatGPT_GPT-OSS/ChatGPT_GPT-OSS_Main_1.png"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/ChatGPT_GPT-OSS/ChatGPT_GPT-OSS_Main_1.png",
+    "downloadable": false,
+    "bg": "#e5f3ed",
+    "color": "#346d63",
+    "verifiedAt": "2026-11-25",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "核对固定 Git 版本的 1024 × 1536 PNG 字节及 SHA-256。仓库无明确许可文件，图片不再分发。",
+      "en": "Verified the 1024 × 1536 PNG bytes and SHA-256 at a fixed Git revision. No explicit license file found; image not redistributed.",
+      "ja": "固定 Git 版の1024 × 1536 PNG バイトと SHA-256 を照合。許可ファイル未確認のため再配布しない。"
+    }
+  },
+  {
+    "id": "green-thursday-dalle3-twin-muses",
+    "entity": "dalle3",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "DALL·E 3 · Twin Muses 卢西亚与菲比",
+      "en": "DALL·E 3 · Twin Muses Lucia & Phoebe",
+      "ja": "DALL·E 3 · 双子のミューズ ルチア＆フィービー"
+    },
+    "description": {
+      "zh": "Green_Thursday 在 note 中具名的 DALL·E 3 双子拟人。",
+      "en": "Named twin personification of DALL·E 3 published by Green_Thursday on note.",
+      "ja": "Green_Thursday が note で公開した DALL·E 3 の双子擬人化。"
+    },
+    "story": {
+      "zh": "作者以 Twin Muses 为题介绍两位双胞胎：Lucia 主色酒红，Phoebe 主色蓝。原帖包含双人图及两张单人图。",
+      "en": "Creator introduces Twin Muses as sisters: Lucia in wine red and Phoebe in blue. Original note includes a duo portrait and two solo images.",
+      "ja": "作者は Twin Muses として双子姉妹を紹介。ルチアはワインレッド、フィービーは青。原投稿に二人絵と単独絵2枚。"
+    },
+    "features": {
+      "zh": "棕色短发、同款白色运动服、酒红及蓝色配色、球场场景。",
+      "en": "Short brown hair, matching white sports outfits with wine-red and blue accents, ballfield setting.",
+      "ja": "茶色の短髪、おそろいの白いスポーツ服、ワインレッドと青、球場。"
+    },
+    "author": "Green_Thursday",
+    "authorUrl": "https://note.com/glossy_stoat7085",
+    "source": "https://note.com/glossy_stoat7085/n/n485dd36dbdae",
+    "sourceTitle": "04章 DALL-E 3 篇 (Part Ⅰ)「DALL-E 3 を体現するTwin Muses」- 各生成AIをアニメ風キャラクターに擬人化！-｜Green_Thursday",
+    "originalPublication": "https://note.com/glossy_stoat7085/n/n485dd36dbdae",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "Green_Thursday",
+        "url": "https://note.com/glossy_stoat7085",
+        "role": "original-character",
+        "publication": "https://note.com/glossy_stoat7085/n/n485dd36dbdae"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/glossy_stoat7085/n/n485dd36dbdae",
+    "downloadable": false,
+    "bg": "#f1e8ef",
+    "color": "#8c4368",
+    "verifiedAt": "2026-11-25",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者 note 站内实际返回的三张图片已核对哈希；它们是页面提供的图像版本，非确认的未缩放母图。Aipictors 原链接本次受限，不宣称已核其原图。",
+      "en": "Hashed three image renditions served by the creator’s note page; not verified unscaled masters. Aipictors source access was restricted.",
+      "ja": "作者 note が配信した画像3枚のハッシュを照合。未縮小の原版とは確認していない。Aipictors 原投稿はアクセス制限あり。"
+    }
   }
 ]

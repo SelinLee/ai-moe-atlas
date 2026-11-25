@@ -86,19 +86,21 @@ export function assertResourceCollections(collections, records) {
     }
   }
   for (const {id, format} of collections.rigs) {
-    if (!['live2d','mmd','vrm'].includes(format)) throw new Error('Invalid rig format: ' + id);
+    if (!['live2d','mmd','vrm','2.5d'].includes(format)) throw new Error('Invalid rig format: ' + id);
   }
-  const lastEpisodes = new Map();
-  for (const {id, series, episode, adaptation} of collections.comics) {
+  const lastSequences = new Map();
+  for (const {id, series, episode, sequence, adaptation} of collections.comics) {
     const video = byId.get(adaptation);
     if (adaptation && (video?.category !== 'animation' || !byId.get(id).relations.some(link => link.url === video.url))) {
       throw new Error('Comic adaptation must match the original source record: ' + id);
     }
-    if (series === undefined && episode === undefined) continue;
-    if (!series?.trim() || !Number.isSafeInteger(episode) || episode <= (lastEpisodes.get(series) ?? 0)) {
-      throw new Error('Comic episodes must be listed in series order: ' + id);
+    if (series === undefined && episode === undefined && sequence === undefined) continue;
+    const order = sequence ?? episode;
+    if (!series?.trim() || !Number.isSafeInteger(order) || order <= (lastSequences.get(series) ?? 0) ||
+        (episode !== undefined && (!Number.isSafeInteger(episode) || episode < 1))) {
+      throw new Error('Comic uploads must be listed in series order: ' + id);
     }
-    lastEpisodes.set(series, episode);
+    lastSequences.set(series, order);
   }
 }
 

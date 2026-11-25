@@ -1,0 +1,33 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:24:53.339Z",
+  "url": "https://www.bilibili.com/video/BV1UKxy6TEgw/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1UKxy6TEgw",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1UKxy6TEgw",
+    "title": "【AI公寓01】DeepSeek、GPT、Claude合租，房东怎么长这样？",
+    "owner": {
+      "name": "华好好过",
+      "mid": 243804463
+    },
+    "pubdate": 1793428996,
+    "duration": 206
+  },
+  "descriptionSha256": "2e44db6730a34c0ffa88f47ab9c450eaff1e622e4dfd475a9abf18ad34aec1c7",
+  "linkedVideos": [],
+  "discovery": {
+    "indexDocument": {
+      "path": "research/2026-11-22/HUA_AI_APARTMENT.md",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/HUA_AI_APARTMENT.md",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/HUA_AI_APARTMENT.md",
+      "sourceSha256": "4d022c01547378bfc3379b08461fb0d39bdfb9875c9f8b1df5abcee66c4555cf",
+      "gitBlobSha": "4070367707a23b6822ed39e2c34c7eff4ebac8e2",
+      "bytes": 4948,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T10:24:00.067Z",
+      "httpStatus": 200
+    },
+    "seriesOrder": 1
+  }
+}

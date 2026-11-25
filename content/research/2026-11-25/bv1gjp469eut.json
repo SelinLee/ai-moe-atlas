@@ -1,0 +1,33 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:24:52.310Z",
+  "url": "https://www.bilibili.com/video/BV1GJp469EuT/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1GJp469EuT",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1GJp469EuT",
+    "title": "三天是生存，不是生活啦",
+    "owner": {
+      "name": "冬冰",
+      "mid": 44748304
+    },
+    "pubdate": 1791534235,
+    "duration": 222
+  },
+  "descriptionSha256": "c369a482986439667b78f5d0a096d3f204cc85c73cb6f20ab6d4263bd04cf74c",
+  "linkedVideos": [],
+  "discovery": {
+    "indexDocument": {
+      "path": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+      "sourceSha256": "c413280b5fe64ae523ece15ea1414e8a3330450e10fbbc65e14240874b9d4542",
+      "gitBlobSha": "e6619e6313409f3357647300be377421a82a2bd0",
+      "bytes": 5781,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T10:23:59.650Z",
+      "httpStatus": 200
+    },
+    "seriesOrder": 11
+  }
+}

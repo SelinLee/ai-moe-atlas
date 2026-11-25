@@ -1,0 +1,33 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:24:52.890Z",
+  "url": "https://www.bilibili.com/video/BV1a9WM6kEyf/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1a9WM6kEyf",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1a9WM6kEyf",
+    "title": "好凶哦，没吃饱也不用哈气嘛",
+    "owner": {
+      "name": "冬冰",
+      "mid": 44748304
+    },
+    "pubdate": 1794306548,
+    "duration": 223
+  },
+  "descriptionSha256": "9d9d2ef561b7bfff103f65bd85c1f04b7a28e267c55b4c6d8410cff941039b27",
+  "linkedVideos": [],
+  "discovery": {
+    "indexDocument": {
+      "path": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+      "sourceSha256": "c413280b5fe64ae523ece15ea1414e8a3330450e10fbbc65e14240874b9d4542",
+      "gitBlobSha": "e6619e6313409f3357647300be377421a82a2bd0",
+      "bytes": 5781,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T10:23:59.650Z",
+      "httpStatus": 200
+    },
+    "seriesOrder": 19
+  }
+}

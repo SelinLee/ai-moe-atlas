@@ -1,0 +1,118 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:22:20.168Z",
+  "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/HABAI182/ai-girls-atlas/702e9ed1459220f3b712039586649548bd64654f/README.md",
+    "sourceSha256": "b688283f88d435fd21f084b65213d53dc246e6b837e519aa2043e256442d082c",
+    "gitBlobSha": "e78bf4b87fe10654b6efbb434c1d050ae584bf85",
+    "bytes": 5479,
+    "commit": "702e9ed1459220f3b712039586649548bd64654f",
+    "accessedAt": "2026-11-25T10:22:20.168Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/HABAI182/ai-girls-atlas/702e9ed1459220f3b712039586649548bd64654f/README.md",
+      "sourceSha256": "b688283f88d435fd21f084b65213d53dc246e6b837e519aa2043e256442d082c",
+      "gitBlobSha": "e78bf4b87fe10654b6efbb434c1d050ae584bf85",
+      "bytes": 5479,
+      "commit": "702e9ed1459220f3b712039586649548bd64654f",
+      "accessedAt": "2026-11-25T10:22:20.168Z"
+    },
+    {
+      "path": "LICENSE.md",
+      "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/LICENSE.md",
+      "rawUrl": "https://raw.githubusercontent.com/HABAI182/ai-girls-atlas/702e9ed1459220f3b712039586649548bd64654f/LICENSE.md",
+      "sourceSha256": "1980bd9557e06553af3b62aafd5590afe6ff0a55ac166d84d2d1e9ba5fc9e778",
+      "gitBlobSha": "33a4dce0751b4bb1510b6f46d294c8a5883318c0",
+      "bytes": 2046,
+      "commit": "702e9ed1459220f3b712039586649548bd64654f",
+      "accessedAt": "2026-11-25T10:22:20.550Z"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/HABAI182/ai-girls-atlas/702e9ed1459220f3b712039586649548bd64654f/THIRD_PARTY_NOTICES.md",
+      "sourceSha256": "305c785b1f4f7e06ff85e1cca3820b121a1115f1002e6e0d123e9d9f3b2cfba4",
+      "gitBlobSha": "ee878e2464401737911b6e72ae83783998fc0533",
+      "bytes": 67535,
+      "commit": "702e9ed1459220f3b712039586649548bd64654f",
+      "accessedAt": "2026-11-25T10:22:20.941Z"
+    },
+    {
+      "path": "characters/cohere/README.md",
+      "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/characters/cohere/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/HABAI182/ai-girls-atlas/702e9ed1459220f3b712039586649548bd64654f/characters/cohere/README.md",
+      "sourceSha256": "4ad5ccbb3cca68ab6cb24de8aef1167a97482f64364929ffe7221afb1fa7fd75",
+      "gitBlobSha": "e6703bc172909afa05abd7724fc792be78d4c352",
+      "bytes": 2374,
+      "commit": "702e9ed1459220f3b712039586649548bd64654f",
+      "accessedAt": "2026-11-25T10:22:21.388Z"
+    },
+    {
+      "path": "characters/dalle3/README.md",
+      "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/characters/dalle3/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/HABAI182/ai-girls-atlas/702e9ed1459220f3b712039586649548bd64654f/characters/dalle3/README.md",
+      "sourceSha256": "3cce3dd8927253256f985c86110c55d1c619e37ec9e6f9fa0896826e1af1d7a8",
+      "gitBlobSha": "9d8512f22686143ffac337bc1a329352721859dd",
+      "bytes": 532,
+      "commit": "702e9ed1459220f3b712039586649548bd64654f",
+      "accessedAt": "2026-11-25T10:22:21.904Z"
+    },
+    {
+      "path": "characters/elevenlabs/README.md",
+      "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/characters/elevenlabs/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/HABAI182/ai-girls-atlas/702e9ed1459220f3b712039586649548bd64654f/characters/elevenlabs/README.md",
+      "sourceSha256": "c680679d28a95727519820a89ace3bb36d2e858fcb1263b29c6e9abe16c328d6",
+      "gitBlobSha": "20d42ca93d00f60c469452eb3917d1bc44f7e866",
+      "bytes": 1250,
+      "commit": "702e9ed1459220f3b712039586649548bd64654f",
+      "accessedAt": "2026-11-25T10:22:22.559Z"
+    },
+    {
+      "path": "characters/flux/README.md",
+      "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/characters/flux/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/HABAI182/ai-girls-atlas/702e9ed1459220f3b712039586649548bd64654f/characters/flux/README.md",
+      "sourceSha256": "e0e0b5eb4d0cab4c22865005b9485e7e61e99a90d935d5bd659f43d2401ba519",
+      "gitBlobSha": "44e16a2032f51fb0df8bb5f504552d3bf96bd11a",
+      "bytes": 2255,
+      "commit": "702e9ed1459220f3b712039586649548bd64654f",
+      "accessedAt": "2026-11-25T10:22:23.187Z"
+    },
+    {
+      "path": "characters/gemma/README.md",
+      "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/characters/gemma/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/HABAI182/ai-girls-atlas/702e9ed1459220f3b712039586649548bd64654f/characters/gemma/README.md",
+      "sourceSha256": "fb9ccca8b92348e095892cec119d7ca564d514b7add8689af6e3e7f6d8737b9b",
+      "gitBlobSha": "eb4974cbe9d1d1bdc21e4e1371fc0f51ffc19c7f",
+      "bytes": 1652,
+      "commit": "702e9ed1459220f3b712039586649548bd64654f",
+      "accessedAt": "2026-11-25T10:22:23.665Z"
+    },
+    {
+      "path": "characters/gpt-oss/README.md",
+      "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/characters/gpt-oss/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/HABAI182/ai-girls-atlas/702e9ed1459220f3b712039586649548bd64654f/characters/gpt-oss/README.md",
+      "sourceSha256": "18466aa480354f02570e0d5f90bc0fa9671c777a754c3eda7c271cf9e89f464f",
+      "gitBlobSha": "fbcf84f20f7ff96365064e5f10c85908337118fa",
+      "bytes": 1759,
+      "commit": "702e9ed1459220f3b712039586649548bd64654f",
+      "accessedAt": "2026-11-25T10:22:24.022Z"
+    },
+    {
+      "path": "characters/deepseek/README.md",
+      "url": "https://github.com/HABAI182/ai-girls-atlas/blob/702e9ed1459220f3b712039586649548bd64654f/characters/deepseek/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/HABAI182/ai-girls-atlas/702e9ed1459220f3b712039586649548bd64654f/characters/deepseek/README.md",
+      "sourceSha256": "12f91b9055e377e1d92d63658235a8a1eafb0400dd1d7ee061de4cc5f4d39431",
+      "gitBlobSha": "cd2d4940b97f9ace2f01fe27dade7a0f4f6d16fb",
+      "bytes": 20644,
+      "commit": "702e9ed1459220f3b712039586649548bd64654f",
+      "accessedAt": "2026-11-25T10:22:24.399Z"
+    }
+  ],
+  "scope": "Index and rights notes verified at one revision; no third-party assets mirrored."
+}

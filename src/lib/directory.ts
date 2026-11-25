@@ -119,7 +119,7 @@ export function directoryIndex(lang: Locale) {
     groups.push(r.category);
     const artwork = projectImages.get(r.id);
     let mediaLabel;
-    if (comic) mediaLabel = rs.comicEpisode(comic.episode);
+    if (comic) mediaLabel = [comic.sequence && rs.comicSequence(comic.sequence), comic.episode && rs.comicEpisode(comic.episode)].filter(Boolean).join(' · ') || undefined;
     else if (rig) mediaLabel = rigFormats[rig.format as keyof typeof rigFormats];
     else if (!artwork && r.category === 'animation' && r.subtype) {
       const seconds = r.durationSeconds;
@@ -133,7 +133,7 @@ export function directoryIndex(lang: Locale) {
       href: path(`${lang}/resources/?category=${groups[0]}#${r.id}`),
       keywords: [
         ...Object.values(r.title), r.sourceTitle, r.bvid, r.id, r.summary[lang], rig?.format,
-        comic?.series, comic && rs.comicEpisode(comic.episode), ...(sticker?.characters ?? []),
+        comic?.series, comic?.episode && rs.comicEpisode(comic.episode), comic?.sequence && rs.comicSequence(comic.sequence), ...(sticker?.characters ?? []),
         ...(sticker?.tags ?? []).map(tag => rs.stickerTags[tag as keyof typeof rs.stickerTags]),
       ].filter(Boolean).join(' '),
       image: artwork ? {
@@ -149,9 +149,11 @@ export function directoryIndex(lang: Locale) {
     const labels = row.categories.map(c => rs.category[c].title);
     row.keywords = searchText([row.title, row.by, row.image?.credit, row.keywords, ...labels].join(' '));
   }
+  const comicOrder = (row: SearchResult) => comicEntries.get(row.href.split('#').at(-1) ?? '')?.order ?? Number.MAX_SAFE_INTEGER;
   rows.sort((a, b) => categories.indexOf(a.categories[0]) - categories.indexOf(b.categories[0])
-    || Number(Boolean(b.image)) - Number(Boolean(a.image)));
+    || (a.categories[0] === 'comics' && b.categories[0] === 'comics'
+      ? comicOrder(a) - comicOrder(b) : Number(Boolean(b.image)) - Number(Boolean(a.image))));
   // Show one illustrated entry from each available category when browsing everything.
-  const highlights = new Set(categories.map(c => rows.find(row => row.categories[0] === c && row.image)).filter(row => row !== undefined));
+  const highlights = new Set(categories.filter(c => c !== 'comics').map(c => rows.find(row => row.categories[0] === c && row.image)).filter(row => row !== undefined));
   return [...highlights, ...rows.filter(row => !highlights.has(row))];
 }

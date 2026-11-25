@@ -6290,5 +6290,251 @@
         }
       }
     }
+  },
+  {
+    "characterId": "larcgpt-gemma",
+    "reviewedAt": "2026-11-25",
+    "reviewBasis": "Creator-published upstream AI-generated picture, pinned Git blob and SHA-256 verified; artwork-specific reuse unconfirmed.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Gemma/Gemma_Main_1.png",
+    "attribution": [
+      {
+        "name": "larcgpt",
+        "url": "https://github.com/larcgpt",
+        "role": "original-character",
+        "publication": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/Gemma/Gemma_Main_1.png"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "larcgpt-gpt-oss",
+    "reviewedAt": "2026-11-25",
+    "reviewBasis": "Creator-published upstream AI-generated picture, pinned Git blob and SHA-256 verified; artwork-specific reuse unconfirmed.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/ChatGPT_GPT-OSS/ChatGPT_GPT-OSS_Main_1.png",
+    "attribution": [
+      {
+        "name": "larcgpt",
+        "url": "https://github.com/larcgpt",
+        "role": "original-character",
+        "publication": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/ChatGPT_GPT-OSS/ChatGPT_GPT-OSS_Main_1.png"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "green-thursday-dalle3-twin-muses",
+    "reviewedAt": "2026-11-25",
+    "reviewBasis": "Creator note title and character names verified, three exact served image renditions hashed and visually reviewed; no reuse permission inferred.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://note.com/glossy_stoat7085/n/n485dd36dbdae",
+    "attribution": [
+      {
+        "name": "Green_Thursday",
+        "url": "https://note.com/glossy_stoat7085",
+        "role": "original-character",
+        "publication": "https://note.com/glossy_stoat7085/n/n485dd36dbdae"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅收录公开出处，逐件展示、转载及改编许可尚未核定。",
+          "en": "Public source link only; artwork-specific display, republication and adaptation permissions are unconfirmed.",
+          "ja": "公開出典へのリンクのみ。画像ごとの表示・転載・改変許可は未確認。"
+        }
+      }
+    }
   }
 ]

@@ -1,0 +1,53 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:23:59.162Z",
+  "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/ChatGPT_GPT-OSS/ChatGPT_GPT-OSS_Main_1.png",
+  "pinnedDocument": {
+    "path": "ChatGPT_GPT-OSS/ChatGPT_GPT-OSS_Main_1.png",
+    "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/ChatGPT_GPT-OSS/ChatGPT_GPT-OSS_Main_1.png",
+    "rawUrl": "https://raw.githubusercontent.com/larcgpt/ai-model-musume/8899faddadb58f639722eb1db2e1e6458893246b/ChatGPT_GPT-OSS/ChatGPT_GPT-OSS_Main_1.png",
+    "sourceSha256": "6da1f5957d731d962b6c02a2e7a0125d123b54e9742258ac639e74f57d72250e",
+    "gitBlobSha": "1a2ef8ef29e0dd0efacc9601d1c8ab0a0f65ecd2",
+    "bytes": 2499627,
+    "commit": "8899faddadb58f639722eb1db2e1e6458893246b",
+    "accessedAt": "2026-11-25T10:23:59.162Z",
+    "httpStatus": 200,
+    "width": 1024,
+    "height": 1536,
+    "format": "png"
+  },
+  "contextDocuments": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/larcgpt/ai-model-musume/8899faddadb58f639722eb1db2e1e6458893246b/README.md",
+      "sourceSha256": "b20fdeb122de8db9b9fc101cb42d8566e742a8c3d6a654119af3b8b540f57695",
+      "gitBlobSha": "7ac6905d312d5ddcb495fcff92c7783590f40c7e",
+      "bytes": 7589,
+      "commit": "8899faddadb58f639722eb1db2e1e6458893246b",
+      "accessedAt": "2026-11-25T10:23:55.689Z",
+      "httpStatus": 200
+    },
+    {
+      "path": "settings.md",
+      "url": "https://github.com/larcgpt/ai-model-musume/blob/8899faddadb58f639722eb1db2e1e6458893246b/settings.md",
+      "rawUrl": "https://raw.githubusercontent.com/larcgpt/ai-model-musume/8899faddadb58f639722eb1db2e1e6458893246b/settings.md",
+      "sourceSha256": "f32da98775616fb2180b3cdcf51652602a9224f700e9affb8f58ba5b9842378f",
+      "gitBlobSha": "61c65f72dd15c940736d1063f201e37144366ed9",
+      "bytes": 48120,
+      "commit": "8899faddadb58f639722eb1db2e1e6458893246b",
+      "accessedAt": "2026-11-25T10:23:56.213Z",
+      "httpStatus": 200
+    }
+  ],
+  "officialProduct": {
+    "id": "gpt-oss",
+    "url": "https://github.com/openai/gpt-oss",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-25T10:26:03.976Z",
+    "title": "GitHub - openai/gpt-oss: gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI · GitHub",
+    "htmlSha256": "9fc61a2f2c2c7cf3b82b7b69e58379ce419c1ed267e881ab96e1c131d9be4a98"
+  },
+  "licenseFiles": [],
+  "visualReview": "Reviewed Main_1 image separately from written character concept."
+}

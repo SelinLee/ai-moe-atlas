@@ -1,0 +1,35 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:24:52.316Z",
+  "url": "https://www.bilibili.com/video/BV1qdan6MENR/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qdan6MENR",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1qdan6MENR",
+    "title": "姐你到底会不会开车啊",
+    "owner": {
+      "name": "冬冰",
+      "mid": 44748304
+    },
+    "pubdate": 1790686765,
+    "duration": 170
+  },
+  "descriptionSha256": "dd38a5f953bd415e14703f5fd91ad00f42a18a432442e9cbaa64f03cd96858ca",
+  "linkedVideos": [
+    "BV1XbY66nEWr"
+  ],
+  "discovery": {
+    "indexDocument": {
+      "path": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+      "sourceSha256": "c413280b5fe64ae523ece15ea1414e8a3330450e10fbbc65e14240874b9d4542",
+      "gitBlobSha": "e6619e6313409f3357647300be377421a82a2bd0",
+      "bytes": 5781,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T10:23:59.650Z",
+      "httpStatus": 200
+    },
+    "seriesOrder": 8
+  }
+}

@@ -51,7 +51,7 @@ try{
     assert.deepEqual(await visibleRecords.evaluateAll(cards=>cards.map(card=>card.id)),['kiriyuki-nekowhale-sticker-source']);
    }
    if(category==='rigs'){
-    for(const format of ['mmd','vrm','live2d']){
+    for(const format of ['mmd','vrm','2.5d','live2d']){
      const button=page.locator(`[data-resource-type-filter="${format}"]`);
      await button.click();
      assert.equal(new URL(page.url()).searchParams.get('type'),format);
@@ -63,6 +63,9 @@ try{
     assert.equal(new URL(page.url()).searchParams.has('type'),false);
    }
    if(category==='comics'){
+    const sequenceLabel=page.locator('#ai-girls-upload-43-original .pill').filter({hasText:'AI GIRLS'});
+    assert.equal(await sequenceLabel.innerText(),{zh:'AI GIRLS · 投稿顺序 43 · 第 39 话',en:'AI GIRLS · Upload 43 · Episode 39',ja:'AI GIRLS · 投稿順 43 · 第39話'}[lang]);
+    assert.equal(await page.locator('#ai-girls-upload-38-original .pill').filter({hasText:'AI GIRLS'}).innerText(),{zh:'AI GIRLS · 投稿顺序 38',en:'AI GIRLS · Upload 38',ja:'AI GIRLS · 投稿順 38'}[lang]);
     const original=entries[1];
     await page.locator(`#${original.id} [data-comic-adaptation]`).click();
     await page.waitForFunction(()=>document.querySelector('#resource-category')?.value==='animation');

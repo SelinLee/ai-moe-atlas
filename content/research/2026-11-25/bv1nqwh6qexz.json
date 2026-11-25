@@ -1,0 +1,35 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:24:54.026Z",
+  "url": "https://www.bilibili.com/video/BV1nqWh6QEXZ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nqWh6QEXZ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1nqWh6QEXZ",
+    "title": "《负债800亿出逃大小姐不会遇见蓝色大肥鱼》",
+    "owner": {
+      "name": "黑猫勇者",
+      "mid": 69180811
+    },
+    "pubdate": 1794540600,
+    "duration": 26
+  },
+  "descriptionSha256": "691fc34f3170cdac5a5215ac3ad633515beb755e1bf4f4cd99f3ec096c0a21b8",
+  "linkedVideos": [
+    "BV1nfNc6nEGg"
+  ],
+  "discovery": {
+    "indexDocument": {
+      "path": "research/2026-11-22/COMMUNITY_BRANCHES.md",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/COMMUNITY_BRANCHES.md",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/COMMUNITY_BRANCHES.md",
+      "sourceSha256": "e2f3b49531e2d05c93776b795240a83f97d9212302446e5c2cfc88b6e2003228",
+      "gitBlobSha": "b6a845c074b62af0b1cbc6569a35101f0198acae",
+      "bytes": 11079,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T10:24:00.951Z",
+      "httpStatus": 200
+    },
+    "seriesOrder": null
+  }
+}

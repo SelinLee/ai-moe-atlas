@@ -220,5 +220,23 @@
     "name": "Jev",
     "provider": "TypeSafe AI",
     "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
+  },
+  {
+    "id": "gemma",
+    "name": "Gemma",
+    "provider": "Google DeepMind",
+    "url": "https://gemma.ai/"
+  },
+  {
+    "id": "gpt-oss",
+    "name": "GPT-OSS",
+    "provider": "OpenAI",
+    "url": "https://github.com/openai/gpt-oss"
+  },
+  {
+    "id": "dalle3",
+    "name": "DALL·E 3",
+    "provider": "OpenAI",
+    "url": "https://openai.com/index/dall-e-3/"
   }
 ]

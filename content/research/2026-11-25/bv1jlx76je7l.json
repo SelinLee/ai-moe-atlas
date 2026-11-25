@@ -1,0 +1,36 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:24:53.369Z",
+  "url": "https://www.bilibili.com/video/BV1JLx76jE7L/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JLx76jE7L",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1JLx76jE7L",
+    "title": "【AI拟人】当DeepSeek、GPT、Claude组队玩《杀戮尖塔2》",
+    "owner": {
+      "name": "华好好过",
+      "mid": 243804463
+    },
+    "pubdate": 1793192228,
+    "duration": 81
+  },
+  "descriptionSha256": "b3e5e92f61d27638791635b18142af1a5743bb519217a95e2ba69c8e13377249",
+  "linkedVideos": [
+    "BV14phK66Ejw",
+    "BV1XbY66nEWr"
+  ],
+  "discovery": {
+    "indexDocument": {
+      "path": "research/2026-11-22/HUA_AI_APARTMENT.md",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/HUA_AI_APARTMENT.md",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/HUA_AI_APARTMENT.md",
+      "sourceSha256": "4d022c01547378bfc3379b08461fb0d39bdfb9875c9f8b1df5abcee66c4555cf",
+      "gitBlobSha": "4070367707a23b6822ed39e2c34c7eff4ebac8e2",
+      "bytes": 4948,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T10:24:00.067Z",
+      "httpStatus": 200
+    },
+    "seriesOrder": null
+  }
+}

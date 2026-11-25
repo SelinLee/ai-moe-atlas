@@ -1,0 +1,33 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:24:54.508Z",
+  "url": "https://www.bilibili.com/video/BV1o6yLzKEtH/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1o6yLzKEtH",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1o6yLzKEtH",
+    "title": "glm酱和kimi酱还有小zcode的日常",
+    "owner": {
+      "name": "白河豚战士",
+      "mid": 412863108
+    },
+    "pubdate": 1795344857,
+    "duration": 63
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "linkedVideos": [],
+  "discovery": {
+    "indexDocument": {
+      "path": "research/2026-11-22/COMMUNITY_BRANCHES.md",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/COMMUNITY_BRANCHES.md",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-11-22/COMMUNITY_BRANCHES.md",
+      "sourceSha256": "e2f3b49531e2d05c93776b795240a83f97d9212302446e5c2cfc88b6e2003228",
+      "gitBlobSha": "b6a845c074b62af0b1cbc6569a35101f0198acae",
+      "bytes": 11079,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T10:24:00.951Z",
+      "httpStatus": 200
+    },
+    "seriesOrder": null
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:21:54.140Z",
+  "url": "https://www.bilibili.com/video/BV1ybxr6REty/",
+  "officialVideo": {
+    "bvid": "BV1ybxr6REty",
+    "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ybxr6REty",
+    "observedAt": "2026-11-25T10:21:54.140Z",
+    "httpStatus": 200,
+    "code": 0,
+    "title": "《不给糖的话…你们真的要捣蛋？》万圣夜特别篇",
+    "publisher": "萤火之森QWQ",
+    "publisherId": 482116663,
+    "publicationDate": "2026-10-31",
+    "pubdate": 1793419286,
+    "likes": 521
+  },
+  "descriptionSha256": "be70eefa64ac76dbdc9e476cb93a29c7ef7e733f3c6e76dc65258af038f43449",
+  "sourceSeries": {
+    "author": {
+      "mid": 482116663,
+      "name": "萤火之森QWQ"
+    },
+    "season": {
+      "id": 9320273,
+      "title": "《AI GIRLS》",
+      "intro": "",
+      "ep_count": 52
+    },
+    "uploadOrder": 32,
+    "indexDocument": {
+      "path": "research/2026-10-31/AI_GIRLS_INDEX.json",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "sourceSha256": "2da4d75814df6d277147072b702098625f93b8a1b7d4390a08a0e3ad144400b2",
+      "gitBlobSha": "743d405594cca90412cab3dc9de9e1a475db3ea1",
+      "bytes": 18758,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T09:59:14.658Z"
+    },
+    "indexEpisode": {
+      "order": 32,
+      "bvid": "BV1ybxr6REty",
+      "title": "《不给糖的话…你们真的要捣蛋？》万圣夜特别篇",
+      "pubdate": 1793419286
+    }
+  },
+  "formatEvidence": "Original view API matches the fixed same-author collection index. The index records uploads, including split specials; upload order is not treated as a published episode number. Individual frame review not claimed."
+}

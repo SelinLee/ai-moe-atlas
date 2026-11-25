@@ -53,7 +53,7 @@ export const resources:Resource[]=[...external,...sourceRecords];
 export const stickerEntries=new Map(collections.stickers.map(entry=>[entry.id,entry]));
 export const rigEntries=new Map(collections.rigs.map(entry=>[entry.id,entry]));
 export const comicEntries=new Map(collections.comics.map((entry,index)=>[entry.id,{...entry,order:index}]));
-export const rigFormats={live2d:'Live2D',mmd:'MMD',vrm:'VRM'} as const;
+export const rigFormats={live2d:'Live2D',mmd:'MMD',vrm:'VRM','2.5d':'2.5D'} as const;
 export const sourceAnchorAliases=new Map(external.filter(record=>record.category==='sources').map(record=>[
   record.id,leads.filter(lead=>lead.url===record.url&&lead.id!==record.id).map(lead=>lead.id)
 ]));

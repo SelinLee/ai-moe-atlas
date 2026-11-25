@@ -1,0 +1,35 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:24:53.391Z",
+  "url": "https://www.bilibili.com/video/BV1GByazkEBX/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1GByazkEBX",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1GByazkEBX",
+    "title": "还是豆姐的肉包香",
+    "owner": {
+      "name": "冬冰",
+      "mid": 44748304
+    },
+    "pubdate": 1795250443,
+    "duration": 192
+  },
+  "descriptionSha256": "53b161952f5bad9441a8ac5f088373aa4912af0acadc0159c60601c0ee898fb4",
+  "linkedVideos": [
+    "BV1XbY66nEWr"
+  ],
+  "discovery": {
+    "indexDocument": {
+      "path": "research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-27/AI_RELAY_STATION_APARTMENT.md",
+      "sourceSha256": "c413280b5fe64ae523ece15ea1414e8a3330450e10fbbc65e14240874b9d4542",
+      "gitBlobSha": "e6619e6313409f3357647300be377421a82a2bd0",
+      "bytes": 5781,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T10:23:59.650Z",
+      "httpStatus": 200
+    },
+    "seriesOrder": 23
+  }
+}

@@ -4,6 +4,7 @@ import { allowsUse } from '../src/lib/usage-policy.mjs';
 import assert from 'node:assert/strict';
 const origin = process.env.ATLAS_TEST_URL ?? 'http://127.0.0.1:4322/ai-moe-atlas';
 const reviews = JSON.parse(await readFile('content/reviews/artwork-uses.json', 'utf8'));
+const collections = JSON.parse(await readFile('content/resource-collections.json', 'utf8'));
 const browser = await chromium.launch({ channel:'chrome', headless:true });
 try {
   const page = await browser.newPage({viewport:{width:390,height:844}});
@@ -62,6 +63,19 @@ try {
       assert.equal(await tab(key).getAttribute('aria-current'), 'true');
       assert.equal(await page.locator('#directory-category-page').evaluate(a=>a.href), href);
       assert.equal(Number.parseInt(await page.locator('#directory-results [role=status]').innerText()), count);
+      if (key === 'comics') {
+        const comicRows = index.filter(row => row.categories.includes('comics'));
+        assert.deepEqual(comicRows.map(row => row.href.split('#').at(-1)), collections.comics.map(row => row.id));
+        assert.equal(comicRows.find(row => row.href.endsWith('#ai-girls-upload-43-original')).mediaLabel,
+          {zh:'投稿顺序 43 · 第 39 话',en:'Upload 43 · Episode 39',ja:'投稿順 43 · 第39話'}[lang]);
+        assert.equal(comicRows.find(row => row.href.endsWith('#ai-girls-upload-38-original')).mediaLabel,
+          {zh:'投稿顺序 38',en:'Upload 38',ja:'投稿順 38'}[lang]);
+        assert.equal(comicRows.find(row => row.href.endsWith('#ferrocyanide-whale-child-comic')).mediaLabel, undefined);
+        await page.locator('#directory-more').click();
+        assert.equal(await results.count(), comicRows.length);
+        assert.deepEqual(await results.locator('.directory-entry').evaluateAll(nodes => nodes.map(a => new URL(a.href).hash.slice(1))), collections.comics.map(row => row.id));
+      }
+
     }
     assert.ok(await page.evaluate(()=>window.directoryDocument===document));
     await box.fill('ＺＣｏｄｅ');
