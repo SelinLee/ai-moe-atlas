@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:04:05.108Z",
+  "url": "https://www.bilibili.com/video/BV1Xhyzz8Eek/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Xhyzz8Eek",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Xhyzz8Eek",
+    "title": "豆包：⚡全都是借口⚡（心似烟火DJ）",
+    "owner": {
+      "name": "穗织第一亚拉西",
+      "mid": 95375003
+    },
+    "pubdate": 1795575788,
+    "duration": 76
+  },
+  "descriptionSha256": "850d6d447503e2d8dd21fa2542ca047c1c4f482f628d6c03d1a969fdb7ff4c0f",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%B1%86%E5%8C%85%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:07.103Z",
+    "htmlSha256": "1fa54ada33957e9e761c4a13db84ee19b36eaa870ea0df1e0aee58423c0a6b8c",
+    "title": "豆包：⚡全都是借口⚡（心似烟火DJ）",
+    "publisher": "穗织第一亚拉西",
+    "publisherUrl": "https://space.bilibili.com/95375003"
+  }
+}

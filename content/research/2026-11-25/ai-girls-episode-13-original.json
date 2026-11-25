@@ -1,0 +1,80 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:00:14.280Z",
+  "url": "https://www.bilibili.com/video/BV1wcJQ6AEp4/",
+  "officialVideo": {
+    "bvid": "BV1wcJQ6AEp4",
+    "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wcJQ6AEp4",
+    "observedAt": "2026-11-25T10:00:14.280Z",
+    "httpStatus": 200,
+    "code": 0,
+    "title": "《今天穿谁的风格？》",
+    "publisher": "萤火之森QWQ",
+    "publisherId": 482116663,
+    "publicationDate": "2026-10-16",
+    "pubdate": 1792126410,
+    "likes": 1002
+  },
+  "descriptionSha256": "dee4f1e4278d3c78ffa5a53d634a33cb5184e56ac7dd5c92e045b04b39a773c6",
+  "sourceSeries": {
+    "author": {
+      "mid": 482116663,
+      "name": "萤火之森QWQ"
+    },
+    "season": {
+      "id": 9320273,
+      "title": "《AI GIRLS》",
+      "intro": "",
+      "ep_count": 52
+    },
+    "episodeOrder": 13,
+    "indexDocument": {
+      "path": "research/2026-10-31/AI_GIRLS_INDEX.json",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "sourceSha256": "2da4d75814df6d277147072b702098625f93b8a1b7d4390a08a0e3ad144400b2",
+      "gitBlobSha": "743d405594cca90412cab3dc9de9e1a475db3ea1",
+      "bytes": 18758,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T09:59:14.658Z"
+    },
+    "indexEpisode": {
+      "order": 13,
+      "bvid": "BV1wcJQ6AEp4",
+      "title": "《今天穿谁的风格？》",
+      "pubdate": 1792126410
+    }
+  },
+  "publicPage": {
+    "bvid": "BV1wcJQ6AEp4",
+    "order": 13,
+    "url": "https://www.bilibili.com/video/BV1wcJQ6AEp4/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-25T10:01:25.788Z",
+    "title": "《今天穿谁的风格？》_哔哩哔哩_bilibili",
+    "htmlSha256": "82d14c7a0977112b4d094e426bfa43004e69fc7b6c2d3606d10fed0532011794",
+    "tags": [
+      "发现《可爱又迷人的反派角色》",
+      "动漫二创激励计划",
+      "日常",
+      "二次元",
+      "ai漫画",
+      "chatgpt",
+      "风格"
+    ],
+    "seriesLinks": 1,
+    "authorLinks": 11,
+    "seriesHeading": true,
+    "lines": [
+      "漫画",
+      "萤火之森QWQ",
+      "喜欢用AI做一些二创作品 喜欢的话就点个关注点个赞嘻嘻 目前正在更新的系列《AI GIRLS》 感谢大家的支持！ 素材@zipzippipe",
+      "《AI GIRLS》",
+      "萤火之森QWQ",
+      "萤火之森QWQ",
+      "萤火之森QWQ",
+      "萤火之森QWQ"
+    ]
+  },
+  "formatEvidence": "The original public page explicitly tags the entry ai漫画 and lists 《AI GIRLS》."
+}

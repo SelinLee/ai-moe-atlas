@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:04:04.448Z",
+  "url": "https://www.bilibili.com/video/BV13vyzzZEQf/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13vyzzZEQf",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV13vyzzZEQf",
+    "title": "鲸小团日常—陪你滑雪看极光！",
+    "owner": {
+      "name": "大肥鱼鲸小团",
+      "mid": 3747582293575696
+    },
+    "pubdate": 1795573939,
+    "duration": 85
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.428Z",
+    "htmlSha256": "0ebec11064620d1e84049133acb00f988ee5c9a62f2814b51ffe9d67ff7be6d2",
+    "title": "鲸小团日常—陪你滑雪看极光！",
+    "publisher": "大肥鱼鲸小团",
+    "publisherUrl": "https://space.bilibili.com/3747582293575696"
+  }
+}

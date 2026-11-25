@@ -678,5 +678,35 @@
     "versions": [
       {"id": "bv1hq1fzqejw", "type": "cover"}
     ]
+  },
+  {
+    "id": "disappearance-of-hatsune-miku",
+    "title": {"zh": "初音未来的消失", "en": "The Disappearance of Hatsune Miku", "ja": "初音ミクの消失"},
+    "original": {"credit": "cosMo@暴走P feat. 初音ミク", "url": "https://www.nicovideo.jp/watch/sm2937784"},
+    "versions": [{"id": "bv1ej1fzbesf", "type": "arrangement"}]
+  },
+  {
+    "id": "im-not-sad",
+    "title": {"zh": "我不难过", "en": "I’m Not Sad", "ja": "我不難過"},
+    "original": {"credit": "孙燕姿 · Yanzi Sun", "url": "https://music.apple.com/us/song/578524987"},
+    "versions": [{"id": "bv1d51czdej6", "type": "cover"}]
+  },
+  {
+    "id": "affectionate-swallows",
+    "title": {"zh": "有情燕", "en": "Affectionate Swallows", "ja": "有情燕"},
+    "original": {"credit": "萧人凤 · Sunya", "url": "https://store.steampowered.com/app/1638240/Sword_and_Fairy_5_Prequel_OST/?l=schinese"},
+    "versions": [{"id": "bv1nv1czmeay", "type": "cover"}]
+  },
+  {
+    "id": "fat-fish-rice-song",
+    "title": {"zh": "大肥鱼白饭歌", "en": "Fat Fish Rice Song", "ja": "大きな魚の白ご飯の歌"},
+    "original": {"credit": "The_marker · 大肥鱼（AI 创作）", "url": "https://www.bilibili.com/video/BV1Z5YS6QE6M/"},
+    "versions": [{"id": "bv1z5ys6qe6m", "type": "original-mv"}]
+  },
+  {
+    "id": "issho-ni-kaerou-fish",
+    "title": {"zh": "一緒に帰ろう", "en": "Let’s Go Home Together", "ja": "一緒に帰ろう"},
+    "original": {"credit": "鱼鱼的深夜鱼缸（投稿者 / AI 创作）", "url": "https://www.bilibili.com/video/BV1oFyfzpEky/"},
+    "versions": [{"id": "bv1ofyfzpeky", "type": "original-mv"}]
   }
 ]

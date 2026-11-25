@@ -1,0 +1,78 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:00:14.880Z",
+  "url": "https://www.bilibili.com/video/BV1ZYJa6BEq8/",
+  "officialVideo": {
+    "bvid": "BV1ZYJa6BEq8",
+    "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZYJa6BEq8",
+    "observedAt": "2026-11-25T10:00:14.880Z",
+    "httpStatus": 200,
+    "code": 0,
+    "title": "《凌晨三点来了个客人》",
+    "publisher": "萤火之森QWQ",
+    "publisherId": 482116663,
+    "publicationDate": "2026-10-17",
+    "pubdate": 1792209765,
+    "likes": 1251
+  },
+  "descriptionSha256": "7e46ab3aebc83c623f3e105346451e1efadc5aa002beed8dbfb255f1636cac1c",
+  "sourceSeries": {
+    "author": {
+      "mid": 482116663,
+      "name": "萤火之森QWQ"
+    },
+    "season": {
+      "id": 9320273,
+      "title": "《AI GIRLS》",
+      "intro": "",
+      "ep_count": 52
+    },
+    "episodeOrder": 16,
+    "indexDocument": {
+      "path": "research/2026-10-31/AI_GIRLS_INDEX.json",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "sourceSha256": "2da4d75814df6d277147072b702098625f93b8a1b7d4390a08a0e3ad144400b2",
+      "gitBlobSha": "743d405594cca90412cab3dc9de9e1a475db3ea1",
+      "bytes": 18758,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T09:59:14.658Z"
+    },
+    "indexEpisode": {
+      "order": 16,
+      "bvid": "BV1ZYJa6BEq8",
+      "title": "《凌晨三点来了个客人》",
+      "pubdate": 1792209765
+    }
+  },
+  "publicPage": {
+    "bvid": "BV1ZYJa6BEq8",
+    "order": 16,
+    "url": "https://www.bilibili.com/video/BV1ZYJa6BEq8/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-25T10:01:28.354Z",
+    "title": "《凌晨三点来了个客人》_哔哩哔哩_bilibili",
+    "htmlSha256": "c2d7590c8be1087aa6b23fd26f4e50033ae2cbd7d467f6e9d6d7a7f872ff623f",
+    "tags": [
+      "动漫二创激励计划",
+      "日常",
+      "二次元",
+      "ai漫画",
+      "chatgpt"
+    ],
+    "seriesLinks": 1,
+    "authorLinks": 10,
+    "seriesHeading": true,
+    "lines": [
+      "漫画",
+      "萤火之森QWQ",
+      "喜欢用AI做一些二创作品 喜欢的话就点个关注点个赞嘻嘻 目前正在更新的系列《AI GIRLS》 感谢大家的支持！ 素材@zipzippipe",
+      "《AI GIRLS》",
+      "萤火之森QWQ",
+      "萤火之森QWQ",
+      "萤火之森QWQ",
+      "萤火之森QWQ"
+    ]
+  },
+  "formatEvidence": "The original public page explicitly tags the entry ai漫画 and lists 《AI GIRLS》."
+}

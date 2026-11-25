@@ -6126,5 +6126,169 @@
         }
       }
     }
+  },
+  {
+    "characterId": "zipzippipe-jev",
+    "reviewedAt": "2026-11-25",
+    "reviewBasis": "Creator publication and original PNG SHA-256 checked; reuse terms unconfirmed.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://www.bilibili.com/opus/1253808555541135367",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1253808555541135367"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "保留作者原帖入口；图像逐件展示、转载及改编许可待核。",
+          "en": "Links to the creator’s original post; artwork-specific display, republication and adaptation terms are unconfirmed.",
+          "ja": "作者の原投稿へのリンク。画像別の表示・転載・改変許可は確認待ち。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "保留作者原帖入口；图像逐件展示、转载及改编许可待核。",
+          "en": "Links to the creator’s original post; artwork-specific display, republication and adaptation terms are unconfirmed.",
+          "ja": "作者の原投稿へのリンク。画像別の表示・転載・改変許可は確認待ち。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "保留作者原帖入口；图像逐件展示、转载及改编许可待核。",
+          "en": "Links to the creator’s original post; artwork-specific display, republication and adaptation terms are unconfirmed.",
+          "ja": "作者の原投稿へのリンク。画像別の表示・転載・改変許可は確認待ち。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "保留作者原帖入口；图像逐件展示、转载及改编许可待核。",
+          "en": "Links to the creator’s original post; artwork-specific display, republication and adaptation terms are unconfirmed.",
+          "ja": "作者の原投稿へのリンク。画像別の表示・転載・改変許可は確認待ち。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "保留作者原帖入口；图像逐件展示、转载及改编许可待核。",
+          "en": "Links to the creator’s original post; artwork-specific display, republication and adaptation terms are unconfirmed.",
+          "ja": "作者の原投稿へのリンク。画像別の表示・転載・改変許可は確認待ち。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "保留作者原帖入口；图像逐件展示、转载及改编许可待核。",
+          "en": "Links to the creator’s original post; artwork-specific display, republication and adaptation terms are unconfirmed.",
+          "ja": "作者の原投稿へのリンク。画像別の表示・転載・改変許可は確認待ち。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "保留作者原帖入口；图像逐件展示、转载及改编许可待核。",
+          "en": "Links to the creator’s original post; artwork-specific display, republication and adaptation terms are unconfirmed.",
+          "ja": "作者の原投稿へのリンク。画像別の表示・転載・改変許可は確認待ち。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "保留作者原帖入口；图像逐件展示、转载及改编许可待核。",
+          "en": "Links to the creator’s original post; artwork-specific display, republication and adaptation terms are unconfirmed.",
+          "ja": "作者の原投稿へのリンク。画像別の表示・転載・改変許可は確認待ち。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "qinv-gemini-flash",
+    "reviewedAt": "2026-11-25",
+    "reviewBasis": "Three distinct creator submission attachments match pinned files byte-for-byte; title and license scope conflict remains unresolved.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/lmy414/ai-girl-stickers/issues/119",
+    "attribution": [
+      {
+        "name": "我已经有杰米奈了",
+        "url": "https://github.com/Qinv-collab",
+        "role": "original-character",
+        "publication": "https://github.com/lmy414/ai-girl-stickers/issues/119"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "第119号原帖标题写 Gemini Flash、正文却引用 Gemini Pro 的 Pixiv 原帖，虽有 CC BY-NC-SA 4.0 文字，具体适用图组待澄清。仅链接原投稿。",
+          "en": "Issue #119 is titled Gemini Flash but its body refers to the Gemini Pro Pixiv post. Although it contains CC BY-NC-SA 4.0 wording, its image-specific scope is unresolved; link only.",
+          "ja": "第119号の題名は Gemini Flash、本文は Gemini Pro の Pixiv 投稿を参照。CC BY-NC-SA 4.0 の記載はあるが、画像別の適用範囲は未確認。出典のみ。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "第119号原帖标题写 Gemini Flash、正文却引用 Gemini Pro 的 Pixiv 原帖，虽有 CC BY-NC-SA 4.0 文字，具体适用图组待澄清。仅链接原投稿。",
+          "en": "Issue #119 is titled Gemini Flash but its body refers to the Gemini Pro Pixiv post. Although it contains CC BY-NC-SA 4.0 wording, its image-specific scope is unresolved; link only.",
+          "ja": "第119号の題名は Gemini Flash、本文は Gemini Pro の Pixiv 投稿を参照。CC BY-NC-SA 4.0 の記載はあるが、画像別の適用範囲は未確認。出典のみ。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "第119号原帖标题写 Gemini Flash、正文却引用 Gemini Pro 的 Pixiv 原帖，虽有 CC BY-NC-SA 4.0 文字，具体适用图组待澄清。仅链接原投稿。",
+          "en": "Issue #119 is titled Gemini Flash but its body refers to the Gemini Pro Pixiv post. Although it contains CC BY-NC-SA 4.0 wording, its image-specific scope is unresolved; link only.",
+          "ja": "第119号の題名は Gemini Flash、本文は Gemini Pro の Pixiv 投稿を参照。CC BY-NC-SA 4.0 の記載はあるが、画像別の適用範囲は未確認。出典のみ。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "第119号原帖标题写 Gemini Flash、正文却引用 Gemini Pro 的 Pixiv 原帖，虽有 CC BY-NC-SA 4.0 文字，具体适用图组待澄清。仅链接原投稿。",
+          "en": "Issue #119 is titled Gemini Flash but its body refers to the Gemini Pro Pixiv post. Although it contains CC BY-NC-SA 4.0 wording, its image-specific scope is unresolved; link only.",
+          "ja": "第119号の題名は Gemini Flash、本文は Gemini Pro の Pixiv 投稿を参照。CC BY-NC-SA 4.0 の記載はあるが、画像別の適用範囲は未確認。出典のみ。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "第119号原帖标题写 Gemini Flash、正文却引用 Gemini Pro 的 Pixiv 原帖，虽有 CC BY-NC-SA 4.0 文字，具体适用图组待澄清。仅链接原投稿。",
+          "en": "Issue #119 is titled Gemini Flash but its body refers to the Gemini Pro Pixiv post. Although it contains CC BY-NC-SA 4.0 wording, its image-specific scope is unresolved; link only.",
+          "ja": "第119号の題名は Gemini Flash、本文は Gemini Pro の Pixiv 投稿を参照。CC BY-NC-SA 4.0 の記載はあるが、画像別の適用範囲は未確認。出典のみ。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "第119号原帖标题写 Gemini Flash、正文却引用 Gemini Pro 的 Pixiv 原帖，虽有 CC BY-NC-SA 4.0 文字，具体适用图组待澄清。仅链接原投稿。",
+          "en": "Issue #119 is titled Gemini Flash but its body refers to the Gemini Pro Pixiv post. Although it contains CC BY-NC-SA 4.0 wording, its image-specific scope is unresolved; link only.",
+          "ja": "第119号の題名は Gemini Flash、本文は Gemini Pro の Pixiv 投稿を参照。CC BY-NC-SA 4.0 の記載はあるが、画像別の適用範囲は未確認。出典のみ。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "第119号原帖标题写 Gemini Flash、正文却引用 Gemini Pro 的 Pixiv 原帖，虽有 CC BY-NC-SA 4.0 文字，具体适用图组待澄清。仅链接原投稿。",
+          "en": "Issue #119 is titled Gemini Flash but its body refers to the Gemini Pro Pixiv post. Although it contains CC BY-NC-SA 4.0 wording, its image-specific scope is unresolved; link only.",
+          "ja": "第119号の題名は Gemini Flash、本文は Gemini Pro の Pixiv 投稿を参照。CC BY-NC-SA 4.0 の記載はあるが、画像別の適用範囲は未確認。出典のみ。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "第119号原帖标题写 Gemini Flash、正文却引用 Gemini Pro 的 Pixiv 原帖，虽有 CC BY-NC-SA 4.0 文字，具体适用图组待澄清。仅链接原投稿。",
+          "en": "Issue #119 is titled Gemini Flash but its body refers to the Gemini Pro Pixiv post. Although it contains CC BY-NC-SA 4.0 wording, its image-specific scope is unresolved; link only.",
+          "ja": "第119号の題名は Gemini Flash、本文は Gemini Pro の Pixiv 投稿を参照。CC BY-NC-SA 4.0 の記載はあるが、画像別の適用範囲は未確認。出典のみ。"
+        }
+      }
+    }
   }
 ]

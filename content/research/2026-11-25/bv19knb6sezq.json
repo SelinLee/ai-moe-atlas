@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:04:04.631Z",
+  "url": "https://www.bilibili.com/video/BV19knB6SEzQ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19knB6SEzQ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV19knB6SEzQ",
+    "title": "【法师鲸鱼娘日常】小魔法师的入门级法术练习",
+    "owner": {
+      "name": "风葵特遣队",
+      "mid": 38191447
+    },
+    "pubdate": 1792581951,
+    "duration": 35
+  },
+  "descriptionSha256": "d722a59338d90309c7752741b97c8b6369300fcead63407dac0b46b776e5baca",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%B1%86%E5%8C%85%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:07.103Z",
+    "htmlSha256": "1fa54ada33957e9e761c4a13db84ee19b36eaa870ea0df1e0aee58423c0a6b8c",
+    "title": "【法师鲸鱼娘日常】小魔法师的入门级法术练习",
+    "publisher": "风葵特遣队",
+    "publisherUrl": "https://space.bilibili.com/38191447"
+  }
+}

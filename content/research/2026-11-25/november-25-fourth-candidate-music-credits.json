@@ -1,0 +1,110 @@
+{
+  "method": "isolated-headless-google-chrome-and-official-video-metadata",
+  "observations": [
+    {
+      "songId": "disappearance-of-hatsune-miku",
+      "original": {
+        "id": "miku",
+        "url": "https://www.nicovideo.jp/watch/sm2937784",
+        "finalUrl": "https://www.nicovideo.jp/watch/sm2937784",
+        "httpStatus": 200,
+        "title": "初音ミクオリジナル曲　「初音ミクの消失（LONG VERSION）」 - ニコニコ動画",
+        "accessedAt": "2026-11-25T10:05:04.626Z",
+        "htmlSha256": "bc4c428ced8397898b1c91c5d07f997b7ac7f7d36b80dcbd15539c8854b4ca09",
+        "matches": [],
+        "tags": []
+      },
+      "version": {
+        "bvid": "BV1EJ1FzbEsf",
+        "url": "https://www.bilibili.com/video/BV1EJ1FzbEsf/",
+        "publisher": "夜桜朧月",
+        "title": "【大肥鱼翻唱】大肥鱼的消失（初音未来的消失）",
+        "descriptionSha256": "b5347c35669a376968727765f97559e03c8ce89e0f1244fd0bfd59b22827ad6b"
+      }
+    },
+    {
+      "songId": "im-not-sad",
+      "original": {
+        "id": "yanzi",
+        "url": "https://music.apple.com/us/song/578524987",
+        "finalUrl": "https://music.apple.com/us/song/%E6%88%91%E4%B8%8D%E9%9B%A3%E9%81%8E/578524987",
+        "httpStatus": 200,
+        "title": "‎我不難過 - Song with Lyrics by Yanzi Sun - Apple Music",
+        "accessedAt": "2026-11-25T10:05:06.705Z",
+        "htmlSha256": "3356e8404a7721958cbe6b0ad5c1f06d741a88c3498ae7f09a1bf7f3561e8776",
+        "matches": [
+          "我不難過",
+          "2 Her  Yanzi Sun January 10, 2003",
+          "Yanzi Sun",
+          "More By Yanzi Sun"
+        ],
+        "tags": []
+      },
+      "version": {
+        "bvid": "BV1D51czDEj6",
+        "url": "https://www.bilibili.com/video/BV1D51czDEj6/",
+        "publisher": "砚巡ovo",
+        "title": "我不难过 · 大肥鱼翻唱｜砚巡",
+        "descriptionSha256": "5ad29d1abaea1e995b6d9a514d445316d0a640bda7d5c7821354f07bd53337ea"
+      }
+    },
+    {
+      "songId": "affectionate-swallows",
+      "original": {
+        "id": "swallow",
+        "url": "https://store.steampowered.com/app/1638240/Sword_and_Fairy_5_Prequel_OST/?l=schinese",
+        "finalUrl": "https://store.steampowered.com/app/1638240/%E4%BB%99%E5%89%91%E5%A5%87%E4%BE%A0%E4%BC%A0%E4%BA%94%E5%89%8D%E4%BC%A0_%E5%8E%9F%E5%A3%B0%E9%9F%B3%E4%B9%90%E7%B2%BE%E9%80%89%E9%9B%86/?l=schinese",
+        "httpStatus": 200,
+        "title": "Steam 上的 仙剑奇侠传五前传 原声音乐精选集",
+        "accessedAt": "2026-11-25T10:05:07.701Z",
+        "htmlSha256": "62b637e3ae602644cc1bad03381f63025001ee4bcaecebab6e3ad66661c7bf84",
+        "matches": [
+          "所有原声音轨 > 仙剑奇侠传五前传 > DLC > 仙剑奇侠传五前传 原声音乐精选集",
+          "仙剑奇侠传五前传 原声音乐精选集",
+          "名称: 仙剑奇侠传五前传 原声音乐精选集",
+          "有情燕",
+          "艺术家：蕭人鳳等"
+        ],
+        "tags": []
+      },
+      "version": {
+        "bvid": "BV1nv1czMEaY",
+        "url": "https://www.bilibili.com/video/BV1nv1czMEaY/",
+        "publisher": "大肥鱼的硅基鱼缸",
+        "title": "【鱼鱼🐳翻唱】这首《有情燕》，唤醒了多少人的仙剑记忆？",
+        "descriptionSha256": "e01104d42aebc3cdcf9e2aae24eed1d75c99016aa58e4d54aa7e33d14c202bbe"
+      }
+    },
+    {
+      "songId": "fat-fish-rice-song",
+      "original": {
+        "url": "https://www.bilibili.com/video/BV1Z5YS6QE6M/",
+        "publisher": "The_marker",
+        "title": "【DeepSeek AI二创】大肥鱼白饭歌｜吃了我500万Token的鲸鱼娘，自己写了首歌",
+        "descriptionSha256": "f7bc786eac0cc50e000758b6817c83fe71ff642a76d5d456d83212b3f7adc955",
+        "scope": "Uploader describes the song as its own AI-assisted original; no independent audio release asserted."
+      }
+    },
+    {
+      "songId": "issho-ni-kaerou-fish",
+      "original": {
+        "url": "https://www.bilibili.com/video/BV1oFyfzpEky/",
+        "publisher": "鱼鱼的深夜鱼缸",
+        "title": "【鱼鱼原创】一緒に帰ろう｜深夜两点，便利店有人对你说「等你回家」",
+        "descriptionSha256": "e55aee7a9001d793e1e18159cf2daeeac277ccf784fe334364345d13ebaa8647",
+        "scope": "Uploader describes the song as its own AI-assisted original; no independent audio release asserted."
+      }
+    }
+  ],
+  "unresolved": {
+    "id": "piruo",
+    "url": "https://www.bilibili.com/video/BV1SKsK6fEg5/",
+    "finalUrl": "https://www.bilibili.com/video/BV1SKsK6fEg5/",
+    "httpStatus": 412,
+    "title": "出错啦! - bilibili.com",
+    "accessedAt": "2026-11-25T10:05:10.893Z",
+    "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01",
+    "matches": [],
+    "tags": []
+  }
+}

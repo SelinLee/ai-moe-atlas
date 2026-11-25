@@ -1,0 +1,80 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:00:14.233Z",
+  "url": "https://www.bilibili.com/video/BV1B8Jr6aEjX/",
+  "officialVideo": {
+    "bvid": "BV1B8Jr6aEjX",
+    "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1B8Jr6aEjX",
+    "observedAt": "2026-11-25T10:00:14.233Z",
+    "httpStatus": 200,
+    "code": 0,
+    "title": "《今天直说真话》",
+    "publisher": "萤火之森QWQ",
+    "publisherId": 482116663,
+    "publicationDate": "2026-10-15",
+    "pubdate": 1792020800,
+    "likes": 727
+  },
+  "descriptionSha256": "49be846d7179b2b298fe150f3acdc9a6461abe495f8d70e9095f6386fed082d9",
+  "sourceSeries": {
+    "author": {
+      "mid": 482116663,
+      "name": "萤火之森QWQ"
+    },
+    "season": {
+      "id": 9320273,
+      "title": "《AI GIRLS》",
+      "intro": "",
+      "ep_count": 52
+    },
+    "episodeOrder": 10,
+    "indexDocument": {
+      "path": "research/2026-10-31/AI_GIRLS_INDEX.json",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "sourceSha256": "2da4d75814df6d277147072b702098625f93b8a1b7d4390a08a0e3ad144400b2",
+      "gitBlobSha": "743d405594cca90412cab3dc9de9e1a475db3ea1",
+      "bytes": 18758,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T09:59:14.658Z"
+    },
+    "indexEpisode": {
+      "order": 10,
+      "bvid": "BV1B8Jr6aEjX",
+      "title": "《今天直说真话》",
+      "pubdate": 1792020800
+    }
+  },
+  "publicPage": {
+    "bvid": "BV1B8Jr6aEjX",
+    "order": 10,
+    "url": "https://www.bilibili.com/video/BV1B8Jr6aEjX/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-25T10:01:22.708Z",
+    "title": "《今天直说真话》_哔哩哔哩_bilibili",
+    "htmlSha256": "318a015d5d0f0eb64ae97228b2d97c2ea679252fbf9a1d6a151478741a3af2f0",
+    "tags": [
+      "发现《凑热闹》",
+      "AI演绎小剧场",
+      "日常",
+      "搞笑",
+      "ai漫画",
+      "chatgpt",
+      "ai"
+    ],
+    "seriesLinks": 1,
+    "authorLinks": 12,
+    "seriesHeading": true,
+    "lines": [
+      "漫画",
+      "萤火之森QWQ",
+      "喜欢用AI做一些二创作品 喜欢的话就点个关注点个赞嘻嘻 目前正在更新的系列《AI GIRLS》 感谢大家的支持！ 素材@zipzippipe",
+      "《AI GIRLS》",
+      "萤火之森QWQ",
+      "萤火之森QWQ",
+      "萤火之森QWQ",
+      "萤火之森QWQ"
+    ]
+  },
+  "formatEvidence": "The original public page explicitly tags the entry ai漫画 and lists 《AI GIRLS》."
+}

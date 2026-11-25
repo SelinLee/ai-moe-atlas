@@ -1,0 +1,40 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:00:15.025Z",
+  "url": "https://www.bilibili.com/video/BV1EHha6TEzh/",
+  "officialVideo": {
+    "bvid": "BV1EHha6TEzh",
+    "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1EHha6TEzh",
+    "observedAt": "2026-11-25T10:00:15.025Z",
+    "httpStatus": 200,
+    "code": 0,
+    "title": "蓝色大肥鱼漫画（有反转）",
+    "publisher": "六氰合铁酸亚铁",
+    "publisherId": 2121320440,
+    "publicationDate": "2026-09-21",
+    "pubdate": 1789922288,
+    "likes": 60
+  },
+  "descriptionSha256": "4c4bc02021d97a10f197d04dff6c069c735c4ae61dcbeb6f5dc459e13daac25e",
+  "publicPage": {
+    "bvid": "BV1EHha6TEzh",
+    "url": "https://www.bilibili.com/video/BV1EHha6TEzh/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-25T10:01:28.728Z",
+    "title": "蓝色大肥鱼漫画（有反转）_哔哩哔哩_bilibili",
+    "htmlSha256": "ab6398545b7caa23ca61caf4b9cddccc6b8fd906f8a073657eff80bcc63290b6",
+    "tags": [
+      "AI整活全宇宙",
+      "AI",
+      "蓝色大肥鱼",
+      "梗图",
+      "必剪创作"
+    ],
+    "seriesLinks": 0,
+    "authorLinks": 0,
+    "seriesHeading": false,
+    "lines": [
+      "漫画"
+    ]
+  }
+}

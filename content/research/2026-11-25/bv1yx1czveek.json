@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:04:05.662Z",
+  "url": "https://www.bilibili.com/video/BV1yx1czVEeK/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yx1czVEeK",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1yx1czVEeK",
+    "title": "大肥鱼唱《5:20am》",
+    "owner": {
+      "name": "锅巴布布天",
+      "mid": 3494355025267417
+    },
+    "pubdate": 1795529019,
+    "duration": 121
+  },
+  "descriptionSha256": "c3edaeb61e3ae7ec814d0f023fb420b0bb72e4d0bec397380dfabb797fe70240",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:05.300Z",
+    "htmlSha256": "f30a43c2a4493c2eb35429bfc5d1f9e2331ca0379abad7d5c2013cc9d82c772c",
+    "title": "大肥鱼唱《5:20am》",
+    "publisher": "锅巴布布天",
+    "publisherUrl": "https://space.bilibili.com/3494355025267417"
+  }
+}

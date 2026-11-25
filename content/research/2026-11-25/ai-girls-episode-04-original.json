@@ -1,0 +1,63 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:00:13.042Z",
+  "url": "https://www.bilibili.com/video/BV13upX64Euz/",
+  "officialVideo": {
+    "bvid": "BV13upX64Euz",
+    "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13upX64Euz",
+    "observedAt": "2026-11-25T10:00:13.042Z",
+    "httpStatus": 200,
+    "code": 0,
+    "title": "《要不要一起住？》",
+    "publisher": "萤火之森QWQ",
+    "publisherId": 482116663,
+    "publicationDate": "2026-10-12",
+    "pubdate": 1791781366,
+    "likes": 522
+  },
+  "descriptionSha256": "a19024d12c5c9aafb67180abded1fd756ff42c3ea197cbc1a01f153cea53a55a",
+  "sourceSeries": {
+    "author": {
+      "mid": 482116663,
+      "name": "萤火之森QWQ"
+    },
+    "season": {
+      "id": 9320273,
+      "title": "《AI GIRLS》",
+      "intro": "",
+      "ep_count": 52
+    },
+    "episodeOrder": 4,
+    "indexDocument": {
+      "path": "research/2026-10-31/AI_GIRLS_INDEX.json",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "sourceSha256": "2da4d75814df6d277147072b702098625f93b8a1b7d4390a08a0e3ad144400b2",
+      "gitBlobSha": "743d405594cca90412cab3dc9de9e1a475db3ea1",
+      "bytes": 18758,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T09:59:14.658Z"
+    },
+    "indexEpisode": {
+      "order": 4,
+      "bvid": "BV13upX64Euz",
+      "title": "《要不要一起住？》",
+      "pubdate": 1791781366
+    }
+  },
+  "publicPage": {
+    "bvid": "BV13upX64Euz",
+    "order": 4,
+    "url": "https://www.bilibili.com/video/BV13upX64Euz/",
+    "httpStatus": 412,
+    "accessedAt": "2026-11-25T10:00:58.566Z",
+    "title": "出错啦! - bilibili.com",
+    "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01",
+    "tags": [],
+    "seriesLinks": 0,
+    "authorLinks": 0,
+    "seriesHeading": false,
+    "lines": []
+  },
+  "formatEvidence": "Original view metadata matched the pinned same-author episode index; series type confirmed by original pages of episodes 10–17. Individual original page unavailable or not captured; no independent frame review claimed."
+}

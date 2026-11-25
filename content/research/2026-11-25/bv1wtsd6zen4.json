@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:00:15.542Z",
+  "url": "https://www.bilibili.com/video/BV1Wtsd6ZEN4/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Wtsd6ZEN4",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Wtsd6ZEN4",
+    "title": "【肥鱼观察日记】人类为什么会对ai产生感情",
+    "owner": {
+      "name": "阿泫是条鱼",
+      "mid": 3493112548690554
+    },
+    "pubdate": 1793240582,
+    "duration": 320
+  },
+  "descriptionSha256": "1a4b3dbc350e748f3fc19fea0f6bb0c26c248fddbfe9afa0e209f59535b569fc",
+  "linkedVideos": [],
+  "discovery": null
+}

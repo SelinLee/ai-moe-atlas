@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:04:05.123Z",
+  "url": "https://www.bilibili.com/video/BV1ttHC6bESm/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ttHC6bESm",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1ttHC6bESm",
+    "title": "当大肥鱼和豆包遇到gpt",
+    "owner": {
+      "name": "月凉Official",
+      "mid": 3707009945831439
+    },
+    "pubdate": 1791368776,
+    "duration": 13
+  },
+  "descriptionSha256": "fae8f7f1582337f1fb8ebbedcfc9ed6b3c005b4115409797b3e65de4ea881a6c",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%B1%86%E5%8C%85%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:07.103Z",
+    "htmlSha256": "1fa54ada33957e9e761c4a13db84ee19b36eaa870ea0df1e0aee58423c0a6b8c",
+    "title": "当大肥鱼和豆包遇到gpt",
+    "publisher": "月凉Official",
+    "publisherUrl": "https://space.bilibili.com/3707009945831439"
+  }
+}

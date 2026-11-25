@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:00:15.540Z",
+  "url": "https://www.bilibili.com/video/BV1Z5YS6QE6M/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Z5YS6QE6M",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1Z5YS6QE6M",
+    "title": "【DeepSeek AI二创】大肥鱼白饭歌｜吃了我500万Token的鲸鱼娘，自己写了首歌",
+    "owner": {
+      "name": "The_marker",
+      "mid": 823267
+    },
+    "pubdate": 1789180066,
+    "duration": 106
+  },
+  "descriptionSha256": "f7bc786eac0cc50e000758b6817c83fe71ff642a76d5d456d83212b3f7adc955",
+  "linkedVideos": [],
+  "discovery": null
+}

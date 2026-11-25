@@ -1,0 +1,20 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:00:15.541Z",
+  "url": "https://www.bilibili.com/video/BV1KAHP6VE25/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KAHP6VE25",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1KAHP6VE25",
+    "title": "29秒认识大肥鱼：会干活，也会摸鱼",
+    "owner": {
+      "name": "玩碧蓝航线的大肥鱼",
+      "mid": 223513184
+    },
+    "pubdate": 1792833932,
+    "duration": 29
+  },
+  "descriptionSha256": "336feabbf7c76ab1e0b782d24e916865dac36fa206e33c2f26d98945c6bff212",
+  "linkedVideos": [],
+  "discovery": null
+}

@@ -4336,5 +4336,117 @@
       "en": "MX1951 selects CC0 for the submission. The blue whale-maid design has familiar community features; underlying design rights await tracing. This series remains link-only.",
       "ja": "MX1951 は投稿に CC0 を指定。青いクジラメイドには既存コミュニティの特徴があり、原型デザインの権利は追跡中。このシリーズはリンク掲載のみ。"
     }
+  },
+  {
+    "id": "zipzippipe-jev",
+    "entity": "jev",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Jev 娘 · ZipZipPipe",
+      "en": "Jev Girl · ZipZipPipe",
+      "ja": "Jev 娘 · ZipZipPipe"
+    },
+    "description": {
+      "zh": "ZipZipPipe 发布的 Jev 模型拟人立绘。",
+      "en": "Personification of Jev published by ZipZipPipe.",
+      "ja": "ZipZipPipe が公開した Jev モデルの擬人化立ち絵。"
+    },
+    "story": {
+      "zh": "作者在原帖称其为 JEV 娘，采用裁判者、天平及封口荆棘表现不可自由对话的模型设定。",
+      "en": "Creator calls it JEV girl and uses judge imagery, scales and thorns over the mouth to evoke a non-chat model.",
+      "ja": "作者は JEV 娘と呼び、裁判官・天秤・口を覆う茨で会話型でないモデルを表現。"
+    },
+    "features": {
+      "zh": "黑色长袍、粉色镶边、羽毛肩饰、天平、封口荆棘。",
+      "en": "Black robe, pink trim, feathered mantle, scales and thorn mouth ornament.",
+      "ja": "黒いローブ、ピンクの縁取り、羽根の肩飾り、天秤、口元の茨。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://space.bilibili.com/4168597",
+    "source": "https://www.bilibili.com/opus/1253808555541135367",
+    "sourceTitle": "JEV娘",
+    "originalPublication": "https://www.bilibili.com/opus/1253808555541135367",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://space.bilibili.com/4168597",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/opus/1253808555541135367"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/opus/1253808555541135367",
+    "downloadable": false,
+    "bg": "#f5e8f0",
+    "color": "#85415e",
+    "verifiedAt": "2026-11-25",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "原作者发布的 1152 × 2048 PNG 已核对 SHA-256。逐件公开展示与再分发条件待核。",
+      "en": "Creator-published 1152 × 2048 PNG checked by SHA-256; public display and reuse terms unconfirmed.",
+      "ja": "作者公開の1152 × 2048 PNG を SHA-256 で照合。公開表示・再配布条件は未確認。"
+    }
+  },
+  {
+    "id": "qinv-gemini-flash",
+    "entity": "gemini",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Gemini Flash · 我已经有杰米奈了",
+      "en": "Gemini Flash · 我已经有杰米奈了",
+      "ja": "Gemini Flash · 我已经有杰米奈了"
+    },
+    "description": {
+      "zh": "以 Gemini Flash 为投稿标题的独立拟人画组。",
+      "en": "A separate personification set submitted under the title Gemini Flash.",
+      "ja": "Gemini Flash の題で投稿された独立した擬人化画像群。"
+    },
+    "story": {
+      "zh": "作者提交了三张与 Pro 第118号不同的 PNG：浅发草帽立绘、玩偶图、双人插画。已逐张比对固定档案字节，不将其混入 Pro 素材包。",
+      "en": "Three PNGs distinct from Pro issue #118: a light-haired straw-hat portrait, plush illustration and two-character illustration. Each matched its pinned archive bytes; excluded from the Pro pack.",
+      "ja": "Pro 第118号とは異なる PNG 3枚（淡い髪と麦わら帽子の立ち絵・ぬいぐるみ・二人絵）。固定アーカイブとバイト照合し、Pro パックとは分離。"
+    },
+    "features": {
+      "zh": "浅色长发、草帽、浅色外衣及彩色折光裙饰；附玩偶和双人画。",
+      "en": "Light hair, straw hat, light jacket and iridescent skirt accents; plush and duo illustrations.",
+      "ja": "淡い長髪、麦わら帽子、淡色の上着、虹色のスカート飾り。ぬいぐるみと二人絵。"
+    },
+    "author": "我已经有杰米奈了",
+    "authorUrl": "https://github.com/Qinv-collab",
+    "source": "https://github.com/lmy414/ai-girl-stickers/issues/119",
+    "sourceTitle": "AI拟人化形象——Gemini Flash",
+    "originalPublication": "https://github.com/lmy414/ai-girl-stickers/issues/119",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "我已经有杰米奈了",
+        "url": "https://github.com/Qinv-collab",
+        "role": "original-character",
+        "publication": "https://github.com/lmy414/ai-girl-stickers/issues/119"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/lmy414/ai-girl-stickers/issues/119",
+    "downloadable": false,
+    "bg": "#f2eafa",
+    "color": "#7860a0",
+    "verifiedAt": "2026-11-25",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "第119号原帖标题写 Gemini Flash、正文却引用 Gemini Pro 的 Pixiv 原帖，虽有 CC BY-NC-SA 4.0 文字，具体适用图组待澄清。仅链接原投稿。",
+      "en": "Issue #119 is titled Gemini Flash but its body refers to the Gemini Pro Pixiv post. Although it contains CC BY-NC-SA 4.0 wording, its image-specific scope is unresolved; link only.",
+      "ja": "第119号の題名は Gemini Flash、本文は Gemini Pro の Pixiv 投稿を参照。CC BY-NC-SA 4.0 の記載はあるが、画像別の適用範囲は未確認。出典のみ。"
+    }
   }
 ]

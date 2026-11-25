@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:04:05.123Z",
+  "url": "https://www.bilibili.com/video/BV1E6a265Ev1/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1E6a265Ev1",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1E6a265Ev1",
+    "title": "我是奶鲸，我要开始大笑了。【DeepSeek奶鲸同人剧情MAD】",
+    "owner": {
+      "name": "nishicouqie",
+      "mid": 1387705083
+    },
+    "pubdate": 1790934740,
+    "duration": 362
+  },
+  "descriptionSha256": "c634d56fe6c7f626f83be94dbb3cefa9fa0fe93cfc861fdc4d85a9d9d06cd03b",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%B1%86%E5%8C%85%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:07.103Z",
+    "htmlSha256": "1fa54ada33957e9e761c4a13db84ee19b36eaa870ea0df1e0aee58423c0a6b8c",
+    "title": "我是奶鲸，我要开始大笑了。【DeepSeek奶鲸同人剧情MAD】",
+    "publisher": "nishicouqie",
+    "publisherUrl": "https://space.bilibili.com/1387705083"
+  }
+}

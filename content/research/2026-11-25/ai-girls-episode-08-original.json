@@ -1,0 +1,55 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:00:13.251Z",
+  "url": "https://www.bilibili.com/video/BV1hGpC6YEph/",
+  "officialVideo": {
+    "bvid": "BV1hGpC6YEph",
+    "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hGpC6YEph",
+    "observedAt": "2026-11-25T10:00:13.251Z",
+    "httpStatus": 200,
+    "code": 0,
+    "title": "《为什么都还没睡？》",
+    "publisher": "萤火之森QWQ",
+    "publisherId": 482116663,
+    "publicationDate": "2026-10-14",
+    "pubdate": 1791937431,
+    "likes": 7033
+  },
+  "descriptionSha256": "85055d6cc5e5383fbfdd89c5579589314c48e94cac31446d9e6636c9daaa017c",
+  "sourceSeries": {
+    "author": {
+      "mid": 482116663,
+      "name": "萤火之森QWQ"
+    },
+    "season": {
+      "id": 9320273,
+      "title": "《AI GIRLS》",
+      "intro": "",
+      "ep_count": 52
+    },
+    "episodeOrder": 8,
+    "indexDocument": {
+      "path": "research/2026-10-31/AI_GIRLS_INDEX.json",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "sourceSha256": "2da4d75814df6d277147072b702098625f93b8a1b7d4390a08a0e3ad144400b2",
+      "gitBlobSha": "743d405594cca90412cab3dc9de9e1a475db3ea1",
+      "bytes": 18758,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T09:59:14.658Z"
+    },
+    "indexEpisode": {
+      "order": 8,
+      "bvid": "BV1hGpC6YEph",
+      "title": "《为什么都还没睡？》",
+      "pubdate": 1791937431
+    }
+  },
+  "publicPage": {
+    "bvid": "BV1hGpC6YEph",
+    "order": 8,
+    "url": "https://www.bilibili.com/video/BV1hGpC6YEph/",
+    "error": "response.body: Protocol error (Network.getResponseBody): No resource with given identifier found"
+  },
+  "formatEvidence": "Original view metadata matched the pinned same-author episode index; series type confirmed by original pages of episodes 10–17. Individual original page unavailable or not captured; no independent frame review claimed."
+}

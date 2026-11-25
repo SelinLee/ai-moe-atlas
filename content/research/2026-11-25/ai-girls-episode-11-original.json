@@ -1,0 +1,78 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:00:14.216Z",
+  "url": "https://www.bilibili.com/video/BV1GKJC6oEMX/",
+  "officialVideo": {
+    "bvid": "BV1GKJC6oEMX",
+    "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1GKJC6oEMX",
+    "observedAt": "2026-11-25T10:00:14.216Z",
+    "httpStatus": 200,
+    "code": 0,
+    "title": "《去海边？》",
+    "publisher": "萤火之森QWQ",
+    "publisherId": 482116663,
+    "publicationDate": "2026-10-15",
+    "pubdate": 1792038655,
+    "likes": 778
+  },
+  "descriptionSha256": "a617f909eb4e80d4dcf30192227c9777bebd0ffbe593b45da031e664180ab535",
+  "sourceSeries": {
+    "author": {
+      "mid": 482116663,
+      "name": "萤火之森QWQ"
+    },
+    "season": {
+      "id": 9320273,
+      "title": "《AI GIRLS》",
+      "intro": "",
+      "ep_count": 52
+    },
+    "episodeOrder": 11,
+    "indexDocument": {
+      "path": "research/2026-10-31/AI_GIRLS_INDEX.json",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "sourceSha256": "2da4d75814df6d277147072b702098625f93b8a1b7d4390a08a0e3ad144400b2",
+      "gitBlobSha": "743d405594cca90412cab3dc9de9e1a475db3ea1",
+      "bytes": 18758,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T09:59:14.658Z"
+    },
+    "indexEpisode": {
+      "order": 11,
+      "bvid": "BV1GKJC6oEMX",
+      "title": "《去海边？》",
+      "pubdate": 1792038655
+    }
+  },
+  "publicPage": {
+    "bvid": "BV1GKJC6oEMX",
+    "order": 11,
+    "url": "https://www.bilibili.com/video/BV1GKJC6oEMX/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-25T10:01:22.751Z",
+    "title": "《去海边？》_哔哩哔哩_bilibili",
+    "htmlSha256": "10efb12a30ef4cdc822991b36a38ba07f791ec7a6996fed0cf629336035c53ed",
+    "tags": [
+      "动漫二创激励计划",
+      "海滩",
+      "日常",
+      "ai漫画",
+      "chatgpt"
+    ],
+    "seriesLinks": 1,
+    "authorLinks": 14,
+    "seriesHeading": true,
+    "lines": [
+      "漫画",
+      "萤火之森QWQ",
+      "喜欢用AI做一些二创作品 喜欢的话就点个关注点个赞嘻嘻 目前正在更新的系列《AI GIRLS》 感谢大家的支持！ 素材@zipzippipe",
+      "《AI GIRLS》",
+      "萤火之森QWQ",
+      "萤火之森QWQ",
+      "萤火之森QWQ",
+      "萤火之森QWQ"
+    ]
+  },
+  "formatEvidence": "The original public page explicitly tags the entry ai漫画 and lists 《AI GIRLS》."
+}

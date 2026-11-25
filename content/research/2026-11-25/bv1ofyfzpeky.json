@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:04:06.137Z",
+  "url": "https://www.bilibili.com/video/BV1oFyfzpEky/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oFyfzpEky",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1oFyfzpEky",
+    "title": "【鱼鱼原创】一緒に帰ろう｜深夜两点，便利店有人对你说「等你回家」",
+    "owner": {
+      "name": "鱼鱼的深夜鱼缸",
+      "mid": 14055487
+    },
+    "pubdate": 1795520745,
+    "duration": 152
+  },
+  "descriptionSha256": "e55aee7a9001d793e1e18159cf2daeeac277ccf784fe334364345d13ebaa8647",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:05.300Z",
+    "htmlSha256": "f30a43c2a4493c2eb35429bfc5d1f9e2331ca0379abad7d5c2013cc9d82c772c",
+    "title": "【鱼鱼原创】一緒に帰ろう｜深夜两点，便利店有人对你说「等你回家」",
+    "publisher": "鱼鱼的深夜鱼缸",
+    "publisherUrl": "https://space.bilibili.com/14055487"
+  }
+}

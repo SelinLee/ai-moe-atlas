@@ -2,41 +2,111 @@
   "stickers": [
     {
       "id": "kiriyuki-nekowhale-sticker-source",
-      "characters": ["DeepSeek", "GPT"],
-      "tags": ["pair", "solo", "happy", "shy", "confused", "angry"]
+      "characters": [
+        "DeepSeek",
+        "GPT"
+      ],
+      "tags": [
+        "pair",
+        "solo",
+        "happy",
+        "shy",
+        "confused",
+        "angry"
+      ]
     },
     {
       "id": "xxwuwang-gemini-expressions",
-      "characters": ["Gemini"],
-      "tags": ["variants"]
+      "characters": [
+        "Gemini"
+      ],
+      "tags": [
+        "variants"
+      ]
     },
     {
       "id": "momo-gemini-sticker-release",
-      "characters": ["Gemini"],
-      "tags": ["chat"]
+      "characters": [
+        "Gemini"
+      ],
+      "tags": [
+        "chat"
+      ]
     },
     {
       "id": "redmoon-gpt-dragon-turnaround",
-      "characters": ["GPT"],
-      "tags": ["variants"]
+      "characters": [
+        "GPT"
+      ],
+      "tags": [
+        "variants"
+      ]
     },
     {
       "id": "ninon-coco-design-submission",
-      "characters": ["Claude · Coco"],
-      "tags": ["variants"]
+      "characters": [
+        "Claude · Coco"
+      ],
+      "tags": [
+        "variants"
+      ]
     },
     {
       "id": "adui-gpt-dragon-meme",
-      "characters": ["GPT"],
-      "tags": ["meme"]
+      "characters": [
+        "GPT"
+      ],
+      "tags": [
+        "meme"
+      ]
+    },
+    {
+      "id": "achong-fat-fish-emotelab-workshop",
+      "characters": [
+        "DeepSeek"
+      ],
+      "tags": [
+        "chat",
+        "variants"
+      ]
+    },
+    {
+      "id": "qinv-gemini-pro-creator-submission",
+      "characters": [
+        "Gemini"
+      ],
+      "tags": [
+        "variants",
+        "happy",
+        "confused"
+      ]
     }
   ],
   "rigs": [
-    { "id": "kamiya-deepseek-live2d-release", "format": "live2d" },
-    { "id": "mizuhara-fat-fish-mmd", "format": "mmd" },
-    { "id": "blue-fat-fish-vrm", "format": "vrm" },
-    { "id": "andersen-whale-live2d", "format": "live2d" },
-    { "id": "gpt-dragon-live2d-companion", "format": "live2d" }
+    {
+      "id": "kamiya-deepseek-live2d-release",
+      "format": "live2d"
+    },
+    {
+      "id": "mizuhara-fat-fish-mmd",
+      "format": "mmd"
+    },
+    {
+      "id": "blue-fat-fish-vrm",
+      "format": "vrm"
+    },
+    {
+      "id": "andersen-whale-live2d",
+      "format": "live2d"
+    },
+    {
+      "id": "gpt-dragon-live2d-companion",
+      "format": "live2d"
+    },
+    {
+      "id": "brony-whale-maid-live2d",
+      "format": "live2d"
+    }
   ],
   "comics": [
     {
@@ -57,7 +127,84 @@
       "episode": 3,
       "adaptation": "bv13a1fznecw"
     },
-    { "id": "even-sharper-whale-rescues-claude-comic" },
-    { "id": "shiho320-claude-account-comic" }
+    {
+      "id": "ai-girls-episode-04-original",
+      "series": "AI GIRLS",
+      "episode": 4
+    },
+    {
+      "id": "ai-girls-episode-05-original",
+      "series": "AI GIRLS",
+      "episode": 5
+    },
+    {
+      "id": "ai-girls-episode-06-original",
+      "series": "AI GIRLS",
+      "episode": 6
+    },
+    {
+      "id": "ai-girls-episode-07-original",
+      "series": "AI GIRLS",
+      "episode": 7
+    },
+    {
+      "id": "ai-girls-episode-08-original",
+      "series": "AI GIRLS",
+      "episode": 8
+    },
+    {
+      "id": "ai-girls-episode-09-original",
+      "series": "AI GIRLS",
+      "episode": 9
+    },
+    {
+      "id": "ai-girls-episode-10-original",
+      "series": "AI GIRLS",
+      "episode": 10
+    },
+    {
+      "id": "ai-girls-episode-11-original",
+      "series": "AI GIRLS",
+      "episode": 11
+    },
+    {
+      "id": "ai-girls-episode-12-original",
+      "series": "AI GIRLS",
+      "episode": 12
+    },
+    {
+      "id": "ai-girls-episode-13-original",
+      "series": "AI GIRLS",
+      "episode": 13
+    },
+    {
+      "id": "ai-girls-episode-14-original",
+      "series": "AI GIRLS",
+      "episode": 14
+    },
+    {
+      "id": "ai-girls-episode-15-original",
+      "series": "AI GIRLS",
+      "episode": 15
+    },
+    {
+      "id": "ai-girls-episode-16-original",
+      "series": "AI GIRLS",
+      "episode": 16
+    },
+    {
+      "id": "ai-girls-episode-17-original",
+      "series": "AI GIRLS",
+      "episode": 17
+    },
+    {
+      "id": "even-sharper-whale-rescues-claude-comic"
+    },
+    {
+      "id": "shiho320-claude-account-comic"
+    },
+    {
+      "id": "ferrocyanide-whale-child-comic"
+    }
   ]
 }

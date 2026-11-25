@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:04:05.661Z",
+  "url": "https://www.bilibili.com/video/BV1D51czDEj6/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1D51czDEj6",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1D51czDEj6",
+    "title": "我不难过 · 大肥鱼翻唱｜砚巡",
+    "owner": {
+      "name": "砚巡ovo",
+      "mid": 3706982194219334
+    },
+    "pubdate": 1795526680,
+    "duration": 41
+  },
+  "descriptionSha256": "5ad29d1abaea1e995b6d9a514d445316d0a640bda7d5c7821354f07bd53337ea",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:05.300Z",
+    "htmlSha256": "f30a43c2a4493c2eb35429bfc5d1f9e2331ca0379abad7d5c2013cc9d82c772c",
+    "title": "我不难过 · 大肥鱼翻唱｜砚巡",
+    "publisher": "砚巡ovo",
+    "publisherUrl": "https://space.bilibili.com/3706982194219334"
+  }
+}

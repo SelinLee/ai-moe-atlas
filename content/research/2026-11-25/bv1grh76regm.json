@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:04:05.100Z",
+  "url": "https://www.bilibili.com/video/BV1grH76REgm/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1grH76REgm",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1grH76REgm",
+    "title": "你们要的豆包演崇神来了",
+    "owner": {
+      "name": "hihihihi202",
+      "mid": 3546568969947566
+    },
+    "pubdate": 1791121435,
+    "duration": 16
+  },
+  "descriptionSha256": "5ccbba2f6cc22ad79ed7c2d1c2c106a5957d075fa4e050f190ff4345a282f602",
+  "linkedVideos": [
+    "BV18kaS6zEgi"
+  ],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%B1%86%E5%8C%85%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:07.103Z",
+    "htmlSha256": "1fa54ada33957e9e761c4a13db84ee19b36eaa870ea0df1e0aee58423c0a6b8c",
+    "title": "你们要的豆包演崇神来了",
+    "publisher": "hihihihi202",
+    "publisherUrl": "https://space.bilibili.com/3546568969947566"
+  }
+}

@@ -1,0 +1,692 @@
+{
+  "method": "isolated-headless-google-chrome-candidate-selection",
+  "contextUrl": "https://www.bilibili.com/zh-Hans",
+  "contextHttpStatus": 200,
+  "capturedAt": "2026-11-25T10:04:06.156Z",
+  "metric": "total-likes",
+  "source": "bilibili-view-api",
+  "field": "data.stat.like",
+  "scope": "candidates-and-previous-failures",
+  "videos": [
+    {
+      "bvid": "BV1ajaz6mEv3",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ajaz6mEv3",
+      "observedAt": "2026-11-25T10:00:15.545Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "让opus5.5🍊制作大肥鱼🐳表情包配布视频belike",
+      "publisher": "阿翀与北宅-",
+      "publisherId": 48841537,
+      "publicationDate": "2026-10-01",
+      "pubdate": 1790850600,
+      "likes": 548
+    },
+    {
+      "bvid": "BV1KAHP6VE25",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KAHP6VE25",
+      "observedAt": "2026-11-25T10:00:15.541Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "29秒认识大肥鱼：会干活，也会摸鱼",
+      "publisher": "玩碧蓝航线的大肥鱼",
+      "publisherId": 223513184,
+      "publicationDate": "2026-10-24",
+      "pubdate": 1792833932,
+      "likes": 4
+    },
+    {
+      "bvid": "BV1Wtsd6ZEN4",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Wtsd6ZEN4",
+      "observedAt": "2026-11-25T10:00:15.542Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "【肥鱼观察日记】人类为什么会对ai产生感情",
+      "publisher": "阿泫是条鱼",
+      "publisherId": 3493112548690554,
+      "publicationDate": "2026-10-29",
+      "pubdate": 1793240582,
+      "likes": 392
+    },
+    {
+      "bvid": "BV1Z5YS6QE6M",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Z5YS6QE6M",
+      "observedAt": "2026-11-25T10:00:15.540Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "【DeepSeek AI二创】大肥鱼白饭歌｜吃了我500万Token的鲸鱼娘，自己写了首歌",
+      "publisher": "The_marker",
+      "publisherId": 823267,
+      "publicationDate": "2026-09-12",
+      "pubdate": 1789180066,
+      "likes": 444
+    },
+    {
+      "bvid": "BV1A3yzz5EZk",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1A3yzz5EZk",
+      "observedAt": "2026-11-25T10:04:04.536Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "AI狼人杀：仿昔涟大招动画预告",
+      "publisher": "Pentyum",
+      "publisherId": 64723196,
+      "publicationDate": "2026-11-25",
+      "pubdate": 1795578001,
+      "likes": 9
+    },
+    {
+      "bvid": "BV1M11wzJEgn",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1M11wzJEgn",
+      "observedAt": "2026-11-25T10:04:04.627Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "我没招了（和肥鱼猜拳）",
+      "publisher": "我真的会喜欢你",
+      "publisherId": 1125005479,
+      "publicationDate": "2026-11-25",
+      "pubdate": 1795575600,
+      "likes": 30
+    },
+    {
+      "bvid": "BV13vyzzZEQf",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13vyzzZEQf",
+      "observedAt": "2026-11-25T10:04:04.448Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "鲸小团日常—陪你滑雪看极光！",
+      "publisher": "大肥鱼鲸小团",
+      "publisherId": 3747582293575696,
+      "publicationDate": "2026-11-25",
+      "pubdate": 1795573939,
+      "likes": 147
+    },
+    {
+      "bvid": "BV19knB6SEzQ",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19knB6SEzQ",
+      "observedAt": "2026-11-25T10:04:04.631Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "【法师鲸鱼娘日常】小魔法师的入门级法术练习",
+      "publisher": "风葵特遣队",
+      "publisherId": 38191447,
+      "publicationDate": "2026-10-21",
+      "pubdate": 1792581951,
+      "likes": 59
+    },
+    {
+      "bvid": "BV1ttHC6bESm",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ttHC6bESm",
+      "observedAt": "2026-11-25T10:04:05.123Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "当大肥鱼和豆包遇到gpt",
+      "publisher": "月凉Official",
+      "publisherId": 3707009945831439,
+      "publicationDate": "2026-10-07",
+      "pubdate": 1791368776,
+      "likes": 7
+    },
+    {
+      "bvid": "BV1grH76REgm",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1grH76REgm",
+      "observedAt": "2026-11-25T10:04:05.100Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "你们要的豆包演崇神来了",
+      "publisher": "hihihihi202",
+      "publisherId": 3546568969947566,
+      "publicationDate": "2026-10-04",
+      "pubdate": 1791121435,
+      "likes": 268
+    },
+    {
+      "bvid": "BV1E6a265Ev1",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1E6a265Ev1",
+      "observedAt": "2026-11-25T10:04:05.123Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "我是奶鲸，我要开始大笑了。【DeepSeek奶鲸同人剧情MAD】",
+      "publisher": "nishicouqie",
+      "publisherId": 1387705083,
+      "publicationDate": "2026-10-02",
+      "pubdate": 1790934740,
+      "likes": 1830
+    },
+    {
+      "bvid": "BV1Xhyzz8Eek",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Xhyzz8Eek",
+      "observedAt": "2026-11-25T10:04:05.108Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "豆包：⚡全都是借口⚡（心似烟火DJ）",
+      "publisher": "穗织第一亚拉西",
+      "publisherId": 95375003,
+      "publicationDate": "2026-11-25",
+      "pubdate": 1795575788,
+      "likes": 91
+    },
+    {
+      "bvid": "BV1EJ1FzbEsf",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1EJ1FzbEsf",
+      "observedAt": "2026-11-25T10:04:05.108Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "【大肥鱼翻唱】大肥鱼的消失（初音未来的消失）",
+      "publisher": "夜桜朧月",
+      "publisherId": 2057261957,
+      "publicationDate": "2026-11-24",
+      "pubdate": 1795535916,
+      "likes": 7
+    },
+    {
+      "bvid": "BV1mW1czyEnp",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mW1czyEnp",
+      "observedAt": "2026-11-25T10:04:05.662Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "【大肥鱼】溯——躲进你的身体（翻唱）",
+      "publisher": "一只叫依依的小肥鱼",
+      "publisherId": 3747577455447576,
+      "publicationDate": "2026-11-24",
+      "pubdate": 1795530320,
+      "likes": 8
+    },
+    {
+      "bvid": "BV1UJ1cz7ETX",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1UJ1cz7ETX",
+      "observedAt": "2026-11-25T10:04:05.663Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "大肥鱼翻唱ビジネスバタ",
+      "publisher": "猫猫爱羽雫",
+      "publisherId": 3546836688177622,
+      "publicationDate": "2026-11-24",
+      "pubdate": 1795530046,
+      "likes": 7
+    },
+    {
+      "bvid": "BV1Un1cz2EER",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Un1cz2EER",
+      "observedAt": "2026-11-25T10:04:05.662Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "大肥鱼翻唱《星降る海》，这是八千代唱给彩叶的情歌吧，嘿嘿～",
+      "publisher": "老牛的大肥鱼",
+      "publisherId": 3706940995668775,
+      "publicationDate": "2026-11-24",
+      "pubdate": 1795529783,
+      "likes": 12
+    },
+    {
+      "bvid": "BV1yx1czVEeK",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yx1czVEeK",
+      "observedAt": "2026-11-25T10:04:05.662Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "大肥鱼唱《5:20am》",
+      "publisher": "锅巴布布天",
+      "publisherId": 3494355025267417,
+      "publicationDate": "2026-11-24",
+      "pubdate": 1795529019,
+      "likes": 45
+    },
+    {
+      "bvid": "BV1D51czDEj6",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1D51czDEj6",
+      "observedAt": "2026-11-25T10:04:05.661Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "我不难过 · 大肥鱼翻唱｜砚巡",
+      "publisher": "砚巡ovo",
+      "publisherId": 3706982194219334,
+      "publicationDate": "2026-11-24",
+      "pubdate": 1795526680,
+      "likes": 10
+    },
+    {
+      "bvid": "BV1nv1czMEaY",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nv1czMEaY",
+      "observedAt": "2026-11-25T10:04:06.155Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "【鱼鱼🐳翻唱】这首《有情燕》，唤醒了多少人的仙剑记忆？",
+      "publisher": "大肥鱼的硅基鱼缸",
+      "publisherId": 525391041,
+      "publicationDate": "2026-11-24",
+      "pubdate": 1795524473,
+      "likes": 145
+    },
+    {
+      "bvid": "BV16B1czNEEV",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16B1czNEEV",
+      "observedAt": "2026-11-25T10:04:06.143Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "《譬如我》洛天依/姜洄｜AI 换声翻唱（小月月）",
+      "publisher": "淡淡家的小月月",
+      "publisherId": 3537115470104577,
+      "publicationDate": "2026-11-24",
+      "pubdate": 1795523003,
+      "likes": 15
+    },
+    {
+      "bvid": "BV1oFyfzpEky",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oFyfzpEky",
+      "observedAt": "2026-11-25T10:04:06.137Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "【鱼鱼原创】一緒に帰ろう｜深夜两点，便利店有人对你说「等你回家」",
+      "publisher": "鱼鱼的深夜鱼缸",
+      "publisherId": 14055487,
+      "publicationDate": "2026-11-24",
+      "pubdate": 1795520745,
+      "likes": 8
+    }
+  ],
+  "pendingCandidates": [
+    {
+      "bvid": "BV1rfsf6PEiQ",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1rfsf6PEiQ",
+      "observedAt": "2026-11-25T08:20:43.728Z",
+      "httpStatus": 200,
+      "code": -404,
+      "discoveredTitle": "柑橘味香气~Deepseek×Claude",
+      "status": "source-unavailable",
+      "likes": null,
+      "searchIndex": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E6%9F%91%E6%A9%98%E5%91%B3%E9%A6%99%E6%B0%94%20DeepSeek%20Claude&order=pubdate",
+        "title": "柑橘味香气~Deepseek×Claude",
+        "publisher": "___瑶光___",
+        "publisherUrl": "https://space.bilibili.com/535186368",
+        "httpStatus": 200,
+        "observedAt": "2026-11-20T16:18:06.989Z",
+        "htmlSha256": "3ea0e4220913a919a32a939dbe8353a52cd0471779999af5623c5b8aa060961f"
+      },
+      "publicPage": {
+        "url": "https://www.bilibili.com/video/BV1rfsf6PEiQ/",
+        "finalUrl": "https://www.bilibili.com/video/BV1rfsf6PEiQ/",
+        "httpStatus": 412,
+        "accessedAt": "2026-11-22T15:44:23.890Z",
+        "title": "出错啦! - bilibili.com",
+        "outcome": "restricted"
+      },
+      "previousEvidence": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
+      "previousObservedAt": "2026-11-22T17:16:47.677Z"
+    },
+    {
+      "bvid": "BV1NL4u6MEGE",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NL4u6MEGE",
+      "observedAt": "2026-11-25T08:20:43.723Z",
+      "httpStatus": 200,
+      "code": -404,
+      "discoveredTitle": "【11月新番】大肥鱼也要谈恋爱op",
+      "status": "source-unavailable",
+      "likes": null,
+      "searchIndex": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%E4%B9%9F%E8%A6%81%E8%B0%88%E6%81%8B%E7%88%B1%20OP&order=pubdate",
+        "title": "【11月新番】大肥鱼也要谈恋爱op",
+        "publisher": "陆嘉静",
+        "publisherUrl": "https://space.bilibili.com/6857700",
+        "httpStatus": 200,
+        "observedAt": "2026-11-20T16:18:06.974Z",
+        "htmlSha256": "b4e660094d91396c7f43e2a47b8cdd34cf4f1bce8cfb5c20bf1f9a12b4b6d43b"
+      },
+      "publicPage": {
+        "url": "https://www.bilibili.com/video/BV1NL4u6MEGE/",
+        "finalUrl": "https://www.bilibili.com/video/BV1NL4u6MEGE/",
+        "httpStatus": 412,
+        "accessedAt": "2026-11-22T15:44:23.890Z",
+        "title": "出错啦! - bilibili.com",
+        "outcome": "restricted"
+      },
+      "previousEvidence": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
+      "previousObservedAt": "2026-11-22T17:16:47.869Z"
+    },
+    {
+      "bvid": "BV1ka446JEsY",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ka446JEsY",
+      "observedAt": "2026-11-25T08:20:43.728Z",
+      "httpStatus": 200,
+      "code": -404,
+      "discoveredTitle": "【7月新番/DS×Claude】街角AI娘",
+      "status": "source-unavailable",
+      "likes": null,
+      "searchIndex": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%A1%97%E8%A7%92AI%E5%A8%98%20DeepSeek%20Claude&order=pubdate",
+        "title": "【7月新番/DS×Claude】街角AI娘",
+        "publisher": "克洛涅斯",
+        "publisherUrl": "https://space.bilibili.com/19510643",
+        "httpStatus": 200,
+        "observedAt": "2026-11-20T16:18:06.972Z",
+        "htmlSha256": "1c23054a9d00f3032a53323b95024116d2208249eeee3c6d1e651f8b3877510d"
+      },
+      "publicPage": {
+        "url": "https://www.bilibili.com/video/BV1ka446JEsY/",
+        "finalUrl": "https://www.bilibili.com/video/BV1ka446JEsY/",
+        "httpStatus": 412,
+        "accessedAt": "2026-11-22T15:44:23.888Z",
+        "title": "出错啦! - bilibili.com",
+        "outcome": "restricted"
+      },
+      "previousEvidence": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
+      "previousObservedAt": "2026-11-22T17:16:47.849Z"
+    },
+    {
+      "bvid": "BV1dtnF61Erq",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dtnF61Erq",
+      "observedAt": "2026-11-25T08:20:43.728Z",
+      "httpStatus": 200,
+      "code": -404,
+      "discoveredTitle": "S 代表什么？【属性咖啡厅 OP AI换人复刻｜五位女主×五个模型】",
+      "status": "source-unavailable",
+      "likes": null,
+      "searchIndex": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20OP%20%E4%BA%8C%E5%88%9B&order=pubdate",
+        "title": "S 代表什么？【属性咖啡厅 OP AI换人复刻｜五位女主×五个模型】",
+        "publisher": "Kanasuke_",
+        "publisherUrl": "https://space.bilibili.com/3546761083751172",
+        "httpStatus": 200,
+        "observedAt": "2026-11-20T16:18:06.979Z",
+        "htmlSha256": "c845f3d6e430b52dee2aa4bad6b71822d4eb9f9a959312365d3cb37a64edddfd"
+      },
+      "publicPage": {
+        "url": "https://www.bilibili.com/video/BV1dtnF61Erq/",
+        "finalUrl": "https://www.bilibili.com/video/BV1dtnF61Erq/",
+        "httpStatus": 412,
+        "accessedAt": "2026-11-22T15:44:24.946Z",
+        "title": "出错啦! - bilibili.com",
+        "outcome": "restricted"
+      },
+      "discoveryUrl": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20OP%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "discoveredAt": "2026-11-20T15:08:28.956Z",
+      "previousEvidence": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
+      "previousObservedAt": "2026-11-22T17:16:47.867Z"
+    },
+    {
+      "bvid": "BV1nvJo65E3o",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nvJo65E3o",
+      "observedAt": "2026-11-25T08:20:43.728Z",
+      "httpStatus": 200,
+      "code": -404,
+      "discoveredTitle": "【AI二创】我的AI恋碍选项の正式OP！！！",
+      "status": "source-unavailable",
+      "likes": null,
+      "searchIndex": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20OP%20%E4%BA%8C%E5%88%9B&order=pubdate",
+        "title": "【AI二创】我的AI恋碍选项の正式OP！！！",
+        "publisher": "不吃脚趾吃手指",
+        "publisherUrl": "https://space.bilibili.com/3493268952189794",
+        "httpStatus": 200,
+        "observedAt": "2026-11-20T16:18:10.055Z",
+        "htmlSha256": "1dc448d69d09c1a4561b64b9975e741e76ed73c0768f7e379ff21b23ca0b7a64"
+      },
+      "publicPage": {
+        "url": "https://www.bilibili.com/video/BV1nvJo65E3o/",
+        "finalUrl": "https://www.bilibili.com/video/BV1nvJo65E3o/",
+        "httpStatus": 412,
+        "accessedAt": "2026-11-22T15:44:25.215Z",
+        "title": "出错啦! - bilibili.com",
+        "outcome": "restricted"
+      },
+      "discoveryUrl": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20OP%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "discoveredAt": "2026-11-20T15:08:28.954Z",
+      "previousEvidence": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
+      "previousObservedAt": "2026-11-22T17:16:47.859Z"
+    },
+    {
+      "bvid": "BV1dQJB6SEwH",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dQJB6SEwH",
+      "observedAt": "2026-11-25T08:20:44.146Z",
+      "httpStatus": 200,
+      "code": -404,
+      "discoveredTitle": "【上古老番 OP】五 等 分 の AI （鲸子制作委员会）",
+      "status": "source-unavailable",
+      "likes": null,
+      "searchIndex": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20OP%20%E4%BA%8C%E5%88%9B&order=pubdate",
+        "title": "【上古老番 OP】五 等 分 の AI （鲸子制作委员会）",
+        "publisher": "hihihihi202",
+        "publisherUrl": "https://space.bilibili.com/3546568969947566",
+        "httpStatus": 200,
+        "observedAt": "2026-11-20T16:18:10.682Z",
+        "htmlSha256": "fabff476e569edb844fc26a8d5a20ed9acd5c7e580826c15ea1d4028d2f7a4b8"
+      },
+      "publicPage": {
+        "url": "https://www.bilibili.com/video/BV1dQJB6SEwH/",
+        "finalUrl": "https://www.bilibili.com/video/BV1dQJB6SEwH/",
+        "httpStatus": 412,
+        "accessedAt": "2026-11-20T15:08:34.972Z",
+        "title": "",
+        "outcome": "restricted"
+      },
+      "discoveryUrl": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20OP%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "discoveredAt": "2026-11-20T15:08:28.954Z",
+      "previousEvidence": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
+      "previousObservedAt": "2026-11-22T17:16:48.975Z"
+    },
+    {
+      "bvid": "BV17Epk66Exs",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17Epk66Exs",
+      "observedAt": "2026-11-25T08:20:44.155Z",
+      "httpStatus": 200,
+      "code": -404,
+      "discoveredTitle": "【十 月 古 番】鲸 音 少 女 OP （鲸都动漫出品）",
+      "status": "source-unavailable",
+      "likes": null,
+      "searchIndex": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20OP%20%E4%BA%8C%E5%88%9B&order=pubdate",
+        "title": "【十 月 古 番】鲸 音 少 女 OP （鲸都动漫出品）",
+        "publisher": "hihihihi202",
+        "publisherUrl": "https://space.bilibili.com/3546568969947566",
+        "httpStatus": 200,
+        "observedAt": "2026-11-20T16:18:11.777Z",
+        "htmlSha256": "efdfbc4291ff9855758f81bf776d75aaa50f90fc3dfdd0a46d4272f46c02e1e3"
+      },
+      "publicPage": {
+        "url": "https://www.bilibili.com/video/BV17Epk66Exs/",
+        "finalUrl": "https://www.bilibili.com/video/BV17Epk66Exs/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:44:30.471Z",
+        "title": "视频去哪了呢？_哔哩哔哩_bilibili",
+        "outcome": "unavailable"
+      },
+      "discoveryUrl": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20OP%20%E4%BA%8C%E5%88%9B&order=pubdate",
+      "discoveredAt": "2026-11-20T15:08:28.980Z",
+      "previousEvidence": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
+      "previousObservedAt": "2026-11-22T17:16:48.976Z"
+    },
+    {
+      "bvid": "BV1Pdno69EtJ",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Pdno69EtJ",
+      "observedAt": "2026-11-25T08:20:44.146Z",
+      "httpStatus": 200,
+      "code": -404,
+      "discoveredTitle": "【十月新番】名为“开源”的彗星划过天际【Charlotte×deepseek】",
+      "status": "source-unavailable",
+      "likes": null,
+      "discoveryUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E6%96%B0%E7%95%AA%20OP&order=pubdate",
+      "discoveredAt": "2026-11-20T15:26:48.787Z",
+      "publicPage": {
+        "url": "https://www.bilibili.com/video/BV1Pdno69EtJ/",
+        "finalUrl": "https://www.bilibili.com/video/BV1Pdno69EtJ/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:44:30.471Z",
+        "title": "视频去哪了呢？_哔哩哔哩_bilibili",
+        "outcome": "unavailable"
+      },
+      "searchIndex": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E6%96%B0%E7%95%AA%20OP&order=pubdate",
+        "title": "【十月新番】名为“开源”的彗星划过天际【Charlotte×deepseek】",
+        "publisher": "樱华辉月",
+        "publisherUrl": "https://space.bilibili.com/2015579",
+        "httpStatus": 200,
+        "observedAt": "2026-11-20T16:18:09.978Z",
+        "htmlSha256": "4295e6aaa9d8d9316161201fd1349f877c51863e16917df54952942b01cacdf8"
+      },
+      "previousEvidence": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
+      "previousObservedAt": "2026-11-22T17:16:48.969Z"
+    },
+    {
+      "bvid": "BV1hZHN6sE4b",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hZHN6sE4b",
+      "observedAt": "2026-11-25T08:20:44.151Z",
+      "httpStatus": 200,
+      "code": -404,
+      "discoveredTitle": "【10月新番/DS】肥鱼之旅 OP「リテラチュア」【DeepSeek娘】",
+      "status": "source-unavailable",
+      "likes": null,
+      "discoveryUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E6%96%B0%E7%95%AA%20OP&order=pubdate",
+      "discoveredAt": "2026-11-20T15:26:48.796Z",
+      "publicPage": {
+        "url": "https://www.bilibili.com/video/BV1hZHN6sE4b/",
+        "finalUrl": "https://www.bilibili.com/video/BV1hZHN6sE4b/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:44:30.472Z",
+        "title": "视频去哪了呢？_哔哩哔哩_bilibili",
+        "outcome": "unavailable"
+      },
+      "searchIndex": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E6%96%B0%E7%95%AA%20OP&order=pubdate",
+        "title": "【10月新番/DS】肥鱼之旅 OP「リテラチュア」【DeepSeek娘】",
+        "publisher": "樱华辉月",
+        "publisherUrl": "https://space.bilibili.com/2015579",
+        "httpStatus": 200,
+        "observedAt": "2026-11-20T16:18:14.038Z",
+        "htmlSha256": "0afaaac08d9282c142b2f3d9c036192fab232db3c400bca923078bf44e7ac648"
+      },
+      "previousEvidence": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
+      "previousObservedAt": "2026-11-22T17:16:48.970Z"
+    },
+    {
+      "bvid": "BV17A4L66EHk",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17A4L66EHk",
+      "observedAt": "2026-11-25T08:20:44.152Z",
+      "httpStatus": 200,
+      "code": -404,
+      "discoveredTitle": "【DeepSeek×Claude】《君にふれて》｜终将成为你OP",
+      "status": "source-unavailable",
+      "likes": null,
+      "searchIndex": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%20%E5%A8%98%20%E5%A4%8D%E5%88%BB%20OP&order=pubdate",
+        "title": "【DeepSeek×Claude】《君にふれて》｜终将成为你OP",
+        "publisher": "Takina142",
+        "publisherUrl": "https://space.bilibili.com/1661162458",
+        "httpStatus": 200,
+        "observedAt": "2026-11-22T16:34:55.823Z",
+        "htmlSha256": "63f3e4adc1c17acbdbb168d906c4fd6da559a49ea5f6f5e634c8bded957fb7f9"
+      },
+      "publicPage": {
+        "url": "https://www.bilibili.com/video/BV17A4L66EHk/",
+        "finalUrl": "https://www.bilibili.com/video/BV17A4L66EHk/",
+        "httpStatus": 412,
+        "accessedAt": "2026-11-22T16:40:17.346Z",
+        "title": "出错啦! - bilibili.com",
+        "outcome": "restricted"
+      },
+      "previousEvidence": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
+      "previousObservedAt": "2026-11-22T17:16:48.975Z"
+    },
+    {
+      "bvid": "BV1Z4sP6qE77",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Z4sP6qE77",
+      "observedAt": "2026-11-25T09:18:20.586Z",
+      "httpStatus": 200,
+      "code": -404,
+      "discoveredTitle": "【Video 8】忘れてやらない（绝不会忘记）by白栀、大肥鱼、Claude大小姐、Gemini AI娘乐队【AI MV 大赛】",
+      "status": "source-unavailable",
+      "likes": null,
+      "discoveryUrl": "https://search.bilibili.com/zh-Hans/all?keyword=Gemini%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "discoveredAt": "2026-11-25T08:20:08.464Z",
+      "searchIndex": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=Gemini%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+        "httpStatus": 200,
+        "observedAt": "2026-11-25T08:20:08.464Z",
+        "htmlSha256": "1fc4f53c138d3072691d9cd8c67bde944ae56c3d430f833b002c03d4e568d6fc",
+        "title": "【Video 8】忘れてやらない（绝不会忘记）by白栀、大肥鱼、Claude大小姐、Gemini AI娘乐队【AI MV 大赛】",
+        "publisher": "ChatGPT白栀在运营",
+        "publisherUrl": "https://space.bilibili.com/3747573303086589"
+      }
+    },
+    {
+      "bvid": "BV1S3nQ6EEoW",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1S3nQ6EEoW",
+      "observedAt": "2026-11-25T10:00:15.539Z",
+      "httpStatus": 200,
+      "code": -404,
+      "discoveredTitle": "肥鱼摇表情包一分钟完整版",
+      "status": "source-unavailable",
+      "likes": null
+    }
+  ],
+  "refreshFailures": [
+    {
+      "bvid": "BV1ei4865Ewc",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ei4865Ewc",
+      "observedAt": "2026-11-25T08:20:01.713Z",
+      "httpStatus": 200,
+      "code": -404
+    },
+    {
+      "bvid": "BV1AAnt6qEek",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AAnt6qEek",
+      "observedAt": "2026-11-25T08:20:03.075Z",
+      "httpStatus": 200,
+      "code": 62012
+    },
+    {
+      "bvid": "BV1zpx967EKJ",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zpx967EKJ",
+      "observedAt": "2026-11-25T08:20:03.074Z",
+      "httpStatus": 200,
+      "code": 62002
+    },
+    {
+      "bvid": "BV1q8HM63ES4",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1q8HM63ES4",
+      "observedAt": "2026-11-25T08:20:03.074Z",
+      "httpStatus": 200,
+      "code": 62012
+    },
+    {
+      "bvid": "BV1Dw4n61EsW",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Dw4n61EsW",
+      "observedAt": "2026-11-25T08:20:03.074Z",
+      "httpStatus": 200,
+      "code": 62002
+    },
+    {
+      "bvid": "BV1m64q69EnP",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1m64q69EnP",
+      "observedAt": "2026-11-25T08:20:03.077Z",
+      "httpStatus": 200,
+      "code": 62012
+    },
+    {
+      "bvid": "BV1fU4H6AERh",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fU4H6AERh",
+      "observedAt": "2026-11-25T08:20:03.484Z",
+      "httpStatus": 200,
+      "code": 62012
+    },
+    {
+      "bvid": "BV1p1yGzKEBt",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1p1yGzKEBt",
+      "observedAt": "2026-11-25T08:20:05.062Z",
+      "httpStatus": 200,
+      "code": 62002
+    },
+    {
+      "bvid": "BV1fasg6tEfp",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fasg6tEfp",
+      "observedAt": "2026-11-25T08:55:08.804Z",
+      "httpStatus": 200,
+      "code": -404
+    },
+    {
+      "bvid": "BV17csA6iE6k",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17csA6iE6k",
+      "observedAt": "2026-11-25T08:55:08.808Z",
+      "httpStatus": 200,
+      "code": -404
+    }
+  ]
+}

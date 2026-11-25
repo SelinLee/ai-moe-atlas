@@ -1,0 +1,80 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:00:15.048Z",
+  "url": "https://www.bilibili.com/video/BV1dCnM6qEW5/",
+  "officialVideo": {
+    "bvid": "BV1dCnM6qEW5",
+    "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dCnM6qEW5",
+    "observedAt": "2026-11-25T10:00:15.048Z",
+    "httpStatus": 200,
+    "code": 0,
+    "title": "《七个人》",
+    "publisher": "萤火之森QWQ",
+    "publisherId": 482116663,
+    "publicationDate": "2026-10-18",
+    "pubdate": 1792283477,
+    "likes": 625
+  },
+  "descriptionSha256": "e407eea25debfa2e65af11180e08f0c481b11b85c398e1342a1dfd76fbf2271d",
+  "sourceSeries": {
+    "author": {
+      "mid": 482116663,
+      "name": "萤火之森QWQ"
+    },
+    "season": {
+      "id": 9320273,
+      "title": "《AI GIRLS》",
+      "intro": "",
+      "ep_count": 52
+    },
+    "episodeOrder": 17,
+    "indexDocument": {
+      "path": "research/2026-10-31/AI_GIRLS_INDEX.json",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "sourceSha256": "2da4d75814df6d277147072b702098625f93b8a1b7d4390a08a0e3ad144400b2",
+      "gitBlobSha": "743d405594cca90412cab3dc9de9e1a475db3ea1",
+      "bytes": 18758,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T09:59:14.658Z"
+    },
+    "indexEpisode": {
+      "order": 17,
+      "bvid": "BV1dCnM6qEW5",
+      "title": "《七个人》",
+      "pubdate": 1792283477
+    }
+  },
+  "publicPage": {
+    "bvid": "BV1dCnM6qEW5",
+    "order": 17,
+    "url": "https://www.bilibili.com/video/BV1dCnM6qEW5/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-25T10:01:28.363Z",
+    "title": "《七个人》_哔哩哔哩_bilibili",
+    "htmlSha256": "4150ebc1febc9082cd55babf5adb5dcd6fe39867f5e3f348173c896fbc264eaa",
+    "tags": [
+      "发现《NIGHT DANCER》",
+      "动漫二创激励计划",
+      "二次元",
+      "日常",
+      "ai漫画",
+      "chatgpt",
+      "大肥鱼"
+    ],
+    "seriesLinks": 1,
+    "authorLinks": 8,
+    "seriesHeading": true,
+    "lines": [
+      "漫画",
+      "萤火之森QWQ",
+      "喜欢用AI做一些二创作品 喜欢的话就点个关注点个赞嘻嘻 目前正在更新的系列《AI GIRLS》 感谢大家的支持！ 素材@zipzippipe",
+      "《AI GIRLS》",
+      "萤火之森QWQ",
+      "萤火之森QWQ",
+      "萤火之森QWQ",
+      "萤火之森QWQ"
+    ]
+  },
+  "formatEvidence": "The original public page explicitly tags the entry ai漫画 and lists 《AI GIRLS》."
+}

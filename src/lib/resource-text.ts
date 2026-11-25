@@ -21,7 +21,7 @@ export const resourceText = {
     referenceTitle:'三视图与派生参考', referenceIntro:'按系列查看，附生成记录、参考出处和文件校验。',
     chibi:'7 套 Q 版三视图', v5:'6 套常规比例与 Q 版参考', doodle:'7 张涂鸦与提示词模板',
     originals:'原作标题', inherited:'已有档案；本次未重新核验', reset:'显示全部',
-    songs:{intro:'按曲目查看原曲和同人版本。曲目按已收录版本的最高累计点赞排序，观测时刻为北京时间。',original:'原曲出处',versions:'收录的二创版本',rankingVersion:'排名依据',animation:'看动画与视频榜',characterReference:'角色参考图',productionArt:'MV 制作图',types:{cover:'翻唱',arrangement:'改编演唱',mv:'同人 MV',remix:'混音',dance:'舞蹈'}},
+    songs:{intro:'按曲目查看原曲和同人版本。曲目按已收录版本的最高累计点赞排序，观测时刻为北京时间。',original:'原曲出处',versions:'收录的版本',rankingVersion:'排名依据',animation:'看动画与视频榜',characterReference:'角色参考图',productionArt:'MV 制作图',types:{cover:'翻唱',arrangement:'改编演唱',mv:'同人 MV','original-mv':'原创 MV',remix:'混音',dance:'舞蹈'}},
     types:{op:'OP 改编',mv:'动画 MV',story:'剧情短片',commentary:'二创点评',dance:'音乐与舞蹈',game:'游戏演出'},
     category:{
       characters:{title:'角色图鉴',description:'按 AI 产品、作者和画风查角色。',unit:'个词条'},
@@ -58,7 +58,7 @@ export const resourceText = {
     referenceTitle:'Turnarounds and adaptations',referenceIntro:'Browse each series with generation records, references and file hashes.',
     chibi:'7 chibi turnarounds',v5:'6 standard and chibi sheets',doodle:'7 doodles and prompt templates',
     originals:'Original title',inherited:'Existing archive; not reverified in this review',reset:'Show all',
-    songs:{intro:'Find original recordings and fan versions by song. Tracks are ordered by the highest total likes on a listed version. Observation times are in Beijing time.',original:'Original song source',versions:'Fan versions in the atlas',rankingVersion:'Highest-liked version',animation:'See the fan-video ranking',characterReference:'Character reference',productionArt:'MV production art',types:{cover:'Cover',arrangement:'Adapted performance',mv:'Fan MV',remix:'Remix',dance:'Dance'}},
+    songs:{intro:'Find original recordings and fan versions by song. Tracks are ordered by the highest total likes on a listed version. Observation times are in Beijing time.',original:'Original song source',versions:'Versions in the atlas',rankingVersion:'Highest-liked version',animation:'See the fan-video ranking',characterReference:'Character reference',productionArt:'MV production art',types:{cover:'Cover',arrangement:'Adapted performance',mv:'Fan MV','original-mv':'Original MV',remix:'Remix',dance:'Dance'}},
     types:{op:'OP adaptation',mv:'Animated MV',story:'Story short',commentary:'Fan-work commentary',dance:'Music and dance',game:'Game performance'},
     category:{
       characters:{title:'Character atlas',description:'Find characters by AI product, creator and style.',unit:'entries'},
@@ -95,7 +95,7 @@ export const resourceText = {
     referenceTitle:'三面図と生成派生資料',referenceIntro:'シリーズ別の生成記録、参照元、ファイルハッシュを確認できます。',
     chibi:'ちびキャラ三面図7枚',v5:'通常頭身・ちびキャラ資料6枚',doodle:'落書き7枚とプロンプト集',
     originals:'原題',inherited:'既存の記録。今回の再確認は未実施',reset:'すべて表示',
-    songs:{intro:'原曲と二次創作を曲ごとに閲覧できます。収録したバージョンの最多いいね数で並べ、観測時刻は北京時間で表示します。',original:'原曲の出典',versions:'収録した二次創作',rankingVersion:'いいね数が最多のバージョン',animation:'動画ランキングを見る',characterReference:'キャラクター資料',productionArt:'MV 制作素材',types:{cover:'カバー',arrangement:'アレンジ歌唱',mv:'二次創作 MV',remix:'リミックス',dance:'ダンス'}},
+    songs:{intro:'原曲と二次創作を曲ごとに閲覧できます。収録したバージョンの最多いいね数で並べ、観測時刻は北京時間で表示します。',original:'原曲の出典',versions:'収録したバージョン',rankingVersion:'いいね数が最多のバージョン',animation:'動画ランキングを見る',characterReference:'キャラクター資料',productionArt:'MV 制作素材',types:{cover:'カバー',arrangement:'アレンジ歌唱',mv:'二次創作 MV','original-mv':'オリジナル MV',remix:'リミックス',dance:'ダンス'}},
     types:{op:'OP改編',mv:'アニメMV',story:'物語の短編',commentary:'二次創作へのコメント',dance:'音楽・ダンス',game:'ゲーム演出'},
     category:{
       characters:{title:'キャラクター図鑑',description:'AI製品・作者・画風からキャラクターを検索。',unit:'項目'},

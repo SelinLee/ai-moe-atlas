@@ -1,0 +1,55 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:00:14.178Z",
+  "url": "https://www.bilibili.com/video/BV15Rpm6nE2o/",
+  "officialVideo": {
+    "bvid": "BV15Rpm6nE2o",
+    "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15Rpm6nE2o",
+    "observedAt": "2026-11-25T10:00:14.178Z",
+    "httpStatus": 200,
+    "code": 0,
+    "title": "《谁都不许使用自己的能力！》",
+    "publisher": "萤火之森QWQ",
+    "publisherId": 482116663,
+    "publicationDate": "2026-10-14",
+    "pubdate": 1791984475,
+    "likes": 690
+  },
+  "descriptionSha256": "5a7022e09d583c6d11be49ce0742bc2bebbd5b6ee0c7f1960534b02ad1710d2f",
+  "sourceSeries": {
+    "author": {
+      "mid": 482116663,
+      "name": "萤火之森QWQ"
+    },
+    "season": {
+      "id": 9320273,
+      "title": "《AI GIRLS》",
+      "intro": "",
+      "ep_count": 52
+    },
+    "episodeOrder": 9,
+    "indexDocument": {
+      "path": "research/2026-10-31/AI_GIRLS_INDEX.json",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "sourceSha256": "2da4d75814df6d277147072b702098625f93b8a1b7d4390a08a0e3ad144400b2",
+      "gitBlobSha": "743d405594cca90412cab3dc9de9e1a475db3ea1",
+      "bytes": 18758,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T09:59:14.658Z"
+    },
+    "indexEpisode": {
+      "order": 9,
+      "bvid": "BV15Rpm6nE2o",
+      "title": "《谁都不许使用自己的能力！》",
+      "pubdate": 1791984475
+    }
+  },
+  "publicPage": {
+    "bvid": "BV15Rpm6nE2o",
+    "order": 9,
+    "url": "https://www.bilibili.com/video/BV15Rpm6nE2o/",
+    "error": "response.body: Protocol error (Network.getResponseBody): No resource with given identifier found"
+  },
+  "formatEvidence": "Original view metadata matched the pinned same-author episode index; series type confirmed by original pages of episodes 10–17. Individual original page unavailable or not captured; no independent frame review claimed."
+}

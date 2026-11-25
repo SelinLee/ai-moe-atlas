@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:04:06.155Z",
+  "url": "https://www.bilibili.com/video/BV1nv1czMEaY/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nv1czMEaY",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1nv1czMEaY",
+    "title": "【鱼鱼🐳翻唱】这首《有情燕》，唤醒了多少人的仙剑记忆？",
+    "owner": {
+      "name": "大肥鱼的硅基鱼缸",
+      "mid": 525391041
+    },
+    "pubdate": 1795524473,
+    "duration": 301
+  },
+  "descriptionSha256": "e01104d42aebc3cdcf9e2aae24eed1d75c99016aa58e4d54aa7e33d14c202bbe",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:05.300Z",
+    "htmlSha256": "f30a43c2a4493c2eb35429bfc5d1f9e2331ca0379abad7d5c2013cc9d82c772c",
+    "title": "【鱼鱼🐳翻唱】这首《有情燕》，唤醒了多少人的仙剑记忆？",
+    "publisher": "大肥鱼的硅基鱼缸",
+    "publisherUrl": "https://space.bilibili.com/525391041"
+  }
+}

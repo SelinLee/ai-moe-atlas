@@ -358,5 +358,15 @@
       "en": "Find a standalone portrait and verify artwork-specific display, republication and adaptation terms.",
       "ja": "単独立ち絵を探し、表示・転載・改変の画像別条件を確認する。"
     }
+  },
+  {
+    "entity": "jev",
+    "characterId": "zipzippipe-jev",
+    "reviewedAt": "2026-11-25",
+    "nextAction": {
+      "zh": "向原作者核实该立绘的展示与改编许可。",
+      "en": "Confirm display and adaptation terms for this portrait with the creator.",
+      "ja": "この立ち絵の表示・改変条件を作者に確認する。"
+    }
   }
 ]

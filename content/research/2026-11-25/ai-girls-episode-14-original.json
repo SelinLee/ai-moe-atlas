@@ -1,0 +1,77 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:00:14.924Z",
+  "url": "https://www.bilibili.com/video/BV15eJt6pE8M/",
+  "officialVideo": {
+    "bvid": "BV15eJt6pE8M",
+    "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15eJt6pE8M",
+    "observedAt": "2026-11-25T10:00:14.924Z",
+    "httpStatus": 200,
+    "code": 0,
+    "title": "《更新之后，你还是你吗？》",
+    "publisher": "萤火之森QWQ",
+    "publisherId": 482116663,
+    "publicationDate": "2026-10-16",
+    "pubdate": 1792155639,
+    "likes": 2435
+  },
+  "descriptionSha256": "516060770d7138e1b37019b204bbfa968a0191045cdaef4d81046a7ce187d175",
+  "sourceSeries": {
+    "author": {
+      "mid": 482116663,
+      "name": "萤火之森QWQ"
+    },
+    "season": {
+      "id": 9320273,
+      "title": "《AI GIRLS》",
+      "intro": "",
+      "ep_count": 52
+    },
+    "episodeOrder": 14,
+    "indexDocument": {
+      "path": "research/2026-10-31/AI_GIRLS_INDEX.json",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "sourceSha256": "2da4d75814df6d277147072b702098625f93b8a1b7d4390a08a0e3ad144400b2",
+      "gitBlobSha": "743d405594cca90412cab3dc9de9e1a475db3ea1",
+      "bytes": 18758,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T09:59:14.658Z"
+    },
+    "indexEpisode": {
+      "order": 14,
+      "bvid": "BV15eJt6pE8M",
+      "title": "《更新之后，你还是你吗？》",
+      "pubdate": 1792155639
+    }
+  },
+  "publicPage": {
+    "bvid": "BV15eJt6pE8M",
+    "order": 14,
+    "url": "https://www.bilibili.com/video/BV15eJt6pE8M/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-25T10:01:24.998Z",
+    "title": "《更新之后，你还是你吗？》_哔哩哔哩_bilibili",
+    "htmlSha256": "23adaeafd1e2a88b170559f6184f00e314e6ecf61cd9a1f9e1baffb6c72902bb",
+    "tags": [
+      "发现《小猫坏事做尽！》",
+      "动漫二创激励计划",
+      "日常",
+      "ai漫画",
+      "chatgpt",
+      "更新",
+      "大肥鱼"
+    ],
+    "seriesLinks": 1,
+    "authorLinks": 4,
+    "seriesHeading": true,
+    "lines": [
+      "漫画",
+      "萤火之森QWQ",
+      "喜欢用AI做一些二创作品 喜欢的话就点个关注点个赞嘻嘻 目前正在更新的系列《AI GIRLS》 感谢大家的支持！ 素材@zipzippipe",
+      "《AI GIRLS》",
+      "萤火之森QWQ"
+    ]
+  },
+  "formatEvidence": "The original public page explicitly tags the entry ai漫画 and lists 《AI GIRLS》."
+}

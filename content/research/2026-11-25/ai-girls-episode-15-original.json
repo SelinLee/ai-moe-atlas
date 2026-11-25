@@ -1,0 +1,76 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:00:14.902Z",
+  "url": "https://www.bilibili.com/video/BV1CcJh6rEJ8/",
+  "officialVideo": {
+    "bvid": "BV1CcJh6rEJ8",
+    "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CcJh6rEJ8",
+    "observedAt": "2026-11-25T10:00:14.902Z",
+    "httpStatus": 200,
+    "code": 0,
+    "title": "《DeepSeek又把活外包了》",
+    "publisher": "萤火之森QWQ",
+    "publisherId": 482116663,
+    "publicationDate": "2026-10-17",
+    "pubdate": 1792196511,
+    "likes": 1191
+  },
+  "descriptionSha256": "76112aeb6e1ee2cc74376f1498423100fbe36602922e63a6aef918035e7b6fa9",
+  "sourceSeries": {
+    "author": {
+      "mid": 482116663,
+      "name": "萤火之森QWQ"
+    },
+    "season": {
+      "id": 9320273,
+      "title": "《AI GIRLS》",
+      "intro": "",
+      "ep_count": 52
+    },
+    "episodeOrder": 15,
+    "indexDocument": {
+      "path": "research/2026-10-31/AI_GIRLS_INDEX.json",
+      "url": "https://github.com/Tests4gptplay/ai-gijinka-art-world/blob/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "rawUrl": "https://raw.githubusercontent.com/Tests4gptplay/ai-gijinka-art-world/9acccebe31dbafb3b91027a7fbc15c6e110325ee/research/2026-10-31/AI_GIRLS_INDEX.json",
+      "sourceSha256": "2da4d75814df6d277147072b702098625f93b8a1b7d4390a08a0e3ad144400b2",
+      "gitBlobSha": "743d405594cca90412cab3dc9de9e1a475db3ea1",
+      "bytes": 18758,
+      "commit": "9acccebe31dbafb3b91027a7fbc15c6e110325ee",
+      "accessedAt": "2026-11-25T09:59:14.658Z"
+    },
+    "indexEpisode": {
+      "order": 15,
+      "bvid": "BV1CcJh6rEJ8",
+      "title": "《DeepSeek又把活外包了》",
+      "pubdate": 1792196511
+    }
+  },
+  "publicPage": {
+    "bvid": "BV1CcJh6rEJ8",
+    "order": 15,
+    "url": "https://www.bilibili.com/video/BV1CcJh6rEJ8/",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-25T10:01:25.052Z",
+    "title": "《DeepSeek又把活外包了》_哔哩哔哩_bilibili",
+    "htmlSha256": "0ce7ff2c3ce70cfb912fd7b6d147cea2461886b7f3192a7e8179067538b55024",
+    "tags": [
+      "动漫二创激励计划",
+      "日常",
+      "ai漫画",
+      "chatGPT",
+      "千问",
+      "大肥鱼"
+    ],
+    "seriesLinks": 1,
+    "authorLinks": 4,
+    "seriesHeading": true,
+    "lines": [
+      "漫画",
+      "萤火之森QWQ",
+      "喜欢用AI做一些二创作品 喜欢的话就点个关注点个赞嘻嘻 目前正在更新的系列《AI GIRLS》 感谢大家的支持！ 素材@zipzippipe",
+      "《AI GIRLS》",
+      "萤火之森QWQ"
+    ]
+  },
+  "formatEvidence": "The original public page explicitly tags the entry ai漫画 and lists 《AI GIRLS》."
+}

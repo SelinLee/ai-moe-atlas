@@ -1,0 +1,28 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T10:04:04.536Z",
+  "url": "https://www.bilibili.com/video/BV1A3yzz5EZk/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1A3yzz5EZk",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1A3yzz5EZk",
+    "title": "AI狼人杀：仿昔涟大招动画预告",
+    "owner": {
+      "name": "Pentyum",
+      "mid": 64723196
+    },
+    "pubdate": 1795578001,
+    "duration": 18
+  },
+  "descriptionSha256": "6c7d288cc9c0462d8258463eb93dbd86159b4ab92ab2a35f92709efc8a7c4da5",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.428Z",
+    "htmlSha256": "0ebec11064620d1e84049133acb00f988ee5c9a62f2814b51ffe9d67ff7be6d2",
+    "title": "AI狼人杀：仿昔涟大招动画预告",
+    "publisher": "Pentyum",
+    "publisherUrl": "https://space.bilibili.com/64723196"
+  }
+}
