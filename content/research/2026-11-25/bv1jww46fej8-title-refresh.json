@@ -1,0 +1,24 @@
+{
+  "url": "https://www.bilibili.com/video/BV1jwW46FEj8/",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:21:36.786Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jwW46FEj8",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1jwW46FEj8",
+    "title": "住在电脑里的鲸鱼，周一为什么不上班？｜鲸鱼娘苗汐妙原创 MV《周一我休息》",
+    "owner": {
+      "name": "鲸鱼娘苗汐妙",
+      "mid": 3707030481143963
+    },
+    "pubdate": 1794201462,
+    "duration": 200
+  },
+  "descriptionSha256": "f3f89adc6d4d1206af29ee5f4f867def43e4537fef0294946587f0ba4f4819f8",
+  "previousEvidence": {
+    "path": "content/research/2026-11-21/bv1jww46fej8.json",
+    "sha256": "04b542e61fde9134d3ea0758bad69e8317f5e83d0e64a780cbe8a1f541d20ea1",
+    "kind": "browser-metadata-extract"
+  },
+  "previousTitle": "【AI原创曲】琉璃海 MV｜周一不上班，住在电脑里的鲸鱼"
+}

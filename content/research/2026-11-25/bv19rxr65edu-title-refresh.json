@@ -1,0 +1,24 @@
+{
+  "url": "https://www.bilibili.com/video/BV19RxR65EDu/",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:21:30.854Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19RxR65EDu",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV19RxR65EDu",
+    "title": "我要把你和你脑袋一样圆的龙虾给捏爆 【AI娘的日常02】",
+    "owner": {
+      "name": "Minimax战略型海螺",
+      "mid": 3632315729185392
+    },
+    "pubdate": 1793813015,
+    "duration": 204
+  },
+  "descriptionSha256": "6e6c1f49cd52000401d386c71884227a464394f6a0ae0684d5e6c4d4b3614d18",
+  "previousEvidence": {
+    "path": "content/research/2026-11-20/bv19rxr65edu.json",
+    "sha256": "9dac7a82d49d7cfdf7ac5a33a1fef4e5a31393d99bdf5750d5409e22a060c71f",
+    "kind": "browser-metadata-extract"
+  },
+  "previousTitle": "我要把你和你脑袋一样圆的龙虾给捏爆 AI娘的日常02【up动画】"
+}

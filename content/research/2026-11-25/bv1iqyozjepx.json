@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:45.966Z",
+  "url": "https://www.bilibili.com/video/BV1iqyozJEpx/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1iqyozJEpx",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1iqyozJEpx",
+    "title": "【二月新番/我跟ai娘一起生活的故事】可爱八股鱼",
+    "owner": {
+      "name": "蒙德砍壬",
+      "mid": 1931150416
+    },
+    "pubdate": 1795498644,
+    "duration": 31
+  },
+  "descriptionSha256": "51894a99f05da42fc31baff1025aadc1999b9df0af32608581a7617ca3d5f743",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.415Z",
+    "htmlSha256": "db1a385713d729dd42ee3100f4665eba6625dd6874070b610dabda44b2bad992",
+    "title": "【二月新番/我跟ai娘一起生活的故事】可爱八股鱼",
+    "publisher": "蒙德砍壬"
+  }
+}

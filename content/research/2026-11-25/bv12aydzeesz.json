@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:45.548Z",
+  "url": "https://www.bilibili.com/video/BV12AyDzEEsZ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12AyDzEEsZ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV12AyDzEEsZ",
+    "title": "第十集：我要发给我爸看！",
+    "owner": {
+      "name": "哭唧唧的米粉",
+      "mid": 485955507
+    },
+    "pubdate": 1795566600,
+    "duration": 167
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.428Z",
+    "htmlSha256": "0ebec11064620d1e84049133acb00f988ee5c9a62f2814b51ffe9d67ff7be6d2",
+    "title": "第十集：我要发给我爸看！",
+    "publisher": "哭唧唧的米粉"
+  }
+}

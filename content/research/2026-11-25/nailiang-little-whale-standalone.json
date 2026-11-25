@@ -1,0 +1,62 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:22:28.046Z",
+  "url": "https://github.com/nailiang002-wq/deepseek-girl-desktop/blob/f3da23e028c4898dd91c35b0759c2e78bc7f8fb1/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/nailiang002-wq/deepseek-girl-desktop/blob/f3da23e028c4898dd91c35b0759c2e78bc7f8fb1/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/nailiang002-wq/deepseek-girl-desktop/f3da23e028c4898dd91c35b0759c2e78bc7f8fb1/README.md",
+    "sourceSha256": "0d1243712a31d3a26db273510e74925af1e3c70371c376148b84711ce124c787",
+    "gitBlobSha": "15059692869781c3229ae4954becbecbf05a8011",
+    "bytes": 2969,
+    "commit": "f3da23e028c4898dd91c35b0759c2e78bc7f8fb1",
+    "accessedAt": "2026-11-25T08:22:28.046Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/nailiang002-wq/deepseek-girl-desktop/blob/f3da23e028c4898dd91c35b0759c2e78bc7f8fb1/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/nailiang002-wq/deepseek-girl-desktop/f3da23e028c4898dd91c35b0759c2e78bc7f8fb1/README.md",
+      "sourceSha256": "0d1243712a31d3a26db273510e74925af1e3c70371c376148b84711ce124c787",
+      "gitBlobSha": "15059692869781c3229ae4954becbecbf05a8011",
+      "bytes": 2969,
+      "commit": "f3da23e028c4898dd91c35b0759c2e78bc7f8fb1",
+      "accessedAt": "2026-11-25T08:22:28.046Z"
+    },
+    {
+      "path": "README.en.md",
+      "url": "https://github.com/nailiang002-wq/deepseek-girl-desktop/blob/f3da23e028c4898dd91c35b0759c2e78bc7f8fb1/README.en.md",
+      "rawUrl": "https://raw.githubusercontent.com/nailiang002-wq/deepseek-girl-desktop/f3da23e028c4898dd91c35b0759c2e78bc7f8fb1/README.en.md",
+      "sourceSha256": "bcf63f61c4e309119a07ad64037565d7598ef42233ea78ff61c1c8ff1328830d",
+      "gitBlobSha": "08dbaa9651bddf44f2892b0f7dd8a1349de7c6d2",
+      "bytes": 3284,
+      "commit": "f3da23e028c4898dd91c35b0759c2e78bc7f8fb1",
+      "accessedAt": "2026-11-25T08:22:28.407Z"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "url": "https://github.com/nailiang002-wq/deepseek-girl-desktop/blob/f3da23e028c4898dd91c35b0759c2e78bc7f8fb1/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/nailiang002-wq/deepseek-girl-desktop/f3da23e028c4898dd91c35b0759c2e78bc7f8fb1/THIRD_PARTY_NOTICES.md",
+      "sourceSha256": "657fe36ee3b916dc377a44e5a8710799fc2d7a10b57c75a855bb9fe5e85e13f3",
+      "gitBlobSha": "7ee5809eada9b278e4f1b10247244a415cd7aefd",
+      "bytes": 715,
+      "commit": "f3da23e028c4898dd91c35b0759c2e78bc7f8fb1",
+      "accessedAt": "2026-11-25T08:22:28.784Z"
+    }
+  ],
+  "repository": {
+    "full_name": "nailiang002-wq/deepseek-girl-desktop",
+    "html_url": "https://github.com/nailiang002-wq/deepseek-girl-desktop",
+    "stargazers_count": 0,
+    "archived": false,
+    "created_at": "2026-11-23T09:00:17Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "f3da23e028c4898dd91c35b0759c2e78bc7f8fb1",
+    "observedAt": "2026-11-25T08:20:44.192Z",
+    "httpStatus": 200,
+    "metadataSha256": "25d78f2656524897f5829d6d5b7efea0c39d9867477cd07fd7ab7c788390b8c8",
+    "parent": null
+  },
+  "scope": "Pinned documentation and licensing files checked by Git blob and SHA-256."
+}

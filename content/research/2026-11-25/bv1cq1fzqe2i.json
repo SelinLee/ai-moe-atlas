@@ -1,0 +1,29 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:46.689Z",
+  "url": "https://www.bilibili.com/video/BV1cQ1FzqE2i/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cQ1FzqE2i",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1cQ1FzqE2i",
+    "title": "Claude娘】当AI的L.O.V.E满级之后…… | Stronger Than You · Claude ver.",
+    "owner": {
+      "name": "一天的如魔",
+      "mid": 445321126
+    },
+    "pubdate": 1795531853,
+    "duration": 169
+  },
+  "descriptionSha256": "bd8d65a92eebb829fd4044f2e555a1bb260125e538f354b4190d322e819578f2",
+  "linkedVideos": [
+    "BV1P24q6DExx"
+  ],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "Claude娘】当AI的L.O.V.E满级之后…… | Stronger Than You · Claude ver.",
+    "publisher": "一天的如魔"
+  }
+}

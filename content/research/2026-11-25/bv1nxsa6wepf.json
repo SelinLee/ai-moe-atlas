@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:48.342Z",
+  "url": "https://www.bilibili.com/video/BV1nXsa6WEPF/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nXsa6WEPF",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1nXsa6WEPF",
+    "title": "还差一指宽｜一部关于 GPT 的动画短片。",
+    "owner": {
+      "name": "人偶人偶人偶人偶",
+      "mid": 3494361589352764
+    },
+    "pubdate": 1795101209,
+    "duration": 340
+  },
+  "descriptionSha256": "c84fbb8dc253044045b155f60f690e65e24c526b2350193d12f098632d2d7c36",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E9%98%B6%E8%B7%83%E5%A8%98&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:07.010Z",
+    "htmlSha256": "c2574a905f48688839c43c1a3490fd479ae88257277d49737dd09202450be941",
+    "title": "还差一指宽｜一部关于 GPT 的动画短片。",
+    "publisher": "人偶人偶人偶人偶"
+  }
+}

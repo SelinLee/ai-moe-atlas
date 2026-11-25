@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:47.107Z",
+  "url": "https://www.bilibili.com/video/BV1bzyDz9Eyp/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bzyDz9Eyp",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1bzyDz9Eyp",
+    "title": "【AI娘名著大乱炖 Ep1】七个AI娘大闹五部名著！思考3分41秒只憋出\"从前有座山\"",
+    "owner": {
+      "name": "北极甜虾-剑心犹在-",
+      "mid": 27336544
+    },
+    "pubdate": 1795431341,
+    "duration": 233
+  },
+  "descriptionSha256": "ab3054161df7b1c57ba2e3cb842e50cc52cde8dc38961932914eb24010c6a0ed",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "【AI娘名著大乱炖 Ep1】七个AI娘大闹五部名著！思考3分41秒只憋出&quot;从前有座山&quot;",
+    "publisher": "北极甜虾-剑心犹在-"
+  }
+}

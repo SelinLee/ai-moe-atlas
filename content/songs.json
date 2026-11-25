@@ -78,7 +78,7 @@
     "id": "big-fish",
     "title": {"zh": "大鱼", "en": "Big Fish", "ja": "大魚"},
     "original": {"credit": "周深 · Zhou Shen", "url": "https://music.apple.com/us/song/1810963487"},
-    "versions": [{"id": "bv1ton46rewv", "type": "mv"}]
+    "versions": [{"id": "bv1ton46rewv", "type": "mv"}, {"id": "bv1ezyrzgedk", "type": "arrangement"}]
   },
   {
     "id": "racing-into-the-night",
@@ -511,5 +511,29 @@
     "title": {"zh": "Mimukauwa Nice Try", "en": "Mimukauwa Nice Try", "ja": "みむかｩわナイストライ"},
     "original": {"credit": "ぬぬぬぬぬぬぬぬぬぬ · 初音ミク", "url": "https://www.youtube.com/watch?v=Ljr2wMSBHqU"},
     "versions": [{"id": "bv1zcnh6ce7t", "type": "cover"}]
+  },
+  {
+    "id": "dscf",
+    "title": {"zh": "妄想感伤代偿联盟", "en": "DSCF (Delusion Sensation Compensation Federation)", "ja": "妄想感傷代償連盟"},
+    "original": {"credit": "DECO*27 · 初音ミク", "url": "https://www.youtube.com/watch?v=8pGRdRhjX3o"},
+    "versions": [{"id": "bv1a9ybzdex7", "type": "cover"}]
+  },
+  {
+    "id": "wish-for-one-heart",
+    "title": {"zh": "愿得一人心", "en": "Wish for One True Heart", "ja": "願得一人心"},
+    "original": {"credit": "李行亮 · Li Hangliang", "url": "https://music.apple.com/us/song/1681558311"},
+    "versions": [{"id": "bv1jsy6ztenb", "type": "cover"}]
+  },
+  {
+    "id": "viva-la-vida-coldplay",
+    "title": {"zh": "Viva La Vida", "en": "Viva La Vida", "ja": "Viva La Vida"},
+    "original": {"credit": "Coldplay", "url": "https://music.apple.com/us/song/1834677611"},
+    "versions": [{"id": "bv1wfynz8ez6", "type": "mv"}]
+  },
+  {
+    "id": "just-the-two-of-us",
+    "title": {"zh": "Just the Two of Us", "en": "Just the Two of Us", "ja": "Just the Two of Us"},
+    "original": {"credit": "Grover Washington, Jr. · Bill Withers", "url": "https://music.apple.com/us/song/321975002"},
+    "versions": [{"id": "bv1kvyezhe2b", "type": "mv"}]
   }
 ]

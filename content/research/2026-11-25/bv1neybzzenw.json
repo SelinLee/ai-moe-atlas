@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:44.590Z",
+  "url": "https://www.bilibili.com/video/BV1neyBzzEnW/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1neyBzzEnW",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1neyBzzEnW",
+    "title": "你就宠着小肥鱼吧！",
+    "owner": {
+      "name": "像素柠柠檬",
+      "mid": 187656225
+    },
+    "pubdate": 1795580068,
+    "duration": 64
+  },
+  "descriptionSha256": "bf0a3b8e6600f72ae7ac6b5021bf1dc943bacef44a47b5297ddd3143fc33fb27",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.428Z",
+    "htmlSha256": "0ebec11064620d1e84049133acb00f988ee5c9a62f2814b51ffe9d67ff7be6d2",
+    "title": "你就宠着小肥鱼吧！",
+    "publisher": "像素柠柠檬"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:45.979Z",
+  "url": "https://www.bilibili.com/video/BV1ZByLzqEqM/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZByLzqEqM",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1ZByLzqEqM",
+    "title": "叙拉古双狼 × GLM娘&Gemini娘 【bilibilionly同人扶持计划】",
+    "owner": {
+      "name": "穿睡衣的小白白",
+      "mid": 10706217
+    },
+    "pubdate": 1795516380,
+    "duration": 37
+  },
+  "descriptionSha256": "703f0b98d93a35333381d3b88170a5572e274c2bfaf7f9f62383368d84edc726",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.415Z",
+    "htmlSha256": "db1a385713d729dd42ee3100f4665eba6625dd6874070b610dabda44b2bad992",
+    "title": "叙拉古双狼 × GLM娘&amp;Gemini娘 【bilibilionly同人扶持计划】",
+    "publisher": "穿睡衣的小白白"
+  }
+}

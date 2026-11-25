@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:45.971Z",
+  "url": "https://www.bilibili.com/video/BV1EuydzSEuE/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1EuydzSEuE",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1EuydzSEuE",
+    "title": "猫猫和大肥鱼的日常之一(◦˙▽˙◦)",
+    "owner": {
+      "name": "不正经的漫画讲师",
+      "mid": 1089169525
+    },
+    "pubdate": 1795484670,
+    "duration": 49
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.415Z",
+    "htmlSha256": "db1a385713d729dd42ee3100f4665eba6625dd6874070b610dabda44b2bad992",
+    "title": "猫猫和大肥鱼的日常之一(◦˙▽˙◦)",
+    "publisher": "不正经的漫画讲师"
+  }
+}

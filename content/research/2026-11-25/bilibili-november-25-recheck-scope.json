@@ -1,0 +1,104 @@
+{
+  "capturedAt": "2026-11-25T08:21:52.301Z",
+  "previousEvidence": "content/research/2026-11-23/bilibili-cumulative-likes-remaining-catalog-and-new-works.json",
+  "currentEvidence": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-new-and-catalog-recheck.json",
+  "requestedCatalogRows": 764,
+  "attemptedCatalogRows": 709,
+  "refreshedRows": 673,
+  "sourceUnavailable": 8,
+  "restricted": 28,
+  "notAttempted": 55,
+  "pendingCandidates": 10,
+  "newRankedRows": 45,
+  "searchQueries": [
+    {
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "observedAt": "2026-11-25T08:20:00.428Z",
+      "httpStatus": 200,
+      "htmlSha256": "0ebec11064620d1e84049133acb00f988ee5c9a62f2814b51ffe9d67ff7be6d2",
+      "unknownCount": 42
+    },
+    {
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+      "observedAt": "2026-11-25T08:20:00.415Z",
+      "httpStatus": 200,
+      "htmlSha256": "db1a385713d729dd42ee3100f4665eba6625dd6874070b610dabda44b2bad992",
+      "unknownCount": 39
+    },
+    {
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "observedAt": "2026-11-25T08:20:00.419Z",
+      "httpStatus": 200,
+      "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+      "unknownCount": 29
+    },
+    {
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%8D%83%E9%97%AE%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "observedAt": "2026-11-25T08:20:00.409Z",
+      "httpStatus": 200,
+      "htmlSha256": "750dcb7935b495300266f4f1c12693c32481ad936090579bb6564e05e9c1147d",
+      "unknownCount": 8
+    },
+    {
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=MiMo%20%E5%A8%98&order=pubdate",
+      "observedAt": "2026-11-25T08:20:03.055Z",
+      "httpStatus": 200,
+      "htmlSha256": "fe0fb9cac01b103cc56101016efe7fce7a7bbfe6713ac601dedc4d5f1f41f989",
+      "unknownCount": 8
+    },
+    {
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E6%99%BA%E8%B0%B1%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+      "observedAt": "2026-11-25T08:20:02.559Z",
+      "httpStatus": 200,
+      "htmlSha256": "9f4296cccb10d96013477fe13eeaac4fc6f2600b68acf9bcc6b187132d4b71da",
+      "unknownCount": 4
+    },
+    {
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1&order=pubdate",
+      "observedAt": "2026-11-25T08:20:05.300Z",
+      "httpStatus": 200,
+      "htmlSha256": "f30a43c2a4493c2eb35429bfc5d1f9e2331ca0379abad7d5c2013cc9d82c772c",
+      "unknownCount": 42
+    },
+    {
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20MV&order=pubdate",
+      "observedAt": "2026-11-25T08:20:02.992Z",
+      "httpStatus": 200,
+      "htmlSha256": "a370c8d4920b9acab5ebfdf3ea1a963a51f210933cbf91c9b64a4eb7a8fd318c",
+      "unknownCount": 39
+    },
+    {
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E8%B1%86%E5%8C%85%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+      "observedAt": "2026-11-25T08:20:07.103Z",
+      "httpStatus": 200,
+      "htmlSha256": "1fa54ada33957e9e761c4a13db84ee19b36eaa870ea0df1e0aee58423c0a6b8c",
+      "unknownCount": 34
+    },
+    {
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Gemini%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "observedAt": "2026-11-25T08:20:08.464Z",
+      "httpStatus": 200,
+      "htmlSha256": "1fc4f53c138d3072691d9cd8c67bde944ae56c3d430f833b002c03d4e568d6fc",
+      "unknownCount": 40
+    },
+    {
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=Grok%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "observedAt": "2026-11-25T08:20:08.319Z",
+      "httpStatus": 200,
+      "htmlSha256": "a3fe8456a74d99badf488009071e1b28364080a36b88f6b9805016b3f60cb937",
+      "unknownCount": 32
+    },
+    {
+      "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E9%98%B6%E8%B7%83%E5%A8%98&order=pubdate",
+      "observedAt": "2026-11-25T08:20:07.010Z",
+      "httpStatus": 200,
+      "htmlSha256": "c2574a905f48688839c43c1a3490fd479ae88257277d49737dd09202450be941",
+      "unknownCount": 3
+    }
+  ],
+  "titleChanges": [
+    "BV1e3sZ67EA3",
+    "BV19RxR65EDu",
+    "BV1jwW46FEj8"
+  ]
+}

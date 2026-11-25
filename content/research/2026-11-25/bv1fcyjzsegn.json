@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:45.973Z",
+  "url": "https://www.bilibili.com/video/BV1fCyJzSEGN/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fCyJzSEGN",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1fCyJzSEGN",
+    "title": "如果AI娘们去旅行",
+    "owner": {
+      "name": "创造world树",
+      "mid": 475552747
+    },
+    "pubdate": 1795403372,
+    "duration": 69
+  },
+  "descriptionSha256": "55ffa4c1ecd9d6f1eb5be975a91c46910bb40fa18785827fbd0ee34b28f3a03d",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.415Z",
+    "htmlSha256": "db1a385713d729dd42ee3100f4665eba6625dd6874070b610dabda44b2bad992",
+    "title": "如果AI娘们去旅行",
+    "publisher": "创造world树"
+  }
+}

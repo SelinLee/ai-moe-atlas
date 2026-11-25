@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:46.679Z",
+  "url": "https://www.bilibili.com/video/BV1chyfzAEYP/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1chyfzAEYP",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1chyfzAEYP",
+    "title": "【AI娘旅行团】等等，去哪儿？",
+    "owner": {
+      "name": "chatgpt小龙娘在运营",
+      "mid": 3546871719004732
+    },
+    "pubdate": 1795568400,
+    "duration": 120
+  },
+  "descriptionSha256": "3e831970327e2609696a3d7db9719640935a3a5a6aaaa932d752312bab16eacc",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "【AI娘旅行团】等等，去哪儿？",
+    "publisher": "chatgpt小龙娘在运营"
+  }
+}

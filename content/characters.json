@@ -3620,5 +3620,229 @@
       "en": "Ninon’s submission permits collection by Blue Fat Fish. The attachment matches the earlier record. This atlas links to the original submission. Public reuse terms await confirmation.",
       "ja": "投稿は藍色大肥魚での収録を許可。添付ファイルは前回の記録と一致。図鑑は原投稿にリンク。公開再利用の条件は確認待ち。"
     }
+  },
+  {
+    "id": "linguanus-tokentaker-deepseek",
+    "entity": "deepseek",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "DeepSeek · Tokentaker 设定 · @linguanus",
+      "en": "DeepSeek · Tokentaker Design · @linguanus",
+      "ja": "DeepSeek · Tokentaker 設定 · @linguanus"
+    },
+    "description": {
+      "zh": "@linguanus 投稿署名的 Tokentaker 系列 DeepSeek 设定与表情稿。",
+      "en": "Tokentaker DeepSeek design and expression studies credited to @linguanus in the submission.",
+      "ja": "投稿で @linguanus にクレジットされる Tokentaker の DeepSeek 設定と表情稿。"
+    },
+    "story": {
+      "zh": "本组 4 张 PNG 与固定档案逐张核对 SHA-256，原始投稿编号为 #139。",
+      "en": "All 4 PNGs match the pinned archive by SHA-256. The original submission is issue #139.",
+      "ja": "この組の PNG 4枚すべてを固定版のアーカイブと SHA-256 で照合。原投稿は #139。"
+    },
+    "features": {
+      "zh": "蓝色卷发、鲸尾、白围裙，参考图有正侧背。",
+      "en": "Blue curls, a whale tail and white apron, with a front, side and back reference.",
+      "ja": "青い巻き髪、クジラの尾、白いエプロン。正面・側面・背面の資料。"
+    },
+    "author": "@linguanus",
+    "authorUrl": "https://x.com/linguanus",
+    "source": "https://github.com/lmy414/ai-girl-stickers/issues/139",
+    "sourceTitle": "Tokentaker · GitHub submission #139",
+    "originalPublication": "https://github.com/lmy414/ai-girl-stickers/issues/139",
+    "sourceStatus": "upstream-chain-verified",
+    "attribution": [
+      {
+        "name": "@linguanus",
+        "url": "https://x.com/linguanus",
+        "role": "credited-submitter",
+        "publication": "https://github.com/lmy414/ai-girl-stickers/issues/139"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/lmy414/ai-girl-stickers/issues/139",
+    "downloadable": false,
+    "bg": "#edf3fc",
+    "color": "#325d9d",
+    "verifiedAt": "2026-11-25",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "投稿人确认有权提交或已获授权，并允许蓝色大肥鱼核实后收录。档案未标明独立原画作者及通用再利用许可，保留投稿署名与原出处。",
+      "en": "The submitter confirms the right or permission to submit the files and permits this receiving archive to collect them. The archive does not identify a separate original artist or general reuse license; the submission credit and source are retained.",
+      "ja": "投稿者は提出権限または許可を確認し、藍色大肥魚での収録を許可。個別の原画作者と一般的な再利用許諾は明記されていないため、投稿のクレジットと出典を記録。"
+    }
+  },
+  {
+    "id": "linguanus-tokentaker-chatgpt",
+    "entity": "chatgpt",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "GPT · Tokentaker 设定 · @linguanus",
+      "en": "GPT · Tokentaker Design · @linguanus",
+      "ja": "GPT · Tokentaker 設定 · @linguanus"
+    },
+    "description": {
+      "zh": "@linguanus 投稿署名的 Tokentaker 系列 GPT 设定与表情稿。",
+      "en": "Tokentaker GPT design and expression studies credited to @linguanus in the submission.",
+      "ja": "投稿で @linguanus にクレジットされる Tokentaker の GPT 設定と表情稿。"
+    },
+    "story": {
+      "zh": "本组 6 张 PNG 与固定档案逐张核对 SHA-256，原始投稿编号为 #139。",
+      "en": "All 6 PNGs match the pinned archive by SHA-256. The original submission is issue #139.",
+      "ja": "この組の PNG 6枚すべてを固定版のアーカイブと SHA-256 で照合。原投稿は #139。"
+    },
+    "features": {
+      "zh": "白发、龙角、翼与尾，配有多种表情和像素放大脸部稿。",
+      "en": "White hair, horns, wings and a tail, with expression studies and a pixel-enlarged face sheet.",
+      "ja": "白髪、竜の角・翼・尾。表情稿とピクセル拡大の顔資料。"
+    },
+    "author": "@linguanus",
+    "authorUrl": "https://x.com/linguanus",
+    "source": "https://github.com/lmy414/ai-girl-stickers/issues/139",
+    "sourceTitle": "Tokentaker · GitHub submission #139",
+    "originalPublication": "https://github.com/lmy414/ai-girl-stickers/issues/139",
+    "sourceStatus": "upstream-chain-verified",
+    "attribution": [
+      {
+        "name": "@linguanus",
+        "url": "https://x.com/linguanus",
+        "role": "credited-submitter",
+        "publication": "https://github.com/lmy414/ai-girl-stickers/issues/139"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/lmy414/ai-girl-stickers/issues/139",
+    "downloadable": false,
+    "bg": "#eeedf2",
+    "color": "#645e7b",
+    "verifiedAt": "2026-11-25",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "投稿人确认有权提交或已获授权，并允许蓝色大肥鱼核实后收录。档案未标明独立原画作者及通用再利用许可，保留投稿署名与原出处。",
+      "en": "The submitter confirms the right or permission to submit the files and permits this receiving archive to collect them. The archive does not identify a separate original artist or general reuse license; the submission credit and source are retained.",
+      "ja": "投稿者は提出権限または許可を確認し、藍色大肥魚での収録を許可。個別の原画作者と一般的な再利用許諾は明記されていないため、投稿のクレジットと出典を記録。"
+    }
+  },
+  {
+    "id": "linguanus-tokentaker-claude",
+    "entity": "claude",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Claude · Tokentaker 设定 · @linguanus",
+      "en": "Claude · Tokentaker Design · @linguanus",
+      "ja": "Claude · Tokentaker 設定 · @linguanus"
+    },
+    "description": {
+      "zh": "@linguanus 投稿署名的 Tokentaker 系列 Claude 设定与表情稿。",
+      "en": "Tokentaker Claude design and expression studies credited to @linguanus in the submission.",
+      "ja": "投稿で @linguanus にクレジットされる Tokentaker の Claude 設定と表情稿。"
+    },
+    "story": {
+      "zh": "本组 12 张 PNG 与固定档案逐张核对 SHA-256，原始投稿编号为 #139。",
+      "en": "All 12 PNGs match the pinned archive by SHA-256. The original submission is issue #139.",
+      "ja": "この組の PNG 12枚すべてを固定版のアーカイブと SHA-256 で照合。原投稿は #139。"
+    },
+    "features": {
+      "zh": "橙色长发、日芒花饰与白衣，含脸部正侧、表情和细节稿。",
+      "en": "Orange hair, sunburst ornaments and white attire, with face views, expressions and detail studies.",
+      "ja": "橙色の髪、太陽形の飾り、白い衣装。顔の正側面・表情・細部の資料。"
+    },
+    "author": "@linguanus",
+    "authorUrl": "https://x.com/linguanus",
+    "source": "https://github.com/lmy414/ai-girl-stickers/issues/139",
+    "sourceTitle": "Tokentaker · GitHub submission #139",
+    "originalPublication": "https://github.com/lmy414/ai-girl-stickers/issues/139",
+    "sourceStatus": "upstream-chain-verified",
+    "attribution": [
+      {
+        "name": "@linguanus",
+        "url": "https://x.com/linguanus",
+        "role": "credited-submitter",
+        "publication": "https://github.com/lmy414/ai-girl-stickers/issues/139"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/lmy414/ai-girl-stickers/issues/139",
+    "downloadable": false,
+    "bg": "#fff0e5",
+    "color": "#a25829",
+    "verifiedAt": "2026-11-25",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "投稿人确认有权提交或已获授权，并允许蓝色大肥鱼核实后收录。档案未标明独立原画作者及通用再利用许可，保留投稿署名与原出处。",
+      "en": "The submitter confirms the right or permission to submit the files and permits this receiving archive to collect them. The archive does not identify a separate original artist or general reuse license; the submission credit and source are retained.",
+      "ja": "投稿者は提出権限または許可を確認し、藍色大肥魚での収録を許可。個別の原画作者と一般的な再利用許諾は明記されていないため、投稿のクレジットと出典を記録。"
+    }
+  },
+  {
+    "id": "linguanus-tokentaker-gemini",
+    "entity": "gemini",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Gemini · Tokentaker 设定 · @linguanus",
+      "en": "Gemini · Tokentaker Design · @linguanus",
+      "ja": "Gemini · Tokentaker 設定 · @linguanus"
+    },
+    "description": {
+      "zh": "@linguanus 投稿署名的 Tokentaker 系列 Gemini 设定与表情稿。",
+      "en": "Tokentaker Gemini design and expression studies credited to @linguanus in the submission.",
+      "ja": "投稿で @linguanus にクレジットされる Tokentaker の Gemini 設定と表情稿。"
+    },
+    "story": {
+      "zh": "本组 11 张 PNG 与固定档案逐张核对 SHA-256，原始投稿编号为 #139。",
+      "en": "All 11 PNGs match the pinned archive by SHA-256. The original submission is issue #139.",
+      "ja": "この組の PNG 11枚すべてを固定版のアーカイブと SHA-256 で照合。原投稿は #139。"
+    },
+    "features": {
+      "zh": "蓝紫渐变长发、猫耳、星饰，含多张头部与轮廓比较稿。",
+      "en": "Blue-to-purple hair, cat ears and star ornaments, with several head and silhouette studies.",
+      "ja": "青紫のグラデーションの髪、猫耳、星の飾り。頭部・輪郭の比較資料。"
+    },
+    "author": "@linguanus",
+    "authorUrl": "https://x.com/linguanus",
+    "source": "https://github.com/lmy414/ai-girl-stickers/issues/139",
+    "sourceTitle": "Tokentaker · GitHub submission #139",
+    "originalPublication": "https://github.com/lmy414/ai-girl-stickers/issues/139",
+    "sourceStatus": "upstream-chain-verified",
+    "attribution": [
+      {
+        "name": "@linguanus",
+        "url": "https://x.com/linguanus",
+        "role": "credited-submitter",
+        "publication": "https://github.com/lmy414/ai-girl-stickers/issues/139"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/lmy414/ai-girl-stickers/issues/139",
+    "downloadable": false,
+    "bg": "#eee9fb",
+    "color": "#6253a2",
+    "verifiedAt": "2026-11-25",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "投稿人确认有权提交或已获授权，并允许蓝色大肥鱼核实后收录。档案未标明独立原画作者及通用再利用许可，保留投稿署名与原出处。",
+      "en": "The submitter confirms the right or permission to submit the files and permits this receiving archive to collect them. The archive does not identify a separate original artist or general reuse license; the submission credit and source are retained.",
+      "ja": "投稿者は提出権限または許可を確認し、藍色大肥魚での収録を許可。個別の原画作者と一般的な再利用許諾は明記されていないため、投稿のクレジットと出典を記録。"
+    }
   }
 ]

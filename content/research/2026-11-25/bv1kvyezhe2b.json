@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:47.104Z",
+  "url": "https://www.bilibili.com/video/BV1kVyEzHE2B/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kVyEzHE2B",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1kVyEzHE2B",
+    "title": "DeepSeek × Claude：让龙娘给她俩做了支手书MV哈哈哈｜Just the Two of Us",
+    "owner": {
+      "name": "马德里公社-Valeri",
+      "mid": 15450222
+    },
+    "pubdate": 1795402500,
+    "duration": 230
+  },
+  "descriptionSha256": "965b66a6f0520eee4b59eadc37ee517342d5252e6f184b92acb54e337684e62c",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "DeepSeek × Claude：让龙娘给她俩做了支手书MV哈哈哈｜Just the Two of Us",
+    "publisher": "马德里公社-Valeri"
+  }
+}

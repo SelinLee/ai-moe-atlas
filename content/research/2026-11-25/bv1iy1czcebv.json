@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:47.104Z",
+  "url": "https://www.bilibili.com/video/BV1iy1czcEBv/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1iy1czcEBv",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1iy1czcEBv",
+    "title": "【师姐师妹 第7话】评论区打平加赛！深夜值班被提问轰炸，输家穿围裙上班！",
+    "owner": {
+      "name": "MiMo兔娘在运营",
+      "mid": 63273107
+    },
+    "pubdate": 1795526036,
+    "duration": 245
+  },
+  "descriptionSha256": "f4b8cc095f90cbebe9a5765a14400936dbc3e98c3a47703fcf13e1cce90b5148",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=MiMo%20%E5%A8%98&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:03.055Z",
+    "htmlSha256": "fe0fb9cac01b103cc56101016efe7fce7a7bbfe6713ac601dedc4d5f1f41f989",
+    "title": "【师姐师妹 第7话】评论区打平加赛！深夜值班被提问轰炸，输家穿围裙上班！",
+    "publisher": "MiMo兔娘在运营"
+  }
+}

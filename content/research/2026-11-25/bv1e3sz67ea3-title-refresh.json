@@ -1,0 +1,24 @@
+{
+  "url": "https://www.bilibili.com/video/BV1e3sZ67EA3/",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:12.385Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1e3sZ67EA3",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1e3sZ67EA3",
+    "title": "grok的脑袋被卡进购物车里了！【AI娘的日常01】",
+    "owner": {
+      "name": "Minimax战略型海螺",
+      "mid": 3632315729185392
+    },
+    "pubdate": 1793257301,
+    "duration": 207
+  },
+  "descriptionSha256": "06abe7c9c46fb425c51ca5e1cddba597a6633d8ec0ab3ea5226ebc115ad8b381",
+  "previousEvidence": {
+    "path": "content/research/2026-11-07/bv1e3sz67ea3.json",
+    "sha256": "6b74b44a7c0fbeead4e93f97a258d8f667f888810023a2508e9295bb353312ab",
+    "kind": "browser-metadata-extract"
+  },
+  "previousTitle": "grok的脑袋被卡进购物车里了！AI娘的日常01【up动画】"
+}

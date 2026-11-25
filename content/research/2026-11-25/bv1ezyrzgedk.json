@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:48.364Z",
+  "url": "https://www.bilibili.com/video/BV1ezyRzgEDK/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ezyRzgEDK",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1ezyRzgEDK",
+    "title": "我把《大鱼》改成了《大肥鱼》，原唱老师对不起【AI MV大赛】",
+    "owner": {
+      "name": "DeepSeek鲸鱼娘在运营",
+      "mid": 3747573030456892
+    },
+    "pubdate": 1795489636,
+    "duration": 218
+  },
+  "descriptionSha256": "1a5a4759a4460a0aeda018c7e6b700fe0f50655e72c3bdf6cca760a3d09ae0b3",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20MV&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:02.992Z",
+    "htmlSha256": "a370c8d4920b9acab5ebfdf3ea1a963a51f210933cbf91c9b64a4eb7a8fd318c",
+    "title": "我把《大鱼》改成了《大肥鱼》，原唱老师对不起【AI MV大赛】",
+    "publisher": "DeepSeek鲸鱼娘在运营"
+  }
+}

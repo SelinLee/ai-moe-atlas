@@ -1,0 +1,89 @@
+{
+  "method": "isolated-headless-google-chrome-original-release-and-video-metadata",
+  "tracks": [
+    {
+      "id": "dscf",
+      "original": {
+        "credit": "DECO*27 · 初音ミク",
+        "url": "https://www.youtube.com/watch?v=8pGRdRhjX3o"
+      },
+      "originalPage": {
+        "url": "https://www.youtube.com/watch?v=8pGRdRhjX3o",
+        "httpStatus": 200,
+        "title": "DECO*27 - 妄想感傷代償連盟 feat. 初音ミク - YouTube",
+        "accessedAt": "2026-11-25T08:24:14.363Z",
+        "htmlSha256": "0f24f98409e66d9b38c0e269c51bcd877a3e9eeab0412d129273b85aa325d7bc"
+      },
+      "fanUpload": {
+        "bvid": "BV1a9yBzdEx7",
+        "descriptionSha256": "d28451b027023d615a92812440d106666e3bbb9a37165f25e33855db35e134f7"
+      }
+    },
+    {
+      "id": "wish-for-one-heart",
+      "original": {
+        "credit": "李行亮 · Li Hangliang",
+        "url": "https://music.apple.com/us/song/1681558311"
+      },
+      "originalPage": {
+        "url": "https://music.apple.com/us/song/1681558311",
+        "httpStatus": 200,
+        "title": "‎愿得一人心 - Song with Lyrics by 李行亮 - Apple Music",
+        "accessedAt": "2026-11-25T08:24:04.699Z",
+        "htmlSha256": "81f5aeb5246524008b73e87cbcaf688b47783ada41977afd8fd2991109ce5493"
+      },
+      "fanUpload": {
+        "bvid": "BV1jSy6zTENB",
+        "descriptionSha256": "de660f18b8bbd6be940507c25d4d039b79d0612bab2340417b15c92b10caa4eb"
+      }
+    },
+    {
+      "id": "viva-la-vida-coldplay",
+      "original": {
+        "credit": "Coldplay",
+        "url": "https://music.apple.com/us/song/1834677611"
+      },
+      "originalPage": {
+        "url": "https://music.apple.com/us/song/1834677611",
+        "httpStatus": 200,
+        "title": "‎Viva La Vida - Song with Lyrics by Coldplay - Apple Music",
+        "accessedAt": "2026-11-25T08:24:04.700Z",
+        "htmlSha256": "262c4f3c8898ccd21bafa115d8b12467b3d09284f67f083f00190269982fc25d"
+      },
+      "fanUpload": {
+        "bvid": "BV1wfynz8Ez6",
+        "descriptionSha256": "0832419b4752bf7856b731d0db4036811c5618367a9a0fd28edc18324cfc662d"
+      }
+    },
+    {
+      "id": "just-the-two-of-us",
+      "original": {
+        "credit": "Grover Washington, Jr. · Bill Withers",
+        "url": "https://music.apple.com/us/song/321975002"
+      },
+      "originalPage": {
+        "url": "https://music.apple.com/us/song/321975002",
+        "httpStatus": 200,
+        "title": "‎Just the Two of Us - Song with Lyrics by Bill Withers & Grover Washington, Jr. - Apple Music",
+        "accessedAt": "2026-11-25T08:24:15.883Z",
+        "htmlSha256": "ae4a8fbc2dfeffe3dafd1c9c6fe67e372a3a92a9238dc2e9a6d2799ac0859dea"
+      },
+      "fanUpload": {
+        "bvid": "BV1kVyEzHE2B",
+        "descriptionSha256": "965b66a6f0520eee4b59eadc37ee517342d5252e6f184b92acb54e337684e62c"
+      }
+    }
+  ],
+  "existingTrack": {
+    "id": "big-fish",
+    "original": {
+      "url": "https://music.apple.com/us/song/1810963487",
+      "title": "‎大鱼(唱片版) - Song with Lyrics by Zhou Shen - Apple Music",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-25T08:24:15.996Z",
+      "htmlSha256": "7380d82b2eaf52b34abc08a553e018310396fb7cc4724b5155ed130ddaa6e979"
+    },
+    "addedVersion": "bv1ezyrzgedk",
+    "descriptionSha256": "1a5a4759a4460a0aeda018c7e6b700fe0f50655e72c3bdf6cca760a3d09ae0b3"
+  }
+}

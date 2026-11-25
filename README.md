@@ -22,11 +22,11 @@
 ## 资源目录
 
 <!-- category-picks:characters -->
-**[🎨 角色图鉴](#characters)** · 58 个词条\
+**[🎨 角色图鉴](#characters)** · 62 个词条\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-mimo/) · [溟月 · 上善无形](https://selinlee.github.io/ai-moe-atlas/zh/characters/shangshan-whale/)
 
 <!-- category-picks:songs -->
-**[🎵 歌曲](#songs)** · 77 首曲目\
+**[🎵 歌曲](#songs)** · 81 首曲目\
 [人是猫 · 大肥鱼翻唱](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · 动画 MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [烂奇迹 · 大肥鱼翻唱](https://www.bilibili.com/video/BV1fzs26bETg/)
 
 <!-- category-picks:references -->
@@ -34,15 +34,15 @@
 [Claude 角色参考图](https://selinlee.github.io/ai-moe-atlas/zh/references/#claude) · [DeepSeek Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#deepseek) · [千问 Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#qwen)
 
 <!-- category-picks:animations -->
-**[🎬 动画与视频二创](#animations)** · 764 条记录\
+**[🎬 动画与视频二创](#animations)** · 809 条记录\
 [如果聊天窗口就是她的整个世界](https://www.bilibili.com/video/BV1xCai6aE9g/) · [败犬 AI 太多了！· 正式 PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo 娘角色 PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 桌宠与交互项目](#desktop-pets)** · 123 个项目\
+**[🐾 桌宠与交互项目](#desktop-pets)** · 127 个项目\
 [CrossPet · 跨 AI 桌宠](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D 编程桌宠](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [MIMO 桌宠 · Android 悬浮兔娘](https://github.com/ABL949/mimo-pet/blob/0e32407e04138cadad7619f6d6dd375c2799a1a2/README.md)
 
 <!-- category-picks:sources -->
-**[📚 作者作品与出处](#sources)** · 96 条来源\
+**[📚 作者作品与出处](#sources)** · 99 条来源\
 [上善无形 · 鲸鱼娘原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · AI 娘化图集](https://www.pixiv.net/artworks/148186519) · [甶丶 · MiMo 立绘与三视图投稿](https://github.com/lmy414/ai-girl-stickers/issues/35)
 
 <a id="characters"></a>
@@ -57,6 +57,8 @@
 
 Ninon 的 Claude 娘设定 · [女仆版](https://selinlee.github.io/ai-moe-atlas/zh/characters/ninon-claude-maid/) · [橘白礼服版](https://selinlee.github.io/ai-moe-atlas/zh/characters/ninon-claude-orange-dress/)。礼服原型、作者的独立壁纸与派生设定图各有出处。 [原型出处](content/research/2026-11-23/claude-orange-dress-source-chain.json)
 
+Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh/characters/linguanus-tokentaker-deepseek/) · [GPT](https://selinlee.github.io/ai-moe-atlas/zh/characters/linguanus-tokentaker-chatgpt/) · [Claude](https://selinlee.github.io/ai-moe-atlas/zh/characters/linguanus-tokentaker-claude/) · [Gemini](https://selinlee.github.io/ai-moe-atlas/zh/characters/linguanus-tokentaker-gemini/) · [33 张原图与投稿附件核对](content/research/2026-11-25/linguanus-tokentaker-submission-and-pinned-artwork.json)
+
 [在线筛选](https://selinlee.github.io/ai-moe-atlas/zh/#catalog) · [三语角色资料](content/characters.json) · [产品索引](content/entities.json)
 
 <a id="songs"></a>
@@ -69,22 +71,24 @@ Ninon 的 Claude 娘设定 · [女仆版](https://selinlee.github.io/ai-moe-atla
 
 | 曲目 | 原曲 / 原唱 | 二创代表 | B 站点赞 |
 | --- | --- | --- | ---: |
-| [人是猫](https://selinlee.github.io/ai-moe-atlas/zh/songs/#humans-are-cats) | 张卡斯 · 洛天依 | 大肥鱼翻唱《人是猫》真完整版 | 462,054 |
-| [Trouble Maker](https://selinlee.github.io/ai-moe-atlas/zh/songs/#trouble-maker-duo) | Trouble Maker · HyunA &amp; Jang Hyun-seung | 奶龙与豆包《Trouble Maker》· Token 没啦 | 241,078 |
-| [Let Me Go · 大肥鱼摸鱼歌](https://selinlee.github.io/ai-moe-atlas/zh/songs/#let-me-go) | 星落落_oi | 大肥鱼单曲《Let Me Go》动画 PV | 131,050 |
-| [world.execute(me);](https://selinlee.github.io/ai-moe-atlas/zh/songs/#world-execute-me) | Mili | 如果聊天窗口就是她的整个世界 | 112,273 |
-| [烂奇迹](https://selinlee.github.io/ai-moe-atlas/zh/songs/#rotting-miracle) | 杨羊烊Koi | 大肥鱼翻唱《烂奇迹》 | 82,056 |
-| [海阔天空](https://selinlee.github.io/ai-moe-atlas/zh/songs/#boundless-oceans-vast-skies) | Beyond | 大肥鱼翻唱《海阔天空》 | 59,390 |
-| [朋友的酒](https://selinlee.github.io/ai-moe-atlas/zh/songs/#friends-wine) | 李晓杰 · Li Xiaojie | 大肥鱼翻唱《朋友的酒》DJ 版 | 54,419 |
-| [Billie Jean](https://selinlee.github.io/ai-moe-atlas/zh/songs/#billie-jean) | Michael Jackson | 大肥鱼翻唱《Billie Jean》 | 52,587 |
+| [人是猫](https://selinlee.github.io/ai-moe-atlas/zh/songs/#humans-are-cats) | 张卡斯 · 洛天依 | 大肥鱼翻唱《人是猫》真完整版 | 463,807 |
+| [Trouble Maker](https://selinlee.github.io/ai-moe-atlas/zh/songs/#trouble-maker-duo) | Trouble Maker · HyunA &amp; Jang Hyun-seung | 奶龙与豆包《Trouble Maker》· Token 没啦 | 243,982 |
+| [Let Me Go · 大肥鱼摸鱼歌](https://selinlee.github.io/ai-moe-atlas/zh/songs/#let-me-go) | 星落落_oi | 大肥鱼单曲《Let Me Go》动画 PV | 132,242 |
+| [world.execute(me);](https://selinlee.github.io/ai-moe-atlas/zh/songs/#world-execute-me) | Mili | 如果聊天窗口就是她的整个世界 | 112,479 |
+| [烂奇迹](https://selinlee.github.io/ai-moe-atlas/zh/songs/#rotting-miracle) | 杨羊烊Koi | 大肥鱼翻唱《烂奇迹》 | 90,335 |
+| [海阔天空](https://selinlee.github.io/ai-moe-atlas/zh/songs/#boundless-oceans-vast-skies) | Beyond | 大肥鱼翻唱《海阔天空》 | 59,467 |
+| [朋友的酒](https://selinlee.github.io/ai-moe-atlas/zh/songs/#friends-wine) | 李晓杰 · Li Xiaojie | 大肥鱼翻唱《朋友的酒》DJ 版 | 54,492 |
+| [Billie Jean](https://selinlee.github.io/ai-moe-atlas/zh/songs/#billie-jean) | Michael Jackson | 大肥鱼翻唱《Billie Jean》 | 52,644 |
 | [Mimukauwa Nice Try](https://selinlee.github.io/ai-moe-atlas/zh/songs/#mimukauwa-nice-try) | ぬぬぬぬぬぬぬぬぬぬ · 初音ミク | Mimukauwa Nice Try · 大肥鱼翻唱动画 | 48,419 |
-| [雨爱](https://selinlee.github.io/ai-moe-atlas/zh/songs/#rainie-love) | 楊丞琳 · Rainie Yang | 鲸鱼娘翻唱《雨爱》司凤版 | 39,592 |
+| [雨爱](https://selinlee.github.io/ai-moe-atlas/zh/songs/#rainie-love) | 楊丞琳 · Rainie Yang | 鲸鱼娘翻唱《雨爱》司凤版 | 40,097 |
 
 [打开完整歌曲榜与全部版本](https://selinlee.github.io/ai-moe-atlas/zh/songs/) · [点赞观测证据](content/research/)
 
 <!-- song-ranking:end -->
 
 [原曲出处](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲与版本核对](content/research/2026-11-20/song-originals-and-fan-versions.json) · [片头曲与二创用曲核对](content/research/2026-11-20/character-songs-and-opening-credits.json) · [舞蹈与歌词 MV 用曲核对](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [《温室效应》原曲与 MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [原曲与二创核对](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [豆包翻唱与片尾曲出处](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [千问、MiMo 与舞蹈用曲](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [《APT.》与《删了一百遍》的用曲出处](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [翻唱与游戏原曲出处](content/research/2026-11-22/november-cover-song-originals-and-versions.json) · [Charlotte、bloom 与 unhappy 的用曲出处](content/research/2026-11-22/november-charlotte-bloom-and-remix-evidence.json) · [周刊和原声用曲核对](content/research/2026-11-22/november-mili-and-game-soundtrack-verification.json) · [《烂奇迹》原曲与翻唱核对](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json) · [三首原曲与二创用曲](content/research/2026-11-23/november-renai-numb-and-dragon-maid-originals.json) · [FIRESTARTER、Bad Apple!! 与翻唱出处](content/research/2026-11-23/november-firestarter-bad-apple-and-cover-attribution.json) · [《Trouble Maker》与《朋友的酒》原曲](content/research/2026-11-23/november-trouble-maker-and-friends-wine-originals.json)
+
+[四首原曲及《大鱼》改词版本](content/research/2026-11-25/november-25-song-originals-and-versions.json)
 
 [《千问帮我》等五首原曲与翻唱](content/research/2026-11-23/five-original-songs-and-cover-sources.json)
 
@@ -104,47 +108,51 @@ Ninon 的 Claude 娘设定 · [女仆版](https://selinlee.github.io/ai-moe-atla
 
 这里列出 B 站官方累计点赞前十名。同赞按发布日期、BV 号排序。每条数据附官方链接和观测时刻。
 
-[打开在线完整榜单](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation) · [点赞观测证据](content/research/2026-11-23/bilibili-cumulative-likes-partial-catalog-recheck.json) · [历史快照](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#like-evidence)
+[打开在线完整榜单](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation) · [点赞观测证据](content/research/2026-11-25/bilibili-cumulative-likes-november-25-new-and-catalog-recheck.json) · [历史快照](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#like-evidence)
 
 [看最新投稿](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation&sort=recent) · [看 MV](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation&type=mv) · [看剧情短片](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation&type=story) · [看舞蹈](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation&type=dance) · [待核点赞的候选](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#pending-animation-evidence)
 
 | 排名 | 作品 | 发布者 | 累计点赞（北京时间） |
 | ---: | --- | --- | ---: |
-| 1 | [大肥鱼翻唱《人是猫》真完整版](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [462,054](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) · 2026-11-23 00:52:28 |
-| 2 | [大肥鱼翻唱《人是猫》完整版](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [377,543](https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7) · 2026-11-23 00:52:28 |
-| 3 | [大肥鱼，你怎么穿着 Claude 的衣服](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | [329,304](https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV) · 2026-11-23 00:52:28 |
-| 4 | [饿了好几个小时的大肥鱼](https://www.bilibili.com/video/BV1GsWv6jErZ/) | 东洋雪莲 | [306,501](https://api.bilibili.com/x/web-interface/view?bvid=BV1GsWv6jErZ) · 2026-11-23 00:52:56 |
-| 5 | [新宿决战 · DeepSeek 娘对豆包](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [254,669](https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz) · 2026-11-23 00:52:28 |
-| 6 | [奶龙与豆包《Trouble Maker》· Token 没啦](https://www.bilibili.com/video/BV1stsZ6iESz/) | 青时晚 | [241,078](https://api.bilibili.com/x/web-interface/view?bvid=BV1stsZ6iESz) · 2026-11-23 00:52:32 |
-| 7 | [大肥鱼：自由美利鲸](https://www.bilibili.com/video/BV1YdxR6CE79/) | 真誠最高 | [227,739](https://api.bilibili.com/x/web-interface/view?bvid=BV1YdxR6CE79) · 2026-11-23 00:52:31 |
-| 8 | [新角色：大肥鱼](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | [208,523](https://api.bilibili.com/x/web-interface/view?bvid=BV1gVHA6mEbS) · 2026-11-23 00:52:28 |
-| 9 | [大肥鱼 · 炸盆子](https://www.bilibili.com/video/BV15X3n6mEWy/) | 蒙德砍壬 | [208,327](https://api.bilibili.com/x/web-interface/view?bvid=BV15X3n6mEWy) · 2026-11-23 00:52:33 |
-| 10 | [小傻龙 · 我养不起大肥鱼了](https://www.bilibili.com/video/BV1VExV6ZEd3/) | 小陈的脚凑凑的 | [204,886](https://api.bilibili.com/x/web-interface/view?bvid=BV1VExV6ZEd3) · 2026-11-23 00:52:59 |
+| 1 | [大肥鱼翻唱《人是猫》真完整版](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [463,807](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) · 2026-11-25 16:19:56 |
+| 2 | [大肥鱼翻唱《人是猫》完整版](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [377,963](https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7) · 2026-11-25 16:19:56 |
+| 3 | [大肥鱼，你怎么穿着 Claude 的衣服](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | [330,476](https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV) · 2026-11-25 16:19:56 |
+| 4 | [饿了好几个小时的大肥鱼](https://www.bilibili.com/video/BV1GsWv6jErZ/) | 东洋雪莲 | [310,285](https://api.bilibili.com/x/web-interface/view?bvid=BV1GsWv6jErZ) · 2026-11-25 16:19:56 |
+| 5 | [新宿决战 · DeepSeek 娘对豆包](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [255,163](https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz) · 2026-11-25 16:19:56 |
+| 6 | [奶龙与豆包《Trouble Maker》· Token 没啦](https://www.bilibili.com/video/BV1stsZ6iESz/) | 青时晚 | [243,982](https://api.bilibili.com/x/web-interface/view?bvid=BV1stsZ6iESz) · 2026-11-25 16:19:57 |
+| 7 | [大肥鱼：自由美利鲸](https://www.bilibili.com/video/BV1YdxR6CE79/) | 真誠最高 | [232,378](https://api.bilibili.com/x/web-interface/view?bvid=BV1YdxR6CE79) · 2026-11-25 16:19:57 |
+| 8 | [大肥鱼 · 炸盆子](https://www.bilibili.com/video/BV15X3n6mEWy/) | 蒙德砍壬 | [215,809](https://api.bilibili.com/x/web-interface/view?bvid=BV15X3n6mEWy) · 2026-11-25 16:19:57 |
+| 9 | [新角色：大肥鱼](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | [209,590](https://api.bilibili.com/x/web-interface/view?bvid=BV1gVHA6mEbS) · 2026-11-25 16:19:57 |
+| 10 | [小傻龙 · 我养不起大肥鱼了](https://www.bilibili.com/video/BV1VExV6ZEd3/) | 小陈的脚凑凑的 | [206,343](https://api.bilibili.com/x/web-interface/view?bvid=BV1VExV6ZEd3) · 2026-11-25 16:19:57 |
 
 <!-- animation-ranking:end -->
 
-本轮复查其余 159 条旧作，152 条取得新点赞，另 7 条沿用上次成功值。两轮合计刷新已有 739 条中的 732 条。新增 25 条入榜作品，10 条候选仍待核。 [本轮点赞核对](content/research/2026-11-23/bilibili-remaining-catalog-recheck-scope.json)
+2026-11-25 已尝试复查 709 条旧作，673 条刷新。8 条未返回视频数据，28 条查询访问受限，另外 55 条未请求，均沿用上次有效观测。新增 45 条入榜作品，10 条候选待核。 [本轮点赞核对](content/research/2026-11-25/bilibili-november-25-recheck-scope.json)
 
 <a id="desktop-pets"></a>
 
 ### 🐾 桌宠与交互项目
 
-按 2026-11-23 核对的 GitHub Star 数展示前十。同分按仓库名排序。
+按最近一次观测的 GitHub Star 数展示前十；前 15 个项目已于 2026-11-25 复查。同分按仓库名排序。
 
 | 排名 | 项目 | GitHub Star |
 | ---: | --- | ---: |
-| 1 | [cc-haha · 任务状态桌宠](https://github.com/NanmiCoder/cc-haha/blob/4f1e07aa38a90ee2270c3c6043f07a121a78d46a/README.md) | [15,521](https://github.com/NanmiCoder/cc-haha) |
-| 2 | [小鲸鱼 · DeepSeek 余额挂件](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/blob/5247dd6813d6e4430728f39ccc63d43cda046022/README.md) | [7,425](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) |
-| 3 | [Clawd on Desk · 鲸鱼娘主题](https://github.com/rullerzhou-afk/clawd-on-desk/blob/323da9f17a9872e1b1ceca6c9c9783e0eaa83a72/README.zh-CN.md) | [6,803](https://github.com/rullerzhou-afk/clawd-on-desk) |
-| 4 | [DSH Pet · 大肥鱼动画桌宠](https://github.com/PC2005-cloud/dsh-pet/blob/29a5af50f60a63caeeace66a514f47ed3198d0fa/README.md) | [6,621](https://github.com/PC2005-cloud/dsh-pet) |
-| 5 | [Petdex · 动画桌宠目录与工具](https://github.com/crafter-station/petdex/blob/146ed0b86fc930ee81d48f7f6b1dc1e2be1e8135/README.md) | [4,376](https://github.com/crafter-station/petdex) |
-| 6 | [Coopanion · 桌宠与形象包宿主](https://github.com/Pal-AI-Lab/Coopanion/blob/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/README_zh.md) | [3,722](https://github.com/Pal-AI-Lab/Coopanion) |
-| 7 | [EchoBird · 随用量成长的 Token 桌宠](https://github.com/edison7009/EchoBird/blob/c03838cc49678e038a3ead5b0c77863be14a5cfc/README.md) | [3,579](https://github.com/edison7009/EchoBird) |
-| 8 | [桌面大肥鱼 · dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md) | [3,344](https://github.com/MerZlin/dsh-pet-indesktop) |
-| 9 | [OpenPets · 本地桌宠平台](https://github.com/OpenPetsHQ/openpets/blob/9153e40ed37617243f903b074161d7df4bbd27b0/README.md) | [1,402](https://github.com/OpenPetsHQ/openpets) |
-| 10 | [CrossPet · 跨 AI 桌宠](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | [545](https://github.com/lokicorvus/crosspet) |
+| 1 | [cc-haha · 任务状态桌宠](https://github.com/NanmiCoder/cc-haha/blob/4f1e07aa38a90ee2270c3c6043f07a121a78d46a/README.md) | [15,551](https://github.com/NanmiCoder/cc-haha) |
+| 2 | [小鲸鱼 · DeepSeek 余额挂件](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/blob/5247dd6813d6e4430728f39ccc63d43cda046022/README.md) | [7,471](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) |
+| 3 | [Clawd on Desk · 鲸鱼娘主题](https://github.com/rullerzhou-afk/clawd-on-desk/blob/323da9f17a9872e1b1ceca6c9c9783e0eaa83a72/README.zh-CN.md) | [6,811](https://github.com/rullerzhou-afk/clawd-on-desk) |
+| 4 | [DSH Pet · 大肥鱼动画桌宠](https://github.com/PC2005-cloud/dsh-pet/blob/29a5af50f60a63caeeace66a514f47ed3198d0fa/README.md) | [6,712](https://github.com/PC2005-cloud/dsh-pet) |
+| 5 | [Petdex · 动画桌宠目录与工具](https://github.com/crafter-station/petdex/blob/146ed0b86fc930ee81d48f7f6b1dc1e2be1e8135/README.md) | [4,377](https://github.com/crafter-station/petdex) |
+| 6 | [Coopanion · 桌宠与形象包宿主](https://github.com/Pal-AI-Lab/Coopanion/blob/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/README_zh.md) | [3,818](https://github.com/Pal-AI-Lab/Coopanion) |
+| 7 | [EchoBird · 随用量成长的 Token 桌宠](https://github.com/edison7009/EchoBird/blob/c03838cc49678e038a3ead5b0c77863be14a5cfc/README.md) | [3,586](https://github.com/edison7009/EchoBird) |
+| 8 | [桌面大肥鱼 · dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md) | [3,360](https://github.com/MerZlin/dsh-pet-indesktop) |
+| 9 | [OpenPets · 本地桌宠平台](https://github.com/OpenPetsHQ/openpets/blob/9153e40ed37617243f903b074161d7df4bbd27b0/README.md) | [1,408](https://github.com/OpenPetsHQ/openpets) |
+| 10 | [CrossPet · 跨 AI 桌宠](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | [568](https://github.com/lokicorvus/crosspet) |
 
-[在线浏览全部桌宠与交互项目](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-23/github-interactive-stars-deepfish-and-pixel-whale.json)
+[在线浏览全部桌宠与交互项目](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-25/github-interactive-stars-november-25-new-projects.json)
+
+新增桌宠 · [DSH Pet · Hermes 原生桌宠插件](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#yucode-hermes-dsh-pet) · [DeepSeek Pet · macOS 精灵帧版](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#teochenglim-native-whale-pet) · [蓝色大肥鱼 · macOS 桌宠移植](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#mrbakerboy-deepseek-macos-pet) · [小鲸鱼桌宠 · Flash / Pro 换装](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#nailiang-little-whale-standalone)
+Hermes 桌宠插件、macOS 精灵帧版等新增项目附固定版说明。
+
 
 新增桌宠 · [OpenCode 大肥鱼](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#opencode-dafeiyu-pixel-whale) · [DeepFish Live2D](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#rockau-deepfish-live2d) · [Desktop Pet 角色包](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#tonyna-anime-desktop-pet)。每个条目附固定版说明和适用的素材条件。
 
@@ -268,6 +276,7 @@ Ninon 的 Claude 娘设定 · [女仆版](https://selinlee.github.io/ai-moe-atla
 
 | 时间 / 状态 | 进展 |
 | --- | --- |
+| 2026-11-25 · Tokentaker 原图与新二创 | 核对 33 张附件及 106 段共享兼容动画。新增 45 条二创、4 首曲目、4 个角色词条、3 条出处和 4 个桌宠项目。刷新 673 条旧作。 |
 | 2026-11-23 · 补查点赞与 Claude 设定 | 补查 159 条旧作，刷新 152 条。新增 25 条二创、5 首曲目、2 个角色词条、2 条出处及 3 个桌宠项目。 |
 | 2026-11-23 · 千问 CC0 素材与二创复查 | 上线 MX1951 千问原图包，新增 6 个角色词条、6 条来源、2 首曲目和 1 个交互项目。复查 580 条作品的累计点赞。 |
 | 2026-11-23 · 文心娘立绘、阶跃双版本与榜单复核 | 比对文心娘的 Pixiv 独立立绘与固定档案。新增 8 个角色词条、7 条来源、19 条二创、2 首曲目和 2 个桌宠项目。 |

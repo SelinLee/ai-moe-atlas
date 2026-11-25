@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:47.093Z",
+  "url": "https://www.bilibili.com/video/BV1kFnA6aEYJ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kFnA6aEYJ",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1kFnA6aEYJ",
+    "title": "H3测试之mimo娘撵兔子",
+    "owner": {
+      "name": "甶丶",
+      "mid": 1758596086
+    },
+    "pubdate": 1792504742,
+    "duration": 28
+  },
+  "descriptionSha256": "98429e7f54aa183609c0cfee7b91d8fdb6c247150419e427d7e66feef1d1bb53",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=MiMo%20%E5%A8%98&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:03.055Z",
+    "htmlSha256": "fe0fb9cac01b103cc56101016efe7fce7a7bbfe6713ac601dedc4d5f1f41f989",
+    "title": "H3测试之mimo娘撵兔子",
+    "publisher": "甶丶"
+  }
+}

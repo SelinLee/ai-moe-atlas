@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:48.348Z",
+  "url": "https://www.bilibili.com/video/BV13nsz6bEgy/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13nsz6bEgy",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV13nsz6bEgy",
+    "title": "把 22 个 AI 模型做成了女孩子｜30 秒群像 PV",
+    "owner": {
+      "name": "摸鱼成鲸",
+      "mid": 3690997055752223
+    },
+    "pubdate": 1794905145,
+    "duration": 31
+  },
+  "descriptionSha256": "ba2c244e7db39d54680ac289402fbe33e5e39b3e04386bf5b81a7f8973a4089e",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E9%98%B6%E8%B7%83%E5%A8%98&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:07.010Z",
+    "htmlSha256": "c2574a905f48688839c43c1a3490fd479ae88257277d49737dd09202450be941",
+    "title": "把 22 个 AI 模型做成了女孩子｜30 秒群像 PV",
+    "publisher": "摸鱼成鲸"
+  }
+}

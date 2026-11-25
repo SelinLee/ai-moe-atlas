@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:48.339Z",
+  "url": "https://www.bilibili.com/video/BV1wfynz8Ez6/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wfynz8Ez6",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1wfynz8Ez6",
+    "title": "Claude【Viva la Vida】再无忠言逆耳，这将是我们的时代",
+    "owner": {
+      "name": "LC老橙先生",
+      "mid": 3546585493408706
+    },
+    "pubdate": 1795422663,
+    "duration": 229
+  },
+  "descriptionSha256": "0832419b4752bf7856b731d0db4036811c5618367a9a0fd28edc18324cfc662d",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20MV&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:02.992Z",
+    "htmlSha256": "a370c8d4920b9acab5ebfdf3ea1a963a51f210933cbf91c9b64a4eb7a8fd318c",
+    "title": "Claude【Viva la Vida】再无忠言逆耳，这将是我们的时代",
+    "publisher": "LC老橙先生"
+  }
+}

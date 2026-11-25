@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:46.691Z",
+  "url": "https://www.bilibili.com/video/BV1koyDzGEas/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1koyDzGEas",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1koyDzGEas",
+    "title": "【Claude小姐的工作日常】特别篇：当Claude证明了黎曼猜想【AI全民制作人】",
+    "owner": {
+      "name": "Claude小姐的日常",
+      "mid": 3747574548793768
+    },
+    "pubdate": 1795480200,
+    "duration": 69
+  },
+  "descriptionSha256": "fdb802be3c2776a0b2b92336ae08cb09cbb9b0ef23582847be682eeee2657b5d",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "【Claude小姐的工作日常】特别篇：当Claude证明了黎曼猜想【AI全民制作人】",
+    "publisher": "Claude小姐的日常"
+  }
+}

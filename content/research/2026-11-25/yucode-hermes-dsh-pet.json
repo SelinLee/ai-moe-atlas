@@ -1,0 +1,82 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:22:21.836Z",
+  "url": "https://github.com/yucode-kk/dsh-pet/blob/b25125555f36126e8b3932c915919e8e52a09a29/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/yucode-kk/dsh-pet/blob/b25125555f36126e8b3932c915919e8e52a09a29/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/yucode-kk/dsh-pet/b25125555f36126e8b3932c915919e8e52a09a29/README.md",
+    "sourceSha256": "56b3d6fe1a6a99806fec646450d3e2df5aaae9cae75d63082fb3d250b33c5e45",
+    "gitBlobSha": "19b51de947eebc48e0ac74b4b42112033a2385dd",
+    "bytes": 30321,
+    "commit": "b25125555f36126e8b3932c915919e8e52a09a29",
+    "accessedAt": "2026-11-25T08:22:21.836Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/yucode-kk/dsh-pet/blob/b25125555f36126e8b3932c915919e8e52a09a29/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/yucode-kk/dsh-pet/b25125555f36126e8b3932c915919e8e52a09a29/README.md",
+      "sourceSha256": "56b3d6fe1a6a99806fec646450d3e2df5aaae9cae75d63082fb3d250b33c5e45",
+      "gitBlobSha": "19b51de947eebc48e0ac74b4b42112033a2385dd",
+      "bytes": 30321,
+      "commit": "b25125555f36126e8b3932c915919e8e52a09a29",
+      "accessedAt": "2026-11-25T08:22:21.836Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/yucode-kk/dsh-pet/blob/b25125555f36126e8b3932c915919e8e52a09a29/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/yucode-kk/dsh-pet/b25125555f36126e8b3932c915919e8e52a09a29/LICENSE",
+      "sourceSha256": "22757dc9c895b2729a2fc684d227cadfb54d5af3dd300029926839e8c4e269ce",
+      "gitBlobSha": "7d87632065ae9bbebe4fb7a275f38f3cd1c30c41",
+      "bytes": 1069,
+      "commit": "b25125555f36126e8b3932c915919e8e52a09a29",
+      "accessedAt": "2026-11-25T08:22:22.216Z"
+    },
+    {
+      "path": "dsh-pet/LICENSE",
+      "url": "https://github.com/yucode-kk/dsh-pet/blob/b25125555f36126e8b3932c915919e8e52a09a29/dsh-pet/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/yucode-kk/dsh-pet/b25125555f36126e8b3932c915919e8e52a09a29/dsh-pet/LICENSE",
+      "sourceSha256": "22757dc9c895b2729a2fc684d227cadfb54d5af3dd300029926839e8c4e269ce",
+      "gitBlobSha": "7d87632065ae9bbebe4fb7a275f38f3cd1c30c41",
+      "bytes": 1069,
+      "commit": "b25125555f36126e8b3932c915919e8e52a09a29",
+      "accessedAt": "2026-11-25T08:22:22.577Z"
+    },
+    {
+      "path": "MAKE-YOUR-OWN-PET.md",
+      "url": "https://github.com/yucode-kk/dsh-pet/blob/b25125555f36126e8b3932c915919e8e52a09a29/MAKE-YOUR-OWN-PET.md",
+      "rawUrl": "https://raw.githubusercontent.com/yucode-kk/dsh-pet/b25125555f36126e8b3932c915919e8e52a09a29/MAKE-YOUR-OWN-PET.md",
+      "sourceSha256": "45906c67574888abf258ad134a3fd8f99cb614ec377bac6e6e5f840b27b9efd8",
+      "gitBlobSha": "28b7c3ade1ae2af0658e56fd30fae8a34102c191",
+      "bytes": 5434,
+      "commit": "b25125555f36126e8b3932c915919e8e52a09a29",
+      "accessedAt": "2026-11-25T08:22:23.223Z"
+    },
+    {
+      "path": "hermes/README.md",
+      "url": "https://github.com/yucode-kk/dsh-pet/blob/b25125555f36126e8b3932c915919e8e52a09a29/hermes/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/yucode-kk/dsh-pet/b25125555f36126e8b3932c915919e8e52a09a29/hermes/README.md",
+      "bytes": 4625,
+      "gitBlobSha": "024b9a6ade99b6aaed56a6fd51c73d5781bdc918",
+      "sourceSha256": "a4eea43079bb99d560a2c0cd377d6b3113b808476548f4414c7b00f6018b0bef",
+      "commit": "b25125555f36126e8b3932c915919e8e52a09a29",
+      "accessedAt": "2026-11-25T08:29:08.908Z"
+    }
+  ],
+  "repository": {
+    "full_name": "yucode-kk/dsh-pet",
+    "html_url": "https://github.com/yucode-kk/dsh-pet",
+    "stargazers_count": 0,
+    "archived": false,
+    "created_at": "2026-11-04T07:05:35Z",
+    "default_branch": "main",
+    "fork": true,
+    "commit": "b25125555f36126e8b3932c915919e8e52a09a29",
+    "observedAt": "2026-11-25T08:20:16.086Z",
+    "httpStatus": 200,
+    "metadataSha256": "0a687d4a4199eedecbfb09877f89a560fa13507ac841f73996d541c8fbcf5903",
+    "parent": "PC2005-cloud/dsh-pet"
+  },
+  "scope": "Pinned documentation and licensing files checked by Git blob and SHA-256."
+}

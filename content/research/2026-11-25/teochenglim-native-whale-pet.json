@@ -1,0 +1,93 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:22:24.247Z",
+  "url": "https://github.com/teochenglim/deepseek-pet/blob/29e880fd1f53bef86115c7607a3244cbab652a84/README.md",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/teochenglim/deepseek-pet/blob/29e880fd1f53bef86115c7607a3244cbab652a84/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/teochenglim/deepseek-pet/29e880fd1f53bef86115c7607a3244cbab652a84/README.md",
+    "sourceSha256": "c1e016440ddba9112c02b5402387f00d0eee31cbeccbb2e11989be238e74e881",
+    "gitBlobSha": "b2a53c567e2c65391b9d21d03d16f5251c457035",
+    "bytes": 10184,
+    "commit": "29e880fd1f53bef86115c7607a3244cbab652a84",
+    "accessedAt": "2026-11-25T08:22:24.247Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/teochenglim/deepseek-pet/blob/29e880fd1f53bef86115c7607a3244cbab652a84/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/teochenglim/deepseek-pet/29e880fd1f53bef86115c7607a3244cbab652a84/README.md",
+      "sourceSha256": "c1e016440ddba9112c02b5402387f00d0eee31cbeccbb2e11989be238e74e881",
+      "gitBlobSha": "b2a53c567e2c65391b9d21d03d16f5251c457035",
+      "bytes": 10184,
+      "commit": "29e880fd1f53bef86115c7607a3244cbab652a84",
+      "accessedAt": "2026-11-25T08:22:24.247Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/teochenglim/deepseek-pet/blob/29e880fd1f53bef86115c7607a3244cbab652a84/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/teochenglim/deepseek-pet/29e880fd1f53bef86115c7607a3244cbab652a84/LICENSE",
+      "sourceSha256": "fb86ca91c9f4a721199bcdceb15b73592bbcb189ad380bd78db2ab2344f55b10",
+      "gitBlobSha": "d49c9df8910c107b960ed27893cbbf470485642a",
+      "bytes": 11338,
+      "commit": "29e880fd1f53bef86115c7607a3244cbab652a84",
+      "accessedAt": "2026-11-25T08:22:24.783Z"
+    },
+    {
+      "path": "NOTICE",
+      "url": "https://github.com/teochenglim/deepseek-pet/blob/29e880fd1f53bef86115c7607a3244cbab652a84/NOTICE",
+      "rawUrl": "https://raw.githubusercontent.com/teochenglim/deepseek-pet/29e880fd1f53bef86115c7607a3244cbab652a84/NOTICE",
+      "sourceSha256": "ae884a5644012d90ead4430803af355d63ddb3ac2b9c6b8c83edc89fe8f77c09",
+      "gitBlobSha": "2f87c1dffe8f3da263854bce07d36ad68d502371",
+      "bytes": 993,
+      "commit": "29e880fd1f53bef86115c7607a3244cbab652a84",
+      "accessedAt": "2026-11-25T08:22:25.243Z"
+    },
+    {
+      "path": "assets/big-blue-fish/pet.json",
+      "url": "https://github.com/teochenglim/deepseek-pet/blob/29e880fd1f53bef86115c7607a3244cbab652a84/assets/big-blue-fish/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/teochenglim/deepseek-pet/29e880fd1f53bef86115c7607a3244cbab652a84/assets/big-blue-fish/pet.json",
+      "sourceSha256": "6ac17a14bda469f836164afa2abb76119c06ee4c655319fc3b4949fcda6df9dd",
+      "gitBlobSha": "3bd8eadff7ffd6fae794b17c6cff482e89735c69",
+      "bytes": 4989,
+      "commit": "29e880fd1f53bef86115c7607a3244cbab652a84",
+      "accessedAt": "2026-11-25T08:22:25.651Z"
+    },
+    {
+      "path": "assets/big-blue-fish/frames/frames-manifest.json",
+      "url": "https://github.com/teochenglim/deepseek-pet/blob/29e880fd1f53bef86115c7607a3244cbab652a84/assets/big-blue-fish/frames/frames-manifest.json",
+      "rawUrl": "https://raw.githubusercontent.com/teochenglim/deepseek-pet/29e880fd1f53bef86115c7607a3244cbab652a84/assets/big-blue-fish/frames/frames-manifest.json",
+      "sourceSha256": "1445f2c4d03578c4dfc043f94d7e2a0c7cf66d9f435bfeb0d19cdf258d6e54c3",
+      "gitBlobSha": "391f278be91da08f6ff024ef4f32ae1f4aece9b2",
+      "bytes": 2261,
+      "commit": "29e880fd1f53bef86115c7607a3244cbab652a84",
+      "accessedAt": "2026-11-25T08:22:26.018Z"
+    },
+    {
+      "path": "assets/big-blue-fish/frames/PROVENANCE.md",
+      "url": "https://github.com/teochenglim/deepseek-pet/blob/29e880fd1f53bef86115c7607a3244cbab652a84/assets/big-blue-fish/frames/PROVENANCE.md",
+      "rawUrl": "https://raw.githubusercontent.com/teochenglim/deepseek-pet/29e880fd1f53bef86115c7607a3244cbab652a84/assets/big-blue-fish/frames/PROVENANCE.md",
+      "bytes": 913,
+      "gitBlobSha": "ed0403af0f1f648fbdaa0fe4664c0f30f090daa5",
+      "sourceSha256": "ab5fb73f11f72ba44aa8ce55aed329465af610fde8ffc223c7a38cdc3df92f2b",
+      "commit": "29e880fd1f53bef86115c7607a3244cbab652a84",
+      "accessedAt": "2026-11-25T08:29:09.315Z"
+    }
+  ],
+  "repository": {
+    "full_name": "teochenglim/deepseek-pet",
+    "html_url": "https://github.com/teochenglim/deepseek-pet",
+    "stargazers_count": 0,
+    "archived": false,
+    "created_at": "2026-11-06T02:10:03Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "29e880fd1f53bef86115c7607a3244cbab652a84",
+    "observedAt": "2026-11-25T08:20:26.872Z",
+    "httpStatus": 200,
+    "metadataSha256": "977c782573a822b5e0389398be7a9302dca2fd19b0178190ef6d4dad5222bd2d",
+    "parent": null
+  },
+  "scope": "Pinned documentation and licensing files checked by Git blob and SHA-256.",
+  "upstreamEvidence": "content/research/2026-11-21/dsh-pet-shared-animation-file-provenance.json"
+}

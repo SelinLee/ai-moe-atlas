@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:47.089Z",
+  "url": "https://www.bilibili.com/video/BV1yTyDz1Es9/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yTyDz1Es9",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1yTyDz1Es9",
+    "title": "【AI娘名著大乱炖 Ep2】哈姆雷特：To be or not to be，这是一个token问题！",
+    "owner": {
+      "name": "北极甜虾-剑心犹在-",
+      "mid": 27336544
+    },
+    "pubdate": 1795435757,
+    "duration": 240
+  },
+  "descriptionSha256": "cb2db2d6789d1ca08932f654bd3b0a007250f9087f656f67e11afe0845429312",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "【AI娘名著大乱炖 Ep2】哈姆雷特：To be or not to be，这是一个token问题！",
+    "publisher": "北极甜虾-剑心犹在-"
+  }
+}

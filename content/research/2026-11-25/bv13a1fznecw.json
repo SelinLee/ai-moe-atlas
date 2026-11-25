@@ -1,0 +1,29 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:46.678Z",
+  "url": "https://www.bilibili.com/video/BV13a1FznEcw/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13a1FznEcw",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV13a1FznEcw",
+    "title": "五个 AI 娘去看房，七间卧室先吵的是阳台和书房｜《AI GIRLS》日常篇 第3话",
+    "owner": {
+      "name": "是一只啾咪酱呀",
+      "mid": 3546930036607803
+    },
+    "pubdate": 1795579200,
+    "duration": 205
+  },
+  "descriptionSha256": "4e8ebb48a5c3aa98c3b069470f0b89014b2d2d70ae56fef93f3809f4a0d3c4be",
+  "linkedVideos": [
+    "BV1FvpR67EZZ"
+  ],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "五个 AI 娘去看房，七间卧室先吵的是阳台和书房｜《AI GIRLS》日常篇 第3话",
+    "publisher": "是一只啾咪酱呀"
+  }
+}

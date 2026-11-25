@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:45.563Z",
+  "url": "https://www.bilibili.com/video/BV1LzyiztEf7/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LzyiztEf7",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1LzyiztEf7",
+    "title": "“请选择您的ai旗舰娘”（3）",
+    "owner": {
+      "name": "沉默寡言佰佰佰",
+      "mid": 38731235
+    },
+    "pubdate": 1795572000,
+    "duration": 187
+  },
+  "descriptionSha256": "61d994e523d5995874080c967877a4936fa559e8cbae9a88100154640b2acd2a",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.428Z",
+    "htmlSha256": "0ebec11064620d1e84049133acb00f988ee5c9a62f2814b51ffe9d67ff7be6d2",
+    "title": "“请选择您的ai旗舰娘”（3）",
+    "publisher": "沉默寡言佰佰佰"
+  }
+}

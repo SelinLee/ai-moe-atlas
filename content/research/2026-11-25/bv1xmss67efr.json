@@ -1,0 +1,29 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:48.344Z",
+  "url": "https://www.bilibili.com/video/BV1xMsS67Efr/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xMsS67Efr",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1xMsS67Efr",
+    "title": "雨天的咖啡厅，五个 AI 娘坐到了一桌｜《AI GIRLS》日常篇 第1话",
+    "owner": {
+      "name": "是一只啾咪酱呀",
+      "mid": 3546930036607803
+    },
+    "pubdate": 1795061521,
+    "duration": 192
+  },
+  "descriptionSha256": "9c9bfb92bf0c93500032226a53b86efa7d526904fb244a0feba0bac1fb1ec892",
+  "linkedVideos": [
+    "BV15Npa6zE44"
+  ],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "雨天的咖啡厅，五个 AI 娘坐到了一桌｜《AI GIRLS》日常篇 第1话",
+    "publisher": "是一只啾咪酱呀"
+  }
+}

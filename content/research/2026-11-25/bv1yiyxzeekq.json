@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:47.515Z",
+  "url": "https://www.bilibili.com/video/BV1YiyXzeEKq/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YiyXzeEKq",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1YiyXzeEKq",
+    "title": "老黄已如闪电般回归，我的智谱娘也该表演吃显卡了",
+    "owner": {
+      "name": "从不咕咕的鸽纸",
+      "mid": 280664902
+    },
+    "pubdate": 1795445082,
+    "duration": 78
+  },
+  "descriptionSha256": "df34dbc632d0cac5a3fd9da178cf1b662861e82c2a3045bf636f5829c754c675",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E6%99%BA%E8%B0%B1%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:02.559Z",
+    "htmlSha256": "9f4296cccb10d96013477fe13eeaac4fc6f2600b68acf9bcc6b187132d4b71da",
+    "title": "老黄已如闪电般回归，我的智谱娘也该表演吃显卡了",
+    "publisher": "从不咕咕的鸽纸"
+  }
+}

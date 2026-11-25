@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:45.136Z",
+  "url": "https://www.bilibili.com/video/BV1JGyZzxEeA/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JGyZzxEeA",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1JGyZzxEeA",
+    "title": "【第四集】大肥鱼终于看见了海，也遇见了守着灯塔和笛声的她们",
+    "owner": {
+      "name": "樱华辉月",
+      "mid": 2015579
+    },
+    "pubdate": 1795577100,
+    "duration": 138
+  },
+  "descriptionSha256": "797179d4adcc9ac5b1993900d66c84ae2ef3469cf482641b5a4d9007d6ecce36",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.428Z",
+    "htmlSha256": "0ebec11064620d1e84049133acb00f988ee5c9a62f2814b51ffe9d67ff7be6d2",
+    "title": "【第四集】大肥鱼终于看见了海，也遇见了守着灯塔和笛声的她们",
+    "publisher": "樱华辉月"
+  }
+}

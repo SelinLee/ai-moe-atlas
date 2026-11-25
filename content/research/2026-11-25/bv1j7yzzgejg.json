@@ -1,0 +1,30 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:47.926Z",
+  "url": "https://www.bilibili.com/video/BV1J7yzzgEjG/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1J7yzzgEjG",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1J7yzzgEjG",
+    "title": "【AI】翻唱 咏春(DJ版)·大肥鱼版｜花踌躇柳轻叹 敢问情何以堪",
+    "owner": {
+      "name": "安安是只大肥鱼",
+      "mid": 3546744715479109
+    },
+    "pubdate": 1795572957,
+    "duration": 222
+  },
+  "descriptionSha256": "4b7e939ed39f2ec86b3143c44d22c97f9521c7059170a1a28dfbd3e8373967cf",
+  "linkedVideos": [
+    "BV1j3ZKBpE3e",
+    "BV1t7FvzZEJJ"
+  ],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:05.300Z",
+    "htmlSha256": "f30a43c2a4493c2eb35429bfc5d1f9e2331ca0379abad7d5c2013cc9d82c772c",
+    "title": "【AI】翻唱 咏春(DJ版)·大肥鱼版｜花踌躇柳轻叹 敢问情何以堪",
+    "publisher": "安安是只大肥鱼"
+  }
+}

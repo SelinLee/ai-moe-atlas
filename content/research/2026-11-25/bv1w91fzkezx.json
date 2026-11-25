@@ -1,0 +1,27 @@
+{
+  "httpStatus": 200,
+  "accessedAt": "2026-11-25T08:20:46.691Z",
+  "url": "https://www.bilibili.com/video/BV1w91FzKEzX/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1w91FzKEzX",
+  "code": 0,
+  "metadata": {
+    "bvid": "BV1w91FzKEzX",
+    "title": "【AI娘动画】预告PV·命运石之门 : 境界面上的剪辑线",
+    "owner": {
+      "name": "ADK-postmodern",
+      "mid": 2988768
+    },
+    "pubdate": 1795531658,
+    "duration": 62
+  },
+  "descriptionSha256": "44102ba89255521abb223a9d98914c0736f484daeca38143c08782aed1846a15",
+  "linkedVideos": [],
+  "discovery": {
+    "url": "https://search.bilibili.com/zh-Hans/all?keyword=Claude%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+    "httpStatus": 200,
+    "observedAt": "2026-11-25T08:20:00.419Z",
+    "htmlSha256": "c0bcdf17c236121ab7db2a22c4eb10596c7c7b078792c582806cc2af5850e714",
+    "title": "【AI娘动画】预告PV·命运石之门 : 境界面上的剪辑线",
+    "publisher": "ADK-postmodern"
+  }
+}
