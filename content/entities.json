@@ -238,5 +238,11 @@
     "name": "DALL·E 3",
     "provider": "OpenAI",
     "url": "https://openai.com/index/dall-e-3/"
+  },
+  {
+    "id": "midjourney",
+    "name": "Midjourney",
+    "provider": "Midjourney",
+    "url": "https://www.midjourney.com/"
   }
 ]

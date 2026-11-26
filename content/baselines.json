@@ -398,5 +398,15 @@
       "en": "Verify artwork-specific display and adaptation terms with the creator.",
       "ja": "この画像群の表示・改変条件を作者に確認する。"
     }
+  },
+  {
+    "entity": "midjourney",
+    "characterId": "green-thursday-midjourney-fides",
+    "reviewedAt": "2026-11-26",
+    "nextAction": {
+      "zh": "核对这组作品的逐图展示与改编条件。",
+      "en": "Verify display and adaptation terms for each illustration.",
+      "ja": "画像ごとの表示・改変条件を確認する。"
+    }
   }
 ]

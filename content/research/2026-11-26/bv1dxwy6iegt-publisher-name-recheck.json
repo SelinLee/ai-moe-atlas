@@ -1,0 +1,25 @@
+{
+  "url": "https://www.bilibili.com/video/BV1DxWy6iEgT/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1DxWy6iEgT",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:02:26.061Z",
+  "scope": "Official video metadata confirmed the same uploader account and a new display name.",
+  "metadata": {
+    "bvid": "BV1DxWy6iEgT",
+    "title": "元宝AI拟人",
+    "owner": {
+      "name": "伟大的死者",
+      "mid": 10019374
+    },
+    "pubdate": 1794391709,
+    "duration": 12
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "previousName": "伟大的死者将壮烈成仁",
+  "previousEvidence": {
+    "path": "content/research/2026-11-20/bv1dxwy6iegt.json",
+    "sha256": "2044fa76e9290730a0be4fe11df731cc07163714071289ff8b9da2fd4013f383",
+    "kind": "browser-metadata-extract"
+  }
+}

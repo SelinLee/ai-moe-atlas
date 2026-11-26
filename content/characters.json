@@ -4616,5 +4616,117 @@
       "en": "Hashed three image renditions served by the creator’s note page; not verified unscaled masters. Aipictors source access was restricted.",
       "ja": "作者 note が配信した画像3枚のハッシュを照合。未縮小の原版とは確認していない。Aipictors 原投稿はアクセス制限あり。"
     }
+  },
+  {
+    "id": "green-thursday-mistral-chorale",
+    "entity": "mistral",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Mistral Chorale · 五位拟人角色",
+      "en": "Mistral Chorale · Five Personifications",
+      "ja": "Mistral Chorale · 5人の擬人化キャラクター"
+    },
+    "description": {
+      "zh": "Green_Thursday 将代码工具调用、Le Chat、端侧部署、多语言和微调分别设定为 Céline、Aura、Fleur、Elena 和 Beatrix。",
+      "en": "Green_Thursday assigns tool calling, Le Chat, edge deployment, multilingual processing and fine-tuning to Céline, Aura, Fleur, Elena and Beatrix.",
+      "ja": "Green_Thursday はツール呼び出し、Le Chat、エッジ展開、多言語処理、微調整を Céline、Aura、Fleur、Elena、Beatrix に割り当てています。"
+    },
+    "story": {
+      "zh": "Green_Thursday 将代码工具调用、Le Chat、端侧部署、多语言和微调分别设定为 Céline、Aura、Fleur、Elena 和 Beatrix。",
+      "en": "Green_Thursday assigns tool calling, Le Chat, edge deployment, multilingual processing and fine-tuning to Céline, Aura, Fleur, Elena and Beatrix.",
+      "ja": "Green_Thursday はツール呼び出し、Le Chat、エッジ展開、多言語処理、微調整を Céline、Aura、Fleur、Elena、Beatrix に割り当てています。"
+    },
+    "features": {
+      "zh": "作者设定以星、心、梅花、黑桃和方块区分五人，并配金、红、橙、蓝和银色。",
+      "en": "The creator distinguishes the five with star, heart, club, spade and diamond emblems in gold, red, orange, blue and silver.",
+      "ja": "作者の設定では星・ハート・クラブ・スペード・ダイヤと、金・赤・橙・青・銀で5人を区別。"
+    },
+    "author": "Green_Thursday",
+    "authorUrl": "https://note.com/glossy_stoat7085",
+    "source": "https://note.com/glossy_stoat7085/n/nb93850177227",
+    "sourceTitle": "37章 (1) Mistral AI篇「Mistral AI を体現するキャラクター」 - 各生成AIをアニメ風キャラクターに擬人化！- ｜Green_Thursday",
+    "originalPublication": "https://note.com/glossy_stoat7085/n/nb93850177227",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "Green_Thursday",
+        "url": "https://note.com/glossy_stoat7085",
+        "role": "original-character",
+        "publication": "https://note.com/glossy_stoat7085/n/nb93850177227"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/glossy_stoat7085/n/nb93850177227",
+    "downloadable": false,
+    "bg": "#f5e8dc",
+    "color": "#8a5637",
+    "verifiedAt": "2026-11-26",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者注明使用 Gemini 与 Nano Banana 2。已留存 note 页面所供图片的校验值，图鉴提供原发布入口。",
+      "en": "The author credits Gemini and Nano Banana 2. The note-served editions were hashed, and the atlas links to the creator’s post.",
+      "ja": "作者は Gemini と Nano Banana 2 を使用と記載。note 配信版のハッシュを確認し、作者の投稿へリンク。"
+    }
+  },
+  {
+    "id": "green-thursday-midjourney-fides",
+    "entity": "midjourney",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Midjourney 娘 · Fides 休日篇",
+      "en": "Midjourney Girl · Fides on Her Day Off",
+      "ja": "Midjourney 娘 · フィデスの休日"
+    },
+    "description": {
+      "zh": "Green_Thursday 的 Midjourney 三人组包括 Veritas、Elega 和 Fides。第 28 章第 8 部聚焦 Fides 的休闲服装。",
+      "en": "Green_Thursday’s Midjourney team has Veritas, Elega and Fides. Chapter 28, part 8 focuses on Fides’s off-duty outfits.",
+      "ja": "Green_Thursday の Midjourney チームはヴェリタス、エレガ、フィデスの3人。第28章の8編目はフィデスの休日の衣装集。"
+    },
+    "story": {
+      "zh": "Green_Thursday 的 Midjourney 三人组包括 Veritas、Elega 和 Fides。第 28 章第 8 部聚焦 Fides 的休闲服装。",
+      "en": "Green_Thursday’s Midjourney team has Veritas, Elega and Fides. Chapter 28, part 8 focuses on Fides’s off-duty outfits.",
+      "ja": "Green_Thursday の Midjourney チームはヴェリタス、エレガ、フィデスの3人。第28章の8編目はフィデスの休日の衣装集。"
+    },
+    "features": {
+      "zh": "作者在该篇展示 Fides 的连衣裙与窄裙造型。",
+      "en": "The article depicts Fides in dresses and fitted skirts.",
+      "ja": "この編ではフィデスのワンピースとタイトスカート姿を紹介。"
+    },
+    "author": "Green_Thursday",
+    "authorUrl": "https://note.com/glossy_stoat7085",
+    "source": "https://note.com/glossy_stoat7085/n/n8960e4432d38",
+    "sourceTitle": "28章 (8/9) Midjourney 篇「Midjourney Teamの休日(Off Shot)」 - 各生成AIをアニメ風キャラクターに擬人化！ - ｜Green_Thursday",
+    "originalPublication": "https://note.com/glossy_stoat7085/n/n8960e4432d38",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "Green_Thursday",
+        "url": "https://note.com/glossy_stoat7085",
+        "role": "original-character",
+        "publication": "https://note.com/glossy_stoat7085/n/n8960e4432d38"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/glossy_stoat7085/n/n8960e4432d38",
+    "downloadable": false,
+    "bg": "#f0e9f3",
+    "color": "#674c73",
+    "verifiedAt": "2026-11-26",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者注明使用 Gemini 与 Nano Banana 2。已留存 note 页面所供图片的校验值，图鉴提供原发布入口。",
+      "en": "The author credits Gemini and Nano Banana 2. The note-served editions were hashed, and the atlas links to the creator’s post.",
+      "ja": "作者は Gemini と Nano Banana 2 を使用と記載。note 配信版のハッシュを確認し、作者の投稿へリンク。"
+    }
   }
 ]

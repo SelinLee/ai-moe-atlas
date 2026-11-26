@@ -1,0 +1,333 @@
+{
+  "previousEvidence": {
+    "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-fifth-candidate-batch.json",
+    "sha256": "dc33217f33b516d4d6f78a39fcd9591812e9cf504973fad8fc6d874d969950a0",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-partial-recheck.json",
+    "sha256": "943998940c90db0d595618e11ec9717c99b9e8a9152826ce3f7fe03bd2650e2a",
+    "kind": "browser-metadata-extract"
+  },
+  "catalogCheck": {
+    "startedAt": "2026-11-26T05:01:42.890Z",
+    "capturedAt": "2026-11-26T05:02:37.101Z",
+    "cataloged": 938,
+    "attempted": 505,
+    "unattempted": 433,
+    "refreshed": 463,
+    "restricted": 35,
+    "officialNoVideo": [
+      {
+        "bvid": "BV1AAnt6qEek",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AAnt6qEek",
+        "observedAt": "2026-11-26T05:01:42.904Z",
+        "httpStatus": 200,
+        "code": 62012
+      },
+      {
+        "bvid": "BV1ei4865Ewc",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ei4865Ewc",
+        "observedAt": "2026-11-26T05:01:46.654Z",
+        "httpStatus": 200,
+        "code": -404
+      },
+      {
+        "bvid": "BV1zpx967EKJ",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zpx967EKJ",
+        "observedAt": "2026-11-26T05:01:50.802Z",
+        "httpStatus": 200,
+        "code": 62002
+      },
+      {
+        "bvid": "BV1q8HM63ES4",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1q8HM63ES4",
+        "observedAt": "2026-11-26T05:01:53.867Z",
+        "httpStatus": 200,
+        "code": 62012
+      },
+      {
+        "bvid": "BV1Dw4n61EsW",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Dw4n61EsW",
+        "observedAt": "2026-11-26T05:02:07.745Z",
+        "httpStatus": 200,
+        "code": 62002
+      },
+      {
+        "bvid": "BV1m64q69EnP",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1m64q69EnP",
+        "observedAt": "2026-11-26T05:02:09.720Z",
+        "httpStatus": 200,
+        "code": 62012
+      },
+      {
+        "bvid": "BV1fU4H6AERh",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fU4H6AERh",
+        "observedAt": "2026-11-26T05:02:10.167Z",
+        "httpStatus": 200,
+        "code": 62012
+      }
+    ],
+    "historicalFailuresNotRechecked": [
+      {
+        "bvid": "BV1p1yGzKEBt",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1p1yGzKEBt",
+        "observedAt": "2026-11-25T08:20:05.062Z",
+        "httpStatus": 200,
+        "code": 62002
+      },
+      {
+        "bvid": "BV1fasg6tEfp",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fasg6tEfp",
+        "observedAt": "2026-11-25T08:55:08.804Z",
+        "httpStatus": 200,
+        "code": -404
+      },
+      {
+        "bvid": "BV17csA6iE6k",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17csA6iE6k",
+        "observedAt": "2026-11-25T08:55:08.808Z",
+        "httpStatus": 200,
+        "code": -404
+      }
+    ],
+    "stoppedOnPlatformRestriction": true,
+    "uploaderDisplayNameChanges": [
+      {
+        "bvid": "BV1dqsM6jEyD",
+        "publisherId": 19360870,
+        "previousName": "年糕Mochi_AI主播",
+        "currentName": "年糕Mochi_营业中",
+        "previousEvidence": {
+          "path": "content/research/2026-11-20/bv1dqsm6jeyd.json",
+          "sha256": "2e355a17479d9e6f71a4591109208670daa05c29e44cdcba0b924c39220c8a43",
+          "kind": "browser-metadata-extract"
+        },
+        "evidence": {
+          "path": "content/research/2026-11-26/bv1dqsm6jeyd-publisher-name-recheck.json",
+          "sha256": "06666eff436484cd84d56aa84a9aa48bd10320229dcf90bb4791ad5ed46d439b",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      {
+        "bvid": "BV1DxWy6iEgT",
+        "publisherId": 10019374,
+        "previousName": "伟大的死者将壮烈成仁",
+        "currentName": "伟大的死者",
+        "previousEvidence": {
+          "path": "content/research/2026-11-20/bv1dxwy6iegt.json",
+          "sha256": "2044fa76e9290730a0be4fe11df731cc07163714071289ff8b9da2fd4013f383",
+          "kind": "browser-metadata-extract"
+        },
+        "evidence": {
+          "path": "content/research/2026-11-26/bv1dxwy6iegt-publisher-name-recheck.json",
+          "sha256": "8e304f27556c8410b268e070403e511daf2e78f39d98baaa9185652d72e4260d",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    ]
+  },
+  "candidateCheck": {
+    "capturedAt": "2026-11-26T05:06:35.623Z",
+    "tracked": 12,
+    "trackedAttempted": 5,
+    "trackedUnattempted": 7,
+    "officialStatus": [
+      {
+        "bvid": "BV1rfsf6PEiQ",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1rfsf6PEiQ",
+        "observedAt": "2026-11-26T05:06:35.611Z",
+        "httpStatus": 412,
+        "code": null
+      },
+      {
+        "bvid": "BV1NL4u6MEGE",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NL4u6MEGE",
+        "observedAt": "2026-11-26T05:06:35.620Z",
+        "httpStatus": 412,
+        "code": null
+      },
+      {
+        "bvid": "BV1ka446JEsY",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ka446JEsY",
+        "observedAt": "2026-11-26T05:06:35.606Z",
+        "httpStatus": 412,
+        "code": null
+      },
+      {
+        "bvid": "BV1dtnF61Erq",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dtnF61Erq",
+        "observedAt": "2026-11-26T05:06:35.611Z",
+        "httpStatus": 412,
+        "code": null
+      },
+      {
+        "bvid": "BV1nvJo65E3o",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nvJo65E3o",
+        "observedAt": "2026-11-26T05:06:35.611Z",
+        "httpStatus": 412,
+        "code": null
+      }
+    ],
+    "newlyRanked": 0,
+    "stoppedOnPlatformRestriction": true
+  },
+  "searchOnlyLeads": [
+    {
+      "bvid": "BV12iy2zgEZq",
+      "url": "https://www.bilibili.com/video/BV12iy2zgEZq/",
+      "indexedTitle": "世纪难题，今天中午吃什么？",
+      "indexedPublisher": "蝶月",
+      "publisherUrl": "https://space.bilibili.com/zh-Hans/3972402",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "searchCheckedAt": "2026-11-26T05:03:01.900Z",
+      "officialVideoAttempted": false,
+      "likes": null,
+      "searchHttpStatus": 200,
+      "searchHtmlSha256": "e23519dc20dcaa90ecedf57dacd2a8a54643f8c17fbeaa0e2d7a52b17aa6d69a"
+    },
+    {
+      "bvid": "BV1iny2znE3b",
+      "url": "https://www.bilibili.com/video/BV1iny2znE3b/",
+      "indexedTitle": "⚡超⚡级⚡精⚡神⚡力（两条肥鱼版）",
+      "indexedPublisher": "一娓一昭",
+      "publisherUrl": "https://space.bilibili.com/zh-Hans/668936499",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "searchCheckedAt": "2026-11-26T05:03:01.900Z",
+      "officialVideoAttempted": false,
+      "likes": null,
+      "searchHttpStatus": 200,
+      "searchHtmlSha256": "e23519dc20dcaa90ecedf57dacd2a8a54643f8c17fbeaa0e2d7a52b17aa6d69a"
+    },
+    {
+      "bvid": "BV1E9y2zZEUa",
+      "url": "https://www.bilibili.com/video/BV1E9y2zZEUa/",
+      "indexedTitle": "肥鱼公寓之Charged Confessed  Beaten",
+      "indexedPublisher": "方休动画",
+      "publisherUrl": "https://space.bilibili.com/zh-Hans/14981860",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "searchCheckedAt": "2026-11-26T05:03:01.900Z",
+      "officialVideoAttempted": false,
+      "likes": null,
+      "searchHttpStatus": 200,
+      "searchHtmlSha256": "e23519dc20dcaa90ecedf57dacd2a8a54643f8c17fbeaa0e2d7a52b17aa6d69a"
+    },
+    {
+      "bvid": "BV1dRykzrEAj",
+      "url": "https://www.bilibili.com/video/BV1dRykzrEAj/",
+      "indexedTitle": "【AI少女终末旅行】GPT娘和Claude娘在废墟里跳起了《More One Night》",
+      "indexedPublisher": "薇纷芳橙",
+      "publisherUrl": "https://space.bilibili.com/zh-Hans/504297882",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20%E5%90%8C%E4%BA%BA&order=pubdate",
+      "searchCheckedAt": "2026-11-26T05:03:01.917Z",
+      "officialVideoAttempted": false,
+      "likes": null,
+      "searchHttpStatus": 200,
+      "searchHtmlSha256": "cc403bbcdf8b829d3a147f5e8784bc7615dc25e1fb1fe7c4df0f2c9fcc4c1703"
+    },
+    {
+      "bvid": "BV19KymzSENf",
+      "url": "https://www.bilibili.com/video/BV19KymzSENf/",
+      "indexedTitle": "A/GI 出道舞台《MORE》｜五大AI虚拟角色完整MV",
+      "indexedPublisher": "AGI_Idols",
+      "publisherUrl": "https://space.bilibili.com/zh-Hans/2063741186",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20MV&order=pubdate",
+      "searchCheckedAt": "2026-11-26T05:03:01.908Z",
+      "officialVideoAttempted": false,
+      "likes": null,
+      "searchHttpStatus": 200,
+      "searchHtmlSha256": "4be406fd8b9a85136b248e78648d26dca2bfcdcecb502c85a9aa94993e3a6d3c"
+    },
+    {
+      "bvid": "BV1eKyBzZE5t",
+      "url": "https://www.bilibili.com/video/BV1eKyBzZE5t/",
+      "indexedTitle": "千问大小姐竞选胜利结算",
+      "indexedPublisher": "小伙伴Ko",
+      "publisherUrl": "https://space.bilibili.com/zh-Hans/105330745",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%8D%83%E9%97%AE%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "searchCheckedAt": "2026-11-26T05:03:04.445Z",
+      "officialVideoAttempted": false,
+      "likes": null,
+      "searchHttpStatus": 200,
+      "searchHtmlSha256": "914cf1cfc5a406e314c6702f41cd5a90adeab6f0308338065668cbac69d2bcdb"
+    },
+    {
+      "bvid": "BV1TtykzcEDG",
+      "url": "https://www.bilibili.com/video/BV1TtykzcEDG/",
+      "indexedTitle": "你喜欢的猫猫是Gemini还是猫？",
+      "indexedPublisher": "Mistral法棍猫在运营",
+      "publisherUrl": "https://space.bilibili.com/zh-Hans/9126506",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=Gemini%E5%A8%98%20%E5%8A%A8%E7%94%BB&order=pubdate",
+      "searchCheckedAt": "2026-11-26T05:03:04.758Z",
+      "officialVideoAttempted": false,
+      "likes": null,
+      "searchHttpStatus": 200,
+      "searchHtmlSha256": "87bc5e79f66ed1180fa7eaf9483ae2954a44e28e270f7e0ce01865af92be7d2d"
+    },
+    {
+      "bvid": "BV1zHyDzKE3L",
+      "url": "https://www.bilibili.com/video/BV1zHyDzKE3L/",
+      "indexedTitle": "glm-x-flash | world.execute(me)",
+      "indexedPublisher": "SKDG_042",
+      "publisherUrl": "https://space.bilibili.com/zh-Hans/339167057",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=GLM%E7%8B%90%E5%A8%98&order=pubdate",
+      "searchCheckedAt": "2026-11-26T05:03:03.888Z",
+      "officialVideoAttempted": false,
+      "likes": null,
+      "searchHttpStatus": 200,
+      "searchHtmlSha256": "ae42166c43ca4ff053bf4f1d11bbd2cd5f4bf78aae4b54f60746904bf0da21ce"
+    },
+    {
+      "bvid": "BV1bhy2zCEDH",
+      "url": "https://www.bilibili.com/video/BV1bhy2zCEDH/",
+      "indexedTitle": "【大肥鱼AI翻唱】《最后一页》｜海潮声淹没了离别时的黄昏，星空下拥抱着快凋零的温存 🐋",
+      "indexedPublisher": "大大大大黑酱",
+      "publisherUrl": "https://space.bilibili.com/zh-Hans/1775824",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1&order=pubdate",
+      "searchCheckedAt": "2026-11-26T05:03:01.906Z",
+      "officialVideoAttempted": false,
+      "likes": null,
+      "searchHttpStatus": 200,
+      "searchHtmlSha256": "9cfa5eca59b69c1afb529d23b06ee43d2d2331674db5b0428dad39a1cfc4862d"
+    },
+    {
+      "bvid": "BV13uymzmEBR",
+      "url": "https://www.bilibili.com/video/BV13uymzmEBR/",
+      "indexedTitle": "【手书】大肥鱼翻唱《遇见》",
+      "indexedPublisher": "lyrickk",
+      "publisherUrl": "https://space.bilibili.com/zh-Hans/285231564",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1&order=pubdate",
+      "searchCheckedAt": "2026-11-26T05:03:01.906Z",
+      "officialVideoAttempted": false,
+      "likes": null,
+      "searchHttpStatus": 200,
+      "searchHtmlSha256": "9cfa5eca59b69c1afb529d23b06ee43d2d2331674db5b0428dad39a1cfc4862d"
+    },
+    {
+      "bvid": "BV1npyCzpEiZ",
+      "url": "https://www.bilibili.com/video/BV1npyCzpEiZ/",
+      "indexedTitle": "”我并不在乎自己究竟多伤痕累累 可我在乎今后你有谁陪“——大肥鱼温柔翻唱《认真的雪》",
+      "indexedPublisher": "铭言Sir",
+      "publisherUrl": "https://space.bilibili.com/zh-Hans/386992101",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%A4%A7%E8%82%A5%E9%B1%BC%20%E7%BF%BB%E5%94%B1&order=pubdate",
+      "searchCheckedAt": "2026-11-26T05:03:01.906Z",
+      "officialVideoAttempted": false,
+      "likes": null,
+      "searchHttpStatus": 200,
+      "searchHtmlSha256": "9cfa5eca59b69c1afb529d23b06ee43d2d2331674db5b0428dad39a1cfc4862d"
+    },
+    {
+      "bvid": "BV1Byy6z6EJZ",
+      "url": "https://www.bilibili.com/video/BV1Byy6z6EJZ/",
+      "indexedTitle": "【周杰伦】反方向的钟｜女声翻唱 + 手绘动画MV，如果时间能倒着走",
+      "indexedPublisher": "小鲸鱼娘阿拾",
+      "publisherUrl": "https://space.bilibili.com/zh-Hans/520913480",
+      "searchUrl": "https://search.bilibili.com/zh-Hans/all?keyword=AI%E5%A8%98%20MV&order=pubdate",
+      "searchCheckedAt": "2026-11-26T05:03:01.908Z",
+      "officialVideoAttempted": false,
+      "likes": null,
+      "searchHttpStatus": 200,
+      "searchHtmlSha256": "4be406fd8b9a85136b248e78648d26dca2bfcdcecb502c85a9aa94993e3a6d3c"
+    }
+  ]
+}
