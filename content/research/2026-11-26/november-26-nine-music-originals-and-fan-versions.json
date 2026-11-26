@@ -1,0 +1,388 @@
+{
+  "method": "Independent Google Chrome capture of creator, label or official distributor pages and publisher video metadata.",
+  "tracks": [
+    {
+      "id": "more-one-night",
+      "original": {
+        "credit": "チト（水瀬いのり）・ユーリ（久保ユリカ）",
+        "url": "https://girls-last-tour.com/products/music.html"
+      },
+      "authority": {
+        "id": "more-one-night",
+        "url": "https://girls-last-tour.com/products/music.html",
+        "finalUrl": "https://girls-last-tour.com/products/music.html",
+        "title": "PRODUCTS - MUSIC｜TVアニメ「少女終末旅行」公式サイト",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-26T05:38:04.778Z",
+        "htmlSha256": "618ebc5543ef1d8c67744f990b50d8ce8f49bd2643d8ac8ca8b29d11aa396b7f"
+      },
+      "related": [],
+      "versions": [
+        {
+          "bvid": "BV1dRykzrEAj",
+          "type": "dance",
+          "publisher": "薇纷芳橙",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-26/bv1drykzreaj.json",
+            "sha256": "1c4d1091c98ab0a913c7850f500c7aa231144c0edde03de078a317b7f0d26f50",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-remainder-and-fan-works.json",
+            "sha256": "1f82bdb48fa5c554d65a386cd99ac5defe70834906d5486318d0af474fdf6b3f",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "more",
+      "original": {
+        "credit": "K/DA · Riot Games Music",
+        "url": "https://www.youtube.com/watch?v=3VTkBuxU4yk"
+      },
+      "authority": {
+        "id": "more",
+        "url": "https://www.youtube.com/watch?v=3VTkBuxU4yk",
+        "requestUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D3VTkBuxU4yk",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-26T05:38:10.612Z",
+        "metadataSha256": "ecd1133b77820228a092b6ce4a586d0fe50fa71f35162c257797c5fffcf6a187",
+        "title": "K/DA - MORE ft. Madison Beer, (G)I-DLE, Lexie Liu, Jaira Burns, Seraphine (Official Music Video)",
+        "author": "League of Legends",
+        "authorUrl": "https://www.youtube.com/@leagueoflegends"
+      },
+      "related": [],
+      "versions": [
+        {
+          "bvid": "BV19KymzSENf",
+          "type": "mv",
+          "publisher": "AGI_Idols",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-26/bv19kymzsenf.json",
+            "sha256": "d4397dd6127407b2cf130f7b7acc0d8328e956b4661bd1413cf099d7c346c195",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-remainder-and-fan-works.json",
+            "sha256": "1f82bdb48fa5c554d65a386cd99ac5defe70834906d5486318d0af474fdf6b3f",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "last-page",
+      "original": {
+        "credit": "江語晨 · Jessie Chiang",
+        "url": "https://www.youtube.com/watch?v=LimKBhBzhjk"
+      },
+      "authority": {
+        "id": "last-page",
+        "url": "https://www.youtube.com/watch?v=LimKBhBzhjk",
+        "requestUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DLimKBhBzhjk",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-26T05:38:10.671Z",
+        "metadataSha256": "f256298ec6ad35c45b1872f44d73c1a2df253f908cc7ee94ef656b2600f00db1",
+        "title": "[avex official] 江語晨【最後一頁】完整版MV (1080p HD)",
+        "author": "avextaiwan",
+        "authorUrl": "https://www.youtube.com/@avextaiwan"
+      },
+      "related": [],
+      "versions": [
+        {
+          "bvid": "BV1bhy2zCEDH",
+          "type": "cover",
+          "publisher": "大大大大黑酱",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-26/bv1bhy2zcedh.json",
+            "sha256": "9619f3e7ce0cb9a9e71afeb21a94c51247493de0a4dc5d69ac640c0d0e584dfc",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-remainder-and-fan-works.json",
+            "sha256": "1f82bdb48fa5c554d65a386cd99ac5defe70834906d5486318d0af474fdf6b3f",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "meet-you",
+      "original": {
+        "credit": "孙燕姿 · Stefanie Sun",
+        "url": "https://music.apple.com/us/song/578524975"
+      },
+      "authority": {
+        "id": "meet-you",
+        "url": "https://music.apple.com/us/song/578524975",
+        "finalUrl": "https://music.apple.com/us/song/%E9%81%87%E8%A6%8B/578524975",
+        "title": "‎遇見 - Song with Lyrics by Yanzi Sun - Apple Music",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-26T05:38:04.710Z",
+        "htmlSha256": "0b773fd376cdd9e73390e728778c4533b1d373f88ece8c12e3aab47f43139dc1"
+      },
+      "related": [],
+      "versions": [
+        {
+          "bvid": "BV13uymzmEBR",
+          "type": "cover",
+          "publisher": "lyrickk",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-26/bv13uymzmebr.json",
+            "sha256": "c97a836a4e74ccca1ffa6b1bceda94c85be448f42016dea42c597091422a6779",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-remainder-and-fan-works.json",
+            "sha256": "1f82bdb48fa5c554d65a386cd99ac5defe70834906d5486318d0af474fdf6b3f",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "serious-snow",
+      "original": {
+        "credit": "薛之谦 · Joker Xue",
+        "url": "https://music.apple.com/th/song/1789061392"
+      },
+      "authority": {
+        "id": "serious-snow",
+        "url": "https://music.apple.com/th/song/1789061392",
+        "finalUrl": "https://music.apple.com/th/song/%E8%AE%A4%E7%9C%9F%E7%9A%84%E9%9B%AA/1789061392",
+        "title": "‎认真的雪 - Song with Lyrics by Joker Xue - Apple Music",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-26T05:38:04.649Z",
+        "htmlSha256": "47d98b03f18dcd9d397086f1ea284d95104984523e530d53fffd76b163e79e6a"
+      },
+      "related": [],
+      "versions": [
+        {
+          "bvid": "BV1npyCzpEiZ",
+          "type": "cover",
+          "publisher": "铭言Sir",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-26/bv1npyczpeiz.json",
+            "sha256": "398e879b9fa6748ad0765dc5c15c3540045371a30b228abf1c9b7fe38fbf1696",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-remainder-and-fan-works.json",
+            "sha256": "1f82bdb48fa5c554d65a386cd99ac5defe70834906d5486318d0af474fdf6b3f",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "counterclockwise-clock",
+      "original": {
+        "credit": "周杰伦 · Jay Chou",
+        "url": "https://www.youtube.com/watch?v=fuM1aVCGR8c"
+      },
+      "authority": {
+        "id": "counterclockwise-clock",
+        "url": "https://www.youtube.com/watch?v=fuM1aVCGR8c",
+        "requestUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfuM1aVCGR8c",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-26T05:38:10.631Z",
+        "metadataSha256": "11a15466592831ff2f2ad6d9255d86b1bdd6ec23fdb56bc529e9916d81455267",
+        "title": "Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video",
+        "author": "周杰倫 Jay Chou",
+        "authorUrl": "https://www.youtube.com/@JVRmuzic"
+      },
+      "related": [],
+      "versions": [
+        {
+          "bvid": "BV1Byy6z6EJZ",
+          "type": "cover",
+          "publisher": "小鲸鱼娘阿拾",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-26/bv1byy6z6ejz.json",
+            "sha256": "650f95a11b42a4b1ae8ebd18140545691084172e6f328377f1afa2aa46374df4",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-remainder-and-fan-works.json",
+            "sha256": "1f82bdb48fa5c554d65a386cd99ac5defe70834906d5486318d0af474fdf6b3f",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "heart111",
+      "original": {
+        "credit": "ゆーり · 原口沙輔",
+        "url": "https://www.jvcmusic.co.jp/-/Linkall/VE3WT-10625.html"
+      },
+      "authority": {
+        "id": "heart111",
+        "url": "https://www.jvcmusic.co.jp/-/Linkall/VE3WT-10625.html",
+        "finalUrl": "https://www.jvcmusic.co.jp/-/Linkall/VE3WT-10625.html",
+        "title": "ゆーり | ハート111 | ビクターエンタテインメント",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-26T05:38:04.169Z",
+        "htmlSha256": "1850e8c1c29adc50de9e21b40990a8fdea7269b4b8039c0f1f986cd103cd1775"
+      },
+      "related": [
+        {
+          "url": "https://www.jvcmusic.co.jp/-/News/A028428/5.html",
+          "httpStatus": 200,
+          "accessedAt": "2026-11-26T05:38:06.716Z",
+          "htmlSha256": "ac988551fd19b25e516223c7110518a6961301501fad35366df8851e31b917d7",
+          "title": "ゆーり | 「ゆーり」オリジナル楽曲 二次創作ガイドライン | ビクターエンタテインメント",
+          "scope": "Use of officially supplied material in fan posts, with specified credit and platform conditions."
+        }
+      ],
+      "versions": [
+        {
+          "bvid": "BV1ySyzz7EMv",
+          "type": "mv",
+          "publisher": "GPT龙龙",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-26/bv1ysyzz7emv.json",
+            "sha256": "d0f0559d34c10c0f28cd574445c3453ba604dd1998873b63732bf3c9c8f0a850",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-remainder-and-fan-works.json",
+            "sha256": "1f82bdb48fa5c554d65a386cd99ac5defe70834906d5486318d0af474fdf6b3f",
+            "kind": "browser-metadata-extract"
+          }
+        },
+        {
+          "bvid": "BV12yyzzDEPe",
+          "type": "mv",
+          "publisher": "GPT龙龙",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-26/bv12yyzzdepe.json",
+            "sha256": "594069771bf713d93ffa62d06e81978c0f35b612d9747de932a85520e53fe353",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-remainder-and-fan-works.json",
+            "sha256": "1f82bdb48fa5c554d65a386cd99ac5defe70834906d5486318d0af474fdf6b3f",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "kawaikute-gomen",
+      "original": {
+        "credit": "HoneyWorks feat. かぴ",
+        "url": "https://www.youtube.com/watch?v=a3FgmTfvJhA"
+      },
+      "authority": {
+        "id": "kawaikute-gomen",
+        "url": "https://www.youtube.com/watch?v=a3FgmTfvJhA",
+        "requestUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Da3FgmTfvJhA",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-26T05:38:10.612Z",
+        "metadataSha256": "890d989f7a7f13470c3dfd8527f46f2419b7653004b8eb8ccff1c3db7329dee7",
+        "title": "可愛くてごめん (feat. かぴ)／HoneyWorks",
+        "author": "かぴ",
+        "authorUrl": "https://www.youtube.com/@coffeecapi"
+      },
+      "related": [],
+      "versions": [
+        {
+          "bvid": "BV1Q6yrzwEeZ",
+          "type": "dance",
+          "publisher": "豆牛啊啊啊",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-26/bv1q6yrzweez.json",
+            "sha256": "d7200073b596eeaa6291dd07a1debb42222c8b98d6f54f5ab8fec8a952202c32",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-remainder-and-fan-works.json",
+            "sha256": "1f82bdb48fa5c554d65a386cd99ac5defe70834906d5486318d0af474fdf6b3f",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "childhood",
+      "original": {
+        "credit": "张艾嘉 · Sylvia Chang / 词曲 羅大佑",
+        "url": "https://shop.rockmall.com.tw/product_view.php?id=54285"
+      },
+      "authority": {
+        "id": "childhood",
+        "url": "https://shop.rockmall.com.tw/product_view.php?id=54285",
+        "finalUrl": "https://shop.rockmall.com.tw/product_view.php?id=54285",
+        "title": "ROCKMALL滾石購物網- - 張艾嘉 / 童年",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-26T05:38:09.493Z",
+        "htmlSha256": "e9870a265ee0a4f07e7cd8761c86284985bd4557a2f1b87b5191f91e8b5ccaa7"
+      },
+      "related": [],
+      "versions": [
+        {
+          "bvid": "BV1RCymzsEtQ",
+          "type": "cover",
+          "publisher": "渡鸦试作型",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-26/bv1rcymzsetq.json",
+            "sha256": "2257352dfb57138abbc6973bee31579e2d9aa066ca8cffdda409f2d75dbffeec",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-remainder-and-fan-works.json",
+            "sha256": "1f82bdb48fa5c554d65a386cd99ac5defe70834906d5486318d0af474fdf6b3f",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    }
+  ],
+  "existingTrackVersions": [
+    {
+      "id": "world-execute-me",
+      "bvid": "BV1zHyDzKE3L",
+      "type": "mv",
+      "sourceEvidence": {
+        "path": "content/research/2026-11-26/bv1zhydzke3l.json",
+        "sha256": "17540b012ec0439825e0efef1e2e01473ae2b4fed0ddba654484ed3b493107ea",
+        "kind": "browser-metadata-extract"
+      },
+      "earlierOriginal": {
+        "credit": "Mili",
+        "url": "https://www.youtube.com/watch?v=ESx_hy1n7HA"
+      }
+    },
+    {
+      "id": "trouble-maker-duo",
+      "bvid": "BV1jVyyzEEEr",
+      "type": "dance",
+      "sourceEvidence": {
+        "path": "content/research/2026-11-26/bv1jvyyzeeer.json",
+        "sha256": "22ad867affd03f6afdd0bc09d071980b61b43a1a4fb926bb501037ed106a7484",
+        "kind": "browser-metadata-extract"
+      },
+      "earlierOriginal": {
+        "credit": "Trouble Maker · HyunA & Jang Hyun-seung",
+        "url": "https://music.apple.com/us/album/trouble-maker-ep/1343137845"
+      }
+    },
+    {
+      "id": "friends-wine",
+      "bvid": "BV1o7y2zpEyx",
+      "type": "cover",
+      "sourceEvidence": {
+        "path": "content/research/2026-11-26/bv1o7y2zpeyx.json",
+        "sha256": "aed4c0071025ed82aa83b30fdb109acebfabd419e93b04deb236e83589fa285f",
+        "kind": "browser-metadata-extract"
+      },
+      "earlierOriginal": {
+        "credit": "李晓杰 · Li Xiaojie",
+        "url": "https://music.apple.com/us/song/%E6%9C%8B%E5%8F%8B%E7%9A%84%E9%85%92/1843716589"
+      }
+    }
+  ],
+  "scope": "Original links and fan-version attribution. No song audio or artwork copied. The Victor guidelines are linked with their own terms and scope."
+}

@@ -1,0 +1,101 @@
+{
+  "id": "metsh-claude-task-mascot",
+  "characterId": "metsh-claude-task-mascot",
+  "repository": "sherconan/dsh-task-mascot",
+  "revision": "9f9bbe12b93aa722937f7024889899ce19f3c7cd",
+  "pageUrl": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/manifest.json",
+  "originalPublication": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/thinking.png",
+  "collectedAt": "2026-11-26",
+  "attribution": [
+    {
+      "name": "metsh",
+      "url": "https://github.com/sherconan",
+      "role": "original-character",
+      "publication": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/thinking.png"
+    }
+  ],
+  "provenanceStatus": "creator-published-github-file",
+  "rights": {
+    "license": "CC-BY-SA-4.0",
+    "scope": "artwork",
+    "display": true,
+    "redistribute": true,
+    "modify": true,
+    "commercial": true,
+    "evidenceUrl": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/ART_LICENSE.md",
+    "reviewedBy": "AI Moe Atlas source review",
+    "reviewedAt": "2026-11-26",
+    "terms": {
+      "zh": "三张静态海报采用 CC BY-SA 4.0。保留 metsh 署名、原作与许可链接并标明改动，衍生版本按同一许可共享。",
+      "en": "The three static posters use CC BY-SA 4.0. Credit metsh, link the original and license, indicate changes and share adaptations under the same license.",
+      "ja": "静止ポスター3枚は CC BY-SA 4.0。metsh を表示し、原作とライセンスをリンクし、変更を明示。派生版は同じ条件で共有してください。"
+    }
+  },
+  "evidenceSnapshots": [
+    {
+      "path": "ART_LICENSE.md",
+      "url": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/ART_LICENSE.md",
+      "rawUrl": "https://raw.githubusercontent.com/sherconan/dsh-task-mascot/9f9bbe12b93aa722937f7024889899ce19f3c7cd/ART_LICENSE.md",
+      "sourceSha256": "fdeef5ac115dfd6a3eaa7ffccbb4cff6f716cc4517b200a6a5ccf256ea086ca2",
+      "gitBlobSha": "7ec02386125431d79ee4fbc8e7c16340127da626",
+      "bytes": 2699,
+      "commit": "9f9bbe12b93aa722937f7024889899ce19f3c7cd",
+      "accessedAt": "2026-11-26T05:36:37.257Z",
+      "scope": "Express CC BY-SA 4.0 applies to the original Claude fan character assets in assets/packs/claude/. The whale art has a separate license."
+    },
+    {
+      "path": "assets/packs/claude/manifest.json",
+      "url": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/manifest.json",
+      "rawUrl": "https://raw.githubusercontent.com/sherconan/dsh-task-mascot/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/manifest.json",
+      "sourceSha256": "d9b903acd8f45242da3aefdbcf11eb9e910bc6dcf99774b580725b01735f9490",
+      "gitBlobSha": "afe37b11e4d1aeaf156b93b8811df12ae8250f13",
+      "bytes": 2184,
+      "commit": "9f9bbe12b93aa722937f7024889899ce19f3c7cd",
+      "accessedAt": "2026-11-26T05:38:54.171Z",
+      "scope": "The creator manifest identifies metsh and the pinned poster filenames for all three states."
+    },
+    {
+      "path": "NOTICE.md",
+      "url": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/sherconan/dsh-task-mascot/9f9bbe12b93aa722937f7024889899ce19f3c7cd/NOTICE.md",
+      "sourceSha256": "8b20bb52c16b9861ac0e901c4b5ebf1e2324a5b2a6d7f6dfc50326b838ab42ee",
+      "gitBlobSha": "cae8cac6287dbb2688b75d23fbdc8f1192fd1eb6",
+      "bytes": 684,
+      "commit": "9f9bbe12b93aa722937f7024889899ce19f3c7cd",
+      "accessedAt": "2026-11-26T05:36:37.747Z",
+      "scope": "Separately identifies MIT code, differently licensed Whale Girl artwork and CC BY-SA 4.0 Claude artwork."
+    }
+  ],
+  "files": [
+    {
+      "id": "thinking",
+      "path": "assets/packs/claude/thinking.png",
+      "sha256": "35529b50fec3efb34c77c28f2577d9680fb5edecd111642358974f6a3c6d8443",
+      "label": {
+        "zh": "思考 · 原 PNG",
+        "en": "Thinking · Original PNG",
+        "ja": "思考 · 原 PNG"
+      }
+    },
+    {
+      "id": "done",
+      "path": "assets/packs/claude/done.png",
+      "sha256": "4353bc3125687b0b532919bf5635d02ce8e4ef2d5b20b2ad99d728d8c0c80ddf",
+      "label": {
+        "zh": "完成 · 原 PNG",
+        "en": "Done · Original PNG",
+        "ja": "完了 · 原 PNG"
+      }
+    },
+    {
+      "id": "waiting",
+      "path": "assets/packs/claude/waiting.png",
+      "sha256": "0d1ec2d8be83dafea6a4d4048415666d8ee95cab01cf8f75bfe833bd679dca01",
+      "label": {
+        "zh": "等待 · 原 PNG",
+        "en": "Waiting · Original PNG",
+        "ja": "待機 · 原 PNG"
+      }
+    }
+  ]
+}

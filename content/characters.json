@@ -4878,5 +4878,152 @@
       "en": "CC BY-NC 4.0 · Attribution, noncommercial",
       "ja": "CC BY-NC 4.0 · 作者表示、非商用"
     }
+  },
+  {
+    "id": "metsh-claude-task-mascot",
+    "entity": "claude",
+    "kind": "collected",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Claude 娘 · metsh 任务桌宠",
+      "en": "Claude Girl · metsh Task Mascot",
+      "ja": "Claude 娘 · metsh タスクマスコット"
+    },
+    "description": {
+      "zh": "橘色长卷发、花朵发饰、橘黑围裙与手持小书。",
+      "en": "Long orange curls, a flower hair clip, an orange and black apron and a small book.",
+      "ja": "オレンジ色の長い巻き髪、花の髪飾り、橙と黒のエプロン、小さな本。"
+    },
+    "story": {
+      "zh": "metsh 在 Task Mascot 发布的原创同人 Q 版 Claude 娘。收录思考、完成和等待三个状态的静态海报 PNG。",
+      "en": "The original chibi Claude fan design published by metsh in Task Mascot. Includes the static thinking, done and waiting PNG posters.",
+      "ja": "metsh が Task Mascot で公開したオリジナルの Claude ちびキャラ。思考・完了・待機の静止 PNG ポスターを収録。"
+    },
+    "features": {
+      "zh": "橘色长卷发、花朵发饰、橘黑围裙与手持小书。",
+      "en": "Long orange curls, a flower hair clip, an orange and black apron and a small book.",
+      "ja": "オレンジ色の長い巻き髪、花の髪飾り、橙と黒のエプロン、小さな本。"
+    },
+    "author": "metsh",
+    "authorUrl": "https://github.com/sherconan",
+    "source": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/manifest.json",
+    "sourceTitle": "Task Mascot · Claude manifest",
+    "originalPublication": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/thinking.png",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "metsh",
+        "url": "https://github.com/sherconan",
+        "role": "original-character",
+        "publication": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/thinking.png"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "licenseLabel": {
+      "zh": "CC BY-SA 4.0 · 署名、相同方式共享",
+      "en": "CC BY-SA 4.0 · Attribution, share-alike",
+      "ja": "CC BY-SA 4.0 · 作者表示、継承"
+    },
+    "downloadable": true,
+    "bg": "#fff0e3",
+    "color": "#8c572a",
+    "verifiedAt": "2026-11-26",
+    "origin": "web-collected",
+    "preview": "collected/metsh-claude-task-mascot/thinking/preview.webp",
+    "assets": [
+      {
+        "id": "thinking",
+        "label": {
+          "zh": "思考 · 原 PNG",
+          "en": "Thinking · Original PNG",
+          "ja": "思考 · 原 PNG"
+        }
+      },
+      {
+        "id": "done",
+        "label": {
+          "zh": "完成 · 原 PNG",
+          "en": "Done · Original PNG",
+          "ja": "完了 · 原 PNG"
+        }
+      },
+      {
+        "id": "waiting",
+        "label": {
+          "zh": "等待 · 原 PNG",
+          "en": "Waiting · Original PNG",
+          "ja": "待機 · 原 PNG"
+        }
+      }
+    ],
+    "provenanceNote": {
+      "zh": "原 PNG 均为 256 × 256。保留原始字节。规范化版本只进行等比适配、留边与格式转换。",
+      "en": "All original PNGs are 256 × 256. Original bytes are preserved. Normalized files apply aspect-preserving fitting, padding and format conversion only.",
+      "ja": "原 PNG はすべて256 × 256。原本を保持し、正規化版は縦横比を保つサイズ調整、余白追加、形式変換のみ。"
+    },
+    "terms": {
+      "zh": "三张静态海报采用 CC BY-SA 4.0。保留 metsh 署名、原作与许可链接并标明改动，衍生版本按同一许可共享。",
+      "en": "The three static posters use CC BY-SA 4.0. Credit metsh, link the original and license, indicate changes and share adaptations under the same license.",
+      "ja": "静止ポスター3枚は CC BY-SA 4.0。metsh を表示し、原作とライセンスをリンクし、変更を明示。派生版は同じ条件で共有してください。"
+    }
+  },
+  {
+    "id": "shuyuyin-suno-christmas",
+    "entity": "suno",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Suno 酱 · 圣诞插画",
+      "en": "Suno-chan · Christmas Illustration",
+      "ja": "Suno ちゃん · クリスマスイラスト"
+    },
+    "description": {
+      "zh": "Shuyu Yin 在 PixAI 上以「Suno 醬擬人化」发布圣诞主题作品。原发布标注图像由 Tsubaki.2 生成。",
+      "en": "Shuyu Yin published a Christmas-themed Suno personification on PixAI, with the page crediting Tsubaki.2 for image generation.",
+      "ja": "Shuyu Yin が PixAI でクリスマスを題材に Suno ちゃんの擬人化を公開。投稿に Tsubaki.2 による画像生成と記載。"
+    },
+    "story": {
+      "zh": "Shuyu Yin 在 PixAI 上以「Suno 醬擬人化」发布圣诞主题作品。原发布标注图像由 Tsubaki.2 生成。",
+      "en": "Shuyu Yin published a Christmas-themed Suno personification on PixAI, with the page crediting Tsubaki.2 for image generation.",
+      "ja": "Shuyu Yin が PixAI でクリスマスを題材に Suno ちゃんの擬人化を公開。投稿に Tsubaki.2 による画像生成と記載。"
+    },
+    "features": {
+      "zh": "粉色双辫、橙红 Suno 字样上衣和彩带，背景为圣诞晚餐。",
+      "en": "Pink twin braids, a red-orange Suno shirt and colorful ribbons at a Christmas dinner.",
+      "ja": "ピンクの二つ編み、Suno の文字入りの朱色の服、リボンとクリスマスの食卓。"
+    },
+    "author": "Shuyu Yin",
+    "authorUrl": "https://pixai.art/@xmac/artworks",
+    "source": "https://pixai.art/artwork/2069872753839766021",
+    "sourceTitle": "我自己搞出來的SUNO醬擬人化 AI Art | Christmas tree | PixAI",
+    "originalPublication": "https://pixai.art/artwork/2069872753839766021",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "Shuyu Yin",
+        "url": "https://pixai.art/@xmac/artworks",
+        "role": "original-character",
+        "publication": "https://pixai.art/artwork/2069872753839766021"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://pixai.art/artwork/2069872753839766021",
+    "downloadable": false,
+    "bg": "#f6ede6",
+    "color": "#965447",
+    "verifiedAt": "2026-11-26",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者页面提供的图片版本已核对哈希。",
+      "en": "The image rendition served on the creator page was hashed.",
+      "ja": "作者ページの配信画像のハッシュを照合。"
+    }
   }
 ]

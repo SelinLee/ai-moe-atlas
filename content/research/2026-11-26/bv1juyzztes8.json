@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bilibili.com/video/BV1JuyZztES8/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JuyZztES8",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:54.007Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV1JuyZztES8",
+    "title": "【GLM狐狸娘】祝昭昭做up主满月快乐！",
+    "owner": {
+      "name": "GLM狐娘在线查案",
+      "mid": 105698442
+    },
+    "pubdate": 1795496443,
+    "duration": 54
+  },
+  "descriptionSha256": "384c9bf1b013eb0f7d392b66303c96c3d17986498313e494df954e3da0ec333a",
+  "citedVideos": [],
+  "creditedSources": [
+    {
+      "role": "design-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    }
+  ]
+}

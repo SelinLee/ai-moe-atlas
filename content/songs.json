@@ -58,7 +58,8 @@
       {"id": "bv1arpz6web7", "type": "mv"},
       {"id": "bv17xpq6mer3", "type": "mv"},
       {"id": "bv1jjhl6we8q", "type": "mv"},
-      {"id": "bv1zdwu6aesj", "type": "mv"}
+      {"id": "bv1zdwu6aesj", "type": "mv"},
+      {"id": "bv1zhydzke3l", "type": "mv"}
     ]
   },
   {
@@ -477,7 +478,7 @@
     "id": "trouble-maker-duo",
     "title": {"zh": "Trouble Maker", "en": "Trouble Maker", "ja": "Trouble Maker"},
     "original": {"credit": "Trouble Maker · HyunA & Jang Hyun-seung", "url": "https://music.apple.com/us/album/trouble-maker-ep/1343137845"},
-    "versions": [{"id": "bv1stsz6iesz", "type": "mv"}, {"id": "bv1nc4c61ewf", "type": "mv"}]
+    "versions": [{"id": "bv1stsz6iesz", "type": "mv"}, {"id": "bv1nc4c61ewf", "type": "mv"}, {"id": "bv1jvyyzeeer", "type": "dance"}]
   },
   {
     "id": "friends-wine",
@@ -485,7 +486,8 @@
     "original": {"credit": "李晓杰 · Li Xiaojie", "url": "https://music.apple.com/us/song/%E6%9C%8B%E5%8F%8B%E7%9A%84%E9%85%92/1843716589"},
     "versions": [
       {"id": "bv14bnz6getk", "type": "remix"},
-      {"id": "bv19t1czxe9j", "type": "cover"}
+      {"id": "bv19t1czxe9j", "type": "cover"},
+      {"id": "bv1o7y2zpeyx", "type": "cover"}
     ]
   },
   {
@@ -756,5 +758,59 @@
     "title": {"zh": "青花瓷", "en": "Blue and White Porcelain", "ja": "青花瓷"},
     "original": {"credit": "周杰伦 · Jay Chou", "url": "https://music.apple.com/us/album/%E6%88%91%E5%BE%88%E5%BF%99/1721455530"},
     "versions": [{"id": "bv1xwybzjeax", "type": "cover"}]
+  },
+  {
+    "id": "more-one-night",
+    "title": {"zh": "More One Night", "en": "More One Night", "ja": "More One Night"},
+    "original": {"credit": "チト（水瀬いのり）・ユーリ（久保ユリカ）", "url": "https://girls-last-tour.com/products/music.html"},
+    "versions": [{"id": "bv1drykzreaj", "type": "dance"}]
+  },
+  {
+    "id": "more",
+    "title": {"zh": "MORE · K/DA", "en": "MORE · K/DA", "ja": "MORE · K/DA"},
+    "original": {"credit": "K/DA · Riot Games Music", "url": "https://www.youtube.com/watch?v=3VTkBuxU4yk"},
+    "versions": [{"id": "bv19kymzsenf", "type": "mv"}]
+  },
+  {
+    "id": "last-page",
+    "title": {"zh": "最后一页", "en": "The Last Page", "ja": "最後一頁"},
+    "original": {"credit": "江語晨 · Jessie Chiang", "url": "https://www.youtube.com/watch?v=LimKBhBzhjk"},
+    "versions": [{"id": "bv1bhy2zcedh", "type": "cover"}]
+  },
+  {
+    "id": "meet-you",
+    "title": {"zh": "遇见", "en": "Meet You", "ja": "遇見"},
+    "original": {"credit": "孙燕姿 · Stefanie Sun", "url": "https://music.apple.com/us/song/578524975"},
+    "versions": [{"id": "bv13uymzmebr", "type": "cover"}]
+  },
+  {
+    "id": "serious-snow",
+    "title": {"zh": "认真的雪", "en": "Serious Snow", "ja": "认真的雪"},
+    "original": {"credit": "薛之谦 · Joker Xue", "url": "https://music.apple.com/th/song/1789061392"},
+    "versions": [{"id": "bv1npyczpeiz", "type": "cover"}]
+  },
+  {
+    "id": "counterclockwise-clock",
+    "title": {"zh": "反方向的钟", "en": "Counter-clockwise Clock", "ja": "反方向的鐘"},
+    "original": {"credit": "周杰伦 · Jay Chou", "url": "https://www.youtube.com/watch?v=fuM1aVCGR8c"},
+    "versions": [{"id": "bv1byy6z6ejz", "type": "cover"}]
+  },
+  {
+    "id": "heart111",
+    "title": {"zh": "ハート111 · Heart 111", "en": "Heart 111", "ja": "ハート111"},
+    "original": {"credit": "ゆーり · 原口沙輔", "url": "https://www.jvcmusic.co.jp/-/Linkall/VE3WT-10625.html"},
+    "versions": [{"id": "bv1ysyzz7emv", "type": "mv"}, {"id": "bv12yyzzdepe", "type": "mv"}]
+  },
+  {
+    "id": "kawaikute-gomen",
+    "title": {"zh": "可愛くてごめん", "en": "Sorry for Being Cute", "ja": "可愛くてごめん"},
+    "original": {"credit": "HoneyWorks feat. かぴ", "url": "https://www.youtube.com/watch?v=a3FgmTfvJhA"},
+    "versions": [{"id": "bv1q6yrzweez", "type": "dance"}]
+  },
+  {
+    "id": "childhood",
+    "title": {"zh": "童年", "en": "Childhood", "ja": "童年"},
+    "original": {"credit": "张艾嘉 · Sylvia Chang / 词曲 羅大佑", "url": "https://shop.rockmall.com.tw/product_view.php?id=54285"},
+    "versions": [{"id": "bv1rcymzsetq", "type": "cover"}]
   }
 ]

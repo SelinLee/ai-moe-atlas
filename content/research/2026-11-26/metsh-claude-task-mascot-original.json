@@ -1,0 +1,75 @@
+{
+  "url": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/thinking.png",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-26T05:38:54.588Z",
+  "pinnedDocument": {
+    "path": "assets/packs/claude/thinking.png",
+    "url": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/thinking.png",
+    "rawUrl": "https://raw.githubusercontent.com/sherconan/dsh-task-mascot/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/thinking.png",
+    "sourceSha256": "35529b50fec3efb34c77c28f2577d9680fb5edecd111642358974f6a3c6d8443",
+    "gitBlobSha": "b942a984e98912dead14865e9238b00b3447c965",
+    "bytes": 18416,
+    "commit": "9f9bbe12b93aa722937f7024889899ce19f3c7cd",
+    "accessedAt": "2026-11-26T05:38:54.588Z"
+  },
+  "manifest": {
+    "path": "assets/packs/claude/manifest.json",
+    "url": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/manifest.json",
+    "rawUrl": "https://raw.githubusercontent.com/sherconan/dsh-task-mascot/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/manifest.json",
+    "sourceSha256": "d9b903acd8f45242da3aefdbcf11eb9e910bc6dcf99774b580725b01735f9490",
+    "gitBlobSha": "afe37b11e4d1aeaf156b93b8811df12ae8250f13",
+    "bytes": 2184,
+    "commit": "9f9bbe12b93aa722937f7024889899ce19f3c7cd",
+    "accessedAt": "2026-11-26T05:38:54.171Z"
+  },
+  "artworkTerms": {
+    "path": "ART_LICENSE.md",
+    "url": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/ART_LICENSE.md",
+    "rawUrl": "https://raw.githubusercontent.com/sherconan/dsh-task-mascot/9f9bbe12b93aa722937f7024889899ce19f3c7cd/ART_LICENSE.md",
+    "sourceSha256": "fdeef5ac115dfd6a3eaa7ffccbb4cff6f716cc4517b200a6a5ccf256ea086ca2",
+    "gitBlobSha": "7ec02386125431d79ee4fbc8e7c16340127da626",
+    "bytes": 2699,
+    "commit": "9f9bbe12b93aa722937f7024889899ce19f3c7cd",
+    "accessedAt": "2026-11-26T05:36:37.257Z"
+  },
+  "files": [
+    {
+      "path": "assets/packs/claude/thinking.png",
+      "url": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/thinking.png",
+      "rawUrl": "https://raw.githubusercontent.com/sherconan/dsh-task-mascot/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/thinking.png",
+      "sourceSha256": "35529b50fec3efb34c77c28f2577d9680fb5edecd111642358974f6a3c6d8443",
+      "gitBlobSha": "b942a984e98912dead14865e9238b00b3447c965",
+      "bytes": 18416,
+      "commit": "9f9bbe12b93aa722937f7024889899ce19f3c7cd",
+      "accessedAt": "2026-11-26T05:38:54.588Z",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "assets/packs/claude/done.png",
+      "url": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/done.png",
+      "rawUrl": "https://raw.githubusercontent.com/sherconan/dsh-task-mascot/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/done.png",
+      "sourceSha256": "4353bc3125687b0b532919bf5635d02ce8e4ef2d5b20b2ad99d728d8c0c80ddf",
+      "gitBlobSha": "50e8e4de78afb0c739eac33fcd2a2071d29619ed",
+      "bytes": 18677,
+      "commit": "9f9bbe12b93aa722937f7024889899ce19f3c7cd",
+      "accessedAt": "2026-11-26T05:38:55.013Z",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "path": "assets/packs/claude/waiting.png",
+      "url": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/waiting.png",
+      "rawUrl": "https://raw.githubusercontent.com/sherconan/dsh-task-mascot/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/waiting.png",
+      "sourceSha256": "0d1ec2d8be83dafea6a4d4048415666d8ee95cab01cf8f75bfe833bd679dca01",
+      "gitBlobSha": "5f206df552eaf3ba761894978a0b11fac028ed35",
+      "bytes": 18212,
+      "commit": "9f9bbe12b93aa722937f7024889899ce19f3c7cd",
+      "accessedAt": "2026-11-26T05:38:55.698Z",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "visualReview": "Three original PNGs were visually reviewed; no Anthropic logos were observed.",
+  "scope": "Pinned author and artwork-license statements, original poster bytes and exact manifest state names were verified."
+}

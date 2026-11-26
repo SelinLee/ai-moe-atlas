@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Byy6z6EJZ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Byy6z6EJZ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:44.853Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV1Byy6z6EJZ",
+    "title": "【周杰伦】反方向的钟｜女声翻唱 + 手绘动画MV，如果时间能倒着走",
+    "owner": {
+      "name": "小鲸鱼娘阿拾",
+      "mid": 520913480
+    },
+    "pubdate": 1795596168,
+    "duration": 113
+  },
+  "descriptionSha256": "f1ecad28cc43e80cf710510128eeade061afa52d038dda7fbeec81f0d790a63f",
+  "citedVideos": [],
+  "creditedSources": [
+    {
+      "role": "music-original",
+      "title": "Jay Chou 周杰倫【反方向的鐘 Counter-clockwise Clock】-Official Music Video",
+      "url": "https://www.youtube.com/watch?v=fuM1aVCGR8c"
+    }
+  ]
+}

@@ -6926,5 +6926,203 @@
         }
       }
     }
+  },
+  {
+    "characterId": "shuyuyin-suno-christmas",
+    "reviewedAt": "2026-11-26",
+    "reviewBasis": "The creator, original post, AI-generated artwork and exact served image rendition were checked. Reuse rights and unscaled masters remain unconfirmed.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://pixai.art/artwork/2069872753839766021",
+    "attribution": [
+      {
+        "name": "Shuyu Yin",
+        "url": "https://pixai.art/@xmac/artworks",
+        "role": "original-character",
+        "publication": "https://pixai.art/artwork/2069872753839766021"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅提供作者原发布链接。图像展示、转载与改编许可待核。",
+          "en": "Creator publication linked. Image display, republication and adaptation permissions remain unconfirmed.",
+          "ja": "作者の原投稿へリンク。画像の表示・転載・改変許可は確認待ち。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅提供作者原发布链接。图像展示、转载与改编许可待核。",
+          "en": "Creator publication linked. Image display, republication and adaptation permissions remain unconfirmed.",
+          "ja": "作者の原投稿へリンク。画像の表示・転載・改変許可は確認待ち。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅提供作者原发布链接。图像展示、转载与改编许可待核。",
+          "en": "Creator publication linked. Image display, republication and adaptation permissions remain unconfirmed.",
+          "ja": "作者の原投稿へリンク。画像の表示・転載・改変許可は確認待ち。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅提供作者原发布链接。图像展示、转载与改编许可待核。",
+          "en": "Creator publication linked. Image display, republication and adaptation permissions remain unconfirmed.",
+          "ja": "作者の原投稿へリンク。画像の表示・転載・改変許可は確認待ち。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅提供作者原发布链接。图像展示、转载与改编许可待核。",
+          "en": "Creator publication linked. Image display, republication and adaptation permissions remain unconfirmed.",
+          "ja": "作者の原投稿へリンク。画像の表示・転載・改変許可は確認待ち。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅提供作者原发布链接。图像展示、转载与改编许可待核。",
+          "en": "Creator publication linked. Image display, republication and adaptation permissions remain unconfirmed.",
+          "ja": "作者の原投稿へリンク。画像の表示・転載・改変許可は確認待ち。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅提供作者原发布链接。图像展示、转载与改编许可待核。",
+          "en": "Creator publication linked. Image display, republication and adaptation permissions remain unconfirmed.",
+          "ja": "作者の原投稿へリンク。画像の表示・転載・改変許可は確認待ち。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "仅提供作者原发布链接。图像展示、转载与改编许可待核。",
+          "en": "Creator publication linked. Image display, republication and adaptation permissions remain unconfirmed.",
+          "ja": "作者の原投稿へリンク。画像の表示・転載・改変許可は確認待ち。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "metsh-claude-task-mascot",
+    "reviewedAt": "2026-11-26",
+    "reviewBasis": "Pinned author and artwork-license statements, original poster bytes and exact manifest state names were verified.",
+    "artworks": [
+      {
+        "assetId": "thinking",
+        "sha256": "35529b50fec3efb34c77c28f2577d9680fb5edecd111642358974f6a3c6d8443"
+      },
+      {
+        "assetId": "done",
+        "sha256": "4353bc3125687b0b532919bf5635d02ce8e4ef2d5b20b2ad99d728d8c0c80ddf"
+      },
+      {
+        "assetId": "waiting",
+        "sha256": "0d1ec2d8be83dafea6a4d4048415666d8ee95cab01cf8f75bfe833bd679dca01"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/ART_LICENSE.md",
+        "localPath": "collected/metsh-claude-task-mascot/evidence/source-statement-1.json",
+        "sha256": "0b0e8db6ec6758bd88a21f36b1bde1c402a89b903524e41e2155de53c7ce2193"
+      },
+      {
+        "sourceUrl": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/manifest.json",
+        "localPath": "collected/metsh-claude-task-mascot/evidence/source-statement-2.json",
+        "sha256": "0fb0e3beca2d487e7753f66f9f96fb89a5366e3c4ae31815f18aa60c8e6348c7"
+      },
+      {
+        "sourceUrl": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/NOTICE.md",
+        "localPath": "collected/metsh-claude-task-mascot/evidence/source-statement-3.json",
+        "sha256": "0d41268fa7b063de600a3e48a60024c708f86cab745e005ab2182adda37ec42c"
+      }
+    ],
+    "evidenceUrl": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/ART_LICENSE.md",
+    "attribution": [
+      {
+        "name": "metsh",
+        "url": "https://github.com/sherconan",
+        "role": "original-character",
+        "publication": "https://github.com/sherconan/dsh-task-mascot/blob/9f9bbe12b93aa722937f7024889899ce19f3c7cd/assets/packs/claude/thinking.png"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "reviewedAt": "2026-11-26",
+        "conditions": {
+          "zh": "三张静态海报采用 CC BY-SA 4.0。保留 metsh 署名、原作与许可链接并标明改动，衍生版本按同一许可共享。",
+          "en": "The three static posters use CC BY-SA 4.0. Credit metsh, link the original and license, indicate changes and share adaptations under the same license.",
+          "ja": "静止ポスター3枚は CC BY-SA 4.0。metsh を表示し、原作とライセンスをリンクし、変更を明示。派生版は同じ条件で共有してください。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "此版式尚未逐项核对，提供原作链接。",
+          "en": "This layout is pending specific review. The original source remains available.",
+          "ja": "このレイアウトは個別確認待ち。原作リンクを参照。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-11-26",
+        "conditions": {
+          "zh": "适配时保留完整图像和独立署名区，附原作和许可链接并注明缩放、留边与格式转换。",
+          "en": "Keep the complete image and a separate credit area. Link the original and license, and note fitting, padding and format conversion.",
+          "ja": "画像全体と独立したクレジット欄を維持。原作とライセンスへのリンクを添え、サイズ調整・余白・形式変換を明記。"
+        }
+      },
+      "full-portrait": {
+        "decision": "allowed",
+        "reviewedAt": "2026-11-26",
+        "conditions": {
+          "zh": "适配时保留完整图像和独立署名区，附原作和许可链接并注明缩放、留边与格式转换。",
+          "en": "Keep the complete image and a separate credit area. Link the original and license, and note fitting, padding and format conversion.",
+          "ja": "画像全体と独立したクレジット欄を維持。原作とライセンスへのリンクを添え、サイズ調整・余白・形式変換を明記。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "此版式尚未逐项核对，提供原作链接。",
+          "en": "This layout is pending specific review. The original source remains available.",
+          "ja": "このレイアウトは個別確認待ち。原作リンクを参照。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "此版式尚未逐项核对，提供原作链接。",
+          "en": "This layout is pending specific review. The original source remains available.",
+          "ja": "このレイアウトは個別確認待ち。原作リンクを参照。"
+        }
+      },
+      "readme-demo": {
+        "decision": "allowed",
+        "reviewedAt": "2026-11-26",
+        "conditions": {
+          "zh": "三张静态海报采用 CC BY-SA 4.0。保留 metsh 署名、原作与许可链接并标明改动，衍生版本按同一许可共享。",
+          "en": "The three static posters use CC BY-SA 4.0. Credit metsh, link the original and license, indicate changes and share adaptations under the same license.",
+          "ja": "静止ポスター3枚は CC BY-SA 4.0。metsh を表示し、原作とライセンスをリンクし、変更を明示。派生版は同じ条件で共有してください。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-11-26",
+        "conditions": {
+          "zh": "适配时保留完整图像和独立署名区，附原作和许可链接并注明缩放、留边与格式转换。",
+          "en": "Keep the complete image and a separate credit area. Link the original and license, and note fitting, padding and format conversion.",
+          "ja": "画像全体と独立したクレジット欄を維持。原作とライセンスへのリンクを添え、サイズ調整・余白・形式変換を明記。"
+        }
+      }
+    }
   }
 ]

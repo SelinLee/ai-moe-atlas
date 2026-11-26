@@ -1,0 +1,28 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Un1cz2EER/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Un1cz2EER",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:41:52.474Z",
+  "scope": "Official view metadata was rechecked at the same uploader UID and publication date.",
+  "metadata": {
+    "bvid": "BV1Un1cz2EER",
+    "title": "大肥鱼翻唱《星降る海》，嘿嘿～",
+    "owner": {
+      "name": "老牛的大肥鱼",
+      "mid": 3706940995668775
+    },
+    "pubdate": 1795529783,
+    "duration": 254
+  },
+  "descriptionSha256": "fd20d5de5c8464ea16baef70cfffe33f4430e6f45fb62ea22c77006c2ff339a3",
+  "prior": {
+    "sourceTitle": "大肥鱼翻唱《星降る海》，这是八千代唱给彩叶的情歌吧，嘿嘿～",
+    "publisher": "老牛的大肥鱼"
+  },
+  "previousEvidence": {
+    "path": "content/research/2026-11-25/bv1un1cz2eer.json",
+    "sha256": "f4d4685ec4850ac892c38443e11100d3afa8c2d91525393ecc5ec6ef29f4fbfb",
+    "kind": "browser-metadata-extract"
+  }
+}

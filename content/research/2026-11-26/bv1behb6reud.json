@@ -1,0 +1,34 @@
+{
+  "url": "https://www.bilibili.com/video/BV1bEhb6rEuD/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bEhb6rEuD",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:46.381Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV1bEhb6rEuD",
+    "title": "请选择你的AI模型",
+    "owner": {
+      "name": "想看故事的lazy",
+      "mid": 667193391
+    },
+    "pubdate": 1790178018,
+    "duration": 15
+  },
+  "descriptionSha256": "5546a038e53651e9b92155595322b88f3acb7f010be6509c2848b1cede2b1465",
+  "citedVideos": [
+    "BV1Moew6kEud"
+  ],
+  "creditedSources": [
+    {
+      "role": "design-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "cited-upload",
+      "title": "BV1Moew6kEud",
+      "url": "https://www.bilibili.com/video/BV1Moew6kEud/"
+    }
+  ]
+}

@@ -1,4 +1,5 @@
 import { readFile } from 'node:fs/promises';
+import { setTimeout as delay } from 'node:timers/promises';
 import { chromium } from 'playwright';
 import { readPendingAnimationCandidates } from './lib/resources.mjs';
 
@@ -49,7 +50,9 @@ try {
     captureScope = 'candidate-selection';
   }
   let stoppedEarly = false;
-  for (let index = 0; index < requested.length; index += 5) {
+  const batchSize = 2;
+  for (let index = 0; index < requested.length; index += batchSize) {
+    if (index > 0) await delay(1100);
     const batch = await page.evaluate(async bvids => Promise.all(bvids.map(async bvid => {
       const requestUrl = 'https://api.bilibili.com/x/web-interface/view?bvid=' + bvid;
       try {
@@ -67,9 +70,9 @@ try {
       } catch (error) {
         return { bvid, requestUrl, observedAt: new Date().toISOString(), error: String(error) };
       }
-    })), requested.slice(index, index + 5));
+    })), requested.slice(index, index + batchSize));
     observations.push(...batch);
-    if (observations.length < requested.length && batch.every(row => [412, 429].includes(row.httpStatus))) {
+    if (observations.length < requested.length && batch.some(row => [412, 429].includes(row.httpStatus))) {
       stoppedEarly = true;
       break;
     }
@@ -90,7 +93,7 @@ try {
 
   const unverified = observations.filter(row => !isVerified(row));
   if (stoppedEarly) {
-    process.stderr.write(`Collection stopped after ${observations.length} of ${requested.length} requests because every request in the last batch returned HTTP 412 or 429.\n`);
+    process.stderr.write(`Collection stopped after ${observations.length} of ${requested.length} requests because the endpoint returned HTTP 412 or 429.\n`);
     process.exitCode = 1;
   }
   if (unverified.length) {

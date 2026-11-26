@@ -1,0 +1,37 @@
+{
+  "url": "https://www.bilibili.com/video/BV12yyzzDEPe/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12yyzzDEPe",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:49.486Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV12yyzzDEPe",
+    "title": "【GPT白龙娘/竖屏纯享】ハート111 (Heart 111) 官方同款竖屏同人MV",
+    "owner": {
+      "name": "GPT龙龙",
+      "mid": 1048903613
+    },
+    "pubdate": 1795606200,
+    "duration": 30
+  },
+  "descriptionSha256": "7bd409718923439e995194b12156626b6b795632f22845f5d3a8997cb606d6ea",
+  "citedVideos": [],
+  "creditedSources": [
+    {
+      "role": "music-original",
+      "title": "ゆーり | ハート111 | ビクターエンタテインメント",
+      "url": "https://www.jvcmusic.co.jp/-/Linkall/VE3WT-10625.html"
+    },
+    {
+      "role": "alternate-edition",
+      "title": "BV1ySyzz7EMv",
+      "url": "https://www.bilibili.com/video/BV1ySyzz7EMv/"
+    },
+    {
+      "role": "music-rights-guidance",
+      "title": "Victor Entertainment · ゆーり",
+      "url": "https://www.jvcmusic.co.jp/-/News/A028428/5.html"
+    }
+  ]
+}

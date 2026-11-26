@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bilibili.com/video/BV1dRykzrEAj/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dRykzrEAj",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:38.473Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV1dRykzrEAj",
+    "title": "【AI少女终末旅行】GPT娘和Claude娘在废墟里跳起了《More One Night》",
+    "owner": {
+      "name": "薇纷芳橙",
+      "mid": 504297882
+    },
+    "pubdate": 1795608000,
+    "duration": 93
+  },
+  "descriptionSha256": "1a98c31bcec16b1339d42b752cb07db93278565ad2cea7581fd41ccaae45acb8",
+  "citedVideos": [],
+  "creditedSources": [
+    {
+      "role": "music-original",
+      "title": "PRODUCTS - MUSIC｜TVアニメ「少女終末旅行」公式サイト",
+      "url": "https://girls-last-tour.com/products/music.html"
+    }
+  ]
+}

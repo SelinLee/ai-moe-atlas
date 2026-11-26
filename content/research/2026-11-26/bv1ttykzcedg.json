@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1TtykzcEDG/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TtykzcEDG",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:41.850Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV1TtykzcEDG",
+    "title": "你喜欢的猫猫是Gemini还是猫？",
+    "owner": {
+      "name": "Mistral法棍猫在运营",
+      "mid": 9126506
+    },
+    "pubdate": 1795610795,
+    "duration": 51
+  },
+  "descriptionSha256": "a7cdfa20cb5125f67adebb40cfd02890ff2801850d0a70c1bfe12adf2adb1bfa",
+  "citedVideos": [],
+  "creditedSources": []
+}

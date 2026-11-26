@@ -1,0 +1,39 @@
+{
+  "url": "https://www.bilibili.com/video/BV1bhy2zCEDH/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bhy2zCEDH",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:43.345Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV1bhy2zCEDH",
+    "title": "【大肥鱼AI翻唱】《最后一页》｜海潮声淹没了离别时的黄昏，星空下拥抱着快凋零的温存 🐋",
+    "owner": {
+      "name": "大大大大黑酱",
+      "mid": 1775824
+    },
+    "pubdate": 1795668420,
+    "duration": 247
+  },
+  "descriptionSha256": "d8a75b5e9d928278ab3d87eeea4b983d71fdb49281bde114bde5c5cdf012dc90",
+  "citedVideos": [
+    "BV1PPYM6EEUR"
+  ],
+  "creditedSources": [
+    {
+      "role": "design-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "cited-upload",
+      "title": "BV1PPYM6EEUR",
+      "url": "https://www.bilibili.com/video/BV1PPYM6EEUR/"
+    },
+    {
+      "role": "music-original",
+      "title": "[avex official] 江語晨【最後一頁】完整版MV (1080p HD)",
+      "url": "https://www.youtube.com/watch?v=LimKBhBzhjk"
+    }
+  ]
+}

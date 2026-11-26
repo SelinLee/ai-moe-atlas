@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bilibili.com/video/BV1PyyZzeEiZ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PyyZzeEiZ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:54.046Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV1PyyZzeEiZ",
+    "title": "【AI娘/纯爱后宫】“我”与“她们”的日常 6.0 狐狐发5.4啦，狐狐很喜欢你哦",
+    "owner": {
+      "name": "Tips-SoNg",
+      "mid": 627906174
+    },
+    "pubdate": 1795520168,
+    "duration": 23
+  },
+  "descriptionSha256": "889d5dd344d9162067efbb43753584a250154a83ea090b93c2cf52ce53a344cf",
+  "citedVideos": [],
+  "creditedSources": [
+    {
+      "role": "design-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    }
+  ]
+}

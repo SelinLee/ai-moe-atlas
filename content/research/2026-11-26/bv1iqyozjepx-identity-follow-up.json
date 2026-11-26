@@ -1,0 +1,28 @@
+{
+  "url": "https://www.bilibili.com/video/BV1iqyozJEpx/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1iqyozJEpx",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:39:16.363Z",
+  "scope": "Official view metadata was rechecked at the same uploader UID and publication date.",
+  "metadata": {
+    "bvid": "BV1iqyozJEpx",
+    "title": "【一月新番】可爱八股鱼",
+    "owner": {
+      "name": "蒙德砍壬",
+      "mid": 1931150416
+    },
+    "pubdate": 1795498644,
+    "duration": 31
+  },
+  "descriptionSha256": "51894a99f05da42fc31baff1025aadc1999b9df0af32608581a7617ca3d5f743",
+  "prior": {
+    "sourceTitle": "【二月新番/我跟ai娘一起生活的故事】可爱八股鱼",
+    "publisher": "蒙德砍壬"
+  },
+  "previousEvidence": {
+    "path": "content/research/2026-11-25/bv1iqyozjepx.json",
+    "sha256": "61532b9ecdf598a40f3dca0b103161e6652df64acf77b10eca0c192c14683f4b",
+    "kind": "browser-metadata-extract"
+  }
+}

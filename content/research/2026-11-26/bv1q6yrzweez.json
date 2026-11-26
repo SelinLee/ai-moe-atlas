@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Q6yrzwEeZ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Q6yrzwEeZ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:50.985Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV1Q6yrzwEeZ",
+    "title": "嘎啦嘛的这么可爱真是抱歉~❤",
+    "owner": {
+      "name": "豆牛啊啊啊",
+      "mid": 557760960
+    },
+    "pubdate": 1795651200,
+    "duration": 221
+  },
+  "descriptionSha256": "c7549a7657ffd2cef166e30e08fab02dd45e45556f58774db33e37a1c5dccd3c",
+  "citedVideos": [],
+  "creditedSources": [
+    {
+      "role": "music-original",
+      "title": "可愛くてごめん (feat. かぴ)／HoneyWorks",
+      "url": "https://www.youtube.com/watch?v=a3FgmTfvJhA"
+    }
+  ]
+}

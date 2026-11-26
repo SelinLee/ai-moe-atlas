@@ -1,0 +1,125 @@
+{
+  "previousLeaderboardEvidence": {
+    "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-candidate-follow-up.json",
+    "sha256": "0bd649ae9d7531ff1b26ba9fbccfad2714680066d676e8a09e56489dcf4f6087",
+    "kind": "browser-metadata-extract"
+  },
+  "updatedSnapshot": {
+    "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-remainder-and-fan-works.json",
+    "sha256": "1f82bdb48fa5c554d65a386cd99ac5defe70834906d5486318d0af474fdf6b3f",
+    "kind": "browser-metadata-extract"
+  },
+  "capturedAt": "2026-11-26T05:42:58.484Z",
+  "originalCatalogSize": 938,
+  "oldCatalogAttempts": 489,
+  "oldCatalogSuccesses": 479,
+  "uniqueOldCatalogWithValidCountToday": 928,
+  "srcUnavailableOldCatalogNow": 10,
+  "failuresRetainedWithoutRepeatQuery": 0,
+  "previouslyUnqueried": {
+    "count": 433,
+    "attempted": 433,
+    "refreshed": 430
+  },
+  "recoveredPreviousFailures": [
+    "BV18os56oExY",
+    "BV1fusE6LEnN",
+    "BV1obs46eEGW",
+    "BV12u4E6AE4W",
+    "BV1frsq6KEhw",
+    "BV18GsY66EC2",
+    "BV1uTxv61E7s",
+    "BV1eHH36VEcK",
+    "BV1YCpE6KEqR",
+    "BV1z8Wm6hEkD",
+    "BV1QEnd6cEve",
+    "BV1C9WE6HEzp",
+    "BV1HNWv6FECE",
+    "BV15zWV64EKS",
+    "BV1K2sV61Exb",
+    "BV1rpWe6ZEeW",
+    "BV15t4x6PEQF",
+    "BV14bnA6kE2Y",
+    "BV1tYs86bEwt",
+    "BV1XNWB6dEYj",
+    "BV1A8xE6dEjR",
+    "BV1mTn16oE7d",
+    "BV1UXsh6eEmb",
+    "BV1RfHa6BEPB",
+    "BV1EFng61ETs",
+    "BV14mbh6kEcd",
+    "BV15cWi6QEwE",
+    "BV1TVsh6wEKz",
+    "BV1abWt68EXp",
+    "BV1pRsi6BE3g",
+    "BV1N6yWzuETv",
+    "BV1BknH61E6n",
+    "BV11ygF6BETH",
+    "BV1q8sS6AEaz",
+    "BV1QwsM6gEr2"
+  ],
+  "recheckStopReason": "selected-catalog-complete",
+  "candidates": {
+    "attempted": 39,
+    "addedToRanking": 27,
+    "previousPending": 17,
+    "promoted": [
+      "BV12iy2zgEZq",
+      "BV1iny2znE3b",
+      "BV1E9y2zZEUa",
+      "BV1dRykzrEAj",
+      "BV19KymzSENf"
+    ],
+    "stillPending": 12
+  },
+  "officialMetadataChanges": [
+    {
+      "bvid": "BV1iqyozJEpx",
+      "prior": {
+        "sourceTitle": "【二月新番/我跟ai娘一起生活的故事】可爱八股鱼",
+        "publisher": "蒙德砍壬"
+      },
+      "current": {
+        "sourceTitle": "【一月新番】可爱八股鱼",
+        "publisher": "蒙德砍壬"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-26/bv1iqyozjepx-identity-follow-up.json",
+        "sha256": "a0941068f5ec0f605abf055522a06e44826ba3facf0e017c6a227e441a9d9a10",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "bvid": "BV1M11wzJEgn",
+      "prior": {
+        "sourceTitle": "我没招了（和肥鱼猜拳）",
+        "publisher": "我真的会喜欢你"
+      },
+      "current": {
+        "sourceTitle": "我没招了",
+        "publisher": "我真的会喜欢你"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-26/bv1m11wzjegn-identity-follow-up.json",
+        "sha256": "e5745c4140d066020b0a21f46e4eaf381614bc55807f600831963b7c39edac92",
+        "kind": "browser-metadata-extract"
+      }
+    },
+    {
+      "bvid": "BV1Un1cz2EER",
+      "prior": {
+        "sourceTitle": "大肥鱼翻唱《星降る海》，这是八千代唱给彩叶的情歌吧，嘿嘿～",
+        "publisher": "老牛的大肥鱼"
+      },
+      "current": {
+        "sourceTitle": "大肥鱼翻唱《星降る海》，嘿嘿～",
+        "publisher": "老牛的大肥鱼"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-26/bv1un1cz2eer-identity-follow-up.json",
+        "sha256": "26940217078ab2d65dd9d050a36a6390dabaee6e82766fd792ee89cf20d14e15",
+        "kind": "browser-metadata-extract"
+      }
+    }
+  ]
+}

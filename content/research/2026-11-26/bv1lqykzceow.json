@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1LQykzCEow/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LQykzCEow",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:47.928Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV1LQykzCEow",
+    "title": "欧鲸鲸：泥会夸人吗？小克：会呀！😁 【bilibili同人扶持计划】",
+    "owner": {
+      "name": "暮来朝黎",
+      "mid": 687382035
+    },
+    "pubdate": 1795644000,
+    "duration": 30
+  },
+  "descriptionSha256": "2a602c7551feab51e1db0219abf4b575a032559e301edcef24a3fe168ae0b5ec",
+  "citedVideos": [],
+  "creditedSources": []
+}

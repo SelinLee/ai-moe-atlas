@@ -1,0 +1,28 @@
+{
+  "url": "https://www.bilibili.com/video/BV1M11wzJEgn/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1M11wzJEgn",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:41:10.509Z",
+  "scope": "Official view metadata was rechecked at the same uploader UID and publication date.",
+  "metadata": {
+    "bvid": "BV1M11wzJEgn",
+    "title": "我没招了",
+    "owner": {
+      "name": "我真的会喜欢你",
+      "mid": 1125005479
+    },
+    "pubdate": 1795575600,
+    "duration": 31
+  },
+  "descriptionSha256": "843a09395ce1448be675520369f9ff4d26baefff798cd24ba95c3d1e207f8e19",
+  "prior": {
+    "sourceTitle": "我没招了（和肥鱼猜拳）",
+    "publisher": "我真的会喜欢你"
+  },
+  "previousEvidence": {
+    "path": "content/research/2026-11-25/bv1m11wzjegn.json",
+    "sha256": "6629ebca5f1e12ed421f07ddf222a7919f734c817bbc4e3d517a42fb85107589",
+    "kind": "browser-metadata-extract"
+  }
+}

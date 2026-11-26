@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bilibili.com/video/BV1o7y2zpEyx/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1o7y2zpEyx",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:55.552Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV1o7y2zpEyx",
+    "title": "大肥鱼翻唱⚡朋友的酒🥃，所有鱼保持Q弹⚡",
+    "owner": {
+      "name": "宫怜月大肥鱼",
+      "mid": 3747574343272764
+    },
+    "pubdate": 1795667546,
+    "duration": 201
+  },
+  "descriptionSha256": "d3d9132da36163b8e6bce58fb6657faa73339ce6a7068c8a461867e90b02b267",
+  "citedVideos": [],
+  "creditedSources": [
+    {
+      "role": "music-original",
+      "title": "李晓杰 · Li Xiaojie",
+      "url": "https://music.apple.com/us/song/%E6%9C%8B%E5%8F%8B%E7%9A%84%E9%85%92/1843716589"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bilibili.com/video/BV13uymzmEBR/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13uymzmEBR",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:43.352Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV13uymzmEBR",
+    "title": "【手书】大肥鱼翻唱《遇见》",
+    "owner": {
+      "name": "lyrickk",
+      "mid": 285231564
+    },
+    "pubdate": 1795667400,
+    "duration": 205
+  },
+  "descriptionSha256": "ab6811a332dd5995abf195c7852dcfece659beedc061368dc6ca9587310a3216",
+  "citedVideos": [],
+  "creditedSources": [
+    {
+      "role": "music-original",
+      "title": "‎遇見 - Song with Lyrics by Yanzi Sun - Apple Music",
+      "url": "https://music.apple.com/us/song/578524975"
+    }
+  ]
+}

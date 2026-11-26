@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bilibili.com/video/BV1npyCzpEiZ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1npyCzpEiZ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:44.863Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV1npyCzpEiZ",
+    "title": "”我并不在乎自己究竟多伤痕累累 可我在乎今后你有谁陪“——大肥鱼温柔翻唱《认真的雪》",
+    "owner": {
+      "name": "铭言Sir",
+      "mid": 386992101
+    },
+    "pubdate": 1795667400,
+    "duration": 79
+  },
+  "descriptionSha256": "514b45fed8f2ec8e56fa56651b0da64c06c95996ea817c9e2cd78aa214c258ac",
+  "citedVideos": [],
+  "creditedSources": [
+    {
+      "role": "music-original",
+      "title": "‎认真的雪 - Song with Lyrics by Joker Xue - Apple Music",
+      "url": "https://music.apple.com/th/song/1789061392"
+    }
+  ]
+}

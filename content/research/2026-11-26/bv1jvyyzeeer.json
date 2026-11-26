@@ -1,0 +1,32 @@
+{
+  "url": "https://www.bilibili.com/video/BV1jVyyzEEEr/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jVyyzEEEr",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:50.987Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV1jVyyzEEEr",
+    "title": "智谱GLM和月之暗面Kimi跳TroubleMaker，Deepseek鲸鱼娘和Claude在观众席，480p超分的有点糊，时长只有一分钟【AI MV大赛】",
+    "owner": {
+      "name": "超短毛垂耳兔",
+      "mid": 329107635
+    },
+    "pubdate": 1795622774,
+    "duration": 70
+  },
+  "descriptionSha256": "4e5213910ab8f7b031c6f74ac835203c049c49d9d8aadf699264d5cc94d9333b",
+  "citedVideos": [],
+  "creditedSources": [
+    {
+      "role": "design-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "music-original",
+      "title": "Trouble Maker · HyunA & Jang Hyun-seung",
+      "url": "https://music.apple.com/us/album/trouble-maker-ep/1343137845"
+    }
+  ]
+}

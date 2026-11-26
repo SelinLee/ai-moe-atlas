@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV13Py1zVEDJ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13Py1zVEDJ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:47.902Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV13Py1zVEDJ",
+    "title": "克克？！【bilibilionly同人扶持计划】",
+    "owner": {
+      "name": "希茶TVTEA",
+      "mid": 3546947782707530
+    },
+    "pubdate": 1795654860,
+    "duration": 31
+  },
+  "descriptionSha256": "40761598b9d2d56bf4c47c1da310b61c2cbbdf6f61d3685601b7c0a948259402",
+  "citedVideos": [],
+  "creditedSources": []
+}

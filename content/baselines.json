@@ -428,5 +428,15 @@
       "en": "Trace any other independently published designs.",
       "ja": "作者が公開した他の独立版を確認する。"
     }
+  },
+  {
+    "entity": "suno",
+    "characterId": "shuyuyin-suno-christmas",
+    "reviewedAt": "2026-11-26",
+    "nextAction": {
+      "zh": "逐件核对展示、转载和改编条件。",
+      "en": "Verify the image-specific display, republication and adaptation terms.",
+      "ja": "個別画像の表示・転載・改変条件を確認する。"
+    }
   }
 ]

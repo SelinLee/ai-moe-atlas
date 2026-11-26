@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1iny2znE3b/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1iny2znE3b",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:36.689Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV1iny2znE3b",
+    "title": "⚡超⚡级⚡精⚡神⚡力（两条肥鱼版）",
+    "owner": {
+      "name": "一娓一昭",
+      "mid": 668936499
+    },
+    "pubdate": 1795665967,
+    "duration": 16
+  },
+  "descriptionSha256": "bb75cc88bbbc700533eb0d5c803b7a19dc334232115315d3122ea3558a9dab9f",
+  "citedVideos": [],
+  "creditedSources": []
+}

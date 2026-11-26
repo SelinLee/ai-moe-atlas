@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1E9y2zZEUa/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1E9y2zZEUa",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:38.481Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV1E9y2zZEUa",
+    "title": "肥鱼公寓之Charged Confessed  Beaten",
+    "owner": {
+      "name": "方休动画",
+      "mid": 14981860
+    },
+    "pubdate": 1795665674,
+    "duration": 69
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "citedVideos": [],
+  "creditedSources": []
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bilibili.com/video/BV1RCymzsEtQ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RCymzsEtQ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:55.546Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV1RCymzsEtQ",
+    "title": "《童年》-DeepSeek翻唱【AI MV大赛】",
+    "owner": {
+      "name": "渡鸦试作型",
+      "mid": 8526206
+    },
+    "pubdate": 1795657364,
+    "duration": 188
+  },
+  "descriptionSha256": "703375bc7228b4fc30edb7c3fe49346f123a75969d37b288c64d359bb4e2c201",
+  "citedVideos": [],
+  "creditedSources": [
+    {
+      "role": "music-original",
+      "title": "ROCKMALL滾石購物網- - 張艾嘉 / 童年",
+      "url": "https://shop.rockmall.com.tw/product_view.php?id=54285"
+    }
+  ]
+}

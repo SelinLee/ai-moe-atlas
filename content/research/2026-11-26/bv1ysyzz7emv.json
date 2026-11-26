@@ -1,0 +1,55 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ySyzz7EMv/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ySyzz7EMv",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:49.481Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV1ySyzz7EMv",
+    "title": "【GPT白龙娘/4K】ハート111 (Heart 111) 手书同人重绘MV",
+    "owner": {
+      "name": "GPT龙龙",
+      "mid": 1048903613
+    },
+    "pubdate": 1795601662,
+    "duration": 112
+  },
+  "descriptionSha256": "7e2d890ac5468cd5b89e72227200ae63d2288855ec6d8de72ff094862363f7f6",
+  "citedVideos": [
+    "BV184ydzMEQX",
+    "BV1RzHG6SEHy"
+  ],
+  "creditedSources": [
+    {
+      "role": "design-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "cited-upload",
+      "title": "BV184ydzMEQX",
+      "url": "https://www.bilibili.com/video/BV184ydzMEQX/"
+    },
+    {
+      "role": "cited-upload",
+      "title": "BV1RzHG6SEHy",
+      "url": "https://www.bilibili.com/video/BV1RzHG6SEHy/"
+    },
+    {
+      "role": "music-original",
+      "title": "ゆーり | ハート111 | ビクターエンタテインメント",
+      "url": "https://www.jvcmusic.co.jp/-/Linkall/VE3WT-10625.html"
+    },
+    {
+      "role": "alternate-edition",
+      "title": "BV12yyzzDEPe",
+      "url": "https://www.bilibili.com/video/BV12yyzzDEPe/"
+    },
+    {
+      "role": "music-rights-guidance",
+      "title": "Victor Entertainment · ゆーり",
+      "url": "https://www.jvcmusic.co.jp/-/News/A028428/5.html"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://www.bilibili.com/video/BV1eKyBzZE5t/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eKyBzZE5t",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:39.992Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV1eKyBzZE5t",
+    "title": "千问大小姐竞选胜利结算",
+    "owner": {
+      "name": "小伙伴Ko",
+      "mid": 105330745
+    },
+    "pubdate": 1795597200,
+    "duration": 28
+  },
+  "descriptionSha256": "9406386dc9025a847925434cf1ee45904d1dc5439bbef026ef3cc541984973b9",
+  "citedVideos": [
+    "BV16Vap6yEGP"
+  ],
+  "creditedSources": [
+    {
+      "role": "cited-upload",
+      "title": "BV16Vap6yEGP",
+      "url": "https://www.bilibili.com/video/BV16Vap6yEGP/"
+    }
+  ]
+}

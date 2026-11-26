@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bilibili.com/video/BV1AmJy6mEjU/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AmJy6mEjU",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:57.190Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV1AmJy6mEjU",
+    "title": "《token的酒》",
+    "owner": {
+      "name": "核动力路灯",
+      "mid": 5878572
+    },
+    "pubdate": 1792056900,
+    "duration": 104
+  },
+  "descriptionSha256": "e6c6fd8570e0c1b4051034c1cbddfedc6fb41b1d801af435c0f824748123359b",
+  "citedVideos": [],
+  "creditedSources": [
+    {
+      "role": "design-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    }
+  ]
+}

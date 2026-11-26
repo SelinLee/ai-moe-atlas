@@ -1,0 +1,21 @@
+{
+  "url": "https://www.bilibili.com/video/BV1HCyyzoEZT/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HCyyzoEZT",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:35:52.499Z",
+  "scope": "Official published BV, uploader, publication timestamp and cumulative likes returned by the Bilibili view API.",
+  "metadata": {
+    "bvid": "BV1HCyyzoEZT",
+    "title": "千问跑路之后，大肥鱼将魔爪伸向了.....",
+    "owner": {
+      "name": "初夏旳雨",
+      "mid": 667306964
+    },
+    "pubdate": 1795663800,
+    "duration": 18
+  },
+  "descriptionSha256": "e03e41e27e6d193f83b1d61960bc19f773b7930f888ff6df21ebfd39617e8ced",
+  "citedVideos": [],
+  "creditedSources": []
+}
