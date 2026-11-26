@@ -5025,5 +5025,173 @@
       "en": "The image rendition served on the creator page was hashed.",
       "ja": "作者ページの配信画像のハッシュを照合。"
     }
+  },
+  {
+    "id": "yuki-perplexity-butler",
+    "entity": "perplexity",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Perplexity · 管家版",
+      "en": "Perplexity · Butler Design",
+      "ja": "Perplexity · 執事版"
+    },
+    "description": {
+      "zh": "Yuki 在 note 发文介绍的 Perplexity 管家，设定擅长资料分析与应对突发问题。",
+      "en": "Yuki’s Perplexity butler on note, a character who specializes in analyzing information and handling unexpected requests.",
+      "ja": "Yuki が note で紹介した Perplexity の執事。情報分析と突発的な依頼への対応が得意という設定。"
+    },
+    "story": {
+      "zh": "Yuki 在 note 发文介绍的 Perplexity 管家，设定擅长资料分析与应对突发问题。",
+      "en": "Yuki’s Perplexity butler on note, a character who specializes in analyzing information and handling unexpected requests.",
+      "ja": "Yuki が note で紹介した Perplexity の執事。情報分析と突発的な依頼への対応が得意という設定。"
+    },
+    "features": {
+      "zh": "黑发、细框眼镜、深色西装和蝴蝶领结。",
+      "en": "Black hair, thin-framed glasses, dark suit and bow tie.",
+      "ja": "黒髪、細いフレームの眼鏡、暗色スーツ、蝶ネクタイ。"
+    },
+    "author": "Yuki",
+    "authorUrl": "https://note.com/nagi0811",
+    "source": "https://note.com/nagi0811/n/nffb14f4ac461",
+    "sourceTitle": "Perplexity擬人化キャラクター紹介｜Yuki【休止中です】",
+    "originalPublication": "https://note.com/nagi0811/n/nffb14f4ac461",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "Yuki",
+        "url": "https://note.com/nagi0811",
+        "role": "original-character",
+        "publication": "https://note.com/nagi0811/n/nffb14f4ac461"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/nagi0811/n/nffb14f4ac461",
+    "downloadable": false,
+    "bg": "#efedf3",
+    "color": "#4c4d67",
+    "verifiedAt": "2026-11-26",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "已留存作者页面实际提供的图片版本与哈希。图鉴提供原帖入口，逐图使用条件待查。",
+      "en": "The exact image renditions served by the creator’s page were retained and hashed. Artwork-specific permissions remain unconfirmed.",
+      "ja": "作者ページで配信された画像版とハッシュを保管。画像ごとの利用条件は確認待ち。"
+    }
+  },
+  {
+    "id": "yuki-github-copilot-kopi",
+    "entity": "github-copilot",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "GitHub Copilot · コピ兄さん",
+      "en": "GitHub Copilot · Kopi-niisan",
+      "ja": "GitHub Copilot · コピ兄さん"
+    },
+    "description": {
+      "zh": "Yuki 设定的工程师「コピ兄さん」。作者将这个角色分配给 GitHub Copilot，并让 Microsoft Copilot 在系列中扮演弟弟。",
+      "en": "Yuki’s engineer character Kopi-niisan personifies GitHub Copilot, with Microsoft Copilot as his younger brother in the series.",
+      "ja": "Yuki のエンジニア「コピ兄さん」。GitHub Copilot を擬人化し、Microsoft Copilot はシリーズ内で弟として登場。"
+    },
+    "story": {
+      "zh": "Yuki 设定的工程师「コピ兄さん」。作者将这个角色分配给 GitHub Copilot，并让 Microsoft Copilot 在系列中扮演弟弟。",
+      "en": "Yuki’s engineer character Kopi-niisan personifies GitHub Copilot, with Microsoft Copilot as his younger brother in the series.",
+      "ja": "Yuki のエンジニア「コピ兄さん」。GitHub Copilot を擬人化し、Microsoft Copilot はシリーズ内で弟として登場。"
+    },
+    "features": {
+      "zh": "主图为黑发、蓝色连帽衫和耳机，携带电脑与背包。",
+      "en": "In the main picture he has black hair, a blue hoodie and headphones, with a laptop and backpack.",
+      "ja": "主画像は黒髪、青いパーカーとヘッドホン、ノート PC とリュック。"
+    },
+    "author": "Yuki",
+    "authorUrl": "https://note.com/nagi0811",
+    "source": "https://note.com/nagi0811/n/nfeb89bb4443a",
+    "sourceTitle": "GitHub.Copilot擬人化キャラクター紹介｜Yuki【休止中です】",
+    "originalPublication": "https://note.com/nagi0811/n/nfeb89bb4443a",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "Yuki",
+        "url": "https://note.com/nagi0811",
+        "role": "original-character",
+        "publication": "https://note.com/nagi0811/n/nfeb89bb4443a"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/nagi0811/n/nfeb89bb4443a",
+    "downloadable": false,
+    "bg": "#e8eff8",
+    "color": "#3b6295",
+    "verifiedAt": "2026-11-26",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "已留存作者页面实际提供的图片版本与哈希。图鉴提供原帖入口，逐图使用条件待查。",
+      "en": "The exact image renditions served by the creator’s page were retained and hashed. Artwork-specific permissions remain unconfirmed.",
+      "ja": "作者ページで配信された画像版とハッシュを保管。画像ごとの利用条件は確認待ち。"
+    }
+  },
+  {
+    "id": "senpibi-perplexity-prekishi",
+    "entity": "perplexity",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Perplexity · 记者「ぷれきし」",
+      "en": "Perplexity · Reporter Prekishi",
+      "ja": "Perplexity · 記者ぷれきし"
+    },
+    "description": {
+      "zh": "せんぴび在博客介绍的 Perplexity 记者「ぷれきし」，负责找新闻和追查来源。作者注明用 Microsoft Copilot 生成角色图。",
+      "en": "Senpibi’s Perplexity reporter Prekishi researches news and traces sources. The author credits Microsoft Copilot for generating the picture.",
+      "ja": "せんぴびがブログで紹介した Perplexity の記者ぷれきし。ニュースや出典調査を担当し、作者は Microsoft Copilot で画像を生成したと明記。"
+    },
+    "story": {
+      "zh": "せんぴび在博客介绍的 Perplexity 记者「ぷれきし」，负责找新闻和追查来源。作者注明用 Microsoft Copilot 生成角色图。",
+      "en": "Senpibi’s Perplexity reporter Prekishi researches news and traces sources. The author credits Microsoft Copilot for generating the picture.",
+      "ja": "せんぴびがブログで紹介した Perplexity の記者ぷれきし。ニュースや出典調査を担当し、作者は Microsoft Copilot で画像を生成したと明記。"
+    },
+    "features": {
+      "zh": "黑色高马尾、紫蓝眼睛，穿红黑机能外套。",
+      "en": "High black ponytail, blue-violet eyes and a red and black jacket.",
+      "ja": "黒髪の高いポニーテール、青紫の瞳、赤と黒のジャケット。"
+    },
+    "author": "せんぴび",
+    "authorUrl": "https://cent-p2b2.hatenablog.com/",
+    "source": "https://cent-p2b2.hatenablog.com/entry/2026/11/21/101626",
+    "sourceTitle": "【新キャラ誕生】AIたちと会議して4人目の仲間「ぷれきし（Perplexity）」を迎えました！ - 兼業投資家のデジタル菜園",
+    "originalPublication": "https://cent-p2b2.hatenablog.com/entry/2026/11/21/101626",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "せんぴび",
+        "url": "https://cent-p2b2.hatenablog.com/",
+        "role": "original-character",
+        "publication": "https://cent-p2b2.hatenablog.com/entry/2026/11/21/101626"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://cent-p2b2.hatenablog.com/entry/2026/11/21/101626",
+    "downloadable": false,
+    "bg": "#f6edf1",
+    "color": "#82466a",
+    "verifiedAt": "2026-11-26",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "已留存作者页面实际提供的图片版本与哈希。图鉴提供原帖入口，逐图使用条件待查。",
+      "en": "The exact image renditions served by the creator’s page were retained and hashed. Artwork-specific permissions remain unconfirmed.",
+      "ja": "作者ページで配信された画像版とハッシュを保管。画像ごとの利用条件は確認待ち。"
+    }
   }
 ]

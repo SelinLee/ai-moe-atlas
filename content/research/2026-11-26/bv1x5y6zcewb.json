@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1X5y6zcEwb/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1X5y6zcEwb",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:52:28.513Z",
+  "scope": "Official view API returned the BV, date, uploader and cumulative likes. Original authorship beyond uploader follows linked creator credits.",
+  "metadata": {
+    "bvid": "BV1X5y6zcEwb",
+    "title": "可  爱  肥  鱼  摇  一   摇",
+    "owner": {
+      "name": "路过の曳川ya",
+      "mid": 85477210
+    },
+    "pubdate": 1795597152,
+    "duration": 17
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "sourceLinks": []
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1RWpk6KEx3/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RWpk6KEx3",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:52:25.090Z",
+  "scope": "Official view API returned the BV, date, uploader and cumulative likes. Original authorship beyond uploader follows linked creator credits.",
+  "metadata": {
+    "bvid": "BV1RWpk6KEx3",
+    "title": "【十 月 古 番】 鲸 音 少 女 ED",
+    "owner": {
+      "name": "hihihihi202",
+      "mid": 3546568969947566
+    },
+    "pubdate": 1791945727,
+    "duration": 92
+  },
+  "descriptionSha256": "fec80040b152cc67b3daf45425fa2102f8ca58e34106b1e31d75338a8c0d771c",
+  "sourceLinks": [
+    {
+      "role": "same-series-opening",
+      "title": "hihihihi202 · 鲸音少女 OP",
+      "url": "https://www.bilibili.com/video/BV17Epk66Exs/"
+    }
+  ]
+}

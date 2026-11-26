@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV11k4A6sES6/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV11k4A6sES6",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:52:34.691Z",
+  "scope": "Official view API returned the BV, date, uploader and cumulative likes. Original authorship beyond uploader follows linked creator credits.",
+  "metadata": {
+    "bvid": "BV11k4A6sES6",
+    "title": "【十月新番】光之大肥鱼ed1",
+    "owner": {
+      "name": "日常被背刺",
+      "mid": 358252221
+    },
+    "pubdate": 1793631689,
+    "duration": 91
+  },
+  "descriptionSha256": "b70cebe61358055c516751c2e7c64cbd12c33672e997c170e7d0346b56ef678b",
+  "sourceLinks": [
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "cited-upload",
+      "title": "BV1XVv8BZEUh",
+      "url": "https://www.bilibili.com/video/BV1XVv8BZEUh/"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "url": "https://note.com/nagi0811/n/nffb14f4ac461",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-26T05:52:13.448Z",
+  "htmlSha256": "c7185a5cb0f1ebd457abd01d4c48a7946b6494a2ea6060053c0d6ba25c7ae13a",
+  "contentSha256": "254cdead63e95a1864102dc24be2dabcefadec726a95fe0a5ece36f0c37a5cd8",
+  "sourceTitle": "Perplexity擬人化キャラクター紹介｜Yuki【休止中です】",
+  "credit": [
+    {
+      "name": "Yuki",
+      "url": "https://note.com/nagi0811",
+      "role": "original-character",
+      "publication": "https://note.com/nagi0811/n/nffb14f4ac461"
+    }
+  ],
+  "identity": "perplexity",
+  "scope": "The original article identifies Perplexity as the character product and assigns the butler role. The served picture appears to include a UI icon. Exact served image renditions were checked. Unscaled masters and artwork terms remain unconfirmed.",
+  "files": [
+    {
+      "url": "https://assets.st-note.com/img/1758452016-rUPqijvYKdJRQhtlnoLEaWST.png?width=1200",
+      "httpStatus": 200,
+      "sourceSha256": "dd2d0ee22ab584d4ec9d52dcc82d7a11eeee3f3fdc497f295305c51e069c0dfb",
+      "width": 292,
+      "height": 635,
+      "format": "png",
+      "bytes": 99951,
+      "accessedAt": "2026-11-26T05:53:01.283Z",
+      "scope": "Exact file rendition supplied by the creator article page."
+    }
+  ],
+  "previousCandidate": {
+    "id": "note-yuki-perplexity",
+    "publisher": "Yuki",
+    "report": {
+      "path": "content/candidates/manual-2026-10-05.json",
+      "links": "https://github.com/SelinLee/ai-moe-atlas/blob/84d36d5341261dbf8fd87b7da0735709f446188f/content/candidates/manual-2026-10-05.json",
+      "commit": "84d36d5341261dbf8fd87b7da0735709f446188f",
+      "sha256": "8ce7f5cd56fb3d37b7fa7e547204c770ddb6f1590f60725345d3ffb375338996"
+    },
+    "result": "source-only role verified; reuse permissions remain unconfirmed"
+  }
+}

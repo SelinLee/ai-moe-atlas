@@ -22,7 +22,7 @@
 ## 资源目录
 
 <!-- category-picks:characters -->
-**[🎨 角色图鉴](#characters)** · 81 个词条\
+**[🎨 角色图鉴](#characters)** · 84 个词条\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/) · [Gemini Pro · 原作立绘与表情](https://selinlee.github.io/ai-moe-atlas/zh/characters/qinv-gemini-pro/) · [Cohere · 校园版](https://selinlee.github.io/ai-moe-atlas/zh/characters/school-op-cohere/)
 
 <!-- category-picks:personas -->
@@ -30,7 +30,7 @@
 [GLM 狐娘 · ZCode 版](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md) · [Claude 娘「小克」· deslop 写作卡](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md) · [DeepSeek 大肥鱼 · QQ 聊天版](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md)
 
 <!-- category-picks:songs -->
-**[🎵 歌曲](#songs)** · 120 首曲目\
+**[🎵 歌曲](#songs)** · 127 首曲目\
 [人是猫 · 大肥鱼翻唱](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · 动画 MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [白饭与梦 · 大肥鱼 × Updream](https://www.bilibili.com/video/BV1kxWV6KE6o/)
 
 <!-- category-picks:references -->
@@ -50,15 +50,15 @@
 [AI GIRLS · 初见 · 原作漫画](https://www.bilibili.com/video/BV15Npa6zE44/) · [《AI GIRLS》日常篇 · 联系方式原作](https://www.bilibili.com/video/BV1YSpu6gEh1/) · [AI GIRLS · 你刚刚不是还在这里吗？！](https://www.bilibili.com/video/BV15RybzNEVb/)
 
 <!-- category-picks:animations -->
-**[🎬 动画与视频二创](#animations)** · 965 条记录\
+**[🎬 动画与视频二创](#animations)** · 983 条记录\
 [如果聊天窗口就是她的整个世界](https://www.bilibili.com/video/BV1xCai6aE9g/) · [败犬 AI 太多了！· 正式 PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo 娘角色 PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 桌宠与交互项目](#desktop-pets)** · 152 个项目\
+**[🐾 桌宠与交互项目](#desktop-pets)** · 155 个项目\
 [CrossPet · 跨 AI 桌宠](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D 编程桌宠](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [Gemini 娘双形态桌宠](https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/README.md)
 
 <!-- category-picks:sources -->
-**[📚 作者作品与出处](#sources)** · 196 条来源\
+**[📚 作者作品与出处](#sources)** · 199 条来源\
 [上善无形 · 鲸鱼娘原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini 家族合照](https://www.bilibili.com/opus/1273349110528737288) · [Gemini Pro · 三张原作](https://github.com/lmy414/ai-girl-stickers/issues/118)
 
 <a id="characters"></a>
@@ -72,6 +72,8 @@
 本轮新增角色 · [千问校园立绘 · MX1951](https://selinlee.github.io/ai-moe-atlas/zh/characters/mx1951-qwen/) · [NovelAI 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-novelai/) · [ZCode 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-zcode/) · [Hugging Face 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-huggingface/) · [Perplexity 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-perplexity/) · [腾讯混元娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-hunyuan/)
 
 Ninon 的 Claude 娘设定 · [女仆版](https://selinlee.github.io/ai-moe-atlas/zh/characters/ninon-claude-maid/) · [橘白礼服版](https://selinlee.github.io/ai-moe-atlas/zh/characters/ninon-claude-orange-dress/)。礼服原型、作者的独立壁纸与派生设定图各有出处。 [原型出处](content/research/2026-11-23/claude-orange-dress-source-chain.json)
+
+Yuki 的两条旧候选已核实为作者公开设定。另收录せんぴび的 Perplexity 记者版。 [Perplexity · 管家版](https://selinlee.github.io/ai-moe-atlas/zh/characters/yuki-perplexity-butler/) · [GitHub Copilot · コピ兄さん](https://selinlee.github.io/ai-moe-atlas/zh/characters/yuki-github-copilot-kopi/) · [Perplexity · 记者ぷれきし](https://selinlee.github.io/ai-moe-atlas/zh/characters/senpibi-perplexity-prekishi/)
 
 metsh 原创 Claude 娘的思考、完成和等待状态海报已按 CC BY-SA 4.0 收录，各保留 256 × 256 原始 PNG。 [Claude 娘 · Task Mascot](https://selinlee.github.io/ai-moe-atlas/zh/characters/metsh-claude-task-mascot/) · [Suno 酱 · Shuyu Yin](https://selinlee.github.io/ai-moe-atlas/zh/characters/shuyuyin-suno-christmas/)
 
@@ -131,6 +133,8 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 <!-- song-ranking:end -->
 
 [原曲出处](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲与版本核对](content/research/2026-11-20/song-originals-and-fan-versions.json) · [片头曲与二创用曲核对](content/research/2026-11-20/character-songs-and-opening-credits.json) · [舞蹈与歌词 MV 用曲核对](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [《温室效应》原曲与 MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [原曲与二创核对](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [豆包翻唱与片尾曲出处](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [千问、MiMo 与舞蹈用曲](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [《APT.》与《删了一百遍》的用曲出处](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [翻唱与游戏原曲出处](content/research/2026-11-22/november-cover-song-originals-and-versions.json) · [Charlotte、bloom 与 unhappy 的用曲出处](content/research/2026-11-22/november-charlotte-bloom-and-remix-evidence.json) · [周刊和原声用曲核对](content/research/2026-11-22/november-mili-and-game-soundtrack-verification.json) · [《烂奇迹》原曲与翻唱核对](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json) · [三首原曲与二创用曲](content/research/2026-11-23/november-renai-numb-and-dragon-maid-originals.json) · [FIRESTARTER、Bad Apple!! 与翻唱出处](content/research/2026-11-23/november-firestarter-bad-apple-and-cover-attribution.json) · [《Trouble Maker》与《朋友的酒》原曲](content/research/2026-11-23/november-trouble-maker-and-friends-wine-originals.json)
+
+[7 首原曲与版本核对，包括《深海少女》和《譬如我》](content/research/2026-11-26/november-26-as-for-me-and-original-recordings.json)
 
 [9 首原曲与二创版本核对](content/research/2026-11-26/november-26-nine-music-originals-and-fan-versions.json)
 
@@ -221,6 +225,8 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 
 <!-- animation-ranking:end -->
 
+后来复查全部 12 条候选，官方接口均未返回视频数据。公开页有 6 条显示视频不可用、5 条访问受限，另 1 条本次未能确认。同作者的《鲸音少女》片尾已单独收录。 [鲸音少女 · 片尾](https://www.bilibili.com/video/BV1RWpk6KEx3/) · [本次候选核对](content/research/2026-11-26/bilibili-november-26-pending-pages-series-scope.json)
+
 13:43 完成余量复查。此前未查询的 433 条旧作均已查询，其中 430 条取得点赞。当天原有 938 条榜单记录共刷新 928 条，10 条官方查询暂无视频数据，沿用上次有效观测。新增 27 条入榜，包含此前受限的 5 条候选；另有 12 条候选待核。 [复查范围及结果](content/research/2026-11-26/bilibili-november-26-restored-recheck-scope.json)
 
 2026-11-26 复查 505 条旧作并刷新其中 463 条，包含前十名。35 条请求受限，7 条接口暂未返回视频数据，另有 433 条本轮未查询，均沿用上次有效点赞。12 条既有候选仍待核，其中 5 条此次请求受限。 [复查范围与待核线索](content/research/2026-11-26/bilibili-november-26-recheck-scope.json)
@@ -250,7 +256,7 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 | 9 | [OpenPets · 本地桌宠平台](https://github.com/OpenPetsHQ/openpets/blob/9153e40ed37617243f903b074161d7df4bbd27b0/README.md) | [1,408](https://github.com/OpenPetsHQ/openpets) |
 | 10 | [CrossPet · 跨 AI 桌宠](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | [568](https://github.com/lokicorvus/crosspet) |
 
-[在线浏览全部桌宠与交互项目](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-26/github-interactive-stars-november-26-task-mascot-and-ports.json)
+[在线浏览全部桌宠与交互项目](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-26/github-interactive-stars-november-26-pixel-and-lightweight.json)
 
 新增 Gemini、Kimi、Grok 桌宠 · [Gemini 娘双形态](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#xiaoxindada-gemini-desktop-pet) · [Antigravity 哈基米小姐](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#rzls-gemini-antigravity-pet) · [Gemini 配额看板](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#yunxi-gemini-antigravity-companion) · [Kimi Work 与独立桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#ancient-kimi-work-and-desktop-pet) · [Kimi 矢量蓝球](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#hhhzxyhhh-kimi-blue-ball-pet) · [Grok 球面眼睛](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#necx-grok-spherical-eye-pet)
 
@@ -388,6 +394,7 @@ Hermes 桌宠插件、macOS 精灵帧版等新增项目附固定版说明。
 
 | 时间 / 状态 | 进展 |
 | --- | --- |
+| 2026-11-26 · 候选追溯与作者设定 | 新增 18 条二创、7 首曲目、3 个角色词条和 3 个交互项目。复查 12 条缺数候选，补齐《譬如我》的作者原投稿及《鲸音少女》同作者片尾。 |
 | 2026-11-26 · 旧作剩余复查与二创新收录 | 原有榜单共刷新 928 条，新增 27 条二创、9 首曲目、2 个角色词条和 3 个交互项目。metsh 的 Claude 娘提供 3 张获授权原图。 |
 | 2026-11-26 · 校园立绘与歌曲 | 新增 Cohere、讯飞星火 2 个角色词条及授权原图包、8 首曲目、3 个交互项目。5 条新二创进入待核清单。 |
 | 2026-11-26 · 榜单复核与作者资料 | 刷新 463 条累计点赞及 2 个发布者显示名，新增 Mistral Chorale、Midjourney Fides 两个角色词条、4 条作者来源和 3 个交互项目。 |

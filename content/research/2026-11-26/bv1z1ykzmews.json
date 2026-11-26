@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1z1ykzmEWS/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1z1ykzmEWS",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:52:31.605Z",
+  "scope": "Official view API returned the BV, date, uploader and cumulative likes. Original authorship beyond uploader follows linked creator credits.",
+  "metadata": {
+    "bvid": "BV1z1ykzmEWS",
+    "title": "和ai娘的日常",
+    "owner": {
+      "name": "我叫问天_",
+      "mid": 35202434
+    },
+    "pubdate": 1795607779,
+    "duration": 7
+  },
+  "descriptionSha256": "fc0e99fdfac7372f0d46737a3601888356cdd0fc67db474f8e10312e72c2d28c",
+  "sourceLinks": []
+}

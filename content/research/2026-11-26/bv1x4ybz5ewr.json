@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1x4yBz5EWR/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1x4yBz5EWR",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:52:33.145Z",
+  "scope": "Official view API returned the BV, date, uploader and cumulative likes. Original authorship beyond uploader follows linked creator credits.",
+  "metadata": {
+    "bvid": "BV1x4yBz5EWR",
+    "title": "他们不是在夸我，是在确认我还在｜动态漫画 第二话",
+    "owner": {
+      "name": "爱捡垃圾的小鱼",
+      "mid": 3546562290518211
+    },
+    "pubdate": 1795581310,
+    "duration": 60
+  },
+  "descriptionSha256": "bae379a1e7fcd6aa035293e32237104afc100127c0a40e86cf4f4eaa336ed409",
+  "sourceLinks": []
+}

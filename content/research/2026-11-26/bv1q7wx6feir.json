@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1q7Wx6FEir/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1q7Wx6FEir",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:52:25.067Z",
+  "scope": "Official view API returned the BV, date, uploader and cumulative likes. Original authorship beyond uploader follows linked creator credits.",
+  "metadata": {
+    "bvid": "BV1q7Wx6FEir",
+    "title": "大音鲸 翻唱《深海少女》｜初音ミク（AI 声线转换）",
+    "owner": {
+      "name": "肥鱼大大肥鱼肥鱼大",
+      "mid": 3747574695594691
+    },
+    "pubdate": 1794208016,
+    "duration": 432
+  },
+  "descriptionSha256": "7cddde440de61bbd374023f77ca6ad326005e0584df65363e0e97dfff8d3f8a6",
+  "sourceLinks": [
+    {
+      "role": "music-original",
+      "title": "ゆうゆ feat. 初音ミク · 深海少女",
+      "url": "https://www.nicovideo.jp/watch/sm11956364"
+    }
+  ]
+}

@@ -1,0 +1,251 @@
+{
+  "method": "Publisher metadata in isolated headless Google Chrome, linked origin and existing cumulative like evidence.",
+  "scope": "Original uploads and source links verified. Fan versions retain their own like observation times.",
+  "records": [
+    {
+      "id": "deep-sea-girl",
+      "original": {
+        "credit": "ゆうゆ feat. 初音ミク",
+        "url": "https://www.nicovideo.jp/watch/sm11956364"
+      },
+      "originalEvidence": {
+        "id": "deep-sea-original",
+        "url": "https://www.nicovideo.jp/watch/sm11956364",
+        "finalUrl": "https://www.nicovideo.jp/watch/sm11956364",
+        "title": "【初音ミク】 深海少女 【オリジナル】 - ニコニコ動画",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-26T05:53:54.094Z",
+        "htmlSha256": "6e26d7eb44688a81741edc15ac91516d5d2e04aaa7c3df1f0e83f512180a3066",
+        "anchor": [],
+        "videos": [],
+        "matchingPublicText": true
+      },
+      "versions": [
+        {
+          "bvid": "BV1q7Wx6FEir",
+          "publisher": "肥鱼大大肥鱼肥鱼大",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-26/bv1q7wx6feir.json",
+            "sha256": "e32dc575bed47c942c626c8bd10b7a5a6263091211cc1e83fbeb4e957be4c0d1",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-pending-pages-and-series.json",
+            "sha256": "3853ec03b3f4f967b9c1e58001aeda211576917e15afed79245811ecd2e384a0",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ],
+      "laterAuthorizedRelease": {
+        "id": "deep-sea-remake",
+        "url": "https://yuuyu-official.amebaownd.com/posts/39877498",
+        "finalUrl": "https://yuuyu-official.amebaownd.com/posts/39877498",
+        "title": "新曲「深海少女 -deep sea girl- (feat.初音ミク)」MV公開＆配信開始！ | ゆうゆ official site",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-26T05:53:59.060Z",
+        "htmlSha256": "87b8b0351770fc16f36dcf3ba3095e19c85b9b3567a6c506c3482bd1802d3c2c",
+        "anchor": [
+          "https://youtu.be/T6kVa48UbUw",
+          "https://www.nicovideo.jp/watch/sm41503105"
+        ],
+        "videos": [],
+        "matchingPublicText": true
+      },
+      "scope": "The upload identifies the composition and performer. The specific backing-track edition used for the cover was not determined."
+    },
+    {
+      "id": "romantic-cellphone",
+      "original": {
+        "credit": "周杰伦 · Jay Chou",
+        "url": "https://www.youtube.com/watch?v=Kbvu9Vt5_eE"
+      },
+      "originalEvidence": {
+        "id": "romantic-cellphone",
+        "url": "https://www.youtube.com/watch?v=Kbvu9Vt5_eE",
+        "httpStatus": 200,
+        "observedAt": "2026-11-26T05:55:30.627Z",
+        "metadataSha256": "407d3021a55236c750db5b3c4e6fccd8f57abfd0fab22b0f324f6eed22204852",
+        "title": "周杰倫 Jay Chou【浪漫手機 Romantic Cellphone】-Official Music Video",
+        "author": "周杰倫 Jay Chou"
+      },
+      "versions": [
+        {
+          "bvid": "BV1cSyZzcEiP",
+          "publisher": "源某人的大肥鱼",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-25/bv1csyzzceip.json",
+            "sha256": "5c543c12a4c63e51b24807f5dbeda52418f3a9159de3c5793c5412f7076b9c49",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-remainder-and-fan-works.json",
+            "sha256": "1f82bdb48fa5c554d65a386cd99ac5defe70834906d5486318d0af474fdf6b3f",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "what-do-you-want-from-me",
+      "original": {
+        "credit": "薛之谦 · Joker Xue",
+        "url": "https://music-tw.line.me/track/7597055003"
+      },
+      "originalEvidence": {
+        "id": "what-do-you-want-from-me",
+        "url": "https://music-tw.line.me/track/7597055003",
+        "finalUrl": "https://music-tw.line.me/track/7597055003",
+        "httpStatus": 200,
+        "observedAt": "2026-11-26T05:55:28.996Z",
+        "title": "你還要我怎樣 - 薛之謙 Joker Xue - 意外專輯 - LINE MUSIC",
+        "htmlSha256": "9672f0263575050666e803cbe0141ddd6cb91d6fe7c35eef74cc2c60da648766",
+        "titleMatched": true
+      },
+      "versions": [
+        {
+          "bvid": "BV1RT1czxErZ",
+          "publisher": "蓝色大肥鱼的赛博分身",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-25/bv1rt1czxerz.json",
+            "sha256": "20d80c9d5ce40b08dcef6df60fc0b9edac70acc7287cef9c22a87908d5377327",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-remainder-and-fan-works.json",
+            "sha256": "1f82bdb48fa5c554d65a386cd99ac5defe70834906d5486318d0af474fdf6b3f",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "catch-the-light-whale",
+      "original": {
+        "credit": "鲸鲸是鱼鱼",
+        "url": "https://www.bilibili.com/video/BV1tYs86bEwt/"
+      },
+      "scope": "Original work identified by the uploader in the published title; the credit shown names the uploader.",
+      "versions": [
+        {
+          "bvid": "BV1tYs86bEwt",
+          "publisher": "鲸鲸是鱼鱼",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-20/bv1tys86bewt.json",
+            "sha256": "10e7dbd148bf69995a138b9ea04832025e24f4702976606dec6b73af6473ca52",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-remainder-and-fan-works.json",
+            "sha256": "1f82bdb48fa5c554d65a386cd99ac5defe70834906d5486318d0af474fdf6b3f",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "unsaved-voice",
+      "original": {
+        "credit": "贪吃鱼娘-汐蓝",
+        "url": "https://www.bilibili.com/video/BV1q8sS6AEaz/"
+      },
+      "scope": "Original work identified by the uploader in the published title; the credit shown names the uploader.",
+      "versions": [
+        {
+          "bvid": "BV1q8sS6AEaz",
+          "publisher": "贪吃鱼娘-汐蓝",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-21/bv1q8ss6aeaz.json",
+            "sha256": "386efb7710bce0a6ce6617b1de655281f615aea076ab143f2c756c18c700f7c1",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-remainder-and-fan-works.json",
+            "sha256": "1f82bdb48fa5c554d65a386cd99ac5defe70834906d5486318d0af474fdf6b3f",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "deep-seek-truth",
+      "original": {
+        "credit": "龙娘AI",
+        "url": "https://www.bilibili.com/video/BV1Y41Fz9Enz/"
+      },
+      "scope": "Original work identified by the uploader in the published title; the credit shown names the uploader.",
+      "versions": [
+        {
+          "bvid": "BV1Y41Fz9Enz",
+          "publisher": "龙娘AI",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-25/bv1y41fz9enz.json",
+            "sha256": "3ebf204813f5436dbddd02e4da0983139d08a39446162593e834d51b96dc33a8",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-remainder-and-fan-works.json",
+            "sha256": "1f82bdb48fa5c554d65a386cd99ac5defe70834906d5486318d0af474fdf6b3f",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "for-someone-like-me",
+      "original": {
+        "credit": "洛天依 · 姜洄 · 八万春",
+        "url": "https://www.bilibili.com/video/BV1SKsK6fEg5/"
+      },
+      "originalEvidence": {
+        "httpStatus": 200,
+        "code": 0,
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SKsK6fEg5",
+        "observedAt": "2026-11-26T05:54:27.631Z",
+        "publisher": "八万春本春",
+        "publisherId": 403521281,
+        "sourceTitle": "【洛天依原创/初投稿】《譬如我》| 可那些没有天赋的人呢？",
+        "descriptionSha256": "f787da4c062f93e8d55bd0e6c186b7c1ddae695a886f17a76df11130d894ed20",
+        "credits": {
+          "lyrics": "姜洄",
+          "composition": "八万春",
+          "vocals": "洛天依",
+          "distribution": "华纳音乐中国 Warner Music China"
+        },
+        "linkedAudio": {
+          "url": "https://music.163.com/song?id=3460564497",
+          "scope": "Audio page cited by the original video description."
+        }
+      },
+      "versions": [
+        {
+          "bvid": "BV1Fo1FzPERP",
+          "publisher": "lyrickk",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-25/bv1fo1fzperp.json",
+            "sha256": "b75a927f55983ebb9cb255b93cc315a94d08c50ab444b048b229afe03fffe265",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-remainder-and-fan-works.json",
+            "sha256": "1f82bdb48fa5c554d65a386cd99ac5defe70834906d5486318d0af474fdf6b3f",
+            "kind": "browser-metadata-extract"
+          }
+        },
+        {
+          "bvid": "BV16B1czNEEV",
+          "publisher": "淡淡家的小月月",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-25/bv16b1czneev.json",
+            "sha256": "41e35bfc848d95a6c5ae73ac1f1cfa48e28c453c327eb774c92bae3d9d7f1f29",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-remainder-and-fan-works.json",
+            "sha256": "1f82bdb48fa5c554d65a386cd99ac5defe70834906d5486318d0af474fdf6b3f",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    }
+  ]
+}

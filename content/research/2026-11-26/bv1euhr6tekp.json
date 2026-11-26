@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1EUHr6TEKP/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1EUHr6TEKP",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:52:38.085Z",
+  "scope": "Official view API returned the BV, date, uploader and cumulative likes. Original authorship beyond uploader follows linked creator credits.",
+  "metadata": {
+    "bvid": "BV1EUHr6TEKP",
+    "title": "【27 年新番】「 千 炼 万 花 」pv 制作公开！",
+    "owner": {
+      "name": "hihihihi202",
+      "mid": 3546568969947566
+    },
+    "pubdate": 1791090586,
+    "duration": 35
+  },
+  "descriptionSha256": "c568167379978f9b3e20f99b6847f189f0db9b3de61d81357ff3a7f9c3271120",
+  "sourceLinks": []
+}

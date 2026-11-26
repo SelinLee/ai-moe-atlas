@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1X74h6LEHp/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1X74h6LEHp",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:52:33.141Z",
+  "scope": "Official view API returned the BV, date, uploader and cumulative likes. Original authorship beyond uploader follows linked creator credits.",
+  "metadata": {
+    "bvid": "BV1X74h6LEHp",
+    "title": "【10月新番】肥鱼大冒险 第一集？｜DeepSeek x Claude｜ 某蓝色大肥鱼的异世界冒险",
+    "owner": {
+      "name": "文文_Channel",
+      "mid": 520229248
+    },
+    "pubdate": 1793890289,
+    "duration": 146
+  },
+  "descriptionSha256": "ff98bb18dca3251e7027913f0901df5a8df9a9bf649db55880e1e6bffef1db3c",
+  "sourceLinks": [
+    {
+      "role": "same-series",
+      "title": "文文_Channel · 大冒险",
+      "url": "https://www.bilibili.com/video/BV13knf63EUA/"
+    }
+  ]
+}

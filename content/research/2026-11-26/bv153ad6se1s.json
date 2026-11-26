@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV153aD6SE1S/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV153aD6SE1S",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:52:39.622Z",
+  "scope": "Official view API returned the BV, date, uploader and cumulative likes. Original authorship beyond uploader follows linked creator credits.",
+  "metadata": {
+    "bvid": "BV153aD6SE1S",
+    "title": "【10月新番】时光流逝，token（白饭）依旧美味",
+    "owner": {
+      "name": "镜花Mirror",
+      "mid": 321480847
+    },
+    "pubdate": 1790985600,
+    "duration": 92
+  },
+  "descriptionSha256": "252c90b34810915b12927125207ebcf2530b8cc5536b4e75dd1bdf60bd104ec8",
+  "sourceLinks": []
+}

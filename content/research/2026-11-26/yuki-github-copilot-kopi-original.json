@@ -1,0 +1,53 @@
+{
+  "url": "https://note.com/nagi0811/n/nfeb89bb4443a",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-26T05:52:13.453Z",
+  "htmlSha256": "56bc08fe72c696645d27354954a9d17e5f787808147271a86d8f09b34cfb8a06",
+  "contentSha256": "91e6e4fa1cad496bbc5ea2c9cff657c883abe65e3b0201e8e8c834ed99738718",
+  "sourceTitle": "GitHub.Copilot擬人化キャラクター紹介｜Yuki【休止中です】",
+  "credit": [
+    {
+      "name": "Yuki",
+      "url": "https://note.com/nagi0811",
+      "role": "original-character",
+      "publication": "https://note.com/nagi0811/n/nfeb89bb4443a"
+    }
+  ],
+  "identity": "github-copilot",
+  "scope": "The writer distinguishes GitHub Copilot and Microsoft Copilot. The main portrait and separate Synclub two-character illustration are different pictures. Exact served image renditions were checked. Unscaled masters and artwork terms remain unconfirmed.",
+  "files": [
+    {
+      "url": "https://assets.st-note.com/img/1758452966-Kd5xizw62OHFQjLTokEPVDC9.png?width=1200",
+      "httpStatus": 200,
+      "sourceSha256": "fd7268634cf72d6b38e7d4e1d3a995b7c372196d32185fd05018fe32d0f230fb",
+      "width": 1200,
+      "height": 840,
+      "format": "png",
+      "bytes": 458079,
+      "accessedAt": "2026-11-26T05:53:02.856Z",
+      "scope": "Exact file rendition supplied by the creator article page."
+    },
+    {
+      "url": "https://assets.st-note.com/img/1758712929-Kk403EexGAStWXCfVv6pnMTQ.png?width=1200",
+      "httpStatus": 200,
+      "sourceSha256": "2d4813bd50e626646e36074115ea5952c8328bccbf5875182d01d1b4d47ec462",
+      "width": 828,
+      "height": 1792,
+      "format": "png",
+      "bytes": 555505,
+      "accessedAt": "2026-11-26T05:53:03.932Z",
+      "scope": "Exact file rendition supplied by the creator article page."
+    }
+  ],
+  "previousCandidate": {
+    "id": "note-yuki-github-copilot",
+    "publisher": "Yuki",
+    "report": {
+      "path": "content/candidates/manual-2026-10-05.json",
+      "links": "https://github.com/SelinLee/ai-moe-atlas/blob/84d36d5341261dbf8fd87b7da0735709f446188f/content/candidates/manual-2026-10-05.json",
+      "commit": "84d36d5341261dbf8fd87b7da0735709f446188f",
+      "sha256": "8ce7f5cd56fb3d37b7fa7e547204c770ddb6f1590f60725345d3ffb375338996"
+    },
+    "result": "source-only role verified; reuse permissions remain unconfirmed"
+  }
+}

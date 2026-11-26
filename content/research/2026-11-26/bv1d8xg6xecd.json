@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1d8xg6XEcd/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1d8xg6XEcd",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:52:36.241Z",
+  "scope": "Official view API returned the BV, date, uploader and cumulative likes. Original authorship beyond uploader follows linked creator credits.",
+  "metadata": {
+    "bvid": "BV1d8xg6XEcd",
+    "title": "【10月新番导视】仿生人克劳德会梦到大肥鱼吗？",
+    "owner": {
+      "name": "震荡深渊",
+      "mid": 290716361
+    },
+    "pubdate": 1793099821,
+    "duration": 16
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": []
+}

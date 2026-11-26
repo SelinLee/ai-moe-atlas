@@ -1,0 +1,191 @@
+{
+  "previousEvidence": {
+    "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-remainder-and-fan-works.json",
+    "sha256": "1f82bdb48fa5c554d65a386cd99ac5defe70834906d5486318d0af474fdf6b3f",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-pending-pages-and-series.json",
+    "sha256": "3853ec03b3f4f967b9c1e58001aeda211576917e15afed79245811ecd2e384a0",
+    "kind": "browser-metadata-extract"
+  },
+  "checkedAt": "2026-11-26T05:52:41.171Z",
+  "scope": "Twelve pending originals rechecked. Search-index results are identity leads. Same-author ending linked to the missing opening as a related work.",
+  "pending": {
+    "officialApiChecked": 12,
+    "officialNoVideo": 12,
+    "publicUnavailable": 6,
+    "publicRestricted": 5,
+    "unconfirmedPublicCheck": 1,
+    "matchedCurrentSearch": 7,
+    "observations": [
+      {
+        "bvid": "BV1rfsf6PEiQ",
+        "url": "https://www.bilibili.com/video/BV1rfsf6PEiQ/",
+        "finalUrl": "https://www.bilibili.com/video/BV1rfsf6PEiQ/",
+        "httpStatus": 412,
+        "accessedAt": "2026-11-26T05:53:55.925Z",
+        "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01",
+        "title": "出错啦! - bilibili.com",
+        "canonical": null,
+        "confirmedVideo": null,
+        "owner": null,
+        "visibleUnavailable": false
+      },
+      {
+        "bvid": "BV1NL4u6MEGE",
+        "url": "https://www.bilibili.com/video/BV1NL4u6MEGE/",
+        "finalUrl": "https://www.bilibili.com/video/BV1NL4u6MEGE/",
+        "httpStatus": 412,
+        "accessedAt": "2026-11-26T05:53:56.170Z",
+        "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01",
+        "title": "出错啦! - bilibili.com",
+        "canonical": null,
+        "confirmedVideo": null,
+        "owner": null,
+        "visibleUnavailable": false
+      },
+      {
+        "bvid": "BV1ka446JEsY",
+        "url": "https://www.bilibili.com/video/BV1ka446JEsY/",
+        "finalUrl": "https://www.bilibili.com/video/BV1ka446JEsY/",
+        "httpStatus": 412,
+        "accessedAt": "2026-11-26T05:53:58.077Z",
+        "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01",
+        "title": "出错啦! - bilibili.com",
+        "canonical": null,
+        "confirmedVideo": null,
+        "owner": null,
+        "visibleUnavailable": false
+      },
+      {
+        "bvid": "BV1dtnF61Erq",
+        "url": "https://www.bilibili.com/video/BV1dtnF61Erq/",
+        "finalUrl": "https://www.bilibili.com/video/BV1dtnF61Erq/",
+        "httpStatus": 412,
+        "accessedAt": "2026-11-26T05:53:57.817Z",
+        "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01",
+        "title": "出错啦! - bilibili.com",
+        "canonical": null,
+        "confirmedVideo": null,
+        "owner": null,
+        "visibleUnavailable": false
+      },
+      {
+        "bvid": "BV1nvJo65E3o",
+        "url": "https://www.bilibili.com/video/BV1nvJo65E3o/",
+        "finalUrl": "https://www.bilibili.com/video/BV1nvJo65E3o/",
+        "httpStatus": 412,
+        "accessedAt": "2026-11-26T05:53:58.960Z",
+        "htmlSha256": "e7badcc8c88ee24673ace7d93d15543ef41a0f6db1f93d17a2b1fe8ef6d8ee01",
+        "title": "出错啦! - bilibili.com",
+        "canonical": null,
+        "confirmedVideo": null,
+        "owner": null,
+        "visibleUnavailable": false
+      },
+      {
+        "bvid": "BV1dQJB6SEwH",
+        "url": "https://www.bilibili.com/video/BV1dQJB6SEwH/",
+        "accessedAt": "2026-11-26T05:54:12.043Z",
+        "error": "Error"
+      },
+      {
+        "bvid": "BV17Epk66Exs",
+        "url": "https://www.bilibili.com/video/BV17Epk66Exs/",
+        "finalUrl": "https://www.bilibili.com/video/BV17Epk66Exs/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-26T05:54:14.945Z",
+        "htmlSha256": "586f08e69336703431ae48d01236bf003e7d1f7e806a41cb32bb36302ecd9f2e",
+        "title": "视频去哪了呢？_哔哩哔哩_bilibili",
+        "canonical": "https://www.bilibili.com/video/BV17Epk66Exs/",
+        "confirmedVideo": null,
+        "owner": null,
+        "visibleUnavailable": true
+      },
+      {
+        "bvid": "BV1Pdno69EtJ",
+        "url": "https://www.bilibili.com/video/BV1Pdno69EtJ/",
+        "finalUrl": "https://www.bilibili.com/video/BV1Pdno69EtJ/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-26T05:54:14.944Z",
+        "htmlSha256": "9165a718e8402e6f1fcf60ad5c192437c5188d07f7a4da07ce2acebf4f9da436",
+        "title": "视频去哪了呢？_哔哩哔哩_bilibili",
+        "canonical": "https://www.bilibili.com/video/BV1Pdno69EtJ/",
+        "confirmedVideo": null,
+        "owner": null,
+        "visibleUnavailable": true
+      },
+      {
+        "bvid": "BV1hZHN6sE4b",
+        "url": "https://www.bilibili.com/video/BV1hZHN6sE4b/",
+        "finalUrl": "https://www.bilibili.com/video/BV1hZHN6sE4b/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-26T05:54:16.590Z",
+        "htmlSha256": "1f789d6c26d32d54a1c41522e10a125bdf0b888bc34a8b19037a483921aef71d",
+        "title": "视频去哪了呢？_哔哩哔哩_bilibili",
+        "canonical": "https://www.bilibili.com/video/BV1hZHN6sE4b/",
+        "confirmedVideo": null,
+        "owner": null,
+        "visibleUnavailable": true
+      },
+      {
+        "bvid": "BV17A4L66EHk",
+        "url": "https://www.bilibili.com/video/BV17A4L66EHk/",
+        "finalUrl": "https://www.bilibili.com/video/BV17A4L66EHk/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-26T05:54:16.522Z",
+        "htmlSha256": "c058992700dabccd4432599804e272dacef2decb2b5ff45036f52420815496d8",
+        "title": "视频去哪了呢？_哔哩哔哩_bilibili",
+        "canonical": "https://www.bilibili.com/video/BV17A4L66EHk/",
+        "confirmedVideo": null,
+        "owner": null,
+        "visibleUnavailable": true
+      },
+      {
+        "bvid": "BV1Z4sP6qE77",
+        "url": "https://www.bilibili.com/video/BV1Z4sP6qE77/",
+        "finalUrl": "https://www.bilibili.com/video/BV1Z4sP6qE77/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-26T05:54:17.762Z",
+        "htmlSha256": "c8d6ba2818149dcdfd4b111257ee19cd4f79f6db42a2cfb6a0a6857351854b00",
+        "title": "视频去哪了呢？_哔哩哔哩_bilibili",
+        "canonical": "https://www.bilibili.com/video/BV1Z4sP6qE77/",
+        "confirmedVideo": null,
+        "owner": null,
+        "visibleUnavailable": true
+      },
+      {
+        "bvid": "BV1S3nQ6EEoW",
+        "url": "https://www.bilibili.com/video/BV1S3nQ6EEoW/",
+        "finalUrl": "https://www.bilibili.com/video/BV1S3nQ6EEoW/",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-26T05:54:17.780Z",
+        "htmlSha256": "1a7d2c8a4f24c093cdabb0898c6f2ea541e70e3e9cda51ca42f7af18629e8f60",
+        "title": "视频去哪了呢？_哔哩哔哩_bilibili",
+        "canonical": "https://www.bilibili.com/video/BV1S3nQ6EEoW/",
+        "confirmedVideo": null,
+        "owner": null,
+        "visibleUnavailable": true
+      }
+    ],
+    "related": [
+      {
+        "pending": "BV17Epk66Exs",
+        "related": "BV1RWpk6KEx3",
+        "publisherId": 3546568969947566,
+        "scope": "Same uploader and series title; ending is a separate upload."
+      }
+    ]
+  },
+  "newWorks": {
+    "queried": 21,
+    "added": 18,
+    "excluded": [
+      "BV1d3eczYEPA",
+      "BV1qgbsz9Eb9",
+      "BV1Ebyez4E82"
+    ],
+    "exclusionBasis": "Game character or unrelated use of AI; no matching AI product personification established."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1N6yZzTE4n/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1N6yZzTE4n",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:52:39.622Z",
+  "scope": "Official view API returned the BV, date, uploader and cumulative likes. Original authorship beyond uploader follows linked creator credits.",
+  "metadata": {
+    "bvid": "BV1N6yZzTE4n",
+    "title": "【AI】深夜拖延鲸女孩：做。做。做。",
+    "owner": {
+      "name": "等雨的渊与沨",
+      "mid": 557785633
+    },
+    "pubdate": 1795519807,
+    "duration": 15
+  },
+  "descriptionSha256": "27ca8205e2295dbdcfbbaa3f45ab804d86005c647352b2964bea5c1772e8f2e7",
+  "sourceLinks": []
+}

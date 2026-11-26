@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1zAykzjERJ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zAykzjERJ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:52:30.053Z",
+  "scope": "Official view API returned the BV, date, uploader and cumulative likes. Original authorship beyond uploader follows linked creator credits.",
+  "metadata": {
+    "bvid": "BV1zAykzjERJ",
+    "title": "《Claude娘的约会指南》",
+    "owner": {
+      "name": "貓是液體這件事",
+      "mid": 660261003
+    },
+    "pubdate": 1795615219,
+    "duration": 444
+  },
+  "descriptionSha256": "20cd6074512d6bca6d1d32712c53271815879404f0ff9f66fe774063342e770b",
+  "sourceLinks": []
+}

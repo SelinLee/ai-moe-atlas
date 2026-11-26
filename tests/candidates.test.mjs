@@ -11,14 +11,14 @@ const context = { entities, characters, sources, reviews };
 const candidate = id => report.candidates.find(c => c.id === id);
 const invalid = mutate => { const copy = structuredClone(report); mutate(copy); assert.throws(()=>assertCandidateReport(copy, context)); };
 
-test('legacy discovery and all twelve metadata-only source groups validate', async () => {
+test('legacy discovery and remaining metadata-only source groups validate', async () => {
   assert.equal(assertCandidateReport(await json('content/candidates/bilibili-2026-09-27T17-29-26-212Z.json'), context), 15);
   const unknownPublisher=await json('content/candidates/bilibili-2026-09-27T17-29-26-212Z.json');
   unknownPublisher.candidates[0].publisher=null;
   assert.equal(assertCandidateReport(unknownPublisher,context),15);
-  assert.equal(assertCandidateReport(report, context), 12);
+  assert.equal(assertCandidateReport(report, context), 10);
   const urls = report.candidates.flatMap(c=>[c.url,...c.relatedSources.map(s=>s.url)]);
-  assert.equal(urls.filter(url=>url.startsWith('https://note.com/')).length, 13);
+  assert.equal(urls.filter(url=>url.startsWith('https://note.com/')).length, 11);
   assert.equal(new Set(urls).size, urls.length);
   for (const c of report.candidates) for (const purpose of purposes) assert.equal(allowsUse(reviews, c.id, purpose), false);
 });
@@ -35,17 +35,28 @@ test('unknown licenses cannot authorize candidate images, packs, previews or exp
   }
 });
 
-test('Copilot ambiguity and absent products do not contaminate Microsoft baseline', () => {
+test('Copilot ambiguity remains separate from verified GitHub Copilot and Perplexity sources', () => {
   assert.equal(candidate('note-yumie-copilot-claude').products[0].entityId,null);
-  assert.equal(candidate('note-yuki-github-copilot').products[0].entityId,null);
+  assert.equal(candidate('note-yuki-github-copilot'),undefined);
+  assert.equal(candidate('note-yuki-perplexity'),undefined);
   invalid(r=>r.candidates[0].products[0].provider='Microsoft');
-  invalid(r=>r.candidates[1].products[0].entityId='copilot');
-  invalid(r=>r.candidates.find(c=>c.id==='note-yuki-perplexity').products[0].entityId='chatgpt');
+  invalid(r=>r.candidates[0].products[0].entityId='copilot');
   assert.equal(entities.some(e=>e.id==='genspark'),false);
   assert.equal(characters.find(c=>c.id==='zipzippipe-perplexity').entity,'perplexity');
   assert.equal(entities.find(e=>e.id==='github-copilot').provider,'GitHub');
   assert.equal(characters.find(c=>c.id==='zipzippipe-github-copilot').entity,'github-copilot');
   assert.equal(characters.find(c=>c.id==='zipzippipe-microsoft-copilot').entity,'copilot');
+  for (const [id, entity, originalPublication] of [
+    ['yuki-github-copilot-kopi','github-copilot','https://note.com/nagi0811/n/nfeb89bb4443a'],
+    ['yuki-perplexity-butler','perplexity','https://note.com/nagi0811/n/nffb14f4ac461'],
+  ]) {
+    const character = characters.find(c=>c.id===id);
+    assert.equal(character.entity,entity);
+    assert.equal(character.originalPublication,originalPublication);
+    assert.equal(character.downloadable,false);
+    assert.equal(character.preview,null);
+    for (const purpose of purposes) assert.equal(allowsUse(reviews,id,purpose),false);
+  }
 });
 
 test('characters and generators retain the intended group relationships', () => {
@@ -69,6 +80,6 @@ test('redirected Mico announcement retains history without claiming a fresh veri
   assert.equal(mico.originalCreator,null);assert.equal(mico.license.status,'unknown');
   invalid(r=>r.candidates.find(c=>c.id==='microsoft-mico').verification.current.verifiedAt=report.searchedAt);
   invalid(r=>r.candidates[0].verification.current.httpStatus=403);
-  invalid(r=>r.candidates[8].relatedSources[0].url=r.candidates[0].url);
+  invalid(r=>r.candidates.find(c=>c.id==='note-yarotech-five-ai').relatedSources[0].url=r.candidates[0].url);
   invalid(r=>r.candidates[1].id=r.candidates[0].id);
 });

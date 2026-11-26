@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Q51czDEK3/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Q51czDEK3",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:52:38.082Z",
+  "scope": "Official view API returned the BV, date, uploader and cumulative likes. Original authorship beyond uploader follows linked creator credits.",
+  "metadata": {
+    "bvid": "BV1Q51czDEK3",
+    "title": "发现用户其实喜欢GTP娘后的谷歌娘",
+    "owner": {
+      "name": "风间闪-",
+      "mid": 205342771
+    },
+    "pubdate": 1795568400,
+    "duration": 45
+  },
+  "descriptionSha256": "e5708b502486c136da606d78dc05fb3802787709dfc22d9f34f7eec5355838f3",
+  "sourceLinks": [
+    {
+      "role": "credited-creator",
+      "title": "Harararal",
+      "url": "https://x.com/harararal9"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV13knf63EUA/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13knf63EUA",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:52:34.685Z",
+  "scope": "Official view API returned the BV, date, uploader and cumulative likes. Original authorship beyond uploader follows linked creator credits.",
+  "metadata": {
+    "bvid": "BV13knf63EUA",
+    "title": "【10月新番/DS】肥鱼大冒险 PV  ｜DeepSeek x Claude｜ 某蓝色大肥鱼的异世界冒险",
+    "owner": {
+      "name": "文文_Channel",
+      "mid": 520229248
+    },
+    "pubdate": 1793072400,
+    "duration": 112
+  },
+  "descriptionSha256": "ff98bb18dca3251e7027913f0901df5a8df9a9bf649db55880e1e6bffef1db3c",
+  "sourceLinks": [
+    {
+      "role": "same-series",
+      "title": "文文_Channel · 大冒险",
+      "url": "https://www.bilibili.com/video/BV1X74h6LEHp/"
+    }
+  ]
+}

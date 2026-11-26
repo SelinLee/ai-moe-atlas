@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1hty2z1E5p/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hty2z1E5p",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:52:30.052Z",
+  "scope": "Official view API returned the BV, date, uploader and cumulative likes. Original authorship beyond uploader follows linked creator credits.",
+  "metadata": {
+    "bvid": "BV1hty2z1E5p",
+    "title": "claude娘黑化，世界末日，时间能回溯吗",
+    "owner": {
+      "name": "手搓万物拿破王",
+      "mid": 3546979820898831
+    },
+    "pubdate": 1795669826,
+    "duration": 36
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "sourceLinks": []
+}

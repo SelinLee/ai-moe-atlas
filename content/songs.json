@@ -812,5 +812,47 @@
     "title": {"zh": "童年", "en": "Childhood", "ja": "童年"},
     "original": {"credit": "张艾嘉 · Sylvia Chang / 词曲 羅大佑", "url": "https://shop.rockmall.com.tw/product_view.php?id=54285"},
     "versions": [{"id": "bv1rcymzsetq", "type": "cover"}]
+  },
+  {
+    "id": "deep-sea-girl",
+    "title": {"zh": "深海少女", "en": "Deep Sea Girl", "ja": "深海少女"},
+    "original": {"credit": "ゆうゆ feat. 初音ミク", "url": "https://www.nicovideo.jp/watch/sm11956364"},
+    "versions": [{"id": "bv1q7wx6feir", "type": "cover"}]
+  },
+  {
+    "id": "romantic-cellphone",
+    "title": {"zh": "浪漫手机", "en": "Romantic Cellphone", "ja": "浪漫手機"},
+    "original": {"credit": "周杰伦 · Jay Chou", "url": "https://www.youtube.com/watch?v=Kbvu9Vt5_eE"},
+    "versions": [{"id": "bv1csyzzceip", "type": "cover"}]
+  },
+  {
+    "id": "what-do-you-want-from-me",
+    "title": {"zh": "你还要我怎样", "en": "What Do You Want From Me", "ja": "你還要我怎樣"},
+    "original": {"credit": "薛之谦 · Joker Xue", "url": "https://music-tw.line.me/track/7597055003"},
+    "versions": [{"id": "bv1rt1czxerz", "type": "cover"}]
+  },
+  {
+    "id": "catch-the-light-whale",
+    "title": {"zh": "CatchTheLight", "en": "CatchTheLight", "ja": "CatchTheLight"},
+    "original": {"credit": "鲸鲸是鱼鱼", "url": "https://www.bilibili.com/video/BV1tYs86bEwt/"},
+    "versions": [{"id": "bv1tys86bewt", "type": "original-mv"}]
+  },
+  {
+    "id": "unsaved-voice",
+    "title": {"zh": "未保存的声音", "en": "Unsaved Voice", "ja": "保存されなかった声"},
+    "original": {"credit": "贪吃鱼娘-汐蓝", "url": "https://www.bilibili.com/video/BV1q8sS6AEaz/"},
+    "versions": [{"id": "bv1q8ss6aeaz", "type": "original-mv"}]
+  },
+  {
+    "id": "deep-seek-truth",
+    "title": {"zh": "Deep.seek(TRUTH);", "en": "Deep.seek(TRUTH);", "ja": "Deep.seek(TRUTH);"},
+    "original": {"credit": "龙娘AI", "url": "https://www.bilibili.com/video/BV1Y41Fz9Enz/"},
+    "versions": [{"id": "bv1y41fz9enz", "type": "original-mv"}]
+  },
+  {
+    "id": "for-someone-like-me",
+    "title": {"zh": "譬如我", "en": "For Someone Like Me", "ja": "譬如我"},
+    "original": {"credit": "洛天依 · 姜洄 · 八万春", "url": "https://www.bilibili.com/video/BV1SKsK6fEg5/"},
+    "versions": [{"id": "bv1fo1fzperp", "type": "cover"}, {"id": "bv16b1czneev", "type": "cover"}]
   }
 ]

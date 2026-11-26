@@ -22,7 +22,7 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 ## Resource directory
 
 <!-- category-picks:characters -->
-**[🎨 Character atlas](#characters)** · 81 entries\
+**[🎨 Character atlas](#characters)** · 84 entries\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/) · [Gemini Pro · Portrait and expressions](https://selinlee.github.io/ai-moe-atlas/en/characters/qinv-gemini-pro/) · [Cohere · School Edition](https://selinlee.github.io/ai-moe-atlas/en/characters/school-op-cohere/)
 
 <!-- category-picks:personas -->
@@ -30,7 +30,7 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 [GLM the fox · ZCode](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md) · [Claude “Xiao Ke” · deslop writing card](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md) · [DeepSeek whale girl · QQ chat](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md)
 
 <!-- category-picks:songs -->
-**[🎵 Songs](#songs)** · 120 tracks\
+**[🎵 Songs](#songs)** · 127 tracks\
 [Humans Are Cats · Fat Fish cover](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · Animated MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [Rice and Dreams · Fat Fish × Updream](https://www.bilibili.com/video/BV1kxWV6KE6o/)
 
 <!-- category-picks:references -->
@@ -50,15 +50,15 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 [AI GIRLS · First Meeting · Original Comic](https://www.bilibili.com/video/BV15Npa6zE44/) · [AI GIRLS Daily Life · Contact Details Original](https://www.bilibili.com/video/BV1YSpu6gEh1/) · [AI GIRLS · Weren’t You Just Here?!](https://www.bilibili.com/video/BV15RybzNEVb/)
 
 <!-- category-picks:animations -->
-**[🎬 Animation & fan videos](#animations)** · 965 records\
+**[🎬 Animation & fan videos](#animations)** · 983 records\
 [What If the Chat Window Were Her Whole World?](https://www.bilibili.com/video/BV1xCai6aE9g/) · [Too Many Losing AIs! · Fan PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo Girl Character PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 Pets & interactive projects](#desktop-pets)** · 152 projects\
+**[🐾 Pets & interactive projects](#desktop-pets)** · 155 projects\
 [CrossPet · Cross-AI desktop companion](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D coding companion](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [Gemini Girl · Two-form desktop pet](https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/README.md)
 
 <!-- category-picks:sources -->
-**[📚 Creator works & sources](#sources)** · 196 sources\
+**[📚 Creator works & sources](#sources)** · 199 sources\
 [Shangshan · Whale Girl original](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini family illustration](https://www.bilibili.com/opus/1273349110528737288) · [Gemini Pro · Three originals](https://github.com/lmy414/ai-girl-stickers/issues/118)
 
 <a id="characters"></a>
@@ -72,6 +72,8 @@ New character entries · [Coco](https://selinlee.github.io/ai-moe-atlas/en/chara
 New character entries · [Qwen School Portrait · MX1951](https://selinlee.github.io/ai-moe-atlas/en/characters/mx1951-qwen/) · [NovelAI Girl · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-novelai/) · [ZCode Girl · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-zcode/) · [Hugging Face Girl · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-huggingface/) · [Perplexity Girl · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-perplexity/) · [Tencent Hunyuan Girl · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-hunyuan/)
 
 Ninon’s Claude Girl designs · [Maid design](https://selinlee.github.io/ai-moe-atlas/en/characters/ninon-claude-maid/) · [Orange-and-white dress](https://selinlee.github.io/ai-moe-atlas/en/characters/ninon-claude-orange-dress/). The original dress, the creator’s separate wallpaper and the adapted design sheet each have a source. [Dress reference sources](content/research/2026-11-23/claude-orange-dress-source-chain.json)
+
+Two pending leads by Yuki were traced to the creator’s public character designs. Senpibi’s Perplexity reporter joins them in the atlas. [Perplexity · Butler Design](https://selinlee.github.io/ai-moe-atlas/en/characters/yuki-perplexity-butler/) · [GitHub Copilot · Kopi-niisan](https://selinlee.github.io/ai-moe-atlas/en/characters/yuki-github-copilot-kopi/) · [Perplexity · Reporter Prekishi](https://selinlee.github.io/ai-moe-atlas/en/characters/senpibi-perplexity-prekishi/)
 
 Three 256 × 256 original PNG posters of metsh’s Claude Girl are available under CC BY-SA 4.0 for thinking, done and waiting. [Claude Girl · Task Mascot](https://selinlee.github.io/ai-moe-atlas/en/characters/metsh-claude-task-mascot/) · [Suno-chan · Shuyu Yin](https://selinlee.github.io/ai-moe-atlas/en/characters/shuyuyin-suno-christmas/)
 
@@ -131,6 +133,8 @@ The top ten tracks by the highest total likes on a listed version. Observation t
 <!-- song-ranking:end -->
 
 [Original music sources](content/research/2026-11-20/gemini-mv-original-music.json) · [Song and version verification](content/research/2026-11-20/song-originals-and-fan-versions.json) · [Opening-theme and fan-version credits](content/research/2026-11-20/character-songs-and-opening-credits.json) · [Dance and lyric MV song credits](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [Greenhouse Effect original and fan MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [Four original tracks and fan versions](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [Doubao covers and ending theme sources](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [Qwen, MiMo and dance track sources](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [Music sources for “APT.” and “Deleted a Hundred Times”](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [Cover and game music sources](content/research/2026-11-22/november-cover-song-originals-and-versions.json) · [Sources for Charlotte, bloom and unhappy](content/research/2026-11-22/november-charlotte-bloom-and-remix-evidence.json) · [Music from the weekly roundup and game soundtrack](content/research/2026-11-22/november-mili-and-game-soundtrack-verification.json) · [Original and cover verification for Rotten Miracle](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json) · [Three original tracks and their fan uses](content/research/2026-11-23/november-renai-numb-and-dragon-maid-originals.json) · [FIRESTARTER, Bad Apple!! and cover sources](content/research/2026-11-23/november-firestarter-bad-apple-and-cover-attribution.json) · [Original releases for Trouble Maker and A Friend’s Wine](content/research/2026-11-23/november-trouble-maker-and-friends-wine-originals.json)
+
+[Seven originals and fan versions, including Deep Sea Girl and For Someone Like Me](content/research/2026-11-26/november-26-as-for-me-and-original-recordings.json)
 
 [Nine originals and fan-version credits](content/research/2026-11-26/november-26-nine-music-originals-and-fan-versions.json)
 
@@ -221,6 +225,8 @@ The top ten by Bilibili’s official cumulative likes. Ties use publication date
 
 <!-- animation-ranking:end -->
 
+A later check found no video data at the official endpoint for any of the 12 candidates. Six public pages reported unavailable videos, five were restricted, and one page check was inconclusive. The original uploader’s Whale Music Girls ending has its own entry. [Whale Music Girls · Ending](https://www.bilibili.com/video/BV1RWpk6KEx3/) · [Candidate recheck](content/research/2026-11-26/bilibili-november-26-pending-pages-series-scope.json)
+
 Follow-up concluded at 13:43 Beijing time. All 433 earlier unqueried videos were checked, and 430 returned likes. Across the day, 928 of the original 938 ranked videos received fresh counts. Ten retained the last valid value because the official endpoint returned no video data. Twenty-seven videos entered the ranking, including five previously restricted candidates. Twelve candidates still await verification. [Review coverage and results](content/research/2026-11-26/bilibili-november-26-restored-recheck-scope.json)
 
 On 2026-11-26, 463 of 505 existing videos checked received updated counts, including the top ten. The last valid counts remain for 35 restricted requests, seven responses without video data and 433 videos outside the completed checks. Twelve existing candidates still await verification, including five whose requests were restricted. [Review scope and follow-up leads](content/research/2026-11-26/bilibili-november-26-recheck-scope.json)
@@ -250,7 +256,7 @@ Top ten by the latest recorded GitHub stars. The leading 15 projects were rechec
 | 9 | [OpenPets · Local Desktop Pet Platform](https://github.com/OpenPetsHQ/openpets/blob/9153e40ed37617243f903b074161d7df4bbd27b0/README.md) | [1,408](https://github.com/OpenPetsHQ/openpets) |
 | 10 | [CrossPet · multi-AI desktop companion](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) | [568](https://github.com/lokicorvus/crosspet) |
 
-[Browse all pets and interactive projects](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-26/github-interactive-stars-november-26-task-mascot-and-ports.json)
+[Browse all pets and interactive projects](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-26/github-interactive-stars-november-26-pixel-and-lightweight.json)
 
 New Gemini, Kimi and Grok companions · [Two-form Gemini girl](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#xiaoxindada-gemini-desktop-pet) · [Antigravity Gemini catgirl](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#rzls-gemini-antigravity-pet) · [Gemini quota companion](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#yunxi-gemini-antigravity-companion) · [Kimi Work and standalone pet](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#ancient-kimi-work-and-desktop-pet) · [Kimi vector blue ball](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#hhhzxyhhh-kimi-blue-ball-pet) · [Grok spherical-eye pet](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#necx-grok-spherical-eye-pet)
 
@@ -388,6 +394,7 @@ Newly added:
 
 | Date / status | Progress |
 | --- | --- |
+| 2026-11-26 · Candidate follow-up and character designs | Added 18 fan works, seven songs, three character entries and three interactive projects. Rechecked 12 pending videos and traced For Someone Like Me and the same-uploader Whale Music Girls ending. |
 | 2026-11-26 · Catalog follow-up and new fan works | Refreshed 928 existing ranked videos across the day and added 27 works, nine songs, two character entries and three interactive projects. Added three licensed original Claude Girl posters by metsh. |
 | 2026-11-26 · School portraits and songs | Added two character profiles and authorized packs for Cohere and iFLYTEK Spark, eight songs, and three interactive projects. Five new fan works await like verification. |
 | 2026-11-26 · Ranking and creator source review | Updated 463 cumulative like counts and two uploader display names. Added Mistral Chorale and Midjourney Fides, four creator sources and three interactive projects. |

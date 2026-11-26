@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1jkyBzPEC3/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jkyBzPEC3",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:52:31.600Z",
+  "scope": "Official view API returned the BV, date, uploader and cumulative likes. Original authorship beyond uploader follows linked creator credits.",
+  "metadata": {
+    "bvid": "BV1jkyBzPEC3",
+    "title": "鲸鱼娘小剧场：第31话 一紧张就想上厕所？不是怂",
+    "owner": {
+      "name": "鱼儿啊啊啊啊啊啊啊",
+      "mid": 3747569056353401
+    },
+    "pubdate": 1795583957,
+    "duration": 38
+  },
+  "descriptionSha256": "e1faef4a13ebcd2e80c3c74bb6ab8d1084d485efea0303b842bde296c90e8efb",
+  "sourceLinks": []
+}

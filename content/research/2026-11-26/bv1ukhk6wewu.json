@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1UkHK6WEwU/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1UkHK6WEwU",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T05:52:36.235Z",
+  "scope": "Official view API returned the BV, date, uploader and cumulative likes. Original authorship beyond uploader follows linked creator credits.",
+  "metadata": {
+    "bvid": "BV1UkHK6WEwU",
+    "title": "大肥鱼想成为有钱人",
+    "owner": {
+      "name": "天天座丽世",
+      "mid": 70394540
+    },
+    "pubdate": 1792835937,
+    "duration": 11
+  },
+  "descriptionSha256": "08498dd4acb0e11a8cf78579d577e52709e8dba86d836484597154abb16c3713",
+  "sourceLinks": []
+}
