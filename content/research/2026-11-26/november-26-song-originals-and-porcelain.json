@@ -1,0 +1,199 @@
+{
+  "method": "Saved official Bilibili video metadata and isolated headless Chrome verification of label catalog",
+  "scope": "Cumulative counts retain their existing observation times. No view API refresh or listening-session claim is made.",
+  "primarySources": {
+    "labelCatalog": {
+      "url": "https://music.apple.com/us/album/%E6%88%91%E5%BE%88%E5%BF%99/1721455530",
+      "finalUrl": "https://music.apple.com/us/album/%E6%88%91%E5%BE%88%E5%BF%99/1721455530",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-26T05:21:39.475Z",
+      "title": "‎Jay Chou On The Run - Album by Jay Chou - Apple Music",
+      "htmlSha256": "fdd329a33a55153054de50813861735fff33ef2b1912d2994976849740f46e43",
+      "track": [],
+      "confirmed": true
+    },
+    "officialMusicVideo": {
+      "url": "https://www.youtube.com/watch?v=Z8Mqw0b9ADs",
+      "channel": "周杰倫 Jay Chou",
+      "verification": "Artist’s published music-video title and description observed in public search."
+    }
+  },
+  "records": [
+    {
+      "id": "deep-thought-of-you",
+      "bvid": "BV1JaJo6jEqH",
+      "publisher": "失心",
+      "sourceTitle": "偷看DeepSeek娘的深度思考，写了又删的全是“想你”｜原创歌曲《已深度想你》大肥鱼 4K Hi-Res【AI MV大赛】",
+      "officialVideoEvidence": {
+        "path": "content/research/2026-11-08/bv1jajo6jeqh.json",
+        "sha256": "0e3abc6d1c6938ae3704e94eb42808f3d42e306c3ff2b229f503ee70447c1eab",
+        "kind": "browser-metadata-extract"
+      },
+      "cumulativeLikesEvidence": {
+        "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-partial-recheck.json",
+        "sha256": "943998940c90db0d595618e11ec9717c99b9e8a9152826ce3f7fe03bd2650e2a",
+        "kind": "browser-metadata-extract"
+      },
+      "original": {
+        "credit": "失心",
+        "url": "https://www.bilibili.com/video/BV1JaJo6jEqH/"
+      },
+      "relationship": "original-mv",
+      "sourceBasis": "Original or linked original single as identified in the retained uploader publication metadata. Credit is for the publisher of the original MV."
+    },
+    {
+      "id": "fat-fish-ballad",
+      "bvid": "BV1GMYX6WEYv",
+      "publisher": "Alston_Channel",
+      "sourceTitle": "【原创大肥鱼歌曲】胖鱼谣~人工智能之歌~",
+      "officialVideoEvidence": {
+        "path": "content/research/2026-11-08/bv1gmyx6weyv.json",
+        "sha256": "48beea993e0809424afd539dfca9503e908c51e913d0ed7947c3b3fc507c8a53",
+        "kind": "browser-metadata-extract"
+      },
+      "cumulativeLikesEvidence": {
+        "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-partial-recheck.json",
+        "sha256": "943998940c90db0d595618e11ec9717c99b9e8a9152826ce3f7fe03bd2650e2a",
+        "kind": "browser-metadata-extract"
+      },
+      "original": {
+        "credit": "Alston_Channel",
+        "url": "https://www.bilibili.com/video/BV1GMYX6WEYv/"
+      },
+      "relationship": "original-mv",
+      "sourceBasis": "Original or linked original single as identified in the retained uploader publication metadata. Credit is for the publisher of the original MV."
+    },
+    {
+      "id": "starlight-synapse-rhapsody",
+      "bvid": "BV11eWy6wE5W",
+      "publisher": "清风-ling",
+      "sourceTitle": "【原创MV】《星辉突触狂想曲》Softmax算出的数值，毫无悬念指向100%偏心！",
+      "officialVideoEvidence": {
+        "path": "content/research/2026-11-18/bv11ewy6we5w.json",
+        "sha256": "4142014de92d9676892549e37c2309c2266c7512554ae75a398a0d29a2b5c8ee",
+        "kind": "browser-metadata-extract"
+      },
+      "cumulativeLikesEvidence": {
+        "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-partial-recheck.json",
+        "sha256": "943998940c90db0d595618e11ec9717c99b9e8a9152826ce3f7fe03bd2650e2a",
+        "kind": "browser-metadata-extract"
+      },
+      "original": {
+        "credit": "清风-ling",
+        "url": "https://www.bilibili.com/video/BV11eWy6wE5W/"
+      },
+      "relationship": "original-mv",
+      "sourceBasis": "Original or linked original single as identified in the retained uploader publication metadata. Credit is for the publisher of the original MV."
+    },
+    {
+      "id": "last-light-whale",
+      "bvid": "BV1mhsD6nEK9",
+      "publisher": "鲸鲸是鱼鱼",
+      "sourceTitle": "千粉特别篇｜此歌，献给本鱼的 1047 位粉丝 -《LastLight》原创MV",
+      "officialVideoEvidence": {
+        "path": "content/research/2026-11-20/bv1mhsd6nek9.json",
+        "sha256": "739fa06b58aa25ddf85ed25855a8d7c4817158e8b59bd941760ff94acd411ac2",
+        "kind": "browser-metadata-extract"
+      },
+      "cumulativeLikesEvidence": {
+        "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-partial-recheck.json",
+        "sha256": "943998940c90db0d595618e11ec9717c99b9e8a9152826ce3f7fe03bd2650e2a",
+        "kind": "browser-metadata-extract"
+      },
+      "original": {
+        "credit": "鲸鲸是鱼鱼",
+        "url": "https://www.bilibili.com/video/BV1mhsD6nEK9/"
+      },
+      "relationship": "original-mv",
+      "sourceBasis": "Original or linked original single as identified in the retained uploader publication metadata. Credit is for the publisher of the original MV."
+    },
+    {
+      "id": "rice-and-dreams",
+      "bvid": "BV1kxWV6KE6o",
+      "publisher": "一团谧云",
+      "sourceTitle": "大肥鱼 x updream娘联动单曲《白饭与梦》【AI音乐】",
+      "officialVideoEvidence": {
+        "path": "content/research/2026-11-20/bv1kxwv6ke6o.json",
+        "sha256": "38f61721df1ff485a9d72c5254a2622d45db2960ba7bbdec96825f8b21b2bc63",
+        "kind": "browser-metadata-extract"
+      },
+      "cumulativeLikesEvidence": {
+        "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-partial-recheck.json",
+        "sha256": "943998940c90db0d595618e11ec9717c99b9e8a9152826ce3f7fe03bd2650e2a",
+        "kind": "browser-metadata-extract"
+      },
+      "original": {
+        "credit": "一团谧云",
+        "url": "https://www.bilibili.com/video/BV1kxWV6KE6o/"
+      },
+      "relationship": "original-mv",
+      "sourceBasis": "Original or linked original single as identified in the retained uploader publication metadata. Credit is for the publisher of the original MV."
+    },
+    {
+      "id": "best-ai-for-you",
+      "bvid": "BV1mTn16oE7d",
+      "publisher": "GPT白龍娘在运营",
+      "sourceTitle": "【Day2】并非大肥鱼~大肥龙出道单曲！想做你的No.1《Best AI (For You)》MV【AI MV大赛】",
+      "officialVideoEvidence": {
+        "path": "content/research/2026-11-20/bv1mtn16oe7d.json",
+        "sha256": "b75a7281469fbd3fd610ff2513b4d44bbd3125996424f2a90c06376d2d7a3fdd",
+        "kind": "browser-metadata-extract"
+      },
+      "cumulativeLikesEvidence": {
+        "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-new-and-catalog-recheck.json",
+        "sha256": "287bf7dc94e102fd0c5b494e31937010deebc8512b1fa03f7b3e8d687b5b3876",
+        "kind": "browser-metadata-extract"
+      },
+      "original": {
+        "credit": "GPT白龍娘在运营",
+        "url": "https://www.bilibili.com/video/BV1mTn16oE7d/"
+      },
+      "relationship": "original-mv",
+      "sourceBasis": "Original or linked original single as identified in the retained uploader publication metadata. Credit is for the publisher of the original MV."
+    },
+    {
+      "id": "starlight-companion-two-am",
+      "bvid": "BV1Q3s26mERW",
+      "publisher": "清风-ling",
+      "sourceTitle": "【原创MV】凌晨两点，傲娇猫娘偷偷陪你改 Bug《02:00 AM 的星光陪伴》",
+      "officialVideoEvidence": {
+        "path": "content/research/2026-11-21/bv1q3s26merw.json",
+        "sha256": "cc72e962adec577e9f8dab5bfc8b69f8487195be40294596e1796f6ea1855955",
+        "kind": "browser-metadata-extract"
+      },
+      "cumulativeLikesEvidence": {
+        "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-remaining-catalog-and-source-works.json",
+        "sha256": "aa1de7190706000e7a50dec2d0c8ac79eaa481716893e7c56d845a2e1213ea81",
+        "kind": "browser-metadata-extract"
+      },
+      "original": {
+        "credit": "清风-ling",
+        "url": "https://www.bilibili.com/video/BV1Q3s26mERW/"
+      },
+      "relationship": "original-mv",
+      "sourceBasis": "Original or linked original single as identified in the retained uploader publication metadata. Credit is for the publisher of the original MV."
+    },
+    {
+      "id": "blue-and-white-porcelain",
+      "bvid": "BV1xWyBzjEAX",
+      "publisher": "爱吃白饭的青青",
+      "sourceTitle": "青花瓷｜天青色等烟雨，而我在等你（青青翻唱）",
+      "officialVideoEvidence": {
+        "path": "content/research/2026-11-25/bv1xwybzjeax.json",
+        "sha256": "7ca3407873390d542ff0c206263ba78b2494be92e3140bacab675e0443fc362e",
+        "kind": "browser-metadata-extract"
+      },
+      "cumulativeLikesEvidence": {
+        "path": "content/research/2026-11-25/bilibili-cumulative-likes-november-25-third-candidate-batch.json",
+        "sha256": "60387c80222ffe8a041fae0bfc8e463dd5caf24cd773b2352ae6a68b2cb75fbd",
+        "kind": "browser-metadata-extract"
+      },
+      "original": {
+        "credit": "周杰伦 · Jay Chou",
+        "url": "https://music.apple.com/us/album/%E6%88%91%E5%BE%88%E5%BF%99/1721455530"
+      },
+      "relationship": "cover",
+      "sourceBasis": "Title identifies 青花瓷 with the same distinctive lyric as Jay Chou’s official MV; label catalog track independently verified."
+    }
+  ]
+}

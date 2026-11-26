@@ -3,8 +3,8 @@
   "updatedAt": "2026-11-26",
   "scope": "source-metadata-only",
   "pendingAnimationEvidence": {
-    "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-partial-recheck.json",
-    "sha256": "943998940c90db0d595618e11ec9717c99b9e8a9152826ce3f7fe03bd2650e2a",
+    "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-candidate-follow-up.json",
+    "sha256": "0bd649ae9d7531ff1b26ba9fbccfad2714680066d676e8a09e56489dcf4f6087",
     "kind": "browser-metadata-extract"
   },
   "records": [
@@ -73820,6 +73820,326 @@
       "downloadable": false,
       "addedAt": "2026-11-26",
       "publicationDate": "2026-10-31",
+      "publicationDateBasis": "github-repository-created"
+    },
+    {
+      "id": "school-op-cohere-original",
+      "category": "sources",
+      "title": {
+        "zh": "Cohere · 校园版",
+        "en": "Cohere · School Edition",
+        "ja": "Cohere · 学園版"
+      },
+      "publisher": "lshhhhhhh",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/cohere.png",
+      "summary": {
+        "zh": "来自 lshhhhhhh 的 ai-school-op 角色表。作者用 GPT 生图制作这个项目的校园版原创拟人设定。",
+        "en": "From the ai-school-op cast by lshhhhhhh, who used GPT image generation for this original school personification.",
+        "ja": "lshhhhhhh の ai-school-op の配役表に掲載。作者はこの学園版のオリジナル擬人化を GPT の画像生成で制作。"
+      },
+      "rights": {
+        "zh": "以 CC BY-NC 4.0 提供此校园版设定图。限非商业使用，保留作者、作品出处、许可链接并标明改动。图鉴仅进行等比缩放、留边和格式转换。原动画、音乐与产品标识各有使用条件。",
+        "en": "This school-version design sheet uses CC BY-NC 4.0. Noncommercial use only. Preserve creator credit, source and license links, and identify changes. Atlas only resizes proportionally, pads and converts formats. The original anime, music and product branding have separate terms.",
+        "ja": "この学園版の設定画は CC BY-NC 4.0 です。非商用に限り、作者名・出典・ライセンスを示し、変更を明記してください。図鑑での処理は比率維持のリサイズ、余白追加、形式変換のみ。原作アニメ、音楽、製品の標識は個別の条件に従います。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-26/school-op-cohere-original.json",
+        "sha256": "0032e69c1ed95a16df0709786abd7ec8b16f5e7849345be29657aee27940fb5c",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-26T05:17:32.854Z",
+        "httpStatus": 200,
+        "scope": "Standalone character PNG only. The repository identifies the picture as GPT-assisted project art. CC BY-NC 4.0 applies to the design file at this commit."
+      },
+      "relations": [
+        {
+          "role": "creator-cast",
+          "title": "ai-school-op · Cast",
+          "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/README.md"
+        },
+        {
+          "role": "artwork-license",
+          "title": "CC BY-NC 4.0",
+          "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/LICENSE"
+        },
+        {
+          "role": "creator-prompt",
+          "title": "cast/designs/cohere.prompt.txt",
+          "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/cohere.prompt.txt"
+        },
+        {
+          "role": "related-fan-video",
+          "title": "ai-school-op · PV",
+          "url": "https://www.bilibili.com/video/BV1Nfag6xEHQ/"
+        },
+        {
+          "role": "official-product",
+          "title": "Cohere / Command",
+          "url": "https://docs.cohere.com/docs/models"
+        }
+      ],
+      "addedAt": "2026-11-26",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false
+    },
+    {
+      "id": "school-op-spark-original",
+      "category": "sources",
+      "title": {
+        "zh": "讯飞星火 · 校园版",
+        "en": "iFLYTEK Spark · School Edition",
+        "ja": "iFLYTEK Spark · 学園版"
+      },
+      "publisher": "lshhhhhhh",
+      "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/spark.png",
+      "summary": {
+        "zh": "来自 lshhhhhhh 的 ai-school-op 角色表。作者用 GPT 生图制作这个项目的校园版原创拟人设定。",
+        "en": "From the ai-school-op cast by lshhhhhhh, who used GPT image generation for this original school personification.",
+        "ja": "lshhhhhhh の ai-school-op の配役表に掲載。作者はこの学園版のオリジナル擬人化を GPT の画像生成で制作。"
+      },
+      "rights": {
+        "zh": "以 CC BY-NC 4.0 提供此校园版设定图。限非商业使用，保留作者、作品出处、许可链接并标明改动。图鉴仅进行等比缩放、留边和格式转换。原动画、音乐与产品标识各有使用条件。",
+        "en": "This school-version design sheet uses CC BY-NC 4.0. Noncommercial use only. Preserve creator credit, source and license links, and identify changes. Atlas only resizes proportionally, pads and converts formats. The original anime, music and product branding have separate terms.",
+        "ja": "この学園版の設定画は CC BY-NC 4.0 です。非商用に限り、作者名・出典・ライセンスを示し、変更を明記してください。図鑑での処理は比率維持のリサイズ、余白追加、形式変換のみ。原作アニメ、音楽、製品の標識は個別の条件に従います。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-26/school-op-spark-original.json",
+        "sha256": "2b109a726188217dd683ef93d268971f4f241b5bca461387648f356354b53180",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-26T05:19:34.691Z",
+        "httpStatus": 200,
+        "scope": "Standalone character PNG only. The repository identifies the picture as GPT-assisted project art. CC BY-NC 4.0 applies to the design file at this commit."
+      },
+      "relations": [
+        {
+          "role": "creator-cast",
+          "title": "ai-school-op · Cast",
+          "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/README.md"
+        },
+        {
+          "role": "artwork-license",
+          "title": "CC BY-NC 4.0",
+          "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/LICENSE"
+        },
+        {
+          "role": "creator-prompt",
+          "title": "cast/designs/spark.prompt.txt",
+          "url": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/spark.prompt.txt"
+        },
+        {
+          "role": "related-fan-video",
+          "title": "ai-school-op · PV",
+          "url": "https://www.bilibili.com/video/BV1Nfag6xEHQ/"
+        },
+        {
+          "role": "official-product",
+          "title": "讯飞星火 / iFLYTEK Spark",
+          "url": "https://www.xfyun.cn/doc/spark/Guide.html"
+        }
+      ],
+      "addedAt": "2026-11-26",
+      "publicationDate": null,
+      "publicationDateBasis": null,
+      "usage": "source-only",
+      "downloadable": false
+    },
+    {
+      "id": "kirito-claudia-desktop-pet",
+      "category": "interactive",
+      "title": {
+        "zh": "claudia-pet · Windows 与 Linux 桌宠",
+        "en": "claudia-pet · Windows and Linux Companion",
+        "ja": "claudia-pet · Windows・Linux ペット"
+      },
+      "publisher": "kirito1207",
+      "url": "https://github.com/kirito1207/claudia-pet/blob/f955f848489d8e40d1f6c57504a3e2b7342173f4/README.md",
+      "summary": {
+        "zh": "基于 CrossPet v1.3.8。支持在 Claude 窗口或桌面显示，最多可同时运行 5 只。独立 Linux 实现与 Windows 版共享角色和插件。",
+        "en": "Based on CrossPet v1.3.8. Up to five pets can live on the desktop or in the Claude window. The Linux implementation shares characters and the plugin with Windows.",
+        "ja": "CrossPet v1.3.8 がベース。Claude のウィンドウまたはデスクトップで最大5体を表示。Linux 版は Windows とキャラクターとプラグインを共有。"
+      },
+      "rights": {
+        "zh": "代码采用 MIT，CrossPet 立绘和本项目二次绘制素材注明 CC BY-NC-SA 4.0。Hunmer 动作素材另列来源，Clawd 权利归 Anthropic。",
+        "en": "Code uses MIT. CrossPet art and the project’s art derivatives are labeled CC BY-NC-SA 4.0. Hunmer’s animation source is credited separately; Anthropic retains rights to Clawd.",
+        "ja": "コードは MIT。CrossPet の立ち絵と、その派生画像は CC BY-NC-SA 4.0 と記載。Hunmer のアニメは別に出典を明記。Clawd の権利は Anthropic に帰属。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-26/kirito-claudia-desktop-pet.json",
+        "sha256": "34079b3e74c07239d69a9af84c348308eb66b358eebeab0e2336a5476bce8168",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-26T05:17:25.928Z",
+        "httpStatus": 200,
+        "scope": "Read the pinned README, contribution notice, art terms and Linux documentation. Project and upstream art terms are described as documented."
+      },
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "LICENSE",
+          "url": "https://github.com/kirito1207/claudia-pet/blob/f955f848489d8e40d1f6c57504a3e2b7342173f4/LICENSE"
+        },
+        {
+          "role": "pinned-document",
+          "title": "NOTICE.md",
+          "url": "https://github.com/kirito1207/claudia-pet/blob/f955f848489d8e40d1f6c57504a3e2b7342173f4/NOTICE.md"
+        },
+        {
+          "role": "pinned-document",
+          "title": "characters/README.md",
+          "url": "https://github.com/kirito1207/claudia-pet/blob/f955f848489d8e40d1f6c57504a3e2b7342173f4/characters/README.md"
+        },
+        {
+          "role": "pinned-document",
+          "title": "characters/LICENSE.md",
+          "url": "https://github.com/kirito1207/claudia-pet/blob/f955f848489d8e40d1f6c57504a3e2b7342173f4/characters/LICENSE.md"
+        },
+        {
+          "role": "pinned-document",
+          "title": "linux/README.md",
+          "url": "https://github.com/kirito1207/claudia-pet/blob/f955f848489d8e40d1f6c57504a3e2b7342173f4/linux/README.md"
+        },
+        {
+          "role": "pinned-document",
+          "title": "upstream/CrossPet-LICENSE",
+          "url": "https://github.com/kirito1207/claudia-pet/blob/f955f848489d8e40d1f6c57504a3e2b7342173f4/upstream/CrossPet-LICENSE"
+        },
+        {
+          "role": "upstream",
+          "title": "CrossPet",
+          "url": "https://github.com/lokicorvus/crosspet"
+        },
+        {
+          "role": "upstream-animation",
+          "title": "aboutme-pets",
+          "url": "https://github.com/hunmer/aboutme-pets"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-26",
+      "publicationDate": "2026-11-04",
+      "publicationDateBasis": "github-repository-created"
+    },
+    {
+      "id": "hairyf-dsh-claude-video-pack",
+      "category": "interactive",
+      "title": {
+        "zh": "Claude 娘 · DSH 透明动作包",
+        "en": "Claude Girl · DSH Transparent Animation Pack",
+        "ja": "Claude 娘 · DSH 透過アニメパック"
+      },
+      "publisher": "hairyf",
+      "url": "https://github.com/hairyf/dsh-pet-claude/blob/b717f4c64bdd13ec39d478771d51fb3f30774b46/README.md",
+      "summary": {
+        "zh": "项目将 hunmer 的 Claude 桌宠动作转成 DSH 用 VP9 WebM 和 macOS 用 HEVC-alpha MOV。固定 README 列出 166 个动作。",
+        "en": "Converts hunmer’s Claude pet animations to VP9 WebM for DSH and HEVC-alpha MOV for macOS. The pinned README lists 166 actions.",
+        "ja": "hunmer の Claude ペットの動きを DSH 向け VP9 WebM と macOS 向け HEVC-alpha MOV に変換。固定 README は166種類と記載。"
+      },
+      "rights": {
+        "zh": "MIT 用于脚本和配置。角色图像及动画按上游说明限非商用，公开二创需署名上游。",
+        "en": "MIT covers scripts and configuration. Upstream terms limit character imagery and animation to noncommercial use and require credit for public derivatives.",
+        "ja": "スクリプトと設定は MIT。キャラクター画像とアニメは上流の非商用・公開派生物へのクレジット条件に従います。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-26/hairyf-dsh-claude-video-pack.json",
+        "sha256": "e12b9b8837393457306d50ed360bef6821962c40e3c2be1331d0411871c9cbd5",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-26T05:17:28.825Z",
+        "httpStatus": 200,
+        "scope": "Pinned README and license distinguish conversion scripts from character art. Format and action count are attributed to the documentation."
+      },
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "LICENSE",
+          "url": "https://github.com/hairyf/dsh-pet-claude/blob/b717f4c64bdd13ec39d478771d51fb3f30774b46/LICENSE"
+        },
+        {
+          "role": "upstream-animation",
+          "title": "aboutme-pets",
+          "url": "https://github.com/hunmer/aboutme-pets"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-26",
+      "publicationDate": "2026-11-07",
+      "publicationDateBasis": "github-repository-created"
+    },
+    {
+      "id": "iamlinxuhan-plasmoid-whale-pet",
+      "category": "interactive",
+      "title": {
+        "zh": "大肥鱼 · KDE Plasma 桌宠",
+        "en": "Fat Fish · KDE Plasma Desktop Pet",
+        "ja": "大きな魚 · KDE Plasma デスクトップペット"
+      },
+      "publisher": "iamlinxuhan",
+      "url": "https://github.com/iamlinxuhan/plasmoid-deepseek-pet/blob/61488aa5231fe61dd84bf909d11dfb12ad011fc8/README.md",
+      "summary": {
+        "zh": "大肥鱼的 KDE Plasma 移植版，提供 Plasma 组件和透明 WebP 动画，保留上游桌宠的动作链路。",
+        "en": "A KDE Plasma port with a Plasma widget and transparent WebP animations, with the upstream desktop pet lineage documented.",
+        "ja": "KDE Plasma 移植版。Plasma ウィジェットと透過 WebP アニメがあり、上流ペットの出典を記載。"
+      },
+      "rights": {
+        "zh": "项目代码注明 MIT，随包 KDE layer-shell-qt 组件有独立 LGPL 条款。角色动画权限依上游出处逐件核对。",
+        "en": "Project code is MIT, and the included KDE layer-shell-qt component has its own LGPL terms. Check artwork permission per upstream asset.",
+        "ja": "コードは MIT、同梱 KDE layer-shell-qt は別途 LGPL。キャラクターアニメの条件は上流素材ごとに確認してください。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-26/iamlinxuhan-plasmoid-whale-pet.json",
+        "sha256": "64374a55bca9e43e473c9f0b8a029947d5610f9180f0ad8ba5624f1974d516af",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-26T05:17:29.604Z",
+        "httpStatus": 200,
+        "scope": "Pinned README, root MIT license and third-party KDE notice checked. The port’s claims about individual upstream artwork are not treated as independent licenses."
+      },
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "LICENSE",
+          "url": "https://github.com/iamlinxuhan/plasmoid-deepseek-pet/blob/61488aa5231fe61dd84bf909d11dfb12ad011fc8/LICENSE"
+        },
+        {
+          "role": "pinned-document",
+          "title": "package/THIRD_PARTY_NOTICES.md",
+          "url": "https://github.com/iamlinxuhan/plasmoid-deepseek-pet/blob/61488aa5231fe61dd84bf909d11dfb12ad011fc8/package/THIRD_PARTY_NOTICES.md"
+        },
+        {
+          "role": "upstream-port",
+          "title": "dsh-pet-indesktop",
+          "url": "https://github.com/MerZlin/dsh-pet-indesktop"
+        },
+        {
+          "role": "upstream",
+          "title": "dsh-pet",
+          "url": "https://github.com/PC2005-cloud/dsh-pet"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-26",
+      "publicationDate": "2026-11-19",
       "publicationDateBasis": "github-repository-created"
     }
   ]

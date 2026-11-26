@@ -4728,5 +4728,155 @@
       "en": "The author credits Gemini and Nano Banana 2. The note-served editions were hashed, and the atlas links to the creator’s post.",
       "ja": "作者は Gemini と Nano Banana 2 を使用と記載。note 配信版のハッシュを確認し、作者の投稿へリンク。"
     }
+  },
+  {
+    "id": "school-op-cohere",
+    "entity": "cohere",
+    "name": {
+      "zh": "Cohere · 校园版",
+      "en": "Cohere · School Edition",
+      "ja": "Cohere · 学園版"
+    },
+    "description": {
+      "zh": "森林绿及肩卷发、浅色挑染、榛色眼睛，制服上有桃色、浅黄和绿色领结。",
+      "en": "Shoulder-length forest-green curls, a light streak, hazel eyes and peach, pale yellow and green uniform bows.",
+      "ja": "肩までのフォレストグリーンの巻き髪、淡いメッシュ、ヘーゼルの瞳、桃色・淡黄色・緑の制服リボン。"
+    },
+    "story": {
+      "zh": "来自 lshhhhhhh 的 ai-school-op 角色表。作者用 GPT 生图制作这个项目的校园版原创拟人设定。",
+      "en": "From the ai-school-op cast by lshhhhhhh, who used GPT image generation for this original school personification.",
+      "ja": "lshhhhhhh の ai-school-op の配役表に掲載。作者はこの学園版のオリジナル擬人化を GPT の画像生成で制作。"
+    },
+    "features": {
+      "zh": "森林绿及肩卷发、浅色挑染、榛色眼睛，制服上有桃色、浅黄和绿色领结。",
+      "en": "Shoulder-length forest-green curls, a light streak, hazel eyes and peach, pale yellow and green uniform bows.",
+      "ja": "肩までのフォレストグリーンの巻き髪、淡いメッシュ、ヘーゼルの瞳、桃色・淡黄色・緑の制服リボン。"
+    },
+    "kind": "collected",
+    "style": "anime",
+    "official": false,
+    "author": "ai-school-op · lshhhhhhh",
+    "authorUrl": "https://github.com/lshhhhhhh/ai-school-op",
+    "source": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/README.md",
+    "sourceTitle": "ai-school-op · Cast",
+    "originalPublication": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/cohere.png",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ai-school-op · lshhhhhhh",
+        "url": "https://github.com/lshhhhhhh/ai-school-op",
+        "role": "publisher",
+        "publication": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/cohere.png"
+      }
+    ],
+    "method": "upstream-ai-assisted",
+    "license": "CC-BY-NC-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "downloadable": true,
+    "bg": "#e9f0e9",
+    "color": "#38604b",
+    "verifiedAt": "2026-11-26",
+    "origin": "web-collected",
+    "preview": "collected/school-op-cohere/portrait/preview.webp",
+    "assets": [
+      {
+        "id": "portrait",
+        "label": {
+          "zh": "校园版原始全身立绘",
+          "en": "Original school-version full portrait",
+          "ja": "学園版の全身立ち絵原本"
+        }
+      }
+    ],
+    "provenanceNote": {
+      "zh": "保留固定 Git 版本的原始 PNG 和校验值。衍生文件采用完整画面等比适配、透明留边及格式转换。",
+      "en": "The pinned original PNG and its checksum are preserved. Derived files use full-image fitting, transparent padding and format conversion.",
+      "ja": "固定 Git 版の PNG 原本とハッシュを保持。派生ファイルは画像全体の比率維持、透明余白、形式変換のみ。"
+    },
+    "terms": {
+      "zh": "以 CC BY-NC 4.0 提供此校园版设定图。限非商业使用，保留作者、作品出处、许可链接并标明改动。图鉴仅进行等比缩放、留边和格式转换。原动画、音乐与产品标识各有使用条件。",
+      "en": "This school-version design sheet uses CC BY-NC 4.0. Noncommercial use only. Preserve creator credit, source and license links, and identify changes. Atlas only resizes proportionally, pads and converts formats. The original anime, music and product branding have separate terms.",
+      "ja": "この学園版の設定画は CC BY-NC 4.0 です。非商用に限り、作者名・出典・ライセンスを示し、変更を明記してください。図鑑での処理は比率維持のリサイズ、余白追加、形式変換のみ。原作アニメ、音楽、製品の標識は個別の条件に従います。"
+    },
+    "licenseLabel": {
+      "zh": "CC BY-NC 4.0 · 署名、非商业",
+      "en": "CC BY-NC 4.0 · Attribution, noncommercial",
+      "ja": "CC BY-NC 4.0 · 作者表示、非商用"
+    }
+  },
+  {
+    "id": "school-op-spark",
+    "entity": "spark",
+    "name": {
+      "zh": "讯飞星火 · 校园版",
+      "en": "iFLYTEK Spark · School Edition",
+      "ja": "iFLYTEK Spark · 学園版"
+    },
+    "description": {
+      "zh": "酒红低侧马尾、蓝眼睛、蓝色火焰发夹和蓝红白领结。",
+      "en": "A low burgundy side ponytail, blue eyes, a blue flame clip and blue, red and white bows.",
+      "ja": "ワインレッドの低いサイドポニー、青い瞳、青い炎の髪留め、青・赤・白のリボン。"
+    },
+    "story": {
+      "zh": "来自 lshhhhhhh 的 ai-school-op 角色表。作者用 GPT 生图制作这个项目的校园版原创拟人设定。",
+      "en": "From the ai-school-op cast by lshhhhhhh, who used GPT image generation for this original school personification.",
+      "ja": "lshhhhhhh の ai-school-op の配役表に掲載。作者はこの学園版のオリジナル擬人化を GPT の画像生成で制作。"
+    },
+    "features": {
+      "zh": "酒红低侧马尾、蓝眼睛、蓝色火焰发夹和蓝红白领结。",
+      "en": "A low burgundy side ponytail, blue eyes, a blue flame clip and blue, red and white bows.",
+      "ja": "ワインレッドの低いサイドポニー、青い瞳、青い炎の髪留め、青・赤・白のリボン。"
+    },
+    "kind": "collected",
+    "style": "anime",
+    "official": false,
+    "author": "ai-school-op · lshhhhhhh",
+    "authorUrl": "https://github.com/lshhhhhhh/ai-school-op",
+    "source": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/README.md",
+    "sourceTitle": "ai-school-op · Cast",
+    "originalPublication": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/spark.png",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ai-school-op · lshhhhhhh",
+        "url": "https://github.com/lshhhhhhh/ai-school-op",
+        "role": "publisher",
+        "publication": "https://github.com/lshhhhhhh/ai-school-op/blob/379e83eebe0f5c34eefa81ca4ef8203c1c54ae64/cast/designs/spark.png"
+      }
+    ],
+    "method": "upstream-ai-assisted",
+    "license": "CC-BY-NC-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc/4.0/",
+    "downloadable": true,
+    "bg": "#f9edf2",
+    "color": "#874c69",
+    "verifiedAt": "2026-11-26",
+    "origin": "web-collected",
+    "preview": "collected/school-op-spark/portrait/preview.webp",
+    "assets": [
+      {
+        "id": "portrait",
+        "label": {
+          "zh": "校园版原始全身立绘",
+          "en": "Original school-version full portrait",
+          "ja": "学園版の全身立ち絵原本"
+        }
+      }
+    ],
+    "provenanceNote": {
+      "zh": "保留固定 Git 版本的原始 PNG 和校验值。衍生文件采用完整画面等比适配、透明留边及格式转换。",
+      "en": "The pinned original PNG and its checksum are preserved. Derived files use full-image fitting, transparent padding and format conversion.",
+      "ja": "固定 Git 版の PNG 原本とハッシュを保持。派生ファイルは画像全体の比率維持、透明余白、形式変換のみ。"
+    },
+    "terms": {
+      "zh": "以 CC BY-NC 4.0 提供此校园版设定图。限非商业使用，保留作者、作品出处、许可链接并标明改动。图鉴仅进行等比缩放、留边和格式转换。原动画、音乐与产品标识各有使用条件。",
+      "en": "This school-version design sheet uses CC BY-NC 4.0. Noncommercial use only. Preserve creator credit, source and license links, and identify changes. Atlas only resizes proportionally, pads and converts formats. The original anime, music and product branding have separate terms.",
+      "ja": "この学園版の設定画は CC BY-NC 4.0 です。非商用に限り、作者名・出典・ライセンスを示し、変更を明記してください。図鑑での処理は比率維持のリサイズ、余白追加、形式変換のみ。原作アニメ、音楽、製品の標識は個別の条件に従います。"
+    },
+    "licenseLabel": {
+      "zh": "CC BY-NC 4.0 · 署名、非商业",
+      "en": "CC BY-NC 4.0 · Attribution, noncommercial",
+      "ja": "CC BY-NC 4.0 · 作者表示、非商用"
+    }
   }
 ]

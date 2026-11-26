@@ -1,0 +1,102 @@
+{
+  "url": "https://github.com/kirito1207/claudia-pet/blob/f955f848489d8e40d1f6c57504a3e2b7342173f4/README.md",
+  "accessedAt": "2026-11-26T05:17:25.928Z",
+  "httpStatus": 200,
+  "scope": "Read the pinned README, contribution notice, art terms and Linux documentation. Project and upstream art terms are described as documented.",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/kirito1207/claudia-pet/blob/f955f848489d8e40d1f6c57504a3e2b7342173f4/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/kirito1207/claudia-pet/f955f848489d8e40d1f6c57504a3e2b7342173f4/README.md",
+    "sourceSha256": "48f67d10d2f9d7df912fad42fecb75806c1af357d45a7db85b3c8ab10f8d3c56",
+    "gitBlobSha": "65e24a719df850c789a5daa9e96ada56574d0c1e",
+    "bytes": 22667,
+    "commit": "f955f848489d8e40d1f6c57504a3e2b7342173f4",
+    "accessedAt": "2026-11-26T05:17:25.928Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/kirito1207/claudia-pet/blob/f955f848489d8e40d1f6c57504a3e2b7342173f4/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/kirito1207/claudia-pet/f955f848489d8e40d1f6c57504a3e2b7342173f4/README.md",
+      "sourceSha256": "48f67d10d2f9d7df912fad42fecb75806c1af357d45a7db85b3c8ab10f8d3c56",
+      "gitBlobSha": "65e24a719df850c789a5daa9e96ada56574d0c1e",
+      "bytes": 22667,
+      "commit": "f955f848489d8e40d1f6c57504a3e2b7342173f4",
+      "accessedAt": "2026-11-26T05:17:25.928Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/kirito1207/claudia-pet/blob/f955f848489d8e40d1f6c57504a3e2b7342173f4/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/kirito1207/claudia-pet/f955f848489d8e40d1f6c57504a3e2b7342173f4/LICENSE",
+      "sourceSha256": "0a7c5072fa5714dd737d384bf15f3e51641edd8e64000a98d372804c24e91897",
+      "gitBlobSha": "dea3a39ecda3639cc6ff5d2dbc6e0843e31db5a3",
+      "bytes": 1372,
+      "commit": "f955f848489d8e40d1f6c57504a3e2b7342173f4",
+      "accessedAt": "2026-11-26T05:17:26.280Z"
+    },
+    {
+      "path": "NOTICE.md",
+      "url": "https://github.com/kirito1207/claudia-pet/blob/f955f848489d8e40d1f6c57504a3e2b7342173f4/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/kirito1207/claudia-pet/f955f848489d8e40d1f6c57504a3e2b7342173f4/NOTICE.md",
+      "sourceSha256": "d14d76957aa5cefca3609688aa3d1ed8ae5d3f2f406f0390c4d54a8a6362875a",
+      "gitBlobSha": "b8f7f22799379cbfec7965fe8fad47d270e88eb7",
+      "bytes": 11671,
+      "commit": "f955f848489d8e40d1f6c57504a3e2b7342173f4",
+      "accessedAt": "2026-11-26T05:17:26.718Z"
+    },
+    {
+      "path": "characters/README.md",
+      "url": "https://github.com/kirito1207/claudia-pet/blob/f955f848489d8e40d1f6c57504a3e2b7342173f4/characters/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/kirito1207/claudia-pet/f955f848489d8e40d1f6c57504a3e2b7342173f4/characters/README.md",
+      "sourceSha256": "d9498aea41ba4a7603949e148fc212671aacee48760380a8d9d8f96fb23c0f9d",
+      "gitBlobSha": "5ce269dc91ccaa8ca23e5c68477de56a03fd1a59",
+      "bytes": 4128,
+      "commit": "f955f848489d8e40d1f6c57504a3e2b7342173f4",
+      "accessedAt": "2026-11-26T05:17:27.080Z"
+    },
+    {
+      "path": "characters/LICENSE.md",
+      "url": "https://github.com/kirito1207/claudia-pet/blob/f955f848489d8e40d1f6c57504a3e2b7342173f4/characters/LICENSE.md",
+      "rawUrl": "https://raw.githubusercontent.com/kirito1207/claudia-pet/f955f848489d8e40d1f6c57504a3e2b7342173f4/characters/LICENSE.md",
+      "sourceSha256": "71cc20b54d02adfde5f008d821b1790554b353b7f2bc8449001f72fce794e17d",
+      "gitBlobSha": "af21f76f68d613ade14b35a5c08c30c8b957324f",
+      "bytes": 2420,
+      "commit": "f955f848489d8e40d1f6c57504a3e2b7342173f4",
+      "accessedAt": "2026-11-26T05:17:27.611Z"
+    },
+    {
+      "path": "linux/README.md",
+      "url": "https://github.com/kirito1207/claudia-pet/blob/f955f848489d8e40d1f6c57504a3e2b7342173f4/linux/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/kirito1207/claudia-pet/f955f848489d8e40d1f6c57504a3e2b7342173f4/linux/README.md",
+      "sourceSha256": "e260b9b0a2bc4090e88ac27d0accaac6ce66e5b9f2d714e5307d48f72bf798ea",
+      "gitBlobSha": "dec68f01098eff8116f5872973c9b6eb5ade9e68",
+      "bytes": 6766,
+      "commit": "f955f848489d8e40d1f6c57504a3e2b7342173f4",
+      "accessedAt": "2026-11-26T05:17:28.094Z"
+    },
+    {
+      "path": "upstream/CrossPet-LICENSE",
+      "url": "https://github.com/kirito1207/claudia-pet/blob/f955f848489d8e40d1f6c57504a3e2b7342173f4/upstream/CrossPet-LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/kirito1207/claudia-pet/f955f848489d8e40d1f6c57504a3e2b7342173f4/upstream/CrossPet-LICENSE",
+      "sourceSha256": "e479554800315d20bc9505e51ed1169289601d9867aea4df21147ee15f232cfc",
+      "gitBlobSha": "17e13c167a09e2627c3d9a8a44c9ffbb8a625106",
+      "bytes": 1309,
+      "commit": "f955f848489d8e40d1f6c57504a3e2b7342173f4",
+      "accessedAt": "2026-11-26T05:17:28.451Z"
+    }
+  ],
+  "repository": {
+    "full_name": "kirito1207/claudia-pet",
+    "html_url": "https://github.com/kirito1207/claudia-pet",
+    "stargazers_count": 53,
+    "archived": false,
+    "created_at": "2026-11-04T12:51:12Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "f955f848489d8e40d1f6c57504a3e2b7342173f4",
+    "observedAt": "2026-11-26T05:17:04.948Z",
+    "httpStatus": 200,
+    "metadataSha256": "b6b96b0f335d55a4ff9d5465c9a2f3c7b1c4e96855d151ed63647eaa883ef8c0",
+    "parent": null
+  }
+}

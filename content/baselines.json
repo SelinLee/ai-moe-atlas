@@ -408,5 +408,25 @@
       "en": "Verify display and adaptation terms for each illustration.",
       "ja": "画像ごとの表示・改変条件を確認する。"
     }
+  },
+  {
+    "entity": "cohere",
+    "characterId": "school-op-cohere",
+    "reviewedAt": "2026-11-26",
+    "nextAction": {
+      "zh": "补充作者发布的其他独立版本。",
+      "en": "Trace any other independently published designs.",
+      "ja": "作者が公開した他の独立版を確認する。"
+    }
+  },
+  {
+    "entity": "spark",
+    "characterId": "school-op-spark",
+    "reviewedAt": "2026-11-26",
+    "nextAction": {
+      "zh": "补充作者发布的其他独立版本。",
+      "en": "Trace any other independently published designs.",
+      "ja": "作者が公開した他の独立版を確認する。"
+    }
   }
 ]

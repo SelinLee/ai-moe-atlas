@@ -244,5 +244,17 @@
     "name": "Midjourney",
     "provider": "Midjourney",
     "url": "https://www.midjourney.com/"
+  },
+  {
+    "id": "cohere",
+    "name": "Cohere / Command",
+    "provider": "Cohere",
+    "url": "https://docs.cohere.com/docs/models"
+  },
+  {
+    "id": "spark",
+    "name": "讯飞星火 / iFLYTEK Spark",
+    "provider": "iFLYTEK",
+    "url": "https://www.xfyun.cn/doc/spark/Guide.html"
   }
 ]

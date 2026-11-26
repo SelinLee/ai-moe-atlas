@@ -1,0 +1,23 @@
+{
+  "capturedAt": "2026-11-26T05:16:38.019Z",
+  "previousEvidence": {
+    "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-partial-recheck.json",
+    "sha256": "943998940c90db0d595618e11ec9717c99b9e8a9152826ce3f7fe03bd2650e2a",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-candidate-follow-up.json",
+    "sha256": "0bd649ae9d7531ff1b26ba9fbccfad2714680066d676e8a09e56489dcf4f6087",
+    "kind": "browser-metadata-extract"
+  },
+  "scope": "Selection of newly identified fan works whose original links were visible in Bilibili search. Stopped after a batch received HTTP 412.",
+  "previousPending": 12,
+  "selected": 13,
+  "attempted": 5,
+  "unattempted": 8,
+  "restricted": 5,
+  "newlyTracked": 5,
+  "newlyRanked": 0,
+  "rankChanges": 0,
+  "discoveryEvidence": "content/research/2026-11-26/bilibili-november-26-recheck-scope.json"
+}
