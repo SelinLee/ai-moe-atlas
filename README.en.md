@@ -22,8 +22,8 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 ## Resource directory
 
 <!-- category-picks:references -->
-**[🧸 Project creations](#references)** · 22 entries\
-[Character turnarounds](https://selinlee.github.io/ai-moe-atlas/en/chibi/) · [Doodle avatars](docs/DOODLE.en.md) · [AI fan videos on Douyin](https://www.douyin.com/user/MS4wLjABAAAAa3lc_FI5WmPENMLwdN7Ij4r5iNxAM09Ny0rPcB2Ow4E) · [AI fan videos on Bilibili](https://space.bilibili.com/3706970263521942)
+**[🧸 Project creations](#references)** · 106 entries\
+[Character turnarounds](https://selinlee.github.io/ai-moe-atlas/en/chibi/) · [Doodle avatars](docs/DOODLE.en.md) · [Doodle emotes](https://selinlee.github.io/ai-moe-atlas/en/emotes/) · [AI fan videos on Douyin](https://www.douyin.com/user/MS4wLjABAAAAa3lc_FI5WmPENMLwdN7Ij4r5iNxAM09Ny0rPcB2Ow4E) · [AI fan videos on Bilibili](https://space.bilibili.com/3706970263521942)
 
 <!-- category-picks:characters -->
 **[🎨 Character atlas](#characters)** · 84 entries\
@@ -65,9 +65,9 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 
 ### 🧸 Project creations
 
-SelinLee used AI to make turnarounds, character sheets and doodle avatars from community designs. Each image carries its source artwork’s sharing terms. See individual videos for visual and music credits. [Sources, credits and usage terms](public/generated/README.md#en)
+SelinLee used AI to make turnarounds, character sheets, doodle avatars and emotes from community designs. Each image carries its source artwork’s sharing terms. See individual videos for visual and music credits. [Sources, credits and usage terms](public/generated/README.md#en)
 
-[7 chibi turnarounds](#chibi-gallery) · [6 standard and chibi sheets](#v5-gallery) · [7 doodles and prompt templates](#doodle-gallery)
+[7 chibi turnarounds](#chibi-gallery) · [6 standard and chibi sheets](#v5-gallery) · [7 doodles and prompt templates](#doodle-gallery) · [84 doodle emotes](https://selinlee.github.io/ai-moe-atlas/en/emotes/)
 
 <a id="characters"></a>
 

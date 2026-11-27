@@ -11,6 +11,7 @@ const read = path => readFile(new URL(path, root), 'utf8');
 const chibi=JSON.parse(await read('public/generated/super-chibi-v1/manifest.json'));
 const references=JSON.parse(await read('public/generated/ai-models-v5/manifest.json'));
 const doodles=JSON.parse(await read('public/generated/rough-doodle-v1/manifest.json'));
+const emotes = JSON.parse(await read('public/generated/doodle-emotes-v1/manifest.json'));
 const projectChannels=JSON.parse(await read('content/project-video-channels.json'));
 const {records}=JSON.parse(await read('content/resources.json'));
 const leads=JSON.parse(await read('content/leads.json'));
@@ -84,7 +85,7 @@ for (const [file, lang, directory, timeline, galleries] of layouts) {
    characters: characters.length,
    personas: directEntryLinks.personas.size,
    songs: songs.length,
-   references: chibi.assets.length + references.assets.length + doodles.assets.length + projectChannels.length,
+   references: chibi.assets.length + references.assets.length + doodles.assets.length + emotes.imageCount + projectChannels.length,
    ...Object.fromEntries(Object.entries(collections).map(([category, entries]) => [category, entries.length])),
    animations: records.filter(record => record.category === 'animation').length,
    'desktop-pets': records.filter(record => record.category === 'interactive').length,
@@ -101,7 +102,7 @@ for (const [file, lang, directory, timeline, galleries] of layouts) {
    const targets = [...entries.matchAll(/\[[^\]]+\]\(([^)]+)\)/g)].map(match=>match[1]);
    if (category === 'references') {
     assert.deepEqual(targets, [
-     `https://selinlee.github.io/ai-moe-atlas/${lang}/chibi/`, `docs/DOODLE.${lang}.md`,
+     `https://selinlee.github.io/ai-moe-atlas/${lang}/chibi/`, `docs/DOODLE.${lang}.md`, `https://selinlee.github.io/ai-moe-atlas/${lang}/emotes/`,
      ...projectChannels.map(channel=>channel.url),
     ]);
     assert.ok(categorySections.includes(`(public/generated/README.md#${lang})`));

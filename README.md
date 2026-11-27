@@ -22,8 +22,8 @@
 ## 资源目录
 
 <!-- category-picks:references -->
-**[🧸 本项目创作](#references)** · 22 项\
-[角色三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/) · [涂鸦头像](docs/DOODLE.zh.md) · [AI 视频二创 · 抖音主页](https://www.douyin.com/user/MS4wLjABAAAAa3lc_FI5WmPENMLwdN7Ij4r5iNxAM09Ny0rPcB2Ow4E) · [AI 视频二创 · B 站主页](https://space.bilibili.com/3706970263521942)
+**[🧸 本项目创作](#references)** · 106 项\
+[角色三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/) · [涂鸦头像](docs/DOODLE.zh.md) · [涂鸦表情包](https://selinlee.github.io/ai-moe-atlas/zh/emotes/) · [AI 视频二创 · 抖音主页](https://www.douyin.com/user/MS4wLjABAAAAa3lc_FI5WmPENMLwdN7Ij4r5iNxAM09Ny0rPcB2Ow4E) · [AI 视频二创 · B 站主页](https://space.bilibili.com/3706970263521942)
 
 <!-- category-picks:characters -->
 **[🎨 角色图鉴](#characters)** · 84 个词条\
@@ -65,9 +65,9 @@
 
 ### 🧸 本项目创作
 
-SelinLee 基于社区已有角色形象，用 AI 制作三视图、参考图和涂鸦头像。使用各图时，沿用对应原作的共享条件。视频所用画面和音乐的来源见各作品说明。 [来源、署名与使用规范](public/generated/README.md#zh)
+SelinLee 基于社区已有角色形象，用 AI 制作三视图、参考图、涂鸦头像和表情包。使用各图时，沿用对应原作的共享条件。视频所用画面和音乐的来源见各作品说明。 [来源、署名与使用规范](public/generated/README.md#zh)
 
-[7 套 Q 版三视图](#chibi-gallery) · [6 套常规比例与 Q 版参考](#v5-gallery) · [7 张角色涂鸦与提示词](#doodle-gallery)
+[7 套 Q 版三视图](#chibi-gallery) · [6 套常规比例与 Q 版参考](#v5-gallery) · [7 张角色涂鸦与提示词](#doodle-gallery) · [84 张涂鸦表情](https://selinlee.github.io/ai-moe-atlas/zh/emotes/)
 
 <a id="characters"></a>
 

@@ -19,6 +19,7 @@ const {lang}=Astro.props as {lang:Locale};const s=resourceText[lang];
       {category==='references' && <nav class="project-work-links" aria-label={s.category.references.title}>
         <a href={path(`${lang}/chibi/`)}>{s.chibi}</a>
         <a href={`${repo}/blob/main/docs/DOODLE.${lang}.md`}>{s.doodle}</a>
+        <a href={path(`${lang}/emotes/`)}>{s.emotes}</a>
         {projectChannels.map(channel=><a href={channel.url}>{channel.title[lang]} ↗</a>)}
       </nav>}
     </div>)}

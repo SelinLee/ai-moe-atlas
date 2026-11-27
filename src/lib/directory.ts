@@ -1,3 +1,4 @@
+import emotes from '../../public/generated/doodle-emotes-v1/manifest.json';
 import projectChannels from '../../content/project-video-channels.json';
 import { characters, entityName } from './data';
 import { resources, stickerEntries, rigEntries, rigFormats, comicEntries, categories, type Category } from './resources';
@@ -106,6 +107,22 @@ export function directoryIndex(lang: Locale) {
           source: href,
         } : undefined,
         action: { label: n.viewImage, href: path(sheet.original.path) },
+      });
+    }
+  }
+  for (const character of emotes.characters) {
+    const credit = character.attribution.map(a => a.name).join(' → ');
+    for (const emote of character.emotes) {
+      const href = path(`${lang}/emotes/#${character.id}-${emote.id}`);
+      rows.push({
+        title: `${character.name[lang]} · ${emote.name[lang]}`,
+        by: [rs.emotes, emotes.creator, credit].filter(Boolean).join(' · '),
+        categories: ['references'], href,
+        keywords: ['ai-moe-atlas', ...Object.values(character.name), ...Object.values(emote.name), emote.id].join(' '),
+        image: character.rights.license === 'CC-BY-NC-SA-4.0' ? {
+          src: path(emote.preview.path), credit: `${n.generatedArt} · ${credit}`, source: href,
+        } : undefined,
+        action: { label: emote.name[lang]+' (PNG)', href: path(emote.image.path) },
       });
     }
   }

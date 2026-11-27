@@ -1,3 +1,4 @@
+import emotes from '../../public/generated/doodle-emotes-v1/manifest.json';
 import projectChannels from '../../content/project-video-channels.json';
 import registry from '../../content/resources.json';
 import collections from '../../content/resource-collections.json';
@@ -67,7 +68,7 @@ export const resourceCounts:Record<Category,number>={
   characters:characters.length,songs:songs.length,
   personas:resources.filter(r=>r.category==='personas').length,
   stickers:stickerEntries.size,rigs:rigEntries.size,comics:comicEntries.size,
-  references:chibi.assets.length+references.assets.length+doodles.assets.length+projectChannels.length,
+  references:chibi.assets.length+references.assets.length+doodles.assets.length+emotes.imageCount+projectChannels.length,
   animation:animations.length,interactive:resources.filter(r=>r.category==='interactive').length,
   sources:resources.filter(r=>r.category==='sources').length,
 };

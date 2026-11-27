@@ -1,0 +1,82 @@
+---
+import Layout from '../../layouts/Layout.astro';
+import gallery from '../../../public/generated/doodle-emotes-v1/manifest.json';
+import { locales, type Locale } from '../../lib/i18n';
+import { path, repo } from '../../lib/paths';
+import { resourceText } from '../../lib/resource-text';
+
+export function getStaticPaths() { return locales.map(lang => ({ params: { lang } })); }
+const lang = Astro.params.lang as Locale;
+const rs = resourceText[lang];
+const copy = {
+  zh: {
+    intro: '2026 年 11 月 5 日，SelinLee 以本项目的七张涂鸦头像为参考，用 AI 为每位角色制作了 12 种表情和手势。点选表情可查看 512 × 512 透明 PNG。',
+    browse: '按角色浏览', reference: '生成所用头像', record: '提示词与文件校验', source: '参考视频', design: '角色设计',
+    nc: '原作要求署名、非商业使用，进一步改编与再分发的许可范围待确认。',
+    sa: '使用时请保留作者署名、作品及许可链接，注明改动，限非商业使用，改编作品以相同方式共享。',
+    unknown: '所参考的视频版 GLM 狐娘的设计署名及改编条件待核实。',
+  },
+  en: {
+    intro: 'On November 5, 2026, SelinLee used the project’s seven doodle avatars as references to generate 12 expressions and gestures per character with AI. Select an emote to open its transparent 512 × 512 PNG.',
+    browse: 'Browse by character', reference: 'Input avatar', record: 'Prompts and file hashes', source: 'Reference video', design: 'Character design',
+    nc: 'The source requires credit and noncommercial use. Permission for further adaptation and redistribution is unconfirmed.',
+    sa: 'Credit the creators, link the works and license, and indicate changes. Use is noncommercial and adaptations are shared under the same terms.',
+    unknown: 'The designer and adaptation terms for this video version of the GLM fox girl remain unverified.',
+  },
+  ja: {
+    intro: '2026年11月5日、SelinLee が本プロジェクトの落書き風アイコン7枚を基に、各キャラクターの表情や仕草を AI で12種類ずつ制作しました。スタンプを選ぶと512 × 512の透過PNGを開けます。',
+    browse: 'キャラクターから探す', reference: '生成に使用したアイコン', record: 'プロンプトとファイルハッシュ', source: '参照動画', design: 'キャラクターデザイン',
+    nc: '原作の条件は作者表示と非商用利用です。さらなる改変や再配布の許諾範囲は未確認です。',
+    sa: '作者名、作品とライセンスへのリンク、変更点を明記してください。利用は非営利に限り、改変作品は同じ条件で共有します。',
+    unknown: '参照した動画版の GLM 狐娘は、デザインの作者と改変条件が未確認です。',
+  },
+}[lang];
+---
+<Layout lang={lang} title={rs.emotes} description={copy.intro} route="emotes/" active="resources">
+  <a class="back-link" href={path(`${lang}/#reference-resources`)}>← {rs.referenceTitle}</a>
+  <header class="page-heading">
+    <div>
+      <h1>{rs.emotes}</h1>
+      <p class="lead">{copy.intro}</p>
+      <div class="file-links">
+        <a href={`${repo}/blob/main/public/generated/README.md#${lang}`}>{rs.projectGuide}</a>
+        <a href={path('generated/doodle-emotes-v1/manifest.json')}>{copy.record}</a>
+      </div>
+    </div>
+  </header>
+  <nav class="button-row character-links" aria-label={copy.browse}>
+    {gallery.characters.map(c => <a class="button secondary" href={'#'+c.id}>{c.name[lang]}</a>)}
+  </nav>
+  {gallery.characters.map(c => (
+    <section class="panel emote-set" id={c.id} aria-labelledby={'title-'+c.id}>
+      <h2 id={'title-'+c.id}>{c.name[lang]}</h2>
+      {c.attribution.length > 0 && <p>{copy.design} · {c.attribution.map((a,i) => <>{i>0 && ' → '}<a class="text-link" href={a.publication}>{a.name}</a></>)}</p>}
+      <p class="subtle">{c.rights.license ? copy.sa : c.attribution.length ? copy.nc : copy.unknown}</p>
+      <div class="file-links">
+        <a href={c.reference.url}>{copy.reference}</a>
+        <a href={c.sourceVideo}>{copy.source}</a>
+        {c.rights.license && c.rights.licenseUrl && <a href={c.rights.licenseUrl}>CC BY-NC-SA 4.0</a>}
+      </div>
+      <ul class="emote-grid">
+        {c.emotes.map(e => <li id={c.id+'-'+e.id}>
+          <a href={path(e.image.path)} aria-label={c.name[lang]+' · '+e.name[lang]+' (PNG)'}>
+            <img src={path(e.preview.path)} alt="" width="192" height="192" loading="lazy" />
+            <span>{e.name[lang]}</span>
+          </a>
+        </li>)}
+      </ul>
+    </section>
+  ))}
+</Layout>
+<style>
+  .character-links { margin-bottom: 1.5rem; flex-wrap: wrap; }
+  .emote-set { margin-bottom: 1.5rem; scroll-margin-top: 1rem; }
+  .emote-set h2 { margin-bottom: .5rem; }
+  .emote-grid { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: .8rem; list-style: none; margin: 1rem 0 0; padding: 0; }
+  .emote-grid a { display: grid; gap: .2rem; justify-items: center; padding: .35rem; border: 1px solid var(--border); border-radius: .75rem; }
+  .emote-grid a:hover, .emote-grid li:target a { border-color: var(--green); background: var(--mint); }
+  .emote-grid img { width: 100%; height: auto; max-width: 150px; }
+  .emote-grid span { font-size: .9rem; }
+  @media (max-width: 760px) { .emote-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+  @media (max-width: 420px) { .emote-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+</style>

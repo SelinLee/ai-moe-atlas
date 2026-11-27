@@ -8,6 +8,7 @@ const root = new URL('../', import.meta.url);
 const registry = JSON.parse(await readFile(new URL('content/resources.json', root), 'utf8'));
 const songs = JSON.parse(await readFile(new URL('content/songs.json', root), 'utf8'));
 const collections = JSON.parse(await readFile(new URL('content/resource-collections.json', root), 'utf8'));
+const emotes = JSON.parse(await readFile(new URL('public/generated/doodle-emotes-v1/manifest.json', root), 'utf8'));
 const projectChannels = JSON.parse(await readFile(new URL('content/project-video-channels.json', root), 'utf8'));
 const { records } = registry;
 const [characters, leads, chibi, references, doodles] = await Promise.all([
@@ -19,7 +20,7 @@ const directoryCounts = {
   characters: characters.length,
   personas: records.filter(record => record.category === 'personas').length,
   songs: songs.length,
-  references: chibi.assets.length + references.assets.length + doodles.assets.length + projectChannels.length,
+  references: chibi.assets.length + references.assets.length + doodles.assets.length + emotes.imageCount + projectChannels.length,
   ...Object.fromEntries(Object.entries(collections).map(([category, entries]) => [category, entries.length])),
   animations: records.filter(record => record.category === 'animation').length,
   'desktop-pets': records.filter(record => record.category === 'interactive').length,

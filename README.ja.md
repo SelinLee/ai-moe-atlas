@@ -22,8 +22,8 @@
 ## リソース一覧
 
 <!-- category-picks:references -->
-**[🧸 プロジェクト制作作品](#references)** · 22 件\
-[キャラクター三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/) · [落書き風アイコン](docs/DOODLE.ja.md) · [AI 二次創作動画 · 抖音ホーム](https://www.douyin.com/user/MS4wLjABAAAAa3lc_FI5WmPENMLwdN7Ij4r5iNxAM09Ny0rPcB2Ow4E) · [AI 二次創作動画 · Bilibili ホーム](https://space.bilibili.com/3706970263521942)
+**[🧸 プロジェクト制作作品](#references)** · 106 件\
+[キャラクター三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/) · [落書き風アイコン](docs/DOODLE.ja.md) · [落書き風スタンプ](https://selinlee.github.io/ai-moe-atlas/ja/emotes/) · [AI 二次創作動画 · 抖音ホーム](https://www.douyin.com/user/MS4wLjABAAAAa3lc_FI5WmPENMLwdN7Ij4r5iNxAM09Ny0rPcB2Ow4E) · [AI 二次創作動画 · Bilibili ホーム](https://space.bilibili.com/3706970263521942)
 
 <!-- category-picks:characters -->
 **[🎨 キャラクター図鑑](#characters)** · 84 項目\
@@ -65,9 +65,9 @@
 
 ### 🧸 プロジェクト制作作品
 
-SelinLee がコミュニティのキャラクターを基に、AI で三面図・設定画・落書き風アイコンを制作しました。各画像には原作の共有条件が適用されます。動画の映像や楽曲の出典は各作品の説明をご覧ください。 [出典・クレジット・利用条件](public/generated/README.md#ja)
+SelinLee がコミュニティのキャラクターを基に、AI で三面図・設定画・落書き風アイコン・スタンプを制作しました。各画像には原作の共有条件が適用されます。動画の映像や楽曲の出典は各作品の説明をご覧ください。 [出典・クレジット・利用条件](public/generated/README.md#ja)
 
-[ちびキャラ三面図7枚](#chibi-gallery) · [通常頭身・ちびキャラ資料6枚](#v5-gallery) · [落書き7枚とプロンプト集](#doodle-gallery)
+[ちびキャラ三面図7枚](#chibi-gallery) · [通常頭身・ちびキャラ資料6枚](#v5-gallery) · [落書き7枚とプロンプト集](#doodle-gallery) · [落書き風スタンプ84枚](https://selinlee.github.io/ai-moe-atlas/ja/emotes/)
 
 <a id="characters"></a>
 

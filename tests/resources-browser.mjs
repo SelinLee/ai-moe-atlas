@@ -39,10 +39,27 @@ try{
   const projectWorks=page.locator('#reference-resources');
   const entries=await page.locator('.project-work-links a').evaluateAll(links=>links.map(link=>link.href));
   assert.deepEqual(entries, [
-   `${origin}/${lang}/chibi/`, `https://github.com/SelinLee/ai-moe-atlas/blob/main/docs/DOODLE.${lang}.md`,
+   `${origin}/${lang}/chibi/`, `https://github.com/SelinLee/ai-moe-atlas/blob/main/docs/DOODLE.${lang}.md`, `${origin}/${lang}/emotes/`,
    ...projectChannels.map(channel=>channel.url),
   ]);
   assert.equal(await projectWorks.locator(`a[href$="/README.md#${lang}"]`).count(),1);
+  const galleryPage=await context.newPage();
+  await galleryPage.goto(`${origin}/${lang}/emotes/`);
+  const sets=galleryPage.locator('.emote-set');
+  assert.equal(await sets.count(),7);
+  for(const set of await sets.all()) assert.equal(await set.locator('.emote-grid a').count(),12);
+  await galleryPage.locator('.emote-grid img').evaluateAll(images=>Promise.all(images.map(async image=>{
+    image.loading='eager';
+    await image.decode();
+    if(image.naturalWidth!==192)throw Error('Invalid emote preview');
+  })));
+  await galleryPage.locator('.character-links a[href="#qwen"]').click();
+  const sleepy=galleryPage.locator('#qwen-sleepy a');
+  assert.ok(await sleepy.isVisible());
+  await sleepy.click();
+  assert.equal(new URL(galleryPage.url()).pathname,'/ai-moe-atlas/generated/doodle-emotes-v1/qwen/10-sleepy.png');
+  assert.equal(await galleryPage.locator('img').evaluate(image=>image.naturalWidth),512);
+  await galleryPage.close();
   await page.evaluate(()=>window.scrollTo({top:0,behavior:'instant'}));
   const collectionOrder=await page.locator('[data-category-link]').evaluateAll(links=>links.slice(4,7).map(link=>link.dataset.categoryLink));
   assert.deepEqual(collectionOrder,['stickers','rigs','comics']);

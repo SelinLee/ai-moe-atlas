@@ -184,3 +184,38 @@ for(const a of doodles.assets){
 }
 if(sha256(await readFile(doodles.sourceCollection.path))!==doodles.sourceCollection.sha256)throw new Error('Doodle source collection changed');
 console.log('Validated seven doodles, exact generation bytes and prompts, pinned references, previews and localized templates.');
+
+const emotes = JSON.parse(await readFile('public/generated/doodle-emotes-v1/manifest.json','utf8'));
+const emoteSource = emotes.sourceManifest;
+const pinnedRoot = `https://github.com/SelinLee/ai-moe-atlas/blob/${emoteSource.commit}/public/`;
+if (!/^[a-f0-9]{40}$/.test(emoteSource.commit) || emoteSource.url !== pinnedRoot+'generated/rough-doodle-v1/manifest.json' ||
+    sha256(await readFile('public/generated/rough-doodle-v1/manifest.json')) !== emoteSource.sha256) {
+  throw new Error('Emote source manifest mismatch');
+}
+const emoteHashes = new Set();
+const expressionIds = emotes.characters[0].emotes.map(e => e.id);
+if (new Set(expressionIds).size !== 12 || emotes.characters.map(c => c.id).join() !== doodles.assets.map(c => c.id).join()) {
+  throw new Error('Invalid emote collection lineup');
+}
+for (const [index, character] of emotes.characters.entries()) {
+  const avatar = doodles.assets[index];
+  if (character.reference.sha256 !== avatar.original.sha256 ||
+      character.reference.url !== pinnedRoot+avatar.original.path ||
+      character.sourceVideo !== avatar.sourceVideo || JSON.stringify(character.rights) !== JSON.stringify(avatar.rights) ||
+      JSON.stringify(character.attribution) !== JSON.stringify(avatar.attribution) ||
+      character.emotes.map(e => e.id).join() !== expressionIds.join()) {
+    throw new Error('Emote source, attribution or expressions mismatch for '+character.id);
+  }
+  for (const [i, emote] of character.emotes.entries()) {
+    const stem = `generated/doodle-emotes-v1/${character.id}/${String(i+1).padStart(2,'0')}-${emote.id}`;
+    if (!['zh','en','ja'].every(lang => emote.name[lang]?.trim()) ||
+        emote.image.path !== stem+'.png' || emote.preview.path !== stem+'.webp' ||
+        sha256(emote.prompt.text) !== emote.prompt.sha256) throw new Error('Invalid emote record: '+stem);
+    for (const file of [emote.image, emote.preview]) {
+      if (sha256(await readFile('public/'+file.path)) !== file.sha256) throw new Error('Emote hash mismatch: '+file.path);
+    }
+    emoteHashes.add(emote.image.sha256);
+  }
+}
+if (emoteHashes.size !== emotes.imageCount || emoteHashes.size !== 84) throw new Error('Expected 84 distinct doodle emotes');
+console.log('Validated 84 doodle emotes, previews, prompts and their inherited artwork credits and terms.');
