@@ -8,6 +8,15 @@ import { resourceText } from '../../lib/resource-text';
 export function getStaticPaths() { return locales.map(lang => ({ params: { lang } })); }
 const lang = Astro.params.lang as Locale;
 const rs = resourceText[lang];
+const bannerAlt: Record<string, Record<Locale, string>> = {
+  openai: { zh: 'GPT 在花坡上放飞金色纸飞机', en: 'GPT launches a golden paper plane on a hill of flowers', ja: '花の丘で金色の紙飛行機を飛ばす GPT' },
+  gemini: { zh: 'Gemini 在屋顶的望远镜旁指向流星', en: 'Gemini points at a shooting star beside a rooftop telescope', ja: '屋上の望遠鏡のそばで流れ星を指さす Gemini' },
+  claude: { zh: '一只蓝蝴蝶落在 Claude 手中翻开的书上', en: 'A blue butterfly lands on Claude’s open book', ja: 'Claude が開いた本に舞い降りた青いチョウ' },
+  deepseek: { zh: '大肥鱼在码头边甩起鲸尾，浪花托起一只纸船', en: 'DeepSeek flicks her whale tail by the pier, sending a paper boat into the air', ja: '桟橋で DeepSeek が尾びれを振ると、しぶきに乗って紙の舟が舞い上がる' },
+  kimi: { zh: 'Kimi 在窗边张开双手，看萤火虫飞起', en: 'Kimi opens her hands by the window and watches a firefly lift off', ja: '窓辺で両手を開き、飛び立つホタルを見送る Kimi' },
+  qwen: { zh: '千问在池畔展开蓝色折扇，花瓣随风飘起', en: 'Qwen opens her blue fan by a pond, sending petals into the breeze', ja: '池のほとりで千問が青い扇を広げると、花びらが風に舞う' },
+  glm: { zh: 'GLM 从窗边的软垫上伸手去接滚落的蓝色毛线球', en: 'GLM reaches across a window seat to catch a rolling ball of blue yarn', ja: '窓辺のクッションから、転がる青い毛糸玉に手を伸ばす GLM' },
+};
 const copy = {
   zh: {
     intro: '2026 年 11 月 5 日，SelinLee 以本项目的七张涂鸦头像为参考，用 AI 为每位角色制作了 12 种表情和手势。点选表情可查看 512 × 512 透明 PNG。',
@@ -48,36 +57,52 @@ const copy = {
   <nav class="button-row character-links" aria-label={copy.browse}>
     {gallery.characters.map(c => <a class="button secondary" href={'#'+c.id}>{c.name[lang]}</a>)}
   </nav>
-  {gallery.characters.map(c => (
-    <section class="panel emote-set" id={c.id} aria-labelledby={'title-'+c.id}>
-      <h2 id={'title-'+c.id}>{c.name[lang]}</h2>
-      {c.attribution.length > 0 && <p>{copy.design} · {c.attribution.map((a,i) => <>{i>0 && ' → '}<a class="text-link" href={a.publication}>{a.name}</a></>)}</p>}
-      <p class="subtle">{c.rights.license ? copy.sa : c.attribution.length ? copy.nc : copy.unknown}</p>
-      <div class="file-links">
-        <a href={c.reference.url}>{copy.reference}</a>
-        <a href={c.sourceVideo}>{copy.source}</a>
-        {c.rights.license && c.rights.licenseUrl && <a href={c.rights.licenseUrl}>CC BY-NC-SA 4.0</a>}
-      </div>
-      <ul class="emote-grid">
-        {c.emotes.map(e => <li id={c.id+'-'+e.id}>
-          <a href={path(e.image.path)} aria-label={c.name[lang]+' · '+e.name[lang]+' (PNG)'}>
-            <img src={path(e.preview.path)} alt="" width="192" height="192" loading="lazy" />
-            <span>{e.name[lang]}</span>
+  {gallery.characters.map((c, index) => {
+    const banner = path(`generated/doodle-emotes-v1/wechat/${c.id}/banner-750x400.jpg`);
+    return (
+      <section class="panel emote-set" id={c.id} aria-labelledby={'title-'+c.id}>
+        <header class="album-heading">
+          <a class="album-banner" href={banner}>
+            <img src={banner} alt={bannerAlt[c.id][lang]} width="750" height="400" loading={index === 0 ? 'eager' : 'lazy'} />
           </a>
-        </li>)}
-      </ul>
-    </section>
-  ))}
+          <div>
+            <h2 id={'title-'+c.id}>{c.name[lang]}</h2>
+            {c.attribution.length > 0 && <p>{copy.design} · {c.attribution.map((a,i) => <>{i>0 && ' → '}<a class="text-link" href={a.publication}>{a.name}</a></>)}</p>}
+            <p class="subtle">{c.rights.license ? copy.sa : c.attribution.length ? copy.nc : copy.unknown}</p>
+            <div class="file-links">
+              <a href={c.reference.url}>{copy.reference}</a>
+              <a href={c.sourceVideo}>{copy.source}</a>
+              {c.rights.license && c.rights.licenseUrl && <a href={c.rights.licenseUrl}>CC BY-NC-SA 4.0</a>}
+            </div>
+          </div>
+        </header>
+        <ul class="emote-grid">
+          {c.emotes.map(e => <li id={c.id+'-'+e.id}>
+            <a href={path(e.image.path)} aria-label={c.name[lang]+' · '+e.name[lang]+' (PNG)'}>
+              <img src={path(e.preview.path)} alt="" width="192" height="192" loading="lazy" />
+              <span>{e.name[lang]}</span>
+            </a>
+          </li>)}
+        </ul>
+      </section>
+    );
+  })}
 </Layout>
 <style>
   .character-links { margin-bottom: 1.5rem; flex-wrap: wrap; }
   .emote-set { margin-bottom: 1.5rem; scroll-margin-top: 1rem; }
   .emote-set h2 { margin-bottom: .5rem; }
+  .album-heading { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(1rem, 3vw, 2.5rem); align-items: center; }
+  .album-banner { display: block; border-radius: .7rem; }
+  .album-banner img { display: block; width: 100%; height: auto; border-radius: inherit; }
   .emote-grid { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: .8rem; list-style: none; margin: 1rem 0 0; padding: 0; }
   .emote-grid a { display: grid; gap: .2rem; justify-items: center; padding: .35rem; border: 1px solid var(--border); border-radius: .75rem; }
   .emote-grid a:hover, .emote-grid li:target a { border-color: var(--green); background: var(--mint); }
   .emote-grid img { width: 100%; height: auto; max-width: 150px; }
   .emote-grid span { font-size: .9rem; }
-  @media (max-width: 760px) { .emote-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+  @media (max-width: 760px) {
+    .album-heading { grid-template-columns: 1fr; }
+    .emote-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  }
   @media (max-width: 420px) { .emote-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 </style>

@@ -47,7 +47,21 @@ try{
   await galleryPage.goto(`${origin}/${lang}/emotes/`);
   const sets=galleryPage.locator('.emote-set');
   assert.equal(await sets.count(),7);
-  for(const set of await sets.all()) assert.equal(await set.locator('.emote-grid a').count(),12);
+  for(const set of await sets.all()){
+    assert.equal(await set.locator('.emote-grid a').count(),12);
+    const id=await set.getAttribute('id');
+    const banner=set.locator('.album-banner');
+    const url=`${origin}/generated/doodle-emotes-v1/wechat/${id}/banner-750x400.jpg`;
+    assert.equal(await banner.evaluate(link=>link.href),url);
+    const image=await banner.locator('img').evaluate(async img=>{
+      img.loading='eager';
+      await img.decode();
+      return {src:img.currentSrc,width:img.naturalWidth,height:img.naturalHeight,alt:img.alt};
+    });
+    assert.equal(image.src,url);
+    assert.deepEqual([image.width,image.height],[750,400]);
+    assert.ok(image.alt.trim());
+  }
   await galleryPage.locator('.emote-grid img').evaluateAll(images=>Promise.all(images.map(async image=>{
     image.loading='eager';
     await image.decode();
