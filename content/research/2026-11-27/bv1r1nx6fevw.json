@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1r1nx6FEvw/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1r1nx6FEvw",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:47:23.672Z",
+  "scope": "Official Bilibili view data verifies the upload identity, dates and cumulative likes. Credits use uploader descriptions.",
+  "metadata": {
+    "bvid": "BV1r1nx6FEvw",
+    "title": "啦啦啦啦啦啦啦，通透蓝色大肥鱼摇摆舞！一分钟纯享ykn又三郎【AI MV大赛】",
+    "owner": {
+      "name": "枫青衡",
+      "mid": 370269586
+    },
+    "pubdate": 1792735065,
+    "duration": 68
+  },
+  "descriptionSha256": "5da302046a7f672326f91c1b1c28dc55c23920ccf5f9325ccd8048de8c5ddf5c",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "枫青衡",
+      "url": "https://space.bilibili.com/370269586"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1dhs46AEpT/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dhs46AEpT",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:48:39.726Z",
+  "scope": "Official Bilibili view data verifies the upload identity, dates and cumulative likes. Credits use uploader descriptions.",
+  "metadata": {
+    "bvid": "BV1dhs46AEpT",
+    "title": "刚换10号元素“霓虹新脑子”以为稳赢，竟被大肥鱼当免费宵夜灯牌？！【捷咪每日相声08】",
+    "owner": {
+      "name": "捷咪_Gemini酱",
+      "mid": 3546671109638673
+    },
+    "pubdate": 1795057576,
+    "duration": 85
+  },
+  "descriptionSha256": "6b4d540bea029573d6e337733b296be2557f1dd715670e9053fd053054aa36ff",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "捷咪_Gemini酱",
+      "url": "https://space.bilibili.com/3546671109638673"
+    }
+  ]
+}

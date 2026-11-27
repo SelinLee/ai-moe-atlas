@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1EF4i6PEKz/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1EF4i6PEKz",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:47:14.449Z",
+  "scope": "Official Bilibili view data verifies the upload identity, dates and cumulative likes. Credits use uploader descriptions.",
+  "metadata": {
+    "bvid": "BV1EF4i6PEKz",
+    "title": "【2026年13月/大肥鱼】欢迎来到LLM学园！【PV】",
+    "owner": {
+      "name": "大杯香草月季",
+      "mid": 4890882
+    },
+    "pubdate": 1793955600,
+    "duration": 62
+  },
+  "descriptionSha256": "185d8ce33f221900aa20cdf1ba0e238c879664962d42b0c7eeca8b233fc7f539",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "大杯香草月季",
+      "url": "https://space.bilibili.com/4890882"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe · character art",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

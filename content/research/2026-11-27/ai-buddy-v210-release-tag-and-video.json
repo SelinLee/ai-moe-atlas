@@ -1,0 +1,106 @@
+{
+  "full_name": "lXiaoSel1/AI-Buddy",
+  "html_url": "https://github.com/lXiaoSel1/AI-Buddy",
+  "stargazers_count": 52,
+  "archived": false,
+  "created_at": "2026-10-12T07:25:24Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "20a7785c7ce85cb11ce96280a7cb8cbf63261f58",
+  "observedAt": "2026-11-27T12:48:03.470Z",
+  "httpStatus": 200,
+  "metadataSha256": "511bc08fd6a603be2d41d476b4825cf9c0cd60de24a47764a11ce05da9a1a3ba",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/lXiaoSel1/AI-Buddy/blob/20a7785c7ce85cb11ce96280a7cb8cbf63261f58/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/lXiaoSel1/AI-Buddy/20a7785c7ce85cb11ce96280a7cb8cbf63261f58/README.md",
+      "sourceSha256": "eeed07d44a4ea0bd01f9fb74e8b75eec63b04d44092a92c2c52f5e56b3350131",
+      "gitBlobSha": "fc235c4063064f835e673e62a68f1563e3e20c14",
+      "bytes": 85722,
+      "commit": "20a7785c7ce85cb11ce96280a7cb8cbf63261f58",
+      "accessedAt": "2026-11-27T12:49:21.823Z"
+    },
+    {
+      "path": "LICENSE.md",
+      "url": "https://github.com/lXiaoSel1/AI-Buddy/blob/20a7785c7ce85cb11ce96280a7cb8cbf63261f58/LICENSE.md",
+      "rawUrl": "https://raw.githubusercontent.com/lXiaoSel1/AI-Buddy/20a7785c7ce85cb11ce96280a7cb8cbf63261f58/LICENSE.md",
+      "sourceSha256": "743e12419085102e444fd36c1df870d9fcd64badcc03cc551ae0fae81f517b3a",
+      "gitBlobSha": "a4f07f7d22d8cb25e0d1fe7188178370cb712126",
+      "bytes": 13663,
+      "commit": "20a7785c7ce85cb11ce96280a7cb8cbf63261f58",
+      "accessedAt": "2026-11-27T12:49:22.205Z"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "url": "https://github.com/lXiaoSel1/AI-Buddy/blob/20a7785c7ce85cb11ce96280a7cb8cbf63261f58/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/lXiaoSel1/AI-Buddy/20a7785c7ce85cb11ce96280a7cb8cbf63261f58/THIRD_PARTY_NOTICES.md",
+      "sourceSha256": "5d4a85849e22dc5b2e36180368eda066bfee79f8d17d1523d157a4a8ac520dea",
+      "gitBlobSha": "9d9bbfd87248d50ae71b4ff6c5c18e6d19a15c07",
+      "bytes": 8843,
+      "commit": "20a7785c7ce85cb11ce96280a7cb8cbf63261f58",
+      "accessedAt": "2026-11-27T12:49:22.591Z"
+    },
+    {
+      "path": "package.json",
+      "url": "https://github.com/lXiaoSel1/AI-Buddy/blob/20a7785c7ce85cb11ce96280a7cb8cbf63261f58/package.json",
+      "rawUrl": "https://raw.githubusercontent.com/lXiaoSel1/AI-Buddy/20a7785c7ce85cb11ce96280a7cb8cbf63261f58/package.json",
+      "sourceSha256": "ec656c956e3da62eea7ab21415b35fffead26ab96390af7f8d618106248d669f",
+      "gitBlobSha": "74299a5752a16a345f9d38e16ae4496e4bf4bab6",
+      "bytes": 828,
+      "commit": "20a7785c7ce85cb11ce96280a7cb8cbf63261f58",
+      "accessedAt": "2026-11-27T12:49:22.955Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T12:49:22.955Z",
+  "scope": "Matched the release tag v2.1.0 to a fixed Git commit, checked code and artwork notice files against their blob hashes, and matched the developer’s Bilibili release link.",
+  "relations": [
+    {
+      "role": "software-license",
+      "title": "AI Buddy · license for v2.1.0",
+      "url": "https://github.com/lXiaoSel1/AI-Buddy/blob/20a7785c7ce85cb11ce96280a7cb8cbf63261f58/LICENSE.md"
+    },
+    {
+      "role": "asset-license",
+      "title": "AI Buddy · third-party and art notices",
+      "url": "https://github.com/lXiaoSel1/AI-Buddy/blob/20a7785c7ce85cb11ce96280a7cb8cbf63261f58/THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "role": "creator-release",
+      "title": "AI Buddy · v2.1.0",
+      "url": "https://github.com/lXiaoSel1/AI-Buddy/releases/tag/v2.1.0"
+    },
+    {
+      "role": "creator-demo",
+      "title": "1楼的小黑 · v2.1.0",
+      "url": "https://www.bilibili.com/video/BV1MjyszyEeq/"
+    },
+    {
+      "role": "previous-reference",
+      "title": "AI Buddy · earlier pinned reference",
+      "url": "https://github.com/lXiaoSel1/AI-Buddy/blob/5a3d8275e0eaa41991b4cae76e412ac8542d599d/README.md"
+    },
+    {
+      "role": "design-reference",
+      "title": "AI Buddy · AI 拟人图库参考",
+      "url": "https://genderswapai.com/zh-CN/ai-gijinka/gallery"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/lXiaoSel1/AI-Buddy/blob/20a7785c7ce85cb11ce96280a7cb8cbf63261f58/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/lXiaoSel1/AI-Buddy/20a7785c7ce85cb11ce96280a7cb8cbf63261f58/README.md",
+    "sourceSha256": "eeed07d44a4ea0bd01f9fb74e8b75eec63b04d44092a92c2c52f5e56b3350131",
+    "gitBlobSha": "fc235c4063064f835e673e62a68f1563e3e20c14",
+    "bytes": 85722,
+    "commit": "20a7785c7ce85cb11ce96280a7cb8cbf63261f58",
+    "accessedAt": "2026-11-27T12:49:21.823Z"
+  },
+  "previousEvidence": {
+    "path": "content/research/2026-11-27/ai-buddy-v210-pinned-release.json",
+    "sha256": "f59e9662422fa266949835eacfd35fe5256a8f9aa1194d26c08b8ea099116319",
+    "kind": "browser-metadata-extract"
+  },
+  "releaseTag": "v2.1.0"
+}

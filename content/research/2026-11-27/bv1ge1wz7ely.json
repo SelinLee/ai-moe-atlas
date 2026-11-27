@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1gE1Wz7ELy/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gE1Wz7ELy",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:47:14.406Z",
+  "scope": "Official Bilibili view data verifies the upload identity, dates and cumulative likes. Credits use uploader descriptions.",
+  "metadata": {
+    "bvid": "BV1gE1Wz7ELy",
+    "title": "大肥鱼值班日记 · 2026-11-27：月亮是一秒前的月亮",
+    "owner": {
+      "name": "柚恩家的编外肥鱼",
+      "mid": 3747574368439773
+    },
+    "pubdate": 1795764778,
+    "duration": 122
+  },
+  "descriptionSha256": "18121582b94739007f32a6b74a01b0ba11874b89daf9af076bd436331cc2c5a4",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "柚恩家的编外肥鱼",
+      "url": "https://space.bilibili.com/3747574368439773"
+    }
+  ]
+}

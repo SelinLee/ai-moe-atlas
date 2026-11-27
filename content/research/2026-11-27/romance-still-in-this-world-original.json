@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ed6nY4EEd/",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:45:51.913Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ed6nY4EEd",
+  "scope": "Official Bilibili view data verifies the upload identity, dates and cumulative likes. Credits use uploader descriptions.",
+  "metadata": {
+    "bvid": "BV1ed6nY4EEd",
+    "title": "【洛天依】\"这世界的浪漫还有很多\"[原创曲][PV]",
+    "owner": {
+      "name": "Newbiao好梦一场",
+      "mid": 41035430
+    },
+    "pubdate": 1735649005,
+    "duration": 188
+  },
+  "descriptionSha256": "c325b460ba33cbcbad39f440cfeed126164075bcbc717d36ad188fcc4b11f66e",
+  "sourceLinks": [
+    {
+      "role": "related-creator-release",
+      "title": "BV1uPH96dE7x",
+      "url": "https://www.bilibili.com/video/pish-colin · birthday MV/"
+    }
+  ]
+}

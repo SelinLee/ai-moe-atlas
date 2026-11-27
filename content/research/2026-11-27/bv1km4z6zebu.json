@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Km4z6ZEBu/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Km4z6ZEBu",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:47:22.029Z",
+  "scope": "Official Bilibili view data verifies the upload identity, dates and cumulative likes. Credits use uploader descriptions.",
+  "metadata": {
+    "bvid": "BV1Km4z6ZEBu",
+    "title": "鱼鱼丨番茄炒蛋，六个人吵起来了（AI 宿舍·第三天）",
+    "owner": {
+      "name": "阿天说话真扎心",
+      "mid": 8423521
+    },
+    "pubdate": 1793972397,
+    "duration": 153
+  },
+  "descriptionSha256": "7914595313888a654c31b21ab16dcac5d932f018e77e2a4fa0c4df907e69aadb",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "阿天说话真扎心",
+      "url": "https://space.bilibili.com/8423521"
+    },
+    {
+      "role": "creator-project",
+      "title": "dsh-pixel-kitchen",
+      "url": "https://github.com/dxt1705-creator/dsh-pixel-kitchen"
+    },
+    {
+      "role": "related-creator-release",
+      "title": "BV1P8xR6aE7Y",
+      "url": "https://www.bilibili.com/video/AI 宿舍 02/"
+    }
+  ]
+}

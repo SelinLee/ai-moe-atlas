@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV18Syoz3ENe/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18Syoz3ENe",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:48:38.207Z",
+  "scope": "Official Bilibili view data verifies the upload identity, dates and cumulative likes. Credits use uploader descriptions.",
+  "metadata": {
+    "bvid": "BV18Syoz3ENe",
+    "title": "我把AI娘做成类魂BOSS，并让大肥鱼把她们全部借过一下（好结局）",
+    "owner": {
+      "name": "灰白鲤鱼",
+      "mid": 5955918
+    },
+    "pubdate": 1795501414,
+    "duration": 1866
+  },
+  "descriptionSha256": "a1264780dacad8418ed016f92789f630421d31dbf2a6f444d548aa4fbbaea584",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "灰白鲤鱼",
+      "url": "https://space.bilibili.com/5955918"
+    }
+  ]
+}

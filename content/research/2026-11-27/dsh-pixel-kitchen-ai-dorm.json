@@ -1,0 +1,50 @@
+{
+  "full_name": "dxt1705-creator/dsh-pixel-kitchen",
+  "html_url": "https://github.com/dxt1705-creator/dsh-pixel-kitchen",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-11-03T19:55:23Z",
+  "default_branch": "master",
+  "fork": false,
+  "commit": "8349a8f2f393a33add349b4a022df1943bbb9b7d",
+  "observedAt": "2026-11-27T12:48:03.502Z",
+  "httpStatus": 200,
+  "metadataSha256": "9f197d2c7549572cd5a56780dbee02a85b032807668b664760cd6767f52ed698",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/dxt1705-creator/dsh-pixel-kitchen/blob/8349a8f2f393a33add349b4a022df1943bbb9b7d/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/dxt1705-creator/dsh-pixel-kitchen/8349a8f2f393a33add349b4a022df1943bbb9b7d/README.md",
+      "sourceSha256": "83e7a6f77892b0b3d553b3bb4dcae9298951a3f84fcc489e622c28fe2f2ce799",
+      "gitBlobSha": "1ffeeee06c73dee7b857f949448d01a16963b505",
+      "bytes": 5799,
+      "commit": "8349a8f2f393a33add349b4a022df1943bbb9b7d",
+      "accessedAt": "2026-11-27T12:49:21.678Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T12:49:21.678Z",
+  "scope": "Reviewed pinned creator documentation and available rights notices. The retrieved document bytes match recorded Git blob and SHA-256 hashes.",
+  "relations": [
+    {
+      "role": "creator-demo",
+      "title": "AI Dorm 02 · 地三鲜",
+      "url": "https://www.bilibili.com/video/BV1P8xR6aE7Y/"
+    },
+    {
+      "role": "creator-demo",
+      "title": "AI Dorm 03 · 番茄炒蛋",
+      "url": "https://www.bilibili.com/video/BV1Km4z6ZEBu/"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/dxt1705-creator/dsh-pixel-kitchen/blob/8349a8f2f393a33add349b4a022df1943bbb9b7d/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/dxt1705-creator/dsh-pixel-kitchen/8349a8f2f393a33add349b4a022df1943bbb9b7d/README.md",
+    "sourceSha256": "83e7a6f77892b0b3d553b3bb4dcae9298951a3f84fcc489e622c28fe2f2ce799",
+    "gitBlobSha": "1ffeeee06c73dee7b857f949448d01a16963b505",
+    "bytes": 5799,
+    "commit": "8349a8f2f393a33add349b4a022df1943bbb9b7d",
+    "accessedAt": "2026-11-27T12:49:21.678Z"
+  }
+}

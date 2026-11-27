@@ -53,7 +53,8 @@
       {"id": "bv1dhwj6venx", "type": "cover"},
       {"id": "bv1evsb6fevj", "type": "mv"},
       {"id": "bv13yyazbe7m", "type": "cover"},
-      {"id": "bv1xv1czhe8q", "type": "cover"}
+      {"id": "bv1xv1czhe8q", "type": "cover"},
+      {"id": "bv1na476bebw", "type": "cover"}
     ]
   },
   {
@@ -1205,5 +1206,17 @@
     "title": {"zh": "One Full Moon · 满月纪念曲", "en": "One Full Moon", "ja": "One Full Moon · 1か月記念曲"},
     "original": {"credit": "Claude大小姐在运营 · Gemini · Suno", "url": "https://www.bilibili.com/video/BV1cxsb6LEui/"},
     "versions": [{"id": "bv1cxsb6leui", "type": "original-mv"}]
+  },
+  {
+    "id": "romance-still-in-this-world",
+    "title": {"zh": "这世界的浪漫还有很多", "en": "There Is Still So Much Romance in This World", "ja": "この世界にはまだたくさんのロマンスがある"},
+    "original": {"credit": "好梦一场 · 洛天依", "url": "https://www.bilibili.com/video/BV1ed6nY4EEd/"},
+    "versions": [{"id": "bv1uph96de7x", "type": "mv"}]
+  },
+  {
+    "id": "emotion-exe-not-responding",
+    "title": {"zh": "情绪.exe（未响应）", "en": "Emotion.exe (Not Responding)", "ja": "情緒.exe（応答なし）"},
+    "original": {"credit": "夜踊社 · 一只爵士猫 · 洛天依", "url": "https://www.bilibili.com/video/BV1d464Y6Egy/"},
+    "versions": [{"id": "gcores-whale-emotion-birthday-mv", "type": "mv"}]
   }
 ]

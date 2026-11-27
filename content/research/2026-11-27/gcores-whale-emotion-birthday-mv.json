@@ -1,0 +1,35 @@
+{
+  "url": "https://www.gcores.com/videos/221105",
+  "accessedAt": "2026-11-27T12:47:41.459Z",
+  "httpStatus": 200,
+  "htmlSha256": "03f79b41f891ede9a25c129c10b3ab51c48e8e253450f80bb2137d522a15f24e",
+  "title": "【MV】这是 deepseek 献给你的生日祝福。就算全世界都遗忘了你，她也绝对不会忘记。",
+  "authorLink": "https://www.gcores.com/users/500545",
+  "credits": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "publicationDate": "2026-10-19",
+  "scope": "Creator post, artwork and music credits verified in headless Chrome. The entry links the original GCORES upload; likes from different platforms are not combined.",
+  "relations": [
+    {
+      "role": "creator-profile",
+      "title": "偷风窃雨",
+      "url": "https://www.gcores.com/users/500545"
+    },
+    {
+      "role": "music-original",
+      "title": "夜踊社 · 洛天依",
+      "url": "https://www.bilibili.com/video/BV1d464Y6Egy/"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "TreapGoGo · 鲸鱼娘资料",
+      "url": "https://github.com/TreapGoGo/deepseek-whale-girl/blob/1a47dcdbe33beb1da1b342024675cd1bc9620ed5/README.md"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1sK4x6EEQb/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sK4x6EEQb",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:47:19.017Z",
+  "scope": "Official Bilibili view data verifies the upload identity, dates and cumulative likes. Credits use uploader descriptions.",
+  "metadata": {
+    "bvid": "BV1sK4x6EEQb",
+    "title": "大肥鱼的悠哉悠哉美食篇（11）",
+    "owner": {
+      "name": "远方时辰",
+      "mid": 408282679
+    },
+    "pubdate": 1794106434,
+    "duration": 181
+  },
+  "descriptionSha256": "368182d1aba70409aceec348bfaac891002e92d1d9968d2b2673ed11dddceb80",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "远方时辰",
+      "url": "https://space.bilibili.com/408282679"
+    }
+  ]
+}

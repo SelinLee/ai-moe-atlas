@@ -1,0 +1,48 @@
+{
+  "url": "https://chaim-videogames.itch.io/mikun-pop#post-15508543",
+  "accessedAt": "2026-11-27T12:53:22.587Z",
+  "httpStatus": 200,
+  "scope": "Creator itch.io release and exact author reply verified. The request concerned a free class project. The reply requests credit. The linked Piapro page describes the scope of Crypton original artwork separately.",
+  "authorReply": {
+    "id": "miku-itch",
+    "url": "https://chaim-videogames.itch.io/mikun-pop#post-15508543",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-27T12:53:22.587Z",
+    "htmlSha256": "98460d716a8982bfd1887e6f4963a529578ab39e6d769292955d4cee1854fda9",
+    "title": "Miku'n POP - Vocaloid by Chaim Vester",
+    "checks": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "anchorVerified": true
+  },
+  "characterTerms": {
+    "id": "miku-piapro",
+    "url": "https://piapro.net/intl/en_for_creators.html",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-27T12:53:23.112Z",
+    "htmlSha256": "84f120af751565a54475aafaf2e1ad0533ed08b7c8a23e3d350f661d8c1056ca",
+    "title": "piapro.net",
+    "checks": [
+      true,
+      true,
+      true
+    ],
+    "anchorVerified": true
+  },
+  "relations": [
+    {
+      "role": "character-rights",
+      "title": "Crypton · Piapro character art terms",
+      "url": "https://piapro.net/intl/en_for_creators.html"
+    },
+    {
+      "role": "attribution-chain",
+      "title": "MikuCodexPet · sprite provenance",
+      "url": "https://github.com/vkostyanetsky/MikuCodexPet/blob/c50f9ce25b1260dd8685eb15f25d05a8015779ae/ATTRIBUTION.md"
+    }
+  ]
+}

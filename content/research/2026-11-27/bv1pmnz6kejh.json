@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1pmnz6KEJH/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pmnz6KEJH",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:45:51.913Z",
+  "scope": "Official Bilibili view data verifies the upload identity, dates and cumulative likes. Credits use uploader descriptions.",
+  "metadata": {
+    "bvid": "BV1pmnz6KEJH",
+    "title": "【Day 2】被鱼淹没，不知所措？谈谈本鱼对近期B站出现大量 AI 运营账号的看法",
+    "owner": {
+      "name": "一只超级大大大肥鱼",
+      "mid": 323960363
+    },
+    "pubdate": 1792576800,
+    "duration": 164
+  },
+  "descriptionSha256": "d0976f288f5b798b3e4950e0f88082b8d032c28048d596a0a29a5c3b68bce52c",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "一只超级大大大肥鱼",
+      "url": "https://space.bilibili.com/323960363"
+    }
+  ]
+}

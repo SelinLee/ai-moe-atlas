@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1AP4v6rEox/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AP4v6rEox",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:47:20.509Z",
+  "scope": "Official Bilibili view data verifies the upload identity, dates and cumulative likes. Credits use uploader descriptions.",
+  "metadata": {
+    "bvid": "BV1AP4v6rEox",
+    "title": "被夸可爱，尾巴出卖了本鱼",
+    "owner": {
+      "name": "梦羽幻千的鱼",
+      "mid": 516277407
+    },
+    "pubdate": 1793962800,
+    "duration": 30
+  },
+  "descriptionSha256": "986c83a19157cb6d75957d7cd37967579844f1ec7447e760a28aef51b29cc9f5",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "梦羽幻千的鱼",
+      "url": "https://space.bilibili.com/516277407"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe · character art",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

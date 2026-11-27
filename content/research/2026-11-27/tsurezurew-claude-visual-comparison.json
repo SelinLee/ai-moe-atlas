@@ -1,0 +1,102 @@
+{
+  "url": "https://note.com/fair_moraea7627/n/nc7546e57b6dc",
+  "accessedAt": "2026-11-27T12:45:50.115Z",
+  "httpStatus": 200,
+  "publisher": "徒然W",
+  "creator": "https://note.com/fair_moraea7627",
+  "title": "同じプロンプトでChatGPT・Gemini・Grokに「Claude」を擬人化させたら、AIごとの性格が絵に出た",
+  "publishedAt": "2026-09-18T18:38:17.000+09:00",
+  "htmlSha256": "8f8cdff704951fdf2ec7552389d6a5277b9e8c2528888ac6c714748837bb6f64",
+  "headings": [
+    [
+      "27bb01fa-9f59-4838-ba7b-1b718b9e3a3e",
+      "ChatGPTから見た、他のAIたち"
+    ],
+    [
+      "2a7ea9d4-0e0a-4155-8f9d-02346a3edc0f",
+      "では、Claude本人はどう思うのか"
+    ],
+    [
+      "1dc8b2fb-9959-46ef-ad2d-1a5ae99c2bd6",
+      "そこでClaude自身に「自分ならどう擬人化する？」と聞いてみた"
+    ],
+    [
+      "d4855ddb-b597-4544-a3fa-3017f3190b94",
+      "Geminiが描いたClaude"
+    ],
+    [
+      "22a25f8a-2339-4469-a72a-a699c8f72031",
+      "Grokが描いたClaude"
+    ],
+    [
+      "9abf393f-40db-4c8d-bcd1-d85fe48f8aca",
+      "ChatGPTが描き直したClaude"
+    ],
+    [
+      "3d6c1d16-3fe5-4faa-899c-1f43815925d8",
+      "同じプロンプトなのに、描いているものが違う"
+    ],
+    [
+      "a5272d34-7cfb-4185-8911-b8fe421f09f4",
+      "AIを擬人化したつもりが、AI側の個性が見えてきた"
+    ],
+    [
+      "1c41fecd-50b1-4927-b8f9-2d7f44fdc0ef",
+      "今回の使用 AI モデル"
+    ]
+  ],
+  "scope": "Creator article, publication date and selected source image URLs checked in isolated Chrome. Exact CDN response bytes were retained locally and hashed. Artwork republication or redistribution permission for this atlas is unconfirmed.",
+  "files": [
+    {
+      "index": 2,
+      "url": "https://assets.st-note.com/img/1789718562-TojPx78JZCQG2aWcfpMgsD9E.png",
+      "sha256": "99942a915ed4dbf0186282cfcedbcb2f53a45e09a7d4827e8cfc56ddc3bb0d8e",
+      "bytes": 873521,
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "accessedAt": "2026-11-27T12:46:33.797Z"
+    },
+    {
+      "index": 6,
+      "url": "https://assets.st-note.com/img/1789723050-EOfqe0oSWBY5z97iHLNhrDRI.png",
+      "sha256": "3ca01dfc1adf53e9bdc32de28ba4c4b0bb4b5fe4470c2b1918aed81b878e38b6",
+      "bytes": 886509,
+      "width": 1448,
+      "height": 1086,
+      "format": "png",
+      "accessedAt": "2026-11-27T12:46:33.707Z"
+    },
+    {
+      "index": 7,
+      "url": "https://assets.st-note.com/img/1789718894-vaxbGAZ4kmNMCT0I1rKz78y6.png",
+      "sha256": "7367114d95e075ae69c5ae3f5066eefc37b18d8a5a2427930b4828f7c56e1dc8",
+      "bytes": 624751,
+      "width": 1408,
+      "height": 768,
+      "format": "png",
+      "accessedAt": "2026-11-27T12:46:33.353Z"
+    },
+    {
+      "index": 8,
+      "url": "https://assets.st-note.com/img/1789718919-Bps0ORa3wZjF64Nbr8SXdCDU.jpg",
+      "sha256": "e70c4999b714a02b9ae901a4ba1476e4eb98beff152ff988bfc42443ee829342",
+      "bytes": 146455,
+      "width": 784,
+      "height": 1168,
+      "format": "jpeg",
+      "accessedAt": "2026-11-27T12:46:33.016Z"
+    },
+    {
+      "index": 9,
+      "url": "https://assets.st-note.com/img/1789719020-uaCJrlcAgwx2S3sy054f9eiD.png",
+      "sha256": "0d55031a64744739b91578bbbf805f18601036f78cc05ed7a92590d48fbaf021",
+      "bytes": 685353,
+      "width": 1254,
+      "height": 1254,
+      "format": "png",
+      "accessedAt": "2026-11-27T12:46:33.359Z"
+    }
+  ],
+  "artworkOrigin": "creator-published generated-portrait article"
+}

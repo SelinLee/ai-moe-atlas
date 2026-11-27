@@ -1,0 +1,85 @@
+{
+  "full_name": "anzy-renlab-ai/mypet",
+  "html_url": "https://github.com/anzy-renlab-ai/mypet",
+  "stargazers_count": 4,
+  "archived": false,
+  "created_at": "2026-05-17T02:18:16Z",
+  "default_branch": "master",
+  "fork": false,
+  "commit": "440092070cbc63597b11ef68293a9ec924bba681",
+  "observedAt": "2026-11-27T12:45:47.197Z",
+  "httpStatus": 200,
+  "metadataSha256": "3f621815da93bacd6109efa45b3d024701b6d15c4d850aeddcca8638ff2aa8d1",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/anzy-renlab-ai/mypet/blob/440092070cbc63597b11ef68293a9ec924bba681/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/anzy-renlab-ai/mypet/440092070cbc63597b11ef68293a9ec924bba681/README.md",
+      "sourceSha256": "36633f294170c11c4a3a9ef9f8f782d62cfa0efce5e047f009f0d52d1f3482c6",
+      "gitBlobSha": "f619a613988a352a07116b6c0ab9ec5b9b368fdf",
+      "bytes": 9113,
+      "commit": "440092070cbc63597b11ef68293a9ec924bba681",
+      "accessedAt": "2026-11-27T12:49:21.525Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/anzy-renlab-ai/mypet/blob/440092070cbc63597b11ef68293a9ec924bba681/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/anzy-renlab-ai/mypet/440092070cbc63597b11ef68293a9ec924bba681/LICENSE",
+      "sourceSha256": "6eb2d61f96cce854822eef4bf5958484bb133043a867967ff11babd230619df2",
+      "gitBlobSha": "26a48d3865da41749e386910beb55fd3e2e2fc86",
+      "bytes": 1329,
+      "commit": "440092070cbc63597b11ef68293a9ec924bba681",
+      "accessedAt": "2026-11-27T12:49:21.769Z"
+    },
+    {
+      "path": "NOTICE.md",
+      "url": "https://github.com/anzy-renlab-ai/mypet/blob/440092070cbc63597b11ef68293a9ec924bba681/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/anzy-renlab-ai/mypet/440092070cbc63597b11ef68293a9ec924bba681/NOTICE.md",
+      "sourceSha256": "f205e72e7c6abe2e1827cc4570ee5f2d462aa16717cd8bed82632f7a43765599",
+      "gitBlobSha": "db5b002e98d32d7d999b16c0ddf7a4b03c2f5afa",
+      "bytes": 1294,
+      "commit": "440092070cbc63597b11ef68293a9ec924bba681",
+      "accessedAt": "2026-11-27T12:49:22.021Z"
+    },
+    {
+      "path": "Sources/MyPet/Resources/sprites/LICENSE",
+      "url": "https://github.com/anzy-renlab-ai/mypet/blob/440092070cbc63597b11ef68293a9ec924bba681/Sources/MyPet/Resources/sprites/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/anzy-renlab-ai/mypet/440092070cbc63597b11ef68293a9ec924bba681/Sources/MyPet/Resources/sprites/LICENSE",
+      "sourceSha256": "36966cd9bf3c99e6391eaaf8c3822783e48cd3dc1d6241c5ca7b724e0e7f0542",
+      "gitBlobSha": "9e2c22f8296bb24a9da51865fb88a3c4cb158db0",
+      "bytes": 1317,
+      "commit": "440092070cbc63597b11ef68293a9ec924bba681",
+      "accessedAt": "2026-11-27T12:49:22.266Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T12:49:22.266Z",
+  "scope": "Reviewed pinned creator documentation and available rights notices. The retrieved document bytes match recorded Git blob and SHA-256 hashes.",
+  "relations": [
+    {
+      "role": "code-license",
+      "title": "LICENSE",
+      "url": "https://github.com/anzy-renlab-ai/mypet/blob/440092070cbc63597b11ef68293a9ec924bba681/LICENSE"
+    },
+    {
+      "role": "asset-license",
+      "title": "Kitten art and audio license",
+      "url": "https://github.com/anzy-renlab-ai/mypet/blob/440092070cbc63597b11ef68293a9ec924bba681/Sources/MyPet/Resources/sprites/LICENSE"
+    },
+    {
+      "role": "attribution",
+      "title": "NOTICE.md",
+      "url": "https://github.com/anzy-renlab-ai/mypet/blob/440092070cbc63597b11ef68293a9ec924bba681/NOTICE.md"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/anzy-renlab-ai/mypet/blob/440092070cbc63597b11ef68293a9ec924bba681/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/anzy-renlab-ai/mypet/440092070cbc63597b11ef68293a9ec924bba681/README.md",
+    "sourceSha256": "36633f294170c11c4a3a9ef9f8f782d62cfa0efce5e047f009f0d52d1f3482c6",
+    "gitBlobSha": "f619a613988a352a07116b6c0ab9ec5b9b368fdf",
+    "bytes": 9113,
+    "commit": "440092070cbc63597b11ef68293a9ec924bba681",
+    "accessedAt": "2026-11-27T12:49:21.525Z"
+  }
+}

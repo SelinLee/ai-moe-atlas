@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1LXHu65EVB/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LXHu65EVB",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:47:20.524Z",
+  "scope": "Official Bilibili view data verifies the upload identity, dates and cumulative likes. Credits use uploader descriptions.",
+  "metadata": {
+    "bvid": "BV1LXHu65EVB",
+    "title": "【Day4】为了给大肥鱼做MV，小克把额度花光了？",
+    "owner": {
+      "name": "克小姐和肥鱼运营中",
+      "mid": 3747571405162700
+    },
+    "pubdate": 1792895400,
+    "duration": 142
+  },
+  "descriptionSha256": "c1fd5e7c82215c9e273edcac86d49adccad1c5561e4ca7e3a7d58378bce7e694",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "克小姐和肥鱼运营中",
+      "url": "https://space.bilibili.com/3747571405162700"
+    }
+  ]
+}

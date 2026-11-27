@@ -1,0 +1,110 @@
+{
+  "full_name": "Teambotics-OSS/deskbuddy",
+  "html_url": "https://github.com/Teambotics-OSS/deskbuddy",
+  "stargazers_count": 2,
+  "archived": false,
+  "created_at": "2026-06-01T23:41:54Z",
+  "default_branch": "main",
+  "fork": true,
+  "commit": "a1fff1137ded1ed503403f4880fe3fddd78a5dd3",
+  "observedAt": "2026-11-27T12:45:47.277Z",
+  "httpStatus": 200,
+  "metadataSha256": "571e9521f0f682e6d2335c42818c7bf6c110ae7647eacf8b4f2605f3b3126277",
+  "parent": "rullerzhou-afk/clawd-on-desk",
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/Teambotics-OSS/deskbuddy/blob/a1fff1137ded1ed503403f4880fe3fddd78a5dd3/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Teambotics-OSS/deskbuddy/a1fff1137ded1ed503403f4880fe3fddd78a5dd3/README.md",
+      "sourceSha256": "c7a2acef56234c8700b5ed2ec386068e706e4f7040dabdfa27c78bb75910dc80",
+      "gitBlobSha": "2621346b22866ea33af74f67e2fe0cce27542a91",
+      "bytes": 37438,
+      "commit": "a1fff1137ded1ed503403f4880fe3fddd78a5dd3",
+      "accessedAt": "2026-11-27T12:49:21.572Z"
+    },
+    {
+      "path": "README.zh-CN.md",
+      "url": "https://github.com/Teambotics-OSS/deskbuddy/blob/a1fff1137ded1ed503403f4880fe3fddd78a5dd3/README.zh-CN.md",
+      "rawUrl": "https://raw.githubusercontent.com/Teambotics-OSS/deskbuddy/a1fff1137ded1ed503403f4880fe3fddd78a5dd3/README.zh-CN.md",
+      "sourceSha256": "5f4ce3889428f8400c8faee02c2430b6c45eec3d8baeed7afd270b310911949f",
+      "gitBlobSha": "a92d81e797f5337604a5858f8cee1cadc0f69ded",
+      "bytes": 29911,
+      "commit": "a1fff1137ded1ed503403f4880fe3fddd78a5dd3",
+      "accessedAt": "2026-11-27T12:49:21.843Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/Teambotics-OSS/deskbuddy/blob/a1fff1137ded1ed503403f4880fe3fddd78a5dd3/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Teambotics-OSS/deskbuddy/a1fff1137ded1ed503403f4880fe3fddd78a5dd3/LICENSE",
+      "sourceSha256": "8486a10c4393cee1c25392769ddd3b2d6c242d6ec7928e1414efff7dfb2f07ef",
+      "gitBlobSha": "0ad25db4bd1d86c452db3f9602ccdbe172438f52",
+      "bytes": 34523,
+      "commit": "a1fff1137ded1ed503403f4880fe3fddd78a5dd3",
+      "accessedAt": "2026-11-27T12:49:22.134Z"
+    },
+    {
+      "path": "NOTICE.md",
+      "url": "https://github.com/Teambotics-OSS/deskbuddy/blob/a1fff1137ded1ed503403f4880fe3fddd78a5dd3/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/Teambotics-OSS/deskbuddy/a1fff1137ded1ed503403f4880fe3fddd78a5dd3/NOTICE.md",
+      "sourceSha256": "73fe5fbf93a5a9a09172d1661246cecc61c94844823841e32ee8d0afb7a8cbab",
+      "gitBlobSha": "b9b3db76e637de9ddd00aa924add91a5f123aa89",
+      "bytes": 1304,
+      "commit": "a1fff1137ded1ed503403f4880fe3fddd78a5dd3",
+      "accessedAt": "2026-11-27T12:49:22.384Z"
+    },
+    {
+      "path": "assets/LICENSE",
+      "url": "https://github.com/Teambotics-OSS/deskbuddy/blob/a1fff1137ded1ed503403f4880fe3fddd78a5dd3/assets/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Teambotics-OSS/deskbuddy/a1fff1137ded1ed503403f4880fe3fddd78a5dd3/assets/LICENSE",
+      "sourceSha256": "497e8101fee20fc6a8f53f7815b13cccdd8049f3371e50edc1a49d213257cc97",
+      "gitBlobSha": "771fd7c12bf3a0fbb962b4e1921efe45e4e3d47a",
+      "bytes": 951,
+      "commit": "a1fff1137ded1ed503403f4880fe3fddd78a5dd3",
+      "accessedAt": "2026-11-27T12:49:22.633Z"
+    },
+    {
+      "path": "assets/source/cloudling-codex-pet/confirmed/README.md",
+      "url": "https://github.com/Teambotics-OSS/deskbuddy/blob/a1fff1137ded1ed503403f4880fe3fddd78a5dd3/assets/source/cloudling-codex-pet/confirmed/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Teambotics-OSS/deskbuddy/a1fff1137ded1ed503403f4880fe3fddd78a5dd3/assets/source/cloudling-codex-pet/confirmed/README.md",
+      "sourceSha256": "2cff672366c48e0c13eb329b731e555274952e765e486d412dbfae44b0e04c36",
+      "gitBlobSha": "57385bf3337644848aa16545f5b1ed683584b00d",
+      "bytes": 16990,
+      "commit": "a1fff1137ded1ed503403f4880fe3fddd78a5dd3",
+      "accessedAt": "2026-11-27T12:49:22.899Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T12:49:22.899Z",
+  "scope": "Reviewed pinned creator documentation and available rights notices. The retrieved document bytes match recorded Git blob and SHA-256 hashes.",
+  "relations": [
+    {
+      "role": "upstream-project",
+      "title": "Clawd on Desk",
+      "url": "https://github.com/rullerzhou-afk/clawd-on-desk/blob/323da9f17a9872e1b1ceca6c9c9783e0eaa83a72/README.zh-CN.md"
+    },
+    {
+      "role": "code-license",
+      "title": "LICENSE",
+      "url": "https://github.com/Teambotics-OSS/deskbuddy/blob/a1fff1137ded1ed503403f4880fe3fddd78a5dd3/LICENSE"
+    },
+    {
+      "role": "asset-license",
+      "title": "Asset rights",
+      "url": "https://github.com/Teambotics-OSS/deskbuddy/blob/a1fff1137ded1ed503403f4880fe3fddd78a5dd3/assets/LICENSE"
+    },
+    {
+      "role": "creator-design-documentation",
+      "title": "Cloudling · animation notes",
+      "url": "https://github.com/Teambotics-OSS/deskbuddy/blob/a1fff1137ded1ed503403f4880fe3fddd78a5dd3/assets/source/cloudling-codex-pet/confirmed/README.md"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/Teambotics-OSS/deskbuddy/blob/a1fff1137ded1ed503403f4880fe3fddd78a5dd3/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Teambotics-OSS/deskbuddy/a1fff1137ded1ed503403f4880fe3fddd78a5dd3/README.md",
+    "sourceSha256": "c7a2acef56234c8700b5ed2ec386068e706e4f7040dabdfa27c78bb75910dc80",
+    "gitBlobSha": "2621346b22866ea33af74f67e2fe0cce27542a91",
+    "bytes": 37438,
+    "commit": "a1fff1137ded1ed503403f4880fe3fddd78a5dd3",
+    "accessedAt": "2026-11-27T12:49:21.572Z"
+  }
+}

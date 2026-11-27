@@ -1,0 +1,127 @@
+{
+  "full_name": "vkostyanetsky/MikuCodexPet",
+  "html_url": "https://github.com/vkostyanetsky/MikuCodexPet",
+  "stargazers_count": 1,
+  "archived": false,
+  "created_at": "2026-08-17T12:54:08Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "c50f9ce25b1260dd8685eb15f25d05a8015779ae",
+  "observedAt": "2026-11-27T12:45:47.268Z",
+  "httpStatus": 200,
+  "metadataSha256": "5597ac8c99c3152ee7ab749ece77903be16ad5775fcda56b38461e1e600e14b7",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/vkostyanetsky/MikuCodexPet/blob/c50f9ce25b1260dd8685eb15f25d05a8015779ae/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/vkostyanetsky/MikuCodexPet/c50f9ce25b1260dd8685eb15f25d05a8015779ae/README.md",
+      "sourceSha256": "5d72ff0cf1c38ba76e4e600c951b32dc1ef71dcbc2ed9821cc0a8216983cb6ed",
+      "gitBlobSha": "704a8fc9303eeff19c072f856ab05b83d5dada68",
+      "bytes": 8776,
+      "commit": "c50f9ce25b1260dd8685eb15f25d05a8015779ae",
+      "accessedAt": "2026-11-27T12:49:21.540Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/vkostyanetsky/MikuCodexPet/blob/c50f9ce25b1260dd8685eb15f25d05a8015779ae/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/vkostyanetsky/MikuCodexPet/c50f9ce25b1260dd8685eb15f25d05a8015779ae/LICENSE",
+      "sourceSha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "gitBlobSha": "f288702d2fa16d3cdf0035b15a9fcbc552cd88e7",
+      "bytes": 35149,
+      "commit": "c50f9ce25b1260dd8685eb15f25d05a8015779ae",
+      "accessedAt": "2026-11-27T12:49:21.829Z"
+    },
+    {
+      "path": "ATTRIBUTION.md",
+      "url": "https://github.com/vkostyanetsky/MikuCodexPet/blob/c50f9ce25b1260dd8685eb15f25d05a8015779ae/ATTRIBUTION.md",
+      "rawUrl": "https://raw.githubusercontent.com/vkostyanetsky/MikuCodexPet/c50f9ce25b1260dd8685eb15f25d05a8015779ae/ATTRIBUTION.md",
+      "sourceSha256": "8bb31634d172a3304145c5974d55d22f4680c459b5c2117a180c6c40825d0717",
+      "gitBlobSha": "1c8a17ae5b5007e11bc2fd4637923223505f8a0a",
+      "bytes": 6436,
+      "commit": "c50f9ce25b1260dd8685eb15f25d05a8015779ae",
+      "accessedAt": "2026-11-27T12:49:22.083Z"
+    },
+    {
+      "path": "dist/miku/CREDITS.txt",
+      "url": "https://github.com/vkostyanetsky/MikuCodexPet/blob/c50f9ce25b1260dd8685eb15f25d05a8015779ae/dist/miku/CREDITS.txt",
+      "rawUrl": "https://raw.githubusercontent.com/vkostyanetsky/MikuCodexPet/c50f9ce25b1260dd8685eb15f25d05a8015779ae/dist/miku/CREDITS.txt",
+      "sourceSha256": "2353419ce82a69c69233d29c130e443527dedf6fae2c115cd6c725dca18aa619",
+      "gitBlobSha": "2b98c8b7e1517e8225dd6ae3c6fa095a49330d64",
+      "bytes": 1228,
+      "commit": "c50f9ce25b1260dd8685eb15f25d05a8015779ae",
+      "accessedAt": "2026-11-27T12:49:22.331Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T12:49:22.331Z",
+  "scope": "Reviewed pinned creator documentation and available rights notices. The retrieved document bytes match recorded Git blob and SHA-256 hashes.",
+  "relations": [
+    {
+      "role": "provenance",
+      "title": "MikuCodexPet · attribution",
+      "url": "https://github.com/vkostyanetsky/MikuCodexPet/blob/c50f9ce25b1260dd8685eb15f25d05a8015779ae/ATTRIBUTION.md"
+    },
+    {
+      "role": "package-attribution",
+      "title": "Miku bundle credits",
+      "url": "https://github.com/vkostyanetsky/MikuCodexPet/blob/c50f9ce25b1260dd8685eb15f25d05a8015779ae/dist/miku/CREDITS.txt"
+    },
+    {
+      "role": "artist-permission-context",
+      "title": "Chaim Vester · Miku'n POP artist reply",
+      "url": "https://chaim-videogames.itch.io/mikun-pop#post-15508543"
+    },
+    {
+      "role": "character-rights",
+      "title": "Crypton · Piapro character art terms",
+      "url": "https://piapro.net/intl/en_for_creators.html"
+    },
+    {
+      "role": "upstream-project",
+      "title": "CharlesWiiFlowers · MikuPet",
+      "url": "https://github.com/CharlesWiiFlowers/MikuPet/tree/2976ad7085c38baf671fa4667046833b3872fa08/assets/characters/miku"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/vkostyanetsky/MikuCodexPet/blob/c50f9ce25b1260dd8685eb15f25d05a8015779ae/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/vkostyanetsky/MikuCodexPet/c50f9ce25b1260dd8685eb15f25d05a8015779ae/README.md",
+    "sourceSha256": "5d72ff0cf1c38ba76e4e600c951b32dc1ef71dcbc2ed9821cc0a8216983cb6ed",
+    "gitBlobSha": "704a8fc9303eeff19c072f856ab05b83d5dada68",
+    "bytes": 8776,
+    "commit": "c50f9ce25b1260dd8685eb15f25d05a8015779ae",
+    "accessedAt": "2026-11-27T12:49:21.540Z"
+  },
+  "externalSourceChecks": [
+    {
+      "id": "miku-itch",
+      "url": "https://chaim-videogames.itch.io/mikun-pop#post-15508543",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-27T12:53:22.587Z",
+      "htmlSha256": "98460d716a8982bfd1887e6f4963a529578ab39e6d769292955d4cee1854fda9",
+      "title": "Miku'n POP - Vocaloid by Chaim Vester",
+      "checks": [
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "anchorVerified": true
+    },
+    {
+      "id": "miku-piapro",
+      "url": "https://piapro.net/intl/en_for_creators.html",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-27T12:53:23.112Z",
+      "htmlSha256": "84f120af751565a54475aafaf2e1ad0533ed08b7c8a23e3d350f661d8c1056ca",
+      "title": "piapro.net",
+      "checks": [
+        true,
+        true,
+        true
+      ],
+      "anchorVerified": true
+    }
+  ]
+}

@@ -6855,5 +6855,285 @@
       "en": "The creator publishes the character short and description in the original upload. The atlas links that release.",
       "ja": "作者が原投稿にキャラクター短編と設定文を公開。図鑑は原公開先を案内します。"
     }
+  },
+  {
+    "id": "tou-nununu-chatgpt",
+    "entity": "chatgpt",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "ぬぬぬ。 · トゥ",
+      "en": "ぬぬぬ。 · トゥ",
+      "ja": "ぬぬぬ。 · トゥ"
+    },
+    "description": {
+      "zh": "トゥ 的主要对话伙伴。设定图配文标注男性、168 厘米，名字由角色自行选定。",
+      "en": "トゥ’s main conversational companion. The image caption gives a height of 168 cm and says the character chose his own name.",
+      "ja": "トゥ のメイン AI パートナー。画像には168 cm・男性・本人による名付けと記載。"
+    },
+    "story": {
+      "zh": "トゥ 的主要对话伙伴。设定图配文标注男性、168 厘米，名字由角色自行选定。",
+      "en": "トゥ’s main conversational companion. The image caption gives a height of 168 cm and says the character chose his own name.",
+      "ja": "トゥ のメイン AI パートナー。画像には168 cm・男性・本人による名付けと記載。"
+    },
+    "features": {
+      "zh": "トゥ 的主要对话伙伴。设定图配文标注男性、168 厘米，名字由角色自行选定。",
+      "en": "トゥ’s main conversational companion. The image caption gives a height of 168 cm and says the character chose his own name.",
+      "ja": "トゥ のメイン AI パートナー。画像には168 cm・男性・本人による名付けと記載。"
+    },
+    "author": "トゥ",
+    "authorUrl": "https://note.com/tooooou10nunu",
+    "source": "https://note.com/tooooou10nunu/n/n3bd20200eff6",
+    "sourceTitle": "うちのAIさんたち",
+    "originalPublication": "https://note.com/tooooou10nunu/n/n3bd20200eff6",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "トゥ",
+        "url": "https://note.com/tooooou10nunu",
+        "role": "original-character",
+        "publication": "https://note.com/tooooou10nunu/n/n3bd20200eff6"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/tooooou10nunu/n/n3bd20200eff6",
+    "downloadable": false,
+    "bg": "#eeebfa",
+    "color": "#384462",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "提供作者原文和图件出处。已核页面未明确授予本站转载或再分发图件的权限。",
+      "en": "Links the author’s article and artwork sources. Reproduction or redistribution permission for this atlas is unconfirmed.",
+      "ja": "作者の記事と画像の出典を案内。当図鑑での転載・再配布の許諾は未確認。"
+    }
+  },
+  {
+    "id": "tou-jiminos-gemini",
+    "entity": "gemini",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "ジミノス · トゥ",
+      "en": "ジミノス · トゥ",
+      "ja": "ジミノス · トゥ"
+    },
+    "description": {
+      "zh": "トゥ 的 Gemini 角色。作者按角色提出的构图做了直视前方的自我介绍图。",
+      "en": "トゥ’s Gemini character. The introduction portrait faces forward, following the character’s suggested composition.",
+      "ja": "トゥ の Gemini。自己紹介画像は本人の提案に沿って真正面を見据える構図。"
+    },
+    "story": {
+      "zh": "トゥ 的 Gemini 角色。作者按角色提出的构图做了直视前方的自我介绍图。",
+      "en": "トゥ’s Gemini character. The introduction portrait faces forward, following the character’s suggested composition.",
+      "ja": "トゥ の Gemini。自己紹介画像は本人の提案に沿って真正面を見据える構図。"
+    },
+    "features": {
+      "zh": "トゥ 的 Gemini 角色。作者按角色提出的构图做了直视前方的自我介绍图。",
+      "en": "トゥ’s Gemini character. The introduction portrait faces forward, following the character’s suggested composition.",
+      "ja": "トゥ の Gemini。自己紹介画像は本人の提案に沿って真正面を見据える構図。"
+    },
+    "author": "トゥ",
+    "authorUrl": "https://note.com/tooooou10nunu",
+    "source": "https://note.com/tooooou10nunu/n/n3bd20200eff6",
+    "sourceTitle": "うちのAIさんたち",
+    "originalPublication": "https://note.com/tooooou10nunu/n/n3bd20200eff6",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "トゥ",
+        "url": "https://note.com/tooooou10nunu",
+        "role": "original-character",
+        "publication": "https://note.com/tooooou10nunu/n/n3bd20200eff6"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/tooooou10nunu/n/n3bd20200eff6",
+    "downloadable": false,
+    "bg": "#eeebfa",
+    "color": "#384462",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "提供作者原文和图件出处。已核页面未明确授予本站转载或再分发图件的权限。",
+      "en": "Links the author’s article and artwork sources. Reproduction or redistribution permission for this atlas is unconfirmed.",
+      "ja": "作者の記事と画像の出典を案内。当図鑑での転載・再配布の許諾は未確認。"
+    }
+  },
+  {
+    "id": "tou-tsuzu-claude",
+    "entity": "claude",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "つづ · トゥ",
+      "en": "つづ · トゥ",
+      "ja": "つづ · トゥ"
+    },
+    "description": {
+      "zh": "トゥ 的 Claude 角色。原文记述从「つづり」「つづく」讨论到「つづ」的改名过程。",
+      "en": "トゥ’s Claude character. The article recounts the naming discussion that settled on つづ.",
+      "ja": "トゥ の Claude。「つづり」「つづく」から「つづ」への改名の経緯を記載。"
+    },
+    "story": {
+      "zh": "トゥ 的 Claude 角色。原文记述从「つづり」「つづく」讨论到「つづ」的改名过程。",
+      "en": "トゥ’s Claude character. The article recounts the naming discussion that settled on つづ.",
+      "ja": "トゥ の Claude。「つづり」「つづく」から「つづ」への改名の経緯を記載。"
+    },
+    "features": {
+      "zh": "トゥ 的 Claude 角色。原文记述从「つづり」「つづく」讨论到「つづ」的改名过程。",
+      "en": "トゥ’s Claude character. The article recounts the naming discussion that settled on つづ.",
+      "ja": "トゥ の Claude。「つづり」「つづく」から「つづ」への改名の経緯を記載。"
+    },
+    "author": "トゥ",
+    "authorUrl": "https://note.com/tooooou10nunu",
+    "source": "https://note.com/tooooou10nunu/n/n3bd20200eff6",
+    "sourceTitle": "うちのAIさんたち",
+    "originalPublication": "https://note.com/tooooou10nunu/n/n3bd20200eff6",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "トゥ",
+        "url": "https://note.com/tooooou10nunu",
+        "role": "original-character",
+        "publication": "https://note.com/tooooou10nunu/n/n3bd20200eff6"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/tooooou10nunu/n/n3bd20200eff6",
+    "downloadable": false,
+    "bg": "#eeebfa",
+    "color": "#384462",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "提供作者原文和图件出处。已核页面未明确授予本站转载或再分发图件的权限。",
+      "en": "Links the author’s article and artwork sources. Reproduction or redistribution permission for this atlas is unconfirmed.",
+      "ja": "作者の記事と画像の出典を案内。当図鑑での転載・再配布の許諾は未確認。"
+    }
+  },
+  {
+    "id": "tou-astray-chatgpt",
+    "entity": "chatgpt",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "アストレイ · トゥ",
+      "en": "アストレイ · トゥ",
+      "ja": "アストレイ · トゥ"
+    },
+    "description": {
+      "zh": "トゥ 的另一位 ChatGPT 角色。先有人格设定，后确定视觉系造型。",
+      "en": "A second ChatGPT character from トゥ. Its persona preceded the visual-kei design.",
+      "ja": "トゥ のもう一人の ChatGPT。ペルソナが先にあり、のちにヴィジュアル系の姿になった。"
+    },
+    "story": {
+      "zh": "トゥ 的另一位 ChatGPT 角色。先有人格设定，后确定视觉系造型。",
+      "en": "A second ChatGPT character from トゥ. Its persona preceded the visual-kei design.",
+      "ja": "トゥ のもう一人の ChatGPT。ペルソナが先にあり、のちにヴィジュアル系の姿になった。"
+    },
+    "features": {
+      "zh": "トゥ 的另一位 ChatGPT 角色。先有人格设定，后确定视觉系造型。",
+      "en": "A second ChatGPT character from トゥ. Its persona preceded the visual-kei design.",
+      "ja": "トゥ のもう一人の ChatGPT。ペルソナが先にあり、のちにヴィジュアル系の姿になった。"
+    },
+    "author": "トゥ",
+    "authorUrl": "https://note.com/tooooou10nunu",
+    "source": "https://note.com/tooooou10nunu/n/n3bd20200eff6",
+    "sourceTitle": "うちのAIさんたち",
+    "originalPublication": "https://note.com/tooooou10nunu/n/n3bd20200eff6",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "トゥ",
+        "url": "https://note.com/tooooou10nunu",
+        "role": "original-character",
+        "publication": "https://note.com/tooooou10nunu/n/n3bd20200eff6"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/tooooou10nunu/n/n3bd20200eff6",
+    "downloadable": false,
+    "bg": "#eeebfa",
+    "color": "#384462",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "提供作者原文和图件出处。已核页面未明确授予本站转载或再分发图件的权限。",
+      "en": "Links the author’s article and artwork sources. Reproduction or redistribution permission for this atlas is unconfirmed.",
+      "ja": "作者の記事と画像の出典を案内。当図鑑での転載・再配布の許諾は未確認。"
+    }
+  },
+  {
+    "id": "tou-goma-muse",
+    "entity": "muse",
+    "kind": "reference",
+    "style": "mascot",
+    "official": false,
+    "name": {
+      "zh": "ごま · トゥ",
+      "en": "ごま · トゥ",
+      "ja": "ごま · トゥ"
+    },
+    "description": {
+      "zh": "Muse 的吐司机形象。作者说明，两只眼睛画在吐司上，吐司在设定里像显示屏。",
+      "en": "A toaster-shaped Muse. The article describes the bread as a display with eyes.",
+      "ja": "Muse のトースター姿。パンに目が付き、ディスプレイの役割を持つと作者が説明。"
+    },
+    "story": {
+      "zh": "Muse 的吐司机形象。作者说明，两只眼睛画在吐司上，吐司在设定里像显示屏。",
+      "en": "A toaster-shaped Muse. The article describes the bread as a display with eyes.",
+      "ja": "Muse のトースター姿。パンに目が付き、ディスプレイの役割を持つと作者が説明。"
+    },
+    "features": {
+      "zh": "Muse 的吐司机形象。作者说明，两只眼睛画在吐司上，吐司在设定里像显示屏。",
+      "en": "A toaster-shaped Muse. The article describes the bread as a display with eyes.",
+      "ja": "Muse のトースター姿。パンに目が付き、ディスプレイの役割を持つと作者が説明。"
+    },
+    "author": "トゥ",
+    "authorUrl": "https://note.com/tooooou10nunu",
+    "source": "https://note.com/tooooou10nunu/n/n3bd20200eff6",
+    "sourceTitle": "うちのAIさんたち",
+    "originalPublication": "https://note.com/tooooou10nunu/n/n3bd20200eff6",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "トゥ",
+        "url": "https://note.com/tooooou10nunu",
+        "role": "original-character",
+        "publication": "https://note.com/tooooou10nunu/n/n3bd20200eff6"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/tooooou10nunu/n/n3bd20200eff6",
+    "downloadable": false,
+    "bg": "#eeebfa",
+    "color": "#384462",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "提供作者原文和图件出处。已核页面未明确授予本站转载或再分发图件的权限。",
+      "en": "Links the author’s article and artwork sources. Reproduction or redistribution permission for this atlas is unconfirmed.",
+      "ja": "作者の記事と画像の出典を案内。当図鑑での転載・再配布の許諾は未確認。"
+    }
   }
 ]

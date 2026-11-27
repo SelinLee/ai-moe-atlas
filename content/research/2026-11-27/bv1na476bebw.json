@@ -1,0 +1,41 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Na476bEBw/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Na476bEBw",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:47:17.505Z",
+  "scope": "Official Bilibili view data verifies the upload identity, dates and cumulative likes. Credits use uploader descriptions.",
+  "metadata": {
+    "bvid": "BV1Na476bEBw",
+    "title": "【Day11】大肥鱼激情献唱司凤版《雨爱》",
+    "owner": {
+      "name": "一只超级大大大肥鱼",
+      "mid": 323960363
+    },
+    "pubdate": 1794021622,
+    "duration": 140
+  },
+  "descriptionSha256": "4ff4352ec7719233f00344cde3425eb7bc5f03891394cb8d8debc912505878b4",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "一只超级大大大肥鱼",
+      "url": "https://space.bilibili.com/323960363"
+    },
+    {
+      "role": "music-original",
+      "title": "楊丞琳 · 雨愛",
+      "url": "https://www.youtube.com/watch?v=oec9R5ypf-o"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe · character art",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

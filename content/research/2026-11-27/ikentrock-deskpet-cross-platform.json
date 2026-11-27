@@ -1,0 +1,105 @@
+{
+  "full_name": "ikentrock/deskpet",
+  "html_url": "https://github.com/ikentrock/deskpet",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-05-13T12:24:04Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "12722887a45a57677f429c9eb1b2fd4ea4bed4bf",
+  "observedAt": "2026-11-27T12:45:47.072Z",
+  "httpStatus": 200,
+  "metadataSha256": "627289e9ba436a59423fc8079e5741c13c1320fe8a2830b0f2ba4a73eee40adf",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/ikentrock/deskpet/blob/12722887a45a57677f429c9eb1b2fd4ea4bed4bf/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/ikentrock/deskpet/12722887a45a57677f429c9eb1b2fd4ea4bed4bf/README.md",
+      "sourceSha256": "bfffb5d3d2e1e17f04cf47c6a2efab2d36902201ee4a69381f9f75f8ba4bd24e",
+      "gitBlobSha": "fe64b3f177155b79506ea750457d76e8ef914fa0",
+      "bytes": 5529,
+      "commit": "12722887a45a57677f429c9eb1b2fd4ea4bed4bf",
+      "accessedAt": "2026-11-27T12:49:21.516Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/ikentrock/deskpet/blob/12722887a45a57677f429c9eb1b2fd4ea4bed4bf/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/ikentrock/deskpet/12722887a45a57677f429c9eb1b2fd4ea4bed4bf/LICENSE",
+      "sourceSha256": "0f47824d8e1ecb5b0d71235fbe57400043ea238f6ae16d3a34061a78eda7fc34",
+      "gitBlobSha": "770ac10630fdfc2de928315cc09539081bf86bf0",
+      "bytes": 11057,
+      "commit": "12722887a45a57677f429c9eb1b2fd4ea4bed4bf",
+      "accessedAt": "2026-11-27T12:49:21.769Z"
+    },
+    {
+      "path": "NOTICE",
+      "url": "https://github.com/ikentrock/deskpet/blob/12722887a45a57677f429c9eb1b2fd4ea4bed4bf/NOTICE",
+      "rawUrl": "https://raw.githubusercontent.com/ikentrock/deskpet/12722887a45a57677f429c9eb1b2fd4ea4bed4bf/NOTICE",
+      "sourceSha256": "52345255334d60203612b16853dd0a17d901152f6065e372bac063e768530779",
+      "gitBlobSha": "644e23beb10bb39a276a78df39837b13ea121832",
+      "bytes": 491,
+      "commit": "12722887a45a57677f429c9eb1b2fd4ea4bed4bf",
+      "accessedAt": "2026-11-27T12:49:22.021Z"
+    },
+    {
+      "path": "platforms/mac/README.md",
+      "url": "https://github.com/ikentrock/deskpet/blob/12722887a45a57677f429c9eb1b2fd4ea4bed4bf/platforms/mac/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/ikentrock/deskpet/12722887a45a57677f429c9eb1b2fd4ea4bed4bf/platforms/mac/README.md",
+      "sourceSha256": "763011473fac592e2bbc04a8affa0254752f21e37936d34d74fb12862f864d41",
+      "gitBlobSha": "485fc9412dd3fed2c3a6bc8a39c5c24fdcd45a51",
+      "bytes": 1583,
+      "commit": "12722887a45a57677f429c9eb1b2fd4ea4bed4bf",
+      "accessedAt": "2026-11-27T12:49:22.265Z"
+    },
+    {
+      "path": "platforms/linux/README.md",
+      "url": "https://github.com/ikentrock/deskpet/blob/12722887a45a57677f429c9eb1b2fd4ea4bed4bf/platforms/linux/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/ikentrock/deskpet/12722887a45a57677f429c9eb1b2fd4ea4bed4bf/platforms/linux/README.md",
+      "sourceSha256": "a644212814f5ca4799f5236a8fa6fef89832204a603be44eb17c51a9f6fb37c4",
+      "gitBlobSha": "b5c12e8c35f8b7da6c3fa2fc8f0d99bf3d59facb",
+      "bytes": 1495,
+      "commit": "12722887a45a57677f429c9eb1b2fd4ea4bed4bf",
+      "accessedAt": "2026-11-27T12:49:22.510Z"
+    },
+    {
+      "path": "platforms/windows/README.md",
+      "url": "https://github.com/ikentrock/deskpet/blob/12722887a45a57677f429c9eb1b2fd4ea4bed4bf/platforms/windows/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/ikentrock/deskpet/12722887a45a57677f429c9eb1b2fd4ea4bed4bf/platforms/windows/README.md",
+      "sourceSha256": "90ea89d6a5a9a2b55f8b62099a348a349a991542b2c34a3f0e0fde2c95b13a3e",
+      "gitBlobSha": "54260ebdacffdbd198e4b05514e3ffbc37aad77b",
+      "bytes": 1154,
+      "commit": "12722887a45a57677f429c9eb1b2fd4ea4bed4bf",
+      "accessedAt": "2026-11-27T12:49:22.757Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T12:49:22.757Z",
+  "scope": "Reviewed pinned creator documentation and available rights notices. The retrieved document bytes match recorded Git blob and SHA-256 hashes.",
+  "relations": [
+    {
+      "role": "code-license",
+      "title": "LICENSE",
+      "url": "https://github.com/ikentrock/deskpet/blob/12722887a45a57677f429c9eb1b2fd4ea4bed4bf/LICENSE"
+    },
+    {
+      "role": "attribution",
+      "title": "NOTICE",
+      "url": "https://github.com/ikentrock/deskpet/blob/12722887a45a57677f429c9eb1b2fd4ea4bed4bf/NOTICE"
+    },
+    {
+      "role": "platform-documentation",
+      "title": "Linux runtime",
+      "url": "https://github.com/ikentrock/deskpet/blob/12722887a45a57677f429c9eb1b2fd4ea4bed4bf/platforms/linux/README.md"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/ikentrock/deskpet/blob/12722887a45a57677f429c9eb1b2fd4ea4bed4bf/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/ikentrock/deskpet/12722887a45a57677f429c9eb1b2fd4ea4bed4bf/README.md",
+    "sourceSha256": "bfffb5d3d2e1e17f04cf47c6a2efab2d36902201ee4a69381f9f75f8ba4bd24e",
+    "gitBlobSha": "fe64b3f177155b79506ea750457d76e8ef914fa0",
+    "bytes": 5529,
+    "commit": "12722887a45a57677f429c9eb1b2fd4ea4bed4bf",
+    "accessedAt": "2026-11-27T12:49:21.516Z"
+  }
+}

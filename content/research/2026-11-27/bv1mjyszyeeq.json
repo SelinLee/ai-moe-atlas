@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1MjyszyEeq/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1MjyszyEeq",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:47:17.477Z",
+  "scope": "Official Bilibili view data verifies the upload identity, dates and cumulative likes. Credits use uploader descriptions.",
+  "metadata": {
+    "bvid": "BV1MjyszyEeq",
+    "title": "【AI酱】2.1.0 大更新！11 位 AI 娘、每人 22 个表情！聊天更省额度！【B站AI创造公开赛】",
+    "owner": {
+      "name": "1楼的小黑",
+      "mid": 11722158
+    },
+    "pubdate": 1795193329,
+    "duration": 344
+  },
+  "descriptionSha256": "030230cc2d752ced19f107cc99f05c8f8735b37ff23ca8d51855bfaee50e65d9",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "1楼的小黑",
+      "url": "https://space.bilibili.com/11722158"
+    },
+    {
+      "role": "creator-release",
+      "title": "AI Buddy 2.1.0",
+      "url": "https://github.com/lXiaoSel1/AI-Buddy/releases/tag/v2.1.0"
+    }
+  ]
+}

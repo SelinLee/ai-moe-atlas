@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1P8xR6aE7Y/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1P8xR6aE7Y",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:47:22.028Z",
+  "scope": "Official Bilibili view data verifies the upload identity, dates and cumulative likes. Credits use uploader descriptions.",
+  "metadata": {
+    "bvid": "BV1P8xR6aE7Y",
+    "title": "鱼鱼丨地三鲜，学费五块（AI 宿舍·第二天）",
+    "owner": {
+      "name": "阿天说话真扎心",
+      "mid": 8423521
+    },
+    "pubdate": 1793817334,
+    "duration": 129
+  },
+  "descriptionSha256": "3db6fd47ba27e757c69530416474707d84692d391c033095ec79e1962be47862",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "阿天说话真扎心",
+      "url": "https://space.bilibili.com/8423521"
+    },
+    {
+      "role": "creator-project",
+      "title": "dsh-pixel-kitchen",
+      "url": "https://github.com/dxt1705-creator/dsh-pixel-kitchen"
+    },
+    {
+      "role": "related-creator-release",
+      "title": "BV1Km4z6ZEBu",
+      "url": "https://www.bilibili.com/video/AI 宿舍 03/"
+    }
+  ]
+}

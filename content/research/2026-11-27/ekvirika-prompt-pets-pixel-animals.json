@@ -1,0 +1,55 @@
+{
+  "full_name": "ekvirika/claude-code-pets",
+  "html_url": "https://github.com/ekvirika/claude-code-pets",
+  "stargazers_count": 1,
+  "archived": false,
+  "created_at": "2026-10-17T14:05:35Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "61d1cd62c1b8b95b2562259482d30a9ca433f99e",
+  "observedAt": "2026-11-27T12:45:47.274Z",
+  "httpStatus": 200,
+  "metadataSha256": "4eb9880dfa967750b54d53f40aecb76abad11c84004b4f8e905982f5a8ef9b28",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/ekvirika/claude-code-pets/blob/61d1cd62c1b8b95b2562259482d30a9ca433f99e/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/ekvirika/claude-code-pets/61d1cd62c1b8b95b2562259482d30a9ca433f99e/README.md",
+      "sourceSha256": "afa4d3b69f154d5ac6766a95ea2f29e144a558c9b1bc0e9f185e19136b4b1927",
+      "gitBlobSha": "6e7490dd1f8850727c567a68045c919569ee2e49",
+      "bytes": 9954,
+      "commit": "61d1cd62c1b8b95b2562259482d30a9ca433f99e",
+      "accessedAt": "2026-11-27T12:49:21.527Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/ekvirika/claude-code-pets/blob/61d1cd62c1b8b95b2562259482d30a9ca433f99e/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/ekvirika/claude-code-pets/61d1cd62c1b8b95b2562259482d30a9ca433f99e/LICENSE",
+      "sourceSha256": "d869b23ffd878b1a1a543fa044bdd377403b3aa5775b5a036d3e9354b38a87ae",
+      "gitBlobSha": "29a20c4b5cdd0e427c14c5f986a9b445395f9573",
+      "bytes": 1076,
+      "commit": "61d1cd62c1b8b95b2562259482d30a9ca433f99e",
+      "accessedAt": "2026-11-27T12:49:21.778Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T12:49:21.778Z",
+  "scope": "Reviewed pinned creator documentation and available rights notices. The retrieved document bytes match recorded Git blob and SHA-256 hashes.",
+  "relations": [
+    {
+      "role": "repository-license",
+      "title": "LICENSE",
+      "url": "https://github.com/ekvirika/claude-code-pets/blob/61d1cd62c1b8b95b2562259482d30a9ca433f99e/LICENSE"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/ekvirika/claude-code-pets/blob/61d1cd62c1b8b95b2562259482d30a9ca433f99e/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/ekvirika/claude-code-pets/61d1cd62c1b8b95b2562259482d30a9ca433f99e/README.md",
+    "sourceSha256": "afa4d3b69f154d5ac6766a95ea2f29e144a558c9b1bc0e9f185e19136b4b1927",
+    "gitBlobSha": "6e7490dd1f8850727c567a68045c919569ee2e49",
+    "bytes": 9954,
+    "commit": "61d1cd62c1b8b95b2562259482d30a9ca433f99e",
+    "accessedAt": "2026-11-27T12:49:21.527Z"
+  }
+}

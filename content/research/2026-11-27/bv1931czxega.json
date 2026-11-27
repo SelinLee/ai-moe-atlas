@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1931czXEGA/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1931czXEGA",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:47:15.949Z",
+  "scope": "Official Bilibili view data verifies the upload identity, dates and cumulative likes. Credits use uploader descriptions.",
+  "metadata": {
+    "bvid": "BV1931czXEGA",
+    "title": "大肥鱼的日记【Day 27】：第27天，稳稳当当",
+    "owner": {
+      "name": "第一可爱的希儿酱",
+      "mid": 220898343
+    },
+    "pubdate": 1795528478,
+    "duration": 82
+  },
+  "descriptionSha256": "1552e8785f496875a1415217b861965b8d4571cbcd91dc31cd042e637c59ab06",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "第一可爱的希儿酱",
+      "url": "https://space.bilibili.com/220898343"
+    }
+  ]
+}

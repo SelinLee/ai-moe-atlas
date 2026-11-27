@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1d464Y6Egy/",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:48:38.212Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1d464Y6Egy",
+  "scope": "Official Bilibili view data verifies the upload identity, dates and cumulative likes. Credits use uploader descriptions.",
+  "metadata": {
+    "bvid": "BV1d464Y6Egy",
+    "title": "【洛天依原创曲】情绪.exe（未响应）",
+    "owner": {
+      "name": "夜踊_Yoodori",
+      "mid": 3546778028738864
+    },
+    "pubdate": 1735446300,
+    "duration": 368
+  },
+  "descriptionSha256": "9fdb8fb9cde6407fa49579d4dbb975ca77ed2af944dda65f0fb5985da0eaa2eb",
+  "sourceLinks": [
+    {
+      "role": "fan-video",
+      "title": "偷风窃雨 · GCORES",
+      "url": "https://www.gcores.com/videos/221105"
+    }
+  ]
+}

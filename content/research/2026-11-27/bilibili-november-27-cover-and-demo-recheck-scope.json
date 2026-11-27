@@ -1,0 +1,73 @@
+{
+  "previousEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-pixel-stories-and-cast.json",
+    "sha256": "53c1e7b27724151ee5e0a22d701c8147732df2e04dd8e2008722b89b60c83221",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-covers-and-creator-demos.json",
+    "sha256": "d1689ae54a2ce57a221f72fdc2e6cf346c3e10afa420ba75788c85047aa60661",
+    "kind": "browser-metadata-extract"
+  },
+  "searchRechecks": [
+    {
+      "bvid": "BV1dtnF61Erq",
+      "searchIndex": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=Kanasuke%20%E5%B1%9E%E6%80%A7%E5%92%96%E5%95%A1%E5%8E%85%20OP&order=pubdate",
+        "title": "S 代表什么？【属性咖啡厅 OP AI换人复刻｜五位女主×五个模型】",
+        "publisher": "Kanasuke_",
+        "publisherUrl": "https://space.bilibili.com/3546761083751172",
+        "httpStatus": 200,
+        "observedAt": "2026-11-27T12:46:08.513Z",
+        "htmlSha256": "ed0f10e3f1aab3dc0565893e53e40310704f97be176c74eef91d8d729dbf2393"
+      },
+      "lastApiObservation": {
+        "code": -404,
+        "observedAt": "2026-11-27T12:13:38.277Z",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dtnF61Erq"
+      }
+    },
+    {
+      "bvid": "BV1hZHN6sE4b",
+      "searchIndex": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E6%A8%B1%E5%8D%8E%E8%BE%89%E6%9C%88%20%E8%82%A5%E9%B1%BC%E4%B9%8B%E6%97%85%20%E3%83%AA%E3%83%86%E3%83%A9%E3%83%81%E3%83%A5%E3%82%A2&order=pubdate",
+        "title": "【10月新番/DS】肥鱼之旅 OP「リテラチュア」【DeepSeek娘】",
+        "publisher": "樱华辉月",
+        "publisherUrl": "https://space.bilibili.com/2015579",
+        "httpStatus": 200,
+        "observedAt": "2026-11-27T12:46:14.795Z",
+        "htmlSha256": "9b2d636ac9e5faa0d15d3e7efd7029e20c2d8834474f0a2516a18040d46e0f22"
+      },
+      "lastApiObservation": {
+        "code": -404,
+        "observedAt": "2026-11-27T12:13:42.909Z",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hZHN6sE4b"
+      }
+    },
+    {
+      "bvid": "BV17A4L66EHk",
+      "searchIndex": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=Takina142%20%E5%90%9B%E3%81%AB%E3%81%B5%E3%82%8C%E3%81%A6%20DeepSeek&order=pubdate",
+        "title": "【DeepSeek×Claude】《君にふれて》｜终将成为你OP",
+        "publisher": "Takina142",
+        "publisherUrl": "https://space.bilibili.com/1661162458",
+        "httpStatus": 200,
+        "observedAt": "2026-11-27T12:46:07.428Z",
+        "htmlSha256": "dbc606fcb344461ba5616ec373c6af4d856391179622a95d9d899e4e76b4f051"
+      },
+      "lastApiObservation": {
+        "code": -404,
+        "observedAt": "2026-11-27T12:13:42.900Z",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17A4L66EHk"
+      }
+    }
+  ],
+  "rankedBeforeRefresh": [
+    36,
+    65
+  ],
+  "refreshed": 29,
+  "newVideos": 18,
+  "failedRefreshes": 1,
+  "scope": "Official counts only. Search metadata was checked against the same BV ID, title and uploader."
+}

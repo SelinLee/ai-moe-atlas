@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV17Gxi6wE9f/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17Gxi6wE9f",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:47:23.671Z",
+  "scope": "Official Bilibili view data verifies the upload identity, dates and cumulative likes. Credits use uploader descriptions.",
+  "metadata": {
+    "bvid": "BV17Gxi6wE9f",
+    "title": "蓝色大肥鱼版小猫踏步，一分钟纯享~【AI MV大赛】",
+    "owner": {
+      "name": "枫青衡",
+      "mid": 370269586
+    },
+    "pubdate": 1793374054,
+    "duration": 65
+  },
+  "descriptionSha256": "cc8828268c7bd36b08035bf023f2db80b1ed53a06b0193549b6c409708c0b0ee",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "枫青衡",
+      "url": "https://space.bilibili.com/370269586"
+    }
+  ]
+}

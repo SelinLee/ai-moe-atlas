@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1oYnm6mEkX/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oYnm6mEkX",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:47:19.001Z",
+  "scope": "Official Bilibili view data verifies the upload identity, dates and cumulative likes. Credits use uploader descriptions.",
+  "metadata": {
+    "bvid": "BV1oYnm6mEkX",
+    "title": "大肥鱼用半粒米挖走了Claude大小姐，合同上还附赠了一条大肥鱼",
+    "owner": {
+      "name": "大肥鱼运营部",
+      "mid": 486068272
+    },
+    "pubdate": 1792662428,
+    "duration": 91
+  },
+  "descriptionSha256": "52ca095029db99ad3a11a5aafc03e6459e6db3eb8b3d1327c80a8a1c7cedb0f8",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "大肥鱼运营部",
+      "url": "https://space.bilibili.com/486068272"
+    }
+  ]
+}
