@@ -8013,5 +8013,87 @@
         }
       }
     }
+  },
+  {
+    "characterId": "fuh-nemotron-dual-forms",
+    "reviewedAt": "2026-11-27",
+    "reviewBasis": "The pinned setting names the creator, character license and the included NVIDIA mark. All thirteen original PNGs were verified against the Git tree and retained privately with SHA-256 hashes. The changelog dates the initial set and updates to four images.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/%E8%AE%BE%E5%AE%9A.md"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中 NVIDIA 标志适用 NVIDIA 品牌指南。图鉴提供作者原作入口。",
+          "en": "The creator marks this pinned character design and artwork CC BY-NC-SA 4.0. NVIDIA’s brand guidelines govern the NVIDIA mark in the artwork. The atlas links the creator’s originals.",
+          "ja": "固定版のキャラクターデザインと立ち絵に作者が CC BY-NC-SA 4.0 と明記。図中の NVIDIA ロゴには NVIDIA のブランドガイドラインが適用される。図鑑は作者の原作へのリンクを掲載。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中 NVIDIA 标志适用 NVIDIA 品牌指南。图鉴提供作者原作入口。",
+          "en": "The creator marks this pinned character design and artwork CC BY-NC-SA 4.0. NVIDIA’s brand guidelines govern the NVIDIA mark in the artwork. The atlas links the creator’s originals.",
+          "ja": "固定版のキャラクターデザインと立ち絵に作者が CC BY-NC-SA 4.0 と明記。図中の NVIDIA ロゴには NVIDIA のブランドガイドラインが適用される。図鑑は作者の原作へのリンクを掲載。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中 NVIDIA 标志适用 NVIDIA 品牌指南。图鉴提供作者原作入口。",
+          "en": "The creator marks this pinned character design and artwork CC BY-NC-SA 4.0. NVIDIA’s brand guidelines govern the NVIDIA mark in the artwork. The atlas links the creator’s originals.",
+          "ja": "固定版のキャラクターデザインと立ち絵に作者が CC BY-NC-SA 4.0 と明記。図中の NVIDIA ロゴには NVIDIA のブランドガイドラインが適用される。図鑑は作者の原作へのリンクを掲載。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中 NVIDIA 标志适用 NVIDIA 品牌指南。图鉴提供作者原作入口。",
+          "en": "The creator marks this pinned character design and artwork CC BY-NC-SA 4.0. NVIDIA’s brand guidelines govern the NVIDIA mark in the artwork. The atlas links the creator’s originals.",
+          "ja": "固定版のキャラクターデザインと立ち絵に作者が CC BY-NC-SA 4.0 と明記。図中の NVIDIA ロゴには NVIDIA のブランドガイドラインが適用される。図鑑は作者の原作へのリンクを掲載。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中 NVIDIA 标志适用 NVIDIA 品牌指南。图鉴提供作者原作入口。",
+          "en": "The creator marks this pinned character design and artwork CC BY-NC-SA 4.0. NVIDIA’s brand guidelines govern the NVIDIA mark in the artwork. The atlas links the creator’s originals.",
+          "ja": "固定版のキャラクターデザインと立ち絵に作者が CC BY-NC-SA 4.0 と明記。図中の NVIDIA ロゴには NVIDIA のブランドガイドラインが適用される。図鑑は作者の原作へのリンクを掲載。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中 NVIDIA 标志适用 NVIDIA 品牌指南。图鉴提供作者原作入口。",
+          "en": "The creator marks this pinned character design and artwork CC BY-NC-SA 4.0. NVIDIA’s brand guidelines govern the NVIDIA mark in the artwork. The atlas links the creator’s originals.",
+          "ja": "固定版のキャラクターデザインと立ち絵に作者が CC BY-NC-SA 4.0 と明記。図中の NVIDIA ロゴには NVIDIA のブランドガイドラインが適用される。図鑑は作者の原作へのリンクを掲載。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中 NVIDIA 标志适用 NVIDIA 品牌指南。图鉴提供作者原作入口。",
+          "en": "The creator marks this pinned character design and artwork CC BY-NC-SA 4.0. NVIDIA’s brand guidelines govern the NVIDIA mark in the artwork. The atlas links the creator’s originals.",
+          "ja": "固定版のキャラクターデザインと立ち絵に作者が CC BY-NC-SA 4.0 と明記。図中の NVIDIA ロゴには NVIDIA のブランドガイドラインが適用される。図鑑は作者の原作へのリンクを掲載。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中 NVIDIA 标志适用 NVIDIA 品牌指南。图鉴提供作者原作入口。",
+          "en": "The creator marks this pinned character design and artwork CC BY-NC-SA 4.0. NVIDIA’s brand guidelines govern the NVIDIA mark in the artwork. The atlas links the creator’s originals.",
+          "ja": "固定版のキャラクターデザインと立ち絵に作者が CC BY-NC-SA 4.0 と明記。図中の NVIDIA ロゴには NVIDIA のブランドガイドラインが適用される。図鑑は作者の原作へのリンクを掲載。"
+        }
+      }
+    }
   }
 ]

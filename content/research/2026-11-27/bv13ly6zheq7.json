@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV13Ly6zhEq7/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13Ly6zhEq7",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:42.787Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV13Ly6zhEq7",
+    "title": "【科普向】《小克，术式还没修完呢》",
+    "owner": {
+      "mid": 15475629,
+      "name": "Muto_66"
+    },
+    "pubdate": 1795596910,
+    "duration": 38
+  },
+  "descriptionSha256": "4b414e7dbc49e37efc2b5cf4dd068bd55ca531fd772f910c7d0fcec406620fd4",
+  "sourceLinks": [
+    {
+      "role": "source-article",
+      "title": "Anthropic · Developing a computer use model",
+      "url": "https://www.anthropic.com/news/developing-computer-use"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://www.pixiv.net/users/18604994"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "上善无形",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    }
+  ]
+}

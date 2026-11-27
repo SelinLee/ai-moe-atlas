@@ -1,0 +1,41 @@
+{
+  "url": "https://www.bilibili.com/video/BV119yCzcECj/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV119yCzcECj",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:52.764Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV119yCzcECj",
+    "title": "【免费网页可玩】把五位AI娘做成了UNDERTALE风格RPG！手机也能搓摇杆躲白米饭弹幕！",
+    "owner": {
+      "mid": 3747587163162701,
+      "name": "基米氖Neon"
+    },
+    "pubdate": 1795625225,
+    "duration": 42
+  },
+  "descriptionSha256": "d0cd38f1db9d31cf93dc8cccb8b9949d201e1704d792a9219949166992a6dfca",
+  "sourceLinks": [
+    {
+      "role": "linked-game",
+      "title": "Silicon Clinic",
+      "url": "https://banzhuanxueying114-coder.github.io/silicon-clinic/"
+    },
+    {
+      "role": "pinned-document",
+      "title": "Silicon Clinic · README.md",
+      "url": "https://github.com/banzhuanxueying114-coder/silicon-clinic/blob/a152aa2ed87117249fba6727b62aa71f50b4a145/README.md"
+    }
+  ],
+  "linkedGameDocumentation": {
+    "path": "README.md",
+    "url": "https://github.com/banzhuanxueying114-coder/silicon-clinic/blob/a152aa2ed87117249fba6727b62aa71f50b4a145/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/banzhuanxueying114-coder/silicon-clinic/a152aa2ed87117249fba6727b62aa71f50b4a145/README.md",
+    "sourceSha256": "96c84dcead044801fac3008445b036aae6f85ef408319e81cfe6246e0fc1a77d",
+    "gitBlobSha": "165040bbe2549c3e843b91b2fc624dada514c170",
+    "bytes": 2295,
+    "commit": "a152aa2ed87117249fba6727b62aa71f50b4a145",
+    "accessedAt": "2026-11-27T10:38:14.461Z"
+  }
+}

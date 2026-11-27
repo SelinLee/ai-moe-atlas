@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1dQHn6CEyd/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dQHn6CEyd",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:49.752Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV1dQHn6CEyd",
+    "title": "第39集l完啦，GLM和Gemini被大肥鱼职场训话啦",
+    "owner": {
+      "mid": 9126506,
+      "name": "Mistral法棍猫在运营"
+    },
+    "pubdate": 1791159226,
+    "duration": 33
+  },
+  "descriptionSha256": "71b85281ea97ab41c43fad8f2a9e11984ef1953c95fe9e4b772aaadbc056ad68",
+  "sourceLinks": []
+}

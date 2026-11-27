@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1dfy2zsE9g/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dfy2zsE9g",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:36.690Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV1dfy2zsE9g",
+    "title": "【AI娘旅行团】塔尖进来了吗？",
+    "owner": {
+      "mid": 3546871719004732,
+      "name": "chatgpt小龙娘在运营"
+    },
+    "pubdate": 1795741200,
+    "duration": 120
+  },
+  "descriptionSha256": "56ef26a675c23515c977fa55e661cccd93be6eb62130ca1f74fc9857eb6fa2ed",
+  "sourceLinks": [
+    {
+      "role": "uploader-cited-music",
+      "title": "Kevin MacLeod · Carefree",
+      "url": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037"
+    },
+    {
+      "role": "uploader-cited-artwork",
+      "title": "Supanut Arunoprayote · Oriental Pearl Tower",
+      "url": "https://commons.wikimedia.org/wiki/File:Lujiazui_Roundabout_and_Oriental_Pearl_Tower_20251126.jpg"
+    }
+  ]
+}

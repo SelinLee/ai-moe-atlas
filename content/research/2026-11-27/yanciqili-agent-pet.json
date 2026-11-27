@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/YanCiQiLi-dot/agent-pet/blob/c3cebf8546a56da29f7ea7b2a5e38188343925f8/README.md",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:37:07.713Z",
+  "scope": "Pinned author documentation and license were verified against Git blob and SHA-256, with upstream links where applicable.",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/YanCiQiLi-dot/agent-pet/blob/c3cebf8546a56da29f7ea7b2a5e38188343925f8/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/YanCiQiLi-dot/agent-pet/c3cebf8546a56da29f7ea7b2a5e38188343925f8/README.md",
+    "sourceSha256": "533e480f411ddf01260e2c6784f9a6966ab5ebfb880708b7f1af03009cbf2795",
+    "gitBlobSha": "8107b39f430d5a2de49b40aa37dbc2cf6e5e4488",
+    "bytes": 17342,
+    "commit": "c3cebf8546a56da29f7ea7b2a5e38188343925f8",
+    "accessedAt": "2026-11-27T10:37:07.713Z"
+  },
+  "repository": {
+    "full_name": "YanCiQiLi-dot/agent-pet",
+    "html_url": "https://github.com/YanCiQiLi-dot/agent-pet",
+    "stargazers_count": 1,
+    "archived": false,
+    "created_at": "2026-08-10T13:46:42Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "c3cebf8546a56da29f7ea7b2a5e38188343925f8",
+    "observedAt": "2026-11-27T10:35:59.822Z",
+    "httpStatus": 200,
+    "metadataSha256": "74b46d8ef4131978a8e8c4ff16f4af39117cd623fcc83ae1b3ce5704936bf17c",
+    "parent": null
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/YanCiQiLi-dot/agent-pet/blob/c3cebf8546a56da29f7ea7b2a5e38188343925f8/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/YanCiQiLi-dot/agent-pet/c3cebf8546a56da29f7ea7b2a5e38188343925f8/README.md",
+      "sourceSha256": "533e480f411ddf01260e2c6784f9a6966ab5ebfb880708b7f1af03009cbf2795",
+      "gitBlobSha": "8107b39f430d5a2de49b40aa37dbc2cf6e5e4488",
+      "bytes": 17342,
+      "commit": "c3cebf8546a56da29f7ea7b2a5e38188343925f8",
+      "accessedAt": "2026-11-27T10:37:07.713Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/YanCiQiLi-dot/agent-pet/blob/c3cebf8546a56da29f7ea7b2a5e38188343925f8/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/YanCiQiLi-dot/agent-pet/c3cebf8546a56da29f7ea7b2a5e38188343925f8/LICENSE",
+      "sourceSha256": "ec808a4b9b68529caffce0b2813a3e8f8d2992ba58815a6767d5e70580b9b0ad",
+      "gitBlobSha": "4c0407b6f1cbe881d2de9493f54d7d9732c8f824",
+      "bytes": 1069,
+      "commit": "c3cebf8546a56da29f7ea7b2a5e38188343925f8",
+      "accessedAt": "2026-11-27T10:37:08.094Z"
+    }
+  ],
+  "upstream": null
+}

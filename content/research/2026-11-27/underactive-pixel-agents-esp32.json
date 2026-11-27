@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/underactive/pixel-agents-esp32/blob/6ca74e56b1f236d434ed2eda9bca374dc4c6359e/README.md",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:37:11.200Z",
+  "scope": "Pinned author documentation and license were verified against Git blob and SHA-256, with upstream links where applicable.",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/underactive/pixel-agents-esp32/blob/6ca74e56b1f236d434ed2eda9bca374dc4c6359e/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/underactive/pixel-agents-esp32/6ca74e56b1f236d434ed2eda9bca374dc4c6359e/README.md",
+    "sourceSha256": "2c13ef9412e1450f61ca577d479137420c02fbc27f9fefbe0ee669ae78f0cfd0",
+    "gitBlobSha": "f0d07338228ac75caef7719c0d17262d1f2dd2a6",
+    "bytes": 22022,
+    "commit": "6ca74e56b1f236d434ed2eda9bca374dc4c6359e",
+    "accessedAt": "2026-11-27T10:37:11.200Z"
+  },
+  "repository": {
+    "full_name": "underactive/pixel-agents-esp32",
+    "html_url": "https://github.com/underactive/pixel-agents-esp32",
+    "stargazers_count": 7,
+    "archived": false,
+    "created_at": "2026-03-08T06:13:55Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "6ca74e56b1f236d434ed2eda9bca374dc4c6359e",
+    "observedAt": "2026-11-27T10:36:17.754Z",
+    "httpStatus": 200,
+    "metadataSha256": "9a7b8b15e02b57b6ca4291e9f1ea182b3bed86c3873d70a7ee24bc3e0fde508a",
+    "parent": null
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/underactive/pixel-agents-esp32/blob/6ca74e56b1f236d434ed2eda9bca374dc4c6359e/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/underactive/pixel-agents-esp32/6ca74e56b1f236d434ed2eda9bca374dc4c6359e/README.md",
+      "sourceSha256": "2c13ef9412e1450f61ca577d479137420c02fbc27f9fefbe0ee669ae78f0cfd0",
+      "gitBlobSha": "f0d07338228ac75caef7719c0d17262d1f2dd2a6",
+      "bytes": 22022,
+      "commit": "6ca74e56b1f236d434ed2eda9bca374dc4c6359e",
+      "accessedAt": "2026-11-27T10:37:11.200Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/underactive/pixel-agents-esp32/blob/6ca74e56b1f236d434ed2eda9bca374dc4c6359e/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/underactive/pixel-agents-esp32/6ca74e56b1f236d434ed2eda9bca374dc4c6359e/LICENSE",
+      "sourceSha256": "34cc129d6096b519e2f75fc9b35b1761c0795ca6bcf19fb5149fd38df80fb204",
+      "gitBlobSha": "a56c61a8033f1335a7380c4cc18e993239c24c64",
+      "bytes": 4642,
+      "commit": "6ca74e56b1f236d434ed2eda9bca374dc4c6359e",
+      "accessedAt": "2026-11-27T10:37:11.577Z"
+    }
+  ],
+  "upstream": null
+}

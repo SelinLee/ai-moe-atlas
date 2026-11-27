@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1vU1cztEsf/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vU1cztEsf",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:44.658Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV1vU1cztEsf",
+    "title": "带着大肥鱼穿越2006年 第五十七集【动画短片】",
+    "owner": {
+      "mid": 672414656,
+      "name": "不正经的游戏讲师"
+    },
+    "pubdate": 1795526898,
+    "duration": 65
+  },
+  "descriptionSha256": "ce535e596f78b4f5a40e8c799b5794b5674eeb821628d8e016ff65fff7936cde",
+  "sourceLinks": []
+}

@@ -1,0 +1,41 @@
+{
+  "previousEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json",
+    "sha256": "14ae1a4b41c5295932103d27fcbf191f9978171b0e86311aacc1010b2c49dcf7",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+    "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+    "kind": "browser-metadata-extract"
+  },
+  "capturedAt": "2026-11-27T10:36:59.182Z",
+  "queried": 29,
+  "addedToRanking": 23,
+  "existingCatalogRechecked": 0,
+  "pendingObservationCountRetained": 13,
+  "exclusions": [
+    {
+      "bvid": "BV1boyfz5ERW",
+      "reason": "The desktop-pet demo is already linked by ancient-kimi-work-and-desktop-pet."
+    },
+    {
+      "bvids": [
+        "BV1YSsW6WEYo",
+        "BV1txWH6MECP"
+      ],
+      "reason": "Analysis and commentary about character designs."
+    },
+    {
+      "bvids": [
+        "BV1K317zZEZ8",
+        "BV1huymzmE9z"
+      ],
+      "reason": "Fictional character commentary on current products. The specific product claims were outside this verification."
+    },
+    {
+      "bvid": "BV17R1Ez7E7p",
+      "reason": "The retrieved title and description do not establish the character relationship."
+    }
+  ]
+}

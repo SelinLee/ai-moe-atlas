@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1884g62E3y/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1884g62E3y",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:39.736Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV1884g62E3y",
+    "title": "鲸鱼娘挑战豆包，惨遭一腿秒杀！",
+    "owner": {
+      "mid": 3632319776688174,
+      "name": "阿豆好嘢"
+    },
+    "pubdate": 1793699617,
+    "duration": 18
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": []
+}

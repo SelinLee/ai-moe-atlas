@@ -1,0 +1,63 @@
+{
+  "url": "https://github.com/xiangking/agent-pet/blob/de49036a61090ffeaf7c1b3a1720653ad67f61ef/README.md",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:37:08.509Z",
+  "scope": "Pinned author documentation and license were verified against Git blob and SHA-256, with upstream links where applicable.",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/xiangking/agent-pet/blob/de49036a61090ffeaf7c1b3a1720653ad67f61ef/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/xiangking/agent-pet/de49036a61090ffeaf7c1b3a1720653ad67f61ef/README.md",
+    "sourceSha256": "af2b64be964a2fca3911451b6584ffcc6ffa89117f90b1962371647fcbaf8023",
+    "gitBlobSha": "a3fd7e9cdbdd4501d5f2607404d907e3723fbf04",
+    "bytes": 6879,
+    "commit": "de49036a61090ffeaf7c1b3a1720653ad67f61ef",
+    "accessedAt": "2026-11-27T10:37:08.509Z"
+  },
+  "repository": {
+    "full_name": "xiangking/agent-pet",
+    "html_url": "https://github.com/xiangking/agent-pet",
+    "stargazers_count": 23,
+    "archived": false,
+    "created_at": "2026-05-05T09:26:37Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "de49036a61090ffeaf7c1b3a1720653ad67f61ef",
+    "observedAt": "2026-11-27T10:36:04.119Z",
+    "httpStatus": 200,
+    "metadataSha256": "0ac8c0f9891310f0542b01dbc44280addd6ee2030348da1530eacbde7b612ca0",
+    "parent": null
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/xiangking/agent-pet/blob/de49036a61090ffeaf7c1b3a1720653ad67f61ef/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/xiangking/agent-pet/de49036a61090ffeaf7c1b3a1720653ad67f61ef/README.md",
+      "sourceSha256": "af2b64be964a2fca3911451b6584ffcc6ffa89117f90b1962371647fcbaf8023",
+      "gitBlobSha": "a3fd7e9cdbdd4501d5f2607404d907e3723fbf04",
+      "bytes": 6879,
+      "commit": "de49036a61090ffeaf7c1b3a1720653ad67f61ef",
+      "accessedAt": "2026-11-27T10:37:08.509Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/xiangking/agent-pet/blob/de49036a61090ffeaf7c1b3a1720653ad67f61ef/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/xiangking/agent-pet/de49036a61090ffeaf7c1b3a1720653ad67f61ef/LICENSE",
+      "sourceSha256": "5ecabe0aa1f31681103736d8532086af56d3a899ce48af715a04aaba980d8d17",
+      "gitBlobSha": "34097be46197d73c949ea68e45d02122c0c283c2",
+      "bytes": 1079,
+      "commit": "de49036a61090ffeaf7c1b3a1720653ad67f61ef",
+      "accessedAt": "2026-11-27T10:37:08.887Z"
+    },
+    {
+      "path": "ASSETS.md",
+      "url": "https://github.com/xiangking/agent-pet/blob/de49036a61090ffeaf7c1b3a1720653ad67f61ef/ASSETS.md",
+      "rawUrl": "https://raw.githubusercontent.com/xiangking/agent-pet/de49036a61090ffeaf7c1b3a1720653ad67f61ef/ASSETS.md",
+      "sourceSha256": "8aa5abf4e52928103eeae34259728a3eb3c54b3a2dc0f79dba0c30afcaf774fb",
+      "gitBlobSha": "a7aa046928a5eca73090798a5f71971a2f96ab09",
+      "bytes": 814,
+      "commit": "de49036a61090ffeaf7c1b3a1720653ad67f61ef",
+      "accessedAt": "2026-11-27T10:37:09.260Z"
+    }
+  ],
+  "upstream": null
+}

@@ -274,5 +274,11 @@
     "name": "Gemini Notebook / NotebookLM",
     "provider": "Google",
     "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/"
+  },
+  {
+    "id": "nvidia-nemotron",
+    "name": "NVIDIA Nemotron",
+    "provider": "NVIDIA",
+    "url": "https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/"
   }
 ]

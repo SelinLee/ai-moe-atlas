@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1nbHc6ZE67/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nbHc6ZE67",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:41.240Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV1nbHc6ZE67",
+    "title": "《画豆包》",
+    "owner": {
+      "mid": 3690980471474960,
+      "name": "Oo肥鱼O"
+    },
+    "pubdate": 1793056091,
+    "duration": 13
+  },
+  "descriptionSha256": "c485d87bbfc89cd31cc6ccdd47506af3fa863328e06d7928ac5e1c71ea11dce1",
+  "sourceLinks": []
+}

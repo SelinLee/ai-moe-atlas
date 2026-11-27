@@ -4,7 +4,7 @@
     "title": {"zh": "人是猫", "en": "Humans Are Cats", "ja": "人は猫"},
     "original": {"credit": "张卡斯 · 洛天依", "url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/"},
     "image": {"path": "collected/deep-whale-maid/delighted/preview.webp", "kind": "characterReference", "credit": "上善无形 → ZipZipPipe → Small-tailqwq", "source": "https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier"},
-    "versions": [{"id": "bv1fypn6sek9", "type": "cover"}, {"id": "bv1xxhd6see7", "type": "cover"}, {"id": "bv1tujd63ejp", "type": "mv"}, {"id": "bv1jn4y1z7hu", "type": "mv"}]
+    "versions": [{"id": "bv1fypn6sek9", "type": "cover"}, {"id": "bv1xxhd6see7", "type": "cover"}, {"id": "bv1tujd63ejp", "type": "mv"}, {"id": "bv1jn4y1z7hu", "type": "mv"}, {"id": "bv11kh76mezy", "type": "cover"}]
   },
   {
     "id": "let-me-go",
@@ -1030,5 +1030,11 @@
     "title": {"zh": "拔牙歌", "en": "The Tooth-pulling Song", "ja": "抜歯の歌"},
     "original": {"credit": "hanser · 樱桦", "url": "https://www.bilibili.com/video/BV1vx411v7Xs/"},
     "versions": [{"id": "bv1wdsp6mepp", "type": "cover"}]
+  },
+  {
+    "id": "blue-violet-galaxy-dream",
+    "title": {"zh": "蓝紫星河梦", "en": "Blue-Violet Galaxy Dream", "ja": "青紫の銀河の夢"},
+    "original": {"credit": "阴险嘟嘟莲 · MiniMax 音乐", "url": "https://www.bilibili.com/video/BV1JYyizaEDR/"},
+    "versions": [{"id": "bv1jyyizaedr", "type": "original-mv"}]
   }
 ]

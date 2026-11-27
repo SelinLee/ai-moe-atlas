@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1JYyizaEDR/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JYyizaEDR",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:38.204Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV1JYyizaEDR",
+    "title": "给“哈基米”写了一首专属原创主题曲！《蓝紫星河梦》｜Gemini娘个人MV",
+    "owner": {
+      "mid": 1063373286,
+      "name": "阴险嘟嘟莲"
+    },
+    "pubdate": 1795568569,
+    "duration": 142
+  },
+  "descriptionSha256": "25cffd57f22cc6475cad839d6bb0085c3c5d745b26956cb25663be072a6173f8",
+  "sourceLinks": []
+}

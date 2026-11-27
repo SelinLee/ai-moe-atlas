@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1TzHf6TEEn/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TzHf6TEEn",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:47.894Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV1TzHf6TEEn",
+    "title": "第44集l四大 AI 娘互推名场面",
+    "owner": {
+      "mid": 9126506,
+      "name": "Mistral法棍猫在运营"
+    },
+    "pubdate": 1791248436,
+    "duration": 35
+  },
+  "descriptionSha256": "a4de3b4163377b7bb05fbdbf9c5425627da05f06a963133a9130a33d55ea0eb7",
+  "sourceLinks": []
+}

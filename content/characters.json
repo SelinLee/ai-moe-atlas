@@ -5651,5 +5651,61 @@
       "en": "Anthropic’s image links are listed. Permission to republish or adapt the artwork remains unconfirmed.",
       "ja": "Anthropic の公開画像へのリンクを掲載。転載・改変の許可は確認待ち。"
     }
+  },
+  {
+    "id": "fuh-nemotron-dual-forms",
+    "entity": "nvidia-nemotron",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Nemotron 娘 · 甶丶双造型",
+      "en": "Nemotron Girl · 甶丶’s Two Designs",
+      "ja": "Nemotron 娘 · 甶丶の2形態"
+    },
+    "description": {
+      "zh": "甶丶为 NVIDIA Nemotron 创作的非官方拟人设定。奇幻侧是风轮炼金机工师，科幻侧是模块化涡轮架构师。两侧立绘各有 Nano、Super、Ultra 三档。",
+      "en": "甶丶’s unofficial NVIDIA Nemotron personification pairs a fantasy windwheel alchemist with a sci-fi modular turbine architect. Both designs have Nano, Super and Ultra portraits.",
+      "ja": "甶丶による NVIDIA Nemotron の非公式擬人化。ファンタジーの風車錬金技師と SF のモジュラータービン設計士で、各形態に Nano・Super・Ultra の立ち絵がある。"
+    },
+    "story": {
+      "zh": "甶丶为 NVIDIA Nemotron 创作的非官方拟人设定。奇幻侧是风轮炼金机工师，科幻侧是模块化涡轮架构师。两侧立绘各有 Nano、Super、Ultra 三档。",
+      "en": "甶丶’s unofficial NVIDIA Nemotron personification pairs a fantasy windwheel alchemist with a sci-fi modular turbine architect. Both designs have Nano, Super and Ultra portraits.",
+      "ja": "甶丶による NVIDIA Nemotron の非公式擬人化。ファンタジーの風車錬金技師と SF のモジュラータービン設計士で、各形態に Nano・Super・Ultra の立ち絵がある。"
+    },
+    "features": {
+      "zh": "石墨黑发、酸橙绿挑染和机械小曼巴贯穿双线。作者另附两张三视图、一张补充设定、两张 Q 版和两张头像。",
+      "en": "Graphite hair, lime-green highlights and a small mechanical mamba tie the designs together. The release includes two turnarounds, a design sheet, two chibi drawings and two avatars.",
+      "ja": "黒鉛色の髪、ライムグリーンの差し色、小さな機械のマンバが共通。三面図2枚、補足設定1枚、ちび絵2枚、アイコン2枚を収録。"
+    },
+    "author": "甶丶",
+    "authorUrl": "https://space.bilibili.com/1758596086",
+    "source": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/%E8%AE%BE%E5%AE%9A.md",
+    "sourceTitle": "Nemotron 娘 · 设定.md",
+    "originalPublication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/%E8%AE%BE%E5%AE%9A.md",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/%E8%AE%BE%E5%AE%9A.md"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+    "downloadable": false,
+    "bg": "#eef3de",
+    "color": "#3a5309",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中 NVIDIA 标志适用 NVIDIA 品牌指南。图鉴提供作者原作入口。",
+      "en": "The creator marks this pinned character design and artwork CC BY-NC-SA 4.0. NVIDIA’s brand guidelines govern the NVIDIA mark in the artwork. The atlas links the creator’s originals.",
+      "ja": "固定版のキャラクターデザインと立ち絵に作者が CC BY-NC-SA 4.0 と明記。図中の NVIDIA ロゴには NVIDIA のブランドガイドラインが適用される。図鑑は作者の原作へのリンクを掲載。"
+    }
   }
 ]

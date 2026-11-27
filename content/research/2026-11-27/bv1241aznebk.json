@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1241AznEBK/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1241AznEBK",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:54.634Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV1241AznEBK",
+    "title": "Kimi 想入伙 AI 合租屋，结果衣服还没做好…【AI 娘日常 #1】",
+    "owner": {
+      "mid": 290011015,
+      "name": "廖文涛涛"
+    },
+    "pubdate": 1795542735,
+    "duration": 61
+  },
+  "descriptionSha256": "14cbb0cd38b2396074424d2f4502bef387f77823044939c653578e0f754fd8ba",
+  "sourceLinks": []
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Lhni6nEU3/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Lhni6nEU3",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:53.122Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV1Lhni6nEU3",
+    "title": "让大肥鱼做宠物同人游戏，嘴上认真测试，实则偷偷开玩",
+    "owner": {
+      "mid": 9126506,
+      "name": "Mistral法棍猫在运营"
+    },
+    "pubdate": 1792543747,
+    "duration": 16
+  },
+  "descriptionSha256": "e2d061691c459bd08e4b710a275cea83a111044e14cf218dcf473ae99332b265",
+  "sourceLinks": []
+}

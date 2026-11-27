@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV112nC6pE2M/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV112nC6pE2M",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:46.163Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV112nC6pE2M",
+    "title": "躲在glm尾巴里不想工作的大肥鱼，被gpt抓住后反制裁gpt",
+    "owner": {
+      "mid": 324021038,
+      "name": "安保不是安宝"
+    },
+    "pubdate": 1792634839,
+    "duration": 30
+  },
+  "descriptionSha256": "d793a7775ed36c7e9e406e91c853bff1c41266d4204bcb182e73c04b5ccb2a8f",
+  "sourceLinks": []
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1FeymzhE5r/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1FeymzhE5r",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:51.264Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV1FeymzhE5r",
+    "title": "7个AI玩谁是卧底，大肥鱼竟是游戏黑洞！【阿斯特拉茶话会3】",
+    "owner": {
+      "mid": 239757,
+      "name": "洛莉娅不加班"
+    },
+    "pubdate": 1795653803,
+    "duration": 992
+  },
+  "descriptionSha256": "c262d026a3da7ebbe8552c24375bbfab9c815a84e4f9d872c0df29e660fc3935",
+  "sourceLinks": []
+}

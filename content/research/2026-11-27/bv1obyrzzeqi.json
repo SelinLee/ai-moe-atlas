@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1obyrzzEqi/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1obyrzzEqi",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:51.257Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV1obyrzzEqi",
+    "title": "大肥鱼捏泡泡纸",
+    "owner": {
+      "mid": 28435659,
+      "name": "迭代_world"
+    },
+    "pubdate": 1795752000,
+    "duration": 16
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": []
+}

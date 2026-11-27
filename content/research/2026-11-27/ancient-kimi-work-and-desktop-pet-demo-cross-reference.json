@@ -1,0 +1,35 @@
+{
+  "url": "https://github.com/Ancientandmodern/kimi-desktop-pet/blob/61707f60edd59a205808d43627f2dc2ce8680b38/README.md",
+  "accessedAt": "2026-11-27T10:36:44.293Z",
+  "previousEvidence": {
+    "path": "content/research/2026-11-25/ancient-kimi-work-and-desktop-pet.json",
+    "sha256": "f022288edc52cc66d0b26492fee84b8bebed03ed0b568a4eaa9e8ec5421caa2a",
+    "kind": "browser-metadata-extract"
+  },
+  "pinnedReadme": {
+    "path": "README.md",
+    "url": "https://github.com/Ancientandmodern/kimi-desktop-pet/blob/61707f60edd59a205808d43627f2dc2ce8680b38/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Ancientandmodern/kimi-desktop-pet/61707f60edd59a205808d43627f2dc2ce8680b38/README.md",
+    "sourceSha256": "15bc26b42ae02755f097ecde0f2217ab9f319a7f03b74146588916196a7e4a46",
+    "gitBlobSha": "c94ff8aee69eaf91e2c0970b726ca86744c00418",
+    "bytes": 6542,
+    "commit": "61707f60edd59a205808d43627f2dc2ce8680b38",
+    "accessedAt": "2026-11-27T10:38:14.861Z"
+  },
+  "demo": {
+    "url": "https://www.bilibili.com/video/BV1boyfz5ERW/",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1boyfz5ERW",
+    "httpStatus": 200,
+    "code": 0,
+    "bvid": "BV1boyfz5ERW",
+    "observedAt": "2026-11-27T10:36:44.293Z",
+    "publisher": "叶人期",
+    "publisherId": 1400109184,
+    "descriptionSha256": "d924a6c35671597925fea011b028a8a65ff0cc621fcff37f61371058e032d5e4"
+  },
+  "originalCharacter": {
+    "author": "ZipZipPipe",
+    "publication": "https://www.pixiv.net/artworks/148186519"
+  },
+  "httpStatus": 200
+}

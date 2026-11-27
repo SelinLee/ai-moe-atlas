@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1tbyJzcEbp/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tbyJzcEbp",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:42.751Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV1tbyJzcEbp",
+    "title": "mj宇宙之扎啤大肥鱼",
+    "owner": {
+      "mid": 91543177,
+      "name": "pigeon189"
+    },
+    "pubdate": 1795400743,
+    "duration": 36
+  },
+  "descriptionSha256": "6c390f477f8758f2e7dde3c4f8938d22b9c9f193910161d6fc56a065db934745",
+  "sourceLinks": []
+}

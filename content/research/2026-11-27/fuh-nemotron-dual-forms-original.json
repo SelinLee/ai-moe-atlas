@@ -1,0 +1,212 @@
+{
+  "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/%E8%AE%BE%E5%AE%9A.md",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:37:06.452Z",
+  "scope": "The pinned setting names the creator, character license and the included NVIDIA mark. All thirteen original PNGs were verified against the Git tree and retained privately with SHA-256 hashes. The changelog dates the initial set and updates to four images.",
+  "attribution": [
+    {
+      "name": "甶丶",
+      "url": "https://space.bilibili.com/1758596086",
+      "role": "original-character",
+      "publication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/%E8%AE%BE%E5%AE%9A.md"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "角色/nemotron/设定.md",
+    "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/%E8%AE%BE%E5%AE%9A.md",
+    "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/%E8%AE%BE%E5%AE%9A.md",
+    "sourceSha256": "9925e1c63e9e26a646dafe032532a286eb5fd3562e7e69a428c8413280961cf7",
+    "gitBlobSha": "81bf9462ef817364689198e7d4d2d2743abd6fdd",
+    "bytes": 4659,
+    "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+    "accessedAt": "2026-11-27T10:37:06.452Z"
+  },
+  "repository": "fuzhu-ai-chan/ai-chan-designs",
+  "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+  "version": "v1.13.1",
+  "firstPublication": "2026-11-27",
+  "artistLicense": "CC BY-NC-SA 4.0",
+  "brandGuidelines": "https://www.nvidia.com/en-us/about-nvidia/legal-info/logo-brand-usage/",
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/README.md",
+      "sourceSha256": "167fbf0c34adc24907d464c0754f6180f68c7f6373403ae55158990c47e3f35f",
+      "gitBlobSha": "3aa8e603f96230cc2c10f426c99e3947a1f69fd9",
+      "bytes": 6383,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:36:54.767Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/LICENSE",
+      "sourceSha256": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11",
+      "gitBlobSha": "baee873b679e36a4123c83b8a29e0fb17fad14eb",
+      "bytes": 19018,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:36:55.140Z"
+    },
+    {
+      "path": "版权与授权.md",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+      "sourceSha256": "50b17ef47d1ffb316624abc5b8972314281dad431631f89b1bcf00ec91d580eb",
+      "gitBlobSha": "99c0cdd2dea890a599b933752dbc43b904e0aaf8",
+      "bytes": 3790,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:36:55.495Z"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/CHANGELOG.md",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/CHANGELOG.md",
+      "sourceSha256": "fc20c5c10297af837f64e5c0818abcf60c4f21502b1afea7cab58fca21ec7ea6",
+      "gitBlobSha": "80cacf5d2b4dbd292a9b10402b48462525256492",
+      "bytes": 26059,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:36:55.907Z"
+    },
+    {
+      "path": "角色/nemotron/01_立绘/nemotron a 中.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/01_%E7%AB%8B%E7%BB%98/nemotron%20a%20%E4%B8%AD.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/01_%E7%AB%8B%E7%BB%98/nemotron%20a%20%E4%B8%AD.png",
+      "sourceSha256": "650741fcaf842a3825060e0fc92b9a59cde793ccc445b14954f9710a9b2a617e",
+      "gitBlobSha": "57c6625147d016a0e7defcbafedbb99785cf7430",
+      "bytes": 2064937,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:36:57.403Z"
+    },
+    {
+      "path": "角色/nemotron/01_立绘/nemotron a 大.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/01_%E7%AB%8B%E7%BB%98/nemotron%20a%20%E5%A4%A7.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/01_%E7%AB%8B%E7%BB%98/nemotron%20a%20%E5%A4%A7.png",
+      "sourceSha256": "0728734c9f00dda4da4d481f8d1bf9cb13e450becb8cfde7dc614987b7925e1e",
+      "gitBlobSha": "f9f9cc1f3bd18c100536a03f49d191bb42b4c533",
+      "bytes": 2263994,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:36:58.076Z"
+    },
+    {
+      "path": "角色/nemotron/01_立绘/nemotron a 小.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/01_%E7%AB%8B%E7%BB%98/nemotron%20a%20%E5%B0%8F.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/01_%E7%AB%8B%E7%BB%98/nemotron%20a%20%E5%B0%8F.png",
+      "sourceSha256": "9f0f26853b970d23432288b813a87d888e477fc4ba54c6289e6be9955756b773",
+      "gitBlobSha": "3153a24440ed845e04afdaaf46e2aa9cf2b9661c",
+      "bytes": 1355681,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:36:58.859Z"
+    },
+    {
+      "path": "角色/nemotron/01_立绘/nemotron b 中.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/01_%E7%AB%8B%E7%BB%98/nemotron%20b%20%E4%B8%AD.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/01_%E7%AB%8B%E7%BB%98/nemotron%20b%20%E4%B8%AD.png",
+      "sourceSha256": "904f6c6c3d3069011226d9db374c102ca6ef6a773fc1905145ff8ed1f7df1db3",
+      "gitBlobSha": "5d74d9132e436da7fe603bee871633baded48044",
+      "bytes": 1811642,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:36:59.644Z"
+    },
+    {
+      "path": "角色/nemotron/01_立绘/nemotron b 大.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/01_%E7%AB%8B%E7%BB%98/nemotron%20b%20%E5%A4%A7.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/01_%E7%AB%8B%E7%BB%98/nemotron%20b%20%E5%A4%A7.png",
+      "sourceSha256": "9bec64e50d67cef020e8238130d7184fd0484220730243e0135c751dfff1e033",
+      "gitBlobSha": "d877f5a5d26c6fef5f3acc49df7047f9c10fa1e9",
+      "bytes": 2153075,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:37:00.440Z"
+    },
+    {
+      "path": "角色/nemotron/01_立绘/nemotron b 小.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/01_%E7%AB%8B%E7%BB%98/nemotron%20b%20%E5%B0%8F.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/01_%E7%AB%8B%E7%BB%98/nemotron%20b%20%E5%B0%8F.png",
+      "sourceSha256": "6ed3e9d2cd125b9a6ee8566248035b04e385672fe8626c06156da65443cf5519",
+      "gitBlobSha": "84d539401c7e01e405a0d8df4634674b7ac7e36d",
+      "bytes": 1226578,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:37:01.204Z"
+    },
+    {
+      "path": "角色/nemotron/02_三视图/nemotron 三视图 奇幻.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/02_%E4%B8%89%E8%A7%86%E5%9B%BE/nemotron%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E5%A5%87%E5%B9%BB.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/02_%E4%B8%89%E8%A7%86%E5%9B%BE/nemotron%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E5%A5%87%E5%B9%BB.png",
+      "sourceSha256": "1863cc65381b767805b97d723709dd19110ab6955379419a3f43b0ec4628af29",
+      "gitBlobSha": "7afad7ea8ac192eb2bddcee4d4faced8a7b1e22e",
+      "bytes": 1667783,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:37:01.982Z"
+    },
+    {
+      "path": "角色/nemotron/02_三视图/nemotron 三视图 科技.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/02_%E4%B8%89%E8%A7%86%E5%9B%BE/nemotron%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E7%A7%91%E6%8A%80.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/02_%E4%B8%89%E8%A7%86%E5%9B%BE/nemotron%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E7%A7%91%E6%8A%80.png",
+      "sourceSha256": "848c1fac7c136cd2106d5b446f3b2798f5885860bf512a92b606ac9707d81d0d",
+      "gitBlobSha": "32d0878f23d690642b35a924ce2aa4bed8c7b0f4",
+      "bytes": 1468446,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:37:02.749Z"
+    },
+    {
+      "path": "角色/nemotron/03_补充设定/nemotron 补充设定.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/03_%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A/nemotron%20%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/03_%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A/nemotron%20%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A.png",
+      "sourceSha256": "e355c3d728db8eda28a24e1586ebbdd331149573378de2d11f7c0a131337f8b8",
+      "gitBlobSha": "5ceadd5883172ddcc9ef51b538b9201e35d39b30",
+      "bytes": 2059175,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:37:03.584Z"
+    },
+    {
+      "path": "角色/nemotron/04_Q版/nemotron Q版 a.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/04_Q%E7%89%88/nemotron%20Q%E7%89%88%20a.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/04_Q%E7%89%88/nemotron%20Q%E7%89%88%20a.png",
+      "sourceSha256": "7f510fe64051793399f9c8c27e4b44d0ebbf65cdb9843870edf1b0be277926e7",
+      "gitBlobSha": "54693d58e132674b16367f5adadac24592bf8a1b",
+      "bytes": 1479033,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:37:04.226Z"
+    },
+    {
+      "path": "角色/nemotron/04_Q版/nemotron Q版 b.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/04_Q%E7%89%88/nemotron%20Q%E7%89%88%20b.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/04_Q%E7%89%88/nemotron%20Q%E7%89%88%20b.png",
+      "sourceSha256": "968421d944614e21bc721908d6ce5d8bc82cde70ab4b7eea071a1e9f6ef88ecc",
+      "gitBlobSha": "fa39bc1f36f85f828f39e48b3f2a2ab75a23b55e",
+      "bytes": 1382427,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:37:04.843Z"
+    },
+    {
+      "path": "角色/nemotron/05_头像/nemotron 头像 a.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/05_%E5%A4%B4%E5%83%8F/nemotron%20%E5%A4%B4%E5%83%8F%20a.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/05_%E5%A4%B4%E5%83%8F/nemotron%20%E5%A4%B4%E5%83%8F%20a.png",
+      "sourceSha256": "6fd75774ff9456659a77f193580cfdfff6c4d597ffc39268a13407cf92f7a3d1",
+      "gitBlobSha": "f18ff7875259d3d2d120035598d4ece7c9ce92f8",
+      "bytes": 1569438,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:37:05.451Z"
+    },
+    {
+      "path": "角色/nemotron/05_头像/nemotron 头像 b.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/05_%E5%A4%B4%E5%83%8F/nemotron%20%E5%A4%B4%E5%83%8F%20b.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/05_%E5%A4%B4%E5%83%8F/nemotron%20%E5%A4%B4%E5%83%8F%20b.png",
+      "sourceSha256": "c19d3bcd44e982402c90c5421283167ba95c80a7ff4c47a970b238bcadd3b80e",
+      "gitBlobSha": "0a4cac796c53eb77a501ae087d177c582ef08ba7",
+      "bytes": 1499238,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:37:06.070Z"
+    },
+    {
+      "path": "角色/nemotron/设定.md",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/%E8%AE%BE%E5%AE%9A.md",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/%E8%AE%BE%E5%AE%9A.md",
+      "sourceSha256": "9925e1c63e9e26a646dafe032532a286eb5fd3562e7e69a428c8413280961cf7",
+      "gitBlobSha": "81bf9462ef817364689198e7d4d2d2743abd6fdd",
+      "bytes": 4659,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:37:06.452Z"
+    }
+  ]
+}

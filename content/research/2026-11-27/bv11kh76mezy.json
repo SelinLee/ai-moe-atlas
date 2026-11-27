@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV11KH76mEzY/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV11KH76mEzY",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:47.670Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV11KH76mEzY",
+    "title": "屑狐狸GLM的人是猫！？",
+    "owner": {
+      "mid": 510492904,
+      "name": "猫柚无无"
+    },
+    "pubdate": 1791163800,
+    "duration": 62
+  },
+  "descriptionSha256": "4d8e56409774cc2e6c7176513ee9fe15dd5e1ba2f9436e36c1926720e2f3d5ba",
+  "sourceLinks": [
+    {
+      "role": "song-author-release",
+      "title": "张卡斯 · 洛天依 · 人是猫",
+      "url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/"
+    },
+    {
+      "role": "uploader-cited-upload",
+      "title": "DeepSeek · 人是猫",
+      "url": "https://www.bilibili.com/video/BV1KmMy6tEJd/"
+    }
+  ]
+}

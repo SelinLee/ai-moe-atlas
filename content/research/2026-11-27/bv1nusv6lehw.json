@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1NUsV6LEhw/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NUsV6LEhw",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:39.736Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV1NUsV6LEhw",
+    "title": "豆包造型大改造！从绿皮圆球到机娘少女｜AI代码逐帧动画",
+    "owner": {
+      "mid": 3546933616446215,
+      "name": "抽象的小猫猫"
+    },
+    "pubdate": 1794659648,
+    "duration": 109
+  },
+  "descriptionSha256": "a4818d1ffa94c18c9b84000a79cef024de2d9b66e8823220d8c5f7eb3b34eef3",
+  "sourceLinks": []
+}

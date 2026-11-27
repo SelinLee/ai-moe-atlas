@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1pysn6cEr2/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pysn6cEr2",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:56.159Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV1pysn6cEr2",
+    "title": "克劳德大小姐和GPT龙娘合租了一个B站号，第一天就封了一个",
+    "owner": {
+      "mid": 452334321,
+      "name": "GPT酱xClaude酱"
+    },
+    "pubdate": 1794721334,
+    "duration": 41
+  },
+  "descriptionSha256": "9d4940f3ee6516b1d6e11b84203f047755a6bbd4cf585c017240af9f898292ff",
+  "sourceLinks": []
+}

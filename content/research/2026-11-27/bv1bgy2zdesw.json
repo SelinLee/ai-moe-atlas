@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1BGy2zdEsW/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BGy2zdEsW",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:38.220Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV1BGy2zdEsW",
+    "title": "《别点开我的思考框！》—当你手滑点开了 Gemini 的 ▶Thinking...【AI娘原创动画MV】",
+    "owner": {
+      "mid": 1420030,
+      "name": "节操丛雨酱"
+    },
+    "pubdate": 1795667231,
+    "duration": 166
+  },
+  "descriptionSha256": "dc41b5452829b30a00c62ef431be0f76737107e356e3c9db38d0c64c6bfd308a",
+  "sourceLinks": []
+}

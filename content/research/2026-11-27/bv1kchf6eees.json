@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1KCHf6eEES/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KCHf6eEES",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:46.168Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV1KCHf6eEES",
+    "title": "当八大AI娘化身醉八仙，AI会武术，谁也挡不住。",
+    "owner": {
+      "mid": 383688960,
+      "name": "士多啤梨摄像机"
+    },
+    "pubdate": 1791276479,
+    "duration": 234
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": []
+}

@@ -1,0 +1,53 @@
+{
+  "url": "https://github.com/Ramirez0291/physics-clawd-pet/blob/933a92e51f0c1134afc098e934db01cc1d51f4f9/README.md",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:37:10.444Z",
+  "scope": "Pinned author documentation and license were verified against Git blob and SHA-256, with upstream links where applicable.",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/Ramirez0291/physics-clawd-pet/blob/933a92e51f0c1134afc098e934db01cc1d51f4f9/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Ramirez0291/physics-clawd-pet/933a92e51f0c1134afc098e934db01cc1d51f4f9/README.md",
+    "sourceSha256": "d28b1dfe870cd62c442c6199184ece563ded00d0970089b695fa4fbaa4b406da",
+    "gitBlobSha": "b7412d113555f2aa086ead6b6c7d6fbbb6ddc23d",
+    "bytes": 13219,
+    "commit": "933a92e51f0c1134afc098e934db01cc1d51f4f9",
+    "accessedAt": "2026-11-27T10:37:10.444Z"
+  },
+  "repository": {
+    "full_name": "Ramirez0291/physics-clawd-pet",
+    "html_url": "https://github.com/Ramirez0291/physics-clawd-pet",
+    "stargazers_count": 16,
+    "archived": false,
+    "created_at": "2026-10-09T14:37:31Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "933a92e51f0c1134afc098e934db01cc1d51f4f9",
+    "observedAt": "2026-11-27T10:36:12.827Z",
+    "httpStatus": 200,
+    "metadataSha256": "118806a7538aa528fd2d5dbcc9c04e12f96f9ecb0b9885877bdd8b66a696b254",
+    "parent": null
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/Ramirez0291/physics-clawd-pet/blob/933a92e51f0c1134afc098e934db01cc1d51f4f9/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Ramirez0291/physics-clawd-pet/933a92e51f0c1134afc098e934db01cc1d51f4f9/README.md",
+      "sourceSha256": "d28b1dfe870cd62c442c6199184ece563ded00d0970089b695fa4fbaa4b406da",
+      "gitBlobSha": "b7412d113555f2aa086ead6b6c7d6fbbb6ddc23d",
+      "bytes": 13219,
+      "commit": "933a92e51f0c1134afc098e934db01cc1d51f4f9",
+      "accessedAt": "2026-11-27T10:37:10.444Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/Ramirez0291/physics-clawd-pet/blob/933a92e51f0c1134afc098e934db01cc1d51f4f9/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Ramirez0291/physics-clawd-pet/933a92e51f0c1134afc098e934db01cc1d51f4f9/LICENSE",
+      "sourceSha256": "e8e6247691aec67486a4cb5697f7ea766432fda090293ab3472abcd746648324",
+      "gitBlobSha": "68ba658689fb5782e7defc71e503ca5bce5afae7",
+      "bytes": 1215,
+      "commit": "933a92e51f0c1134afc098e934db01cc1d51f4f9",
+      "accessedAt": "2026-11-27T10:37:10.825Z"
+    }
+  ],
+  "upstream": null
+}

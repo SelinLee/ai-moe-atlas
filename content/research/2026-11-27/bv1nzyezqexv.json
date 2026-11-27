@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1NZyezqExV/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NZyezqExV",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:54.641Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV1NZyezqExV",
+    "title": "《AI公寓第二集》",
+    "owner": {
+      "mid": 1818483332,
+      "name": "肥鱼の白饭"
+    },
+    "pubdate": 1795352400,
+    "duration": 255
+  },
+  "descriptionSha256": "4fb59e4fca7aebbf449f873d57c9ac0ceec749b570ccab7d7d1b81322d99f144",
+  "sourceLinks": []
+}

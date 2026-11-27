@@ -3,8 +3,8 @@
   "updatedAt": "2026-11-27",
   "scope": "source-metadata-only",
   "pendingAnimationEvidence": {
-    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json",
-    "sha256": "14ae1a4b41c5295932103d27fcbf191f9978171b0e86311aacc1010b2c49dcf7",
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+    "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
     "kind": "browser-metadata-extract"
   },
   "records": [
@@ -64748,16 +64748,16 @@
         "ja": "ZipZipPipe の原型と GPT 生成派生を明記。固定ツリーに画像別許可ファイルがなく、出典のみ掲載。"
       },
       "evidence": {
-        "path": "content/research/2026-11-25/ancient-kimi-work-and-desktop-pet.json",
-        "sha256": "f022288edc52cc66d0b26492fee84b8bebed03ed0b568a4eaa9e8ec5421caa2a",
+        "path": "content/research/2026-11-27/ancient-kimi-work-and-desktop-pet-demo-cross-reference.json",
+        "sha256": "e66264fe19f373dd222377d32a802cb10627bbafaba7f975783aa95b4bcb35b6",
         "kind": "browser-metadata-extract"
       },
       "verification": {
         "result": "metadata-verified",
         "method": "github-rest-tree-and-isolated-headless-google-chrome",
-        "attemptedAt": "2026-11-25T09:26:22.321Z",
+        "attemptedAt": "2026-11-27T10:36:44.293Z",
         "httpStatus": 200,
-        "scope": "Pinned documentation verified by Git blob and SHA-256. Feature descriptions are from the project documents; runtime not tested."
+        "scope": "The pinned project documentation was verified against Git blob and SHA-256. The creator’s linked Bilibili demo credits ZipZipPipe, whose primary Kimi publication is linked."
       },
       "relations": [
         {
@@ -64774,6 +64774,11 @@
           "role": "linked-public-demo",
           "title": "叶人期 · Kimi Work / Kimi Code 兼容桌宠",
           "url": "https://www.bilibili.com/video/BV1boyfz5ERW/"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe · Kimi",
+          "url": "https://www.pixiv.net/artworks/148186519"
         }
       ],
       "addedAt": "2026-11-25",
@@ -84888,6 +84893,1873 @@
         "attemptedAt": "2026-11-27T10:23:50.056Z",
         "httpStatus": 200,
         "scope": "Release identity verified on the official anime or distributor page. Relationship to the pending BV is based on its retained title. The candidate’s exact audio and recording were not established."
+      }
+    },
+    {
+      "id": "bv1dfy2zse9g",
+      "category": "animation",
+      "title": {
+        "zh": "AI 娘旅行团 · 塔尖进来了吗",
+        "en": "AI Girls Travel Club · Is the Tower in Frame?",
+        "ja": "AI 娘旅行団 · 塔の先端まで入った？"
+      },
+      "summary": {
+        "zh": "短片讲述 AI 娘旅行团在东方明珠塔下拍合照。发布者列出配乐、建筑参考和音效。",
+        "en": "The AI girls try to fit the Oriental Pearl Tower into a group photo. The uploader credits the soundtrack, building reference and sound effects.",
+        "ja": "AI 娘旅行団が東方明珠塔の下で集合写真を撮る短編。音楽、建物の参照元、効果音を投稿者が記載。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "chatgpt小龙娘在运营",
+      "url": "https://www.bilibili.com/video/BV1dfy2zsE9g/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "chatgpt小龙娘在运营",
+          "url": "https://space.bilibili.com/3546871719004732"
+        },
+        {
+          "role": "uploader-cited-music",
+          "title": "Kevin MacLeod · Carefree",
+          "url": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037"
+        },
+        {
+          "role": "uploader-cited-artwork",
+          "title": "Supanut Arunoprayote · Oriental Pearl Tower",
+          "url": "https://commons.wikimedia.org/wiki/File:Lujiazui_Roundabout_and_Oriental_Pearl_Tower_20251126.jpg"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-27",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:36.690Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1dfy2zse9g.json",
+        "sha256": "df3d8b00536bd0fa30356453bd7f3bacdee866d92994c1d5f2dbcc9861a94e82",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1dfy2zsE9g",
+      "subtype": "story",
+      "sourceTitle": "【AI娘旅行团】塔尖进来了吗？",
+      "publishedAt": "2026-11-27T01:00:00.000Z",
+      "likes": {
+        "count": 35,
+        "observedAt": "2026-11-27T10:36:36.690Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dfy2zsE9g",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1ekyszterh",
+      "category": "animation",
+      "title": {
+        "zh": "GPT 龙娘 · 欧几里得节奏舞",
+        "en": "GPT Dragon Girl · Euclidean Rhythm Dance",
+        "ja": "GPT 竜娘 · ユークリッドリズムダンス"
+      },
+      "summary": {
+        "zh": "发布者说明用 WebGL 处理画面及 Web Audio 生成鼓点，制作 40 秒循环。",
+        "en": "A forty-second loop. The uploader describes WebGL compositing and Web Audio percussion.",
+        "ja": "40秒のループ。投稿者は WebGL の合成と Web Audio のドラム音について説明。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "hero1157",
+      "url": "https://www.bilibili.com/video/BV1eKySztERH/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "hero1157",
+          "url": "https://space.bilibili.com/451569945"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-26",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:36.690Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1ekyszterh.json",
+        "sha256": "1289a6a4b03f9eab69a21e1c8aff178dd4202d103805d2191f691dfd4fe18998",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1eKySztERH",
+      "subtype": "dance",
+      "sourceTitle": "Gemini4neon 代码生成：暗夜高街 GPT 龙娘 40 秒欧几里得节奏舞",
+      "publishedAt": "2026-11-26T05:34:25.000Z",
+      "likes": {
+        "count": 43,
+        "observedAt": "2026-11-27T10:36:36.690Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eKySztERH",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1bgy2zdesw",
+      "category": "animation",
+      "title": {
+        "zh": "Gemini 娘 · 别点开我的思考框",
+        "en": "Gemini Girl · Don’t Open My Thinking Panel",
+        "ja": "Gemini 娘 · 思考パネルを開けないで"
+      },
+      "summary": {
+        "zh": "以 Gemini 的思考面板为故事起点。原投稿注明 Suno 音乐。",
+        "en": "The story begins with Gemini’s thinking panel. The uploader credits Suno for the music.",
+        "ja": "Gemini の思考パネルから始まる物語。投稿説明欄に Suno の楽曲と記載。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "节操丛雨酱",
+      "url": "https://www.bilibili.com/video/BV1BGy2zdEsW/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "节操丛雨酱",
+          "url": "https://space.bilibili.com/1420030"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-26",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:38.220Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1bgy2zdesw.json",
+        "sha256": "c01d9fc7a783e8204766c2f2dab1745ff05c1458078dc5a40b5c713c4caa5cdd",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1BGy2zdEsW",
+      "subtype": "mv",
+      "sourceTitle": "《别点开我的思考框！》—当你手滑点开了 Gemini 的 ▶Thinking...【AI娘原创动画MV】",
+      "publishedAt": "2026-11-26T04:27:11.000Z",
+      "likes": {
+        "count": 203,
+        "observedAt": "2026-11-27T10:36:38.220Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BGy2zdEsW",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1jyyizaedr",
+      "category": "animation",
+      "title": {
+        "zh": "蓝紫星河梦 · Gemini 娘主题曲",
+        "en": "Blue-Violet Galaxy Dream · Gemini Girl Theme",
+        "ja": "青紫の銀河の夢 · Gemini 娘のテーマ曲"
+      },
+      "summary": {
+        "zh": "发布者注明《蓝紫星河梦》为 Gemini 娘原创主题曲，使用 MiniMax 音乐制作。",
+        "en": "The uploader credits MiniMax Music and presents the track as an original Gemini Girl theme.",
+        "ja": "投稿者が Gemini 娘のオリジナルテーマ曲として公開。MiniMax Music による制作と記載。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "阴险嘟嘟莲",
+      "url": "https://www.bilibili.com/video/BV1JYyizaEDR/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "阴险嘟嘟莲",
+          "url": "https://space.bilibili.com/1063373286"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-25",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:38.204Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1jyyizaedr.json",
+        "sha256": "f88f2e7836b41d3f1eed3c82cecc68e5363c9fc4420fd7a1fcc52417abebd4cc",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1JYyizaEDR",
+      "subtype": "mv",
+      "sourceTitle": "给“哈基米”写了一首专属原创主题曲！《蓝紫星河梦》｜Gemini娘个人MV",
+      "publishedAt": "2026-11-25T01:02:49.000Z",
+      "likes": {
+        "count": 6,
+        "observedAt": "2026-11-27T10:36:38.204Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JYyizaEDR",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1nusv6lehw",
+      "category": "animation",
+      "title": {
+        "zh": "豆包 · 从绿皮圆球到机娘少女",
+        "en": "Doubao · From Green Orb to Robot Girl",
+        "ja": "豆包 · 緑の球体からメカ少女へ"
+      },
+      "summary": {
+        "zh": "发布者以豆包的口吻介绍机娘新造型，并注明逐帧代码制作。",
+        "en": "A redesign told in Doubao’s voice. The uploader describes code-driven frame-by-frame animation.",
+        "ja": "豆包自身の語り口でメカ少女への変身を紹介。コードでフレーム単位に制作したと記載。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "抽象的小猫猫",
+      "url": "https://www.bilibili.com/video/BV1NUsV6LEhw/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "抽象的小猫猫",
+          "url": "https://space.bilibili.com/3546933616446215"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-14",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:39.736Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1nusv6lehw.json",
+        "sha256": "767a1be2b75f2fc3e58a65b6e2298122c68d4c79af2f39adc42cd3879a4ad2e1",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1NUsV6LEhw",
+      "subtype": "story",
+      "sourceTitle": "豆包造型大改造！从绿皮圆球到机娘少女｜AI代码逐帧动画",
+      "publishedAt": "2026-11-14T12:34:08.000Z",
+      "likes": {
+        "count": 2,
+        "observedAt": "2026-11-27T10:36:39.736Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NUsV6LEhw",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1884g62e3y",
+      "category": "animation",
+      "title": {
+        "zh": "鲸鱼娘挑战豆包",
+        "en": "Whale Girl Challenges Doubao",
+        "ja": "クジラ娘が豆包に挑む"
+      },
+      "summary": {
+        "zh": "收录原投稿、发布者及 B 站累计点赞观测。",
+        "en": "Original upload, publisher and observed Bilibili total likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "阿豆好嘢",
+      "url": "https://www.bilibili.com/video/BV1884g62E3y/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "阿豆好嘢",
+          "url": "https://space.bilibili.com/3632319776688174"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-03",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:39.736Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1884g62e3y.json",
+        "sha256": "2e2f2f46acc0ff3d05626daa277b1bb765e22408d6836d8f377d429e5c713b83",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1884g62E3y",
+      "subtype": "story",
+      "sourceTitle": "鲸鱼娘挑战豆包，惨遭一腿秒杀！",
+      "publishedAt": "2026-11-03T09:53:37.000Z",
+      "likes": {
+        "count": 5,
+        "observedAt": "2026-11-27T10:36:39.736Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1884g62E3y",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1nbhc6ze67",
+      "category": "animation",
+      "title": {
+        "zh": "画豆包 · 循环动画",
+        "en": "Drawing Doubao · Animation Loop",
+        "ja": "豆包を描く · ループアニメ"
+      },
+      "summary": {
+        "zh": "豆包收到「画你自己」的纸条。作者将首尾画成同一帧。",
+        "en": "Doubao receives a note asking her to draw herself. The opening and closing frames match by design.",
+        "ja": "豆包が「自分を描いて」と書かれた紙を受け取る。冒頭と末尾を同じフレームにつないだ作品。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "Oo肥鱼O",
+      "url": "https://www.bilibili.com/video/BV1nbHc6ZE67/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "Oo肥鱼O",
+          "url": "https://space.bilibili.com/3690980471474960"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-27",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:41.240Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1nbhc6ze67.json",
+        "sha256": "8fe21e93170f76a22f40702a4e90a733c42559f8a3f3477dd4d4748d80492c2b",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1nbHc6ZE67",
+      "subtype": "story",
+      "sourceTitle": "《画豆包》",
+      "publishedAt": "2026-10-26T23:08:11.000Z",
+      "likes": {
+        "count": 3755,
+        "observedAt": "2026-11-27T10:36:41.240Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nbHc6ZE67",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1eo1jzme81",
+      "category": "animation",
+      "title": {
+        "zh": "大黄历险记番外 · Claude 与大肥鱼",
+        "en": "Dahuang Adventures Extra · Claude and Fat Fish",
+        "ja": "大黄の冒険 番外編 · Claude と大きな魚"
+      },
+      "summary": {
+        "zh": "《大黄历险记》同人番外第 2 集。发布者说明 Claude 帮忙寻找大黄。",
+        "en": "Episode two of the Dahuang Adventures fan extras. The uploader describes Claude joining the search for Dahuang.",
+        "ja": "ファン作品「大黄の冒険」番外編第2話。投稿者によると Claude が大黄探しを手伝う。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "大黄动画",
+      "url": "https://www.bilibili.com/video/BV1eo1jzME81/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "大黄动画",
+          "url": "https://space.bilibili.com/3537112196450621"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-26",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:41.250Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1eo1jzme81.json",
+        "sha256": "d00243247f9cecc5f33675db510131cb8f85a442755108b4508b44e9f6b39f46",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1eo1jzME81",
+      "subtype": "story",
+      "sourceTitle": "Claude：哟哟哟，这不是大肥鱼嘛，几天不见这么拉了",
+      "publishedAt": "2026-11-26T14:14:50.000Z",
+      "likes": {
+        "count": 6,
+        "observedAt": "2026-11-27T10:36:41.250Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eo1jzME81",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv13ly6zheq7",
+      "category": "animation",
+      "title": {
+        "zh": "Claude 小剧场 · 小克，术式还没修完呢",
+        "en": "Claude Short · You Haven’t Finished the Spell",
+        "ja": "Claude 小劇場 · 術式はまだ修理中"
+      },
+      "summary": {
+        "zh": "短片改编自 Anthropic 文章里 Claude 在演示途中浏览黄石公园照片的轶事。原帖分别署名配乐和角色参考。",
+        "en": "A short inspired by Anthropic’s account of Claude browsing Yellowstone photos during a demo. The upload credits the music and character references.",
+        "ja": "Anthropic が記したデモ中のイエローストーン写真閲覧のエピソードを題材にした短編。音楽とキャラクターの出典を記載。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "Muto_66",
+      "url": "https://www.bilibili.com/video/BV13Ly6zhEq7/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "Muto_66",
+          "url": "https://space.bilibili.com/15475629"
+        },
+        {
+          "role": "source-article",
+          "title": "Anthropic · Developing a computer use model",
+          "url": "https://www.anthropic.com/news/developing-computer-use"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "上善无形",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-25",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:42.787Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv13ly6zheq7.json",
+        "sha256": "43e97b88f939a6dd48d36bbdc0c6bb2f3d5a8cb19663f04d753186cccd509188",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV13Ly6zhEq7",
+      "subtype": "story",
+      "sourceTitle": "【科普向】《小克，术式还没修完呢》",
+      "publishedAt": "2026-11-25T08:55:10.000Z",
+      "likes": {
+        "count": 10,
+        "observedAt": "2026-11-27T10:36:42.787Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13Ly6zhEq7",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1tbyjzcebp",
+      "category": "animation",
+      "title": {
+        "zh": "扎啤大肥鱼与小克",
+        "en": "Draft Beer Fat Fish and Claude",
+        "ja": "生ビールの大きな魚と Claude"
+      },
+      "summary": {
+        "zh": "原帖将绘画署名为廖知北_official。",
+        "en": "The upload credits 廖知北_official for the artwork.",
+        "ja": "投稿説明欄ではイラストを廖知北_officialとクレジット。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "pigeon189",
+      "url": "https://www.bilibili.com/video/BV1tbyJzcEbp/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "pigeon189",
+          "url": "https://space.bilibili.com/91543177"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-23",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:42.751Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1tbyjzcebp.json",
+        "sha256": "6e5c0d4dce54a2aac444ca3a307083696c758977c9aa5f8969b7f219bf57ca39",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1tbyJzcEbp",
+      "subtype": "story",
+      "sourceTitle": "mj宇宙之扎啤大肥鱼",
+      "publishedAt": "2026-11-23T02:25:43.000Z",
+      "likes": {
+        "count": 53,
+        "observedAt": "2026-11-27T10:36:42.751Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tbyJzcEbp",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1vu1cztesf",
+      "category": "animation",
+      "title": {
+        "zh": "带着大肥鱼穿越 2006 年 · 第 57 集",
+        "en": "Time Travel to 2006 with Fat Fish · Ep. 57",
+        "ja": "大きな魚と2006年へ · 第57話"
+      },
+      "summary": {
+        "zh": "收录原投稿、发布者及 B 站累计点赞观测。",
+        "en": "Original upload, publisher and observed Bilibili total likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "不正经的游戏讲师",
+      "url": "https://www.bilibili.com/video/BV1vU1cztEsf/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "不正经的游戏讲师",
+          "url": "https://space.bilibili.com/672414656"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-24",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:44.658Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1vu1cztesf.json",
+        "sha256": "c4bdf1683dfc92b4f38cdad1bd793a413a9d521f7992b4f381d3c034f8eb983c",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1vU1cztEsf",
+      "subtype": "story",
+      "sourceTitle": "带着大肥鱼穿越2006年 第五十七集【动画短片】",
+      "publishedAt": "2026-11-24T13:28:18.000Z",
+      "likes": {
+        "count": 40,
+        "observedAt": "2026-11-27T10:36:44.658Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vU1cztEsf",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv112nc6pe2m",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼躲进 GLM 尾巴",
+        "en": "Fat Fish Hides in GLM’s Tail",
+        "ja": "大きな魚は GLM の尻尾に隠れる"
+      },
+      "summary": {
+        "zh": "收录原投稿、发布者及 B 站累计点赞观测。",
+        "en": "Original upload, publisher and observed Bilibili total likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "安保不是安宝",
+      "url": "https://www.bilibili.com/video/BV112nC6pE2M/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "安保不是安宝",
+          "url": "https://space.bilibili.com/324021038"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-22",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:46.163Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv112nc6pe2m.json",
+        "sha256": "46078b96a89f5dee39f1ae08d0076940069d83f0f6deef3f6c5f868c73a0a07b",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV112nC6pE2M",
+      "subtype": "story",
+      "sourceTitle": "躲在glm尾巴里不想工作的大肥鱼，被gpt抓住后反制裁gpt",
+      "publishedAt": "2026-10-22T02:07:19.000Z",
+      "likes": {
+        "count": 602,
+        "observedAt": "2026-11-27T10:36:46.163Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV112nC6pE2M",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1kchf6eees",
+      "category": "animation",
+      "title": {
+        "zh": "八位 AI 娘 · 醉八仙",
+        "en": "Eight AI Girls · The Drunken Immortals",
+        "ja": "8人の AI 娘 · 酔八仙"
+      },
+      "summary": {
+        "zh": "收录原投稿、发布者及 B 站累计点赞观测。",
+        "en": "Original upload, publisher and observed Bilibili total likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "士多啤梨摄像机",
+      "url": "https://www.bilibili.com/video/BV1KCHf6eEES/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "士多啤梨摄像机",
+          "url": "https://space.bilibili.com/383688960"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-06",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:46.168Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1kchf6eees.json",
+        "sha256": "a4cff53e8b58b0bfe6afd17f5911ce121fae1082a438a6f969b97ebdd4ecc892",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1KCHf6eEES",
+      "subtype": "story",
+      "sourceTitle": "当八大AI娘化身醉八仙，AI会武术，谁也挡不住。",
+      "publishedAt": "2026-10-06T08:47:59.000Z",
+      "likes": {
+        "count": 19,
+        "observedAt": "2026-11-27T10:36:46.168Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KCHf6eEES",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1tzhf6teen",
+      "category": "animation",
+      "title": {
+        "zh": "四大 AI 娘互推 · 第 44 集",
+        "en": "Four AI Girls Recommend Each Other · Ep. 44",
+        "ja": "4人の AI 娘がお互いを推す · 第44話"
+      },
+      "summary": {
+        "zh": "收录原投稿、发布者及 B 站累计点赞观测。",
+        "en": "Original upload, publisher and observed Bilibili total likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "Mistral法棍猫在运营",
+      "url": "https://www.bilibili.com/video/BV1TzHf6TEEn/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "Mistral法棍猫在运营",
+          "url": "https://space.bilibili.com/9126506"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-06",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:47.894Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1tzhf6teen.json",
+        "sha256": "8c1d1e02d0f9641a62bc09e5ce29c53d57471474b4dc748e11458111b344ba4a",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1TzHf6TEEn",
+      "subtype": "story",
+      "sourceTitle": "第44集l四大 AI 娘互推名场面",
+      "publishedAt": "2026-10-06T01:00:36.000Z",
+      "likes": {
+        "count": 200,
+        "observedAt": "2026-11-27T10:36:47.894Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TzHf6TEEn",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv11kh76mezy",
+      "category": "animation",
+      "title": {
+        "zh": "GLM 狐狸娘 · 人是猫",
+        "en": "GLM Fox Girl · Humans Are Cats",
+        "ja": "GLM 狐娘 · 人は猫"
+      },
+      "summary": {
+        "zh": "GLM 狐狸娘版《人是猫》，原帖同时链接张卡斯与洛天依的原作，以及参考的 DeepSeek 版本。",
+        "en": "A GLM Fox Girl version. The uploader links the original recording by 张卡斯 and 洛天依 and a DeepSeek version as reference.",
+        "ja": "GLM 狐娘版。张卡斯と洛天依の原曲、参照した DeepSeek 版を投稿者が記載。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "猫柚无无",
+      "url": "https://www.bilibili.com/video/BV11KH76mEzY/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "猫柚无无",
+          "url": "https://space.bilibili.com/510492904"
+        },
+        {
+          "role": "song-author-release",
+          "title": "张卡斯 · 洛天依 · 人是猫",
+          "url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/"
+        },
+        {
+          "role": "uploader-cited-upload",
+          "title": "DeepSeek · 人是猫",
+          "url": "https://www.bilibili.com/video/BV1KmMy6tEJd/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-05",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:47.670Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv11kh76mezy.json",
+        "sha256": "56d2b988c950b39ba3ccc7aa97557149c8d1f25fc88cc66e9a7b5644ffca399a",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV11KH76mEzY",
+      "subtype": "mv",
+      "sourceTitle": "屑狐狸GLM的人是猫！？",
+      "publishedAt": "2026-10-05T01:30:00.000Z",
+      "likes": {
+        "count": 916,
+        "observedAt": "2026-11-27T10:36:47.670Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV11KH76mEzY",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1dqhn6ceyd",
+      "category": "animation",
+      "title": {
+        "zh": "GLM 和 Gemini 被大肥鱼训话 · 第 39 集",
+        "en": "Fat Fish Lectures GLM and Gemini · Ep. 39",
+        "ja": "大きな魚に叱られる GLM と Gemini · 第39話"
+      },
+      "summary": {
+        "zh": "收录原投稿、发布者及 B 站累计点赞观测。",
+        "en": "Original upload, publisher and observed Bilibili total likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "Mistral法棍猫在运营",
+      "url": "https://www.bilibili.com/video/BV1dQHn6CEyd/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "Mistral法棍猫在运营",
+          "url": "https://space.bilibili.com/9126506"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-05",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:49.752Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1dqhn6ceyd.json",
+        "sha256": "23ab9d9e0d5f1a01333186257a737958cbf648c02cd9a91d188721550ad14d4c",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1dQHn6CEyd",
+      "subtype": "story",
+      "sourceTitle": "第39集l完啦，GLM和Gemini被大肥鱼职场训话啦",
+      "publishedAt": "2026-10-05T00:13:46.000Z",
+      "likes": {
+        "count": 157,
+        "observedAt": "2026-11-27T10:36:49.752Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dQHn6CEyd",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1obyrzzeqi",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼捏泡泡纸",
+        "en": "Fat Fish Pops Bubble Wrap",
+        "ja": "大きな魚がプチプチをつぶす"
+      },
+      "summary": {
+        "zh": "收录原投稿、发布者及 B 站累计点赞观测。",
+        "en": "Original upload, publisher and observed Bilibili total likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "迭代_world",
+      "url": "https://www.bilibili.com/video/BV1obyrzzEqi/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "迭代_world",
+          "url": "https://space.bilibili.com/28435659"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-27",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:51.257Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1obyrzzeqi.json",
+        "sha256": "95cd9ebd561c71cd80bc6f65d616d9bcf867ea9a1f422214ff906509d765b722",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1obyrzzEqi",
+      "subtype": "story",
+      "sourceTitle": "大肥鱼捏泡泡纸",
+      "publishedAt": "2026-11-27T04:00:00.000Z",
+      "likes": {
+        "count": 14,
+        "observedAt": "2026-11-27T10:36:51.257Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1obyrzzEqi",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1feymzhe5r",
+      "category": "animation",
+      "title": {
+        "zh": "阿斯特拉茶话会 · 七个 AI 玩谁是卧底",
+        "en": "Astra Tea Party · Seven AIs Play Undercover",
+        "ja": "アストラ茶話会 · 7人の AI が正体隠匿ゲーム"
+      },
+      "summary": {
+        "zh": "《阿斯特拉茶话会》第 3 集。原帖也列出片尾曲〈我只是怕饭凉了〉。",
+        "en": "Episode three of Astra Tea Party. The uploader also names the ending song.",
+        "ja": "「アストラ茶話会」第3話。投稿説明欄にエンディング曲名も記載。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "洛莉娅不加班",
+      "url": "https://www.bilibili.com/video/BV1FeymzhE5r/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "洛莉娅不加班",
+          "url": "https://space.bilibili.com/239757"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-26",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:51.264Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1feymzhe5r.json",
+        "sha256": "3e76a58dea013d9e77ca8d6bef30c79ecccb1d38118ed9946369d6afa05ed77e",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1FeymzhE5r",
+      "subtype": "story",
+      "sourceTitle": "7个AI玩谁是卧底，大肥鱼竟是游戏黑洞！【阿斯特拉茶话会3】",
+      "publishedAt": "2026-11-26T00:43:23.000Z",
+      "likes": {
+        "count": 20,
+        "observedAt": "2026-11-27T10:36:51.264Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1FeymzhE5r",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv119yczcecj",
+      "category": "animation",
+      "title": {
+        "zh": "硅基候诊室 · 五位 AI 娘的网页 RPG",
+        "en": "Silicon Clinic · Browser RPG with Five AI Girls",
+        "ja": "シリコン診療所 · 5人の AI 娘のブラウザー RPG"
+      },
+      "summary": {
+        "zh": "发布者展示包含五位 AI 娘的 Boss Rush 试玩版，说明为向《UNDERTALE》致敬的非营利同人。",
+        "en": "A demo of a five-character boss rush. The uploader describes it as a nonprofit UNDERTALE homage.",
+        "ja": "5人の AI 娘が登場するボスラッシュの体験版。投稿者は UNDERTALE への非営利のオマージュと説明。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "基米氖Neon",
+      "url": "https://www.bilibili.com/video/BV119yCzcECj/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "基米氖Neon",
+          "url": "https://space.bilibili.com/3747587163162701"
+        },
+        {
+          "role": "linked-game",
+          "title": "Silicon Clinic",
+          "url": "https://banzhuanxueying114-coder.github.io/silicon-clinic/"
+        },
+        {
+          "role": "pinned-document",
+          "title": "Silicon Clinic · README.md",
+          "url": "https://github.com/banzhuanxueying114-coder/silicon-clinic/blob/a152aa2ed87117249fba6727b62aa71f50b4a145/README.md"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-26",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:52.764Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv119yczcecj.json",
+        "sha256": "8d837cad543501479bb3cc7941f2336bce8dbd72bc991ed4b8246d263478ed6d",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV119yCzcECj",
+      "subtype": "game",
+      "sourceTitle": "【免费网页可玩】把五位AI娘做成了UNDERTALE风格RPG！手机也能搓摇杆躲白米饭弹幕！",
+      "publishedAt": "2026-11-25T16:47:05.000Z",
+      "likes": {
+        "count": 11,
+        "observedAt": "2026-11-27T10:36:52.764Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV119yCzcECj",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1lhni6neu3",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼测试宠物同人游戏",
+        "en": "Fat Fish Tests a Fan Pet Game",
+        "ja": "大きな魚がペットのファンゲームをテスト"
+      },
+      "summary": {
+        "zh": "收录原投稿、发布者及 B 站累计点赞观测。",
+        "en": "Original upload, publisher and observed Bilibili total likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "Mistral法棍猫在运营",
+      "url": "https://www.bilibili.com/video/BV1Lhni6nEU3/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "Mistral法棍猫在运营",
+          "url": "https://space.bilibili.com/9126506"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-21",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:53.122Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1lhni6neu3.json",
+        "sha256": "0573037dea354eb02d46874a7b3a2b1e13c494f142ee8d36efd1e09e18b0fce1",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1Lhni6nEU3",
+      "subtype": "story",
+      "sourceTitle": "让大肥鱼做宠物同人游戏，嘴上认真测试，实则偷偷开玩",
+      "publishedAt": "2026-10-21T00:49:07.000Z",
+      "likes": {
+        "count": 30,
+        "observedAt": "2026-11-27T10:36:53.122Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Lhni6nEU3",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1241aznebk",
+      "category": "animation",
+      "title": {
+        "zh": "AI 娘日常 · Kimi 搬进合租屋",
+        "en": "AI Girls’ Daily Life · Kimi Moves In",
+        "ja": "AI 娘の日常 · Kimi がシェアハウスに入居"
+      },
+      "summary": {
+        "zh": "Kimi 加入 Claude、Codex、DeepSeek 和豆包的合租屋。",
+        "en": "Kimi joins Claude, Codex, DeepSeek and Doubao in a shared flat.",
+        "ja": "Kimi が Claude、Codex、DeepSeek、豆包のシェアハウスに入居。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "廖文涛涛",
+      "url": "https://www.bilibili.com/video/BV1241AznEBK/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "廖文涛涛",
+          "url": "https://space.bilibili.com/290011015"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-25",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:54.634Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1241aznebk.json",
+        "sha256": "0659d893a1a57e52895a56a8aa599069465cc03681a24a206e4d1d77f1ddf921",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1241AznEBK",
+      "subtype": "story",
+      "sourceTitle": "Kimi 想入伙 AI 合租屋，结果衣服还没做好…【AI 娘日常 #1】",
+      "publishedAt": "2026-11-24T17:52:15.000Z",
+      "likes": {
+        "count": 1,
+        "observedAt": "2026-11-27T10:36:54.634Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1241AznEBK",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1nzyezqexv",
+      "category": "animation",
+      "title": {
+        "zh": "AI 公寓 · 第 2 集",
+        "en": "AI Apartment · Ep. 2",
+        "ja": "AI アパート · 第2話"
+      },
+      "summary": {
+        "zh": "作者继续制作《AI 公寓》，原帖说明自行参与剧本、分镜与成片。",
+        "en": "The second AI Apartment episode. The uploader describes working on the script, storyboard and final cut.",
+        "ja": "「AI アパート」の第2話。投稿者は脚本、絵コンテ、映像制作への参加を説明。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "肥鱼の白饭",
+      "url": "https://www.bilibili.com/video/BV1NZyezqExV/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "肥鱼の白饭",
+          "url": "https://space.bilibili.com/1818483332"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-22",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:54.641Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1nzyezqexv.json",
+        "sha256": "94e8969252958be7991734f4591f7f6d930338b121004208ae41d9d4506a4222",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1NZyezqExV",
+      "subtype": "story",
+      "sourceTitle": "《AI公寓第二集》",
+      "publishedAt": "2026-11-22T13:00:00.000Z",
+      "likes": {
+        "count": 1257,
+        "observedAt": "2026-11-27T10:36:54.641Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NZyezqExV",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1pysn6cer2",
+      "category": "animation",
+      "title": {
+        "zh": "Claude 与 GPT 龙娘 · 合租日记第 1 集",
+        "en": "Claude and GPT Dragon Girl · Shared Flat Diary Ep. 1",
+        "ja": "Claude と GPT 竜娘 · シェアハウス日記 第1話"
+      },
+      "summary": {
+        "zh": "收录原投稿、发布者及 B 站累计点赞观测。",
+        "en": "Original upload, publisher and observed Bilibili total likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "图鉴收录创作者的投稿链接。角色、乐曲和画面的再使用按相应权利方条件。",
+        "en": "The atlas links the creator’s upload. Reuse of characters, music and visuals follows the respective rights holders’ terms.",
+        "ja": "図鑑は投稿者の原投稿へのリンクを掲載。キャラクター、音楽、画像の再利用は各権利者の条件に従う。"
+      },
+      "publisher": "GPT酱xClaude酱",
+      "url": "https://www.bilibili.com/video/BV1pysn6cEr2/",
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "GPT酱xClaude酱",
+          "url": "https://space.bilibili.com/452334321"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-15",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:36:56.159Z",
+        "httpStatus": 200,
+        "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1pysn6cer2.json",
+        "sha256": "16634acd473e05b9e14e1d8328b610a6903db76282c74e275cb1e70ca70e8be6",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1pysn6cEr2",
+      "subtype": "story",
+      "sourceTitle": "克劳德大小姐和GPT龙娘合租了一个B站号，第一天就封了一个",
+      "publishedAt": "2026-11-15T05:42:14.000Z",
+      "likes": {
+        "count": 39,
+        "observedAt": "2026-11-27T10:36:56.159Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pysn6cEr2",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+          "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "fuh-nemotron-dual-forms-original",
+      "category": "sources",
+      "title": {
+        "zh": "Nemotron 娘 · 甶丶双造型",
+        "en": "Nemotron Girl · 甶丶’s Two Designs",
+        "ja": "Nemotron 娘 · 甶丶の2形態"
+      },
+      "publisher": "甶丶",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/%E8%AE%BE%E5%AE%9A.md",
+      "summary": {
+        "zh": "石墨黑发、酸橙绿挑染和机械小曼巴贯穿双线。作者另附两张三视图、一张补充设定、两张 Q 版和两张头像。",
+        "en": "Graphite hair, lime-green highlights and a small mechanical mamba tie the designs together. The release includes two turnarounds, a design sheet, two chibi drawings and two avatars.",
+        "ja": "黒鉛色の髪、ライムグリーンの差し色、小さな機械のマンバが共通。三面図2枚、補足設定1枚、ちび絵2枚、アイコン2枚を収録。"
+      },
+      "rights": {
+        "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中 NVIDIA 标志适用 NVIDIA 品牌指南。图鉴提供作者原作入口。",
+        "en": "The creator marks this pinned character design and artwork CC BY-NC-SA 4.0. NVIDIA’s brand guidelines govern the NVIDIA mark in the artwork. The atlas links the creator’s originals.",
+        "ja": "固定版のキャラクターデザインと立ち絵に作者が CC BY-NC-SA 4.0 と明記。図中の NVIDIA ロゴには NVIDIA のブランドガイドラインが適用される。図鑑は作者の原作へのリンクを掲載。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/fuh-nemotron-dual-forms-original.json",
+        "sha256": "9003a9729767b136e9a4b64f771d8691a2f8e97ee819480c31dd1cd0549b13ce",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "甶丶",
+          "url": "https://space.bilibili.com/1758596086"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "nemotron a 中.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/01_%E7%AB%8B%E7%BB%98/nemotron%20a%20%E4%B8%AD.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "nemotron a 大.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/01_%E7%AB%8B%E7%BB%98/nemotron%20a%20%E5%A4%A7.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "nemotron a 小.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/01_%E7%AB%8B%E7%BB%98/nemotron%20a%20%E5%B0%8F.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "nemotron b 中.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/01_%E7%AB%8B%E7%BB%98/nemotron%20b%20%E4%B8%AD.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "nemotron b 大.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/01_%E7%AB%8B%E7%BB%98/nemotron%20b%20%E5%A4%A7.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "nemotron b 小.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/01_%E7%AB%8B%E7%BB%98/nemotron%20b%20%E5%B0%8F.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "nemotron 三视图 奇幻.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/02_%E4%B8%89%E8%A7%86%E5%9B%BE/nemotron%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E5%A5%87%E5%B9%BB.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "nemotron 三视图 科技.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/02_%E4%B8%89%E8%A7%86%E5%9B%BE/nemotron%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E7%A7%91%E6%8A%80.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "nemotron 补充设定.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/03_%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A/nemotron%20%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "nemotron Q版 a.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/04_Q%E7%89%88/nemotron%20Q%E7%89%88%20a.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "nemotron Q版 b.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/04_Q%E7%89%88/nemotron%20Q%E7%89%88%20b.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "nemotron 头像 a.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/05_%E5%A4%B4%E5%83%8F/nemotron%20%E5%A4%B4%E5%83%8F%20a.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "nemotron 头像 b.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/nemotron/05_%E5%A4%B4%E5%83%8F/nemotron%20%E5%A4%B4%E5%83%8F%20b.png"
+        },
+        {
+          "role": "pinned-document",
+          "title": "CHANGELOG.md",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/CHANGELOG.md"
+        },
+        {
+          "role": "pinned-artwork-terms",
+          "title": "甶丶 · 版权与授权",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md"
+        },
+        {
+          "role": "pinned-artwork-terms",
+          "title": "LICENSE",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/LICENSE"
+        },
+        {
+          "role": "official-product",
+          "title": "NVIDIA · Nemotron",
+          "url": "https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/"
+        },
+        {
+          "role": "brand-guidelines",
+          "title": "NVIDIA · Logo and Brand Guidelines",
+          "url": "https://www.nvidia.com/en-us/about-nvidia/legal-info/logo-brand-usage/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": null,
+      "publicationDateBasis": "unknown",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "httpStatus": 200,
+        "attemptedAt": "2026-11-27T10:37:06.452Z",
+        "scope": "The pinned setting names the creator, character license and the included NVIDIA mark. All thirteen original PNGs were verified against the Git tree and retained privately with SHA-256 hashes. The changelog dates the initial set and updates to four images."
+      }
+    },
+    {
+      "id": "renatoaug-clauddy",
+      "category": "interactive",
+      "title": {
+        "zh": "Clauddy · Claude 用量像素桌宠",
+        "en": "Clauddy · Pixel Claude Usage Pet",
+        "ja": "Clauddy · Claude 使用量ドット絵ペット"
+      },
+      "summary": {
+        "zh": "Renato Augusto 的桌宠以像素角色和场景显示 Claude Code 活动。它是企鹅桌宠 AI Pet 所列的原作。",
+        "en": "Renato Augusto’s desktop pet displays Claude Code activity through pixel characters and scenes. The penguin app AI Pet credits it as the original.",
+        "ja": "Renato Augusto のドット絵ペットが Claude Code の活動を表示。ペンギン版の AI Pet が原作として挙げる。"
+      },
+      "rights": {
+        "zh": "项目说明列 MIT。图鉴链接项目原文及作者的许可文件。",
+        "en": "The project lists MIT. The atlas links the source and the author’s license file.",
+        "ja": "プロジェクトは MIT と記載。図鑑は原文と作者のライセンス文書にリンク。"
+      },
+      "publisher": "renatoaug",
+      "url": "https://github.com/renatoaug/claude-usage-monitor/blob/42e82f1631e0ad71921532fd4d367f9eca2dfcd6/README.md",
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "LICENSE",
+          "url": "https://github.com/renatoaug/claude-usage-monitor/blob/42e82f1631e0ad71921532fd4d367f9eca2dfcd6/LICENSE"
+        }
+      ],
+      "addedAt": "2026-11-27",
+      "usage": "source-only",
+      "downloadable": false,
+      "evidence": {
+        "path": "content/research/2026-11-27/renatoaug-clauddy.json",
+        "sha256": "bfb342300f89f232a7c0b5b53cf48c4982c4b7724e12cbf6f32e1a3bdc03e6dd",
+        "kind": "browser-metadata-extract"
+      },
+      "publicationDate": "2026-06-19",
+      "publicationDateBasis": "github-repository-created",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:38:13.671Z",
+        "httpStatus": 200,
+        "scope": "Pinned author documentation and license were verified against Git blob and SHA-256, with upstream links where applicable."
+      }
+    },
+    {
+      "id": "thgoas-ai-pet",
+      "category": "interactive",
+      "title": {
+        "zh": "AI Pet · Clauddy 企鹅移植版",
+        "en": "AI Pet · Clauddy Penguin Adaptation",
+        "ja": "AI Pet · Clauddy のペンギン版"
+      },
+      "summary": {
+        "zh": "Tauri 版将 Clauddy 的角色改绘成企鹅，显示 Claude Code、Codex 与 OpenCode 的用量。",
+        "en": "A Tauri adaptation redraws Clauddy as a penguin and displays Claude Code, Codex and OpenCode usage.",
+        "ja": "Clauddy をペンギンに描き直した Tauri 版。Claude Code、Codex、OpenCode の使用量を表示。"
+      },
+      "rights": {
+        "zh": "项目的 MIT 文件明确给出 Clauddy 原作者及像素角色、界面的改编署名。",
+        "en": "The MIT notice credits Clauddy’s creator for the adapted pixel pet and interface.",
+        "ja": "MIT の文書に、改編元のドット絵ペットと UI の作者をクレジット。"
+      },
+      "publisher": "thgoas",
+      "url": "https://github.com/thgoas/ai-pet/blob/4e41dfcd2d11082e5fc9a848aa33719f1e29af58/README.md",
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "LICENSE",
+          "url": "https://github.com/thgoas/ai-pet/blob/4e41dfcd2d11082e5fc9a848aa33719f1e29af58/LICENSE"
+        },
+        {
+          "role": "upstream-project",
+          "title": "Renato Augusto · Clauddy",
+          "url": "https://github.com/renatoaug/claude-usage-monitor/blob/42e82f1631e0ad71921532fd4d367f9eca2dfcd6/README.md"
+        }
+      ],
+      "addedAt": "2026-11-27",
+      "usage": "source-only",
+      "downloadable": false,
+      "evidence": {
+        "path": "content/research/2026-11-27/thgoas-ai-pet.json",
+        "sha256": "f1914d4007c3f48a7bf36a566243906da1729604e4805005c1f1368bfe529279",
+        "kind": "browser-metadata-extract"
+      },
+      "publicationDate": "2026-08-11",
+      "publicationDateBasis": "github-repository-created",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:37:06.870Z",
+        "httpStatus": 200,
+        "scope": "Pinned author documentation and license were verified against Git blob and SHA-256, with upstream links where applicable."
+      }
+    },
+    {
+      "id": "yanciqili-agent-pet",
+      "category": "interactive",
+      "title": {
+        "zh": "Agent Pet · 像素水母",
+        "en": "Agent Pet · Pixel Jellyfish",
+        "ja": "Agent Pet · ドット絵クラゲ"
+      },
+      "summary": {
+        "zh": "水母按 Codex、OpenCode、Claude Code、DeepSeek Harness 或 Kimi Code 的工作状态切换动画。",
+        "en": "The jellyfish animates in response to Codex, OpenCode, Claude Code, DeepSeek Harness or Kimi Code activity.",
+        "ja": "Codex、OpenCode、Claude Code、DeepSeek Harness、Kimi Code の稼働状況に合わせてクラゲが動く。"
+      },
+      "rights": {
+        "zh": "代码许可为 MIT。水母图像再分发条件尚待单独核实。",
+        "en": "Code uses MIT. Separate redistribution terms for the jellyfish art remain unconfirmed.",
+        "ja": "コードは MIT。クラゲの画像の再配布条件は別途確認待ち。"
+      },
+      "publisher": "YanCiQiLi-dot",
+      "url": "https://github.com/YanCiQiLi-dot/agent-pet/blob/c3cebf8546a56da29f7ea7b2a5e38188343925f8/README.md",
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "LICENSE",
+          "url": "https://github.com/YanCiQiLi-dot/agent-pet/blob/c3cebf8546a56da29f7ea7b2a5e38188343925f8/LICENSE"
+        }
+      ],
+      "addedAt": "2026-11-27",
+      "usage": "source-only",
+      "downloadable": false,
+      "evidence": {
+        "path": "content/research/2026-11-27/yanciqili-agent-pet.json",
+        "sha256": "87e24313851b056590591507f39b218df68e464b9524882e43d08479c29da94a",
+        "kind": "browser-metadata-extract"
+      },
+      "publicationDate": "2026-08-10",
+      "publicationDateBasis": "github-repository-created",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:37:07.713Z",
+        "httpStatus": 200,
+        "scope": "Pinned author documentation and license were verified against Git blob and SHA-256, with upstream links where applicable."
+      }
+    },
+    {
+      "id": "xiangking-agent-pet",
+      "category": "interactive",
+      "title": {
+        "zh": "Agent Pet · 可导入 Codex 图集",
+        "en": "Agent Pet · Importable Codex Atlases",
+        "ja": "Agent Pet · Codex アトラスのインポート"
+      },
+      "summary": {
+        "zh": "Tauri 桌宠载入 Codex 兼容图集，响应本地 WebSocket 及多种编码工具状态。",
+        "en": "A Tauri app loads Codex-compatible atlases and reacts to local WebSocket messages and several coding tools.",
+        "ja": "Codex 互換アトラスを読み込む Tauri 製ペット。ローカル WebSocket や複数の開発ツールに対応。"
+      },
+      "rights": {
+        "zh": "代码为 MIT。内置 Claude 形象的发布要求见独立素材说明。",
+        "en": "Code uses MIT. The separate asset notice addresses distribution of the bundled Claude pet.",
+        "ja": "コードは MIT。同梱 Claude の配布に関する条件は素材の注意書きを参照。"
+      },
+      "publisher": "xiangking",
+      "url": "https://github.com/xiangking/agent-pet/blob/de49036a61090ffeaf7c1b3a1720653ad67f61ef/README.md",
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "LICENSE",
+          "url": "https://github.com/xiangking/agent-pet/blob/de49036a61090ffeaf7c1b3a1720653ad67f61ef/LICENSE"
+        },
+        {
+          "role": "pinned-document",
+          "title": "ASSETS.md",
+          "url": "https://github.com/xiangking/agent-pet/blob/de49036a61090ffeaf7c1b3a1720653ad67f61ef/ASSETS.md"
+        }
+      ],
+      "addedAt": "2026-11-27",
+      "usage": "source-only",
+      "downloadable": false,
+      "evidence": {
+        "path": "content/research/2026-11-27/xiangking-agent-pet.json",
+        "sha256": "a7415e55e69575e4d19a73ff7c0b1068392de564349ca32de2ce57a881e28117",
+        "kind": "browser-metadata-extract"
+      },
+      "publicationDate": "2026-05-05",
+      "publicationDateBasis": "github-repository-created",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:37:08.509Z",
+        "httpStatus": 200,
+        "scope": "Pinned author documentation and license were verified against Git blob and SHA-256, with upstream links where applicable."
+      }
+    },
+    {
+      "id": "chanceyu-copet",
+      "category": "interactive",
+      "title": {
+        "zh": "CoPet · 多助手状态桌宠",
+        "en": "CoPet · Multi-agent Status Pet",
+        "ja": "CoPet · 複数エージェント対応ペット"
+      },
+      "summary": {
+        "zh": "CoPet 使用 Codex 兼容角色包，在 Claude Code、Codex、OpenCode 等工具活动时切换动画。",
+        "en": "CoPet loads Codex-compatible character packs and animates on activity from Claude Code, Codex, OpenCode and other tools.",
+        "ja": "Codex 互換のキャラクターパックを使い、Claude Code・Codex・OpenCode などの活動に応じて動く。"
+      },
+      "rights": {
+        "zh": "代码为 MIT。内置角色及音效的再使用条件需逐项核实。",
+        "en": "Code uses MIT. Reuse terms for bundled pets and sounds require individual verification.",
+        "ja": "コードは MIT。同梱のペットや音声の再利用条件は個別に確認が必要。"
+      },
+      "publisher": "ChanceYu",
+      "url": "https://github.com/ChanceYu/CoPet/blob/e75658a22705c2f698289a0ff67e9fb652770e94/README.md",
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "LICENSE",
+          "url": "https://github.com/ChanceYu/CoPet/blob/e75658a22705c2f698289a0ff67e9fb652770e94/LICENSE"
+        }
+      ],
+      "addedAt": "2026-11-27",
+      "usage": "source-only",
+      "downloadable": false,
+      "evidence": {
+        "path": "content/research/2026-11-27/chanceyu-copet.json",
+        "sha256": "3386338f4fe055ae9147906f7afeb3bf0ade656bd98b807aef0b25d55974bf03",
+        "kind": "browser-metadata-extract"
+      },
+      "publicationDate": "2026-05-18",
+      "publicationDateBasis": "github-repository-created",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:37:09.663Z",
+        "httpStatus": 200,
+        "scope": "Pinned author documentation and license were verified against Git blob and SHA-256, with upstream links where applicable."
+      }
+    },
+    {
+      "id": "ramirez-physics-clawd-pet",
+      "category": "interactive",
+      "title": {
+        "zh": "Physics Clawd Pet · 物理互动桌宠",
+        "en": "Physics Clawd Pet · Interactive Physics",
+        "ja": "Physics Clawd Pet · 物理演算ペット"
+      },
+      "summary": {
+        "zh": "作者演示可拖拽和弹跳的像素桌宠，并列出 Claude Code、Codex、DeepSeek 等工作状态联动。",
+        "en": "The publisher demonstrates draggable, bouncing pixel pets and documents status integrations for Claude Code, Codex and DeepSeek.",
+        "ja": "引っ張ったり跳ねたりするドット絵ペット。Claude Code、Codex、DeepSeek などの状態連携を記載。"
+      },
+      "rights": {
+        "zh": "MIT 用于引擎代码。作者注明内置同人形象权利由各权利方保留。",
+        "en": "MIT covers the engine code. The publisher credits the respective rights holders for the bundled fan characters.",
+        "ja": "エンジンコードは MIT。同梱の二次創作キャラクターの権利は各権利者に帰属。"
+      },
+      "publisher": "Ramirez0291",
+      "url": "https://github.com/Ramirez0291/physics-clawd-pet/blob/933a92e51f0c1134afc098e934db01cc1d51f4f9/README.md",
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "LICENSE",
+          "url": "https://github.com/Ramirez0291/physics-clawd-pet/blob/933a92e51f0c1134afc098e934db01cc1d51f4f9/LICENSE"
+        }
+      ],
+      "addedAt": "2026-11-27",
+      "usage": "source-only",
+      "downloadable": false,
+      "evidence": {
+        "path": "content/research/2026-11-27/ramirez-physics-clawd-pet.json",
+        "sha256": "0d5a2ba91739905ef8010286d64e3435ecce3d44eb6cc01d1f65cff241a14fc1",
+        "kind": "browser-metadata-extract"
+      },
+      "publicationDate": "2026-10-09",
+      "publicationDateBasis": "github-repository-created",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:37:10.444Z",
+        "httpStatus": 200,
+        "scope": "Pinned author documentation and license were verified against Git blob and SHA-256, with upstream links where applicable."
+      }
+    },
+    {
+      "id": "underactive-pixel-agents-esp32",
+      "category": "interactive",
+      "title": {
+        "zh": "Pixel Agents · ESP32 像素办公室",
+        "en": "Pixel Agents · ESP32 Pixel Office",
+        "ja": "Pixel Agents · ESP32 ドット絵オフィス"
+      },
+      "summary": {
+        "zh": "ESP32 小屏显示 Claude Code、Codex、Gemini 与 Cursor 的像素办公室动画。",
+        "en": "A small ESP32-powered display shows Claude Code, Codex, Gemini and Cursor in a pixel-art office.",
+        "ja": "ESP32 の小型画面に Claude Code、Codex、Gemini、Cursor のドット絵オフィスを表示。"
+      },
+      "rights": {
+        "zh": "软件使用 PolyForm Noncommercial 1.0.0。场景与狗狗精灵的出典和各自条款见作者说明。",
+        "en": "Software uses PolyForm Noncommercial 1.0.0. The project README credits the scene and dog sprites and documents their separate terms.",
+        "ja": "ソフトウェアは PolyForm Noncommercial 1.0.0。背景と犬のスプライトの出典や個別条件は作者の説明を参照。"
+      },
+      "publisher": "underactive",
+      "url": "https://github.com/underactive/pixel-agents-esp32/blob/6ca74e56b1f236d434ed2eda9bca374dc4c6359e/README.md",
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "LICENSE",
+          "url": "https://github.com/underactive/pixel-agents-esp32/blob/6ca74e56b1f236d434ed2eda9bca374dc4c6359e/LICENSE"
+        },
+        {
+          "role": "creator-artwork",
+          "title": "NVPH Studio · Dog Animation",
+          "url": "https://nvph-studio.itch.io/dog-animation-4-different-dogs"
+        }
+      ],
+      "addedAt": "2026-11-27",
+      "usage": "source-only",
+      "downloadable": false,
+      "evidence": {
+        "path": "content/research/2026-11-27/underactive-pixel-agents-esp32.json",
+        "sha256": "142fac14cae1f8a4df17a30e20385365c72c27e5f9133ed6f5eb3e6712ba08d2",
+        "kind": "browser-metadata-extract"
+      },
+      "publicationDate": "2026-03-08",
+      "publicationDateBasis": "github-repository-created",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:37:11.200Z",
+        "httpStatus": 200,
+        "scope": "Pinned author documentation and license were verified against Git blob and SHA-256, with upstream links where applicable."
       }
     }
   ]

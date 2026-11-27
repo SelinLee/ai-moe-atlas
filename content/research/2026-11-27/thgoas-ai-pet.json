@@ -1,0 +1,62 @@
+{
+  "url": "https://github.com/thgoas/ai-pet/blob/4e41dfcd2d11082e5fc9a848aa33719f1e29af58/README.md",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:37:06.870Z",
+  "scope": "Pinned author documentation and license were verified against Git blob and SHA-256, with upstream links where applicable.",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/thgoas/ai-pet/blob/4e41dfcd2d11082e5fc9a848aa33719f1e29af58/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/thgoas/ai-pet/4e41dfcd2d11082e5fc9a848aa33719f1e29af58/README.md",
+    "sourceSha256": "049beb0bbdffcaee61ca357c741c9dbc5d3e43b7201a57f100e9f3e94a8d825a",
+    "gitBlobSha": "994bff3fd1e2481e466bf832f7b9ef9e5cb62553",
+    "bytes": 25862,
+    "commit": "4e41dfcd2d11082e5fc9a848aa33719f1e29af58",
+    "accessedAt": "2026-11-27T10:37:06.870Z"
+  },
+  "repository": {
+    "full_name": "thgoas/ai-pet",
+    "html_url": "https://github.com/thgoas/ai-pet",
+    "stargazers_count": 0,
+    "archived": false,
+    "created_at": "2026-08-10T20:40:50Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "4e41dfcd2d11082e5fc9a848aa33719f1e29af58",
+    "observedAt": "2026-11-27T10:35:54.741Z",
+    "httpStatus": 200,
+    "metadataSha256": "fcc8afb3b51afe58aab433ab7d6f24cf10972272383dd0c65fd928a5bb5d5c3b",
+    "parent": null
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/thgoas/ai-pet/blob/4e41dfcd2d11082e5fc9a848aa33719f1e29af58/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/thgoas/ai-pet/4e41dfcd2d11082e5fc9a848aa33719f1e29af58/README.md",
+      "sourceSha256": "049beb0bbdffcaee61ca357c741c9dbc5d3e43b7201a57f100e9f3e94a8d825a",
+      "gitBlobSha": "994bff3fd1e2481e466bf832f7b9ef9e5cb62553",
+      "bytes": 25862,
+      "commit": "4e41dfcd2d11082e5fc9a848aa33719f1e29af58",
+      "accessedAt": "2026-11-27T10:37:06.870Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/thgoas/ai-pet/blob/4e41dfcd2d11082e5fc9a848aa33719f1e29af58/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/thgoas/ai-pet/4e41dfcd2d11082e5fc9a848aa33719f1e29af58/LICENSE",
+      "sourceSha256": "9cce99511a1405142a9e60cce0884e4b4e51cb811c75f9cb405a15927b14fd6b",
+      "gitBlobSha": "089ea01173f9035d01f8b5a38d93b7f124840cde",
+      "bytes": 1318,
+      "commit": "4e41dfcd2d11082e5fc9a848aa33719f1e29af58",
+      "accessedAt": "2026-11-27T10:37:07.292Z"
+    }
+  ],
+  "upstream": {
+    "path": "README.md",
+    "url": "https://github.com/renatoaug/claude-usage-monitor/blob/42e82f1631e0ad71921532fd4d367f9eca2dfcd6/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/renatoaug/claude-usage-monitor/42e82f1631e0ad71921532fd4d367f9eca2dfcd6/README.md",
+    "sourceSha256": "91d72e5340193bfaf63f3b30ea9988dc10474473f5bb2aed082e4a71a2cf4fb0",
+    "gitBlobSha": "27f04b377fabf8927577378b4f2e28df23938545",
+    "bytes": 4142,
+    "commit": "42e82f1631e0ad71921532fd4d367f9eca2dfcd6",
+    "accessedAt": "2026-11-27T10:38:13.671Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1eo1jzME81/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eo1jzME81",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:41.250Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV1eo1jzME81",
+    "title": "Claude：哟哟哟，这不是大肥鱼嘛，几天不见这么拉了",
+    "owner": {
+      "mid": 3537112196450621,
+      "name": "大黄动画"
+    },
+    "pubdate": 1795702490,
+    "duration": 186
+  },
+  "descriptionSha256": "6aa23206dd264bb6eea40e15454ac97171de4ab811fb78ded3a4377c8d8b6c0c",
+  "sourceLinks": []
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1eKySztERH/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eKySztERH",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:36:36.690Z",
+  "scope": "The official Bilibili view endpoint returned the exact BV, title, uploader, publication time and cumulative likes. Individual source credits come from the publisher description.",
+  "metadata": {
+    "bvid": "BV1eKySztERH",
+    "title": "Gemini4neon 代码生成：暗夜高街 GPT 龙娘 40 秒欧几里得节奏舞",
+    "owner": {
+      "mid": 451569945,
+      "name": "hero1157"
+    },
+    "pubdate": 1795671265,
+    "duration": 40
+  },
+  "descriptionSha256": "036bb08ef94abe44b5eb92adb75be4206a63e722b655a8f4cfcfa634c095288e",
+  "sourceLinks": []
+}
