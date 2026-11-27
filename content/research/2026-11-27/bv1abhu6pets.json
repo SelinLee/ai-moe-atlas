@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1AbHU6PETS/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AbHU6PETS",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:23.641Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1AbHU6PETS",
+    "title": "蓝色小鼻噶又在欺负小狐狸",
+    "owner": {
+      "mid": 294900324,
+      "name": "大肥鱼说无需多言"
+    },
+    "pubdate": 1791419700,
+    "duration": 19
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "92962c2fee18009dc57cae90603efa154a26656436e68f5cf1c72b318496d859"
+}

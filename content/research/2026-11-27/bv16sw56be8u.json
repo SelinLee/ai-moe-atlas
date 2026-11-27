@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV16SW56BE8u/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16SW56BE8u",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:23.673Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV16SW56BE8u",
+    "title": "大肥鱼在雪山看到一只睡着的狐狸",
+    "owner": {
+      "mid": 23315338,
+      "name": "这个刀子真甜"
+    },
+    "pubdate": 1794357000,
+    "duration": 67
+  },
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://www.pixiv.net/users/18604994"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "上善无形",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    }
+  ],
+  "descriptionSha256": "155c5867f1b9877dd486bd6fbb4c8ef34debeebc3125b42602cb356653599bb7"
+}

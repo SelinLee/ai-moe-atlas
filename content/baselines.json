@@ -131,12 +131,12 @@
   },
   {
     "entity": "mistral",
-    "characterId": "zipzippipe-mistral",
-    "reviewedAt": "2026-11-20",
+    "characterId": "zipzippipe-mistral-first-portrait",
+    "reviewedAt": "2026-11-27",
     "nextAction": {
-      "zh": "确认原帖第 4 张图的单独展示、转载与改编条件。",
-      "en": "Verify display, redistribution and adaptation terms for the fourth image in the creator’s post.",
-      "ja": "原投稿の4枚目に適用される表示・転載・改変条件を確認する。"
+      "zh": "如需改绘，逐件向作者核实。",
+      "en": "Check artwork-specific terms with the creator for adaptations.",
+      "ja": "改変が必要な場合は作品ごとに作者へ確認する。"
     }
   },
   {
@@ -182,11 +182,11 @@
   {
     "entity": "ernie",
     "characterId": "zipzippipe-ernie",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-27",
     "nextAction": {
-      "zh": "逐件核对展示与改编条件。",
-      "en": "Check display and adaptation terms for each artwork.",
-      "ja": "画像ごとの表示・改変条件を確認する。"
+      "zh": "如需改绘，逐件向作者核实。",
+      "en": "Check artwork-specific terms with the creator for adaptations.",
+      "ja": "改変が必要な場合は作品ごとに作者へ確認する。"
     }
   },
   {
@@ -222,11 +222,11 @@
   {
     "entity": "rwkv",
     "characterId": "zipzippipe-rwkv",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-27",
     "nextAction": {
-      "zh": "逐件核对展示与改编条件。",
-      "en": "Check the display and adaptation terms for each file.",
-      "ja": "画像ごとの表示・改変の条件を確認する。"
+      "zh": "如需改绘，逐件向作者核实。",
+      "en": "Check artwork-specific terms with the creator for adaptations.",
+      "ja": "改変が必要な場合は作品ごとに作者へ確認する。"
     }
   },
   {

@@ -2591,6 +2591,99 @@
     }
   },
   {
+    "characterId": "zipzippipe-mistral-first-portrait",
+    "reviewedAt": "2026-11-27",
+    "reviewBasis": "Creator gallery and original JPEG independently re-checked. This review permits full-image noncommercial display with attribution and only content-preserving preview processing.",
+    "artworks": [
+      {
+        "assetId": "portrait",
+        "sha256": "133844aca2cd82401125a2783207a902b6449f7c759b25905f3b0239cb775d80"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://www.pixiv.net/artworks/148186519",
+        "localPath": "collected/zipzippipe-mistral-first-portrait/evidence/source-statement-1.json",
+        "sha256": "d1af786b973eef8d6be16360f74165fe9b401bd31a339a726d4501a2715f32a7"
+      }
+    ],
+    "evidenceUrl": "https://www.pixiv.net/artworks/148186519",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "original-character",
+        "publication": "https://www.pixiv.net/artworks/148186519"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "conditions": {
+          "zh": "仅在本站非商业图鉴中完整展示，保留作者链、原作入口与逐件使用条件；本站预览仅等比缩放、留白和格式转换。其他用途需另行核验。",
+          "en": "Full-image display in this non-commercial atlas only, with the creator chain, original link and artwork-specific terms. Previews only resize, pad and convert formats. Other uses require a separate review.",
+          "ja": "本非商用図鑑で画像全体を表示し、作者チェーン・原作リンク・作品別の利用条件を保持。プレビューは比率維持のリサイズ・余白・形式変換のみ。他の用途は別途確認が必要です。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "原帖第 4 张立绘已核对 SHA-256。展示、转载和改编的逐件条件待核，词条提供出处链接。",
+          "en": "The source JPEG for the fourth image was checked by SHA-256. File-specific display, redistribution and adaptation terms remain open. The entry links to the publication.",
+          "ja": "原投稿の4枚目の画像を SHA-256 で照合。表示・転載・改変の画像別条件は確認待ちのため、出典リンクを掲載。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "原帖第 4 张立绘已核对 SHA-256。展示、转载和改编的逐件条件待核，词条提供出处链接。",
+          "en": "The source JPEG for the fourth image was checked by SHA-256. File-specific display, redistribution and adaptation terms remain open. The entry links to the publication.",
+          "ja": "原投稿の4枚目の画像を SHA-256 で照合。表示・転載・改変の画像別条件は確認待ちのため、出典リンクを掲載。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "原帖第 4 张立绘已核对 SHA-256。展示、转载和改编的逐件条件待核，词条提供出处链接。",
+          "en": "The source JPEG for the fourth image was checked by SHA-256. File-specific display, redistribution and adaptation terms remain open. The entry links to the publication.",
+          "ja": "原投稿の4枚目の画像を SHA-256 で照合。表示・転載・改変の画像別条件は確認待ちのため、出典リンクを掲載。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "原帖第 4 张立绘已核对 SHA-256。展示、转载和改编的逐件条件待核，词条提供出处链接。",
+          "en": "The source JPEG for the fourth image was checked by SHA-256. File-specific display, redistribution and adaptation terms remain open. The entry links to the publication.",
+          "ja": "原投稿の4枚目の画像を SHA-256 で照合。表示・転載・改変の画像別条件は確認待ちのため、出典リンクを掲載。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "原帖第 4 张立绘已核对 SHA-256。展示、转载和改编的逐件条件待核，词条提供出处链接。",
+          "en": "The source JPEG for the fourth image was checked by SHA-256. File-specific display, redistribution and adaptation terms remain open. The entry links to the publication.",
+          "ja": "原投稿の4枚目の画像を SHA-256 で照合。表示・転載・改変の画像別条件は確認待ちのため、出典リンクを掲載。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "原帖第 4 张立绘已核对 SHA-256。展示、转载和改编的逐件条件待核，词条提供出处链接。",
+          "en": "The source JPEG for the fourth image was checked by SHA-256. File-specific display, redistribution and adaptation terms remain open. The entry links to the publication.",
+          "ja": "原投稿の4枚目の画像を SHA-256 で照合。表示・転載・改変の画像別条件は確認待ちのため、出典リンクを掲載。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "原帖第 4 张立绘已核对 SHA-256。展示、转载和改编的逐件条件待核，词条提供出处链接。",
+          "en": "The source JPEG for the fourth image was checked by SHA-256. File-specific display, redistribution and adaptation terms remain open. The entry links to the publication.",
+          "ja": "原投稿の4枚目の画像を SHA-256 で照合。表示・転載・改変の画像別条件は確認待ちのため、出典リンクを掲載。"
+        }
+      }
+    }
+  },
+  {
     "characterId": "zipzippipe-mistral",
     "reviewedAt": "2026-11-20",
     "reviewBasis": "Creator gallery image number, dimensions and SHA-256 checked against the source archive.",
@@ -3418,26 +3511,37 @@
   },
   {
     "characterId": "zipzippipe-ernie",
-    "reviewedAt": "2026-11-23",
-    "reviewBasis": "The creator-published illustration and pinned archive copy were compared. The Pixiv attribution and noncommercial terms are documented.",
-    "artworks": [],
-    "evidence": [],
+    "reviewedAt": "2026-11-27",
+    "reviewBasis": "Creator gallery and original JPEG independently re-checked. This review permits full-image noncommercial display with attribution and only content-preserving preview processing.",
+    "artworks": [
+      {
+        "assetId": "portrait",
+        "sha256": "637a8bdad07ed5a730a1bffa7d8863417ae6193c1774d2387e0a9328d77cdd6e"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://www.pixiv.net/artworks/148186519",
+        "localPath": "collected/zipzippipe-ernie/evidence/source-statement-1.json",
+        "sha256": "a0ba1ddaaa2714f9cac1f325aa247d6e3293543ad8171409f2222ae4d237df76"
+      }
+    ],
     "evidenceUrl": "https://www.pixiv.net/artworks/148186519",
     "attribution": [
       {
         "name": "ZipZipPipe",
-        "url": "https://space.bilibili.com/4168597",
+        "url": "https://www.pixiv.net/users/18604994",
         "role": "original-character",
         "publication": "https://www.pixiv.net/artworks/148186519"
       }
     ],
     "uses": {
       "featured": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
         "conditions": {
-          "zh": "Pixiv 图集作者要求署名、禁止商用。固定档案另说明原图和派生设定图的权利范围。",
-          "en": "The Pixiv creator requires attribution and prohibits commercial use. The pinned archive describes the original and derived design sheets separately.",
-          "ja": "Pixiv の作者はクレジットを必須とし、商用利用を禁止。固定版のアーカイブに原画と派生設定資料の範囲を個別に記載。"
+          "zh": "仅在本站非商业图鉴中完整展示，保留作者链、原作入口与逐件使用条件；本站预览仅等比缩放、留白和格式转换。其他用途需另行核验。",
+          "en": "Full-image display in this non-commercial atlas only, with the creator chain, original link and artwork-specific terms. Previews only resize, pad and convert formats. Other uses require a separate review.",
+          "ja": "本非商用図鑑で画像全体を表示し、作者チェーン・原作リンク・作品別の利用条件を保持。プレビューは比率維持のリサイズ・余白・形式変換のみ。他の用途は別途確認が必要です。"
         }
       },
       "social-cover": {
@@ -3746,10 +3850,21 @@
   },
   {
     "characterId": "zipzippipe-rwkv",
-    "reviewedAt": "2026-11-23",
-    "reviewBasis": "Creator publication and exact source files verified. The atlas retains its source-only presentation.",
-    "artworks": [],
-    "evidence": [],
+    "reviewedAt": "2026-11-27",
+    "reviewBasis": "Creator gallery and original JPEG independently re-checked. This review permits full-image noncommercial display with attribution and only content-preserving preview processing.",
+    "artworks": [
+      {
+        "assetId": "portrait",
+        "sha256": "f7e60c1a3472eb047a388540c1d1fd1c9e0280d101344436884869e1e75f5036"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://www.pixiv.net/artworks/148186519",
+        "localPath": "collected/zipzippipe-rwkv/evidence/source-statement-1.json",
+        "sha256": "ee827d435351a551aeb0566f5bca5105b0603d0866c33c47735150a290fc8a7e"
+      }
+    ],
     "evidenceUrl": "https://www.pixiv.net/artworks/148186519",
     "attribution": [
       {
@@ -3761,11 +3876,11 @@
     ],
     "uses": {
       "featured": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
         "conditions": {
-          "zh": "作者要求署名并禁止商用。图集对衍生自上善无形的 DeepSeek 形象另注明 CC BY-NC-SA 4.0。",
-          "en": "The creator requires attribution and prohibits commercial use. The gallery separately names CC BY-NC-SA 4.0 for the DeepSeek design derived from 上善无形.",
-          "ja": "作者はクレジットを必須とし、商用利用を禁止。上善无形を原型とする DeepSeek のデザインには別途 CC BY-NC-SA 4.0 と記載。"
+          "zh": "仅在本站非商业图鉴中完整展示，保留作者链、原作入口与逐件使用条件；本站预览仅等比缩放、留白和格式转换。其他用途需另行核验。",
+          "en": "Full-image display in this non-commercial atlas only, with the creator chain, original link and artwork-specific terms. Previews only resize, pad and convert formats. Other uses require a separate review.",
+          "ja": "本非商用図鑑で画像全体を表示し、作者チェーン・原作リンク・作品別の利用条件を保持。プレビューは比率維持のリサイズ・余白・形式変換のみ。他の用途は別途確認が必要です。"
         }
       },
       "social-cover": {

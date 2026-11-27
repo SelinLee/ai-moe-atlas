@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1iLnj6fEbv/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1iLnj6fEbv",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:31.806Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1iLnj6fEbv",
+    "title": "献祭的圣女新娘Claude与远古邪神蓝色大肥鱼",
+    "owner": {
+      "mid": 9126506,
+      "name": "Mistral法棍猫在运营"
+    },
+    "pubdate": 1792374912,
+    "duration": 57
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "66249cf4b080c7433bd3452955c5c84887c5668287f3666b73ec49d520ac197d"
+}

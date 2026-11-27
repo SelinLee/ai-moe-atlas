@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV18CWu6MEjb/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18CWu6MEjb",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:36.394Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV18CWu6MEjb",
+    "title": "🐳大肥鱼手书🐳《我愛メイデン/淑女好逑》",
+    "owner": {
+      "mid": 3546786864040451,
+      "name": "神山肥鱼书"
+    },
+    "pubdate": 1794369600,
+    "duration": 91
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-cited-music",
+      "title": "BV12q4Zz4E6c",
+      "url": "https://www.bilibili.com/video/BV12q4Zz4E6c/"
+    },
+    {
+      "role": "song-author-release",
+      "title": "羽生まゐご feat. 初音ミク",
+      "url": "https://www.youtube.com/watch?v=piJKB--8Rs8"
+    }
+  ],
+  "descriptionSha256": "9b67067211c97c880a0015c0073bed25466e8be90860e8aa359cd6cb8c34e1f3"
+}

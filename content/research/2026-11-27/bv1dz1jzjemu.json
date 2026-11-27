@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1dz1JzjEmU/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dz1JzjEmU",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:25.231Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1dz1JzjEmU",
+    "title": "【大肥鱼激情翻唱】好好活下去",
+    "owner": {
+      "mid": 1710437956,
+      "name": "下北泽吟游诗人"
+    },
+    "pubdate": 1795773600,
+    "duration": 205
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

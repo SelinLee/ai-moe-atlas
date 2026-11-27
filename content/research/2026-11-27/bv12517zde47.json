@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV12517zdE47/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12517zdE47",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:26.765Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV12517zdE47",
+    "title": "大肥鱼翻唱《暖色呓语》｜喜欢你 要浪漫定义～",
+    "owner": {
+      "mid": 3690995870862161,
+      "name": "我不是只吃大白饭"
+    },
+    "pubdate": 1795695345,
+    "duration": 189
+  },
+  "sourceLinks": [
+    {
+      "role": "song-author-release",
+      "title": "花园花玲",
+      "url": "https://www.bilibili.com/video/BV19y4y1x7Dz/"
+    }
+  ],
+  "descriptionSha256": "8a6ff7b95b59bfae472ac0973f2a50c94b26e74be719e5320deb4d7fce3bf0ae"
+}

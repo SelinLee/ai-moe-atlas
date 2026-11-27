@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1gGyLzxEbc/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gGyLzxEbc",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:28.373Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1gGyLzxEbc",
+    "title": "震惊瘫坐！GPT制作自己的机娘战斗动画",
+    "owner": {
+      "mid": 617415849,
+      "name": "砂糖加塩"
+    },
+    "pubdate": 1795350613,
+    "duration": 60
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "6b880cdc3a0e331818675ea4a4632695f19997d26f8f955d90b47996cce847c0"
+}

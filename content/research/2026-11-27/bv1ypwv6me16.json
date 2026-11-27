@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1YpWv6mE16/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YpWv6mE16",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:36.437Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1YpWv6mE16",
+    "title": "【AI娘剧场】Claude用测谎仪面试大肥鱼",
+    "owner": {
+      "mid": 22875076,
+      "name": "夏萝依"
+    },
+    "pubdate": 1794564000,
+    "duration": 152
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-cited-reference",
+      "title": "BV1bx411q7jB",
+      "url": "https://www.bilibili.com/video/BV1bx411q7jB/"
+    }
+  ],
+  "descriptionSha256": "716129832da25a2d577023741025a2df88f13c19439a10ac265fea05cd85f900"
+}

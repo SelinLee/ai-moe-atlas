@@ -100,7 +100,8 @@ try {
   assert.equal(await rwkvCard.count(),1);
   await rwkvCard.locator('a[href$="/characters/zipzippipe-rwkv/"]').first().click();
   assert.ok(await page.locator('main a[href="https://www.pixiv.net/artworks/148186519"]').first().isVisible());
-  assert.equal(await page.locator('main a[download], .detail-art img').count(),0);
+  assert.ok(await page.locator('.detail-art img').isVisible());
+  assert.ok(await page.locator('main a[download][href$="/packs/zipzippipe-rwkv.zip"]').isVisible());
   await page.goto(`${origin}/${lang}/?model=muse`,{waitUntil:'domcontentloaded'});
   const museCard=page.locator('[data-card]:visible');
   assert.equal(await museCard.count(),chars.filter(c=>c.entity==='muse').length);
@@ -111,7 +112,8 @@ try {
   assert.equal(await page.locator('main a[download], .detail-art img').count(),0);
   await page.goto(`${origin}/${lang}/?model=mistral`,{waitUntil:'domcontentloaded'});
   const mistralCard=page.locator('[data-card]:visible');
-  assert.equal(await mistralCard.count(),2);
+  assert.equal(await mistralCard.count(),3);
+  assert.ok(await mistralCard.locator('a[href$="/characters/zipzippipe-mistral-first-portrait/"]').first().isVisible());
   assert.ok(await mistralCard.locator('a[href$="/characters/green-thursday-mistral-chorale/"]').first().isVisible());
   await mistralCard.locator('a[href$="/characters/zipzippipe-mistral/"]').first().click();
   assert.ok(await page.locator('a[href="https://www.bilibili.com/opus/1236803362705375305"]').first().isVisible());

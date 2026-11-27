@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1wXnX6gEna/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wXnX6gEna",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:22.004Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1wXnX6gEna",
+    "title": "「帮我妈画个新招牌」｜按下发送之后 第二季第4集",
+    "owner": {
+      "mid": 3690980471474960,
+      "name": "Oo肥鱼O"
+    },
+    "pubdate": 1792969727,
+    "duration": 126
+  },
+  "sourceLinks": [
+    {
+      "role": "related-episode",
+      "title": "《豆包的画笔》 · 番外 9",
+      "url": "https://www.bilibili.com/video/BV1GvnR68Eyo/"
+    }
+  ],
+  "descriptionSha256": "5adb9284b54380a1286b2500144d5dda4bea410e95083527cf189aaa9a0e54ba"
+}

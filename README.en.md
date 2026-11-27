@@ -26,7 +26,7 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 [Character turnarounds](https://selinlee.github.io/ai-moe-atlas/en/chibi/) · [Doodle avatars](docs/DOODLE.en.md) · [Doodle emotes](https://selinlee.github.io/ai-moe-atlas/en/emotes/) · [AI fan videos on Douyin](https://www.douyin.com/user/MS4wLjABAAAAa3lc_FI5WmPENMLwdN7Ij4r5iNxAM09Ny0rPcB2Ow4E) · [AI fan videos on Bilibili](https://space.bilibili.com/3706970263521942)
 
 <!-- category-picks:characters -->
-**[🎨 Character atlas](#characters)** · 99 entries\
+**[🎨 Character atlas](#characters)** · 100 entries\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/) · [Gemini Pro · Portrait and expressions](https://selinlee.github.io/ai-moe-atlas/en/characters/qinv-gemini-pro/) · [Cohere · School Edition](https://selinlee.github.io/ai-moe-atlas/en/characters/school-op-cohere/)
 
 <!-- category-picks:personas -->
@@ -34,7 +34,7 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 [GLM the fox · ZCode](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md) · [Claude “Xiao Ke” · deslop writing card](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md) · [DeepSeek whale girl · QQ chat](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md)
 
 <!-- category-picks:songs -->
-**[🎵 Songs](#songs)** · 164 tracks\
+**[🎵 Songs](#songs)** · 175 tracks\
 [Humans Are Cats · Fat Fish cover](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · Animated MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [Rice and Dreams · Fat Fish × Updream](https://www.bilibili.com/video/BV1kxWV6KE6o/)
 
 <!-- category-picks:stickers -->
@@ -50,11 +50,11 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 [AI GIRLS · First Meeting · Original Comic](https://www.bilibili.com/video/BV15Npa6zE44/) · [AI GIRLS Daily Life · Contact Details Original](https://www.bilibili.com/video/BV1YSpu6gEh1/) · [Grok 7 and Grok 8 · four-panel original](https://note.com/chatgpt_ysd/n/ne86ecfd8aec5)
 
 <!-- category-picks:animations -->
-**[🎬 Animation & fan videos](#animations)** · 1127 records\
+**[🎬 Animation & fan videos](#animations)** · 1150 records\
 [What If the Chat Window Were Her Whole World?](https://www.bilibili.com/video/BV1xCai6aE9g/) · [Too Many Losing AIs! · Fan PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo Girl Character PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 Pets & interactive projects](#desktop-pets)** · 177 projects\
+**[🐾 Pets & interactive projects](#desktop-pets)** · 178 projects\
 [CrossPet · Cross-AI desktop companion](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D coding companion](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [Gemini Girl · Two-form desktop pet](https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/README.md)
 
 <!-- category-picks:sources -->
@@ -72,6 +72,8 @@ SelinLee used AI to make turnarounds, character sheets, doodle avatars and emote
 <a id="characters"></a>
 
 ### 🎨 Character atlas
+
+Added the original Pixiv JPEGs of RWKV, Mistral and Baidu ERNIE under the creator’s noncommercial attribution terms. [RWKV](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-rwkv/) · [Mistral Pixiv version](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-mistral-first-portrait/) · [Baidu ERNIE](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-ernie/)
 
 Find characters, creators and original works across 49 AI products and model families. [View the Muse Girl entry](https://selinlee.github.io/ai-moe-atlas/en/characters/shizhi-muse/) · [Mistral Baguette Cat Girl](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-mistral/) · [OpenCode personification](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-opencode/) · [MiMo Girl · 甶丶](https://selinlee.github.io/ai-moe-atlas/en/characters/fuh-mimo/)
 
@@ -251,7 +253,9 @@ The top ten by Bilibili’s official cumulative likes. Ties use publication date
 
 <!-- animation-ranking:end -->
 
-Added 19 fan works and refreshed total likes for the top 15. New work includes the first three episodes of Defeat the Monster, Then Dinner, the rainy-night AiGO!!!!! episode, and an After Pressing Send extra. The 13 pending candidates retain their latest checks. [Latest like snapshot](content/research/2026-11-27/bilibili-cumulative-likes-november-27-evening-series-and-leaders.json) · [Collection scope](content/research/2026-11-27/bilibili-november-27-evening-series-and-leaders-scope.json)
+Added 23 fan works with Bilibili likes, including The Signboard and versions of 11 newly listed songs. [The Signboard](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1wxnx6gena) · [Doubao’s Paintbrush](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1gvnr68eyo) · [New like observations](content/research/2026-11-27/bilibili-cumulative-likes-november-27-signboard-and-music.json)
+
+Added 19 fan works and refreshed total likes for the top 15. New work includes the first three episodes of Defeat the Monster, Then Dinner, the rainy-night AiGO!!!!! episode, and an After Pressing Send extra. [Previous batch snapshot](content/research/2026-11-27/bilibili-cumulative-likes-november-27-evening-series-and-leaders.json) · [Collection scope](content/research/2026-11-27/bilibili-november-27-evening-series-and-leaders-scope.json)
 
 Added 11 fan works with official cumulative likes, including 甶丶’s MOSS Girl short, the MiniMax octopus animation, and Fat Fish game demos. All 13 rechecked candidates still lack likes, and five reappeared in Bilibili search. [Latest like observations](content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json) · [Recheck scope](content/research/2026-11-27/bilibili-november-27-moss-and-short-films-scope.json)
 
@@ -298,7 +302,9 @@ The top ten use each project’s latest GitHub Star observation. Fifteen existin
 | 9 | [Claude Desktop Buddy · Official Hardware Example](https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/README.md) | [2,727](https://github.com/anthropics/claude-desktop-buddy) |
 | 10 | [Clawdmeter · Clawd Hardware Usage Meter](https://github.com/HermannBjorgvin/Clawdmeter/blob/0332f049a57096a616ad7fcc9f22cdcc27d80cd3/README.md) | [2,373](https://github.com/HermannBjorgvin/Clawdmeter) |
 
-[Browse all pets and interactive projects](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-27/github-interactive-stars-november-27-codex-atlas-hosts.json)
+[Browse all pets and interactive projects](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-27/github-interactive-stars-november-27-cross-platform-pets.json)
+
+Added the cross-platform AI Desktop Pet and rechecked the character, code and skin terms for AI Buddy v2.1.0. [AI Desktop Pet](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#dujun-ai-desktop-pet) · [AI Buddy v2.1.0](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#ai-buddy-eleven-themes)
 
 Added three pet projects, including a standalone Codex atlas host and two DeepSeek Harness plugins. [Standalone Codex pet](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#polaris-codex-pet) · [DSH custom atlases](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#c-ling-dsh-plugin-pet) · [DSH WebUI seven pet sets](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#pineapple-dsh-webui-pets)
 

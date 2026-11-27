@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1um4u6jE1V/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1um4u6jE1V",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:33.337Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1um4u6jE1V",
+    "title": "二创了一个大肥鱼大战克劳德娘的小游戏～你会选谁",
+    "owner": {
+      "mid": 252931529,
+      "name": "yoyo的游戏灵感屋"
+    },
+    "pubdate": 1793674145,
+    "duration": 31
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+}

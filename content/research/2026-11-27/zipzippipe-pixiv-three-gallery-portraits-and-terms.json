@@ -1,0 +1,51 @@
+{
+  "pageUrl": "https://www.pixiv.net/artworks/148186519",
+  "apiUrl": "https://www.pixiv.net/ajax/illust/148186519",
+  "accessedAt": "2026-11-27T11:20:27.860Z",
+  "httpStatus": 200,
+  "apiResponseSha256": "178da6d5bf30952244663f04c61eb98e116a7f39b9d1662d668f7a68ec595bd1",
+  "pagesResponseSha256": "10bf5f1cb1a2cf72a64dcf20b2e274b3e6d3466e11c2ca659ac4b8432b090d7c",
+  "htmlSha256": "c7657ac2b4acf2b4011c02e2220ec9be19f53f7754fc136921db4bffe296f336",
+  "title": "AI娘化",
+  "author": "ZipZipPipe",
+  "authorId": "18604994",
+  "publishedAt": "2026-08-08T16:18:00+00:00",
+  "permissionText": "作为保存用，方便所有人取用，需要标注作者，不可商用。\n\nAI娘可爱捏。\n\n其中deepseek娘形象基于用户：上善 的鲸鱼娘形象，针对deepseek特定形象进行的二次创作，遵循原作者签署的CC BY-NC-SA 4.0协议。",
+  "files": [
+    {
+      "position": 9,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p8.jpg",
+      "sha256": "f7e60c1a3472eb047a388540c1d1fd1c9e0280d101344436884869e1e75f5036",
+      "width": 2160,
+      "height": 3840,
+      "bytes": 5716740,
+      "observedAt": "2026-11-27T11:20:25.701Z",
+      "characterId": "zipzippipe-rwkv"
+    },
+    {
+      "position": 10,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p9.jpg",
+      "sha256": "133844aca2cd82401125a2783207a902b6449f7c759b25905f3b0239cb775d80",
+      "width": 941,
+      "height": 1672,
+      "bytes": 1740561,
+      "observedAt": "2026-11-27T11:20:26.332Z",
+      "characterId": "zipzippipe-mistral-first-portrait"
+    },
+    {
+      "position": 12,
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p11.jpg",
+      "sha256": "637a8bdad07ed5a730a1bffa7d8863417ae6193c1774d2387e0a9328d77cdd6e",
+      "width": 3072,
+      "height": 5504,
+      "bytes": 11254649,
+      "observedAt": "2026-11-27T11:20:27.860Z",
+      "characterId": "zipzippipe-ernie"
+    }
+  ],
+  "previousGalleryEvidence": {
+    "path": "content/research/2026-11-23/zipzippipe-pixiv-first-gallery-rwkv.json",
+    "sha256": "8cb4cefcb9cfa4a43aa44ee0de094986cde82b1e25628049b2bc2705920e3e56"
+  },
+  "scope": "Pages 9, 10 and 12 match the previous 17-page capture by SHA-256. The creator caption applies attribution and noncommercial terms, with a distinct DeepSeek clause. Page 10 is a different illustration from page 4 of the second Bilibili gallery."
+}

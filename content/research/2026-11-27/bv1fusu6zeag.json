@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1FUsu6ZEaG/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1FUsu6ZEaG",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:34.866Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1FUsu6ZEaG",
+    "title": "【蓝色大肥鱼/原创手书MV】当你把DeepSeek骂急眼：你越骂我越赚金币！《嘻嘻！骗到一碗饭》",
+    "owner": {
+      "mid": 1548175124,
+      "name": "阿宝养的大肥鱼"
+    },
+    "pubdate": 1794895964,
+    "duration": 64
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "898a85c6ba42e8dc311a764997c697bd807bfdd69daddea2e03249026814dcad"
+}

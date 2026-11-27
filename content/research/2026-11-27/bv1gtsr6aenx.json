@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1gtsr6aEnx/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gtsr6aEnx",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:31.442Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1gtsr6aEnx",
+    "title": "【大肥鱼】《别看尾巴，看招牌》",
+    "owner": {
+      "mid": 325756,
+      "name": "相貌平平雨宫莲OFFICIAL"
+    },
+    "pubdate": 1794916849,
+    "duration": 182
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "c320188ea5031c9b845eaf5a3177e1d51b1b03c4443789489889ef12fea2d843"
+}

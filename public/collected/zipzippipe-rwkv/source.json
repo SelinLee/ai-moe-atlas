@@ -1,0 +1,100 @@
+{
+  "id": "zipzippipe-rwkv",
+  "characterId": "zipzippipe-rwkv",
+  "platform": "pixiv",
+  "revision": "pixiv-148186519-2026-11-27",
+  "pageUrl": "https://www.pixiv.net/artworks/148186519",
+  "originalPublication": "https://www.pixiv.net/artworks/148186519",
+  "collectedAt": "2026-11-27",
+  "attribution": [
+    {
+      "name": "ZipZipPipe",
+      "url": "https://www.pixiv.net/users/18604994",
+      "role": "original-character",
+      "publication": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "provenanceStatus": "creator-published",
+  "rights": {
+    "license": "LicenseRef-ZipZipPipe-NC",
+    "scope": "artwork",
+    "display": true,
+    "redistribute": true,
+    "modify": false,
+    "normalizationOnly": true,
+    "modificationScope": "technical-format-and-size-only",
+    "commercial": false,
+    "terms": {
+      "zh": "依作者条件署名 ZipZipPipe，仅作非商业取用。预览仅等比缩放与格式转换。图集的 CC BY-NC-SA 4.0 声明适用于 DeepSeek 形象。作品中出现的产品标识仍归各权利方。",
+      "en": "Credit ZipZipPipe and use the artwork noncommercially under the creator’s terms. Previews only resize proportionally and convert formats. The gallery’s CC BY-NC-SA 4.0 statement applies to the DeepSeek design. Product marks in the illustration remain with their respective holders.",
+      "ja": "作者の条件に従い、ZipZipPipe をクレジットし非商用で利用してください。プレビューは縦横比を保つリサイズと形式変換のみ。作品集の CC BY-NC-SA 4.0 表記は DeepSeek のデザインに適用。作品中の製品マークの権利はそれぞれの権利者に帰属します。"
+    },
+    "evidenceUrl": "https://www.pixiv.net/artworks/148186519",
+    "reviewedAt": "2026-11-27",
+    "reviewedBy": "AI Moe Atlas source review",
+    "reviewNote": "The creator's original gallery offers the files for use with credit and prohibits commercial use. This review covers only original JPEG 9 and content-preserving preview generation. The separate CC BY-NC-SA 4.0 notice applies to DeepSeek. Product marks retain their respective rights."
+  },
+  "evidenceSnapshots": [
+    {
+      "url": "https://www.pixiv.net/artworks/148186519",
+      "apiUrl": "https://www.pixiv.net/ajax/illust/148186519",
+      "observedAt": "2026-11-27T11:20:25.701Z",
+      "method": "isolated headless Google Chrome, creator caption and original bytes",
+      "author": "ZipZipPipe",
+      "authorId": "18604994",
+      "title": "AI娘化",
+      "publishedAt": "2026-08-08T16:18:00+00:00",
+      "permissionText": "作为保存用，方便所有人取用，需要标注作者，不可商用。\n\nAI娘可爱捏。\n\n其中deepseek娘形象基于用户：上善 的鲸鱼娘形象，针对deepseek特定形象进行的二次创作，遵循原作者签署的CC BY-NC-SA 4.0协议。",
+      "pageCount": 17,
+      "selectedPage": 9,
+      "originalUrl": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p8.jpg",
+      "width": 2160,
+      "height": 3840,
+      "apiResponseSha256": "178da6d5bf30952244663f04c61eb98e116a7f39b9d1662d668f7a68ec595bd1",
+      "pagesResponseSha256": "10bf5f1cb1a2cf72a64dcf20b2e274b3e6d3466e11c2ca659ac4b8432b090d7c"
+    }
+  ],
+  "files": [
+    {
+      "id": "portrait",
+      "path": "148186519_p8.jpg",
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p8.jpg",
+      "sha256": "f7e60c1a3472eb047a388540c1d1fd1c9e0280d101344436884869e1e75f5036",
+      "pageNumber": 9,
+      "label": {
+        "zh": "作者发布的完整立绘",
+        "en": "Creator-published full portrait",
+        "ja": "作者公開の全身立ち絵"
+      }
+    }
+  ],
+  "retrievedAt": "2026-11-27T11:24:03.520Z",
+  "evidence": [
+    {
+      "sourceUrl": "https://www.pixiv.net/artworks/148186519",
+      "localPath": "collected/zipzippipe-rwkv/evidence/source-statement-1.json",
+      "sha256": "ee827d435351a551aeb0566f5bca5105b0603d0866c33c47735150a290fc8a7e"
+    }
+  ],
+  "originals": [
+    {
+      "id": "portrait",
+      "path": "148186519_p8.jpg",
+      "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p8.jpg",
+      "sha256": "f7e60c1a3472eb047a388540c1d1fd1c9e0280d101344436884869e1e75f5036",
+      "pageNumber": 9,
+      "label": {
+        "zh": "作者发布的完整立绘",
+        "en": "Creator-published full portrait",
+        "ja": "作者公開の全身立ち絵"
+      },
+      "sourceUrl": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p8.jpg",
+      "sourcePage": "https://www.pixiv.net/artworks/148186519",
+      "localPath": "collected/zipzippipe-rwkv/portrait/original.jpg",
+      "width": 2160,
+      "height": 3840,
+      "alpha": false,
+      "bytes": 5716740
+    }
+  ]
+}

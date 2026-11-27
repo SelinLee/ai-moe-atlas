@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1yHsg6NEaW/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yHsg6NEaW",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:34.862Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1yHsg6NEaW",
+    "title": "【蓝色大肥鱼/原创手书MV】漏风奶音致命撒娇！写崩代码抱铁盆讨饭《人家笨笨嘛（大白米晃）》",
+    "owner": {
+      "mid": 1548175124,
+      "name": "阿宝养的大肥鱼"
+    },
+    "pubdate": 1794895851,
+    "duration": 121
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "3b5c362b2ed2180b2eb3fd22b6d61ca047bda0efc17f779bfe5635f039dd7168"
+}

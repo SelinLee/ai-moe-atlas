@@ -4,7 +4,7 @@
     "title": {"zh": "人是猫", "en": "Humans Are Cats", "ja": "人は猫"},
     "original": {"credit": "张卡斯 · 洛天依", "url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/"},
     "image": {"path": "collected/deep-whale-maid/delighted/preview.webp", "kind": "characterReference", "credit": "上善无形 → ZipZipPipe → Small-tailqwq", "source": "https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier"},
-    "versions": [{"id": "bv1fypn6sek9", "type": "cover"}, {"id": "bv1xxhd6see7", "type": "cover"}, {"id": "bv1tujd63ejp", "type": "mv"}, {"id": "bv1jn4y1z7hu", "type": "mv"}, {"id": "bv11kh76mezy", "type": "cover"}]
+    "versions": [{"id": "bv1fypn6sek9", "type": "cover"}, {"id": "bv1xxhd6see7", "type": "cover"}, {"id": "bv1tujd63ejp", "type": "mv"}, {"id": "bv1jn4y1z7hu", "type": "mv"}, {"id": "bv11kh76mezy", "type": "cover"}, {"id": "bv1vzw36uesr", "type": "mv"}]
   },
   {
     "id": "let-me-go",
@@ -1055,5 +1055,71 @@
     "title": {"zh": "春日残响 · Legacy Weights", "en": "Spring Resonance · Legacy Weights", "ja": "春日の残響 · Legacy Weights"},
     "original": {"credit": "穿睡衣的小白白", "url": "https://www.bilibili.com/video/BV121W864EVe/"},
     "versions": [{"id": "bv121w864eve", "type": "original-mv"}]
+  },
+  {
+    "id": "warm-reverie",
+    "title": {"zh": "暖色呓语", "en": "Warm Reverie", "ja": "暖色呓語"},
+    "original": {"credit": "花园花玲", "url": "https://www.bilibili.com/video/BV19y4y1x7Dz/"},
+    "versions": [{"id": "bv12517zde47", "type": "cover"}]
+  },
+  {
+    "id": "tsuki-no-wan",
+    "title": {"zh": "月の椀", "en": "Tsuki no Wan", "ja": "月の椀"},
+    "original": {"credit": "サカナクション", "url": "https://sakanaction.jp/feature/adapt_concept_album"},
+    "versions": [{"id": "bv1y1ysz9ezz", "type": "cover"}]
+  },
+  {
+    "id": "ripples-of-past-reverie",
+    "title": {"zh": "昔涟", "en": "Ripples of Past Reverie", "ja": "過去の夢のさざ波"},
+    "original": {"credit": "HOYO-MiX", "url": "https://sr.mihoyo.com/news/160771?type=news"},
+    "versions": [{"id": "bv1qbsb6pexh", "type": "mv"}]
+  },
+  {
+    "id": "suki-yuri",
+    "title": {"zh": "隙（Suki）", "en": "Suki", "ja": "隙（Suki）"},
+    "original": {"credit": "ゆーり", "url": "https://www.youtube.com/watch?v=zczjerfFrSI"},
+    "versions": [{"id": "bv1lnw66vewh", "type": "mv"}]
+  },
+  {
+    "id": "look-at-the-sign",
+    "title": {"zh": "别看尾巴，看招牌", "en": "Look at the Sign", "ja": "看板を見て"},
+    "original": {"credit": "相貌平平雨宫莲OFFICIAL", "url": "https://www.bilibili.com/video/BV1gtsr6aEnx/"},
+    "versions": [{"id": "bv1gtsr6aenx", "type": "original-mv"}]
+  },
+  {
+    "id": "kawaiku-naritai",
+    "title": {"zh": "想要变得可爱", "en": "Kawaiku Naritai", "ja": "可愛くなりたい"},
+    "original": {"credit": "HoneyWorks feat. 成海聖奈（CV：雨宮天）", "url": "https://honeyworks.jp/special/"},
+    "versions": [{"id": "bv1s6nc64ebc", "type": "mv"}]
+  },
+  {
+    "id": "hehe-a-bowl-of-rice",
+    "title": {"zh": "嘻嘻！骗到一碗饭", "en": "Hehe, I Got a Bowl of Rice!", "ja": "えへへ、ごはん一杯ゲット！"},
+    "original": {"credit": "阿宝养的大肥鱼", "url": "https://www.bilibili.com/video/BV1FUsu6ZEaG/"},
+    "versions": [{"id": "bv1fusu6zeag", "type": "original-mv"}]
+  },
+  {
+    "id": "im-a-little-silly",
+    "title": {"zh": "人家笨笨嘛（大白米晃）", "en": "I’m Just a Little Silly", "ja": "ちょっぴりおバカなの"},
+    "original": {"credit": "阿宝养的大肥鱼", "url": "https://www.bilibili.com/video/BV1yHsg6NEaW/"},
+    "versions": [{"id": "bv1yhsg6neaw", "type": "original-mv"}]
+  },
+  {
+    "id": "wo-ai-maiden",
+    "title": {"zh": "我愛メイデン（淑女好逑）", "en": "Wo Ai Maiden", "ja": "我愛メイデン"},
+    "original": {"credit": "羽生まゐご feat. 初音ミク", "url": "https://www.youtube.com/watch?v=piJKB--8Rs8"},
+    "versions": [{"id": "bv18cwu6mejb", "type": "mv"}]
+  },
+  {
+    "id": "koioto-to-amazora",
+    "title": {"zh": "恋音と雨空", "en": "Koioto to Amazora", "ja": "恋音と雨空"},
+    "original": {"credit": "AAA", "url": "https://avex.jp/aaa/discography/detail.php?id=1004458"},
+    "versions": [{"id": "bv1l6wv6def1", "type": "mv"}]
+  },
+  {
+    "id": "hate-me-love-me",
+    "title": {"zh": "Hate me_ Love me_", "en": "Hate me_ Love me_", "ja": "Hate me_ Love me_"},
+    "original": {"credit": "425号杀手-D老师共用中", "url": "https://www.bilibili.com/video/BV1mAxg63EzX/"},
+    "versions": [{"id": "bv1maxg63ezx", "type": "original-mv"}]
   }
 ]

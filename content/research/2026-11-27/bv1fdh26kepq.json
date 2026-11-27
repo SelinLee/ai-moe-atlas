@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1fDh26kEpq/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fDh26kEpq",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:25.207Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1fDh26kEpq",
+    "title": "日本狐狸初遇蓝色大肥鱼🐟",
+    "owner": {
+      "mid": 3493092934027796,
+      "name": "祈願琉璃_Official"
+    },
+    "pubdate": 1790332200,
+    "duration": 139
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "91ef89403912f1c3b904567f0e0c49c33ea00b6f7147cf9d81d31b3f17246d77"
+}

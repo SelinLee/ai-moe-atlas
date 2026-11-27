@@ -1,0 +1,63 @@
+{
+  "full_name": "lXiaoSel1/AI-Buddy",
+  "html_url": "https://github.com/lXiaoSel1/AI-Buddy",
+  "stargazers_count": 52,
+  "archived": false,
+  "created_at": "2026-10-12T07:25:24Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "5a3d8275e0eaa41991b4cae76e412ac8542d599d",
+  "observedAt": "2026-11-27T11:19:05.888Z",
+  "httpStatus": 200,
+  "metadataSha256": "511bc08fd6a603be2d41d476b4825cf9c0cd60de24a47764a11ce05da9a1a3ba",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/lXiaoSel1/AI-Buddy/blob/5a3d8275e0eaa41991b4cae76e412ac8542d599d/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/lXiaoSel1/AI-Buddy/5a3d8275e0eaa41991b4cae76e412ac8542d599d/README.md",
+      "sourceSha256": "4a75bd405bda418422ea87c2e228ab2425e1e7dcb3ceb2eda2859cdeae0bac85",
+      "gitBlobSha": "354f43b9bc4ac38822a5d63184a475d48e3cc411",
+      "bytes": 97750,
+      "commit": "5a3d8275e0eaa41991b4cae76e412ac8542d599d",
+      "accessedAt": "2026-11-27T11:27:04.289Z"
+    },
+    {
+      "path": "README.en.md",
+      "url": "https://github.com/lXiaoSel1/AI-Buddy/blob/5a3d8275e0eaa41991b4cae76e412ac8542d599d/README.en.md",
+      "rawUrl": "https://raw.githubusercontent.com/lXiaoSel1/AI-Buddy/5a3d8275e0eaa41991b4cae76e412ac8542d599d/README.en.md",
+      "sourceSha256": "22b70d827c513f397461390995a64533c8f0459bd0081355ff6982834867b6cc",
+      "gitBlobSha": "1bb98ac4a9ec4ed84fbb80fe36728da917e4c925",
+      "bytes": 108116,
+      "commit": "5a3d8275e0eaa41991b4cae76e412ac8542d599d",
+      "accessedAt": "2026-11-27T11:27:04.690Z"
+    },
+    {
+      "path": "LICENSE.md",
+      "url": "https://github.com/lXiaoSel1/AI-Buddy/blob/5a3d8275e0eaa41991b4cae76e412ac8542d599d/LICENSE.md",
+      "rawUrl": "https://raw.githubusercontent.com/lXiaoSel1/AI-Buddy/5a3d8275e0eaa41991b4cae76e412ac8542d599d/LICENSE.md",
+      "sourceSha256": "743e12419085102e444fd36c1df870d9fcd64badcc03cc551ae0fae81f517b3a",
+      "gitBlobSha": "a4f07f7d22d8cb25e0d1fe7188178370cb712126",
+      "bytes": 13663,
+      "commit": "5a3d8275e0eaa41991b4cae76e412ac8542d599d",
+      "accessedAt": "2026-11-27T11:27:05.020Z"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "url": "https://github.com/lXiaoSel1/AI-Buddy/blob/5a3d8275e0eaa41991b4cae76e412ac8542d599d/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/lXiaoSel1/AI-Buddy/5a3d8275e0eaa41991b4cae76e412ac8542d599d/THIRD_PARTY_NOTICES.md",
+      "sourceSha256": "5d4a85849e22dc5b2e36180368eda066bfee79f8d17d1523d157a4a8ac520dea",
+      "gitBlobSha": "9d9bbfd87248d50ae71b4ff6c5c18e6d19a15c07",
+      "bytes": 8843,
+      "commit": "5a3d8275e0eaa41991b4cae76e412ac8542d599d",
+      "accessedAt": "2026-11-27T11:27:05.358Z"
+    }
+  ],
+  "scope": "Pinned v2.1.0 README, English README, code license and third-party notice match Git blob and SHA-256. The express terms distinguish code and upstream image assets and generated character assets.",
+  "previousEvidence": {
+    "path": "content/research/2026-11-18/ai-buddy-eleven-themes.json",
+    "sha256": "7732ba34e61c7a453aa3d4ab8ec2f0be05e20f28e9571ab99e94815223669ddf",
+    "kind": "browser-metadata-extract"
+  },
+  "accessedAt": "2026-11-27T11:27:05.358Z"
+}

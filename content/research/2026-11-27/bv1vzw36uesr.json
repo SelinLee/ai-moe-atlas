@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1VzW36UESr/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VzW36UESr",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:37.991Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1VzW36UESr",
+    "title": "【大肥鱼手书｜人是猫】！！！",
+    "owner": {
+      "mid": 511577386,
+      "name": "屑老板的泡泡"
+    },
+    "pubdate": 1794311558,
+    "duration": 53
+  },
+  "sourceLinks": [
+    {
+      "role": "song-author-release",
+      "title": "张卡斯 · 洛天依",
+      "url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/"
+    }
+  ],
+  "descriptionSha256": "4f47afc7168a3a5d18578239d4e682630e1879f62ec12a155475305413183a76"
+}

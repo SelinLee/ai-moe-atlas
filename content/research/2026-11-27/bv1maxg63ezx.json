@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1mAxg63EzX/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mAxg63EzX",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:39.546Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1mAxg63EzX",
+    "title": "【原创曲 / 大肥鱼手书】Hate me_ Love me_｜爱我，然后恨我",
+    "owner": {
+      "mid": 20875846,
+      "name": "425号杀手-D老师共用中"
+    },
+    "pubdate": 1793105686,
+    "duration": 235
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "777c0665be385f8888f8f5f46ccc1995c9d002943b5a30991b3df1bb9a3066aa"
+}

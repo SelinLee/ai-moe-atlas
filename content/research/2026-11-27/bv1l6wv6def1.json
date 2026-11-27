@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1L6WV6dEF1/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1L6WV6dEF1",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:37.987Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1L6WV6dEF1",
+    "title": "【恋音と雨空】Claude×大肥鱼百合手书",
+    "owner": {
+      "mid": 1907063783,
+      "name": "爱芙桃可不是缪谬"
+    },
+    "pubdate": 1794329189,
+    "duration": 319
+  },
+  "sourceLinks": [
+    {
+      "role": "song-author-release",
+      "title": "AAA",
+      "url": "https://avex.jp/aaa/discography/detail.php?id=1004458"
+    }
+  ],
+  "descriptionSha256": "6fb5a357145cc4aaf147bc37adde2af8107f557c4f5a370f77aff867c1da985d"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1zVyxzvEE9/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zVyxzvEE9",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:28.329Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1zVyxzvEE9",
+    "title": "第七集：意气风发的龙娘（GPT）",
+    "owner": {
+      "mid": 485955507,
+      "name": "哭唧唧的米粉"
+    },
+    "pubdate": 1795307400,
+    "duration": 135
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

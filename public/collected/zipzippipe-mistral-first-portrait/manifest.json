@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "characterId": "zipzippipe-mistral-first-portrait",
+  "source": {
+    "id": "zipzippipe-mistral-first-portrait",
+    "characterId": "zipzippipe-mistral-first-portrait",
+    "platform": "pixiv",
+    "revision": "pixiv-148186519-2026-11-27",
+    "pageUrl": "https://www.pixiv.net/artworks/148186519",
+    "originalPublication": "https://www.pixiv.net/artworks/148186519",
+    "collectedAt": "2026-11-27",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "original-character",
+        "publication": "https://www.pixiv.net/artworks/148186519"
+      }
+    ],
+    "provenanceStatus": "creator-published",
+    "rights": {
+      "license": "LicenseRef-ZipZipPipe-NC",
+      "scope": "artwork",
+      "display": true,
+      "redistribute": true,
+      "modify": false,
+      "normalizationOnly": true,
+      "modificationScope": "technical-format-and-size-only",
+      "commercial": false,
+      "terms": {
+        "zh": "依作者条件署名 ZipZipPipe，仅作非商业取用。预览仅等比缩放与格式转换。图集的 CC BY-NC-SA 4.0 声明适用于 DeepSeek 形象。作品中出现的产品标识仍归各权利方。",
+        "en": "Credit ZipZipPipe and use the artwork noncommercially under the creator’s terms. Previews only resize proportionally and convert formats. The gallery’s CC BY-NC-SA 4.0 statement applies to the DeepSeek design. Product marks in the illustration remain with their respective holders.",
+        "ja": "作者の条件に従い、ZipZipPipe をクレジットし非商用で利用してください。プレビューは縦横比を保つリサイズと形式変換のみ。作品集の CC BY-NC-SA 4.0 表記は DeepSeek のデザインに適用。作品中の製品マークの権利はそれぞれの権利者に帰属します。"
+      },
+      "evidenceUrl": "https://www.pixiv.net/artworks/148186519",
+      "reviewedAt": "2026-11-27",
+      "reviewedBy": "AI Moe Atlas source review",
+      "reviewNote": "The creator's original gallery offers the files for use with credit and prohibits commercial use. This review covers only original JPEG 10 and content-preserving preview generation. The separate CC BY-NC-SA 4.0 notice applies to DeepSeek. Product marks retain their respective rights."
+    },
+    "evidenceSnapshots": [
+      {
+        "url": "https://www.pixiv.net/artworks/148186519",
+        "apiUrl": "https://www.pixiv.net/ajax/illust/148186519",
+        "observedAt": "2026-11-27T11:20:26.332Z",
+        "method": "isolated headless Google Chrome, creator caption and original bytes",
+        "author": "ZipZipPipe",
+        "authorId": "18604994",
+        "title": "AI娘化",
+        "publishedAt": "2026-08-08T16:18:00+00:00",
+        "permissionText": "作为保存用，方便所有人取用，需要标注作者，不可商用。\n\nAI娘可爱捏。\n\n其中deepseek娘形象基于用户：上善 的鲸鱼娘形象，针对deepseek特定形象进行的二次创作，遵循原作者签署的CC BY-NC-SA 4.0协议。",
+        "pageCount": 17,
+        "selectedPage": 10,
+        "originalUrl": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p9.jpg",
+        "width": 941,
+        "height": 1672,
+        "apiResponseSha256": "178da6d5bf30952244663f04c61eb98e116a7f39b9d1662d668f7a68ec595bd1",
+        "pagesResponseSha256": "10bf5f1cb1a2cf72a64dcf20b2e274b3e6d3466e11c2ca659ac4b8432b090d7c"
+      }
+    ],
+    "files": [
+      {
+        "id": "portrait",
+        "path": "148186519_p9.jpg",
+        "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p9.jpg",
+        "sha256": "133844aca2cd82401125a2783207a902b6449f7c759b25905f3b0239cb775d80",
+        "pageNumber": 10,
+        "label": {
+          "zh": "作者发布的完整立绘",
+          "en": "Creator-published full portrait",
+          "ja": "作者公開の全身立ち絵"
+        }
+      }
+    ],
+    "retrievedAt": "2026-11-27T11:24:04.564Z",
+    "evidence": [
+      {
+        "sourceUrl": "https://www.pixiv.net/artworks/148186519",
+        "localPath": "collected/zipzippipe-mistral-first-portrait/evidence/source-statement-1.json",
+        "sha256": "d1af786b973eef8d6be16360f74165fe9b401bd31a339a726d4501a2715f32a7"
+      }
+    ],
+    "originals": [
+      {
+        "id": "portrait",
+        "path": "148186519_p9.jpg",
+        "url": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p9.jpg",
+        "sha256": "133844aca2cd82401125a2783207a902b6449f7c759b25905f3b0239cb775d80",
+        "pageNumber": 10,
+        "label": {
+          "zh": "作者发布的完整立绘",
+          "en": "Creator-published full portrait",
+          "ja": "作者公開の全身立ち絵"
+        },
+        "sourceUrl": "https://i.pximg.net/img-original/img/2026/08/09/01/18/27/148186519_p9.jpg",
+        "sourcePage": "https://www.pixiv.net/artworks/148186519",
+        "localPath": "collected/zipzippipe-mistral-first-portrait/portrait/original.jpg",
+        "width": 941,
+        "height": 1672,
+        "alpha": false,
+        "bytes": 1740561
+      }
+    ]
+  },
+  "normalization": {
+    "tool": "sharp 0.34.5",
+    "policy": "preserve-original-identity",
+    "generative": false,
+    "notes": "Fit complete original to canvas. No new pose, expression, costume, background removal, or invented detail. 2x output is resampling, not recovered detail."
+  },
+  "assets": [
+    {
+      "id": "portrait",
+      "label": {
+        "zh": "作者发布的完整立绘",
+        "en": "Creator-published full portrait",
+        "ja": "作者公開の全身立ち絵"
+      },
+      "original": "collected/zipzippipe-mistral-first-portrait/portrait/original.jpg",
+      "originalSha256": "133844aca2cd82401125a2783207a902b6449f7c759b25905f3b0239cb775d80",
+      "outputs": [
+        {
+          "path": "collected/zipzippipe-mistral-first-portrait/portrait/standard.png",
+          "sha256": "a9461666fc236c03b3d4b330bf61c49b75816627fde6a31950a42396fad69e58",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "133844aca2cd82401125a2783207a902b6449f7c759b25905f3b0239cb775d80"
+        },
+        {
+          "path": "collected/zipzippipe-mistral-first-portrait/portrait/preview.webp",
+          "sha256": "2c1078390ccd970b57b65e121a5db41b593b4d75048a3d69cc3aa7bdb6fc1dd0",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "133844aca2cd82401125a2783207a902b6449f7c759b25905f3b0239cb775d80"
+        },
+        {
+          "path": "collected/zipzippipe-mistral-first-portrait/portrait/avatar.png",
+          "sha256": "27d10d1cc5eb7632d8535a28eff33ae064bb9941f8ccd87445dceb7191f3436c",
+          "width": 256,
+          "height": 256,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "133844aca2cd82401125a2783207a902b6449f7c759b25905f3b0239cb775d80"
+        },
+        {
+          "path": "collected/zipzippipe-mistral-first-portrait/portrait/large-1024.png",
+          "sha256": "59c0862f38649ef8c63b12238289376a06f4613d2e0bbe538d0e1a2cf26e4929",
+          "width": 1024,
+          "height": 1024,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "133844aca2cd82401125a2783207a902b6449f7c759b25905f3b0239cb775d80"
+        }
+      ]
+    }
+  ]
+}

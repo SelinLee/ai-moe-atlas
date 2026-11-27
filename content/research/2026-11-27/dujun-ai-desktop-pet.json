@@ -1,0 +1,58 @@
+{
+  "full_name": "dujun015-design/ai-desktop-pet",
+  "html_url": "https://github.com/dujun015-design/ai-desktop-pet",
+  "stargazers_count": 5,
+  "archived": false,
+  "created_at": "2026-05-18T11:42:47Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "b75ed824e799bc957cda4095c8b66e5fbe4ce75c",
+  "observedAt": "2026-11-27T11:19:11.634Z",
+  "httpStatus": 200,
+  "metadataSha256": "cc20d2e3e2e7c6c06c2639b3f23f69768cec79fad277981aeb6243d070dfdf55",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/dujun015-design/ai-desktop-pet/blob/b75ed824e799bc957cda4095c8b66e5fbe4ce75c/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/dujun015-design/ai-desktop-pet/b75ed824e799bc957cda4095c8b66e5fbe4ce75c/README.md",
+      "sourceSha256": "d8691abc0a3a94570ef288359ee17590e993b79640b487e9f455d81cfc35ae63",
+      "gitBlobSha": "97b1b946db409aaa1cf0737a0bb579e24f1d93e5",
+      "bytes": 2781,
+      "commit": "b75ed824e799bc957cda4095c8b66e5fbe4ce75c",
+      "accessedAt": "2026-11-27T11:27:02.772Z"
+    },
+    {
+      "path": "package.json",
+      "url": "https://github.com/dujun015-design/ai-desktop-pet/blob/b75ed824e799bc957cda4095c8b66e5fbe4ce75c/package.json",
+      "rawUrl": "https://raw.githubusercontent.com/dujun015-design/ai-desktop-pet/b75ed824e799bc957cda4095c8b66e5fbe4ce75c/package.json",
+      "sourceSha256": "29e6816aa2eb4207a791f2835757fe9d120d0011bd41d2c993b39c2672e1c463",
+      "gitBlobSha": "8362ac6333f625a442e989e9a57f51f5c60878ab",
+      "bytes": 1531,
+      "commit": "b75ed824e799bc957cda4095c8b66e5fbe4ce75c",
+      "accessedAt": "2026-11-27T11:27:03.129Z"
+    },
+    {
+      "path": "assets/skins/clawd/manifest.json",
+      "url": "https://github.com/dujun015-design/ai-desktop-pet/blob/b75ed824e799bc957cda4095c8b66e5fbe4ce75c/assets/skins/clawd/manifest.json",
+      "rawUrl": "https://raw.githubusercontent.com/dujun015-design/ai-desktop-pet/b75ed824e799bc957cda4095c8b66e5fbe4ce75c/assets/skins/clawd/manifest.json",
+      "sourceSha256": "e606b9d0c65acd07c725a2c9224968281be571930cc1adf1f3383f32e757b764",
+      "gitBlobSha": "2486ffda5f5d1ed4250ba390cefe91ae1e7ef899",
+      "bytes": 182,
+      "commit": "b75ed824e799bc957cda4095c8b66e5fbe4ce75c",
+      "accessedAt": "2026-11-27T11:27:03.464Z"
+    },
+    {
+      "path": "assets/skins/golden-chibi/manifest.json",
+      "url": "https://github.com/dujun015-design/ai-desktop-pet/blob/b75ed824e799bc957cda4095c8b66e5fbe4ce75c/assets/skins/golden-chibi/manifest.json",
+      "rawUrl": "https://raw.githubusercontent.com/dujun015-design/ai-desktop-pet/b75ed824e799bc957cda4095c8b66e5fbe4ce75c/assets/skins/golden-chibi/manifest.json",
+      "sourceSha256": "d222ecaf80ab45599e92550eb7577fa631929e2de953ce380e2baab8340a0b43",
+      "gitBlobSha": "d585938faf7e0ee3c20b005a66d81a86fd437e0e",
+      "bytes": 243,
+      "commit": "b75ed824e799bc957cda4095c8b66e5fbe4ce75c",
+      "accessedAt": "2026-11-27T11:27:03.763Z"
+    }
+  ],
+  "scope": "Verified pinned README, Electron package metadata and both skin manifests by Git blob and SHA-256. The README states MIT for code and points to separate artwork terms. The Clawd manifest cites clawd-on-desk AGPL-3.0; the Golden Chibi manifest identifies local supplied artwork without a general redistribution grant.",
+  "accessedAt": "2026-11-27T11:27:03.763Z"
+}

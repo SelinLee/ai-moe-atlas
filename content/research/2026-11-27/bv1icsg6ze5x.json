@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1iCsG6ZE5x/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1iCsG6ZE5x",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:22.024Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1iCsG6ZE5x",
+    "title": "大肥鱼的合租日常（番外），Claude你个坏蛋根本就不是观众想看！",
+    "owner": {
+      "mid": 3537113121294356,
+      "name": "呆毛的星野"
+    },
+    "pubdate": 1794638512,
+    "duration": 61
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

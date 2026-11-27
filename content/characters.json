@@ -1916,6 +1916,71 @@
     }
   },
   {
+    "id": "zipzippipe-mistral-first-portrait",
+    "entity": "mistral",
+    "kind": "collected",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Mistral 法棍猫娘 · Pixiv 图集版",
+      "en": "Mistral Baguette Cat Girl · Pixiv Gallery Version",
+      "ja": "Mistral バゲット猫娘 · Pixiv 作品集版"
+    },
+    "description": {
+      "zh": "ZipZipPipe《AI娘化》Pixiv 图集第 10 张中的 Mistral 拟人。",
+      "en": "ZipZipPipe’s Mistral personification on image 10 of the Pixiv AI Girls gallery.",
+      "ja": "ZipZipPipe の Pixiv『AI娘化』10枚目に掲載された Mistral の擬人化。"
+    },
+    "story": {
+      "zh": "作者发布的 Pixiv 图件为 941 × 1672。B 站第二批图集第 4 张是另一幅 3072 × 5504 的立绘，两件作品分别记录。",
+      "en": "The creator’s Pixiv file measures 941 × 1672. The fourth image in the second Bilibili gallery is a separate 3072 × 5504 portrait with its own record.",
+      "ja": "作者の Pixiv 画像は 941 × 1672。Bilibili 作品集第2弾の4枚目は別の 3072 × 5504 の立ち絵で、別項目として掲載。"
+    },
+    "features": {
+      "zh": "橘色猫耳与长尾、羽饰宽檐帽、红白长裙和法棍形佩剑。",
+      "en": "Orange cat ears and a long tail, a feathered wide-brimmed hat, a red-and-white dress and a baguette-shaped sword.",
+      "ja": "オレンジ色の猫耳と長い尾、羽飾り付きのつば広帽、赤白のドレスとバゲット型の剣。"
+    },
+    "author": "ZipZipPipe",
+    "authorUrl": "https://www.pixiv.net/users/18604994",
+    "source": "https://www.pixiv.net/artworks/148186519",
+    "sourceTitle": "AI娘化",
+    "originalPublication": "https://www.pixiv.net/artworks/148186519",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ZipZipPipe",
+        "url": "https://www.pixiv.net/users/18604994",
+        "role": "original-character",
+        "publication": "https://www.pixiv.net/artworks/148186519"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "LicenseRef-ZipZipPipe-NC",
+    "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+    "downloadable": true,
+    "bg": "#fff0db",
+    "color": "#7b4c29",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": "collected/zipzippipe-mistral-first-portrait/portrait/preview.webp",
+    "assets": [
+      {
+        "id": "portrait",
+        "label": {
+          "zh": "作者发布的完整立绘",
+          "en": "Creator-published full portrait",
+          "ja": "作者公開の全身立ち絵"
+        }
+      }
+    ],
+    "provenanceNote": {
+      "zh": "已核验作者图集第 10 张（941 × 1672）原始 JPG 及比对哈希。按作者条件署名并仅供非商业取用。",
+      "en": "Original JPEG 10 (941 × 1672) was verified by hash. The creator permits noncommercial use with credit.",
+      "ja": "作者作品集の10枚目（941 × 1672）の原寸 JPEG をハッシュで照合。クレジット付きの非商用利用が可能。"
+    }
+  },
+  {
     "id": "zipzippipe-mistral",
     "entity": "mistral",
     "kind": "reference",
@@ -2498,7 +2563,7 @@
   {
     "id": "zipzippipe-ernie",
     "entity": "ernie",
-    "kind": "reference",
+    "kind": "collected",
     "style": "anime",
     "official": false,
     "name": {
@@ -2522,7 +2587,7 @@
       "ja": "青髪、車椅子、酸素マスクと積み重ねた本。作者は別の動画概要欄でも青髪の表紙キャラを百度文心と記載。"
     },
     "author": "ZipZipPipe",
-    "authorUrl": "https://space.bilibili.com/4168597",
+    "authorUrl": "https://www.pixiv.net/users/18604994",
     "source": "https://www.pixiv.net/artworks/148186519",
     "sourceTitle": "AI娘化",
     "originalPublication": "https://www.pixiv.net/artworks/148186519",
@@ -2530,25 +2595,34 @@
     "attribution": [
       {
         "name": "ZipZipPipe",
-        "url": "https://space.bilibili.com/4168597",
+        "url": "https://www.pixiv.net/users/18604994",
         "role": "original-character",
         "publication": "https://www.pixiv.net/artworks/148186519"
       }
     ],
     "method": "ai-generated",
-    "license": "source-only",
+    "license": "LicenseRef-ZipZipPipe-NC",
     "licenseUrl": "https://www.pixiv.net/artworks/148186519",
-    "downloadable": false,
+    "downloadable": true,
     "bg": "#e3edfc",
     "color": "#32538d",
-    "verifiedAt": "2026-11-23",
+    "verifiedAt": "2026-11-27",
     "origin": "web-collected",
-    "preview": null,
-    "assets": [],
+    "preview": "collected/zipzippipe-ernie/portrait/preview.webp",
+    "assets": [
+      {
+        "id": "portrait",
+        "label": {
+          "zh": "作者发布的完整立绘",
+          "en": "Creator-published full portrait",
+          "ja": "作者公開の全身立ち絵"
+        }
+      }
+    ],
     "provenanceNote": {
-      "zh": "Pixiv 图集作者要求署名、禁止商用。固定档案另说明原图和派生设定图的权利范围。",
-      "en": "The Pixiv creator requires attribution and prohibits commercial use. The pinned archive describes the original and derived design sheets separately.",
-      "ja": "Pixiv の作者はクレジットを必須とし、商用利用を禁止。固定版のアーカイブに原画と派生設定資料の範囲を個別に記載。"
+      "zh": "已核验作者图集第 12 张（3072 × 5504）原始 JPG 及比对哈希。按作者条件署名并仅供非商业取用。",
+      "en": "Original JPEG 12 (3072 × 5504) was verified by hash. The creator permits noncommercial use with credit.",
+      "ja": "作者作品集の12枚目（3072 × 5504）の原寸 JPEG をハッシュで照合。クレジット付きの非商用利用が可能。"
     }
   },
   {
@@ -2736,7 +2810,7 @@
   {
     "id": "zipzippipe-rwkv",
     "entity": "rwkv",
-    "kind": "reference",
+    "kind": "collected",
     "style": "anime",
     "official": false,
     "name": {
@@ -2774,19 +2848,28 @@
       }
     ],
     "method": "ai-generated",
-    "license": "source-only",
+    "license": "LicenseRef-ZipZipPipe-NC",
     "licenseUrl": "https://www.pixiv.net/artworks/148186519",
-    "downloadable": false,
+    "downloadable": true,
     "bg": "#eee9f9",
     "color": "#564183",
-    "verifiedAt": "2026-11-23",
+    "verifiedAt": "2026-11-27",
     "origin": "web-collected",
-    "preview": null,
-    "assets": [],
+    "preview": "collected/zipzippipe-rwkv/portrait/preview.webp",
+    "assets": [
+      {
+        "id": "portrait",
+        "label": {
+          "zh": "作者发布的完整立绘",
+          "en": "Creator-published full portrait",
+          "ja": "作者公開の全身立ち絵"
+        }
+      }
+    ],
     "provenanceNote": {
-      "zh": "作者要求署名并禁止商用。图集对衍生自上善无形的 DeepSeek 形象另注明 CC BY-NC-SA 4.0。",
-      "en": "The creator requires attribution and prohibits commercial use. The gallery separately names CC BY-NC-SA 4.0 for the DeepSeek design derived from 上善无形.",
-      "ja": "作者はクレジットを必須とし、商用利用を禁止。上善无形を原型とする DeepSeek のデザインには別途 CC BY-NC-SA 4.0 と記載。"
+      "zh": "已核验作者图集第 9 张（2160 × 3840）原始 JPG 及比对哈希。按作者条件署名并仅供非商业取用。",
+      "en": "Original JPEG 9 (2160 × 3840) was verified by hash. The creator permits noncommercial use with credit.",
+      "ja": "作者作品集の9枚目（2160 × 3840）の原寸 JPEG をハッシュで照合。クレジット付きの非商用利用が可能。"
     }
   },
   {

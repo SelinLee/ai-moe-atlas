@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1qbsB6PExh/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qbsB6PExh",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:29.902Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1qbsB6PExh",
+    "title": "我跟 GPT 说的第一句话是「你能做什么？」｜龙娘绘本短片 ·《昔涟》配乐",
+    "owner": {
+      "mid": 628729896,
+      "name": "松烟入墨pine"
+    },
+    "pubdate": 1795148329,
+    "duration": 186
+  },
+  "sourceLinks": [
+    {
+      "role": "song-author-release",
+      "title": "HOYO-MiX",
+      "url": "https://sr.mihoyo.com/news/160771?type=news"
+    }
+  ],
+  "descriptionSha256": "3514987a95d176b0823f0c912f2a3e5a8e4f2979311f8e67fb5cb081b7e74820"
+}

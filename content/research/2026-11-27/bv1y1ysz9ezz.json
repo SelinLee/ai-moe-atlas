@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Y1ysz9EZz/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Y1ysz9EZz",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:26.797Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1Y1ysz9EZz",
+    "title": "【大肥鱼翻唱】《月の椀 》sakanaction(鱼韵乐队)丨佐佐木淳平经典金曲丨神所创造的世界并非完美",
+    "owner": {
+      "mid": 1953461850,
+      "name": "清风舞月Lunar_Flirt"
+    },
+    "pubdate": 1795233600,
+    "duration": 247
+  },
+  "sourceLinks": [
+    {
+      "role": "song-author-release",
+      "title": "サカナクション",
+      "url": "https://sakanaction.jp/feature/adapt_concept_album"
+    }
+  ],
+  "descriptionSha256": "f9088ebabafecc324a7d8056841a8a3e51fde4e744bb96a7228c61c5a81bcd89"
+}

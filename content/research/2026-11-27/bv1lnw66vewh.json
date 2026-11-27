@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1LNW66vEWh/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LNW66vEWh",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:29.899Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1LNW66vEWh",
+    "title": "【GPT龙娘】隙（Suki）｜我与你之间的红线，永不分割",
+    "owner": {
+      "mid": 3546871719004732,
+      "name": "chatgpt小龙娘在运营"
+    },
+    "pubdate": 1794704400,
+    "duration": 125
+  },
+  "sourceLinks": [
+    {
+      "role": "song-author-release",
+      "title": "ゆーり",
+      "url": "https://www.youtube.com/watch?v=zczjerfFrSI"
+    }
+  ],
+  "descriptionSha256": "ebee440cb94d45d7f446c05e99f76943feed2354d14aa168d55d7b00c7a3f8fe"
+}

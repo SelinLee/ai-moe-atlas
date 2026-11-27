@@ -26,7 +26,7 @@
 [角色三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/) · [涂鸦头像](docs/DOODLE.zh.md) · [涂鸦表情包](https://selinlee.github.io/ai-moe-atlas/zh/emotes/) · [AI 视频二创 · 抖音主页](https://www.douyin.com/user/MS4wLjABAAAAa3lc_FI5WmPENMLwdN7Ij4r5iNxAM09Ny0rPcB2Ow4E) · [AI 视频二创 · B 站主页](https://space.bilibili.com/3706970263521942)
 
 <!-- category-picks:characters -->
-**[🎨 角色图鉴](#characters)** · 99 个词条\
+**[🎨 角色图鉴](#characters)** · 100 个词条\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/) · [Gemini Pro · 原作立绘与表情](https://selinlee.github.io/ai-moe-atlas/zh/characters/qinv-gemini-pro/) · [Cohere · 校园版](https://selinlee.github.io/ai-moe-atlas/zh/characters/school-op-cohere/)
 
 <!-- category-picks:personas -->
@@ -34,7 +34,7 @@
 [GLM 狐娘 · ZCode 版](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md) · [Claude 娘「小克」· deslop 写作卡](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md) · [DeepSeek 大肥鱼 · QQ 聊天版](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md)
 
 <!-- category-picks:songs -->
-**[🎵 歌曲](#songs)** · 164 首曲目\
+**[🎵 歌曲](#songs)** · 175 首曲目\
 [人是猫 · 大肥鱼翻唱](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · 动画 MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [白饭与梦 · 大肥鱼 × Updream](https://www.bilibili.com/video/BV1kxWV6KE6o/)
 
 <!-- category-picks:stickers -->
@@ -50,11 +50,11 @@
 [AI GIRLS · 初见 · 原作漫画](https://www.bilibili.com/video/BV15Npa6zE44/) · [《AI GIRLS》日常篇 · 联系方式原作](https://www.bilibili.com/video/BV1YSpu6gEh1/) · [Grok 7 与 Grok 8 · 四格原作](https://note.com/chatgpt_ysd/n/ne86ecfd8aec5)
 
 <!-- category-picks:animations -->
-**[🎬 动画与视频二创](#animations)** · 1127 条记录\
+**[🎬 动画与视频二创](#animations)** · 1150 条记录\
 [如果聊天窗口就是她的整个世界](https://www.bilibili.com/video/BV1xCai6aE9g/) · [败犬 AI 太多了！· 正式 PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo 娘角色 PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 桌宠与交互项目](#desktop-pets)** · 177 个项目\
+**[🐾 桌宠与交互项目](#desktop-pets)** · 178 个项目\
 [CrossPet · 跨 AI 桌宠](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D 编程桌宠](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [Gemini 娘双形态桌宠](https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/README.md)
 
 <!-- category-picks:sources -->
@@ -72,6 +72,8 @@ SelinLee 基于社区已有角色形象，用 AI 制作三视图、参考图、�
 <a id="characters"></a>
 
 ### 🎨 角色图鉴
+
+已按作者的署名、非商业条款保存 RWKV、Mistral 图集版和百度文心三张 Pixiv 原图。 [RWKV](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-rwkv/) · [Mistral 图集版](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-mistral-first-portrait/) · [百度文心](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-ernie/)
 
 按 49 个 AI 产品和模型系列查角色、作者和原作。 [查看 Muse 娘词条](https://selinlee.github.io/ai-moe-atlas/zh/characters/shizhi-muse/) · [Mistral 法棍猫娘](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-mistral/) · [OpenCode 拟人词条](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-opencode/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-mimo/)
 
@@ -251,7 +253,9 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 
 <!-- animation-ranking:end -->
 
-本批新增 19 条二创，复查前 15 条累计点赞。新增内容包括《打完怪，回家吃饭》前三集、《AiGO!!!!!》雨夜退团和《按下发送之后》番外。13 条待核候选保留最近的查询记录。 [本批点赞快照](content/research/2026-11-27/bilibili-cumulative-likes-november-27-evening-series-and-leaders.json) · [采集范围](content/research/2026-11-27/bilibili-november-27-evening-series-and-leaders-scope.json)
+新增 23 条带官方点赞的二创，含《招牌》及 11 首新增歌曲对应的作品。 [招牌](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1wxnx6gena) · [豆包的画笔](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1gvnr68eyo) · [本批点赞核对](content/research/2026-11-27/bilibili-cumulative-likes-november-27-signboard-and-music.json)
+
+本批新增 19 条二创，复查前 15 条累计点赞。新增内容包括《打完怪，回家吃饭》前三集、《AiGO!!!!!》雨夜退团和《按下发送之后》番外。[上一批点赞快照](content/research/2026-11-27/bilibili-cumulative-likes-november-27-evening-series-and-leaders.json) · [采集范围](content/research/2026-11-27/bilibili-november-27-evening-series-and-leaders-scope.json)
 
 新增 11 条带官方累计点赞的二创，包括甶丶的 MOSS 娘短片、MiniMax 小章鱼动画及大肥鱼同人游戏演示。复查的 13 条候选仍缺点赞，其中 5 条再次见于 B 站搜索。 [本批点赞快照](content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json) · [复查范围](content/research/2026-11-27/bilibili-november-27-moss-and-short-films-scope.json)
 
@@ -298,7 +302,9 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 | 9 | [Claude Desktop Buddy · 官方硬件示例](https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/README.md) | [2,727](https://github.com/anthropics/claude-desktop-buddy) |
 | 10 | [Clawdmeter · Clawd 硬件用量桌宠](https://github.com/HermannBjorgvin/Clawdmeter/blob/0332f049a57096a616ad7fcc9f22cdcc27d80cd3/README.md) | [2,373](https://github.com/HermannBjorgvin/Clawdmeter) |
 
-[在线浏览全部桌宠与交互项目](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-27/github-interactive-stars-november-27-codex-atlas-hosts.json)
+[在线浏览全部桌宠与交互项目](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-27/github-interactive-stars-november-27-cross-platform-pets.json)
+
+新增跨平台 AI Desktop Pet，并复核 AI Buddy v2.1.0 的角色、代码和皮肤条款。 [AI Desktop Pet](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#dujun-ai-desktop-pet) · [AI Buddy v2.1.0](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#ai-buddy-eleven-themes)
 
 新增三款桌宠项目，包含独立的 Codex 图集宿主和两款 DeepSeek Harness 插件。 [Codex 独立桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#polaris-codex-pet) · [DSH 自定义图集](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#c-ling-dsh-plugin-pet) · [DSH WebUI 七套桌宠](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#pineapple-dsh-webui-pets)
 

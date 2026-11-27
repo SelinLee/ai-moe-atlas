@@ -1,0 +1,46 @@
+{
+  "previousEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-evening-series-and-leaders.json",
+    "sha256": "192591fd1e94d28c8752f6c100c2357974c1b58f774c3c7d5936c2d1a8c92ca5",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-signboard-and-music.json",
+    "sha256": "4036d75badd5df9bdcf0c2fda427ffef2bd2e1029d5c20f2c3a680ec5dcf12f5",
+    "kind": "browser-metadata-extract"
+  },
+  "attempted": {
+    "newCandidates": 23,
+    "pendingCandidates": 13,
+    "originalSongLinks": 3
+  },
+  "added": 23,
+  "retainedPending": 13,
+  "originalSongLinks": [
+    {
+      "bvid": "BV1XNoBYVEgz",
+      "url": "https://www.bilibili.com/video/BV1XNoBYVEgz/",
+      "httpStatus": 200,
+      "code": -404,
+      "checkedAt": "2026-11-27T11:24:32.055Z"
+    },
+    {
+      "bvid": "BV19y4y1x7Dz",
+      "url": "https://www.bilibili.com/video/BV19y4y1x7Dz/",
+      "httpStatus": 200,
+      "code": 0,
+      "checkedAt": "2026-11-27T11:24:32.074Z",
+      "title": "【花玲】暖色呓语【原创曲】",
+      "publisher": "花园花玲"
+    },
+    {
+      "bvid": "BV12q4Zz4E6c",
+      "url": "https://www.bilibili.com/video/BV12q4Zz4E6c/",
+      "httpStatus": 200,
+      "code": 0,
+      "checkedAt": "2026-11-27T11:24:33.658Z",
+      "title": "羽生迷子 - 我愛メイデン",
+      "publisher": "羽生迷子"
+    }
+  ]
+}

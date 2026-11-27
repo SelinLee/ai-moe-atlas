@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1S6nC64EBC/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1S6nC64EBC",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:20:33.336Z",
+  "scope": "The official Bilibili view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the upload and verified primary releases.",
+  "metadata": {
+    "bvid": "BV1S6nC64EBC",
+    "title": "大肥鱼《想要变得可爱》4K60 代码动画MV DeepSeek AI娘二创",
+    "owner": {
+      "mid": 78712560,
+      "name": "梨希Lyxii"
+    },
+    "pubdate": 1792632259,
+    "duration": 253
+  },
+  "sourceLinks": [
+    {
+      "role": "song-author-release",
+      "title": "HoneyWorks feat. 成海聖奈（CV：雨宮天）",
+      "url": "https://honeyworks.jp/special/"
+    }
+  ],
+  "descriptionSha256": "320187012ec063be75ae730840a50321772f408066670d6387a1803de7c44bf0"
+}
