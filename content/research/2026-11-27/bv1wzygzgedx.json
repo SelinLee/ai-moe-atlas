@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1WzyGzgEDx/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WzyGzgEDx",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:03:00.077Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1WzyGzgEDx",
+    "title": "【大肥鱼唱歌】静待你",
+    "owner": {
+      "mid": 4466409,
+      "name": "安逸混子苟天师"
+    },
+    "pubdate": 1795339110,
+    "duration": 320
+  },
+  "descriptionSha256": "2d9310a467c40f4db2dada21ca2ff6ff74cf71f98002d8a60262642b5c1d1082",
+  "sourceLinks": []
+}

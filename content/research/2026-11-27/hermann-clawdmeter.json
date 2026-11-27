@@ -1,0 +1,52 @@
+{
+  "url": "https://github.com/HermannBjorgvin/Clawdmeter/blob/0332f049a57096a616ad7fcc9f22cdcc27d80cd3/README.md",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:01:54.192Z",
+  "scope": "Pinned README documents hardware and asset rights; the separate inventory is a community trace of official links.",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/HermannBjorgvin/Clawdmeter/blob/0332f049a57096a616ad7fcc9f22cdcc27d80cd3/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/HermannBjorgvin/Clawdmeter/0332f049a57096a616ad7fcc9f22cdcc27d80cd3/README.md",
+    "sourceSha256": "198dfb1efe1588cb0528af867a1c6cc37c6ff0db3d5f4615fd47db3cfd973d00",
+    "gitBlobSha": "f199911ee5ba88bdf7272ce9e05c7af57e5f3bd3",
+    "bytes": 16794,
+    "commit": "0332f049a57096a616ad7fcc9f22cdcc27d80cd3",
+    "accessedAt": "2026-11-27T10:01:54.192Z"
+  },
+  "repository": {
+    "full_name": "HermannBjorgvin/Clawdmeter",
+    "html_url": "https://github.com/HermannBjorgvin/Clawdmeter",
+    "stargazers_count": 2373,
+    "archived": false,
+    "created_at": "2026-05-11T03:07:49Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "0332f049a57096a616ad7fcc9f22cdcc27d80cd3",
+    "observedAt": "2026-11-27T10:00:52.190Z",
+    "httpStatus": 200,
+    "metadataSha256": "a6502268fdebf95aea92bb1efd324e2b0619a59f0effcfce76fa4d0c4213a389",
+    "parent": null
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/HermannBjorgvin/Clawdmeter/blob/0332f049a57096a616ad7fcc9f22cdcc27d80cd3/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/HermannBjorgvin/Clawdmeter/0332f049a57096a616ad7fcc9f22cdcc27d80cd3/README.md",
+      "sourceSha256": "198dfb1efe1588cb0528af867a1c6cc37c6ff0db3d5f4615fd47db3cfd973d00",
+      "gitBlobSha": "f199911ee5ba88bdf7272ce9e05c7af57e5f3bd3",
+      "bytes": 16794,
+      "commit": "0332f049a57096a616ad7fcc9f22cdcc27d80cd3",
+      "accessedAt": "2026-11-27T10:01:54.192Z"
+    },
+    {
+      "path": "research/clawd-official/README.md",
+      "url": "https://github.com/HermannBjorgvin/Clawdmeter/blob/0332f049a57096a616ad7fcc9f22cdcc27d80cd3/research/clawd-official/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/HermannBjorgvin/Clawdmeter/0332f049a57096a616ad7fcc9f22cdcc27d80cd3/research/clawd-official/README.md",
+      "sourceSha256": "a57a16d0c896663c0521151b781ebd09c569d173b883ee96332d8ddbb3ce1e8b",
+      "gitBlobSha": "95553b94923558437ee1988797776ca869e70aa6",
+      "bytes": 6972,
+      "commit": "0332f049a57096a616ad7fcc9f22cdcc27d80cd3",
+      "accessedAt": "2026-11-27T10:01:54.560Z"
+    }
+  ]
+}

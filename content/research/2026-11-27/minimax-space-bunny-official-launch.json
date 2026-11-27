@@ -1,0 +1,56 @@
+{
+  "url": "https://www.minimax.io/blog/minimax-m31f",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:02:56.636Z",
+  "scope": "MiniMax’s written launch and the public OpenRouter model page establish the model nickname. The official launch video is a separate source; Shiho320’s artwork has a separate creator and usage record.",
+  "releasePage": {
+    "id": "minimax",
+    "url": "https://www.minimax.io/blog/minimax-m31f",
+    "finalUrl": "https://www.minimax.io/blog/minimax-m31f",
+    "httpStatus": 200,
+    "title": "MiniMax M3.1 Flash: Redefining Agent Performance and Cost - MiniMax Research | MiniMax",
+    "accessedAt": "2026-11-27T10:02:56.636Z",
+    "htmlSha256": "849aaa046db8316a5c7c1f1b9bba4e8bb7a98b36105ead5488740c38eb532176",
+    "textSha256": "f07e38ea1dfaff33a0277049dc4a5a6adaf14822e8e35664b49d17794cfb8095",
+    "matches": [
+      "2026-10-19",
+      "Space Bunny 🐰, which processed more than 200 trillion tokens while operating anonymously, was an early version of MiniMax M3.1 Flash."
+    ],
+    "named": [],
+    "artwork": null
+  },
+  "routingCatalog": {
+    "id": "openrouter",
+    "url": "https://openrouter.ai/stealth/space-bunny-alpha",
+    "finalUrl": "https://openrouter.ai/stealth/space-bunny-alpha",
+    "httpStatus": 200,
+    "title": "Space Bunny Alpha - API Pricing & Providers | OpenRouter",
+    "accessedAt": "2026-11-27T10:02:55.335Z",
+    "htmlSha256": "b30bf23f77b4f085b124e3a7141bbffa9498071cf9d105218b9e597eefd5b612",
+    "textSha256": "9e182dc65267ff05951766bda132efc4b69986ac4c016ca8331dde6fce154948",
+    "matches": [
+      "This stealth model was developed and operated by MiniMax, revealed to be MiniMax M3.1 Flash. Prompts and completions for this model may have been retained by the provider but are not used for training; all other use is governed by the Stealth Model Terms.",
+      "Space Bunny Alpha",
+      "Space Bunny Alpha is an anonymous large model with blazing-fast inference, strong coding capabilities and native multimodal input support. It delivers adjustable reasoning effort, and a 1M-token context window.",
+      "Space Bunny Alpha was a stealth model, revealed to be MiniMax M3.1 Flash by MiniMax. OpenRouter routed requests to it and was not its developer, owner, or provider. Prompts and completions may be retained by the provider but are not used for training; all other use is governed by the Stealth Model Terms. The free stealth period has ended; use MiniMax M3.1 Flash at https://openrouter.ai/minimax/minimax-m3.1-flash.",
+      "Space Bunny Alpha",
+      "What is Space Bunny Alpha?",
+      "What is the context length of Space Bunny Alpha?",
+      "What inputs and outputs does Space Bunny Alpha support?"
+    ],
+    "named": [],
+    "artwork": null
+  },
+  "officialVideo": {
+    "url": "https://www.bilibili.com/video/BV1mFnn6xE7M/",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mFnn6xE7M",
+    "observedAt": "2026-11-27T10:01:17.833Z",
+    "bvid": "BV1mFnn6xE7M",
+    "title": "Welcome back, Space Bunny. 🐙🚀 MiniMax M3.1 Flash 即将上线。",
+    "publisher": "MiniMax_稀宇极智",
+    "publisherId": 3546878859807653,
+    "descriptionSha256": "dbd8a9f459a575e5371340c188023bc0b9194bf0e30140ab42614565bb336c95",
+    "httpStatus": 200,
+    "code": 0
+  }
+}

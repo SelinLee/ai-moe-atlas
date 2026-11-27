@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1TUJD63EjP/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TUJD63EjP",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:36.714Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1TUJD63EjP",
+    "title": "【Claude娘】人是猫｜猫耳Claude娘混进人类 MV",
+    "owner": {
+      "mid": 1526118741,
+      "name": "DarthMol"
+    },
+    "pubdate": 1792124420,
+    "duration": 135
+  },
+  "descriptionSha256": "af3a5fa2d9a51864ff2c10aa873baa91d6f091188741c0b016cea0a2aa8f946e",
+  "sourceLinks": [
+    {
+      "role": "uploader-cited-upload",
+      "title": "BV1fYpn6SEk9",
+      "url": "https://www.bilibili.com/video/BV1fYpn6SEk9/"
+    },
+    {
+      "role": "song-author-release",
+      "title": "张卡斯 · 人是猫",
+      "url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/"
+    }
+  ]
+}

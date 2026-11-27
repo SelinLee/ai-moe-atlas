@@ -1,0 +1,82 @@
+{
+  "url": "https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/README.md",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:01:52.323Z",
+  "scope": "Anthropic’s pinned README, protocol, file manifest and license establish the example scope and third-party bufo art boundary.",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/anthropics/claude-desktop-buddy/a280c6421931431ba6905aee9d2b50b2bfd8c103/README.md",
+    "sourceSha256": "580fb3ebfacec39faac3ababd300431957310fdbe9bb8309f7683085974f0355",
+    "gitBlobSha": "5e3d56f4a2d9056b24775f17d2e8cf599d86c629",
+    "bytes": 6808,
+    "commit": "a280c6421931431ba6905aee9d2b50b2bfd8c103",
+    "accessedAt": "2026-11-27T10:01:52.323Z"
+  },
+  "repository": {
+    "full_name": "anthropics/claude-desktop-buddy",
+    "html_url": "https://github.com/anthropics/claude-desktop-buddy",
+    "stargazers_count": 2727,
+    "archived": false,
+    "created_at": "2026-04-09T18:08:19Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "a280c6421931431ba6905aee9d2b50b2bfd8c103",
+    "observedAt": "2026-11-27T10:00:52.386Z",
+    "httpStatus": 200,
+    "metadataSha256": "65d2807cd4adb664ba1fc8b7f64d62f8af7cbe571cb884763df571fe121a1c36",
+    "parent": null
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/claude-desktop-buddy/a280c6421931431ba6905aee9d2b50b2bfd8c103/README.md",
+      "sourceSha256": "580fb3ebfacec39faac3ababd300431957310fdbe9bb8309f7683085974f0355",
+      "gitBlobSha": "5e3d56f4a2d9056b24775f17d2e8cf599d86c629",
+      "bytes": 6808,
+      "commit": "a280c6421931431ba6905aee9d2b50b2bfd8c103",
+      "accessedAt": "2026-11-27T10:01:52.323Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/claude-desktop-buddy/a280c6421931431ba6905aee9d2b50b2bfd8c103/LICENSE",
+      "sourceSha256": "5e32888dd0648037f6763a4d533b5b0df94eb3c227247fe23de7f52c4408f21e",
+      "gitBlobSha": "27b06ce8e7eb1a0e74be6f0b237d1d081c0edf27",
+      "bytes": 1341,
+      "commit": "a280c6421931431ba6905aee9d2b50b2bfd8c103",
+      "accessedAt": "2026-11-27T10:01:52.679Z"
+    },
+    {
+      "path": "REFERENCE.md",
+      "url": "https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/REFERENCE.md",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/claude-desktop-buddy/a280c6421931431ba6905aee9d2b50b2bfd8c103/REFERENCE.md",
+      "sourceSha256": "c448abbed54cf83e9daeb765afd0615b65db8346c6ba136eeee6d45471a5f930",
+      "gitBlobSha": "ebab19de5c0f19030e40473f4bce6f15affc10b8",
+      "bytes": 8840,
+      "commit": "a280c6421931431ba6905aee9d2b50b2bfd8c103",
+      "accessedAt": "2026-11-27T10:01:53.066Z"
+    },
+    {
+      "path": "characters/bufo/README.md",
+      "url": "https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/characters/bufo/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/claude-desktop-buddy/a280c6421931431ba6905aee9d2b50b2bfd8c103/characters/bufo/README.md",
+      "sourceSha256": "aa1ad3d1c6bee04ace89a1f9c0648e83c42d4100765761842341cfd96cafdba7",
+      "gitBlobSha": "01bd4160d186f27262aed67165b27d679127a85c",
+      "bytes": 790,
+      "commit": "a280c6421931431ba6905aee9d2b50b2bfd8c103",
+      "accessedAt": "2026-11-27T10:01:53.425Z"
+    },
+    {
+      "path": "characters/bufo/manifest.json",
+      "url": "https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/characters/bufo/manifest.json",
+      "rawUrl": "https://raw.githubusercontent.com/anthropics/claude-desktop-buddy/a280c6421931431ba6905aee9d2b50b2bfd8c103/characters/bufo/manifest.json",
+      "sourceSha256": "5baeb20f97f60eff0a100c81896500264740f81bffbb645b1cd27b6dd3234e52",
+      "gitBlobSha": "8ff8430500db48b38ce6542259023408d820f78b",
+      "bytes": 542,
+      "commit": "a280c6421931431ba6905aee9d2b50b2bfd8c103",
+      "accessedAt": "2026-11-27T10:01:53.812Z"
+    }
+  ]
+}

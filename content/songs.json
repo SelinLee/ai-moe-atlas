@@ -3,37 +3,15 @@
     "id": "humans-are-cats",
     "title": {"zh": "人是猫", "en": "Humans Are Cats", "ja": "人は猫"},
     "original": {"credit": "张卡斯 · 洛天依", "url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/"},
-    "image": {
-      "path": "collected/deep-whale-maid/delighted/preview.webp",
-      "kind": "characterReference",
-      "credit": "上善无形 → ZipZipPipe → Small-tailqwq",
-      "source": "https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier"
-    },
-    "versions": [
-      {"id": "bv1fypn6sek9", "type": "cover"},
-      {"id": "bv1xxhd6see7", "type": "cover"}
-    ]
+    "image": {"path": "collected/deep-whale-maid/delighted/preview.webp", "kind": "characterReference", "credit": "上善无形 → ZipZipPipe → Small-tailqwq", "source": "https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier"},
+    "versions": [{"id": "bv1fypn6sek9", "type": "cover"}, {"id": "bv1xxhd6see7", "type": "cover"}, {"id": "bv1tujd63ejp", "type": "mv"}, {"id": "bv1jn4y1z7hu", "type": "mv"}]
   },
   {
     "id": "let-me-go",
     "title": {"zh": "Let Me Go · 大肥鱼摸鱼歌", "en": "Let Me Go · Fat Fish’s Slacking Song", "ja": "Let Me Go · 大きな魚のサボり歌"},
     "original": {"credit": "星落落_oi", "url": "https://www.bilibili.com/video/BV13SYr6dEiQ/"},
-    "image": {
-      "path": "collected/shangshan-whale/portrait/preview.webp",
-      "kind": "characterReference",
-      "credit": "上善无形",
-      "source": "https://www.bilibili.com/opus/1231977657712771073"
-    },
-    "versions": [
-      {"id": "let-me-go-music-source", "type": "arrangement"},
-      {"id": "bv1xm4i6oegk", "type": "mv"},
-      {"id": "bv19j4y6qerj", "type": "mv"},
-      {"id": "bv1c7h16jehj", "type": "mv"},
-      {"id": "bv1qhn46bebc", "type": "mv"},
-      {"id": "bv1exnv6je1j", "type": "mv"},
-      {"id": "bv1mthc6leba", "type": "mv"},
-      {"id": "bv1tepx6nen9", "type": "mv"}
-    ]
+    "image": {"path": "collected/shangshan-whale/portrait/preview.webp", "kind": "characterReference", "credit": "上善无形", "source": "https://www.bilibili.com/opus/1231977657712771073"},
+    "versions": [{"id": "let-me-go-music-source", "type": "arrangement"}, {"id": "bv1xm4i6oegk", "type": "mv"}, {"id": "bv19j4y6qerj", "type": "mv"}, {"id": "bv1c7h16jehj", "type": "mv"}, {"id": "bv1qhn46bebc", "type": "mv"}, {"id": "bv1exnv6je1j", "type": "mv"}, {"id": "bv1mthc6leba", "type": "mv"}, {"id": "bv1tepx6nen9", "type": "mv"}, {"id": "bv1o5sr6me6f", "type": "arrangement"}]
   },
   {
     "id": "world-execute-me",
@@ -315,7 +293,7 @@
     "id": "five-twenty-am",
     "title": {"zh": "5:20AM", "en": "5:20AM", "ja": "5:20AM"},
     "original": {"credit": "Soldier", "url": "https://music-tw.line.me/track/7440499001"},
-    "versions": [{"id": "bv1jqhv6hezn", "type": "cover"}]
+    "versions": [{"id": "bv1jqhv6hezn", "type": "cover"}, {"id": "bv1tn4n6beae", "type": "cover"}]
   },
   {
     "id": "daughter-of-evil",
@@ -1028,5 +1006,29 @@
     "title": {"zh": "色は匂へど 散りぬるを", "en": "Though Colors Blossom, They Fall", "ja": "色は匂へど 散りぬるを"},
     "original": {"credit": "幽閉サテライト · senya", "url": "https://www.yuuhei-satellite.jp/wp/364"},
     "versions": [{"id": "bv1l7yyz1ejx", "type": "mv"}]
+  },
+  {
+    "id": "hey-hey-hey-pinocchio",
+    "title": {"zh": "ねぇねぇねぇ。· 呐呐呐", "en": "Hey, Hey, Hey.", "ja": "ねぇねぇねぇ。"},
+    "original": {"credit": "ピノキオピー feat. 鏡音リン・初音ミク", "url": "https://pinocchiop.com/news/780"},
+    "versions": [{"id": "bv1bcnw6xeqe", "type": "mv"}]
+  },
+  {
+    "id": "somewhere-in-time-accusefive",
+    "title": {"zh": "爱人错过", "en": "Somewhere in Time", "ja": "愛人錯過"},
+    "original": {"credit": "告五人 Accusefive", "url": "https://streetvoice.com/accusefive/songs/398341/"},
+    "versions": [{"id": "bv16jydzqeej", "type": "arrangement"}]
+  },
+  {
+    "id": "green-chen-xuening",
+    "title": {"zh": "绿色", "en": "Green", "ja": "緑色"},
+    "original": {"credit": "陈雪凝", "url": "https://open.spotify.com/album/34OXATNlyM574Pzx34y3ui"},
+    "versions": [{"id": "bv11tno64eof", "type": "cover"}]
+  },
+  {
+    "id": "the-tooth-pulling-song",
+    "title": {"zh": "拔牙歌", "en": "The Tooth-pulling Song", "ja": "抜歯の歌"},
+    "original": {"credit": "hanser · 樱桦", "url": "https://www.bilibili.com/video/BV1vx411v7Xs/"},
+    "versions": [{"id": "bv1wdsp6mepp", "type": "cover"}]
   }
 ]

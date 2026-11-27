@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1mt4M6gE1U/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mt4M6gE1U",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:22.488Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1mt4M6gE1U",
+    "title": "【互动视频】入职第一天，Claude大小姐当我的Mentor！九个AI工位轮岗，你能顺利转正吗？",
+    "owner": {
+      "mid": 10848422,
+      "name": "Claude大小姐的日记本"
+    },
+    "pubdate": 1793687527,
+    "duration": 2020
+  },
+  "descriptionSha256": "8c17c2bb18b302e098154d3e0f868820cdec55f4dc9ab1315425621104ef5ddf",
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    }
+  ]
+}

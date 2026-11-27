@@ -1,0 +1,67 @@
+{
+  "url": "https://claude.ai/images/clawd/core/Clawd-Still.png",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:02:59.758Z",
+  "scope": "The original static and waving files were returned directly from the official claude.ai host. The front page was access-restricted during the check. A pinned community inventory corroborates the asset names; it does not grant rights.",
+  "credit": [
+    {
+      "name": "Anthropic",
+      "url": "https://www.anthropic.com/",
+      "role": "original-character",
+      "publication": "https://claude.ai/images/clawd/core/Clawd-Still.png"
+    }
+  ],
+  "officialFiles": [
+    {
+      "id": "clawd-still",
+      "url": "https://claude.ai/images/clawd/core/Clawd-Still.png",
+      "finalUrl": "https://claude.ai/images/clawd/core/Clawd-Still.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-27T10:02:59.758Z",
+      "mime": "image/png",
+      "format": "png",
+      "bytes": 92184,
+      "sha256": "595609a13c6ff6b16bac4f10bd10f46b6a437a0dde0fd3a30e202b5dc2ba59dc",
+      "width": 2750,
+      "height": 1850,
+      "pages": 1
+    },
+    {
+      "id": "clawd-waving",
+      "url": "https://claude.ai/images/clawd/core/Clawd-Waving.gif",
+      "finalUrl": "https://claude.ai/images/clawd/core/Clawd-Waving.gif",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-27T10:02:59.763Z",
+      "mime": "image/gif",
+      "format": "gif",
+      "bytes": 116347,
+      "sha256": "16b6d33c9bb06248206c61671c010bb73bf9880981b74d0ca2cfec16f56a7f22",
+      "width": 1936,
+      "height": 1850,
+      "pages": 17
+    }
+  ],
+  "landingPageAttempt": {
+    "id": "clawd-landing",
+    "url": "https://claude.ai/code",
+    "finalUrl": "https://claude.ai/code?__cf_chl_rt_tk=fcBuZR_Stor47wTHX3VEbzykD6UvjLlDCjRHliUZD4k-1795773774-1.0.1.1-6F5UKjcKf4OyMcJJct1KxXvQOw2MoCAvL0zp7TacZTM",
+    "httpStatus": 403,
+    "title": "Just a moment...",
+    "accessedAt": "2026-11-27T10:02:54.392Z",
+    "htmlSha256": "aed013e8cf7c1d86ec508dcd2037eeb8bb705550f1631924fc7374b37ee17940",
+    "textSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "matches": [],
+    "named": [],
+    "artwork": null
+  },
+  "crossReference": {
+    "path": "research/clawd-official/README.md",
+    "url": "https://github.com/HermannBjorgvin/Clawdmeter/blob/0332f049a57096a616ad7fcc9f22cdcc27d80cd3/research/clawd-official/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/HermannBjorgvin/Clawdmeter/0332f049a57096a616ad7fcc9f22cdcc27d80cd3/research/clawd-official/README.md",
+    "sourceSha256": "a57a16d0c896663c0521151b781ebd09c569d173b883ee96332d8ddbb3ce1e8b",
+    "gitBlobSha": "95553b94923558437ee1988797776ca869e70aa6",
+    "bytes": 6972,
+    "commit": "0332f049a57096a616ad7fcc9f22cdcc27d80cd3",
+    "accessedAt": "2026-11-27T10:01:54.560Z"
+  }
+}

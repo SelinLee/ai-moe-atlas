@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1xnsY6NEnH/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xnsY6NEnH",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:03:00.077Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1xnsY6NEnH",
+    "title": "AI音乐（哦鲸鲸完整版）大肥鱼无限片场",
+    "owner": {
+      "mid": 29362337,
+      "name": "長風入林"
+    },
+    "pubdate": 1795097474,
+    "duration": 184
+  },
+  "descriptionSha256": "5f46609bac5596cf3987aa9ef3db6fe6b1ccf526ad93b0e67cbd771083b564c7",
+  "sourceLinks": []
+}

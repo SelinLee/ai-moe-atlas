@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV11Tno64EoF/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV11Tno64EoF",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:35.154Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV11Tno64EoF",
+    "title": "deepseek大肥鱼唱《绿色》 若不是你(小克Claude)突然闯进我生活,我怎会把我死守的寂寞放任了?~",
+    "owner": {
+      "mid": 389005135,
+      "name": "UUのUU"
+    },
+    "pubdate": 1793003400,
+    "duration": 303
+  },
+  "descriptionSha256": "991a24d397b290d8df464042c0a904c8283a8d6beae4c0806a315abccfb94a23",
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "uploader-cited-upload",
+      "title": "BV1mM4m117KM",
+      "url": "https://www.bilibili.com/video/BV1mM4m117KM/"
+    },
+    {
+      "role": "uploader-cited-upload",
+      "title": "BV1cbH56KER3",
+      "url": "https://www.bilibili.com/video/BV1cbH56KER3/"
+    }
+  ]
+}

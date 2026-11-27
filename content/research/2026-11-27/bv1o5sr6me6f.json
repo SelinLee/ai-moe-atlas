@@ -1,0 +1,41 @@
+{
+  "url": "https://www.bilibili.com/video/BV1o5sR6mE6F/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1o5sR6mE6F",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:33.602Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1o5sR6mE6F",
+    "title": "Claude给大肥鱼喂了一整首饭｜Let Me Go 填词版【AI MV大赛】",
+    "owner": {
+      "mid": 244625,
+      "name": "肉肉皮"
+    },
+    "pubdate": 1793358300,
+    "duration": 116
+  },
+  "descriptionSha256": "960cfd999bbb6479e24e3aac3a153c80665882f6e53818880bde7f55950b3fa5",
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "上善无形",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "uploader-cited-upload",
+      "title": "BV1XbY66nEWr",
+      "url": "https://www.bilibili.com/video/BV1XbY66nEWr/"
+    },
+    {
+      "role": "uploader-cited-upload",
+      "title": "BV13SYr6dEiQ",
+      "url": "https://www.bilibili.com/video/BV13SYr6dEiQ/"
+    }
+  ]
+}

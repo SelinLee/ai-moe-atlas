@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1WdsP6mEPp/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WdsP6mEPp",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:30.485Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1WdsP6mEPp",
+    "title": "大肥鱼XClaude  双声翻唱《拔牙歌》，承认吧，你超喜欢我~",
+    "owner": {
+      "mid": 3256358,
+      "name": "夏江流年"
+    },
+    "pubdate": 1794847519,
+    "duration": 128
+  },
+  "descriptionSha256": "f73152d631f1e51f894b548f023c0ef0a028311f3b8333c56f8fac63ada83611",
+  "sourceLinks": []
+}

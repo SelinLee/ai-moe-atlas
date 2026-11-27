@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Bmnx6ZEEj/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Bmnx6ZEEj",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:27.349Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1Bmnx6ZEEj",
+    "title": "【科普向】《恶役千金大小姐Claude酱没有恶意，只是你的代码确实一文不值，所以都删掉了哦》",
+    "owner": {
+      "mid": 15475629,
+      "name": "Muto_66"
+    },
+    "pubdate": 1792735443,
+    "duration": 31
+  },
+  "descriptionSha256": "9cc5769a27b710a9b46774abba014b1d7b284dab9f56e7310faddab3c1dc1e7e",
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "上善无形",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    }
+  ]
+}

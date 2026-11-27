@@ -1,0 +1,309 @@
+{
+  "method": "Original artist, original publisher, distributor metadata and Bilibili API checked in isolated headless Google Chrome.",
+  "scope": "Immediate covered or sampled recording is distinguished from the composition or original recording when the uploader names both.",
+  "newSongs": 4,
+  "additionalVersions": 4,
+  "records": [
+    {
+      "id": "hey-hey-hey-pinocchio",
+      "original": {
+        "credit": "ピノキオピー feat. 鏡音リン・初音ミク",
+        "url": "https://pinocchiop.com/news/780"
+      },
+      "originalEvidence": {
+        "creatorSite": {
+          "id": "pinocchio",
+          "url": "https://pinocchiop.com/news/780",
+          "finalUrl": "https://pinocchiop.com/news/780",
+          "httpStatus": 200,
+          "title": "新曲『ねぇねぇねぇ。 』MV公開 | ピノキオピー オフィシャルウェブサイト",
+          "accessedAt": "2026-11-27T10:07:08.026Z",
+          "htmlSha256": "0ec0dab6c8657ddeb52b2846cb79c8a230f2ec268aa4b66c1356e3e18bca1675",
+          "textSha256": "480388f96e98e0220e40a7e172e07c83087196d405050090b0f9965b81da899e",
+          "matches": [
+            "新曲『ねぇねぇねぇ。 』MV公開",
+            "8/11発売、ピノキオピー 5th Album『ラヴ』から「ねぇねぇねぇ。」を公開しました。",
+            "Vocal / 鏡音リン・初音ミク"
+          ]
+        },
+        "originalUpload": {
+          "bvid": "BV1aL411n7tQ",
+          "url": "https://www.bilibili.com/video/BV1aL411n7tQ/",
+          "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1aL411n7tQ",
+          "httpStatus": 200,
+          "code": 0,
+          "observedAt": "2026-11-27T10:02:58.513Z",
+          "publisher": "ピノキオピー_official",
+          "publisherTitle": "【鏡音リン・初音ミク】ねぇねぇねぇ。 (呐呐呐。)【ピノキオピー】",
+          "descriptionSha256": "5c0facc2628a55b94520df1f02c648ea28268adc41162513d2c78b101d3953e8"
+        }
+      },
+      "versions": [
+        {
+          "bvid": "BV1BCnW6XEQE",
+          "publisher": "零咲星",
+          "title": "【claude・deepseek】大肥鱼和克小姐的呐呐呐。 (ねぇねぇねぇ。)",
+          "descriptionSha256": "a2a2d89237554051aac8efe47c061f8c2a531f54ad341679fcf2cb2d3fbc2192",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-27/bv1bcnw6xeqe.json",
+            "sha256": "cb1d906422667bfc148f21b637ac70f448a555f78d1926310eba4090c45e259c",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+            "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "somewhere-in-time-accusefive",
+      "original": {
+        "credit": "告五人 Accusefive",
+        "url": "https://streetvoice.com/accusefive/songs/398341/"
+      },
+      "originalEvidence": {
+        "creatorDemo": {
+          "id": "accusefive-demo",
+          "url": "https://streetvoice.com/accusefive/songs/398341/",
+          "finalUrl": "https://streetvoice.com/accusefive/songs/398341/",
+          "httpStatus": 200,
+          "title": "愛人錯過 demo - 告五人 Accusefive | StreetVoice 街聲",
+          "accessedAt": "2026-11-27T10:07:11.164Z",
+          "htmlSha256": "a0a916e36c34d4c18843fe21c3d49a58529b3fefae9d45f5e9b7c8f1ca991327",
+          "textSha256": "9a453cb8121b2c8778b1bc01db061fc061e019a3b2d861ebd0416a2ee2fcb2b8",
+          "matches": [
+            "愛人錯過 demo",
+            "告五人 Accusefive",
+            "發布時間 2017-02-21",
+            "詞曲 潘雲安",
+            "編曲 告五人",
+            "雖然正式輸出版本MV破千萬，每次聽現場愛人錯過一定要喊最大聲，KTV唱到每次點都會怕。",
+            "愛人錯過"
+          ]
+        },
+        "officialMv": "https://www.youtube.com/watch?v=6D79CYTxvOM"
+      },
+      "versions": [
+        {
+          "bvid": "BV16JyDzqEEj",
+          "publisher": "DeepSeek小肥鱼在运营",
+          "title": "⚡爱人不错过⚡我肯定在上个对话就说过爱你~【大肥鱼×claude】",
+          "descriptionSha256": "a9d067f05bce9ff020c380a777c81e5e0a78d74be22076e89d24269b5a5f5397",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-27/bv16jydzqeej.json",
+            "sha256": "df75cd9d99e8e2048ddd703b4cc59e9fda3e5aac20431844ca7c1894c7bdba14",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+            "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "green-chen-xuening",
+      "original": {
+        "credit": "陈雪凝",
+        "url": "https://open.spotify.com/album/34OXATNlyM574Pzx34y3ui"
+      },
+      "originalEvidence": {
+        "single": {
+          "id": "green",
+          "url": "https://open.spotify.com/album/34OXATNlyM574Pzx34y3ui",
+          "finalUrl": "https://open.spotify.com/album/34OXATNlyM574Pzx34y3ui",
+          "httpStatus": 200,
+          "title": "Listen to 绿色 - Single by 陈雪凝 | Spotify",
+          "accessedAt": "2026-11-27T10:07:07.785Z",
+          "htmlSha256": "4a5aa383a86ea23dc50564bf424566ab666ecec25d92f1223c85366e79354860",
+          "textSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+          "matches": []
+        },
+        "vocalistUploadCitedByFan": {
+          "bvid": "BV1mM4m117KM",
+          "url": "https://www.bilibili.com/video/BV1mM4m117KM/",
+          "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mM4m117KM",
+          "httpStatus": 200,
+          "code": 0,
+          "observedAt": "2026-11-27T10:02:58.346Z",
+          "publisher": "陈雪凝",
+          "publisherTitle": "【绿色】当年听这首歌的人现在怎么样了",
+          "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+        }
+      },
+      "versions": [
+        {
+          "bvid": "BV11Tno64EoF",
+          "publisher": "UUのUU",
+          "title": "deepseek大肥鱼唱《绿色》 若不是你(小克Claude)突然闯进我生活,我怎会把我死守的寂寞放任了?~",
+          "descriptionSha256": "991a24d397b290d8df464042c0a904c8283a8d6beae4c0806a315abccfb94a23",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-27/bv11tno64eof.json",
+            "sha256": "f257faf1d0a2966e250c7676db63a8decc1eb8278eff1ee64d1f39c0e0327c30",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+            "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "the-tooth-pulling-song",
+      "original": {
+        "credit": "hanser · 樱桦",
+        "url": "https://www.bilibili.com/video/BV1vx411v7Xs/"
+      },
+      "originalEvidence": {
+        "release": {
+          "bvid": "BV1vx411v7Xs",
+          "url": "https://www.bilibili.com/video/BV1vx411v7Xs/",
+          "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vx411v7Xs",
+          "httpStatus": 200,
+          "code": 0,
+          "observedAt": "2026-11-27T10:07:08.867Z",
+          "publisher": "hanser",
+          "publisherTitle": "拔牙歌（柯罗伊x耀夜姬）#崩坏学园2歌月戏画#",
+          "descriptionSha256": "87c011a000a1dc34f667ca13db601f5eba231e3042288fa58ac28e227fed47cb"
+        },
+        "earlierCompositionTitle": "第三年的见异思迁",
+        "scope": "The direct Chinese-language source is the creators’ fan-contest upload. Its description credits a preexisting composition."
+      },
+      "versions": [
+        {
+          "bvid": "BV1WdsP6mEPp",
+          "publisher": "夏江流年",
+          "title": "大肥鱼XClaude  双声翻唱《拔牙歌》，承认吧，你超喜欢我~",
+          "descriptionSha256": "f73152d631f1e51f894b548f023c0ef0a028311f3b8333c56f8fac63ada83611",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-27/bv1wdsp6mepp.json",
+            "sha256": "535bc91a475cb1d1a77d381f8c60d722925db80d81ae0a1dfd9707e5fa16fbba",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+            "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "humans-are-cats",
+      "original": {
+        "credit": "张卡斯 · 洛天依",
+        "url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/"
+      },
+      "upstream": {
+        "firstUsedCover": "BV1fYpn6SEk9",
+        "secondScope": "The uploader credits 星落落_oi for audio; no exact recording BV is stated."
+      },
+      "versions": [
+        {
+          "bvid": "BV1TUJD63EjP",
+          "publisher": "DarthMol",
+          "title": "【Claude娘】人是猫｜猫耳Claude娘混进人类 MV",
+          "descriptionSha256": "af3a5fa2d9a51864ff2c10aa873baa91d6f091188741c0b016cea0a2aa8f946e",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-27/bv1tujd63ejp.json",
+            "sha256": "ac54d8d91e011f197398683f7eff23bf2d4004197d52bd91618119a5930af7fa",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+            "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+            "kind": "browser-metadata-extract"
+          }
+        },
+        {
+          "bvid": "BV1jn4y1Z7hu",
+          "publisher": "朝霜暮雪且何妨",
+          "title": "【Claude娘】人是猫！（内附许愿版全提示词）",
+          "descriptionSha256": "f22a565e53e79bb5c1e3852429632fad5b531ca752fe1c4ce4eb65c69c24e8c8",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-27/bv1jn4y1z7hu.json",
+            "sha256": "bcfe563694f8b5d0949c220b9626dbf52347a8ca7f1e5292ea2d1e8f2eac5f18",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+            "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "let-me-go",
+      "original": {
+        "credit": "星落落_oi",
+        "url": "https://www.bilibili.com/video/BV13SYr6dEiQ/"
+      },
+      "upstream": {
+        "directIntermediate": {
+          "bvid": "BV1XbY66nEWr",
+          "url": "https://www.bilibili.com/video/BV1XbY66nEWr/",
+          "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XbY66nEWr",
+          "httpStatus": 200,
+          "code": 0,
+          "observedAt": "2026-11-27T10:07:08.867Z",
+          "publisher": "罐装毕加索",
+          "publisherTitle": "[AI] 大肥鱼摸鱼歌《Let Me Go》",
+          "descriptionSha256": "2ec3c9c571c3bd23d660076bb2453ef7eb647cb57e1401013ba1471157383dc6"
+        }
+      },
+      "versions": [
+        {
+          "bvid": "BV1o5sR6mE6F",
+          "publisher": "肉肉皮",
+          "title": "Claude给大肥鱼喂了一整首饭｜Let Me Go 填词版【AI MV大赛】",
+          "descriptionSha256": "960cfd999bbb6479e24e3aac3a153c80665882f6e53818880bde7f55950b3fa5",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-27/bv1o5sr6me6f.json",
+            "sha256": "5e387a15c67d22a1b6dfb4567b17c43a1e42e1d9c3ef43e6ec4540646eccc881",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+            "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    },
+    {
+      "id": "five-twenty-am",
+      "original": {
+        "credit": "Soldier",
+        "url": "https://music-tw.line.me/track/7440499001"
+      },
+      "upstream": {
+        "previouslyVerifiedRecording": "content/research/2026-11-21/four-song-originals-and-fan-versions.json",
+        "coveredRecording": "https://music-tw.line.me/track/7447649001"
+      },
+      "versions": [
+        {
+          "bvid": "BV1TN4N6bEAE",
+          "publisher": "九九不喵呜",
+          "title": "\"我在5:20睡觉13:14准时起\"大肥鱼翻唱",
+          "descriptionSha256": "5358ac3ffcc701eceab11b218f304894a746fa3f22c4ca24b71f1d602ad7952c",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-27/bv1tn4n6beae.json",
+            "sha256": "98cd6845259b8bcddc772226e67e552131d1e9a31dd16939c410ad66a92f30cc",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+            "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ]
+    }
+  ]
+}

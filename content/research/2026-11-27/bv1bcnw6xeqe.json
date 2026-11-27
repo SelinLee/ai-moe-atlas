@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1BCnW6XEQE/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BCnW6XEQE",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:27.288Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1BCnW6XEQE",
+    "title": "【claude・deepseek】大肥鱼和克小姐的呐呐呐。 (ねぇねぇねぇ。)",
+    "owner": {
+      "mid": 291541913,
+      "name": "零咲星"
+    },
+    "pubdate": 1792689391,
+    "duration": 83
+  },
+  "descriptionSha256": "a2a2d89237554051aac8efe47c061f8c2a531f54ad341679fcf2cb2d3fbc2192",
+  "sourceLinks": [
+    {
+      "role": "uploader-cited-upload",
+      "title": "BV1aL411n7tQ",
+      "url": "https://www.bilibili.com/video/BV1aL411n7tQ/"
+    },
+    {
+      "role": "song-author-release",
+      "title": "ピノキオピー · ねぇねぇねぇ。",
+      "url": "https://pinocchiop.com/news/780"
+    }
+  ]
+}

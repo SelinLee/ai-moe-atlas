@@ -1,0 +1,62 @@
+{
+  "url": "https://github.com/Ivel10Go/claude-mascot/blob/680cd600f73a30c6ee3c126a565c13536cda5a2b/README.md",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:01:54.994Z",
+  "scope": "Pinned README, MIT code license and trademark notice verified. No runtime or artwork package was distributed.",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/Ivel10Go/claude-mascot/blob/680cd600f73a30c6ee3c126a565c13536cda5a2b/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Ivel10Go/claude-mascot/680cd600f73a30c6ee3c126a565c13536cda5a2b/README.md",
+    "sourceSha256": "3ad00f1314943ebf0aa338fb7fb782fe75b90c507fe1343eb5eaac7aa73ca64f",
+    "gitBlobSha": "48f135822a0ff86f152b6c47ee7a6ec5a9a986c9",
+    "bytes": 11518,
+    "commit": "680cd600f73a30c6ee3c126a565c13536cda5a2b",
+    "accessedAt": "2026-11-27T10:01:54.994Z"
+  },
+  "repository": {
+    "full_name": "Ivel10Go/claude-mascot",
+    "html_url": "https://github.com/Ivel10Go/claude-mascot",
+    "stargazers_count": 3,
+    "archived": false,
+    "created_at": "2026-07-30T07:33:19Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "680cd600f73a30c6ee3c126a565c13536cda5a2b",
+    "observedAt": "2026-11-27T10:00:52.190Z",
+    "httpStatus": 200,
+    "metadataSha256": "90c96adada36a1dbf30c517c18a16600cc4fc014f9447f7ae97163d4c6bbfe2f",
+    "parent": null
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/Ivel10Go/claude-mascot/blob/680cd600f73a30c6ee3c126a565c13536cda5a2b/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Ivel10Go/claude-mascot/680cd600f73a30c6ee3c126a565c13536cda5a2b/README.md",
+      "sourceSha256": "3ad00f1314943ebf0aa338fb7fb782fe75b90c507fe1343eb5eaac7aa73ca64f",
+      "gitBlobSha": "48f135822a0ff86f152b6c47ee7a6ec5a9a986c9",
+      "bytes": 11518,
+      "commit": "680cd600f73a30c6ee3c126a565c13536cda5a2b",
+      "accessedAt": "2026-11-27T10:01:54.994Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/Ivel10Go/claude-mascot/blob/680cd600f73a30c6ee3c126a565c13536cda5a2b/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Ivel10Go/claude-mascot/680cd600f73a30c6ee3c126a565c13536cda5a2b/LICENSE",
+      "sourceSha256": "3d4668955e57170432914d8bde84583dcee4b33de40fa06bea9f2a1fab3db195",
+      "gitBlobSha": "2d80cd98f8ca95df2a19c980b70e29846e869ecf",
+      "bytes": 1065,
+      "commit": "680cd600f73a30c6ee3c126a565c13536cda5a2b",
+      "accessedAt": "2026-11-27T10:01:55.366Z"
+    },
+    {
+      "path": "TRADEMARKS.md",
+      "url": "https://github.com/Ivel10Go/claude-mascot/blob/680cd600f73a30c6ee3c126a565c13536cda5a2b/TRADEMARKS.md",
+      "rawUrl": "https://raw.githubusercontent.com/Ivel10Go/claude-mascot/680cd600f73a30c6ee3c126a565c13536cda5a2b/TRADEMARKS.md",
+      "sourceSha256": "7fd8819f46a374f998f94d42f53913f1f486bd235828c3d6b914402b2c2a2292",
+      "gitBlobSha": "3bcd3061b9d74d6d9506b339fb4a0cadd44e9d94",
+      "bytes": 1063,
+      "commit": "680cd600f73a30c6ee3c126a565c13536cda5a2b",
+      "accessedAt": "2026-11-27T10:01:55.738Z"
+    }
+  ]
+}

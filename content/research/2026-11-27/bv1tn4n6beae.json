@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1TN4N6bEAE/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TN4N6bEAE",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:33.625Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1TN4N6bEAE",
+    "title": "\"我在5:20睡觉13:14准时起\"大肥鱼翻唱",
+    "owner": {
+      "mid": 182590089,
+      "name": "九九不喵呜"
+    },
+    "pubdate": 1793706000,
+    "duration": 156
+  },
+  "descriptionSha256": "5358ac3ffcc701eceab11b218f304894a746fa3f22c4ca24b71f1d602ad7952c",
+  "sourceLinks": []
+}

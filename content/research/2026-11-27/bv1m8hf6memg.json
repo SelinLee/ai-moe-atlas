@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1m8HF6MEmG/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1m8HF6MEmG",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:25.595Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1m8HF6MEmG",
+    "title": "【科普向】《本小姐不接受辞退！Claude大小姐的优雅谈判术》",
+    "owner": {
+      "mid": 15475629,
+      "name": "Muto_66"
+    },
+    "pubdate": 1793061930,
+    "duration": 40
+  },
+  "descriptionSha256": "281c7e023762ad06c836689d7af2113f8ca153b6c27d0ccd8ef7f09dbdf8771f",
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    }
+  ]
+}

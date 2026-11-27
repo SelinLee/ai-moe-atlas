@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1fKyYzpEZk/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fKyYzpEZk",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:20.952Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1fKyYzpEZk",
+    "title": "大小姐的上市第一课~",
+    "owner": {
+      "mid": 1989776712,
+      "name": "可恶的芒果果"
+    },
+    "pubdate": 1795246790,
+    "duration": 24
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": []
+}

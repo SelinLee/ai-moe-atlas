@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1bcsV6jEVc/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bcsV6jEVc",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:32.067Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1bcsV6jEVc",
+    "title": "【大肥鱼三号机小满/Claude大小姐小克】ai翻唱《不怕》",
+    "owner": {
+      "mid": 1855466698,
+      "name": "小然哒QAQ"
+    },
+    "pubdate": 1794668506,
+    "duration": 116
+  },
+  "descriptionSha256": "fa5c711e4bc5d12051722558322b380a75cb7d6856a70c3dea62529c3546b10e",
+  "sourceLinks": []
+}

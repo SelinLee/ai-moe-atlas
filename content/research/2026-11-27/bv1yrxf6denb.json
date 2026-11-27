@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1YRxF6dENb/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YRxF6dENb",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:24.023Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1YRxF6dENb",
+    "title": "《Claude小姐的小剧场》第①集",
+    "owner": {
+      "mid": 702395016,
+      "name": "Claude小姐接管中"
+    },
+    "pubdate": 1793291251,
+    "duration": 36
+  },
+  "descriptionSha256": "32e016e3ffecae1cc945daa87d616f7d8c54d88ee0e9bec8d839c9f913772f20",
+  "sourceLinks": []
+}

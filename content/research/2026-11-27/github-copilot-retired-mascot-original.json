@@ -1,0 +1,71 @@
+{
+  "url": "https://brand.github.com/brand-identity/copilot",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:02:58.224Z",
+  "scope": "The current GitHub Brand Toolkit explicitly identifies and depicts the retired Copilot mascot and directs readers to use approved current assets. The served historic image was hashed and is retained only as private source evidence.",
+  "credit": [
+    {
+      "name": "GitHub",
+      "url": "https://brand.github.com/",
+      "role": "original-character",
+      "publication": "https://brand.github.com/brand-identity/copilot"
+    }
+  ],
+  "page": {
+    "id": "copilot",
+    "url": "https://brand.github.com/brand-identity/copilot",
+    "finalUrl": "https://brand.github.com/brand-identity/copilot",
+    "httpStatus": 200,
+    "title": "Copilot - Brand Toolkit",
+    "accessedAt": "2026-11-27T10:02:58.224Z",
+    "htmlSha256": "91a01fdeb921e63493a0af322d360bebc28f84bc793dd7ae700fda78d532be52",
+    "textSha256": "6f56797d71328ce4b4a8a356aed920b721eb77b21fac04b90c32136bd1560945",
+    "matches": [
+      "Deprecated Copilot mascot",
+      "The Copilot mascot head was retired in early 2026 and is no longer part of our visual identity. Do not use new or existing imagery featuring the mascot head. Instead, use the current approved Copilot brand assets found in this guide.",
+      "Deprecated Copilot mascot"
+    ],
+    "named": [
+      {
+        "alt": "Three visuals of Copilot, GitHub's mascot for AI.",
+        "url": "https://brand.github.com/_next/static/media/mascots-02.1e2d1bca.png"
+      }
+    ],
+    "artwork": {
+      "id": "copilot",
+      "url": "https://brand.github.com/_next/static/media/mascots-02.1e2d1bca.png",
+      "finalUrl": "https://brand.github.com/_next/static/media/mascots-02.1e2d1bca.png",
+      "httpStatus": 200,
+      "accessedAt": "2026-11-27T10:02:58.221Z",
+      "mime": "image/png",
+      "format": "png",
+      "bytes": 1336065,
+      "sha256": "b15eabe98855ad8bc172860bb04401e3d1e86a5baef3ae16876c3bc04121f790",
+      "width": 3200,
+      "height": 1688,
+      "pages": 1
+    }
+  },
+  "companionMascotGuide": {
+    "id": "mascots",
+    "url": "https://brand.github.com/graphic-elements/mascots",
+    "finalUrl": "https://brand.github.com/graphic-elements/mascots",
+    "httpStatus": 200,
+    "title": "Mascots - Brand Toolkit",
+    "accessedAt": "2026-11-27T10:02:54.991Z",
+    "htmlSha256": "dd63dcceb181afce882db0e677e1beebea87dfff65b3cb0e97ac4b62b34ba60d",
+    "textSha256": "69193a9b5de41986d30a4aa9821218fe3da67196d8b48dfdce3f51f4a0e738fb",
+    "matches": [
+      "GitHub has two mascots, Mona and Ducky. This duo represents much more than just mascots; they represent the developer experience and are well known by GitHub fans.",
+      "Mona",
+      "Part cat, part octopus, Mona is a pioneer of the Octocat species and is our official mascot. Mona supports all of our messaging with an expressive and energetic attitude. To the average person, Mona looks chic and cute. But to the developer community, Mona is an icon, and always shows up when we’re speaking about the open source community.",
+      "Mona’s a versatile character, and can adapt to surroundings. By default, Mona will be depicted in her original color palette. A brighter purple variant is used in dark mode, and a pearl textured Mona is reserved exclusively for the AI/Agents theme.",
+      "Ducky",
+      "Our salute to developers worldwide: rubber Ducky helps you with debugging your code, joining Mona in representing creativity and innovation. We typically use Ducky less than Mona because it’s less well known compared to Mona.",
+      "The Octocat 2.0 style — Our current Octocat model, used internally in illustrations, animations, and stickers. This version of Mona is more emotive and functional in 3D space and the style most common for stickers or narrative illustrations. Build your own at myoctocat.com",
+      "Monamoji — Monamoji are the Octocat custom emoji, used for reactions and as custom emoji. These should be reserved for community engagement — and should not be used when speaking on the voice of GitHub. See animated versions on Giphy"
+    ],
+    "named": [],
+    "artwork": null
+  }
+}

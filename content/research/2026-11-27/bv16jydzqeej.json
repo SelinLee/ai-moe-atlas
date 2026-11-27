@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV16JyDzqEEj/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16JyDzqEEj",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:28.897Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV16JyDzqEEj",
+    "title": "⚡爱人不错过⚡我肯定在上个对话就说过爱你~【大肥鱼×claude】",
+    "owner": {
+      "mid": 21545288,
+      "name": "DeepSeek小肥鱼在运营"
+    },
+    "pubdate": 1795429419,
+    "duration": 234
+  },
+  "descriptionSha256": "a9d067f05bce9ff020c380a777c81e5e0a78d74be22076e89d24269b5a5f5397",
+  "sourceLinks": [
+    {
+      "role": "song-author-release",
+      "title": "告五人 Accusefive · 愛人錯過",
+      "url": "https://www.youtube.com/watch?v=6D79CYTxvOM"
+    }
+  ]
+}

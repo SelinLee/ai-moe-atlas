@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV131W16kEvY/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV131W16kEvY",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:20.952Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV131W16kEvY",
+    "title": "Claude 大小姐烧了好多 Token，做了一本会动的《童话镇》！",
+    "owner": {
+      "mid": 1276257362,
+      "name": "本鱼不摸鲸"
+    },
+    "pubdate": 1794378420,
+    "duration": 143
+  },
+  "descriptionSha256": "ec3a6c74aab7f7d50c38433cb03a1391f63cdbe5fd9a6e9af25bc11590a0ef05",
+  "sourceLinks": []
+}

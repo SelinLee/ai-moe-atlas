@@ -7751,5 +7751,169 @@
         }
       }
     }
+  },
+  {
+    "characterId": "github-copilot-retired-mascot",
+    "reviewedAt": "2026-11-27",
+    "reviewBasis": "The current GitHub Brand Toolkit explicitly identifies and depicts the retired Copilot mascot and directs readers to use approved current assets. The served historic image was hashed and is retained only as private source evidence.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://brand.github.com/brand-identity/copilot",
+    "attribution": [
+      {
+        "name": "GitHub",
+        "url": "https://brand.github.com/",
+        "role": "original-character",
+        "publication": "https://brand.github.com/brand-identity/copilot"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "prohibited",
+        "conditions": {
+          "zh": "GitHub 现行指南明确要求停止使用旧吉祥物图像。图鉴提供品牌指南链接。",
+          "en": "GitHub’s current guide directs readers to stop using imagery of this retired mascot. The atlas links the guide.",
+          "ja": "GitHub の現行ガイドは旧マスコット画像の使用中止を明記。図鑑はガイドへのリンクを掲載。"
+        }
+      },
+      "social-cover": {
+        "decision": "prohibited",
+        "conditions": {
+          "zh": "GitHub 现行指南明确要求停止使用旧吉祥物图像。图鉴提供品牌指南链接。",
+          "en": "GitHub’s current guide directs readers to stop using imagery of this retired mascot. The atlas links the guide.",
+          "ja": "GitHub の現行ガイドは旧マスコット画像の使用中止を明記。図鑑はガイドへのリンクを掲載。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "prohibited",
+        "conditions": {
+          "zh": "GitHub 现行指南明确要求停止使用旧吉祥物图像。图鉴提供品牌指南链接。",
+          "en": "GitHub’s current guide directs readers to stop using imagery of this retired mascot. The atlas links the guide.",
+          "ja": "GitHub の現行ガイドは旧マスコット画像の使用中止を明記。図鑑はガイドへのリンクを掲載。"
+        }
+      },
+      "full-portrait": {
+        "decision": "prohibited",
+        "conditions": {
+          "zh": "GitHub 现行指南明确要求停止使用旧吉祥物图像。图鉴提供品牌指南链接。",
+          "en": "GitHub’s current guide directs readers to stop using imagery of this retired mascot. The atlas links the guide.",
+          "ja": "GitHub の現行ガイドは旧マスコット画像の使用中止を明記。図鑑はガイドへのリンクを掲載。"
+        }
+      },
+      "intro-card": {
+        "decision": "prohibited",
+        "conditions": {
+          "zh": "GitHub 现行指南明确要求停止使用旧吉祥物图像。图鉴提供品牌指南链接。",
+          "en": "GitHub’s current guide directs readers to stop using imagery of this retired mascot. The atlas links the guide.",
+          "ja": "GitHub の現行ガイドは旧マスコット画像の使用中止を明記。図鑑はガイドへのリンクを掲載。"
+        }
+      },
+      "lineup-card": {
+        "decision": "prohibited",
+        "conditions": {
+          "zh": "GitHub 现行指南明确要求停止使用旧吉祥物图像。图鉴提供品牌指南链接。",
+          "en": "GitHub’s current guide directs readers to stop using imagery of this retired mascot. The atlas links the guide.",
+          "ja": "GitHub の現行ガイドは旧マスコット画像の使用中止を明記。図鑑はガイドへのリンクを掲載。"
+        }
+      },
+      "readme-demo": {
+        "decision": "prohibited",
+        "conditions": {
+          "zh": "GitHub 现行指南明确要求停止使用旧吉祥物图像。图鉴提供品牌指南链接。",
+          "en": "GitHub’s current guide directs readers to stop using imagery of this retired mascot. The atlas links the guide.",
+          "ja": "GitHub の現行ガイドは旧マスコット画像の使用中止を明記。図鑑はガイドへのリンクを掲載。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "prohibited",
+        "conditions": {
+          "zh": "GitHub 现行指南明确要求停止使用旧吉祥物图像。图鉴提供品牌指南链接。",
+          "en": "GitHub’s current guide directs readers to stop using imagery of this retired mascot. The atlas links the guide.",
+          "ja": "GitHub の現行ガイドは旧マスコット画像の使用中止を明記。図鑑はガイドへのリンクを掲載。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "anthropic-clawd-pixel",
+    "reviewedAt": "2026-11-27",
+    "reviewBasis": "The original static and waving files were returned directly from the official claude.ai host. The front page was access-restricted during the check. A pinned community inventory corroborates the asset names; it does not grant rights.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://claude.ai/images/clawd/core/Clawd-Still.png",
+    "attribution": [
+      {
+        "name": "Anthropic",
+        "url": "https://www.anthropic.com/",
+        "role": "original-character",
+        "publication": "https://claude.ai/images/clawd/core/Clawd-Still.png"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "提供 Anthropic 公布的图片链接。图片再发布与改编许可待核。",
+          "en": "Anthropic’s image links are listed. Permission to republish or adapt the artwork remains unconfirmed.",
+          "ja": "Anthropic の公開画像へのリンクを掲載。転載・改変の許可は確認待ち。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "提供 Anthropic 公布的图片链接。图片再发布与改编许可待核。",
+          "en": "Anthropic’s image links are listed. Permission to republish or adapt the artwork remains unconfirmed.",
+          "ja": "Anthropic の公開画像へのリンクを掲載。転載・改変の許可は確認待ち。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "提供 Anthropic 公布的图片链接。图片再发布与改编许可待核。",
+          "en": "Anthropic’s image links are listed. Permission to republish or adapt the artwork remains unconfirmed.",
+          "ja": "Anthropic の公開画像へのリンクを掲載。転載・改変の許可は確認待ち。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "提供 Anthropic 公布的图片链接。图片再发布与改编许可待核。",
+          "en": "Anthropic’s image links are listed. Permission to republish or adapt the artwork remains unconfirmed.",
+          "ja": "Anthropic の公開画像へのリンクを掲載。転載・改変の許可は確認待ち。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "提供 Anthropic 公布的图片链接。图片再发布与改编许可待核。",
+          "en": "Anthropic’s image links are listed. Permission to republish or adapt the artwork remains unconfirmed.",
+          "ja": "Anthropic の公開画像へのリンクを掲載。転載・改変の許可は確認待ち。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "提供 Anthropic 公布的图片链接。图片再发布与改编许可待核。",
+          "en": "Anthropic’s image links are listed. Permission to republish or adapt the artwork remains unconfirmed.",
+          "ja": "Anthropic の公開画像へのリンクを掲載。転載・改変の許可は確認待ち。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "提供 Anthropic 公布的图片链接。图片再发布与改编许可待核。",
+          "en": "Anthropic’s image links are listed. Permission to republish or adapt the artwork remains unconfirmed.",
+          "ja": "Anthropic の公開画像へのリンクを掲載。転載・改変の許可は確認待ち。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "提供 Anthropic 公布的图片链接。图片再发布与改编许可待核。",
+          "en": "Anthropic’s image links are listed. Permission to republish or adapt the artwork remains unconfirmed.",
+          "ja": "Anthropic の公開画像へのリンクを掲載。転載・改変の許可は確認待ち。"
+        }
+      }
+    }
   }
 ]

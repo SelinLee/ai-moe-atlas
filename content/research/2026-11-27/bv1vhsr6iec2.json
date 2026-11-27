@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1VHsr6iEc2/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VHsr6iEc2",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:28.929Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1VHsr6iEc2",
+    "title": "⚡️我们是天生般配⚡️《罪般配》DeepSeek翻唱",
+    "owner": {
+      "mid": 182590089,
+      "name": "九九不喵呜"
+    },
+    "pubdate": 1794918020,
+    "duration": 196
+  },
+  "descriptionSha256": "a1b322ce3ec300206fea0fc6beec339033a898e2972c5a7fdadac0a0ecce85d0",
+  "sourceLinks": []
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1PW1JztEDS/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PW1JztEDS",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:17.833Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1PW1JztEDS",
+    "title": "小剧场:冷冰冰的Claude小姐",
+    "owner": {
+      "mid": 693244492,
+      "name": "RK冥狼"
+    },
+    "pubdate": 1795710682,
+    "duration": 139
+  },
+  "descriptionSha256": "7ee861683c24895867245392b12fd0db4522f6cca9e7087e0b3fee19b4562197",
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    }
+  ]
+}

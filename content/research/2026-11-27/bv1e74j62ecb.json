@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1e74J62ECB/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1e74J62ECB",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:32.068Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1e74J62ECB",
+    "title": "【AI娘/纯爱后宫/试调音】Claude试着唱了单相思",
+    "owner": {
+      "mid": 627906174,
+      "name": "Tips-SoNg"
+    },
+    "pubdate": 1794033589,
+    "duration": 67
+  },
+  "descriptionSha256": "d223864245cd525eb444fcdfd5fd62c4e515c4180a27eb79be4f7bae65ae7c29",
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    }
+  ]
+}

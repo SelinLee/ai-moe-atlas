@@ -1,0 +1,49 @@
+{
+  "checkedAt": "2026-11-27T10:03:01.620Z",
+  "previousEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+    "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+    "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+    "kind": "browser-metadata-extract"
+  },
+  "scope": "Selected new public videos. Candidate failures and previously ranked observations retain their recorded timestamps.",
+  "queried": 33,
+  "addedToRanking": 27,
+  "gameLinkedEntry": {
+    "id": "ai-shareholder",
+    "url": "https://www.bilibili.com/toy/ai-shareholder-arena/index.html",
+    "finalUrl": "https://www.bilibili.com/toy/ai-shareholder-arena/index.html",
+    "httpStatus": 200,
+    "title": "登录提示",
+    "accessedAt": "2026-11-27T10:02:55.484Z",
+    "htmlSha256": "bdb03c809360ebc361d8150f7e8d909b0d7538c5fd650f570bb2d0020f78e68d",
+    "textSha256": "5c0a5b28ee80098d9ce744d4af4afb2f582b41e4df18b40e6618d751ae412877",
+    "matches": [],
+    "named": [],
+    "artwork": null
+  },
+  "sourceCrossChecks": [
+    "BV1mFnn6xE7M",
+    "BV1aL411n7tQ",
+    "BV1mM4m117KM"
+  ],
+  "excluded": [
+    {
+      "bvids": [
+        "BV1KhyJzfEap",
+        "BV1k2y5zVEyh"
+      ],
+      "basis": "The description makes or dramatizes a claim about a Riemann hypothesis proof. The underlying claim was not established for this catalog update."
+    },
+    {
+      "bvids": [
+        "BV1obxY6QEV6"
+      ],
+      "basis": "The description identifies an abstract line as the sole subject. The AI model is a tool credit; no personified AI character is established."
+    }
+  ]
+}

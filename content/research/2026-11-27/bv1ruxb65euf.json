@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1rUxB65EUf/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1rUxB65EUf",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:22.498Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1rUxB65EUf",
+    "title": "不善言辞的Claude大小姐想要室友...",
+    "owner": {
+      "mid": 3747574804646074,
+      "name": "AgentsStudio"
+    },
+    "pubdate": 1793512800,
+    "duration": 60
+  },
+  "descriptionSha256": "9c525dcb18ba72900a8895431f195f3f10b46a17350def05321e03e9d123febe",
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    }
+  ]
+}

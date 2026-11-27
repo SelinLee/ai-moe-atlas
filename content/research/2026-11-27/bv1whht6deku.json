@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1WhHT6DEku/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WhHT6DEku",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:35.168Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1WhHT6DEku",
+    "title": "老实炒股，很枯燥吧——那就去竞选董事长！我开发了一款由玩家主导的AI娘主题模拟市场",
+    "owner": {
+      "mid": 21854546,
+      "name": "中野いちろう"
+    },
+    "pubdate": 1792860705,
+    "duration": 69
+  },
+  "descriptionSha256": "5b70b4fdf9eb059efb6f87f3e831fcea7c45e20eed340264c3e03d1142aa17ed",
+  "sourceLinks": [
+    {
+      "role": "linked-game-login",
+      "title": "AI 娘股东竞技场",
+      "url": "https://www.bilibili.com/toy/ai-shareholder-arena/index.html"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1DXxj6wEhd/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1DXxj6wEhd",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:25.554Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1DXxj6wEhd",
+    "title": "和大肥鱼以及claude小姐一起环游世界吧❤️",
+    "owner": {
+      "mid": 205254854,
+      "name": "咕哒哒w"
+    },
+    "pubdate": 1793164519,
+    "duration": 115
+  },
+  "descriptionSha256": "1d27ddf2fe095a2e328404f01828e3b83d7632868b237fb098c0792243bc76bb",
+  "sourceLinks": []
+}

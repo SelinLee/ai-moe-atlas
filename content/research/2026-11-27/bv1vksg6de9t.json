@@ -1,0 +1,41 @@
+{
+  "url": "https://www.bilibili.com/video/BV1vksg6DE9t/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vksg6DE9t",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:30.472Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1vksg6DE9t",
+    "title": "【鲸鱼娘和claude】—想听你说月色真美【月が綺麗ねと言われたい】",
+    "owner": {
+      "mid": 1327387359,
+      "name": "永恒-えいえん"
+    },
+    "pubdate": 1794891143,
+    "duration": 36
+  },
+  "descriptionSha256": "eec4d95a98ad073b2f94cf38975e38928bc5302285ff8dbb861506e11540fd74",
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "上善无形",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "uploader-cited-upload",
+      "title": "BV1KLKV6wEYe",
+      "url": "https://www.bilibili.com/video/BV1KLKV6wEYe/"
+    },
+    {
+      "role": "uploader-cited-upload",
+      "title": "BV15HFVz1EvM",
+      "url": "https://www.bilibili.com/video/BV15HFVz1EvM/"
+    }
+  ]
+}

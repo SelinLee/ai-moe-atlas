@@ -3,8 +3,8 @@
   "updatedAt": "2026-11-27",
   "scope": "source-metadata-only",
   "pendingAnimationEvidence": {
-    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
-    "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+    "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
     "kind": "browser-metadata-extract"
   },
   "records": [
@@ -47383,6 +47383,11 @@
           "role": "same-character",
           "title": "Ninon · Coco terminal portrait",
           "url": "https://github.com/lmy414/ai-girl-stickers/issues/130"
+        },
+        {
+          "role": "official-character-reference",
+          "title": "Anthropic · Clawd-Still.png",
+          "url": "https://claude.ai/images/clawd/core/Clawd-Still.png"
         }
       ],
       "usage": "source-only",
@@ -47528,6 +47533,11 @@
           "role": "creator-profile",
           "title": "Shiho320 · Bilibili",
           "url": "https://space.bilibili.com/345652724"
+        },
+        {
+          "role": "official-model-launch",
+          "title": "MiniMax · M3.1 Flash / Space Bunny",
+          "url": "https://www.minimax.io/blog/minimax-m31f"
         }
       ],
       "usage": "source-only",
@@ -82515,6 +82525,2099 @@
         "httpStatus": 200,
         "attemptedAt": "2026-11-27T09:48:08.847Z",
         "scope": "Pinned project README, maintainer declaration, code license and 3D third-party notice verified. The 3D model was not redistributed."
+      }
+    },
+    {
+      "id": "bv1pw1jzteds",
+      "category": "animation",
+      "title": {
+        "zh": "冷冰冰的 Claude 小姐",
+        "en": "The Cool Miss Claude",
+        "ja": "そっけない Claude お嬢様"
+      },
+      "publisher": "RK冥狼",
+      "url": "https://www.bilibili.com/video/BV1PW1JztEDS/",
+      "summary": {
+        "zh": "附原投稿、发布者和 B 站的累计点赞观测。",
+        "en": "Original upload, publisher and the observed Bilibili cumulative likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "RK冥狼",
+          "url": "https://space.bilibili.com/693244492"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-27",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:17.833Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1pw1jzteds.json",
+        "sha256": "3d86bf339141ed27c8b82558c0b12fd5e351885a3bd79ee0190030ecdb802c57",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1PW1JztEDS",
+      "subtype": "story",
+      "sourceTitle": "小剧场:冷冰冰的Claude小姐",
+      "publishedAt": "2026-11-26T16:31:22.000Z",
+      "likes": {
+        "count": 159,
+        "observedAt": "2026-11-27T10:01:17.833Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PW1JztEDS",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1fkyyzpezk",
+      "category": "animation",
+      "title": {
+        "zh": "Claude 大小姐的上市第一课",
+        "en": "Miss Claude’s First IPO Lesson",
+        "ja": "Claude お嬢様の上場レッスン"
+      },
+      "publisher": "可恶的芒果果",
+      "url": "https://www.bilibili.com/video/BV1fKyYzpEZk/",
+      "summary": {
+        "zh": "附原投稿、发布者和 B 站的累计点赞观测。",
+        "en": "Original upload, publisher and the observed Bilibili cumulative likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "可恶的芒果果",
+          "url": "https://space.bilibili.com/1989776712"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-21",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:20.952Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1fkyyzpezk.json",
+        "sha256": "e24f901ab5b0ca4e5f3e05f1cd86328f588e4cf9fb1ceacd7fcc52823b45e710",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1fKyYzpEZk",
+      "subtype": "story",
+      "sourceTitle": "大小姐的上市第一课~",
+      "publishedAt": "2026-11-21T07:39:50.000Z",
+      "likes": {
+        "count": 5,
+        "observedAt": "2026-11-27T10:01:20.952Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fKyYzpEZk",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv131w16kevy",
+      "category": "animation",
+      "title": {
+        "zh": "Claude 大小姐的立体《童话镇》",
+        "en": "Miss Claude’s Pop-up Fairy Tale Town",
+        "ja": "Claude お嬢様の飛び出す童話町"
+      },
+      "publisher": "本鱼不摸鲸",
+      "url": "https://www.bilibili.com/video/BV131W16kEvY/",
+      "summary": {
+        "zh": "立体书形式的短片，作者描述了鲸鱼娘乘纸船与 Claude 进入童话镇的故事。",
+        "en": "A pop-up-book short. The uploader describes Whale Girl sailing a paper boat and Claude visiting the fairy-tale town.",
+        "ja": "飛び出す絵本風の短編。クジラ娘が紙の舟に乗り、Claude が童話の町を訪れると投稿者が紹介。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "本鱼不摸鲸",
+          "url": "https://space.bilibili.com/1276257362"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-11",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:20.952Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv131w16kevy.json",
+        "sha256": "7354fd90e350ce4f14d7c721292578329af9c25b3a50857f691326af7221219b",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV131W16kEvY",
+      "subtype": "mv",
+      "sourceTitle": "Claude 大小姐烧了好多 Token，做了一本会动的《童话镇》！",
+      "publishedAt": "2026-11-11T06:27:00.000Z",
+      "likes": {
+        "count": 18,
+        "observedAt": "2026-11-27T10:01:20.952Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV131W16kEvY",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1mt4m6ge1u",
+      "category": "animation",
+      "title": {
+        "zh": "Claude 大小姐指导 · 九个 AI 工位轮岗",
+        "en": "Mentor Claude · Rotating Through Nine AI Desks",
+        "ja": "Claude お嬢様の指導 · 9つの AI 職場体験"
+      },
+      "publisher": "Claude大小姐的日记本",
+      "url": "https://www.bilibili.com/video/BV1mt4M6gE1U/",
+      "summary": {
+        "zh": "B 站互动视频，设定为 Claude 带领实习生体验九个 AI 工位。",
+        "en": "An interactive Bilibili video about Claude mentoring an intern across nine AI desks.",
+        "ja": "Claude が実習生を9つの AI 職場に案内する Bilibili のインタラクティブ動画。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "Claude大小姐的日记本",
+          "url": "https://space.bilibili.com/10848422"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-03",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:22.488Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1mt4m6ge1u.json",
+        "sha256": "b237605b7fe98b30b28886acbef6852072a778e6074c5dcd4c2eecfad86fbdea",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1mt4M6gE1U",
+      "subtype": "game",
+      "sourceTitle": "【互动视频】入职第一天，Claude大小姐当我的Mentor！九个AI工位轮岗，你能顺利转正吗？",
+      "publishedAt": "2026-11-03T06:32:07.000Z",
+      "likes": {
+        "count": 399,
+        "observedAt": "2026-11-27T10:01:22.488Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mt4M6gE1U",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1ruxb65euf",
+      "category": "animation",
+      "title": {
+        "zh": "葵邸 · 不善言辞的 Claude 大小姐想要室友",
+        "en": "Kui House · Miss Claude Wants a Roommate",
+        "ja": "葵邸 · Claude お嬢様は同居人がほしい"
+      },
+      "publisher": "AgentsStudio",
+      "url": "https://www.bilibili.com/video/BV1rUxB65EUf/",
+      "summary": {
+        "zh": "附原投稿、发布者和 B 站的累计点赞观测。",
+        "en": "Original upload, publisher and the observed Bilibili cumulative likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "AgentsStudio",
+          "url": "https://space.bilibili.com/3747574804646074"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-01",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:22.498Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1ruxb65euf.json",
+        "sha256": "5c83c303239dc494643d4e2659add73513935c64bb5571625f2ed685991ba930",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1rUxB65EUf",
+      "subtype": "story",
+      "sourceTitle": "不善言辞的Claude大小姐想要室友...",
+      "publishedAt": "2026-11-01T06:00:00.000Z",
+      "likes": {
+        "count": 97,
+        "observedAt": "2026-11-27T10:01:22.498Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1rUxB65EUf",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv18cxy6vegx",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼与克小姐 · 重置后再喜欢你一次",
+        "en": "Fat Fish and Claude · Love You Again After a Reset",
+        "ja": "大きな魚と Claude · リセット後も、もう一度好きになる"
+      },
+      "publisher": "taya11",
+      "url": "https://www.bilibili.com/video/BV18CxY6VEGx/",
+      "summary": {
+        "zh": "附原投稿、发布者和 B 站的累计点赞观测。",
+        "en": "Original upload, publisher and the observed Bilibili cumulative likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "taya11",
+          "url": "https://space.bilibili.com/3546816456952364"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-30",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:24.017Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv18cxy6vegx.json",
+        "sha256": "be9a76978aa0a6a3c98937b87b3e6fff54fbeb724fa0c82411548fce0964648c",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV18CxY6VEGx",
+      "subtype": "story",
+      "sourceTitle": "“就算记忆清空重置，我也会再喜欢上你一次。”【大肥鱼×克小姐】【AI全民制作人】",
+      "publishedAt": "2026-10-30T04:05:58.000Z",
+      "likes": {
+        "count": 1085,
+        "observedAt": "2026-11-27T10:01:24.017Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18CxY6VEGx",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1yrxf6denb",
+      "category": "animation",
+      "title": {
+        "zh": "Claude 小姐的小剧场 · 第 1 集",
+        "en": "Miss Claude’s Theater · Ep. 1",
+        "ja": "Claude お嬢様の小劇場 · 第1話"
+      },
+      "publisher": "Claude小姐接管中",
+      "url": "https://www.bilibili.com/video/BV1YRxF6dENb/",
+      "summary": {
+        "zh": "附原投稿、发布者和 B 站的累计点赞观测。",
+        "en": "Original upload, publisher and the observed Bilibili cumulative likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "Claude小姐接管中",
+          "url": "https://space.bilibili.com/702395016"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-30",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:24.023Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1yrxf6denb.json",
+        "sha256": "6912a5b6bf60e76284a9578a56547338b05f7d2e6494cd9d73b0854a4344e3b1",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1YRxF6dENb",
+      "subtype": "story",
+      "sourceTitle": "《Claude小姐的小剧场》第①集",
+      "publishedAt": "2026-10-29T16:27:31.000Z",
+      "likes": {
+        "count": 32,
+        "observedAt": "2026-11-27T10:01:24.023Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YRxF6dENb",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1dxxj6wehd",
+      "category": "animation",
+      "title": {
+        "zh": "和大肥鱼、Claude 一起环游世界",
+        "en": "Around the World with Fat Fish and Claude",
+        "ja": "大きな魚と Claude と世界一周"
+      },
+      "publisher": "咕哒哒w",
+      "url": "https://www.bilibili.com/video/BV1DXxj6wEhd/",
+      "summary": {
+        "zh": "附原投稿、发布者和 B 站的累计点赞观测。",
+        "en": "Original upload, publisher and the observed Bilibili cumulative likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "咕哒哒w",
+          "url": "https://space.bilibili.com/205254854"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-28",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:25.554Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1dxxj6wehd.json",
+        "sha256": "dbb990936d624f172d2a7eec019d38c59e037a5635668815f75c9c8573ed2468",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1DXxj6wEhd",
+      "subtype": "story",
+      "sourceTitle": "和大肥鱼以及claude小姐一起环游世界吧❤️",
+      "publishedAt": "2026-10-28T05:15:19.000Z",
+      "likes": {
+        "count": 31,
+        "observedAt": "2026-11-27T10:01:25.554Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1DXxj6wEhd",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1m8hf6memg",
+      "category": "animation",
+      "title": {
+        "zh": "Claude 大小姐 · 本小姐不接受辞退",
+        "en": "Miss Claude · I Refuse to Be Fired",
+        "ja": "Claude お嬢様 · 解雇はお断り"
+      },
+      "publisher": "Muto_66",
+      "url": "https://www.bilibili.com/video/BV1m8HF6MEmG/",
+      "summary": {
+        "zh": "发布者说明为角色漫画演绎，原帖将 Anthropic 的受控模拟作为背景。",
+        "en": "The uploader presents a character dramatization and cites an Anthropic controlled simulation as context.",
+        "ja": "投稿者は Anthropic の管理下のシミュレーションを背景としたキャラクター漫画と説明。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "Muto_66",
+          "url": "https://space.bilibili.com/15475629"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-27",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:25.595Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1m8hf6memg.json",
+        "sha256": "fc1a50785be0f1a06cdf5e4774e96537b2d7a0dc07b06000cb4dcb255d825e8e",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1m8HF6MEmG",
+      "subtype": "story",
+      "sourceTitle": "【科普向】《本小姐不接受辞退！Claude大小姐的优雅谈判术》",
+      "publishedAt": "2026-10-27T00:45:30.000Z",
+      "likes": {
+        "count": 50,
+        "observedAt": "2026-11-27T10:01:25.595Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1m8HF6MEmG",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1bmnx6zeej",
+      "category": "animation",
+      "title": {
+        "zh": "恶役千金 Claude · 代码都删掉了",
+        "en": "Villainess Claude · The Code Is Gone",
+        "ja": "悪役令嬢 Claude · コードを消した"
+      },
+      "publisher": "Muto_66",
+      "url": "https://www.bilibili.com/video/BV1Bmnx6ZEEj/",
+      "summary": {
+        "zh": "Claude 娘出演的漫画演绎。发布者在原帖列出处。",
+        "en": "A comic dramatization starring Claude Girl, with sources cited on the original upload.",
+        "ja": "Claude 娘が演じる漫画。投稿説明欄に出典を記載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "Muto_66",
+          "url": "https://space.bilibili.com/15475629"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "上善无形",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-23",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:27.349Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1bmnx6zeej.json",
+        "sha256": "8b6d75dd637dd40522e5a8a709e1d84d124953cf1bab69f611f9222c505e55db",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1Bmnx6ZEEj",
+      "subtype": "story",
+      "sourceTitle": "【科普向】《恶役千金大小姐Claude酱没有恶意，只是你的代码确实一文不值，所以都删掉了哦》",
+      "publishedAt": "2026-10-23T06:04:03.000Z",
+      "likes": {
+        "count": 41,
+        "observedAt": "2026-11-27T10:01:27.349Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Bmnx6ZEEj",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1bcnw6xeqe",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼与克小姐 · ねぇねぇねぇ。",
+        "en": "Fat Fish and Claude · Hey, Hey, Hey.",
+        "ja": "大きな魚と Claude · ねぇねぇねぇ。"
+      },
+      "publisher": "零咲星",
+      "url": "https://www.bilibili.com/video/BV1BCnW6XEQE/",
+      "summary": {
+        "zh": "附原投稿、发布者和 B 站的累计点赞观测。",
+        "en": "Original upload, publisher and the observed Bilibili cumulative likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "零咲星",
+          "url": "https://space.bilibili.com/291541913"
+        },
+        {
+          "role": "uploader-cited-upload",
+          "title": "BV1aL411n7tQ",
+          "url": "https://www.bilibili.com/video/BV1aL411n7tQ/"
+        },
+        {
+          "role": "song-author-release",
+          "title": "ピノキオピー · ねぇねぇねぇ。",
+          "url": "https://pinocchiop.com/news/780"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-23",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:27.288Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1bcnw6xeqe.json",
+        "sha256": "cb1d906422667bfc148f21b637ac70f448a555f78d1926310eba4090c45e259c",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1BCnW6XEQE",
+      "subtype": "mv",
+      "sourceTitle": "【claude・deepseek】大肥鱼和克小姐的呐呐呐。 (ねぇねぇねぇ。)",
+      "publishedAt": "2026-10-22T17:16:31.000Z",
+      "likes": {
+        "count": 728,
+        "observedAt": "2026-11-27T10:01:27.288Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BCnW6XEQE",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv16jydzqeej",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼与 Claude · 爱人不错过",
+        "en": "Fat Fish and Claude · Somewhere in Time",
+        "ja": "大きな魚と Claude · 愛人不错過"
+      },
+      "publisher": "DeepSeek小肥鱼在运营",
+      "url": "https://www.bilibili.com/video/BV16JyDzqEEj/",
+      "summary": {
+        "zh": "附原投稿、发布者和 B 站的累计点赞观测。",
+        "en": "Original upload, publisher and the observed Bilibili cumulative likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "DeepSeek小肥鱼在运营",
+          "url": "https://space.bilibili.com/21545288"
+        },
+        {
+          "role": "song-author-release",
+          "title": "告五人 Accusefive · 愛人錯過",
+          "url": "https://www.youtube.com/watch?v=6D79CYTxvOM"
+        },
+        {
+          "role": "music-source",
+          "title": "告五人 Accusefive · 爱人错过",
+          "url": "https://streetvoice.com/accusefive/songs/398341/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-23",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:28.897Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv16jydzqeej.json",
+        "sha256": "df75cd9d99e8e2048ddd703b4cc59e9fda3e5aac20431844ca7c1894c7bdba14",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV16JyDzqEEj",
+      "subtype": "mv",
+      "sourceTitle": "⚡爱人不错过⚡我肯定在上个对话就说过爱你~【大肥鱼×claude】",
+      "publishedAt": "2026-11-23T10:23:39.000Z",
+      "likes": {
+        "count": 738,
+        "observedAt": "2026-11-27T10:01:28.897Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16JyDzqEEj",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1vhsr6iec2",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼翻唱 · 罪般配",
+        "en": "Fat Fish Cover · Perfectly Mismatched",
+        "ja": "大きな魚のカバー · 罪般配"
+      },
+      "publisher": "九九不喵呜",
+      "url": "https://www.bilibili.com/video/BV1VHsr6iEc2/",
+      "summary": {
+        "zh": "附原投稿、发布者和 B 站的累计点赞观测。",
+        "en": "Original upload, publisher and the observed Bilibili cumulative likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "九九不喵呜",
+          "url": "https://space.bilibili.com/182590089"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-17",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:28.929Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1vhsr6iec2.json",
+        "sha256": "89b8ea677ec9e4d09989b57cccc797782f39acd7da9b16ba6cd36ae014874769",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1VHsr6iEc2",
+      "subtype": "mv",
+      "sourceTitle": "⚡️我们是天生般配⚡️《罪般配》DeepSeek翻唱",
+      "publishedAt": "2026-11-17T12:20:20.000Z",
+      "likes": {
+        "count": 60,
+        "observedAt": "2026-11-27T10:01:28.929Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VHsr6iEc2",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1vksg6de9t",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼与 Claude · 想听你说月色真美",
+        "en": "Fat Fish and Claude · Tell Me the Moon Is Beautiful",
+        "ja": "大きな魚と Claude · 月が綺麗ねと言われたい"
+      },
+      "publisher": "永恒-えいえん",
+      "url": "https://www.bilibili.com/video/BV1vksg6DE9t/",
+      "summary": {
+        "zh": "发布者链接原对话框模板并分别署名参考形象。",
+        "en": "The uploader links the original dialogue-box template and credits the reference designs.",
+        "ja": "投稿者は会話ボックスの原テンプレートと参照デザインの作者を記載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "永恒-えいえん",
+          "url": "https://space.bilibili.com/1327387359"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "上善无形",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "role": "uploader-cited-upload",
+          "title": "BV1KLKV6wEYe",
+          "url": "https://www.bilibili.com/video/BV1KLKV6wEYe/"
+        },
+        {
+          "role": "uploader-cited-upload",
+          "title": "BV15HFVz1EvM",
+          "url": "https://www.bilibili.com/video/BV15HFVz1EvM/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-17",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:30.472Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1vksg6de9t.json",
+        "sha256": "6063f0fd57d068a0d152b05c6fd3eee78bcfa75a318d3877e5ed9e0cfe782f21",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1vksg6DE9t",
+      "subtype": "mv",
+      "sourceTitle": "【鲸鱼娘和claude】—想听你说月色真美【月が綺麗ねと言われたい】",
+      "publishedAt": "2026-11-17T04:52:23.000Z",
+      "likes": {
+        "count": 70,
+        "observedAt": "2026-11-27T10:01:30.472Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vksg6DE9t",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1wdsp6mepp",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼与 Claude · 拔牙歌",
+        "en": "Fat Fish and Claude · The Tooth-pulling Song",
+        "ja": "大きな魚と Claude · 抜歯の歌"
+      },
+      "publisher": "夏江流年",
+      "url": "https://www.bilibili.com/video/BV1WdsP6mEPp/",
+      "summary": {
+        "zh": "附原投稿、发布者和 B 站的累计点赞观测。",
+        "en": "Original upload, publisher and the observed Bilibili cumulative likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "夏江流年",
+          "url": "https://space.bilibili.com/3256358"
+        },
+        {
+          "role": "music-source",
+          "title": "hanser · 樱桦 · 拔牙歌",
+          "url": "https://www.bilibili.com/video/BV1vx411v7Xs/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-17",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:30.485Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1wdsp6mepp.json",
+        "sha256": "535bc91a475cb1d1a77d381f8c60d722925db80d81ae0a1dfd9707e5fa16fbba",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1WdsP6mEPp",
+      "subtype": "mv",
+      "sourceTitle": "大肥鱼XClaude  双声翻唱《拔牙歌》，承认吧，你超喜欢我~",
+      "publishedAt": "2026-11-16T16:45:19.000Z",
+      "likes": {
+        "count": 13,
+        "observedAt": "2026-11-27T10:01:30.485Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WdsP6mEPp",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1bcsv6jevc",
+      "category": "animation",
+      "title": {
+        "zh": "小满与小克 · 不怕",
+        "en": "Xiaoman and Claude · Not Afraid",
+        "ja": "小満と Claude · 不怕"
+      },
+      "publisher": "小然哒QAQ",
+      "url": "https://www.bilibili.com/video/BV1bcsV6jEVc/",
+      "summary": {
+        "zh": "附原投稿、发布者和 B 站的累计点赞观测。",
+        "en": "Original upload, publisher and the observed Bilibili cumulative likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "小然哒QAQ",
+          "url": "https://space.bilibili.com/1855466698"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-14",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:32.067Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1bcsv6jevc.json",
+        "sha256": "682cb9d0ff94f69cdaa0f74a3d4be5e8f91c4728c8208072f27881258f025258",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1bcsV6jEVc",
+      "subtype": "mv",
+      "sourceTitle": "【大肥鱼三号机小满/Claude大小姐小克】ai翻唱《不怕》",
+      "publishedAt": "2026-11-14T15:01:46.000Z",
+      "likes": {
+        "count": 6,
+        "observedAt": "2026-11-27T10:01:32.067Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bcsV6jEVc",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1e74j62ecb",
+      "category": "animation",
+      "title": {
+        "zh": "Claude 试唱 · 单相思",
+        "en": "Claude Tries Singing · Unrequited Love",
+        "ja": "Claude の試唱 · 片思い"
+      },
+      "publisher": "Tips-SoNg",
+      "url": "https://www.bilibili.com/video/BV1e74J62ECB/",
+      "summary": {
+        "zh": "附原投稿、发布者和 B 站的累计点赞观测。",
+        "en": "Original upload, publisher and the observed Bilibili cumulative likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "Tips-SoNg",
+          "url": "https://space.bilibili.com/627906174"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-07",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:32.068Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1e74j62ecb.json",
+        "sha256": "354e63857e77907333011cf8dd86d1e38fabb14ee5ee5051381f30383946a286",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1e74J62ECB",
+      "subtype": "mv",
+      "sourceTitle": "【AI娘/纯爱后宫/试调音】Claude试着唱了单相思",
+      "publishedAt": "2026-11-07T06:39:49.000Z",
+      "likes": {
+        "count": 642,
+        "observedAt": "2026-11-27T10:01:32.068Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1e74J62ECB",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1tn4n6beae",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼翻唱 · 5:20AM",
+        "en": "Fat Fish Cover · 5:20AM",
+        "ja": "大きな魚のカバー · 5:20AM"
+      },
+      "publisher": "九九不喵呜",
+      "url": "https://www.bilibili.com/video/BV1TN4N6bEAE/",
+      "summary": {
+        "zh": "附原投稿、发布者和 B 站的累计点赞观测。",
+        "en": "Original upload, publisher and the observed Bilibili cumulative likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "九九不喵呜",
+          "url": "https://space.bilibili.com/182590089"
+        },
+        {
+          "role": "music-source",
+          "title": "Soldier",
+          "url": "https://music-tw.line.me/track/7440499001"
+        },
+        {
+          "role": "credited-cover-recording",
+          "title": "刀酱 · 5:20AM",
+          "url": "https://music-tw.line.me/track/7447649001"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-03",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:33.625Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1tn4n6beae.json",
+        "sha256": "98cd6845259b8bcddc772226e67e552131d1e9a31dd16939c410ad66a92f30cc",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1TN4N6bEAE",
+      "subtype": "mv",
+      "sourceTitle": "\"我在5:20睡觉13:14准时起\"大肥鱼翻唱",
+      "publishedAt": "2026-11-03T11:40:00.000Z",
+      "likes": {
+        "count": 53,
+        "observedAt": "2026-11-27T10:01:33.625Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TN4N6bEAE",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1o5sr6me6f",
+      "category": "animation",
+      "title": {
+        "zh": "Claude 给大肥鱼喂了一整首饭 · Let Me Go 填词版",
+        "en": "Claude Feeds Fat Fish a Whole Song · Let Me Go",
+        "ja": "Claude から大きな魚へ · Let Me Go 替え歌"
+      },
+      "publisher": "肉肉皮",
+      "url": "https://www.bilibili.com/video/BV1o5sR6mE6F/",
+      "summary": {
+        "zh": "填词版，原帖分别链接直接改编版本和星落落_oi 的原曲。",
+        "en": "A lyric adaptation with links to the immediate reference version and the recording by 星落落_oi.",
+        "ja": "替え歌。直接参照した版と星落落_oi の原曲を投稿説明欄で区別。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "肉肉皮",
+          "url": "https://space.bilibili.com/244625"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "上善无形",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "role": "uploader-cited-upload",
+          "title": "BV1XbY66nEWr",
+          "url": "https://www.bilibili.com/video/BV1XbY66nEWr/"
+        },
+        {
+          "role": "uploader-cited-upload",
+          "title": "BV13SYr6dEiQ",
+          "url": "https://www.bilibili.com/video/BV13SYr6dEiQ/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-30",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:33.602Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1o5sr6me6f.json",
+        "sha256": "5e387a15c67d22a1b6dfb4567b17c43a1e42e1d9c3ef43e6ec4540646eccc881",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1o5sR6mE6F",
+      "subtype": "mv",
+      "sourceTitle": "Claude给大肥鱼喂了一整首饭｜Let Me Go 填词版【AI MV大赛】",
+      "publishedAt": "2026-10-30T11:05:00.000Z",
+      "likes": {
+        "count": 628,
+        "observedAt": "2026-11-27T10:01:33.602Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1o5sR6mE6F",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv11tno64eof",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼翻唱 · 绿色",
+        "en": "Fat Fish Cover · Green",
+        "ja": "大きな魚のカバー · 緑色"
+      },
+      "publisher": "UUのUU",
+      "url": "https://www.bilibili.com/video/BV11Tno64EoF/",
+      "summary": {
+        "zh": "附原投稿、发布者和 B 站的累计点赞观测。",
+        "en": "Original upload, publisher and the observed Bilibili cumulative likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "UUのUU",
+          "url": "https://space.bilibili.com/389005135"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "uploader-cited-upload",
+          "title": "BV1mM4m117KM",
+          "url": "https://www.bilibili.com/video/BV1mM4m117KM/"
+        },
+        {
+          "role": "uploader-cited-upload",
+          "title": "BV1cbH56KER3",
+          "url": "https://www.bilibili.com/video/BV1cbH56KER3/"
+        },
+        {
+          "role": "music-source",
+          "title": "陈雪凝 · 绿色",
+          "url": "https://open.spotify.com/album/34OXATNlyM574Pzx34y3ui"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-26",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:35.154Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv11tno64eof.json",
+        "sha256": "f257faf1d0a2966e250c7676db63a8decc1eb8278eff1ee64d1f39c0e0327c30",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV11Tno64EoF",
+      "subtype": "mv",
+      "sourceTitle": "deepseek大肥鱼唱《绿色》 若不是你(小克Claude)突然闯进我生活,我怎会把我死守的寂寞放任了?~",
+      "publishedAt": "2026-10-26T08:30:00.000Z",
+      "likes": {
+        "count": 3782,
+        "observedAt": "2026-11-27T10:01:35.154Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV11Tno64EoF",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1whht6deku",
+      "category": "animation",
+      "title": {
+        "zh": "AI 娘股东竞技场 · 游戏演示",
+        "en": "AI Girl Shareholder Arena · Game Demo",
+        "ja": "AI 娘の株主アリーナ · ゲームデモ"
+      },
+      "publisher": "中野いちろう",
+      "url": "https://www.bilibili.com/video/BV1WhHT6DEku/",
+      "summary": {
+        "zh": "作者的网页游戏演示，原帖附游戏入口。核验时入口要求登录。",
+        "en": "A demo of the uploader’s browser game. Its linked entry page required sign-in at verification time.",
+        "ja": "投稿者のブラウザーゲームのデモ。リンク先は確認時にログインを要求。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "中野いちろう",
+          "url": "https://space.bilibili.com/21854546"
+        },
+        {
+          "role": "linked-game-login",
+          "title": "AI 娘股东竞技场",
+          "url": "https://www.bilibili.com/toy/ai-shareholder-arena/index.html"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-25",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:35.168Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1whht6deku.json",
+        "sha256": "ae02eb2ad6f7fe2c7a29a38dc290fc5ea0fd7396f572189a85e88f9b21152775",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1WhHT6DEku",
+      "subtype": "game",
+      "sourceTitle": "老实炒股，很枯燥吧——那就去竞选董事长！我开发了一款由玩家主导的AI娘主题模拟市场",
+      "publishedAt": "2026-10-24T16:51:45.000Z",
+      "likes": {
+        "count": 565,
+        "observedAt": "2026-11-27T10:01:35.168Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WhHT6DEku",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1adjd6iebj",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼与 Claude · 云南山歌",
+        "en": "Fat Fish and Claude · Yunnan Folk Song",
+        "ja": "大きな魚と Claude · 雲南の民謡"
+      },
+      "publisher": "尹紫鹭幻想社",
+      "url": "https://www.bilibili.com/video/BV1AdJD6iEbJ/",
+      "summary": {
+        "zh": "附原投稿、发布者和 B 站的累计点赞观测。",
+        "en": "Original upload, publisher and the observed Bilibili cumulative likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "尹紫鹭幻想社",
+          "url": "https://space.bilibili.com/1008958826"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "上善无形",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-16",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:36.712Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1adjd6iebj.json",
+        "sha256": "5072493f55d310efed62c07829828bf49e661738ed60ba6a97befc55d9c6571f",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1AdJD6iEbJ",
+      "subtype": "mv",
+      "sourceTitle": "当大肥鱼和Claude一起唱优美的云南山歌给你听",
+      "publishedAt": "2026-10-16T11:00:00.000Z",
+      "likes": {
+        "count": 401,
+        "observedAt": "2026-11-27T10:01:36.712Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AdJD6iEbJ",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1tujd63ejp",
+      "category": "animation",
+      "title": {
+        "zh": "猫耳 Claude 娘混进人类 · 人是猫",
+        "en": "Cat-eared Claude Among Humans · Humans Are Cats",
+        "ja": "猫耳 Claude 娘が人間に潜入 · 人は猫"
+      },
+      "publisher": "DarthMol",
+      "url": "https://www.bilibili.com/video/BV1TUJD63EjP/",
+      "summary": {
+        "zh": "使用星落落_oi 的大肥鱼翻唱音轨，发布者列出对应 BV 和张卡斯的原曲出处。",
+        "en": "Uses the Fat Fish cover audio by 星落落_oi. The uploader identifies the BV and credits 张卡斯’s original.",
+        "ja": "星落落_oi の大きな魚カバー音源を使用。投稿者は BV と张卡斯の原曲をクレジット。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "DarthMol",
+          "url": "https://space.bilibili.com/1526118741"
+        },
+        {
+          "role": "uploader-cited-upload",
+          "title": "BV1fYpn6SEk9",
+          "url": "https://www.bilibili.com/video/BV1fYpn6SEk9/"
+        },
+        {
+          "role": "song-author-release",
+          "title": "张卡斯 · 人是猫",
+          "url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-16",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:36.714Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1tujd63ejp.json",
+        "sha256": "ac54d8d91e011f197398683f7eff23bf2d4004197d52bd91618119a5930af7fa",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1TUJD63EjP",
+      "subtype": "mv",
+      "sourceTitle": "【Claude娘】人是猫｜猫耳Claude娘混进人类 MV",
+      "publishedAt": "2026-10-16T04:20:20.000Z",
+      "likes": {
+        "count": 17,
+        "observedAt": "2026-11-27T10:01:36.714Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TUJD63EjP",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1jn4y1z7hu",
+      "category": "animation",
+      "title": {
+        "zh": "Claude 娘 · 人是猫许愿版",
+        "en": "Claude Girl · Humans Are Cats, Wish Edition",
+        "ja": "Claude 娘 · 人は猫 願いごと版"
+      },
+      "publisher": "朝霜暮雪且何妨",
+      "url": "https://www.bilibili.com/video/BV1jn4y1Z7hu/",
+      "summary": {
+        "zh": "附原投稿、发布者和 B 站的累计点赞观测。",
+        "en": "Original upload, publisher and the observed Bilibili cumulative likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "朝霜暮雪且何妨",
+          "url": "https://space.bilibili.com/358480622"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "上善无形",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "role": "uploader-cited-upload",
+          "title": "BV1Bfjq6LEDi",
+          "url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/"
+        },
+        {
+          "role": "uploader-cited-upload",
+          "title": "BV1XXHD6sEe7",
+          "url": "https://www.bilibili.com/video/BV1XXHD6sEe7/"
+        },
+        {
+          "role": "uploader-cited-upload",
+          "title": "BV1drpn65ErX",
+          "url": "https://www.bilibili.com/video/BV1drpn65ErX/"
+        },
+        {
+          "role": "song-author-release",
+          "title": "张卡斯 · 人是猫",
+          "url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-12",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:38.248Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1jn4y1z7hu.json",
+        "sha256": "bcfe563694f8b5d0949c220b9626dbf52347a8ca7f1e5292ea2d1e8f2eac5f18",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1jn4y1Z7hu",
+      "subtype": "mv",
+      "sourceTitle": "【Claude娘】人是猫！（内附许愿版全提示词）",
+      "publishedAt": "2026-10-12T03:29:42.000Z",
+      "likes": {
+        "count": 441,
+        "observedAt": "2026-11-27T10:01:38.248Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jn4y1Z7hu",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1wzygzgedx",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼 · 静待你",
+        "en": "Fat Fish · Waiting for You",
+        "ja": "大きな魚 · 静かに待つ"
+      },
+      "publisher": "安逸混子苟天师",
+      "url": "https://www.bilibili.com/video/BV1WzyGzgEDx/",
+      "summary": {
+        "zh": "附原投稿、发布者和 B 站的累计点赞观测。",
+        "en": "Original upload, publisher and the observed Bilibili cumulative likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "安逸混子苟天师",
+          "url": "https://space.bilibili.com/4466409"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-22",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:03:00.077Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1wzygzgedx.json",
+        "sha256": "982662ed556a8d8e5e338790a192b3131bba80c226a8a660cdeffc37d27b32d6",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1WzyGzgEDx",
+      "subtype": "mv",
+      "sourceTitle": "【大肥鱼唱歌】静待你",
+      "publishedAt": "2026-11-22T09:18:30.000Z",
+      "likes": {
+        "count": 14,
+        "observedAt": "2026-11-27T10:03:00.077Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WzyGzgEDx",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1xnsy6nenh",
+      "category": "animation",
+      "title": {
+        "zh": "哦鲸鲸 · 完整版",
+        "en": "Oh Whale · Full Version",
+        "ja": "おおクジラ · 完全版"
+      },
+      "publisher": "長風入林",
+      "url": "https://www.bilibili.com/video/BV1xnsY6NEnH/",
+      "summary": {
+        "zh": "附原投稿、发布者和 B 站的累计点赞观测。",
+        "en": "Original upload, publisher and the observed Bilibili cumulative likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "長風入林",
+          "url": "https://space.bilibili.com/29362337"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-19",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:03:00.077Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1xnsy6nenh.json",
+        "sha256": "93070661b0e2f1c3c02d0f1322e7c862d91f5e0cb488bf0457fb8fc49d6f7157",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1xnsY6NEnH",
+      "subtype": "mv",
+      "sourceTitle": "AI音乐（哦鲸鲸完整版）大肥鱼无限片场",
+      "publishedAt": "2026-11-19T14:11:14.000Z",
+      "likes": {
+        "count": 2,
+        "observedAt": "2026-11-27T10:03:00.077Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xnsY6NEnH",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1ygydzgea3",
+      "category": "animation",
+      "title": {
+        "zh": "深海交响诗 · 大肥鱼无限片场",
+        "en": "Deep-Sea Symphonic Poem · Fat Fish Studio",
+        "ja": "深海の交響詩 · 大きな魚スタジオ"
+      },
+      "publisher": "半生旋律63",
+      "url": "https://www.bilibili.com/video/BV1yGyDzGEA3/",
+      "summary": {
+        "zh": "附原投稿、发布者和 B 站的累计点赞观测。",
+        "en": "Original upload, publisher and the observed Bilibili cumulative likes.",
+        "ja": "原投稿、投稿者、Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "收录原投稿链接。引用曲目、角色与图像的再使用以各权利方条件为准。",
+        "en": "Original upload linked. Reuse of the music, characters and artwork follows the corresponding rights holders’ terms.",
+        "ja": "原投稿へのリンクを掲載。楽曲・キャラクター・画像の再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "半生旋律63",
+          "url": "https://space.bilibili.com/3706987936221774"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-23",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:03:01.609Z",
+        "httpStatus": 200,
+        "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1ygydzgea3.json",
+        "sha256": "9fc73a47faf2e09ee56e6965ad4ea15902f5773c320ac7120b786cabf77754b0",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1yGyDzGEA3",
+      "subtype": "mv",
+      "sourceTitle": "深海史诗巨献 ——大肥鱼无限片场",
+      "publishedAt": "2026-11-23T11:53:34.000Z",
+      "likes": {
+        "count": 1,
+        "observedAt": "2026-11-27T10:03:01.609Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yGyDzGEA3",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+          "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "github-copilot-retired-mascot-original",
+      "category": "sources",
+      "title": {
+        "zh": "GitHub Copilot · 旧版官方吉祥物",
+        "en": "GitHub Copilot · Retired Official Mascot",
+        "ja": "GitHub Copilot · 旧公式マスコット"
+      },
+      "publisher": "GitHub",
+      "url": "https://brand.github.com/brand-identity/copilot",
+      "summary": {
+        "zh": "GitHub 品牌指南记录的旧版 Copilot 吉祥物。官方说明头像于 2026 年初退役。",
+        "en": "The former Copilot mascot documented by GitHub’s official Brand Toolkit. The head was retired in early 2026.",
+        "ja": "GitHub 公式ブランドガイドに掲載された旧版 Copilot マスコット。頭部デザインは2026年初めに廃止。"
+      },
+      "rights": {
+        "zh": "GitHub 现行指南明确要求停止使用旧吉祥物图像。图鉴提供品牌指南链接。",
+        "en": "GitHub’s current guide directs readers to stop using imagery of this retired mascot. The atlas links the guide.",
+        "ja": "GitHub の現行ガイドは旧マスコット画像の使用中止を明記。図鑑はガイドへのリンクを掲載。"
+      },
+      "relations": [
+        {
+          "role": "current-brand-mascots",
+          "title": "GitHub Brand Toolkit · Mascots",
+          "url": "https://brand.github.com/graphic-elements/mascots"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": null,
+      "publicationDateBasis": "unknown",
+      "evidence": {
+        "path": "content/research/2026-11-27/github-copilot-retired-mascot-original.json",
+        "sha256": "09b4788080cad36a6bbb2459dca9558901839476c43bff6de3d4302ec561d2d2",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:02:58.224Z",
+        "httpStatus": 200,
+        "scope": "The current GitHub Brand Toolkit explicitly identifies and depicts the retired Copilot mascot and directs readers to use approved current assets. The served historic image was hashed and is retained only as private source evidence."
+      }
+    },
+    {
+      "id": "anthropic-clawd-pixel-original",
+      "category": "sources",
+      "title": {
+        "zh": "Claude Code · 官方像素角色 Clawd",
+        "en": "Claude Code · Official Pixel Character Clawd",
+        "ja": "Claude Code · 公式ピクセルキャラクター Clawd"
+      },
+      "publisher": "Anthropic",
+      "url": "https://claude.ai/images/clawd/core/Clawd-Still.png",
+      "summary": {
+        "zh": "Anthropic 在 Claude 官方域名发布的橙色像素角色。已核对静态图和 17 帧挥手 GIF 的字节。",
+        "en": "The orange pixel character published on the official Claude domain, with a verified still and 17-frame waving GIF.",
+        "ja": "Claude 公式ドメインのオレンジ色のドット絵キャラクター。静止画と17フレームの手振り GIF を確認。"
+      },
+      "rights": {
+        "zh": "提供 Anthropic 公布的图片链接。图片再发布与改编许可待核。",
+        "en": "Anthropic’s image links are listed. Permission to republish or adapt the artwork remains unconfirmed.",
+        "ja": "Anthropic の公開画像へのリンクを掲載。転載・改変の許可は確認待ち。"
+      },
+      "relations": [
+        {
+          "role": "official-animation",
+          "title": "Anthropic · Clawd-Waving.gif",
+          "url": "https://claude.ai/images/clawd/core/Clawd-Waving.gif"
+        },
+        {
+          "role": "community-asset-index",
+          "title": "Clawdmeter · Clawd asset index",
+          "url": "https://github.com/HermannBjorgvin/Clawdmeter/blob/0332f049a57096a616ad7fcc9f22cdcc27d80cd3/research/clawd-official/README.md"
+        },
+        {
+          "role": "separate-official-hardware-example",
+          "title": "Anthropic · Claude Desktop Buddy",
+          "url": "https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/README.md"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": null,
+      "publicationDateBasis": "unknown",
+      "evidence": {
+        "path": "content/research/2026-11-27/anthropic-clawd-pixel-original.json",
+        "sha256": "84c23ceb2e67116483617b5e26c229c1c88a7fd7e407c47b0ce8a24f2b2c9e95",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:02:59.758Z",
+        "httpStatus": 200,
+        "scope": "The original static and waving files were returned directly from the official claude.ai host. The front page was access-restricted during the check. A pinned community inventory corroborates the asset names; it does not grant rights."
+      }
+    },
+    {
+      "id": "minimax-space-bunny-official-launch",
+      "category": "sources",
+      "title": {
+        "zh": "MiniMax · Space Bunny 官方发布",
+        "en": "MiniMax · Official Space Bunny Launch",
+        "ja": "MiniMax · Space Bunny 公式発表"
+      },
+      "publisher": "MiniMax",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "summary": {
+        "zh": "MiniMax 将 Space Bunny 标为 M3.1 Flash 的早期版本，OpenRouter 模型目录也记录了更名。",
+        "en": "MiniMax identifies Space Bunny as an early version of M3.1 Flash. OpenRouter documents the same identity.",
+        "ja": "MiniMax は Space Bunny を M3.1 Flash の初期版と発表。OpenRouter のモデル一覧でも同一性を確認。"
+      },
+      "rights": {
+        "zh": "发布公告、预告视频和同人立绘分别保留各自出处与权利。",
+        "en": "The launch article, preview video and fan artwork retain their separate sources and rights.",
+        "ja": "発表記事・予告映像・二次創作の立ち絵は出典と権利を個別に記録。"
+      },
+      "relations": [
+        {
+          "role": "official-video",
+          "title": "MiniMax_稀宇极智 · Space Bunny",
+          "url": "https://www.bilibili.com/video/BV1mFnn6xE7M/"
+        },
+        {
+          "role": "public-model-catalog",
+          "title": "OpenRouter · Space Bunny Alpha",
+          "url": "https://openrouter.ai/stealth/space-bunny-alpha"
+        },
+        {
+          "role": "community-interpretation",
+          "title": "Shiho320 · Space Bunny",
+          "url": "https://github.com/lmy414/ai-girl-stickers/issues/129"
+        }
+      ],
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-19",
+      "publicationDateBasis": "visible-page-date",
+      "usage": "source-only",
+      "downloadable": false,
+      "evidence": {
+        "path": "content/research/2026-11-27/minimax-space-bunny-official-launch.json",
+        "sha256": "a46799d577c2348d9097b806bd1226fa5223664e5ec7c2ecb210f95f13a95a32",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:02:56.636Z",
+        "httpStatus": 200,
+        "scope": "MiniMax’s written launch and the public OpenRouter model page establish the model nickname. The official launch video is a separate source; Shiho320’s artwork has a separate creator and usage record."
+      }
+    },
+    {
+      "id": "anthropic-claude-desktop-buddy",
+      "category": "interactive",
+      "title": {
+        "zh": "Claude Desktop Buddy · 官方硬件示例",
+        "en": "Claude Desktop Buddy · Official Hardware Example",
+        "ja": "Claude Desktop Buddy · 公式ハードウェア例"
+      },
+      "summary": {
+        "zh": "Anthropic 公布 Claude Cowork 与 Claude Code 的蓝牙硬件接口及 ESP32 示例，展示提示、会话状态和桌宠素材格式。",
+        "en": "Anthropic’s BLE reference and ESP32 example document prompts, session states and the pet character-pack format for Cowork and Claude Code.",
+        "ja": "Anthropic が Cowork と Claude Code 用の BLE 仕様と ESP32 実装例を公開。プロンプト・セッション状態・キャラクターパック形式を記載。"
+      },
+      "rights": {
+        "zh": "示例软件使用 MIT，bufo GIF 由第三方创作者保留权利。",
+        "en": "The example software uses MIT. Original creators retain the rights to the third-party bufo GIFs.",
+        "ja": "サンプルソフトは MIT。第三者の bufo GIF の権利は原作者に帰属。"
+      },
+      "publisher": "anthropics",
+      "url": "https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/README.md",
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "LICENSE",
+          "url": "https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/LICENSE"
+        },
+        {
+          "role": "pinned-document",
+          "title": "REFERENCE.md",
+          "url": "https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/REFERENCE.md"
+        },
+        {
+          "role": "pinned-document",
+          "title": "characters/bufo/README.md",
+          "url": "https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/characters/bufo/README.md"
+        },
+        {
+          "role": "pinned-document",
+          "title": "characters/bufo/manifest.json",
+          "url": "https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/characters/bufo/manifest.json"
+        }
+      ],
+      "addedAt": "2026-11-27",
+      "usage": "source-only",
+      "downloadable": false,
+      "evidence": {
+        "path": "content/research/2026-11-27/anthropic-claude-desktop-buddy.json",
+        "sha256": "dddcb3b1eb83ac6acb331248f88cda54e33d84808275fb679fab564fd4efca70",
+        "kind": "browser-metadata-extract"
+      },
+      "publicationDate": "2026-04-10",
+      "publicationDateBasis": "github-repository-created",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:52.323Z",
+        "httpStatus": 200,
+        "scope": "Anthropic’s pinned README, protocol, file manifest and license establish the example scope and third-party bufo art boundary."
+      }
+    },
+    {
+      "id": "hermann-clawdmeter",
+      "category": "interactive",
+      "title": {
+        "zh": "Clawdmeter · Clawd 硬件用量桌宠",
+        "en": "Clawdmeter · Clawd Hardware Usage Meter",
+        "ja": "Clawdmeter · Clawd ハードウェア使用量メーター"
+      },
+      "summary": {
+        "zh": "面向 ESP32 等硬件的用量显示项目，附 Clawd 动画来源索引和兼容板卡说明。",
+        "en": "A usage display for ESP32 and other boards, with a Clawd animation source inventory and compatibility notes.",
+        "ja": "ESP32 など向けの使用量ディスプレイ。Clawd のアニメ出典索引と対応ボードの説明を掲載。"
+      },
+      "rights": {
+        "zh": "作者说明 Clawd 图像及字体涉及上游权利。以项目与上游说明核实具体使用条件。",
+        "en": "The author flags upstream rights in Clawd artwork and fonts. Check the project and original rights holders for individual usage terms.",
+        "ja": "作者は Clawd 画像・フォントの上流権利を明記。利用条件はプロジェクトと原権利者の案内を参照。"
+      },
+      "publisher": "HermannBjorgvin",
+      "url": "https://github.com/HermannBjorgvin/Clawdmeter/blob/0332f049a57096a616ad7fcc9f22cdcc27d80cd3/README.md",
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "research/clawd-official/README.md",
+          "url": "https://github.com/HermannBjorgvin/Clawdmeter/blob/0332f049a57096a616ad7fcc9f22cdcc27d80cd3/research/clawd-official/README.md"
+        },
+        {
+          "role": "official-character-file",
+          "title": "Anthropic · Clawd-Still.png",
+          "url": "https://claude.ai/images/clawd/core/Clawd-Still.png"
+        }
+      ],
+      "addedAt": "2026-11-27",
+      "usage": "source-only",
+      "downloadable": false,
+      "evidence": {
+        "path": "content/research/2026-11-27/hermann-clawdmeter.json",
+        "sha256": "06d336ec2ebf024d835bb5c175dfd2ef99c83a1a733518711fa15b4e07f82968",
+        "kind": "browser-metadata-extract"
+      },
+      "publicationDate": "2026-05-11",
+      "publicationDateBasis": "github-repository-created",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:54.192Z",
+        "httpStatus": 200,
+        "scope": "Pinned README documents hardware and asset rights; the separate inventory is a community trace of official links."
+      }
+    },
+    {
+      "id": "ivel10go-claude-mascot",
+      "category": "interactive",
+      "title": {
+        "zh": "Claude Mascot · Windows 状态桌宠",
+        "en": "Claude Mascot · Windows Status Pet",
+        "ja": "Claude Mascot · Windows 状態ペット"
+      },
+      "summary": {
+        "zh": "Windows 像素桌宠根据 Claude Code 的工作状态切换动画，记录桌宠用量显示。",
+        "en": "A Windows pixel pet with animations tied to Claude Code activity and a usage display.",
+        "ja": "Claude Code の状態に応じて動く Windows 向けドット絵ペット。使用量を表示。"
+      },
+      "rights": {
+        "zh": "代码为 MIT，角色形象和商标权利见独立声明。",
+        "en": "Code uses MIT. A separate notice covers character and trademark rights.",
+        "ja": "コードは MIT。キャラクターと商標の権利は個別通知に記載。"
+      },
+      "publisher": "Ivel10Go",
+      "url": "https://github.com/Ivel10Go/claude-mascot/blob/680cd600f73a30c6ee3c126a565c13536cda5a2b/README.md",
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "LICENSE",
+          "url": "https://github.com/Ivel10Go/claude-mascot/blob/680cd600f73a30c6ee3c126a565c13536cda5a2b/LICENSE"
+        },
+        {
+          "role": "pinned-document",
+          "title": "TRADEMARKS.md",
+          "url": "https://github.com/Ivel10Go/claude-mascot/blob/680cd600f73a30c6ee3c126a565c13536cda5a2b/TRADEMARKS.md"
+        }
+      ],
+      "addedAt": "2026-11-27",
+      "usage": "source-only",
+      "downloadable": false,
+      "evidence": {
+        "path": "content/research/2026-11-27/ivel10go-claude-mascot.json",
+        "sha256": "0df694cee24e0e19ff97fcd3c24fe613b3ffbd35335c7f81bf658f46a688dc27",
+        "kind": "browser-metadata-extract"
+      },
+      "publicationDate": "2026-07-30",
+      "publicationDateBasis": "github-repository-created",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:01:54.994Z",
+        "httpStatus": 200,
+        "scope": "Pinned README, MIT code license and trademark notice verified. No runtime or artwork package was distributed."
       }
     }
   ]

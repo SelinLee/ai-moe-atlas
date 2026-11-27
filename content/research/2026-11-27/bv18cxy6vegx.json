@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV18CxY6VEGx/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18CxY6VEGx",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:24.017Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV18CxY6VEGx",
+    "title": "“就算记忆清空重置，我也会再喜欢上你一次。”【大肥鱼×克小姐】【AI全民制作人】",
+    "owner": {
+      "mid": 3546816456952364,
+      "name": "taya11"
+    },
+    "pubdate": 1793333158,
+    "duration": 151
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": []
+}

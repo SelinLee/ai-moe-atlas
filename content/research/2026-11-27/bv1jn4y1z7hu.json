@@ -1,0 +1,51 @@
+{
+  "url": "https://www.bilibili.com/video/BV1jn4y1Z7hu/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jn4y1Z7hu",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:38.248Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1jn4y1Z7hu",
+    "title": "【Claude娘】人是猫！（内附许愿版全提示词）",
+    "owner": {
+      "mid": 358480622,
+      "name": "朝霜暮雪且何妨"
+    },
+    "pubdate": 1791775782,
+    "duration": 135
+  },
+  "descriptionSha256": "f22a565e53e79bb5c1e3852429632fad5b531ca752fe1c4ce4eb65c69c24e8c8",
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "上善无形",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "uploader-cited-upload",
+      "title": "BV1Bfjq6LEDi",
+      "url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/"
+    },
+    {
+      "role": "uploader-cited-upload",
+      "title": "BV1XXHD6sEe7",
+      "url": "https://www.bilibili.com/video/BV1XXHD6sEe7/"
+    },
+    {
+      "role": "uploader-cited-upload",
+      "title": "BV1drpn65ErX",
+      "url": "https://www.bilibili.com/video/BV1drpn65ErX/"
+    },
+    {
+      "role": "song-author-release",
+      "title": "张卡斯 · 人是猫",
+      "url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/"
+    }
+  ]
+}

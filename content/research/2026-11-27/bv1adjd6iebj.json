@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1AdJD6iEbJ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AdJD6iEbJ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:01:36.712Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1AdJD6iEbJ",
+    "title": "当大肥鱼和Claude一起唱优美的云南山歌给你听",
+    "owner": {
+      "mid": 1008958826,
+      "name": "尹紫鹭幻想社"
+    },
+    "pubdate": 1792148400,
+    "duration": 70
+  },
+  "descriptionSha256": "34dd1086af3d12a9ca18d71d686f283d4c3c2fff5d2006b597567af669d4bd5e",
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "上善无形",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1yGyDzGEA3/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yGyDzGEA3",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:03:01.609Z",
+  "scope": "Bilibili view API returned exact identity, uploader, publication time and cumulative likes. Source credits follow the original post and independently checked primary links.",
+  "metadata": {
+    "bvid": "BV1yGyDzGEA3",
+    "title": "深海史诗巨献 ——大肥鱼无限片场",
+    "owner": {
+      "mid": 3706987936221774,
+      "name": "半生旋律63"
+    },
+    "pubdate": 1795434814,
+    "duration": 241
+  },
+  "descriptionSha256": "285d5bf9e50e8f771b6edf36ef35f4d15cf941875d56fd1ea0538b572adc954b",
+  "sourceLinks": []
+}
