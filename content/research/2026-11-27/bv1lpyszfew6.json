@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1LPySzfEw6/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LPySzfEw6",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T09:46:38.908Z",
+  "scope": "The official view API returned the video identity, publication time, uploader and cumulative likes. Additional credits follow the original upload and verified links.",
+  "metadata": {
+    "bvid": "BV1LPySzfEw6",
+    "title": "原创大肥鱼音乐《爱与白饭》【AI MV大赛】",
+    "owner": {
+      "name": "星落落_oi",
+      "mid": 30584746
+    },
+    "pubdate": 1795683600,
+    "duration": 225
+  },
+  "descriptionSha256": "4bbe69b6b92f43418d68251ec1471a4f67d792ad0fe324cb6a11912a7181b13e",
+  "sourceLinks": []
+}

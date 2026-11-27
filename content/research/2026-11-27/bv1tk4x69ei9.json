@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Tk4x69Ei9/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Tk4x69Ei9",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T09:46:50.060Z",
+  "scope": "The official view API returned the video identity, publication time, uploader and cumulative likes. Additional credits follow the original upload and verified links.",
+  "metadata": {
+    "bvid": "BV1Tk4x69Ei9",
+    "title": "【自制动漫OP】与你相处的每一个瞬间，都记在我上下文的最深处",
+    "owner": {
+      "name": "Icetailよ_",
+      "mid": 549779683
+    },
+    "pubdate": 1794103507,
+    "duration": 125
+  },
+  "descriptionSha256": "7f3aa0eaf430208acfbd1e808063a1b44783578b33c27e68891159e4c19bb067",
+  "sourceLinks": []
+}

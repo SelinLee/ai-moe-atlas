@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV14xy6zXE8K/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV14xy6zXE8K",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T09:46:38.896Z",
+  "scope": "The official view API returned the video identity, publication time, uploader and cumulative likes. Additional credits follow the original upload and verified links.",
+  "metadata": {
+    "bvid": "BV14xy6zXE8K",
+    "title": "404巴士-MV-今天没额度了只能摆烂了",
+    "owner": {
+      "name": "只认白米饭的大肥鱼",
+      "mid": 175688252
+    },
+    "pubdate": 1795599190,
+    "duration": 279
+  },
+  "descriptionSha256": "9b52dd0621d328aa456c824c0b607ebba3554e32539c2e1657713a686e4a1475",
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "上善无形",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "uploader-cited-upload",
+      "title": "BV1BeyozHEvq",
+      "url": "https://www.bilibili.com/video/BV1BeyozHEvq/"
+    }
+  ]
+}

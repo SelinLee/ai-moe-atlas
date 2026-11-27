@@ -1,0 +1,78 @@
+{
+  "checkedAt": "2026-11-27T09:48:08.567Z",
+  "scope": "Selective new-video intake. Existing like observations and all pending checks retain their prior observation times.",
+  "previousEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-ranked-and-pending.json",
+    "sha256": "5ac6089d1e2fce99803223c18ef766f2297eb7c82f7f6897e68886128e43fd71",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+    "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+    "kind": "browser-metadata-extract"
+  },
+  "queried": 42,
+  "ranked": 40,
+  "sourceOnly": [
+    {
+      "bvid": "BV1rmc6ziEHN",
+      "role": "Original MIMI music video"
+    },
+    {
+      "bvid": "BV1SHy6zxELf",
+      "role": "Creator-linked demo of an already cataloged project",
+      "publisher": "InhamiRei",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SHy6zxELf",
+      "observedAt": "2026-11-27T09:46:53.259Z",
+      "descriptionSha256": "9d1fcc4c9fff745863e852f4a65fe2d1cd23e7f7818f1b9e3ee367f33317048e"
+    }
+  ],
+  "chainCorrections": [
+    {
+      "bvid": "BV147sH6qE4A",
+      "originalSource": {
+        "path": "content/research/2026-11-23/no-ordinary-love-original-and-fan-source-links.json",
+        "sha256": "5e50356243285f09cb8b8230e38f52b3a44125369dab3217c86545ad15d64c7e",
+        "kind": "browser-metadata-extract"
+      }
+    }
+  ],
+  "series": {
+    "title": "填满地图上的空白",
+    "publisher": "愿天降伊卡洛斯",
+    "episodes": [
+      {
+        "episode": 1,
+        "bvid": "BV1FbHG6tELq"
+      },
+      {
+        "episode": 2,
+        "bvid": "BV1Bknd6CEDG"
+      },
+      {
+        "episode": 3,
+        "bvid": "BV1x6x76FEjC"
+      },
+      {
+        "episode": 4,
+        "bvid": "BV1TpxC6qEHL"
+      },
+      {
+        "episode": 5,
+        "bvid": "BV1mJxX68EHn"
+      },
+      {
+        "episode": 6,
+        "bvid": "BV1sgWn68EDg"
+      },
+      {
+        "episode": 7,
+        "bvid": "BV1g8Wq6DEP8"
+      },
+      {
+        "episode": 8,
+        "bvid": "BV1Ucy8zFEoy"
+      }
+    ]
+  }
+}

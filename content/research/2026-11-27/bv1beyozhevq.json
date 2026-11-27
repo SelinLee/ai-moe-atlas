@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1BeyozHEvq/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BeyozHEvq",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T09:48:08.539Z",
+  "scope": "The official view API returned the video identity, publication time, uploader and cumulative likes. Additional credits follow the original upload and verified links.",
+  "metadata": {
+    "bvid": "BV1BeyozHEvq",
+    "title": "盘灵外传，404末班车上集",
+    "owner": {
+      "name": "只认白米饭的大肥鱼",
+      "mid": 175688252
+    },
+    "pubdate": 1795498093,
+    "duration": 170
+  },
+  "descriptionSha256": "f762a86e9d493cfa4c1d8af5bea46cb44e7f594f01bdef9f465859a54e408d8b",
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "上善无形",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "same-creator-character-song",
+      "title": "404 末班车 · 摆烂末班车",
+      "url": "https://www.bilibili.com/video/BV14xy6zXE8K/"
+    }
+  ]
+}

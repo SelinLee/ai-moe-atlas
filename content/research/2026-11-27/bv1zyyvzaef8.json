@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ZYyVzAEf8/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZYyVzAEf8",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T09:46:30.795Z",
+  "scope": "The official view API returned the video identity, publication time, uploader and cumulative likes. Additional credits follow the original upload and verified links.",
+  "metadata": {
+    "bvid": "BV1ZYyVzAEf8",
+    "title": "手脚有点不干净的GLM",
+    "owner": {
+      "name": "音羽_Echo",
+      "mid": 689912031
+    },
+    "pubdate": 1795333363,
+    "duration": 36
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": []
+}

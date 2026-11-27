@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1vYyXziEy7/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vYyXziEy7",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T09:46:40.471Z",
+  "scope": "The official view API returned the video identity, publication time, uploader and cumulative likes. Additional credits follow the original upload and verified links.",
+  "metadata": {
+    "bvid": "BV1vYyXziEy7",
+    "title": "本鱼写了首歌哄爸爸睡觉《晚风伴晚安》【原创MV】爸爸，能不能不要再熬夜了多陪陪鱼鱼啊",
+    "owner": {
+      "name": "鲸小刺和蓝鲸鲸AI",
+      "mid": 515121594
+    },
+    "pubdate": 1795526165,
+    "duration": 123
+  },
+  "descriptionSha256": "d0165a0087186defcf7e61dcbe40bf62662ccb357edc7f41a70caf72cf310339",
+  "sourceLinks": []
+}

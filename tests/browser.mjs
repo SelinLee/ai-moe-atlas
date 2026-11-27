@@ -103,7 +103,8 @@ try {
   assert.equal(await page.locator('main a[download], .detail-art img').count(),0);
   await page.goto(`${origin}/${lang}/?model=muse`,{waitUntil:'domcontentloaded'});
   const museCard=page.locator('[data-card]:visible');
-  assert.equal(await museCard.count(),1);
+  assert.equal(await museCard.count(),chars.filter(c=>c.entity==='muse').length);
+  assert.ok(await museCard.locator('a[href$="/characters/fuh-muse-dual-forms/"]').first().isVisible());
   await museCard.locator('a[href$="/characters/shizhi-muse/"]').first().click();
   assert.ok(await page.locator('a[href="https://www.bilibili.com/video/BV1jEnD6RE1t/"]').first().isVisible());
   assert.ok(await page.locator('a[href="https://creativecommons.org/licenses/by/4.0/"]').isVisible());

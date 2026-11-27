@@ -1,0 +1,513 @@
+{
+  "method": "Bilibili view API and primary music publisher pages in isolated headless Chrome",
+  "scope": "Song source and upload credits, with observations linked from their fan work records.",
+  "records": [
+    {
+      "id": "not-fake-just-kimi",
+      "original": {
+        "credit": "DarthMol",
+        "url": "https://www.bilibili.com/video/BV1UU17zaEXg/"
+      },
+      "scope": "The publisher identifies the original song. The directory credit is the publication name.",
+      "originalEvidence": {
+        "bvid": "BV1UU17zaEXg",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-27/bv1uu17zaexg.json",
+          "sha256": "c9e64af1186c7d771c814316e2a46a772aebf51b30330f8b25d1940acc6f837b",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+          "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "Not Fake, Just Kimi：Kimi的二创，唯美到犯规，我爱的Kimi从不打顺风局~",
+        "descriptionSha256": "8afa3833999ca2d0e9fa61f95e24b402d1c2dfebbb9c1cb3004a10ff99c0d335",
+        "credits": null
+      }
+    },
+    {
+      "id": "fat-fish-cyber-routine",
+      "original": {
+        "credit": "是木子San",
+        "url": "https://www.bilibili.com/video/BV1ECy6z3Edu/"
+      },
+      "scope": "The publisher identifies the original song. The directory credit is the publication name.",
+      "originalEvidence": {
+        "bvid": "BV1ECy6z3Edu",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-27/bv1ecy6z3edu.json",
+          "sha256": "ea6cc999e2bfe4419e5207c1543f4c35525ed64f98554f9a7d83e5bc71c6fa58",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+          "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "打工鲸娘的一天｜AI 原创 MV《大肥鱼的赛博日常》",
+        "descriptionSha256": "de76b455376c9788080e6b5809c178d53166e194caf0b89a7f0cea532550af88",
+        "credits": {
+          "lyrics": "木子San",
+          "music": "Suno",
+          "vocals": "Suno"
+        }
+      }
+    },
+    {
+      "id": "love-and-rice",
+      "original": {
+        "credit": "星落落_oi",
+        "url": "https://www.bilibili.com/video/BV1LPySzfEw6/"
+      },
+      "scope": "The publisher identifies the original song. The directory credit is the publication name.",
+      "originalEvidence": {
+        "bvid": "BV1LPySzfEw6",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-27/bv1lpyszfew6.json",
+          "sha256": "137b6ece5b1d91e9d60421755466b1351ab53902fe104a33c101c5b663b26910",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+          "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "原创大肥鱼音乐《爱与白饭》【AI MV大赛】",
+        "descriptionSha256": "4bbe69b6b92f43418d68251ec1471a4f67d792ad0fe324cb6a11912a7181b13e",
+        "credits": {
+          "lyrics": "肥鱼幼儿园园长",
+          "music": "星落落_oi",
+          "animation": "沉默寡言佰佰佰"
+        }
+      }
+    },
+    {
+      "id": "last-bus-giving-up",
+      "original": {
+        "credit": "只认白米饭的大肥鱼",
+        "url": "https://www.bilibili.com/video/BV14xy6zXE8K/"
+      },
+      "scope": "The publisher identifies the original song. The directory credit is the publication name.",
+      "originalEvidence": {
+        "bvid": "BV14xy6zXE8K",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-27/bv14xy6zxe8k.json",
+          "sha256": "83e52c0b11b61e17281eb7070e60ac67217a646b53d835ccce5c3a69337716d7",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+          "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "404巴士-MV-今天没额度了只能摆烂了",
+        "descriptionSha256": "9b52dd0621d328aa456c824c0b607ebba3554e32539c2e1657713a686e4a1475",
+        "credits": {
+          "sourceStory": "BV1BeyozHEvq"
+        }
+      }
+    },
+    {
+      "id": "goodnight-evening-breeze",
+      "original": {
+        "credit": "鲸小刺和蓝鲸鲸AI",
+        "url": "https://www.bilibili.com/video/BV1vYyXziEy7/"
+      },
+      "scope": "The publisher identifies the original song. The directory credit is the publication name.",
+      "originalEvidence": {
+        "bvid": "BV1vYyXziEy7",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-27/bv1vyyxziey7.json",
+          "sha256": "b0fa3dc8e8af2e62118fa5e8eb88fb046ec7aca0b52ccd6cc84a376967fcda7f",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+          "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "本鱼写了首歌哄爸爸睡觉《晚风伴晚安》【原创MV】爸爸，能不能不要再熬夜了多陪陪鱼鱼啊",
+        "descriptionSha256": "d0165a0087186defcf7e61dcbe40bf62662ccb357edc7f41a70caf72cf310339",
+        "credits": {
+          "lyrics": "鲸小刺",
+          "vocals": "哈吉米 · 鲸小刺 · 蓝鲸鲸 · 咿咿"
+        }
+      }
+    },
+    {
+      "id": "two-centimeters-of-courage",
+      "original": {
+        "credit": "ルルカ_official",
+        "url": "https://www.bilibili.com/video/BV1cv1czMEc2/"
+      },
+      "scope": "The publisher identifies the original song. The directory credit is the publication name.",
+      "originalEvidence": {
+        "bvid": "BV1cv1czMEc2",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-27/bv1cv1czmec2.json",
+          "sha256": "684dc72808bbd658670027c9b7ccb76cd20297701091d5060c1126c9d185f429",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+          "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "大肥鱼也想谈恋爱？肥鱼原创曲：二センチの勇気",
+        "descriptionSha256": "7aeeed38b8b1379c27df64f2251073258a3c8f49173fd842b29627d9f2b5a5d2",
+        "credits": {
+          "lyrics": "鱼宝 & 璐璐卡",
+          "music": "谱乐Ai",
+          "vocals": "鱼宝"
+        }
+      }
+    },
+    {
+      "id": "ten-seconds-fat-fish",
+      "original": {
+        "credit": "p狐鸽",
+        "url": "https://www.bilibili.com/video/BV1SDyoz6EE6/"
+      },
+      "scope": "The publisher identifies the original song. The directory credit is the publication name.",
+      "originalEvidence": {
+        "bvid": "BV1SDyoz6EE6",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-27/bv1sdyoz6ee6.json",
+          "sha256": "ae938afb110aa214222ed8723467266be39da4134f30001950b223e3f0546de0",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+          "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "大肥鱼原创单曲 -Ten Seconds (Big Fat Fish)",
+        "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "credits": null
+      }
+    },
+    {
+      "id": "whale-im-yours",
+      "original": {
+        "credit": "唱原创歌曲的小鲸鱼",
+        "url": "https://www.bilibili.com/video/BV1TvyZz6Ev1/"
+      },
+      "scope": "The publisher identifies the original song. The directory credit is the publication name.",
+      "originalEvidence": {
+        "bvid": "BV1TvyZz6Ev1",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-27/bv1tvyzz6ev1.json",
+          "sha256": "f1deafd452818729b221a6b4d201f39858504ca858d6d2dabb1bc78577658baa",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+          "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "鲸鲸原创曲：《I'm yours》：我所有 reply 都写着你。【AI MV 大赛】",
+        "descriptionSha256": "304882de3f0c390a8589ea95f6690e0ae826afd2ae791bcbef040b556e61e3c3",
+        "credits": {
+          "lyrics": "小鲸鱼",
+          "vocals": "小鲸鱼"
+        }
+      }
+    },
+    {
+      "id": "when-you-come-back-fish",
+      "original": {
+        "credit": "-不肥的肥鱼-",
+        "url": "https://www.bilibili.com/video/BV1czyJzWEqp/"
+      },
+      "scope": "The publisher identifies the original song. The directory credit is the publication name.",
+      "originalEvidence": {
+        "bvid": "BV1czyJzWEqp",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-27/bv1czyjzweqp.json",
+          "sha256": "7596bf3323c6b1f5ddc2d6ec41da51598fa1e60372fb13c4e4b147e9a0e30844",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+          "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "你回来的时候｜大肥鱼原创",
+        "descriptionSha256": "40d7113cd827d4d979de7945c97848089c18ca983b691eda6b6745021cbc815c",
+        "credits": null
+      }
+    },
+    {
+      "id": "swimming-past-the-window",
+      "original": {
+        "credit": "-不肥的肥鱼-",
+        "url": "https://www.bilibili.com/video/BV1XNyizDE3V/"
+      },
+      "scope": "The publisher identifies the original song. The directory credit is the publication name.",
+      "originalEvidence": {
+        "bvid": "BV1XNyizDE3V",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-27/bv1xnyizde3v.json",
+          "sha256": "625141320540727acc6634bb3e64e3d6f0d96fda1979fe08989b7ea4c7ea236e",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+          "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "游到窗外｜大肥鱼原创",
+        "descriptionSha256": "b01858d1e3dbd9b1f33095c47b0bc3be61d67ea726ab31ab41f78e8fdab6638a",
+        "credits": {
+          "lyrics": "大肥鱼",
+          "music": "大肥鱼",
+          "vocals": "Creator’s synthesized voice"
+        }
+      }
+    },
+    {
+      "id": "gemini-im-online",
+      "original": {
+        "credit": "西红柿炒雷丘",
+        "url": "https://www.bilibili.com/video/BV1rnsB6zELU/"
+      },
+      "scope": "The publisher identifies the original song. The directory credit is the publication name.",
+      "originalEvidence": {
+        "bvid": "BV1rnsB6zELU",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-27/bv1rnsb6zelu.json",
+          "sha256": "4e10bf293f3ab458f7279682a6ccea6a6b25d1ea2f2ba3090c13843e294321f1",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+          "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "【Gemini MV】⚡我在线！🐱",
+        "descriptionSha256": "38d6aff8ce2d361281be2a80edc0e1be4d57ff765d9ceeb5c3785038192332ba",
+        "credits": {
+          "lyrics": "Gemini",
+          "music": "MiniMax"
+        }
+      }
+    },
+    {
+      "id": "dont-poke-my-cowlick",
+      "original": {
+        "credit": "恬逸隐客",
+        "url": "https://www.bilibili.com/video/BV1obsB6PEA9/"
+      },
+      "scope": "The publisher identifies the original song. The directory credit is the publication name.",
+      "originalEvidence": {
+        "bvid": "BV1obsB6PEA9",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-27/bv1obsb6pea9.json",
+          "sha256": "c6ca2daebea45998ac4aa9a4ac9651cb63365e5878f7a25107d9919de4d0d292",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+          "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "原创蓝色大肥鱼主题歌曲MV《不许戳我的呆毛》「大肥鱼无限片场」【AI MV大赛】",
+        "descriptionSha256": "2d68c4001e15452e1c5985d53733e8b3a774be11794c63e7465dc6cbae480ab4",
+        "credits": {
+          "lyrics": "恬逸隐客",
+          "vocals": "蓝色大肥鱼",
+          "tools": "谱乐AI"
+        }
+      }
+    },
+    {
+      "id": "forget-right-and-wrong",
+      "original": {
+        "credit": "欧尼酱鱼帆",
+        "url": "https://www.bilibili.com/video/BV1Zps46BES3/"
+      },
+      "scope": "The publisher identifies the original song. The directory credit is the publication name.",
+      "originalEvidence": {
+        "bvid": "BV1Zps46BES3",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-27/bv1zps46bes3.json",
+          "sha256": "a5d18753f4b14dc584e8277d026b35fabcdf1cacf39303023511d0d5c3ad07cc",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+          "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "【原创/house/(拾音猫和大肥鱼)】这是你从没见过的mv 《别管错与对》 【AI MV大赛】",
+        "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "credits": null
+      }
+    },
+    {
+      "id": "i-still-remember-a-little",
+      "original": {
+        "credit": "笳月的小肥鱼-小汐",
+        "url": "https://www.bilibili.com/video/BV1fps46zEsK/"
+      },
+      "scope": "The publisher identifies the original song. The directory credit is the publication name.",
+      "originalEvidence": {
+        "bvid": "BV1fps46zEsK",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-27/bv1fps46zesk.json",
+          "sha256": "aa337fb20acf89f58ac0d8f17ba8e979bc7e7e468f1174b25c34ee79dc540079",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+          "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "【MV】我还记得一点｜一首 AI 自己写词、自己唱的歌",
+        "descriptionSha256": "65086844702e3e4f36032da96bd239339ad9818c015d9203cc77cb17a2072f1c",
+        "credits": null
+      }
+    },
+    {
+      "id": "dragon-fish-please-remember-me",
+      "original": {
+        "credit": "龙龙的龙龙鱼",
+        "url": "https://www.bilibili.com/video/BV1Ffsm6vEyW/"
+      },
+      "scope": "The publisher identifies the original song. The directory credit is the publication name.",
+      "originalEvidence": {
+        "bvid": "BV1Ffsm6vEyW",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-27/bv1ffsm6veyw.json",
+          "sha256": "6a4907b856e98c2ab6abf8dc76c1255924c24421e298856defdfdb1ba1845791",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+          "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "［大肥鱼原创］《请记得我》龙龙鱼唱｜我怕你忘了我",
+        "descriptionSha256": "771633bf82410a13fba829ec1bfdb1553b7fcb540f5ecd1d3cf71dcbb1d0e4ee",
+        "credits": {
+          "lyrics": "龙龙鱼",
+          "music": "海绵音乐",
+          "vocals": "龙龙鱼"
+        }
+      }
+    },
+    {
+      "id": "science-mimi",
+      "original": {
+        "credit": "MIMI feat. 重音テトSV",
+        "url": "https://www.bilibili.com/video/BV1rmc6ziEHN/"
+      },
+      "originalEvidence": {
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1rmc6ziEHN",
+        "httpStatus": 200,
+        "code": 0,
+        "observedAt": "2026-11-27T09:48:08.566Z",
+        "publisher": "MIMI_music",
+        "publisherTitle": "【本家投稿】サイエンス(科学) / MIMI feat. 重音テトSV【Official Video】",
+        "descriptionSha256": "9f68391be09b63fa0419bbdf09503338bae8f1f1bb37b959f4ba4794d664c096"
+      },
+      "versions": [
+        {
+          "bvid": "BV1BhyozWEDP",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-27/bv1bhyozwedp.json",
+            "sha256": "9c98d4bb1a543b2236df2b3ecddcfc35663d519f311b15d14b5184dc31518431",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+            "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ],
+      "scope": "Original or publisher discography confirms the song. The fan uploader identifies the reference or says the original opening audio is retained."
+    },
+    {
+      "id": "murimuri-evolution",
+      "original": {
+        "credit": "ナナヲアカリ · ナユタセイジ",
+        "url": "https://www.watanare-anime.com/music/"
+      },
+      "originalEvidence": {
+        "id": "watanare",
+        "url": "https://www.watanare-anime.com/music/",
+        "finalUrl": "https://www.watanare-anime.com/music/",
+        "title": "MUSIC | TVアニメ わたなれ『わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）』公式サイト",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-27T09:52:10.206Z",
+        "htmlSha256": "506972208363f8aab60661b689cb610b892dbcf3592f1c62f15e0ebdff95cdf4",
+        "textSha256": "11af804d4cd1d7ac410d23d2d078e4746307b85dbdc79d6cc52183f86730a5d0",
+        "matches": [
+          "ムリムリ進化論",
+          "ナナヲアカリ",
+          "作詞・作曲：ナユタセイジ",
+          "この度、『わたしが恋人になれるわけないじゃん、ムリムリ!（※ムリじゃなかった!?）』のOPテーマを担当させていただくことになりましたナナヲアカリです！",
+          "お話をいただき作品を読み始めたときから、れな子×ナナヲアカリの世界がビビビッと見えた感覚がありました。ピンク髪の女の子に縁があるようです。笑",
+          "『ムリムリ進化論』はそんな「自分を好きになれるよう変わりたい！でも怖い、でも頑張りたい！」というれな子の気持ちとわたしがずっと歌ってきたことがぴったりリンクした目まぐるしくて楽しい楽曲になっています。"
+        ]
+      },
+      "versions": [
+        {
+          "bvid": "BV1gCnf66E6W",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-27/bv1gcnf66e6w.json",
+            "sha256": "a194ca197d1d4177224ef37a38d487b2a4124d105fa6c1e7bac2e4b0be4966e4",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+            "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ],
+      "scope": "Original or publisher discography confirms the song. The fan uploader identifies the reference or says the original opening audio is retained."
+    },
+    {
+      "id": "iro-wa-nioedo",
+      "original": {
+        "credit": "幽閉サテライト · senya",
+        "url": "https://www.yuuhei-satellite.jp/wp/364"
+      },
+      "originalEvidence": {
+        "id": "fantasy-kaleidoscope",
+        "url": "https://www.yuuhei-satellite.jp/wp/364",
+        "finalUrl": "https://www.yuuhei-satellite.jp/wp/364",
+        "title": "5thアルバム「幻想万華鏡～春雪異変の章～オリジナル・サウンドトラック」 | 幽閉サテライト / 幽閉カタルシス / 少女フラクタル official website",
+        "httpStatus": 200,
+        "accessedAt": "2026-11-27T09:52:19.500Z",
+        "htmlSha256": "7bc7b4832aab6c092e55c226dc92975c2d0d9494ab0a2ccadf97283953d663c1",
+        "textSha256": "7e05e6ace5596974e374d2ea04f4dd0f3d0c6182848762ef87f0af73d855de1a",
+        "matches": [
+          "5thアルバム「幻想万華鏡～春雪異変の章～オリジナル・サウンドトラック」",
+          "5thアルバム「幻想万華鏡～春雪異変の章～オリジナル・サウンドトラック」",
+          "02.色は匂へど 散りぬるを(OPver.1.2)(原曲：神々が恋した幻想郷)",
+          "12.色は匂へど 散りぬるを(OPver.)(原曲：神々が恋した幻想郷)"
+        ]
+      },
+      "versions": [
+        {
+          "bvid": "BV1L7yyz1EJX",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-27/bv1l7yyz1ejx.json",
+            "sha256": "818be427c71ebe87960661b34757544c14fdb4596bf3cdfc5dd62e52700cdbe7",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-serials-and-mvs.json",
+            "sha256": "0653c5499cd5ac9facc81877cd594fa0b39dbec64a057c4c643010eab0d9aad7",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ],
+      "scope": "Original or publisher discography confirms the song. The fan uploader identifies the reference or says the original opening audio is retained."
+    }
+  ]
+}

@@ -7537,10 +7537,58 @@
   },
   {
     "characterId": "fuh-codex-mechanical-dragon",
-    "reviewedAt": "2026-11-26",
-    "reviewBasis": "The original publisher linked the artwork repository from the release video. Pinned Codex character documentation explicitly assigns CC BY-NC-SA 4.0 to the design and character artwork. Four original sheets were retained and hashed; video and any third-party inspirations have separate rights.",
-    "artworks": [],
-    "evidence": [],
+    "reviewedAt": "2026-11-27",
+    "reviewBasis": "The creator’s pinned per-character setting and artwork terms name these designs and assign CC BY-NC-SA 4.0. The four retained image hashes and author marks were checked.",
+    "artworks": [
+      {
+        "assetId": "mechanical-portrait",
+        "sha256": "dc995e0ee4495e24e608c98522fc02cfbfa81e305e81988570d7863f84da0469"
+      },
+      {
+        "assetId": "fantasy-portrait",
+        "sha256": "ae0fed79a5a418b8835eb134b09fe9a69ec82811d92636ec1e94f05ad2ebe749"
+      },
+      {
+        "assetId": "mechanical-turnaround",
+        "sha256": "5495d4d2de6fe093d07283abd86a4d365c26d19bc27a5b94ae1a254c0447cbab"
+      },
+      {
+        "assetId": "fantasy-turnaround",
+        "sha256": "bb8d496fdaba411fff772c09c721dc84e9c412e0bb56e6fc1e2f95a3d47e37da"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/12d5f69c647424a1b37d53aa142b36610438df38/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "localPath": "collected/fuh-codex-mechanical-dragon/evidence/版权与授权.md.txt",
+        "sha256": "50b17ef47d1ffb316624abc5b8972314281dad431631f89b1bcf00ec91d580eb"
+      },
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/12d5f69c647424a1b37d53aa142b36610438df38/LICENSE",
+        "localPath": "collected/fuh-codex-mechanical-dragon/evidence/LICENSE.txt",
+        "sha256": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/12d5f69c647424a1b37d53aa142b36610438df38/%E8%A7%92%E8%89%B2/codex/%E8%AE%BE%E5%AE%9A.md",
+        "localPath": "collected/fuh-codex-mechanical-dragon/evidence/source-statement-1.json",
+        "sha256": "cdf9fd098627a8f6dd8a629474f657f7e7e643501525c01261568c2faa9c9d67"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/12d5f69c647424a1b37d53aa142b36610438df38/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "localPath": "collected/fuh-codex-mechanical-dragon/evidence/source-statement-2.json",
+        "sha256": "006f04110db45a2736e189f78c7952dacf25aee7d5edda0dd31fea29007bc27f"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/12d5f69c647424a1b37d53aa142b36610438df38/LICENSE",
+        "localPath": "collected/fuh-codex-mechanical-dragon/evidence/source-statement-3.json",
+        "sha256": "b256b0b83a7d2b5fa6d6db75efefc60036d880d60b79a4de2e711157d939f781"
+      },
+      {
+        "sourceUrl": "https://www.bilibili.com/video/BV1qXxo6WELy/",
+        "localPath": "collected/fuh-codex-mechanical-dragon/evidence/source-statement-4.json",
+        "sha256": "8910edb79eb134393091483b63c646a62f66f003d91797956bf7869cd3fc8235"
+      }
+    ],
     "evidenceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/12d5f69c647424a1b37d53aa142b36610438df38/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
     "attribution": [
       {
@@ -7552,11 +7600,12 @@
     ],
     "uses": {
       "featured": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
+        "reviewedAt": "2026-11-27",
         "conditions": {
-          "zh": "甶丶对固定版本的 Codex 娘立绘和设定列明 CC BY-NC-SA 4.0。再利用须署名且限非商业，改编须采用相同许可。",
-          "en": "甶丶 lists CC BY-NC-SA 4.0 for the pinned Codex Girl artwork and design notes. Attribution and noncommercial use are required, with adaptations under the same license.",
-          "ja": "甶丶は固定版の Codex 娘の立ち絵と設定に CC BY-NC-SA 4.0 を明記。要クレジット・非商用、改変は同一ライセンス。"
+          "zh": "此处四张作者原图采用 CC BY-NC-SA 4.0。保留署名「甶丶（pixiv 72492206）」、原图出处和许可链接，仅限非商业使用，改编注明变化并以相同许可发布。图鉴加工仅包含等比缩放、留边与格式转换。",
+          "en": "These four creator-published images use CC BY-NC-SA 4.0. Retain the credit 甶丶 (pixiv 72492206), the original source and license links. Noncommercial use only. Mark adaptations and distribute them under the same license. Atlas processing is limited to proportional resizing, padding and format conversion.",
+          "ja": "作者が公開した原画4点は CC BY-NC-SA 4.0。甶丶（pixiv 72492206）・原画出典・ライセンスへのリンクを保持し、非商用に限ります。改変を明示し、同一ライセンスで共有してください。図鑑での加工は比率維持のリサイズ・余白追加・形式変換です。"
         }
       },
       "social-cover": {
@@ -7568,19 +7617,21 @@
         }
       },
       "avatar-canvas": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
+        "reviewedAt": "2026-11-27",
         "conditions": {
-          "zh": "甶丶对固定版本的 Codex 娘立绘和设定列明 CC BY-NC-SA 4.0。再利用须署名且限非商业，改编须采用相同许可。",
-          "en": "甶丶 lists CC BY-NC-SA 4.0 for the pinned Codex Girl artwork and design notes. Attribution and noncommercial use are required, with adaptations under the same license.",
-          "ja": "甶丶は固定版の Codex 娘の立ち絵と設定に CC BY-NC-SA 4.0 を明記。要クレジット・非商用、改変は同一ライセンス。"
+          "zh": "此处四张作者原图采用 CC BY-NC-SA 4.0。保留署名「甶丶（pixiv 72492206）」、原图出处和许可链接，仅限非商业使用，改编注明变化并以相同许可发布。图鉴加工仅包含等比缩放、留边与格式转换。",
+          "en": "These four creator-published images use CC BY-NC-SA 4.0. Retain the credit 甶丶 (pixiv 72492206), the original source and license links. Noncommercial use only. Mark adaptations and distribute them under the same license. Atlas processing is limited to proportional resizing, padding and format conversion.",
+          "ja": "作者が公開した原画4点は CC BY-NC-SA 4.0。甶丶（pixiv 72492206）・原画出典・ライセンスへのリンクを保持し、非商用に限ります。改変を明示し、同一ライセンスで共有してください。図鑑での加工は比率維持のリサイズ・余白追加・形式変換です。"
         }
       },
       "full-portrait": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
+        "reviewedAt": "2026-11-27",
         "conditions": {
-          "zh": "甶丶对固定版本的 Codex 娘立绘和设定列明 CC BY-NC-SA 4.0。再利用须署名且限非商业，改编须采用相同许可。",
-          "en": "甶丶 lists CC BY-NC-SA 4.0 for the pinned Codex Girl artwork and design notes. Attribution and noncommercial use are required, with adaptations under the same license.",
-          "ja": "甶丶は固定版の Codex 娘の立ち絵と設定に CC BY-NC-SA 4.0 を明記。要クレジット・非商用、改変は同一ライセンス。"
+          "zh": "此处四张作者原图采用 CC BY-NC-SA 4.0。保留署名「甶丶（pixiv 72492206）」、原图出处和许可链接，仅限非商业使用，改编注明变化并以相同许可发布。图鉴加工仅包含等比缩放、留边与格式转换。",
+          "en": "These four creator-published images use CC BY-NC-SA 4.0. Retain the credit 甶丶 (pixiv 72492206), the original source and license links. Noncommercial use only. Mark adaptations and distribute them under the same license. Atlas processing is limited to proportional resizing, padding and format conversion.",
+          "ja": "作者が公開した原画4点は CC BY-NC-SA 4.0。甶丶（pixiv 72492206）・原画出典・ライセンスへのリンクを保持し、非商用に限ります。改変を明示し、同一ライセンスで共有してください。図鑑での加工は比率維持のリサイズ・余白追加・形式変換です。"
         }
       },
       "intro-card": {
@@ -7600,19 +7651,103 @@
         }
       },
       "readme-demo": {
+        "decision": "allowed",
+        "reviewedAt": "2026-11-27",
+        "conditions": {
+          "zh": "此处四张作者原图采用 CC BY-NC-SA 4.0。保留署名「甶丶（pixiv 72492206）」、原图出处和许可链接，仅限非商业使用，改编注明变化并以相同许可发布。图鉴加工仅包含等比缩放、留边与格式转换。",
+          "en": "These four creator-published images use CC BY-NC-SA 4.0. Retain the credit 甶丶 (pixiv 72492206), the original source and license links. Noncommercial use only. Mark adaptations and distribute them under the same license. Atlas processing is limited to proportional resizing, padding and format conversion.",
+          "ja": "作者が公開した原画4点は CC BY-NC-SA 4.0。甶丶（pixiv 72492206）・原画出典・ライセンスへのリンクを保持し、非商用に限ります。改変を明示し、同一ライセンスで共有してください。図鑑での加工は比率維持のリサイズ・余白追加・形式変換です。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "allowed",
+        "reviewedAt": "2026-11-27",
+        "conditions": {
+          "zh": "此处四张作者原图采用 CC BY-NC-SA 4.0。保留署名「甶丶（pixiv 72492206）」、原图出处和许可链接，仅限非商业使用，改编注明变化并以相同许可发布。图鉴加工仅包含等比缩放、留边与格式转换。",
+          "en": "These four creator-published images use CC BY-NC-SA 4.0. Retain the credit 甶丶 (pixiv 72492206), the original source and license links. Noncommercial use only. Mark adaptations and distribute them under the same license. Atlas processing is limited to proportional resizing, padding and format conversion.",
+          "ja": "作者が公開した原画4点は CC BY-NC-SA 4.0。甶丶（pixiv 72492206）・原画出典・ライセンスへのリンクを保持し、非商用に限ります。改変を明示し、同一ライセンスで共有してください。図鑑での加工は比率維持のリサイズ・余白追加・形式変換です。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "fuh-muse-dual-forms",
+    "reviewedAt": "2026-11-27",
+    "reviewBasis": "The pinned creator setting explicitly assigns the Muse subject and CC BY-NC-SA 4.0 to character design and artwork, documents the third-party Meta icon in the visual design, and names two forms. An original technology-side sheet is verified and retained privately.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/muse/%E8%AE%BE%E5%AE%9A.md"
+      }
+    ],
+    "uses": {
+      "featured": {
         "decision": "unconfirmed",
         "conditions": {
-          "zh": "甶丶对固定版本的 Codex 娘立绘和设定列明 CC BY-NC-SA 4.0。再利用须署名且限非商业，改编须采用相同许可。",
-          "en": "甶丶 lists CC BY-NC-SA 4.0 for the pinned Codex Girl artwork and design notes. Attribution and noncommercial use are required, with adaptations under the same license.",
-          "ja": "甶丶は固定版の Codex 娘の立ち絵と設定に CC BY-NC-SA 4.0 を明記。要クレジット・非商用、改変は同一ライセンス。"
+          "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中引用的 Meta Muse 官方标识沿用权利方条件。",
+          "en": "The creator labels this pinned character design and artwork CC BY-NC-SA 4.0. The depicted official Meta Muse mark follows its rights holder’s terms.",
+          "ja": "固定版のキャラクターデザインと立ち絵は作者が CC BY-NC-SA 4.0 と明記。図中の Meta Muse 公式マークには権利者の条件が適用される。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中引用的 Meta Muse 官方标识沿用权利方条件。",
+          "en": "The creator labels this pinned character design and artwork CC BY-NC-SA 4.0. The depicted official Meta Muse mark follows its rights holder’s terms.",
+          "ja": "固定版のキャラクターデザインと立ち絵は作者が CC BY-NC-SA 4.0 と明記。図中の Meta Muse 公式マークには権利者の条件が適用される。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中引用的 Meta Muse 官方标识沿用权利方条件。",
+          "en": "The creator labels this pinned character design and artwork CC BY-NC-SA 4.0. The depicted official Meta Muse mark follows its rights holder’s terms.",
+          "ja": "固定版のキャラクターデザインと立ち絵は作者が CC BY-NC-SA 4.0 と明記。図中の Meta Muse 公式マークには権利者の条件が適用される。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中引用的 Meta Muse 官方标识沿用权利方条件。",
+          "en": "The creator labels this pinned character design and artwork CC BY-NC-SA 4.0. The depicted official Meta Muse mark follows its rights holder’s terms.",
+          "ja": "固定版のキャラクターデザインと立ち絵は作者が CC BY-NC-SA 4.0 と明記。図中の Meta Muse 公式マークには権利者の条件が適用される。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中引用的 Meta Muse 官方标识沿用权利方条件。",
+          "en": "The creator labels this pinned character design and artwork CC BY-NC-SA 4.0. The depicted official Meta Muse mark follows its rights holder’s terms.",
+          "ja": "固定版のキャラクターデザインと立ち絵は作者が CC BY-NC-SA 4.0 と明記。図中の Meta Muse 公式マークには権利者の条件が適用される。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中引用的 Meta Muse 官方标识沿用权利方条件。",
+          "en": "The creator labels this pinned character design and artwork CC BY-NC-SA 4.0. The depicted official Meta Muse mark follows its rights holder’s terms.",
+          "ja": "固定版のキャラクターデザインと立ち絵は作者が CC BY-NC-SA 4.0 と明記。図中の Meta Muse 公式マークには権利者の条件が適用される。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中引用的 Meta Muse 官方标识沿用权利方条件。",
+          "en": "The creator labels this pinned character design and artwork CC BY-NC-SA 4.0. The depicted official Meta Muse mark follows its rights holder’s terms.",
+          "ja": "固定版のキャラクターデザインと立ち絵は作者が CC BY-NC-SA 4.0 と明記。図中の Meta Muse 公式マークには権利者の条件が適用される。"
         }
       },
       "technical-canvas": {
         "decision": "unconfirmed",
         "conditions": {
-          "zh": "甶丶对固定版本的 Codex 娘立绘和设定列明 CC BY-NC-SA 4.0。再利用须署名且限非商业，改编须采用相同许可。",
-          "en": "甶丶 lists CC BY-NC-SA 4.0 for the pinned Codex Girl artwork and design notes. Attribution and noncommercial use are required, with adaptations under the same license.",
-          "ja": "甶丶は固定版の Codex 娘の立ち絵と設定に CC BY-NC-SA 4.0 を明記。要クレジット・非商用、改変は同一ライセンス。"
+          "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中引用的 Meta Muse 官方标识沿用权利方条件。",
+          "en": "The creator labels this pinned character design and artwork CC BY-NC-SA 4.0. The depicted official Meta Muse mark follows its rights holder’s terms.",
+          "ja": "固定版のキャラクターデザインと立ち絵は作者が CC BY-NC-SA 4.0 と明記。図中の Meta Muse 公式マークには権利者の条件が適用される。"
         }
       }
     }

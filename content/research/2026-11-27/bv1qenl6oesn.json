@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1qenL6oEsn/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qenL6oEsn",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T09:46:27.635Z",
+  "scope": "The official view API returned the video identity, publication time, uploader and cumulative likes. Additional credits follow the original upload and verified links.",
+  "metadata": {
+    "bvid": "BV1qenL6oEsn",
+    "title": "AI娘斗地主 02  让豆包、Gemini、Grok 打一局斗地主",
+    "owner": {
+      "name": "识知不失智",
+      "mid": 6348099
+    },
+    "pubdate": 1792346070,
+    "duration": 122
+  },
+  "descriptionSha256": "85ccc324c02847d3d9607f2ae8749918ee2d0bbc40a0cd1693c52afa0e62b031",
+  "sourceLinks": []
+}

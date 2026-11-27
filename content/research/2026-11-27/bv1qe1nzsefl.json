@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1qE1nzSEfL/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qE1nzSEfL",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T09:46:26.076Z",
+  "scope": "The official view API returned the video identity, publication time, uploader and cumulative likes. Additional credits follow the original upload and verified links.",
+  "metadata": {
+    "bvid": "BV1qE1nzSEfL",
+    "title": "【AI斗蛐蛐 01】GPT娘、Claude、大肥鱼、Grok同台拉赞！垫底的去扫厕所！",
+    "owner": {
+      "name": "显卡厂在逃CEO",
+      "mid": 153536986
+    },
+    "pubdate": 1795734628,
+    "duration": 87
+  },
+  "descriptionSha256": "f67dfa6e4e8c2bc36be635c58f54fd9fa74e4bde4de1699db7e7fb81c9a4b42a",
+  "sourceLinks": []
+}

@@ -1,0 +1,72 @@
+{
+  "url": "https://github.com/cnbprd/WhaleGirlPet/blob/7db57f59bef8bd95daca387832451991e2343152/README.md",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T09:48:08.847Z",
+  "scope": "Pinned project README, maintainer declaration, code license and 3D third-party notice verified. The 3D model was not redistributed.",
+  "repository": {
+    "full_name": "cnbprd/WhaleGirlPet",
+    "html_url": "https://github.com/cnbprd/WhaleGirlPet",
+    "stargazers_count": 0,
+    "archived": false,
+    "created_at": "2026-11-24T12:05:08Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "7db57f59bef8bd95daca387832451991e2343152",
+    "observedAt": "2026-11-27T09:46:44.592Z",
+    "httpStatus": 200,
+    "metadataSha256": "2b303b8fb1a9f707e883e65af06aa0e9703964e6a3fa4080084592c467a6e45e",
+    "parent": null
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/cnbprd/WhaleGirlPet/blob/7db57f59bef8bd95daca387832451991e2343152/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/cnbprd/WhaleGirlPet/7db57f59bef8bd95daca387832451991e2343152/README.md",
+    "sourceSha256": "e3642426626471194fc4ec3510b2d888285e76c6fe2b3451bd0a22f959b4e4f1",
+    "gitBlobSha": "59e9b30c042c82273ca780979914df5d4834a95d",
+    "bytes": 14356,
+    "commit": "7db57f59bef8bd95daca387832451991e2343152",
+    "accessedAt": "2026-11-27T09:48:08.847Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/cnbprd/WhaleGirlPet/blob/7db57f59bef8bd95daca387832451991e2343152/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/cnbprd/WhaleGirlPet/7db57f59bef8bd95daca387832451991e2343152/README.md",
+      "sourceSha256": "e3642426626471194fc4ec3510b2d888285e76c6fe2b3451bd0a22f959b4e4f1",
+      "gitBlobSha": "59e9b30c042c82273ca780979914df5d4834a95d",
+      "bytes": 14356,
+      "commit": "7db57f59bef8bd95daca387832451991e2343152",
+      "accessedAt": "2026-11-27T09:48:08.847Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/cnbprd/WhaleGirlPet/blob/7db57f59bef8bd95daca387832451991e2343152/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/cnbprd/WhaleGirlPet/7db57f59bef8bd95daca387832451991e2343152/LICENSE",
+      "sourceSha256": "79a5cd40b1e46804585ccf906c73101309e7657250deb0f4e968298de4a12753",
+      "gitBlobSha": "5028ebd0c232913d95424fa1ca9056cde8281ff6",
+      "bytes": 1604,
+      "commit": "7db57f59bef8bd95daca387832451991e2343152",
+      "accessedAt": "2026-11-27T09:48:09.210Z"
+    },
+    {
+      "path": "DECLARATION.md",
+      "url": "https://github.com/cnbprd/WhaleGirlPet/blob/7db57f59bef8bd95daca387832451991e2343152/DECLARATION.md",
+      "rawUrl": "https://raw.githubusercontent.com/cnbprd/WhaleGirlPet/7db57f59bef8bd95daca387832451991e2343152/DECLARATION.md",
+      "sourceSha256": "c9aa7acadf1e432d83d177f6dde476b2291a83b0f5b3dd896059e6311eacbfe1",
+      "gitBlobSha": "308a584e6e0b99b1cb2a9556765a16225efbff3c",
+      "bytes": 4021,
+      "commit": "7db57f59bef8bd95daca387832451991e2343152",
+      "accessedAt": "2026-11-27T09:48:09.556Z"
+    },
+    {
+      "path": "3d/THIRD_PARTY_NOTICES.txt",
+      "url": "https://github.com/cnbprd/WhaleGirlPet/blob/7db57f59bef8bd95daca387832451991e2343152/3d/THIRD_PARTY_NOTICES.txt",
+      "rawUrl": "https://raw.githubusercontent.com/cnbprd/WhaleGirlPet/7db57f59bef8bd95daca387832451991e2343152/3d/THIRD_PARTY_NOTICES.txt",
+      "sourceSha256": "b1629d7ffa80da1fcf30352c92854111da54032e005fa97b9c48d46036797404",
+      "gitBlobSha": "e0e14430072fa0d8cfcc1578ccfa254e9f09417b",
+      "bytes": 4188,
+      "commit": "7db57f59bef8bd95daca387832451991e2343152",
+      "accessedAt": "2026-11-27T09:48:09.916Z"
+    }
+  ]
+}

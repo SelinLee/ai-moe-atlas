@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1LvxW6oEMo/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LvxW6oEMo",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T09:46:24.518Z",
+  "scope": "The official view API returned the video identity, publication time, uploader and cumulative likes. Additional credits follow the original upload and verified links.",
+  "metadata": {
+    "bvid": "BV1LvxW6oEMo",
+    "title": "MOSS娘｜立绘改到第 22 版，我才敢发出来 【AI拟人小动画】",
+    "owner": {
+      "name": "甶丶",
+      "mid": 1758596086
+    },
+    "pubdate": 1793493041,
+    "duration": 220
+  },
+  "descriptionSha256": "72dcff015757cdbd8e306253c85def9755b211cc72919e717cb6586f8bc38db7",
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "creator-original-character",
+      "title": "甶丶 · MOSS 娘",
+      "url": "https://www.bilibili.com/opus/1265454286364475399"
+    }
+  ]
+}

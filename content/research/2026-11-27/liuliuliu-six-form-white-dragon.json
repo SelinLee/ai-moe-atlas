@@ -1,0 +1,62 @@
+{
+  "url": "https://github.com/liuliuliu-a11y/codex-dragon-pet/blob/24a1a09d2dbcbbf65ca81334800f67a8d3b11244/README.md",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T09:48:05.970Z",
+  "scope": "Pinned project and two asset guides verified. Individual reuse permission and application behavior were not verified.",
+  "repository": {
+    "full_name": "liuliuliu-a11y/codex-dragon-pet",
+    "html_url": "https://github.com/liuliuliu-a11y/codex-dragon-pet",
+    "stargazers_count": 1,
+    "archived": false,
+    "created_at": "2026-10-19T10:27:28Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "24a1a09d2dbcbbf65ca81334800f67a8d3b11244",
+    "observedAt": "2026-11-27T09:46:40.084Z",
+    "httpStatus": 200,
+    "metadataSha256": "620464c13835186fe95efeeeeab592c31cb131bb7e315a88c849b6be9f57cd1b",
+    "parent": null
+  },
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/liuliuliu-a11y/codex-dragon-pet/blob/24a1a09d2dbcbbf65ca81334800f67a8d3b11244/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/liuliuliu-a11y/codex-dragon-pet/24a1a09d2dbcbbf65ca81334800f67a8d3b11244/README.md",
+    "sourceSha256": "2365d3099cf7265a15904b9e078022b190c30566adcac8bb2e15c205099cacb9",
+    "gitBlobSha": "f0f6116669d3dce0bee7c43ebdc273a679104826",
+    "bytes": 6580,
+    "commit": "24a1a09d2dbcbbf65ca81334800f67a8d3b11244",
+    "accessedAt": "2026-11-27T09:48:05.970Z"
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/liuliuliu-a11y/codex-dragon-pet/blob/24a1a09d2dbcbbf65ca81334800f67a8d3b11244/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/liuliuliu-a11y/codex-dragon-pet/24a1a09d2dbcbbf65ca81334800f67a8d3b11244/README.md",
+      "sourceSha256": "2365d3099cf7265a15904b9e078022b190c30566adcac8bb2e15c205099cacb9",
+      "gitBlobSha": "f0f6116669d3dce0bee7c43ebdc273a679104826",
+      "bytes": 6580,
+      "commit": "24a1a09d2dbcbbf65ca81334800f67a8d3b11244",
+      "accessedAt": "2026-11-27T09:48:05.970Z"
+    },
+    {
+      "path": "assets/white-dragon-forms/README.md",
+      "url": "https://github.com/liuliuliu-a11y/codex-dragon-pet/blob/24a1a09d2dbcbbf65ca81334800f67a8d3b11244/assets/white-dragon-forms/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/liuliuliu-a11y/codex-dragon-pet/24a1a09d2dbcbbf65ca81334800f67a8d3b11244/assets/white-dragon-forms/README.md",
+      "sourceSha256": "a4007f0c524056390a74ceb45caa7aaf556d051494ff9ac86b5ffa86065b0107",
+      "gitBlobSha": "6136ae57ee51116ee3219e46b286110b2192d6ca",
+      "bytes": 1241,
+      "commit": "24a1a09d2dbcbbf65ca81334800f67a8d3b11244",
+      "accessedAt": "2026-11-27T09:48:06.937Z"
+    },
+    {
+      "path": "assets/white-dragon-v2/README.md",
+      "url": "https://github.com/liuliuliu-a11y/codex-dragon-pet/blob/24a1a09d2dbcbbf65ca81334800f67a8d3b11244/assets/white-dragon-v2/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/liuliuliu-a11y/codex-dragon-pet/24a1a09d2dbcbbf65ca81334800f67a8d3b11244/assets/white-dragon-v2/README.md",
+      "sourceSha256": "f9ec72e5396203793841b463be5b1aca6a57a0a773bdac02a7a76ce1184c412c",
+      "gitBlobSha": "c371e53ea336fea7de9a373e6b846241cfc4e1eb",
+      "bytes": 1131,
+      "commit": "24a1a09d2dbcbbf65ca81334800f67a8d3b11244",
+      "accessedAt": "2026-11-27T09:48:07.325Z"
+    }
+  ]
+}

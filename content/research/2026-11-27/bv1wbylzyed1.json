@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1wbyLzyED1/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wbyLzyED1",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T09:46:22.955Z",
+  "scope": "The official view API returned the video identity, publication time, uploader and cumulative likes. Additional credits follow the original upload and verified links.",
+  "metadata": {
+    "bvid": "BV1wbyLzyED1",
+    "title": "MOSS+H3,包姐加鲸娘和克劳德，于是AI女团出道",
+    "owner": {
+      "name": "星语水心",
+      "mid": 272981332
+    },
+    "pubdate": 1795342619,
+    "duration": 60
+  },
+  "descriptionSha256": "37ff5fed4938bca755caf1a88ef19a6c28053e074c42d766f2e8b17b802a0b77",
+  "sourceLinks": []
+}

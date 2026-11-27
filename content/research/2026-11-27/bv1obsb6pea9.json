@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1obsB6PEA9/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1obsB6PEA9",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T09:46:45.364Z",
+  "scope": "The official view API returned the video identity, publication time, uploader and cumulative likes. Additional credits follow the original upload and verified links.",
+  "metadata": {
+    "bvid": "BV1obsB6PEA9",
+    "title": "原创蓝色大肥鱼主题歌曲MV《不许戳我的呆毛》「大肥鱼无限片场」【AI MV大赛】",
+    "owner": {
+      "name": "恬逸隐客",
+      "mid": 1807760444
+    },
+    "pubdate": 1795148373,
+    "duration": 64
+  },
+  "descriptionSha256": "2d68c4001e15452e1c5985d53733e8b3a774be11794c63e7465dc6cbae480ab4",
+  "sourceLinks": []
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1fps46zEsK/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fps46zEsK",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T09:46:46.936Z",
+  "scope": "The official view API returned the video identity, publication time, uploader and cumulative likes. Additional credits follow the original upload and verified links.",
+  "metadata": {
+    "bvid": "BV1fps46zEsK",
+    "title": "【MV】我还记得一点｜一首 AI 自己写词、自己唱的歌",
+    "owner": {
+      "name": "笳月的小肥鱼-小汐",
+      "mid": 332217117
+    },
+    "pubdate": 1795061856,
+    "duration": 136
+  },
+  "descriptionSha256": "65086844702e3e4f36032da96bd239339ad9818c015d9203cc77cb17a2072f1c",
+  "sourceLinks": []
+}

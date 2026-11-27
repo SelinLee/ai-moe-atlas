@@ -2559,7 +2559,15 @@
       "zh": "作者将长文标为原创，并写明未经授权禁止转载。图鉴记录出处。",
       "en": "The creator labels the article as original and requires permission for republication. The atlas links to the source.",
       "ja": "作者は記事をオリジナルとし、無断転載を禁止。図鑑には出典を掲載。"
-    }
+    },
+    "observations": [
+      {
+        "title": "MOSS娘｜立绘改到第 22 版，我才敢发出来 【AI拟人小动画】",
+        "url": "https://www.bilibili.com/video/BV1LvxW6oEMo/",
+        "publisher": "甶丶",
+        "reviewedAt": "2026-11-27"
+      }
+    ]
   },
   {
     "id": "fuh-ant-ling",
@@ -5309,7 +5317,7 @@
   {
     "id": "fuh-codex-mechanical-dragon",
     "entity": "codex",
-    "kind": "reference",
+    "kind": "collected",
     "style": "anime",
     "official": false,
     "name": {
@@ -5347,19 +5355,113 @@
       }
     ],
     "method": "not-disclosed",
-    "license": "source-only",
+    "license": "CC-BY-NC-SA-4.0",
     "licenseUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/12d5f69c647424a1b37d53aa142b36610438df38/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
-    "downloadable": false,
+    "downloadable": true,
     "bg": "#e6effa",
     "color": "#365f97",
-    "verifiedAt": "2026-11-26",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": "collected/fuh-codex-mechanical-dragon/mechanical-portrait/preview.webp",
+    "assets": [
+      {
+        "id": "mechanical-portrait",
+        "label": {
+          "zh": "机械龙娘 · 原始立绘",
+          "en": "Mechanical dragon · Original portrait",
+          "ja": "メカドラゴン · 立ち絵原本"
+        }
+      },
+      {
+        "id": "fantasy-portrait",
+        "label": {
+          "zh": "法典魔导师 · 原始立绘",
+          "en": "Grimoire mage · Original portrait",
+          "ja": "魔導書の魔術師 · 立ち絵原本"
+        }
+      },
+      {
+        "id": "mechanical-turnaround",
+        "label": {
+          "zh": "机械龙娘 · 原始三视图",
+          "en": "Mechanical dragon · Original turnaround",
+          "ja": "メカドラゴン · 三面図原本"
+        }
+      },
+      {
+        "id": "fantasy-turnaround",
+        "label": {
+          "zh": "法典魔导师 · 原始三视图",
+          "en": "Grimoire mage · Original turnaround",
+          "ja": "魔導書の魔術師 · 三面図原本"
+        }
+      }
+    ],
+    "provenanceNote": {
+      "zh": "此处四张作者原图采用 CC BY-NC-SA 4.0。保留署名「甶丶（pixiv 72492206）」、原图出处和许可链接，仅限非商业使用，改编注明变化并以相同许可发布。图鉴加工仅包含等比缩放、留边与格式转换。",
+      "en": "These four creator-published images use CC BY-NC-SA 4.0. Retain the credit 甶丶 (pixiv 72492206), the original source and license links. Noncommercial use only. Mark adaptations and distribute them under the same license. Atlas processing is limited to proportional resizing, padding and format conversion.",
+      "ja": "作者が公開した原画4点は CC BY-NC-SA 4.0。甶丶（pixiv 72492206）・原画出典・ライセンスへのリンクを保持し、非商用に限ります。改変を明示し、同一ライセンスで共有してください。図鑑での加工は比率維持のリサイズ・余白追加・形式変換です。"
+    },
+    "licenseLabel": {
+      "zh": "CC BY-NC-SA 4.0 · 署名、非商业、相同方式共享",
+      "en": "CC BY-NC-SA 4.0 · Attribution, noncommercial, ShareAlike",
+      "ja": "CC BY-NC-SA 4.0 · 作者表示、非商用、継承"
+    }
+  },
+  {
+    "id": "fuh-muse-dual-forms",
+    "entity": "muse",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Muse 娘 · 甶丶双造型",
+      "en": "Muse Girl · 甶丶’s Two Designs",
+      "ja": "Muse 娘 · 甶丶の2形態"
+    },
+    "description": {
+      "zh": "甶丶为 Meta Muse 设计的幻想牧师与科幻助手两套造型，按 Glimmer、Ember、Spark、Wonder Full 分四档。",
+      "en": "甶丶’s fantasy cleric and sci-fi assistant for Meta Muse have four levels, from Glimmer and Ember to Spark and Wonder Full.",
+      "ja": "甶丶による Meta Muse の幻想の聖職者と SF アシスタント。Glimmer・Ember・Spark・Wonder Full の4段階。"
+    },
+    "story": {
+      "zh": "甶丶为 Meta Muse 设计的幻想牧师与科幻助手两套造型，按 Glimmer、Ember、Spark、Wonder Full 分四档。",
+      "en": "甶丶’s fantasy cleric and sci-fi assistant for Meta Muse have four levels, from Glimmer and Ember to Spark and Wonder Full.",
+      "ja": "甶丶による Meta Muse の幻想の聖職者と SF アシスタント。Glimmer・Ember・Spark・Wonder Full の4段階。"
+    },
+    "features": {
+      "zh": "蓝紫发色和蓝紫彩窗纹样贯穿两套设定，科幻版配头戴式耳机和笔记本。",
+      "en": "Both designs use blue-purple hair and stained-glass motifs. The sci-fi form wears headphones and carries a laptop.",
+      "ja": "両形態に青紫の髪とステンドグラス模様。SF 版はヘッドホンとノート PC を備える。"
+    },
+    "author": "甶丶",
+    "authorUrl": "https://space.bilibili.com/1758596086",
+    "source": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/muse/%E8%AE%BE%E5%AE%9A.md",
+    "sourceTitle": "Muse 娘（Meta Muse 全家族） · 设定.md",
+    "originalPublication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/muse/%E8%AE%BE%E5%AE%9A.md",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/muse/%E8%AE%BE%E5%AE%9A.md"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+    "downloadable": false,
+    "bg": "#e9edf9",
+    "color": "#4359a5",
+    "verifiedAt": "2026-11-27",
     "origin": "web-collected",
     "preview": null,
     "assets": [],
     "provenanceNote": {
-      "zh": "甶丶对固定版本的 Codex 娘立绘和设定列明 CC BY-NC-SA 4.0。再利用须署名且限非商业，改编须采用相同许可。",
-      "en": "甶丶 lists CC BY-NC-SA 4.0 for the pinned Codex Girl artwork and design notes. Attribution and noncommercial use are required, with adaptations under the same license.",
-      "ja": "甶丶は固定版の Codex 娘の立ち絵と設定に CC BY-NC-SA 4.0 を明記。要クレジット・非商用、改変は同一ライセンス。"
+      "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中引用的 Meta Muse 官方标识沿用权利方条件。",
+      "en": "The creator labels this pinned character design and artwork CC BY-NC-SA 4.0. The depicted official Meta Muse mark follows its rights holder’s terms.",
+      "ja": "固定版のキャラクターデザインと立ち絵は作者が CC BY-NC-SA 4.0 と明記。図中の Meta Muse 公式マークには権利者の条件が適用される。"
     }
   }
 ]

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1rnsB6zELU/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1rnsB6zELU",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T09:46:45.364Z",
+  "scope": "The official view API returned the video identity, publication time, uploader and cumulative likes. Additional credits follow the original upload and verified links.",
+  "metadata": {
+    "bvid": "BV1rnsB6zELU",
+    "title": "【Gemini MV】⚡我在线！🐱",
+    "owner": {
+      "name": "西红柿炒雷丘",
+      "mid": 377863
+    },
+    "pubdate": 1795149822,
+    "duration": 178
+  },
+  "descriptionSha256": "38d6aff8ce2d361281be2a80edc0e1be4d57ff765d9ceeb5c3785038192332ba",
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    }
+  ]
+}

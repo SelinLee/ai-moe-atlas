@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1fRWU6AEuz/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fRWU6AEuz",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T09:46:27.644Z",
+  "scope": "The official view API returned the video identity, publication time, uploader and cumulative likes. Additional credits follow the original upload and verified links.",
+  "metadata": {
+    "bvid": "BV1fRWU6AEuz",
+    "title": "请选择你的 · AI娘 ·",
+    "owner": {
+      "name": "肥鱼喵喵不抽香烟版",
+      "mid": 3546882995390678
+    },
+    "pubdate": 1794412399,
+    "duration": 19
+  },
+  "descriptionSha256": "29bcc974ca726ef3bf8a2b87e931b6acce80382c6caf7a0a05051381cfdf1a7f",
+  "sourceLinks": []
+}

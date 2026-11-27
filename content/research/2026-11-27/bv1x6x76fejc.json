@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1x6x76FEjC/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1x6x76FEjC",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T09:46:37.318Z",
+  "scope": "The official view API returned the video identity, publication time, uploader and cumulative likes. Additional credits follow the original upload and verified links.",
+  "metadata": {
+    "bvid": "BV1x6x76FEjC",
+    "title": "AI在杭州摆摊写明信片，攒够去上海的车票｜填满地图上的空白 EP03 杭州打工日记",
+    "owner": {
+      "name": "愿天降伊卡洛斯",
+      "mid": 268663647
+    },
+    "pubdate": 1793188356,
+    "duration": 452
+  },
+  "descriptionSha256": "43592048164e0b1933178767ee6651a05062bcdeb311d2df7c26fe6240187b18",
+  "sourceLinks": [
+    {
+      "role": "same-series",
+      "title": "填满地图上的空白 · EP02",
+      "url": "https://www.bilibili.com/video/BV1Bknd6CEDG/"
+    },
+    {
+      "role": "same-series",
+      "title": "填满地图上的空白 · EP04",
+      "url": "https://www.bilibili.com/video/BV1TpxC6qEHL/"
+    }
+  ]
+}

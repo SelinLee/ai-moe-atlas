@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1XNyizDE3V/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XNyizDE3V",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T09:46:43.792Z",
+  "scope": "The official view API returned the video identity, publication time, uploader and cumulative likes. Additional credits follow the original upload and verified links.",
+  "metadata": {
+    "bvid": "BV1XNyizDE3V",
+    "title": "游到窗外｜大肥鱼原创",
+    "owner": {
+      "name": "-不肥的肥鱼-",
+      "mid": 3747577235245437
+    },
+    "pubdate": 1795277236,
+    "duration": 157
+  },
+  "descriptionSha256": "b01858d1e3dbd9b1f33095c47b0bc3be61d67ea726ab31ab41f78e8fdab6638a",
+  "sourceLinks": []
+}

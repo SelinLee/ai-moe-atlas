@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1dwxD6PE8x/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dwxD6PE8x",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T09:46:51.656Z",
+  "scope": "The official view API returned the video identity, publication time, uploader and cumulative likes. Additional credits follow the original upload and verified links.",
+  "metadata": {
+    "bvid": "BV1dwxD6PE8x",
+    "title": "【巴啦啦小魔仙 OP】提示词也是咒语？AI娘组团变身小魔仙！",
+    "owner": {
+      "name": "月い立華",
+      "mid": 33279353
+    },
+    "pubdate": 1793758668,
+    "duration": 72
+  },
+  "descriptionSha256": "45d45d0218b6a7275cf84ad4292d52e32e21c3b0242d043370e75ba3673658ed",
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "uploader-cited-upload",
+      "title": "BV18AdPBAE4a",
+      "url": "https://www.bilibili.com/video/BV18AdPBAE4a/"
+    }
+  ]
+}

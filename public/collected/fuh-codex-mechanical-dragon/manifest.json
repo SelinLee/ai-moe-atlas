@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "characterId": "fuh-codex-mechanical-dragon",
+  "source": {
+    "id": "fuh-codex-mechanical-dragon",
+    "characterId": "fuh-codex-mechanical-dragon",
+    "repository": "fuzhu-ai-chan/ai-chan-designs",
+    "revision": "12d5f69c647424a1b37d53aa142b36610438df38",
+    "pageUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/12d5f69c647424a1b37d53aa142b36610438df38/%E8%A7%92%E8%89%B2/codex/%E8%AE%BE%E5%AE%9A.md",
+    "originalPublication": "https://www.bilibili.com/video/BV1qXxo6WELy/",
+    "collectedAt": "2026-11-27",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/video/BV1qXxo6WELy/"
+      }
+    ],
+    "provenanceStatus": "creator-published-github-file",
+    "rights": {
+      "license": "CC-BY-NC-SA-4.0",
+      "scope": "artwork",
+      "display": true,
+      "redistribute": true,
+      "modify": true,
+      "commercial": false,
+      "evidenceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/12d5f69c647424a1b37d53aa142b36610438df38/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+      "reviewedBy": "AI Moe Atlas source review",
+      "reviewedAt": "2026-11-27",
+      "terms": {
+        "zh": "此处四张作者原图采用 CC BY-NC-SA 4.0。保留署名「甶丶（pixiv 72492206）」、原图出处和许可链接，仅限非商业使用，改编注明变化并以相同许可发布。图鉴加工仅包含等比缩放、留边与格式转换。",
+        "en": "These four creator-published images use CC BY-NC-SA 4.0. Retain the credit 甶丶 (pixiv 72492206), the original source and license links. Noncommercial use only. Mark adaptations and distribute them under the same license. Atlas processing is limited to proportional resizing, padding and format conversion.",
+        "ja": "作者が公開した原画4点は CC BY-NC-SA 4.0。甶丶（pixiv 72492206）・原画出典・ライセンスへのリンクを保持し、非商用に限ります。改変を明示し、同一ライセンスで共有してください。図鑑での加工は比率維持のリサイズ・余白追加・形式変換です。"
+      }
+    },
+    "evidenceFiles": [
+      "版权与授权.md",
+      "LICENSE"
+    ],
+    "evidenceSnapshots": [
+      {
+        "path": "角色/codex/设定.md",
+        "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/12d5f69c647424a1b37d53aa142b36610438df38/%E8%A7%92%E8%89%B2/codex/%E8%AE%BE%E5%AE%9A.md",
+        "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/12d5f69c647424a1b37d53aa142b36610438df38/%E8%A7%92%E8%89%B2/codex/%E8%AE%BE%E5%AE%9A.md",
+        "sourceSha256": "0dde3b80d912ac4dbf3d2981cbc52b3f1cef20807637711f31038659a6608f65",
+        "gitBlobSha": "bf7252c75105bec037586361da69f75ef2481343",
+        "bytes": 2241,
+        "commit": "12d5f69c647424a1b37d53aa142b36610438df38",
+        "accessedAt": "2026-11-26T06:11:33.837Z",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "scope": "The character-specific setting credits 甶丶 and explicitly licenses the design and character artwork."
+      },
+      {
+        "path": "版权与授权.md",
+        "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/12d5f69c647424a1b37d53aa142b36610438df38/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/12d5f69c647424a1b37d53aa142b36610438df38/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "sourceSha256": "50b17ef47d1ffb316624abc5b8972314281dad431631f89b1bcf00ec91d580eb",
+        "gitBlobSha": "99c0cdd2dea890a599b933752dbc43b904e0aaf8",
+        "bytes": 3790,
+        "commit": "12d5f69c647424a1b37d53aa142b36610438df38",
+        "accessedAt": "2026-11-26T06:11:33.454Z",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "scope": "The author identifies Codex Girl artwork in the per-character schedule under CC BY-NC-SA 4.0."
+      },
+      {
+        "path": "LICENSE",
+        "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/12d5f69c647424a1b37d53aa142b36610438df38/LICENSE",
+        "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/12d5f69c647424a1b37d53aa142b36610438df38/LICENSE",
+        "sourceSha256": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11",
+        "gitBlobSha": "baee873b679e36a4123c83b8a29e0fb17fad14eb",
+        "bytes": 19018,
+        "commit": "12d5f69c647424a1b37d53aa142b36610438df38",
+        "accessedAt": "2026-11-26T06:11:33.095Z",
+        "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+        "scope": "Pinned Creative Commons BY-NC-SA 4.0 license text."
+      },
+      {
+        "url": "https://www.bilibili.com/video/BV1qXxo6WELy/",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qXxo6WELy",
+        "accessedAt": "2026-11-26T06:07:32.611Z",
+        "descriptionSha256": "adff8eaea44fb5f58dedf538b0c9fa18fcea69f64f337c23a478b72c1e0834c6",
+        "publisher": "甶丶",
+        "publisherId": 1758596086,
+        "scope": "The creator’s release identifies the linked artwork repository and credits the visual inspirations. The video and third-party reference artwork are separate from the included four pinned images."
+      }
+    ],
+    "files": [
+      {
+        "id": "mechanical-portrait",
+        "path": "角色/codex/01_立绘/codex b 大.png",
+        "sha256": "dc995e0ee4495e24e608c98522fc02cfbfa81e305e81988570d7863f84da0469",
+        "label": {
+          "zh": "机械龙娘 · 原始立绘",
+          "en": "Mechanical dragon · Original portrait",
+          "ja": "メカドラゴン · 立ち絵原本"
+        }
+      },
+      {
+        "id": "fantasy-portrait",
+        "path": "角色/codex/01_立绘/codex a 大.png",
+        "sha256": "ae0fed79a5a418b8835eb134b09fe9a69ec82811d92636ec1e94f05ad2ebe749",
+        "label": {
+          "zh": "法典魔导师 · 原始立绘",
+          "en": "Grimoire mage · Original portrait",
+          "ja": "魔導書の魔術師 · 立ち絵原本"
+        }
+      },
+      {
+        "id": "mechanical-turnaround",
+        "path": "角色/codex/02_三视图/codex 三视图 科技.png",
+        "sha256": "5495d4d2de6fe093d07283abd86a4d365c26d19bc27a5b94ae1a254c0447cbab",
+        "label": {
+          "zh": "机械龙娘 · 原始三视图",
+          "en": "Mechanical dragon · Original turnaround",
+          "ja": "メカドラゴン · 三面図原本"
+        }
+      },
+      {
+        "id": "fantasy-turnaround",
+        "path": "角色/codex/02_三视图/codex 三视图 奇幻.png",
+        "sha256": "bb8d496fdaba411fff772c09c721dc84e9c412e0bb56e6fc1e2f95a3d47e37da",
+        "label": {
+          "zh": "法典魔导师 · 原始三视图",
+          "en": "Grimoire mage · Original turnaround",
+          "ja": "魔導書の魔術師 · 三面図原本"
+        }
+      }
+    ],
+    "retrievedAt": "2026-11-27T09:47:15.730Z",
+    "evidence": [
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/12d5f69c647424a1b37d53aa142b36610438df38/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "localPath": "collected/fuh-codex-mechanical-dragon/evidence/版权与授权.md.txt",
+        "sha256": "50b17ef47d1ffb316624abc5b8972314281dad431631f89b1bcf00ec91d580eb"
+      },
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/12d5f69c647424a1b37d53aa142b36610438df38/LICENSE",
+        "localPath": "collected/fuh-codex-mechanical-dragon/evidence/LICENSE.txt",
+        "sha256": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/12d5f69c647424a1b37d53aa142b36610438df38/%E8%A7%92%E8%89%B2/codex/%E8%AE%BE%E5%AE%9A.md",
+        "localPath": "collected/fuh-codex-mechanical-dragon/evidence/source-statement-1.json",
+        "sha256": "cdf9fd098627a8f6dd8a629474f657f7e7e643501525c01261568c2faa9c9d67"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/12d5f69c647424a1b37d53aa142b36610438df38/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "localPath": "collected/fuh-codex-mechanical-dragon/evidence/source-statement-2.json",
+        "sha256": "006f04110db45a2736e189f78c7952dacf25aee7d5edda0dd31fea29007bc27f"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/12d5f69c647424a1b37d53aa142b36610438df38/LICENSE",
+        "localPath": "collected/fuh-codex-mechanical-dragon/evidence/source-statement-3.json",
+        "sha256": "b256b0b83a7d2b5fa6d6db75efefc60036d880d60b79a4de2e711157d939f781"
+      },
+      {
+        "sourceUrl": "https://www.bilibili.com/video/BV1qXxo6WELy/",
+        "localPath": "collected/fuh-codex-mechanical-dragon/evidence/source-statement-4.json",
+        "sha256": "8910edb79eb134393091483b63c646a62f66f003d91797956bf7869cd3fc8235"
+      }
+    ],
+    "originals": [
+      {
+        "id": "mechanical-portrait",
+        "path": "角色/codex/01_立绘/codex b 大.png",
+        "sha256": "dc995e0ee4495e24e608c98522fc02cfbfa81e305e81988570d7863f84da0469",
+        "label": {
+          "zh": "机械龙娘 · 原始立绘",
+          "en": "Mechanical dragon · Original portrait",
+          "ja": "メカドラゴン · 立ち絵原本"
+        },
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/12d5f69c647424a1b37d53aa142b36610438df38/%E8%A7%92%E8%89%B2/codex/01_%E7%AB%8B%E7%BB%98/codex%20b%20%E5%A4%A7.png",
+        "sourcePage": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/12d5f69c647424a1b37d53aa142b36610438df38/角色/codex/01_立绘/codex b 大.png",
+        "localPath": "collected/fuh-codex-mechanical-dragon/mechanical-portrait/original.png",
+        "width": 1696,
+        "height": 2352,
+        "alpha": false,
+        "bytes": 4255863
+      },
+      {
+        "id": "fantasy-portrait",
+        "path": "角色/codex/01_立绘/codex a 大.png",
+        "sha256": "ae0fed79a5a418b8835eb134b09fe9a69ec82811d92636ec1e94f05ad2ebe749",
+        "label": {
+          "zh": "法典魔导师 · 原始立绘",
+          "en": "Grimoire mage · Original portrait",
+          "ja": "魔導書の魔術師 · 立ち絵原本"
+        },
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/12d5f69c647424a1b37d53aa142b36610438df38/%E8%A7%92%E8%89%B2/codex/01_%E7%AB%8B%E7%BB%98/codex%20a%20%E5%A4%A7.png",
+        "sourcePage": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/12d5f69c647424a1b37d53aa142b36610438df38/角色/codex/01_立绘/codex a 大.png",
+        "localPath": "collected/fuh-codex-mechanical-dragon/fantasy-portrait/original.png",
+        "width": 1344,
+        "height": 1792,
+        "alpha": false,
+        "bytes": 2034676
+      },
+      {
+        "id": "mechanical-turnaround",
+        "path": "角色/codex/02_三视图/codex 三视图 科技.png",
+        "sha256": "5495d4d2de6fe093d07283abd86a4d365c26d19bc27a5b94ae1a254c0447cbab",
+        "label": {
+          "zh": "机械龙娘 · 原始三视图",
+          "en": "Mechanical dragon · Original turnaround",
+          "ja": "メカドラゴン · 三面図原本"
+        },
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/12d5f69c647424a1b37d53aa142b36610438df38/%E8%A7%92%E8%89%B2/codex/02_%E4%B8%89%E8%A7%86%E5%9B%BE/codex%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E7%A7%91%E6%8A%80.png",
+        "sourcePage": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/12d5f69c647424a1b37d53aa142b36610438df38/角色/codex/02_三视图/codex 三视图 科技.png",
+        "localPath": "collected/fuh-codex-mechanical-dragon/mechanical-turnaround/original.png",
+        "width": 2788,
+        "height": 1720,
+        "alpha": false,
+        "bytes": 4243364
+      },
+      {
+        "id": "fantasy-turnaround",
+        "path": "角色/codex/02_三视图/codex 三视图 奇幻.png",
+        "sha256": "bb8d496fdaba411fff772c09c721dc84e9c412e0bb56e6fc1e2f95a3d47e37da",
+        "label": {
+          "zh": "法典魔导师 · 原始三视图",
+          "en": "Grimoire mage · Original turnaround",
+          "ja": "魔導書の魔術師 · 三面図原本"
+        },
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/12d5f69c647424a1b37d53aa142b36610438df38/%E8%A7%92%E8%89%B2/codex/02_%E4%B8%89%E8%A7%86%E5%9B%BE/codex%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E5%A5%87%E5%B9%BB.png",
+        "sourcePage": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/12d5f69c647424a1b37d53aa142b36610438df38/角色/codex/02_三视图/codex 三视图 奇幻.png",
+        "localPath": "collected/fuh-codex-mechanical-dragon/fantasy-turnaround/original.png",
+        "width": 2460,
+        "height": 1714,
+        "alpha": false,
+        "bytes": 2005099
+      }
+    ]
+  },
+  "normalization": {
+    "tool": "sharp 0.34.5",
+    "policy": "preserve-original-identity",
+    "generative": false,
+    "notes": "Fit complete original to canvas. No new pose, expression, costume, background removal, or invented detail. 2x output is resampling, not recovered detail."
+  },
+  "assets": [
+    {
+      "id": "mechanical-portrait",
+      "label": {
+        "zh": "机械龙娘 · 原始立绘",
+        "en": "Mechanical dragon · Original portrait",
+        "ja": "メカドラゴン · 立ち絵原本"
+      },
+      "original": "collected/fuh-codex-mechanical-dragon/mechanical-portrait/original.png",
+      "originalSha256": "dc995e0ee4495e24e608c98522fc02cfbfa81e305e81988570d7863f84da0469",
+      "outputs": [
+        {
+          "path": "collected/fuh-codex-mechanical-dragon/mechanical-portrait/standard.png",
+          "sha256": "0a68cf5f6b589d3acd2f529ddffead94e73ffc9bfdb9dbae6a23151048c17de0",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "dc995e0ee4495e24e608c98522fc02cfbfa81e305e81988570d7863f84da0469"
+        },
+        {
+          "path": "collected/fuh-codex-mechanical-dragon/mechanical-portrait/preview.webp",
+          "sha256": "00440523cf01b924f7d2163418017f3c98f61fa9bdf95b319b52e8fb9ee6fc08",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "dc995e0ee4495e24e608c98522fc02cfbfa81e305e81988570d7863f84da0469"
+        },
+        {
+          "path": "collected/fuh-codex-mechanical-dragon/mechanical-portrait/avatar.png",
+          "sha256": "2add5eb9e0e7fa6d917c382ca5e455e75610da5d0722b8b1cb6db1a6a56c33d4",
+          "width": 256,
+          "height": 256,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "dc995e0ee4495e24e608c98522fc02cfbfa81e305e81988570d7863f84da0469"
+        },
+        {
+          "path": "collected/fuh-codex-mechanical-dragon/mechanical-portrait/large-1024.png",
+          "sha256": "f5dee4d9ac1755755e72a106b1d09cee1b310d78a67d46006024b936ef53e943",
+          "width": 1024,
+          "height": 1024,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "dc995e0ee4495e24e608c98522fc02cfbfa81e305e81988570d7863f84da0469"
+        }
+      ]
+    },
+    {
+      "id": "fantasy-portrait",
+      "label": {
+        "zh": "法典魔导师 · 原始立绘",
+        "en": "Grimoire mage · Original portrait",
+        "ja": "魔導書の魔術師 · 立ち絵原本"
+      },
+      "original": "collected/fuh-codex-mechanical-dragon/fantasy-portrait/original.png",
+      "originalSha256": "ae0fed79a5a418b8835eb134b09fe9a69ec82811d92636ec1e94f05ad2ebe749",
+      "outputs": [
+        {
+          "path": "collected/fuh-codex-mechanical-dragon/fantasy-portrait/standard.png",
+          "sha256": "54b4c89d3bddf26e8f4d4a4203bcfefd4b8adf54e3afb5890d6bdfabc8b1ffaf",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "ae0fed79a5a418b8835eb134b09fe9a69ec82811d92636ec1e94f05ad2ebe749"
+        },
+        {
+          "path": "collected/fuh-codex-mechanical-dragon/fantasy-portrait/preview.webp",
+          "sha256": "29614f8f68d190f1720a70899ffa8cc5695a76f41e079a85df1c82fd0bdd402c",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "ae0fed79a5a418b8835eb134b09fe9a69ec82811d92636ec1e94f05ad2ebe749"
+        },
+        {
+          "path": "collected/fuh-codex-mechanical-dragon/fantasy-portrait/avatar.png",
+          "sha256": "6909d180e9e3caba5acbf319d536723d92ea7ef8397f93b035731c1885947917",
+          "width": 256,
+          "height": 256,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "ae0fed79a5a418b8835eb134b09fe9a69ec82811d92636ec1e94f05ad2ebe749"
+        },
+        {
+          "path": "collected/fuh-codex-mechanical-dragon/fantasy-portrait/large-1024.png",
+          "sha256": "39810579cb105b9afa3a95993d80eef0b30a19a976ccb46177465f2fc3ebe0b9",
+          "width": 1024,
+          "height": 1024,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "ae0fed79a5a418b8835eb134b09fe9a69ec82811d92636ec1e94f05ad2ebe749"
+        }
+      ]
+    },
+    {
+      "id": "mechanical-turnaround",
+      "label": {
+        "zh": "机械龙娘 · 原始三视图",
+        "en": "Mechanical dragon · Original turnaround",
+        "ja": "メカドラゴン · 三面図原本"
+      },
+      "original": "collected/fuh-codex-mechanical-dragon/mechanical-turnaround/original.png",
+      "originalSha256": "5495d4d2de6fe093d07283abd86a4d365c26d19bc27a5b94ae1a254c0447cbab",
+      "outputs": [
+        {
+          "path": "collected/fuh-codex-mechanical-dragon/mechanical-turnaround/standard.png",
+          "sha256": "2b0dd185268b15a7cb92cea2c752227ab2f7fef39b43bdc9855d2ffa9b9b6896",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "5495d4d2de6fe093d07283abd86a4d365c26d19bc27a5b94ae1a254c0447cbab"
+        },
+        {
+          "path": "collected/fuh-codex-mechanical-dragon/mechanical-turnaround/preview.webp",
+          "sha256": "e2c0bb4f5ef3620f5af4e8022c4529804b9c74910d1f2566e0bc8c40a0817260",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "5495d4d2de6fe093d07283abd86a4d365c26d19bc27a5b94ae1a254c0447cbab"
+        },
+        {
+          "path": "collected/fuh-codex-mechanical-dragon/mechanical-turnaround/avatar.png",
+          "sha256": "6b79f909d8d242debd292391505ad6d0cb05a98d3b8575eba999a3ea57ec670f",
+          "width": 256,
+          "height": 256,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "5495d4d2de6fe093d07283abd86a4d365c26d19bc27a5b94ae1a254c0447cbab"
+        },
+        {
+          "path": "collected/fuh-codex-mechanical-dragon/mechanical-turnaround/large-1024.png",
+          "sha256": "f7f75e11e3b6fe29367e5cf7ad1a7cef6591cfa7d7e3f5b37a81c18985461f82",
+          "width": 1024,
+          "height": 1024,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "5495d4d2de6fe093d07283abd86a4d365c26d19bc27a5b94ae1a254c0447cbab"
+        }
+      ]
+    },
+    {
+      "id": "fantasy-turnaround",
+      "label": {
+        "zh": "法典魔导师 · 原始三视图",
+        "en": "Grimoire mage · Original turnaround",
+        "ja": "魔導書の魔術師 · 三面図原本"
+      },
+      "original": "collected/fuh-codex-mechanical-dragon/fantasy-turnaround/original.png",
+      "originalSha256": "bb8d496fdaba411fff772c09c721dc84e9c412e0bb56e6fc1e2f95a3d47e37da",
+      "outputs": [
+        {
+          "path": "collected/fuh-codex-mechanical-dragon/fantasy-turnaround/standard.png",
+          "sha256": "23be327de130d67390f869a0c425b0a6691e49744b58d1c621d94b22ef905582",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "bb8d496fdaba411fff772c09c721dc84e9c412e0bb56e6fc1e2f95a3d47e37da"
+        },
+        {
+          "path": "collected/fuh-codex-mechanical-dragon/fantasy-turnaround/preview.webp",
+          "sha256": "522914960675cea19ad24b252aa70b48c2b551dc3495eb1cf02a1f7bccbd596d",
+          "width": 512,
+          "height": 512,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "bb8d496fdaba411fff772c09c721dc84e9c412e0bb56e6fc1e2f95a3d47e37da"
+        },
+        {
+          "path": "collected/fuh-codex-mechanical-dragon/fantasy-turnaround/avatar.png",
+          "sha256": "3f05ec471f36d9ced711ddbe84efe7b260722924e9ba3ff478d1a4f923961d2a",
+          "width": 256,
+          "height": 256,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "bb8d496fdaba411fff772c09c721dc84e9c412e0bb56e6fc1e2f95a3d47e37da"
+        },
+        {
+          "path": "collected/fuh-codex-mechanical-dragon/fantasy-turnaround/large-1024.png",
+          "sha256": "afa317d6245810383bc9893ddee5a1327e1be11f22d45a4af2cb0bcecc5d9f41",
+          "width": 1024,
+          "height": 1024,
+          "operation": "contain-resample",
+          "upscaled": false,
+          "parentSha256": "bb8d496fdaba411fff772c09c721dc84e9c412e0bb56e6fc1e2f95a3d47e37da"
+        }
+      ]
+    }
+  ]
+}
