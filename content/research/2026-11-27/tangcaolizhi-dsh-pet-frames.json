@@ -1,0 +1,76 @@
+{
+  "full_name": "tangcaolizhi/DeepSeek",
+  "html_url": "https://github.com/tangcaolizhi/DeepSeek",
+  "stargazers_count": 1,
+  "archived": false,
+  "created_at": "2026-08-21T10:15:03Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "919cae3bd8cf7ce7238ec0987e1076a926e73d2f",
+  "observedAt": "2026-11-27T11:38:11.285Z",
+  "httpStatus": 200,
+  "metadataSha256": "a897468bcdf0423215ec49f4a159a7d986e604e6b441009e5bb5a299b42a8f1a",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/tangcaolizhi/DeepSeek/blob/919cae3bd8cf7ce7238ec0987e1076a926e73d2f/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/tangcaolizhi/DeepSeek/919cae3bd8cf7ce7238ec0987e1076a926e73d2f/README.md",
+      "sourceSha256": "aa9ba5210bbb5075ac6c350df765dad114b0bbd574995024c421906a79f50097",
+      "gitBlobSha": "11b01d0d402a6685c533073e00c9a3aa1110db59",
+      "bytes": 15925,
+      "commit": "919cae3bd8cf7ce7238ec0987e1076a926e73d2f",
+      "accessedAt": "2026-11-27T11:42:35.966Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/tangcaolizhi/DeepSeek/blob/919cae3bd8cf7ce7238ec0987e1076a926e73d2f/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/tangcaolizhi/DeepSeek/919cae3bd8cf7ce7238ec0987e1076a926e73d2f/LICENSE",
+      "sourceSha256": "128d04e4df53b2299cc830229ccc9b5b302984fa82631ec55562297c09722d52",
+      "gitBlobSha": "34533b76ce7482e99ffad6cc7e349abb34a0c20a",
+      "bytes": 1557,
+      "commit": "919cae3bd8cf7ce7238ec0987e1076a926e73d2f",
+      "accessedAt": "2026-11-27T11:42:36.189Z"
+    },
+    {
+      "path": "dsh-pet-deepseek-girl/LICENSE",
+      "url": "https://github.com/tangcaolizhi/DeepSeek/blob/919cae3bd8cf7ce7238ec0987e1076a926e73d2f/dsh-pet-deepseek-girl/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/tangcaolizhi/DeepSeek/919cae3bd8cf7ce7238ec0987e1076a926e73d2f/dsh-pet-deepseek-girl/LICENSE",
+      "sourceSha256": "c9ecdee6c5cc7f137db0e7a9c87b6b1f990fda27b1559b6e10b8511040637547",
+      "gitBlobSha": "2c6c3fb63373560d54cf0dc39926a0000727b502",
+      "bytes": 1860,
+      "commit": "919cae3bd8cf7ce7238ec0987e1076a926e73d2f",
+      "accessedAt": "2026-11-27T11:42:36.410Z"
+    },
+    {
+      "path": "dsh-pet-deepseek-girl/assets/SOURCES.md",
+      "url": "https://github.com/tangcaolizhi/DeepSeek/blob/919cae3bd8cf7ce7238ec0987e1076a926e73d2f/dsh-pet-deepseek-girl/assets/SOURCES.md",
+      "rawUrl": "https://raw.githubusercontent.com/tangcaolizhi/DeepSeek/919cae3bd8cf7ce7238ec0987e1076a926e73d2f/dsh-pet-deepseek-girl/assets/SOURCES.md",
+      "sourceSha256": "f209ca532e4eb566c6fc64a567abc608c0b2479dc53a2594da2d57b91de4eb9d",
+      "gitBlobSha": "ca51cab49e0f5f8636c11c443fd1de149d0171e7",
+      "bytes": 1687,
+      "commit": "919cae3bd8cf7ce7238ec0987e1076a926e73d2f",
+      "accessedAt": "2026-11-27T11:42:36.627Z"
+    }
+  ],
+  "url": "https://github.com/tangcaolizhi/DeepSeek/blob/919cae3bd8cf7ce7238ec0987e1076a926e73d2f/README.md",
+  "accessedAt": "2026-11-27T11:42:36.627Z",
+  "scope": "Pinned documentation and available license or asset notices were verified against Git blobs and SHA-256. The feature and asset statements describe the publishers’ documents.",
+  "relatedSources": [
+    {
+      "role": "artwork-terms",
+      "title": "tangcaolizhi · SOURCES.md",
+      "url": "https://github.com/tangcaolizhi/DeepSeek/blob/919cae3bd8cf7ce7238ec0987e1076a926e73d2f/dsh-pet-deepseek-girl/assets/SOURCES.md"
+    },
+    {
+      "role": "current-upstream-terms",
+      "title": "QCYTSN · Current and legacy asset sections",
+      "url": "https://github.com/QCYTSN/dsh-dafeiyu/blob/084323845ab82b68d5388d5c638bec09d8544a8a/ASSET_LICENSE.md"
+    },
+    {
+      "role": "credited-upstream",
+      "title": "QCYTSN · ds-local-pet",
+      "url": "https://github.com/QCYTSN/ds-local-pet/blob/d78094b2cf04e1cc3be5d14a31cfedd8ed059579/README.md"
+    }
+  ]
+}

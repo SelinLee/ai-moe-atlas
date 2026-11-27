@@ -4,7 +4,7 @@
     "title": {"zh": "人是猫", "en": "Humans Are Cats", "ja": "人は猫"},
     "original": {"credit": "张卡斯 · 洛天依", "url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/"},
     "image": {"path": "collected/deep-whale-maid/delighted/preview.webp", "kind": "characterReference", "credit": "上善无形 → ZipZipPipe → Small-tailqwq", "source": "https://github.com/Small-tailqwq/dsh-deep-whale/tree/825d02b0e569c370ae15ceed12d9393559b3e4f4/maid-atelier"},
-    "versions": [{"id": "bv1fypn6sek9", "type": "cover"}, {"id": "bv1xxhd6see7", "type": "cover"}, {"id": "bv1tujd63ejp", "type": "mv"}, {"id": "bv1jn4y1z7hu", "type": "mv"}, {"id": "bv11kh76mezy", "type": "cover"}, {"id": "bv1vzw36uesr", "type": "mv"}]
+    "versions": [{"id": "bv1fypn6sek9", "type": "cover"}, {"id": "bv1xxhd6see7", "type": "cover"}, {"id": "bv1tujd63ejp", "type": "mv"}, {"id": "bv1jn4y1z7hu", "type": "mv"}, {"id": "bv11kh76mezy", "type": "cover"}, {"id": "bv1vzw36uesr", "type": "mv"}, {"id": "bv1nzynzcefb", "type": "mv"}]
   },
   {
     "id": "let-me-go",
@@ -1121,5 +1121,11 @@
     "title": {"zh": "Hate me_ Love me_", "en": "Hate me_ Love me_", "ja": "Hate me_ Love me_"},
     "original": {"credit": "425号杀手-D老师共用中", "url": "https://www.bilibili.com/video/BV1mAxg63EzX/"},
     "versions": [{"id": "bv1maxg63ezx", "type": "original-mv"}]
+  },
+  {
+    "id": "deep-thinking-complete",
+    "title": {"zh": "已深度思考", "en": "Deep Thinking Complete", "ja": "深く考えました"},
+    "original": {"credit": "Type3Limit", "url": "https://www.bilibili.com/video/BV1sAnX6CEKP/"},
+    "versions": [{"id": "bv1sanx6cekp", "type": "original-mv"}]
   }
 ]

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV18Dnb6WEk9/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18Dnb6WEk9",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:39:23.411Z",
+  "scope": "The official Bilibili response confirms video identity, publisher, publication date and cumulative likes. Attribution follows the upload description.",
+  "metadata": {
+    "bvid": "BV18Dnb6WEk9",
+    "title": "大肥鱼桌宠会说话了，手机本地TTS引擎，实现宠物语音说话，安卓宠物移植来自于dsh-pet作者的大肥鱼插件，基本复刻所有功能，可以配置自己的deepseek密钥",
+    "owner": {
+      "mid": 592322120,
+      "name": "AI辅助邪修"
+    },
+    "pubdate": 1792740625,
+    "duration": 93
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-named-upstream",
+      "title": "PC2005-cloud · dsh-pet",
+      "url": "https://github.com/PC2005-cloud/dsh-pet/blob/29a5af50f60a63caeeace66a514f47ed3198d0fa/README.md"
+    }
+  ],
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+}

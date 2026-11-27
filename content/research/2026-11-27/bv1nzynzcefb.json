@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1NZynzcEFB/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NZynzcEFB",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:39:21.780Z",
+  "scope": "The official Bilibili response confirms video identity, publisher, publication date and cumulative likes. Attribution follows the upload description.",
+  "metadata": {
+    "bvid": "BV1NZynzcEFB",
+    "title": "[YSM模型][小手书]人是gemini",
+    "owner": {
+      "mid": 3546785165347464,
+      "name": "阴阳兔兔猫offcial"
+    },
+    "pubdate": 1795423791,
+    "duration": 59
+  },
+  "sourceLinks": [
+    {
+      "role": "song-author-release",
+      "title": "张卡斯 · 洛天依",
+      "url": "https://www.bilibili.com/video/BV1Bfjq6LEDi/"
+    }
+  ],
+  "descriptionSha256": "3a5c93c5fbd3c86105f3008b52d6537f71fff91bd7034c25ca592bfc3de5da4a"
+}

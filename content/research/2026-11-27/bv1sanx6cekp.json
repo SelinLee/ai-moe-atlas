@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1sAnX6CEKP/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sAnX6CEKP",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:39:21.804Z",
+  "scope": "The official Bilibili response confirms video identity, publisher, publication date and cumulative likes. Attribution follows the upload description.",
+  "metadata": {
+    "bvid": "BV1sAnX6CEKP",
+    "title": "【AI娘出道企划 EP.01】DeepSeek娘出道曲：已深度思考（用时 3 分 32 秒）——喜欢你，好不好？【原创MV】",
+    "owner": {
+      "mid": 8456116,
+      "name": "Type3Limit"
+    },
+    "pubdate": 1792977786,
+    "duration": 212
+  },
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    }
+  ],
+  "descriptionSha256": "e528e50f317f825c452501322af03508a650125d5ce3c603b03278e77e2fad4e"
+}

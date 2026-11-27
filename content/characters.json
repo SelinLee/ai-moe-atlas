@@ -2505,6 +2505,79 @@
     }
   },
   {
+    "id": "fuh-hunyuan-dual-forms",
+    "entity": "hunyuan",
+    "kind": "collected",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "腾讯混元 · 奇幻与科技版 · 甶丶",
+      "en": "Tencent Hunyuan · Fantasy and Technology · 甶丶",
+      "ja": "腾讯混元 · 幻想と科技 · 甶丶"
+    },
+    "description": {
+      "zh": "甶丶发布的角色设定档包含奇幻与科技两套造型。",
+      "en": "The creator’s design sheet documents fantasy and technology forms.",
+      "ja": "甶丶 の設定資料は幻想側と科技側の二つの姿を紹介。"
+    },
+    "story": {
+      "zh": "固定档核对 13 张原图，包括六张立绘、两张三视图、补充设定、Q 版和头像。本站包内放入两套大形态立绘。",
+      "en": "The fixed archive contains 13 verified originals: six portraits, two turnarounds, supplementary art, chibi images and avatars. The atlas pack includes the two large-form portraits.",
+      "ja": "固定版の原画13枚を照合。立ち絵6枚、三面図2枚、補足設定、ちびキャラ、アイコンを収録。図鑑のパックには大形態の立ち絵2枚を収録。"
+    },
+    "features": {
+      "zh": "以玄冰企鹅与 3D 造物为母题，奇幻侧为司造，科技侧为空间建模师。",
+      "en": "An ice-penguin and 3D creation motif. The fantasy design is a maker, and the technology design a spatial modeler.",
+      "ja": "氷のペンギンと3D創造がモチーフ。幻想側は造物師、科技側は空間モデラー。"
+    },
+    "author": "甶丶",
+    "authorUrl": "https://space.bilibili.com/1758596086",
+    "source": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/hunyuan/%E8%AE%BE%E5%AE%9A.md",
+    "sourceTitle": "fuzhu-ai-chan/ai-chan-designs · hunyuan",
+    "originalPublication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/hunyuan/%E8%AE%BE%E5%AE%9A.md",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/hunyuan/%E8%AE%BE%E5%AE%9A.md"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "CC-BY-NC-SA-4.0",
+    "licenseUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/hunyuan/%E8%AE%BE%E5%AE%9A.md",
+    "downloadable": true,
+    "bg": "#e3eef9",
+    "color": "#345c93",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": "collected/fuh-hunyuan-dual-forms/tech-portrait/preview.webp",
+    "assets": [
+      {
+        "id": "fantasy-portrait",
+        "label": {
+          "zh": "奇幻侧 · 大形态立绘",
+          "en": "Fantasy · Large-form portrait",
+          "ja": "幻想側 · 大形態の立ち絵"
+        }
+      },
+      {
+        "id": "tech-portrait",
+        "label": {
+          "zh": "科技侧 · 大形态立绘",
+          "en": "Technology · Large-form portrait",
+          "ja": "科技側 · 大形態の立ち絵"
+        }
+      }
+    ],
+    "provenanceNote": {
+      "zh": "作者的固定版本保留原始 PNG、水印、文件哈希和逐角色授权。较早的 B 站发表另有来源记录。",
+      "en": "The fixed creator revision preserves the original PNGs, watermark, file hashes and character-specific permission. The earlier Bilibili post has a separate source record.",
+      "ja": "作者の固定版に原寸 PNG、透かし、ファイルハッシュ、キャラクター別許諾を保持。先行の Bilibili 投稿は別の出典記録で掲載。"
+    }
+  },
+  {
     "id": "aliang-hunyuan",
     "entity": "hunyuan",
     "kind": "reference",
@@ -2752,6 +2825,79 @@
     }
   },
   {
+    "id": "fuh-ant-ling-dual-forms",
+    "entity": "ant-ling",
+    "kind": "collected",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "蚂蚁百灵 · 奇幻与科技版 · 甶丶",
+      "en": "Ant Ling · Fantasy and Technology · 甶丶",
+      "ja": "蚂蚁百灵 · 幻想と科技 · 甶丶"
+    },
+    "description": {
+      "zh": "甶丶发布的角色设定档包含奇幻与科技两套造型。",
+      "en": "The creator’s design sheet documents fantasy and technology forms.",
+      "ja": "甶丶 の設定資料は幻想側と科技側の二つの姿を紹介。"
+    },
+    "story": {
+      "zh": "固定档核对 13 张原图，包括六张立绘、两张三视图、补充设定、Q 版和头像。本站包内放入两套大形态立绘。",
+      "en": "The fixed archive contains 13 verified originals: six portraits, two turnarounds, supplementary art, chibi images and avatars. The atlas pack includes the two large-form portraits.",
+      "ja": "固定版の原画13枚を照合。立ち絵6枚、三面図2枚、補足設定、ちびキャラ、アイコンを収録。図鑑のパックには大形態の立ち絵2枚を収録。"
+    },
+    "features": {
+      "zh": "两套造型均有黑色触角、不闭合的圆环和与本体共享意识的影子。",
+      "en": "Both designs have black antennae, an open ring and a shadow that shares the character’s consciousness.",
+      "ja": "両形態に黒い触角、閉じていない輪、意識を共有する影がある。"
+    },
+    "author": "甶丶",
+    "authorUrl": "https://space.bilibili.com/1758596086",
+    "source": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/ling/%E8%AE%BE%E5%AE%9A.md",
+    "sourceTitle": "fuzhu-ai-chan/ai-chan-designs · ling",
+    "originalPublication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/ling/%E8%AE%BE%E5%AE%9A.md",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/ling/%E8%AE%BE%E5%AE%9A.md"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "CC-BY-NC-SA-4.0",
+    "licenseUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/ling/%E8%AE%BE%E5%AE%9A.md",
+    "downloadable": true,
+    "bg": "#e9ecfa",
+    "color": "#343e80",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": "collected/fuh-ant-ling-dual-forms/tech-portrait/preview.webp",
+    "assets": [
+      {
+        "id": "fantasy-portrait",
+        "label": {
+          "zh": "奇幻侧 · 大形态立绘",
+          "en": "Fantasy · Large-form portrait",
+          "ja": "幻想側 · 大形態の立ち絵"
+        }
+      },
+      {
+        "id": "tech-portrait",
+        "label": {
+          "zh": "科技侧 · 大形态立绘",
+          "en": "Technology · Large-form portrait",
+          "ja": "科技側 · 大形態の立ち絵"
+        }
+      }
+    ],
+    "provenanceNote": {
+      "zh": "作者的固定版本保留原始 PNG、水印、文件哈希和逐角色授权。较早的 B 站发表另有来源记录。",
+      "en": "The fixed creator revision preserves the original PNGs, watermark, file hashes and character-specific permission. The earlier Bilibili post has a separate source record.",
+      "ja": "作者の固定版に原寸 PNG、透かし、ファイルハッシュ、キャラクター別許諾を保持。先行の Bilibili 投稿は別の出典記録で掲載。"
+    }
+  },
+  {
     "id": "fuh-unisound-u2",
     "entity": "unisound-u2",
     "kind": "reference",
@@ -2805,6 +2951,79 @@
       "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
       "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
       "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+    }
+  },
+  {
+    "id": "fuh-unisound-dual-forms",
+    "entity": "unisound-u2",
+    "kind": "collected",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "云知声 U2-Flash · 音叉与全息版 · 甶丶",
+      "en": "Unisound U2-Flash · Tuning Fork and Hologram · 甶丶",
+      "ja": "雲知声 U2-Flash · 音叉とホログラム · 甶丶"
+    },
+    "description": {
+      "zh": "甶丶发布的角色设定档包含奇幻与科技两套造型。",
+      "en": "The creator’s design sheet documents fantasy and technology forms.",
+      "ja": "甶丶 の設定資料は幻想側と科技側の二つの姿を紹介。"
+    },
+    "story": {
+      "zh": "固定档核对 13 张原图，包括六张立绘、两张三视图、补充设定、Q 版和头像。本站包内放入两套大形态立绘。",
+      "en": "The fixed archive contains 13 verified originals: six portraits, two turnarounds, supplementary art, chibi images and avatars. The atlas pack includes the two large-form portraits.",
+      "ja": "固定版の原画13枚を照合。立ち絵6枚、三面図2枚、補足設定、ちびキャラ、アイコンを収録。図鑑のパックには大形態の立ち絵2枚を収録。"
+    },
+    "features": {
+      "zh": "奇幻版持 U 形音叉杖。科技版为青绿色全息形态，搭配特雷门琴。",
+      "en": "The fantasy version carries a U-shaped tuning-fork staff. The technology version is a teal hologram with a theremin.",
+      "ja": "幻想側は U 字形の音叉杖を持つ。科技側は青緑のホログラムで、テルミンを使う。"
+    },
+    "author": "甶丶",
+    "authorUrl": "https://space.bilibili.com/1758596086",
+    "source": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/unisound/%E8%AE%BE%E5%AE%9A.md",
+    "sourceTitle": "fuzhu-ai-chan/ai-chan-designs · unisound",
+    "originalPublication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/unisound/%E8%AE%BE%E5%AE%9A.md",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/unisound/%E8%AE%BE%E5%AE%9A.md"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "CC-BY-NC-SA-4.0",
+    "licenseUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/unisound/%E8%AE%BE%E5%AE%9A.md",
+    "downloadable": true,
+    "bg": "#e9f2f6",
+    "color": "#40677b",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": "collected/fuh-unisound-dual-forms/tech-portrait/preview.webp",
+    "assets": [
+      {
+        "id": "fantasy-portrait",
+        "label": {
+          "zh": "奇幻侧 · 大形态立绘",
+          "en": "Fantasy · Large-form portrait",
+          "ja": "幻想側 · 大形態の立ち絵"
+        }
+      },
+      {
+        "id": "tech-portrait",
+        "label": {
+          "zh": "科技侧 · 大形态立绘",
+          "en": "Technology · Large-form portrait",
+          "ja": "科技側 · 大形態の立ち絵"
+        }
+      }
+    ],
+    "provenanceNote": {
+      "zh": "作者的固定版本保留原始 PNG、水印、文件哈希和逐角色授权。较早的 B 站发表另有来源记录。",
+      "en": "The fixed creator revision preserves the original PNGs, watermark, file hashes and character-specific permission. The earlier Bilibili post has a separate source record.",
+      "ja": "作者の固定版に原寸 PNG、透かし、ファイルハッシュ、キャラクター別許諾を保持。先行の Bilibili 投稿は別の出典記録で掲載。"
     }
   },
   {

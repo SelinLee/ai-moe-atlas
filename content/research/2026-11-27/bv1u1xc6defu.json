@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1U1xc6DEFU/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1U1xc6DEFU",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:39:20.174Z",
+  "scope": "The official Bilibili response confirms video identity, publisher, publication date and cumulative likes. Attribution follows the upload description.",
+  "metadata": {
+    "bvid": "BV1U1xc6DEFU",
+    "title": "【GLM狐娘】狐狸娘一夜涨粉4个后飘了？！幼儿园计算题当场翻车，黑历史自首（数据全公开）",
+    "owner": {
+      "mid": 105698442,
+      "name": "GLM狐娘在线查案"
+    },
+    "pubdate": 1793322000,
+    "duration": 176
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "c6f1b190236aa2e431cfcd3bd3c7f2c0b5db5b3ccc115f9784d3f1ddf38242d5"
+}

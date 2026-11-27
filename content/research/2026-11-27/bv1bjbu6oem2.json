@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1bjbU6oEM2/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bjbU6oEM2",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:39:16.082Z",
+  "scope": "The official Bilibili response confirms video identity, publisher, publication date and cumulative likes. Attribution follows the upload description.",
+  "metadata": {
+    "bvid": "BV1bjbU6oEM2",
+    "title": "如果要给大肥鱼一个吃白饭的时间，那么我希望是永远",
+    "owner": {
+      "mid": 1939070878,
+      "name": "繁花星空awa"
+    },
+    "pubdate": 1786824391,
+    "duration": 16
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+}

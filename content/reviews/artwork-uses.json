@@ -3428,6 +3428,129 @@
     }
   },
   {
+    "characterId": "fuh-hunyuan-dual-forms",
+    "reviewedAt": "2026-11-27",
+    "reviewBasis": "Two exact creator originals covered by the pinned setting’s explicit CC BY-NC-SA 4.0 credit. No brand artwork is provided separately.",
+    "artworks": [
+      {
+        "assetId": "fantasy-portrait",
+        "sha256": "1f0564601a27a655c42c49b02fe88eaabee6fb65aebc12e7eb9658c0e3701989"
+      },
+      {
+        "assetId": "tech-portrait",
+        "sha256": "62063f1163f61f95eaebc516a0023f103e61f0e1b025d478b227fcbf23341ae4"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/hunyuan/%E8%AE%BE%E5%AE%9A.md",
+        "localPath": "collected/fuh-hunyuan-dual-forms/evidence/设定.md.txt",
+        "sha256": "0debbb14a7b83903ae4a51839eb7f85c3231a98f79aecc4c7db937f0fd256d85"
+      },
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "localPath": "collected/fuh-hunyuan-dual-forms/evidence/版权与授权.md.txt",
+        "sha256": "50b17ef47d1ffb316624abc5b8972314281dad431631f89b1bcf00ec91d580eb"
+      },
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/LICENSE",
+        "localPath": "collected/fuh-hunyuan-dual-forms/evidence/LICENSE.txt",
+        "sha256": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/hunyuan/%E8%AE%BE%E5%AE%9A.md",
+        "localPath": "collected/fuh-hunyuan-dual-forms/evidence/source-statement-1.json",
+        "sha256": "336a773f4375977e16e6026ba92bbfcc7c42861acbc2a7a50eb3f0e4a23237e8"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "localPath": "collected/fuh-hunyuan-dual-forms/evidence/source-statement-2.json",
+        "sha256": "59c8ea79c6f276068953f4c6222b5023efd84808ebf98ed10dcaefdddbd22b61"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/LICENSE",
+        "localPath": "collected/fuh-hunyuan-dual-forms/evidence/source-statement-3.json",
+        "sha256": "c930841d16145fe04061b219046455ccd47936f21f1d9537a3f3ab427db122e6"
+      }
+    ],
+    "evidenceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/hunyuan/%E8%AE%BE%E5%AE%9A.md",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/hunyuan/%E8%AE%BE%E5%AE%9A.md"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "reviewedAt": "2026-11-27",
+        "conditions": {
+          "zh": "本包中的三张已校验原图按作者的 CC BY-NC-SA 4.0 提供。限非商业使用，保留作者署名「甶丶（pixiv 72492206）」、固定版出处和许可链接。改动须注明并以相同许可发布。图鉴仅缩放、留边和转换格式。各产品名称与商标沿用权利方条件。",
+          "en": "The three verified originals in this pack are provided under the creator’s CC BY-NC-SA 4.0 terms. Noncommercial use only. Keep the credit 甶丶 (pixiv 72492206), pinned source and license links. Identify changes and distribute adaptations under the same license. Atlas only resizes, pads and converts formats. Product names and trademarks remain subject to their owners’ terms.",
+          "ja": "素材集の確認済み原画3点は作者の CC BY-NC-SA 4.0 条件で提供。非商用に限り、甶丶（pixiv 72492206）・固定版出典・ライセンスへのリンクを保持。変更を示し、改変は同一ライセンスで共有してください。図鑑の加工はリサイズ・余白追加・形式変換のみ。製品名・商標は権利者の条件に従います。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      }
+    }
+  },
+  {
     "characterId": "aliang-hunyuan",
     "reviewedAt": "2026-11-22",
     "reviewBasis": "The title printed on page 17 confirms Hunyuan Girl. The SHA-256 matches the prior source file. The creator’s CC BY-NC-SA 4.0 statement covers their own design. The sheet includes Tencent brand elements.",
@@ -3767,6 +3890,129 @@
     }
   },
   {
+    "characterId": "fuh-ant-ling-dual-forms",
+    "reviewedAt": "2026-11-27",
+    "reviewBasis": "Two exact creator originals covered by the pinned setting’s explicit CC BY-NC-SA 4.0 credit. No brand artwork is provided separately.",
+    "artworks": [
+      {
+        "assetId": "fantasy-portrait",
+        "sha256": "99982a922e782120330afb0b55e3ccc74304c8e4fbb2047f57adf9dda891b04b"
+      },
+      {
+        "assetId": "tech-portrait",
+        "sha256": "0cd2972887f8446a0228108ea56b1477eb1a571e96103b2c2c944df135d83ef6"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/ling/%E8%AE%BE%E5%AE%9A.md",
+        "localPath": "collected/fuh-ant-ling-dual-forms/evidence/设定.md.txt",
+        "sha256": "005ced1bcb2defccebad0bfa266b8a2d11d919192ec299386ce04662e54400f4"
+      },
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "localPath": "collected/fuh-ant-ling-dual-forms/evidence/版权与授权.md.txt",
+        "sha256": "50b17ef47d1ffb316624abc5b8972314281dad431631f89b1bcf00ec91d580eb"
+      },
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/LICENSE",
+        "localPath": "collected/fuh-ant-ling-dual-forms/evidence/LICENSE.txt",
+        "sha256": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/ling/%E8%AE%BE%E5%AE%9A.md",
+        "localPath": "collected/fuh-ant-ling-dual-forms/evidence/source-statement-1.json",
+        "sha256": "f0e684da59f00c7f605ef6bf9996112fc7a267834f85e2fd6439f823e56a8b8c"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "localPath": "collected/fuh-ant-ling-dual-forms/evidence/source-statement-2.json",
+        "sha256": "59c8ea79c6f276068953f4c6222b5023efd84808ebf98ed10dcaefdddbd22b61"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/LICENSE",
+        "localPath": "collected/fuh-ant-ling-dual-forms/evidence/source-statement-3.json",
+        "sha256": "c930841d16145fe04061b219046455ccd47936f21f1d9537a3f3ab427db122e6"
+      }
+    ],
+    "evidenceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/ling/%E8%AE%BE%E5%AE%9A.md",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/ling/%E8%AE%BE%E5%AE%9A.md"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "reviewedAt": "2026-11-27",
+        "conditions": {
+          "zh": "本包中的三张已校验原图按作者的 CC BY-NC-SA 4.0 提供。限非商业使用，保留作者署名「甶丶（pixiv 72492206）」、固定版出处和许可链接。改动须注明并以相同许可发布。图鉴仅缩放、留边和转换格式。各产品名称与商标沿用权利方条件。",
+          "en": "The three verified originals in this pack are provided under the creator’s CC BY-NC-SA 4.0 terms. Noncommercial use only. Keep the credit 甶丶 (pixiv 72492206), pinned source and license links. Identify changes and distribute adaptations under the same license. Atlas only resizes, pads and converts formats. Product names and trademarks remain subject to their owners’ terms.",
+          "ja": "素材集の確認済み原画3点は作者の CC BY-NC-SA 4.0 条件で提供。非商用に限り、甶丶（pixiv 72492206）・固定版出典・ライセンスへのリンクを保持。変更を示し、改変は同一ライセンスで共有してください。図鑑の加工はリサイズ・余白追加・形式変換のみ。製品名・商標は権利者の条件に従います。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      }
+    }
+  },
+  {
     "characterId": "fuh-unisound-u2",
     "reviewedAt": "2026-11-23",
     "reviewBasis": "Creator publication and exact source files verified. The atlas retains its source-only presentation.",
@@ -3788,6 +4034,129 @@
           "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
           "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
           "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
+          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
+          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "fuh-unisound-dual-forms",
+    "reviewedAt": "2026-11-27",
+    "reviewBasis": "Two exact creator originals covered by the pinned setting’s explicit CC BY-NC-SA 4.0 credit. No brand artwork is provided separately.",
+    "artworks": [
+      {
+        "assetId": "fantasy-portrait",
+        "sha256": "a2832c6fa089eda3d0210513f47565289ed91f92ab1cbfd383beb7d185e52133"
+      },
+      {
+        "assetId": "tech-portrait",
+        "sha256": "14cd26a3e14514bb0a3a11a8698ac0dce986ad370bf15d347a880e3a2a7fdedf"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/unisound/%E8%AE%BE%E5%AE%9A.md",
+        "localPath": "collected/fuh-unisound-dual-forms/evidence/设定.md.txt",
+        "sha256": "2da7be2e481b49e5cf25a0faac678b37f1e2a5c94ff40c88551bec9dfb01b20f"
+      },
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "localPath": "collected/fuh-unisound-dual-forms/evidence/版权与授权.md.txt",
+        "sha256": "50b17ef47d1ffb316624abc5b8972314281dad431631f89b1bcf00ec91d580eb"
+      },
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/LICENSE",
+        "localPath": "collected/fuh-unisound-dual-forms/evidence/LICENSE.txt",
+        "sha256": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/unisound/%E8%AE%BE%E5%AE%9A.md",
+        "localPath": "collected/fuh-unisound-dual-forms/evidence/source-statement-1.json",
+        "sha256": "a88578d402719fd37bbe5cd1c4fe05fc95c9b75dfd86024596bebd071103e047"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "localPath": "collected/fuh-unisound-dual-forms/evidence/source-statement-2.json",
+        "sha256": "59c8ea79c6f276068953f4c6222b5023efd84808ebf98ed10dcaefdddbd22b61"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/LICENSE",
+        "localPath": "collected/fuh-unisound-dual-forms/evidence/source-statement-3.json",
+        "sha256": "c930841d16145fe04061b219046455ccd47936f21f1d9537a3f3ab427db122e6"
+      }
+    ],
+    "evidenceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/unisound/%E8%AE%BE%E5%AE%9A.md",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/unisound/%E8%AE%BE%E5%AE%9A.md"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "allowed",
+        "reviewedAt": "2026-11-27",
+        "conditions": {
+          "zh": "本包中的三张已校验原图按作者的 CC BY-NC-SA 4.0 提供。限非商业使用，保留作者署名「甶丶（pixiv 72492206）」、固定版出处和许可链接。改动须注明并以相同许可发布。图鉴仅缩放、留边和转换格式。各产品名称与商标沿用权利方条件。",
+          "en": "The three verified originals in this pack are provided under the creator’s CC BY-NC-SA 4.0 terms. Noncommercial use only. Keep the credit 甶丶 (pixiv 72492206), pinned source and license links. Identify changes and distribute adaptations under the same license. Atlas only resizes, pads and converts formats. Product names and trademarks remain subject to their owners’ terms.",
+          "ja": "素材集の確認済み原画3点は作者の CC BY-NC-SA 4.0 条件で提供。非商用に限り、甶丶（pixiv 72492206）・固定版出典・ライセンスへのリンクを保持。変更を示し、改変は同一ライセンスで共有してください。図鑑の加工はリサイズ・余白追加・形式変換のみ。製品名・商標は権利者の条件に従います。"
         }
       },
       "social-cover": {

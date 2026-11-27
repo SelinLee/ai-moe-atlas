@@ -1,0 +1,66 @@
+{
+  "full_name": "C2006L/dafeiyu",
+  "html_url": "https://github.com/C2006L/dafeiyu",
+  "stargazers_count": 7,
+  "archived": false,
+  "created_at": "2026-09-28T18:34:39Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "7ca2bb30f977e01c52198e27cff1e9264c92c755",
+  "observedAt": "2026-11-27T11:38:11.225Z",
+  "httpStatus": 200,
+  "metadataSha256": "daa56a4a3821da3d4d4ce22697b61ee9e2b036e811bd98ab4d24fdc55bf0ce01",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/C2006L/dafeiyu/blob/7ca2bb30f977e01c52198e27cff1e9264c92c755/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/C2006L/dafeiyu/7ca2bb30f977e01c52198e27cff1e9264c92c755/README.md",
+      "sourceSha256": "bc2794d03d96d2e07aa8a3fa556374b57705f075a432b3cf49f9b3bbb8229b6c",
+      "gitBlobSha": "665ca435b01a131d950e877fa74432be05778c55",
+      "bytes": 17835,
+      "commit": "7ca2bb30f977e01c52198e27cff1e9264c92c755",
+      "accessedAt": "2026-11-27T11:42:36.864Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/C2006L/dafeiyu/blob/7ca2bb30f977e01c52198e27cff1e9264c92c755/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/C2006L/dafeiyu/7ca2bb30f977e01c52198e27cff1e9264c92c755/LICENSE",
+      "sourceSha256": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+      "gitBlobSha": "14fac913ccf80234b1848540089a3bbcb6e5283d",
+      "bytes": 1056,
+      "commit": "7ca2bb30f977e01c52198e27cff1e9264c92c755",
+      "accessedAt": "2026-11-27T11:42:37.084Z"
+    },
+    {
+      "path": "dsh-pet-ref/LICENSE",
+      "url": "https://github.com/C2006L/dafeiyu/blob/7ca2bb30f977e01c52198e27cff1e9264c92c755/dsh-pet-ref/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/C2006L/dafeiyu/7ca2bb30f977e01c52198e27cff1e9264c92c755/dsh-pet-ref/LICENSE",
+      "sourceSha256": "22757dc9c895b2729a2fc684d227cadfb54d5af3dd300029926839e8c4e269ce",
+      "gitBlobSha": "7d87632065ae9bbebe4fb7a275f38f3cd1c30c41",
+      "bytes": 1069,
+      "commit": "7ca2bb30f977e01c52198e27cff1e9264c92c755",
+      "accessedAt": "2026-11-27T11:42:37.301Z"
+    }
+  ],
+  "url": "https://github.com/C2006L/dafeiyu/blob/7ca2bb30f977e01c52198e27cff1e9264c92c755/README.md",
+  "accessedAt": "2026-11-27T11:42:37.301Z",
+  "scope": "Pinned documentation and available license or asset notices were verified against Git blobs and SHA-256. The feature and asset statements describe the publishers’ documents.",
+  "relatedSources": [
+    {
+      "role": "code-license",
+      "title": "C2006L · LICENSE",
+      "url": "https://github.com/C2006L/dafeiyu/blob/7ca2bb30f977e01c52198e27cff1e9264c92c755/LICENSE"
+    },
+    {
+      "role": "upstream-code-license",
+      "title": "C2006L · LICENSE",
+      "url": "https://github.com/C2006L/dafeiyu/blob/7ca2bb30f977e01c52198e27cff1e9264c92c755/dsh-pet-ref/LICENSE"
+    },
+    {
+      "role": "credited-upstream",
+      "title": "PC2005-cloud · dsh-pet",
+      "url": "https://github.com/PC2005-cloud/dsh-pet/blob/29a5af50f60a63caeeace66a514f47ed3198d0fa/README.md"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "full_name": "minedalang/dafeiyu",
+  "html_url": "https://github.com/minedalang/dafeiyu",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-10-20T04:53:24Z",
+  "default_branch": "master",
+  "fork": false,
+  "commit": "fb440b6ef48997873eec91fe8110a1a66065a375",
+  "observedAt": "2026-11-27T11:38:11.249Z",
+  "httpStatus": 200,
+  "metadataSha256": "7ee596ab5a4750cdd4aa96db85d9260041ed0f4a5da144690d106f135d73a444",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/minedalang/dafeiyu/blob/fb440b6ef48997873eec91fe8110a1a66065a375/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/minedalang/dafeiyu/fb440b6ef48997873eec91fe8110a1a66065a375/README.md",
+      "sourceSha256": "cf4b2523133d7b5da74b74d6b8829d18fbc02606162c363b3d3a1c79222b2a09",
+      "gitBlobSha": "e0f7964156f87633f5c0e02059d60a566becb9a1",
+      "bytes": 14301,
+      "commit": "fb440b6ef48997873eec91fe8110a1a66065a375",
+      "accessedAt": "2026-11-27T11:42:35.281Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/minedalang/dafeiyu/blob/fb440b6ef48997873eec91fe8110a1a66065a375/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/minedalang/dafeiyu/fb440b6ef48997873eec91fe8110a1a66065a375/LICENSE",
+      "sourceSha256": "044c8113b0e735ea1eb7b030d5d375697fb86fa04df408c12cef74dbe2317fa4",
+      "gitBlobSha": "93a9c1bdb5a355346717d784517ecb3697237599",
+      "bytes": 1064,
+      "commit": "fb440b6ef48997873eec91fe8110a1a66065a375",
+      "accessedAt": "2026-11-27T11:42:35.496Z"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "url": "https://github.com/minedalang/dafeiyu/blob/fb440b6ef48997873eec91fe8110a1a66065a375/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/minedalang/dafeiyu/fb440b6ef48997873eec91fe8110a1a66065a375/THIRD_PARTY_NOTICES.md",
+      "sourceSha256": "4e9d14d78fdae087c4d547c6cd91f3effdd5e70d66606c46082fe1b4a7d7c65f",
+      "gitBlobSha": "bd4501175c404b05113ae2c75c381003c62b10b4",
+      "bytes": 19713,
+      "commit": "fb440b6ef48997873eec91fe8110a1a66065a375",
+      "accessedAt": "2026-11-27T11:42:35.733Z"
+    }
+  ],
+  "url": "https://github.com/minedalang/dafeiyu/blob/fb440b6ef48997873eec91fe8110a1a66065a375/README.md",
+  "accessedAt": "2026-11-27T11:42:35.733Z",
+  "scope": "Pinned documentation and available license or asset notices were verified against Git blobs and SHA-256. The feature and asset statements describe the publishers’ documents.",
+  "relatedSources": [
+    {
+      "role": "artwork-terms",
+      "title": "minedalang · THIRD_PARTY_NOTICES.md",
+      "url": "https://github.com/minedalang/dafeiyu/blob/fb440b6ef48997873eec91fe8110a1a66065a375/THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "role": "credited-upstream",
+      "title": "MerZlin · dsh-pet-indesktop",
+      "url": "https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md"
+    },
+    {
+      "role": "credited-upstream",
+      "title": "PC2005-cloud · dsh-pet",
+      "url": "https://github.com/PC2005-cloud/dsh-pet/blob/29a5af50f60a63caeeace66a514f47ed3198d0fa/README.md"
+    }
+  ]
+}

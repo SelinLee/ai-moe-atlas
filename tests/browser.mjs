@@ -146,8 +146,9 @@ try {
   assert.equal(await page.locator('main a[download][href$="/original.png"]').count(),3);
   await page.goto(`${origin}/${lang}/?model=hunyuan`,{waitUntil:'domcontentloaded'});
   const hunyuanCards=page.locator('[data-card]:visible');
-  assert.equal(await hunyuanCards.count(),3);
+  assert.equal(await hunyuanCards.count(),4);
   assert.ok(await hunyuanCards.locator('a[href$="/characters/fuh-hunyuan/"]').first().isVisible());
+  assert.ok(await hunyuanCards.locator('a[href$="/characters/fuh-hunyuan-dual-forms/"]').first().isVisible());
   await hunyuanCards.locator('a[href$="/characters/aliang-hunyuan/"]').first().click();
   assert.ok(await page.locator('main a[href="https://creativecommons.org/licenses/by-nc-sa/4.0/"]').isVisible());
   assert.ok(await page.locator('main a[href="https://www.bilibili.com/opus/1270053526331981826"]').first().isVisible());

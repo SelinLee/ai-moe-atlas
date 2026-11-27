@@ -1,0 +1,27 @@
+{
+  "previousEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-signboard-and-music.json",
+    "sha256": "4036d75badd5df9bdcf0c2fda427ffef2bd2e1029d5c20f2c3a680ec5dcf12f5",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-rechecks.json",
+    "sha256": "905539f5a90f7c9c60dfcbd64248af74e81bc4d12cc2fa53cc552080e38c395d",
+    "kind": "browser-metadata-extract"
+  },
+  "attempted": {
+    "discovered": 12,
+    "previousPending": 13,
+    "previousFailures": 10,
+    "rankedHead": 10
+  },
+  "added": 10,
+  "refreshed": 10,
+  "pending": 14,
+  "unresolvedFailures": 10,
+  "otherLead": {
+    "bvid": "BV1Wh4P6QEV8",
+    "code": -404,
+    "scope": "The indexed title names an anime recreation. AI character involvement remains unconfirmed."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1aSsG69ErS/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1aSsG69ErS",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:39:18.553Z",
+  "scope": "The official Bilibili response confirms video identity, publisher, publication date and cumulative likes. Attribution follows the upload description.",
+  "metadata": {
+    "bvid": "BV1aSsG69ErS",
+    "title": "MOSS I 根据大肥鱼置顶总结，置信度95%所以我没错",
+    "owner": {
+      "mid": 500973006,
+      "name": "亿梦-line"
+    },
+    "pubdate": 1794641865,
+    "duration": 35
+  },
+  "sourceLinks": [
+    {
+      "role": "same-uploader-related-work",
+      "title": "亿梦-line · MOSS｜尊师大肥鱼",
+      "url": "https://www.bilibili.com/video/BV1eAHA6WEVn/"
+    }
+  ],
+  "descriptionSha256": "d20945c9f8ae45cc1b58e1af6da69d0bd0251e8cc20df5db89c64a44f374938b"
+}

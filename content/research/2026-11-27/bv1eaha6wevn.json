@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1eAHA6WEVn/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eAHA6WEVn",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:39:18.559Z",
+  "scope": "The official Bilibili response confirms video identity, publisher, publication date and cumulative likes. Attribution follows the upload description.",
+  "metadata": {
+    "bvid": "BV1eAHA6WEVn",
+    "title": "MOSS｜尊师大肥鱼",
+    "owner": {
+      "mid": 500973006,
+      "name": "亿梦-line"
+    },
+    "pubdate": 1792807148,
+    "duration": 44
+  },
+  "sourceLinks": [
+    {
+      "role": "same-uploader-related-work",
+      "title": "亿梦-line · MOSS I",
+      "url": "https://www.bilibili.com/video/BV1aSsG69ErS/"
+    }
+  ],
+  "descriptionSha256": "319aec7faf99035b7467917560df45fe79e3bae30bf91b6117b83587b6fa4aae"
+}

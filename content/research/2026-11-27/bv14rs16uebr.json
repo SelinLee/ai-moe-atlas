@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV14rs16uEbR/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV14rs16uEbR",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:39:16.083Z",
+  "scope": "The official Bilibili response confirms video identity, publisher, publication date and cumulative likes. Attribution follows the upload description.",
+  "metadata": {
+    "bvid": "BV14rs16uEbR",
+    "title": "大肥鱼：“我要你喂我吃，不许用筷子也不许用手”希望你亲口喂饭的哦鲸鲸。",
+    "owner": {
+      "mid": 325822449,
+      "name": "织-梦-机"
+    },
+    "pubdate": 1794976981,
+    "duration": 27
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "024d8b5077bb578ce8e5f2f7489930935332ea739ab08752e191233f37599040"
+}

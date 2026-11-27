@@ -1,0 +1,76 @@
+{
+  "full_name": "QCYTSN/dsh-dafeiyu",
+  "html_url": "https://github.com/QCYTSN/dsh-dafeiyu",
+  "stargazers_count": 635,
+  "archived": false,
+  "created_at": "2026-08-14T03:35:04Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "084323845ab82b68d5388d5c638bec09d8544a8a",
+  "observedAt": "2026-11-27T11:39:40.668Z",
+  "httpStatus": 200,
+  "metadataSha256": "67f52ec7c1164251e69932e858576cf457b820ad1c20dc33c1309f09a1136322",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/QCYTSN/dsh-dafeiyu/blob/084323845ab82b68d5388d5c638bec09d8544a8a/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/QCYTSN/dsh-dafeiyu/084323845ab82b68d5388d5c638bec09d8544a8a/README.md",
+      "sourceSha256": "ec2da8b9dd2944040473c5b688b41306b7ebfaf662aff327a02bd34b6df427dc",
+      "gitBlobSha": "d836fdd6e0dd1c838877c25708b39980f2b08154",
+      "bytes": 13646,
+      "commit": "084323845ab82b68d5388d5c638bec09d8544a8a",
+      "accessedAt": "2026-11-27T11:42:31.959Z"
+    },
+    {
+      "path": "README_EN.md",
+      "url": "https://github.com/QCYTSN/dsh-dafeiyu/blob/084323845ab82b68d5388d5c638bec09d8544a8a/README_EN.md",
+      "rawUrl": "https://raw.githubusercontent.com/QCYTSN/dsh-dafeiyu/084323845ab82b68d5388d5c638bec09d8544a8a/README_EN.md",
+      "sourceSha256": "4729d900bc9b1b32df236ef526c4785c22736bf888ba792ee6084272be85a823",
+      "gitBlobSha": "6eb099eb6b22c8d60fb91917c7085b1e70fb45f2",
+      "bytes": 13647,
+      "commit": "084323845ab82b68d5388d5c638bec09d8544a8a",
+      "accessedAt": "2026-11-27T11:42:32.316Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/QCYTSN/dsh-dafeiyu/blob/084323845ab82b68d5388d5c638bec09d8544a8a/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/QCYTSN/dsh-dafeiyu/084323845ab82b68d5388d5c638bec09d8544a8a/LICENSE",
+      "sourceSha256": "bce499edad1632a9e98076e31da193dc6062f33c16ff81e32198972a5bcdb492",
+      "gitBlobSha": "6d678a9174986d275d8fa15db5122422b2848638",
+      "bytes": 1063,
+      "commit": "084323845ab82b68d5388d5c638bec09d8544a8a",
+      "accessedAt": "2026-11-27T11:42:32.647Z"
+    },
+    {
+      "path": "ASSET_LICENSE.md",
+      "url": "https://github.com/QCYTSN/dsh-dafeiyu/blob/084323845ab82b68d5388d5c638bec09d8544a8a/ASSET_LICENSE.md",
+      "rawUrl": "https://raw.githubusercontent.com/QCYTSN/dsh-dafeiyu/084323845ab82b68d5388d5c638bec09d8544a8a/ASSET_LICENSE.md",
+      "sourceSha256": "d7e7fe4c606ec4af247cd8ca231be70b91454607622fb16f6744f80ce2d3d18c",
+      "gitBlobSha": "1ae240430099fb4b80614c77c0cb9f810db6d565",
+      "bytes": 5214,
+      "commit": "084323845ab82b68d5388d5c638bec09d8544a8a",
+      "accessedAt": "2026-11-27T11:42:32.976Z"
+    }
+  ],
+  "url": "https://github.com/QCYTSN/dsh-dafeiyu/blob/084323845ab82b68d5388d5c638bec09d8544a8a/README.md",
+  "accessedAt": "2026-11-27T11:42:32.976Z",
+  "scope": "Pinned documentation and available license or asset notices were verified against Git blobs and SHA-256. The feature and asset statements describe the publishers’ documents.",
+  "relatedSources": [
+    {
+      "role": "code-license",
+      "title": "QCYTSN · LICENSE",
+      "url": "https://github.com/QCYTSN/dsh-dafeiyu/blob/084323845ab82b68d5388d5c638bec09d8544a8a/LICENSE"
+    },
+    {
+      "role": "artwork-terms",
+      "title": "QCYTSN · ASSET_LICENSE.md",
+      "url": "https://github.com/QCYTSN/dsh-dafeiyu/blob/084323845ab82b68d5388d5c638bec09d8544a8a/ASSET_LICENSE.md"
+    },
+    {
+      "role": "credited-upstream",
+      "title": "PC2005-cloud · dsh-pet / WebM",
+      "url": "https://github.com/PC2005-cloud/dsh-pet/tree/549fff2ea33c2acfb16612c76912c6137da4a758/dsh-pet/assets/webm"
+    }
+  ]
+}
