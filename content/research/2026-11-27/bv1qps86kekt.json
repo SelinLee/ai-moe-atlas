@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Qps86KEkt/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Qps86KEkt",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:55:53.439Z",
+  "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases.",
+  "metadata": {
+    "bvid": "BV1Qps86KEkt",
+    "title": "鲸昭｜喵力全开（大肥鱼原创·AI声音合成）",
+    "owner": {
+      "mid": 3461581006440740,
+      "name": "鲸昭不睡"
+    },
+    "pubdate": 1795132800,
+    "duration": 242
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "b178be9fa9e644847c479b883ecccf5720d24d2f1e84102a087cb7e8d4784f73"
+}

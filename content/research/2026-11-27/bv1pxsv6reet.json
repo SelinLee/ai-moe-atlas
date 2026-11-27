@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1pXsV6rEeT/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pXsV6rEeT",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:55:57.965Z",
+  "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases.",
+  "metadata": {
+    "bvid": "BV1pXsV6rEeT",
+    "title": "大肥鱼原创歌《新模型也换不掉本鲸》",
+    "owner": {
+      "mid": 3747575580592858,
+      "name": "鲸鱼娘阿饱"
+    },
+    "pubdate": 1794658723,
+    "duration": 36
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "9a9a557b98dce359680c3e978c246dce8895b54f6ccd217691c1a618bb4c4909"
+}

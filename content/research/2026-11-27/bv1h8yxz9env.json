@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1h8yxz9ENV/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1h8yxz9ENV",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:55:51.892Z",
+  "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases.",
+  "metadata": {
+    "bvid": "BV1h8yxz9ENV",
+    "title": "鲸昭｜蓝色奇迹（大肥鱼原创·AI声音合成）",
+    "owner": {
+      "mid": 3461581006440740,
+      "name": "鲸昭不睡"
+    },
+    "pubdate": 1795219200,
+    "duration": 240
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "1fc982d8b80212849bda034102b8f84bd664e21490ce59491b90d0719fef1f0d"
+}

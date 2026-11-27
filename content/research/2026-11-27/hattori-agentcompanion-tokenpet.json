@@ -1,0 +1,81 @@
+{
+  "full_name": "k-hattori-itcs/agent-companion",
+  "html_url": "https://github.com/k-hattori-itcs/agent-companion",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-07-28T08:00:54Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "89e2448e4f0056aed51f4eb508e26848dd264e5d",
+  "observedAt": "2026-11-27T11:53:06.900Z",
+  "httpStatus": 200,
+  "metadataSha256": "aaa3230e9cb58cf236156b2468738456a2a4c8573e6b09aed11089c44df03a1c",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/k-hattori-itcs/agent-companion/blob/89e2448e4f0056aed51f4eb508e26848dd264e5d/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/k-hattori-itcs/agent-companion/89e2448e4f0056aed51f4eb508e26848dd264e5d/README.md",
+      "sourceSha256": "31ee5a73d90a3bfc55fe4b7d09a63aba85a53da61e27424a6ce5c7cb47dc8245",
+      "gitBlobSha": "56726d716cd16fdcc7d954c49fde1b8bcde9b5b3",
+      "bytes": 17731,
+      "commit": "89e2448e4f0056aed51f4eb508e26848dd264e5d",
+      "accessedAt": "2026-11-27T11:57:36.057Z"
+    },
+    {
+      "path": "README_EN.md",
+      "url": "https://github.com/k-hattori-itcs/agent-companion/blob/89e2448e4f0056aed51f4eb508e26848dd264e5d/README_EN.md",
+      "rawUrl": "https://raw.githubusercontent.com/k-hattori-itcs/agent-companion/89e2448e4f0056aed51f4eb508e26848dd264e5d/README_EN.md",
+      "sourceSha256": "f29697b3d462eafa27d4bde85f53a21d3dd3c1ec4222820aa4bdfcd00d1c27cc",
+      "gitBlobSha": "887f88f891b77a19bb4c2321799cf07b8f9cf33d",
+      "bytes": 7382,
+      "commit": "89e2448e4f0056aed51f4eb508e26848dd264e5d",
+      "accessedAt": "2026-11-27T11:57:36.276Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/k-hattori-itcs/agent-companion/blob/89e2448e4f0056aed51f4eb508e26848dd264e5d/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/k-hattori-itcs/agent-companion/89e2448e4f0056aed51f4eb508e26848dd264e5d/LICENSE",
+      "sourceSha256": "11a9af1bfaadbf5582e875feb9b72730bc2b6a526929b4496d4100380ed1b17f",
+      "gitBlobSha": "239f5b8eb18c295786d0e15965059c20cdf574aa",
+      "bytes": 1071,
+      "commit": "89e2448e4f0056aed51f4eb508e26848dd264e5d",
+      "accessedAt": "2026-11-27T11:57:36.491Z"
+    },
+    {
+      "path": "NOTICE",
+      "url": "https://github.com/k-hattori-itcs/agent-companion/blob/89e2448e4f0056aed51f4eb508e26848dd264e5d/NOTICE",
+      "rawUrl": "https://raw.githubusercontent.com/k-hattori-itcs/agent-companion/89e2448e4f0056aed51f4eb508e26848dd264e5d/NOTICE",
+      "sourceSha256": "d9da4992c433dab43e71df95ed60bfc4880bac263ca2a3e15a6c996d8a5858c6",
+      "gitBlobSha": "e5d362e60e8f1676f16a991af521380e451f3c8c",
+      "bytes": 822,
+      "commit": "89e2448e4f0056aed51f4eb508e26848dd264e5d",
+      "accessedAt": "2026-11-27T11:57:36.708Z"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "url": "https://github.com/k-hattori-itcs/agent-companion/blob/89e2448e4f0056aed51f4eb508e26848dd264e5d/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/k-hattori-itcs/agent-companion/89e2448e4f0056aed51f4eb508e26848dd264e5d/THIRD_PARTY_NOTICES.md",
+      "sourceSha256": "c5a1ba50589802102a357f974aa59777126d554d0aa8209e66c56023fdede6c5",
+      "gitBlobSha": "d1aabd26569cf958ca050ea6372c9a4e54e54c91",
+      "bytes": 1134,
+      "commit": "89e2448e4f0056aed51f4eb508e26848dd264e5d",
+      "accessedAt": "2026-11-27T11:57:36.963Z"
+    }
+  ],
+  "url": "https://github.com/k-hattori-itcs/agent-companion/blob/89e2448e4f0056aed51f4eb508e26848dd264e5d/README.md",
+  "accessedAt": "2026-11-27T11:57:36.963Z",
+  "scope": "Pinned publisher documentation and available code and artwork terms were verified by Git blob and SHA-256. No third-party software was run.",
+  "linkedNotices": [
+    {
+      "role": "artwork-terms",
+      "title": "k-hattori-itcs · THIRD_PARTY_NOTICES.md",
+      "url": "https://github.com/k-hattori-itcs/agent-companion/blob/89e2448e4f0056aed51f4eb508e26848dd264e5d/THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "role": "upstream-code-notice",
+      "title": "k-hattori-itcs · NOTICE",
+      "url": "https://github.com/k-hattori-itcs/agent-companion/blob/89e2448e4f0056aed51f4eb508e26848dd264e5d/NOTICE"
+    }
+  ]
+}

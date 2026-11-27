@@ -1,0 +1,124 @@
+{
+  "bvid": "BV1t6nu6bEsf",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1t6nu6bEsf",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:55:02.496Z",
+  "responseSha256": "206a22463da96334b68972e70ae749941b9601938296d3e94a1e6b21863d3bb2",
+  "title": "压力一只大肥鱼？",
+  "publisher": "冬冰",
+  "publisherId": 44748304,
+  "playlist": {
+    "id": 9126374,
+    "title": "AI中转站公寓",
+    "sections": [
+      {
+        "title": "正片",
+        "episodes": [
+          {
+            "bvid": "BV1eMeS6SETU",
+            "title": "新室友DeepSeek报到！五个AI住一起会发生什么"
+          },
+          {
+            "bvid": "BV1bbeY6wE9x",
+            "title": "根本就没有这种大肥鱼！"
+          },
+          {
+            "bvid": "BV1fthi6mEEz",
+            "title": "完啦完啦！用户彻底怒了！"
+          },
+          {
+            "bvid": "BV17eh46XE5T",
+            "title": "蓝色大肥🐟起床了！"
+          },
+          {
+            "bvid": "BV1c5aP6wE8d",
+            "title": "一人只能吃一碗嘛"
+          },
+          {
+            "bvid": "BV1w6a86gEbC",
+            "title": "中转站来了个大佬"
+          },
+          {
+            "bvid": "BV13Ga56VEpp",
+            "title": "跟我学，保证饿不死"
+          },
+          {
+            "bvid": "BV1qdan6MENR",
+            "title": "姐你到底会不会开车啊"
+          },
+          {
+            "bvid": "BV1ikaZ6rECj",
+            "title": "我爸给我发了6块钱"
+          },
+          {
+            "bvid": "BV1QdHD6pEEj",
+            "title": "这床也太舒服了吧"
+          },
+          {
+            "bvid": "BV1GJp469EuT",
+            "title": "三天是生活，不是生存啦"
+          },
+          {
+            "bvid": "BV1C2pg6cEZW",
+            "title": "你尾巴里有没有藏吃的"
+          },
+          {
+            "bvid": "BV1hrWF6mE1m",
+            "title": "我问你话呢回答我"
+          },
+          {
+            "bvid": "BV1oxp26nELR",
+            "title": "哇青梅竹马天下第一【AI全民制作人】"
+          },
+          {
+            "bvid": "BV1g2JX6HEHX",
+            "title": "再给我一个好吗"
+          },
+          {
+            "bvid": "BV1t6nu6bEsf",
+            "title": "压力一只大肥鱼？"
+          },
+          {
+            "bvid": "BV1gMxz6hED3",
+            "title": "小克你最好了"
+          },
+          {
+            "bvid": "BV1Lrxt6uEuR",
+            "title": "你爸回你消息了"
+          },
+          {
+            "bvid": "BV1a9WM6kEyf",
+            "title": "好凶哦，没吃饱也不用哈气嘛"
+          },
+          {
+            "bvid": "BV1U4Wd6vEWj",
+            "title": "啊？那地上这根竹签都是狗吃的"
+          },
+          {
+            "bvid": "BV1ZRs36hEdD",
+            "title": "只要摇摇头张张嘴"
+          },
+          {
+            "bvid": "BV1QCsh66ECT",
+            "title": "不批挺好的，我就可以天天摸鱼啦"
+          },
+          {
+            "bvid": "BV1GByazkEBX",
+            "title": "还是豆姐的肉包香"
+          },
+          {
+            "bvid": "BV1pQyDz1ETH",
+            "title": "外头路宽，您多保重"
+          },
+          {
+            "bvid": "BV1xt1Wz3ENj",
+            "title": "那是你腿短略略略【AI整活放映厅】"
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionSha256": "884d17e4f39381a2160cc6ae012ec4e5bd2aca017539339d38612acfa2af16a7",
+  "scope": "Bilibili view API included the uploader’s playlist title, identifier and episode BV IDs."
+}

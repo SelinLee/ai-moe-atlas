@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1fFaN68E1D/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fFaN68E1D",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:55:59.503Z",
+  "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases.",
+  "metadata": {
+    "bvid": "BV1fFaN68E1D",
+    "title": "蓝色大肥鱼X豆包双傻合璧给我的游戏做了个雷霆主题曲PV《我就想吃大白饭》",
+    "owner": {
+      "mid": 928415,
+      "name": "Anria_"
+    },
+    "pubdate": 1790255617,
+    "duration": 122
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-linked-game",
+      "title": "鲸鱼娘养成计划",
+      "url": "https://www.bilibili.com/toy/xiaojingyu/index.html"
+    }
+  ],
+  "descriptionSha256": "84150516e6481fbec03d03b9ab107fa30fd09b8700c84b98a0565942f80ff2ed"
+}

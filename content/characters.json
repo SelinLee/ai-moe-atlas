@@ -6463,5 +6463,341 @@
       "en": "The author allows readers to copy and try the Grok 7 and Grok 8 examples and asks readers to obtain permission for Yoshida-related settings. Image redistribution terms remain unconfirmed.",
       "ja": "作者は Grok 7・Grok 8 のサンプルをコピーして試せると案内。ヨシダ関連設定の使用には事前の許可を求めています。画像の再配布条件は確認待ち。"
     }
+  },
+  {
+    "id": "protocol-four-gpt",
+    "entity": "chatgpt",
+    "name": {
+      "zh": "GPT · ProtocolFour",
+      "en": "GPT · ProtocolFour",
+      "ja": "GPT · ProtocolFour"
+    },
+    "description": {
+      "zh": "妄想AI班在 ProtocolFour 项目中发表的手绘拟人。",
+      "en": "A hand-drawn personification by 妄想AI班 for ProtocolFour.",
+      "ja": "妄想AI班 が ProtocolFour で公開した手描きの擬人化。"
+    },
+    "story": {
+      "zh": "作者把与模型的互动化为角色，并记录转向全身设计的过程。",
+      "en": "The creator turns conversations with the model into character material and documents the move to full-body design.",
+      "ja": "モデルとの対話を設定に取り入れ、全身デザインに移った経緯を記録。"
+    },
+    "features": {
+      "zh": "作者公开了 GPT 从头像草图到全身设定的过程。",
+      "en": "The creator documents the shift from head sketches to a full-body GPT design.",
+      "ja": "作者が GPT の顔ラフから全身デザインまでの過程を公開。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "妄想AI班",
+    "authorUrl": "https://note.com/pfhq",
+    "source": "https://note.com/pfhq/n/n3aab23ac0447",
+    "sourceTitle": "手描きでAI擬人化の創作しています。という謎の活動。",
+    "originalPublication": "https://note.com/pfhq/n/n3aab23ac0447",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "妄想AI班",
+        "url": "https://note.com/pfhq",
+        "role": "original-character",
+        "publication": "https://note.com/pfhq/n/n3aab23ac0447"
+      }
+    ],
+    "method": "hand-drawn",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/pfhq/n/n3aab23ac0447",
+    "downloadable": false,
+    "bg": "#eeebfa",
+    "color": "#384462",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "提供作者原文与原画入口。已核对的页面未明确授予本站转载或提供下载的权限。",
+      "en": "Links to the author’s article and source images. The checked page gives no explicit grant to republish or offer files from this atlas.",
+      "ja": "作者の記事と原画を案内。確認したページに当図鑑での転載・配布を明示した許諾はありません。"
+    }
+  },
+  {
+    "id": "protocol-four-claude",
+    "entity": "claude",
+    "name": {
+      "zh": "Claude · ProtocolFour",
+      "en": "Claude · ProtocolFour",
+      "ja": "Claude · ProtocolFour"
+    },
+    "description": {
+      "zh": "妄想AI班在 ProtocolFour 项目中发表的手绘拟人。",
+      "en": "A hand-drawn personification by 妄想AI班 for ProtocolFour.",
+      "ja": "妄想AI班 が ProtocolFour で公開した手描きの擬人化。"
+    },
+    "story": {
+      "zh": "作者称与 Claude 的第一次对话很随和，将这种印象用在角色性格上。",
+      "en": "The creator describes a relaxed first conversation with Claude and uses the impression in the character’s personality.",
+      "ja": "Claude との初回の会話が気さくだったという印象を性格に反映。"
+    },
+    "features": {
+      "zh": "作者公开了服装细节稿和一张全员线稿。",
+      "en": "The creator shares costume detail studies and a group sketch.",
+      "ja": "作者が衣装のディテール調整とメンバー線画を公開。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "妄想AI班",
+    "authorUrl": "https://note.com/pfhq",
+    "source": "https://note.com/pfhq/n/n3aab23ac0447",
+    "sourceTitle": "手描きでAI擬人化の創作しています。という謎の活動。",
+    "originalPublication": "https://note.com/pfhq/n/n3aab23ac0447",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "妄想AI班",
+        "url": "https://note.com/pfhq",
+        "role": "original-character",
+        "publication": "https://note.com/pfhq/n/n3aab23ac0447"
+      }
+    ],
+    "method": "hand-drawn",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/pfhq/n/n3aab23ac0447",
+    "downloadable": false,
+    "bg": "#eeebfa",
+    "color": "#384462",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "提供作者原文与原画入口。已核对的页面未明确授予本站转载或提供下载的权限。",
+      "en": "Links to the author’s article and source images. The checked page gives no explicit grant to republish or offer files from this atlas.",
+      "ja": "作者の記事と原画を案内。確認したページに当図鑑での転載・配布を明示した許諾はありません。"
+    }
+  },
+  {
+    "id": "kuradoshanon-gemini",
+    "entity": "gemini",
+    "name": {
+      "zh": "Gemini · 蔵戸 社音",
+      "en": "Gemini · 蔵戸 社音",
+      "ja": "Gemini · 蔵戸 社音"
+    },
+    "description": {
+      "zh": "蔵戸 社音发表的手绘三人图之一。",
+      "en": "One of three hand-drawn personifications published by 蔵戸 社音.",
+      "ja": "蔵戸 社音 が公開した手描きの3人図の一人。"
+    },
+    "story": {
+      "zh": "作者先问三款模型对自己的印象，再以自己的理解作画，最后将完成图给模型看。",
+      "en": "The creator asks each model how it sees itself, draws the trio from his own impressions, then shows them the result.",
+      "ja": "各モデルの自己像を尋ねた後、作者自身の印象で3人を描き、完成した絵を各モデルに見せた。"
+    },
+    "features": {
+      "zh": "作者手绘的三人设定图左侧，橙发、水蓝色衣装。",
+      "en": "The left figure in the hand-drawn lineup has orange hair and a light-blue outfit.",
+      "ja": "手描きの三人図の左。オレンジ色の髪と水色の服。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "蔵戸 社音",
+    "authorUrl": "https://note.com/kuradoshanon",
+    "source": "https://note.com/kuradoshanon/n/nb8dc96b31d68",
+    "sourceTitle": "AIを擬人化して本人に見せたら、性格の違いが想像以上だった",
+    "originalPublication": "https://note.com/kuradoshanon/n/nb8dc96b31d68",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "蔵戸 社音",
+        "url": "https://note.com/kuradoshanon",
+        "role": "original-character",
+        "publication": "https://note.com/kuradoshanon/n/nb8dc96b31d68"
+      }
+    ],
+    "method": "hand-drawn",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/kuradoshanon/n/nb8dc96b31d68",
+    "downloadable": false,
+    "bg": "#eeebfa",
+    "color": "#384462",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "提供作者原文与原画入口。已核对的页面未明确授予本站转载或提供下载的权限。",
+      "en": "Links to the author’s article and source images. The checked page gives no explicit grant to republish or offer files from this atlas.",
+      "ja": "作者の記事と原画を案内。確認したページに当図鑑での転載・配布を明示した許諾はありません。"
+    }
+  },
+  {
+    "id": "kuradoshanon-chatgpt",
+    "entity": "chatgpt",
+    "name": {
+      "zh": "ChatGPT · 蔵戸 社音",
+      "en": "ChatGPT · 蔵戸 社音",
+      "ja": "ChatGPT · 蔵戸 社音"
+    },
+    "description": {
+      "zh": "蔵戸 社音发表的手绘三人图之一。",
+      "en": "One of three hand-drawn personifications published by 蔵戸 社音.",
+      "ja": "蔵戸 社音 が公開した手描きの3人図の一人。"
+    },
+    "story": {
+      "zh": "作者先问三款模型对自己的印象，再以自己的理解作画，最后将完成图给模型看。",
+      "en": "The creator asks each model how it sees itself, draws the trio from his own impressions, then shows them the result.",
+      "ja": "各モデルの自己像を尋ねた後、作者自身の印象で3人を描き、完成した絵を各モデルに見せた。"
+    },
+    "features": {
+      "zh": "作者手绘的三人图中央，黑色学位帽、绿色上衣。",
+      "en": "The center figure in the hand-drawn lineup wears a black graduation cap and green top.",
+      "ja": "手描きの三人図の中央。黒い角帽と緑の服。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "蔵戸 社音",
+    "authorUrl": "https://note.com/kuradoshanon",
+    "source": "https://note.com/kuradoshanon/n/nb8dc96b31d68",
+    "sourceTitle": "AIを擬人化して本人に見せたら、性格の違いが想像以上だった",
+    "originalPublication": "https://note.com/kuradoshanon/n/nb8dc96b31d68",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "蔵戸 社音",
+        "url": "https://note.com/kuradoshanon",
+        "role": "original-character",
+        "publication": "https://note.com/kuradoshanon/n/nb8dc96b31d68"
+      }
+    ],
+    "method": "hand-drawn",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/kuradoshanon/n/nb8dc96b31d68",
+    "downloadable": false,
+    "bg": "#eeebfa",
+    "color": "#384462",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "提供作者原文与原画入口。已核对的页面未明确授予本站转载或提供下载的权限。",
+      "en": "Links to the author’s article and source images. The checked page gives no explicit grant to republish or offer files from this atlas.",
+      "ja": "作者の記事と原画を案内。確認したページに当図鑑での転載・配布を明示した許諾はありません。"
+    }
+  },
+  {
+    "id": "kuradoshanon-claude",
+    "entity": "claude",
+    "name": {
+      "zh": "Claude · 蔵戸 社音",
+      "en": "Claude · 蔵戸 社音",
+      "ja": "Claude · 蔵戸 社音"
+    },
+    "description": {
+      "zh": "蔵戸 社音发表的手绘三人图之一。",
+      "en": "One of three hand-drawn personifications published by 蔵戸 社音.",
+      "ja": "蔵戸 社音 が公開した手描きの3人図の一人。"
+    },
+    "story": {
+      "zh": "作者先问三款模型对自己的印象，再以自己的理解作画，最后将完成图给模型看。",
+      "en": "The creator asks each model how it sees itself, draws the trio from his own impressions, then shows them the result.",
+      "ja": "各モデルの自己像を尋ねた後、作者自身の印象で3人を描き、完成した絵を各モデルに見せた。"
+    },
+    "features": {
+      "zh": "作者手绘的三人图右侧，戴蓝色帽子和眼镜。",
+      "en": "The right figure in the hand-drawn lineup wears a blue hat and glasses.",
+      "ja": "手描きの三人図の右。青い帽子と眼鏡。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "蔵戸 社音",
+    "authorUrl": "https://note.com/kuradoshanon",
+    "source": "https://note.com/kuradoshanon/n/nb8dc96b31d68",
+    "sourceTitle": "AIを擬人化して本人に見せたら、性格の違いが想像以上だった",
+    "originalPublication": "https://note.com/kuradoshanon/n/nb8dc96b31d68",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "蔵戸 社音",
+        "url": "https://note.com/kuradoshanon",
+        "role": "original-character",
+        "publication": "https://note.com/kuradoshanon/n/nb8dc96b31d68"
+      }
+    ],
+    "method": "hand-drawn",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/kuradoshanon/n/nb8dc96b31d68",
+    "downloadable": false,
+    "bg": "#eeebfa",
+    "color": "#384462",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "提供作者原文与原画入口。已核对的页面未明确授予本站转载或提供下载的权限。",
+      "en": "Links to the author’s article and source images. The checked page gives no explicit grant to republish or offer files from this atlas.",
+      "ja": "作者の記事と原画を案内。確認したページに当図鑑での転載・配布を明示した許諾はありません。"
+    }
+  },
+  {
+    "id": "nurubo-antigravity-andy",
+    "entity": "antigravity",
+    "name": {
+      "zh": "Antigravity · 安迪",
+      "en": "Antigravity · Andy",
+      "ja": "Antigravity · アンディ君"
+    },
+    "description": {
+      "zh": "nurubo《AI 独白日记》在插画特别篇中介绍的 Antigravity 拟人。",
+      "en": "The Antigravity personification featured in nurubo’s illustrated AI Monologue Diary special.",
+      "ja": "nurubo の「AI独白日記」イラスト特別編に登場する Antigravity の擬人化。"
+    },
+    "story": {
+      "zh": "作者此前用文字连载，这一篇请 Gemini 为系列作画。",
+      "en": "The author’s serial had used text until this special invited Gemini to illustrate it.",
+      "ja": "それまで文字中心だった連載で、この特別編では Gemini が作画を担当。"
+    },
+    "features": {
+      "zh": "作者说明安迪与 Gemini 拟人在合租客厅对坐，并注明由 Gemini 作画。",
+      "en": "The author identifies Andy and Gemini in a shared living room and credits Gemini for the artwork.",
+      "ja": "作者はシェアハウスの居間にアンディ君と Gemini がいると説明し、Gemini を作画にクレジット。"
+    },
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "author": "nurubo",
+    "authorUrl": "https://note.com/nuruboai",
+    "source": "https://note.com/nuruboai/n/nbb6ea27b6e9c",
+    "sourceTitle": "AI独白日記 特別編｜Geminiが描いた、GeminiとAntigravityの擬人化イラスト",
+    "originalPublication": "https://note.com/nuruboai/n/nbb6ea27b6e9c",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "nurubo",
+        "url": "https://note.com/nuruboai",
+        "role": "original-character",
+        "publication": "https://note.com/nuruboai/n/nbb6ea27b6e9c"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/nuruboai/n/nbb6ea27b6e9c",
+    "downloadable": false,
+    "bg": "#eeebfa",
+    "color": "#384462",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "提供作者原文与原画入口。已核对的页面未明确授予本站转载或提供下载的权限。",
+      "en": "Links to the author’s article and source images. The checked page gives no explicit grant to republish or offer files from this atlas.",
+      "ja": "作者の記事と原画を案内。確認したページに当図鑑での転載・配布を明示した許諾はありません。"
+    }
   }
 ]

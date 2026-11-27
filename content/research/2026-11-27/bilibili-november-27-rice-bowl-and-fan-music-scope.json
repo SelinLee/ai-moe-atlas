@@ -1,0 +1,35 @@
+{
+  "previousEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-rechecks.json",
+    "sha256": "905539f5a90f7c9c60dfcbd64248af74e81bc4d12cc2fa53cc552080e38c395d",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+    "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
+    "kind": "browser-metadata-extract"
+  },
+  "added": 17,
+  "pending": 14,
+  "archives": {
+    "rice-bowl-hero": {
+      "path": "content/research/2026-11-27/bilibili-playlist-rice-bowl-hero.json",
+      "sha256": "c2cf853d9ab0ddb5801b859968529c86198875a8f28df9eea94180781be59144",
+      "kind": "browser-metadata-extract"
+    },
+    "ai-transit-station-apartment": {
+      "path": "content/research/2026-11-27/bilibili-playlist-ai-transit-station-apartment.json",
+      "sha256": "95cada14828144212638d161522b8fb0501f53abe1496845173e493998a9a309",
+      "kind": "browser-metadata-extract"
+    }
+  },
+  "relatedRecording": {
+    "bvid": "BV1UJ5j6eEse",
+    "url": "https://www.bilibili.com/video/BV1UJ5j6eEse/",
+    "code": 0,
+    "accessedAt": "2026-11-27T11:57:51.674Z",
+    "httpStatus": 200,
+    "title": "【Ciyo翻唱】反乌托邦·拼接版（完整版）",
+    "publisher": "ciyo"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1KSsS6JEL1/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KSsS6JEL1",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:55:53.392Z",
+  "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases.",
+  "metadata": {
+    "bvid": "BV1KSsS6JEL1",
+    "title": "鲸昭｜深海电子梦（大肥鱼原创·AI声音合成）",
+    "owner": {
+      "mid": 3461581006440740,
+      "name": "鲸昭不睡"
+    },
+    "pubdate": 1795046400,
+    "duration": 348
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "19735bc9f0861867d74f8219348958507e5b93b23a14e271b39971a62d1042f6"
+}

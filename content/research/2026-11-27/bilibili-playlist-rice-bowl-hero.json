@@ -1,0 +1,36 @@
+{
+  "bvid": "BV1Yxnz6nEei",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Yxnz6nEei",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:55:02.475Z",
+  "responseSha256": "4c13b5f98d4f516f84809bfdfa31212e7cd9faa862f9570cd6c6e6e621503f17",
+  "title": "【预告】DeepSeek娘手滑按了一下，被召唤到异世界还倒欠一百万【饭桶勇者】",
+  "publisher": "一支小馋猫",
+  "publisherId": 3744982187904965,
+  "playlist": {
+    "id": 9385370,
+    "title": "饭桶勇者今天也在还债",
+    "sections": [
+      {
+        "title": "正片",
+        "episodes": [
+          {
+            "bvid": "BV1Yxnz6nEei",
+            "title": "【预告】DeepSeek娘手滑按了一下，被召唤到异世界还倒欠一百万【饭桶勇者】"
+          },
+          {
+            "bvid": "BV1Rpnz6pEJF",
+            "title": "DeepSeek娘手滑按了一下，被召唤到异世界还倒欠一百万【饭桶勇者EP01·完整版】"
+          },
+          {
+            "bvid": "BV1F6ny6jEow",
+            "title": "鉴定结果：饭桶？DeepSeek娘被公会笑出声还签了十年白饭合同【饭桶勇者EP02】"
+          }
+        ]
+      }
+    ]
+  },
+  "descriptionSha256": "7f5d45db802b1459bcd4224b78355250e39ae95c340002e26ca3597ba7bdce06",
+  "scope": "Bilibili view API included the uploader’s playlist title, identifier and episode BV IDs."
+}

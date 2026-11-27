@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ppxx6CE9n/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ppxx6CE9n",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:55:48.818Z",
+  "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases.",
+  "metadata": {
+    "bvid": "BV1ppxx6CE9n",
+    "title": "“至少我还在为你而歌唱”——7个AI的『反乌托邦×拼接遗憾』【大肥鱼翻唱】【AI MV大赛】",
+    "owner": {
+      "mid": 3744982187904965,
+      "name": "一支小馋猫"
+    },
+    "pubdate": 1793537948,
+    "duration": 130
+  },
+  "sourceLinks": [
+    {
+      "role": "credited-character-design-reference",
+      "title": "冬冰 · AI 中转站公寓",
+      "url": "https://www.bilibili.com/video/BV1t6nu6bEsf/"
+    },
+    {
+      "role": "uploader-cited-voice-model",
+      "title": "BV1cbH56KER3",
+      "url": "https://www.bilibili.com/video/BV1cbH56KER3/"
+    },
+    {
+      "role": "song-author-release",
+      "title": "乌托邦P / 盐雾 / 见过夏天P · Ciyo",
+      "url": "https://www.bilibili.com/video/BV1UJ5j6eEse/"
+    }
+  ],
+  "descriptionSha256": "1e2e3a6779a9615e588276b72a5e807d75e94bd2a2ebc341ab3649042f9ef648"
+}

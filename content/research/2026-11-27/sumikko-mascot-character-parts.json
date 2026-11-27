@@ -1,0 +1,71 @@
+{
+  "full_name": "rotejin/sumikko-mascot",
+  "html_url": "https://github.com/rotejin/sumikko-mascot",
+  "stargazers_count": 12,
+  "archived": false,
+  "created_at": "2026-11-17T17:02:31Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "800933789d30c9ff665da4a201e15185ce0bc331",
+  "observedAt": "2026-11-27T11:53:06.891Z",
+  "httpStatus": 200,
+  "metadataSha256": "1f68cdcd1e2173d59b3201395e291c2c36340634f661f22fa32c96dbc994498f",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/rotejin/sumikko-mascot/blob/800933789d30c9ff665da4a201e15185ce0bc331/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/rotejin/sumikko-mascot/800933789d30c9ff665da4a201e15185ce0bc331/README.md",
+      "sourceSha256": "f35556743a6067a2f9b3b87bb8e574d8eaa374071fa8e6f84e84e64377772f31",
+      "gitBlobSha": "e104844ce1a4d6982818da2048792852e7dd331f",
+      "bytes": 13213,
+      "commit": "800933789d30c9ff665da4a201e15185ce0bc331",
+      "accessedAt": "2026-11-27T11:57:36.234Z"
+    },
+    {
+      "path": "README.en.md",
+      "url": "https://github.com/rotejin/sumikko-mascot/blob/800933789d30c9ff665da4a201e15185ce0bc331/README.en.md",
+      "rawUrl": "https://raw.githubusercontent.com/rotejin/sumikko-mascot/800933789d30c9ff665da4a201e15185ce0bc331/README.en.md",
+      "sourceSha256": "e7eb8f59d771839b15184136511e1b8e1b926cad962d388695e908a3bfe72358",
+      "gitBlobSha": "54efd90341c32062adb2719eb3174fc86950f3b0",
+      "bytes": 11242,
+      "commit": "800933789d30c9ff665da4a201e15185ce0bc331",
+      "accessedAt": "2026-11-27T11:57:36.456Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/rotejin/sumikko-mascot/blob/800933789d30c9ff665da4a201e15185ce0bc331/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/rotejin/sumikko-mascot/800933789d30c9ff665da4a201e15185ce0bc331/LICENSE",
+      "sourceSha256": "31589b8bf677e699cba9e646ae4b88dd76fb502dccf47cfa9482d0aad1ad2f4a",
+      "gitBlobSha": "681f8181ce92e59c7f9434d8d0e2e7f03f64386f",
+      "bytes": 1069,
+      "commit": "800933789d30c9ff665da4a201e15185ce0bc331",
+      "accessedAt": "2026-11-27T11:57:36.667Z"
+    },
+    {
+      "path": "ASSETS.md",
+      "url": "https://github.com/rotejin/sumikko-mascot/blob/800933789d30c9ff665da4a201e15185ce0bc331/ASSETS.md",
+      "rawUrl": "https://raw.githubusercontent.com/rotejin/sumikko-mascot/800933789d30c9ff665da4a201e15185ce0bc331/ASSETS.md",
+      "sourceSha256": "7f5d762dab5606b09068b0cf67fd832149a62c90119d6231aa0cb22bef5f3877",
+      "gitBlobSha": "5e0349e9ad9cc67b44a3547b6ffaed5595461aa7",
+      "bytes": 6832,
+      "commit": "800933789d30c9ff665da4a201e15185ce0bc331",
+      "accessedAt": "2026-11-27T11:57:36.887Z"
+    }
+  ],
+  "url": "https://github.com/rotejin/sumikko-mascot/blob/800933789d30c9ff665da4a201e15185ce0bc331/README.md",
+  "accessedAt": "2026-11-27T11:57:36.887Z",
+  "scope": "Pinned publisher documentation and available code and artwork terms were verified by Git blob and SHA-256. No third-party software was run.",
+  "linkedNotices": [
+    {
+      "role": "artwork-terms",
+      "title": "rotejin · ASSETS.md",
+      "url": "https://github.com/rotejin/sumikko-mascot/blob/800933789d30c9ff665da4a201e15185ce0bc331/ASSETS.md"
+    },
+    {
+      "role": "translated-documentation",
+      "title": "rotejin · README.en.md",
+      "url": "https://github.com/rotejin/sumikko-mascot/blob/800933789d30c9ff665da4a201e15185ce0bc331/README.en.md"
+    }
+  ]
+}

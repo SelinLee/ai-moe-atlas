@@ -1,0 +1,46 @@
+{
+  "url": "https://www.bilibili.com/video/BV1F6ny6jEow/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1F6ny6jEow",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:55:47.104Z",
+  "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases.",
+  "metadata": {
+    "bvid": "BV1F6ny6jEow",
+    "title": "鉴定结果：饭桶？DeepSeek娘被公会笑出声还签了十年白饭合同【饭桶勇者EP02】",
+    "owner": {
+      "mid": 3744982187904965,
+      "name": "一支小馋猫"
+    },
+    "pubdate": 1792639800,
+    "duration": 211
+  },
+  "sourceLinks": [
+    {
+      "role": "related-episode",
+      "title": "饭桶勇者 · 预告",
+      "url": "https://www.bilibili.com/video/BV1Yxnz6nEei/"
+    },
+    {
+      "role": "related-episode",
+      "title": "饭桶勇者 · EP01",
+      "url": "https://www.bilibili.com/video/BV1Rpnz6pEJF/"
+    },
+    {
+      "role": "credited-character-design-reference",
+      "title": "冬冰 · AI 中转站公寓",
+      "url": "https://www.bilibili.com/video/BV1t6nu6bEsf/"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    }
+  ],
+  "descriptionSha256": "a1c5603eabb87c89b2610245fd8d26db94b6ba9d4ff9a13e3137f777639e7c4d",
+  "seriesEvidence": {
+    "path": "content/research/2026-11-27/bilibili-playlist-rice-bowl-hero.json",
+    "sha256": "c2cf853d9ab0ddb5801b859968529c86198875a8f28df9eea94180781be59144",
+    "kind": "browser-metadata-extract"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV18NWo6zEpR/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18NWo6zEpR",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:55:57.963Z",
+  "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases.",
+  "metadata": {
+    "bvid": "BV18NWo6zEpR",
+    "title": "【11月新番】光之大肥鱼ed2",
+    "owner": {
+      "mid": 358252221,
+      "name": "日常被背刺"
+    },
+    "pubdate": 1794500363,
+    "duration": 91
+  },
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    }
+  ],
+  "descriptionSha256": "1136f6d18052c78c43c70a6ea8a82297cd99d898e69a8d63942501a4991e8214"
+}

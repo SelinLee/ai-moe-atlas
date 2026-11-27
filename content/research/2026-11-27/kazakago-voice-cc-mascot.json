@@ -1,0 +1,61 @@
+{
+  "full_name": "kazakago/cc-mascot",
+  "html_url": "https://github.com/kazakago/cc-mascot",
+  "stargazers_count": 8,
+  "archived": false,
+  "created_at": "2026-01-17T08:53:06Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "0fc1673fe8f23aeea6a4d0ef0e7e94eb05834639",
+  "observedAt": "2026-11-27T11:53:07.563Z",
+  "httpStatus": 200,
+  "metadataSha256": "e16dd30080b9da2681547e3a4610ec929b582ade97df48984ec80b8f92e11a19",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/kazakago/cc-mascot/blob/0fc1673fe8f23aeea6a4d0ef0e7e94eb05834639/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/kazakago/cc-mascot/0fc1673fe8f23aeea6a4d0ef0e7e94eb05834639/README.md",
+      "sourceSha256": "5e199883e1f035f0602cc5e24f554c6f94567428e2304fc754ad4bad9b4631e4",
+      "gitBlobSha": "bc553422882eae9e174053b4c8b59c660b8ee773",
+      "bytes": 9124,
+      "commit": "0fc1673fe8f23aeea6a4d0ef0e7e94eb05834639",
+      "accessedAt": "2026-11-27T11:57:36.017Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/kazakago/cc-mascot/blob/0fc1673fe8f23aeea6a4d0ef0e7e94eb05834639/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/kazakago/cc-mascot/0fc1673fe8f23aeea6a4d0ef0e7e94eb05834639/LICENSE",
+      "sourceSha256": "690ea6092c5ab26833af34753b792836261c8aadd55e3dc75ba107713cbe7df4",
+      "gitBlobSha": "de0606c170ed85544b0407682db60b6ddec8fddc",
+      "bytes": 11338,
+      "commit": "0fc1673fe8f23aeea6a4d0ef0e7e94eb05834639",
+      "accessedAt": "2026-11-27T11:57:36.234Z"
+    },
+    {
+      "path": "license-format.json",
+      "url": "https://github.com/kazakago/cc-mascot/blob/0fc1673fe8f23aeea6a4d0ef0e7e94eb05834639/license-format.json",
+      "rawUrl": "https://raw.githubusercontent.com/kazakago/cc-mascot/0fc1673fe8f23aeea6a4d0ef0e7e94eb05834639/license-format.json",
+      "sourceSha256": "8dceec0e458078dea20f572a91dd005dcb7d3838d21b99d7306018971c70dc64",
+      "gitBlobSha": "d7be04c0f24191b37c099b26908d51050f7e611e",
+      "bytes": 127,
+      "commit": "0fc1673fe8f23aeea6a4d0ef0e7e94eb05834639",
+      "accessedAt": "2026-11-27T11:57:36.486Z"
+    }
+  ],
+  "url": "https://github.com/kazakago/cc-mascot/blob/0fc1673fe8f23aeea6a4d0ef0e7e94eb05834639/README.md",
+  "accessedAt": "2026-11-27T11:57:36.486Z",
+  "scope": "Pinned publisher documentation and available code and artwork terms were verified by Git blob and SHA-256. No third-party software was run.",
+  "linkedNotices": [
+    {
+      "role": "code-license",
+      "title": "kazakago · LICENSE",
+      "url": "https://github.com/kazakago/cc-mascot/blob/0fc1673fe8f23aeea6a4d0ef0e7e94eb05834639/LICENSE"
+    },
+    {
+      "role": "speech-engine",
+      "title": "AivisSpeech",
+      "url": "https://aivis-project.com/"
+    }
+  ]
+}

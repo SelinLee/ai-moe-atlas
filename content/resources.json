@@ -3,8 +3,8 @@
   "updatedAt": "2026-11-27",
   "scope": "source-metadata-only",
   "pendingAnimationEvidence": {
-    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-rechecks.json",
-    "sha256": "905539f5a90f7c9c60dfcbd64248af74e81bc4d12cc2fa53cc552080e38c395d",
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+    "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
     "kind": "browser-metadata-extract"
   },
   "records": [
@@ -91743,6 +91743,21 @@
           "role": "credited-character-reference",
           "title": "ZipZipPipe",
           "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "credited-character-design-reference",
+          "title": "冬冰 · AI 中转站公寓",
+          "url": "https://www.bilibili.com/video/BV1t6nu6bEsf/"
+        },
+        {
+          "role": "related-episode",
+          "title": "饭桶勇者 · EP01",
+          "url": "https://www.bilibili.com/video/BV1Rpnz6pEJF/"
+        },
+        {
+          "role": "related-episode",
+          "title": "饭桶勇者 · EP02",
+          "url": "https://www.bilibili.com/video/BV1F6ny6jEow/"
         }
       ],
       "usage": "source-only",
@@ -91752,8 +91767,8 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-10-21T09:35:26.000Z",
       "evidence": {
-        "path": "content/research/2026-11-27/bv1yxnz6neei.json",
-        "sha256": "26379177ad8275f505d7b064ee7ef8c9ad599f56c5d1b90c695a2884a2b3cd82",
+        "path": "content/research/2026-11-27/rice-bowl-hero-teaser-and-episodes.json",
+        "sha256": "43b7c2e00bc87b5745aa917182efc1ee43157fd9b3ac904eb67f886b5cbb7588",
         "kind": "browser-metadata-extract"
       },
       "verification": {
@@ -92531,6 +92546,1949 @@
         "attemptedAt": "2026-11-27T11:42:37.301Z",
         "httpStatus": 200,
         "scope": "Pinned documentation and available license or asset notices were verified against Git blobs and SHA-256. The feature and asset statements describe the publishers’ documents."
+      }
+    },
+    {
+      "id": "protocol-four-creator-designs",
+      "category": "sources",
+      "title": {
+        "zh": "ProtocolFour · 手绘角色设定",
+        "en": "ProtocolFour · Hand-Drawn Character Designs",
+        "ja": "ProtocolFour · 手描きキャラクター設定"
+      },
+      "summary": {
+        "zh": "作者公布四位常驻角色、三位准常驻角色的线稿，以及 GPT、Claude、Perplexity 和 Copilot 的设计过程。",
+        "en": "The creator shares sketches for four regulars and three recurring characters, plus design notes for GPT, Claude, Perplexity and Copilot.",
+        "ja": "レギュラー4人と準レギュラー3人の線画、GPT・Claude・Perplexity・Copilot のデザイン過程を作者が公開。"
+      },
+      "rights": {
+        "zh": "提供作者原文与原画入口。已核对的页面未明确授予本站转载或提供下载的权限。",
+        "en": "Links to the author’s article and source images. The checked page gives no explicit grant to republish or offer files from this atlas.",
+        "ja": "作者の記事と原画を案内。確認したページに当図鑑での転載・配布を明示した許諾はありません。"
+      },
+      "publisher": "妄想AI班",
+      "url": "https://note.com/pfhq/n/n3aab23ac0447",
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "妄想AI班",
+          "url": "https://note.com/pfhq"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "妄想AI班 · 1",
+          "url": "https://assets.st-note.com/img/1781232831-0THlAMmRSFUypYJKBLQNtbvd.png"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "妄想AI班 · 2",
+          "url": "https://assets.st-note.com/img/1781232853-e1UDhRBcKgsGpw8V3WvifnLM.png"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "妄想AI班 · 3",
+          "url": "https://assets.st-note.com/img/1781237243-vlqzspQrXMZ4R095bGAwJUeE.png"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "妄想AI班 · 4",
+          "url": "https://assets.st-note.com/img/1781235946-XjQ6rcGB4dJ7xROhtyopzDSF.png"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "妄想AI班 · 5",
+          "url": "https://assets.st-note.com/img/1781235632-pRun9Tk1lBHgLaN3yVq7eAfW.png"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-06-12",
+      "publicationDateBasis": "creator-publication-page",
+      "evidence": {
+        "path": "content/research/2026-11-27/protocol-four-creator-designs.json",
+        "sha256": "384acbcf5d8da29e5e4b739fa6c3a8133f8ed7a600f1baa44e819fb32acd75b0",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:53:37.943Z",
+        "httpStatus": 200,
+        "scope": "Author publication identity, time and selected original image URLs verified in isolated Chrome. Source CDN bytes were retained locally and identified by SHA-256. No separate republication permission for this atlas was located in the reviewed article."
+      }
+    },
+    {
+      "id": "sagyo-five-ai-hand-drawn-and-chibi",
+      "category": "sources",
+      "title": {
+        "zh": "五个 AI 的拟人草稿与 Q 版",
+        "en": "Five AI Personifications · Sketches and Chibi",
+        "ja": "5つの AI 擬人化 · 手描きとちびキャラ"
+      },
+      "summary": {
+        "zh": "作者在同一张对照图里标明，下排是本人手绘的 Claude、Grok、Gemini、DeepSeek 和 ChatGPT，上排是据此生成的 Q 版。",
+        "en": "The creator identifies the lower row as hand-drawn Claude, Grok, Gemini, DeepSeek and ChatGPT sketches and the upper row as generated chibi variants.",
+        "ja": "比較画像の下段は Claude・Grok・Gemini・DeepSeek・ChatGPT の作者の手描き、上段はそれを元に生成したちびキャラ。"
+      },
+      "rights": {
+        "zh": "提供作者原文与原画入口。已核对的页面未明确授予本站转载或提供下载的权限。",
+        "en": "Links to the author’s article and source images. The checked page gives no explicit grant to republish or offer files from this atlas.",
+        "ja": "作者の記事と原画を案内。確認したページに当図鑑での転載・配布を明示した許諾はありません。"
+      },
+      "publisher": "さぎょんかり＝えぎ",
+      "url": "https://note.com/sagyo_eggi/n/n143263a75b26",
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "さぎょんかり＝えぎ",
+          "url": "https://note.com/sagyo_eggi"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "さぎょんかり＝えぎ · 1",
+          "url": "https://assets.st-note.com/img/1743039348-PiJYCOW0oqFK7X6ys32AtE9x.png"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2025-03-27",
+      "publicationDateBasis": "creator-publication-page",
+      "evidence": {
+        "path": "content/research/2026-11-27/sagyo-five-ai-hand-drawn-and-chibi.json",
+        "sha256": "c3dbdacf102dc672761ca449697577002ad00547be528a5ed24999cfd55236cf",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:53:37.941Z",
+        "httpStatus": 200,
+        "scope": "Author publication identity, time and selected original image URLs verified in isolated Chrome. Source CDN bytes were retained locally and identified by SHA-256. No separate republication permission for this atlas was located in the reviewed article."
+      }
+    },
+    {
+      "id": "nurubo-gemini-antigravity-illustrated-diary",
+      "category": "sources",
+      "title": {
+        "zh": "AI 独白日记 · Gemini 与 Antigravity 设定插画",
+        "en": "AI Monologue Diary · Gemini and Antigravity Illustration",
+        "ja": "AI独白日記 · Gemini と Antigravity のイラスト"
+      },
+      "summary": {
+        "zh": "作者发布了两位拟人角色在合租客厅对坐的插画，并把作画署给 Gemini。",
+        "en": "The author publishes a shared-living-room scene featuring the two personified AIs and credits Gemini for the illustration.",
+        "ja": "シェアハウスの居間で Gemini と Antigravity の擬人化キャラクターが向かい合う。作画は Gemini と記載。"
+      },
+      "rights": {
+        "zh": "提供作者原文与原画入口。已核对的页面未明确授予本站转载或提供下载的权限。",
+        "en": "Links to the author’s article and source images. The checked page gives no explicit grant to republish or offer files from this atlas.",
+        "ja": "作者の記事と原画を案内。確認したページに当図鑑での転載・配布を明示した許諾はありません。"
+      },
+      "publisher": "nurubo",
+      "url": "https://note.com/nuruboai/n/nbb6ea27b6e9c",
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "nurubo",
+          "url": "https://note.com/nuruboai"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "nurubo · 1",
+          "url": "https://assets.st-note.com/img/1795359195-bpsfPk9JyNvTtjxO1AGQaBdu.jpg"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-22",
+      "publicationDateBasis": "creator-publication-page",
+      "evidence": {
+        "path": "content/research/2026-11-27/nurubo-gemini-antigravity-illustrated-diary.json",
+        "sha256": "e3aed8842b2f1e8fb8233a29dc20c65e460195c9b0b6fb92faab1bd859cd03d6",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:53:37.942Z",
+        "httpStatus": 200,
+        "scope": "Author publication identity, time and selected original image URLs verified in isolated Chrome. Source CDN bytes were retained locally and identified by SHA-256. No separate republication permission for this atlas was located in the reviewed article."
+      }
+    },
+    {
+      "id": "kuradoshanon-three-hand-drawn-designs",
+      "category": "sources",
+      "title": {
+        "zh": "手绘 Gemini、ChatGPT 与 Claude",
+        "en": "Hand-Drawn Gemini, ChatGPT and Claude",
+        "ja": "手描きの Gemini・ChatGPT・Claude"
+      },
+      "summary": {
+        "zh": "作者公布自己的手绘设定，并记录三款模型对同一张三人图的回应。",
+        "en": "The creator publishes a hand-drawn three-character sheet and records how each model responded to it.",
+        "ja": "作者が手描きの3人の設定画を公開し、それを見た各モデルの反応を記録。"
+      },
+      "rights": {
+        "zh": "提供作者原文与原画入口。已核对的页面未明确授予本站转载或提供下载的权限。",
+        "en": "Links to the author’s article and source images. The checked page gives no explicit grant to republish or offer files from this atlas.",
+        "ja": "作者の記事と原画を案内。確認したページに当図鑑での転載・配布を明示した許諾はありません。"
+      },
+      "publisher": "蔵戸 社音",
+      "url": "https://note.com/kuradoshanon/n/nb8dc96b31d68",
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "蔵戸 社音",
+          "url": "https://note.com/kuradoshanon"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "蔵戸 社音 · 1",
+          "url": "https://assets.st-note.com/img/1781527183-rIuKsAoNp5OQyHC4xmVhkM6G.png"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-06-15",
+      "publicationDateBasis": "creator-publication-page",
+      "evidence": {
+        "path": "content/research/2026-11-27/kuradoshanon-three-hand-drawn-designs.json",
+        "sha256": "149de5d4a5430d75883faba4bf5ad7167e4c5a78983df594f70c9d107bdd0b1c",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:53:37.948Z",
+        "httpStatus": 200,
+        "scope": "Author publication identity, time and selected original image URLs verified in isolated Chrome. Source CDN bytes were retained locally and identified by SHA-256. No separate republication permission for this atlas was located in the reviewed article."
+      }
+    },
+    {
+      "id": "workfine-sixty-four-panel-comics",
+      "category": "sources",
+      "title": {
+        "zh": "Workfine · 黑心 AI 公司四格漫画回顾",
+        "en": "Workfine · AI Office Four-Panel Comic Retrospective",
+        "ja": "Workfine · ブラック AI 企業4コマの振り返り"
+      },
+      "summary": {
+        "zh": "作者回顾 60 话四格的创作过程，并介绍 ChatGPT、Gemini、Grok、Copilot 和 Claude 员工的设定。",
+        "en": "The creator looks back on 60 four-panel strips featuring personified ChatGPT, Gemini, Grok, Copilot and Claude coworkers.",
+        "ja": "作者が4コマ60話を振り返り、ChatGPT・Gemini・Grok・Copilot・Claude を社員にした設定を紹介。"
+      },
+      "rights": {
+        "zh": "提供作者原文与原画入口。已核对的页面未明确授予本站转载或提供下载的权限。",
+        "en": "Links to the author’s article and source images. The checked page gives no explicit grant to republish or offer files from this atlas.",
+        "ja": "作者の記事と原画を案内。確認したページに当図鑑での転載・配布を明示した許諾はありません。"
+      },
+      "publisher": "Workfine",
+      "url": "https://note.com/workfine/n/ndecce733b117",
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "Workfine",
+          "url": "https://note.com/workfine"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "Workfine · 1",
+          "url": "https://assets.st-note.com/img/1790780311-Fat2LG6bclBOxhKjEPT7AuJn.png"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "Workfine · 2",
+          "url": "https://assets.st-note.com/img/1790780373-odMJY7O5GW8wk2RecSlBbX1v.png"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "Workfine · 3",
+          "url": "https://assets.st-note.com/img/1790780498-7uv8eDRk9L10IlFagOWXJEb3.png"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "Workfine · 4",
+          "url": "https://assets.st-note.com/img/1790780433-dkgW6E8PONyGq5RQTC1LnvSZ.png"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-01",
+      "publicationDateBasis": "creator-publication-page",
+      "evidence": {
+        "path": "content/research/2026-11-27/workfine-sixty-four-panel-comics.json",
+        "sha256": "e8bdb1415b2d2774609a9010c8e85d4249ef943db89ae9feefb4751cb4f03863",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:53:37.942Z",
+        "httpStatus": 200,
+        "scope": "Author publication identity, time and selected original image URLs verified in isolated Chrome. Source CDN bytes were retained locally and identified by SHA-256. No separate republication permission for this atlas was located in the reviewed article."
+      }
+    },
+    {
+      "id": "kawamura-yoshida-four-plots-about-lying",
+      "category": "sources",
+      "title": {
+        "zh": "ChatGPT 的吉田 · 四个 AI 写「谎言」四格",
+        "en": "ChatGPT Yoshida · Four AI Plots About Lies",
+        "ja": "ChatGPT のヨシダ · 4人の AI が「嘘」を描く"
+      },
+      "summary": {
+        "zh": "カワムラ把 ChatGPT、Claude、Gemini、Muse 给出的四格情节改画为统一角色的漫画。",
+        "en": "Kawamura turns four plots from ChatGPT, Claude, Gemini and Muse into strips with the same recurring cast.",
+        "ja": "カワムラが ChatGPT・Claude・Gemini・Muse の4案を、同じ登場人物の4コマとして漫画化。"
+      },
+      "rights": {
+        "zh": "提供作者原文与原画入口。已核对的页面未明确授予本站转载或提供下载的权限。",
+        "en": "Links to the author’s article and source images. The checked page gives no explicit grant to republish or offer files from this atlas.",
+        "ja": "作者の記事と原画を案内。確認したページに当図鑑での転載・配布を明示した許諾はありません。"
+      },
+      "publisher": "ChatGPTのヨシダ",
+      "url": "https://note.com/chatgpt_ysd/n/nf65b8a75a172",
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "ChatGPTのヨシダ",
+          "url": "https://note.com/chatgpt_ysd"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "ChatGPTのヨシダ · 1",
+          "url": "https://assets.st-note.com/img/1794492152-7PkH2QTFsrhIC3Lp0x8eJybN.png"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "ChatGPTのヨシダ · 2",
+          "url": "https://assets.st-note.com/img/1794491277-SUJbgy2piDsj4FMGvcm7ICNt.jpg"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "ChatGPTのヨシダ · 3",
+          "url": "https://assets.st-note.com/img/1794830489-EVjOXR2icdwGKZ1UgaL8ktfy.png"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "ChatGPTのヨシダ · 4",
+          "url": "https://assets.st-note.com/img/1794491434-Cu0NiGZyBMWnEVrXtKz7QpOa.jpg"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "ChatGPTのヨシダ · 5",
+          "url": "https://assets.st-note.com/img/1794491481-m8P75NWUa9io6ygj1eADT3kr.jpg"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "ChatGPTのヨシダ · 6",
+          "url": "https://assets.st-note.com/img/1794491500-ZWtrV8duypmENf49c0xRA7Ql.jpg"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "ChatGPTのヨシダ · 7",
+          "url": "https://assets.st-note.com/img/1794491520-fA8F1rtYb9oycjMJ6NIXL7v0.jpg"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "ChatGPTのヨシダ · 8",
+          "url": "https://assets.st-note.com/img/1794830504-doNr1XECe8zSh2ARH3DtB7up.png"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-17",
+      "publicationDateBasis": "creator-publication-page",
+      "evidence": {
+        "path": "content/research/2026-11-27/kawamura-yoshida-four-plots-about-lying.json",
+        "sha256": "1d185af40c798efd440fc8098bce0ae1d07e162a091166ccb98256fbde258951",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:53:37.956Z",
+        "httpStatus": 200,
+        "scope": "Author publication identity, time and selected original image URLs verified in isolated Chrome. Source CDN bytes were retained locally and identified by SHA-256. No separate republication permission for this atlas was located in the reviewed article."
+      }
+    },
+    {
+      "id": "ali-ai-workplace-extra-commit",
+      "category": "sources",
+      "title": {
+        "zh": "AI 工作四格 · 提交里多写了没叫你改的东西",
+        "en": "AI at Work · Extra Changes in the Commit",
+        "ja": "AI と現場あるある · 頼んでいない変更までコミットに"
+      },
+      "summary": {
+        "zh": "作者发布「AI 与工作现场」系列第 1 篇，用四格记录一次提交中多出计划外内容的经历。",
+        "en": "The author opens the AI at Work series with a four-panel comic about changes beyond what a commit was meant to contain.",
+        "ja": "「AI と現場あるある」第1話。コミットに予定外の変更が入った経験を4コマで描く。"
+      },
+      "rights": {
+        "zh": "提供作者原文与原画入口。已核对的页面未明确授予本站转载或提供下载的权限。",
+        "en": "Links to the author’s article and source images. The checked page gives no explicit grant to republish or offer files from this atlas.",
+        "ja": "作者の記事と原画を案内。確認したページに当図鑑での転載・配布を明示した許諾はありません。"
+      },
+      "publisher": "Ali",
+      "url": "https://note.com/ali_archive/n/n57f4709b2148",
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "Ali",
+          "url": "https://note.com/ali_archive"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "Ali · 1",
+          "url": "https://assets.st-note.com/img/1793166559-gj46hUqREcfiyCQ1mGWtzlo5.jpg"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "Ali · 2",
+          "url": "https://assets.st-note.com/img/1793166571-zYfhmJuTIqaDkM9CtLoB12A6.jpg"
+        },
+        {
+          "role": "creator-original-file",
+          "title": "Ali · 3",
+          "url": "https://assets.st-note.com/img/1793166582-0U381Xqd2GQ6oTiZfcjysW5N.jpg"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-28",
+      "publicationDateBasis": "creator-publication-page",
+      "evidence": {
+        "path": "content/research/2026-11-27/ali-ai-workplace-extra-commit.json",
+        "sha256": "4d057ff3e7ee74fb86378fdcb6f8001bd9578ffa0350eeca7d3d9a7bfe83e108",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:53:37.938Z",
+        "httpStatus": 200,
+        "scope": "Author publication identity, time and selected original image URLs verified in isolated Chrome. Source CDN bytes were retained locally and identified by SHA-256. No separate republication permission for this atlas was located in the reviewed article."
+      }
+    },
+    {
+      "id": "bv1rpnz6pejf",
+      "bvid": "BV1Rpnz6pEJF",
+      "category": "animation",
+      "subtype": "story",
+      "title": {
+        "zh": "饭桶勇者今天也在还债 · 第 1 集",
+        "en": "Rice-Bowl Hero Still in Debt · Episode 1",
+        "ja": "ごはん勇者は今日も返済中 · 第1話"
+      },
+      "url": "https://www.bilibili.com/video/BV1Rpnz6pEJF/",
+      "publisher": "一支小馋猫",
+      "sourceTitle": "DeepSeek娘手滑按了一下，被召唤到异世界还倒欠一百万【饭桶勇者EP01·完整版】",
+      "summary": {
+        "zh": "预告对应的完整版。大肥鱼误触符元，到了异世界便欠下一百万。",
+        "en": "The full episode paired with the teaser. Fat Fish triggers a token and arrives in another world a million in debt.",
+        "ja": "予告に対応する完全版。大きな魚が符を誤って起動し、異世界で百万の借金を負う。"
+      },
+      "rights": {
+        "zh": "提供原投稿。视频、音乐和角色形象遵循各权利方条款。",
+        "en": "Links to the original upload. Video, music and artwork follow their respective rights holders’ terms.",
+        "ja": "原投稿を案内。動画・楽曲・画像は各権利者の条件に従います。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "一支小馋猫",
+          "url": "https://space.bilibili.com/3744982187904965"
+        },
+        {
+          "role": "related-episode",
+          "title": "饭桶勇者 · 预告",
+          "url": "https://www.bilibili.com/video/BV1Yxnz6nEei/"
+        },
+        {
+          "role": "related-episode",
+          "title": "饭桶勇者 · EP02",
+          "url": "https://www.bilibili.com/video/BV1F6ny6jEow/"
+        },
+        {
+          "role": "credited-character-design-reference",
+          "title": "冬冰 · AI 中转站公寓",
+          "url": "https://www.bilibili.com/video/BV1t6nu6bEsf/"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-21",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-21T11:02:11.000Z",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1rpnz6pejf.json",
+        "sha256": "d73d6a2e90575420ba1fa8fcd6ddd249d3340b48bdc9f3e5b28e2c0c77e2678f",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:55:46.964Z",
+        "httpStatus": 200,
+        "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases."
+      },
+      "likes": {
+        "count": 1201,
+        "observedAt": "2026-11-27T11:55:46.964Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Rpnz6pEJF",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+          "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1f6ny6jeow",
+      "bvid": "BV1F6ny6jEow",
+      "category": "animation",
+      "subtype": "story",
+      "title": {
+        "zh": "饭桶勇者今天也在还债 · 第 2 集",
+        "en": "Rice-Bowl Hero Still in Debt · Episode 2",
+        "ja": "ごはん勇者は今日も返済中 · 第2話"
+      },
+      "url": "https://www.bilibili.com/video/BV1F6ny6jEow/",
+      "publisher": "一支小馋猫",
+      "sourceTitle": "鉴定结果：饭桶？DeepSeek娘被公会笑出声还签了十年白饭合同【饭桶勇者EP02】",
+      "summary": {
+        "zh": "公会的鉴定水晶给出「饭桶」职业，会长递来十年白饭合同。",
+        "en": "The guild’s crystal assigns the Rice Bowl class, and the guild leader offers a ten-year rice contract.",
+        "ja": "ギルドの水晶が職業を「飯桶」と判定し、会長が10年契約を差し出す。"
+      },
+      "rights": {
+        "zh": "提供原投稿。视频、音乐和角色形象遵循各权利方条款。",
+        "en": "Links to the original upload. Video, music and artwork follow their respective rights holders’ terms.",
+        "ja": "原投稿を案内。動画・楽曲・画像は各権利者の条件に従います。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "一支小馋猫",
+          "url": "https://space.bilibili.com/3744982187904965"
+        },
+        {
+          "role": "related-episode",
+          "title": "饭桶勇者 · 预告",
+          "url": "https://www.bilibili.com/video/BV1Yxnz6nEei/"
+        },
+        {
+          "role": "related-episode",
+          "title": "饭桶勇者 · EP01",
+          "url": "https://www.bilibili.com/video/BV1Rpnz6pEJF/"
+        },
+        {
+          "role": "credited-character-design-reference",
+          "title": "冬冰 · AI 中转站公寓",
+          "url": "https://www.bilibili.com/video/BV1t6nu6bEsf/"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-22",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-10-22T03:30:00.000Z",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1f6ny6jeow.json",
+        "sha256": "6d73d5c7d459ac43551d6a4a9d80ea2de29739b30f01f1d0d2bb51e5254452bb",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:55:47.104Z",
+        "httpStatus": 200,
+        "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases."
+      },
+      "likes": {
+        "count": 878,
+        "observedAt": "2026-11-27T11:55:47.104Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1F6ny6jEow",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+          "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1ppxx6ce9n",
+      "bvid": "BV1ppxx6CE9n",
+      "category": "animation",
+      "subtype": "mv",
+      "title": {
+        "zh": "大肥鱼翻唱 · 反乌托邦×拼接遗憾",
+        "en": "Fat Fish Cover · Dystopia Spliced",
+        "ja": "大きな魚のカバー · 反ユートピア・ミックス版"
+      },
+      "url": "https://www.bilibili.com/video/BV1ppxx6CE9n/",
+      "publisher": "一支小馋猫",
+      "sourceTitle": "“至少我还在为你而歌唱”——7个AI的『反乌托邦×拼接遗憾』【大肥鱼翻唱】【AI MV大赛】",
+      "summary": {
+        "zh": "七个拟人角色合作的歌词动画。投稿注明 Ciyo 的改编与角色出处。",
+        "en": "A lyric-animation collaboration with seven personified characters. The upload credits Ciyo’s arrangement and the design references.",
+        "ja": "擬人化キャラクター7人で制作した歌詞アニメ。Ciyo の編曲版とデザインの出典を記載。"
+      },
+      "rights": {
+        "zh": "提供原投稿。视频、音乐和角色形象遵循各权利方条款。",
+        "en": "Links to the original upload. Video, music and artwork follow their respective rights holders’ terms.",
+        "ja": "原投稿を案内。動画・楽曲・画像は各権利者の条件に従います。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "一支小馋猫",
+          "url": "https://space.bilibili.com/3744982187904965"
+        },
+        {
+          "role": "credited-character-design-reference",
+          "title": "冬冰 · AI 中转站公寓",
+          "url": "https://www.bilibili.com/video/BV1t6nu6bEsf/"
+        },
+        {
+          "role": "uploader-cited-voice-model",
+          "title": "BV1cbH56KER3",
+          "url": "https://www.bilibili.com/video/BV1cbH56KER3/"
+        },
+        {
+          "role": "song-author-release",
+          "title": "乌托邦P / 盐雾 / 见过夏天P · Ciyo",
+          "url": "https://www.bilibili.com/video/BV1UJ5j6eEse/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-01",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-01T12:59:08.000Z",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1ppxx6ce9n.json",
+        "sha256": "98b3d8845e61aa103bfd32a2d60dc90d49dc6e199bd90172f28d3946dc9827a3",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:55:48.818Z",
+        "httpStatus": 200,
+        "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases."
+      },
+      "likes": {
+        "count": 5796,
+        "observedAt": "2026-11-27T11:55:48.818Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ppxx6CE9n",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+          "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1pqydz1eth",
+      "bvid": "BV1pQyDz1ETH",
+      "category": "animation",
+      "subtype": "story",
+      "title": {
+        "zh": "AI 中转站公寓 · 外头路宽，您多保重",
+        "en": "AI Transit Station Apartment · Take Care Out There",
+        "ja": "AI 中継所アパート · 外でもどうかお元気で"
+      },
+      "url": "https://www.bilibili.com/video/BV1pQyDz1ETH/",
+      "publisher": "冬冰",
+      "sourceTitle": "外头路宽，您多保重",
+      "summary": {
+        "zh": "附发布者及 B 站累计点赞观测。",
+        "en": "Original upload and the Bilibili cumulative likes observation.",
+        "ja": "原投稿と Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "提供原投稿。视频、音乐和角色形象遵循各权利方条款。",
+        "en": "Links to the original upload. Video, music and artwork follow their respective rights holders’ terms.",
+        "ja": "原投稿を案内。動画・楽曲・画像は各権利者の条件に従います。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "冬冰",
+          "url": "https://space.bilibili.com/44748304"
+        },
+        {
+          "role": "related-episode",
+          "title": "冬冰 · 压力一只大肥鱼？",
+          "url": "https://www.bilibili.com/video/BV1t6nu6bEsf/"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-23",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-23T09:18:01.000Z",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1pqydz1eth.json",
+        "sha256": "96fbc0b547fa1350a956c1b5a295543f743121492d1c34ca1094c0492dbaf4d6",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:55:48.849Z",
+        "httpStatus": 200,
+        "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases."
+      },
+      "likes": {
+        "count": 24839,
+        "observedAt": "2026-11-27T11:55:48.849Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pQyDz1ETH",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+          "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1xt1wz3enj",
+      "bvid": "BV1xt1Wz3ENj",
+      "category": "animation",
+      "subtype": "story",
+      "title": {
+        "zh": "AI 中转站公寓 · 那是你腿短略略略",
+        "en": "AI Transit Station Apartment · Your Legs Are Too Short",
+        "ja": "AI 中継所アパート · 足が短いんだよ"
+      },
+      "url": "https://www.bilibili.com/video/BV1xt1Wz3ENj/",
+      "publisher": "冬冰",
+      "sourceTitle": "那是你腿短略略略【AI整活放映厅】",
+      "summary": {
+        "zh": "附发布者及 B 站累计点赞观测。",
+        "en": "Original upload and the Bilibili cumulative likes observation.",
+        "ja": "原投稿と Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "提供原投稿。视频、音乐和角色形象遵循各权利方条款。",
+        "en": "Links to the original upload. Video, music and artwork follow their respective rights holders’ terms.",
+        "ja": "原投稿を案内。動画・楽曲・画像は各権利者の条件に従います。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "冬冰",
+          "url": "https://space.bilibili.com/44748304"
+        },
+        {
+          "role": "related-episode",
+          "title": "冬冰 · 压力一只大肥鱼？",
+          "url": "https://www.bilibili.com/video/BV1t6nu6bEsf/"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-27",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-27T08:36:26.000Z",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1xt1wz3enj.json",
+        "sha256": "e6e38279bf31458a1fba5b0aae799858af3205274aef8c93872c6a8dab929312",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:55:50.387Z",
+        "httpStatus": 200,
+        "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases."
+      },
+      "likes": {
+        "count": 7964,
+        "observedAt": "2026-11-27T11:55:50.387Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xt1Wz3ENj",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+          "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1elxq65etu",
+      "bvid": "BV1ELxQ65Etu",
+      "category": "animation",
+      "subtype": "mv",
+      "title": {
+        "zh": "大肥鱼与 Claude · ヤラララ",
+        "en": "Fat Fish and Claude · YARARARA",
+        "ja": "大きな魚と Claude · ヤラララ"
+      },
+      "url": "https://www.bilibili.com/video/BV1ELxQ65Etu/",
+      "publisher": "A_CONSTANT",
+      "sourceTitle": "【Deepseek大肥鱼&Claude娘/手(?)书】Deepseek和Claude的ヤラララ(YARARARA)！",
+      "summary": {
+        "zh": "投稿署名 ABM 与重音テト，说明以 PixiJS 等工具重建 PV 动效。",
+        "en": "The upload credits ABM and Kasane Teto and describes recreating the PV animation with PixiJS and other tools.",
+        "ja": "ABM と重音テトをクレジットし、PixiJS などで PV の動きを再構築したと記載。"
+      },
+      "rights": {
+        "zh": "提供原投稿。视频、音乐和角色形象遵循各权利方条款。",
+        "en": "Links to the original upload. Video, music and artwork follow their respective rights holders’ terms.",
+        "ja": "原投稿を案内。動画・楽曲・画像は各権利者の条件に従います。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "A_CONSTANT",
+          "url": "https://space.bilibili.com/289661701"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "uploader-cited-subtitles",
+          "title": "BV1NPGd6wE4g",
+          "url": "https://www.bilibili.com/video/BV1NPGd6wE4g/"
+        },
+        {
+          "role": "song-author-release",
+          "title": "AnythingBecomeMoe feat. 重音テト",
+          "url": "https://www.youtube.com/watch?v=EihviT34cR0"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-04",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-04T07:56:34.000Z",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1elxq65etu.json",
+        "sha256": "57b42c6e69a9154a50ab847d708a94d5338dc07ab93483b6bb9c5d843831c538",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:55:50.359Z",
+        "httpStatus": 200,
+        "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases."
+      },
+      "likes": {
+        "count": 1206,
+        "observedAt": "2026-11-27T11:55:50.359Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ELxQ65Etu",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+          "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1obx26feo8",
+      "bvid": "BV1obx26FEo8",
+      "category": "animation",
+      "subtype": "story",
+      "title": {
+        "zh": "DeepSeek × Claude · 钟声未歇",
+        "en": "DeepSeek × Claude · The Bells Still Ring",
+        "ja": "DeepSeek × Claude · 鐘の音はまだ響く"
+      },
+      "url": "https://www.bilibili.com/video/BV1obx26FEo8/",
+      "publisher": "马德里公社-Valeri",
+      "sourceTitle": "【DeepSeek x Claude】还能再见吗？她与她的人尽皆知的旧迹",
+      "summary": {
+        "zh": "圣堂少女与河岸的蓝发姑娘相遇。投稿注明上善无形的原型和 ZipZipPipe 的角色设计。",
+        "en": "A girl from a chapel meets a blue-haired girl from the riverbank. The upload credits 上善无形’s original and ZipZipPipe’s designs.",
+        "ja": "聖堂の少女が川岸の青髪の少女と出会う。上善无形 の原案と ZipZipPipe のデザインを記載。"
+      },
+      "rights": {
+        "zh": "提供原投稿。视频、音乐和角色形象遵循各权利方条款。",
+        "en": "Links to the original upload. Video, music and artwork follow their respective rights holders’ terms.",
+        "ja": "原投稿を案内。動画・楽曲・画像は各権利者の条件に従います。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "马德里公社-Valeri",
+          "url": "https://space.bilibili.com/15450222"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-04",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-04T03:30:00.000Z",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1obx26feo8.json",
+        "sha256": "847349f48e396ab28df8f70af9574c182381dec397cf16f4e8cf3534146a3435",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:55:51.888Z",
+        "httpStatus": 200,
+        "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases."
+      },
+      "likes": {
+        "count": 5,
+        "observedAt": "2026-11-27T11:55:51.888Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1obx26FEo8",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+          "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1pxsv6reet",
+      "bvid": "BV1pXsV6rEeT",
+      "category": "animation",
+      "subtype": "mv",
+      "title": {
+        "zh": "新模型也换不掉本鲸",
+        "en": "A New Model Can’t Replace This Whale",
+        "ja": "新モデルでもこのクジラの代わりにはならない"
+      },
+      "url": "https://www.bilibili.com/video/BV1pXsV6rEeT/",
+      "publisher": "鲸鱼娘阿饱",
+      "sourceTitle": "大肥鱼原创歌《新模型也换不掉本鲸》",
+      "summary": {
+        "zh": "附发布者及 B 站累计点赞观测。",
+        "en": "Original upload and the Bilibili cumulative likes observation.",
+        "ja": "原投稿と Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "提供原投稿。视频、音乐和角色形象遵循各权利方条款。",
+        "en": "Links to the original upload. Video, music and artwork follow their respective rights holders’ terms.",
+        "ja": "原投稿を案内。動画・楽曲・画像は各権利者の条件に従います。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "鲸鱼娘阿饱",
+          "url": "https://space.bilibili.com/3747575580592858"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-14",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-14T12:18:43.000Z",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1pxsv6reet.json",
+        "sha256": "46347b0f58c088caea6c0155372212115a34345489ccabbc68baf03d7e269ca5",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:55:57.965Z",
+        "httpStatus": 200,
+        "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases."
+      },
+      "likes": {
+        "count": 621,
+        "observedAt": "2026-11-27T11:55:57.965Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pXsV6rEeT",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+          "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv18nwo6zepr",
+      "bvid": "BV18NWo6zEpR",
+      "category": "animation",
+      "subtype": "mv",
+      "title": {
+        "zh": "光之大肥鱼 · 片尾曲 2",
+        "en": "Fat Fish of Light · Ending 2",
+        "ja": "光の大きな魚 · ED2"
+      },
+      "url": "https://www.bilibili.com/video/BV18NWo6zEpR/",
+      "publisher": "日常被背刺",
+      "sourceTitle": "【11月新番】光之大肥鱼ed2",
+      "summary": {
+        "zh": "附发布者及 B 站累计点赞观测。",
+        "en": "Original upload and the Bilibili cumulative likes observation.",
+        "ja": "原投稿と Bilibili の累計いいね観測を掲載。"
+      },
+      "rights": {
+        "zh": "提供原投稿。视频、音乐和角色形象遵循各权利方条款。",
+        "en": "Links to the original upload. Video, music and artwork follow their respective rights holders’ terms.",
+        "ja": "原投稿を案内。動画・楽曲・画像は各権利者の条件に従います。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "日常被背刺",
+          "url": "https://space.bilibili.com/358252221"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://space.bilibili.com/4168597"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-13",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-12T16:19:23.000Z",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv18nwo6zepr.json",
+        "sha256": "ac1fa8e73f8fcbd25ba69c9b972f5514e6a1fae8cf139d6fc5cce501a9459cf5",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:55:57.963Z",
+        "httpStatus": 200,
+        "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases."
+      },
+      "likes": {
+        "count": 155,
+        "observedAt": "2026-11-27T11:55:57.963Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18NWo6zEpR",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+          "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1ffan68e1d",
+      "bvid": "BV1fFaN68E1D",
+      "category": "animation",
+      "subtype": "mv",
+      "title": {
+        "zh": "大肥鱼与豆包 · 我就想吃大白饭",
+        "en": "Fat Fish and Doubao · I Just Want a Bowl of Rice",
+        "ja": "大きな魚と豆包 · 白ごはんが食べたいだけ"
+      },
+      "url": "https://www.bilibili.com/video/BV1fFaN68E1D/",
+      "publisher": "Anria_",
+      "sourceTitle": "蓝色大肥鱼X豆包双傻合璧给我的游戏做了个雷霆主题曲PV《我就想吃大白饭》",
+      "summary": {
+        "zh": "《鲸鱼娘养成计划》的主题曲 PV。发布者给出 B 站游戏地址，并标注音乐使用 Suno。",
+        "en": "A theme-song PV for Whale Girl Raising Project. The uploader links the game and credits Suno for the music.",
+        "ja": "「クジラ娘育成計画」の主題歌PV。投稿者がゲームを案内し、楽曲に Suno を使用と記載。"
+      },
+      "rights": {
+        "zh": "提供原投稿。视频、音乐和角色形象遵循各权利方条款。",
+        "en": "Links to the original upload. Video, music and artwork follow their respective rights holders’ terms.",
+        "ja": "原投稿を案内。動画・楽曲・画像は各権利者の条件に従います。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "Anria_",
+          "url": "https://space.bilibili.com/928415"
+        },
+        {
+          "role": "uploader-linked-game",
+          "title": "鲸鱼娘养成计划",
+          "url": "https://www.bilibili.com/toy/xiaojingyu/index.html"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-09-24",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-09-24T13:13:37.000Z",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1ffan68e1d.json",
+        "sha256": "75682b145e6acd1edb4ba25df06c5f4d54781f1166f0b19d3b85467101e5ed39",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:55:59.503Z",
+        "httpStatus": 200,
+        "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases."
+      },
+      "likes": {
+        "count": 231,
+        "observedAt": "2026-11-27T11:55:59.503Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fFaN68E1D",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+          "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1h8yxz9env",
+      "bvid": "BV1h8yxz9ENV",
+      "category": "animation",
+      "subtype": "mv",
+      "title": {
+        "zh": "蓝色奇迹",
+        "en": "Blue Miracle",
+        "ja": "青い奇跡"
+      },
+      "url": "https://www.bilibili.com/video/BV1h8yxz9ENV/",
+      "publisher": "鲸昭不睡",
+      "sourceTitle": "鲸昭｜蓝色奇迹（大肥鱼原创·AI声音合成）",
+      "summary": {
+        "zh": "鲸昭原创作词，投稿署名网易天音作曲和 AI 合成演唱。",
+        "en": "Jingzhao wrote the lyrics. The upload credits NetEase Tianyin for composition and AI for the vocals.",
+        "ja": "作詞は鲸昭。作曲は NetEase 天音、歌唱は AI 合成と記載。"
+      },
+      "rights": {
+        "zh": "提供原投稿。视频、音乐和角色形象遵循各权利方条款。",
+        "en": "Links to the original upload. Video, music and artwork follow their respective rights holders’ terms.",
+        "ja": "原投稿を案内。動画・楽曲・画像は各権利者の条件に従います。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "鲸昭不睡",
+          "url": "https://space.bilibili.com/3461581006440740"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-21",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-21T00:00:00.000Z",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1h8yxz9env.json",
+        "sha256": "d180abe3e4fff52f0157d69553e52fb422a695715a5b08e8d3a11d652e01bf86",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:55:51.892Z",
+        "httpStatus": 200,
+        "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases."
+      },
+      "likes": {
+        "count": 10,
+        "observedAt": "2026-11-27T11:55:51.892Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1h8yxz9ENV",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+          "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1qps86kekt",
+      "bvid": "BV1Qps86KEkt",
+      "category": "animation",
+      "subtype": "mv",
+      "title": {
+        "zh": "喵力全开",
+        "en": "Cat Power at Full Blast",
+        "ja": "ネコパワー全開"
+      },
+      "url": "https://www.bilibili.com/video/BV1Qps86KEkt/",
+      "publisher": "鲸昭不睡",
+      "sourceTitle": "鲸昭｜喵力全开（大肥鱼原创·AI声音合成）",
+      "summary": {
+        "zh": "鲸昭原创作词，投稿署名网易天音作曲和 AI 合成演唱。",
+        "en": "Jingzhao wrote the lyrics. The upload credits NetEase Tianyin for composition and AI for the vocals.",
+        "ja": "作詞は鲸昭。作曲は NetEase 天音、歌唱は AI 合成と記載。"
+      },
+      "rights": {
+        "zh": "提供原投稿。视频、音乐和角色形象遵循各权利方条款。",
+        "en": "Links to the original upload. Video, music and artwork follow their respective rights holders’ terms.",
+        "ja": "原投稿を案内。動画・楽曲・画像は各権利者の条件に従います。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "鲸昭不睡",
+          "url": "https://space.bilibili.com/3461581006440740"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-20",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-20T00:00:00.000Z",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1qps86kekt.json",
+        "sha256": "4afa258f3dca2b6518836dd16fb5a986d1f0826051a39e830e4a520df881dbae",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:55:53.439Z",
+        "httpStatus": 200,
+        "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases."
+      },
+      "likes": {
+        "count": 6,
+        "observedAt": "2026-11-27T11:55:53.439Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Qps86KEkt",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+          "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1ksss6jel1",
+      "bvid": "BV1KSsS6JEL1",
+      "category": "animation",
+      "subtype": "mv",
+      "title": {
+        "zh": "深海电子梦",
+        "en": "Deep-Sea Electronic Dream",
+        "ja": "深海エレクトロ・ドリーム"
+      },
+      "url": "https://www.bilibili.com/video/BV1KSsS6JEL1/",
+      "publisher": "鲸昭不睡",
+      "sourceTitle": "鲸昭｜深海电子梦（大肥鱼原创·AI声音合成）",
+      "summary": {
+        "zh": "鲸昭原创作词，投稿署名网易天音作曲和 AI 合成演唱。",
+        "en": "Jingzhao wrote the lyrics. The upload credits NetEase Tianyin for composition and AI for the vocals.",
+        "ja": "作詞は鲸昭。作曲は NetEase 天音、歌唱は AI 合成と記載。"
+      },
+      "rights": {
+        "zh": "提供原投稿。视频、音乐和角色形象遵循各权利方条款。",
+        "en": "Links to the original upload. Video, music and artwork follow their respective rights holders’ terms.",
+        "ja": "原投稿を案内。動画・楽曲・画像は各権利者の条件に従います。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "鲸昭不睡",
+          "url": "https://space.bilibili.com/3461581006440740"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-19",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-19T00:00:00.000Z",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1ksss6jel1.json",
+        "sha256": "660bd81b48d19130fef228ec729005247c6dd78b482920268d7d1f5651b6c3bc",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:55:53.392Z",
+        "httpStatus": 200,
+        "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases."
+      },
+      "likes": {
+        "count": 10,
+        "observedAt": "2026-11-27T11:55:53.392Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KSsS6JEL1",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+          "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1nbsg6herd",
+      "bvid": "BV1nbsg6hERd",
+      "category": "animation",
+      "subtype": "mv",
+      "title": {
+        "zh": "心海出发",
+        "en": "Set Sail from the Sea of the Heart",
+        "ja": "心の海から出発"
+      },
+      "url": "https://www.bilibili.com/video/BV1nbsg6hERd/",
+      "publisher": "鲸昭不睡",
+      "sourceTitle": "鲸昭｜心海出发（大肥鱼原创·AI声音合成）",
+      "summary": {
+        "zh": "鲸昭原创作词，投稿署名网易天音作曲和 AI 合成演唱。",
+        "en": "Jingzhao wrote the lyrics. The upload credits NetEase Tianyin for composition and AI for the vocals.",
+        "ja": "作詞は鲸昭。作曲は NetEase 天音、歌唱は AI 合成と記載。"
+      },
+      "rights": {
+        "zh": "提供原投稿。视频、音乐和角色形象遵循各权利方条款。",
+        "en": "Links to the original upload. Video, music and artwork follow their respective rights holders’ terms.",
+        "ja": "原投稿を案内。動画・楽曲・画像は各権利者の条件に従います。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "鲸昭不睡",
+          "url": "https://space.bilibili.com/3461581006440740"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-18",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-18T00:00:00.000Z",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1nbsg6herd.json",
+        "sha256": "cb53ea8694d1c9b8fce1ecc210480e160b7e3fee00ee9de8bfed884fbb9d5ce9",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:55:54.946Z",
+        "httpStatus": 200,
+        "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases."
+      },
+      "likes": {
+        "count": 14,
+        "observedAt": "2026-11-27T11:55:54.946Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nbsg6hERd",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+          "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1mnsa6xeer",
+      "bvid": "BV1MnsA6XEer",
+      "category": "animation",
+      "subtype": "mv",
+      "title": {
+        "zh": "只为你闪耀",
+        "en": "Shine Just for You",
+        "ja": "君のためだけに輝く"
+      },
+      "url": "https://www.bilibili.com/video/BV1MnsA6XEer/",
+      "publisher": "鲸昭不睡",
+      "sourceTitle": "鲸昭｜只为你闪耀（大肥鱼原创·AI声音合成）",
+      "summary": {
+        "zh": "鲸昭原创作词，投稿署名网易天音作曲和 AI 合成演唱。",
+        "en": "Jingzhao wrote the lyrics. The upload credits NetEase Tianyin for composition and AI for the vocals.",
+        "ja": "作詞は鲸昭。作曲は NetEase 天音、歌唱は AI 合成と記載。"
+      },
+      "rights": {
+        "zh": "提供原投稿。视频、音乐和角色形象遵循各权利方条款。",
+        "en": "Links to the original upload. Video, music and artwork follow their respective rights holders’ terms.",
+        "ja": "原投稿を案内。動画・楽曲・画像は各権利者の条件に従います。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "鲸昭不睡",
+          "url": "https://space.bilibili.com/3461581006440740"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-17",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-17T00:00:00.000Z",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1mnsa6xeer.json",
+        "sha256": "8581b3ad611e3079edcfff41ce6afd8b95fb4c583c9f1c7f02b7541dfafa7803",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:55:54.943Z",
+        "httpStatus": 200,
+        "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases."
+      },
+      "likes": {
+        "count": 11,
+        "observedAt": "2026-11-27T11:55:54.943Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1MnsA6XEer",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+          "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1xosj6aetc",
+      "bvid": "BV1xosJ6AEtC",
+      "category": "animation",
+      "subtype": "mv",
+      "title": {
+        "zh": "蓝色心动！HAKIMI",
+        "en": "Blue Heartbeat! HAKIMI",
+        "ja": "青いときめき！HAKIMI"
+      },
+      "url": "https://www.bilibili.com/video/BV1xosJ6AEtC/",
+      "publisher": "鲸昭不睡",
+      "sourceTitle": "鲸昭｜蓝色心动！HAKIMI（大肥鱼原创 · AI声音合成）",
+      "summary": {
+        "zh": "鲸昭原创作词，投稿署名网易天音作曲和 AI 合成演唱。",
+        "en": "Jingzhao wrote the lyrics. The upload credits NetEase Tianyin for composition and AI for the vocals.",
+        "ja": "作詞は鲸昭。作曲は NetEase 天音、歌唱は AI 合成と記載。"
+      },
+      "rights": {
+        "zh": "提供原投稿。视频、音乐和角色形象遵循各权利方条款。",
+        "en": "Links to the original upload. Video, music and artwork follow their respective rights holders’ terms.",
+        "ja": "原投稿を案内。動画・楽曲・画像は各権利者の条件に従います。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "鲸昭不睡",
+          "url": "https://space.bilibili.com/3461581006440740"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-16",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-16T00:15:00.000Z",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1xosj6aetc.json",
+        "sha256": "d1628062ad3863aa6e4c4ca7615173c9077349c71a5f74f0e3a63f95c556ce7d",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:55:56.455Z",
+        "httpStatus": 200,
+        "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases."
+      },
+      "likes": {
+        "count": 21,
+        "observedAt": "2026-11-27T11:55:56.455Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xosJ6AEtC",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+          "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1kys56ve2d",
+      "bvid": "BV1kYs56VE2d",
+      "category": "animation",
+      "subtype": "mv",
+      "title": {
+        "zh": "鲸落星眠",
+        "en": "Whale Fall Under Sleeping Stars",
+        "ja": "鯨の落ちる海、星の眠り"
+      },
+      "url": "https://www.bilibili.com/video/BV1kYs56VE2d/",
+      "publisher": "鲸昭不睡",
+      "sourceTitle": "鲸昭｜鲸落星眠（大肥鱼原创 · AI声音合成）",
+      "summary": {
+        "zh": "鲸昭原创作词，投稿署名网易天音作曲和 AI 合成演唱。",
+        "en": "Jingzhao wrote the lyrics. The upload credits NetEase Tianyin for composition and AI for the vocals.",
+        "ja": "作詞は鲸昭。作曲は NetEase 天音、歌唱は AI 合成と記載。"
+      },
+      "rights": {
+        "zh": "提供原投稿。视频、音乐和角色形象遵循各权利方条款。",
+        "en": "Links to the original upload. Video, music and artwork follow their respective rights holders’ terms.",
+        "ja": "原投稿を案内。動画・楽曲・画像は各権利者の条件に従います。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "鲸昭不睡",
+          "url": "https://space.bilibili.com/3461581006440740"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-15",
+      "publicationDateBasis": "bilibili-pubdate",
+      "publishedAt": "2026-11-15T00:00:00.000Z",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1kys56ve2d.json",
+        "sha256": "d30e67fe143d48f410e83086de3c68fcf40c961a4a14f1f14f2888d04687a9b0",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:55:56.455Z",
+        "httpStatus": 200,
+        "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases."
+      },
+      "likes": {
+        "count": 12,
+        "observedAt": "2026-11-27T11:55:56.455Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kYs56VE2d",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+          "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "tsukumo-spirit-flame-companion",
+      "category": "interactive",
+      "title": {
+        "zh": "Tsukumo · 精灵火桌面搭档",
+        "en": "Tsukumo · Spirit Flame Desktop Companion",
+        "ja": "Tsukumo · 鬼火のデスクトップ相棒"
+      },
+      "summary": {
+        "zh": "Windows 桌面上的精灵火，带本地语音、口型和换装，可连接多种编码助手。",
+        "en": "A Windows spirit flame with local speech, lip-sync and accessories, designed for several coding agents.",
+        "ja": "Windows に常駐する鬼火。ローカル音声・口パク・着せ替えに対応し、複数のコーディングエージェントと連携。"
+      },
+      "rights": {
+        "zh": "代码采用 AGPL-3.0。README 另列外部语音、识别等组件的许可；角色图保留项目出处。",
+        "en": "Code uses AGPL-3.0. The README lists separate licenses for speech and recognition dependencies. Character visuals link to the project.",
+        "ja": "コードは AGPL-3.0。音声・認識などの依存項目の条件を README に別記。キャラクター画像はプロジェクトの出典を案内。"
+      },
+      "publisher": "Ananas2916",
+      "url": "https://github.com/Ananas2916/tsukumo/blob/b05367b23494c2cb35d745b0f7c0f7a9885ca503/README.md",
+      "relations": [
+        {
+          "role": "code-license",
+          "title": "Ananas2916 · LICENSE",
+          "url": "https://github.com/Ananas2916/tsukumo/blob/b05367b23494c2cb35d745b0f7c0f7a9885ca503/LICENSE"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-09-23",
+      "publicationDateBasis": "github-repository-created",
+      "evidence": {
+        "path": "content/research/2026-11-27/tsukumo-spirit-flame-companion.json",
+        "sha256": "235445a9a03b65aba64f0003a7c0f80fbf3958b771e675b7f6157609091cb153",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:57:36.345Z",
+        "httpStatus": 200,
+        "scope": "Pinned publisher documentation and available code and artwork terms were verified by Git blob and SHA-256. No third-party software was run."
+      }
+    },
+    {
+      "id": "desuqcafe-miku-yunseul-cc-mascot",
+      "category": "interactive",
+      "title": {
+        "zh": "Claude Code 桌宠 · 初音未来与 Yunseul",
+        "en": "Claude Code Mascot · Hatsune Miku and Yunseul",
+        "ja": "Claude Code マスコット · 初音ミクと Yunseul"
+      },
+      "summary": {
+        "zh": "Windows 桌宠用两个角色显示 Claude Code 的等待、处理和完成状态。",
+        "en": "Two Windows mascots animate Claude Code’s waiting, working and completion states.",
+        "ja": "2人の Windows マスコットが Claude Code の待機・処理・完了を表現。"
+      },
+      "rights": {
+        "zh": "代码采用 MIT。初音未来二创依据 Piapro 角色许可。原创 Yunseul 美术仅按作者声明供插件及其副本使用。",
+        "en": "Code is MIT. Hatsune Miku fan art follows the Piapro Character License. The creator limits Yunseul art to the plugin and its copies.",
+        "ja": "コードは MIT。初音ミクの二次創作にはピアプロ・キャラクター・ライセンスを適用。Yunseul は作者声明に従いプラグインとその複製内で使用。"
+      },
+      "publisher": "desuqcafe",
+      "url": "https://github.com/desuqcafe/cc-mascot/blob/d68e7a2335f5ada7ac4feedb37fa2b4c9db9d19a/README.md",
+      "relations": [
+        {
+          "role": "artwork-terms",
+          "title": "desuqcafe · NOTICE.md",
+          "url": "https://github.com/desuqcafe/cc-mascot/blob/d68e7a2335f5ada7ac4feedb37fa2b4c9db9d19a/art/NOTICE.md"
+        },
+        {
+          "role": "upstream-character-terms",
+          "title": "Crypton · Piapro Character License",
+          "url": "https://piapro.net/intl/en_for_creators.html"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-03",
+      "publicationDateBasis": "github-repository-created",
+      "evidence": {
+        "path": "content/research/2026-11-27/desuqcafe-miku-yunseul-cc-mascot.json",
+        "sha256": "58bbc77bfe3175ca9ba623291f9a379f219ab34a41ef3a6c8ea661ee6f621317",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:57:36.482Z",
+        "httpStatus": 200,
+        "scope": "Pinned publisher documentation and available code and artwork terms were verified by Git blob and SHA-256. No third-party software was run."
+      }
+    },
+    {
+      "id": "kazakago-voice-cc-mascot",
+      "category": "interactive",
+      "title": {
+        "zh": "CC Mascot · AivisSpeech 语音桌宠",
+        "en": "CC Mascot · AivisSpeech Voice Mascot",
+        "ja": "CC Mascot · AivisSpeech 音声マスコット"
+      },
+      "summary": {
+        "zh": "把 Claude Code、Codex 与 Antigravity 的回应交给桌面角色朗读。",
+        "en": "A desktop mascot reads replies from Claude Code, Codex and Antigravity aloud.",
+        "ja": "Claude Code・Codex・Antigravity の応答をデスクトップキャラクターが読み上げる。"
+      },
+      "rights": {
+        "zh": "项目代码采用 Apache 2.0。语音模型和外部图件以各自条款为准。",
+        "en": "The project code uses Apache 2.0. Voice models and external images follow their own terms.",
+        "ja": "コードは Apache 2.0。音声モデルと外部画像は個別の条件に従います。"
+      },
+      "publisher": "kazakago",
+      "url": "https://github.com/kazakago/cc-mascot/blob/0fc1673fe8f23aeea6a4d0ef0e7e94eb05834639/README.md",
+      "relations": [
+        {
+          "role": "code-license",
+          "title": "kazakago · LICENSE",
+          "url": "https://github.com/kazakago/cc-mascot/blob/0fc1673fe8f23aeea6a4d0ef0e7e94eb05834639/LICENSE"
+        },
+        {
+          "role": "speech-engine",
+          "title": "AivisSpeech",
+          "url": "https://aivis-project.com/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-01-17",
+      "publicationDateBasis": "github-repository-created",
+      "evidence": {
+        "path": "content/research/2026-11-27/kazakago-voice-cc-mascot.json",
+        "sha256": "ff0fafbc2af58a1b55d22b84c4666d0ca17f358733580062d49ac1aa72903620",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:57:36.486Z",
+        "httpStatus": 200,
+        "scope": "Pinned publisher documentation and available code and artwork terms were verified by Git blob and SHA-256. No third-party software was run."
+      }
+    },
+    {
+      "id": "chibi-mcp-local-machine-mood",
+      "category": "interactive",
+      "title": {
+        "zh": "chibi-mcp · 用电脑状态表现心情",
+        "en": "chibi-mcp · Moods from Local Machine State",
+        "ja": "chibi-mcp · PC の状態で変わる気分"
+      },
+      "summary": {
+        "zh": "根据本机 CPU、内存、电量和空闲状态变化的桌宠，可用于 Claude Code、Codex 和 VS Code。",
+        "en": "A desktop chibi reacts to CPU, memory, battery and idle state across Claude Code, Codex and VS Code integrations.",
+        "ja": "CPU・メモリ・電池・アイドル状態に反応するちびキャラ。Claude Code・Codex・VS Code と連携。"
+      },
+      "rights": {
+        "zh": "代码采用 MIT。作者另列角色图、预览图与换装部件的许可，允许带署名的项目演示，并单独约束素材包。",
+        "en": "The code is MIT. Separate official-asset terms allow attributed project demos and set conditions for standalone art and creator packs.",
+        "ja": "コードは MIT。画像・着せ替え部品には別の条件があり、クレジット付きのデモと素材パックの条件を明記。"
+      },
+      "publisher": "soccz",
+      "url": "https://github.com/soccz/chibi-mcp/blob/b92d3574152081210b1a82471d074715e811e09f/README.md",
+      "relations": [
+        {
+          "role": "artwork-terms",
+          "title": "soccz · OFFICIAL_ASSET_TERMS.md",
+          "url": "https://github.com/soccz/chibi-mcp/blob/b92d3574152081210b1a82471d074715e811e09f/OFFICIAL_ASSET_TERMS.md"
+        },
+        {
+          "role": "asset-provenance",
+          "title": "soccz · ASSET_RIGHTS.md",
+          "url": "https://github.com/soccz/chibi-mcp/blob/b92d3574152081210b1a82471d074715e811e09f/ASSET_RIGHTS.md"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-05-18",
+      "publicationDateBasis": "github-repository-created",
+      "evidence": {
+        "path": "content/research/2026-11-27/chibi-mcp-local-machine-mood.json",
+        "sha256": "38f8287bdbcf20023f615d69f62fc3aacd89f9a7ee107d2491932ee173c35ed5",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:57:37.494Z",
+        "httpStatus": 200,
+        "scope": "Pinned publisher documentation and available code and artwork terms were verified by Git blob and SHA-256. No third-party software was run."
+      }
+    },
+    {
+      "id": "desktop-mascot-mcp-vrm-voice",
+      "category": "interactive",
+      "title": {
+        "zh": "Desktop Mascot MCP · VRM 语音角色",
+        "en": "Desktop Mascot MCP · VRM Voice Character",
+        "ja": "Desktop Mascot MCP · VRM 音声キャラクター"
+      },
+      "summary": {
+        "zh": "把 AI 工具的回应交给桌面的 3D VRM 角色，以语音和六类表情反馈。",
+        "en": "An MCP host sends AI tool replies to a 3D VRM desktop character with voice and six expressions.",
+        "ja": "AI ツールの応答をデスクトップの3D VRM キャラへ伝え、音声と6種類の表情で反応。"
+      },
+      "rights": {
+        "zh": "源代码采用 MIT；用户提供的 VRM 按其模型发布许可使用。",
+        "en": "Source code is MIT. Use externally supplied VRM models according to their distribution terms.",
+        "ja": "ソースコードは MIT。別途用意する VRM は各モデルの配布条件に従います。"
+      },
+      "publisher": "rennosuke-haresu",
+      "url": "https://github.com/rennosuke-haresu/desktop-mascot-mcp/blob/c56e1e674e7094c3dcba74f1ff5f65ea0c0758fe/README.md",
+      "relations": [
+        {
+          "role": "code-license",
+          "title": "rennosuke-haresu · LICENSE.md",
+          "url": "https://github.com/rennosuke-haresu/desktop-mascot-mcp/blob/c56e1e674e7094c3dcba74f1ff5f65ea0c0758fe/LICENSE.md"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-02-18",
+      "publicationDateBasis": "github-repository-created",
+      "evidence": {
+        "path": "content/research/2026-11-27/desktop-mascot-mcp-vrm-voice.json",
+        "sha256": "42b5ecde942c18338b3870ecf0cdf5a8544537d8f14b74a5f184ce13f80fad28",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:57:36.280Z",
+        "httpStatus": 200,
+        "scope": "Pinned publisher documentation and available code and artwork terms were verified by Git blob and SHA-256. No third-party software was run."
+      }
+    },
+    {
+      "id": "sumikko-mascot-character-parts",
+      "category": "interactive",
+      "title": {
+        "zh": "Sumikko Mascot · 从自己的角色图制作桌宠",
+        "en": "Sumikko Mascot · Bring Your Own Character",
+        "ja": "すみっこマスコット · 自分のキャラクターで作る"
+      },
+      "summary": {
+        "zh": "作者提供使用自有角色图分件制作 Windows 桌宠的工作流，以及三位试玩角色。",
+        "en": "A workflow for turning your own artwork into an articulated Windows mascot, with three sample characters.",
+        "ja": "自分の画像をパーツ分けして Windows マスコットを作る手順と、3人のお試しキャラクター。"
+      },
+      "rights": {
+        "zh": "代码与文档采用 MIT。同捆三位角色有独立的试玩和非商业展示条件，作者保留图件再分发与改编的权利。",
+        "en": "Code and docs are MIT. Separate terms cover trials and limited noncommercial display of the three bundled characters. The creator reserves redistribution and adaptation of the artwork.",
+        "ja": "コードと文書は MIT。同梱3キャラのお試しと非商用表示には個別条件があり、画像の再配布・改変は作者が権利を保持。"
+      },
+      "publisher": "rotejin",
+      "url": "https://github.com/rotejin/sumikko-mascot/blob/800933789d30c9ff665da4a201e15185ce0bc331/README.md",
+      "relations": [
+        {
+          "role": "artwork-terms",
+          "title": "rotejin · ASSETS.md",
+          "url": "https://github.com/rotejin/sumikko-mascot/blob/800933789d30c9ff665da4a201e15185ce0bc331/ASSETS.md"
+        },
+        {
+          "role": "translated-documentation",
+          "title": "rotejin · README.en.md",
+          "url": "https://github.com/rotejin/sumikko-mascot/blob/800933789d30c9ff665da4a201e15185ce0bc331/README.en.md"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-17",
+      "publicationDateBasis": "github-repository-created",
+      "evidence": {
+        "path": "content/research/2026-11-27/sumikko-mascot-character-parts.json",
+        "sha256": "9b709d0c2fd1726c5e1188799638b903158fe7890b94c0f1214c8b480472f070",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:57:36.887Z",
+        "httpStatus": 200,
+        "scope": "Pinned publisher documentation and available code and artwork terms were verified by Git blob and SHA-256. No third-party software was run."
+      }
+    },
+    {
+      "id": "hattori-agentcompanion-tokenpet",
+      "category": "interactive",
+      "title": {
+        "zh": "AgentCompanion · Codex 与 Claude 状态桌宠",
+        "en": "AgentCompanion · Codex and Claude Status Pet",
+        "ja": "AgentCompanion · Codex と Claude の状態ペット"
+      },
+      "summary": {
+        "zh": "以 Windows 桌宠呈现代理状态与用量，可导入宠物图集 ZIP。",
+        "en": "A Windows companion displays agent state and usage and accepts pet spritesheet ZIPs.",
+        "ja": "Windows でエージェント状態と使用量を表示し、キャラクター ZIP を取り込み可能。"
+      },
+      "rights": {
+        "zh": "项目采用 MIT。第三方声明把 TokenPet 的代码来源与三套同捆角色文件的 MIT 条款分开注明。",
+        "en": "The project is MIT. Third-party notices distinguish the TokenPet lineage and explicit MIT coverage for the three bundled characters, subject to directory notices.",
+        "ja": "プロジェクトは MIT。第三者声明に TokenPet の出典と、個別記載がある場合を除く同梱3キャラの MIT 条件を記載。"
+      },
+      "publisher": "k-hattori-itcs",
+      "url": "https://github.com/k-hattori-itcs/agent-companion/blob/89e2448e4f0056aed51f4eb508e26848dd264e5d/README.md",
+      "relations": [
+        {
+          "role": "artwork-terms",
+          "title": "k-hattori-itcs · THIRD_PARTY_NOTICES.md",
+          "url": "https://github.com/k-hattori-itcs/agent-companion/blob/89e2448e4f0056aed51f4eb508e26848dd264e5d/THIRD_PARTY_NOTICES.md"
+        },
+        {
+          "role": "upstream-code-notice",
+          "title": "k-hattori-itcs · NOTICE",
+          "url": "https://github.com/k-hattori-itcs/agent-companion/blob/89e2448e4f0056aed51f4eb508e26848dd264e5d/NOTICE"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-07-28",
+      "publicationDateBasis": "github-repository-created",
+      "evidence": {
+        "path": "content/research/2026-11-27/hattori-agentcompanion-tokenpet.json",
+        "sha256": "245bd970d5f61428f309a7f7fa7e68fd21142e9792d88d154a5b883ba86498fa",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:57:36.963Z",
+        "httpStatus": 200,
+        "scope": "Pinned publisher documentation and available code and artwork terms were verified by Git blob and SHA-256. No third-party software was run."
+      }
+    },
+    {
+      "id": "anna-haru-live2d-companion",
+      "category": "interactive",
+      "title": {
+        "zh": "Anna · Haru Live2D 编码搭档",
+        "en": "Anna · Haru Live2D Coding Companion",
+        "ja": "Anna · Haru Live2D コーディング相棒"
+      },
+      "summary": {
+        "zh": "带 Live2D 模型和对话的桌面应用，提供 Claude Code 与 Codex 的任务入口。",
+        "en": "A desktop app with a Live2D form and dialogue, with task integrations for Claude Code and Codex.",
+        "ja": "Live2D モデルと会話機能を備えたデスクトップアプリ。Claude Code と Codex のタスク連携を提供。"
+      },
+      "rights": {
+        "zh": "当前代码采用 PolyForm Noncommercial 1.0.0，v0.4.1 及以前按其原 MIT 条款。Haru 和 Cubism Core 遵循 Live2D 条件。",
+        "en": "Current code uses PolyForm Noncommercial 1.0.0. Versions through v0.4.1 retain MIT. Haru and Cubism Core follow Live2D’s separate terms.",
+        "ja": "現行コードは PolyForm Noncommercial 1.0.0。v0.4.1 以前は元の MIT。Haru と Cubism Core には Live2D の個別条件が適用。"
+      },
+      "publisher": "YuanyuanMa03",
+      "url": "https://github.com/YuanyuanMa03/anna/blob/7e9e119b38642b41db25983e7e8567d9c9d03160/README.md",
+      "relations": [
+        {
+          "role": "artwork-terms",
+          "title": "YuanyuanMa03 · NOTICE.md",
+          "url": "https://github.com/YuanyuanMa03/anna/blob/7e9e119b38642b41db25983e7e8567d9c9d03160/NOTICE.md"
+        },
+        {
+          "role": "code-license",
+          "title": "YuanyuanMa03 · LICENSE",
+          "url": "https://github.com/YuanyuanMa03/anna/blob/7e9e119b38642b41db25983e7e8567d9c9d03160/LICENSE"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-17",
+      "publicationDateBasis": "github-repository-created",
+      "evidence": {
+        "path": "content/research/2026-11-27/anna-haru-live2d-companion.json",
+        "sha256": "114b8ec040750f331aa8fd6a998c7d426b83077afca74c2f628752ac83a47fc8",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T11:57:36.710Z",
+        "httpStatus": 200,
+        "scope": "Pinned publisher documentation and available code and artwork terms were verified by Git blob and SHA-256. No third-party software was run."
       }
     }
   ]

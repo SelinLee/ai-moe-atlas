@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1MnsA6XEer/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1MnsA6XEer",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:55:54.943Z",
+  "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases.",
+  "metadata": {
+    "bvid": "BV1MnsA6XEer",
+    "title": "鲸昭｜只为你闪耀（大肥鱼原创·AI声音合成）",
+    "owner": {
+      "mid": 3461581006440740,
+      "name": "鲸昭不睡"
+    },
+    "pubdate": 1794873600,
+    "duration": 287
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "62a643ba11b554cad0a089c8fd974b682f4bb65dd974bfbf87bf3bef540adab8"
+}

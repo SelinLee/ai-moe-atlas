@@ -1,0 +1,61 @@
+{
+  "full_name": "desuqcafe/cc-mascot",
+  "html_url": "https://github.com/desuqcafe/cc-mascot",
+  "stargazers_count": 6,
+  "archived": false,
+  "created_at": "2026-10-03T07:14:20Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "d68e7a2335f5ada7ac4feedb37fa2b4c9db9d19a",
+  "observedAt": "2026-11-27T11:53:07.094Z",
+  "httpStatus": 200,
+  "metadataSha256": "e2002832520a4215e8fedc7509da1123bc3b55aa578a7f051070eb24405c1928",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/desuqcafe/cc-mascot/blob/d68e7a2335f5ada7ac4feedb37fa2b4c9db9d19a/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/desuqcafe/cc-mascot/d68e7a2335f5ada7ac4feedb37fa2b4c9db9d19a/README.md",
+      "sourceSha256": "833e86d01f678a564fe006ea10d22e208f2d24c425c4a38171034cf846c92e41",
+      "gitBlobSha": "27c6816cad7b9bb9513f749ab546fe2de14b2bfa",
+      "bytes": 17016,
+      "commit": "d68e7a2335f5ada7ac4feedb37fa2b4c9db9d19a",
+      "accessedAt": "2026-11-27T11:57:36.054Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/desuqcafe/cc-mascot/blob/d68e7a2335f5ada7ac4feedb37fa2b4c9db9d19a/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/desuqcafe/cc-mascot/d68e7a2335f5ada7ac4feedb37fa2b4c9db9d19a/LICENSE",
+      "sourceSha256": "b09502f14a7440ae3e675fe029720e8733660a0249f107733860079a39098db4",
+      "gitBlobSha": "d8734129eeddf29936857f5de92e090bd305d6d0",
+      "bytes": 1066,
+      "commit": "d68e7a2335f5ada7ac4feedb37fa2b4c9db9d19a",
+      "accessedAt": "2026-11-27T11:57:36.268Z"
+    },
+    {
+      "path": "art/NOTICE.md",
+      "url": "https://github.com/desuqcafe/cc-mascot/blob/d68e7a2335f5ada7ac4feedb37fa2b4c9db9d19a/art/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/desuqcafe/cc-mascot/d68e7a2335f5ada7ac4feedb37fa2b4c9db9d19a/art/NOTICE.md",
+      "sourceSha256": "b2b57a08391479b45862d8f1d92109ccc63e2f71cf8836e966d613d770966516",
+      "gitBlobSha": "ae963bfd04767bd7340d1f742c79f3a20b251e21",
+      "bytes": 1090,
+      "commit": "d68e7a2335f5ada7ac4feedb37fa2b4c9db9d19a",
+      "accessedAt": "2026-11-27T11:57:36.482Z"
+    }
+  ],
+  "url": "https://github.com/desuqcafe/cc-mascot/blob/d68e7a2335f5ada7ac4feedb37fa2b4c9db9d19a/README.md",
+  "accessedAt": "2026-11-27T11:57:36.482Z",
+  "scope": "Pinned publisher documentation and available code and artwork terms were verified by Git blob and SHA-256. No third-party software was run.",
+  "linkedNotices": [
+    {
+      "role": "artwork-terms",
+      "title": "desuqcafe · NOTICE.md",
+      "url": "https://github.com/desuqcafe/cc-mascot/blob/d68e7a2335f5ada7ac4feedb37fa2b4c9db9d19a/art/NOTICE.md"
+    },
+    {
+      "role": "upstream-character-terms",
+      "title": "Crypton · Piapro Character License",
+      "url": "https://piapro.net/intl/en_for_creators.html"
+    }
+  ]
+}

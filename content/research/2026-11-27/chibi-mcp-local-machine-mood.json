@@ -1,0 +1,81 @@
+{
+  "full_name": "soccz/chibi-mcp",
+  "html_url": "https://github.com/soccz/chibi-mcp",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-05-18T07:34:20Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "b92d3574152081210b1a82471d074715e811e09f",
+  "observedAt": "2026-11-27T11:53:07.593Z",
+  "httpStatus": 200,
+  "metadataSha256": "42964c1b99903b0da90774b09d6b500cb39e7dc679a352a285e59bc09a787037",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/soccz/chibi-mcp/blob/b92d3574152081210b1a82471d074715e811e09f/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/soccz/chibi-mcp/b92d3574152081210b1a82471d074715e811e09f/README.md",
+      "sourceSha256": "078f3f37a0ee8c3c267bc4cc5a78848d3961380799db40602f54e2df47a02568",
+      "gitBlobSha": "bf032a1a0c98009dafa16620c73562d3e964b6fa",
+      "bytes": 17455,
+      "commit": "b92d3574152081210b1a82471d074715e811e09f",
+      "accessedAt": "2026-11-27T11:57:36.171Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/soccz/chibi-mcp/blob/b92d3574152081210b1a82471d074715e811e09f/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/soccz/chibi-mcp/b92d3574152081210b1a82471d074715e811e09f/LICENSE",
+      "sourceSha256": "4dd9a4fbb988e24f80f11b53703c3eeff8adfd2584b8a4151bcbc59a2ab8dc79",
+      "gitBlobSha": "80da53364f3d9dce5a844a34c85ce965f45bfe0b",
+      "bytes": 1373,
+      "commit": "b92d3574152081210b1a82471d074715e811e09f",
+      "accessedAt": "2026-11-27T11:57:36.421Z"
+    },
+    {
+      "path": "assets/LICENSE-ASSETS.md",
+      "url": "https://github.com/soccz/chibi-mcp/blob/b92d3574152081210b1a82471d074715e811e09f/assets/LICENSE-ASSETS.md",
+      "rawUrl": "https://raw.githubusercontent.com/soccz/chibi-mcp/b92d3574152081210b1a82471d074715e811e09f/assets/LICENSE-ASSETS.md",
+      "sourceSha256": "4c7c055638f6b34c2d84d0d7534fdf7c9c076c339ab2e58451ab944b13b1ee47",
+      "gitBlobSha": "a95c71f5e2a287e67bbb26405dd970a540a02246",
+      "bytes": 370,
+      "commit": "b92d3574152081210b1a82471d074715e811e09f",
+      "accessedAt": "2026-11-27T11:57:36.678Z"
+    },
+    {
+      "path": "OFFICIAL_ASSET_TERMS.md",
+      "url": "https://github.com/soccz/chibi-mcp/blob/b92d3574152081210b1a82471d074715e811e09f/OFFICIAL_ASSET_TERMS.md",
+      "rawUrl": "https://raw.githubusercontent.com/soccz/chibi-mcp/b92d3574152081210b1a82471d074715e811e09f/OFFICIAL_ASSET_TERMS.md",
+      "sourceSha256": "1f8d45b2fec2bff6056a33c798c5cb0ad197515e6bbd31f017507582afa752ba",
+      "gitBlobSha": "fe01d9d2580b44bc7399d00b9019a51786f340af",
+      "bytes": 3071,
+      "commit": "b92d3574152081210b1a82471d074715e811e09f",
+      "accessedAt": "2026-11-27T11:57:37.098Z"
+    },
+    {
+      "path": "ASSET_RIGHTS.md",
+      "url": "https://github.com/soccz/chibi-mcp/blob/b92d3574152081210b1a82471d074715e811e09f/ASSET_RIGHTS.md",
+      "rawUrl": "https://raw.githubusercontent.com/soccz/chibi-mcp/b92d3574152081210b1a82471d074715e811e09f/ASSET_RIGHTS.md",
+      "sourceSha256": "1f72c342180dc4184884737b23fc005e574924770060f532b9d62a8ac055d1d4",
+      "gitBlobSha": "796adc848b11bdd853c3df99a509d236a58545f6",
+      "bytes": 4534,
+      "commit": "b92d3574152081210b1a82471d074715e811e09f",
+      "accessedAt": "2026-11-27T11:57:37.494Z"
+    }
+  ],
+  "url": "https://github.com/soccz/chibi-mcp/blob/b92d3574152081210b1a82471d074715e811e09f/README.md",
+  "accessedAt": "2026-11-27T11:57:37.494Z",
+  "scope": "Pinned publisher documentation and available code and artwork terms were verified by Git blob and SHA-256. No third-party software was run.",
+  "linkedNotices": [
+    {
+      "role": "artwork-terms",
+      "title": "soccz · OFFICIAL_ASSET_TERMS.md",
+      "url": "https://github.com/soccz/chibi-mcp/blob/b92d3574152081210b1a82471d074715e811e09f/OFFICIAL_ASSET_TERMS.md"
+    },
+    {
+      "role": "asset-provenance",
+      "title": "soccz · ASSET_RIGHTS.md",
+      "url": "https://github.com/soccz/chibi-mcp/blob/b92d3574152081210b1a82471d074715e811e09f/ASSET_RIGHTS.md"
+    }
+  ]
+}

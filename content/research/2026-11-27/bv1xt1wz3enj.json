@@ -1,0 +1,41 @@
+{
+  "url": "https://www.bilibili.com/video/BV1xt1Wz3ENj/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xt1Wz3ENj",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:55:50.387Z",
+  "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases.",
+  "metadata": {
+    "bvid": "BV1xt1Wz3ENj",
+    "title": "那是你腿短略略略【AI整活放映厅】",
+    "owner": {
+      "mid": 44748304,
+      "name": "冬冰"
+    },
+    "pubdate": 1795768586,
+    "duration": 240
+  },
+  "sourceLinks": [
+    {
+      "role": "related-episode",
+      "title": "冬冰 · 压力一只大肥鱼？",
+      "url": "https://www.bilibili.com/video/BV1t6nu6bEsf/"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    }
+  ],
+  "descriptionSha256": "936130e68ad61c8cdadad3bf9b144d1f38b148951cb887b9dccd3e22e9627781",
+  "seriesEvidence": {
+    "path": "content/research/2026-11-27/bilibili-playlist-ai-transit-station-apartment.json",
+    "sha256": "95cada14828144212638d161522b8fb0501f53abe1496845173e493998a9a309",
+    "kind": "browser-metadata-extract"
+  }
+}

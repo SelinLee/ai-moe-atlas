@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ELxQ65Etu/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ELxQ65Etu",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:55:50.359Z",
+  "scope": "Official view data identifies the video, publisher, publication time and cumulative likes. Music and design attribution follows the upload and linked author releases.",
+  "metadata": {
+    "bvid": "BV1ELxQ65Etu",
+    "title": "【Deepseek大肥鱼&Claude娘/手(?)书】Deepseek和Claude的ヤラララ(YARARARA)！",
+    "owner": {
+      "mid": 289661701,
+      "name": "A_CONSTANT"
+    },
+    "pubdate": 1793778994,
+    "duration": 157
+  },
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "uploader-cited-subtitles",
+      "title": "BV1NPGd6wE4g",
+      "url": "https://www.bilibili.com/video/BV1NPGd6wE4g/"
+    },
+    {
+      "role": "song-author-release",
+      "title": "AnythingBecomeMoe feat. 重音テト",
+      "url": "https://www.youtube.com/watch?v=EihviT34cR0"
+    }
+  ],
+  "descriptionSha256": "b84aac2a834141ed876693020233827c99b78a78406b576646f1e99200e15647"
+}
