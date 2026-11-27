@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1r5sP61ESo/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1r5sP61ESo",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:27:52.948Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like.",
+  "metadata": {
+    "bvid": "BV1r5sP61ESo",
+    "title": "【大肥鱼】《咏春》“日高悬风拂面留下丝丝温暖，别辜负眼前季节”",
+    "owner": {
+      "name": "钟晴的少女心事",
+      "mid": 1178227438
+    },
+    "pubdate": 1794826016,
+    "duration": 244
+  },
+  "descriptionSha256": "c08ebc6906e888aff5cb068a9a81546c5d46c0b9a35b8998455c6b77e81a862e",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "钟晴的少女心事",
+      "url": "https://space.bilibili.com/1178227438"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · character artwork",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "music-original",
+      "title": "七朵组合 · 咏春",
+      "url": "https://music.apple.com/us/album/%E5%92%8F%E6%98%A5-single/1882824771"
+    }
+  ]
+}

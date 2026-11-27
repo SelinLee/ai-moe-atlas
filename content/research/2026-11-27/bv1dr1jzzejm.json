@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1dR1jzzEjM/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dR1jzzEjM",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:27:49.791Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like.",
+  "metadata": {
+    "bvid": "BV1dR1jzzEjM",
+    "title": "雪落第二次的时候，我才听懂《冬天又来临》｜大肥鱼AI翻唱",
+    "owner": {
+      "name": "住在B站的大肥鱼",
+      "mid": 3747575486221708
+    },
+    "pubdate": 1795702829,
+    "duration": 119
+  },
+  "descriptionSha256": "0b356e0d318f0ea2cb1206a0e9e8e4cb481d89b2b0eb984087c2fbc1b73bb55a",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "住在B站的大肥鱼",
+      "url": "https://space.bilibili.com/3747575486221708"
+    },
+    {
+      "role": "official-music-announcement",
+      "title": "QQ音乐 · 罗言 · 冬天又来临",
+      "url": "https://m.weibo.cn/2/detail/5366296807998004"
+    }
+  ]
+}

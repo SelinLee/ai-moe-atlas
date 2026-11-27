@@ -1,0 +1,41 @@
+{
+  "url": "https://www.bilibili.com/video/BV12inN61Ef2/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12inN61Ef2",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:27:49.791Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like.",
+  "metadata": {
+    "bvid": "BV12inN61Ef2",
+    "title": "大肥鱼《想要变得可爱》 | GPT携手大肥鱼创作",
+    "owner": {
+      "name": "梨希Lyxii",
+      "mid": 78712560
+    },
+    "pubdate": 1792514653,
+    "duration": 46
+  },
+  "descriptionSha256": "b28956a6f9b8d9c885a0f5b102f314b45141f54c70d3b182f21fdc96ca894470",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "梨希Lyxii",
+      "url": "https://space.bilibili.com/78712560"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · character artwork",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "character-original",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "song-series",
+      "title": "HoneyWorks",
+      "url": "https://honeyworks.jp/special/"
+    }
+  ]
+}

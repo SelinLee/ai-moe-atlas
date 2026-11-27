@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1DSyVzpE9H/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1DSyVzpE9H",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:27:56.349Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like.",
+  "metadata": {
+    "bvid": "BV1DSyVzpE9H",
+    "title": "大肥鱼桌宠：一键导入Live2D模型，克隆语音！最新教程 安装和扩展介绍【B站AI创造公开赛】",
+    "owner": {
+      "name": "PalAILab",
+      "mid": 3493109168080921
+    },
+    "pubdate": 1795326558,
+    "duration": 921
+  },
+  "descriptionSha256": "fe954857dbce6df18b83a3ebdaf52a85987efddc1103e623444714254bc559ac",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "PalAILab",
+      "url": "https://space.bilibili.com/3493109168080921"
+    },
+    {
+      "role": "creator-project",
+      "title": "Pal AI Lab · Coopanion",
+      "url": "https://github.com/Pal-AI-Lab/Coopanion/blob/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/README_zh.md"
+    }
+  ]
+}

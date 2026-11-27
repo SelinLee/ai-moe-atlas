@@ -1,0 +1,55 @@
+{
+  "full_name": "UknownPerson/clawd-pixel-codex-pet",
+  "html_url": "https://github.com/UknownPerson/clawd-pixel-codex-pet",
+  "stargazers_count": 1,
+  "archived": false,
+  "created_at": "2026-07-04T15:03:50Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "902a659d49c91d24040254c76c81e2b5fe6261c1",
+  "observedAt": "2026-11-27T13:26:34.279Z",
+  "httpStatus": 200,
+  "metadataSha256": "8d7fec5b64864265544d56b57734ab4669852738a616172715447fa8a8de4f2c",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/UknownPerson/clawd-pixel-codex-pet/blob/902a659d49c91d24040254c76c81e2b5fe6261c1/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/UknownPerson/clawd-pixel-codex-pet/902a659d49c91d24040254c76c81e2b5fe6261c1/README.md",
+      "sourceSha256": "cfb01b6464bdf4d309edd879e82718733b13351cf7df272126c51b3ecc85f1ab",
+      "gitBlobSha": "30998c239d1209596b29361fc69f779fba1bea64",
+      "bytes": 1908,
+      "commit": "902a659d49c91d24040254c76c81e2b5fe6261c1",
+      "accessedAt": "2026-11-27T13:31:06.511Z"
+    },
+    {
+      "path": "pet.json",
+      "url": "https://github.com/UknownPerson/clawd-pixel-codex-pet/blob/902a659d49c91d24040254c76c81e2b5fe6261c1/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/UknownPerson/clawd-pixel-codex-pet/902a659d49c91d24040254c76c81e2b5fe6261c1/pet.json",
+      "sourceSha256": "d0ad870c94d6989fdef22b3153dd6e5b57dd39302358562d29474e8d411ce1dd",
+      "gitBlobSha": "d5655276850976fef4a005f685c44382e6224831",
+      "bytes": 220,
+      "commit": "902a659d49c91d24040254c76c81e2b5fe6261c1",
+      "accessedAt": "2026-11-27T13:31:07.156Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T13:31:07.156Z",
+  "scope": "Pinned creator documentation and source files were obtained in headless Chrome and checked by Git blob and SHA-256.",
+  "relations": [
+    {
+      "role": "pet-manifest",
+      "title": "Clawd · pet manifest",
+      "url": "https://github.com/UknownPerson/clawd-pixel-codex-pet/blob/902a659d49c91d24040254c76c81e2b5fe6261c1/pet.json"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/UknownPerson/clawd-pixel-codex-pet/blob/902a659d49c91d24040254c76c81e2b5fe6261c1/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/UknownPerson/clawd-pixel-codex-pet/902a659d49c91d24040254c76c81e2b5fe6261c1/README.md",
+    "sourceSha256": "cfb01b6464bdf4d309edd879e82718733b13351cf7df272126c51b3ecc85f1ab",
+    "gitBlobSha": "30998c239d1209596b29361fc69f779fba1bea64",
+    "bytes": 1908,
+    "commit": "902a659d49c91d24040254c76c81e2b5fe6261c1",
+    "accessedAt": "2026-11-27T13:31:06.511Z"
+  }
+}

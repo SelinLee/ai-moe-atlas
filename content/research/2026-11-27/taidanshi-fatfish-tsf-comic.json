@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV19nyGzpEs9/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19nyGzpEs9",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:27:57.886Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description.",
+  "metadata": {
+    "bvid": "BV19nyGzpEs9",
+    "title": "【TSF漫画】我把室友变成AI助手大肥鱼",
+    "owner": {
+      "name": "泰丹士",
+      "mid": 3747565533137343
+    },
+    "pubdate": 1795316980,
+    "duration": 96
+  },
+  "descriptionSha256": "fa788f2f2fdcad3e08b8908e021e61a25583a3db46969444c39cc45c525a7a05",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "泰丹士",
+      "url": "https://space.bilibili.com/3747565533137343"
+    }
+  ]
+}

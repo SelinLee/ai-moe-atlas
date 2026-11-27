@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV12bxF6CEWm/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12bxF6CEWm",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:27:48.004Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like.",
+  "metadata": {
+    "bvid": "BV12bxF6CEWm",
+    "title": "把耳朵叫醒｜大肥鱼翻唱（AI 演唱 · 手绘动画）",
+    "owner": {
+      "name": "本鲸只想吃白饭",
+      "mid": 3919072
+    },
+    "pubdate": 1793261648,
+    "duration": 215
+  },
+  "descriptionSha256": "b77a0d1b0441b1c2474de296e05eff6f27a77439eb871e6fa921cb537164a163",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "本鲸只想吃白饭",
+      "url": "https://space.bilibili.com/3919072"
+    },
+    {
+      "role": "music-original",
+      "title": "金海心 · 把耳朵叫醒",
+      "url": "https://open.spotify.com/album/2PLAldSlxQ7CI9TVN6iPF0"
+    }
+  ]
+}

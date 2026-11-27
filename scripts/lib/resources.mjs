@@ -64,6 +64,46 @@ export async function readPendingAnimationCandidates(registry, root) {
   return snapshot.pendingCandidates;
 }
 
+export async function readInteractiveStars(registry, root) {
+  const snapshot = await readEvidence(registry.interactiveStarEvidence, root);
+  if (snapshot.method !== 'GitHub REST repository metadata' || snapshot.field !== 'stargazers_count' || !Array.isArray(snapshot.records)) {
+    throw new Error('Invalid interactive Star snapshot');
+  }
+  const projects = new Map(registry.records.filter(record => record.category === 'interactive').map(record => [record.id, record]));
+  const ids = new Set();
+  const repositories = new Set();
+  const repoPattern = /^[A-Za-z0-9-]+\/[A-Za-z0-9_.-]+$/;
+  let previous;
+  for (const row of snapshot.records) {
+    const project = projects.get(row.id);
+    if (!project || ids.has(row.id) || !repoPattern.test(row.repository) ||
+      row.url !== `https://github.com/${row.repository}` || row.sourceUrl !== `https://api.github.com/repos/${row.repository}` ||
+      !Number.isSafeInteger(row.stars) || row.stars < 0 || typeof row.archived !== 'boolean' || !Number.isFinite(Date.parse(row.observedAt))) {
+      throw new Error(`Invalid interactive Star observation: ${row.id}`);
+    }
+    const repository = row.repository.toLowerCase();
+    const projectUrl = new URL(project.url);
+    const projectPath = projectUrl.pathname.toLowerCase();
+    const projectRoot = '/' + (row.aliasFrom ?? row.repository).toLowerCase();
+    if (projectUrl.origin !== 'https://github.com' ||
+      (projectPath !== projectRoot && !projectPath.startsWith(projectRoot + '/')) ||
+      (row.aliasFrom !== undefined && (!repoPattern.test(row.aliasFrom) ||
+        !/^[a-f0-9]{40}$/.test(row.verifiedPinnedReadme?.commit) ||
+        !/^[a-f0-9]{40}$/.test(row.verifiedPinnedReadme?.blobSha) ||
+        !projectPath.startsWith(`${projectRoot}/blob/${row.verifiedPinnedReadme.commit}/`)))) {
+      throw new Error(`Interactive Star observation disagrees with its repository: ${row.id}`);
+    }
+    if (repositories.has(repository) || (previous && (row.stars > previous.stars ||
+      (row.stars === previous.stars && repository.localeCompare(previous.repository.toLowerCase()) < 0)))) {
+      throw new Error(`Interactive Star observations must be unique and ordered: ${row.id}`);
+    }
+    ids.add(row.id);
+    repositories.add(repository);
+    previous = row;
+  }
+  return snapshot.records;
+}
+
 export function assertResourceCollections(collections, records) {
   const byId = new Map(records.map(record => [record.id, record]));
   for (const category of ['stickers', 'rigs', 'comics']) {

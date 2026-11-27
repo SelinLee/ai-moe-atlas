@@ -22,13 +22,15 @@ const byRecent = [...byLikes].sort((a, b) => Number(a.dataset.recentOrder) - Num
 const nonAnimation = cards.filter(card => card.dataset.resourceCategory !== 'animation');
 const byComicOrder = nonAnimation.filter(card => card.dataset.comicOrder !== undefined)
   .sort((a, b) => Number(a.dataset.comicOrder) - Number(b.dataset.comicOrder));
+const byStars = nonAnimation.filter(card => card.dataset.resourceCategory === 'interactive')
+  .sort((a, b) => Number(a.dataset.starRank ?? Number.MAX_SAFE_INTEGER) - Number(b.dataset.starRank ?? Number.MAX_SAFE_INTEGER));
 const categoryMatchers: Record<string, (card: HTMLElement) => boolean> = {
   stickers: card => card.hasAttribute('data-sticker'),
   rigs: card => card.dataset.rigFormat !== undefined,
   comics: card => card.dataset.comicOrder !== undefined,
 };
 let appliedOrder = 'likes';
-let comicOrderActive = false;
+let appliedNonAnimationOrder = nonAnimation;
 let category = 'all';
 let type = 'all';
 
@@ -61,10 +63,10 @@ function update(writeURL = true) {
     list.prepend(...(sort.value === 'recent' ? byRecent : byLikes));
     appliedOrder = sort.value;
   }
-  const showComics = category === 'comics';
-  if (showComics !== comicOrderActive) {
-    list.append(...(showComics ? byComicOrder : nonAnimation));
-    comicOrderActive = showComics;
+  const nonAnimationOrder = category === 'comics' ? byComicOrder : category === 'interactive' ? byStars : nonAnimation;
+  if (nonAnimationOrder !== appliedNonAnimationOrder) {
+    list.append(...nonAnimationOrder);
+    appliedNonAnimationOrder = nonAnimationOrder;
   }
   const inCollection = categoryMatchers[category];
   const group = activeTypeGroup();

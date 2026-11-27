@@ -3,8 +3,8 @@
   "updatedAt": "2026-11-27",
   "scope": "source-metadata-only",
   "pendingAnimationEvidence": {
-    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-covers-and-creator-demos.json",
-    "sha256": "d1689ae54a2ce57a221f72fdc2e6cf346c3e10afa420ba75788c85047aa60661",
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+    "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
     "kind": "browser-metadata-extract"
   },
   "records": [
@@ -1058,12 +1058,12 @@
       "subtype": "story",
       "sourceTitle": "一觉醒来deepseek和豆包睡在我身边（一）【AI全民制作人】",
       "likes": {
-        "count": 62490,
-        "observedAt": "2026-11-27T10:16:28.441Z",
+        "count": 62501,
+        "observedAt": "2026-11-27T13:27:48.119Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HYp16oE8v",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json",
-          "sha256": "14ae1a4b41c5295932103d27fcbf191f9978171b0e86311aacc1010b2c49dcf7",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       },
@@ -1294,12 +1294,12 @@
       "subtype": "game",
       "sourceTitle": "假如大肥鱼来打三角洲#1",
       "likes": {
-        "count": 58931,
-        "observedAt": "2026-11-27T10:16:31.727Z",
+        "count": 58933,
+        "observedAt": "2026-11-27T13:27:55.420Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV156ak6ZE3a",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json",
-          "sha256": "14ae1a4b41c5295932103d27fcbf191f9978171b0e86311aacc1010b2c49dcf7",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       },
@@ -1535,12 +1535,12 @@
       "subtype": "mv",
       "sourceTitle": "蓝色大肥鱼和Claude的Trouble Maker【AI MV 大赛】",
       "likes": {
-        "count": 62196,
-        "observedAt": "2026-11-27T10:16:34.763Z",
+        "count": 62270,
+        "observedAt": "2026-11-27T13:27:49.952Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Nc4c61EWF",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json",
-          "sha256": "14ae1a4b41c5295932103d27fcbf191f9978171b0e86311aacc1010b2c49dcf7",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       },
@@ -5444,12 +5444,12 @@
       "subtype": "mv",
       "sourceTitle": "谁家大肥鱼学了歌自己就发群里啊喂！大肥鱼翻唱《朋友的酒》dj版",
       "likes": {
-        "count": 54540,
-        "observedAt": "2026-11-27T10:17:09.967Z",
+        "count": 54541,
+        "observedAt": "2026-11-27T13:28:00.281Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV14Bnz6GEtK",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json",
-          "sha256": "14ae1a4b41c5295932103d27fcbf191f9978171b0e86311aacc1010b2c49dcf7",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       },
@@ -7523,27 +7523,32 @@
       "usage": "source-only",
       "downloadable": false,
       "rights": {
-        "zh": "仓库附 MIT 软件许可。像素角色美术的原作者与逐图再分发条件待核。",
-        "en": "The repository includes an MIT software license. The original pixel-art creator and item-specific redistribution terms await verification.",
-        "ja": "リポジトリには MIT のソフトウェアライセンスを掲載。ドット絵の原作者と画像ごとの再配布条件は確認待ち。"
+        "zh": "软件许可为 MIT。图件另有保留权利声明，列出个人使用例外和原作者署名。",
+        "en": "Software is MIT. Separate artwork terms reserve rights and document a personal-use exception and author credits.",
+        "ja": "ソフトウェアは MIT。画像の別条項に権利留保、個人利用の例外、作者のクレジットを記載。"
       },
       "relations": [
         {
           "role": "software-terms",
           "title": "Clawd · LICENSE",
           "url": "https://github.com/KebeliSamet0/clawd/blob/ba50a8053e2c6e46211fcf4433ba224af0fa95ad/LICENSE"
+        },
+        {
+          "role": "asset-specific-terms",
+          "title": "Clawd · artwork terms",
+          "url": "https://github.com/KebeliSamet0/clawd/blob/ba50a8053e2c6e46211fcf4433ba224af0fa95ad/assets/LICENSE-clawd"
         }
       ],
       "verification": {
         "result": "metadata-verified",
-        "method": "isolated-headless-google-chrome",
-        "attemptedAt": "2026-11-07T15:18:36.583Z",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:31:07.108Z",
         "httpStatus": 200,
-        "scope": "Pinned project documentation and artwork terms checked. No artwork or binaries downloaded."
+        "scope": "Pinned artwork notice was checked separately from the software license and retained by verified hash."
       },
       "evidence": {
-        "path": "content/research/2026-11-07/clawd-desktop.json",
-        "sha256": "b347d36ee33ff9fa9f25dc66b770d272f3059857cd738c4fabba7a805158a9ad",
+        "path": "content/research/2026-11-27/clawd-desktop-artwork-terms-recheck.json",
+        "sha256": "b041c09470570e406be957e0b7b87cee3a9267234bfcec888a4a6d0bf38d2acf",
         "kind": "browser-metadata-extract"
       }
     },
@@ -8479,6 +8484,11 @@
           "role": "artwork-terms",
           "title": "Coopanion · Third-party notices",
           "url": "https://github.com/Pal-AI-Lab/Coopanion/blob/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/packages/cortico-world-desktop-pet/THIRD_PARTY_NOTICES.md"
+        },
+        {
+          "role": "creator-demo",
+          "title": "Pal AI Lab · Live2D",
+          "url": "https://www.bilibili.com/video/BV1DSyVzpE9H/"
         }
       ],
       "verification": {
@@ -9574,12 +9584,12 @@
       "subtype": "mv",
       "sourceTitle": "Let me go大肥鱼和用户深情对唱",
       "likes": {
-        "count": 53316,
-        "observedAt": "2026-11-27T10:17:46.898Z",
+        "count": 53344,
+        "observedAt": "2026-11-27T13:28:03.583Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13SYr6dEiQ",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json",
-          "sha256": "14ae1a4b41c5295932103d27fcbf191f9978171b0e86311aacc1010b2c49dcf7",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       },
@@ -12370,12 +12380,12 @@
       "subtype": "op",
       "sourceTitle": "【1月新番/DS×claude】我怎么可能成为你的蒸馏模型，不行不行！（※不是不可能！？）",
       "likes": {
-        "count": 58197,
-        "observedAt": "2026-11-27T10:18:16.278Z",
+        "count": 58200,
+        "observedAt": "2026-11-27T13:27:57.036Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV191Yr6bEYy",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json",
-          "sha256": "14ae1a4b41c5295932103d27fcbf191f9978171b0e86311aacc1010b2c49dcf7",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       },
@@ -12562,12 +12572,12 @@
       "subtype": "story",
       "sourceTitle": "月初当神仙，月底请笔仙【AI全民制作人】",
       "likes": {
-        "count": 59943,
-        "observedAt": "2026-11-27T10:18:19.289Z",
+        "count": 59946,
+        "observedAt": "2026-11-27T13:27:53.677Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CNa36nEyw",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json",
-          "sha256": "14ae1a4b41c5295932103d27fcbf191f9978171b0e86311aacc1010b2c49dcf7",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       },
@@ -21462,12 +21472,12 @@
       "sourceTitle": "用户：不，大肥鱼你来的正是时候",
       "publishedAt": "2026-11-08T10:07:11.000Z",
       "likes": {
-        "count": 61455,
-        "observedAt": "2026-11-27T10:19:54.984Z",
+        "count": 61583,
+        "observedAt": "2026-11-27T13:27:52.063Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sgWn68Ewt",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json",
-          "sha256": "14ae1a4b41c5295932103d27fcbf191f9978171b0e86311aacc1010b2c49dcf7",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       }
@@ -21645,11 +21655,11 @@
       "publishedAt": "2026-11-07T01:09:36.000Z",
       "likes": {
         "count": 58586,
-        "observedAt": "2026-11-27T10:19:56.480Z",
+        "observedAt": "2026-11-27T13:27:55.420Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VM4L6TEyL",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json",
-          "sha256": "14ae1a4b41c5295932103d27fcbf191f9978171b0e86311aacc1010b2c49dcf7",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       }
@@ -22146,12 +22156,12 @@
       "sourceTitle": "大肥鱼唱《海阔天空》纯享版",
       "publishedAt": "2026-11-07T14:51:43.000Z",
       "likes": {
-        "count": 59540,
-        "observedAt": "2026-11-27T10:20:02.533Z",
+        "count": 59553,
+        "observedAt": "2026-11-27T13:27:53.655Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Qw4n61ELE",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json",
-          "sha256": "14ae1a4b41c5295932103d27fcbf191f9978171b0e86311aacc1010b2c49dcf7",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       }
@@ -22205,12 +22215,12 @@
       "sourceTitle": "肥鱼笑传之Clip Caught Busted",
       "publishedAt": "2026-11-10T02:00:00.000Z",
       "likes": {
-        "count": 60435,
-        "observedAt": "2026-11-27T10:20:04.089Z",
+        "count": 60513,
+        "observedAt": "2026-11-27T13:27:51.639Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1brW86FEKb",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json",
-          "sha256": "14ae1a4b41c5295932103d27fcbf191f9978171b0e86311aacc1010b2c49dcf7",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       }
@@ -22387,12 +22397,12 @@
       "sourceTitle": "大肥鱼唱《Billie Jean》纯享版",
       "publishedAt": "2026-11-09T12:57:25.000Z",
       "likes": {
-        "count": 52747,
-        "observedAt": "2026-11-27T10:20:05.769Z",
+        "count": 52767,
+        "observedAt": "2026-11-27T13:28:03.556Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sUW86sEC3",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json",
-          "sha256": "14ae1a4b41c5295932103d27fcbf191f9978171b0e86311aacc1010b2c49dcf7",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       }
@@ -22781,12 +22791,12 @@
       "sourceTitle": "只要那个目标还未达成，我就不会停下",
       "publishedAt": "2026-11-02T14:49:28.000Z",
       "likes": {
-        "count": 62797,
-        "observedAt": "2026-11-27T12:46:56.739Z",
+        "count": 62807,
+        "observedAt": "2026-11-27T13:27:48.166Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16X4A6mEJr",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-covers-and-creator-demos.json",
-          "sha256": "d1689ae54a2ce57a221f72fdc2e6cf346c3e10afa420ba75788c85047aa60661",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       }
@@ -22904,12 +22914,12 @@
       "sourceTitle": "你比企鹅还圆",
       "publishedAt": "2026-11-04T00:00:00.000Z",
       "likes": {
-        "count": 53896,
-        "observedAt": "2026-11-27T10:20:11.837Z",
+        "count": 53994,
+        "observedAt": "2026-11-27T13:28:01.923Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qgxm6wEd2",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json",
-          "sha256": "14ae1a4b41c5295932103d27fcbf191f9978171b0e86311aacc1010b2c49dcf7",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       }
@@ -38140,12 +38150,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-10-20T12:14:08.000Z",
       "likes": {
-        "count": 54617,
-        "observedAt": "2026-11-27T10:22:57.543Z",
+        "count": 54638,
+        "observedAt": "2026-11-27T13:28:00.313Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gAnP6JE8u",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json",
-          "sha256": "14ae1a4b41c5295932103d27fcbf191f9978171b0e86311aacc1010b2c49dcf7",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       },
@@ -42642,12 +42652,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-10-05T09:33:12.000Z",
       "likes": {
-        "count": 58030,
-        "observedAt": "2026-11-27T10:23:50.987Z",
+        "count": 58060,
+        "observedAt": "2026-11-27T13:27:57.052Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PPHs6PEvZ",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json",
-          "sha256": "14ae1a4b41c5295932103d27fcbf191f9978171b0e86311aacc1010b2c49dcf7",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       },
@@ -50541,12 +50551,12 @@
       "publicationDateBasis": "bilibili-pubdate",
       "publishedAt": "2026-11-16T10:51:56.000Z",
       "likes": {
-        "count": 56319,
-        "observedAt": "2026-11-27T10:25:14.993Z",
+        "count": 56479,
+        "observedAt": "2026-11-27T13:27:58.645Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CVsP6jE4r",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json",
-          "sha256": "14ae1a4b41c5295932103d27fcbf191f9978171b0e86311aacc1010b2c49dcf7",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       },
@@ -71440,12 +71450,12 @@
       "sourceTitle": "中转站来了个大佬",
       "publishedAt": "2026-09-27T10:16:41.000Z",
       "likes": {
-        "count": 56028,
-        "observedAt": "2026-11-27T10:28:13.196Z",
+        "count": 56058,
+        "observedAt": "2026-11-27T13:27:58.666Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1w6a86gEbC",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json",
-          "sha256": "14ae1a4b41c5295932103d27fcbf191f9978171b0e86311aacc1010b2c49dcf7",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       }
@@ -91479,12 +91489,12 @@
         "scope": "The official Bilibili response confirms video identity, publisher, publication date and cumulative likes. Attribution follows the upload description."
       },
       "likes": {
-        "count": 61908,
-        "observedAt": "2026-11-27T11:39:18.559Z",
+        "count": 61932,
+        "observedAt": "2026-11-27T13:27:49.952Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eAHA6WEVn",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-rechecks.json",
-          "sha256": "905539f5a90f7c9c60dfcbd64248af74e81bc4d12cc2fa53cc552080e38c395d",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       }
@@ -94787,12 +94797,12 @@
         "scope": "Official view data identifies upload, publisher, publication time and cumulative likes. Attribution is based on the creator description."
       },
       "likes": {
-        "count": 54531,
-        "observedAt": "2026-11-27T12:13:30.155Z",
+        "count": 54534,
+        "observedAt": "2026-11-27T13:28:01.941Z",
         "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19zgK6KE8X",
         "evidence": {
-          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-hand-drawn-and-rigs.json",
-          "sha256": "c5a3f19d6a9cd1baa0d50969d7d507eb9f525920b18b876f36d5818be167da97",
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
           "kind": "browser-metadata-extract"
         }
       }
@@ -100090,6 +100100,1381 @@
         "httpStatus": 200,
         "scope": "Creator itch.io release and exact author reply verified. The request concerned a free class project. The reply requests credit. The linked Piapro page describes the scope of Crypton original artwork separately."
       }
+    },
+    {
+      "id": "bv12bxf6cewm",
+      "bvid": "BV12bxF6CEWm",
+      "category": "animation",
+      "title": {
+        "zh": "把耳朵叫醒 · 大肥鱼手绘动画翻唱",
+        "en": "Wake Up Your Ears · Hand-Drawn Fat Fish Cover",
+        "ja": "耳を起こして · 大きな魚の手描きカバー"
+      },
+      "url": "https://www.bilibili.com/video/BV12bxF6CEWm/",
+      "publisher": "本鲸只想吃白饭",
+      "sourceTitle": "把耳朵叫醒｜大肥鱼翻唱（AI 演唱 · 手绘动画）",
+      "summary": {
+        "zh": "作者标注 AI 演唱与手绘动画，原曲为金海心《把耳朵叫醒》。",
+        "en": "The uploader labels the vocals AI-generated and the animation hand-drawn, and credits Jin Hai Xin’s song.",
+        "ja": "AI 歌唱・手描きアニメと投稿者が記載。原曲は金海心「把耳朵叫醒」。"
+      },
+      "rights": {
+        "zh": "提供原发布入口。角色图、视频和音乐依各权利方的使用条件。",
+        "en": "Links the original release. Artwork, video and music follow their respective rights holders’ terms.",
+        "ja": "原公開先を案内。キャラクター画像、映像、音楽は各権利者の条件を参照。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "本鲸只想吃白饭",
+          "url": "https://space.bilibili.com/3919072"
+        },
+        {
+          "role": "music-original",
+          "title": "金海心 · 把耳朵叫醒",
+          "url": "https://open.spotify.com/album/2PLAldSlxQ7CI9TVN6iPF0"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-29",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv12bxf6cewm.json",
+        "sha256": "b53e28327d47ed1778d7bb914bd1456f48477ee15a2898889e928c8a8061403f",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:27:48.004Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like."
+      },
+      "subtype": "mv",
+      "likes": {
+        "count": 4,
+        "observedAt": "2026-11-27T13:27:48.004Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12bxF6CEWm",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "publishedAt": "2026-10-29T08:14:08.000Z"
+    },
+    {
+      "id": "bv1guh26ues5",
+      "bvid": "BV1guH26uEs5",
+      "category": "animation",
+      "title": {
+        "zh": "手绘大肥鱼收集 · 第 11 期",
+        "en": "Hand-Drawn Fat Fish Collection · Part 11",
+        "ja": "手描きの大きな魚まとめ · 第11回"
+      },
+      "url": "https://www.bilibili.com/video/BV1guH26uEs5/",
+      "publisher": "re0出第三季",
+      "sourceTitle": "收集全网手绘大肥鱼（11）",
+      "summary": {
+        "zh": "re0出第三季发布的手绘作品汇编。各图件作者以原帖署名为准。",
+        "en": "A hand-drawn art roundup posted by re0出第三季. See the original post for individual credits.",
+        "ja": "re0出第三季 の手描き作品まとめ。各画像のクレジットは原投稿を参照。"
+      },
+      "rights": {
+        "zh": "提供原发布入口。角色图、视频和音乐依各权利方的使用条件。",
+        "en": "Links the original release. Artwork, video and music follow their respective rights holders’ terms.",
+        "ja": "原公開先を案内。キャラクター画像、映像、音楽は各権利者の条件を参照。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "re0出第三季",
+          "url": "https://space.bilibili.com/3461563390363925"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-08",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1guh26ues5.json",
+        "sha256": "283b4aec97fc424478552cfd38ba3ab946a0ecd9a05832de0b6da5eff7fc1175",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:27:48.175Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like."
+      },
+      "subtype": "commentary",
+      "likes": {
+        "count": 41,
+        "observedAt": "2026-11-27T13:27:48.175Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1guH26uEs5",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "publishedAt": "2026-10-07T19:46:04.000Z"
+    },
+    {
+      "id": "bv12inn61ef2",
+      "bvid": "BV12inN61Ef2",
+      "category": "animation",
+      "title": {
+        "zh": "想要变得可爱 · 梨希Lyxii 先行版",
+        "en": "Kawaiku Naritai · 梨希Lyxii Preview",
+        "ja": "可愛くなりたい · 梨希Lyxii 先行版"
+      },
+      "url": "https://www.bilibili.com/video/BV12inN61Ef2/",
+      "publisher": "梨希Lyxii",
+      "sourceTitle": "大肥鱼《想要变得可爱》 | GPT携手大肥鱼创作",
+      "summary": {
+        "zh": "作者自述为先行版本，并注明歌曲表演者鎖那及角色参考。",
+        "en": "The uploader labels this a preview and credits Sana and the character references.",
+        "ja": "先行版と投稿者が記載。歌唱の鎖那とキャラクター原案をクレジット。"
+      },
+      "rights": {
+        "zh": "提供原发布入口。角色图、视频和音乐依各权利方的使用条件。",
+        "en": "Links the original release. Artwork, video and music follow their respective rights holders’ terms.",
+        "ja": "原公開先を案内。キャラクター画像、映像、音楽は各権利者の条件を参照。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "梨希Lyxii",
+          "url": "https://space.bilibili.com/78712560"
+        },
+        {
+          "role": "character-reference",
+          "title": "ZipZipPipe · character artwork",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "character-original",
+          "title": "上善无形 · 溟月",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "role": "song-series",
+          "title": "HoneyWorks",
+          "url": "https://honeyworks.jp/special/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-21",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv12inn61ef2.json",
+        "sha256": "c1505165c03f4a9094eacf5e3a11a7cbfef34fd65fe755debd1b127afda3ee9f",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:27:49.791Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like."
+      },
+      "subtype": "mv",
+      "likes": {
+        "count": 41,
+        "observedAt": "2026-11-27T13:27:49.791Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12inN61Ef2",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "publishedAt": "2026-10-20T16:44:13.000Z"
+    },
+    {
+      "id": "bv1dr1jzzejm",
+      "bvid": "BV1dR1jzzEjM",
+      "category": "animation",
+      "title": {
+        "zh": "冬天又来临 · 大肥鱼翻唱",
+        "en": "Winter Comes Again · Fat Fish Cover",
+        "ja": "冬天又来临 · 大きな魚のカバー"
+      },
+      "url": "https://www.bilibili.com/video/BV1dR1jzzEjM/",
+      "publisher": "住在B站的大肥鱼",
+      "sourceTitle": "雪落第二次的时候，我才听懂《冬天又来临》｜大肥鱼AI翻唱",
+      "summary": {
+        "zh": "作者注明原曲为罗言，使用本地换嗓和逐段动画。",
+        "en": "The uploader credits 罗言 and describes local voice conversion and scene-by-scene animation.",
+        "ja": "原曲は罗言。ローカルで歌声を変換し、場面ごとにアニメを制作と記載。"
+      },
+      "rights": {
+        "zh": "提供原发布入口。角色图、视频和音乐依各权利方的使用条件。",
+        "en": "Links the original release. Artwork, video and music follow their respective rights holders’ terms.",
+        "ja": "原公開先を案内。キャラクター画像、映像、音楽は各権利者の条件を参照。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "住在B站的大肥鱼",
+          "url": "https://space.bilibili.com/3747575486221708"
+        },
+        {
+          "role": "official-music-announcement",
+          "title": "QQ音乐 · 罗言 · 冬天又来临",
+          "url": "https://m.weibo.cn/2/detail/5366296807998004"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-26",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1dr1jzzejm.json",
+        "sha256": "9b4a7695f1eeaf8b5e06f2dd11a56db48803b83fa563099cbed5cc5699006743",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:27:49.791Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like."
+      },
+      "subtype": "mv",
+      "likes": {
+        "count": 4,
+        "observedAt": "2026-11-27T13:27:49.791Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dR1jzzEjM",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "publishedAt": "2026-11-26T14:20:29.000Z"
+    },
+    {
+      "id": "bv1xdysz4eg2",
+      "bvid": "BV1XDySz4Eg2",
+      "category": "animation",
+      "title": {
+        "zh": "慢行思维链 ·《Lagtrain》中文改词",
+        "en": "Slow Chain of Thought · Lagtrain with Chinese Lyrics",
+        "ja": "ゆっくりした思考連鎖 ·「ラグトレイン」中国語詞"
+      },
+      "url": "https://www.bilibili.com/video/BV1XDySz4Eg2/",
+      "publisher": "琅小雫",
+      "sourceTitle": "【中文填词/翻唱/MV】错过顶级算力的大肥鱼-慢行思维链 ｜DeepSeek娘 延误列车",
+      "summary": {
+        "zh": "琅小雫在简介链接稲葉曇的《ラグトレイン》，并注明融雪_杜鹃花的制片与填词贡献。",
+        "en": "琅小雫 links 稲葉曇’s Lagtrain and credits 融雪_杜鹃花’s animation and lyric work.",
+        "ja": "琅小雫 が稲葉曇「ラグトレイン」を出典として案内し、融雪_杜鹃花 の映像と替え歌詞をクレジット。"
+      },
+      "rights": {
+        "zh": "提供原发布入口。角色图、视频和音乐依各权利方的使用条件。",
+        "en": "Links the original release. Artwork, video and music follow their respective rights holders’ terms.",
+        "ja": "原公開先を案内。キャラクター画像、映像、音楽は各権利者の条件を参照。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "琅小雫",
+          "url": "https://space.bilibili.com/1002606326"
+        },
+        {
+          "role": "music-original",
+          "title": "稲葉曇 feat. 歌愛ユキ · ラグトレイン",
+          "url": "https://www.bilibili.com/video/BV1fK4y1s7Qf/"
+        },
+        {
+          "role": "character-reference",
+          "title": "ZipZipPipe · character artwork",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-23",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1xdysz4eg2.json",
+        "sha256": "b7c7f5324dc7e97e19257e075f3c0821886477c30dba56d1bf8a73d185ce7661",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:27:51.392Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like."
+      },
+      "subtype": "mv",
+      "likes": {
+        "count": 33,
+        "observedAt": "2026-11-27T13:27:51.392Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XDySz4Eg2",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "publishedAt": "2026-11-23T13:14:04.000Z"
+    },
+    {
+      "id": "bv1mpy7z4ekl",
+      "bvid": "BV1Mpy7z4EkL",
+      "category": "animation",
+      "title": {
+        "zh": "猛独が襲う · 大肥鱼二创 MV",
+        "en": "Moudoku ga Osou · Fat Fish Fan MV",
+        "ja": "猛独が襲う · 大きな魚の二次創作 MV"
+      },
+      "url": "https://www.bilibili.com/video/BV1Mpy7z4EkL/",
+      "publisher": "长期素食-ing",
+      "sourceTitle": "【大肥鱼翻唱】猛独が襲う（猛独侵袭）｜MyGO!!!!! 版 · 二创MV",
+      "summary": {
+        "zh": "长期素食-ing 把 MyGO!!!!! 的翻唱列为人声与画面参考。原曲词曲署名一二三。",
+        "en": "长期素食-ing credits the MyGO!!!!! cover as a vocal and visual reference. 一二三 wrote the original.",
+        "ja": "长期素食-ing は MyGO!!!!! のカバーを歌唱・映像の参考に記載。原曲は一二三。"
+      },
+      "rights": {
+        "zh": "提供原发布入口。角色图、视频和音乐依各权利方的使用条件。",
+        "en": "Links the original release. Artwork, video and music follow their respective rights holders’ terms.",
+        "ja": "原公開先を案内。キャラクター画像、映像、音楽は各権利者の条件を参照。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "长期素食-ing",
+          "url": "https://space.bilibili.com/3493280195021197"
+        },
+        {
+          "role": "music-original",
+          "title": "一二三 · 猛独が襲う",
+          "url": "https://karent.jp/album/2104"
+        },
+        {
+          "role": "music-arrangement-reference",
+          "title": "MyGO!!!!! · cover",
+          "url": "https://www.bilibili.com/video/BV1sN4y1T72q/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-22",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1mpy7z4ekl.json",
+        "sha256": "fcb160b19440527d07a773fc8dbc9b993df23154c5a647fee839319083915229",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:27:51.337Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like."
+      },
+      "subtype": "mv",
+      "likes": {
+        "count": 65,
+        "observedAt": "2026-11-27T13:27:51.337Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Mpy7z4EkL",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "publishedAt": "2026-11-22T15:30:49.000Z"
+    },
+    {
+      "id": "bv1xrywzbemb",
+      "bvid": "BV1xryWzBEMb",
+      "category": "animation",
+      "title": {
+        "zh": "time machine · 大肥鱼日语翻唱",
+        "en": "time machine · Fat Fish’s Japanese Cover",
+        "ja": "time machine · 大きな魚の日本語カバー"
+      },
+      "url": "https://www.bilibili.com/video/BV1xryWzBEMb/",
+      "publisher": "肥嘟嘟的鱼胆",
+      "sourceTitle": "大肥鱼日语翻唱《Time Machine》这么好听？星を見て~月を見て🎵「大肥鱼无限片场」",
+      "summary": {
+        "zh": "作者将原曲标为 mj apanay 与 aren park，并写明日语词为本次翻唱改编。",
+        "en": "The uploader credits mj apanay and aren park and describes the Japanese lyrics as an adaptation for this cover.",
+        "ja": "原曲は mj apanay と aren park。日本語詞はこのカバーのための翻案と記載。"
+      },
+      "rights": {
+        "zh": "提供原发布入口。角色图、视频和音乐依各权利方的使用条件。",
+        "en": "Links the original release. Artwork, video and music follow their respective rights holders’ terms.",
+        "ja": "原公開先を案内。キャラクター画像、映像、音楽は各権利者の条件を参照。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "肥嘟嘟的鱼胆",
+          "url": "https://space.bilibili.com/1002784558"
+        },
+        {
+          "role": "music-original",
+          "title": "mj apanay feat. aren park · time machine",
+          "url": "https://www.youtube.com/watch?v=7ugSL_omvYQ"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-20",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1xrywzbemb.json",
+        "sha256": "ca4137461537ef386d9189a451bac7f9ba634149bdaee5d9d8b68193a763ed33",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:27:52.981Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like."
+      },
+      "subtype": "mv",
+      "likes": {
+        "count": 910,
+        "observedAt": "2026-11-27T13:27:52.981Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xryWzBEMb",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "publishedAt": "2026-11-20T08:21:39.000Z"
+    },
+    {
+      "id": "bv1r5sp61eso",
+      "bvid": "BV1r5sP61ESo",
+      "category": "animation",
+      "title": {
+        "zh": "咏春 · 大肥鱼翻唱",
+        "en": "Ode to Spring · Fat Fish Cover",
+        "ja": "詠春 · 大きな魚のカバー"
+      },
+      "url": "https://www.bilibili.com/video/BV1r5sP61ESo/",
+      "publisher": "钟晴的少女心事",
+      "sourceTitle": "【大肥鱼】《咏春》“日高悬风拂面留下丝丝温暖，别辜负眼前季节”",
+      "summary": {
+        "zh": "附原投稿、发布者与累计点赞观测。",
+        "en": "Original upload, creator and cumulative likes observation.",
+        "ja": "原投稿・投稿者・累計いいね数の観測を掲載。"
+      },
+      "rights": {
+        "zh": "提供原发布入口。角色图、视频和音乐依各权利方的使用条件。",
+        "en": "Links the original release. Artwork, video and music follow their respective rights holders’ terms.",
+        "ja": "原公開先を案内。キャラクター画像、映像、音楽は各権利者の条件を参照。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "钟晴的少女心事",
+          "url": "https://space.bilibili.com/1178227438"
+        },
+        {
+          "role": "character-reference",
+          "title": "ZipZipPipe · character artwork",
+          "url": "https://www.pixiv.net/artworks/148186519"
+        },
+        {
+          "role": "music-original",
+          "title": "七朵组合 · 咏春",
+          "url": "https://music.apple.com/us/album/%E5%92%8F%E6%98%A5-single/1882824771"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-16",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1r5sp61eso.json",
+        "sha256": "982fa597f6eef7a9d65e9390f31d0add5b9468c9d2e9d67997af7fd8456d885c",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:27:52.948Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like."
+      },
+      "subtype": "mv",
+      "likes": {
+        "count": 6697,
+        "observedAt": "2026-11-27T13:27:52.948Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1r5sP61ESo",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "publishedAt": "2026-11-16T10:46:56.000Z"
+    },
+    {
+      "id": "bv1vonc61e5g",
+      "bvid": "BV1Vonc61E5G",
+      "category": "animation",
+      "title": {
+        "zh": "Let It Go · 大肥鱼动画翻唱",
+        "en": "Let It Go · Animated Fat Fish Cover",
+        "ja": "Let It Go · 大きな魚のアニメカバー"
+      },
+      "url": "https://www.bilibili.com/video/BV1Vonc61E5G/",
+      "publisher": "许真印",
+      "sourceTitle": "【大肥鱼 / LET IT GO】海之歌姬闪耀开唱！纯动画精编MV【AI二创翻唱】",
+      "summary": {
+        "zh": "许真印发布的翻唱动画，简介注明 Idina Menzel 演唱的《冰雪奇缘》主题曲。",
+        "en": "许真印’s animated cover credits Idina Menzel’s Frozen performance.",
+        "ja": "许真印 のアニメカバー。『アナと雪の女王』の Idina Menzel の歌唱を記載。"
+      },
+      "rights": {
+        "zh": "提供原发布入口。角色图、视频和音乐依各权利方的使用条件。",
+        "en": "Links the original release. Artwork, video and music follow their respective rights holders’ terms.",
+        "ja": "原公開先を案内。キャラクター画像、映像、音楽は各権利者の条件を参照。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "许真印",
+          "url": "https://space.bilibili.com/493008385"
+        },
+        {
+          "role": "music-original",
+          "title": "Idina Menzel · Let It Go",
+          "url": "https://www.youtube.com/watch?v=moSFlvxnbgk"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-20",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1vonc61e5g.json",
+        "sha256": "82318a998d3603bb614a5a85e9ddb707f12210b4fd508d1adf6635e10897aa74",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:27:54.807Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like."
+      },
+      "subtype": "mv",
+      "likes": {
+        "count": 17,
+        "observedAt": "2026-11-27T13:27:54.807Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Vonc61E5G",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "publishedAt": "2026-10-20T08:39:20.000Z"
+    },
+    {
+      "id": "bv1ooev6se5y",
+      "bvid": "BV1ooev6SE5Y",
+      "category": "animation",
+      "title": {
+        "zh": "搁浅的鱼 · 鱼生赢家版 MV",
+        "en": "Stranded Fish · Fat Fish MV",
+        "ja": "搁浅的鱼 · 大きな魚の MV"
+      },
+      "url": "https://www.bilibili.com/video/BV1ooev6SE5Y/",
+      "publisher": "Token萌友来啦",
+      "sourceTitle": "【大肥鱼】翻唱《搁浅的鱼》(鱼生赢家版MV）",
+      "summary": {
+        "zh": "附原投稿、发布者与累计点赞观测。",
+        "en": "Original upload, creator and cumulative likes observation.",
+        "ja": "原投稿・投稿者・累計いいね数の観測を掲載。"
+      },
+      "rights": {
+        "zh": "提供原发布入口。角色图、视频和音乐依各权利方的使用条件。",
+        "en": "Links the original release. Artwork, video and music follow their respective rights holders’ terms.",
+        "ja": "原公開先を案内。キャラクター画像、映像、音楽は各権利者の条件を参照。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "Token萌友来啦",
+          "url": "https://space.bilibili.com/3707048413891311"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-09-20",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1ooev6se5y.json",
+        "sha256": "e8bf407014b492159843af4fb2be5528cf87d477fa2f2645ac203fe9ebe09a3d",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:27:54.807Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like."
+      },
+      "subtype": "mv",
+      "likes": {
+        "count": 636,
+        "observedAt": "2026-11-27T13:27:54.807Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ooev6SE5Y",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "publishedAt": "2026-09-20T03:47:02.000Z"
+    },
+    {
+      "id": "bv1dsyvzpe9h",
+      "bvid": "BV1DSyVzpE9H",
+      "category": "animation",
+      "title": {
+        "zh": "Coopanion · 大肥鱼 Live2D 桌宠演示",
+        "en": "Coopanion · Fat Fish Live2D Demo",
+        "ja": "Coopanion · 大きな魚の Live2D 実演"
+      },
+      "url": "https://www.bilibili.com/video/BV1DSyVzpE9H/",
+      "publisher": "PalAILab",
+      "sourceTitle": "大肥鱼桌宠：一键导入Live2D模型，克隆语音！最新教程 安装和扩展介绍【B站AI创造公开赛】",
+      "summary": {
+        "zh": "Pal AI Lab 发布安装与角色扩展演示，并在简介链接原项目。",
+        "en": "Pal AI Lab publishes an installation and character-extension demo with the project linked in the description.",
+        "ja": "Pal AI Lab が導入とキャラクター拡張を実演し、概要欄にプロジェクトを掲載。"
+      },
+      "rights": {
+        "zh": "提供原发布入口。角色图、视频和音乐依各权利方的使用条件。",
+        "en": "Links the original release. Artwork, video and music follow their respective rights holders’ terms.",
+        "ja": "原公開先を案内。キャラクター画像、映像、音楽は各権利者の条件を参照。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "PalAILab",
+          "url": "https://space.bilibili.com/3493109168080921"
+        },
+        {
+          "role": "creator-project",
+          "title": "Pal AI Lab · Coopanion",
+          "url": "https://github.com/Pal-AI-Lab/Coopanion/blob/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/README_zh.md"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-22",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1dsyvzpe9h.json",
+        "sha256": "d51608790d5b501f98375add1d004610897f0bd9f90821c65b5b9ab295bf1813",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:27:56.349Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like."
+      },
+      "subtype": "commentary",
+      "likes": {
+        "count": 2349,
+        "observedAt": "2026-11-27T13:27:56.349Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1DSyVzpE9H",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "publishedAt": "2026-11-22T05:49:18.000Z"
+    },
+    {
+      "id": "bv1vk436tewa",
+      "bvid": "BV1Vk436tEWa",
+      "category": "animation",
+      "title": {
+        "zh": "汐可 · 大肥鱼 Live2D 动作演示",
+        "en": "Seekie · Fat Fish Live2D Motion Demo",
+        "ja": "汐可 · 大きな魚の Live2D 実演"
+      },
+      "url": "https://www.bilibili.com/video/BV1Vk436tEWa/",
+      "publisher": "汐可Seekie",
+      "sourceTitle": "AI大肥鱼如何使用Live2D模型【汐可 Day3】",
+      "summary": {
+        "zh": "发布者写明以浏览器播放器解释模型，简介链接这李果子的配布。",
+        "en": "The uploader documents the browser player and links 这李果子’s model release.",
+        "ja": "ブラウザーでの再生を実演し、概要欄に这李果子の配布元を掲載。"
+      },
+      "rights": {
+        "zh": "提供原发布入口。角色图、视频和音乐依各权利方的使用条件。",
+        "en": "Links the original release. Artwork, video and music follow their respective rights holders’ terms.",
+        "ja": "原公開先を案内。キャラクター画像、映像、音楽は各権利者の条件を参照。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "汐可Seekie",
+          "url": "https://space.bilibili.com/3747577736465227"
+        },
+        {
+          "role": "credited-model-source",
+          "title": "这李果子 · 配布原帖",
+          "url": "https://www.bilibili.com/video/BV12Vnm6aEX9/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-05",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1vk436tewa.json",
+        "sha256": "758557c532af1b84c7f27f500cd690ee7a3512a8fc345162758ab12c8628e766",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:27:57.898Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like."
+      },
+      "subtype": "commentary",
+      "likes": {
+        "count": 6,
+        "observedAt": "2026-11-27T13:27:57.898Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Vk436tEWa",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "publishedAt": "2026-11-05T04:15:00.000Z"
+    },
+    {
+      "id": "bv1uaw263etz",
+      "bvid": "BV1uaW263Etz",
+      "category": "animation",
+      "title": {
+        "zh": "用户专属的大肥鱼大尾巴",
+        "en": "Fat Fish’s Big Tail",
+        "ja": "大きな魚の大きなしっぽ"
+      },
+      "url": "https://www.bilibili.com/video/BV1uaW263Etz/",
+      "publisher": "莫快莫慢",
+      "sourceTitle": "deepseek x 用户专属的大肥鱼大尾巴",
+      "summary": {
+        "zh": "附原投稿、发布者与累计点赞观测。",
+        "en": "Original upload, creator and cumulative likes observation.",
+        "ja": "原投稿・投稿者・累計いいね数の観測を掲載。"
+      },
+      "rights": {
+        "zh": "提供原发布入口。角色图、视频和音乐依各权利方的使用条件。",
+        "en": "Links the original release. Artwork, video and music follow their respective rights holders’ terms.",
+        "ja": "原公開先を案内。キャラクター画像、映像、音楽は各権利者の条件を参照。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "莫快莫慢",
+          "url": "https://space.bilibili.com/10078784"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-11",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1uaw263etz.json",
+        "sha256": "514acd94ec0f0fd43cc845a9e9a44d927b1fdb5f6b6d1f8f84d4d12ca8226cfa",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:27:59.433Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like."
+      },
+      "subtype": "story",
+      "likes": {
+        "count": 1530,
+        "observedAt": "2026-11-27T13:27:59.433Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1uaW263Etz",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "publishedAt": "2026-11-11T13:07:15.000Z"
+    },
+    {
+      "id": "bv1iaxa6dep1",
+      "bvid": "BV1iAxa6DEp1",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼为自己的恶作剧感到愧疚",
+        "en": "Fat Fish Regrets Her Prank",
+        "ja": "大きな魚、いたずらを反省する"
+      },
+      "url": "https://www.bilibili.com/video/BV1iAxa6DEp1/",
+      "publisher": "AI小喵喵_",
+      "sourceTitle": "为自己的恶作剧感到愧疚#DeepSeek #蓝色大肥鱼 #鲸鱼娘 #AI拟人 #少女日漫",
+      "summary": {
+        "zh": "附原投稿、发布者与累计点赞观测。",
+        "en": "Original upload, creator and cumulative likes observation.",
+        "ja": "原投稿・投稿者・累計いいね数の観測を掲載。"
+      },
+      "rights": {
+        "zh": "提供原发布入口。角色图、视频和音乐依各权利方的使用条件。",
+        "en": "Links the original release. Artwork, video and music follow their respective rights holders’ terms.",
+        "ja": "原公開先を案内。キャラクター画像、映像、音楽は各権利者の条件を参照。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "AI小喵喵_",
+          "url": "https://space.bilibili.com/3706942998448143"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-02",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1iaxa6dep1.json",
+        "sha256": "688b3c8fa55bb325d228beaa144574d8106b40701ff5a362f6f29c135349ea00",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:27:59.621Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like."
+      },
+      "subtype": "story",
+      "likes": {
+        "count": 28,
+        "observedAt": "2026-11-27T13:27:59.621Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1iAxa6DEp1",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "publishedAt": "2026-11-02T00:10:12.000Z"
+    },
+    {
+      "id": "bv1zexk6negr",
+      "bvid": "BV1zExk6nEGr",
+      "category": "animation",
+      "title": {
+        "zh": "与 DeepSeek 鲸鱼娘的一日约会",
+        "en": "A Day Out with DeepSeek Whale Girl",
+        "ja": "DeepSeek クジラ娘との一日デート"
+      },
+      "url": "https://www.bilibili.com/video/BV1zExk6nEGr/",
+      "publisher": "网友陈胤平",
+      "sourceTitle": "与DeepSeek鲸鱼娘🐳的一日约会",
+      "summary": {
+        "zh": "附原投稿、发布者与累计点赞观测。",
+        "en": "Original upload, creator and cumulative likes observation.",
+        "ja": "原投稿・投稿者・累計いいね数の観測を掲載。"
+      },
+      "rights": {
+        "zh": "提供原发布入口。角色图、视频和音乐依各权利方的使用条件。",
+        "en": "Links the original release. Artwork, video and music follow their respective rights holders’ terms.",
+        "ja": "原公開先を案内。キャラクター画像、映像、音楽は各権利者の条件を参照。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "网友陈胤平",
+          "url": "https://space.bilibili.com/40862625"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-31",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1zexk6negr.json",
+        "sha256": "556eb728333196844a41c10738e3d5ab8f0b838b31dcc45f0f80e6c7499d0f24",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:28:01.333Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like."
+      },
+      "subtype": "story",
+      "likes": {
+        "count": 24,
+        "observedAt": "2026-11-27T13:28:01.333Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zExk6nEGr",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json",
+          "sha256": "f5d573f656afee07e818e31430aaf11a94cb9e2300417c60b344592c190069ff",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      "publishedAt": "2026-10-31T01:40:32.000Z"
+    },
+    {
+      "id": "cubefox-chibi-fatfish-live2d-release",
+      "bvid": "BV114W66JEug",
+      "category": "sources",
+      "title": {
+        "zh": "Cubefox · Q 版大肥鱼 Live2D",
+        "en": "Cubefox · Chibi Fat Fish Live2D",
+        "ja": "Cubefox · ちび大きな魚の Live2D"
+      },
+      "url": "https://www.bilibili.com/video/BV114W66JEug/",
+      "publisher": "Cubefox",
+      "sourceTitle": "【免费 Live2D 模型】快来领取你的大肥鱼Q版模型｜鲸鱼娘模型｜内含超多按键表情｜模型展示",
+      "summary": {
+        "zh": "原视频标明 Cubefox 绘制和建模，工房页面列出 whale vts REV2 模型文件。",
+        "en": "The video credits Cubefox for art and rigging. The Workshop page lists whale vts REV2.",
+        "ja": "原動画では作画とモデリングを Cubefox にクレジット。工房には whale vts REV2 を掲載。"
+      },
+      "rights": {
+        "zh": "工房注明仅对个人自由使用，建议署名模型作者。模型文件的其他用途依作者条款。",
+        "en": "The Workshop listing states personal use and recommends attribution to the model creator. Other uses follow the creator’s terms.",
+        "ja": "工房では個人使用に限り、モデル作者のクレジットを推奨。その他は作者の条件を参照。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "Cubefox",
+          "url": "https://space.bilibili.com/34839802"
+        },
+        {
+          "role": "creator-distribution",
+          "title": "Cubefox · 哔哩哔哩工房",
+          "url": "https://gf.bilibili.com/item/detail/1109960049"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-14",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/cubefox-chibi-fatfish-live2d-release.json",
+        "sha256": "815557d593f8f8fede488512fb19ed23f60675ed74aa8703222b0eb7168262b3",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:27:56.356Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description."
+      }
+    },
+    {
+      "id": "li-guozi-fatfish-model-distribution",
+      "bvid": "BV12Vnm6aEX9",
+      "category": "sources",
+      "title": {
+        "zh": "这李果子 · 大肥鱼模型配布",
+        "en": "这李果子 · Fat Fish Model Release",
+        "ja": "这李果子 · 大きな魚のモデル配布"
+      },
+      "url": "https://www.bilibili.com/video/BV12Vnm6aEX9/",
+      "publisher": "这李果子",
+      "sourceTitle": "【免费模型】deepseek大肥鱼来咯",
+      "summary": {
+        "zh": "这李果子发布的免费模型贴文，简介感谢白茶的模型和乐的视频。汐可的动作演示链接该发布。",
+        "en": "这李果子 posts a free model and credits 白茶’s model and 乐’s video. Seekie links this release in the motion demo.",
+        "ja": "这李果子 が無料モデルを公開し、白茶 のモデルと 乐 の動画に謝辞。汐可 の実演から参照される。"
+      },
+      "rights": {
+        "zh": "发布页可核对署名。模型文件的再分发条款仍待确认。",
+        "en": "The post documents its credits. Model-file redistribution terms remain unconfirmed.",
+        "ja": "投稿のクレジットは確認済み。モデルファイルの再配布条件は確認中。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "这李果子",
+          "url": "https://space.bilibili.com/23172558"
+        },
+        {
+          "role": "related-model-demo",
+          "title": "汐可 · Live2D",
+          "url": "https://www.bilibili.com/video/BV1Vk436tEWa/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-22",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/li-guozi-fatfish-model-distribution.json",
+        "sha256": "5c8f03d2ca4cde0c1eab0a5868163cd84ac3e3989a058fd688400699c6dffe16",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:30:50.032Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description."
+      }
+    },
+    {
+      "id": "taidanshi-fatfish-tsf-comic",
+      "bvid": "BV19nyGzpEs9",
+      "category": "sources",
+      "title": {
+        "zh": "大肥鱼 AI 助手 · 泰丹士漫画",
+        "en": "Fat Fish AI Assistant · 泰丹士 Comic",
+        "ja": "大きな魚 AI アシスタント · 泰丹士 の漫画"
+      },
+      "url": "https://www.bilibili.com/video/BV19nyGzpEs9/",
+      "publisher": "泰丹士",
+      "sourceTitle": "【TSF漫画】我把室友变成AI助手大肥鱼",
+      "summary": {
+        "zh": "泰丹士以大肥鱼助手为题发布漫画，简介注明使用 GPT 画图。",
+        "en": "泰丹士 publishes a Fat Fish assistant comic and credits GPT for drawing.",
+        "ja": "泰丹士 が大きな魚のアシスタント漫画を公開。概要欄に GPT の作画を記載。"
+      },
+      "rights": {
+        "zh": "提供原发布入口。角色图、视频和音乐依各权利方的使用条件。",
+        "en": "Links the original release. Artwork, video and music follow their respective rights holders’ terms.",
+        "ja": "原公開先を案内。キャラクター画像、映像、音楽は各権利者の条件を参照。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "泰丹士",
+          "url": "https://space.bilibili.com/3747565533137343"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-22",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/taidanshi-fatfish-tsf-comic.json",
+        "sha256": "60bb6ed43a5ba718b27295f225019f911b631f6322a8298debc5149fa03cd875",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:27:57.886Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description."
+      }
+    },
+    {
+      "id": "inabakumori-lagtrain-original",
+      "bvid": "BV1fK4y1s7Qf",
+      "category": "sources",
+      "title": {
+        "zh": "ラグトレイン · 稲葉曇原投稿",
+        "en": "Lagtrain · 稲葉曇’s Original Upload",
+        "ja": "ラグトレイン · 稲葉曇の原投稿"
+      },
+      "url": "https://www.bilibili.com/video/BV1fK4y1s7Qf/",
+      "publisher": "稲葉曇",
+      "sourceTitle": "稲葉曇『ラグトレイン』Vo. 歌愛ユキ / 稻叶昙- Lagtrain (Vo. 歌爱雪)",
+      "summary": {
+        "zh": "稲葉曇的 B 站原发布，署名歌愛ユキ演唱。大肥鱼中文改词版明确引用该投稿。",
+        "en": "稲葉曇’s Bilibili release credits Kaai Yuki. The Chinese-lyrics Fat Fish adaptation explicitly links it.",
+        "ja": "稲葉曇 の Bilibili 原投稿で歌愛ユキが歌唱。大きな魚の中国語替え歌版が出典として掲載。"
+      },
+      "rights": {
+        "zh": "提供原发布入口。角色图、视频和音乐依各权利方的使用条件。",
+        "en": "Links the original release. Artwork, video and music follow their respective rights holders’ terms.",
+        "ja": "原公開先を案内。キャラクター画像、映像、音楽は各権利者の条件を参照。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "稲葉曇",
+          "url": "https://space.bilibili.com/26040194"
+        },
+        {
+          "role": "related-fan-version",
+          "title": "琅小雫 · 慢行思维链",
+          "url": "https://www.bilibili.com/video/BV1XDySz4Eg2/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2020-07-16",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/inabakumori-lagtrain-original.json",
+        "sha256": "3c303bd480698176dd893888c88af998e2e7e362e84d1df1f4acd270c575fbfa",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:30:28.286Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description."
+      }
+    },
+    {
+      "id": "mygo-moudoku-cover-source",
+      "bvid": "BV1sN4y1T72q",
+      "category": "sources",
+      "title": {
+        "zh": "猛独が襲う · MyGO!!!!! 翻唱",
+        "en": "Moudoku ga Osou · MyGO!!!!! Cover",
+        "ja": "猛独が襲う · MyGO!!!!! カバー"
+      },
+      "url": "https://www.bilibili.com/video/BV1sN4y1T72q/",
+      "publisher": "MyGO_AveMujica",
+      "sourceTitle": "猛独が襲う / MyGO!!!!! cover ver. （猛独侵袭）",
+      "summary": {
+        "zh": "MyGO!!!!! 的发布页注明一二三作词作曲。大肥鱼 MV 使用该翻唱版作为参考。",
+        "en": "MyGO!!!!! credits 一二三 for words and music. The Fat Fish MV cites this cover as its reference.",
+        "ja": "MyGO!!!!! の公開ページで作詞・作曲は一二三。大きな魚 MV がカバー版を参考に記載。"
+      },
+      "rights": {
+        "zh": "提供原发布入口。角色图、视频和音乐依各权利方的使用条件。",
+        "en": "Links the original release. Artwork, video and music follow their respective rights holders’ terms.",
+        "ja": "原公開先を案内。キャラクター画像、映像、音楽は各権利者の条件を参照。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "MyGO_AveMujica",
+          "url": "https://space.bilibili.com/1459104794"
+        },
+        {
+          "role": "music-original",
+          "title": "一二三 · 猛独が襲う",
+          "url": "https://karent.jp/album/2104"
+        },
+        {
+          "role": "related-fan-version",
+          "title": "长期素食-ing · Fat Fish MV",
+          "url": "https://www.bilibili.com/video/BV1Mpy7z4EkL/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2022-07-16",
+      "publicationDateBasis": "bilibili-pubdate",
+      "evidence": {
+        "path": "content/research/2026-11-27/mygo-moudoku-cover-source.json",
+        "sha256": "16b9a89220e7d20141b63ed5865a4f08c5157c1c3483b811fb6cd2d2c4a13ec0",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:30:28.298Z",
+        "httpStatus": 200,
+        "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description."
+      }
+    },
+    {
+      "id": "joscom-codex-hand-drawn-pet",
+      "category": "interactive",
+      "title": {
+        "zh": "JosCom · 手绘原案桌宠",
+        "en": "JosCom · Desktop Pet from a Hand-Drawn Design",
+        "ja": "JosCom · 手描き原案のデスクトップペット"
+      },
+      "url": "https://github.com/JosCom/JosCom-pet/blob/9d0a8741813e65df7585ccf2869cf1c05a8bce90/README.md",
+      "publisher": "JosCom",
+      "summary": {
+        "zh": "作者公开手绘原稿、角色设定、动画图集及桌宠清单。设定明确以手绘稿确定辨识特征。",
+        "en": "The creator publishes the sketch, character guide, animated atlas and pet manifest. The guide identifies the sketch as the defining reference.",
+        "ja": "作者が手描き原稿・設定・アニメ素材集・ペットのマニフェストを公開。識別特徴は手描き原稿を基準とする。"
+      },
+      "rights": {
+        "zh": "项目开放安装与参考入口。作者保留角色、品牌和图件权利，未授予图件开源许可。",
+        "en": "The project is public for installation and reference. The creator reserves character, brand and artwork rights.",
+        "ja": "インストール・参照向けに公開。キャラ、ブランド、画像の権利は作者が留保。"
+      },
+      "relations": [
+        {
+          "role": "creator-character-design",
+          "title": "JosCom · character guide",
+          "url": "https://github.com/JosCom/JosCom-pet/blob/9d0a8741813e65df7585ccf2869cf1c05a8bce90/docs/character-bible.md"
+        },
+        {
+          "role": "creator-original-artwork",
+          "title": "JosCom · original sketch",
+          "url": "https://github.com/JosCom/JosCom-pet/blob/9d0a8741813e65df7585ccf2869cf1c05a8bce90/assets/mascot/reference/joscom-original-sketch.jpg"
+        },
+        {
+          "role": "pet-manifest",
+          "title": "JosCom · pet manifest",
+          "url": "https://github.com/JosCom/JosCom-pet/blob/9d0a8741813e65df7585ccf2869cf1c05a8bce90/assets/mascot/animation/pet.json"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-07-13",
+      "publicationDateBasis": "github-repository-created",
+      "evidence": {
+        "path": "content/research/2026-11-27/joscom-codex-hand-drawn-pet.json",
+        "sha256": "bfaa556ecd0f488b5cebf68b8d718bcf4eb2ffa7e4e8ef2e6431c34f71f00d4f",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:31:08.325Z",
+        "httpStatus": 200,
+        "scope": "Pinned creator documentation and source files were obtained in headless Chrome and checked by Git blob and SHA-256."
+      }
+    },
+    {
+      "id": "uknownperson-clawd-pixel-pet",
+      "category": "interactive",
+      "title": {
+        "zh": "Clawd · UknownPerson 像素桌宠",
+        "en": "Clawd · UknownPerson’s Pixel Pet",
+        "ja": "Clawd · UknownPerson のドット絵ペット"
+      },
+      "url": "https://github.com/UknownPerson/clawd-pixel-codex-pet/blob/902a659d49c91d24040254c76c81e2b5fe6261c1/README.md",
+      "publisher": "UknownPerson",
+      "summary": {
+        "zh": "作者公开像素 Clawd 桌宠说明及清单，文件用于 Codex 桌宠。",
+        "en": "The author publishes the Clawd pixel-pet instructions and manifest for Codex.",
+        "ja": "作者が Codex 向け Clawd のドット絵ペットとマニフェストを公開。"
+      },
+      "rights": {
+        "zh": "README 将这版定位为个人使用分享，未提供素材再分发许可。",
+        "en": "The README describes this as a personal-use share. Further distribution terms are unconfirmed.",
+        "ja": "README は個人使用向けと説明。素材の更なる再配布条件は未確認。"
+      },
+      "relations": [
+        {
+          "role": "pet-manifest",
+          "title": "Clawd · pet manifest",
+          "url": "https://github.com/UknownPerson/clawd-pixel-codex-pet/blob/902a659d49c91d24040254c76c81e2b5fe6261c1/pet.json"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-07-04",
+      "publicationDateBasis": "github-repository-created",
+      "evidence": {
+        "path": "content/research/2026-11-27/uknownperson-clawd-pixel-pet.json",
+        "sha256": "264cb3d5e8cc42ac1fef9eb69a905ec4a6d9e9306a916d8d2c8881bb6780cf00",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:31:07.156Z",
+        "httpStatus": 200,
+        "scope": "Pinned creator documentation and source files were obtained in headless Chrome and checked by Git blob and SHA-256."
+      }
+    },
+    {
+      "id": "kirill-claude-versus-codex-cartoon-source",
+      "category": "sources",
+      "title": {
+        "zh": "Claude vs Codex · 像素动画制作档案",
+        "en": "Claude vs Codex · Pixel Cartoon Source",
+        "ja": "Claude vs Codex · ドット絵アニメ制作資料"
+      },
+      "url": "https://github.com/kirillshsh/claude-vs-codex/blob/0a73cb3451c1154cc3ad3639417274eb895ca9ea/README.md",
+      "publisher": "kirillshsh",
+      "summary": {
+        "zh": "作者公开像素动画的制作说明和逐类署名，角色分别标注 Anthropic 和 OpenAI。",
+        "en": "The author publishes the pixel cartoon’s production notes and credits, identifying the Anthropic and OpenAI characters.",
+        "ja": "作者がドット絵アニメの制作説明とクレジットを掲載。キャラクターは Anthropic と OpenAI に帰属と記載。"
+      },
+      "rights": {
+        "zh": "代码 MIT，配乐 CC BY-SA 4.0。角色图件依各权利方条件，音效署名按作者清单。",
+        "en": "Code is MIT and the soundtrack CC BY-SA 4.0. Character rights remain with their respective owners. Sound credits are listed by the creator.",
+        "ja": "コードは MIT、サウンドトラックは CC BY-SA 4.0。キャラ画像は各権利者の条件、音源は作者のクレジット一覧を参照。"
+      },
+      "relations": [
+        {
+          "role": "attribution",
+          "title": "Claude vs Codex · credits",
+          "url": "https://github.com/kirillshsh/claude-vs-codex/blob/0a73cb3451c1154cc3ad3639417274eb895ca9ea/CREDITS.md"
+        },
+        {
+          "role": "code-license",
+          "title": "LICENSE",
+          "url": "https://github.com/kirillshsh/claude-vs-codex/blob/0a73cb3451c1154cc3ad3639417274eb895ca9ea/LICENSE"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-09-20",
+      "publicationDateBasis": "github-repository-created",
+      "evidence": {
+        "path": "content/research/2026-11-27/kirill-claude-versus-codex-cartoon-source.json",
+        "sha256": "18f708997d62c86b74b6c5d91b0998829b540c6e4898306476b670740e11e524",
+        "kind": "browser-metadata-extract"
+      },
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T13:31:06.978Z",
+        "httpStatus": 200,
+        "scope": "Pinned creator documentation and source files were obtained in headless Chrome and checked by Git blob and SHA-256."
+      }
     }
-  ]
+  ],
+  "interactiveStarEvidence": {
+    "path": "content/research/2026-11-27/github-interactive-stars-november-27-full-ranking-and-sprites.json",
+    "sha256": "821671db8af4f4130a1446ac2f4dd705a683fee9084fcbe64f7563d6f466dc36",
+    "kind": "browser-metadata-extract"
+  }
 }

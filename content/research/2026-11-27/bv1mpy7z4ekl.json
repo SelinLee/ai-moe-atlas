@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Mpy7z4EkL/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Mpy7z4EkL",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:27:51.337Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like.",
+  "metadata": {
+    "bvid": "BV1Mpy7z4EkL",
+    "title": "【大肥鱼翻唱】猛独が襲う（猛独侵袭）｜MyGO!!!!! 版 · 二创MV",
+    "owner": {
+      "name": "长期素食-ing",
+      "mid": 3493280195021197
+    },
+    "pubdate": 1795361449,
+    "duration": 254
+  },
+  "descriptionSha256": "3fb9770cb4e3550fbc9e710d0299780c389bd9a80ec3541b628c237f3859a908",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "长期素食-ing",
+      "url": "https://space.bilibili.com/3493280195021197"
+    },
+    {
+      "role": "music-original",
+      "title": "一二三 · 猛独が襲う",
+      "url": "https://karent.jp/album/2104"
+    },
+    {
+      "role": "music-arrangement-reference",
+      "title": "MyGO!!!!! · cover",
+      "url": "https://www.bilibili.com/video/BV1sN4y1T72q/"
+    }
+  ]
+}

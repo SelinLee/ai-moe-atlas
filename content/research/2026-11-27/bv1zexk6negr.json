@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1zExk6nEGr/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1zExk6nEGr",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:28:01.333Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like.",
+  "metadata": {
+    "bvid": "BV1zExk6nEGr",
+    "title": "与DeepSeek鲸鱼娘🐳的一日约会",
+    "owner": {
+      "name": "网友陈胤平",
+      "mid": 40862625
+    },
+    "pubdate": 1793410832,
+    "duration": 262
+  },
+  "descriptionSha256": "25b092311df976169232d75495329139e063a3fd6e0f586779d0e44cb6d1767c",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "网友陈胤平",
+      "url": "https://space.bilibili.com/40862625"
+    }
+  ]
+}

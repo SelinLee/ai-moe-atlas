@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1iAxa6DEp1/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1iAxa6DEp1",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:27:59.621Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like.",
+  "metadata": {
+    "bvid": "BV1iAxa6DEp1",
+    "title": "为自己的恶作剧感到愧疚#DeepSeek #蓝色大肥鱼 #鲸鱼娘 #AI拟人 #少女日漫",
+    "owner": {
+      "name": "AI小喵喵_",
+      "mid": 3706942998448143
+    },
+    "pubdate": 1793578212,
+    "duration": 16
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "AI小喵喵_",
+      "url": "https://space.bilibili.com/3706942998448143"
+    }
+  ]
+}

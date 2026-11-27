@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV12Vnm6aEX9/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12Vnm6aEX9",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:30:50.032Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description.",
+  "metadata": {
+    "bvid": "BV12Vnm6aEX9",
+    "title": "【免费模型】deepseek大肥鱼来咯",
+    "owner": {
+      "name": "这李果子",
+      "mid": 23172558
+    },
+    "pubdate": 1792665000,
+    "duration": 41
+  },
+  "descriptionSha256": "3ead7636c7bb3e508d31649ef0c6ebc77414b5d38af3f4334cdd52a492a35310",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "这李果子",
+      "url": "https://space.bilibili.com/23172558"
+    },
+    {
+      "role": "related-model-demo",
+      "title": "汐可 · Live2D",
+      "url": "https://www.bilibili.com/video/BV1Vk436tEWa/"
+    }
+  ]
+}

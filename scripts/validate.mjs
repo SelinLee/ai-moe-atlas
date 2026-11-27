@@ -2,11 +2,13 @@ import { readFile,readdir,access } from 'node:fs/promises';
 import { assertSource,sha256 } from './lib/policy.mjs';
 import { assertUsageReview } from '../src/lib/usage-policy.mjs';
 import { assertCandidateReport } from './lib/candidates.mjs';
-import { assertResources, assertResourceCollections } from './lib/resources.mjs';
+import { assertResources, assertResourceCollections, readInteractiveStars } from './lib/resources.mjs';
 const resources=JSON.parse(await readFile('content/resources.json','utf8'));
-const resourceCount=await assertResources(resources,new URL('../',import.meta.url));
+const resourceRoot=new URL('../',import.meta.url);
+const [resourceCount,interactiveStars]=await Promise.all([assertResources(resources,resourceRoot),readInteractiveStars(resources,resourceRoot)]);
 assertResourceCollections(JSON.parse(await readFile('content/resource-collections.json','utf8')),resources.records);
 console.log(`Validated ${resourceCount} resource records, localized metadata, prompt permissions and retained evidence hashes.`);
+console.log(`Validated ${interactiveStars.length} ranked GitHub Star observations.`);
 
 const categoryArtwork=JSON.parse(await readFile('content/category-preview-artwork.json','utf8'));
 if (categoryArtwork.schemaVersion !== 1 || categoryArtwork.scope !== 'noncommercial-category-display') {

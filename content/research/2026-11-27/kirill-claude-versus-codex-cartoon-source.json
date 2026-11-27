@@ -1,0 +1,70 @@
+{
+  "full_name": "kirillshsh/claude-vs-codex",
+  "html_url": "https://github.com/kirillshsh/claude-vs-codex",
+  "stargazers_count": 34,
+  "archived": false,
+  "created_at": "2026-09-20T23:30:37Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "0a73cb3451c1154cc3ad3639417274eb895ca9ea",
+  "observedAt": "2026-11-27T13:26:34.239Z",
+  "httpStatus": 200,
+  "metadataSha256": "a2ea217f61f1b8f1a3a637278641d8de36c23af9c6ca281b46d4126a51b83229",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/kirillshsh/claude-vs-codex/blob/0a73cb3451c1154cc3ad3639417274eb895ca9ea/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/kirillshsh/claude-vs-codex/0a73cb3451c1154cc3ad3639417274eb895ca9ea/README.md",
+      "sourceSha256": "7056c210e22278e0a101afa2e77c452772fc5589fabf1dbe25fb09470f7f6e06",
+      "gitBlobSha": "b732c45bf6a917900f4dcb8237c5631a81af2468",
+      "bytes": 6090,
+      "commit": "0a73cb3451c1154cc3ad3639417274eb895ca9ea",
+      "accessedAt": "2026-11-27T13:31:06.496Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/kirillshsh/claude-vs-codex/blob/0a73cb3451c1154cc3ad3639417274eb895ca9ea/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/kirillshsh/claude-vs-codex/0a73cb3451c1154cc3ad3639417274eb895ca9ea/LICENSE",
+      "sourceSha256": "a9f67aeaf32ec44fc697b73ac4f379c6b9145b17de8481b433bb6672a176ad7a",
+      "gitBlobSha": "24b59f9964aff853aa7826eb17b5f36de14fc58c",
+      "bytes": 1308,
+      "commit": "0a73cb3451c1154cc3ad3639417274eb895ca9ea",
+      "accessedAt": "2026-11-27T13:31:06.732Z"
+    },
+    {
+      "path": "CREDITS.md",
+      "url": "https://github.com/kirillshsh/claude-vs-codex/blob/0a73cb3451c1154cc3ad3639417274eb895ca9ea/CREDITS.md",
+      "rawUrl": "https://raw.githubusercontent.com/kirillshsh/claude-vs-codex/0a73cb3451c1154cc3ad3639417274eb895ca9ea/CREDITS.md",
+      "sourceSha256": "92f838c5cd94a2bdcee5bfd13d1218d31f7756f082903845f90cc0fc37e16733",
+      "gitBlobSha": "bb312e9034a285039c78c9b573cd54ed55a8492a",
+      "bytes": 6037,
+      "commit": "0a73cb3451c1154cc3ad3639417274eb895ca9ea",
+      "accessedAt": "2026-11-27T13:31:06.978Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T13:31:06.978Z",
+  "scope": "Pinned creator documentation and source files were obtained in headless Chrome and checked by Git blob and SHA-256.",
+  "relations": [
+    {
+      "role": "attribution",
+      "title": "Claude vs Codex · credits",
+      "url": "https://github.com/kirillshsh/claude-vs-codex/blob/0a73cb3451c1154cc3ad3639417274eb895ca9ea/CREDITS.md"
+    },
+    {
+      "role": "code-license",
+      "title": "LICENSE",
+      "url": "https://github.com/kirillshsh/claude-vs-codex/blob/0a73cb3451c1154cc3ad3639417274eb895ca9ea/LICENSE"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/kirillshsh/claude-vs-codex/blob/0a73cb3451c1154cc3ad3639417274eb895ca9ea/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/kirillshsh/claude-vs-codex/0a73cb3451c1154cc3ad3639417274eb895ca9ea/README.md",
+    "sourceSha256": "7056c210e22278e0a101afa2e77c452772fc5589fabf1dbe25fb09470f7f6e06",
+    "gitBlobSha": "b732c45bf6a917900f4dcb8237c5631a81af2468",
+    "bytes": 6090,
+    "commit": "0a73cb3451c1154cc3ad3639417274eb895ca9ea",
+    "accessedAt": "2026-11-27T13:31:06.496Z"
+  }
+}

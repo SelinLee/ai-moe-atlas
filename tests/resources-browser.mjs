@@ -2,7 +2,8 @@ import {chromium} from 'playwright';
 import assert from 'node:assert/strict';
 import {createHash} from 'node:crypto';
 import {readFile,mkdir} from 'node:fs/promises';
-import {readPendingAnimationCandidates} from '../scripts/lib/resources.mjs';
+import {readInteractiveStars,readPendingAnimationCandidates} from '../scripts/lib/resources.mjs';
+import {repo} from '../src/lib/repo.mjs';
 import {byPublicationTime,beijingTime} from '../src/lib/animation-ranking.mjs';
 import {rankSongsByLikes} from '../src/lib/song-ranking.mjs';
 import {unlistedSourceLeads} from '../src/lib/source-leads.mjs';
@@ -12,6 +13,7 @@ const songs=JSON.parse(await readFile('content/songs.json','utf8'));
 const collections=JSON.parse(await readFile('content/resource-collections.json','utf8'));
 const rankedSongs=rankSongsByLikes(songs,new Map(registry.records.map(record=>[record.id,record])));
 const pending=await readPendingAnimationCandidates(registry,new URL('../',import.meta.url));
+const starRecords=await readInteractiveStars(registry,new URL('../',import.meta.url));
 const currentSnapshot=JSON.parse(await readFile(registry.pendingAnimationEvidence.path,'utf8'));
 const animationCount=registry.records.filter(r=>r.category==='animation').length;
 const ranked=registry.records.filter(r=>r.likes).sort((a,b)=>
@@ -300,6 +302,20 @@ try{
    await page.locator('#resource-search').fill('');
   }
   await page.locator('#resource-category').selectOption('interactive');assert.equal(await page.locator('[data-resource-category]:visible').count(),interactiveCount);
+  const starIntro=page.locator('[data-resource-intro="interactive"]');
+  assert.ok(await starIntro.isVisible());
+  assert.equal(await starIntro.locator('a').getAttribute('href'),`${repo}/blob/main/${registry.interactiveStarEvidence.path}`);
+  const starCards=await page.locator('[data-resource-category="interactive"]:visible').evaluateAll(cards=>cards.map(card=>{
+   const observation=card.querySelector('[data-star-observation]');
+   return {id:card.id,rank:card.dataset.starRank,stars:observation?.dataset.starObservation,
+    observedAt:observation?.querySelector('time')?.dateTime,source:observation?.querySelector('a')?.href};
+  }));
+  assert.deepEqual(starCards.slice(0,starRecords.length),starRecords.map((record,index)=>({
+   id:record.id,rank:String(index+1),stars:String(record.stars),observedAt:record.observedAt,source:record.sourceUrl,
+  })));
+  const unranked=registry.records.filter(record=>record.category==='interactive'&&!starRecords.some(row=>row.id===record.id));
+  assert.deepEqual(starCards.slice(starRecords.length).map(card=>card.id).sort(),unranked.map(record=>record.id).sort());
+  assert.ok(starCards.slice(starRecords.length).every(card=>card.rank===undefined&&card.stars===undefined));
   assert.ok(await page.locator('#pending-animation-evidence').isHidden());
   assert.ok(await page.locator('#like-evidence').isHidden());
   assert.ok(await page.locator('#resource-types').isHidden());

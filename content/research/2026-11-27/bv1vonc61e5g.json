@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Vonc61E5G/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Vonc61E5G",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:27:54.807Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like.",
+  "metadata": {
+    "bvid": "BV1Vonc61E5G",
+    "title": "【大肥鱼 / LET IT GO】海之歌姬闪耀开唱！纯动画精编MV【AI二创翻唱】",
+    "owner": {
+      "name": "许真印",
+      "mid": 493008385
+    },
+    "pubdate": 1792485560,
+    "duration": 148
+  },
+  "descriptionSha256": "d2b4eaa069e43474e49ca5c27deac5fe641c3fc1f1ae1a1235e27c733e398a06",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "许真印",
+      "url": "https://space.bilibili.com/493008385"
+    },
+    {
+      "role": "music-original",
+      "title": "Idina Menzel · Let It Go",
+      "url": "https://www.youtube.com/watch?v=moSFlvxnbgk"
+    }
+  ]
+}

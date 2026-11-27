@@ -1,0 +1,95 @@
+{
+  "full_name": "JosCom/JosCom-pet",
+  "html_url": "https://github.com/JosCom/JosCom-pet",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-07-13T15:12:18Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "9d0a8741813e65df7585ccf2869cf1c05a8bce90",
+  "observedAt": "2026-11-27T13:26:34.364Z",
+  "httpStatus": 200,
+  "metadataSha256": "3052f1c8f1fe4820cb873fb23bb7f294dbb17535fad9249af11a86850dae1b2e",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/JosCom/JosCom-pet/blob/9d0a8741813e65df7585ccf2869cf1c05a8bce90/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/JosCom/JosCom-pet/9d0a8741813e65df7585ccf2869cf1c05a8bce90/README.md",
+      "sourceSha256": "ebf39f4877085a6a6dc86a0fb6f8a9d1ec672a1454a17947545caf581bca8b13",
+      "gitBlobSha": "f2af98ecb1b89d57bac7fc730ee36d39a486c425",
+      "bytes": 5257,
+      "commit": "9d0a8741813e65df7585ccf2869cf1c05a8bce90",
+      "accessedAt": "2026-11-27T13:31:06.496Z"
+    },
+    {
+      "path": "assets/mascot/README.md",
+      "url": "https://github.com/JosCom/JosCom-pet/blob/9d0a8741813e65df7585ccf2869cf1c05a8bce90/assets/mascot/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/JosCom/JosCom-pet/9d0a8741813e65df7585ccf2869cf1c05a8bce90/assets/mascot/README.md",
+      "sourceSha256": "e51a4883200799bdb00a01a59cbe8ffa8dd31374ca2dadb36b15278b3c70b706",
+      "gitBlobSha": "c1cedef953c47097dcb68cf15d1182e6a7f4e12c",
+      "bytes": 756,
+      "commit": "9d0a8741813e65df7585ccf2869cf1c05a8bce90",
+      "accessedAt": "2026-11-27T13:31:06.737Z"
+    },
+    {
+      "path": "assets/mascot/animation/pet.json",
+      "url": "https://github.com/JosCom/JosCom-pet/blob/9d0a8741813e65df7585ccf2869cf1c05a8bce90/assets/mascot/animation/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/JosCom/JosCom-pet/9d0a8741813e65df7585ccf2869cf1c05a8bce90/assets/mascot/animation/pet.json",
+      "sourceSha256": "97ab451ed57b28fc0dba83d5d5a97388bc79e3ebcd056c2692e7912a42782807",
+      "gitBlobSha": "d4f829ecd344a9833b34c0df9a5f4a3268a07f72",
+      "bytes": 196,
+      "commit": "9d0a8741813e65df7585ccf2869cf1c05a8bce90",
+      "accessedAt": "2026-11-27T13:31:06.978Z"
+    },
+    {
+      "path": "docs/character-bible.md",
+      "url": "https://github.com/JosCom/JosCom-pet/blob/9d0a8741813e65df7585ccf2869cf1c05a8bce90/docs/character-bible.md",
+      "rawUrl": "https://raw.githubusercontent.com/JosCom/JosCom-pet/9d0a8741813e65df7585ccf2869cf1c05a8bce90/docs/character-bible.md",
+      "sourceSha256": "9a0f2096571895c1dc264baa13c5c915d0d38a5e1b1c7227a2f3b1359bd09dc0",
+      "gitBlobSha": "9677d8ec564fded106dbb4511a42e92df06bc1f9",
+      "bytes": 2862,
+      "commit": "9d0a8741813e65df7585ccf2869cf1c05a8bce90",
+      "accessedAt": "2026-11-27T13:31:07.340Z"
+    },
+    {
+      "path": "assets/mascot/reference/joscom-original-sketch.jpg",
+      "url": "https://github.com/JosCom/JosCom-pet/blob/9d0a8741813e65df7585ccf2869cf1c05a8bce90/assets/mascot/reference/joscom-original-sketch.jpg",
+      "rawUrl": "https://raw.githubusercontent.com/JosCom/JosCom-pet/9d0a8741813e65df7585ccf2869cf1c05a8bce90/assets/mascot/reference/joscom-original-sketch.jpg",
+      "sourceSha256": "a24600de96d304e450d78788da51379c78b4e091e3da2a693385a9e9275742a8",
+      "gitBlobSha": "628189010c25192693f9e8b2b192d771bb25e6b4",
+      "bytes": 200635,
+      "commit": "9d0a8741813e65df7585ccf2869cf1c05a8bce90",
+      "accessedAt": "2026-11-27T13:31:08.325Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T13:31:08.325Z",
+  "scope": "Pinned creator documentation and source files were obtained in headless Chrome and checked by Git blob and SHA-256.",
+  "relations": [
+    {
+      "role": "creator-character-design",
+      "title": "JosCom · character guide",
+      "url": "https://github.com/JosCom/JosCom-pet/blob/9d0a8741813e65df7585ccf2869cf1c05a8bce90/docs/character-bible.md"
+    },
+    {
+      "role": "creator-original-artwork",
+      "title": "JosCom · original sketch",
+      "url": "https://github.com/JosCom/JosCom-pet/blob/9d0a8741813e65df7585ccf2869cf1c05a8bce90/assets/mascot/reference/joscom-original-sketch.jpg"
+    },
+    {
+      "role": "pet-manifest",
+      "title": "JosCom · pet manifest",
+      "url": "https://github.com/JosCom/JosCom-pet/blob/9d0a8741813e65df7585ccf2869cf1c05a8bce90/assets/mascot/animation/pet.json"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/JosCom/JosCom-pet/blob/9d0a8741813e65df7585ccf2869cf1c05a8bce90/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/JosCom/JosCom-pet/9d0a8741813e65df7585ccf2869cf1c05a8bce90/README.md",
+    "sourceSha256": "ebf39f4877085a6a6dc86a0fb6f8a9d1ec672a1454a17947545caf581bca8b13",
+    "gitBlobSha": "f2af98ecb1b89d57bac7fc730ee36d39a486c425",
+    "bytes": 5257,
+    "commit": "9d0a8741813e65df7585ccf2869cf1c05a8bce90",
+    "accessedAt": "2026-11-27T13:31:06.496Z"
+  }
+}

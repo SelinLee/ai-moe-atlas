@@ -1,7 +1,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import { beijingTime, byCumulativeLikes } from '../src/lib/animation-ranking.mjs';
 import { rankSongsByLikes } from '../src/lib/song-ranking.mjs';
-import { readPendingAnimationCandidates } from './lib/resources.mjs';
+import { readInteractiveStars, readPendingAnimationCandidates } from './lib/resources.mjs';
 import { unlistedSourceLeads } from '../src/lib/source-leads.mjs';
 
 const root = new URL('../', import.meta.url);
@@ -26,14 +26,18 @@ const directoryCounts = {
   'desktop-pets': records.filter(record => record.category === 'interactive').length,
   sources: records.filter(record => record.category === 'sources').length + unlistedSourceLeads(records, leads).length,
 };
-const pendingCandidates = await readPendingAnimationCandidates(registry, root);
+const [pendingCandidates, interactiveStars] = await Promise.all([
+  readPendingAnimationCandidates(registry, root), readInteractiveStars(registry, root),
+]);
 const animations = records.filter(record => record.category === 'animation');
 const ranked = animations.filter(record => record.likes).sort(byCumulativeLikes);
-const rankedSongs = rankSongsByLikes(songs, new Map(records.map(record => [record.id, record])))
+const byId = new Map(records.map(record => [record.id, record]));
+const rankedSongs = rankSongsByLikes(songs, byId)
   .filter(({ leading }) => leading);
 const previewCount = 10;
 const videoPreview = ranked.slice(0, previewCount);
 const songPreview = rankedSongs.slice(0, previewCount);
+const interactivePreview = interactiveStars.slice(0, previewCount);
 
 function previewEvidence(records) {
   const paths = new Set(records.map(record => record.likes.evidence?.path ?? record.evidence.path));
@@ -49,6 +53,9 @@ const text = {
     songHeader: '| 曲目 | 原曲 / 原唱 | 二创代表 | B 站点赞 |',
     songIntro: '每首歌以点赞最高的已收录版本计入排名。这里展示前十首，观测时刻见完整目录。',
     songBrowse: '打开完整歌曲榜与全部版本',
+    starHeader: '| 排名 | 项目 | GitHub Star |',
+    starIntro: '按各项目最近核对的 GitHub Star 数列出前十。同分按仓库名排序。观测时间见完整榜单。',
+    starBrowse: '查看完整桌宠与交互项目榜', starEvidence: 'Star 核对记录',
     browse: '打开在线完整榜单', evidence: '点赞观测证据', archive: '历史快照',
     candidateLabel: '待核点赞的候选', recent: '看最新投稿',
     quickTypes: ['看 MV', '看剧情短片', '看舞蹈'],
@@ -60,6 +67,9 @@ const text = {
     songHeader: '| Track | Original | Featured fan version | Bilibili likes |',
     songIntro: 'The top ten tracks by the highest total likes on a listed version. Observation times are in the full directory.',
     songBrowse: 'Open the full song ranking and all versions',
+    starHeader: '| Rank | Project | GitHub Stars |',
+    starIntro: 'The top ten by each project’s last verified GitHub star count. Ties use repository names. See the full ranking for observation times.',
+    starBrowse: 'Open the full pets and interactive projects ranking', starEvidence: 'Star count snapshot',
     browse: 'Open the full online ranking', evidence: 'Like observation evidence', archive: 'Snapshot archive',
     candidateLabel: 'Candidates awaiting like verification', recent: 'Browse newest uploads',
     quickTypes: ['Browse MVs', 'Browse story shorts', 'Browse dance videos'],
@@ -71,6 +81,9 @@ const text = {
     songHeader: '| 楽曲 | 原曲・原唱 | 代表的な二次創作 | Bilibili のいいね |',
     songIntro: '各曲で収録したバージョンの最多いいね数で並べた上位10曲です。観測時刻は全件一覧で確認できます。',
     songBrowse: '楽曲の全順位とすべてのバージョンを見る',
+    starHeader: '| 順位 | プロジェクト | GitHub Star |',
+    starIntro: '各プロジェクトの直近の GitHub Star 確認値で上位10件を掲載。同数の場合はリポジトリ名順です。取得時刻は全件のランキングで確認できます。',
+    starBrowse: 'ペット・インタラクティブ作品の全順位を見る', starEvidence: 'Star 数の確認記録',
     browse: 'オンラインで全順位を見る', evidence: 'いいね数の観測記録', archive: '過去の観測記録',
     candidateLabel: 'いいね数の確認待ち候補', recent: '新しい投稿を見る',
     quickTypes: ['MV を見る', '物語の短編を見る', 'ダンスを見る'],
@@ -120,6 +133,14 @@ for (const [lang, copy] of Object.entries(text)) {
   const songParts = [copy.songIntro, [copy.songHeader, '| --- | --- | --- | ---: |', ...songRows].join('\n'),
     `[${copy.songBrowse}](${songsUrl}) · [${copy.evidence}](${songEvidence})`];
   updated = replaceRanking(updated, 'song', songParts, copy.file);
+  const starsUrl = `https://selinlee.github.io/ai-moe-atlas/${lang}/resources/?category=interactive`;
+  const starRows = interactivePreview.map((observation, index) => {
+    const { title, url } = byId.get(observation.id);
+    return `| ${index + 1} | [${cell(title[lang])}](${url}) | [${observation.stars.toLocaleString(lang)}](${observation.url}) |`;
+  });
+  const starParts = [copy.starIntro, [copy.starHeader, '| ---: | --- | ---: |', ...starRows].join('\n'),
+    `[${copy.starBrowse}](${starsUrl}) · [${copy.starEvidence}](${registry.interactiveStarEvidence.path})`];
+  updated = replaceRanking(updated, 'interactive', starParts, copy.file);
   for (const [category, count] of Object.entries(directoryCounts)) {
     updated = updateDirectoryCount(updated, category, count);
   }

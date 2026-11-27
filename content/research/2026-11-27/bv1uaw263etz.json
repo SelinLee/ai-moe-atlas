@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1uaW263Etz/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1uaW263Etz",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:27:59.433Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like.",
+  "metadata": {
+    "bvid": "BV1uaW263Etz",
+    "title": "deepseek x 用户专属的大肥鱼大尾巴",
+    "owner": {
+      "name": "莫快莫慢",
+      "mid": 10078784
+    },
+    "pubdate": 1794402435,
+    "duration": 193
+  },
+  "descriptionSha256": "689fd74c23e5721cbf25bc85b8cd9976ecdbc7a7fb81adeaaa3b3de6fac69233",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "莫快莫慢",
+      "url": "https://space.bilibili.com/10078784"
+    }
+  ]
+}

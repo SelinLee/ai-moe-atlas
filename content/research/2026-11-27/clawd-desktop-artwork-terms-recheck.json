@@ -1,0 +1,75 @@
+{
+  "full_name": "KebeliSamet0/clawd",
+  "html_url": "https://github.com/KebeliSamet0/clawd",
+  "stargazers_count": 28,
+  "archived": false,
+  "created_at": "2026-05-08T12:06:18Z",
+  "default_branch": "master",
+  "fork": false,
+  "commit": "ba50a8053e2c6e46211fcf4433ba224af0fa95ad",
+  "observedAt": "2026-11-27T13:26:34.371Z",
+  "httpStatus": 200,
+  "metadataSha256": "84f44d57f45e6024c5f9a3d8439dacc6d06972647eeec4e4296a02c67ba2e5f8",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/KebeliSamet0/clawd/blob/ba50a8053e2c6e46211fcf4433ba224af0fa95ad/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/KebeliSamet0/clawd/ba50a8053e2c6e46211fcf4433ba224af0fa95ad/README.md",
+      "sourceSha256": "11294b6fef702e0e6e3cbe34a065e1ec489ecf29f8f368039329528aedc8b5af",
+      "gitBlobSha": "79308d5cde163ed162c1e24c39ecf50fb7ea242b",
+      "bytes": 3189,
+      "commit": "ba50a8053e2c6e46211fcf4433ba224af0fa95ad",
+      "accessedAt": "2026-11-27T13:31:06.506Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/KebeliSamet0/clawd/blob/ba50a8053e2c6e46211fcf4433ba224af0fa95ad/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/KebeliSamet0/clawd/ba50a8053e2c6e46211fcf4433ba224af0fa95ad/LICENSE",
+      "sourceSha256": "002d579486ee6401c72b80cc21b60992578f3ae160e586339e7b9a4a75801144",
+      "gitBlobSha": "230f0728b73525681764e8eb5f3382da8a830bcb",
+      "bytes": 1069,
+      "commit": "ba50a8053e2c6e46211fcf4433ba224af0fa95ad",
+      "accessedAt": "2026-11-27T13:31:06.862Z"
+    },
+    {
+      "path": "assets/LICENSE-clawd",
+      "url": "https://github.com/KebeliSamet0/clawd/blob/ba50a8053e2c6e46211fcf4433ba224af0fa95ad/assets/LICENSE-clawd",
+      "rawUrl": "https://raw.githubusercontent.com/KebeliSamet0/clawd/ba50a8053e2c6e46211fcf4433ba224af0fa95ad/assets/LICENSE-clawd",
+      "sourceSha256": "962e683d4bb9530c3a08980d67bc4a57594a1b8eac7ca026b3b09314a2d0faef",
+      "gitBlobSha": "1996f888704132042c19e5957b64a5ec85b914b1",
+      "bytes": 955,
+      "commit": "ba50a8053e2c6e46211fcf4433ba224af0fa95ad",
+      "accessedAt": "2026-11-27T13:31:07.108Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T13:31:07.108Z",
+  "scope": "Pinned artwork notice was checked separately from the software license and retained by verified hash.",
+  "relations": [
+    {
+      "role": "software-terms",
+      "title": "Clawd · LICENSE",
+      "url": "https://github.com/KebeliSamet0/clawd/blob/ba50a8053e2c6e46211fcf4433ba224af0fa95ad/LICENSE"
+    },
+    {
+      "role": "asset-specific-terms",
+      "title": "Clawd · artwork terms",
+      "url": "https://github.com/KebeliSamet0/clawd/blob/ba50a8053e2c6e46211fcf4433ba224af0fa95ad/assets/LICENSE-clawd"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/KebeliSamet0/clawd/blob/ba50a8053e2c6e46211fcf4433ba224af0fa95ad/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/KebeliSamet0/clawd/ba50a8053e2c6e46211fcf4433ba224af0fa95ad/README.md",
+    "sourceSha256": "11294b6fef702e0e6e3cbe34a065e1ec489ecf29f8f368039329528aedc8b5af",
+    "gitBlobSha": "79308d5cde163ed162c1e24c39ecf50fb7ea242b",
+    "bytes": 3189,
+    "commit": "ba50a8053e2c6e46211fcf4433ba224af0fa95ad",
+    "accessedAt": "2026-11-27T13:31:06.506Z"
+  },
+  "previousEvidence": {
+    "path": "content/research/2026-11-07/clawd-desktop.json",
+    "sha256": "b347d36ee33ff9fa9f25dc66b770d272f3059857cd738c4fabba7a805158a9ad",
+    "kind": "browser-metadata-extract"
+  }
+}

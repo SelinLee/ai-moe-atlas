@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1XDySz4Eg2/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XDySz4Eg2",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:27:51.392Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like.",
+  "metadata": {
+    "bvid": "BV1XDySz4Eg2",
+    "title": "【中文填词/翻唱/MV】错过顶级算力的大肥鱼-慢行思维链 ｜DeepSeek娘 延误列车",
+    "owner": {
+      "name": "琅小雫",
+      "mid": 1002606326
+    },
+    "pubdate": 1795439644,
+    "duration": 252
+  },
+  "descriptionSha256": "eea8696fa7623a68c31aa1445e456f64a842f3951e4f21626d6cf101b4774f83",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "琅小雫",
+      "url": "https://space.bilibili.com/1002606326"
+    },
+    {
+      "role": "music-original",
+      "title": "稲葉曇 feat. 歌愛ユキ · ラグトレイン",
+      "url": "https://www.bilibili.com/video/BV1fK4y1s7Qf/"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · character artwork",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

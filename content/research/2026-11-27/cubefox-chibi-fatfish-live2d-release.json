@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV114W66JEug/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV114W66JEug",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:27:56.356Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description.",
+  "metadata": {
+    "bvid": "BV114W66JEug",
+    "title": "【免费 Live2D 模型】快来领取你的大肥鱼Q版模型｜鲸鱼娘模型｜内含超多按键表情｜模型展示",
+    "owner": {
+      "name": "Cubefox",
+      "mid": 34839802
+    },
+    "pubdate": 1794618000,
+    "duration": 36
+  },
+  "descriptionSha256": "f8f7f786deff685e054aff5524294b817ae63eb2cbdf37679941fd20557559ba",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Cubefox",
+      "url": "https://space.bilibili.com/34839802"
+    },
+    {
+      "role": "creator-distribution",
+      "title": "Cubefox · 哔哩哔哩工房",
+      "url": "https://gf.bilibili.com/item/detail/1109960049"
+    }
+  ],
+  "creatorWorkshop": {
+    "path": "content/research/2026-11-27/cubefox-workshop-original-terms.json",
+    "sha256": "ca0b19ccb31b23adbedc1173b070e6230de6ddf2320f45f50d92858ed8b3f273",
+    "kind": "browser-metadata-extract"
+  }
+}

@@ -5,6 +5,7 @@ import {createHash} from 'node:crypto';
 import {beijingTime,byCumulativeLikes} from '../src/lib/animation-ranking.mjs';
 import {rankSongsByLikes} from '../src/lib/song-ranking.mjs';
 import {unlistedSourceLeads} from '../src/lib/source-leads.mjs';
+import {readInteractiveStars} from '../scripts/lib/resources.mjs';
 
 const root = new URL('../', import.meta.url);
 const read = path => readFile(new URL(path, root), 'utf8');
@@ -13,7 +14,9 @@ const references=JSON.parse(await read('public/generated/ai-models-v5/manifest.j
 const doodles=JSON.parse(await read('public/generated/rough-doodle-v1/manifest.json'));
 const emotes = JSON.parse(await read('public/generated/doodle-emotes-v1/manifest.json'));
 const projectChannels=JSON.parse(await read('content/project-video-channels.json'));
-const {records}=JSON.parse(await read('content/resources.json'));
+const registry=JSON.parse(await read('content/resources.json'));
+const {records}=registry;
+const stars=await readInteractiveStars(registry,root);
 const leads=JSON.parse(await read('content/leads.json'));
 const characters=JSON.parse(await read('content/characters.json'));
 const songs=JSON.parse(await read('content/songs.json'));
@@ -61,8 +64,7 @@ for (const [file, lang, directory, timeline, galleries] of layouts) {
   const markdown=await read(file);
   const desktop=markdown.split('<a id="desktop-pets"></a>')[1].split('<a id="sources"></a>')[0];
   const evidence=desktop.match(/\((content\/research\/\d{4}-\d{2}-\d{2}\/github-interactive-stars-[a-z0-9-]+\.json)\)/);
-  assert.ok(evidence);
-  const {records:stars}=JSON.parse(await read(evidence[1]));
+  assert.equal(evidence?.[1],registry.interactiveStarEvidence.path);
   const table=desktop.split('\n').filter(line=>line.startsWith('| '));
   assert.equal(table.length,12);
   const expected=stars.slice(0,10);

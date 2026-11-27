@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1fK4y1s7Qf/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fK4y1s7Qf",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:30:28.286Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description.",
+  "metadata": {
+    "bvid": "BV1fK4y1s7Qf",
+    "title": "稲葉曇『ラグトレイン』Vo. 歌愛ユキ / 稻叶昙- Lagtrain (Vo. 歌爱雪)",
+    "owner": {
+      "name": "稲葉曇",
+      "mid": 26040194
+    },
+    "pubdate": 1594903612,
+    "duration": 252
+  },
+  "descriptionSha256": "ef22b6b92ed7be4611b169c70a316b411c6bbfbfd7d2d96193ecd73c0979e2ee",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "稲葉曇",
+      "url": "https://space.bilibili.com/26040194"
+    },
+    {
+      "role": "related-fan-version",
+      "title": "琅小雫 · 慢行思维链",
+      "url": "https://www.bilibili.com/video/BV1XDySz4Eg2/"
+    }
+  ]
+}

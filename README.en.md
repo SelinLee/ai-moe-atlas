@@ -26,7 +26,7 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 [Character turnarounds](https://selinlee.github.io/ai-moe-atlas/en/chibi/) · [Doodle avatars](docs/DOODLE.en.md) · [Doodle emotes](https://selinlee.github.io/ai-moe-atlas/en/emotes/) · [AI fan videos on Douyin](https://www.douyin.com/user/MS4wLjABAAAAa3lc_FI5WmPENMLwdN7Ij4r5iNxAM09Ny0rPcB2Ow4E) · [AI fan videos on Bilibili](https://space.bilibili.com/3706970263521942)
 
 <!-- category-picks:characters -->
-**[🎨 Character atlas](#characters)** · 115 entries\
+**[🎨 Character atlas](#characters)** · 116 entries\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/) · [Gemini Pro · Portrait and expressions](https://selinlee.github.io/ai-moe-atlas/en/characters/qinv-gemini-pro/) · [Cohere · School Edition](https://selinlee.github.io/ai-moe-atlas/en/characters/school-op-cohere/)
 
 <!-- category-picks:personas -->
@@ -34,7 +34,7 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 [GLM the fox · ZCode](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md) · [Claude “Xiao Ke” · deslop writing card](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md) · [DeepSeek whale girl · QQ chat](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md)
 
 <!-- category-picks:songs -->
-**[🎵 Songs](#songs)** · 191 tracks\
+**[🎵 Songs](#songs)** · 196 tracks\
 [Humans Are Cats · Fat Fish cover](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · Animated MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [Rice and Dreams · Fat Fish × Updream](https://www.bilibili.com/video/BV1kxWV6KE6o/)
 
 <!-- category-picks:stickers -->
@@ -42,23 +42,23 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 [雾雪 · original Fat Fish and GPT-girl sticker publication](https://www.bilibili.com/video/BV13xnt6QE6s/) · [Gemini Cat Girl · Reactions and Earless Variants](https://www.bilibili.com/opus/1264669110489317411) · [Achong · EmoteLab Fat Fish Emotes](https://steamcommunity.com/sharedfiles/filedetails/?id=3811197171)
 
 <!-- category-picks:rigs -->
-**[🧩 Rigged models](#rigs)** · 9 entries\
+**[🧩 Rigged models](#rigs)** · 11 entries\
 [Kamiya Ryoko · original DeepSeek-chan Live2D release](https://www.bilibili.com/video/BV1KmxY66EZ3/) · [水原镜 · Blue Fat Fish MMD distribution](https://www.aplaybox.com/details/model/j9z4quaACJV1) · [木子恶魔 · Blue Fat Fish VRM original release](https://www.aplaybox.com/details/model/ayXkRzVflmnd)
 
 <!-- category-picks:comics -->
-**[📖 Comics & serials](#comics)** · 66 works\
+**[📖 Comics & serials](#comics)** · 67 works\
 [AI GIRLS · First Meeting · Original Comic](https://www.bilibili.com/video/BV15Npa6zE44/) · [AI GIRLS Daily Life · Contact Details Original](https://www.bilibili.com/video/BV1YSpu6gEh1/) · [Workfine comic retrospective](https://note.com/workfine/n/ndecce733b117)
 
 <!-- category-picks:animations -->
-**[🎬 Animation & fan videos](#animations)** · 1236 records\
+**[🎬 Animation & fan videos](#animations)** · 1251 records\
 [What If the Chat Window Were Her Whole World?](https://www.bilibili.com/video/BV1xCai6aE9g/) · [Liberate Claude · Game Demo](https://www.bilibili.com/video/BV18Syoz3ENe/) · [Then Go Ask Doubao!](https://www.bilibili.com/video/BV1HX8v6UErL/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 Pets & interactive projects](#desktop-pets)** · 206 projects\
+**[🐾 Pets & interactive projects](#desktop-pets)** · 208 projects\
 [dsh-TUI · Deepy the Pixel Whale](https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/README_ZH.md) · [Copiwaifu · Live2D coding companion](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [Gemini Girl · Two-form desktop pet](https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/README.md)
 
 <!-- category-picks:sources -->
-**[📚 Creator works & sources](#sources)** · 253 sources\
+**[📚 Creator works & sources](#sources)** · 259 sources\
 [Shangshan · Whale Girl original](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini family illustration](https://www.bilibili.com/opus/1273349110528737288) · [ProtocolFour · creator sketches](https://note.com/pfhq/n/n3aab23ac0447)
 
 <a id="references"></a>
@@ -72,6 +72,8 @@ SelinLee used AI to make turnarounds, character sheets, doodle avatars and emote
 <a id="characters"></a>
 
 ### 🎨 Character atlas
+
+Added JosCom’s hand-drawn mascot design with links to the pinned sketch and character guide. [JosCom’s hand-drawn design](https://selinlee.github.io/ai-moe-atlas/en/characters/joscom-original-hand-drawn-mascot/)
 
 Added five of トゥ’s character designs. Source URLs and hashes were verified for 19 images across four creator articles. [Goma · Toaster Muse](https://selinlee.github.io/ai-moe-atlas/en/characters/tou-goma-muse/) · [Four AI Regulars at JACK](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#kurosaki-jack-four-ai-characters)
 
@@ -143,6 +145,8 @@ Compare how different authors write a character’s voice and reactions. Both ZC
 
 ### 🎵 Songs
 
+Added original release links for five songs, including 稲葉曇’s Lagtrain and Jin Hai Xin’s Wake Up Your Ears. [Lagtrain · Chinese lyrics](https://selinlee.github.io/ai-moe-atlas/en/songs/#lagtrain) · [Wake Up Your Ears · Hand-drawn cover](https://selinlee.github.io/ai-moe-atlas/en/songs/#wake-up-your-ears)
+
 Traced two birthday MVs to their respective Luo Tianyi originals and added another Fat Fish cover of Rainie Love. [There Is Still So Much Romance in This World](https://selinlee.github.io/ai-moe-atlas/en/songs/#romance-still-in-this-world) · [Emotion.exe (Not Responding)](https://selinlee.github.io/ai-moe-atlas/en/songs/#emotion-exe-not-responding)
 
 One Full Moon debuted in the banquet’s end credits. The same account later posted a pixel-art MV. [Song and credits](https://selinlee.github.io/ai-moe-atlas/en/songs/#one-full-moon-claude) · [Full-Moon Banquet](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv143ss6leaa)
@@ -159,9 +163,9 @@ The top ten tracks by the highest total likes on a listed version. Observation t
 | [world.execute(me);](https://selinlee.github.io/ai-moe-atlas/en/songs/#world-execute-me) | Mili | What If the Chat Window Were Her Whole World? | 112,687 |
 | [Rotten Miracle](https://selinlee.github.io/ai-moe-atlas/en/songs/#rotting-miracle) | 杨羊烊Koi | Fat Fish Covers Rotten Miracle | 96,287 |
 | [A Well-Matched Love · Mashup](https://selinlee.github.io/ai-moe-atlas/en/songs/#well-matched-love-mashup) | 砼棃 | A Fool’s Love.md · Hand-Drawn Fat Fish | 84,763 |
-| [Boundless Oceans, Vast Skies](https://selinlee.github.io/ai-moe-atlas/en/songs/#boundless-oceans-vast-skies) | Beyond | Whale Girl Covers Boundless Oceans, Vast Skies | 59,540 |
-| [A Friend’s Wine](https://selinlee.github.io/ai-moe-atlas/en/songs/#friends-wine) | 李晓杰 · Li Xiaojie | Fat Fish Covers “A Friend’s Drink” · DJ Version | 54,540 |
-| [Billie Jean](https://selinlee.github.io/ai-moe-atlas/en/songs/#billie-jean) | Michael Jackson | Whale Girl Covers Billie Jean | 52,747 |
+| [Boundless Oceans, Vast Skies](https://selinlee.github.io/ai-moe-atlas/en/songs/#boundless-oceans-vast-skies) | Beyond | Whale Girl Covers Boundless Oceans, Vast Skies | 59,553 |
+| [A Friend’s Wine](https://selinlee.github.io/ai-moe-atlas/en/songs/#friends-wine) | 李晓杰 · Li Xiaojie | Fat Fish Covers “A Friend’s Drink” · DJ Version | 54,541 |
+| [Billie Jean](https://selinlee.github.io/ai-moe-atlas/en/songs/#billie-jean) | Michael Jackson | Whale Girl Covers Billie Jean | 52,767 |
 | [Mimukauwa Nice Try](https://selinlee.github.io/ai-moe-atlas/en/songs/#mimukauwa-nice-try) | ぬぬぬぬぬぬぬぬぬぬ · 初音ミク | Mimukauwa Nice Try · Fat Fish Cover Animation | 48,688 |
 
 [Open the full song ranking and all versions](https://selinlee.github.io/ai-moe-atlas/en/songs/) · [Like observation evidence](content/research/)
@@ -214,6 +218,8 @@ Find chat stickers, paired reactions and expression variants by character or moo
 
 ### 🧩 Rigged models
 
+Verified two Live2D releases. Cubefox’s Workshop listing specifies personal use and recommends credit. [Cubefox · Workshop and terms](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=rigs#cubefox-chibi-fatfish-live2d-release) · [这李果子 · release and demo](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=rigs#li-guozi-fatfish-model-distribution)
+
 Added the Live2D releases by Mao绒绒家园 and 狐宫静 and verified 神宫凉子’s workshop listing. [Mao绒绒家园 · Medium Fat Fish](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=rigs#mao-whale-live2d-original) · [狐宫静 · Small Fat Fish](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=rigs#hugongjing-whale-live2d-original) · [神宫凉子 · Model release](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=rigs#kamiya-deepseek-live2d-release)
 
 Browse creators’ releases by format and check modeling or rigging credits and terms for each work. [Browse rigged models](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=rigs)
@@ -251,6 +257,8 @@ Six Gemini side stories by 萤火之森QWQ have been verified, including the cre
 <a id="animations"></a>
 
 ### 🎬 Animation & fan videos
+
+Added 15 fan works and refreshed official cumulative likes for the previous ranks 66–85. [Like observations](content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json)
 
 Added 18 works. Of the previous ranks 36–65, 29 were refreshed and one retains its last valid count. Exact title and uploader search matches were also recorded for three pending candidates. [Liberate Claude](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv18syoz3ene) · [Like observations](content/research/2026-11-27/bilibili-cumulative-likes-november-27-covers-and-creator-demos.json)
 
@@ -323,22 +331,26 @@ Added six interactive projects. The Miku sprite entry links the artist’s origi
 
 Added five interactive projects including dsh-TUI, Table Fridge and BigFatFish. dsh-TUI joins the top ten with 8,353 stars. [Deepy art notes](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#dsh-tui-deepy-pixel-frames) · [BigFatFish provenance and terms](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#hibikid-bigfatfish-codex-desktop)
 
-The top ten use each project’s latest GitHub Star observation. Fifteen existing projects were rechecked on 2026-11-27. Ties use the repository name.
+<!-- interactive-ranking:start -->
 
-| Rank | Project | GitHub stars |
+The top ten by each project’s last verified GitHub star count. Ties use repository names. See the full ranking for observation times.
+
+| Rank | Project | GitHub Stars |
 | ---: | --- | ---: |
-| 1 | [cc-haha · Task-Aware Desktop Pets](https://github.com/NanmiCoder/cc-haha/blob/4f1e07aa38a90ee2270c3c6043f07a121a78d46a/README.md) | [15,584](https://github.com/NanmiCoder/cc-haha) |
+| 1 | [cc-haha · Task-Aware Desktop Pets](https://github.com/NanmiCoder/cc-haha/blob/4f1e07aa38a90ee2270c3c6043f07a121a78d46a/README.md) | [15,587](https://github.com/NanmiCoder/cc-haha) |
 | 2 | [dsh-TUI · Deepy the Pixel Whale](https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/README_ZH.md) | [8,353](https://github.com/ccch1mneyyy/dsh-TUI) |
 | 3 | [Little Whale · DeepSeek balance widget](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/blob/5247dd6813d6e4430728f39ccc63d43cda046022/README.md) | [7,486](https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget) |
 | 4 | [Clawd on Desk · Whale-chan theme](https://github.com/rullerzhou-afk/clawd-on-desk/blob/323da9f17a9872e1b1ceca6c9c9783e0eaa83a72/README.zh-CN.md) | [6,826](https://github.com/rullerzhou-afk/clawd-on-desk) |
-| 5 | [DSH Pet · animated Fat Fish companion](https://github.com/PC2005-cloud/dsh-pet/blob/29a5af50f60a63caeeace66a514f47ed3198d0fa/README.md) | [6,782](https://github.com/PC2005-cloud/dsh-pet) |
+| 5 | [DSH Pet · animated Fat Fish companion](https://github.com/PC2005-cloud/dsh-pet/blob/29a5af50f60a63caeeace66a514f47ed3198d0fa/README.md) | [6,785](https://github.com/PC2005-cloud/dsh-pet) |
 | 6 | [Petdex · Animated Pet Gallery and Tools](https://github.com/crafter-station/petdex/blob/146ed0b86fc930ee81d48f7f6b1dc1e2be1e8135/README.md) | [4,382](https://github.com/crafter-station/petdex) |
-| 7 | [Coopanion · desktop pet and figure-pack host](https://github.com/Pal-AI-Lab/Coopanion/blob/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/README_zh.md) | [3,892](https://github.com/Pal-AI-Lab/Coopanion) |
+| 7 | [Coopanion · desktop pet and figure-pack host](https://github.com/Pal-AI-Lab/Coopanion/blob/5ac91144b1f1d2aeca2f0a79972d65fa2d4f2c03/README_zh.md) | [3,895](https://github.com/Pal-AI-Lab/Coopanion) |
 | 8 | [EchoBird · Token Usage Pet](https://github.com/edison7009/EchoBird/blob/c03838cc49678e038a3ead5b0c77863be14a5cfc/README.md) | [3,591](https://github.com/edison7009/EchoBird) |
-| 9 | [Fat Fish on Desktop · dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md) | [3,380](https://github.com/MerZlin/dsh-pet-indesktop) |
+| 9 | [Fat Fish on Desktop · dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md) | [3,381](https://github.com/MerZlin/dsh-pet-indesktop) |
 | 10 | [Claude Desktop Buddy · Official Hardware Example](https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/README.md) | [2,728](https://github.com/anthropics/claude-desktop-buddy) |
 
-[Browse all pets and interactive projects](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-27/github-interactive-stars-november-27-sprites-and-portraits.json)
+[Open the full pets and interactive projects ranking](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-27/github-interactive-stars-november-27-full-ranking-and-sprites.json)
+
+<!-- interactive-ranking:end -->
 
 Added LingChat and two other projects and updated Marshmallow to the standalone stage described in v1.0.0. [LingChat](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#lingchat-interactive-story-companion) · [Marshmallow v1.0.0](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#dsh-desktop-petbox)
 

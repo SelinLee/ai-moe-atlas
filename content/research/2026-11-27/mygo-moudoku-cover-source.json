@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1sN4y1T72q/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sN4y1T72q",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:30:28.298Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description.",
+  "metadata": {
+    "bvid": "BV1sN4y1T72q",
+    "title": "猛独が襲う / MyGO!!!!! cover ver. （猛独侵袭）",
+    "owner": {
+      "name": "MyGO_AveMujica",
+      "mid": 1459104794
+    },
+    "pubdate": 1657965600,
+    "duration": 254
+  },
+  "descriptionSha256": "5769c7ea16e0df4ba1c82eafe7a9b06bf46df488af21559197f45576c949c962",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "MyGO_AveMujica",
+      "url": "https://space.bilibili.com/1459104794"
+    },
+    {
+      "role": "music-original",
+      "title": "一二三 · 猛独が襲う",
+      "url": "https://karent.jp/album/2104"
+    },
+    {
+      "role": "related-fan-version",
+      "title": "长期素食-ing · Fat Fish MV",
+      "url": "https://www.bilibili.com/video/BV1Mpy7z4EkL/"
+    }
+  ]
+}

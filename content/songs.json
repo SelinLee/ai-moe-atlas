@@ -529,7 +529,7 @@
     "title": {"zh": "咏春", "en": "Ode to Spring", "ja": "詠春"},
     "original": {"credit": "七朵组合 · Seven combination", "url": "https://music.apple.com/us/album/%E5%92%8F%E6%98%A5-single/1882824771"},
     "versions": [
-      {"id": "bv1j7yzzgejg", "type": "cover"}
+      {"id": "bv1j7yzzgejg", "type": "cover"}, {"id": "bv1r5sp61eso", "type": "cover"}
     ]
   },
   {
@@ -1091,7 +1091,7 @@
     "id": "kawaiku-naritai",
     "title": {"zh": "想要变得可爱", "en": "Kawaiku Naritai", "ja": "可愛くなりたい"},
     "original": {"credit": "HoneyWorks feat. 成海聖奈（CV：雨宮天）", "url": "https://honeyworks.jp/special/"},
-    "versions": [{"id": "bv1s6nc64ebc", "type": "mv"}]
+    "versions": [{"id": "bv1s6nc64ebc", "type": "mv"}, {"id": "bv12inn61ef2", "type": "cover"}]
   },
   {
     "id": "hehe-a-bowl-of-rice",
@@ -1218,5 +1218,35 @@
     "title": {"zh": "情绪.exe（未响应）", "en": "Emotion.exe (Not Responding)", "ja": "情緒.exe（応答なし）"},
     "original": {"credit": "夜踊社 · 一只爵士猫 · 洛天依", "url": "https://www.bilibili.com/video/BV1d464Y6Egy/"},
     "versions": [{"id": "gcores-whale-emotion-birthday-mv", "type": "mv"}]
+  },
+  {
+    "id": "wake-up-your-ears",
+    "title": {"zh": "把耳朵叫醒", "en": "Wake Up Your Ears", "ja": "把耳朵叫醒"},
+    "original": {"credit": "金海心 · Jin Hai Xin", "url": "https://open.spotify.com/album/2PLAldSlxQ7CI9TVN6iPF0"},
+    "versions": [{"id": "bv12bxf6cewm", "type": "cover"}]
+  },
+  {
+    "id": "lagtrain",
+    "title": {"zh": "Lagtrain · 稲葉曇", "en": "Lagtrain", "ja": "ラグトレイン"},
+    "original": {"credit": "稲葉曇 feat. 歌愛ユキ", "url": "https://www.bilibili.com/video/BV1fK4y1s7Qf/"},
+    "versions": [{"id": "bv1xdysz4eg2", "type": "mv"}]
+  },
+  {
+    "id": "moudoku-ga-osou",
+    "title": {"zh": "猛独が襲う", "en": "Moudoku ga Osou", "ja": "猛独が襲う"},
+    "original": {"credit": "一二三 feat. 初音ミク", "url": "https://karent.jp/album/2104"},
+    "versions": [{"id": "bv1mpy7z4ekl", "type": "mv"}]
+  },
+  {
+    "id": "time-machine-mj-apanay",
+    "title": {"zh": "time machine", "en": "time machine", "ja": "time machine"},
+    "original": {"credit": "mj apanay feat. aren park", "url": "https://www.youtube.com/watch?v=7ugSL_omvYQ"},
+    "versions": [{"id": "bv1xrywzbemb", "type": "cover"}]
+  },
+  {
+    "id": "let-it-go-frozen",
+    "title": {"zh": "Let It Go · 冰雪奇缘", "en": "Let It Go · Frozen", "ja": "Let It Go · アナと雪の女王"},
+    "original": {"credit": "Idina Menzel", "url": "https://www.youtube.com/watch?v=moSFlvxnbgk"},
+    "versions": [{"id": "bv1vonc61e5g", "type": "cover"}]
   }
 ]

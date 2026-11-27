@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ooev6SE5Y/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ooev6SE5Y",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:27:54.807Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like.",
+  "metadata": {
+    "bvid": "BV1ooev6SE5Y",
+    "title": "【大肥鱼】翻唱《搁浅的鱼》(鱼生赢家版MV）",
+    "owner": {
+      "name": "Token萌友来啦",
+      "mid": 3707048413891311
+    },
+    "pubdate": 1789876022,
+    "duration": 81
+  },
+  "descriptionSha256": "939ea6eb142890088fa004a6aebc62740e1f07074e056aabfc6b3e3ac2f13f39",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Token萌友来啦",
+      "url": "https://space.bilibili.com/3707048413891311"
+    }
+  ]
+}

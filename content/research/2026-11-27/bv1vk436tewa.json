@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Vk436tEWa/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Vk436tEWa",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:27:57.898Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like.",
+  "metadata": {
+    "bvid": "BV1Vk436tEWa",
+    "title": "AI大肥鱼如何使用Live2D模型【汐可 Day3】",
+    "owner": {
+      "name": "汐可Seekie",
+      "mid": 3747577736465227
+    },
+    "pubdate": 1793852100,
+    "duration": 76
+  },
+  "descriptionSha256": "06f675f6d08ea730e598b147aa1a4ce9affe5fe3714463b51162cd6c0b0398ff",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "汐可Seekie",
+      "url": "https://space.bilibili.com/3747577736465227"
+    },
+    {
+      "role": "credited-model-source",
+      "title": "这李果子 · 配布原帖",
+      "url": "https://www.bilibili.com/video/BV12Vnm6aEX9/"
+    }
+  ]
+}

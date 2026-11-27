@@ -4,16 +4,18 @@ import PersonaPrompt from '../../components/PersonaPrompt.astro';
 import {locales,type Locale} from '../../lib/i18n';
 import {resourceText} from '../../lib/resource-text';
 import {path} from '../../lib/paths';
+import {repo} from '../../lib/repo.mjs';
 import {resources,animations,animationRanks,byPublicationDate,byPublicationTime,directoryCategories,beijingTime,verificationLabel,sourceAnchorAliases,stickerEntries,rigEntries,rigFormats,comicEntries} from '../../lib/resources';
 import registry from '../../../content/resources.json';
-import {readPendingAnimationCandidates} from '../../../scripts/lib/resources.mjs';
+import {readInteractiveStars,readPendingAnimationCandidates} from '../../../scripts/lib/resources.mjs';
 import {readLikeArchive} from '../../../scripts/lib/like-archive.mjs';
 export function getStaticPaths(){return locales.map(lang=>({params:{lang}}));}
 const lang=Astro.params.lang as Locale,s=resourceText[lang];
 const ordered=[...animations,...resources.filter(r=>r.category!=='animation').sort(byPublicationDate)];
 const recentOrder=new Map([...animations].sort(byPublicationTime).map((r,index)=>[r.id,index]));
 const root=new URL('../../../',import.meta.url);
-const [pending,archives]=await Promise.all([readPendingAnimationCandidates(registry,root),readLikeArchive(root)]);
+const [pending,archives,starRecords]=await Promise.all([readPendingAnimationCandidates(registry,root),readLikeArchive(root),readInteractiveStars(registry,root)]);
+const interactiveRanks=new Map(starRecords.map((record,index)=>[record.id,{...record,rank:index+1}]));
 const archiveByPath=new Map(archives.map(archive=>[archive.path,archive]));
 const pendingArchive=archiveByPath.get(registry.pendingAnimationEvidence?.path);
 const sourceStatus=(httpStatus:number)=>[412,429].includes(httpStatus)?s.pendingAnimation.endpointRestricted:s.pendingAnimation.sourceUnavailable;
@@ -28,7 +30,8 @@ const pendingMusicSources=resources.filter(record=>record.category==='sources')
       <h1 id="resource-heading" data-title={s.directory}>{s.directory}</h1>
       <p class="lead" data-resource-intro="default">{s.directoryIntro}</p>
       <p class="lead" data-resource-intro="animation" hidden>{s.latestIntro}</p>
-      {directoryCategories.filter(c=>c!=='animation').map(category=><p class="lead" data-resource-intro={category} hidden>{s.category[category].description}</p>)}
+      <p class="lead" data-resource-intro="interactive" hidden>{s.interactiveStars.intro} <a class="text-link" href={`${repo}/blob/main/${registry.interactiveStarEvidence.path}`}>{s.snapshot} ↗</a></p>
+      {directoryCategories.filter(c=>c!=='animation'&&c!=='interactive').map(category=><p class="lead" data-resource-intro={category} hidden>{s.category[category].description}</p>)}
     </div>
   </section>
   <div class="resource-filters resource-type-filters" id="resource-types" data-resource-type-group="animation" role="group" aria-label={s.videoTypes} hidden>
@@ -100,6 +103,7 @@ const pendingMusicSources=resources.filter(record=>record.category==='sources')
     {ordered.map(r=>{
       const saved=r.likes?.evidence&&archiveByPath.get(r.likes.evidence.path);
       const latestFailure=r.bvid&&refreshFailures.get(r.bvid);
+      const stars=interactiveRanks.get(r.id);
       const sticker=stickerEntries.get(r.id);
       const rig=rigEntries.get(r.id);
       const format=rig&&rigFormats[rig.format as keyof typeof rigFormats];
@@ -108,7 +112,7 @@ const pendingMusicSources=resources.filter(record=>record.category==='sources')
       const sequence=comic?.sequence;
       const stickerTags=(locale:Locale)=>sticker?.tags.map(tag=>resourceText[locale].stickerTags[tag as keyof typeof s.stickerTags])??[];
       return <article class="resource-record" id={r.id} data-resource-category={r.category} data-resource-type={r.subtype} data-recent-order={recentOrder.get(r.id)}
-      data-sticker={sticker?'':undefined} data-rig-format={rig?.format} data-comic-order={comic?.order}
+      data-sticker={sticker?'':undefined} data-rig-format={rig?.format} data-comic-order={comic?.order} data-star-rank={stars?.rank}
       data-resource-search={[
         r.title.zh,r.title.en,r.title.ja,r.sourceTitle,r.publisher,r.bvid,r.summary.zh,r.summary.en,r.summary.ja,
         r.subtype&&locales.map(locale=>resourceText[locale].types[r.subtype as keyof typeof s.types]).join(' '),
@@ -130,6 +134,9 @@ const pendingMusicSources=resources.filter(record=>record.category==='sources')
         ? <><strong>#{animationRanks.get(r.id)} · {r.likes.count.toLocaleString(lang)} {s.likes}</strong> · <time datetime={r.likes.observedAt}>{beijingTime.format(new Date(r.likes.observedAt))}</time>{saved&&<> · <a class="text-link" href={path(saved.route)}>{s.snapshot}</a></>} · <a class="text-link" href={r.likes.sourceUrl} target="_blank" rel="noopener noreferrer">{s.liveLikes} ↗</a></>
         : s.unranked}</p>}
       {latestFailure&&<p class="resource-byline" data-like-refresh-failure>{s.previousLikes} · <time datetime={latestFailure.observedAt}>{beijingTime.format(new Date(latestFailure.observedAt))}</time> · {sourceStatus(latestFailure.httpStatus)}</p>}
+      {r.category==='interactive'&&<p class="resource-byline" data-star-observation={stars?.stars}>{stars
+        ? <><strong>#{stars.rank} · {stars.stars.toLocaleString(lang)} GitHub Stars</strong> · <time datetime={stars.observedAt}>{beijingTime.format(new Date(stars.observedAt))}</time> · <a class="text-link" href={stars.sourceUrl} target="_blank" rel="noopener noreferrer">{s.interactiveStars.source} ↗</a></>
+        : s.interactiveStars.unranked}</p>}
       <p>{r.summary[lang]}</p>
       {sticker&&<ul class="sticker-tags">{[...sticker.characters,...stickerTags(lang)].map(tag=><li>{tag}</li>)}</ul>}
       {comic?.adaptation&&<p><a class="text-link" data-comic-adaptation href={path(`${lang}/resources/?category=animation#${comic.adaptation}`)}>{s.comicAdaptation} ↗</a></p>}

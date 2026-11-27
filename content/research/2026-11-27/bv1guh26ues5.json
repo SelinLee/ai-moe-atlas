@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1guH26uEs5/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1guH26uEs5",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:27:48.175Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like.",
+  "metadata": {
+    "bvid": "BV1guH26uEs5",
+    "title": "收集全网手绘大肥鱼（11）",
+    "owner": {
+      "name": "re0出第三季",
+      "mid": 3461563390363925
+    },
+    "pubdate": 1791402364,
+    "duration": 46
+  },
+  "descriptionSha256": "1982ffcdf614ef6c2aa5356caec041c0ebea2a45716adbf30f91ebd12bbf8c1f",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "re0出第三季",
+      "url": "https://space.bilibili.com/3461563390363925"
+    }
+  ]
+}

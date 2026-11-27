@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1xryWzBEMb/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xryWzBEMb",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:27:52.981Z",
+  "scope": "Official Bilibili metadata verifies the upload, publisher and date. Attribution follows the uploader’s description. Cumulative likes are from data.stat.like.",
+  "metadata": {
+    "bvid": "BV1xryWzBEMb",
+    "title": "大肥鱼日语翻唱《Time Machine》这么好听？星を見て~月を見て🎵「大肥鱼无限片场」",
+    "owner": {
+      "name": "肥嘟嘟的鱼胆",
+      "mid": 1002784558
+    },
+    "pubdate": 1795162899,
+    "duration": 454
+  },
+  "descriptionSha256": "11a36d0ba2bf8766c87e00cf4573c94414f09a6e1adcbbd3ffc23aad13ea9d37",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "肥嘟嘟的鱼胆",
+      "url": "https://space.bilibili.com/1002784558"
+    },
+    {
+      "role": "music-original",
+      "title": "mj apanay feat. aren park · time machine",
+      "url": "https://www.youtube.com/watch?v=7ugSL_omvYQ"
+    }
+  ]
+}

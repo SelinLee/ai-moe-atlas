@@ -7135,5 +7135,61 @@
       "en": "Links the author’s article and artwork sources. Reproduction or redistribution permission for this atlas is unconfirmed.",
       "ja": "作者の記事と画像の出典を案内。当図鑑での転載・再配布の許諾は未確認。"
     }
+  },
+  {
+    "id": "joscom-original-hand-drawn-mascot",
+    "entity": "codex",
+    "kind": "reference",
+    "style": "mascot",
+    "official": false,
+    "name": {
+      "zh": "JosCom · 手绘吉祥物原案",
+      "en": "JosCom · Hand-Drawn Mascot Design",
+      "ja": "JosCom · 手描きマスコット原案"
+    },
+    "description": {
+      "zh": "作者原案采用圆角方形电视头、不对称天线、斜眼与分格牙齿。设定说明记录这些辨识特征，以及作为开发伙伴的角色定位。",
+      "en": "The creator’s design uses a rounded-square TV head, asymmetric antennae, slanted eyes and segmented teeth. The guide documents these features and its role as a development companion.",
+      "ja": "角丸のテレビ型頭部、非対称のアンテナ、つり目、分割された歯。設定資料には識別特徴と開発の相棒としての役割を記載。"
+    },
+    "story": {
+      "zh": "作者原案采用圆角方形电视头、不对称天线、斜眼与分格牙齿。设定说明记录这些辨识特征，以及作为开发伙伴的角色定位。",
+      "en": "The creator’s design uses a rounded-square TV head, asymmetric antennae, slanted eyes and segmented teeth. The guide documents these features and its role as a development companion.",
+      "ja": "角丸のテレビ型頭部、非対称のアンテナ、つり目、分割された歯。設定資料には識別特徴と開発の相棒としての役割を記載。"
+    },
+    "features": {
+      "zh": "作者原案采用圆角方形电视头、不对称天线、斜眼与分格牙齿。设定说明记录这些辨识特征，以及作为开发伙伴的角色定位。",
+      "en": "The creator’s design uses a rounded-square TV head, asymmetric antennae, slanted eyes and segmented teeth. The guide documents these features and its role as a development companion.",
+      "ja": "角丸のテレビ型頭部、非対称のアンテナ、つり目、分割された歯。設定資料には識別特徴と開発の相棒としての役割を記載。"
+    },
+    "author": "JosCom",
+    "authorUrl": "https://github.com/JosCom",
+    "source": "https://github.com/JosCom/JosCom-pet/blob/9d0a8741813e65df7585ccf2869cf1c05a8bce90/docs/character-bible.md",
+    "sourceTitle": "JosCom character bible",
+    "originalPublication": "https://github.com/JosCom/JosCom-pet/blob/9d0a8741813e65df7585ccf2869cf1c05a8bce90/docs/character-bible.md",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "JosCom",
+        "url": "https://github.com/JosCom",
+        "role": "original-character",
+        "publication": "https://github.com/JosCom/JosCom-pet/blob/9d0a8741813e65df7585ccf2869cf1c05a8bce90/docs/character-bible.md"
+      }
+    ],
+    "method": "hand-drawn",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/JosCom/JosCom-pet/blob/9d0a8741813e65df7585ccf2869cf1c05a8bce90/README.md",
+    "downloadable": false,
+    "bg": "#eeebfa",
+    "color": "#384462",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "图件由作者保留权利。图鉴提供固定版设定和作者出处，原稿 SHA-256 已核对。",
+      "en": "Artwork rights remain with the creator. The atlas links the pinned character guide and creator. The sketch’s SHA-256 was verified.",
+      "ja": "画像の権利は作者に帰属。図鑑は固定版の設定と作者を案内し、原稿の SHA-256 を照合。"
+    }
   }
 ]
