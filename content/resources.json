@@ -79705,7 +79705,7 @@
       "publisher": "yushua0808-cpu",
       "evidence": {
         "path": "content/research/2026-11-27/yushua-dragon-codex-boot-macos-origin.json",
-        "sha256": "84aa9776039be270e58500e0f2b9dec598f3e71b482fff149a4700f96162ee0f",
+        "sha256": "0786fed9b816885de091b118d4121f0805d404f271d4cf5528693d883712d9b9",
         "kind": "browser-metadata-extract"
       },
       "relations": [
@@ -79742,7 +79742,7 @@
         {
           "role": "pinned-macos-document",
           "title": "macOS · docs/MACOS.md",
-          "url": "https://github.com/yushua0808-cpu/dragon-codex-boot/blob/6007a4ca895cf2f843dcdca3d8cbe4b9108f2b7e/docs/MACOS.md"
+          "url": "https://raw.githubusercontent.com/yushua0808-cpu/dragon-codex-boot/6007a4ca895cf2f843dcdca3d8cbe4b9108f2b7e/docs/MACOS.md"
         },
         {
           "role": "linked-public-demo",
