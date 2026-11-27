@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ogyYzDEeC/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ogyYzDEeC",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:14:29.419Z",
+  "scope": "Official view data identifies upload, publisher, publication time and cumulative likes. Attribution is based on the creator description.",
+  "metadata": {
+    "bvid": "BV1ogyYzDEeC",
+    "title": "西厢记 || DC宇宙系列|| 八千里路云和月~意气风发大肥鱼！",
+    "owner": {
+      "mid": 13787349,
+      "name": "彼岸花Channel"
+    },
+    "pubdate": 1795313400,
+    "duration": 280
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "9b2738e53ab708783cd66826556e374dd85bbdee9791dadd7091728294db7fd6"
+}

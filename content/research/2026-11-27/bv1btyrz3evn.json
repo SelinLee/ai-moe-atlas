@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Btyrz3EvN/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Btyrz3EvN",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:14:37.580Z",
+  "scope": "Official view data identifies upload, publisher, publication time and cumulative likes. Attribution is based on the creator description.",
+  "metadata": {
+    "bvid": "BV1Btyrz3EvN",
+    "title": "大肥鱼：你是何人？",
+    "owner": {
+      "mid": 3546761083751172,
+      "name": "Kanasuke_"
+    },
+    "pubdate": 1795734000,
+    "duration": 31
+  },
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "这个刀子真甜",
+      "url": "https://space.bilibili.com/23315338"
+    }
+  ],
+  "descriptionSha256": "6777b21f863a90ea0577a4e9eb35ed19b93325fad1c04d123c8c698faa64812f"
+}

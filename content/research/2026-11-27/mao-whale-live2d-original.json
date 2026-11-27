@@ -1,0 +1,41 @@
+{
+  "url": "https://www.bilibili.com/video/BV1yep465EQz/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yep465EQz",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:13:23.540Z",
+  "scope": "Creator release metadata and the linked source wording were checked. Pinned files establish the desktop repository’s specific model reference and terms. No model binaries or sticker files were redistributed.",
+  "metadata": {
+    "bvid": "BV1yep465EQz",
+    "title": "【免费Live2D模型】大肥鱼/ds娘",
+    "owner": {
+      "mid": 431301506,
+      "name": "Mao绒绒家园"
+    },
+    "pubdate": 1791537134,
+    "duration": 33
+  },
+  "descriptionSha256": "cdec876be2f5b767559b0fd769c68bf702d204a6daa32684f245612a081adf08",
+  "pinnedReferences": [
+    {
+      "path": "live2d_viewer/forms/medium/medium.model3.json",
+      "url": "https://github.com/Alps-Link/deepseek-whale-Desktop-pet/blob/be287ab1170c5ffebae181cd6bfc1735edf67102/live2d_viewer/forms/medium/medium.model3.json",
+      "rawUrl": "https://raw.githubusercontent.com/Alps-Link/deepseek-whale-Desktop-pet/be287ab1170c5ffebae181cd6bfc1735edf67102/live2d_viewer/forms/medium/medium.model3.json",
+      "sourceSha256": "fd645d1cac305bd1ef4c252a28cb22027a390e290fb413ee01265a492b1c9b5e",
+      "gitBlobSha": "68e9b16cf3dc47f688982b77a16f17591d6b464f",
+      "bytes": 2019,
+      "commit": "be287ab1170c5ffebae181cd6bfc1735edf67102",
+      "accessedAt": "2026-11-27T12:15:30.004Z"
+    },
+    {
+      "path": "LICENSE-Live2D.txt",
+      "url": "https://github.com/Alps-Link/deepseek-whale-Desktop-pet/blob/be287ab1170c5ffebae181cd6bfc1735edf67102/LICENSE-Live2D.txt",
+      "rawUrl": "https://raw.githubusercontent.com/Alps-Link/deepseek-whale-Desktop-pet/be287ab1170c5ffebae181cd6bfc1735edf67102/LICENSE-Live2D.txt",
+      "sourceSha256": "113445e10edc88810fa50d95d7aa30f7434fde6dd4c52133a24cfff985c2092e",
+      "gitBlobSha": "2e166764ef7e75182d1a5e2d45b036fb01490fcf",
+      "bytes": 23681,
+      "commit": "be287ab1170c5ffebae181cd6bfc1735edf67102",
+      "accessedAt": "2026-11-27T12:15:28.894Z"
+    }
+  ]
+}

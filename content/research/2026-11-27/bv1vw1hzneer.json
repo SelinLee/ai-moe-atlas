@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1vw1HznEeR/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vw1HznEeR",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:14:39.652Z",
+  "scope": "Official view data identifies upload, publisher, publication time and cumulative likes. Attribution is based on the creator description.",
+  "metadata": {
+    "bvid": "BV1vw1HznEeR",
+    "title": "大肥鱼 走啦走啦",
+    "owner": {
+      "mid": 3493115558103910,
+      "name": "千山云涌"
+    },
+    "pubdate": 1795726873,
+    "duration": 11
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+}

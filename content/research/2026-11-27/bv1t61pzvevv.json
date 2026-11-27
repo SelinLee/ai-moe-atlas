@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1t61pzVEVV/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1t61pzVEVV",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:14:34.572Z",
+  "scope": "Official view data identifies upload, publisher, publication time and cumulative likes. Attribution is based on the creator description.",
+  "metadata": {
+    "bvid": "BV1t61pzVEVV",
+    "title": "偷懒的大肥鱼",
+    "owner": {
+      "mid": 450195930,
+      "name": "墨惗_安然"
+    },
+    "pubdate": 1795743464,
+    "duration": 11
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+}

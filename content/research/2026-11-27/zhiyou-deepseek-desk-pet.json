@@ -1,0 +1,45 @@
+{
+  "full_name": "zhiyou-conder/deepseek-pet",
+  "html_url": "https://github.com/zhiyou-conder/deepseek-pet",
+  "stargazers_count": 18,
+  "archived": false,
+  "created_at": "2026-08-18T04:04:13Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "84eca205a2e2eb9df4403ca3023e0f4dc2b274ce",
+  "observedAt": "2026-11-27T12:13:45.289Z",
+  "httpStatus": 200,
+  "metadataSha256": "f75f7a5337b1f3b2fb80df3531b32b0baaa5ec7d59de5623e12c8597b4ebfa15",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/zhiyou-conder/deepseek-pet/blob/84eca205a2e2eb9df4403ca3023e0f4dc2b274ce/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/zhiyou-conder/deepseek-pet/84eca205a2e2eb9df4403ca3023e0f4dc2b274ce/README.md",
+      "sourceSha256": "d3a2ac36319d45ad650000fa051624d8ba3abc898323fe0d826fa7e6b2b45c45",
+      "gitBlobSha": "7fe59aa5959778cb3be8e3d0d7f5e76073e551f0",
+      "bytes": 6115,
+      "commit": "84eca205a2e2eb9df4403ca3023e0f4dc2b274ce",
+      "accessedAt": "2026-11-27T12:15:27.346Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/zhiyou-conder/deepseek-pet/blob/84eca205a2e2eb9df4403ca3023e0f4dc2b274ce/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/zhiyou-conder/deepseek-pet/84eca205a2e2eb9df4403ca3023e0f4dc2b274ce/LICENSE",
+      "sourceSha256": "6b0382b16279f26ff69014300541967a356a666eb0b91b422f6862f6b7dad17e",
+      "gitBlobSha": "fdddb29aa445bf3d6a5d843d6dd77e10a9f99657",
+      "bytes": 1211,
+      "commit": "84eca205a2e2eb9df4403ca3023e0f4dc2b274ce",
+      "accessedAt": "2026-11-27T12:15:27.759Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T12:15:27.759Z",
+  "scope": "Pinned creator documentation, licenses where present, and credits were checked by Git blob and SHA-256. This entry links project sources.",
+  "relations": [
+    {
+      "role": "code-license",
+      "title": "LICENSE",
+      "url": "https://github.com/zhiyou-conder/deepseek-pet/blob/84eca205a2e2eb9df4403ca3023e0f4dc2b274ce/LICENSE"
+    }
+  ]
+}

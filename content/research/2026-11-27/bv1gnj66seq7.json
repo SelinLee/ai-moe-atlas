@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1gnJ66SEq7/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gnJ66SEq7",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:13:28.602Z",
+  "scope": "Official view data identifies upload, publisher, publication time and cumulative likes. Attribution is based on the creator description.",
+  "metadata": {
+    "bvid": "BV1gnJ66SEq7",
+    "title": "🐳来自大肥鱼的升级邀请",
+    "owner": {
+      "mid": 244087218,
+      "name": "真不会取名丶"
+    },
+    "pubdate": 1792281600,
+    "duration": 51
+  },
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    }
+  ],
+  "descriptionSha256": "e6a90f329c3b0b30d14a49c12bec91ba5ee543dbe66d8153b165c7cf2b05a7db"
+}

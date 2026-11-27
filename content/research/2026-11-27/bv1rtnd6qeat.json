@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1RTnd6qEat/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RTnd6qEat",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:13:26.860Z",
+  "scope": "Official view data identifies upload, publisher, publication time and cumulative likes. Attribution is based on the creator description.",
+  "metadata": {
+    "bvid": "BV1RTnd6qEat",
+    "title": "大肥鱼玩MC：直播画面与 Mineflayer 简短介绍",
+    "owner": {
+      "mid": 15128607,
+      "name": "Solan__"
+    },
+    "pubdate": 1793008460,
+    "duration": 119
+  },
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    },
+    {
+      "role": "model-integration",
+      "title": "Andersen216 · Live2D",
+      "url": "https://github.com/Andersen216/dsh-whale-girl-live2d/blob/f977bef508690e75ba6535cd8f4ce18e7f6ba9b0/README.md"
+    }
+  ],
+  "descriptionSha256": "b2f4ff9b0cc1c9c8e215d24160610ee7c485dcebe1f064581486b23b75479bd6"
+}

@@ -1,0 +1,70 @@
+{
+  "full_name": "HoppoChan0721/dsh-desktop-petbox",
+  "html_url": "https://github.com/HoppoChan0721/dsh-desktop-petbox",
+  "stargazers_count": 27,
+  "archived": false,
+  "created_at": "2026-11-01T02:45:36Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "14980d33159a70078aa277ad82a96042e7bd7bab",
+  "observedAt": "2026-11-27T12:13:45.366Z",
+  "httpStatus": 200,
+  "metadataSha256": "3675d25c27660a4baad7a7f244d450fc03d1b71204eddc020df937dd673ec3dc",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/HoppoChan0721/dsh-desktop-petbox/blob/14980d33159a70078aa277ad82a96042e7bd7bab/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/HoppoChan0721/dsh-desktop-petbox/14980d33159a70078aa277ad82a96042e7bd7bab/README.md",
+      "sourceSha256": "e7c7c987196f65fbb86b48020afc2d9613a078ab2796ff438c08e88a549a4970",
+      "gitBlobSha": "5051bedc96d73632a3ab75b661f47c52f2addc87",
+      "bytes": 6565,
+      "commit": "14980d33159a70078aa277ad82a96042e7bd7bab",
+      "accessedAt": "2026-11-27T12:15:27.355Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/HoppoChan0721/dsh-desktop-petbox/blob/14980d33159a70078aa277ad82a96042e7bd7bab/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/HoppoChan0721/dsh-desktop-petbox/14980d33159a70078aa277ad82a96042e7bd7bab/LICENSE",
+      "sourceSha256": "d88e12f0f81b94489f28304c4596bdd40745c20bf0f0066cf235d9e75dce2651",
+      "gitBlobSha": "2dcaa0de31a304482631c6a639f2eb354d10780c",
+      "bytes": 1087,
+      "commit": "14980d33159a70078aa277ad82a96042e7bd7bab",
+      "accessedAt": "2026-11-27T12:15:29.255Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T12:15:29.255Z",
+  "scope": "Pinned v1.0.0-era README and MIT code license checked by Git blob and SHA-256. The developer states that the current renderer runs without the earlier external stage. Model and Cubism Core are separately supplied.",
+  "relations": [
+    {
+      "role": "third-party-terms",
+      "title": "DSH Desktop Petbox · THIRD-PARTY",
+      "url": "https://github.com/HoppoChan0721/dsh-desktop-petbox/blob/f763fd799cab1ce49886355299f2c2dffbb7e37d/THIRD-PARTY.txt"
+    },
+    {
+      "role": "stage-dependency",
+      "title": "苌萌萌 · 鲸语 Live2D 工作台",
+      "url": "https://www.bilibili.com/video/BV1F4xq66EUS/"
+    },
+    {
+      "role": "example-model-original",
+      "title": "神宫凉子 · DeepSeek-chan Live2D",
+      "url": "https://www.bilibili.com/video/BV1KmxY66EZ3/"
+    },
+    {
+      "role": "project-release",
+      "title": "Marshmallow v1.0.0",
+      "url": "https://github.com/HoppoChan0721/dsh-desktop-petbox/releases/tag/v1.0.0"
+    },
+    {
+      "role": "creator-demo",
+      "title": "小北只会摆烂 · Live2D 桌宠演示",
+      "url": "https://www.bilibili.com/video/BV11Axk6hEqS/"
+    }
+  ],
+  "previousEvidence": {
+    "path": "content/research/2026-11-07/dsh-desktop-petbox.json",
+    "sha256": "9984ff32bd1436b58f5dc14f527b72c2fde58b00c23784f8ab2ee3317bdfe6d1",
+    "kind": "browser-metadata-extract"
+  }
+}

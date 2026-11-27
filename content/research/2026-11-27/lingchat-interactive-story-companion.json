@@ -1,0 +1,75 @@
+{
+  "full_name": "SlimeBoyOwO/LingChat",
+  "html_url": "https://github.com/SlimeBoyOwO/LingChat",
+  "stargazers_count": 2466,
+  "archived": false,
+  "created_at": "2025-04-06T12:06:42Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "848fd3448c20ca32e0436a498d20e85f63393e7f",
+  "observedAt": "2026-11-27T12:13:45.327Z",
+  "httpStatus": 200,
+  "metadataSha256": "7677143fc446b0028ba10e21d74da31c81a530935827d76d6a726599bb86e3b6",
+  "parent": null,
+  "files": [
+    {
+      "path": ".github/README.md",
+      "url": "https://github.com/SlimeBoyOwO/LingChat/blob/848fd3448c20ca32e0436a498d20e85f63393e7f/.github/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/SlimeBoyOwO/LingChat/848fd3448c20ca32e0436a498d20e85f63393e7f/.github/README.md",
+      "sourceSha256": "e8b8de3e88d45e83f85fdc1a0375d3fa8c2ec86383d05bf33725afb908934b43",
+      "gitBlobSha": "9794f833d38c394ede11c44f3ec47ca25d651485",
+      "bytes": 11300,
+      "commit": "848fd3448c20ca32e0436a498d20e85f63393e7f",
+      "accessedAt": "2026-11-27T12:15:27.357Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/SlimeBoyOwO/LingChat/blob/848fd3448c20ca32e0436a498d20e85f63393e7f/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/SlimeBoyOwO/LingChat/848fd3448c20ca32e0436a498d20e85f63393e7f/LICENSE",
+      "sourceSha256": "db52e3daad9260a1cc638efaf3f6b7a6bdead236365586a60078a9a287613037",
+      "gitBlobSha": "162676cbef614cc119c0469097f6868178019f95",
+      "bytes": 34273,
+      "commit": "848fd3448c20ca32e0436a498d20e85f63393e7f",
+      "accessedAt": "2026-11-27T12:15:28.141Z"
+    },
+    {
+      "path": "src/components/views/Credits.vue",
+      "url": "https://github.com/SlimeBoyOwO/LingChat/blob/848fd3448c20ca32e0436a498d20e85f63393e7f/src/components/views/Credits.vue",
+      "rawUrl": "https://raw.githubusercontent.com/SlimeBoyOwO/LingChat/848fd3448c20ca32e0436a498d20e85f63393e7f/src/components/views/Credits.vue",
+      "sourceSha256": "49df7606e684ca00404bc5a4ce057c3e02c23afacab0d9bd2fb32fcc2c075ce8",
+      "gitBlobSha": "3f0b5359d0cba870ddac32e922bc6b260a4237d3",
+      "bytes": 17224,
+      "commit": "848fd3448c20ca32e0436a498d20e85f63393e7f",
+      "accessedAt": "2026-11-27T12:15:28.523Z"
+    },
+    {
+      "path": "docs/live2d/README.md",
+      "url": "https://github.com/SlimeBoyOwO/LingChat/blob/848fd3448c20ca32e0436a498d20e85f63393e7f/docs/live2d/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/SlimeBoyOwO/LingChat/848fd3448c20ca32e0436a498d20e85f63393e7f/docs/live2d/README.md",
+      "sourceSha256": "09d6e26f24bb2edf49e350055b9f66b28c1c2ab7b736bac8158f71c7107c1647",
+      "gitBlobSha": "1c33b323deb2a72de28b1b2a43a618b94c359e91",
+      "bytes": 1840,
+      "commit": "848fd3448c20ca32e0436a498d20e85f63393e7f",
+      "accessedAt": "2026-11-27T12:15:28.895Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T12:15:28.895Z",
+  "scope": "Pinned creator documentation, licenses where present, and credits were checked by Git blob and SHA-256. This entry links project sources.",
+  "relations": [
+    {
+      "role": "code-license",
+      "title": "LICENSE",
+      "url": "https://github.com/SlimeBoyOwO/LingChat/blob/848fd3448c20ca32e0436a498d20e85f63393e7f/LICENSE"
+    },
+    {
+      "role": "model-documentation",
+      "title": "LingChat · Live2D",
+      "url": "https://github.com/SlimeBoyOwO/LingChat/blob/848fd3448c20ca32e0436a498d20e85f63393e7f/docs/live2d/README.md"
+    },
+    {
+      "role": "creator-video",
+      "title": "Noi_钦灵 · 大肥鱼互动剧情演示",
+      "url": "https://www.bilibili.com/video/BV19zgK6KE8X/"
+    }
+  ]
+}

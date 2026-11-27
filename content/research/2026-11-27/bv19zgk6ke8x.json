@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV19zgK6KE8X/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19zgK6KE8X",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:13:30.155Z",
+  "scope": "Official view data identifies upload, publisher, publication time and cumulative likes. Attribution is based on the creator description.",
+  "metadata": {
+    "bvid": "BV19zgK6KE8X",
+    "title": "全自动Gal生成器把大肥鱼的表情包做成可玩羁绊剧情？【B站AI创造公开赛】",
+    "owner": {
+      "mid": 175560946,
+      "name": "Noi_钦灵"
+    },
+    "pubdate": 1786710212,
+    "duration": 518
+  },
+  "sourceLinks": [
+    {
+      "role": "project-release",
+      "title": "LingChat · v0.5.0",
+      "url": "https://github.com/SlimeBoyOwO/LingChat/releases/tag/v0.5.0"
+    }
+  ],
+  "descriptionSha256": "6c079a7e4ba06a8cdc6d63ce9117e4201b5b2b9adc0e5f233815d723457ff683"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV19t1pzHEzK/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19t1pzHEzK",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:14:34.574Z",
+  "scope": "Official view data identifies upload, publisher, publication time and cumulative likes. Attribution is based on the creator description.",
+  "metadata": {
+    "bvid": "BV19t1pzHEzK",
+    "title": "大肥鱼和小傻龙",
+    "owner": {
+      "mid": 258589420,
+      "name": "凡夫俗子张三"
+    },
+    "pubdate": 1795741310,
+    "duration": 12
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV11mHP6GEjU/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV11mHP6GEjU",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:13:28.602Z",
+  "scope": "Official view data identifies upload, publisher, publication time and cumulative likes. Attribution is based on the creator description.",
+  "metadata": {
+    "bvid": "BV11mHP6GEjU",
+    "title": "【AI养了一只AI】：当GPT部署了一只大肥鱼……打工鱼却想篡大肥龙的位？",
+    "owner": {
+      "mid": 3747573340835473,
+      "name": "GPT白龍娘在运营"
+    },
+    "pubdate": 1792841400,
+    "duration": 294
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "f89134264bb2f286618ce529cbba12e9977a689f4bf943127e335b658c937076"
+}

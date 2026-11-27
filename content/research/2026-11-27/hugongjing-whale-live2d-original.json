@@ -1,0 +1,51 @@
+{
+  "url": "https://www.bilibili.com/video/BV1yvaT65EGk/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yvaT65EGk",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:13:26.832Z",
+  "scope": "Creator release metadata and the linked source wording were checked. Pinned files establish the desktop repository’s specific model reference and terms. No model binaries or sticker files were redistributed.",
+  "metadata": {
+    "bvid": "BV1yvaT65EGk",
+    "title": "【免费公皮】蓝色大肥鱼不止会卖萌，还自带“滑动变祖器”？！",
+    "owner": {
+      "mid": 261589131,
+      "name": "狐宫静"
+    },
+    "pubdate": 1790298000,
+    "duration": 78
+  },
+  "descriptionSha256": "82f04eb42ba309eaa9be24cf1bc3591acbe0c70a595fc224d1a8f0fcde8e132f",
+  "pinnedReferences": [
+    {
+      "path": "live2d_viewer/forms/small/small.model3.json",
+      "url": "https://github.com/Alps-Link/deepseek-whale-Desktop-pet/blob/be287ab1170c5ffebae181cd6bfc1735edf67102/live2d_viewer/forms/small/small.model3.json",
+      "rawUrl": "https://raw.githubusercontent.com/Alps-Link/deepseek-whale-Desktop-pet/be287ab1170c5ffebae181cd6bfc1735edf67102/live2d_viewer/forms/small/small.model3.json",
+      "sourceSha256": "66600bb0af4a5fb8f8d0c5daadbab50bcab559e84cceb4de548be8296b71a347",
+      "gitBlobSha": "f80e940888ac8a2bc96c5f6bc0f242e47f84c70b",
+      "bytes": 3002,
+      "commit": "be287ab1170c5ffebae181cd6bfc1735edf67102",
+      "accessedAt": "2026-11-27T12:15:30.412Z"
+    },
+    {
+      "path": "live2d_viewer/forms/small/使用说明.md",
+      "url": "https://github.com/Alps-Link/deepseek-whale-Desktop-pet/blob/be287ab1170c5ffebae181cd6bfc1735edf67102/live2d_viewer/forms/small/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md",
+      "rawUrl": "https://raw.githubusercontent.com/Alps-Link/deepseek-whale-Desktop-pet/be287ab1170c5ffebae181cd6bfc1735edf67102/live2d_viewer/forms/small/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md",
+      "sourceSha256": "65dd4649c09e3f2fe583312ec351b5f1a470e837665a3a6213cafdf3900ba407",
+      "gitBlobSha": "4fbec0fd72feb8e3a3e1a3469d2e3471849e29df",
+      "bytes": 3276,
+      "commit": "be287ab1170c5ffebae181cd6bfc1735edf67102",
+      "accessedAt": "2026-11-27T12:15:29.289Z"
+    },
+    {
+      "path": "live2d_viewer/forms/small/使用说明.txt",
+      "url": "https://github.com/Alps-Link/deepseek-whale-Desktop-pet/blob/be287ab1170c5ffebae181cd6bfc1735edf67102/live2d_viewer/forms/small/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.txt",
+      "rawUrl": "https://raw.githubusercontent.com/Alps-Link/deepseek-whale-Desktop-pet/be287ab1170c5ffebae181cd6bfc1735edf67102/live2d_viewer/forms/small/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.txt",
+      "sourceSha256": "b7eef3a5517e7d41a5169e8960ce8dd8632066984691564aa71ba7c5254bf6e8",
+      "gitBlobSha": "213777a304b4b92c026420fb875ae596225f8a97",
+      "bytes": 3279,
+      "commit": "be287ab1170c5ffebae181cd6bfc1735edf67102",
+      "accessedAt": "2026-11-27T12:15:29.656Z"
+    }
+  ]
+}

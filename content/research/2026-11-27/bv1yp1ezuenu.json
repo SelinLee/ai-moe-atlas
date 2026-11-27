@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Yp1EzuENU/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Yp1EzuENU",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:14:33.078Z",
+  "scope": "Official view data identifies upload, publisher, publication time and cumulative likes. Attribution is based on the creator description.",
+  "metadata": {
+    "bvid": "BV1Yp1EzuENU",
+    "title": "大肥鱼拿拖鞋当船",
+    "owner": {
+      "mid": 3744982475212847,
+      "name": "小资历的大肥鱼"
+    },
+    "pubdate": 1795744800,
+    "duration": 30
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "5f585d8df30d6e12a02b65215f97de3160fc9e881e888484c9ebafbfa97d23ee"
+}

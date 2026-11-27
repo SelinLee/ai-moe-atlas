@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1sz1EztEvd/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sz1EztEvd",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:14:30.939Z",
+  "scope": "Official view data identifies upload, publisher, publication time and cumulative likes. Attribution is based on the creator description.",
+  "metadata": {
+    "bvid": "BV1sz1EztEvd",
+    "title": "冬天的大肥鱼把自己尾巴变成围巾取暖了",
+    "owner": {
+      "mid": 453699230,
+      "name": "一氘两鱼"
+    },
+    "pubdate": 1795746420,
+    "duration": 31
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "9db75b805bfabbd5de1977c27ab5109c671a529881a10e4d6c57362ed8a9cd1a"
+}

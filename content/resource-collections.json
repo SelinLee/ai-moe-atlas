@@ -80,6 +80,26 @@
         "happy",
         "confused"
       ]
+    },
+    {
+      "id": "fufeng-gpt-dragon-emotes",
+      "characters": [
+        "GPT"
+      ],
+      "tags": [
+        "chat",
+        "variants"
+      ]
+    },
+    {
+      "id": "momo-claude-chat-stickers",
+      "characters": [
+        "Claude"
+      ],
+      "tags": [
+        "chat",
+        "variants"
+      ]
     }
   ],
   "rigs": [
@@ -110,6 +130,14 @@
     {
       "id": "deanzhang-claude-2-5d-desktop-pet",
       "format": "2.5d"
+    },
+    {
+      "id": "mao-whale-live2d-original",
+      "format": "live2d"
+    },
+    {
+      "id": "hugongjing-whale-live2d-original",
+      "format": "live2d"
     }
   ],
   "comics": [
@@ -427,6 +455,9 @@
     },
     {
       "id": "ali-ai-workplace-extra-commit"
+    },
+    {
+      "id": "murdersans-glm-fox-comic"
     }
   ]
 }

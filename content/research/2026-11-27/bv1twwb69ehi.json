@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1TWWb69EHi/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TWWb69EHi",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:14:29.434Z",
+  "scope": "Official view data identifies upload, publisher, publication time and cumulative likes. Attribution is based on the creator description.",
+  "metadata": {
+    "bvid": "BV1TWWb69EHi",
+    "title": "笨蛋的爱.md (3.3 KB, 2026-11-09)【原创手绘大肥鱼特供版】",
+    "owner": {
+      "mid": 11742550,
+      "name": "哈米伦的弄笛者"
+    },
+    "pubdate": 1794215084,
+    "duration": 80
+  },
+  "sourceLinks": [
+    {
+      "role": "song-arrangement-source",
+      "title": "砼棃 · 般配之爱",
+      "url": "https://www.bilibili.com/video/BV1pUNczTE3y/"
+    }
+  ],
+  "descriptionSha256": "9f63b275a92fd664e5a3ac4ece32fdcd9306530d3bf2c1595ffafb2616132665"
+}

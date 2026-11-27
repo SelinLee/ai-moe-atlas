@@ -1,0 +1,28 @@
+{
+  "previousEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-rice-bowl-and-fan-music.json",
+    "sha256": "55a2b3380e9a603a30724bcaf6e63d0e2802047a003411710f9009ecb4dd715c",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-hand-drawn-and-rigs.json",
+    "sha256": "c5a3f19d6a9cd1baa0d50969d7d507eb9f525920b18b876f36d5818be167da97",
+    "kind": "browser-metadata-extract"
+  },
+  "workshopEvidence": {
+    "path": "content/research/2026-11-27/kamiya-official-workshop-recheck.json",
+    "sha256": "162aa87c91e86675ce5373e33add7aebc85a619bfd6910f950678101334d724b",
+    "kind": "browser-metadata-extract"
+  },
+  "newVideos": 20,
+  "existingRefreshed": 15,
+  "pendingCandidates": 14,
+  "existingUnresolved": 10,
+  "recording": {
+    "bvid": "BV1pUNczTE3y",
+    "title": "般配之爱【像笨蛋一样×怪物之歌 Mashup】",
+    "publisher": "砼棃",
+    "observedAt": "2026-11-27T12:15:53.010Z",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pUNczTE3y"
+  }
+}
