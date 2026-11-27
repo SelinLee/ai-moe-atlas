@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV143gb69EdD/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV143gb69EdD",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:30:15.695Z",
+  "scope": "Official Bilibili view data verifies the upload, publisher, publication time and cumulative likes. Credits use the uploader’s description.",
+  "metadata": {
+    "bvid": "BV143gb69EdD",
+    "title": "猜猜这是谁~",
+    "owner": {
+      "mid": 23315338,
+      "name": "这个刀子真甜"
+    },
+    "pubdate": 1784826059,
+    "duration": 22
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "这个刀子真甜",
+      "url": "https://space.bilibili.com/23315338"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe · 角色原画",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "descriptionSha256": "3a199ff0ebfe17679f4dd8a3e5eb06edcbde3c5c05026a0c4f9b54117626359f"
+}

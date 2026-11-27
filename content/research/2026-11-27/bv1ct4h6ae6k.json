@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1cT4H6AE6k/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cT4H6AE6k",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:30:18.774Z",
+  "scope": "Official Bilibili view data verifies the upload, publisher, publication time and cumulative likes. Credits use the uploader’s description.",
+  "metadata": {
+    "bvid": "BV1cT4H6AE6k",
+    "title": "【小克烧书】被天意侵蚀的ai娘",
+    "owner": {
+      "mid": 4118193,
+      "name": "哆啦哏"
+    },
+    "pubdate": 1794051327,
+    "duration": 92
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "哆啦哏",
+      "url": "https://space.bilibili.com/4118193"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe · 角色原画",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "descriptionSha256": "820d447fbc88e4f0f9aa8c0cc65b8250831047fa3b1e0e4b6ae481a11e69303c"
+}

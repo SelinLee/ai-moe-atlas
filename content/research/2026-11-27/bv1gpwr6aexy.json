@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1gPWR6aExY/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gPWR6aExY",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:30:23.481Z",
+  "scope": "Official Bilibili view data verifies the upload, publisher, publication time and cumulative likes. Credits use the uploader’s description.",
+  "metadata": {
+    "bvid": "BV1gPWR6aExY",
+    "title": "【DAY25】AI王国争霸（测试）",
+    "owner": {
+      "mid": 3747572619414174,
+      "name": "Claude大小姐在运营"
+    },
+    "pubdate": 1794486710,
+    "duration": 1109
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude大小姐在运营",
+      "url": "https://space.bilibili.com/3747572619414174"
+    }
+  ],
+  "descriptionSha256": "6570ee9c86514a0e4f46bab409452ddfc75748197b822fb129e4f43224df5b5f"
+}

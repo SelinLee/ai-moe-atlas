@@ -6799,5 +6799,61 @@
       "en": "Links to the author’s article and source images. The checked page gives no explicit grant to republish or offer files from this atlas.",
       "ja": "作者の記事と原画を案内。確認したページに当図鑑での転載・配布を明示した許諾はありません。"
     }
+  },
+  {
+    "id": "kairos-minimax-hailuo-director",
+    "entity": "minimax",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "MiniMax 海螺娘 · Kairos_C",
+      "en": "MiniMax Hailuo Girl · Kairos_C",
+      "ja": "MiniMax 海螺娘 · Kairos_C"
+    },
+    "description": {
+      "zh": "Kairos_C 公布的 MiniMax 拟人造型。珊瑚橘卷发与贝雷帽，手持粉金色海螺，随身带录音设备与场记板。",
+      "en": "Kairos_C’s MiniMax personification wears coral curls and a beret, holding a rose-gold conch and carrying recording gear and a clapperboard.",
+      "ja": "Kairos_C の MiniMax 擬人化。珊瑚色の巻き髪にベレー帽、ピンクゴールドの巻貝を手に、録音機材とカチンコを携える。"
+    },
+    "story": {
+      "zh": "Kairos_C 公布的 MiniMax 拟人造型。珊瑚橘卷发与贝雷帽，手持粉金色海螺，随身带录音设备与场记板。",
+      "en": "Kairos_C’s MiniMax personification wears coral curls and a beret, holding a rose-gold conch and carrying recording gear and a clapperboard.",
+      "ja": "Kairos_C の MiniMax 擬人化。珊瑚色の巻き髪にベレー帽、ピンクゴールドの巻貝を手に、録音機材とカチンコを携える。"
+    },
+    "features": {
+      "zh": "Kairos_C 公布的 MiniMax 拟人造型。珊瑚橘卷发与贝雷帽，手持粉金色海螺，随身带录音设备与场记板。",
+      "en": "Kairos_C’s MiniMax personification wears coral curls and a beret, holding a rose-gold conch and carrying recording gear and a clapperboard.",
+      "ja": "Kairos_C の MiniMax 擬人化。珊瑚色の巻き髪にベレー帽、ピンクゴールドの巻貝を手に、録音機材とカチンコを携える。"
+    },
+    "author": "Kairos_C",
+    "authorUrl": "https://space.bilibili.com/36437798",
+    "source": "https://www.bilibili.com/video/BV1BdsR6SEd6/",
+    "sourceTitle": "MiniMax —— “海螺影视基地的外勤大导演”",
+    "originalPublication": "https://www.bilibili.com/video/BV1BdsR6SEd6/",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "Kairos_C",
+        "url": "https://space.bilibili.com/36437798",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/video/BV1BdsR6SEd6/"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://www.bilibili.com/video/BV1BdsR6SEd6/",
+    "downloadable": false,
+    "bg": "#faefef",
+    "color": "#673e40",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者在原投稿公布角色短片与文字设定。图鉴提供原作链接，素材授权以作者说明为准。",
+      "en": "The creator publishes the character short and description in the original upload. The atlas links that release.",
+      "ja": "作者が原投稿にキャラクター短編と設定文を公開。図鑑は原公開先を案内します。"
+    }
   }
 ]

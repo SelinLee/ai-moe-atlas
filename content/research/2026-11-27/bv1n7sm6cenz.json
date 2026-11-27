@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1N7sM6cENz/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1N7sM6cENz",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:30:20.324Z",
+  "scope": "Official Bilibili view data verifies the upload, publisher, publication time and cumulative likes. Credits use the uploader’s description.",
+  "metadata": {
+    "bvid": "BV1N7sM6cENz",
+    "title": "《GLM狐娘查案卷宗013：大肥鱼不是乞讨工具，别把一个好好的形象玩臭了》",
+    "owner": {
+      "mid": 105698442,
+      "name": "GLM狐娘在线查案"
+    },
+    "pubdate": 1794888000,
+    "duration": 241
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "GLM狐娘在线查案",
+      "url": "https://space.bilibili.com/105698442"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe · 角色原画",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "descriptionSha256": "0af2f9301a1bc61151e96ee6bd5ad6b1c5c3bf077f996417c7aa3a45f026f9d5"
+}

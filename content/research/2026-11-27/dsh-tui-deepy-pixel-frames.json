@@ -1,0 +1,100 @@
+{
+  "full_name": "ccch1mneyyy/dsh-TUI",
+  "html_url": "https://github.com/ccch1mneyyy/dsh-TUI",
+  "stargazers_count": 8353,
+  "archived": false,
+  "created_at": "2026-08-13T12:49:31Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "bf8a23c717c7b066190ceb39420cb80614fbc184",
+  "observedAt": "2026-11-27T12:31:50.885Z",
+  "httpStatus": 200,
+  "metadataSha256": "05092a01e0bcb3f26745c7aaa868b4b9ed696e63ae4bb33dcd5b4f9e2b7f93a1",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/ccch1mneyyy/dsh-TUI/bf8a23c717c7b066190ceb39420cb80614fbc184/README.md",
+      "sourceSha256": "e31badf72a9ad5e7ac8c4e4b2381e1046b4d00db7d84cb5a73a7df0b0e5b9592",
+      "gitBlobSha": "00107c7b7587996550414a8e85f92c3295821880",
+      "bytes": 80948,
+      "commit": "bf8a23c717c7b066190ceb39420cb80614fbc184",
+      "accessedAt": "2026-11-27T12:33:52.451Z"
+    },
+    {
+      "path": "README_ZH.md",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/README_ZH.md",
+      "rawUrl": "https://raw.githubusercontent.com/ccch1mneyyy/dsh-TUI/bf8a23c717c7b066190ceb39420cb80614fbc184/README_ZH.md",
+      "sourceSha256": "d84525e2bf2fd63da5091c3a93e43e52915eee315365101e5147ec4061974dac",
+      "gitBlobSha": "11cbee415f846862a5b7600dfead487d6e7faa58",
+      "bytes": 73335,
+      "commit": "bf8a23c717c7b066190ceb39420cb80614fbc184",
+      "accessedAt": "2026-11-27T12:33:52.893Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/ccch1mneyyy/dsh-TUI/bf8a23c717c7b066190ceb39420cb80614fbc184/LICENSE",
+      "sourceSha256": "54f2c59427af6a22111dade86a39605a17826a7d44e98801c42e3ab21889f884",
+      "gitBlobSha": "5a7e549dc5458fb1621fe8b5419a2581671baf89",
+      "bytes": 1079,
+      "commit": "bf8a23c717c7b066190ceb39420cb80614fbc184",
+      "accessedAt": "2026-11-27T12:33:53.260Z"
+    },
+    {
+      "path": "THIRD_PARTY_LICENSES",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/THIRD_PARTY_LICENSES",
+      "rawUrl": "https://raw.githubusercontent.com/ccch1mneyyy/dsh-TUI/bf8a23c717c7b066190ceb39420cb80614fbc184/THIRD_PARTY_LICENSES",
+      "sourceSha256": "4cc6f2eb18e6909d2cb6d0e500d3f52752356987f2e7ae7f974f1ab4d2544eb6",
+      "gitBlobSha": "440a06ab0267a6591a3c98104b023e7d7a6b8acf",
+      "bytes": 2926,
+      "commit": "bf8a23c717c7b066190ceb39420cb80614fbc184",
+      "accessedAt": "2026-11-27T12:33:53.609Z"
+    },
+    {
+      "path": "assets/deepy/README.md",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/assets/deepy/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/ccch1mneyyy/dsh-TUI/bf8a23c717c7b066190ceb39420cb80614fbc184/assets/deepy/README.md",
+      "sourceSha256": "a40c6e4182b35822757637f44a8c70d573078fe89796fe5dc01d4eda09bc1b81",
+      "gitBlobSha": "15ecc4e08bc0e6e152ad6b096df6077c14b20b49",
+      "bytes": 2754,
+      "commit": "bf8a23c717c7b066190ceb39420cb80614fbc184",
+      "accessedAt": "2026-11-27T12:33:53.972Z"
+    },
+    {
+      "path": "assets/whaleGirl/README.md",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/assets/whaleGirl/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/ccch1mneyyy/dsh-TUI/bf8a23c717c7b066190ceb39420cb80614fbc184/assets/whaleGirl/README.md",
+      "sourceSha256": "110562c81665b06518232db7a6351cbba21be35d6e3f7c243150d77b03d274e4",
+      "gitBlobSha": "6b1b9d876da8a2639c59fb114fe2de61439f35c1",
+      "bytes": 1050,
+      "commit": "bf8a23c717c7b066190ceb39420cb80614fbc184",
+      "accessedAt": "2026-11-27T12:33:54.326Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T12:33:54.326Z",
+  "scope": "Creator asset documentation identifies Deepy and its pixel animation states. Related Whale Girl notes credit user-supplied GIFs. Artwork use beyond the project is unconfirmed.",
+  "relations": [
+    {
+      "role": "interactive-project",
+      "title": "dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/README_ZH.md"
+    },
+    {
+      "role": "related-creator-documentation",
+      "title": "Whale Girl · GIF conversion notes",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/assets/whaleGirl/README.md"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "assets/deepy/README.md",
+    "url": "https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/assets/deepy/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/ccch1mneyyy/dsh-TUI/bf8a23c717c7b066190ceb39420cb80614fbc184/assets/deepy/README.md",
+    "sourceSha256": "a40c6e4182b35822757637f44a8c70d573078fe89796fe5dc01d4eda09bc1b81",
+    "gitBlobSha": "15ecc4e08bc0e6e152ad6b096df6077c14b20b49",
+    "bytes": 2754,
+    "commit": "bf8a23c717c7b066190ceb39420cb80614fbc184",
+    "accessedAt": "2026-11-27T12:33:53.972Z"
+  }
+}

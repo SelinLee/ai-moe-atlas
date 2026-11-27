@@ -1,0 +1,60 @@
+{
+  "full_name": "Robincheein/Blue-Fat-Fish-Table-Fridge",
+  "html_url": "https://github.com/Robincheein/Blue-Fat-Fish-Table-Fridge",
+  "stargazers_count": 2,
+  "archived": false,
+  "created_at": "2026-11-13T13:13:57Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "91851c73b29e01003a1b8ccce84163e03e71622f",
+  "observedAt": "2026-11-27T12:28:37.920Z",
+  "httpStatus": 200,
+  "metadataSha256": "80f47b9ebd34838e0789b7a8b864a136df84a5bec38c01ed40f342be884b8e47",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/Robincheein/Blue-Fat-Fish-Table-Fridge/blob/91851c73b29e01003a1b8ccce84163e03e71622f/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Robincheein/Blue-Fat-Fish-Table-Fridge/91851c73b29e01003a1b8ccce84163e03e71622f/README.md",
+      "sourceSha256": "11ffc398bd81b2e5bf85d29ae77605e4d780e257ecfad7887b8f53fd3743046d",
+      "gitBlobSha": "41aaed64eb413f0f02efe0e2dbd11fedd7cd707d",
+      "bytes": 2377,
+      "commit": "91851c73b29e01003a1b8ccce84163e03e71622f",
+      "accessedAt": "2026-11-27T12:33:52.129Z"
+    },
+    {
+      "path": "README.en.md",
+      "url": "https://github.com/Robincheein/Blue-Fat-Fish-Table-Fridge/blob/91851c73b29e01003a1b8ccce84163e03e71622f/README.en.md",
+      "rawUrl": "https://raw.githubusercontent.com/Robincheein/Blue-Fat-Fish-Table-Fridge/91851c73b29e01003a1b8ccce84163e03e71622f/README.en.md",
+      "sourceSha256": "ddddc82d89ff5dda478e50647a85943a09fc64b47369e31e1c9b204b96387a66",
+      "gitBlobSha": "c9f493ff481a01d3036bbc5b93d153ed23deb34b",
+      "bytes": 2391,
+      "commit": "91851c73b29e01003a1b8ccce84163e03e71622f",
+      "accessedAt": "2026-11-27T12:33:52.369Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T12:33:52.369Z",
+  "scope": "Pinned creator documentation, referenced artwork notes and available code license checked in Chrome. Exact source bytes matched Git blob and SHA-256 evidence.",
+  "relations": [
+    {
+      "role": "upstream-project",
+      "title": "dsh-TUI",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/README_ZH.md"
+    },
+    {
+      "role": "upstream-art-notes",
+      "title": "dsh-TUI · Whale Girl",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/assets/whaleGirl/README.md"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/Robincheein/Blue-Fat-Fish-Table-Fridge/blob/91851c73b29e01003a1b8ccce84163e03e71622f/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Robincheein/Blue-Fat-Fish-Table-Fridge/91851c73b29e01003a1b8ccce84163e03e71622f/README.md",
+    "sourceSha256": "11ffc398bd81b2e5bf85d29ae77605e4d780e257ecfad7887b8f53fd3743046d",
+    "gitBlobSha": "41aaed64eb413f0f02efe0e2dbd11fedd7cd707d",
+    "bytes": 2377,
+    "commit": "91851c73b29e01003a1b8ccce84163e03e71622f",
+    "accessedAt": "2026-11-27T12:33:52.129Z"
+  }
+}

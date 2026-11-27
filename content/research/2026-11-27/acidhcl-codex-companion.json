@@ -1,0 +1,90 @@
+{
+  "full_name": "AcidHCL/codex-companion",
+  "html_url": "https://github.com/AcidHCL/codex-companion",
+  "stargazers_count": 4,
+  "archived": false,
+  "created_at": "2026-10-28T01:52:26Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "63789b34ab9ab115fe19c454eabb0bd99b06a651",
+  "observedAt": "2026-11-27T12:28:37.883Z",
+  "httpStatus": 200,
+  "metadataSha256": "946eeb0d3a0223654a472ad3c1f6608b7fcbaf493dbbd6db509607923d787a30",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/AcidHCL/codex-companion/blob/63789b34ab9ab115fe19c454eabb0bd99b06a651/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/AcidHCL/codex-companion/63789b34ab9ab115fe19c454eabb0bd99b06a651/README.md",
+      "sourceSha256": "4e57b27fe1de49b53c6a93b4ca3ec722e8c7d85e7ef20df0ec95451b03b9f5b9",
+      "gitBlobSha": "dc6dfe53acdd13c552e603e8ccf69c7b380a3a2d",
+      "bytes": 29472,
+      "commit": "63789b34ab9ab115fe19c454eabb0bd99b06a651",
+      "accessedAt": "2026-11-27T12:33:52.230Z"
+    },
+    {
+      "path": "desktop-pet/assets/live2d-runtime/README.md",
+      "url": "https://github.com/AcidHCL/codex-companion/blob/63789b34ab9ab115fe19c454eabb0bd99b06a651/desktop-pet/assets/live2d-runtime/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/AcidHCL/codex-companion/63789b34ab9ab115fe19c454eabb0bd99b06a651/desktop-pet/assets/live2d-runtime/README.md",
+      "sourceSha256": "67b83da606892becd31eff37cf5965a89529e38183290f0c1da649e8297a5f6e",
+      "gitBlobSha": "e5ce70df82307a1bc6372651b4d640be896f3524",
+      "bytes": 4271,
+      "commit": "63789b34ab9ab115fe19c454eabb0bd99b06a651",
+      "accessedAt": "2026-11-27T12:33:52.491Z"
+    },
+    {
+      "path": "desktop-pet/assets/live2d-runtime/licenses/Core-LICENSE.md",
+      "url": "https://github.com/AcidHCL/codex-companion/blob/63789b34ab9ab115fe19c454eabb0bd99b06a651/desktop-pet/assets/live2d-runtime/licenses/Core-LICENSE.md",
+      "rawUrl": "https://raw.githubusercontent.com/AcidHCL/codex-companion/63789b34ab9ab115fe19c454eabb0bd99b06a651/desktop-pet/assets/live2d-runtime/licenses/Core-LICENSE.md",
+      "sourceSha256": "b81e37048010ef1d336106151201a0323c3309cae44aecdedf57831fe88fa991",
+      "gitBlobSha": "4139d4f3b286105705790e02aba8539fc6150020",
+      "bytes": 520,
+      "commit": "63789b34ab9ab115fe19c454eabb0bd99b06a651",
+      "accessedAt": "2026-11-27T12:33:52.744Z"
+    },
+    {
+      "path": "desktop-pet/assets/skins/manifest.json",
+      "url": "https://github.com/AcidHCL/codex-companion/blob/63789b34ab9ab115fe19c454eabb0bd99b06a651/desktop-pet/assets/skins/manifest.json",
+      "rawUrl": "https://raw.githubusercontent.com/AcidHCL/codex-companion/63789b34ab9ab115fe19c454eabb0bd99b06a651/desktop-pet/assets/skins/manifest.json",
+      "sourceSha256": "b158fbbac610d5647ba7087c4e454f045e6bc1b9f1ffaeed6161cef5da71259a",
+      "gitBlobSha": "c7be687babc60f0527584a8dbc9617425ab12c18",
+      "bytes": 1054,
+      "commit": "63789b34ab9ab115fe19c454eabb0bd99b06a651",
+      "accessedAt": "2026-11-27T12:33:52.998Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T12:33:52.998Z",
+  "scope": "Pinned creator documentation, referenced artwork notes and available code license checked in Chrome. Exact source bytes matched Git blob and SHA-256 evidence.",
+  "relations": [
+    {
+      "role": "skin-index",
+      "title": "Codex Companion · skin manifest",
+      "url": "https://github.com/AcidHCL/codex-companion/blob/63789b34ab9ab115fe19c454eabb0bd99b06a651/desktop-pet/assets/skins/manifest.json"
+    },
+    {
+      "role": "runtime-terms",
+      "title": "Cubism runtime documentation",
+      "url": "https://github.com/AcidHCL/codex-companion/blob/63789b34ab9ab115fe19c454eabb0bd99b06a651/desktop-pet/assets/live2d-runtime/README.md"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe · character art",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "song-original-source",
+      "title": "星落落_oi · Let Me Go",
+      "url": "https://www.bilibili.com/video/BV13SYr6dEiQ/"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/AcidHCL/codex-companion/blob/63789b34ab9ab115fe19c454eabb0bd99b06a651/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/AcidHCL/codex-companion/63789b34ab9ab115fe19c454eabb0bd99b06a651/README.md",
+    "sourceSha256": "4e57b27fe1de49b53c6a93b4ca3ec722e8c7d85e7ef20df0ec95451b03b9f5b9",
+    "gitBlobSha": "dc6dfe53acdd13c552e603e8ccf69c7b380a3a2d",
+    "bytes": 29472,
+    "commit": "63789b34ab9ab115fe19c454eabb0bd99b06a651",
+    "accessedAt": "2026-11-27T12:33:52.230Z"
+  }
+}

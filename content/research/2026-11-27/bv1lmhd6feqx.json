@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1LmHD6fEqx/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LmHD6fEqx",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:30:21.878Z",
+  "scope": "Official Bilibili view data verifies the upload, publisher, publication time and cumulative likes. Credits use the uploader’s description.",
+  "metadata": {
+    "bvid": "BV1LmHD6fEqx",
+    "title": "【AI娘】豆包对大肥鱼充满母性，Claude建议逃离原生家庭",
+    "owner": {
+      "mid": 3690991676557712,
+      "name": "坠爱牢大"
+    },
+    "pubdate": 1791459182,
+    "duration": 55
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "坠爱牢大",
+      "url": "https://space.bilibili.com/3690991676557712"
+    }
+  ],
+  "descriptionSha256": "e04bef7f044bddb29f6b04f0dbdc32f9ae68921854aa1d009e846f6e1add7239"
+}

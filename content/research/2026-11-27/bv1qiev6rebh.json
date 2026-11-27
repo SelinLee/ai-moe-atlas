@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1qieV6REBh/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qieV6REBh",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:30:17.245Z",
+  "scope": "Official Bilibili view data verifies the upload, publisher, publication time and cumulative likes. Credits use the uploader’s description.",
+  "metadata": {
+    "bvid": "BV1qieV6REBh",
+    "title": "做海报也要赶着吃饭的大肥鱼（minimax h3内容包装测试）",
+    "owner": {
+      "mid": 631962932,
+      "name": "WispByte"
+    },
+    "pubdate": 1789556400,
+    "duration": 14
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "WispByte",
+      "url": "https://space.bilibili.com/631962932"
+    }
+  ],
+  "descriptionSha256": "adfd028ae3b78baf662a567c3e1fee90bd1e4eafd996b9aba29a307260aa9866"
+}

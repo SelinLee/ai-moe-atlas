@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1BdsR6SEd6/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BdsR6SEd6",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:30:17.231Z",
+  "scope": "Official Bilibili view data verifies the upload, publisher, publication time and cumulative likes. Credits use the uploader’s description.",
+  "metadata": {
+    "bvid": "BV1BdsR6SEd6",
+    "title": "MiniMax —— “海螺影视基地的外勤大导演”",
+    "owner": {
+      "mid": 36437798,
+      "name": "Kairos_C"
+    },
+    "pubdate": 1793242843,
+    "duration": 23
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Kairos_C",
+      "url": "https://space.bilibili.com/36437798"
+    }
+  ],
+  "descriptionSha256": "8e89d60fe7201820a89f1d950d8f002ef394adc6510c442cb63d4a6443799ef8"
+}

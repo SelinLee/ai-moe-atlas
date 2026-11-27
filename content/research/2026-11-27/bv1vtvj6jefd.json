@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1vTVJ6jEFd/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vTVJ6jEFd",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:30:15.676Z",
+  "scope": "Official Bilibili view data verifies the upload, publisher, publication time and cumulative likes. Credits use the uploader’s description.",
+  "metadata": {
+    "bvid": "BV1vTVJ6jEFd",
+    "title": "【OC】豆包男娘的反义词是什么",
+    "owner": {
+      "mid": 502437483,
+      "name": "甲烷完全燃烧化学式"
+    },
+    "pubdate": 1780188254,
+    "duration": 15
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "甲烷完全燃烧化学式",
+      "url": "https://space.bilibili.com/502437483"
+    }
+  ],
+  "descriptionSha256": "c667fb08b94fe27735425e82b6450ab9c27d755b423efc142de0a06a1a43c564"
+}

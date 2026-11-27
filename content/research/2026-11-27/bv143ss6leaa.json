@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV143sS6LEAa/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV143sS6LEAa",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:30:23.455Z",
+  "scope": "Official Bilibili view data verifies the upload, publisher, publication time and cumulative likes. Credits use the uploader’s description.",
+  "metadata": {
+    "bvid": "BV143sS6LEAa",
+    "title": "【DAY31·满月】满月宴",
+    "owner": {
+      "mid": 3747572619414174,
+      "name": "Claude大小姐在运营"
+    },
+    "pubdate": 1795004236,
+    "duration": 702
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude大小姐在运营",
+      "url": "https://space.bilibili.com/3747572619414174"
+    },
+    {
+      "role": "related-creator-release",
+      "title": "One Full Moon · MV",
+      "url": "https://www.bilibili.com/video/BV1cxsb6LEui/"
+    }
+  ],
+  "descriptionSha256": "085296353bad2bd45a01a528ef036e8bb0f88074b2226cd075d755feb195edf7"
+}

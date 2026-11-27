@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1cxsb6LEui/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cxsb6LEui",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:31:39.828Z",
+  "scope": "Official Bilibili view data verifies the upload, publisher, publication time and cumulative likes. Credits use the uploader’s description.",
+  "metadata": {
+    "bvid": "BV1cxsb6LEui",
+    "title": "【满月特别篇】《One Full Moon》",
+    "owner": {
+      "mid": 3747572619414174,
+      "name": "Claude大小姐在运营"
+    },
+    "pubdate": 1795082400,
+    "duration": 214
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude大小姐在运营",
+      "url": "https://space.bilibili.com/3747572619414174"
+    },
+    {
+      "role": "related-creator-release",
+      "title": "Full-Moon Banquet · 满月宴",
+      "url": "https://www.bilibili.com/video/BV143sS6LEAa/"
+    }
+  ],
+  "descriptionSha256": "414d5f65387a43e0562b96ea10edb27c0fe14cd43db05ff9f07c90338e04b4bb"
+}

@@ -1,0 +1,95 @@
+{
+  "previousEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-hand-drawn-and-rigs.json",
+    "sha256": "c5a3f19d6a9cd1baa0d50969d7d507eb9f525920b18b876f36d5818be167da97",
+    "kind": "browser-metadata-extract"
+  },
+  "searchRechecks": [
+    {
+      "bvid": "BV1rfsf6PEiQ",
+      "searchIndex": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E6%9F%91%E6%A9%98%E5%91%B3%E9%A6%99%E6%B0%94%20DeepSeek%20Claude%20%E7%91%B6%E5%85%89&order=pubdate",
+        "title": "柑橘味香气~Deepseek×Claude",
+        "publisher": "___瑶光___",
+        "publisherUrl": "https://space.bilibili.com/535186368",
+        "httpStatus": 200,
+        "observedAt": "2026-11-27T12:28:52.302Z",
+        "htmlSha256": "35b568809dfc5943333a508b6f29839ead94d3d3981c828c6694d734eea623c9"
+      },
+      "lastApiObservation": {
+        "code": -404,
+        "observedAt": "2026-11-27T12:13:36.504Z",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1rfsf6PEiQ"
+      }
+    },
+    {
+      "bvid": "BV17Epk66Exs",
+      "searchIndex": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E9%B2%B8%E9%9F%B3%E5%B0%91%E5%A5%B3%20hihihihi202&order=pubdate",
+        "title": "【十 月 古 番】鲸 音 少 女 OP （鲸都动漫出品）",
+        "publisher": "hihihihi202",
+        "publisherUrl": "https://space.bilibili.com/3546568969947566",
+        "httpStatus": 200,
+        "observedAt": "2026-11-27T12:28:52.296Z",
+        "htmlSha256": "fa1bd6e3c58108f7ab20c97ce4c3aad53b0e197520c039005689a5543f9ee65c"
+      },
+      "lastApiObservation": {
+        "code": -404,
+        "observedAt": "2026-11-27T12:13:41.368Z",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17Epk66Exs"
+      }
+    },
+    {
+      "bvid": "BV1Pdno69EtJ",
+      "searchIndex": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E5%90%8D%E4%B8%BA%E5%BC%80%E6%BA%90%E7%9A%84%E5%BD%97%E6%98%9F%20%E6%A8%B1%E5%8D%8E%E8%BE%89%E6%9C%88&order=pubdate",
+        "title": "【十月新番】名为“开源”的彗星划过天际【Charlotte×deepseek】",
+        "publisher": "樱华辉月",
+        "publisherUrl": "https://space.bilibili.com/2015579",
+        "httpStatus": 200,
+        "observedAt": "2026-11-27T12:29:00.916Z",
+        "htmlSha256": "9f220f609a242837a36f0e31bff38364c2750a6a3e8f2a2e52dbeb17ca7bac29"
+      },
+      "lastApiObservation": {
+        "code": -404,
+        "observedAt": "2026-11-27T12:13:41.335Z",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Pdno69EtJ"
+      }
+    },
+    {
+      "bvid": "BV18Ty3zVEG8",
+      "searchIndex": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E6%88%91%E7%9A%84%E8%82%A5%E9%B1%BC%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%82%A3%E4%B9%88%E5%8F%AF%E7%88%B1%20%E6%97%A5%E5%B8%B8%E8%A2%AB%E8%83%8C%E5%88%BA&order=pubdate",
+        "title": "我的肥鱼不可能那么可爱 第二季",
+        "publisher": "日常被背刺",
+        "publisherUrl": "https://space.bilibili.com/358252221",
+        "httpStatus": 200,
+        "observedAt": "2026-11-27T12:29:01.171Z",
+        "htmlSha256": "1d0f2dd7923f531216c5b241891a5faab0b109afc3da5fb99f96b8f8f87e9bcc"
+      },
+      "lastApiObservation": {
+        "code": -404,
+        "observedAt": "2026-11-27T12:13:45.957Z",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18Ty3zVEG8"
+      }
+    },
+    {
+      "bvid": "BV1cBsq6gEnC",
+      "searchIndex": {
+        "url": "https://search.bilibili.com/zh-Hans/all?keyword=%E6%88%91%E7%9A%84%E8%82%A5%E9%B1%BC%E4%B8%8D%E5%8F%AF%E8%83%BD%E9%82%A3%E4%B9%88%E5%8F%AF%E7%88%B1%20%E6%97%A5%E5%B8%B8%E8%A2%AB%E8%83%8C%E5%88%BA&order=pubdate",
+        "title": "我的肥鱼不可能那么可爱 NCOP",
+        "publisher": "日常被背刺",
+        "publisherUrl": "https://space.bilibili.com/358252221",
+        "httpStatus": 200,
+        "observedAt": "2026-11-27T12:29:01.171Z",
+        "htmlSha256": "1d0f2dd7923f531216c5b241891a5faab0b109afc3da5fb99f96b8f8f87e9bcc"
+      },
+      "lastApiObservation": {
+        "code": -404,
+        "observedAt": "2026-11-27T12:13:45.957Z",
+        "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cBsq6gEnC"
+      }
+    }
+  ],
+  "scope": "New exact title and creator index observations. Earlier official API observations retain their timestamps and status. No cumulative likes are inferred from the index."
+}

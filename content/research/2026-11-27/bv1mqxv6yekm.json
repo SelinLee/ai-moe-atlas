@@ -1,0 +1,61 @@
+{
+  "url": "https://www.bilibili.com/video/BV1mQxv6yEKM/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mQxv6yEKM",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:31:41.393Z",
+  "scope": "Official Bilibili view data verifies the upload, publisher, publication time and cumulative likes. Credits use the uploader’s description.",
+  "metadata": {
+    "bvid": "BV1mQxv6yEKM",
+    "title": "【DAY11-12】艾瑟尔加德·第2回",
+    "owner": {
+      "mid": 3747572619414174,
+      "name": "Claude大小姐在运营"
+    },
+    "pubdate": 1793354400,
+    "duration": 1054
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude大小姐在运营",
+      "url": "https://space.bilibili.com/3747572619414174"
+    },
+    {
+      "role": "related-creator-release",
+      "title": "艾瑟尔加德 · 0",
+      "url": "https://www.bilibili.com/video/BV18NHM6tENq/"
+    },
+    {
+      "role": "related-creator-release",
+      "title": "艾瑟尔加德 · 1",
+      "url": "https://www.bilibili.com/video/BV1KHxT6aEdk/"
+    },
+    {
+      "role": "related-creator-release",
+      "title": "艾瑟尔加德 · 1.1",
+      "url": "https://www.bilibili.com/video/BV1Mpxu6zEnA/"
+    },
+    {
+      "role": "related-creator-release",
+      "title": "艾瑟尔加德 · 3",
+      "url": "https://www.bilibili.com/video/BV1NN4A6DEzq/"
+    },
+    {
+      "role": "related-creator-release",
+      "title": "艾瑟尔加德 · 4",
+      "url": "https://www.bilibili.com/video/BV15tWt6wEXr/"
+    },
+    {
+      "role": "related-creator-release",
+      "title": "艾瑟尔加德 · 5",
+      "url": "https://www.bilibili.com/video/BV1oEsp6REfQ/"
+    },
+    {
+      "role": "related-creator-release",
+      "title": "艾瑟尔加德 · 6",
+      "url": "https://www.bilibili.com/video/BV1MJyLzDEnc/"
+    }
+  ],
+  "descriptionSha256": "def551faffd92f0e2eb4c5aeac01adab6722739e993867a3461cd70deb012549"
+}

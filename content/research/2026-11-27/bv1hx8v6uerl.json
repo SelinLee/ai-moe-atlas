@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1HX8v6UErL/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HX8v6UErL",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:30:14.038Z",
+  "scope": "Official Bilibili view data verifies the upload, publisher, publication time and cumulative likes. Credits use the uploader’s description.",
+  "metadata": {
+    "bvid": "BV1HX8v6UErL",
+    "title": "那你去找豆包啊！",
+    "owner": {
+      "mid": 13787349,
+      "name": "彼岸花Channel"
+    },
+    "pubdate": 1787800800,
+    "duration": 61
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "彼岸花Channel",
+      "url": "https://space.bilibili.com/13787349"
+    }
+  ],
+  "descriptionSha256": "99df20111e8e37c52ed1ff0e35fd9836a179530a354f16511d65401f4e721a9d"
+}

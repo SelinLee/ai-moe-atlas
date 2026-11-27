@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1oYnB6dEUa/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oYnB6dEUa",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T12:30:13.832Z",
+  "scope": "Official Bilibili view data verifies the upload, publisher, publication time and cumulative likes. Credits use the uploader’s description.",
+  "metadata": {
+    "bvid": "BV1oYnB6dEUa",
+    "title": "为了拯救濒临倒闭的中转站，9位AI娘决定出道成为偶像【AI偶像企划LoveAive!】",
+    "owner": {
+      "mid": 14659639,
+      "name": "大家的然然捏"
+    },
+    "pubdate": 1792589369,
+    "duration": 94
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "大家的然然捏",
+      "url": "https://space.bilibili.com/14659639"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe · 角色原画",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "production-reference",
+      "title": "黑猫勇者 · 制作参考",
+      "url": "https://www.bilibili.com/video/BV1eaaS6jETy/"
+    }
+  ],
+  "descriptionSha256": "141728007660e480451faaab05dcd58950622c394971f2d26590367d1ef9b6ef"
+}
