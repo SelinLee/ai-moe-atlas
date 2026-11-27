@@ -26,7 +26,7 @@
 [角色三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/) · [涂鸦头像](docs/DOODLE.zh.md) · [涂鸦表情包](https://selinlee.github.io/ai-moe-atlas/zh/emotes/) · [AI 视频二创 · 抖音主页](https://www.douyin.com/user/MS4wLjABAAAAa3lc_FI5WmPENMLwdN7Ij4r5iNxAM09Ny0rPcB2Ow4E) · [AI 视频二创 · B 站主页](https://space.bilibili.com/3706970263521942)
 
 <!-- category-picks:characters -->
-**[🎨 角色图鉴](#characters)** · 91 个词条\
+**[🎨 角色图鉴](#characters)** · 94 个词条\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/) · [Gemini Pro · 原作立绘与表情](https://selinlee.github.io/ai-moe-atlas/zh/characters/qinv-gemini-pro/) · [Cohere · 校园版](https://selinlee.github.io/ai-moe-atlas/zh/characters/school-op-cohere/)
 
 <!-- category-picks:personas -->
@@ -34,7 +34,7 @@
 [GLM 狐娘 · ZCode 版](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md) · [Claude 娘「小克」· deslop 写作卡](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md) · [DeepSeek 大肥鱼 · QQ 聊天版](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md)
 
 <!-- category-picks:songs -->
-**[🎵 歌曲](#songs)** · 161 首曲目\
+**[🎵 歌曲](#songs)** · 163 首曲目\
 [人是猫 · 大肥鱼翻唱](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · 动画 MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [白饭与梦 · 大肥鱼 × Updream](https://www.bilibili.com/video/BV1kxWV6KE6o/)
 
 <!-- category-picks:stickers -->
@@ -50,15 +50,15 @@
 [AI GIRLS · 初见 · 原作漫画](https://www.bilibili.com/video/BV15Npa6zE44/) · [《AI GIRLS》日常篇 · 联系方式原作](https://www.bilibili.com/video/BV1YSpu6gEh1/) · [AI GIRLS · 你刚刚不是还在这里吗？！](https://www.bilibili.com/video/BV15RybzNEVb/)
 
 <!-- category-picks:animations -->
-**[🎬 动画与视频二创](#animations)** · 1097 条记录\
+**[🎬 动画与视频二创](#animations)** · 1108 条记录\
 [如果聊天窗口就是她的整个世界](https://www.bilibili.com/video/BV1xCai6aE9g/) · [败犬 AI 太多了！· 正式 PV](https://www.bilibili.com/video/BV1Nfag6xEHQ/) · [甶丶 · MiMo 娘角色 PV](https://www.bilibili.com/video/BV1eRaN6XEEr/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 桌宠与交互项目](#desktop-pets)** · 171 个项目\
+**[🐾 桌宠与交互项目](#desktop-pets)** · 174 个项目\
 [CrossPet · 跨 AI 桌宠](https://github.com/lokicorvus/crosspet/blob/8954eb8f7f69fcfb8d35e9deceeb78e10c804402/README.md) · [Copiwaifu · Live2D 编程桌宠](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [Gemini 娘双形态桌宠](https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/README.md)
 
 <!-- category-picks:sources -->
-**[📚 作者作品与出处](#sources)** · 218 条来源\
+**[📚 作者作品与出处](#sources)** · 225 条来源\
 [上善无形 · 鲸鱼娘原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini 家族合照](https://www.bilibili.com/opus/1273349110528737288) · [Gemini Pro · 三张原作](https://github.com/lmy414/ai-girl-stickers/issues/118)
 
 <a id="references"></a>
@@ -73,13 +73,15 @@ SelinLee 基于社区已有角色形象，用 AI 制作三视图、参考图、�
 
 ### 🎨 角色图鉴
 
-按 47 个 AI 产品和模型系列查角色、作者和原作。 [查看 Muse 娘词条](https://selinlee.github.io/ai-moe-atlas/zh/characters/shizhi-muse/) · [Mistral 法棍猫娘](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-mistral/) · [OpenCode 拟人词条](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-opencode/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-mimo/)
+按 49 个 AI 产品和模型系列查角色、作者和原作。 [查看 Muse 娘词条](https://selinlee.github.io/ai-moe-atlas/zh/characters/shizhi-muse/) · [Mistral 法棍猫娘](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-mistral/) · [OpenCode 拟人词条](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-opencode/) · [MiMo 娘 · 甶丶](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-mimo/)
 
 新增词条 · [小克 Coco](https://selinlee.github.io/ai-moe-atlas/zh/characters/ninon-coco/) · [Gemini Pro](https://selinlee.github.io/ai-moe-atlas/zh/characters/qinv-gemini-pro/) · [MiniMax 太空兔](https://selinlee.github.io/ai-moe-atlas/zh/characters/shiho320-minimax-space-bunny/) · [混元娘](https://selinlee.github.io/ai-moe-atlas/zh/characters/aliang-hunyuan/) · [LongCat 龙猫](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-longcat/) · [百度文心](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-ernie/)
 
 本轮新增角色 · [千问校园立绘 · MX1951](https://selinlee.github.io/ai-moe-atlas/zh/characters/mx1951-qwen/) · [NovelAI 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-novelai/) · [ZCode 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-zcode/) · [Hugging Face 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-huggingface/) · [Perplexity 娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-perplexity/) · [腾讯混元娘 · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-hunyuan/)
 
 Ninon 的 Claude 娘设定 · [女仆版](https://selinlee.github.io/ai-moe-atlas/zh/characters/ninon-claude-maid/) · [橘白礼服版](https://selinlee.github.io/ai-moe-atlas/zh/characters/ninon-claude-orange-dress/)。礼服原型、作者的独立壁纸与派生设定图各有出处。 [原型出处](content/research/2026-11-23/claude-orange-dress-source-chain.json)
+
+甶丶发布的 MAI 娘、MiniMax 章鱼娘和 WorkBuddy 娘分别有奇幻与科技两套造型。39 张原图的 SHA-256 已核对，词条链接作者固定版本。 [MAI 娘](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-mai-dual-forms/) · [MiniMax 娘](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-minimax-dual-forms/) · [WorkBuddy 娘](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-workbuddy-dual-forms/)
 
 甶丶发布的 Nemotron 娘有奇幻和科幻两套设定，各含 Nano、Super、Ultra 三档立绘。固定版本的 13 张原图均已核对 SHA-256。图鉴提供作者原作入口。 [查看 Nemotron 娘](https://selinlee.github.io/ai-moe-atlas/zh/characters/fuh-nemotron-dual-forms/) · [原图与授权记录](content/research/2026-11-27/fuh-nemotron-dual-forms-original.json)
 
@@ -149,6 +151,8 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 [打开完整歌曲榜与全部版本](https://selinlee.github.io/ai-moe-atlas/zh/songs/) · [点赞观测证据](content/research/2026-11-27/bilibili-cumulative-likes-november-27-catalog-recheck.json)
 
 <!-- song-ranking:end -->
+
+新增两首曲目的原作入口和二创版本。 [《兔子洞》](https://selinlee.github.io/ai-moe-atlas/zh/songs/#rabbit-hole-deco27) · [《说谎的马卡龙》](https://selinlee.github.io/ai-moe-atlas/zh/songs/#usotsuki-macaron)
 
 [原曲出处](content/research/2026-11-20/gemini-mv-original-music.json) · [原曲与版本核对](content/research/2026-11-20/song-originals-and-fan-versions.json) · [片头曲与二创用曲核对](content/research/2026-11-20/character-songs-and-opening-credits.json) · [舞蹈与歌词 MV 用曲核对](content/research/2026-11-20/dance-and-lyric-mv-song-credits.json) · [《温室效应》原曲与 MV](content/research/2026-11-21/greenhouse-effect-original-and-fan-use.json) · [原曲与二创核对](content/research/2026-11-21/four-song-originals-and-fan-versions.json) · [豆包翻唱与片尾曲出处](content/research/2026-11-21/doubao-covers-and-ending-song-sources.json) · [千问、MiMo 与舞蹈用曲](content/research/2026-11-21/qwen-mimo-and-dance-track-sources.json) · [《APT.》与《删了一百遍》的用曲出处](content/research/2026-11-22/mimo-batch-mv-track-sources.json) · [翻唱与游戏原曲出处](content/research/2026-11-22/november-cover-song-originals-and-versions.json) · [Charlotte、bloom 与 unhappy 的用曲出处](content/research/2026-11-22/november-charlotte-bloom-and-remix-evidence.json) · [周刊和原声用曲核对](content/research/2026-11-22/november-mili-and-game-soundtrack-verification.json) · [《烂奇迹》原曲与翻唱核对](content/research/2026-11-23/rotting-miracle-original-and-fat-fish-cover.json) · [三首原曲与二创用曲](content/research/2026-11-23/november-renai-numb-and-dragon-maid-originals.json) · [FIRESTARTER、Bad Apple!! 与翻唱出处](content/research/2026-11-23/november-firestarter-bad-apple-and-cover-attribution.json) · [《Trouble Maker》与《朋友的酒》原曲](content/research/2026-11-23/november-trouble-maker-and-friends-wine-originals.json)
 
@@ -243,11 +247,13 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 
 <!-- animation-ranking:end -->
 
+新增 11 条带官方累计点赞的二创，包括甶丶的 MOSS 娘短片、MiniMax 小章鱼动画及大肥鱼同人游戏演示。复查的 13 条候选仍缺点赞，其中 5 条再次见于 B 站搜索。 [本批点赞快照](content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json) · [复查范围](content/research/2026-11-27/bilibili-november-27-moss-and-short-films-scope.json)
+
 新增 23 条二创并记录 B 站官方累计点赞，包括 Gemini 娘主题曲、豆包循环动画和 GLM 狐狸娘版《人是猫》。 [本批点赞快照](content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json) · [采集范围](content/research/2026-11-27/bilibili-november-27-gemini-doubao-and-glm-scope.json)
 
 11 月 27 日晚复查当时全部 1,074 条已入榜二创。1,064 条取得新的累计点赞，10 条保留上次有效观测。13 条待核候选均未取得点赞。 [本次复查范围](content/research/2026-11-27/bilibili-november-27-full-catalog-recheck-scope.json)
 
-为 4 条待核候选补上标题所指的官方曲目发行页。候选视频的实际音轨仍待确认。 [待核候选与曲目出处](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#pending-animation-evidence)
+目前有 7 条待核候选附所指动画的官方发行页。本批补上《街角魔族》《我的脑内恋碍选项》和《Charlotte》。候选视频的实际音轨仍待确认。 [待核候选与曲目出处](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#pending-animation-evidence)
 
 新增 27 条带 B 站官方累计点赞的作品，包括 Claude 小剧场、互动视频和翻唱。13 条待核候选保留各自上次查询记录。 [本批点赞快照](content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json) · [采集范围](content/research/2026-11-27/bilibili-november-27-claude-theater-and-cover-scope.json)
 
@@ -286,7 +292,9 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 | 9 | [Claude Desktop Buddy · 官方硬件示例](https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/README.md) | [2,727](https://github.com/anthropics/claude-desktop-buddy) |
 | 10 | [Clawdmeter · Clawd 硬件用量桌宠](https://github.com/HermannBjorgvin/Clawdmeter/blob/0332f049a57096a616ad7fcc9f22cdcc27d80cd3/README.md) | [2,373](https://github.com/HermannBjorgvin/Clawdmeter) |
 
-[在线浏览全部桌宠与交互项目](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-27/github-interactive-stars-november-27-pixel-pets.json)
+[在线浏览全部桌宠与交互项目](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-27/github-interactive-stars-november-27-whale-pets.json)
+
+新增三个桌宠项目。AAAAGENT 的三张 PNG 和 44 层 PSD 与作者清单一致，Live2D 绑定仍在制作。Codex 龙娘开屏词条已补上合并的 macOS 移植记录和演示。 [AAAAGENT 拆层图](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=sources#phoiex-aaaagent-whale-art) · [DSH Fish Buddy](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#pcyblurf-dsh-fish-buddy) · [Codex 龙娘开屏](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#yushua-dragon-codex-boot)
 
 新增 7 个桌宠及硬件项目。企鹅桌宠 AI Pet 的署名可追溯到 Renato Augusto 的 Clauddy。Kimi 桌宠演示也已连到 ZipZipPipe 的原角色。 [Clauddy 原作](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#renatoaug-clauddy) · [企鹅移植版](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#thgoas-ai-pet) · [Kimi 桌宠与原角色](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#ancient-kimi-work-and-desktop-pet)
 

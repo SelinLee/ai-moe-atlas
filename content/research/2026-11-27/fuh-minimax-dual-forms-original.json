@@ -1,0 +1,206 @@
+{
+  "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/%E8%AE%BE%E5%AE%9A.md",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:49:25.381Z",
+  "scope": "Pinned creator setting names the artist, license, visual designs and referenced brand elements. Thirteen original files were retained privately and checked against Git blob and SHA-256.",
+  "attribution": [
+    {
+      "name": "甶丶",
+      "url": "https://space.bilibili.com/1758596086",
+      "role": "original-character",
+      "publication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/%E8%AE%BE%E5%AE%9A.md"
+    }
+  ],
+  "repository": "fuzhu-ai-chan/ai-chan-designs",
+  "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+  "firstRelease": "2026-11-26",
+  "firstReleaseVersion": "v1.11",
+  "pinnedDocument": {
+    "path": "角色/minimax/设定.md",
+    "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/%E8%AE%BE%E5%AE%9A.md",
+    "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/%E8%AE%BE%E5%AE%9A.md",
+    "sourceSha256": "942f06b412964120cdd2e4d17665174d52ef147a24a4d15c01b2f6a4208d6405",
+    "gitBlobSha": "aa281eb196584330bb96a4fc1968432999ff96fc",
+    "bytes": 4848,
+    "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+    "accessedAt": "2026-11-27T10:49:25.381Z"
+  },
+  "license": "CC BY-NC-SA 4.0",
+  "brandElements": {
+    "zh": "设定引用 MiniMax 标志和桌面伴宠图标。",
+    "en": "The design cites the MiniMax mark and desktop pet icon.",
+    "ja": "設定には MiniMax のマークとデスクトップペットのアイコンを参照。"
+  },
+  "files": [
+    {
+      "path": "角色/minimax/设定.md",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/%E8%AE%BE%E5%AE%9A.md",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/%E8%AE%BE%E5%AE%9A.md",
+      "sourceSha256": "942f06b412964120cdd2e4d17665174d52ef147a24a4d15c01b2f6a4208d6405",
+      "gitBlobSha": "aa281eb196584330bb96a4fc1968432999ff96fc",
+      "bytes": 4848,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:25.381Z"
+    },
+    {
+      "path": "版权与授权.md",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+      "sourceSha256": "50b17ef47d1ffb316624abc5b8972314281dad431631f89b1bcf00ec91d580eb",
+      "gitBlobSha": "99c0cdd2dea890a599b933752dbc43b904e0aaf8",
+      "bytes": 3790,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:04.563Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/LICENSE",
+      "sourceSha256": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11",
+      "gitBlobSha": "baee873b679e36a4123c83b8a29e0fb17fad14eb",
+      "bytes": 19018,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:04.255Z"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/CHANGELOG.md",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/CHANGELOG.md",
+      "sourceSha256": "fc20c5c10297af837f64e5c0818abcf60c4f21502b1afea7cab58fca21ec7ea6",
+      "gitBlobSha": "80cacf5d2b4dbd292a9b10402b48462525256492",
+      "bytes": 26059,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:04.896Z"
+    },
+    {
+      "path": "角色/minimax/01_立绘/minimax a 中.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/01_%E7%AB%8B%E7%BB%98/minimax%20a%20%E4%B8%AD.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/01_%E7%AB%8B%E7%BB%98/minimax%20a%20%E4%B8%AD.png",
+      "sourceSha256": "135642a973c797cad2990199ccefcc584257e2d165a81b0618582666b6a83ab0",
+      "gitBlobSha": "c910512b039290f9fc4d6cc93f39fc474ec4cc39",
+      "bytes": 1567552,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:16.046Z"
+    },
+    {
+      "path": "角色/minimax/01_立绘/minimax a 大.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/01_%E7%AB%8B%E7%BB%98/minimax%20a%20%E5%A4%A7.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/01_%E7%AB%8B%E7%BB%98/minimax%20a%20%E5%A4%A7.png",
+      "sourceSha256": "2677d2f1791317695ece0f81839410c8931b5f53c5b97ea9b4d8d7ee3ed62d34",
+      "gitBlobSha": "e35545772e33be8405391d06ff91fbccc00665ff",
+      "bytes": 1931721,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:16.889Z"
+    },
+    {
+      "path": "角色/minimax/01_立绘/minimax a 小.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/01_%E7%AB%8B%E7%BB%98/minimax%20a%20%E5%B0%8F.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/01_%E7%AB%8B%E7%BB%98/minimax%20a%20%E5%B0%8F.png",
+      "sourceSha256": "c6badea373d2aeed06864adbc99f0b1a09cc0c15728040ae4535483458a5b6c2",
+      "gitBlobSha": "83dc80f61a34f528903a8d6654b7f64b36e353d1",
+      "bytes": 1148166,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:17.600Z"
+    },
+    {
+      "path": "角色/minimax/01_立绘/minimax b 中.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/01_%E7%AB%8B%E7%BB%98/minimax%20b%20%E4%B8%AD.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/01_%E7%AB%8B%E7%BB%98/minimax%20b%20%E4%B8%AD.png",
+      "sourceSha256": "659a33f34e24431c4e3061f89ee336a669ffb2c934e1de9c49e28f158f07a896",
+      "gitBlobSha": "3f23dac606065e653947e0de265b2a9c8e2b78c9",
+      "bytes": 1643755,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:18.260Z"
+    },
+    {
+      "path": "角色/minimax/01_立绘/minimax b 大.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/01_%E7%AB%8B%E7%BB%98/minimax%20b%20%E5%A4%A7.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/01_%E7%AB%8B%E7%BB%98/minimax%20b%20%E5%A4%A7.png",
+      "sourceSha256": "47b51fb5388b8f4f8eb1b4b3d95430aedf684535c12e6a621672f7095341961b",
+      "gitBlobSha": "c48fbf77276cadefe0401184c3324ed831dd241c",
+      "bytes": 1842857,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:18.887Z"
+    },
+    {
+      "path": "角色/minimax/01_立绘/minimax b 小.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/01_%E7%AB%8B%E7%BB%98/minimax%20b%20%E5%B0%8F.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/01_%E7%AB%8B%E7%BB%98/minimax%20b%20%E5%B0%8F.png",
+      "sourceSha256": "76cf37b3c8737374e5c60f2ccecd69dfe361beaa2bc16e84b665919b180f479c",
+      "gitBlobSha": "59188ec379c36fc555179ea146e3230abb367f57",
+      "bytes": 1081736,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:19.462Z"
+    },
+    {
+      "path": "角色/minimax/02_三视图/minimax 三视图 奇幻.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/02_%E4%B8%89%E8%A7%86%E5%9B%BE/minimax%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E5%A5%87%E5%B9%BB.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/02_%E4%B8%89%E8%A7%86%E5%9B%BE/minimax%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E5%A5%87%E5%B9%BB.png",
+      "sourceSha256": "e8684a5478a74a7e52119ae9d90749bc04a7b2c21ef249a140031ea3a0f244c3",
+      "gitBlobSha": "6dc8d57865feae5277b43a74a31a16c90a974ed1",
+      "bytes": 2110250,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:20.232Z"
+    },
+    {
+      "path": "角色/minimax/02_三视图/minimax 三视图 科技.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/02_%E4%B8%89%E8%A7%86%E5%9B%BE/minimax%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E7%A7%91%E6%8A%80.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/02_%E4%B8%89%E8%A7%86%E5%9B%BE/minimax%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E7%A7%91%E6%8A%80.png",
+      "sourceSha256": "da30e739b49139e3cc76384ff675d694e0cc9bb43911aee0c2a2c757a0aa363c",
+      "gitBlobSha": "ee3cccf078774ac7b31d3228d154d05ca0d2a50f",
+      "bytes": 2188987,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:21.075Z"
+    },
+    {
+      "path": "角色/minimax/03_补充设定/minimax 补充设定.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/03_%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A/minimax%20%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/03_%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A/minimax%20%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A.png",
+      "sourceSha256": "78540555a60084ea50ca13865a94919ce808414889fc6ff65c42f4052de0899a",
+      "gitBlobSha": "28c262690a909d5fbe3c5090a29cfa9cc4327571",
+      "bytes": 1718351,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:21.972Z"
+    },
+    {
+      "path": "角色/minimax/04_Q版/minimax Q版 a.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/04_Q%E7%89%88/minimax%20Q%E7%89%88%20a.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/04_Q%E7%89%88/minimax%20Q%E7%89%88%20a.png",
+      "sourceSha256": "9793a8ad695cc9b3a54b4dda7db7bdf6f25b35b1f56c4fb93fb45140d84bab26",
+      "gitBlobSha": "562b19a2125b266e61de1bdfe9a795d6a250c394",
+      "bytes": 1376783,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:22.849Z"
+    },
+    {
+      "path": "角色/minimax/04_Q版/minimax Q版 b.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/04_Q%E7%89%88/minimax%20Q%E7%89%88%20b.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/04_Q%E7%89%88/minimax%20Q%E7%89%88%20b.png",
+      "sourceSha256": "706c3f9e82ce1e0b38e08b28da31a6b8a61cba49d68315a790de4b400e1f4c35",
+      "gitBlobSha": "ee1f987a5deacf40ff6d1058adcea94e5145e061",
+      "bytes": 1424983,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:23.539Z"
+    },
+    {
+      "path": "角色/minimax/05_头像/minimax 头像 a.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/05_%E5%A4%B4%E5%83%8F/minimax%20%E5%A4%B4%E5%83%8F%20a.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/05_%E5%A4%B4%E5%83%8F/minimax%20%E5%A4%B4%E5%83%8F%20a.png",
+      "sourceSha256": "e6ae5a71966645e4ec53540979ffc2c32f3fa35458c8bf3a2fca003400e0af36",
+      "gitBlobSha": "c180d14e9d60faffb3a1c05d26a3844b382a3d98",
+      "bytes": 1800109,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:24.385Z"
+    },
+    {
+      "path": "角色/minimax/05_头像/minimax 头像 b.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/05_%E5%A4%B4%E5%83%8F/minimax%20%E5%A4%B4%E5%83%8F%20b.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/05_%E5%A4%B4%E5%83%8F/minimax%20%E5%A4%B4%E5%83%8F%20b.png",
+      "sourceSha256": "42b74c080c23ec395727aea1b42706b3bf380d74a9afd530f0232048ad841669",
+      "gitBlobSha": "42337d321ee6eb4a3f83e7fd6a2ddfd8693972f9",
+      "bytes": 1654014,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:25.037Z"
+    }
+  ]
+}

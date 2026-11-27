@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1x5HY6tEkY/",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:49:53.905Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1x5HY6tEkY",
+  "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented.",
+  "metadata": {
+    "bvid": "BV1x5HY6tEkY",
+    "title": "[同人游戏发布]在末日和大肥鱼等AI生存下去！",
+    "owner": {
+      "name": "XT小添",
+      "mid": 429154630
+    },
+    "pubdate": 1791012402,
+    "duration": 120
+  },
+  "descriptionSha256": "1ca557e742cc51dc391f44960b586af605100b162e55f9853d616c47e2ddd400",
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://www.pixiv.net/users/18604994"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Qcpq62EH4/",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:49:49.317Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Qcpq62EH4",
+  "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented.",
+  "metadata": {
+    "bvid": "BV1Qcpq62EH4",
+    "title": "【AI视频实验】《鲸鱼洞》——DeepSeek娘化×MiniMax H3动画PV测试（《兔子洞》mmd二创）",
+    "owner": {
+      "name": "毛毛结香1",
+      "mid": 1797987480
+    },
+    "pubdate": 1791900089,
+    "duration": 337
+  },
+  "descriptionSha256": "a80e83db03eaf869aa7c7e5103fc072d77752cce829408f8d451b1d16940f76d",
+  "sourceLinks": [
+    {
+      "role": "song-author-release",
+      "title": "DECO*27 · ラビットホール",
+      "url": "https://www.youtube.com/watch?v=eSW2LVbPThw"
+    },
+    {
+      "role": "motion-author-publication",
+      "title": "mobiusP · ラビットホール",
+      "url": "https://bowlroll.net/file/304823"
+    },
+    {
+      "role": "uploader-cited-motion-camera",
+      "title": "ゆきねこ",
+      "url": "https://bowlroll.net/file/304854"
+    },
+    {
+      "role": "uploader-cited-stage",
+      "title": "NNGN",
+      "url": "https://bowlroll.net/file/294815"
+    },
+    {
+      "role": "uploader-cited-kit",
+      "title": "たらど",
+      "url": "https://bowlroll.net/file/319933"
+    }
+  ]
+}

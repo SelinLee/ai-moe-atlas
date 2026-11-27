@@ -8095,5 +8095,251 @@
         }
       }
     }
+  },
+  {
+    "characterId": "fuh-mai-dual-forms",
+    "reviewedAt": "2026-11-27",
+    "reviewBasis": "Pinned creator setting names the artist, license, visual designs and referenced brand elements. Thirteen original files were retained privately and checked against Git blob and SHA-256.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mai/%E8%AE%BE%E5%AE%9A.md"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用微软四色窗标。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites Microsoft’s four-pane mark. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には Microsoft の4分割の窓マークが登場。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用微软四色窗标。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites Microsoft’s four-pane mark. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には Microsoft の4分割の窓マークが登場。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用微软四色窗标。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites Microsoft’s four-pane mark. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には Microsoft の4分割の窓マークが登場。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用微软四色窗标。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites Microsoft’s four-pane mark. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には Microsoft の4分割の窓マークが登場。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用微软四色窗标。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites Microsoft’s four-pane mark. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には Microsoft の4分割の窓マークが登場。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用微软四色窗标。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites Microsoft’s four-pane mark. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には Microsoft の4分割の窓マークが登場。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用微软四色窗标。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites Microsoft’s four-pane mark. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には Microsoft の4分割の窓マークが登場。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用微软四色窗标。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites Microsoft’s four-pane mark. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には Microsoft の4分割の窓マークが登場。 図鑑は作者の原公開先にリンクします。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "fuh-minimax-dual-forms",
+    "reviewedAt": "2026-11-27",
+    "reviewBasis": "Pinned creator setting names the artist, license, visual designs and referenced brand elements. Thirteen original files were retained privately and checked against Git blob and SHA-256.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/%E8%AE%BE%E5%AE%9A.md"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 MiniMax 标志和桌面伴宠图标。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites the MiniMax mark and desktop pet icon. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には MiniMax のマークとデスクトップペットのアイコンを参照。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 MiniMax 标志和桌面伴宠图标。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites the MiniMax mark and desktop pet icon. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には MiniMax のマークとデスクトップペットのアイコンを参照。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 MiniMax 标志和桌面伴宠图标。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites the MiniMax mark and desktop pet icon. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には MiniMax のマークとデスクトップペットのアイコンを参照。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 MiniMax 标志和桌面伴宠图标。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites the MiniMax mark and desktop pet icon. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には MiniMax のマークとデスクトップペットのアイコンを参照。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 MiniMax 标志和桌面伴宠图标。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites the MiniMax mark and desktop pet icon. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には MiniMax のマークとデスクトップペットのアイコンを参照。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 MiniMax 标志和桌面伴宠图标。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites the MiniMax mark and desktop pet icon. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には MiniMax のマークとデスクトップペットのアイコンを参照。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 MiniMax 标志和桌面伴宠图标。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites the MiniMax mark and desktop pet icon. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には MiniMax のマークとデスクトップペットのアイコンを参照。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 MiniMax 标志和桌面伴宠图标。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites the MiniMax mark and desktop pet icon. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には MiniMax のマークとデスクトップペットのアイコンを参照。 図鑑は作者の原公開先にリンクします。"
+        }
+      }
+    }
+  },
+  {
+    "characterId": "fuh-workbuddy-dual-forms",
+    "reviewedAt": "2026-11-27",
+    "reviewBasis": "Pinned creator setting names the artist, license, visual designs and referenced brand elements. Thirteen original files were retained privately and checked against Git blob and SHA-256.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/%E8%AE%BE%E5%AE%9A.md"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 WorkBuddy 桌面图标的元素。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design incorporates elements from the WorkBuddy desktop icon. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には WorkBuddy デスクトップアイコンの要素を使用。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 WorkBuddy 桌面图标的元素。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design incorporates elements from the WorkBuddy desktop icon. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には WorkBuddy デスクトップアイコンの要素を使用。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 WorkBuddy 桌面图标的元素。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design incorporates elements from the WorkBuddy desktop icon. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には WorkBuddy デスクトップアイコンの要素を使用。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 WorkBuddy 桌面图标的元素。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design incorporates elements from the WorkBuddy desktop icon. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には WorkBuddy デスクトップアイコンの要素を使用。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 WorkBuddy 桌面图标的元素。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design incorporates elements from the WorkBuddy desktop icon. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には WorkBuddy デスクトップアイコンの要素を使用。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 WorkBuddy 桌面图标的元素。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design incorporates elements from the WorkBuddy desktop icon. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には WorkBuddy デスクトップアイコンの要素を使用。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 WorkBuddy 桌面图标的元素。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design incorporates elements from the WorkBuddy desktop icon. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には WorkBuddy デスクトップアイコンの要素を使用。 図鑑は作者の原公開先にリンクします。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 WorkBuddy 桌面图标的元素。 图鉴提供作者原作入口。",
+          "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design incorporates elements from the WorkBuddy desktop icon. The atlas links the creator’s release.",
+          "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には WorkBuddy デスクトップアイコンの要素を使用。 図鑑は作者の原公開先にリンクします。"
+        }
+      }
+    }
   }
 ]

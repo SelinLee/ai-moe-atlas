@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1whsY6tEP3/",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:49:46.249Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1whsY6tEP3",
+  "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented.",
+  "metadata": {
+    "bvid": "BV1whsY6tEP3",
+    "title": "【AI动画】鲸鲸万事屋 EP01｜打个响指叫出三只分身，结果越帮越乱",
+    "owner": {
+      "name": "多龙旗",
+      "mid": 7978788
+    },
+    "pubdate": 1795098700,
+    "duration": 95
+  },
+  "descriptionSha256": "b57a818b13fbdd5c1c453073263b39b531ad19f42063783cd7a6de8e3c225d69",
+  "sourceLinks": []
+}

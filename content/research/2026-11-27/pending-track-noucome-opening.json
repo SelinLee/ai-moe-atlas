@@ -1,0 +1,58 @@
+{
+  "url": "https://noucome.jp/goods/page-cd.html",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:50:27.540Z",
+  "scope": "The anime release page verifies the original opening. The candidate association is inferred from its retained title. The official video endpoint did not return video data, and the audio or exact recording remains unconfirmed.",
+  "officialRelease": {
+    "id": "noucome",
+    "url": "https://noucome.jp/goods/page-cd.html",
+    "finalUrl": "https://noucome.jp/goods/page-cd.html",
+    "title": "CD | グッズ情報 | アニメ『俺の脳内選択肢が、学園ラブコメを全力で邪魔している』公式サイト",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-27T10:50:27.540Z",
+    "htmlSha256": "0802d0567b5ee68ab118d0c71b0814500d4e5fb82c337caa659bc5bbdf5a06b2",
+    "textSha256": "0d1f6817f4c7672530a639280923c1aa776d988c9baeacf44f8ae8e043326856",
+    "matches": [
+      "俺の脳内選択肢が、学園ラブコメを全力で邪魔している",
+      "オープニングテーマ：アフィリア・サーガ「Ｓ・Ｍ・Ｌ☆」",
+      "アフィリア・サーガ",
+      "全国展開中のカフェ&レストラン「アフィリアグループ」の池袋店、上野店、六本木店、新宿店を代表するメンバーから構成された11人組の学院型ガールズ・ボーカルユニット。 萌え業界の2大メーカー志倉千代丸と桃井はるこによるダブルプロデュースに加え、つんくや大島こうすけなどからも楽曲提供を受ける。ラッキィ池田によるユニークな振り付けも特徴的。 9thシングル「SURVIVE!!」ではデイリーランキング1位、ウィークリーランキング9位を記録！",
+      "アフィリア・サーガ「S・M・L☆」",
+      "TVアニメ「俺の脳内選択肢が、学園ラブコメを全力で邪魔している」オリジナル・サウンドトラック"
+    ]
+  },
+  "secondaryRelease": {
+    "id": "noucome-publisher",
+    "url": "https://music.ani-tone.com/release/YZPB-5032/",
+    "finalUrl": "https://music.ani-tone.com/release/YZPB-5032/",
+    "title": "S・M・L☆ のうコメコラボ盤 – AniTone Music",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-27T10:50:28.163Z",
+    "htmlSha256": "187fe5b53397966a7cd42ca1b140ce5f6b0ccac45164659e99a41dfab3cd43d8",
+    "textSha256": "cda7107ae80515364c1b4aa6685e74a822182088b78d27c57f9d7f4888d90e81",
+    "matches": [
+      "S・M・L☆ のうコメコラボ盤",
+      "DVD付盤 TVアニメ 俺の脳内選択肢が、学園ラブコメを全力で邪魔している OP",
+      "S・M・L☆ のうコメコラボ盤",
+      "アフィリア・サーガ",
+      "アフィリア・サーガ初のアニメオープニングテーマ！",
+      "1.S・M・L☆（作詞：桃井はるこ 作曲：濱田幹浩 編曲：MACARONI☆）",
+      "3.S・M・L☆ （off Vocal）（作詞：桃井はるこ 作曲：濱田幹浩 編曲：MACARONI☆）",
+      "5.S・M・L☆ （TV size ver.）（作詞：桃井はるこ 作曲：濱田幹浩 編曲：MACARONI☆）",
+      "S・M・L☆ / アフィリア・サーガ",
+      "S・M・L☆ ソロ盤 アヤミ ver. / アフィリア・サーガ"
+    ]
+  },
+  "candidate": {
+    "bvid": "BV1nvJo65E3o",
+    "title": "【AI二创】我的AI恋碍选项の正式OP！！！",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nvJo65E3o",
+    "observedAt": "2026-11-27T10:50:32.987Z",
+    "code": -404
+  },
+  "candidateEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json",
+    "sha256": "eaf566a8ae5c6a1285d2c5ee8908613da57e332c4b891f7f229da8ce864cb856",
+    "kind": "browser-metadata-extract"
+  }
+}

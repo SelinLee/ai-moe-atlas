@@ -2612,6 +2612,12 @@
         "url": "https://www.bilibili.com/video/BV1LvxW6oEMo/",
         "publisher": "甶丶",
         "reviewedAt": "2026-11-27"
+      },
+      {
+        "title": "我桌上养了只 AI 娘，她画的东西不敢让我看",
+        "url": "https://www.bilibili.com/video/BV1HYx86pEyM/",
+        "publisher": "甶丶",
+        "reviewedAt": "2026-11-27"
       }
     ]
   },
@@ -5706,6 +5712,174 @@
       "zh": "作者对固定版本的角色设计与立绘注明 CC BY-NC-SA 4.0。图中 NVIDIA 标志适用 NVIDIA 品牌指南。图鉴提供作者原作入口。",
       "en": "The creator marks this pinned character design and artwork CC BY-NC-SA 4.0. NVIDIA’s brand guidelines govern the NVIDIA mark in the artwork. The atlas links the creator’s originals.",
       "ja": "固定版のキャラクターデザインと立ち絵に作者が CC BY-NC-SA 4.0 と明記。図中の NVIDIA ロゴには NVIDIA のブランドガイドラインが適用される。図鑑は作者の原作へのリンクを掲載。"
+    }
+  },
+  {
+    "id": "fuh-mai-dual-forms",
+    "entity": "microsoft-mai",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "MAI 娘 · 甶丶双造型",
+      "en": "MAI Girl · 甶丶’s Two Designs",
+      "ja": "MAI 娘 · 甶丶の2形態"
+    },
+    "description": {
+      "zh": "甶丶将 Microsoft AI 模型系列拟人为奇幻的水彩绘梦师和科技侧的 Fluent 空间设计师，各有大、中、小三档立绘。",
+      "en": "甶丶 personifies the Microsoft AI model family as a fantasy watercolor painter and a futuristic Fluent-style spatial designer. Both designs have three portrait variants.",
+      "ja": "甶丶による Microsoft AI の擬人化。幻想の水彩画家と未来の Fluent 風空間デザイナーで、それぞれ大・中・小の立ち絵がある。"
+    },
+    "story": {
+      "zh": "甶丶将 Microsoft AI 模型系列拟人为奇幻的水彩绘梦师和科技侧的 Fluent 空间设计师，各有大、中、小三档立绘。",
+      "en": "甶丶 personifies the Microsoft AI model family as a fantasy watercolor painter and a futuristic Fluent-style spatial designer. Both designs have three portrait variants.",
+      "ja": "甶丶による Microsoft AI の擬人化。幻想の水彩画家と未来の Fluent 風空間デザイナーで、それぞれ大・中・小の立ち絵がある。"
+    },
+    "features": {
+      "zh": "奶油白长发的发尾染成四色淡彩，科技侧还有单边 AR 镜片和四格窗标。",
+      "en": "Cream-colored hair ends in four watercolor tones. The futuristic design has a monocular AR lens and a four-pane mark.",
+      "ja": "クリーム色の長髪の先に4色の淡彩。科技側は片眼 AR レンズと4分割の窓マークを備える。"
+    },
+    "author": "甶丶",
+    "authorUrl": "https://space.bilibili.com/1758596086",
+    "source": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mai/%E8%AE%BE%E5%AE%9A.md",
+    "sourceTitle": "MAI 娘 · 甶丶双造型 · 设定.md",
+    "originalPublication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mai/%E8%AE%BE%E5%AE%9A.md",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mai/%E8%AE%BE%E5%AE%9A.md"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+    "downloadable": false,
+    "bg": "#eff0fc",
+    "color": "#43548d",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用微软四色窗标。 图鉴提供作者原作入口。",
+      "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites Microsoft’s four-pane mark. The atlas links the creator’s release.",
+      "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には Microsoft の4分割の窓マークが登場。 図鑑は作者の原公開先にリンクします。"
+    }
+  },
+  {
+    "id": "fuh-minimax-dual-forms",
+    "entity": "minimax",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "MiniMax 娘 · 甶丶章鱼设定",
+      "en": "MiniMax Girl · 甶丶’s Octopus Designs",
+      "ja": "MiniMax 娘 · 甶丶のタコ娘設定"
+    },
+    "description": {
+      "zh": "甶丶为 MiniMax 创作的双造型章鱼少女。奇幻版与科技版共享粉橘触手及紫色小章鱼伴宠。",
+      "en": "甶丶’s two octopus-girl designs for MiniMax share pink-orange tentacles and a little purple octopus companion.",
+      "ja": "甶丶が MiniMax をタコ娘として描いた2形態。ピンクとオレンジの触手と紫の小さなタコの相棒が共通。"
+    },
+    "story": {
+      "zh": "甶丶为 MiniMax 创作的双造型章鱼少女。奇幻版与科技版共享粉橘触手及紫色小章鱼伴宠。",
+      "en": "甶丶’s two octopus-girl designs for MiniMax share pink-orange tentacles and a little purple octopus companion.",
+      "ja": "甶丶が MiniMax をタコ娘として描いた2形態。ピンクとオレンジの触手と紫の小さなタコの相棒が共通。"
+    },
+    "features": {
+      "zh": "玫红至珊瑚橘的双丸子头、声波发卡与六条触手；原作分 Mini、Mid、Max 三档。",
+      "en": "Rose-to-coral double buns, a waveform hair clip and six tentacles. The portraits come in Mini, Mid and Max variants.",
+      "ja": "ローズ色からコーラル色のツインお団子、波形の髪飾りと6本の触手。Mini・Mid・Max の3段階。"
+    },
+    "author": "甶丶",
+    "authorUrl": "https://space.bilibili.com/1758596086",
+    "source": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/%E8%AE%BE%E5%AE%9A.md",
+    "sourceTitle": "MiniMax 娘 · 甶丶章鱼设定 · 设定.md",
+    "originalPublication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/%E8%AE%BE%E5%AE%9A.md",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/%E8%AE%BE%E5%AE%9A.md"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+    "downloadable": false,
+    "bg": "#ffede9",
+    "color": "#a93262",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 MiniMax 标志和桌面伴宠图标。 图鉴提供作者原作入口。",
+      "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites the MiniMax mark and desktop pet icon. The atlas links the creator’s release.",
+      "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には MiniMax のマークとデスクトップペットのアイコンを参照。 図鑑は作者の原公開先にリンクします。"
+    }
+  },
+  {
+    "id": "fuh-workbuddy-dual-forms",
+    "entity": "tencent-workbuddy",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "WorkBuddy 娘 · 甶丶双造型",
+      "en": "WorkBuddy Girl · 甶丶’s Two Designs",
+      "ja": "WorkBuddy 娘 · 甶丶の2形態"
+    },
+    "description": {
+      "zh": "甶丶把腾讯 WorkBuddy 拟人为冒险者公会的魔法书记官与科技侧的桌面办公搭档。",
+      "en": "甶丶 personifies Tencent WorkBuddy as a magical guild clerk and a futuristic desktop work partner.",
+      "ja": "甶丶による Tencent WorkBuddy の擬人化。冒険者ギルドの魔法書記官と未来のデスクトップ作業パートナー。"
+    },
+    "story": {
+      "zh": "甶丶把腾讯 WorkBuddy 拟人为冒险者公会的魔法书记官与科技侧的桌面办公搭档。",
+      "en": "甶丶 personifies Tencent WorkBuddy as a magical guild clerk and a futuristic desktop work partner.",
+      "ja": "甶丶による Tencent WorkBuddy の擬人化。冒険者ギルドの魔法書記官と未来のデスクトップ作業パートナー。"
+    },
+    "features": {
+      "zh": "白色猫耳、薄荷绿发梢、双竖点徽章和双上箭头。科技侧带猫头笔记本。",
+      "en": "White cat ears, mint-green hair tips, a two-bar badge and double upward arrows. The tech version carries a cat-faced laptop.",
+      "ja": "白い猫耳、ミント色の毛先、縦2本のバッジ、上向きの二重矢印。科技側には猫の顔をあしらったノート PC。"
+    },
+    "author": "甶丶",
+    "authorUrl": "https://space.bilibili.com/1758596086",
+    "source": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/%E8%AE%BE%E5%AE%9A.md",
+    "sourceTitle": "WorkBuddy 娘 · 甶丶双造型 · 设定.md",
+    "originalPublication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/%E8%AE%BE%E5%AE%9A.md",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/%E8%AE%BE%E5%AE%9A.md"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+    "downloadable": false,
+    "bg": "#e2f4ea",
+    "color": "#216949",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 WorkBuddy 桌面图标的元素。 图鉴提供作者原作入口。",
+      "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design incorporates elements from the WorkBuddy desktop icon. The atlas links the creator’s release.",
+      "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には WorkBuddy デスクトップアイコンの要素を使用。 図鑑は作者の原公開先にリンクします。"
     }
   }
 ]

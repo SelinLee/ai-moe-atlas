@@ -1,0 +1,34 @@
+{
+  "url": "https://charlotte-anime.jp/music/op/",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:50:28.491Z",
+  "scope": "The anime release page verifies the original opening. The candidate association is inferred from its retained title. The official video endpoint did not return video data, and the audio or exact recording remains unconfirmed.",
+  "officialRelease": {
+    "id": "charlotte",
+    "url": "https://charlotte-anime.jp/music/op/",
+    "finalUrl": "https://charlotte-anime.jp/music/op/",
+    "title": "Opening - Music | TVアニメ「Charlotte(シャーロット)」公式サイト",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-27T10:50:28.491Z",
+    "htmlSha256": "c31831a96fabf7fcc7880b31080b5dc77b2a699a8332324820b47ae639c4ec2a",
+    "textSha256": "599f6ae9f226153c34dc359aea73d20063a7a89b0e19a7e8c1dd12f77a522119",
+    "matches": [
+      "「Bravely You」",
+      "Lia",
+      "麻枝 准"
+    ]
+  },
+  "secondaryRelease": null,
+  "candidate": {
+    "bvid": "BV1Pdno69EtJ",
+    "title": "【十月新番】名为“开源”的彗星划过天际【Charlotte×deepseek】",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Pdno69EtJ",
+    "observedAt": "2026-11-27T10:50:34.554Z",
+    "code": -404
+  },
+  "candidateEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json",
+    "sha256": "eaf566a8ae5c6a1285d2c5ee8908613da57e332c4b891f7f229da8ce864cb856",
+    "kind": "browser-metadata-extract"
+  }
+}

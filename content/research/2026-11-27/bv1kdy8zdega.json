@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1KDy8zdEga/",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:49:52.387Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KDy8zdEga",
+  "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented.",
+  "metadata": {
+    "bvid": "BV1KDy8zdEga",
+    "title": "【次元坍缩版】新英雄大肥鱼登场，吃白饭的大肥鱼也来打僵尸了",
+    "owner": {
+      "name": "天矩Hex",
+      "mid": 3493085512206570
+    },
+    "pubdate": 1795232337,
+    "duration": 313
+  },
+  "descriptionSha256": "07f20442e6dc8dda4fc1c4468a6ef7e98fe89a45a09298a1699b1f9717c484b9",
+  "sourceLinks": []
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1vdyhz3EnP/",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:49:50.838Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vdyhz3EnP",
+  "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented.",
+  "metadata": {
+    "bvid": "BV1vdyhz3EnP",
+    "title": "【次元坍缩版】大肥鱼:这次一定要一雪前耻",
+    "owner": {
+      "name": "天矩Hex",
+      "mid": 3493085512206570
+    },
+    "pubdate": 1795253316,
+    "duration": 330
+  },
+  "descriptionSha256": "012755b6a54ac847524b53efaf1b3d094c85ab1001de5e8d48ad6f1ef07eaddd",
+  "sourceLinks": []
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1hiyjzZEvy/",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:49:44.730Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hiyjzZEvy",
+  "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented.",
+  "metadata": {
+    "bvid": "BV1hiyjzZEvy",
+    "title": "GLM的日常",
+    "owner": {
+      "name": "长鲸日常",
+      "mid": 3546893565036586
+    },
+    "pubdate": 1795363894,
+    "duration": 16
+  },
+  "descriptionSha256": "50ff974f52e4e18caa32d36b0d56360bb41291e207eb2318dbdb08c0ab9028cf",
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://www.pixiv.net/users/18604994"
+    }
+  ]
+}

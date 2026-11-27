@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1o8yXzBEWy/",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:49:50.861Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1o8yXzBEWy",
+  "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented.",
+  "metadata": {
+    "bvid": "BV1o8yXzBEWy",
+    "title": "大肥鱼：和Claude在游戏中玩耍",
+    "owner": {
+      "name": "ゆらゆら怪電波",
+      "mid": 3632305499277377
+    },
+    "pubdate": 1795442068,
+    "duration": 386
+  },
+  "descriptionSha256": "ea6c75a9474ecdc5018ec5611528cc8f3819fe6cdf237ccf06f3616772596cdc",
+  "sourceLinks": []
+}

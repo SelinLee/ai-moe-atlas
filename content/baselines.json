@@ -468,5 +468,25 @@
       "en": "The creator’s publication and all 13 files are verified. NVIDIA’s brand guidelines apply to the mark depicted in the artwork.",
       "ja": "作者の原公開先と13ファイルを確認済み。図中の NVIDIA ロゴにはブランドガイドラインが適用されます。"
     }
+  },
+  {
+    "entity": "microsoft-mai",
+    "characterId": "fuh-mai-dual-forms",
+    "reviewedAt": "2026-11-27",
+    "nextAction": {
+      "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用微软四色窗标。 图鉴提供作者原作入口。",
+      "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites Microsoft’s four-pane mark. The atlas links the creator’s release.",
+      "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には Microsoft の4分割の窓マークが登場。 図鑑は作者の原公開先にリンクします。"
+    }
+  },
+  {
+    "entity": "tencent-workbuddy",
+    "characterId": "fuh-workbuddy-dual-forms",
+    "reviewedAt": "2026-11-27",
+    "nextAction": {
+      "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 WorkBuddy 桌面图标的元素。 图鉴提供作者原作入口。",
+      "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design incorporates elements from the WorkBuddy desktop icon. The atlas links the creator’s release.",
+      "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には WorkBuddy デスクトップアイコンの要素を使用。 図鑑は作者の原公開先にリンクします。"
+    }
   }
 ]

@@ -1,0 +1,40 @@
+{
+  "previousEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
+    "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json",
+    "sha256": "eaf566a8ae5c6a1285d2c5ee8908613da57e332c4b891f7f229da8ce864cb856",
+    "kind": "browser-metadata-extract"
+  },
+  "attempted": 29,
+  "selectedNewRanked": 11,
+  "existingRankedChecked": 0,
+  "trackedCandidatesRechecked": 13,
+  "refreshedCandidateSearchEntries": [
+    "BV1rfsf6PEiQ",
+    "BV1nvJo65E3o",
+    "BV17Epk66Exs",
+    "BV1Pdno69EtJ",
+    "BV18Ty3zVEG8"
+  ],
+  "exclusions": [
+    {
+      "bvid": "BV1cBsq6gEnC",
+      "reason": "An NCOP title from the same uploader appeared in search. The official endpoint also returned -404 for that alternate BV."
+    },
+    {
+      "bvids": [
+        "BV1Chn96VEov",
+        "BV1xSpv6KEP6"
+      ],
+      "reason": "Software demos; separate source review."
+    },
+    {
+      "bvid": "BV1uyJt61EGR",
+      "reason": "Insufficient evidence that the characters are AI personifications."
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "accessedAt": "2026-11-27T10:51:41.099Z",
+  "httpStatus": 200,
+  "url": "https://www.bilibili.com/video/BV19A8R69EYk/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19A8R69EYk",
+  "original": {
+    "bvid": "BV19A8R69EYk",
+    "publisher": "暴飲暴食P_official",
+    "publisherId": 3706942543366621,
+    "title": "【暴飲暴食P】本家投稿《说谎的马卡龙/うそつきマカロン》feat. 重音テト",
+    "pubdate": 1787732245,
+    "descriptionSha256": "b5906635da5d18e74c5b6345bd37d245a9b69127f1c5244507a9d3b5e248ef16"
+  },
+  "derivative": {
+    "bvid": "BV1eXnc6EEwp",
+    "previousEvidence": {
+      "path": "content/research/2026-11-27/bv1exnc6eewp.json",
+      "sha256": "0cf812f413a2d50c91a01f78848d918c11ef4287702450c824b918e9a27bef3d",
+      "kind": "browser-metadata-extract"
+    }
+  },
+  "scope": "The fan uploader cites this exact BV. Its own upload identifies the original song, artist name and vocalist."
+}

@@ -3,8 +3,8 @@
   "updatedAt": "2026-11-27",
   "scope": "source-metadata-only",
   "pendingAnimationEvidence": {
-    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-gemini-doubao-and-glm.json",
-    "sha256": "00c5ec25a81cb890d0c929b1efe4e9959de2f09952a1d91740e0101293f4159b",
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json",
+    "sha256": "eaf566a8ae5c6a1285d2c5ee8908613da57e332c4b891f7f229da8ce864cb856",
     "kind": "browser-metadata-extract"
   },
   "records": [
@@ -79687,14 +79687,14 @@
       "id": "yushua-dragon-codex-boot",
       "category": "interactive",
       "title": {
-        "zh": "Codex 龙娘 · Windows 开屏动画",
-        "en": "Codex Dragon Girl · Windows Startup Animation",
-        "ja": "Codex 竜娘 · Windows 起動アニメ"
+        "zh": "Codex 龙娘 · Windows 与 macOS 开屏动画",
+        "en": "Codex Dragon Girl · Windows and macOS Startup Animation",
+        "ja": "Codex 竜娘 · Windows と macOS の起動アニメ"
       },
       "summary": {
-        "zh": "为可写的 Windows 快捷方式添加 1080p 龙娘启动动画，支持替换影片。",
-        "en": "The project adds a 1080p dragon-girl animation to writable Windows shortcuts and supports custom videos.",
-        "ja": "書き込み可能な Windows ショートカットに1080pの竜娘アニメを追加。動画の差し替えに対応。"
+        "zh": "原项目为 Windows 快捷方式添加龙娘启动动画。已合并的 macOS 移植使用原生 Swift 启动器。",
+        "en": "Originally a Windows shortcut animation, the project also has a merged macOS port using a native Swift launcher.",
+        "ja": "Windows ショートカット向けの起動アニメ。マージ済みの macOS 移植では Swift 製の起動アプリを使用。"
       },
       "rights": {
         "zh": "代码为 MIT。随附媒体说明单列角色、音轨和其他素材条件。",
@@ -79704,8 +79704,8 @@
       "url": "https://github.com/yushua0808-cpu/dragon-codex-boot/blob/c63a203e5857e85fb3c8a9891eddb570e7a27b54/README.md",
       "publisher": "yushua0808-cpu",
       "evidence": {
-        "path": "content/research/2026-11-26/yushua-dragon-codex-boot.json",
-        "sha256": "69fb96d1ad46d66d8f251f8cb7f1493171986137b2206954cfc457ffcd855b27",
+        "path": "content/research/2026-11-27/yushua-dragon-codex-boot-macos-origin.json",
+        "sha256": "84aa9776039be270e58500e0f2b9dec598f3e71b482fff149a4700f96162ee0f",
         "kind": "browser-metadata-extract"
       },
       "relations": [
@@ -79733,6 +79733,21 @@
           "role": "linked-public-demo",
           "title": "Ai_白日梦想家 · Codex 龙娘开屏动画及桌面宠物演示",
           "url": "https://www.bilibili.com/video/BV1BSxs6KENV/"
+        },
+        {
+          "role": "merged-macos-port",
+          "title": "Asa12138 · macOS port",
+          "url": "https://github.com/yushua0808-cpu/dragon-codex-boot/pull/1"
+        },
+        {
+          "role": "pinned-macos-document",
+          "title": "macOS · docs/MACOS.md",
+          "url": "https://github.com/yushua0808-cpu/dragon-codex-boot/blob/6007a4ca895cf2f843dcdca3d8cbe4b9108f2b7e/docs/MACOS.md"
+        },
+        {
+          "role": "linked-public-demo",
+          "title": "Asa的AILab · macOS",
+          "url": "https://www.bilibili.com/video/BV1xSpv6KEP6/"
         }
       ],
       "usage": "source-only",
@@ -79742,10 +79757,10 @@
       "publicationDateBasis": "github-repository-created",
       "verification": {
         "result": "metadata-verified",
-        "method": "github-rest-tree-and-isolated-headless-google-chrome",
-        "attemptedAt": "2026-11-26T06:11:38.642Z",
+        "method": "github-rest-pr-and-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:49:55.415Z",
         "httpStatus": 200,
-        "scope": "Pinned README, MIT license, third-party notices and media notice verified. The app and bundled video were not executed or redistributed."
+        "scope": "The pinned Windows documentation stays linked. The GitHub REST record confirms the merged macOS PR, and the view endpoint verifies the public demo title, uploader, and description."
       }
     },
     {
@@ -86760,6 +86775,1465 @@
         "attemptedAt": "2026-11-27T10:37:11.200Z",
         "httpStatus": 200,
         "scope": "Pinned author documentation and license were verified against Git blob and SHA-256, with upstream links where applicable."
+      }
+    },
+    {
+      "id": "bv1hiyjzzevy",
+      "category": "animation",
+      "title": {
+        "zh": "GLM 的日常",
+        "en": "GLM’s Daily Life",
+        "ja": "GLM の日常"
+      },
+      "publisher": "长鲸日常",
+      "url": "https://www.bilibili.com/video/BV1hiyjzZEvy/",
+      "summary": {
+        "zh": "原帖将角色形象参考署名为 ZipZipPipe 与这个刀子真甜。",
+        "en": "The upload credits ZipZipPipe and 这个刀子真甜 as character design references.",
+        "ja": "投稿説明欄に ZipZipPipe と这个刀子真甜をキャラクターの参照元として記載。"
+      },
+      "rights": {
+        "zh": "原投稿公开链接。画面、乐曲及角色引用遵循各自权利方的条件。",
+        "en": "The original upload is linked. Reuse of visuals, music and characters follows the respective rights holders’ terms.",
+        "ja": "原投稿を案内。映像、音楽、キャラクターの再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "长鲸日常",
+          "url": "https://space.bilibili.com/3546893565036586"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-23",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:49:44.730Z",
+        "httpStatus": 200,
+        "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1hiyjzzevy.json",
+        "sha256": "e44f54520e1b0431a2ea6ea53168740cfc6adaf1a2ea345e351c55c68c2fc802",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1hiyjzZEvy",
+      "subtype": "story",
+      "sourceTitle": "GLM的日常",
+      "publishedAt": "2026-11-22T16:11:34.000Z",
+      "likes": {
+        "count": 151,
+        "observedAt": "2026-11-27T10:49:44.730Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hiyjzZEvy",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json",
+          "sha256": "eaf566a8ae5c6a1285d2c5ee8908613da57e332c4b891f7f229da8ce864cb856",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv14p1sz2ez7",
+      "category": "animation",
+      "title": {
+        "zh": "MiniMax 小章鱼的声波皇冠",
+        "en": "The MiniMax Octopus’s Waveform Crown",
+        "ja": "MiniMax のタコと波形の王冠"
+      },
+      "publisher": "观月时雨_sigure",
+      "url": "https://www.bilibili.com/video/BV14P1sz2Ez7/",
+      "summary": {
+        "zh": "以 MiniMax 小章鱼为主角的代码动画。发布者列出百舌谷与 linear ring 的影像参考。",
+        "en": "A coded animation starring the MiniMax octopus. The uploader cites a video by 百舌谷 and linear ring.",
+        "ja": "MiniMax のタコが主役のコードアニメ。投稿者は百舌谷と linear ring の映像を参照元として記載。"
+      },
+      "rights": {
+        "zh": "原投稿公开链接。画面、乐曲及角色引用遵循各自权利方的条件。",
+        "en": "The original upload is linked. Reuse of visuals, music and characters follows the respective rights holders’ terms.",
+        "ja": "原投稿を案内。映像、音楽、キャラクターの再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "观月时雨_sigure",
+          "url": "https://space.bilibili.com/7224340"
+        },
+        {
+          "role": "uploader-cited-video",
+          "title": "linear ring · enchanted love / 百舌谷",
+          "url": "https://www.youtube.com/watch?v=qE6mruRB1PA"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-27",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:49:46.243Z",
+        "httpStatus": 200,
+        "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv14p1sz2ez7.json",
+        "sha256": "d96cde521f8da0ffae76a4abeadc090dd9900b1fc314b55be9484ff5c6ec9f8d",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV14P1sz2Ez7",
+      "subtype": "mv",
+      "sourceTitle": "【仿百舌谷代码动画】MiniMax小章鱼的声波皇冠-Opus5.5 震惊瘫坐",
+      "publishedAt": "2026-11-27T05:38:34.000Z",
+      "likes": {
+        "count": 3,
+        "observedAt": "2026-11-27T10:49:46.243Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV14P1sz2Ez7",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json",
+          "sha256": "eaf566a8ae5c6a1285d2c5ee8908613da57e332c4b891f7f229da8ce864cb856",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1whsy6tep3",
+      "category": "animation",
+      "title": {
+        "zh": "鲸鲸万事屋 · 第 1 集",
+        "en": "Whale’s Odd Jobs · Ep. 1",
+        "ja": "クジラの万事屋 · 第1話"
+      },
+      "publisher": "多龙旗",
+      "url": "https://www.bilibili.com/video/BV1whsY6tEP3/",
+      "summary": {
+        "zh": "鲸鲸万事屋的第一单让三只小分身加入整理工作。原帖注明 AI 生成制作。",
+        "en": "Three tiny doubles help tidy up on the first job at Whale’s Odd Jobs. The upload discloses AI generation.",
+        "ja": "クジラの万事屋の最初の仕事で、小さな分身3人が片付けを手伝う。AI 生成と記載。"
+      },
+      "rights": {
+        "zh": "原投稿公开链接。画面、乐曲及角色引用遵循各自权利方的条件。",
+        "en": "The original upload is linked. Reuse of visuals, music and characters follows the respective rights holders’ terms.",
+        "ja": "原投稿を案内。映像、音楽、キャラクターの再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "多龙旗",
+          "url": "https://space.bilibili.com/7978788"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-19",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:49:46.249Z",
+        "httpStatus": 200,
+        "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1whsy6tep3.json",
+        "sha256": "66d090591c07f66acfa577396703113ff3150036776838d805c81dbed7f0343a",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1whsY6tEP3",
+      "subtype": "story",
+      "sourceTitle": "【AI动画】鲸鲸万事屋 EP01｜打个响指叫出三只分身，结果越帮越乱",
+      "publishedAt": "2026-11-19T14:31:40.000Z",
+      "likes": {
+        "count": 5,
+        "observedAt": "2026-11-27T10:49:46.249Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1whsY6tEP3",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json",
+          "sha256": "eaf566a8ae5c6a1285d2c5ee8908613da57e332c4b891f7f229da8ce864cb856",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1exnc6eewp",
+      "category": "animation",
+      "title": {
+        "zh": "说谎的 DeepSeek · MiniMax H3 重制",
+        "en": "DeepSeek Tells a Lie · MiniMax H3 Remake",
+        "ja": "嘘をつく DeepSeek · MiniMax H3 リメイク"
+      },
+      "publisher": "渡鸦试作型",
+      "url": "https://www.bilibili.com/video/BV1eXnc6EEwp/",
+      "summary": {
+        "zh": "发布者用本地 MiniMax H3 制作改编，并链接暴飲暴食P feat. 重音テト的原曲《说谎的马卡龙》。",
+        "en": "The uploader describes a MiniMax H3 adaptation and links Usotsuki Macaron by 暴飲暴食P featuring Kasane Teto.",
+        "ja": "MiniMax H3 による派生版。暴飲暴食P feat. 重音テトの原曲「うそつきマカロン」へリンク。"
+      },
+      "rights": {
+        "zh": "原投稿公开链接。画面、乐曲及角色引用遵循各自权利方的条件。",
+        "en": "The original upload is linked. Reuse of visuals, music and characters follows the respective rights holders’ terms.",
+        "ja": "原投稿を案内。映像、音楽、キャラクターの再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "渡鸦试作型",
+          "url": "https://space.bilibili.com/8526206"
+        },
+        {
+          "role": "song-author-release",
+          "title": "暴飲暴食P feat. 重音テト · うそつきマカロン",
+          "url": "https://www.bilibili.com/video/BV19A8R69EYk/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-20",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:49:47.784Z",
+        "httpStatus": 200,
+        "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1exnc6eewp.json",
+        "sha256": "f4363e613fc53328915041e6799596f124a904d360055eac083b844ae5692a0b",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1eXnc6EEwp",
+      "subtype": "mv",
+      "sourceTitle": "【本地Minimax H3】一轮生成说谎的DeepSeek",
+      "publishedAt": "2026-10-20T09:08:59.000Z",
+      "likes": {
+        "count": 195,
+        "observedAt": "2026-11-27T10:49:47.784Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eXnc6EEwp",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json",
+          "sha256": "eaf566a8ae5c6a1285d2c5ee8908613da57e332c4b891f7f229da8ce864cb856",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1qcpq62eh4",
+      "category": "animation",
+      "title": {
+        "zh": "鲸鱼洞 · DeepSeek 娘舞蹈实验",
+        "en": "Whale Hole · DeepSeek Girl Dance Study",
+        "ja": "クジラの穴 · DeepSeek 娘のダンス実験"
+      },
+      "publisher": "毛毛结香1",
+      "url": "https://www.bilibili.com/video/BV1Qcpq62EH4/",
+      "summary": {
+        "zh": "作者比较 DeepSeek 娘舞蹈成片与 MMD 白模动作，明确署名 DECO*27 的原曲与 mobiusP 的动作。",
+        "en": "A comparison of a DeepSeek Girl dance and its untextured MMD motion reference. The upload credits DECO*27 for the track and mobiusP for the motion.",
+        "ja": "DeepSeek 娘のダンスと MMD 白モデルの動きを比較。楽曲に DECO*27、モーションに mobiusP をクレジット。"
+      },
+      "rights": {
+        "zh": "原投稿公开链接。画面、乐曲及角色引用遵循各自权利方的条件。",
+        "en": "The original upload is linked. Reuse of visuals, music and characters follows the respective rights holders’ terms.",
+        "ja": "原投稿を案内。映像、音楽、キャラクターの再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "毛毛结香1",
+          "url": "https://space.bilibili.com/1797987480"
+        },
+        {
+          "role": "song-author-release",
+          "title": "DECO*27 · ラビットホール",
+          "url": "https://www.youtube.com/watch?v=eSW2LVbPThw"
+        },
+        {
+          "role": "motion-author-publication",
+          "title": "mobiusP · ラビットホール",
+          "url": "https://bowlroll.net/file/304823"
+        },
+        {
+          "role": "uploader-cited-motion-camera",
+          "title": "ゆきねこ",
+          "url": "https://bowlroll.net/file/304854"
+        },
+        {
+          "role": "uploader-cited-stage",
+          "title": "NNGN",
+          "url": "https://bowlroll.net/file/294815"
+        },
+        {
+          "role": "uploader-cited-kit",
+          "title": "たらど",
+          "url": "https://bowlroll.net/file/319933"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-13",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:49:49.317Z",
+        "httpStatus": 200,
+        "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1qcpq62eh4.json",
+        "sha256": "fc6c02cfa43dbb8941a7f2924ec7714435afb20a7a817c2627362c85904708be",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1Qcpq62EH4",
+      "subtype": "dance",
+      "sourceTitle": "【AI视频实验】《鲸鱼洞》——DeepSeek娘化×MiniMax H3动画PV测试（《兔子洞》mmd二创）",
+      "publishedAt": "2026-10-13T14:01:29.000Z",
+      "likes": {
+        "count": 23,
+        "observedAt": "2026-11-27T10:49:49.317Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Qcpq62EH4",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json",
+          "sha256": "eaf566a8ae5c6a1285d2c5ee8908613da57e332c4b891f7f229da8ce864cb856",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1hyx86peym",
+      "category": "animation",
+      "title": {
+        "zh": "MOSS 娘在桌上画画",
+        "en": "MOSS Girl Draws on the Desk",
+        "ja": "机の上で絵を描く MOSS 娘"
+      },
+      "publisher": "甶丶",
+      "url": "https://www.bilibili.com/video/BV1HYx86pEyM/",
+      "summary": {
+        "zh": "角色设计者甶丶发布的 MOSS 娘一镜短片。画画的她被敲桌声吓了一跳。",
+        "en": "Character creator 甶丶’s single-shot MOSS Girl short follows her drawing on a desk.",
+        "ja": "キャラクター作者の甶丶によるワンカット短編。机の上で絵を描く MOSS 娘を描く。"
+      },
+      "rights": {
+        "zh": "原投稿公开链接。画面、乐曲及角色引用遵循各自权利方的条件。",
+        "en": "The original upload is linked. Reuse of visuals, music and characters follows the respective rights holders’ terms.",
+        "ja": "原投稿を案内。映像、音楽、キャラクターの再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "甶丶",
+          "url": "https://space.bilibili.com/1758596086"
+        },
+        {
+          "role": "original-character-setting",
+          "title": "甶丶 · MOSS 娘",
+          "url": "https://www.bilibili.com/opus/1265454286364475399"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-02",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:49:49.328Z",
+        "httpStatus": 200,
+        "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1hyx86peym.json",
+        "sha256": "ee15319b4a6d4a57ac8aa96e60ffe29b00b7bc50c50d5d456a021f36ccbf82e5",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1HYx86pEyM",
+      "subtype": "story",
+      "sourceTitle": "我桌上养了只 AI 娘，她画的东西不敢让我看",
+      "publishedAt": "2026-11-01T19:32:45.000Z",
+      "likes": {
+        "count": 13,
+        "observedAt": "2026-11-27T10:49:49.328Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HYx86pEyM",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json",
+          "sha256": "eaf566a8ae5c6a1285d2c5ee8908613da57e332c4b891f7f229da8ce864cb856",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1o8yxzbewy",
+      "category": "animation",
+      "title": {
+        "zh": "大肥鱼与 Claude 一起玩游戏",
+        "en": "Fat Fish Plays Games with Claude",
+        "ja": "大きな魚と Claude がゲームで遊ぶ"
+      },
+      "publisher": "ゆらゆら怪電波",
+      "url": "https://www.bilibili.com/video/BV1o8yXzBEWy/",
+      "summary": {
+        "zh": "收录原投稿、发布者及累计点赞观测。",
+        "en": "Original upload, publisher and observed cumulative likes.",
+        "ja": "原投稿、投稿者、累計いいねの記録を掲載。"
+      },
+      "rights": {
+        "zh": "原投稿公开链接。画面、乐曲及角色引用遵循各自权利方的条件。",
+        "en": "The original upload is linked. Reuse of visuals, music and characters follows the respective rights holders’ terms.",
+        "ja": "原投稿を案内。映像、音楽、キャラクターの再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "ゆらゆら怪電波",
+          "url": "https://space.bilibili.com/3632305499277377"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-23",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:49:50.861Z",
+        "httpStatus": 200,
+        "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1o8yxzbewy.json",
+        "sha256": "ab7e842654f500b71d6701c2df171eb9e0d5ded262a315aaa7cd6437599f7793",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1o8yXzBEWy",
+      "subtype": "story",
+      "sourceTitle": "大肥鱼：和Claude在游戏中玩耍",
+      "publishedAt": "2026-11-23T13:54:28.000Z",
+      "likes": {
+        "count": 569,
+        "observedAt": "2026-11-27T10:49:50.861Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1o8yXzBEWy",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json",
+          "sha256": "eaf566a8ae5c6a1285d2c5ee8908613da57e332c4b891f7f229da8ce864cb856",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1vdyhz3enp",
+      "category": "animation",
+      "title": {
+        "zh": "次元坍缩版 · 大肥鱼的再挑战",
+        "en": "Dimensional Collapse · Fat Fish Tries Again",
+        "ja": "次元崩壊版 · 大きな魚の再挑戦"
+      },
+      "publisher": "天矩Hex",
+      "url": "https://www.bilibili.com/video/BV1vdyhz3EnP/",
+      "summary": {
+        "zh": "收录原投稿、发布者及累计点赞观测。",
+        "en": "Original upload, publisher and observed cumulative likes.",
+        "ja": "原投稿、投稿者、累計いいねの記録を掲載。"
+      },
+      "rights": {
+        "zh": "原投稿公开链接。画面、乐曲及角色引用遵循各自权利方的条件。",
+        "en": "The original upload is linked. Reuse of visuals, music and characters follows the respective rights holders’ terms.",
+        "ja": "原投稿を案内。映像、音楽、キャラクターの再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "天矩Hex",
+          "url": "https://space.bilibili.com/3493085512206570"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-21",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:49:50.838Z",
+        "httpStatus": 200,
+        "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1vdyhz3enp.json",
+        "sha256": "6def921211d8bd8ac5b50b66a6126b057d43ba944ce5ff62906f2aedab2e7aac",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1vdyhz3EnP",
+      "subtype": "game",
+      "sourceTitle": "【次元坍缩版】大肥鱼:这次一定要一雪前耻",
+      "publishedAt": "2026-11-21T09:28:36.000Z",
+      "likes": {
+        "count": 5,
+        "observedAt": "2026-11-27T10:49:50.838Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vdyhz3EnP",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json",
+          "sha256": "eaf566a8ae5c6a1285d2c5ee8908613da57e332c4b891f7f229da8ce864cb856",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1kdy8zdega",
+      "category": "animation",
+      "title": {
+        "zh": "次元坍缩版 · 大肥鱼登场",
+        "en": "Dimensional Collapse · Fat Fish Joins the Game",
+        "ja": "次元崩壊版 · 大きな魚が登場"
+      },
+      "publisher": "天矩Hex",
+      "url": "https://www.bilibili.com/video/BV1KDy8zdEga/",
+      "summary": {
+        "zh": "游戏演示将大肥鱼作为深海探索者登场。发布者在原帖列出角色技能。",
+        "en": "The game demo introduces Fat Fish as a deep-sea explorer. The uploader lists her abilities.",
+        "ja": "ゲームの実演に深海探検者として大きな魚が登場。投稿説明欄にスキルを記載。"
+      },
+      "rights": {
+        "zh": "原投稿公开链接。画面、乐曲及角色引用遵循各自权利方的条件。",
+        "en": "The original upload is linked. Reuse of visuals, music and characters follows the respective rights holders’ terms.",
+        "ja": "原投稿を案内。映像、音楽、キャラクターの再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "天矩Hex",
+          "url": "https://space.bilibili.com/3493085512206570"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-21",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:49:52.387Z",
+        "httpStatus": 200,
+        "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1kdy8zdega.json",
+        "sha256": "4c748fa038810a2c44cb0c2f8b8d91bc45d401c73d7e3ce8b41ac650d6cd5f42",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1KDy8zdEga",
+      "subtype": "game",
+      "sourceTitle": "【次元坍缩版】新英雄大肥鱼登场，吃白饭的大肥鱼也来打僵尸了",
+      "publishedAt": "2026-11-21T03:38:57.000Z",
+      "likes": {
+        "count": 10,
+        "observedAt": "2026-11-27T10:49:52.387Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KDy8zdEga",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json",
+          "sha256": "eaf566a8ae5c6a1285d2c5ee8908613da57e332c4b891f7f229da8ce864cb856",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1q5sr63ewe",
+      "category": "animation",
+      "title": {
+        "zh": "龙娘与小狐狸打牌 · 第 18 集",
+        "en": "Dragon Girl and Little Fox Play Cards · Ep. 18",
+        "ja": "竜娘と子ギツネがカード対決 · 第18話"
+      },
+      "publisher": "桔识",
+      "url": "https://www.bilibili.com/video/BV1q5sr63EwE/",
+      "summary": {
+        "zh": "收录原投稿、发布者及累计点赞观测。",
+        "en": "Original upload, publisher and observed cumulative likes.",
+        "ja": "原投稿、投稿者、累計いいねの記録を掲載。"
+      },
+      "rights": {
+        "zh": "原投稿公开链接。画面、乐曲及角色引用遵循各自权利方的条件。",
+        "en": "The original upload is linked. Reuse of visuals, music and characters follows the respective rights holders’ terms.",
+        "ja": "原投稿を案内。映像、音楽、キャラクターの再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "桔识",
+          "url": "https://space.bilibili.com/23532362"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-11-17",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:49:52.381Z",
+        "httpStatus": 200,
+        "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1q5sr63ewe.json",
+        "sha256": "74eb23d173af22a1e884a75d73577cb0e3e52b6c923d1d4ecbd2c403be96376f",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1q5sr63EwE",
+      "subtype": "story",
+      "sourceTitle": "【第18集】龙娘：小狐狸，你的毛绒小手连牌都拿不稳，赢的了我？【AI全民制作人】",
+      "publishedAt": "2026-11-17T14:05:25.000Z",
+      "likes": {
+        "count": 2353,
+        "observedAt": "2026-11-27T10:49:52.381Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1q5sr63EwE",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json",
+          "sha256": "eaf566a8ae5c6a1285d2c5ee8908613da57e332c4b891f7f229da8ce864cb856",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "bv1x5hy6teky",
+      "category": "animation",
+      "title": {
+        "zh": "在末日和大肥鱼等 AI 生存下去",
+        "en": "Survive the Apocalypse with Fat Fish and Friends",
+        "ja": "大きな魚たちと終末世界を生き抜く"
+      },
+      "publisher": "XT小添",
+      "url": "https://www.bilibili.com/video/BV1x5HY6tEkY/",
+      "summary": {
+        "zh": "作者发布末日生存同人游戏演示，并在原帖署名 ZipZipPipe 的角色素材。",
+        "en": "The creator demonstrates a survival fan game and credits ZipZipPipe for the character artwork.",
+        "ja": "終末サバイバルのファンゲーム。キャラクター素材を ZipZipPipe とクレジット。"
+      },
+      "rights": {
+        "zh": "原投稿公开链接。画面、乐曲及角色引用遵循各自权利方的条件。",
+        "en": "The original upload is linked. Reuse of visuals, music and characters follows the respective rights holders’ terms.",
+        "ja": "原投稿を案内。映像、音楽、キャラクターの再利用は各権利者の条件に従う。"
+      },
+      "relations": [
+        {
+          "role": "uploader-profile",
+          "title": "XT小添",
+          "url": "https://space.bilibili.com/429154630"
+        },
+        {
+          "role": "credited-character-reference",
+          "title": "ZipZipPipe",
+          "url": "https://www.pixiv.net/users/18604994"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-03",
+      "publicationDateBasis": "bilibili-pubdate",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "bilibili-view-api-via-isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:49:53.905Z",
+        "httpStatus": 200,
+        "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented."
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/bv1x5hy6teky.json",
+        "sha256": "1e95f106f7597ad9d9c9ad86e6b7e39a855b629dcaae497b664364145e1d56bd",
+        "kind": "browser-metadata-extract"
+      },
+      "bvid": "BV1x5HY6tEkY",
+      "subtype": "game",
+      "sourceTitle": "[同人游戏发布]在末日和大肥鱼等AI生存下去！",
+      "publishedAt": "2026-10-03T07:26:42.000Z",
+      "likes": {
+        "count": 78,
+        "observedAt": "2026-11-27T10:49:53.905Z",
+        "sourceUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1x5HY6tEkY",
+        "evidence": {
+          "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json",
+          "sha256": "eaf566a8ae5c6a1285d2c5ee8908613da57e332c4b891f7f229da8ce864cb856",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    },
+    {
+      "id": "fuh-mai-dual-forms-original",
+      "category": "sources",
+      "title": {
+        "zh": "MAI 娘 · 甶丶双造型",
+        "en": "MAI Girl · 甶丶’s Two Designs",
+        "ja": "MAI 娘 · 甶丶の2形態"
+      },
+      "publisher": "甶丶",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mai/%E8%AE%BE%E5%AE%9A.md",
+      "summary": {
+        "zh": "甶丶将 Microsoft AI 模型系列拟人为奇幻的水彩绘梦师和科技侧的 Fluent 空间设计师，各有大、中、小三档立绘。",
+        "en": "甶丶 personifies the Microsoft AI model family as a fantasy watercolor painter and a futuristic Fluent-style spatial designer. Both designs have three portrait variants.",
+        "ja": "甶丶による Microsoft AI の擬人化。幻想の水彩画家と未来の Fluent 風空間デザイナーで、それぞれ大・中・小の立ち絵がある。"
+      },
+      "rights": {
+        "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用微软四色窗标。 图鉴提供作者原作入口。",
+        "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites Microsoft’s four-pane mark. The atlas links the creator’s release.",
+        "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には Microsoft の4分割の窓マークが登場。 図鑑は作者の原公開先にリンクします。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/fuh-mai-dual-forms-original.json",
+        "sha256": "5c22e2d2a9e2956a1d2591ad3bf73d58f78042adb148df4bc23910ce091a5ee2",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "甶丶",
+          "url": "https://space.bilibili.com/1758596086"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "mai a 中.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mai/01_%E7%AB%8B%E7%BB%98/mai%20a%20%E4%B8%AD.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "mai a 大.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mai/01_%E7%AB%8B%E7%BB%98/mai%20a%20%E5%A4%A7.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "mai a 小.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mai/01_%E7%AB%8B%E7%BB%98/mai%20a%20%E5%B0%8F.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "mai b 中.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mai/01_%E7%AB%8B%E7%BB%98/mai%20b%20%E4%B8%AD.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "mai b 大.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mai/01_%E7%AB%8B%E7%BB%98/mai%20b%20%E5%A4%A7.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "mai b 小.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mai/01_%E7%AB%8B%E7%BB%98/mai%20b%20%E5%B0%8F.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "mai 三视图 奇幻.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mai/02_%E4%B8%89%E8%A7%86%E5%9B%BE/mai%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E5%A5%87%E5%B9%BB.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "mai 三视图 科技.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mai/02_%E4%B8%89%E8%A7%86%E5%9B%BE/mai%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E7%A7%91%E6%8A%80.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "mai 补充设定.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mai/03_%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A/mai%20%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "mai Q版 a.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mai/04_Q%E7%89%88/mai%20Q%E7%89%88%20a.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "mai Q版 b.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mai/04_Q%E7%89%88/mai%20Q%E7%89%88%20b.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "mai 头像 a.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mai/05_%E5%A4%B4%E5%83%8F/mai%20%E5%A4%B4%E5%83%8F%20a.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "mai 头像 b.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mai/05_%E5%A4%B4%E5%83%8F/mai%20%E5%A4%B4%E5%83%8F%20b.png"
+        },
+        {
+          "role": "pinned-artwork-terms",
+          "title": "甶丶 · 版权与授权",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md"
+        },
+        {
+          "role": "pinned-document",
+          "title": "CHANGELOG.md",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/CHANGELOG.md"
+        },
+        {
+          "role": "official-product",
+          "title": "Microsoft AI (MAI)",
+          "url": "https://microsoft.ai/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": null,
+      "publicationDateBasis": "unknown",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "httpStatus": 200,
+        "attemptedAt": "2026-11-27T10:49:15.198Z",
+        "scope": "Pinned creator setting names the artist, license, visual designs and referenced brand elements. Thirteen original files were retained privately and checked against Git blob and SHA-256."
+      }
+    },
+    {
+      "id": "fuh-minimax-dual-forms-original",
+      "category": "sources",
+      "title": {
+        "zh": "MiniMax 娘 · 甶丶章鱼设定",
+        "en": "MiniMax Girl · 甶丶’s Octopus Designs",
+        "ja": "MiniMax 娘 · 甶丶のタコ娘設定"
+      },
+      "publisher": "甶丶",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/%E8%AE%BE%E5%AE%9A.md",
+      "summary": {
+        "zh": "甶丶为 MiniMax 创作的双造型章鱼少女。奇幻版与科技版共享粉橘触手及紫色小章鱼伴宠。",
+        "en": "甶丶’s two octopus-girl designs for MiniMax share pink-orange tentacles and a little purple octopus companion.",
+        "ja": "甶丶が MiniMax をタコ娘として描いた2形態。ピンクとオレンジの触手と紫の小さなタコの相棒が共通。"
+      },
+      "rights": {
+        "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 MiniMax 标志和桌面伴宠图标。 图鉴提供作者原作入口。",
+        "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design cites the MiniMax mark and desktop pet icon. The atlas links the creator’s release.",
+        "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には MiniMax のマークとデスクトップペットのアイコンを参照。 図鑑は作者の原公開先にリンクします。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/fuh-minimax-dual-forms-original.json",
+        "sha256": "e9452bd2595333caceab413913b89e7274e3c72cda9a8eceea5faef50d5a62e9",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "甶丶",
+          "url": "https://space.bilibili.com/1758596086"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "minimax a 中.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/01_%E7%AB%8B%E7%BB%98/minimax%20a%20%E4%B8%AD.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "minimax a 大.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/01_%E7%AB%8B%E7%BB%98/minimax%20a%20%E5%A4%A7.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "minimax a 小.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/01_%E7%AB%8B%E7%BB%98/minimax%20a%20%E5%B0%8F.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "minimax b 中.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/01_%E7%AB%8B%E7%BB%98/minimax%20b%20%E4%B8%AD.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "minimax b 大.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/01_%E7%AB%8B%E7%BB%98/minimax%20b%20%E5%A4%A7.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "minimax b 小.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/01_%E7%AB%8B%E7%BB%98/minimax%20b%20%E5%B0%8F.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "minimax 三视图 奇幻.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/02_%E4%B8%89%E8%A7%86%E5%9B%BE/minimax%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E5%A5%87%E5%B9%BB.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "minimax 三视图 科技.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/02_%E4%B8%89%E8%A7%86%E5%9B%BE/minimax%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E7%A7%91%E6%8A%80.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "minimax 补充设定.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/03_%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A/minimax%20%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "minimax Q版 a.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/04_Q%E7%89%88/minimax%20Q%E7%89%88%20a.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "minimax Q版 b.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/04_Q%E7%89%88/minimax%20Q%E7%89%88%20b.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "minimax 头像 a.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/05_%E5%A4%B4%E5%83%8F/minimax%20%E5%A4%B4%E5%83%8F%20a.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "minimax 头像 b.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/minimax/05_%E5%A4%B4%E5%83%8F/minimax%20%E5%A4%B4%E5%83%8F%20b.png"
+        },
+        {
+          "role": "pinned-artwork-terms",
+          "title": "甶丶 · 版权与授权",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md"
+        },
+        {
+          "role": "pinned-document",
+          "title": "CHANGELOG.md",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/CHANGELOG.md"
+        },
+        {
+          "role": "official-product",
+          "title": "MiniMax",
+          "url": "https://www.minimax.io/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": null,
+      "publicationDateBasis": "unknown",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "httpStatus": 200,
+        "attemptedAt": "2026-11-27T10:49:25.381Z",
+        "scope": "Pinned creator setting names the artist, license, visual designs and referenced brand elements. Thirteen original files were retained privately and checked against Git blob and SHA-256."
+      }
+    },
+    {
+      "id": "fuh-workbuddy-dual-forms-original",
+      "category": "sources",
+      "title": {
+        "zh": "WorkBuddy 娘 · 甶丶双造型",
+        "en": "WorkBuddy Girl · 甶丶’s Two Designs",
+        "ja": "WorkBuddy 娘 · 甶丶の2形態"
+      },
+      "publisher": "甶丶",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/%E8%AE%BE%E5%AE%9A.md",
+      "summary": {
+        "zh": "甶丶把腾讯 WorkBuddy 拟人为冒险者公会的魔法书记官与科技侧的桌面办公搭档。",
+        "en": "甶丶 personifies Tencent WorkBuddy as a magical guild clerk and a futuristic desktop work partner.",
+        "ja": "甶丶による Tencent WorkBuddy の擬人化。冒険者ギルドの魔法書記官と未来のデスクトップ作業パートナー。"
+      },
+      "rights": {
+        "zh": "作者注明该版本的角色设计和立绘采用 CC BY-NC-SA 4.0。设定引用 WorkBuddy 桌面图标的元素。 图鉴提供作者原作入口。",
+        "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design incorporates elements from the WorkBuddy desktop icon. The atlas links the creator’s release.",
+        "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には WorkBuddy デスクトップアイコンの要素を使用。 図鑑は作者の原公開先にリンクします。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/fuh-workbuddy-dual-forms-original.json",
+        "sha256": "f15aa8ac8da98942938a52a4861cc7d0d52b730c3ae05dc63cbc3a34a38a87a1",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "creator-profile",
+          "title": "甶丶",
+          "url": "https://space.bilibili.com/1758596086"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "workbuddy a 中.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/01_%E7%AB%8B%E7%BB%98/workbuddy%20a%20%E4%B8%AD.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "workbuddy a 大.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/01_%E7%AB%8B%E7%BB%98/workbuddy%20a%20%E5%A4%A7.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "workbuddy a 小.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/01_%E7%AB%8B%E7%BB%98/workbuddy%20a%20%E5%B0%8F.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "workbuddy b 中.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/01_%E7%AB%8B%E7%BB%98/workbuddy%20b%20%E4%B8%AD.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "workbuddy b 大.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/01_%E7%AB%8B%E7%BB%98/workbuddy%20b%20%E5%A4%A7.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "workbuddy b 小.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/01_%E7%AB%8B%E7%BB%98/workbuddy%20b%20%E5%B0%8F.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "workbuddy 三视图 奇幻.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/02_%E4%B8%89%E8%A7%86%E5%9B%BE/workbuddy%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E5%A5%87%E5%B9%BB.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "workbuddy 三视图 科技.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/02_%E4%B8%89%E8%A7%86%E5%9B%BE/workbuddy%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E7%A7%91%E6%8A%80.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "workbuddy 补充设定.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/03_%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A/workbuddy%20%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "workbuddy Q版 a.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/04_Q%E7%89%88/workbuddy%20Q%E7%89%88%20a.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "workbuddy Q版 b.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/04_Q%E7%89%88/workbuddy%20Q%E7%89%88%20b.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "workbuddy 头像 a.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/05_%E5%A4%B4%E5%83%8F/workbuddy%20%E5%A4%B4%E5%83%8F%20a.png"
+        },
+        {
+          "role": "pinned-original-artwork",
+          "title": "workbuddy 头像 b.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/05_%E5%A4%B4%E5%83%8F/workbuddy%20%E5%A4%B4%E5%83%8F%20b.png"
+        },
+        {
+          "role": "pinned-artwork-terms",
+          "title": "甶丶 · 版权与授权",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md"
+        },
+        {
+          "role": "pinned-document",
+          "title": "CHANGELOG.md",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/CHANGELOG.md"
+        },
+        {
+          "role": "official-product",
+          "title": "Tencent WorkBuddy",
+          "url": "https://cloud.tencent.com/product/workbuddy"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": null,
+      "publicationDateBasis": "unknown",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "httpStatus": 200,
+        "attemptedAt": "2026-11-27T10:49:33.445Z",
+        "scope": "Pinned creator setting names the artist, license, visual designs and referenced brand elements. Thirteen original files were retained privately and checked against Git blob and SHA-256."
+      }
+    },
+    {
+      "id": "pending-track-machikado-tangent",
+      "category": "sources",
+      "title": {
+        "zh": "shami momo · 町かどタンジェント",
+        "en": "shami momo · Machikado Tangent",
+        "ja": "shami momo · 町かどタンジェント"
+      },
+      "summary": {
+        "zh": "TBS 将《町かどタンジェント》列为 2019 年《街角魔族》片头曲。候选标题改写了动画名。",
+        "en": "TBS lists Machikado Tangent as the 2019 opening for The Demon Girl Next Door. The candidate title adapts the anime’s name.",
+        "ja": "TBS は2019年版「まちカドまぞく」の OP として「町かどタンジェント」を掲載。候補タイトルはアニメ名のもじり。"
+      },
+      "rights": {
+        "zh": "列出候选标题所指原动画的官方曲目。该候选的实际音轨和录音版本待确认。",
+        "en": "The official release identifies the anime’s original track. The candidate’s actual audio and exact recording remain unconfirmed.",
+        "ja": "原アニメの公式楽曲を紹介。候補動画の音声と収録版は確認待ち。"
+      },
+      "publisher": "TBS テレビ",
+      "url": "https://www.tbs.co.jp/anime/machikado/1st/goods/cd.html",
+      "evidence": {
+        "path": "content/research/2026-11-27/pending-track-machikado-tangent.json",
+        "sha256": "6fcc09801ebe469cfa155fd7c2275493967aca3fdd3579b42fe6e86e1e2f51b2",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "pending-animation-title-reference",
+          "title": "【7月新番/DS×Claude】街角AI娘",
+          "url": "https://www.bilibili.com/video/BV1ka446JEsY/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": null,
+      "publicationDateBasis": "unknown",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:50:30.097Z",
+        "httpStatus": 200,
+        "scope": "The anime release page verifies the original opening. The candidate association is inferred from its retained title. The official video endpoint did not return video data, and the audio or exact recording remains unconfirmed."
+      }
+    },
+    {
+      "id": "pending-track-noucome-opening",
+      "category": "sources",
+      "title": {
+        "zh": "アフィリア・サーガ · S・M・L☆",
+        "en": "Afilia Saga · S・M・L☆",
+        "ja": "アフィリア・サーガ · S・M・L☆"
+      },
+      "summary": {
+        "zh": "《我的脑内恋碍选项》动画官网将《S・M・L☆》列为片头曲。候选标题借用了作品名。",
+        "en": "The Noucome anime site identifies S・M・L☆ as its opening. The candidate title plays on the anime’s name.",
+        "ja": "「のうコメ」公式サイトは「S・M・L☆」を OP として掲載。候補タイトルは作品名のもじり。"
+      },
+      "rights": {
+        "zh": "列出候选标题所指原动画的官方曲目。该候选的实际音轨和录音版本待确认。",
+        "en": "The official release identifies the anime’s original track. The candidate’s actual audio and exact recording remain unconfirmed.",
+        "ja": "原アニメの公式楽曲を紹介。候補動画の音声と収録版は確認待ち。"
+      },
+      "publisher": "のうコメ製作委員会",
+      "url": "https://noucome.jp/goods/page-cd.html",
+      "evidence": {
+        "path": "content/research/2026-11-27/pending-track-noucome-opening.json",
+        "sha256": "45770fe436be4131df6e55d747bca0e21afd560efa3dd6cef0b2f384879c65e8",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "pending-animation-title-reference",
+          "title": "【AI二创】我的AI恋碍选项の正式OP！！！",
+          "url": "https://www.bilibili.com/video/BV1nvJo65E3o/"
+        },
+        {
+          "role": "label-release",
+          "title": "AniTone Music · S・M・L☆",
+          "url": "https://music.ani-tone.com/release/YZPB-5032/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": null,
+      "publicationDateBasis": "unknown",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:50:27.540Z",
+        "httpStatus": 200,
+        "scope": "The anime release page verifies the original opening. The candidate association is inferred from its retained title. The official video endpoint did not return video data, and the audio or exact recording remains unconfirmed."
+      }
+    },
+    {
+      "id": "pending-track-charlotte-opening",
+      "category": "sources",
+      "title": {
+        "zh": "Lia · Bravely You",
+        "en": "Lia · Bravely You",
+        "ja": "Lia · Bravely You"
+      },
+      "summary": {
+        "zh": "候选标题明确提到《Charlotte》。动画官网记录片头曲为 Lia 演唱的《Bravely You》。",
+        "en": "The candidate title explicitly names Charlotte. The anime’s official site lists Lia’s Bravely You as the opening.",
+        "ja": "候補タイトルに「Charlotte」を明記。アニメ公式サイトは Lia の「Bravely You」を OP として掲載。"
+      },
+      "rights": {
+        "zh": "列出候选标题所指原动画的官方曲目。该候选的实际音轨和录音版本待确认。",
+        "en": "The official release identifies the anime’s original track. The candidate’s actual audio and exact recording remain unconfirmed.",
+        "ja": "原アニメの公式楽曲を紹介。候補動画の音声と収録版は確認待ち。"
+      },
+      "publisher": "Charlotte 製作委員会",
+      "url": "https://charlotte-anime.jp/music/op/",
+      "evidence": {
+        "path": "content/research/2026-11-27/pending-track-charlotte-opening.json",
+        "sha256": "6502ab84e5f49168fa6e1a777bc97d39defb541fb5625c0a3ab221fc05ce6923",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "pending-animation-title-reference",
+          "title": "【十月新番】名为“开源”的彗星划过天际【Charlotte×deepseek】",
+          "url": "https://www.bilibili.com/video/BV1Pdno69EtJ/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": null,
+      "publicationDateBasis": "unknown",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "isolated-headless-google-chrome",
+        "attemptedAt": "2026-11-27T10:50:28.491Z",
+        "httpStatus": 200,
+        "scope": "The anime release page verifies the original opening. The candidate association is inferred from its retained title. The official video endpoint did not return video data, and the audio or exact recording remains unconfirmed."
+      }
+    },
+    {
+      "id": "phoiex-aaaagent-whale-art",
+      "category": "sources",
+      "title": {
+        "zh": "AAAAGENT · 鲸鱼娘拆层稿",
+        "en": "AAAAGENT · Layered Whale Girl Artwork",
+        "ja": "AAAAGENT · クジラ娘のレイヤー分け原稿"
+      },
+      "publisher": "phoiex",
+      "url": "https://github.com/phoiex/AAAAGENT/blob/2b8863d8f39e6e6fa57de61757528b982b5e870b/assets/original-design/README.md",
+      "rights": {
+        "zh": "项目原创内容注明非商业使用及署名条款。上游参考图的具体作者仍待确认。",
+        "en": "Project originals carry noncommercial and attribution terms. The exact author of the upstream reference artwork remains unconfirmed.",
+        "ja": "プロジェクトのオリジナルは非商用・クレジット条件付き。上流参照画像の具体的な作者は確認待ち。"
+      },
+      "evidence": {
+        "path": "content/research/2026-11-27/phoiex-aaaagent-whale-art.json",
+        "sha256": "ac5af97511188690d317ff26f0efb8958c21b105ded239b25e4dd8c9bf79efb8",
+        "kind": "browser-metadata-extract"
+      },
+      "summary": {
+        "zh": "作者公开三张 PNG 和一份 44 层 PSD。四个文件与作者清单的 SHA-256 一致。Live2D 绑定仍在制作。",
+        "en": "Three PNGs and a 44-layer PSD match the creator’s manifest. Live2D rigging is still in progress.",
+        "ja": "PNG 3枚と44レイヤーの PSD が作者のマニフェストと一致。Live2D リギングは制作中。"
+      },
+      "relations": [
+        {
+          "role": "upstream-art-reference",
+          "title": "fornarwhal · Whale Girl Icon",
+          "url": "https://github.com/fornarwhal/deepseek-whale-girl-icon/blob/bc2ac790e6f6a0cbc88879c56383b6f08ed3ef83/README.md"
+        },
+        {
+          "role": "pinned-design-file",
+          "title": "whale-design.png",
+          "url": "https://github.com/phoiex/AAAAGENT/blob/2b8863d8f39e6e6fa57de61757528b982b5e870b/assets/original-design/whale-design.png"
+        },
+        {
+          "role": "pinned-design-file",
+          "title": "whale-transparent.png",
+          "url": "https://github.com/phoiex/AAAAGENT/blob/2b8863d8f39e6e6fa57de61757528b982b5e870b/assets/original-design/whale-transparent.png"
+        },
+        {
+          "role": "pinned-design-file",
+          "title": "whale-avatar.png",
+          "url": "https://github.com/phoiex/AAAAGENT/blob/2b8863d8f39e6e6fa57de61757528b982b5e870b/assets/original-design/whale-avatar.png"
+        },
+        {
+          "role": "pinned-design-file",
+          "title": "whale-layers.psd",
+          "url": "https://github.com/phoiex/AAAAGENT/blob/2b8863d8f39e6e6fa57de61757528b982b5e870b/assets/original-design/whale-layers.psd"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "publicationDate": null,
+      "publicationDateBasis": "unknown",
+      "addedAt": "2026-11-27",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "httpStatus": 200,
+        "attemptedAt": "2026-11-27T10:50:26.846Z",
+        "scope": "The project’s documented release copies of the three PNGs and 44-layer PSD match its manifest and the pinned Git tree. The exact author of its upstream reference image is unconfirmed."
+      }
+    },
+    {
+      "id": "phoiex-aaaagent",
+      "category": "interactive",
+      "title": {
+        "zh": "AAAAGENT · Live2D 陪伴项目",
+        "en": "AAAAGENT · Live2D Companion",
+        "ja": "AAAAGENT · Live2D コンパニオン"
+      },
+      "summary": {
+        "zh": "项目文档记录 macOS 主线和 Windows 开发版，可接入 Live2D。自制鲸鱼娘目前提供静态稿与分层稿。",
+        "en": "The documentation covers the main macOS app, a Windows development build and Live2D integration. Its own Whale Girl is available as still and layered artwork.",
+        "ja": "文書に主力の macOS 版と Windows 開発版、Live2D 連携を記載。自作クジラ娘は静止画とレイヤー分け素材として公開。"
+      },
+      "rights": {
+        "zh": "项目原创内容注明非商业使用及署名条款。上游参考图的具体作者仍待确认。",
+        "en": "Project originals carry noncommercial and attribution terms. The exact author of the upstream reference artwork remains unconfirmed.",
+        "ja": "プロジェクトのオリジナルは非商用・クレジット条件付き。上流参照画像の具体的な作者は確認待ち。"
+      },
+      "publisher": "phoiex",
+      "url": "https://github.com/phoiex/AAAAGENT/blob/2b8863d8f39e6e6fa57de61757528b982b5e870b/README.md",
+      "evidence": {
+        "path": "content/research/2026-11-27/phoiex-aaaagent.json",
+        "sha256": "9b5f500013310e1cc3f8cba4e13b618e1c0b096f119a683c22af28109667622f",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "LICENSE",
+          "url": "https://github.com/phoiex/AAAAGENT/blob/2b8863d8f39e6e6fa57de61757528b982b5e870b/LICENSE"
+        },
+        {
+          "role": "pinned-document",
+          "title": "THIRD_PARTY_NOTICES.md",
+          "url": "https://github.com/phoiex/AAAAGENT/blob/2b8863d8f39e6e6fa57de61757528b982b5e870b/THIRD_PARTY_NOTICES.md"
+        },
+        {
+          "role": "pinned-document",
+          "title": "assets/original-design/README.md",
+          "url": "https://github.com/phoiex/AAAAGENT/blob/2b8863d8f39e6e6fa57de61757528b982b5e870b/assets/original-design/README.md"
+        },
+        {
+          "role": "pinned-document",
+          "title": "assets/original-design/assets.json",
+          "url": "https://github.com/phoiex/AAAAGENT/blob/2b8863d8f39e6e6fa57de61757528b982b5e870b/assets/original-design/assets.json"
+        },
+        {
+          "role": "upstream-art-reference",
+          "title": "fornarwhal · Whale Girl Icon",
+          "url": "https://github.com/fornarwhal/deepseek-whale-girl-icon/blob/bc2ac790e6f6a0cbc88879c56383b6f08ed3ef83/README.md"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-09-17",
+      "publicationDateBasis": "github-repository-created",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "httpStatus": 200,
+        "attemptedAt": "2026-11-27T10:50:25.786Z",
+        "scope": "Pinned README and permissions documents were checked against Git blob and SHA-256. Feature descriptions are based on the publisher documentation."
+      }
+    },
+    {
+      "id": "pcyblurf-dsh-fish-buddy",
+      "category": "interactive",
+      "title": {
+        "zh": "DSH Fish Buddy · 大肥鱼进度挂件",
+        "en": "DSH Fish Buddy · Whale Progress Widget",
+        "ja": "DSH Fish Buddy · クジラの進捗ウィジェット"
+      },
+      "summary": {
+        "zh": "常驻桌面的小鲸鱼显示 DSH 任务进度。维护者说明 Windows 是主线，实验性 macOS 版暂停研发。",
+        "en": "A small desktop whale displays DSH task progress. The maintainer labels Windows the main platform and macOS experimental and paused.",
+        "ja": "DSH タスクの進捗を小クジラで表示。開発者は Windows を主力、実験的 macOS 版を開発停止中と記載。"
+      },
+      "rights": {
+        "zh": "项目代码注明 MIT。作者另将默认 Q 版帧署名给 vlln，并附素材的许可文档。",
+        "en": "Code uses MIT. The publisher credits vlln for the bundled chibi frames and includes a separate asset license file.",
+        "ja": "コードは MIT。同梱のちびキャラのフレームは vlln とクレジットし、素材ライセンスを別添。"
+      },
+      "publisher": "PCYBlurF",
+      "url": "https://github.com/PCYBlurF/dsh-fish-buddy/blob/890322b2d346fdb20a2a441a1b87d742c0f806aa/README.md",
+      "evidence": {
+        "path": "content/research/2026-11-27/pcyblurf-dsh-fish-buddy.json",
+        "sha256": "72e328e1dbb4137194df80f87a81515af97c22102b3c02d6244df11a476fe173",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "LICENSE",
+          "url": "https://github.com/PCYBlurF/dsh-fish-buddy/blob/890322b2d346fdb20a2a441a1b87d742c0f806aa/LICENSE"
+        },
+        {
+          "role": "pinned-document",
+          "title": "assets/whale/LICENSE.txt",
+          "url": "https://github.com/PCYBlurF/dsh-fish-buddy/blob/890322b2d346fdb20a2a441a1b87d742c0f806aa/assets/whale/LICENSE.txt"
+        },
+        {
+          "role": "credited-sprite-project",
+          "title": "vlln · whale-girl",
+          "url": "https://github.com/vlln/whale-girl/blob/9c32d7a39a45148076f8ad2fdaad2dc2420eedb3/README.zh.md"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-19",
+      "publicationDateBasis": "github-repository-created",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "httpStatus": 200,
+        "attemptedAt": "2026-11-27T10:50:27.541Z",
+        "scope": "Pinned README and permissions documents were checked against Git blob and SHA-256. Feature descriptions are based on the publisher documentation."
+      }
+    },
+    {
+      "id": "buds-deepseek-codex-pet",
+      "category": "interactive",
+      "title": {
+        "zh": "大肥鱼 · Codex 九动作桌宠",
+        "en": "Fat Fish · Nine-state Codex Pet",
+        "ja": "大きな魚 · 9モーションの Codex ペット"
+      },
+      "summary": {
+        "zh": "项目提供 Codex 图集与预览，说明列出 9 种动作和 57 帧。",
+        "en": "The project documents a Codex atlas and preview with nine animation states and 57 frames.",
+        "ja": "Codex アトラスとプレビューを公開。説明には9種類の動作と57フレームを記載。"
+      },
+      "rights": {
+        "zh": "项目为衍生图注明 CC BY-NC-SA 4.0。署名记录指出，参考表情包作者仍待核。",
+        "en": "The project labels its derivative artwork CC BY-NC-SA 4.0. Its attribution notice flags the reference sticker’s author as unverified.",
+        "ja": "派生イラストには CC BY-NC-SA 4.0 と記載。参照したスタンプの作者は出典通知で確認待ち。"
+      },
+      "publisher": "Buds-2025",
+      "url": "https://github.com/Buds-2025/DeepSeek-pet/blob/14bfce95659aa60ba82a3761dcdb10ca52d61d0d/README.md",
+      "evidence": {
+        "path": "content/research/2026-11-27/buds-deepseek-codex-pet.json",
+        "sha256": "91703e6718c34ff824b39aebe9be178e84c6ade97d4a6d6ffac0a8223492fbc4",
+        "kind": "browser-metadata-extract"
+      },
+      "relations": [
+        {
+          "role": "pinned-document",
+          "title": "LICENSE",
+          "url": "https://github.com/Buds-2025/DeepSeek-pet/blob/14bfce95659aa60ba82a3761dcdb10ca52d61d0d/LICENSE"
+        },
+        {
+          "role": "pinned-document",
+          "title": "NOTICE.md",
+          "url": "https://github.com/Buds-2025/DeepSeek-pet/blob/14bfce95659aa60ba82a3761dcdb10ca52d61d0d/NOTICE.md"
+        },
+        {
+          "role": "original-character",
+          "title": "上善无形 · 鲸鱼娘",
+          "url": "https://www.bilibili.com/opus/1231977657712771073"
+        },
+        {
+          "role": "credited-reference-video",
+          "title": "Q 版封面参考",
+          "url": "https://www.bilibili.com/video/BV1BtND69Euf/"
+        }
+      ],
+      "usage": "source-only",
+      "downloadable": false,
+      "addedAt": "2026-11-27",
+      "publicationDate": "2026-10-09",
+      "publicationDateBasis": "github-repository-created",
+      "verification": {
+        "result": "metadata-verified",
+        "method": "github-rest-tree-and-isolated-headless-google-chrome",
+        "httpStatus": 200,
+        "attemptedAt": "2026-11-27T10:50:28.634Z",
+        "scope": "Pinned README and permissions documents were checked against Git blob and SHA-256. Feature descriptions are based on the publisher documentation."
       }
     }
   ]

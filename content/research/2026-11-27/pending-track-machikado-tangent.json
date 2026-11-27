@@ -1,0 +1,40 @@
+{
+  "url": "https://www.tbs.co.jp/anime/machikado/1st/goods/cd.html",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:50:30.097Z",
+  "scope": "The anime release page verifies the original opening. The candidate association is inferred from its retained title. The official video endpoint did not return video data, and the audio or exact recording remains unconfirmed.",
+  "officialRelease": {
+    "id": "machikado",
+    "url": "https://www.tbs.co.jp/anime/machikado/1st/goods/cd.html",
+    "finalUrl": "https://www.tbs.co.jp/anime/machikado/1st/goods/cd.html",
+    "title": "TVアニメ「まちカドまぞく」公式ホームページ｜TBSテレビ",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-27T10:50:30.097Z",
+    "htmlSha256": "2bf8bc535d1926107db9e001ecf40bc71b7b9450b1de82d97fd3734d46100910",
+    "textSha256": "b2a93aa310b8b7bdb468f4ccbce777395b3d9d7cd0f81972a2b6dfc48d099885",
+    "matches": [
+      "まちカドまぞく",
+      "1. 町かどタンジェント",
+      "作詞・作曲・編曲：辻林美穂",
+      "3. 町かどタンジェント（instrumental）",
+      "5. 町かどタンジェント（TV size edit）",
+      "2. 町かどタンジェント",
+      "作詞・作曲・編曲：辻林美穂",
+      "4. 町かどタンジェント（instrumental）",
+      "©伊藤いづも・芳文社／まちカドまぞく製作委員会"
+    ]
+  },
+  "secondaryRelease": null,
+  "candidate": {
+    "bvid": "BV1ka446JEsY",
+    "title": "【7月新番/DS×Claude】街角AI娘",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ka446JEsY",
+    "observedAt": "2026-11-27T10:50:31.422Z",
+    "code": -404
+  },
+  "candidateEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json",
+    "sha256": "eaf566a8ae5c6a1285d2c5ee8908613da57e332c4b891f7f229da8ce864cb856",
+    "kind": "browser-metadata-extract"
+  }
+}

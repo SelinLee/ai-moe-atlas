@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1eXnc6EEwp/",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:49:47.784Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eXnc6EEwp",
+  "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented.",
+  "metadata": {
+    "bvid": "BV1eXnc6EEwp",
+    "title": "【本地Minimax H3】一轮生成说谎的DeepSeek",
+    "owner": {
+      "name": "渡鸦试作型",
+      "mid": 8526206
+    },
+    "pubdate": 1792487339,
+    "duration": 170
+  },
+  "descriptionSha256": "eb646637ce09dc06ba14ef1ddf8316ee58e0ee41c6b249cd1052afc8236c65f0",
+  "sourceLinks": [
+    {
+      "role": "song-author-release",
+      "title": "暴飲暴食P feat. 重音テト · うそつきマカロン",
+      "url": "https://www.bilibili.com/video/BV19A8R69EYk/"
+    }
+  ],
+  "verifiedOriginalRecording": {
+    "path": "content/research/2026-11-27/usotsuki-macaron-original-and-deepseek-video.json",
+    "sha256": "e4874cc8f9a157281353abdba7df1c7a0f00b1549ffcf2e36b2e4addda2f6a4c",
+    "kind": "browser-metadata-extract"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1HYx86pEyM/",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:49:49.328Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HYx86pEyM",
+  "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented.",
+  "metadata": {
+    "bvid": "BV1HYx86pEyM",
+    "title": "我桌上养了只 AI 娘，她画的东西不敢让我看",
+    "owner": {
+      "name": "甶丶",
+      "mid": 1758596086
+    },
+    "pubdate": 1793561565,
+    "duration": 16
+  },
+  "descriptionSha256": "d3db9e6df7af6e76122866e07b745d093a95f482793c52e7b7946efe1e0d39a5",
+  "sourceLinks": [
+    {
+      "role": "original-character-setting",
+      "title": "甶丶 · MOSS 娘",
+      "url": "https://www.bilibili.com/opus/1265454286364475399"
+    }
+  ]
+}

@@ -1,0 +1,206 @@
+{
+  "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/%E8%AE%BE%E5%AE%9A.md",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:49:33.445Z",
+  "scope": "Pinned creator setting names the artist, license, visual designs and referenced brand elements. Thirteen original files were retained privately and checked against Git blob and SHA-256.",
+  "attribution": [
+    {
+      "name": "甶丶",
+      "url": "https://space.bilibili.com/1758596086",
+      "role": "original-character",
+      "publication": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/%E8%AE%BE%E5%AE%9A.md"
+    }
+  ],
+  "repository": "fuzhu-ai-chan/ai-chan-designs",
+  "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+  "firstRelease": "2026-11-22",
+  "firstReleaseVersion": "v1.5",
+  "pinnedDocument": {
+    "path": "角色/workbuddy/设定.md",
+    "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/%E8%AE%BE%E5%AE%9A.md",
+    "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/%E8%AE%BE%E5%AE%9A.md",
+    "sourceSha256": "ddc20f895409c40655e81effc0bc08a90be5827466aa975e3fb9da4652532696",
+    "gitBlobSha": "df3ff1d617776982df8ec580ea84c814caab3bfb",
+    "bytes": 2273,
+    "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+    "accessedAt": "2026-11-27T10:49:33.445Z"
+  },
+  "license": "CC BY-NC-SA 4.0",
+  "brandElements": {
+    "zh": "设定引用 WorkBuddy 桌面图标的元素。",
+    "en": "The design incorporates elements from the WorkBuddy desktop icon.",
+    "ja": "設定には WorkBuddy デスクトップアイコンの要素を使用。"
+  },
+  "files": [
+    {
+      "path": "角色/workbuddy/设定.md",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/%E8%AE%BE%E5%AE%9A.md",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/%E8%AE%BE%E5%AE%9A.md",
+      "sourceSha256": "ddc20f895409c40655e81effc0bc08a90be5827466aa975e3fb9da4652532696",
+      "gitBlobSha": "df3ff1d617776982df8ec580ea84c814caab3bfb",
+      "bytes": 2273,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:33.445Z"
+    },
+    {
+      "path": "版权与授权.md",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+      "sourceSha256": "50b17ef47d1ffb316624abc5b8972314281dad431631f89b1bcf00ec91d580eb",
+      "gitBlobSha": "99c0cdd2dea890a599b933752dbc43b904e0aaf8",
+      "bytes": 3790,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:04.563Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/LICENSE",
+      "sourceSha256": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11",
+      "gitBlobSha": "baee873b679e36a4123c83b8a29e0fb17fad14eb",
+      "bytes": 19018,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:04.255Z"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/CHANGELOG.md",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/CHANGELOG.md",
+      "sourceSha256": "fc20c5c10297af837f64e5c0818abcf60c4f21502b1afea7cab58fca21ec7ea6",
+      "gitBlobSha": "80cacf5d2b4dbd292a9b10402b48462525256492",
+      "bytes": 26059,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:04.896Z"
+    },
+    {
+      "path": "角色/workbuddy/01_立绘/workbuddy a 中.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/01_%E7%AB%8B%E7%BB%98/workbuddy%20a%20%E4%B8%AD.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/01_%E7%AB%8B%E7%BB%98/workbuddy%20a%20%E4%B8%AD.png",
+      "sourceSha256": "34c51ac8fb54e1b47de8c5212f9ca84b617f22ba67d10c3aa1d2bc575732cbfd",
+      "gitBlobSha": "04f67775213560fc2873af57c3ab36aca36cf370",
+      "bytes": 1173891,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:25.997Z"
+    },
+    {
+      "path": "角色/workbuddy/01_立绘/workbuddy a 大.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/01_%E7%AB%8B%E7%BB%98/workbuddy%20a%20%E5%A4%A7.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/01_%E7%AB%8B%E7%BB%98/workbuddy%20a%20%E5%A4%A7.png",
+      "sourceSha256": "f5eaa2a9d3996539e1d253f950263d1df56395e20fe1fb6021405e4bd1466f50",
+      "gitBlobSha": "d30e99639edf4d3dca3221115dadd99bcce384fc",
+      "bytes": 1910982,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:26.587Z"
+    },
+    {
+      "path": "角色/workbuddy/01_立绘/workbuddy a 小.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/01_%E7%AB%8B%E7%BB%98/workbuddy%20a%20%E5%B0%8F.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/01_%E7%AB%8B%E7%BB%98/workbuddy%20a%20%E5%B0%8F.png",
+      "sourceSha256": "310e56468194c0ebf58e2c101cdf4dba7e0c48e7625007d212c9d826d39df3dd",
+      "gitBlobSha": "414bed3307a29527e9a6c425abdb159857d7e4e9",
+      "bytes": 1216742,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:27.210Z"
+    },
+    {
+      "path": "角色/workbuddy/01_立绘/workbuddy b 中.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/01_%E7%AB%8B%E7%BB%98/workbuddy%20b%20%E4%B8%AD.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/01_%E7%AB%8B%E7%BB%98/workbuddy%20b%20%E4%B8%AD.png",
+      "sourceSha256": "703f8221ce797ed9c1eb17bb4b454d527146b5948ca9825ffd925d4822b772d9",
+      "gitBlobSha": "34330086ea7f1b097b3e864d3dbe9fec572b568b",
+      "bytes": 1017607,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:27.707Z"
+    },
+    {
+      "path": "角色/workbuddy/01_立绘/workbuddy b 大.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/01_%E7%AB%8B%E7%BB%98/workbuddy%20b%20%E5%A4%A7.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/01_%E7%AB%8B%E7%BB%98/workbuddy%20b%20%E5%A4%A7.png",
+      "sourceSha256": "da1ef5b0fd7b0a1dfb7ae514df721c3032c7de228e9120da41b918d0a2c113c9",
+      "gitBlobSha": "ed3d5f2e8a1a1397e55ddea80c583bceb9810bb0",
+      "bytes": 1209702,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:28.235Z"
+    },
+    {
+      "path": "角色/workbuddy/01_立绘/workbuddy b 小.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/01_%E7%AB%8B%E7%BB%98/workbuddy%20b%20%E5%B0%8F.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/01_%E7%AB%8B%E7%BB%98/workbuddy%20b%20%E5%B0%8F.png",
+      "sourceSha256": "4c45cb801f967b31bab024aabef7952da1c995d9aae4002828946aa5ef81a321",
+      "gitBlobSha": "ee8bd343d314729682869d63cefbaf4facc13ffc",
+      "bytes": 1039927,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:28.849Z"
+    },
+    {
+      "path": "角色/workbuddy/02_三视图/workbuddy 三视图 奇幻.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/02_%E4%B8%89%E8%A7%86%E5%9B%BE/workbuddy%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E5%A5%87%E5%B9%BB.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/02_%E4%B8%89%E8%A7%86%E5%9B%BE/workbuddy%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E5%A5%87%E5%B9%BB.png",
+      "sourceSha256": "8f6c696a4f3a621ec99f08b30759dbec5dd780c62f790f4eb26ec68e68b814d6",
+      "gitBlobSha": "3ad7d8b8ec7efa678efc5b2d4d98635711677ce8",
+      "bytes": 1660545,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:29.468Z"
+    },
+    {
+      "path": "角色/workbuddy/02_三视图/workbuddy 三视图 科技.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/02_%E4%B8%89%E8%A7%86%E5%9B%BE/workbuddy%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E7%A7%91%E6%8A%80.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/02_%E4%B8%89%E8%A7%86%E5%9B%BE/workbuddy%20%E4%B8%89%E8%A7%86%E5%9B%BE%20%E7%A7%91%E6%8A%80.png",
+      "sourceSha256": "39c3b474c3f655b83e75f361305a718c3393cd3d53902a17c5937613b23107ab",
+      "gitBlobSha": "ac0976f0feffbf1bf3b61b159bfebbc9ed4b396c",
+      "bytes": 1533272,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:30.029Z"
+    },
+    {
+      "path": "角色/workbuddy/03_补充设定/workbuddy 补充设定.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/03_%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A/workbuddy%20%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/03_%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A/workbuddy%20%E8%A1%A5%E5%85%85%E8%AE%BE%E5%AE%9A.png",
+      "sourceSha256": "e4bb7d14f945654c3f319be6dd8f23f0ffc4face5f2be7d39f481c606e586f4d",
+      "gitBlobSha": "b038a2e4ee3e2eb1e2b09cb4654aef39a675fa84",
+      "bytes": 1883734,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:30.674Z"
+    },
+    {
+      "path": "角色/workbuddy/04_Q版/workbuddy Q版 a.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/04_Q%E7%89%88/workbuddy%20Q%E7%89%88%20a.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/04_Q%E7%89%88/workbuddy%20Q%E7%89%88%20a.png",
+      "sourceSha256": "ee5499e61aacc44bdefdfb5cf0c2f90b96df11ed2bf118d3590962d2ea87b7cd",
+      "gitBlobSha": "1a23aa84cab0859602ab69e97d2d727516b8d43e",
+      "bytes": 1578738,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:31.213Z"
+    },
+    {
+      "path": "角色/workbuddy/04_Q版/workbuddy Q版 b.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/04_Q%E7%89%88/workbuddy%20Q%E7%89%88%20b.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/04_Q%E7%89%88/workbuddy%20Q%E7%89%88%20b.png",
+      "sourceSha256": "50a0418ac86b4cbca453bb37eb7beef0b386578471587ab84d13e8d2c6bc8008",
+      "gitBlobSha": "8041be78f3159adfdc1c49d62e9e2cb64049f4c7",
+      "bytes": 1149900,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:31.779Z"
+    },
+    {
+      "path": "角色/workbuddy/05_头像/workbuddy 头像 a.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/05_%E5%A4%B4%E5%83%8F/workbuddy%20%E5%A4%B4%E5%83%8F%20a.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/05_%E5%A4%B4%E5%83%8F/workbuddy%20%E5%A4%B4%E5%83%8F%20a.png",
+      "sourceSha256": "8febb98e5894786ebaeff0227d2cfa224abac4a5f4037a7677983138b757c621",
+      "gitBlobSha": "828c7557f0cb4043ba5c9ce47b3871d09f062fe6",
+      "bytes": 1527709,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:32.466Z"
+    },
+    {
+      "path": "角色/workbuddy/05_头像/workbuddy 头像 b.png",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/05_%E5%A4%B4%E5%83%8F/workbuddy%20%E5%A4%B4%E5%83%8F%20b.png",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/workbuddy/05_%E5%A4%B4%E5%83%8F/workbuddy%20%E5%A4%B4%E5%83%8F%20b.png",
+      "sourceSha256": "f04ea526a2a5a354c0061f9a2fe29333c8c38d8e425d7b48f26eb1dcd1a71e51",
+      "gitBlobSha": "1e77838c24d578caa934ed5e9c9cd21d3f8ebbbd",
+      "bytes": 1511987,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:49:33.110Z"
+    }
+  ]
+}

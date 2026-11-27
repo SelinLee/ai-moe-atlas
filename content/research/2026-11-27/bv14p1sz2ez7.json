@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV14P1sz2Ez7/",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:49:46.243Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV14P1sz2Ez7",
+  "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented.",
+  "metadata": {
+    "bvid": "BV14P1sz2Ez7",
+    "title": "【仿百舌谷代码动画】MiniMax小章鱼的声波皇冠-Opus5.5 震惊瘫坐",
+    "owner": {
+      "name": "观月时雨_sigure",
+      "mid": 7224340
+    },
+    "pubdate": 1795757914,
+    "duration": 65
+  },
+  "descriptionSha256": "9dd4223519ed1505171977ae5633ae8d7f831bcc51134ce1c3e4eab509c14d8a",
+  "sourceLinks": [
+    {
+      "role": "uploader-cited-video",
+      "title": "linear ring · enchanted love / 百舌谷",
+      "url": "https://www.youtube.com/watch?v=qE6mruRB1PA"
+    }
+  ]
+}

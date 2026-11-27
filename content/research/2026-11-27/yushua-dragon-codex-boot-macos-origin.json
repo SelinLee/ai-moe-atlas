@@ -1,0 +1,28 @@
+{
+  "url": "https://github.com/yushua0808-cpu/dragon-codex-boot/blob/c63a203e5857e85fb3c8a9891eddb570e7a27b54/README.md",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:49:55.415Z",
+  "scope": "The pinned Windows documentation stays linked. The GitHub REST record confirms the merged macOS PR, and the view endpoint verifies the public demo title, uploader, and description.",
+  "originalEvidence": {
+    "path": "content/research/2026-11-26/yushua-dragon-codex-boot.json",
+    "sha256": "69fb96d1ad46d66d8f251f8cb7f1493171986137b2206954cfc457ffcd855b27",
+    "kind": "browser-metadata-extract"
+  },
+  "macos": {
+    "url": "https://github.com/yushua0808-cpu/dragon-codex-boot/pull/1",
+    "submitter": "Asa12138",
+    "submittedAt": "2026-10-09T06:38:44Z",
+    "mergedAt": "2026-10-17T14:31:53Z",
+    "mergeCommit": "6007a4ca895cf2f843dcdca3d8cbe4b9108f2b7e",
+    "bodySha256": "3fc0332056000b4bc05c4834f6498529070e8b191f134e5c5b4022741778c6b3",
+    "sourceUrl": "https://api.github.com/repos/yushua0808-cpu/dragon-codex-boot/pulls/1"
+  },
+  "demo": {
+    "url": "https://www.bilibili.com/video/BV1xSpv6KEP6/",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xSpv6KEP6",
+    "observedAt": "2026-11-27T10:49:55.414Z",
+    "publisher": "Asa的AILab",
+    "publisherId": 618976019,
+    "descriptionSha256": "2ebb90d3c07cdfd137a5c16748487dbb6ca4a20ba6557ab2464c0a0fea5fb250"
+  }
+}

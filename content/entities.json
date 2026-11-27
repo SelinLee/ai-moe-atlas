@@ -280,5 +280,17 @@
     "name": "NVIDIA Nemotron",
     "provider": "NVIDIA",
     "url": "https://www.nvidia.com/en-us/ai-data-science/foundation-models/nemotron/"
+  },
+  {
+    "id": "microsoft-mai",
+    "name": "Microsoft AI (MAI)",
+    "provider": "Microsoft",
+    "url": "https://microsoft.ai/"
+  },
+  {
+    "id": "tencent-workbuddy",
+    "name": "Tencent WorkBuddy",
+    "provider": "Tencent",
+    "url": "https://cloud.tencent.com/product/workbuddy"
   }
 ]

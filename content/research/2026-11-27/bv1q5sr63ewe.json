@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1q5sr63EwE/",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:49:52.381Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1q5sr63EwE",
+  "scope": "Official view response confirms the BV, title, uploader, publication time and cumulative likes. Linked creative references are identified by the uploader unless separately documented.",
+  "metadata": {
+    "bvid": "BV1q5sr63EwE",
+    "title": "【第18集】龙娘：小狐狸，你的毛绒小手连牌都拿不稳，赢的了我？【AI全民制作人】",
+    "owner": {
+      "name": "桔识",
+      "mid": 23532362
+    },
+    "pubdate": 1794924325,
+    "duration": 159
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": []
+}
