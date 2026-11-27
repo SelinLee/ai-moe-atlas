@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1XrnB6nEjg/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XrnB6nEjg",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T06:07:49.365Z",
+  "scope": "Bilibili’s view API returned video identity, date, uploader and cumulative likes. Source links cited in the description retain their uploader attribution.",
+  "metadata": {
+    "bvid": "BV1XrnB6nEjg",
+    "title": "《让TOKENS飞》｜什么叫惊喜？大肥鱼：翻译翻译！Claude：三天之后，统统清查｜AI 娘小剧场｜GPT｜DEEPSEEK｜豆包｜大肥鱼｜申遗｜让子弹飞",
+    "owner": {
+      "name": "行走的海蚂蚁",
+      "mid": 641506
+    },
+    "pubdate": 1792584300,
+    "duration": 79
+  },
+  "descriptionSha256": "4d5b43bbe0654959636cff7025592c8f0d306e36f7ead81d19b1c1c8f36d254b",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "行走的海蚂蚁",
+      "url": "https://space.bilibili.com/641506"
+    }
+  ]
+}

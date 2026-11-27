@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1FbHG6tELq/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1FbHG6tELq",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T06:07:45.541Z",
+  "scope": "Bilibili’s view API returned video identity, date, uploader and cumulative likes. Source links cited in the description retain their uploader attribution.",
+  "metadata": {
+    "bvid": "BV1FbHG6tELq",
+    "title": "【AI旅行】Claude来中国找一个人，第一站成都｜填满地图上的空白 EP01",
+    "owner": {
+      "name": "愿天降伊卡洛斯",
+      "mid": 268663647
+    },
+    "pubdate": 1792910144,
+    "duration": 246
+  },
+  "descriptionSha256": "23436378773e6b67d4e9e12fbe7ab03c0bb247605e655bbe07b8035be44da388",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "愿天降伊卡洛斯",
+      "url": "https://space.bilibili.com/268663647"
+    },
+    {
+      "role": "same-series",
+      "title": "愿天降伊卡洛斯 · 杭州 EP02",
+      "url": "https://www.bilibili.com/video/BV1Bknd6CEDG/"
+    }
+  ]
+}

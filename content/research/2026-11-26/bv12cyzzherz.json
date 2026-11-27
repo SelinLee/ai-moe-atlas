@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV12CyzzHERZ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12CyzzHERZ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T06:07:52.523Z",
+  "scope": "Bilibili’s view API returned video identity, date, uploader and cumulative likes. Source links cited in the description retain their uploader attribution.",
+  "metadata": {
+    "bvid": "BV12CyzzHERZ",
+    "title": "【Claude封号小曲】本小姐说得对 Absolutely Right｜原创歌曲 MV",
+    "owner": {
+      "name": "_故今安",
+      "mid": 701474111
+    },
+    "pubdate": 1795602571,
+    "duration": 145
+  },
+  "descriptionSha256": "451d6fb2a79695e6304c71a8042fe3c4a5eee703d9c410155059fbcbcfe643d6",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "_故今安",
+      "url": "https://space.bilibili.com/701474111"
+    }
+  ]
+}

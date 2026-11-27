@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1oKy6ziEMX/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oKy6ziEMX",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T06:07:52.528Z",
+  "scope": "Bilibili’s view API returned video identity, date, uploader and cumulative likes. Source links cited in the description retain their uploader attribution.",
+  "metadata": {
+    "bvid": "BV1oKy6ziEMX",
+    "title": "大肥鱼把一句「在？」唱成了一首歌！｜原创歌曲《在？》",
+    "owner": {
+      "name": "临时的Wing翼",
+      "mid": 15312
+    },
+    "pubdate": 1795597640,
+    "duration": 260
+  },
+  "descriptionSha256": "c3717f29d65573e108b8ea03246ffbda8b88be46751cec62fb3f4757f3ef701c",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "临时的Wing翼",
+      "url": "https://space.bilibili.com/15312"
+    },
+    {
+      "role": "upload-cited-by-publisher",
+      "title": "BV1j6yVzbEHi",
+      "url": "https://www.bilibili.com/video/BV1j6yVzbEHi/"
+    }
+  ]
+}

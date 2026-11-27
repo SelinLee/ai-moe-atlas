@@ -438,5 +438,25 @@
       "en": "Verify the image-specific display, republication and adaptation terms.",
       "ja": "個別画像の表示・転載・改変条件を確認する。"
     }
+  },
+  {
+    "entity": "gemini-notebook",
+    "characterId": "senpibi-notebook-nooton",
+    "reviewedAt": "2026-11-26",
+    "nextAction": {
+      "zh": "保留原发布入口。原图转载与再利用条件待核。",
+      "en": "Original publication linked. Artwork republication and reuse terms remain unconfirmed.",
+      "ja": "原公開先を掲載。画像の転載・再利用条件は確認待ち。"
+    }
+  },
+  {
+    "entity": "codex",
+    "characterId": "fuh-codex-mechanical-dragon",
+    "reviewedAt": "2026-11-26",
+    "nextAction": {
+      "zh": "图鉴索引原发布与证据。",
+      "en": "The atlas links to the original publication and evidence.",
+      "ja": "図鑑は原公開先と確認記録を掲載。"
+    }
   }
 ]

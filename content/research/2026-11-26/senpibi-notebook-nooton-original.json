@@ -1,0 +1,70 @@
+{
+  "url": "https://cent-p2b2.hatenablog.com/entry/2026/07/11/043612",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-26T06:08:33.832Z",
+  "scope": "The author names の～とん as the NotebookLM personification. The following article serves the identical image; Google verifies the NotebookLM product rename.",
+  "identity": "gemini-notebook",
+  "attribution": [
+    {
+      "name": "せんぴび",
+      "url": "https://cent-p2b2.hatenablog.com/",
+      "role": "original-character",
+      "publication": "https://cent-p2b2.hatenablog.com/entry/2026/07/11/043612"
+    }
+  ],
+  "page": {
+    "url": "https://cent-p2b2.hatenablog.com/entry/2026/07/11/043612",
+    "finalUrl": "https://cent-p2b2.hatenablog.com/entry/2026/07/11/043612",
+    "httpStatus": 200,
+    "title": "AIと3人でブログ記事を作ってみた【追加】 - 兼業投資家のデジタル菜園",
+    "accessedAt": "2026-11-26T06:08:33.832Z",
+    "htmlSha256": "b500e58e443c4118b2e9188d111bb8f92c4ce97507fe7b89cb73fcdeb4eca390",
+    "textSha256": "8dac56a8d10917ec43c95157f621eaca5a1a62ef82645fba8d4d69404f463d4b"
+  },
+  "file": {
+    "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/c/cent-p2b2/20260711/20260711041724.png",
+    "httpStatus": 200,
+    "sourceSha256": "568930f97a510180ad69cdbb116730efca80188787be40096f1964b1e871ff33",
+    "bytes": 1064960,
+    "width": 833,
+    "height": 833,
+    "format": "png",
+    "accessedAt": "2026-11-26T06:08:35.940Z",
+    "scope": "Exact image version served by the linked original publisher page.",
+    "embeddedUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/c/cent-p2b2/20260711/20260711041724.png",
+    "alt": "の～とん",
+    "normalization": "None; served bytes retained privately."
+  },
+  "matchingImageInFollowUp": {
+    "url": "https://cent-p2b2.hatenablog.com/entry/2026/07/12/060200",
+    "finalUrl": "https://cent-p2b2.hatenablog.com/entry/2026/07/12/060200",
+    "httpStatus": 200,
+    "title": "AIと４人でブログ記事を作ってみた - 兼業投資家のデジタル菜園",
+    "accessedAt": "2026-11-26T06:08:33.834Z",
+    "htmlSha256": "d5db0131fdfec9c941a9bbb06973b173845ccd425900f35854bfc98ff9937bca",
+    "textSha256": "4c3402c37b8b91a864f6a0c71079f96e3a58b68fbcef4d031ac85bf78bcc2ef7",
+    "file": {
+      "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/c/cent-p2b2/20260711/20260711041724.png",
+      "httpStatus": 200,
+      "sourceSha256": "568930f97a510180ad69cdbb116730efca80188787be40096f1964b1e871ff33",
+      "bytes": 1064960,
+      "width": 833,
+      "height": 833,
+      "format": "png",
+      "accessedAt": "2026-11-26T06:08:35.934Z",
+      "scope": "Exact image version served by the linked original publisher page.",
+      "embeddedUrl": "https://cdn-ak.f.st-hatena.com/images/fotolife/c/cent-p2b2/20260711/20260711041724.png",
+      "alt": "の～とん",
+      "normalization": "None; served bytes retained privately."
+    }
+  },
+  "officialProductRename": {
+    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+    "finalUrl": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
+    "httpStatus": 200,
+    "title": "NotebookLM is now Gemini Notebook",
+    "accessedAt": "2026-11-26T06:06:47.777Z",
+    "htmlSha256": "16aa9dc35393dfe520c97bf6975c876e0b672f2e67faad25fe62144cda7610f5",
+    "textSha256": "5c05eb3d2ab6e9186ac1f4e249a054363d5273572db7b53bf0b57993be46a6a3"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1aJxe6mEv8/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1aJxe6mEv8",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T06:07:26.439Z",
+  "scope": "Same creator, upload titles marked Gemini specials; sequence follows the publication times of these six verified uploads.",
+  "officialVideo": {
+    "bvid": "BV1aJxe6mEv8",
+    "title": "《再下一次》番外Gemini完结篇",
+    "owner": {
+      "name": "萤火之森QWQ",
+      "mid": 482116663
+    },
+    "pubdate": 1793331268,
+    "duration": 187
+  },
+  "descriptionSha256": "2116e0d835834a42ffb34d2a119b9407181b978da9af30c9da0e79885c2827e4",
+  "sourceLinks": [
+    {
+      "role": "original-creator",
+      "title": "萤火之森QWQ",
+      "url": "https://space.bilibili.com/482116663"
+    },
+    {
+      "role": "previous-in-verified-sequence",
+      "title": "今天不想笑",
+      "url": "https://www.bilibili.com/video/BV1uKxc6EEw4/"
+    }
+  ]
+}

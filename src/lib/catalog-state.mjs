@@ -3,7 +3,7 @@ export function readFilters(search, models) {
   return {
     q: (p.get('q') ?? '').slice(0, 200),
     model: models.includes(p.get('model')) ? p.get('model') : 'all',
-    style: ['anime', 'pixel'].includes(p.get('style')) ? p.get('style') : 'all',
+    style: ['anime', 'pixel', 'mascot'].includes(p.get('style')) ? p.get('style') : 'all',
     kind: ['collected', 'reference'].includes(p.get('kind')) ? p.get('kind') : 'all',
   };
 }

@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ckyJzHE83/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ckyJzHE83",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T06:07:50.948Z",
+  "scope": "Bilibili’s view API returned video identity, date, uploader and cumulative likes. Source links cited in the description retain their uploader attribution.",
+  "metadata": {
+    "bvid": "BV1ckyJzHE83",
+    "title": "【映像社修罗场.EP01】和几位AI娘组成映像社会遇到什么？",
+    "owner": {
+      "name": "futsu白neko",
+      "mid": 39902155
+    },
+    "pubdate": 1795426200,
+    "duration": 92
+  },
+  "descriptionSha256": "f0004631e55fe801f870675ff79aed932078188434bae8f1dd3987b49e1980fb",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "futsu白neko",
+      "url": "https://space.bilibili.com/39902155"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://space.bilibili.com/4168597"
+    }
+  ]
+}

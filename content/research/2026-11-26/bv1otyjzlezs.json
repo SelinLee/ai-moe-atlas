@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1oTyJzLEZs/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oTyJzLEZs",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T06:07:47.551Z",
+  "scope": "Bilibili’s view API returned video identity, date, uploader and cumulative likes. Source links cited in the description retain their uploader attribution.",
+  "metadata": {
+    "bvid": "BV1oTyJzLEZs",
+    "title": "【小剧场】算力不足！deepseek和kimi可要遭罪了",
+    "owner": {
+      "name": "_故今安",
+      "mid": 701474111
+    },
+    "pubdate": 1795405435,
+    "duration": 135
+  },
+  "descriptionSha256": "039404f07e40ef9bbafb2635a470b326288f79a39120b815ac4830f5678d6c99",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "_故今安",
+      "url": "https://space.bilibili.com/701474111"
+    }
+  ]
+}

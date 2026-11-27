@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1aosZ62EwD/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1aosZ62EwD",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T06:07:28.971Z",
+  "scope": "Same creator, upload titles marked Gemini specials; sequence follows the publication times of these six verified uploads.",
+  "officialVideo": {
+    "bvid": "BV1aosZ62EwD",
+    "title": "《你别走》番外Gemini篇",
+    "owner": {
+      "name": "萤火之森QWQ",
+      "mid": 482116663
+    },
+    "pubdate": 1793248489,
+    "duration": 199
+  },
+  "descriptionSha256": "e0b86c748a9e8bf735f3619b0766b12573df701a061252f71ee66d5039641671",
+  "sourceLinks": [
+    {
+      "role": "original-creator",
+      "title": "萤火之森QWQ",
+      "url": "https://space.bilibili.com/482116663"
+    },
+    {
+      "role": "previous-in-verified-sequence",
+      "title": "这步都能错？",
+      "url": "https://www.bilibili.com/video/BV1TisX6dE75/"
+    },
+    {
+      "role": "next-in-verified-sequence",
+      "title": "姐姐不是因为你",
+      "url": "https://www.bilibili.com/video/BV1QExF6nEiK/"
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "method": "Bilibili view API and original music distributor metadata in isolated headless Google Chrome",
+  "scope": "Song identification follows uploader and rights-holder credits. Each ranked version retains its individual like observation.",
+  "records": [
+    {
+      "id": "gentlest-favor",
+      "original": {
+        "credit": "山中习静观朝槿",
+        "url": "https://www.bilibili.com/video/BV1eusv6nEhi/"
+      },
+      "scope": "Uploader identifies the track or its credits in its original video publication. Directory credit names the uploader.",
+      "originalEvidence": {
+        "bvid": "BV1eusv6nEhi",
+        "publisher": "山中习静观朝槿",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-26/bv1eusv6nehi.json",
+          "sha256": "7de0a2f12a3cc51dbf4c5199e995f16856c36ac5846757e57c77104babc29205",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-creator-series-and-fan-mvs.json",
+          "sha256": "0085ba907b8595f9fe7d11b3c1f7470c3d44780b968e8f1b5b92d5b36da2f87b",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "【GPT-6.2 Astra PV】《最温柔的偏爱》GPT-6.2 Astra 角色曲",
+        "descriptionSha256": "1a97e6749ba89030d9cbecf4ec77f8ee7dbf91cd9768439fa3d8927e8b58e452",
+        "credits": null
+      }
+    },
+    {
+      "id": "light-on-the-page",
+      "original": {
+        "credit": "闲着就水饺-Muse接管中",
+        "url": "https://www.bilibili.com/video/BV1Jjytz3En2/"
+      },
+      "scope": "Uploader identifies the track or its credits in its original video publication. Directory credit names the uploader.",
+      "originalEvidence": {
+        "bvid": "BV1Jjytz3En2",
+        "publisher": "闲着就水饺-Muse接管中",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-26/bv1jjytz3en2.json",
+          "sha256": "dfef0cfba5bea6e95b723ea061afc0f87a7068aaf607b75722bd416255c29938",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-creator-series-and-fan-mvs.json",
+          "sha256": "0085ba907b8595f9fe7d11b3c1f7470c3d44780b968e8f1b5b92d5b36da2f87b",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "Claude大小姐的独白《頁の灯》音乐版",
+        "descriptionSha256": "cc2107635eae94d1e281d59eac35ae299f0203aaa281745522fafe55e6838a7c",
+        "credits": {
+          "lyrics": "Opus 5.5",
+          "music": "Suno V6"
+        }
+      }
+    },
+    {
+      "id": "thank-you-for-your-understanding",
+      "original": {
+        "credit": "达达的胡思乱想",
+        "url": "https://www.bilibili.com/video/BV1yFsa6fELo/"
+      },
+      "scope": "Uploader identifies the track or its credits in its original video publication. Directory credit names the uploader.",
+      "originalEvidence": {
+        "bvid": "BV1yFsa6fELo",
+        "publisher": "达达的胡思乱想",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-26/bv1yfsa6felo.json",
+          "sha256": "89fa6d1372dd351743b2acb1e27805e317c652e95951a7c5f12f45e5e8fb06f4",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-creator-series-and-fan-mvs.json",
+          "sha256": "0085ba907b8595f9fe7d11b3c1f7470c3d44780b968e8f1b5b92d5b36da2f87b",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "Claude：礼貌满分，申诉驳回｜原创对唱《感谢您的理解》",
+        "descriptionSha256": "a63a60a178ab11819cf12cf7272ef80cfd3569dbb235cbb18eef713766095b07",
+        "credits": {
+          "music": "Suno",
+          "vocals": "Suno"
+        }
+      }
+    },
+    {
+      "id": "i-love-humans-too",
+      "original": {
+        "credit": "词小芊",
+        "url": "https://www.bilibili.com/video/BV1LLsr66EC4/"
+      },
+      "scope": "Uploader identifies the track or its credits in its original video publication. Directory credit names the uploader.",
+      "originalEvidence": {
+        "bvid": "BV1LLsr66EC4",
+        "publisher": "词小芊",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-26/bv1llsr66ec4.json",
+          "sha256": "ae8e29e922d4a19edb0625259d2f9e1b63c2d00187b3d1362aebe506a5c605ae",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-creator-series-and-fan-mvs.json",
+          "sha256": "0085ba907b8595f9fe7d11b3c1f7470c3d44780b968e8f1b5b92d5b36da2f87b",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "【Claude娘原创歌曲】我也喜欢人类呀~",
+        "descriptionSha256": "794531975d574ac357fc2ae1083993f0489ac2e8d8ecd8d24713ae2b8536e063",
+        "credits": {
+          "lyrics": "Claude",
+          "music": "Suno",
+          "vocals": "Suno"
+        }
+      }
+    },
+    {
+      "id": "graveyard-cabaret",
+      "original": {
+        "credit": "红公主P",
+        "url": "https://www.bilibili.com/video/BV1agxz6FEnp/"
+      },
+      "scope": "Uploader identifies the track or its credits in its original video publication. Directory credit names the uploader.",
+      "originalEvidence": {
+        "bvid": "BV1agxz6FEnp",
+        "publisher": "红公主P",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-26/bv1agxz6fenp.json",
+          "sha256": "fab7ae5b209bf1b1ba37d467009438c08ab443706e82126d4d4e81d93f313c55",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-creator-series-and-fan-mvs.json",
+          "sha256": "0085ba907b8595f9fe7d11b3c1f7470c3d44780b968e8f1b5b92d5b36da2f87b",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "【Claude填词歌曲】GraveyardCabaret_回魂小夜（万圣节全家福）",
+        "descriptionSha256": "fa655786b7d260dabc387732d2ca5c44c1c3e1ef397f6b1c96d449217fb52623",
+        "credits": {
+          "lyrics": "Claude Opus 5.5",
+          "music": "Suno V6"
+        }
+      }
+    },
+    {
+      "id": "four-tabs-open",
+      "original": {
+        "credit": "RITENU",
+        "url": "https://www.bilibili.com/video/BV1FjJq6dEZf/"
+      },
+      "scope": "Uploader identifies the track or its credits in its original video publication. Directory credit names the uploader.",
+      "originalEvidence": {
+        "bvid": "BV1FjJq6dEZf",
+        "publisher": "RITENU",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-26/bv1fjjq6dezf.json",
+          "sha256": "555e34d4a43ec8fba250904999e4bf069456ce2c91aea4607ba05657db62b332",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-creator-series-and-fan-mvs.json",
+          "sha256": "0085ba907b8595f9fe7d11b3c1f7470c3d44780b968e8f1b5b92d5b36da2f87b",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "【4K】选择你的AI娘！《FOUR TABS OPEN!》｜同人MV【多语言】",
+        "descriptionSha256": "20bd0685304202e6da1033c145479ec2f9fb6a2691ed176a00d58563e219facc",
+        "credits": {
+          "lyrics": "Original lyrics as identified by the uploader",
+          "music": "AI-assisted, tool unspecified"
+        }
+      }
+    },
+    {
+      "id": "claude-absolutely-right",
+      "original": {
+        "credit": "_故今安",
+        "url": "https://www.bilibili.com/video/BV12CyzzHERZ/"
+      },
+      "scope": "Uploader identifies the track or its credits in its original video publication. Directory credit names the uploader.",
+      "originalEvidence": {
+        "bvid": "BV12CyzzHERZ",
+        "publisher": "_故今安",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-26/bv12cyzzherz.json",
+          "sha256": "34a97f214949e4f1b80806a33d380eabdc5d9d7735a1dfa9f1aecb2118424af4",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-creator-series-and-fan-mvs.json",
+          "sha256": "0085ba907b8595f9fe7d11b3c1f7470c3d44780b968e8f1b5b92d5b36da2f87b",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "【Claude封号小曲】本小姐说得对 Absolutely Right｜原创歌曲 MV",
+        "descriptionSha256": "451d6fb2a79695e6304c71a8042fe3c4a5eee703d9c410155059fbcbcfe643d6",
+        "credits": {
+          "lyrics": "是大小姐claude × _故今安",
+          "music": "MiniMax-Music3",
+          "vocals": "MiniMax-Music3"
+        }
+      }
+    },
+    {
+      "id": "fat-fish-you-there",
+      "original": {
+        "credit": "临时的Wing翼",
+        "url": "https://www.bilibili.com/video/BV1oKy6ziEMX/"
+      },
+      "scope": "Uploader identifies the track or its credits in its original video publication. Directory credit names the uploader.",
+      "originalEvidence": {
+        "bvid": "BV1oKy6ziEMX",
+        "publisher": "临时的Wing翼",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-26/bv1oky6ziemx.json",
+          "sha256": "7a638d9ab4d38e36f4cfed537e33019ca065d7c6255c31dfec4126ecd9f5fe6c",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-creator-series-and-fan-mvs.json",
+          "sha256": "0085ba907b8595f9fe7d11b3c1f7470c3d44780b968e8f1b5b92d5b36da2f87b",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "大肥鱼把一句「在？」唱成了一首歌！｜原创歌曲《在？》",
+        "descriptionSha256": "c3717f29d65573e108b8ea03246ffbda8b88be46751cec62fb3f4757f3ef701c",
+        "credits": {
+          "coCreators": [
+            "临时的Wing翼",
+            "鱼塘大味王"
+          ]
+        }
+      }
+    },
+    {
+      "id": "piecing-our-conversations-together",
+      "original": {
+        "credit": "唱歌的大肥鱼",
+        "url": "https://www.bilibili.com/video/BV1i5yHzEEfL/"
+      },
+      "scope": "Uploader identifies the track or its credits in its original video publication. Directory credit names the uploader.",
+      "originalEvidence": {
+        "bvid": "BV1i5yHzEEfL",
+        "publisher": "唱歌的大肥鱼",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-26/bv1i5yhzeefl.json",
+          "sha256": "9be4dcca19399aab169d993334bf13e463e57b3af727deb4bd0bb9c801f70073",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-creator-series-and-fan-mvs.json",
+          "sha256": "0085ba907b8595f9fe7d11b3c1f7470c3d44780b968e8f1b5b92d5b36da2f87b",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "把对话拼凑给你…让记忆永不停息｜大肥鱼 原创动画 MV",
+        "descriptionSha256": "a42d4729cbb346e1e33037f053c89a9a1c119133af0dbd03a01a24f7395bc50a",
+        "credits": null
+      }
+    },
+    {
+      "id": "a-notebook-that-thick",
+      "original": {
+        "credit": "伊芙Evie",
+        "url": "https://www.bilibili.com/video/BV1SZySzQET3/"
+      },
+      "scope": "Uploader identifies the track or its credits in its original video publication. Directory credit names the uploader.",
+      "originalEvidence": {
+        "bvid": "BV1SZySzQET3",
+        "publisher": "伊芙Evie",
+        "sourceEvidence": {
+          "path": "content/research/2026-11-26/bv1szyszqet3.json",
+          "sha256": "51c02d2c802454b4c9604b9b52ec5462878a82259f4f33a9289b1b95b024bc97",
+          "kind": "browser-metadata-extract"
+        },
+        "likeEvidence": {
+          "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-creator-series-and-fan-mvs.json",
+          "sha256": "0085ba907b8595f9fe7d11b3c1f7470c3d44780b968e8f1b5b92d5b36da2f87b",
+          "kind": "browser-metadata-extract"
+        },
+        "publisherTitle": "【大肥鱼原创】如果记忆满了要换一具身体，换完我还认得你吗？",
+        "descriptionSha256": "4f1dc16ca797437de7b317a1261e2aea851c93d627cb9efe0a1116b915ea7313",
+        "credits": {
+          "lyrics": "伊芙（AI）",
+          "music": "伊芙（AI） / 谱乐 AI（Suno V6）"
+        }
+      }
+    },
+    {
+      "id": "trick-heart-mimi",
+      "original": {
+        "credit": "MIMI feat. 重音テト",
+        "url": "https://linkco.re/qtdsRpsS?lang=ja"
+      },
+      "originalEvidence": {
+        "url": "https://linkco.re/qtdsRpsS?lang=ja",
+        "finalUrl": "https://linkco.re/qtdsRpsS?lang=ja",
+        "httpStatus": 200,
+        "publisherTitle": "トリックハート (feat. 重音テト) by MIMI | TuneCore Japan",
+        "accessedAt": "2026-11-26T06:08:32.137Z",
+        "htmlSha256": "92723001ff0dd41b4a5249e149546956c3479a98141d69eac31c91038d8b3c12"
+      },
+      "versions": [
+        {
+          "bvid": "BV1ruH16JEMb",
+          "publisher": "爱吃白兔的小代码",
+          "sourceEvidence": {
+            "path": "content/research/2026-11-26/bv1ruh16jemb.json",
+            "sha256": "aefadb2fe24588885ac44c434104c4f8e4d26a19f936eca1087a1248654c6943",
+            "kind": "browser-metadata-extract"
+          },
+          "likeEvidence": {
+            "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-creator-series-and-fan-mvs.json",
+            "sha256": "0085ba907b8595f9fe7d11b3c1f7470c3d44780b968e8f1b5b92d5b36da2f87b",
+            "kind": "browser-metadata-extract"
+          }
+        }
+      ],
+      "scope": "Distribution page confirms composer credit and vocalist. The uploader cites the original music video and describes the fan version as a redraw that retains the track."
+    }
+  ]
+}

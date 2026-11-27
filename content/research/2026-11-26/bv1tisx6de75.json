@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1TisX6dE75/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TisX6dE75",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T06:07:30.585Z",
+  "scope": "Same creator, upload titles marked Gemini specials; sequence follows the publication times of these six verified uploads.",
+  "officialVideo": {
+    "bvid": "BV1TisX6dE75",
+    "title": "《这步都能错？》番外Gemini篇",
+    "owner": {
+      "name": "萤火之森QWQ",
+      "mid": 482116663
+    },
+    "pubdate": 1793230200,
+    "duration": 153
+  },
+  "descriptionSha256": "2d148cfd4d0ed0ce87f6956bd35cf966f237a267aa71807783df4569c180f1b1",
+  "sourceLinks": [
+    {
+      "role": "original-creator",
+      "title": "萤火之森QWQ",
+      "url": "https://space.bilibili.com/482116663"
+    },
+    {
+      "role": "previous-in-verified-sequence",
+      "title": "再来一盘？",
+      "url": "https://www.bilibili.com/video/BV1DKx56REa7/"
+    },
+    {
+      "role": "next-in-verified-sequence",
+      "title": "你别走",
+      "url": "https://www.bilibili.com/video/BV1aosZ62EwD/"
+    }
+  ]
+}

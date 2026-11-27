@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1yFsa6fELo/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yFsa6fELo",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T06:07:40.768Z",
+  "scope": "Bilibili’s view API returned video identity, date, uploader and cumulative likes. Source links cited in the description retain their uploader attribution.",
+  "metadata": {
+    "bvid": "BV1yFsa6fELo",
+    "title": "Claude：礼貌满分，申诉驳回｜原创对唱《感谢您的理解》",
+    "owner": {
+      "name": "达达的胡思乱想",
+      "mid": 286775433
+    },
+    "pubdate": 1795172400,
+    "duration": 220
+  },
+  "descriptionSha256": "a63a60a178ab11819cf12cf7272ef80cfd3569dbb235cbb18eef713766095b07",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "达达的胡思乱想",
+      "url": "https://space.bilibili.com/286775433"
+    }
+  ]
+}

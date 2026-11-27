@@ -16,7 +16,7 @@ test('legacy discovery and remaining metadata-only source groups validate', asyn
   const unknownPublisher=await json('content/candidates/bilibili-2026-09-27T17-29-26-212Z.json');
   unknownPublisher.candidates[0].publisher=null;
   assert.equal(assertCandidateReport(unknownPublisher,context),15);
-  assert.equal(assertCandidateReport(report, context), 10);
+  assert.equal(assertCandidateReport(report, context), 9);
   const urls = report.candidates.flatMap(c=>[c.url,...c.relatedSources.map(s=>s.url)]);
   assert.equal(urls.filter(url=>url.startsWith('https://note.com/')).length, 11);
   assert.equal(new Set(urls).size, urls.length);
@@ -71,14 +71,22 @@ test('characters and generators retain the intended group relationships', () => 
   assert.deepEqual(candidate('note-kawamura-yoshida-gemini').products.map(p=>p.entityId),['chatgpt','gemini']);
 });
 
-test('redirected Mico announcement retains history without claiming a fresh verification', () => {
-  const mico=candidate('microsoft-mico');
-  assert.equal(mico.publicationDateBasis,'historical-user-provided');
-  assert.equal(mico.verification.current.result,'redirected');
-  assert.equal(mico.verification.current.verifiedAt,null);
-  assert.equal(mico.relatedSources[0].verification.current.result,'verified-metadata');
-  assert.equal(mico.originalCreator,null);assert.equal(mico.license.status,'unknown');
-  invalid(r=>r.candidates.find(c=>c.id==='microsoft-mico').verification.current.verifiedAt=report.searchedAt);
+test('the Mico source uses the verified Microsoft publication and retains the redirect history', async () => {
+  assert.equal(candidate('microsoft-mico'),undefined);
+  const mico=characters.find(c=>c.id==='microsoft-mico');
+  const evidence=await json('content/research/2026-11-26/microsoft-mico-official-original.json');
+  assert.equal(mico.source,evidence.page.url);
+  assert.equal(mico.official,true);
+  assert.equal(mico.style,'mascot');
+  assert.equal(mico.downloadable,false);
+  assert.equal(mico.preview,null);
+  assert.notEqual(evidence.earlierEnglishUrl.url,evidence.earlierEnglishUrl.finalUrl);
+  assert.equal(evidence.historicalCandidate.verification.current.result,'redirected');
+  assert.equal(evidence.historicalCandidate.verification.current.verifiedAt,null);
+  for (const purpose of purposes) assert.equal(allowsUse(reviews,mico.id,purpose),false);
+});
+
+test('candidate validation rejects misleading verification and duplicate source identities', () => {
   invalid(r=>r.candidates[0].verification.current.httpStatus=403);
   invalid(r=>r.candidates.find(c=>c.id==='note-yarotech-five-ai').relatedSources[0].url=r.candidates[0].url);
   invalid(r=>r.candidates[1].id=r.candidates[0].id);

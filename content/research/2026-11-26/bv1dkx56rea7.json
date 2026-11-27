@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1DKx56REa7/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1DKx56REa7",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T06:07:30.559Z",
+  "scope": "Same creator, upload titles marked Gemini specials; sequence follows the publication times of these six verified uploads.",
+  "officialVideo": {
+    "bvid": "BV1DKx56REa7",
+    "title": "《再来一盘？》番外Gemini篇",
+    "owner": {
+      "name": "萤火之森QWQ",
+      "mid": 482116663
+    },
+    "pubdate": 1793163269,
+    "duration": 183
+  },
+  "descriptionSha256": "bffb8975f5c063afffbba23d86ec1fc3aaa665eeeffd66b106b1502871e90bee",
+  "sourceLinks": [
+    {
+      "role": "original-creator",
+      "title": "萤火之森QWQ",
+      "url": "https://space.bilibili.com/482116663"
+    },
+    {
+      "role": "next-in-verified-sequence",
+      "title": "这步都能错？",
+      "url": "https://www.bilibili.com/video/BV1TisX6dE75/"
+    }
+  ]
+}

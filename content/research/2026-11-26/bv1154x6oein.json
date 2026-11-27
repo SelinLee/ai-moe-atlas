@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1154X6oEin/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1154X6oEin",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T06:07:49.358Z",
+  "scope": "Bilibili’s view API returned video identity, date, uploader and cumulative likes. Source links cited in the description retain their uploader attribution.",
+  "metadata": {
+    "bvid": "BV1154X6oEin",
+    "title": "🐳 DeepSeek鲸鱼娘 VS 豆包 👧",
+    "owner": {
+      "name": "草薙van",
+      "mid": 26139275
+    },
+    "pubdate": 1788076385,
+    "duration": 215
+  },
+  "descriptionSha256": "b33d67427a4bd876ca23337e3daec49b1e8a22bc7c50f25d5238538d5ebbeb6b",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "草薙van",
+      "url": "https://space.bilibili.com/26139275"
+    },
+    {
+      "role": "music-original",
+      "title": "King Gnu · AIZO",
+      "url": "https://kinggnu.jp/music/AIZO/"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1u38C6SEiV/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1u38C6SEiV",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T06:07:39.191Z",
+  "scope": "Bilibili’s view API returned video identity, date, uploader and cumulative likes. Source links cited in the description retain their uploader attribution.",
+  "metadata": {
+    "bvid": "BV1u38C6SEiV",
+    "title": "deepseek娘角色PV",
+    "owner": {
+      "name": "蓝天_LAN-TIAN",
+      "mid": 1864843324
+    },
+    "pubdate": 1787378878,
+    "duration": 16
+  },
+  "descriptionSha256": "0aeff1c4f66b2c5715da145ef3320059350c78e173ff1802ed73a15abd81029e",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "蓝天_LAN-TIAN",
+      "url": "https://space.bilibili.com/1864843324"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "checkedAt": "2026-11-26T06:07:55.821Z",
+  "previousEvidence": {
+    "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-pending-pages-and-series.json",
+    "sha256": "3853ec03b3f4f967b9c1e58001aeda211576917e15afed79245811ecd2e384a0",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-creator-series-and-fan-mvs.json",
+    "sha256": "0085ba907b8595f9fe7d11b3c1f7470c3d44780b968e8f1b5b92d5b36da2f87b",
+    "kind": "browser-metadata-extract"
+  },
+  "candidateQueries": 35,
+  "rankedNewWorks": 24,
+  "pendingNewCandidate": "BV18Ty3zVEG8",
+  "otherVerifiedUploads": [
+    {
+      "bvid": "BV1qXxo6WELy",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qXxo6WELy",
+      "httpStatus": 200,
+      "code": 0,
+      "observedAt": "2026-11-26T06:07:32.611Z",
+      "publisher": "甶丶",
+      "publisherId": 1758596086,
+      "title": "【Codex娘】机械龙少女 形象发布（捡漏中）",
+      "descriptionSha256": "adff8eaea44fb5f58dedf538b0c9fa18fcea69f64f337c23a478b72c1e0834c6",
+      "repositoriesCitedByUploader": [
+        "https://github.com/fuzhu-ai-chan/ai-chan-designs"
+      ]
+    },
+    {
+      "bvid": "BV1boyfz5ERW",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1boyfz5ERW",
+      "httpStatus": 200,
+      "code": 0,
+      "observedAt": "2026-11-26T06:07:32.612Z",
+      "publisher": "叶人期",
+      "publisherId": 1400109184,
+      "title": "一个适配kimi work/kimi code的kimi娘桌宠，搭配多个动画与数据监控功能",
+      "descriptionSha256": "d924a6c35671597925fea011b028a8a65ff0cc621fcff37f61371058e032d5e4",
+      "repositoriesCitedByUploader": [
+        "https://github.com/Ancientandmodern/kimi-desktop-pet"
+      ]
+    },
+    {
+      "bvid": "BV1iA4w6AE3y",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1iA4w6AE3y",
+      "httpStatus": 200,
+      "code": 0,
+      "observedAt": "2026-11-26T06:07:34.193Z",
+      "publisher": "小G学长",
+      "publisherId": 1495591085,
+      "title": "codex龙娘版开场动画插件",
+      "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "repositoriesCitedByUploader": []
+    },
+    {
+      "bvid": "BV1BSxs6KENV",
+      "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BSxs6KENV",
+      "httpStatus": 200,
+      "code": 0,
+      "observedAt": "2026-11-26T06:07:34.192Z",
+      "publisher": "Ai_白日梦想家",
+      "publisherId": 354292346,
+      "title": "Codex龙娘开屏动画及桌面宠物演示",
+      "descriptionSha256": "70c0d37f94d50e222c3714311d6ff44f6a2c3f110a33b97a1905c4e1864baed6",
+      "repositoriesCitedByUploader": [
+        "https://github.com/yushua0808-cpu/dragon-codex-boot",
+        "https://github.com/jingh12312-rgb/bailong-desktop-pet"
+      ]
+    }
+  ],
+  "comics": {
+    "creator": "萤火之森QWQ",
+    "series": "AI GIRLS · Gemini",
+    "order": "verified publication times",
+    "scope": "Six verified uploads including the publisher-labeled finale; the historical main series is separate.",
+    "uploads": [
+      {
+        "bvid": "BV1DKx56REa7",
+        "sequence": 1,
+        "publicationDate": "2026-10-28",
+        "publisherId": 482116663,
+        "title": "《再来一盘？》番外Gemini篇",
+        "evidence": {
+          "path": "content/research/2026-11-26/bv1dkx56rea7.json",
+          "sha256": "70608ae66ab39bc735f59204c8a4b375f24cd3a379436b53cabf29adb6715dfe",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      {
+        "bvid": "BV1TisX6dE75",
+        "sequence": 2,
+        "publicationDate": "2026-10-29",
+        "publisherId": 482116663,
+        "title": "《这步都能错？》番外Gemini篇",
+        "evidence": {
+          "path": "content/research/2026-11-26/bv1tisx6de75.json",
+          "sha256": "86a3792b130e0b01b5c743394daac894ad677d1f3472c9c7ade76fcbf35dca4e",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      {
+        "bvid": "BV1aosZ62EwD",
+        "sequence": 3,
+        "publicationDate": "2026-10-29",
+        "publisherId": 482116663,
+        "title": "《你别走》番外Gemini篇",
+        "evidence": {
+          "path": "content/research/2026-11-26/bv1aosz62ewd.json",
+          "sha256": "cd3feb781e64e478a6ef54c007cde12cbd13923817bb6bb831d28153e006d3b1",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      {
+        "bvid": "BV1QExF6nEiK",
+        "sequence": 4,
+        "publicationDate": "2026-10-29",
+        "publisherId": 482116663,
+        "title": "《姐姐不是因为你》番外Gemini篇",
+        "evidence": {
+          "path": "content/research/2026-11-26/bv1qexf6neik.json",
+          "sha256": "a94007d2b15b13553ce6459239fc6040c41a8c383c4ac14146bab209976f8f19",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      {
+        "bvid": "BV1uKxc6EEw4",
+        "sequence": 5,
+        "publicationDate": "2026-10-30",
+        "publisherId": 482116663,
+        "title": "《今天不想笑》番外Gemini篇",
+        "evidence": {
+          "path": "content/research/2026-11-26/bv1ukxc6eew4.json",
+          "sha256": "b2be41f5ac154b7a148317c4cc2986a1db03785ca707c7124ad856de01c00914",
+          "kind": "browser-metadata-extract"
+        }
+      },
+      {
+        "bvid": "BV1aJxe6mEv8",
+        "sequence": 6,
+        "publicationDate": "2026-10-30",
+        "publisherId": 482116663,
+        "title": "《再下一次》番外Gemini完结篇",
+        "evidence": {
+          "path": "content/research/2026-11-26/bv1ajxe6mev8.json",
+          "sha256": "74435f86c91402b47d98a4a06801de32e1577e14f638da7ebb0813b4f73bfc5b",
+          "kind": "browser-metadata-extract"
+        }
+      }
+    ]
+  }
+}

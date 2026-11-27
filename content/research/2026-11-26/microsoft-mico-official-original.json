@@ -1,0 +1,88 @@
+{
+  "url": "https://news.microsoft.com/source/emea/features/ia-centrada-en-las-personas/?lang=es",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-26T06:08:33.676Z",
+  "scope": "Microsoft’s Spanish release article depicts and names the Copilot avatar; Microsoft Support documents the move to Learn Live. Artwork reuse terms were not established.",
+  "identity": "copilot",
+  "attribution": [
+    {
+      "name": "Microsoft",
+      "url": "https://news.microsoft.com/source/emea/?lang=es",
+      "role": "original-character",
+      "publication": "https://news.microsoft.com/source/emea/features/ia-centrada-en-las-personas/?lang=es"
+    }
+  ],
+  "page": {
+    "url": "https://news.microsoft.com/source/emea/features/ia-centrada-en-las-personas/?lang=es",
+    "finalUrl": "https://news.microsoft.com/source/emea/features/ia-centrada-en-las-personas/?lang=es",
+    "httpStatus": 200,
+    "title": "IA centrada en las personas - Source EMEA",
+    "accessedAt": "2026-11-26T06:08:33.676Z",
+    "htmlSha256": "e6c2d3857ddc9a732d82e79893d9e51f3afa23d6eba9302f71add89712e8efd7",
+    "textSha256": "3cc2f6a4432e801530ebf541aa099547648333e32852882577870310ef7a58c3"
+  },
+  "file": {
+    "url": "https://sourceemea.thesourcemediaassets.com/2025/10/Mico-1-scaled.jpg",
+    "httpStatus": 200,
+    "sourceSha256": "452e62ec755415c8b61f39a13dde46d3733d84271bd59e229dc3918c1547647d",
+    "bytes": 209278,
+    "width": 2560,
+    "height": 1440,
+    "format": "jpeg",
+    "accessedAt": "2026-11-26T06:08:36.936Z",
+    "scope": "Exact image version served by the linked original publisher page.",
+    "embeddedUrl": "https://news.microsoft.com/source/emea/wp-content/uploads/2025/10/Mico-1-scaled.jpg",
+    "alt": "",
+    "normalization": "None; served bytes retained privately."
+  },
+  "earlierEnglishUrl": {
+    "url": "https://www.microsoft.com/en-us/microsoft-copilot/blog/2025/10/23/human-centered-ai/",
+    "finalUrl": "https://www.microsoft.com/en-us/copilot/blog/",
+    "httpStatus": 200,
+    "title": "Microsoft Copilot Blog | Latest Product Updates and Insights",
+    "accessedAt": "2026-11-26T06:06:45.141Z",
+    "htmlSha256": "2c7bce8895d5c96ccf13a4a860b6c125116c1d3a8a1dce68ee349e0336673526",
+    "textSha256": "97ff951daf0875dfa71283b8da446e0054e5b8e32a86a3f4ebbb311484ed3ae3",
+    "result": "redirected-to-blog-index"
+  },
+  "historicalCandidate": {
+    "id": "microsoft-mico",
+    "verification": {
+      "historical": {
+        "dateRange": [
+          "2026-09-30",
+          "2026-10-03"
+        ],
+        "basis": "user-provided prior verification; exact date per URL not recorded"
+      },
+      "current": {
+        "attemptedAt": "2026-10-05T04:37:17.912Z",
+        "method": "isolated-installed-google-chrome-text-only",
+        "httpStatus": 200,
+        "finalUrl": "https://www.microsoft.com/en-us/copilot/blog/",
+        "result": "redirected",
+        "verifiedAt": null,
+        "limitations": {
+          "zh": "原博客重定向到博客首页；原文和 2025-10-23 日期本次未重新核实。",
+          "en": "The original blog redirects to the blog index; the original article and 2025-10-23 date were not reverified.",
+          "ja": "元ブログは一覧へ転送され、元記事と 2025-10-23 の日付は今回再確認できていません。"
+        }
+      }
+    },
+    "report": {
+      "path": "content/candidates/manual-2026-10-05.json",
+      "commit": "1fd8a402920312ff5135a2ad5e1803449fb986c8",
+      "url": "https://github.com/SelinLee/ai-moe-atlas/blob/1fd8a402920312ff5135a2ad5e1803449fb986c8/content/candidates/manual-2026-10-05.json",
+      "sha256": "831e506a6fbe6fb98430bd22e6e95610a643a0b2008a1e215f126de06a57f282"
+    }
+  },
+  "support": {
+    "url": "https://support.microsoft.com/en-us/microsoft-365-copilot/frequently-asked-questions-about-retired-copilot-features",
+    "finalUrl": "https://support.microsoft.com/en-us/microsoft-365-copilot/frequently-asked-questions-about-retired-copilot-features",
+    "httpStatus": 200,
+    "title": "Frequently asked questions about retiring Copilot features | Microsoft Support",
+    "accessedAt": "2026-11-26T06:06:44.113Z",
+    "htmlSha256": "d99c665dc9d881a9f05f52298e0918f21c8b433d7476b4502f108559f34fc3ff",
+    "textSha256": "c2b720df0469b1e2afa7fbb67082a1559d27d2251f1129a2c68c99ff2e425d8d"
+  }
+}

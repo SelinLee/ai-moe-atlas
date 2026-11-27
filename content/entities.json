@@ -262,5 +262,17 @@
     "name": "Suno",
     "provider": "Suno",
     "url": "https://suno.com/"
+  },
+  {
+    "id": "codex",
+    "name": "Codex",
+    "provider": "OpenAI",
+    "url": "https://openai.com/index/introducing-the-codex-app/"
+  },
+  {
+    "id": "gemini-notebook",
+    "name": "Gemini Notebook / NotebookLM",
+    "provider": "Google",
+    "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/"
   }
 ]

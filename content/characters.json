@@ -5193,5 +5193,173 @@
       "en": "The exact image renditions served by the creator’s page were retained and hashed. Artwork-specific permissions remain unconfirmed.",
       "ja": "作者ページで配信された画像版とハッシュを保管。画像ごとの利用条件は確認待ち。"
     }
+  },
+  {
+    "id": "microsoft-mico",
+    "entity": "copilot",
+    "kind": "reference",
+    "style": "mascot",
+    "official": true,
+    "name": {
+      "zh": "Microsoft Copilot · Mico",
+      "en": "Microsoft Copilot · Mico",
+      "ja": "Microsoft Copilot · Mico"
+    },
+    "description": {
+      "zh": "Microsoft 为 Copilot 语音发布的动态角色。微软支持页说明 Mico 随账户更新迁移至 Learn Live。",
+      "en": "Microsoft’s animated character for Copilot Voice. Microsoft Support documents its move to Learn Live as accounts update.",
+      "ja": "Microsoft が Copilot の音声会話向けに公開したアニメーションのキャラクター。公式サポートはアカウント更新に伴う Learn Live への移行を説明。"
+    },
+    "story": {
+      "zh": "Microsoft 为 Copilot 语音发布的动态角色。微软支持页说明 Mico 随账户更新迁移至 Learn Live。",
+      "en": "Microsoft’s animated character for Copilot Voice. Microsoft Support documents its move to Learn Live as accounts update.",
+      "ja": "Microsoft が Copilot の音声会話向けに公開したアニメーションのキャラクター。公式サポートはアカウント更新に伴う Learn Live への移行を説明。"
+    },
+    "features": {
+      "zh": "微软原发布图中的 Mico 是带笑脸的暖橙色发光团子。",
+      "en": "Microsoft’s launch image depicts Mico as a glowing warm-orange blob with a smiling face.",
+      "ja": "Microsoft の公開画像では、笑顔の温かなオレンジ色に光る丸いキャラクター。"
+    },
+    "author": "Microsoft",
+    "authorUrl": "https://news.microsoft.com/source/emea/?lang=es",
+    "source": "https://news.microsoft.com/source/emea/features/ia-centrada-en-las-personas/?lang=es",
+    "sourceTitle": "IA centrada en las personas - Source EMEA",
+    "originalPublication": "https://news.microsoft.com/source/emea/features/ia-centrada-en-las-personas/?lang=es",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "Microsoft",
+        "url": "https://news.microsoft.com/source/emea/?lang=es",
+        "role": "original-character",
+        "publication": "https://news.microsoft.com/source/emea/features/ia-centrada-en-las-personas/?lang=es"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://news.microsoft.com/source/emea/features/ia-centrada-en-las-personas/?lang=es",
+    "downloadable": false,
+    "bg": "#fcf0df",
+    "color": "#975723",
+    "verifiedAt": "2026-11-26",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "图鉴索引原发布与证据。",
+      "en": "The atlas links to the original publication and evidence.",
+      "ja": "図鑑は原公開先と確認記録を掲載。"
+    }
+  },
+  {
+    "id": "senpibi-notebook-nooton",
+    "entity": "gemini-notebook",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Gemini Notebook · の～とん",
+      "en": "Gemini Notebook · Nōton",
+      "ja": "Gemini Notebook · の～とん"
+    },
+    "description": {
+      "zh": "せんぴび笔下负责资料整理和摘要的 NotebookLM 角色「の～とん」。产品后来更名为 Gemini Notebook。",
+      "en": "Senpibi’s NotebookLM character Nōton organizes information and prepares summaries. The product later became Gemini Notebook.",
+      "ja": "せんぴびの NotebookLM 擬人化「の～とん」。資料整理と要約を担当する。製品名は後に Gemini Notebook に変更。"
+    },
+    "story": {
+      "zh": "せんぴび笔下负责资料整理和摘要的 NotebookLM 角色「の～とん」。产品后来更名为 Gemini Notebook。",
+      "en": "Senpibi’s NotebookLM character Nōton organizes information and prepares summaries. The product later became Gemini Notebook.",
+      "ja": "せんぴびの NotebookLM 擬人化「の～とん」。資料整理と要約を担当する。製品名は後に Gemini Notebook に変更。"
+    },
+    "features": {
+      "zh": "浅绿长发、黑框眼镜，怀抱几本书。",
+      "en": "Long light-green hair, black-rimmed glasses and a stack of books.",
+      "ja": "淡い緑のロングヘア、黒縁の眼鏡、抱えた数冊の本。"
+    },
+    "author": "せんぴび",
+    "authorUrl": "https://cent-p2b2.hatenablog.com/",
+    "source": "https://cent-p2b2.hatenablog.com/entry/2026/07/11/043612",
+    "sourceTitle": "AIと3人でブログ記事を作ってみた【追加】 - 兼業投資家のデジタル菜園",
+    "originalPublication": "https://cent-p2b2.hatenablog.com/entry/2026/07/11/043612",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "せんぴび",
+        "url": "https://cent-p2b2.hatenablog.com/",
+        "role": "original-character",
+        "publication": "https://cent-p2b2.hatenablog.com/entry/2026/07/11/043612"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://cent-p2b2.hatenablog.com/entry/2026/07/11/043612",
+    "downloadable": false,
+    "bg": "#edf3df",
+    "color": "#596b28",
+    "verifiedAt": "2026-11-26",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "图鉴索引原发布与证据。",
+      "en": "The atlas links to the original publication and evidence.",
+      "ja": "図鑑は原公開先と確認記録を掲載。"
+    }
+  },
+  {
+    "id": "fuh-codex-mechanical-dragon",
+    "entity": "codex",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Codex 娘 · 机械龙少女",
+      "en": "Codex Girl · Mechanical Dragon",
+      "ja": "Codex 娘 · メカドラゴン少女"
+    },
+    "description": {
+      "zh": "甶丶发布的 Codex 同人设计，含法典魔导师和机械龙娘两套造型。",
+      "en": "甶丶’s Codex fan design has a grimoire mage and a mechanical dragon form.",
+      "ja": "甶丶が公開した Codex の同人設定。魔導書の魔術師とメカドラゴンの2形態。"
+    },
+    "story": {
+      "zh": "甶丶发布的 Codex 同人设计，含法典魔导师和机械龙娘两套造型。",
+      "en": "甶丶’s Codex fan design has a grimoire mage and a mechanical dragon form.",
+      "ja": "甶丶が公開した Codex の同人設定。魔導書の魔術師とメカドラゴンの2形態。"
+    },
+    "features": {
+      "zh": "科技侧有白色分节龙角、机械翼、分节尾与深色眼屏。奇幻侧用蓝色眼带、蓝银龙翼和悬浮法典。",
+      "en": "The tech form has white segmented horns, mechanical wings and tail, and a dark visor. The fantasy form has a blue blindfold, blue-and-silver wings and a floating grimoire.",
+      "ja": "科技側は白い分節角・機械翼・分節尾・暗色のバイザー。幻想側は青い目隠し、青銀の翼、浮かぶ魔導書。"
+    },
+    "author": "甶丶",
+    "authorUrl": "https://space.bilibili.com/1758596086",
+    "source": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/12d5f69c647424a1b37d53aa142b36610438df38/%E8%A7%92%E8%89%B2/codex/%E8%AE%BE%E5%AE%9A.md",
+    "sourceTitle": "Codex 娘（OpenAI Codex） · 设定.md",
+    "originalPublication": "https://www.bilibili.com/video/BV1qXxo6WELy/",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "甶丶",
+        "url": "https://space.bilibili.com/1758596086",
+        "role": "original-character",
+        "publication": "https://www.bilibili.com/video/BV1qXxo6WELy/"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/12d5f69c647424a1b37d53aa142b36610438df38/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+    "downloadable": false,
+    "bg": "#e6effa",
+    "color": "#365f97",
+    "verifiedAt": "2026-11-26",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "甶丶对固定版本的 Codex 娘立绘和设定列明 CC BY-NC-SA 4.0。再利用须署名且限非商业，改编须采用相同许可。",
+      "en": "甶丶 lists CC BY-NC-SA 4.0 for the pinned Codex Girl artwork and design notes. Attribution and noncommercial use are required, with adaptations under the same license.",
+      "ja": "甶丶は固定版の Codex 娘の立ち絵と設定に CC BY-NC-SA 4.0 を明記。要クレジット・非商用、改変は同一ライセンス。"
+    }
   }
 ]

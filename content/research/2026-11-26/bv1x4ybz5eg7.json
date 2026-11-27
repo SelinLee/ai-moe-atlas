@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1x4yBz5Eg7/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1x4yBz5Eg7",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T06:07:54.242Z",
+  "scope": "Bilibili’s view API returned video identity, date, uploader and cumulative likes. Source links cited in the description retain their uploader attribution.",
+  "metadata": {
+    "bvid": "BV1x4yBz5Eg7",
+    "title": "烂奇迹大肥鱼版MV",
+    "owner": {
+      "name": "小非未眠",
+      "mid": 3494379876518498
+    },
+    "pubdate": 1795581279,
+    "duration": 23
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "小非未眠",
+      "url": "https://space.bilibili.com/3494379876518498"
+    }
+  ]
+}

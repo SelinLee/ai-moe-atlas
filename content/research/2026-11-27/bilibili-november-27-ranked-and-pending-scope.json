@@ -1,0 +1,30 @@
+{
+  "capturedAt": "2026-11-27T09:36:35.220Z",
+  "previousEvidence": {
+    "path": "content/research/2026-11-26/bilibili-cumulative-likes-november-26-creator-series-and-fan-mvs.json",
+    "sha256": "0085ba907b8595f9fe7d11b3c1f7470c3d44780b968e8f1b5b92d5b36da2f87b",
+    "kind": "browser-metadata-extract"
+  },
+  "updatedSnapshot": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-ranked-and-pending.json",
+    "sha256": "5ac6089d1e2fce99803223c18ef766f2297eb7c82f7f6897e68886128e43fd71",
+    "kind": "browser-metadata-extract"
+  },
+  "scope": "Selective official endpoint recheck after the previous day’s broader catalog refresh. Queried the previous top 30, all 24 newly cataloged works, the 10 prior failures, and all 13 pending candidates. Public-page status in the snapshot retains its separate earlier observation timestamp.",
+  "ranked": {
+    "previousTopChecked": 30,
+    "previousNewWorksChecked": 24,
+    "previousFailuresChecked": 10,
+    "attempted": 64,
+    "refreshed": 54,
+    "previousNewWorksRefreshed": 24,
+    "priorValuesRetained": 10,
+    "withoutNewRequest": 943,
+    "total": 1007
+  },
+  "pending": {
+    "observedAt": "2026-11-27T09:34:48.652Z",
+    "attempted": 13,
+    "withoutOfficialVideoData": 13
+  }
+}

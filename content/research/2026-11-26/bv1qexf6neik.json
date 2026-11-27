@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1QExF6nEiK/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QExF6nEiK",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T06:07:28.982Z",
+  "scope": "Same creator, upload titles marked Gemini specials; sequence follows the publication times of these six verified uploads.",
+  "officialVideo": {
+    "bvid": "BV1QExF6nEiK",
+    "title": "《姐姐不是因为你》番外Gemini篇",
+    "owner": {
+      "name": "萤火之森QWQ",
+      "mid": 482116663
+    },
+    "pubdate": 1793268702,
+    "duration": 157
+  },
+  "descriptionSha256": "5469b6608e010d09e368c8a113d8e5a3bf4796236fa282648616ed4bf798172d",
+  "sourceLinks": [
+    {
+      "role": "original-creator",
+      "title": "萤火之森QWQ",
+      "url": "https://space.bilibili.com/482116663"
+    },
+    {
+      "role": "previous-in-verified-sequence",
+      "title": "你别走",
+      "url": "https://www.bilibili.com/video/BV1aosZ62EwD/"
+    },
+    {
+      "role": "next-in-verified-sequence",
+      "title": "今天不想笑",
+      "url": "https://www.bilibili.com/video/BV1uKxc6EEw4/"
+    }
+  ]
+}

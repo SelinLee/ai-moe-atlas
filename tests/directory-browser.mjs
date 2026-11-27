@@ -71,7 +71,11 @@ try {
         assert.equal(comicRows.find(row => row.href.endsWith('#ai-girls-upload-38-original')).mediaLabel,
           {zh:'投稿顺序 38',en:'Upload 38',ja:'投稿順 38'}[lang]);
         assert.equal(comicRows.find(row => row.href.endsWith('#ferrocyanide-whale-child-comic')).mediaLabel, undefined);
-        await page.locator('#directory-more').click();
+        const more = page.locator('#directory-more');
+        for (let shown = await results.count(); shown < comicRows.length; shown = await results.count()) {
+          await more.click();
+          assert.ok(await results.count() > shown);
+        }
         assert.equal(await results.count(), comicRows.length);
         assert.deepEqual(await results.locator('.directory-entry').evaluateAll(nodes => nodes.map(a => new URL(a.href).hash.slice(1))), collections.comics.map(row => row.id));
       }

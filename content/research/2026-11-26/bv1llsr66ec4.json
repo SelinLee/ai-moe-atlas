@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1LLsr66EC4/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LLsr66EC4",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-26T06:07:42.361Z",
+  "scope": "Bilibili’s view API returned video identity, date, uploader and cumulative likes. Source links cited in the description retain their uploader attribution.",
+  "metadata": {
+    "bvid": "BV1LLsr66EC4",
+    "title": "【Claude娘原创歌曲】我也喜欢人类呀~",
+    "owner": {
+      "name": "词小芊",
+      "mid": 471015460
+    },
+    "pubdate": 1794922922,
+    "duration": 170
+  },
+  "descriptionSha256": "794531975d574ac357fc2ae1083993f0489ac2e8d8ecd8d24713ae2b8536e063",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "词小芊",
+      "url": "https://space.bilibili.com/471015460"
+    }
+  ]
+}
