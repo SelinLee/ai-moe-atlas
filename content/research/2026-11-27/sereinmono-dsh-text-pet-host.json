@@ -1,0 +1,96 @@
+{
+  "historical": false,
+  "full_name": "sereinmono/dsh-desktop-pet",
+  "html_url": "https://github.com/sereinmono/dsh-desktop-pet",
+  "stargazers_count": 7,
+  "archived": false,
+  "created_at": "2026-08-14T07:28:02Z",
+  "default_branch": "master",
+  "fork": false,
+  "commit": "955cbcebbdb280c20f76d267b12fc0fbf28b13ea",
+  "observedAt": "2026-11-27T13:58:31.015Z",
+  "httpStatus": 200,
+  "metadataSha256": "edec2b4071f66105341c5177f2fc20bac33b5a3b559c7f2a0b29da0f7cecd489",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/sereinmono/dsh-desktop-pet/blob/955cbcebbdb280c20f76d267b12fc0fbf28b13ea/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/sereinmono/dsh-desktop-pet/955cbcebbdb280c20f76d267b12fc0fbf28b13ea/README.md",
+      "sourceSha256": "be17bb0b33a9d520f6dfbe8c8cbf7977f7546304bd5da6793526bc469643bd4e",
+      "gitBlobSha": "c9929d47e245bb0bb086d3637815acfc519d5a40",
+      "bytes": 13601,
+      "commit": "955cbcebbdb280c20f76d267b12fc0fbf28b13ea",
+      "accessedAt": "2026-11-27T14:04:04.511Z"
+    },
+    {
+      "path": "README.zh.md",
+      "url": "https://github.com/sereinmono/dsh-desktop-pet/blob/955cbcebbdb280c20f76d267b12fc0fbf28b13ea/README.zh.md",
+      "rawUrl": "https://raw.githubusercontent.com/sereinmono/dsh-desktop-pet/955cbcebbdb280c20f76d267b12fc0fbf28b13ea/README.zh.md",
+      "sourceSha256": "bf1547e5a38bbd106cc69adfc9837505c0743bfc38815cd38cc52ebe003ed3e8",
+      "gitBlobSha": "ba1f9322652db08a401684d2c2c5435fb84bc1cf",
+      "bytes": 13214,
+      "commit": "955cbcebbdb280c20f76d267b12fc0fbf28b13ea",
+      "accessedAt": "2026-11-27T14:04:04.754Z"
+    },
+    {
+      "path": "docs/adding-a-pet.md",
+      "url": "https://github.com/sereinmono/dsh-desktop-pet/blob/955cbcebbdb280c20f76d267b12fc0fbf28b13ea/docs/adding-a-pet.md",
+      "rawUrl": "https://raw.githubusercontent.com/sereinmono/dsh-desktop-pet/955cbcebbdb280c20f76d267b12fc0fbf28b13ea/docs/adding-a-pet.md",
+      "sourceSha256": "daebb1e10ef9a886e05e3a339f597589133ced597a91e01dbc81aa0e79af99dd",
+      "gitBlobSha": "8c1585835951f37d63ec6e8fc88132b2bf99c3eb",
+      "bytes": 6232,
+      "commit": "955cbcebbdb280c20f76d267b12fc0fbf28b13ea",
+      "accessedAt": "2026-11-27T14:04:04.979Z"
+    },
+    {
+      "path": "assets/pets/text/pet.json",
+      "url": "https://github.com/sereinmono/dsh-desktop-pet/blob/955cbcebbdb280c20f76d267b12fc0fbf28b13ea/assets/pets/text/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/sereinmono/dsh-desktop-pet/955cbcebbdb280c20f76d267b12fc0fbf28b13ea/assets/pets/text/pet.json",
+      "sourceSha256": "1ca1cc895a69ec0f1622b1313adb016104164f93ea63550a1563147bbb479bdc",
+      "gitBlobSha": "9c812435492af277800e3c36b48d91506acc8c5e",
+      "bytes": 200,
+      "commit": "955cbcebbdb280c20f76d267b12fc0fbf28b13ea",
+      "accessedAt": "2026-11-27T14:04:05.201Z"
+    },
+    {
+      "path": "package.json",
+      "url": "https://github.com/sereinmono/dsh-desktop-pet/blob/955cbcebbdb280c20f76d267b12fc0fbf28b13ea/package.json",
+      "rawUrl": "https://raw.githubusercontent.com/sereinmono/dsh-desktop-pet/955cbcebbdb280c20f76d267b12fc0fbf28b13ea/package.json",
+      "sourceSha256": "f3602c532e8f72e48bb5186b5c80e3c6164117f89521ca9d17df3b47d990cc5c",
+      "gitBlobSha": "b3e62aef6e9addff0d50eab57274e1aa36d1ebcb",
+      "bytes": 2473,
+      "commit": "955cbcebbdb280c20f76d267b12fc0fbf28b13ea",
+      "accessedAt": "2026-11-27T14:04:05.421Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T14:04:05.421Z",
+  "scope": "Pinned creator documents were checked with isolated Chrome against Git blob hashes and SHA-256. The description records which terms apply to each asset.",
+  "relations": [
+    {
+      "role": "localized-documentation",
+      "title": "DSH Desktop Pet · 中文说明",
+      "url": "https://github.com/sereinmono/dsh-desktop-pet/blob/955cbcebbdb280c20f76d267b12fc0fbf28b13ea/README.zh.md"
+    },
+    {
+      "role": "import-guide",
+      "title": "DSH Desktop Pet · add a pet",
+      "url": "https://github.com/sereinmono/dsh-desktop-pet/blob/955cbcebbdb280c20f76d267b12fc0fbf28b13ea/docs/adding-a-pet.md"
+    },
+    {
+      "role": "pet-manifest",
+      "title": "Text test pet · pinned manifest",
+      "url": "https://github.com/sereinmono/dsh-desktop-pet/blob/955cbcebbdb280c20f76d267b12fc0fbf28b13ea/assets/pets/text/pet.json"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/sereinmono/dsh-desktop-pet/blob/955cbcebbdb280c20f76d267b12fc0fbf28b13ea/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/sereinmono/dsh-desktop-pet/955cbcebbdb280c20f76d267b12fc0fbf28b13ea/README.md",
+    "sourceSha256": "be17bb0b33a9d520f6dfbe8c8cbf7977f7546304bd5da6793526bc469643bd4e",
+    "gitBlobSha": "c9929d47e245bb0bb086d3637815acfc519d5a40",
+    "bytes": 13601,
+    "commit": "955cbcebbdb280c20f76d267b12fc0fbf28b13ea",
+    "accessedAt": "2026-11-27T14:04:04.511Z"
+  }
+}

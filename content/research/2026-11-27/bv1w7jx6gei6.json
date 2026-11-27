@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1W7JX6gEi6/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1W7JX6gEi6",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:59:29.727Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1W7JX6gEi6",
+    "title": "大肥鱼的LOST IN PARADISE",
+    "owner": {
+      "name": "嗖嗖的幽灵",
+      "mid": 430157108
+    },
+    "pubdate": 1792147416,
+    "duration": 91
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "嗖嗖的幽灵",
+      "url": "https://space.bilibili.com/430157108"
+    }
+  ]
+}

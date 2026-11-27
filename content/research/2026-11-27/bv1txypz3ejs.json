@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1tXypz3EJs/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tXypz3EJs",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:59:25.098Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1tXypz3EJs",
+    "title": "【大肥鱼xClaude】明天过后",
+    "owner": {
+      "name": "土狗大肥鱼",
+      "mid": 3706944130911113
+    },
+    "pubdate": 1795171151,
+    "duration": 34
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "土狗大肥鱼",
+      "url": "https://space.bilibili.com/3706944130911113"
+    }
+  ]
+}

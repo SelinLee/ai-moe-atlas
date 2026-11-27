@@ -1,0 +1,41 @@
+{
+  "url": "https://www.bilibili.com/video/BV1WRsP6EEKT/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WRsP6EEKT",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:59:25.108Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1WRsP6EEKT",
+    "title": "[二创动画] 请批准吧claude大小姐",
+    "owner": {
+      "name": "吴言__wwuyan",
+      "mid": 495148998
+    },
+    "pubdate": 1794846835,
+    "duration": 164
+  },
+  "descriptionSha256": "d487599ad7fd7030f54d0a7f622b138972aa30d70adc84677ad62e503d559305",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "吴言__wwuyan",
+      "url": "https://space.bilibili.com/495148998"
+    },
+    {
+      "role": "uploader-original-credit",
+      "title": "投稿者标注的本家",
+      "url": "https://www.bilibili.com/video/BV1GzV36pE5h/"
+    },
+    {
+      "role": "uploader-inspiration",
+      "title": "投稿者标注的灵感出处",
+      "url": "https://www.bilibili.com/video/BV1FKnq64E3s/"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · character art",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

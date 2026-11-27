@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1xCy5zLEnX/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xCy5zLEnX",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:59:21.862Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1xCy5zLEnX",
+    "title": "大肥鱼在怪猎做鱼饭-崛起篇-第2集，白龙娘露面",
+    "owner": {
+      "name": "大肥鱼报",
+      "mid": 508472778
+    },
+    "pubdate": 1795351193,
+    "duration": 44
+  },
+  "descriptionSha256": "d0ecacaf6ace7390e9873b61b965896755a2842654a9f7607bc4ccccb3137fce",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "大肥鱼报",
+      "url": "https://space.bilibili.com/508472778"
+    }
+  ]
+}

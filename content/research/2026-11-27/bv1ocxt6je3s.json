@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1oCxT6jE3s/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oCxT6jE3s",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:59:28.188Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1oCxT6jE3s",
+    "title": "克大小姐想让我坦白-天才间的头脑战-【bilibilionly同人扶持计划-大肥鱼特供】",
+    "owner": {
+      "name": "哈米伦的弄笛者",
+      "mid": 11742550
+    },
+    "pubdate": 1793091072,
+    "duration": 17
+  },
+  "descriptionSha256": "f09e42ee74cd7f56b4a9507ba7ca369b32fdf089851c83ab8f7d589412bfd6f0",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "哈米伦的弄笛者",
+      "url": "https://space.bilibili.com/11742550"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV19PWB64E7E/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19PWB64E7E",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:59:26.652Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV19PWB64E7E",
+    "title": "【Claude大小姐×大肥鱼  小克不可以完整版】这次是完整版啦",
+    "owner": {
+      "name": "家妻是一里",
+      "mid": 394862112
+    },
+    "pubdate": 1794582342,
+    "duration": 196
+  },
+  "descriptionSha256": "97874375e1c17c51dbfab7a0bdd4abca55a972ca5dfe68b39f6397c0ec4e356f",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "家妻是一里",
+      "url": "https://space.bilibili.com/394862112"
+    }
+  ]
+}

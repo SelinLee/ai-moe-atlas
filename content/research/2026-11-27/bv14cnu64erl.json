@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV14Cnu64ErL/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV14Cnu64ErL",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:59:20.304Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV14Cnu64ErL",
+    "title": "【ChatGPT娘化】白毛龙娘出演《我的悲伤是水做的》",
+    "owner": {
+      "name": "殿方四火",
+      "mid": 476191884
+    },
+    "pubdate": 1792309363,
+    "duration": 227
+  },
+  "descriptionSha256": "b833d6fd1ffbf0e10fd29e8a151d995b3e1b0a6b5dad9aad8ca04202a9966051",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "殿方四火",
+      "url": "https://space.bilibili.com/476191884"
+    },
+    {
+      "role": "music-original",
+      "title": "ChiliChill · 洛天依原曲",
+      "url": "https://www.bilibili.com/video/BV1Qc411h7Ys/"
+    }
+  ]
+}

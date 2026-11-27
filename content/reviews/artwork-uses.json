@@ -10547,5 +10547,87 @@
         }
       }
     }
+  },
+  {
+    "characterId": "kawamura-muse-lavender",
+    "reviewedAt": "2026-11-27",
+    "reviewBasis": "The creator’s own article documents the character and identifies image workflows. Selected original image hashes are retained with the source record.",
+    "artworks": [],
+    "evidence": [],
+    "evidenceUrl": "https://note.com/chatgpt_ysd/n/n1e94e8d36d28",
+    "attribution": [
+      {
+        "name": "カワムラ",
+        "url": "https://note.com/chatgpt_ysd",
+        "role": "original-character",
+        "publication": "https://note.com/chatgpt_ysd/n/n1e94e8d36d28"
+      }
+    ],
+    "uses": {
+      "featured": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "两张封面的页面图像版本已校验。图像转载和改编许可待确认。",
+          "en": "Verified two cover renditions served by the pages. Permission to republish or adapt the artwork remains unconfirmed.",
+          "ja": "ページ配信の見出し画像2枚を照合。転載・改変の許可は確認待ち。"
+        }
+      },
+      "social-cover": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "两张封面的页面图像版本已校验。图像转载和改编许可待确认。",
+          "en": "Verified two cover renditions served by the pages. Permission to republish or adapt the artwork remains unconfirmed.",
+          "ja": "ページ配信の見出し画像2枚を照合。転載・改変の許可は確認待ち。"
+        }
+      },
+      "avatar-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "两张封面的页面图像版本已校验。图像转载和改编许可待确认。",
+          "en": "Verified two cover renditions served by the pages. Permission to republish or adapt the artwork remains unconfirmed.",
+          "ja": "ページ配信の見出し画像2枚を照合。転載・改変の許可は確認待ち。"
+        }
+      },
+      "full-portrait": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "两张封面的页面图像版本已校验。图像转载和改编许可待确认。",
+          "en": "Verified two cover renditions served by the pages. Permission to republish or adapt the artwork remains unconfirmed.",
+          "ja": "ページ配信の見出し画像2枚を照合。転載・改変の許可は確認待ち。"
+        }
+      },
+      "intro-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "两张封面的页面图像版本已校验。图像转载和改编许可待确认。",
+          "en": "Verified two cover renditions served by the pages. Permission to republish or adapt the artwork remains unconfirmed.",
+          "ja": "ページ配信の見出し画像2枚を照合。転載・改変の許可は確認待ち。"
+        }
+      },
+      "lineup-card": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "两张封面的页面图像版本已校验。图像转载和改编许可待确认。",
+          "en": "Verified two cover renditions served by the pages. Permission to republish or adapt the artwork remains unconfirmed.",
+          "ja": "ページ配信の見出し画像2枚を照合。転載・改変の許可は確認待ち。"
+        }
+      },
+      "readme-demo": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "两张封面的页面图像版本已校验。图像转载和改编许可待确认。",
+          "en": "Verified two cover renditions served by the pages. Permission to republish or adapt the artwork remains unconfirmed.",
+          "ja": "ページ配信の見出し画像2枚を照合。転載・改変の許可は確認待ち。"
+        }
+      },
+      "technical-canvas": {
+        "decision": "unconfirmed",
+        "conditions": {
+          "zh": "两张封面的页面图像版本已校验。图像转载和改编许可待确认。",
+          "en": "Verified two cover renditions served by the pages. Permission to republish or adapt the artwork remains unconfirmed.",
+          "ja": "ページ配信の見出し画像2枚を照合。転載・改変の許可は確認待ち。"
+        }
+      }
+    }
   }
 ]

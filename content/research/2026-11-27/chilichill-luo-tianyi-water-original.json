@@ -1,0 +1,24 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Qc411h7Ys/",
+  "accessedAt": "2026-11-27T13:59:20.313Z",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Qc411h7Ys",
+  "httpStatus": 200,
+  "code": 0,
+  "scope": "Author release verified via isolated Chrome. The song attribution is given in the uploader description.",
+  "author": "YuH_ChiliChill",
+  "documentedCredits": {
+    "music": "ChiliChill",
+    "movie": "Kurattes",
+    "trumpet": "Gergő Bille"
+  },
+  "descriptionSha256": "a87de7f3f63de46cd7217d2d630104b30c4f14a403b0adc5f7444abe4f268ab6",
+  "metadata": {
+    "bvid": "BV1Qc411h7Ys",
+    "title": "【洛天依原创】我的悲伤是水做的",
+    "owner": {
+      "name": "YuH_ChiliChill",
+      "mid": 90942983
+    },
+    "pubdate": 1586513415
+  }
+}

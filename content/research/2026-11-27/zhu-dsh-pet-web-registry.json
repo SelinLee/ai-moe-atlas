@@ -1,0 +1,184 @@
+{
+  "historical": false,
+  "full_name": "zhu1090093659/dsh-pet",
+  "html_url": "https://github.com/zhu1090093659/dsh-pet",
+  "stargazers_count": 76,
+  "archived": false,
+  "created_at": "2026-09-23T14:19:28Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "3ea544009a9d550048f2ca72c7902097e93ac9f0",
+  "observedAt": "2026-11-27T14:03:10.507Z",
+  "httpStatus": 200,
+  "metadataSha256": "be91bdf9dc901069dad7e7b8d933d17c31c78de8c5857229a4002ba4760d5ef9",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/zhu1090093659/dsh-pet/blob/3ea544009a9d550048f2ca72c7902097e93ac9f0/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/zhu1090093659/dsh-pet/3ea544009a9d550048f2ca72c7902097e93ac9f0/README.md",
+      "sourceSha256": "7dad3f55910499c01c1eb531384ee9ea8bc209acb4071a565f52be6a1b1c3071",
+      "gitBlobSha": "b6133299f4fc5f588a6da1af386c965304ae92d4",
+      "bytes": 43373,
+      "commit": "3ea544009a9d550048f2ca72c7902097e93ac9f0",
+      "accessedAt": "2026-11-27T14:04:04.546Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/zhu1090093659/dsh-pet/blob/3ea544009a9d550048f2ca72c7902097e93ac9f0/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/zhu1090093659/dsh-pet/3ea544009a9d550048f2ca72c7902097e93ac9f0/LICENSE",
+      "sourceSha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+      "gitBlobSha": "d645695673349e3947e8e5ae42332d0ac3164cd7",
+      "bytes": 11358,
+      "commit": "3ea544009a9d550048f2ca72c7902097e93ac9f0",
+      "accessedAt": "2026-11-27T14:04:04.807Z"
+    },
+    {
+      "path": "package.json",
+      "url": "https://github.com/zhu1090093659/dsh-pet/blob/3ea544009a9d550048f2ca72c7902097e93ac9f0/package.json",
+      "rawUrl": "https://raw.githubusercontent.com/zhu1090093659/dsh-pet/3ea544009a9d550048f2ca72c7902097e93ac9f0/package.json",
+      "sourceSha256": "a6c852d058c06bb692f16005b149520fcd75b019093f54eb559dc25be0a59194",
+      "gitBlobSha": "4dd4bfeab77e86d3d0544846c6825788e02ccba7",
+      "bytes": 4004,
+      "commit": "3ea544009a9d550048f2ca72c7902097e93ac9f0",
+      "accessedAt": "2026-11-27T14:04:05.059Z"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "url": "https://github.com/zhu1090093659/dsh-pet/blob/3ea544009a9d550048f2ca72c7902097e93ac9f0/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/zhu1090093659/dsh-pet/3ea544009a9d550048f2ca72c7902097e93ac9f0/THIRD_PARTY_NOTICES.md",
+      "sourceSha256": "a160658ff2ccb5f9ab39d56ea33f421beca6044ecf2775226a626b710cec3d2d",
+      "gitBlobSha": "4c8d8db9aed9e3c006b0ad3f39cabc54f673102c",
+      "bytes": 10458,
+      "commit": "3ea544009a9d550048f2ca72c7902097e93ac9f0",
+      "accessedAt": "2026-11-27T14:04:05.432Z"
+    },
+    {
+      "path": "assets/whale/pet.json",
+      "url": "https://github.com/zhu1090093659/dsh-pet/blob/3ea544009a9d550048f2ca72c7902097e93ac9f0/assets/whale/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/zhu1090093659/dsh-pet/3ea544009a9d550048f2ca72c7902097e93ac9f0/assets/whale/pet.json",
+      "sourceSha256": "d6aa4b1d4eb831333ca050ba69ff3ef641b8d49712d6d619e3b6f00702584d13",
+      "gitBlobSha": "eeec702673bf77ae97db128e463a315a12f4eb35",
+      "bytes": 2718,
+      "commit": "3ea544009a9d550048f2ca72c7902097e93ac9f0",
+      "accessedAt": "2026-11-27T14:04:05.684Z"
+    },
+    {
+      "path": "assets/decorations/whale/decoration.json",
+      "url": "https://github.com/zhu1090093659/dsh-pet/blob/3ea544009a9d550048f2ca72c7902097e93ac9f0/assets/decorations/whale/decoration.json",
+      "rawUrl": "https://raw.githubusercontent.com/zhu1090093659/dsh-pet/3ea544009a9d550048f2ca72c7902097e93ac9f0/assets/decorations/whale/decoration.json",
+      "sourceSha256": "3180c772f1f462462671aeac7289f29cd480eb1fdff44c903fc21cc522a83f25",
+      "gitBlobSha": "748e4c66c4d067015360a36541cc03e1c629c5ff",
+      "bytes": 494,
+      "commit": "3ea544009a9d550048f2ca72c7902097e93ac9f0",
+      "accessedAt": "2026-11-27T14:04:05.932Z"
+    },
+    {
+      "path": "assets/decorations/whale/whale-frames.png",
+      "url": "https://github.com/zhu1090093659/dsh-pet/blob/3ea544009a9d550048f2ca72c7902097e93ac9f0/assets/decorations/whale/whale-frames.png",
+      "rawUrl": "https://raw.githubusercontent.com/zhu1090093659/dsh-pet/3ea544009a9d550048f2ca72c7902097e93ac9f0/assets/decorations/whale/whale-frames.png",
+      "sourceSha256": "5d567112350afc6be2293e6745b36a9c7155153cbcf38444f193989ea1cf374d",
+      "gitBlobSha": "b3da3e69a04349c267d8b5765091d1ddaa099a2b",
+      "bytes": 837,
+      "commit": "3ea544009a9d550048f2ca72c7902097e93ac9f0",
+      "accessedAt": "2026-11-27T14:04:06.191Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T14:04:06.191Z",
+  "scope": "Pinned creator documents were checked with isolated Chrome against Git blob hashes and SHA-256. The description records which terms apply to each asset.",
+  "relations": [
+    {
+      "role": "parent-project",
+      "title": "DSH Web · fixed submodule reference",
+      "url": "https://github.com/zhu1090093659/dsh-web/blob/5dcde41cae73a714b0057e32f0777ab31177c9dd/.gitmodules"
+    },
+    {
+      "role": "code-license",
+      "title": "DSH Pet · pinned LICENSE",
+      "url": "https://github.com/zhu1090093659/dsh-pet/blob/3ea544009a9d550048f2ca72c7902097e93ac9f0/LICENSE"
+    },
+    {
+      "role": "package-metadata",
+      "title": "DSH Pet · package metadata",
+      "url": "https://github.com/zhu1090093659/dsh-pet/blob/3ea544009a9d550048f2ca72c7902097e93ac9f0/package.json"
+    },
+    {
+      "role": "asset-specific-terms",
+      "title": "DSH Pet · third-party notices",
+      "url": "https://github.com/zhu1090093659/dsh-pet/blob/3ea544009a9d550048f2ca72c7902097e93ac9f0/THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "role": "asset-manifest",
+      "title": "Whale fountain · MIT decoration manifest",
+      "url": "https://github.com/zhu1090093659/dsh-pet/blob/3ea544009a9d550048f2ca72c7902097e93ac9f0/assets/decorations/whale/decoration.json"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/zhu1090093659/dsh-pet/blob/3ea544009a9d550048f2ca72c7902097e93ac9f0/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/zhu1090093659/dsh-pet/3ea544009a9d550048f2ca72c7902097e93ac9f0/README.md",
+    "sourceSha256": "7dad3f55910499c01c1eb531384ee9ea8bc209acb4071a565f52be6a1b1c3071",
+    "gitBlobSha": "b6133299f4fc5f588a6da1af386c965304ae92d4",
+    "bytes": 43373,
+    "commit": "3ea544009a9d550048f2ca72c7902097e93ac9f0",
+    "accessedAt": "2026-11-27T14:04:04.546Z"
+  },
+  "upstreamSubmodule": {
+    "path": ".gitmodules",
+    "url": "https://github.com/zhu1090093659/dsh-web/blob/5dcde41cae73a714b0057e32f0777ab31177c9dd/.gitmodules",
+    "rawUrl": "https://raw.githubusercontent.com/zhu1090093659/dsh-web/5dcde41cae73a714b0057e32f0777ab31177c9dd/.gitmodules",
+    "sourceSha256": "3455a7cf4c86843eef7b306cc3501737363edd3ada7b6fdc2e50dba8158769da",
+    "gitBlobSha": "0126a76fe091eae1fcf0ff439be2eb71566194c4",
+    "bytes": 508,
+    "commit": "5dcde41cae73a714b0057e32f0777ab31177c9dd",
+    "accessedAt": "2026-11-27T14:04:04.636Z"
+  },
+  "matchedWhaleFiles": [
+    {
+      "path": "assets/decorations/whale/decoration.json",
+      "upstream": {
+        "path": "assets/decorations/whale/decoration.json",
+        "url": "https://github.com/zhu1090093659/dsh-pet/blob/3ea544009a9d550048f2ca72c7902097e93ac9f0/assets/decorations/whale/decoration.json",
+        "rawUrl": "https://raw.githubusercontent.com/zhu1090093659/dsh-pet/3ea544009a9d550048f2ca72c7902097e93ac9f0/assets/decorations/whale/decoration.json",
+        "sourceSha256": "3180c772f1f462462671aeac7289f29cd480eb1fdff44c903fc21cc522a83f25",
+        "gitBlobSha": "748e4c66c4d067015360a36541cc03e1c629c5ff",
+        "bytes": 494,
+        "commit": "3ea544009a9d550048f2ca72c7902097e93ac9f0",
+        "accessedAt": "2026-11-27T14:04:05.932Z"
+      },
+      "ported": {
+        "path": "assets/decorations/whale/decoration.json",
+        "url": "https://github.com/qiqibabyy/dsh-pet-desktop/blob/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/assets/decorations/whale/decoration.json",
+        "rawUrl": "https://raw.githubusercontent.com/qiqibabyy/dsh-pet-desktop/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/assets/decorations/whale/decoration.json",
+        "sourceSha256": "3180c772f1f462462671aeac7289f29cd480eb1fdff44c903fc21cc522a83f25",
+        "gitBlobSha": "748e4c66c4d067015360a36541cc03e1c629c5ff",
+        "bytes": 494,
+        "commit": "4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b",
+        "accessedAt": "2026-11-27T14:04:05.276Z"
+      }
+    },
+    {
+      "path": "assets/decorations/whale/whale-frames.png",
+      "upstream": {
+        "path": "assets/decorations/whale/whale-frames.png",
+        "url": "https://github.com/zhu1090093659/dsh-pet/blob/3ea544009a9d550048f2ca72c7902097e93ac9f0/assets/decorations/whale/whale-frames.png",
+        "rawUrl": "https://raw.githubusercontent.com/zhu1090093659/dsh-pet/3ea544009a9d550048f2ca72c7902097e93ac9f0/assets/decorations/whale/whale-frames.png",
+        "sourceSha256": "5d567112350afc6be2293e6745b36a9c7155153cbcf38444f193989ea1cf374d",
+        "gitBlobSha": "b3da3e69a04349c267d8b5765091d1ddaa099a2b",
+        "bytes": 837,
+        "commit": "3ea544009a9d550048f2ca72c7902097e93ac9f0",
+        "accessedAt": "2026-11-27T14:04:06.191Z"
+      },
+      "ported": {
+        "path": "assets/decorations/whale/whale-frames.png",
+        "url": "https://github.com/qiqibabyy/dsh-pet-desktop/blob/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/assets/decorations/whale/whale-frames.png",
+        "rawUrl": "https://raw.githubusercontent.com/qiqibabyy/dsh-pet-desktop/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/assets/decorations/whale/whale-frames.png",
+        "sourceSha256": "5d567112350afc6be2293e6745b36a9c7155153cbcf38444f193989ea1cf374d",
+        "gitBlobSha": "b3da3e69a04349c267d8b5765091d1ddaa099a2b",
+        "bytes": 837,
+        "commit": "4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b",
+        "accessedAt": "2026-11-27T14:04:05.523Z"
+      }
+    }
+  ]
+}

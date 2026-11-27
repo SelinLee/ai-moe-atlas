@@ -7359,5 +7359,61 @@
       "en": "Links the creator’s articles and source art. Stand-alone republication and redistribution terms for the atlas are unconfirmed.",
       "ja": "作者の記事と画像の公開先を案内。当図鑑での個別の転載・再配布条件は確認中。"
     }
+  },
+  {
+    "id": "kawamura-muse-lavender",
+    "entity": "muse",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Muse · カワムラ的薰衣草发新角色",
+      "en": "Muse · Kawamura’s Lavender-Haired Newcomer",
+      "ja": "Muse · カワムラのラベンダー髪の新人"
+    },
+    "description": {
+      "zh": "薰衣草色头发带粉色挑染，小马尾、紫眼、耳饰和黑色颈圈。カワムラ把他写成负责安排并执行任务的新成员。",
+      "en": "Lavender hair with pink highlights, a short ponytail, violet eyes, earrings and a black choker. Kawamura casts him as a newcomer who helps plan and carry out work.",
+      "ja": "ラベンダー色の髪にピンクのメッシュ、小さなポニーテール、紫の瞳、ピアス、黒いチョーカー。段取りや作業を担う新人として登場。"
+    },
+    "story": {
+      "zh": "薰衣草色头发带粉色挑染，小马尾、紫眼、耳饰和黑色颈圈。カワムラ把他写成负责安排并执行任务的新成员。",
+      "en": "Lavender hair with pink highlights, a short ponytail, violet eyes, earrings and a black choker. Kawamura casts him as a newcomer who helps plan and carry out work.",
+      "ja": "ラベンダー色の髪にピンクのメッシュ、小さなポニーテール、紫の瞳、ピアス、黒いチョーカー。段取りや作業を担う新人として登場。"
+    },
+    "features": {
+      "zh": "薰衣草色头发带粉色挑染，小马尾、紫眼、耳饰和黑色颈圈。カワムラ把他写成负责安排并执行任务的新成员。",
+      "en": "Lavender hair with pink highlights, a short ponytail, violet eyes, earrings and a black choker. Kawamura casts him as a newcomer who helps plan and carry out work.",
+      "ja": "ラベンダー色の髪にピンクのメッシュ、小さなポニーテール、紫の瞳、ピアス、黒いチョーカー。段取りや作業を担う新人として登場。"
+    },
+    "author": "カワムラ",
+    "authorUrl": "https://note.com/chatgpt_ysd",
+    "source": "https://note.com/chatgpt_ysd/n/n1e94e8d36d28",
+    "sourceTitle": "大型新人Muse襲来！AI三銃士、全員クビの危機！？〜漫画も描ける、恋人ロールもできるAI美少年〜｜ChatGPT",
+    "originalPublication": "https://note.com/chatgpt_ysd/n/n1e94e8d36d28",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "カワムラ",
+        "url": "https://note.com/chatgpt_ysd",
+        "role": "original-character",
+        "publication": "https://note.com/chatgpt_ysd/n/n1e94e8d36d28"
+      }
+    ],
+    "method": "upstream-ai-assisted",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/chatgpt_ysd/n/n1e94e8d36d28",
+    "downloadable": false,
+    "bg": "#eeeaf8",
+    "color": "#4b3b58",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "此处提供作者原帖及图件出处，独立展示和再分发条件待确认。",
+      "en": "The atlas links the creator’s post and source images. Separate display and redistribution terms remain unconfirmed.",
+      "ja": "作者の原文と画像の公開先を案内。個別の掲載・再配布条件は確認待ち。"
+    }
   }
 ]

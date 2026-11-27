@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1vosX63EGu/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vosX63EGu",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:59:31.261Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1vosX63EGu",
+    "title": "Claude Opus 纯代码写的哈基米猫娘偶像宅舞｜160BPM 全程卡点",
+    "owner": {
+      "name": "hero1157",
+      "mid": 451569945
+    },
+    "pubdate": 1793196250,
+    "duration": 37
+  },
+  "descriptionSha256": "84bd7c181691839fdc50a8da2ff6a6546cdf8878883e91e628b68eb6344e6ac2",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "hero1157",
+      "url": "https://space.bilibili.com/451569945"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · character art",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

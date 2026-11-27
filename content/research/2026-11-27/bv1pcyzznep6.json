@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1PCyZzNEp6/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PCyZzNEp6",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:59:23.571Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1PCyZzNEp6",
+    "title": "【小克 & 大肥鱼】如果是室内系AI就一起track maker~",
+    "owner": {
+      "name": "葉桜ミク",
+      "mid": 485269737
+    },
+    "pubdate": 1795520271,
+    "duration": 10
+  },
+  "descriptionSha256": "111758f57d737fc990bf1307829635d9620304fa9cec05820f51cbcf86185dcf",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "葉桜ミク",
+      "url": "https://space.bilibili.com/485269737"
+    },
+    {
+      "role": "uploader-reference",
+      "title": "投稿者标注的参考视频",
+      "url": "https://www.bilibili.com/video/BV1gbyYzBE3L/"
+    }
+  ]
+}

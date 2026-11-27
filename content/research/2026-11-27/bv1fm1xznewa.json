@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1fm1xzNEwA/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fm1xzNEwA",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:59:21.911Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1fm1xzNEwA",
+    "title": "【AI酱】稳稳地接住你｜GPT白龙娘 原创MV【AI MV大赛】",
+    "owner": {
+      "name": "1楼的小黑",
+      "mid": 11722158
+    },
+    "pubdate": 1795772471,
+    "duration": 227
+  },
+  "descriptionSha256": "ddf508386625601e302a5148990242c84b8e3138ed9e1c4f0af67966d875dc66",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "1楼的小黑",
+      "url": "https://space.bilibili.com/11722158"
+    },
+    {
+      "role": "character-reference",
+      "title": "AI 酱 · creator project",
+      "url": "https://github.com/lXiaoSel1/AI-Buddy"
+    }
+  ]
+}

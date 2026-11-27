@@ -1,0 +1,179 @@
+{
+  "historical": false,
+  "full_name": "qiqibabyy/dsh-pet-desktop",
+  "html_url": "https://github.com/qiqibabyy/dsh-pet-desktop",
+  "stargazers_count": 2,
+  "archived": false,
+  "created_at": "2026-09-17T12:25:25Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b",
+  "observedAt": "2026-11-27T13:58:31.113Z",
+  "httpStatus": 200,
+  "metadataSha256": "e4ddd879498066b77a180a46b29c888906ec3527276d1d9715b53e012aa38b8d",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/qiqibabyy/dsh-pet-desktop/blob/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/qiqibabyy/dsh-pet-desktop/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/README.md",
+      "sourceSha256": "4da9ed29df9dbe0c1ce9c1f99410f7e311284f8223a7e4724fc5c4b400665c80",
+      "gitBlobSha": "ab2db935476b3b832e4a035f4582d570749d57ac",
+      "bytes": 6589,
+      "commit": "4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b",
+      "accessedAt": "2026-11-27T14:04:04.516Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/qiqibabyy/dsh-pet-desktop/blob/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/qiqibabyy/dsh-pet-desktop/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/LICENSE",
+      "sourceSha256": "7063545a5daa15c2fb57142327a3625bfbc1efdb304b3a28adbf36c84a610780",
+      "gitBlobSha": "b4c91febc4409e313de94023ba1f815f5ef48bd4",
+      "bytes": 11387,
+      "commit": "4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b",
+      "accessedAt": "2026-11-27T14:04:04.768Z"
+    },
+    {
+      "path": "assets/decorations/whale/LICENSE.txt",
+      "url": "https://github.com/qiqibabyy/dsh-pet-desktop/blob/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/assets/decorations/whale/LICENSE.txt",
+      "rawUrl": "https://raw.githubusercontent.com/qiqibabyy/dsh-pet-desktop/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/assets/decorations/whale/LICENSE.txt",
+      "sourceSha256": "d7541e90b554112ea58a443ea1a4c093bb832c7de5a241860312b8497be23435",
+      "gitBlobSha": "930792da91af0b584995f40908581b70b92b9c6a",
+      "bytes": 1333,
+      "commit": "4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b",
+      "accessedAt": "2026-11-27T14:04:05.023Z"
+    },
+    {
+      "path": "assets/decorations/whale/decoration.json",
+      "url": "https://github.com/qiqibabyy/dsh-pet-desktop/blob/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/assets/decorations/whale/decoration.json",
+      "rawUrl": "https://raw.githubusercontent.com/qiqibabyy/dsh-pet-desktop/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/assets/decorations/whale/decoration.json",
+      "sourceSha256": "3180c772f1f462462671aeac7289f29cd480eb1fdff44c903fc21cc522a83f25",
+      "gitBlobSha": "748e4c66c4d067015360a36541cc03e1c629c5ff",
+      "bytes": 494,
+      "commit": "4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b",
+      "accessedAt": "2026-11-27T14:04:05.276Z"
+    },
+    {
+      "path": "assets/decorations/whale/whale-frames.png",
+      "url": "https://github.com/qiqibabyy/dsh-pet-desktop/blob/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/assets/decorations/whale/whale-frames.png",
+      "rawUrl": "https://raw.githubusercontent.com/qiqibabyy/dsh-pet-desktop/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/assets/decorations/whale/whale-frames.png",
+      "sourceSha256": "5d567112350afc6be2293e6745b36a9c7155153cbcf38444f193989ea1cf374d",
+      "gitBlobSha": "b3da3e69a04349c267d8b5765091d1ddaa099a2b",
+      "bytes": 837,
+      "commit": "4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b",
+      "accessedAt": "2026-11-27T14:04:05.523Z"
+    },
+    {
+      "path": "assets/pets/README.md",
+      "url": "https://github.com/qiqibabyy/dsh-pet-desktop/blob/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/assets/pets/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/qiqibabyy/dsh-pet-desktop/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/assets/pets/README.md",
+      "sourceSha256": "c947cc0773b815d4cecd678df0c057672028179fd449f999512f371463f0581c",
+      "gitBlobSha": "dd25e7f71b7b842eea39c36bf2ad95ab1eed6594",
+      "bytes": 1655,
+      "commit": "4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b",
+      "accessedAt": "2026-11-27T14:04:05.777Z"
+    },
+    {
+      "path": "package.json",
+      "url": "https://github.com/qiqibabyy/dsh-pet-desktop/blob/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/package.json",
+      "rawUrl": "https://raw.githubusercontent.com/qiqibabyy/dsh-pet-desktop/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/package.json",
+      "sourceSha256": "09ec5994c75ead8cc795544227d5f2f071bf3f8adde7754f1094a92b2ecb9bbc",
+      "gitBlobSha": "d8f552e980d778216af465c0644eaf90d7d47013",
+      "bytes": 1596,
+      "commit": "4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b",
+      "accessedAt": "2026-11-27T14:04:06.026Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T14:04:06.026Z",
+  "scope": "Pinned creator documents were checked with isolated Chrome against Git blob hashes and SHA-256. The description records which terms apply to each asset.",
+  "relations": [
+    {
+      "role": "code-license",
+      "title": "DSH Pet Desktop · Apache-2.0",
+      "url": "https://github.com/qiqibabyy/dsh-pet-desktop/blob/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/LICENSE"
+    },
+    {
+      "role": "asset-specific-terms",
+      "title": "Whale fountain · pinned MIT terms",
+      "url": "https://github.com/qiqibabyy/dsh-pet-desktop/blob/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/assets/decorations/whale/LICENSE.txt"
+    },
+    {
+      "role": "upstream-asset-manifest",
+      "title": "Upstream whale fountain · manifest",
+      "url": "https://github.com/zhu1090093659/dsh-pet/blob/3ea544009a9d550048f2ca72c7902097e93ac9f0/assets/decorations/whale/decoration.json"
+    },
+    {
+      "role": "upstream-asset",
+      "title": "Upstream whale fountain · frame image",
+      "url": "https://github.com/zhu1090093659/dsh-pet/blob/3ea544009a9d550048f2ca72c7902097e93ac9f0/assets/decorations/whale/whale-frames.png"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/qiqibabyy/dsh-pet-desktop/blob/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/qiqibabyy/dsh-pet-desktop/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/README.md",
+    "sourceSha256": "4da9ed29df9dbe0c1ce9c1f99410f7e311284f8223a7e4724fc5c4b400665c80",
+    "gitBlobSha": "ab2db935476b3b832e4a035f4582d570749d57ac",
+    "bytes": 6589,
+    "commit": "4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b",
+    "accessedAt": "2026-11-27T14:04:04.516Z"
+  },
+  "upstreamSubmodule": {
+    "path": ".gitmodules",
+    "url": "https://github.com/zhu1090093659/dsh-web/blob/5dcde41cae73a714b0057e32f0777ab31177c9dd/.gitmodules",
+    "rawUrl": "https://raw.githubusercontent.com/zhu1090093659/dsh-web/5dcde41cae73a714b0057e32f0777ab31177c9dd/.gitmodules",
+    "sourceSha256": "3455a7cf4c86843eef7b306cc3501737363edd3ada7b6fdc2e50dba8158769da",
+    "gitBlobSha": "0126a76fe091eae1fcf0ff439be2eb71566194c4",
+    "bytes": 508,
+    "commit": "5dcde41cae73a714b0057e32f0777ab31177c9dd",
+    "accessedAt": "2026-11-27T14:04:04.636Z"
+  },
+  "matchedWhaleFiles": [
+    {
+      "path": "assets/decorations/whale/decoration.json",
+      "upstream": {
+        "path": "assets/decorations/whale/decoration.json",
+        "url": "https://github.com/zhu1090093659/dsh-pet/blob/3ea544009a9d550048f2ca72c7902097e93ac9f0/assets/decorations/whale/decoration.json",
+        "rawUrl": "https://raw.githubusercontent.com/zhu1090093659/dsh-pet/3ea544009a9d550048f2ca72c7902097e93ac9f0/assets/decorations/whale/decoration.json",
+        "sourceSha256": "3180c772f1f462462671aeac7289f29cd480eb1fdff44c903fc21cc522a83f25",
+        "gitBlobSha": "748e4c66c4d067015360a36541cc03e1c629c5ff",
+        "bytes": 494,
+        "commit": "3ea544009a9d550048f2ca72c7902097e93ac9f0",
+        "accessedAt": "2026-11-27T14:04:05.932Z"
+      },
+      "ported": {
+        "path": "assets/decorations/whale/decoration.json",
+        "url": "https://github.com/qiqibabyy/dsh-pet-desktop/blob/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/assets/decorations/whale/decoration.json",
+        "rawUrl": "https://raw.githubusercontent.com/qiqibabyy/dsh-pet-desktop/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/assets/decorations/whale/decoration.json",
+        "sourceSha256": "3180c772f1f462462671aeac7289f29cd480eb1fdff44c903fc21cc522a83f25",
+        "gitBlobSha": "748e4c66c4d067015360a36541cc03e1c629c5ff",
+        "bytes": 494,
+        "commit": "4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b",
+        "accessedAt": "2026-11-27T14:04:05.276Z"
+      }
+    },
+    {
+      "path": "assets/decorations/whale/whale-frames.png",
+      "upstream": {
+        "path": "assets/decorations/whale/whale-frames.png",
+        "url": "https://github.com/zhu1090093659/dsh-pet/blob/3ea544009a9d550048f2ca72c7902097e93ac9f0/assets/decorations/whale/whale-frames.png",
+        "rawUrl": "https://raw.githubusercontent.com/zhu1090093659/dsh-pet/3ea544009a9d550048f2ca72c7902097e93ac9f0/assets/decorations/whale/whale-frames.png",
+        "sourceSha256": "5d567112350afc6be2293e6745b36a9c7155153cbcf38444f193989ea1cf374d",
+        "gitBlobSha": "b3da3e69a04349c267d8b5765091d1ddaa099a2b",
+        "bytes": 837,
+        "commit": "3ea544009a9d550048f2ca72c7902097e93ac9f0",
+        "accessedAt": "2026-11-27T14:04:06.191Z"
+      },
+      "ported": {
+        "path": "assets/decorations/whale/whale-frames.png",
+        "url": "https://github.com/qiqibabyy/dsh-pet-desktop/blob/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/assets/decorations/whale/whale-frames.png",
+        "rawUrl": "https://raw.githubusercontent.com/qiqibabyy/dsh-pet-desktop/4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b/assets/decorations/whale/whale-frames.png",
+        "sourceSha256": "5d567112350afc6be2293e6745b36a9c7155153cbcf38444f193989ea1cf374d",
+        "gitBlobSha": "b3da3e69a04349c267d8b5765091d1ddaa099a2b",
+        "bytes": 837,
+        "commit": "4d19c08fdeef54cfd38d8bfd7e6b4ad17fdea22b",
+        "accessedAt": "2026-11-27T14:04:05.523Z"
+      }
+    }
+  ]
+}

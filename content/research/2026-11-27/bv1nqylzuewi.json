@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1nqyLzuEwi/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1nqyLzuEwi",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:59:23.570Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1nqyLzuEwi",
+    "title": "[手书] deepseek x claude 《我也是星星吗》",
+    "owner": {
+      "name": "草原神医乌日莫",
+      "mid": 8073262
+    },
+    "pubdate": 1795346444,
+    "duration": 269
+  },
+  "descriptionSha256": "fd08aa669bbc823d6d3da8c2bf55d82e8d1feeb3e0f95630c3754735e0cd2b77",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "草原神医乌日莫",
+      "url": "https://space.bilibili.com/8073262"
+    },
+    {
+      "role": "uploader-inspiration",
+      "title": "投稿者标注的灵感出处",
+      "url": "https://www.bilibili.com/video/BV1ZsWE63E7B/"
+    }
+  ]
+}

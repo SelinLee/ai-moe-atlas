@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ecpT6NEtG/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ecpT6NEtG",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:59:29.721Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1ecpT6NEtG",
+    "title": "【Dots】GPT&Claude的天天天国地狱国",
+    "owner": {
+      "name": "Qalaisa",
+      "mid": 521266164
+    },
+    "pubdate": 1791345600,
+    "duration": 234
+  },
+  "descriptionSha256": "3903ad852881936ca1507e0ac24614118f49561a129f8bf034e87812158c67ce",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Qalaisa",
+      "url": "https://space.bilibili.com/521266164"
+    },
+    {
+      "role": "music-original",
+      "title": "投稿者标注的原片",
+      "url": "https://www.bilibili.com/video/BV1QWPqedE89/"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · character art",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

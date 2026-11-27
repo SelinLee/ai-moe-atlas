@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1VgxR6LECR/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VgxR6LECR",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:59:26.653Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1VgxR6LECR",
+    "title": "大肥鱼死了以后会去什么地方？\"中转站\"",
+    "owner": {
+      "name": "Aomura_Umeko",
+      "mid": 1839720
+    },
+    "pubdate": 1793816951,
+    "duration": 64
+  },
+  "descriptionSha256": "40969b5964d3cbbdf0c3d3baacbe335118b63e95ef04178fb3bb2e97abde472d",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Aomura_Umeko",
+      "url": "https://space.bilibili.com/1839720"
+    }
+  ]
+}
