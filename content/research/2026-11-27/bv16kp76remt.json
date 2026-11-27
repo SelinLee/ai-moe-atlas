@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV16Kp76rEmT/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16Kp76rEmT",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:44:14.715Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV16Kp76rEmT",
+    "title": "【AI拟人 二创】claude与deepseek战乱时期的爱情，像素风mv（白鸽与鲸）",
+    "owner": {
+      "name": "罗伯特君",
+      "mid": 20365969
+    },
+    "pubdate": 1791696387,
+    "duration": 245
+  },
+  "descriptionSha256": "c2fe24e814c50cf341c5359735ae9d29d4dc1d3d0eaebe013aced5bfb59f56a8",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "罗伯特君",
+      "url": "https://space.bilibili.com/20365969"
+    }
+  ]
+}

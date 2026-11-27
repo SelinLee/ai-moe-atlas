@@ -1,0 +1,71 @@
+{
+  "historical": false,
+  "full_name": "GDZY9527/deepseek-codex-pet",
+  "html_url": "https://github.com/GDZY9527/deepseek-codex-pet",
+  "stargazers_count": 4,
+  "archived": false,
+  "created_at": "2026-09-23T09:17:35Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "3221534c5bff27b3932e32c99b15deaaf7bf7613",
+  "observedAt": "2026-11-27T13:42:52.242Z",
+  "httpStatus": 200,
+  "metadataSha256": "f20ff25d1cf035ec2cd51061609d6ed765782e14c8b7f352f942d1eb13b0efe3",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/GDZY9527/deepseek-codex-pet/blob/3221534c5bff27b3932e32c99b15deaaf7bf7613/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/GDZY9527/deepseek-codex-pet/3221534c5bff27b3932e32c99b15deaaf7bf7613/README.md",
+      "sourceSha256": "584de6b93639277df8368d719a6f4ceda8e617f6250b0903d1760d98109abb82",
+      "gitBlobSha": "244c33dc5f2e06a2aa462e64948373794d1ff822",
+      "bytes": 1639,
+      "commit": "3221534c5bff27b3932e32c99b15deaaf7bf7613",
+      "accessedAt": "2026-11-27T13:49:30.419Z"
+    },
+    {
+      "path": "README.zh-CN.md",
+      "url": "https://github.com/GDZY9527/deepseek-codex-pet/blob/3221534c5bff27b3932e32c99b15deaaf7bf7613/README.zh-CN.md",
+      "rawUrl": "https://raw.githubusercontent.com/GDZY9527/deepseek-codex-pet/3221534c5bff27b3932e32c99b15deaaf7bf7613/README.zh-CN.md",
+      "sourceSha256": "d82c4f1def8b1a3c978ebea276dde723100651e92842e26ba3ded1a086de1a0d",
+      "gitBlobSha": "6358334daccf0d6b386d525fdc8f887c889880b1",
+      "bytes": 1559,
+      "commit": "3221534c5bff27b3932e32c99b15deaaf7bf7613",
+      "accessedAt": "2026-11-27T13:49:30.743Z"
+    },
+    {
+      "path": "pet.json",
+      "url": "https://github.com/GDZY9527/deepseek-codex-pet/blob/3221534c5bff27b3932e32c99b15deaaf7bf7613/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/GDZY9527/deepseek-codex-pet/3221534c5bff27b3932e32c99b15deaaf7bf7613/pet.json",
+      "sourceSha256": "c4094066dcc9341764daeed160cc3790c8029ee2690735fbc5ccd35d450f4f77",
+      "gitBlobSha": "778a705a0b1a480709bfaf8a9493a321619e4d2d",
+      "bytes": 184,
+      "commit": "3221534c5bff27b3932e32c99b15deaaf7bf7613",
+      "accessedAt": "2026-11-27T13:49:31.084Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T13:49:31.084Z",
+  "scope": "Pinned first-party documentation and source files were checked using Git blob SHA-1 and SHA-256. Asset-specific terms are reported separately.",
+  "relations": [
+    {
+      "role": "localized-documentation",
+      "title": "GDZY9527 · 中文说明",
+      "url": "https://github.com/GDZY9527/deepseek-codex-pet/blob/3221534c5bff27b3932e32c99b15deaaf7bf7613/README.zh-CN.md"
+    },
+    {
+      "role": "pet-manifest",
+      "title": "GDZY9527 · Codex pet manifest",
+      "url": "https://github.com/GDZY9527/deepseek-codex-pet/blob/3221534c5bff27b3932e32c99b15deaaf7bf7613/pet.json"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/GDZY9527/deepseek-codex-pet/blob/3221534c5bff27b3932e32c99b15deaaf7bf7613/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/GDZY9527/deepseek-codex-pet/3221534c5bff27b3932e32c99b15deaaf7bf7613/README.md",
+    "sourceSha256": "584de6b93639277df8368d719a6f4ceda8e617f6250b0903d1760d98109abb82",
+    "gitBlobSha": "244c33dc5f2e06a2aa462e64948373794d1ff822",
+    "bytes": 1639,
+    "commit": "3221534c5bff27b3932e32c99b15deaaf7bf7613",
+    "accessedAt": "2026-11-27T13:49:30.419Z"
+  }
+}

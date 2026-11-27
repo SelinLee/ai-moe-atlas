@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ESyHzsEnD/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ESyHzsEnD",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:44:10.096Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1ESyHzsEnD",
+    "title": "AI娘桌宠做好了！会偷偷吃醋的白龙娘 × 大肥鱼",
+    "owner": {
+      "name": "浩瀚星海233",
+      "mid": 448238032
+    },
+    "pubdate": 1795414132,
+    "duration": 116
+  },
+  "descriptionSha256": "23171d7bfdd7740a76ee533d110b428c17262bfbfca01079e83765b88f36976c",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "浩瀚星海233",
+      "url": "https://space.bilibili.com/448238032"
+    },
+    {
+      "role": "creator-project",
+      "title": "hhxk233 · ai-work-pet",
+      "url": "https://github.com/hhxk233/ai-work-pet"
+    }
+  ]
+}

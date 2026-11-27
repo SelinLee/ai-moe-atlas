@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV17mxC6nE5T/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17mxC6nE5T",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:44:17.805Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV17mxC6nE5T",
+    "title": "【PV】【小克&大肥鱼】“对不起，我无法满足这个请求”——“所以这次，换我来见你”",
+    "owner": {
+      "name": "秋月佑空",
+      "mid": 38492867
+    },
+    "pubdate": 1793431904,
+    "duration": 277
+  },
+  "descriptionSha256": "0bf021320a6406238e71404b66154d96ae272317b47731841f1814a62a0a338e",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "秋月佑空",
+      "url": "https://space.bilibili.com/38492867"
+    }
+  ]
+}

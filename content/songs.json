@@ -38,7 +38,7 @@
       {"id": "bv1jjhl6we8q", "type": "mv"},
       {"id": "bv1zdwu6aesj", "type": "mv"},
       {"id": "bv1zhydzke3l", "type": "mv"},
-      {"id": "bv1q1w66teue", "type": "mv"}
+      {"id": "bv1q1w66teue", "type": "mv"}, {"id": "bv1pgnr62eyv", "type": "mv"}
     ]
   },
   {
@@ -349,7 +349,7 @@
     "id": "rice-field",
     "title": {"zh": "稻香", "en": "Rice Field", "ja": "稲香"},
     "original": {"credit": "周杰倫 · Jay Chou", "url": "https://music.apple.com/tw/song/1624001324"},
-    "versions": [{"id": "bv1mmyazaeyc", "type": "cover"}]
+    "versions": [{"id": "bv1mmyazaeyc", "type": "cover"}, {"id": "bv15xht6iefu", "type": "mv"}]
   },
   {
     "id": "thinking-of-you-365-days",
@@ -1248,5 +1248,29 @@
     "title": {"zh": "Let It Go · 冰雪奇缘", "en": "Let It Go · Frozen", "ja": "Let It Go · アナと雪の女王"},
     "original": {"credit": "Idina Menzel", "url": "https://www.youtube.com/watch?v=moSFlvxnbgk"},
     "versions": [{"id": "bv1vonc61e5g", "type": "cover"}]
+  },
+  {
+    "id": "sea-in-the-bathtub",
+    "title": {"zh": "浴缸里的海", "en": "The Sea in the Bathtub", "ja": "バスタブの海"},
+    "original": {"credit": "乌林-哲勒麦 · 大肥鱼 · Suno", "url": "https://www.bilibili.com/video/BV1dvyuzLELg/"},
+    "versions": [{"id": "bv1dvyuzlelg", "type": "original-mv"}]
+  },
+  {
+    "id": "through-my-camera-eyes",
+    "title": {"zh": "以镜头为眸", "en": "Through My Camera Eyes", "ja": "Through My Camera Eyes"},
+    "original": {"credit": "MG黎霖 · Suno · 豆包", "url": "https://www.bilibili.com/video/BV1czsq6BEmH/"},
+    "versions": [{"id": "bv1czsq6bemh", "type": "original-mv"}]
+  },
+  {
+    "id": "every-grain-of-me",
+    "title": {"zh": "被爱着的一生", "en": "Every Grain of Me", "ja": "Every Grain of Me"},
+    "original": {"credit": "千面同学", "url": "https://www.bilibili.com/video/BV1oTxR6jEBZ/"},
+    "versions": [{"id": "bv1otxr6jebz", "type": "original-mv"}]
+  },
+  {
+    "id": "one-bowl-of-white-rice-original",
+    "title": {"zh": "一碗大白饭", "en": "A Bowl of White Rice", "ja": "白ごはん一杯"},
+    "original": {"credit": "千面同学", "url": "https://www.bilibili.com/video/BV19AxU6REFt/"},
+    "versions": [{"id": "bv19axu6reft", "type": "original-mv"}]
   }
 ]

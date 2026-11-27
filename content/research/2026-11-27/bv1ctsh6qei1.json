@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ctsh6QEi1/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ctsh6QEi1",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:44:11.627Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1ctsh6QEi1",
+    "title": "《D鲸大肥鱼》第二集：石头的神话（试播集）",
+    "owner": {
+      "name": "三式酱_official",
+      "mid": 537843991
+    },
+    "pubdate": 1795086389,
+    "duration": 46
+  },
+  "descriptionSha256": "c562a645c27ca3e396e1010e6efe7500fd833c8d12c27a275dce2f52933ba2f5",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "三式酱_official",
+      "url": "https://space.bilibili.com/537843991"
+    }
+  ]
+}

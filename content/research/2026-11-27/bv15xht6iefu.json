@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV15XHT6iEFU/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15XHT6iEFU",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:44:13.172Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV15XHT6iEFU",
+    "title": "【DeepSeek×Claude】《稻香》像素MV-回家吧 回到最初的美好。",
+    "owner": {
+      "name": "敏航拙",
+      "mid": 10070346
+    },
+    "pubdate": 1792857944,
+    "duration": 211
+  },
+  "descriptionSha256": "62cef5be5ffbb50c4fe7add0bd5aa7a832ea1a5e3c5a601f6f2bddd1363db3fb",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "敏航拙",
+      "url": "https://space.bilibili.com/10070346"
+    },
+    {
+      "role": "music-original",
+      "title": "周杰倫 · Jay Chou · Rice Field",
+      "url": "https://music.apple.com/tw/song/1624001324"
+    }
+  ]
+}

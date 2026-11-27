@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1qA8o6aED1/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1qA8o6aED1",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:44:21.995Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1qA8o6aED1",
+    "title": "大肥鱼吃白饭被GPT嘲讽",
+    "owner": {
+      "name": "无聊的某人哦",
+      "mid": 3546971790903382
+    },
+    "pubdate": 1787770875,
+    "duration": 11
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "无聊的某人哦",
+      "url": "https://space.bilibili.com/3546971790903382"
+    }
+  ]
+}

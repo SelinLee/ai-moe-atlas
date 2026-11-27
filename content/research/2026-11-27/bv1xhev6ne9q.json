@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1xHeV6NE9q/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xHeV6NE9q",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:44:19.413Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1xHeV6NE9q",
+    "title": "深度思考中：今天去哪吃白饭呢",
+    "owner": {
+      "name": "柠檬鲨-不吃柠檬",
+      "mid": 3690973072722257
+    },
+    "pubdate": 1789403329,
+    "duration": 11
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "柠檬鲨-不吃柠檬",
+      "url": "https://space.bilibili.com/3690973072722257"
+    }
+  ]
+}

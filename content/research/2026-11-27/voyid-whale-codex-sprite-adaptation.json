@@ -1,0 +1,148 @@
+{
+  "historical": false,
+  "full_name": "voyid/codex-pet-deepseek-whale",
+  "html_url": "https://github.com/voyid/codex-pet-deepseek-whale",
+  "stargazers_count": 2,
+  "archived": false,
+  "created_at": "2026-09-28T05:35:16Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "0be8e52c5fa493d268e6930c8cce30225a1ac5a3",
+  "observedAt": "2026-11-27T13:42:52.267Z",
+  "httpStatus": 200,
+  "metadataSha256": "f39c81ecb24eb5573946d91d7fadc0e4f92aacdc351b2a6a45eef208f5bf2b2a",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/voyid/codex-pet-deepseek-whale/blob/0be8e52c5fa493d268e6930c8cce30225a1ac5a3/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/voyid/codex-pet-deepseek-whale/0be8e52c5fa493d268e6930c8cce30225a1ac5a3/README.md",
+      "sourceSha256": "8d950f764bb13948c91ddd703f209dd2599d918e084bb939e7ae55fba4257ee5",
+      "gitBlobSha": "6338d62c2ca597e7e141ac8544d2d82a476bf731",
+      "bytes": 5176,
+      "commit": "0be8e52c5fa493d268e6930c8cce30225a1ac5a3",
+      "accessedAt": "2026-11-27T13:49:30.469Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/voyid/codex-pet-deepseek-whale/blob/0be8e52c5fa493d268e6930c8cce30225a1ac5a3/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/voyid/codex-pet-deepseek-whale/0be8e52c5fa493d268e6930c8cce30225a1ac5a3/LICENSE",
+      "sourceSha256": "9ed670b398ffd1239638d72468912d327403cc79ff5eed09ac2ae765a87d588b",
+      "gitBlobSha": "e78afb340de4b03a01bee297319a64385dc5998c",
+      "bytes": 1067,
+      "commit": "0be8e52c5fa493d268e6930c8cce30225a1ac5a3",
+      "accessedAt": "2026-11-27T13:49:30.804Z"
+    },
+    {
+      "path": "LICENSE-upstream",
+      "url": "https://github.com/voyid/codex-pet-deepseek-whale/blob/0be8e52c5fa493d268e6930c8cce30225a1ac5a3/LICENSE-upstream",
+      "rawUrl": "https://raw.githubusercontent.com/voyid/codex-pet-deepseek-whale/0be8e52c5fa493d268e6930c8cce30225a1ac5a3/LICENSE-upstream",
+      "sourceSha256": "bb52d5aadcd716934edb32438891d625f4b2ac8837786ef89f9307254177a42f",
+      "gitBlobSha": "5bfce4394ac2075e5d975cc6d77a404d358a8638",
+      "bytes": 1084,
+      "commit": "0be8e52c5fa493d268e6930c8cce30225a1ac5a3",
+      "accessedAt": "2026-11-27T13:49:31.176Z"
+    },
+    {
+      "path": "NOTICE.md",
+      "url": "https://github.com/voyid/codex-pet-deepseek-whale/blob/0be8e52c5fa493d268e6930c8cce30225a1ac5a3/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/voyid/codex-pet-deepseek-whale/0be8e52c5fa493d268e6930c8cce30225a1ac5a3/NOTICE.md",
+      "sourceSha256": "24bdb6d287f19438500d0f2f2ea9ed529799cd9e0bd07e987d009c194d3164fa",
+      "gitBlobSha": "5c0b06489a6a16c4d5559b9b0185cb40683cce70",
+      "bytes": 4476,
+      "commit": "0be8e52c5fa493d268e6930c8cce30225a1ac5a3",
+      "accessedAt": "2026-11-27T13:49:31.508Z"
+    },
+    {
+      "path": "pets/deepseek/pet.json",
+      "url": "https://github.com/voyid/codex-pet-deepseek-whale/blob/0be8e52c5fa493d268e6930c8cce30225a1ac5a3/pets/deepseek/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/voyid/codex-pet-deepseek-whale/0be8e52c5fa493d268e6930c8cce30225a1ac5a3/pets/deepseek/pet.json",
+      "sourceSha256": "d0f79a1b4f028325309ea22b7ad3a476e658c45c8c8501f0917e887970d78d63",
+      "gitBlobSha": "d9bc55ca4066912c7197a7497562ccbdd9479e92",
+      "bytes": 208,
+      "commit": "0be8e52c5fa493d268e6930c8cce30225a1ac5a3",
+      "accessedAt": "2026-11-27T13:49:31.842Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T13:49:31.842Z",
+  "scope": "Pinned first-party documentation and source files were checked using Git blob SHA-1 and SHA-256. Asset-specific terms are reported separately.",
+  "relations": [
+    {
+      "role": "attribution",
+      "title": "voyid · source and credits",
+      "url": "https://github.com/voyid/codex-pet-deepseek-whale/blob/0be8e52c5fa493d268e6930c8cce30225a1ac5a3/NOTICE.md"
+    },
+    {
+      "role": "pet-manifest",
+      "title": "voyid · Codex pet manifest",
+      "url": "https://github.com/voyid/codex-pet-deepseek-whale/blob/0be8e52c5fa493d268e6930c8cce30225a1ac5a3/pets/deepseek/pet.json"
+    },
+    {
+      "role": "upstream-version",
+      "title": "keleus · exact upstream revision",
+      "url": "https://github.com/keleus/deepseek-pet/blob/65d02e17097a5b34ee52cf985657b37989a5ca34/README.md"
+    },
+    {
+      "role": "upstream-license",
+      "title": "keleus · exact upstream license",
+      "url": "https://github.com/keleus/deepseek-pet/blob/65d02e17097a5b34ee52cf985657b37989a5ca34/LICENSE"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/voyid/codex-pet-deepseek-whale/blob/0be8e52c5fa493d268e6930c8cce30225a1ac5a3/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/voyid/codex-pet-deepseek-whale/0be8e52c5fa493d268e6930c8cce30225a1ac5a3/README.md",
+    "sourceSha256": "8d950f764bb13948c91ddd703f209dd2599d918e084bb939e7ae55fba4257ee5",
+    "gitBlobSha": "6338d62c2ca597e7e141ac8544d2d82a476bf731",
+    "bytes": 5176,
+    "commit": "0be8e52c5fa493d268e6930c8cce30225a1ac5a3",
+    "accessedAt": "2026-11-27T13:49:30.469Z"
+  },
+  "upstreamRevision": {
+    "historical": true,
+    "full_name": "keleus/deepseek-pet",
+    "html_url": "https://github.com/keleus/deepseek-pet",
+    "stargazers_count": 61,
+    "archived": true,
+    "created_at": "2026-08-13T15:51:09Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "65d02e17097a5b34ee52cf985657b37989a5ca34",
+    "observedAt": "2026-11-27T13:43:23.659Z",
+    "httpStatus": 200,
+    "metadataSha256": "22bbdf286d5bc2b2215076f5126b0dc9007d9380b6f34b4aa281b324feaeb15c",
+    "parent": null,
+    "files": [
+      {
+        "path": "README.md",
+        "url": "https://github.com/keleus/deepseek-pet/blob/65d02e17097a5b34ee52cf985657b37989a5ca34/README.md",
+        "rawUrl": "https://raw.githubusercontent.com/keleus/deepseek-pet/65d02e17097a5b34ee52cf985657b37989a5ca34/README.md",
+        "sourceSha256": "02c36b50e0a162f2e674bd0e620858e7d06c61b673a77ac9420527049eed2d9d",
+        "gitBlobSha": "8d5f4d7996e68504bb57a2b07ed09ee255669ab7",
+        "bytes": 5960,
+        "commit": "65d02e17097a5b34ee52cf985657b37989a5ca34",
+        "accessedAt": "2026-11-27T13:49:30.502Z"
+      },
+      {
+        "path": "LICENSE",
+        "url": "https://github.com/keleus/deepseek-pet/blob/65d02e17097a5b34ee52cf985657b37989a5ca34/LICENSE",
+        "rawUrl": "https://raw.githubusercontent.com/keleus/deepseek-pet/65d02e17097a5b34ee52cf985657b37989a5ca34/LICENSE",
+        "sourceSha256": "bb52d5aadcd716934edb32438891d625f4b2ac8837786ef89f9307254177a42f",
+        "gitBlobSha": "5bfce4394ac2075e5d975cc6d77a404d358a8638",
+        "bytes": 1084,
+        "commit": "65d02e17097a5b34ee52cf985657b37989a5ca34",
+        "accessedAt": "2026-11-27T13:49:30.911Z"
+      },
+      {
+        "path": "src/client/assets/deepseek-idle.webp",
+        "url": "https://github.com/keleus/deepseek-pet/blob/65d02e17097a5b34ee52cf985657b37989a5ca34/src/client/assets/deepseek-idle.webp",
+        "rawUrl": "https://raw.githubusercontent.com/keleus/deepseek-pet/65d02e17097a5b34ee52cf985657b37989a5ca34/src/client/assets/deepseek-idle.webp",
+        "sourceSha256": "10a5c3e8772a54317ee75c1d0fa4080181debe2bd0e1b18f6900371508f0b07e",
+        "gitBlobSha": "aeea1793f19726108b13d33cb765800a771fa535",
+        "bytes": 32958,
+        "commit": "65d02e17097a5b34ee52cf985657b37989a5ca34",
+        "accessedAt": "2026-11-27T13:49:31.377Z"
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "historical": false,
+  "full_name": "NathanNT/llm-mascot",
+  "html_url": "https://github.com/NathanNT/llm-mascot",
+  "stargazers_count": 4,
+  "archived": false,
+  "created_at": "2026-09-30T14:35:55Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "a6a5029f43844498ce6cf83ba51b040aa7250cd5",
+  "observedAt": "2026-11-27T13:42:52.247Z",
+  "httpStatus": 200,
+  "metadataSha256": "6d372aa0c18dfe3cbc6a8e44f09889d784a36568c8c14df7d09d3aff0787b881",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/NathanNT/llm-mascot/blob/a6a5029f43844498ce6cf83ba51b040aa7250cd5/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/NathanNT/llm-mascot/a6a5029f43844498ce6cf83ba51b040aa7250cd5/README.md",
+      "sourceSha256": "331ccf069da2fb26b53e6be4d684a7d49d78766356c72468dc6a09c075ea6b6d",
+      "gitBlobSha": "e0623e928b112ae9c5a19222318a13f6f9f0dc4c",
+      "bytes": 15434,
+      "commit": "a6a5029f43844498ce6cf83ba51b040aa7250cd5",
+      "accessedAt": "2026-11-27T13:49:30.420Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/NathanNT/llm-mascot/blob/a6a5029f43844498ce6cf83ba51b040aa7250cd5/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/NathanNT/llm-mascot/a6a5029f43844498ce6cf83ba51b040aa7250cd5/LICENSE",
+      "sourceSha256": "9e2f3c1caa2366d9c852c9aaa660ec75ecde50cde53d3cf869dd701db2eb3144",
+      "gitBlobSha": "812b926b9b3c88474add8eb7f082bd3fe944fe0f",
+      "bytes": 1065,
+      "commit": "a6a5029f43844498ce6cf83ba51b040aa7250cd5",
+      "accessedAt": "2026-11-27T13:49:30.724Z"
+    },
+    {
+      "path": "NOTICE.md",
+      "url": "https://github.com/NathanNT/llm-mascot/blob/a6a5029f43844498ce6cf83ba51b040aa7250cd5/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/NathanNT/llm-mascot/a6a5029f43844498ce6cf83ba51b040aa7250cd5/NOTICE.md",
+      "sourceSha256": "b67a44c5ab8387ee064af81053d7fe699d919433464d9d0869a22e1c4cc4fcfa",
+      "gitBlobSha": "862b22b88e9e4db6183c308d132ee87b889043a8",
+      "bytes": 2236,
+      "commit": "a6a5029f43844498ce6cf83ba51b040aa7250cd5",
+      "accessedAt": "2026-11-27T13:49:31.041Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T13:49:31.041Z",
+  "scope": "Pinned first-party documentation and source files were checked using Git blob SHA-1 and SHA-256. Asset-specific terms are reported separately.",
+  "relations": [
+    {
+      "role": "asset-specific-terms",
+      "title": "LLM Mascot · asset notices",
+      "url": "https://github.com/NathanNT/llm-mascot/blob/a6a5029f43844498ce6cf83ba51b040aa7250cd5/NOTICE.md"
+    },
+    {
+      "role": "code-license",
+      "title": "LLM Mascot · MIT",
+      "url": "https://github.com/NathanNT/llm-mascot/blob/a6a5029f43844498ce6cf83ba51b040aa7250cd5/LICENSE"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/NathanNT/llm-mascot/blob/a6a5029f43844498ce6cf83ba51b040aa7250cd5/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/NathanNT/llm-mascot/a6a5029f43844498ce6cf83ba51b040aa7250cd5/README.md",
+    "sourceSha256": "331ccf069da2fb26b53e6be4d684a7d49d78766356c72468dc6a09c075ea6b6d",
+    "gitBlobSha": "e0623e928b112ae9c5a19222318a13f6f9f0dc4c",
+    "bytes": 15434,
+    "commit": "a6a5029f43844498ce6cf83ba51b040aa7250cd5",
+    "accessedAt": "2026-11-27T13:49:30.420Z"
+  }
+}

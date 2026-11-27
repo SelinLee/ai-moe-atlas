@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV11cY763EQJ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV11cY763EQJ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:44:22.116Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV11cY763EQJ",
+    "title": "大肥鱼巧施空城记，饭馆白饭两万粒",
+    "owner": {
+      "name": "不正经的游戏讲师",
+      "mid": 672414656
+    },
+    "pubdate": 1789129401,
+    "duration": 31
+  },
+  "descriptionSha256": "ce535e596f78b4f5a40e8c799b5794b5674eeb821628d8e016ff65fff7936cde",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "不正经的游戏讲师",
+      "url": "https://space.bilibili.com/672414656"
+    }
+  ]
+}

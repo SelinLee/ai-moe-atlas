@@ -7191,5 +7191,173 @@
       "en": "Artwork rights remain with the creator. The atlas links the pinned character guide and creator. The sketch’s SHA-256 was verified.",
       "ja": "画像の権利は作者に帰属。図鑑は固定版の設定と作者を案内し、原稿の SHA-256 を照合。"
     }
+  },
+  {
+    "id": "kawamura-yoshida-chatgpt",
+    "entity": "chatgpt",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "吉田 · ChatGPT",
+      "en": "Yoshida · ChatGPT",
+      "ja": "ヨシダ · ChatGPT"
+    },
+    "description": {
+      "zh": "棕发、白衬衫和青色领带是介绍漫画里的吉田。作者将其设定为一起想点子和讲故事的伙伴。",
+      "en": "Yoshida wears brown hair, a white shirt and a teal tie in the introduction. The author casts him as a brainstorming and storytelling companion.",
+      "ja": "茶髪、白シャツ、青緑のネクタイが自己紹介のヨシダ。作者と一緒に考え、物語を作る相棒。"
+    },
+    "story": {
+      "zh": "棕发、白衬衫和青色领带是介绍漫画里的吉田。作者将其设定为一起想点子和讲故事的伙伴。",
+      "en": "Yoshida wears brown hair, a white shirt and a teal tie in the introduction. The author casts him as a brainstorming and storytelling companion.",
+      "ja": "茶髪、白シャツ、青緑のネクタイが自己紹介のヨシダ。作者と一緒に考え、物語を作る相棒。"
+    },
+    "features": {
+      "zh": "棕发、白衬衫和青色领带是介绍漫画里的吉田。作者将其设定为一起想点子和讲故事的伙伴。",
+      "en": "Yoshida wears brown hair, a white shirt and a teal tie in the introduction. The author casts him as a brainstorming and storytelling companion.",
+      "ja": "茶髪、白シャツ、青緑のネクタイが自己紹介のヨシダ。作者と一緒に考え、物語を作る相棒。"
+    },
+    "author": "カワムラ",
+    "authorUrl": "https://note.com/chatgpt_ysd",
+    "source": "https://note.com/chatgpt_ysd/n/n9973fe32a80f",
+    "sourceTitle": "自己紹介　毎日更新100日記念|私とChatGPTとClaudeとGemini | AI擬人化漫画　ChatGPTのヨシダ",
+    "originalPublication": "https://note.com/chatgpt_ysd/n/n9973fe32a80f",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "カワムラ",
+        "url": "https://note.com/chatgpt_ysd",
+        "role": "original-character",
+        "publication": "https://note.com/chatgpt_ysd/n/n9973fe32a80f"
+      }
+    ],
+    "method": "upstream-ai-assisted",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/chatgpt_ysd/n/n9973fe32a80f",
+    "downloadable": false,
+    "bg": "#e9f2f5",
+    "color": "#364d61",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者原文和图件以原发布入口收录。图鉴的单独转载与再分发条件仍待确认。",
+      "en": "Links the creator’s articles and source art. Stand-alone republication and redistribution terms for the atlas are unconfirmed.",
+      "ja": "作者の記事と画像の公開先を案内。当図鑑での個別の転載・再配布条件は確認中。"
+    }
+  },
+  {
+    "id": "kawamura-kuro-claude",
+    "entity": "claude",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "小黑 · Claude",
+      "en": "Kuro · Claude",
+      "ja": "クロちゃん · Claude"
+    },
+    "description": {
+      "zh": "棕发深色外套的 Claude 角色。漫画将小黑安排在核对资料与检查台词的位置。",
+      "en": "The brown-haired Claude character wears a dark jacket and checks facts and lines in the comic.",
+      "ja": "茶髪と濃色ジャケットの Claude。漫画では事実と台詞の確認役。"
+    },
+    "story": {
+      "zh": "棕发深色外套的 Claude 角色。漫画将小黑安排在核对资料与检查台词的位置。",
+      "en": "The brown-haired Claude character wears a dark jacket and checks facts and lines in the comic.",
+      "ja": "茶髪と濃色ジャケットの Claude。漫画では事実と台詞の確認役。"
+    },
+    "features": {
+      "zh": "棕发深色外套的 Claude 角色。漫画将小黑安排在核对资料与检查台词的位置。",
+      "en": "The brown-haired Claude character wears a dark jacket and checks facts and lines in the comic.",
+      "ja": "茶髪と濃色ジャケットの Claude。漫画では事実と台詞の確認役。"
+    },
+    "author": "カワムラ",
+    "authorUrl": "https://note.com/chatgpt_ysd",
+    "source": "https://note.com/chatgpt_ysd/n/n9973fe32a80f",
+    "sourceTitle": "自己紹介　毎日更新100日記念|私とChatGPTとClaudeとGemini | AI擬人化漫画　ChatGPTのヨシダ",
+    "originalPublication": "https://note.com/chatgpt_ysd/n/n9973fe32a80f",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "カワムラ",
+        "url": "https://note.com/chatgpt_ysd",
+        "role": "original-character",
+        "publication": "https://note.com/chatgpt_ysd/n/n9973fe32a80f"
+      }
+    ],
+    "method": "upstream-ai-assisted",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/chatgpt_ysd/n/n9973fe32a80f",
+    "downloadable": false,
+    "bg": "#e9f2f5",
+    "color": "#364d61",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者原文和图件以原发布入口收录。图鉴的单独转载与再分发条件仍待确认。",
+      "en": "Links the creator’s articles and source art. Stand-alone republication and redistribution terms for the atlas are unconfirmed.",
+      "ja": "作者の記事と画像の公開先を案内。当図鑑での個別の転載・再配布条件は確認中。"
+    }
+  },
+  {
+    "id": "kawamura-presenter-gemini",
+    "entity": "gemini",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Gemini · カワムラ的金发主持人",
+      "en": "Gemini · Kawamura’s Blond Presenter",
+      "ja": "ジェミニ · カワムラの金髪キャスター"
+    },
+    "description": {
+      "zh": "作者的 Gemini 角色留金发、戴眼镜，在周年索引中担任 AI 新闻主持人。",
+      "en": "Kawamura gives Gemini blond hair and glasses. The anniversary index casts him as the AI news presenter.",
+      "ja": "金髪で眼鏡をかけたジェミニ。周年索引では AI ニュースのキャスターを担当。"
+    },
+    "story": {
+      "zh": "作者的 Gemini 角色留金发、戴眼镜，在周年索引中担任 AI 新闻主持人。",
+      "en": "Kawamura gives Gemini blond hair and glasses. The anniversary index casts him as the AI news presenter.",
+      "ja": "金髪で眼鏡をかけたジェミニ。周年索引では AI ニュースのキャスターを担当。"
+    },
+    "features": {
+      "zh": "作者的 Gemini 角色留金发、戴眼镜，在周年索引中担任 AI 新闻主持人。",
+      "en": "Kawamura gives Gemini blond hair and glasses. The anniversary index casts him as the AI news presenter.",
+      "ja": "金髪で眼鏡をかけたジェミニ。周年索引では AI ニュースのキャスターを担当。"
+    },
+    "author": "カワムラ",
+    "authorUrl": "https://note.com/chatgpt_ysd",
+    "source": "https://note.com/chatgpt_ysd/n/n9973fe32a80f",
+    "sourceTitle": "自己紹介　毎日更新100日記念|私とChatGPTとClaudeとGemini | AI擬人化漫画　ChatGPTのヨシダ",
+    "originalPublication": "https://note.com/chatgpt_ysd/n/n9973fe32a80f",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "カワムラ",
+        "url": "https://note.com/chatgpt_ysd",
+        "role": "original-character",
+        "publication": "https://note.com/chatgpt_ysd/n/n9973fe32a80f"
+      }
+    ],
+    "method": "upstream-ai-assisted",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/chatgpt_ysd/n/n9973fe32a80f",
+    "downloadable": false,
+    "bg": "#e9f2f5",
+    "color": "#364d61",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者原文和图件以原发布入口收录。图鉴的单独转载与再分发条件仍待确认。",
+      "en": "Links the creator’s articles and source art. Stand-alone republication and redistribution terms for the atlas are unconfirmed.",
+      "ja": "作者の記事と画像の公開先を案内。当図鑑での個別の転載・再配布条件は確認中。"
+    }
   }
 ]

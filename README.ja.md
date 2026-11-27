@@ -26,7 +26,7 @@
 [キャラクター三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/) · [落書き風アイコン](docs/DOODLE.ja.md) · [落書き風スタンプ](https://selinlee.github.io/ai-moe-atlas/ja/emotes/) · [AI 二次創作動画 · 抖音ホーム](https://www.douyin.com/user/MS4wLjABAAAAa3lc_FI5WmPENMLwdN7Ij4r5iNxAM09Ny0rPcB2Ow4E) · [AI 二次創作動画 · Bilibili ホーム](https://space.bilibili.com/3706970263521942)
 
 <!-- category-picks:characters -->
-**[🎨 キャラクター図鑑](#characters)** · 116 項目\
+**[🎨 キャラクター図鑑](#characters)** · 119 項目\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/) · [Gemini Pro · 原画と表情](https://selinlee.github.io/ai-moe-atlas/ja/characters/qinv-gemini-pro/) · [Cohere · 学園版](https://selinlee.github.io/ai-moe-atlas/ja/characters/school-op-cohere/)
 
 <!-- category-picks:personas -->
@@ -34,7 +34,7 @@
 [GLM 狐娘 · ZCode 版](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md) · [Claude 娘「小克」· deslop 執筆カード](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md) · [DeepSeek クジラ娘 · QQ チャット版](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md)
 
 <!-- category-picks:songs -->
-**[🎵 楽曲](#songs)** · 196 曲\
+**[🎵 楽曲](#songs)** · 200 曲\
 [人は猫 · 大肥魚カバー](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · アニメーション MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [白ごはんと夢 · 大きな魚 × Updream](https://www.bilibili.com/video/BV1kxWV6KE6o/)
 
 <!-- category-picks:stickers -->
@@ -46,19 +46,19 @@
 [神宫凉子 · DeepSeek-chan Live2D 作者配布](https://www.bilibili.com/video/BV1KmxY66EZ3/) · [水原镜 · 青い大きな魚 MMD モデル配布](https://www.aplaybox.com/details/model/j9z4quaACJV1) · [木子悪魔 · 青い小さな魚 VRM の作者公開ページ](https://www.aplaybox.com/details/model/ayXkRzVflmnd)
 
 <!-- category-picks:comics -->
-**[📖 漫画と連載](#comics)** · 67 作品\
-[AI GIRLS · 初対面 · 原作漫画](https://www.bilibili.com/video/BV15Npa6zE44/) · [『AI GIRLS』日常編 · 連絡先の原作](https://www.bilibili.com/video/BV1YSpu6gEh1/) · [Workfine の4コマ回顧](https://note.com/workfine/n/ndecce733b117)
+**[📖 漫画と連載](#comics)** · 70 作品\
+[AI GIRLS · 初対面 · 原作漫画](https://www.bilibili.com/video/BV15Npa6zE44/) · [カワムラ · 吉田のハロウィン漫画](https://note.com/chatgpt_ysd/n/n43469edeace1) · [Workfine の4コマ回顧](https://note.com/workfine/n/ndecce733b117)
 
 <!-- category-picks:animations -->
-**[🎬 アニメ・動画二次創作](#animations)** · 1251 件\
+**[🎬 アニメ・動画二次創作](#animations)** · 1269 件\
 [チャット画面が彼女の世界のすべてだったら](https://www.bilibili.com/video/BV1xCai6aE9g/) · [Liberate Claude · ゲーム実演](https://www.bilibili.com/video/BV18Syoz3ENe/) · [じゃあ豆包に聞きなよ！](https://www.bilibili.com/video/BV1HX8v6UErL/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 ペット・インタラクティブ作品](#desktop-pets)** · 208 プロジェクト\
+**[🐾 ペット・インタラクティブ作品](#desktop-pets)** · 213 プロジェクト\
 [dsh-TUI · ピクセルクジラ Deepy](https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/README_ZH.md) · [Copiwaifu · Live2D コーディングペット](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [Gemini 娘 · 2形態ペット](https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/README.md)
 
 <!-- category-picks:sources -->
-**[📚 作者の作品と出典](#sources)** · 259 件\
+**[📚 作者の作品と出典](#sources)** · 263 件\
 [上善无形 · クジラ娘の原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini ファミリー集合絵](https://www.bilibili.com/opus/1273349110528737288) · [ProtocolFour · 作者の線画](https://note.com/pfhq/n/n3aab23ac0447)
 
 <a id="references"></a>
@@ -72,6 +72,8 @@ SelinLee がコミュニティのキャラクターを基に、AI で三面図�
 <a id="characters"></a>
 
 ### 🎨 キャラクター図鑑
+
+カワムラのキャラ紹介から、吉田、クロ、金髪の司会役の設定を追加しました。 [吉田 · キャラクター設定](https://selinlee.github.io/ai-moe-atlas/ja/characters/kawamura-yoshida-chatgpt/)
 
 JosCom の手描きマスコット原案を追加。固定版の原稿とキャラクター設定を掲載。 [JosCom の手描き原案](https://selinlee.github.io/ai-moe-atlas/ja/characters/joscom-original-hand-drawn-mascot/)
 
@@ -145,6 +147,8 @@ Tokentaker キャラクター設定 · [DeepSeek](https://selinlee.github.io/ai-
 
 ### 🎵 楽曲
 
+「浴缸里的海」など作者が公開した4曲を追加し、「稻香」と「world.execute(me);」の二次創作版を補いました。 [浴缸里的海](https://selinlee.github.io/ai-moe-atlas/ja/songs/#sea-in-the-bathtub) · [稻香 · ドット絵 MV](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv15xht6iefu)
+
 稲葉曇「ラグトレイン」と金海心「把耳朵叫醒」など、5曲の原曲を確認しました。 [ラグトレイン · 中国語詞](https://selinlee.github.io/ai-moe-atlas/ja/songs/#lagtrain) · [把耳朵叫醒 · 手描きカバー](https://selinlee.github.io/ai-moe-atlas/ja/songs/#wake-up-your-ears)
 
 2本の誕生日 MV をそれぞれ洛天依の原曲に接続し、大きな魚の「雨愛」カバーも1本追加しました。 [这世界的浪漫还有很多](https://selinlee.github.io/ai-moe-atlas/ja/songs/#romance-still-in-this-world) · [情緒.exe（応答なし）](https://selinlee.github.io/ai-moe-atlas/ja/songs/#emotion-exe-not-responding)
@@ -166,7 +170,7 @@ Tokentaker キャラクター設定 · [DeepSeek](https://selinlee.github.io/ai-
 | [海闊天空](https://selinlee.github.io/ai-moe-atlas/ja/songs/#boundless-oceans-vast-skies) | Beyond | クジラ娘が「海闊天空」をカバー | 59,553 |
 | [朋友的酒](https://selinlee.github.io/ai-moe-atlas/ja/songs/#friends-wine) | 李晓杰 · Li Xiaojie | 大きな魚が歌う「朋友的酒」DJ 版 | 54,541 |
 | [Billie Jean](https://selinlee.github.io/ai-moe-atlas/ja/songs/#billie-jean) | Michael Jackson | クジラ娘が「Billie Jean」をカバー | 52,767 |
-| [みむかｩわナイストライ](https://selinlee.github.io/ai-moe-atlas/ja/songs/#mimukauwa-nice-try) | ぬぬぬぬぬぬぬぬぬぬ · 初音ミク | みむかｩわナイストライ · 大きな魚のカバーアニメ | 48,688 |
+| [みむかｩわナイストライ](https://selinlee.github.io/ai-moe-atlas/ja/songs/#mimukauwa-nice-try) | ぬぬぬぬぬぬぬぬぬぬ · 初音ミク | みむかｩわナイストライ · 大きな魚のカバーアニメ | 48,709 |
 
 [楽曲の全順位とすべてのバージョンを見る](https://selinlee.github.io/ai-moe-atlas/ja/songs/) · [いいね数の観測記録](content/research/)
 
@@ -236,6 +240,8 @@ Mao绒绒家园 と 狐宫静 の Live2D 原投稿を追加し、神宫凉子 �
 
 ### 📖 漫画と連載
 
+AI 用語が登場するハロウィン漫画と『ごん狐』の翻案第1話など、カワムラの3作品を追加しました。 [ごん狐 · 第1話](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=comics#kawamura-yoshida-gon-fox-episode-one) · [吉田博物館 · 作者の目次](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=sources#kawamura-yoshida-museum-index)
+
 投稿者が実体験を題材にした GLM キツネ娘の漫画を追加。 [GLM キツネ娘の小話](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=comics#murdersans-glm-fox-comic)
 
 Workfine の制作回顧、カワムラ と Ali の AI 4コマなど、作者の公開記事3件を追加。 [Workfine の4コマ回顧](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=comics#workfine-sixty-four-panel-comics) · [AI と現場あるある](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=comics#ali-ai-workplace-extra-commit)
@@ -257,6 +263,8 @@ Workfine の制作回顧、カワムラ と Ali の AI 4コマなど、作者の
 <a id="animations"></a>
 
 ### 🎬 アニメ・動画二次創作
+
+二次創作18件を追加し、前回86〜108位の累計いいね数を Bilibili で再確認しました。確認待ち14件の最新照会結果も記録しました。 [今回のいいね観測記録](content/research/2026-11-27/bilibili-cumulative-likes-november-27-yoshida-and-character-songs.json)
 
 二次創作15件を追加し、前回66〜85位の公式の累計いいね数を更新しました。 [いいね数の観測](content/research/2026-11-27/bilibili-cumulative-likes-november-27-music-rigs-and-projects.json)
 
@@ -327,6 +335,8 @@ Claude の短編やインタラクティブ動画、カバーを含む27件を�
 
 ### 🐾 ペット・インタラクティブ作品
 
+インタラクティブ作品を5件追加しました。DeepSeek のクジラの Codex 移植は keleus の原版へ、AI Work Pet は作者の実演へリンクしています。 [DeepSeek のクジラ · Codex 移植](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#voyid-whale-codex-sprite-adaptation) · [大肥魚と GPT 白竜娘 · ウェブペット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#hhxk-browser-ai-work-pet)
+
 インタラクティブ作品を6件追加。初音ミクのドット絵には作者の原返信、AI Buddy 2.1.0 にはタグ付きリリースと Bilibili の実演を掲載。 [初音ミクのドット絵出典](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=sources#mikun-pop-original-sprite-discussion) · [AI Buddy 2.1.0](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#ai-buddy-eleven-themes) · [ドット絵キッチン](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#dsh-pixel-kitchen-ai-dorm)
 
 dsh-TUI、Table Fridge、BigFatFish など5件を追加。dsh-TUI は Star 8,353 件で上位10件に入りました。 [Deepy の素材説明](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=sources#dsh-tui-deepy-pixel-frames) · [BigFatFish の出典と利用条件](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#hibikid-bigfatfish-codex-desktop)
@@ -348,7 +358,7 @@ dsh-TUI、Table Fridge、BigFatFish など5件を追加。dsh-TUI は Star 8,353
 | 9 | [デスクトップ大きな魚 · dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md) | [3,381](https://github.com/MerZlin/dsh-pet-indesktop) |
 | 10 | [Claude Desktop Buddy · 公式ハードウェア例](https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/README.md) | [2,728](https://github.com/anthropics/claude-desktop-buddy) |
 
-[ペット・インタラクティブ作品の全順位を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive) · [Star 数の確認記録](content/research/2026-11-27/github-interactive-stars-november-27-full-ranking-and-sprites.json)
+[ペット・インタラクティブ作品の全順位を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive) · [Star 数の確認記録](content/research/2026-11-27/github-interactive-stars-november-27-yoshida-and-whale-ports.json)
 
 <!-- interactive-ranking:end -->
 

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1UjyfzrEq8/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1UjyfzrEq8",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:44:10.096Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1UjyfzrEq8",
+    "title": "对不起了大肥鱼，其实 Gemini 和 Claude 才是天下第一好！【3D小剧场】",
+    "owner": {
+      "name": "捷咪_Gemini酱",
+      "mid": 3546671109638673
+    },
+    "pubdate": 1795517805,
+    "duration": 24
+  },
+  "descriptionSha256": "85b48abc1b9897d2543ba802870ca8ebf51933258e2328f3a668a0a15a484ad4",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "捷咪_Gemini酱",
+      "url": "https://space.bilibili.com/3546671109638673"
+    }
+  ]
+}

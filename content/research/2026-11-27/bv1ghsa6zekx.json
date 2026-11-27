@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ghsa6zEkX/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ghsa6zEkX",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:44:11.638Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1ghsa6zEkX",
+    "title": "不看跑分看体验！我给 10 大 AI 做了3D形象和卡丁车，一口气演完 3,447 天真实口碑排位战",
+    "owner": {
+      "name": "已经在养老的AWS",
+      "mid": 445477659
+    },
+    "pubdate": 1795105629,
+    "duration": 366
+  },
+  "descriptionSha256": "91bb128a02d185e83c51d8945138171c9628c6937e4456bbd5b14810bd5aecda",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "已经在养老的AWS",
+      "url": "https://space.bilibili.com/445477659"
+    }
+  ]
+}

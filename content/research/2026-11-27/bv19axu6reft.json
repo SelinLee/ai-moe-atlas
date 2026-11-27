@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV19AxU6REFt/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19AxU6REFt",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:44:17.784Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV19AxU6REFt",
+    "title": "Claude×大肥鱼，负债大小姐第一次吃到不用算钱的饭｜原创MV《一碗大白饭》",
+    "owner": {
+      "name": "千面同学",
+      "mid": 1341836779
+    },
+    "pubdate": 1793746662,
+    "duration": 256
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "千面同学",
+      "url": "https://space.bilibili.com/1341836779"
+    },
+    {
+      "role": "related-creator-release",
+      "title": "千面同学 · Every Grain of Me",
+      "url": "https://www.bilibili.com/video/BV1oTxR6jEBZ/"
+    }
+  ]
+}

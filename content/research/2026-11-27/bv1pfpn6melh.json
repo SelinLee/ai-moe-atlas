@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1PfpN6mELh/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PfpN6mELh",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:44:08.546Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1PfpN6mELh",
+    "title": "fable 5.5：真的假的？ gpt-bel：嗨，好久不见",
+    "owner": {
+      "name": "Tips-SoNg",
+      "mid": 627906174
+    },
+    "pubdate": 1791311932,
+    "duration": 19
+  },
+  "descriptionSha256": "1465ea3ef304596bf4dc9682efea9914fbc95994c1ed083b4b863819974f587e",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Tips-SoNg",
+      "url": "https://space.bilibili.com/627906174"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · character art",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

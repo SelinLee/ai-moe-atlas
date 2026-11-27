@@ -1,0 +1,76 @@
+{
+  "historical": false,
+  "full_name": "hhxk233/ai-work-pet",
+  "html_url": "https://github.com/hhxk233/ai-work-pet",
+  "stargazers_count": 28,
+  "archived": false,
+  "created_at": "2026-11-14T20:00:40Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "61a0a8a389f9ffbc8e34d539f09b299f810ec868",
+  "observedAt": "2026-11-27T13:45:06.881Z",
+  "httpStatus": 200,
+  "metadataSha256": "1df622432e05b0167c9b8888e13eb8c60c591007b8d9fe9b2cde7a0561cd0c5a",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/hhxk233/ai-work-pet/blob/61a0a8a389f9ffbc8e34d539f09b299f810ec868/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/hhxk233/ai-work-pet/61a0a8a389f9ffbc8e34d539f09b299f810ec868/README.md",
+      "sourceSha256": "e6170c4d0881cd5f463385b9ec227b3c8db3bf9275bb875d25f1097d5a636860",
+      "gitBlobSha": "2dc180e3a836901eaf7cc5d716ff96b28d797136",
+      "bytes": 9641,
+      "commit": "61a0a8a389f9ffbc8e34d539f09b299f810ec868",
+      "accessedAt": "2026-11-27T13:49:30.516Z"
+    },
+    {
+      "path": "legacy/v04/model/LICENSE-runtime-MIT.txt",
+      "url": "https://github.com/hhxk233/ai-work-pet/blob/61a0a8a389f9ffbc8e34d539f09b299f810ec868/legacy/v04/model/LICENSE-runtime-MIT.txt",
+      "rawUrl": "https://raw.githubusercontent.com/hhxk233/ai-work-pet/61a0a8a389f9ffbc8e34d539f09b299f810ec868/legacy/v04/model/LICENSE-runtime-MIT.txt",
+      "sourceSha256": "bc65d1471b842ca48a29ac662e8849ba76b56b79fc0a0f120b921ceca4689d14",
+      "gitBlobSha": "3f4f7b6ade3cabc45d3136b1c19c07a6e904e850",
+      "bytes": 1078,
+      "commit": "61a0a8a389f9ffbc8e34d539f09b299f810ec868",
+      "accessedAt": "2026-11-27T13:49:30.907Z"
+    },
+    {
+      "path": "legacy/v04/model/LICENSE-web-player-MIT.txt",
+      "url": "https://github.com/hhxk233/ai-work-pet/blob/61a0a8a389f9ffbc8e34d539f09b299f810ec868/legacy/v04/model/LICENSE-web-player-MIT.txt",
+      "rawUrl": "https://raw.githubusercontent.com/hhxk233/ai-work-pet/61a0a8a389f9ffbc8e34d539f09b299f810ec868/legacy/v04/model/LICENSE-web-player-MIT.txt",
+      "sourceSha256": "bc65d1471b842ca48a29ac662e8849ba76b56b79fc0a0f120b921ceca4689d14",
+      "gitBlobSha": "3f4f7b6ade3cabc45d3136b1c19c07a6e904e850",
+      "bytes": 1078,
+      "commit": "61a0a8a389f9ffbc8e34d539f09b299f810ec868",
+      "accessedAt": "2026-11-27T13:49:31.235Z"
+    }
+  ],
+  "accessedAt": "2026-11-27T13:49:31.235Z",
+  "scope": "Pinned first-party documentation and source files were checked using Git blob SHA-1 and SHA-256. Asset-specific terms are reported separately.",
+  "relations": [
+    {
+      "role": "creator-demo",
+      "title": "hhxk233 · Bilibili original demo",
+      "url": "https://www.bilibili.com/video/BV1ESyHzsEnD/"
+    },
+    {
+      "role": "legacy-runtime-license",
+      "title": "Legacy P2L runtime · MIT",
+      "url": "https://github.com/hhxk233/ai-work-pet/blob/61a0a8a389f9ffbc8e34d539f09b299f810ec868/legacy/v04/model/LICENSE-runtime-MIT.txt"
+    },
+    {
+      "role": "legacy-player-license",
+      "title": "Legacy P2L Web player · MIT",
+      "url": "https://github.com/hhxk233/ai-work-pet/blob/61a0a8a389f9ffbc8e34d539f09b299f810ec868/legacy/v04/model/LICENSE-web-player-MIT.txt"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/hhxk233/ai-work-pet/blob/61a0a8a389f9ffbc8e34d539f09b299f810ec868/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/hhxk233/ai-work-pet/61a0a8a389f9ffbc8e34d539f09b299f810ec868/README.md",
+    "sourceSha256": "e6170c4d0881cd5f463385b9ec227b3c8db3bf9275bb875d25f1097d5a636860",
+    "gitBlobSha": "2dc180e3a836901eaf7cc5d716ff96b28d797136",
+    "bytes": 9641,
+    "commit": "61a0a8a389f9ffbc8e34d539f09b299f810ec868",
+    "accessedAt": "2026-11-27T13:49:30.516Z"
+  }
+}

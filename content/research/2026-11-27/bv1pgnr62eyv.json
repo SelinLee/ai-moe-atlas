@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1pgnR62EYv/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pgnR62EYv",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:44:19.384Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1pgnR62EYv",
+    "title": "大肥鱼花了3亿token搓的Mili《world.execute(me);》同人 MV",
+    "owner": {
+      "name": "引蝶落卿桃",
+      "mid": 111398734
+    },
+    "pubdate": 1792984125,
+    "duration": 208
+  },
+  "descriptionSha256": "de830a57a3060eb5605a993ce0e53fb7449cb99e192afcb50620ace03c5d4803",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "引蝶落卿桃",
+      "url": "https://space.bilibili.com/111398734"
+    },
+    {
+      "role": "music-original",
+      "title": "Mili · world.execute(me);",
+      "url": "https://www.youtube.com/watch?v=ESx_hy1n7HA"
+    }
+  ]
+}

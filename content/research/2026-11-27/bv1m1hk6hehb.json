@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1m1HK6HEhB/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1m1HK6HEhB",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:44:13.169Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1m1HK6HEhB",
+    "title": "大肥鱼日常 Day5 大肥鱼发现自己被组CP了，对象是Claude",
+    "owner": {
+      "name": "汐汐不吃鱼喵",
+      "mid": 1588157164
+    },
+    "pubdate": 1792890000,
+    "duration": 148
+  },
+  "descriptionSha256": "3a7a00c135961bf9d40aa324f05356201af70bbd64711f8c0cf8cbb1fa268199",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "汐汐不吃鱼喵",
+      "url": "https://space.bilibili.com/1588157164"
+    }
+  ]
+}

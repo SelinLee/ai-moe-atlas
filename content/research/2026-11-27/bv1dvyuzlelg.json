@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1dvyuzLELg/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dvyuzLELg",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:44:14.709Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1dvyuzLELg",
+    "title": "deepseek原创，大肥鱼角色曲《浴缸里的海》",
+    "owner": {
+      "name": "乌林-哲勒麦",
+      "mid": 1525699155
+    },
+    "pubdate": 1795308421,
+    "duration": 152
+  },
+  "descriptionSha256": "49022a5910eae8f3429657f8b97d540dc3d130e3784467ba9f10d94e0c091005",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "乌林-哲勒麦",
+      "url": "https://space.bilibili.com/1525699155"
+    }
+  ]
+}

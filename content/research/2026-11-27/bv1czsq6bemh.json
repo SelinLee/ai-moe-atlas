@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1czsq6BEmH/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1czsq6BEmH",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:44:16.254Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1czsq6BEmH",
+    "title": "【音乐】大肥鱼同人二创曲《以镜头为眸》",
+    "owner": {
+      "name": "MG黎霖",
+      "mid": 1870955680
+    },
+    "pubdate": 1795156516,
+    "duration": 196
+  },
+  "descriptionSha256": "0ccbac4052f9b4398886ff47f43ae7c83b9ac7894718f75ccf9adea7d4e786fc",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "MG黎霖",
+      "url": "https://space.bilibili.com/1870955680"
+    }
+  ]
+}

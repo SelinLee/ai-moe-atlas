@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1kdb76fEgy/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1kdb76fEgy",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T13:44:08.546Z",
+  "scope": "Bilibili view metadata verifies the upload and cumulative likes. Credit follows the creator description.",
+  "metadata": {
+    "bvid": "BV1kdb76fEgy",
+    "title": "不嫌弃低氪用户的大肥鱼",
+    "owner": {
+      "name": "黄瓜喂小祥",
+      "mid": 3546757243865496
+    },
+    "pubdate": 1788625485,
+    "duration": 23
+  },
+  "descriptionSha256": "777f627a3fa3b0e04f87b79cbedd78904e39f9925a893b0c7bd60a9893bb9b30",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "黄瓜喂小祥",
+      "url": "https://space.bilibili.com/3546757243865496"
+    },
+    {
+      "role": "character-reference",
+      "title": "ZipZipPipe · character art",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}
