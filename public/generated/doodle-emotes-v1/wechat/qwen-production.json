@@ -1,0 +1,80 @@
+{
+  "id": "qwen",
+  "name": {
+    "zh": "Qwen 千问",
+    "en": "Qwen",
+    "ja": "Qwen 千問"
+  },
+  "created": "2026-11-27",
+  "archivedAt": "2026-11-27",
+  "project": "https://github.com/SelinLee/ai-moe-atlas",
+  "artist": "SelinLee",
+  "type": "AI-generated sticker album artwork",
+  "attribution": [
+    {
+      "name": "ZipZipPipe",
+      "url": "https://www.pixiv.net/users/18604994",
+      "role": "community-design",
+      "publication": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "sourceVideo": "https://www.bilibili.com/video/BV14phK66Ejw/",
+  "sourceVideoPublisher": "想看故事的lazy",
+  "rights": {
+    "status": "adaptation-permission-not-established",
+    "license": null,
+    "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+    "evidencePath": "content/sources/zipzippipe-qwen.json",
+    "newLicenseGranted": false,
+    "inDownloadPacks": false
+  },
+  "generator": "OpenAI built-in image_gen",
+  "references": [
+    {
+      "url": "https://github.com/SelinLee/ai-moe-atlas/blob/60ee1cf31037e5cc8bea7e04c0b43b402df85249/public/generated/doodle-emotes-v1/qwen/01-happy.png",
+      "sha256": "513be2c63b3dba8463f93e5741176ac15976fc3fa9921cdf3e071f229dec2bdb"
+    },
+    {
+      "url": "https://github.com/SelinLee/ai-moe-atlas/blob/60ee1cf31037e5cc8bea7e04c0b43b402df85249/public/generated/doodle-emotes-v1/qwen/09-speechless.png",
+      "sha256": "dccb4d2f65ef60e72846916039d01475e749d673a86b06d6cd8fab1192368edf"
+    }
+  ],
+  "assets": [
+    {
+      "name": "banner-750x400.jpg",
+      "width": 750,
+      "height": 400,
+      "bytes": 183974,
+      "sha256": "6dcb6b2de2763d4de702633305c06a72f05ec0fc40c8db4c4d8ce0d6b17ba16b",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Draw ONE landscape, full-bleed illustration for a WeChat sticker album detail-page banner at 750 × 400 (15:8), no layout or panels. Reference images 1 and 2 are the SAME established character from this sticker album: use their likeness, hair shape and colors, ornament placement, costume, face and thick organic dark doodle outlines faithfully. Qwen: periwinkle-blue long hair, thick side braid on the viewer's right, blue eyes, small tilted round blue-and-white hat on the viewer's left with a white-petaled blue-edged flower, golden drop earrings, white mandarin collar with blue and gold fasteners and blue sleeves. Blue folding fan. Match the lively hand-inked little chibi with broad opaque color blocks and a few crayon highlights in the references. No typography, readable letters, numbers, signatures or watermark anywhere. Scene: In a bright rose-and-jade waterside courtyard she snaps her cobalt folding fan open, sending three loose peach-blossom petals into a curling breeze above a turquoise pond. Willow boughs and a simple coral moon bridge make the breeze visible; the blue fan, face and turning petals form the main action. Luminous spring greens with a peach sky. Frame the single character large enough to recognize, with face, main prop and action fully inside the central 85% of the picture. Let background shapes fill all four sides. Give the image a rich colored opaque ground. Keep proportions natural, uncluttered silhouettes, one coherent moment, no white margin and no text.",
+      "process": "Proportional center crop to 750 × 400; JPEG quality 91, 4:4:4.",
+      "generatedSourceSHA256": "2ececf76844758ba8d24a3ba5504699ca2926dc95383b048eccd93759fa5d44b",
+      "path": "generated/doodle-emotes-v1/wechat/qwen/banner-750x400.jpg"
+    },
+    {
+      "name": "cover-240x240.png",
+      "width": 240,
+      "height": 240,
+      "bytes": 100751,
+      "sha256": "abf3e32200b954481bd2524d832c8c8b43ac8656401a54d13567c4c4c2ad094e",
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. One square WeChat sticker album cover cutout, genuinely transparent RGBA outside the art. Reference images 1 and 2 are the SAME established character from this sticker album: use their likeness, hair shape and colors, ornament placement, costume, face and thick organic dark doodle outlines faithfully. Qwen: periwinkle-blue long hair, thick side braid on the viewer's right, blue eyes, small tilted round blue-and-white hat on the viewer's left with a white-petaled blue-edged flower, golden drop earrings, white mandarin collar with blue and gold fasteners and blue sleeves. Blue folding fan. Match the lively hand-inked little chibi with broad opaque color blocks and a few crayon highlights in the references. No typography, readable letters, numbers, signatures or watermark anywhere. Pose: a composed, friendly front-facing smile, blue folding fan partly open low across her chest so both face and collar remain visible, thick side braid visible. A single compact waist-up or three-quarter figure seen from the front, head and upper body distinct, entire silhouette contained with a little transparent breathing room on every side. Keep silhouette organic; hands and hair arranged so torso ends at a natural fabric curve, never a straight horizontal frame crop. Clear readable thick dark linework at 240px; no white sticker outline, cast shadow, gradient backing, border, scene, sparkles or floating props.",
+      "process": "Trim transparent margins using alpha ≥ 8 with two source pixels of padding, scale proportionally with Lanczos3, center on transparent canvas.",
+      "generatedSourceSHA256": "1a5605343bf90b665de3d6481abc6b7b6d5e7cdab0ca8f23301efd69621d06e7",
+      "path": "generated/doodle-emotes-v1/wechat/qwen/cover-240x240.png"
+    },
+    {
+      "name": "icon-50x50.png",
+      "width": 50,
+      "height": 50,
+      "bytes": 6637,
+      "sha256": "5fea155f1d5aac59168f360a604913d240aa2dd53d9cbbc44ef87e706ad1342f",
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. Design ONE dedicated WeChat chat-tray icon on a genuinely transparent square background, optimized to look recognizable at 50 × 50 pixels. Reference images 1 and 2 are the SAME established character from this sticker album: use their likeness, hair shape and colors, ornament placement, costume, face and thick organic dark doodle outlines faithfully. Qwen: periwinkle-blue long hair, thick side braid on the viewer's right, blue eyes, small tilted round blue-and-white hat on the viewer's left with a white-petaled blue-edged flower, golden drop earrings, white mandarin collar with blue and gold fasteners and blue sleeves. Blue folding fan. Match the lively hand-inked little chibi with broad opaque color blocks and a few crayon highlights in the references. No typography, readable letters, numbers, signatures or watermark anywhere. Draw only the character's HEAD from straight in front: small self-assured smile with open blue eyes; preserve tilted flower hat on viewer left and visible start of braided hair on viewer right; no fan. Exaggerate the facial features just enough for a small icon. Shorten long locks into rounded cheek-level tips for the head silhouette. No neck, chest, shoulders, hands, frames, extra flourishes or background. The complete organic contour fills almost the whole square with narrow even clearance at the edge. No white outline or sticker keyline. Smooth chunky dark edge, coherent color masses, strong readable expression and antialiased edges.",
+      "process": "Trim transparent margins using alpha ≥ 8 with two source pixels of padding, scale proportionally with Lanczos3, center on transparent canvas.",
+      "generatedSourceSHA256": "320cf6a989c9122b188fc85e182b12ebc3beab3b0646510137d422a16b08e192",
+      "path": "generated/doodle-emotes-v1/wechat/qwen/icon-50x50.png"
+    }
+  ]
+}

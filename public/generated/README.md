@@ -13,7 +13,7 @@ SelinLee 在 [ai-moe-atlas][atlas] 中基于社区已有角色形象，用 AI �
 | [Super Chibi · 7 张 Q 版三视图](../../docs/CHIBI.zh.md) | 依据角色参考制作正面、左侧面和背面，逐张标注 V1 或 V2 | [清单][chibi] |
 | [v5 · 6 张形象参考图](../../docs/REFERENCES.zh.md) | 依据社区设计和视频参考，在同一页展示常规比例与 Q 版 | [清单][v5] |
 | [7 张涂鸦头像与提示词](../../docs/DOODLE.zh.md) | 取对应 Q 版三视图的正面为参考，生成白底半身头像 | [清单][doodle] |
-| [84 张涂鸦表情](https://selinlee.github.io/ai-moe-atlas/zh/emotes/) | 以七张涂鸦头像为参考，每位角色制作 12 种表情与手势，成品为 512 × 512 透明 PNG | [清单][emotes] |
+| [84 张涂鸦表情](https://selinlee.github.io/ai-moe-atlas/zh/emotes/) | 以七张涂鸦头像为参考，每位角色制作 12 种表情与手势，成品为 512 × 512 透明 PNG | [清单][emotes] · [微信专辑素材（7 套）][wechat] |
 
 **使用本项目的图时，沿用对应上游作品的共享条件。** 片尾或简介可写「AI 参考图制作：SelinLee · [ai-moe-atlas][atlas]」，同时标明对应的角色设计作者、来源及自己的改动。
 
@@ -36,7 +36,7 @@ SelinLee used AI to create these four image series for [ai-moe-atlas][atlas] fro
 | [Super Chibi · 7 turnarounds](../../docs/CHIBI.en.md) | Front, left-profile and back views based on character references, with each sheet marked V1 or V2 | [Manifest][chibi] |
 | [v5 · 6 character sheets](../../docs/REFERENCES.en.md) | Standard and chibi proportions on one sheet, based on community designs and video references | [Manifest][v5] |
 | [7 doodle avatars and prompts](../../docs/DOODLE.en.md) | Half-body portraits on white, generated from the front view of each chibi turnaround | [Manifest][doodle] |
-| [84 doodle emotes](https://selinlee.github.io/ai-moe-atlas/en/emotes/) | 12 expressions and gestures per character, based on the seven doodle avatars and delivered as transparent 512 × 512 PNGs | [Manifest][emotes] |
+| [84 doodle emotes](https://selinlee.github.io/ai-moe-atlas/en/emotes/) | 12 expressions and gestures per character, based on the seven doodle avatars and delivered as transparent 512 × 512 PNGs | [Manifest][emotes] · [WeChat album artwork (7 sets)][wechat] |
 
 **The sharing terms of each source artwork also apply to the corresponding project images.** A suggested credit is “AI reference artwork by SelinLee · [ai-moe-atlas][atlas]”. Include the character designers, sources and any changes you made in the credits or description.
 
@@ -59,7 +59,7 @@ SelinLee が [ai-moe-atlas][atlas] で、コミュニティに既にあるキャ
 | [Super Chibi · ちびキャラ三面図7枚](../../docs/CHIBI.ja.md) | キャラクター資料を基に正面・左側面・背面を制作。各画像に V1 または V2 を表示 | [一覧][chibi] |
 | [v5 · キャラクター設定画6枚](../../docs/REFERENCES.ja.md) | コミュニティのデザインと動画を参照し、通常頭身とちびキャラを1枚に収録 | [一覧][v5] |
 | [落書き風アイコン7枚とプロンプト](../../docs/DOODLE.ja.md) | 各三面図の正面を参照し、白背景の上半身像を生成 | [一覧][doodle] |
-| [落書き風スタンプ84枚](https://selinlee.github.io/ai-moe-atlas/ja/emotes/) | 落書き風アイコン7枚を基に、キャラクターごとに12種類の表情や仕草を制作。512 × 512の透過PNG | [一覧][emotes] |
+| [落書き風スタンプ84枚](https://selinlee.github.io/ai-moe-atlas/ja/emotes/) | 落書き風アイコン7枚を基に、キャラクターごとに12種類の表情や仕草を制作。512 × 512の透過PNG | [一覧][emotes] · [WeChat スタンプ用素材（7組）][wechat] |
 
 **本プロジェクトの各画像にも、参照した原作の共有条件が適用されます。** 動画のクレジットや概要欄には「AI 参考画像制作：SelinLee · [ai-moe-atlas][atlas]」と記載し、キャラクターデザインの作者、出典、加えた変更も併記してください。
 
@@ -76,6 +76,7 @@ SelinLee が [ai-moe-atlas][atlas] で、コミュニティに既にあるキャ
 [v5]: ai-models-v5/manifest.json
 [doodle]: rough-doodle-v1/manifest.json
 [emotes]: doodle-emotes-v1/manifest.json
+[wechat]: doodle-emotes-v1/wechat/
 [zip]: https://www.pixiv.net/artworks/148186519
 [whale]: https://www.bilibili.com/opus/1231977657712771073
 [maid]: https://t.bilibili.com/1231980045693616162

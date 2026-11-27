@@ -11,21 +11,21 @@ const rs = resourceText[lang];
 const copy = {
   zh: {
     intro: '2026 年 11 月 5 日，SelinLee 以本项目的七张涂鸦头像为参考，用 AI 为每位角色制作了 12 种表情和手势。点选表情可查看 512 × 512 透明 PNG。',
-    browse: '按角色浏览', reference: '生成所用头像', record: '提示词与文件校验', source: '参考视频', design: '角色设计',
+    album: '微信表情专辑素材', browse: '按角色浏览', reference: '生成所用头像', record: '提示词与文件校验', source: '参考视频', design: '角色设计',
     nc: '原作要求署名、非商业使用，进一步改编与再分发的许可范围待确认。',
     sa: '使用时请保留作者署名、作品及许可链接，注明改动，限非商业使用，改编作品以相同方式共享。',
     unknown: '所参考的视频版 GLM 狐娘的设计署名及改编条件待核实。',
   },
   en: {
     intro: 'On November 5, 2026, SelinLee used the project’s seven doodle avatars as references to generate 12 expressions and gestures per character with AI. Select an emote to open its transparent 512 × 512 PNG.',
-    browse: 'Browse by character', reference: 'Input avatar', record: 'Prompts and file hashes', source: 'Reference video', design: 'Character design',
+    album: 'WeChat sticker album artwork', browse: 'Browse by character', reference: 'Input avatar', record: 'Prompts and file hashes', source: 'Reference video', design: 'Character design',
     nc: 'The source requires credit and noncommercial use. Permission for further adaptation and redistribution is unconfirmed.',
     sa: 'Credit the creators, link the works and license, and indicate changes. Use is noncommercial and adaptations are shared under the same terms.',
     unknown: 'The designer and adaptation terms for this video version of the GLM fox girl remain unverified.',
   },
   ja: {
     intro: '2026年11月5日、SelinLee が本プロジェクトの落書き風アイコン7枚を基に、各キャラクターの表情や仕草を AI で12種類ずつ制作しました。スタンプを選ぶと512 × 512の透過PNGを開けます。',
-    browse: 'キャラクターから探す', reference: '生成に使用したアイコン', record: 'プロンプトとファイルハッシュ', source: '参照動画', design: 'キャラクターデザイン',
+    album: 'WeChat スタンプ用素材', browse: 'キャラクターから探す', reference: '生成に使用したアイコン', record: 'プロンプトとファイルハッシュ', source: '参照動画', design: 'キャラクターデザイン',
     nc: '原作の条件は作者表示と非商用利用です。さらなる改変や再配布の許諾範囲は未確認です。',
     sa: '作者名、作品とライセンスへのリンク、変更点を明記してください。利用は非営利に限り、改変作品は同じ条件で共有します。',
     unknown: '参照した動画版の GLM 狐娘は、デザインの作者と改変条件が未確認です。',
@@ -40,6 +40,7 @@ const copy = {
       <p class="lead">{copy.intro}</p>
       <div class="file-links">
         <a href={`${repo}/blob/main/public/generated/README.md#${lang}`}>{rs.projectGuide}</a>
+        <a href={`${repo}/tree/main/public/generated/doodle-emotes-v1/wechat`}>{copy.album}</a>
         <a href={path('generated/doodle-emotes-v1/manifest.json')}>{copy.record}</a>
       </div>
     </div>

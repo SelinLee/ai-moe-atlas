@@ -1,0 +1,86 @@
+{
+  "id": "deepseek",
+  "name": {
+    "zh": "DeepSeek",
+    "en": "DeepSeek",
+    "ja": "DeepSeek"
+  },
+  "created": "2026-11-27",
+  "archivedAt": "2026-11-27",
+  "project": "https://github.com/SelinLee/ai-moe-atlas",
+  "artist": "SelinLee",
+  "type": "AI-generated sticker album artwork",
+  "attribution": [
+    {
+      "name": "上善无形",
+      "url": "https://space.bilibili.com/4456176",
+      "role": "original-character",
+      "publication": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "name": "ZipZipPipe",
+      "url": "https://www.pixiv.net/users/18604994",
+      "role": "community-design",
+      "publication": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "sourceVideo": "https://www.bilibili.com/video/BV1Brtc63EyW/",
+  "sourceVideoPublisher": "AI梗百科",
+  "rights": {
+    "status": "upstream-sharealike-statement",
+    "license": "CC-BY-NC-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "evidencePath": "public/collected/shangshan-whale/source.json",
+    "newLicenseGranted": false,
+    "inDownloadPacks": false
+  },
+  "generator": "OpenAI built-in image_gen",
+  "references": [
+    {
+      "url": "https://github.com/SelinLee/ai-moe-atlas/blob/60ee1cf31037e5cc8bea7e04c0b43b402df85249/public/generated/doodle-emotes-v1/deepseek/01-happy.png",
+      "sha256": "33ddd26363a74543259120a2ddb50a036aba2fafbd57e1a6ff12ec0377b3dee2"
+    },
+    {
+      "url": "https://github.com/SelinLee/ai-moe-atlas/blob/60ee1cf31037e5cc8bea7e04c0b43b402df85249/public/generated/doodle-emotes-v1/deepseek/09-speechless.png",
+      "sha256": "6c398307f7914a06acaeae8aa40faca0193a1da2b51edeb5ec14aede311bb769"
+    }
+  ],
+  "assets": [
+    {
+      "name": "banner-750x400.jpg",
+      "width": 750,
+      "height": 400,
+      "bytes": 154350,
+      "sha256": "e610b28d56cea0047da50342e9d453d9808349fb5cf35fd645ce3d585703d174",
+      "transparent": false,
+      "prompt": "Use both provided images strictly as character identity and drawing style reference. This is the same Chinese community DeepSeek whale-maid 大肥鱼: rounded chibi face, indigo-blue bangs, gradient light-blue wavy lengths, curled loop ahoge, white scalloped maid headdress, bright sky blue bow on viewer RIGHT, small outward drooping white-tipped fin-like locks at both ears, rosy cheeks. Reference proportions and loose chunky dark wax-crayon contours, simple opaque color shapes, occasional dry-brush grain, casual Japanese doodle. Create one finished wide horizontal full-bleed narrative illustration for this character's WeChat sticker-album header, target 750:400 (15:8). A playful summer seaside moment: she crouches at the right on the edge of a warm wooden dock and reaches her hand out just as her big blue-and-white whale tail accidentally flicks a little curling wave, launching her tiny coral paper boat into the air at the left. Her surprised round eyes and open-mouthed delighted expression tell the joke. A curving trail of just a few large droplets from tail to boat ties the composition together. Keep a single large girl, both hands correct, navy dress and whale-marked white apron. Sunlit teal water in foreground, golden apricot sky, small faraway island and a few scalloped clouds. Lively saturated turquoise and tangerine color blocks, flat illustrated perspective, coherent original hand-drawn picture-book spread. Use full canvas, arrange face, tail, boat within inner 78% of frame so modest crop safe. All background colored and opaque. No writing, numbers, punctuation, logos, mockup, inset frames or typography.",
+      "process": "Proportional center crop to 750 × 400; JPEG quality 91, 4:4:4.",
+      "generatedSourceSHA256": "58513d2d41ae018ae25cb00b04c464712d50438b94c7f38281f277e627aa040a",
+      "path": "generated/doodle-emotes-v1/wechat/deepseek/banner-750x400.jpg"
+    },
+    {
+      "name": "cover-240x240.png",
+      "width": 240,
+      "height": 240,
+      "bytes": 82718,
+      "sha256": "79a63f303ac42f81f450d6f4a24406802c579dc6b1e08f2506273b9e192a2430",
+      "transparent": true,
+      "prompt": "Use both provided images strictly as character identity and drawing style reference. This is the same Chinese community DeepSeek whale-maid 大肥鱼: rounded chibi face, indigo-blue bangs, gradient light-blue wavy lengths, curled loop ahoge, white scalloped maid headdress, bright sky blue bow on viewer RIGHT, small outward drooping white-tipped fin-like locks at both ears, rosy cheeks. Reference proportions and loose chunky dark wax-crayon contours, simple opaque color shapes, occasional dry-brush grain, casual Japanese doodle. Create one unique sticker album cover cutout for a 240 by 240 square, to read clearly in a list. A single straight-on waist-up half-body portrait with the complete torso, white apron with its tiny blue whale pictogram, navy collar bow, both arms and a single blue-and-white whale tail peeking at viewer right. Invent a cheerful greeting pose unique to this cover: one eye winking, other blue eye open, one hand in a small salute at the temple and the other at her waist. Favor a wide compact silhouette with hair and tail gently curving inward. Fill 92% of square, entirely inside frame, just a narrow even transparent safety margin. Actual transparent RGBA background right up to the authentic dark anti-aliased contour, no external white keyline, glow, cast shadow, outline sticker border, background, extra decorative objects, marks or text. Keep the white headband, apron and skin filled opaque, never transparent internally. One finished cutout.",
+      "process": "Trim transparent margins using alpha ≥ 8 with two source pixels of padding, scale proportionally with Lanczos3, center on transparent canvas.",
+      "generatedSourceSHA256": "877b1c10bd6a91abd96da41c6a358b14379aabf1bfd0f61e164ced168ba3883a",
+      "path": "generated/doodle-emotes-v1/wechat/deepseek/cover-240x240.png"
+    },
+    {
+      "name": "icon-50x50.png",
+      "width": 50,
+      "height": 50,
+      "bytes": 5913,
+      "sha256": "a16db56f8591e061751839f7c88debaecd210b7a73f8aab22216bd9302f98af1",
+      "transparent": true,
+      "prompt": "Use both provided images strictly as character identity and drawing style reference. This is the same Chinese community DeepSeek whale-maid 大肥鱼: rounded chibi face, indigo-blue bangs, gradient light-blue wavy lengths, curled loop ahoge, white scalloped maid headdress, bright sky blue bow on viewer RIGHT, small outward drooping white-tipped fin-like locks at both ears, rosy cheeks. Reference proportions and loose chunky dark wax-crayon contours, simple opaque color shapes, occasional dry-brush grain, casual Japanese doodle. Create a separate bespoke minimal front-facing head-only chat-tray icon for a tiny 50x50 WeChat sticker slot. The round chibi face and hair silhouette occupy almost the entire square, with two wide blue eyes, a little simple smiling mouth and rosy cheek marks; simplify tiny strands into big connected indigo and light-blue locks smoothly wrapping beneath the chin, keep a short looped ahoge, clearly visible white scalloped headband and one sky-blue hair bow. No neck, torso, collar, hands or tail. Both eyes open, looking straight at viewer; silhouette evenly curved and entirely visible with just 3% safety margin. Bold dark continuous tapered outlines and clean solid fills with minimal texture at icon size, smoothly anti-aliased contour. Actual transparent RGBA right up to the drawing, opaque white face details. No white keyline, outer halo, backdrop, badge circle, square border, square crop edges, floating decoration, letters or symbols. One head, centered, readable at 50px.",
+      "process": "Trim transparent margins using alpha ≥ 8 with two source pixels of padding, scale proportionally with Lanczos3, center on transparent canvas.",
+      "generatedSourceSHA256": "e51b94cfdbe9b3349d79b3f43603ae03b5893c1b795f3a8c2364f5a0022b373b",
+      "path": "generated/doodle-emotes-v1/wechat/deepseek/icon-50x50.png"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": "gemini",
+  "name": {
+    "zh": "Gemini",
+    "en": "Gemini",
+    "ja": "Gemini"
+  },
+  "created": "2026-11-27",
+  "archivedAt": "2026-11-27",
+  "project": "https://github.com/SelinLee/ai-moe-atlas",
+  "artist": "SelinLee",
+  "type": "AI-generated sticker album artwork",
+  "attribution": [
+    {
+      "name": "ZipZipPipe",
+      "url": "https://www.pixiv.net/users/18604994",
+      "role": "community-design",
+      "publication": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "sourceVideo": "https://www.bilibili.com/video/BV14phK66Ejw/",
+  "sourceVideoPublisher": "想看故事的lazy",
+  "rights": {
+    "status": "adaptation-permission-not-established",
+    "license": null,
+    "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+    "evidencePath": "content/sources/zipzippipe-gemini.json",
+    "newLicenseGranted": false,
+    "inDownloadPacks": false
+  },
+  "generator": "OpenAI built-in image_gen",
+  "references": [
+    {
+      "url": "https://github.com/SelinLee/ai-moe-atlas/blob/60ee1cf31037e5cc8bea7e04c0b43b402df85249/public/generated/doodle-emotes-v1/gemini/01-happy.png",
+      "sha256": "b82c01b4827045b0e15dc5aabd07ead112cd513d6138d91bb7b6ecd4aa169cf4"
+    },
+    {
+      "url": "https://github.com/SelinLee/ai-moe-atlas/blob/60ee1cf31037e5cc8bea7e04c0b43b402df85249/public/generated/doodle-emotes-v1/gemini/09-speechless.png",
+      "sha256": "430bb514eda48b7ff87d5e38008bdd216465b730975511067da8f63725dba96b"
+    }
+  ],
+  "assets": [
+    {
+      "name": "banner-750x400.jpg",
+      "width": 750,
+      "height": 400,
+      "bytes": 187638,
+      "sha256": "d7b16611533cd4b71998dfc8b96f8e2da896fdc7cf9b0dc9d08bc70bec0baa26",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Draw ONE landscape, full-bleed illustration for a WeChat sticker album detail-page banner at 750 × 400 (15:8), no layout or panels. Reference images 1 and 2 are the SAME established character from this sticker album: use their likeness, hair shape and colors, ornament placement, costume, face and thick organic dark doodle outlines faithfully. Gemini: blue-violet hair fading to orchid, curled ahoge, triangular cat ears with white tufts/pink insides, side buns and dark ribbon tails, twin four-point prismatic star barrettes, purple-and-white costume. Heterochromia exactly magenta eye on viewer's LEFT and golden yellow on viewer's RIGHT. Match the lively hand-inked little chibi with broad opaque color blocks and a few crayon highlights in the references. No typography, readable letters, numbers, signatures or watermark anywhere. Scene: Twilight on a low round rooftop observatory: she bends beside a small plum-and-copper telescope and excitedly points with one hand as a single bright golden shooting star sweeps across a saturated periwinkle and raspberry sky. Brass dome and coral city rooftops low on the horizon. Keep a bright playful evening atmosphere, open eyes of the correct different colors visible. Frame the single character large enough to recognize, with face, main prop and action fully inside the central 85% of the picture. Let background shapes fill all four sides. Give the image a rich colored opaque ground. Keep proportions natural, uncluttered silhouettes, one coherent moment, no white margin and no text.",
+      "process": "Proportional center crop to 750 × 400; JPEG quality 91, 4:4:4.",
+      "generatedSourceSHA256": "42645b661e8df622e3d3a4010008dfab7eb58313154e14d3df8942286fbdd67a",
+      "path": "generated/doodle-emotes-v1/wechat/gemini/banner-750x400.jpg"
+    },
+    {
+      "name": "cover-240x240.png",
+      "width": 240,
+      "height": 240,
+      "bytes": 108122,
+      "sha256": "257966917dc33411de5d26248a7e219c27a52c806bfc228f1c905f9cca35ae9b",
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. One square WeChat sticker album cover cutout, genuinely transparent RGBA outside the art. Reference images 1 and 2 are the SAME established character from this sticker album: use their likeness, hair shape and colors, ornament placement, costume, face and thick organic dark doodle outlines faithfully. Gemini: blue-violet hair fading to orchid, curled ahoge, triangular cat ears with white tufts/pink insides, side buns and dark ribbon tails, twin four-point prismatic star barrettes, purple-and-white costume. Heterochromia exactly magenta eye on viewer's LEFT and golden yellow on viewer's RIGHT. Match the lively hand-inked little chibi with broad opaque color blocks and a few crayon highlights in the references. No typography, readable letters, numbers, signatures or watermark anywhere. Pose: facing straight forward with both eyes wide open in their correct colors and a pleased smile, elbows tucked, one hand making a small peace sign near her shoulder, include striped chest and star brooch. A single compact waist-up or three-quarter figure seen from the front, head and upper body distinct, entire silhouette contained with a little transparent breathing room on every side. Keep silhouette organic; hands and hair arranged so torso ends at a natural fabric curve, never a straight horizontal frame crop. Clear readable thick dark linework at 240px; no white sticker outline, cast shadow, gradient backing, border, scene, sparkles or floating props.",
+      "process": "Trim transparent margins using alpha ≥ 8 with two source pixels of padding, scale proportionally with Lanczos3, center on transparent canvas.",
+      "generatedSourceSHA256": "aef1f86a8784203779d148000aef86876dfb1e41862ecf15b31d2cdcdcfa29ee",
+      "path": "generated/doodle-emotes-v1/wechat/gemini/cover-240x240.png"
+    },
+    {
+      "name": "icon-50x50.png",
+      "width": 50,
+      "height": 50,
+      "bytes": 6642,
+      "sha256": "8df6d68c5aac30c726d0cff34e428c86033205f9bff4f82cf4588b4f80bb49c1",
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. Design ONE dedicated WeChat chat-tray icon on a genuinely transparent square background, optimized to look recognizable at 50 × 50 pixels. Reference images 1 and 2 are the SAME established character from this sticker album: use their likeness, hair shape and colors, ornament placement, costume, face and thick organic dark doodle outlines faithfully. Gemini: blue-violet hair fading to orchid, curled ahoge, triangular cat ears with white tufts/pink insides, side buns and dark ribbon tails, twin four-point prismatic star barrettes, purple-and-white costume. Heterochromia exactly magenta eye on viewer's LEFT and golden yellow on viewer's RIGHT. Match the lively hand-inked little chibi with broad opaque color blocks and a few crayon highlights in the references. No typography, readable letters, numbers, signatures or watermark anywhere. Draw only the character's HEAD from straight in front: cheeky catlike smile, both eyes fully open and clearly different colors (magenta viewer left, gold viewer right), both cat ears and two simplified prismatic star clips. Exaggerate the facial features just enough for a small icon. Shorten long locks into rounded cheek-level tips for the head silhouette. No neck, chest, shoulders, hands, frames, extra flourishes or background. The complete organic contour fills almost the whole square with narrow even clearance at the edge. No white outline or sticker keyline. Smooth chunky dark edge, coherent color masses, strong readable expression and antialiased edges.",
+      "process": "Trim transparent margins using alpha ≥ 8 with two source pixels of padding, scale proportionally with Lanczos3, center on transparent canvas.",
+      "generatedSourceSHA256": "1fa5990dc219ed5c2ed578121870448a8eb947ffb815da1ef6341a3f63bbc697",
+      "path": "generated/doodle-emotes-v1/wechat/gemini/icon-50x50.png"
+    }
+  ]
+}

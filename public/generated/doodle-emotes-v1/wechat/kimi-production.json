@@ -1,0 +1,80 @@
+{
+  "id": "kimi",
+  "name": {
+    "zh": "Kimi",
+    "en": "Kimi",
+    "ja": "Kimi"
+  },
+  "created": "2026-11-27",
+  "archivedAt": "2026-11-27",
+  "project": "https://github.com/SelinLee/ai-moe-atlas",
+  "artist": "SelinLee",
+  "type": "AI-generated sticker album artwork",
+  "attribution": [
+    {
+      "name": "ZipZipPipe",
+      "url": "https://www.pixiv.net/users/18604994",
+      "role": "community-design",
+      "publication": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "sourceVideo": "https://www.bilibili.com/video/BV14phK66Ejw/",
+  "sourceVideoPublisher": "想看故事的lazy",
+  "rights": {
+    "status": "adaptation-permission-not-established",
+    "license": null,
+    "licenseUrl": "https://www.pixiv.net/artworks/148186519",
+    "evidencePath": "content/sources/zipzippipe-kimi.json",
+    "newLicenseGranted": false,
+    "inDownloadPacks": false
+  },
+  "generator": "OpenAI built-in image_gen",
+  "references": [
+    {
+      "url": "https://github.com/SelinLee/ai-moe-atlas/blob/60ee1cf31037e5cc8bea7e04c0b43b402df85249/public/generated/doodle-emotes-v1/kimi/01-happy.png",
+      "sha256": "647a021fb8ba069bb33af6a8e80796ece726d6e837d5052449556a8fc55676ec"
+    },
+    {
+      "url": "https://github.com/SelinLee/ai-moe-atlas/blob/60ee1cf31037e5cc8bea7e04c0b43b402df85249/public/generated/doodle-emotes-v1/kimi/09-speechless.png",
+      "sha256": "6177f97c691ed856bf5f9fa5130e3b550ebb9fc23f874256b68461ed53c846c7"
+    }
+  ],
+  "assets": [
+    {
+      "name": "banner-750x400.jpg",
+      "width": 750,
+      "height": 400,
+      "bytes": 158822,
+      "sha256": "4b4896edfe986fe45196850977c7886e0b45857f6700049514152506aa5994c0",
+      "transparent": false,
+      "prompt": "Use case: illustration-story. Draw ONE landscape, full-bleed illustration for a WeChat sticker album detail-page banner at 750 × 400 (15:8), no layout or panels. Reference images 1 and 2 are the SAME established character from this sticker album: use their likeness, hair shape and colors, ornament placement, costume, face and thick organic dark doodle outlines faithfully. Kimi: long white hair with faint lavender-blue tips, periwinkle eyes, single gold crescent moon over navy-and-white ribbon on viewer's right temple with hanging little gold star, navy blue and white ruffled dress, navy collar bow, small gold square book at waist. No horns, no animal ears. Match the lively hand-inked little chibi with broad opaque color blocks and a few crayon highlights in the references. No typography, readable letters, numbers, signatures or watermark anywhere. Scene: At a cheerful late-afternoon window seat she has cupped a glowing golden firefly; now it lifts free from her open hands and she leans forward smiling. A melon-peach sky behind a rich blue-violet window frame, leafy silhouettes and a single warm lamp create a luminous summer evening. Make the central firefly easy to see, with a short curved golden flight trail; no field of glitter. Frame the single character large enough to recognize, with face, main prop and action fully inside the central 85% of the picture. Let background shapes fill all four sides. Give the image a rich colored opaque ground. Keep proportions natural, uncluttered silhouettes, one coherent moment, no white margin and no text.",
+      "process": "Proportional center crop to 750 × 400; JPEG quality 91, 4:4:4.",
+      "generatedSourceSHA256": "f9f6a98c6c6e0367afa01503ea774d5ee2c5f31c194e652c717d9220fb147637",
+      "path": "generated/doodle-emotes-v1/wechat/kimi/banner-750x400.jpg"
+    },
+    {
+      "name": "cover-240x240.png",
+      "width": 240,
+      "height": 240,
+      "bytes": 101693,
+      "sha256": "4d9ded64a15766d43319bb810b87615448851e216b853132fabaf84f93932696",
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. One square WeChat sticker album cover cutout, genuinely transparent RGBA outside the art. Reference images 1 and 2 are the SAME established character from this sticker album: use their likeness, hair shape and colors, ornament placement, costume, face and thick organic dark doodle outlines faithfully. Kimi: long white hair with faint lavender-blue tips, periwinkle eyes, single gold crescent moon over navy-and-white ribbon on viewer's right temple with hanging little gold star, navy blue and white ruffled dress, navy collar bow, small gold square book at waist. No horns, no animal ears. Match the lively hand-inked little chibi with broad opaque color blocks and a few crayon highlights in the references. No typography, readable letters, numbers, signatures or watermark anywhere. Pose: face front, smiling gently, hands folded lightly at her chest under the navy collar bow, white sleeves and navy bodice visible, moon clip and dangling gold star visible. A single compact waist-up or three-quarter figure seen from the front, head and upper body distinct, entire silhouette contained with a little transparent breathing room on every side. Keep silhouette organic; hands and hair arranged so torso ends at a natural fabric curve, never a straight horizontal frame crop. Clear readable thick dark linework at 240px; no white sticker outline, cast shadow, gradient backing, border, scene, sparkles or floating props.",
+      "process": "Trim transparent margins using alpha ≥ 8 with two source pixels of padding, scale proportionally with Lanczos3, center on transparent canvas.",
+      "generatedSourceSHA256": "eb550dc5cf5eb1504d406c5b9c0514e4266e52b4534e0a438cae830392cf9bfe",
+      "path": "generated/doodle-emotes-v1/wechat/kimi/cover-240x240.png"
+    },
+    {
+      "name": "icon-50x50.png",
+      "width": 50,
+      "height": 50,
+      "bytes": 6330,
+      "sha256": "1f86e73bd591a2db8f7715c8a5416cb0999fd59cf8a0978fa7e728709a03166b",
+      "transparent": true,
+      "prompt": "Use case: stylized-concept. Design ONE dedicated WeChat chat-tray icon on a genuinely transparent square background, optimized to look recognizable at 50 × 50 pixels. Reference images 1 and 2 are the SAME established character from this sticker album: use their likeness, hair shape and colors, ornament placement, costume, face and thick organic dark doodle outlines faithfully. Kimi: long white hair with faint lavender-blue tips, periwinkle eyes, single gold crescent moon over navy-and-white ribbon on viewer's right temple with hanging little gold star, navy blue and white ruffled dress, navy collar bow, small gold square book at waist. No horns, no animal ears. Match the lively hand-inked little chibi with broad opaque color blocks and a few crayon highlights in the references. No typography, readable letters, numbers, signatures or watermark anywhere. Draw only the character's HEAD from straight in front: open periwinkle eyes with an inquisitive smile, large identifiable gold crescent pinned to a simplified navy bow on viewer's right; face framed by white fringe. Exaggerate the facial features just enough for a small icon. Shorten long locks into rounded cheek-level tips for the head silhouette. No neck, chest, shoulders, hands, frames, extra flourishes or background. The complete organic contour fills almost the whole square with narrow even clearance at the edge. No white outline or sticker keyline. Smooth chunky dark edge, coherent color masses, strong readable expression and antialiased edges.",
+      "process": "Trim transparent margins using alpha ≥ 8 with two source pixels of padding, scale proportionally with Lanczos3, center on transparent canvas.",
+      "generatedSourceSHA256": "e87e8d024835ebbbd19286a6fe8e565056b826343662d5db50e80179ab0311ec",
+      "path": "generated/doodle-emotes-v1/wechat/kimi/icon-50x50.png"
+    }
+  ]
+}
