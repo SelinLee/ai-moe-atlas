@@ -1,0 +1,41 @@
+{
+  "url": "https://majotabi.jp/",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:23:49.053Z",
+  "scope": "Release identity verified on the official anime or distributor page. Relationship to the pending BV is based on its retained title. The candidate’s exact audio and recording were not established.",
+  "officialRelease": {
+    "id": "literature",
+    "url": "https://majotabi.jp/",
+    "finalUrl": "https://majotabi.jp/",
+    "title": "TVアニメ『魔女の旅々』公式サイト",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-27T10:23:49.053Z",
+    "domSha256": "a67da4ff128d6aa0b2ff5e1af1ecd4da2b2c9326556b2faf22d7c930e8122092",
+    "textSha256": "33e7c4748ae7a21b00a6ebd3856e2a210bb2b08d515c28dcf0b4f22e3d80c041",
+    "matches": [
+      "魔女の旅々製作委員会",
+      "魔女の旅々 Blu-ray&DVD BOX 上巻",
+      "「リテラチュア」",
+      "上田麗奈（ランティス）",
+      "リテラチュア",
+      "リテラチュア",
+      "GAノベル「魔女の旅々」（SBクリエイティブ刊）",
+      "魔女の旅々",
+      "魔女の旅々 2",
+      "魔女の旅々 3"
+    ]
+  },
+  "candidate": {
+    "bvid": "BV1hZHN6sE4b",
+    "title": "【10月新番/DS】肥鱼之旅 OP「リテラチュア」【DeepSeek娘】",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hZHN6sE4b",
+    "observedAt": "2026-11-27T09:34:45.540Z",
+    "result": "source-unavailable",
+    "referenceBasis": "Track named in candidate title."
+  },
+  "priorCandidateEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+    "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+    "kind": "browser-metadata-extract"
+  }
+}

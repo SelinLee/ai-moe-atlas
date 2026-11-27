@@ -204,6 +204,17 @@ try{
     source:row.searchIndex.url,checked:row.searchIndex.observedAt,
     publisher:row.searchIndex.publisher,publisherUrl:row.searchIndex.publisherUrl,
    })));
+   const musicSources=registry.records.filter(record=>record.category==='sources');
+   const expectedMusic=pending.flatMap(row=>{
+    const candidate=`https://www.bilibili.com/video/${row.bvid}/`;
+    return musicSources.filter(record=>record.relations.some(link=>
+     link.role==='pending-animation-title-reference'&&link.url===candidate
+    )).map(record=>({candidate,source:record.url,title:record.title[lang]}));
+   });
+   assert.deepEqual(await panel.locator('[data-pending-original-music]').evaluateAll(rows=>rows.map(row=>({
+    candidate:row.closest('li')?.querySelector('a')?.href,
+    source:row.querySelector('a')?.href,title:row.querySelector('a')?.textContent?.trim().replace(/ ↗$/,''),
+   }))),expectedMusic);
    assert.equal(await page.locator('#resource-count').innerText(),String(animationCount));
   }
   assert.match(await visibleAnimations.first().innerText(),new RegExp(ranked[0].likes.count.toLocaleString(lang)));

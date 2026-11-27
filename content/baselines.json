@@ -152,21 +152,21 @@
   {
     "entity": "mimo",
     "characterId": "fuh-mimo",
-    "reviewedAt": "2026-11-22",
+    "reviewedAt": "2026-11-27",
     "nextAction": {
-      "zh": "确认 CC BY-NC 版本与在图鉴上直接展示或再分发的具体条件。",
-      "en": "Confirm the CC BY-NC version and terms for display or redistribution by the atlas.",
-      "ja": "CC BY-NC の版と図鑑での表示・再配布条件を確認する。"
+      "zh": "固定版本的三张原图已核对，附作者署名、非商业及相同方式共享条件。",
+      "en": "Three exact originals are preserved with the author’s attribution, noncommercial and ShareAlike terms.",
+      "ja": "固定版の原画3点を確認。作者表示、非商用、同一ライセンスの条件を収録。"
     }
   },
   {
     "entity": "longcat",
     "characterId": "fuh-longcat",
-    "reviewedAt": "2026-11-22",
+    "reviewedAt": "2026-11-27",
     "nextAction": {
-      "zh": "继续核对可展示的独立原图及逐件展示与改编条款。",
-      "en": "Verify standalone artwork and file-specific display and adaptation terms.",
-      "ja": "単独原画と画像別の表示・改変条件を確認する。"
+      "zh": "固定仓库设定列明作者的 CC BY-NC-SA 4.0。图中有美团品牌道具，图鉴提供作者原帖与文件出处。",
+      "en": "The pinned creator setting states CC BY-NC-SA 4.0. The images depict Meituan-branded props. The atlas links the original post and source files.",
+      "ja": "固定版の作者設定は CC BY-NC-SA 4.0 を明記。画像には美団ブランドの小道具が含まれます。図鑑では原投稿とファイルの出典を掲載。"
     }
   },
   {
@@ -282,11 +282,11 @@
   {
     "entity": "xiaohongshu-dots",
     "characterId": "fuh-dots-note",
-    "reviewedAt": "2026-11-23",
+    "reviewedAt": "2026-11-27",
     "nextAction": {
-      "zh": "逐件核对展示与改编条件。",
-      "en": "Check display and adaptation terms for each artwork.",
-      "ja": "画像ごとの表示・改変条件を確認する。"
+      "zh": "固定版本的三张原图已核对，附作者署名、非商业及相同方式共享条件。",
+      "en": "Three exact originals are preserved with the author’s attribution, noncommercial and ShareAlike terms.",
+      "ja": "固定版の原画3点を確認。作者表示、非商用、同一ライセンスの条件を収録。"
     }
   },
   {

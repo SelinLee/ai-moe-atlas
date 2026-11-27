@@ -1,0 +1,24 @@
+{
+  "url": "https://www.bilibili.com/video/BV1MKyrzxEVg/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1MKyrzxEVg",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:26:14.362Z",
+  "scope": "Verified the same BV and uploader ID, then retained the current identity and publication time from the official view API.",
+  "previousEvidence": {
+    "path": "content/research/2026-11-25/bv1mkyrzxevg.json",
+    "sha256": "734c94871ef3306008dde74764ceecda4629c20fff305ccd3cb8fc8be9f2c453",
+    "kind": "browser-metadata-extract"
+  },
+  "metadata": {
+    "bvid": "BV1MKyrzxEVg",
+    "title": "当大肥鱼发现你在跟别的AI聊天",
+    "owner": {
+      "name": "是余声",
+      "mid": 1930895776
+    },
+    "pubdate": 1795591699,
+    "duration": 31
+  },
+  "descriptionSha256": "f782c9dd9b8c407bc08908dc0185231c70266b86ec44e98da3eed918ec4c7a4b"
+}

@@ -1,0 +1,325 @@
+{
+  "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/%E8%AE%BE%E5%AE%9A.md",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:17:07.107Z",
+  "method": "GitHub immutable tree and isolated headless Chrome byte checks",
+  "scope": "Three different art records. Two pinned artwork packs are reviewed for the exact included images. LongCat is a source-only comparison with older creator publication and the archive file.",
+  "pinnedDocument": {
+    "path": "角色/longcat/设定.md",
+    "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/%E8%AE%BE%E5%AE%9A.md",
+    "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/%E8%AE%BE%E5%AE%9A.md",
+    "sourceSha256": "a3b378fdb6a0b0b3cf48eb83632d3bcf7cb182d4bcd3dcfcedf053a99b3d6806",
+    "gitBlobSha": "7ca4934b41536b0be6511817eefccd263dabcf20",
+    "bytes": 898,
+    "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+    "accessedAt": "2026-11-27T10:17:07.107Z"
+  },
+  "license": "CC BY-NC-SA 4.0",
+  "licenseEvidence": {
+    "path": "版权与授权.md",
+    "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+    "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+    "sourceSha256": "50b17ef47d1ffb316624abc5b8972314281dad431631f89b1bcf00ec91d580eb",
+    "gitBlobSha": "99c0cdd2dea890a599b933752dbc43b904e0aaf8",
+    "bytes": 3790,
+    "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+    "accessedAt": "2026-11-27T10:17:02.692Z"
+  },
+  "packedSets": [
+    {
+      "id": "fuh-mimo",
+      "pinnedSetting": {
+        "path": "角色/mimo/设定.md",
+        "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mimo/%E8%AE%BE%E5%AE%9A.md",
+        "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mimo/%E8%AE%BE%E5%AE%9A.md",
+        "sourceSha256": "65df04a3dd510afa1ba1155076449b56859f2ea48bbc785e2ea09ac107f70f15",
+        "gitBlobSha": "e1726a7a7d658a237156a8470a51c57c5558ca9e",
+        "bytes": 1060,
+        "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+        "accessedAt": "2026-11-27T10:17:03.084Z"
+      },
+      "artwork": [
+        {
+          "path": "角色/mimo/01_立绘/mimo b 中.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mimo/01_%E7%AB%8B%E7%BB%98/mimo%20b%20%E4%B8%AD.png",
+          "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mimo/01_%E7%AB%8B%E7%BB%98/mimo%20b%20%E4%B8%AD.png",
+          "sourceSha256": "911907aa368364e40be08a0c43b2616324f3b0919e7853836b29cd001a5ee8b4",
+          "gitBlobSha": "f25b8ed8132ef6c38340022d266781a571e1435a",
+          "bytes": 1552113,
+          "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+          "accessedAt": "2026-11-27T10:17:04.819Z"
+        },
+        {
+          "path": "角色/mimo/02_三视图/mimo 三视图 a.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mimo/02_%E4%B8%89%E8%A7%86%E5%9B%BE/mimo%20%E4%B8%89%E8%A7%86%E5%9B%BE%20a.png",
+          "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mimo/02_%E4%B8%89%E8%A7%86%E5%9B%BE/mimo%20%E4%B8%89%E8%A7%86%E5%9B%BE%20a.png",
+          "sourceSha256": "88107be9a8f759c1b20f10d11e87acfd5f7654866a14a511cc83122872c2ac89",
+          "gitBlobSha": "ecc45e80734cffea5632ac26632e38f72a41eadb",
+          "bytes": 3899669,
+          "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+          "accessedAt": "2026-11-27T10:17:05.857Z"
+        },
+        {
+          "path": "角色/mimo/02_三视图/mimo 三视图 b.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mimo/02_%E4%B8%89%E8%A7%86%E5%9B%BE/mimo%20%E4%B8%89%E8%A7%86%E5%9B%BE%20b.png",
+          "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mimo/02_%E4%B8%89%E8%A7%86%E5%9B%BE/mimo%20%E4%B8%89%E8%A7%86%E5%9B%BE%20b.png",
+          "sourceSha256": "825089065133408a381e7c7811b76ba2cae045fea79eee2cf7a83bcdca16c9f4",
+          "gitBlobSha": "e27802a2e86d4d48d74f7380d4a5eb799de298fa",
+          "bytes": 3151316,
+          "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+          "accessedAt": "2026-11-27T10:17:06.739Z"
+        }
+      ],
+      "terms": {
+        "path": "版权与授权.md",
+        "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "sourceSha256": "50b17ef47d1ffb316624abc5b8972314281dad431631f89b1bcf00ec91d580eb",
+        "gitBlobSha": "99c0cdd2dea890a599b933752dbc43b904e0aaf8",
+        "bytes": 3790,
+        "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+        "accessedAt": "2026-11-27T10:17:02.692Z"
+      },
+      "previousOriginalEvidence": "content/research/2026-11-22/fuh-mimo-author-submission.json"
+    },
+    {
+      "id": "fuh-dots-note",
+      "pinnedSetting": {
+        "path": "角色/diandian/设定.md",
+        "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/diandian/%E8%AE%BE%E5%AE%9A.md",
+        "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/diandian/%E8%AE%BE%E5%AE%9A.md",
+        "sourceSha256": "b5307d0474a295d85c3284e6d902e9542704fcc0a794373f92c4856ee5151b0b",
+        "gitBlobSha": "aaedabf44bb39d4482a5444c014fbd626372a35c",
+        "bytes": 922,
+        "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+        "accessedAt": "2026-11-27T10:17:11.768Z"
+      },
+      "artwork": [
+        {
+          "path": "角色/diandian/01_立绘/dots b 中.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/diandian/01_%E7%AB%8B%E7%BB%98/dots%20b%20%E4%B8%AD.png",
+          "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/diandian/01_%E7%AB%8B%E7%BB%98/dots%20b%20%E4%B8%AD.png",
+          "sourceSha256": "d1262434ae2848dffc2ef423d3c27fbe00bbcb4ba9b17b13ae9bd5b556e1b47a",
+          "gitBlobSha": "543c1aec98693bc4c885d43c2a2ff49a337994ed",
+          "bytes": 1586794,
+          "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+          "accessedAt": "2026-11-27T10:17:12.403Z"
+        },
+        {
+          "path": "角色/diandian/02_三视图/dots_三视图_含道具.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/diandian/02_%E4%B8%89%E8%A7%86%E5%9B%BE/dots_%E4%B8%89%E8%A7%86%E5%9B%BE_%E5%90%AB%E9%81%93%E5%85%B7.png",
+          "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/diandian/02_%E4%B8%89%E8%A7%86%E5%9B%BE/dots_%E4%B8%89%E8%A7%86%E5%9B%BE_%E5%90%AB%E9%81%93%E5%85%B7.png",
+          "sourceSha256": "387415c3d45527ca1dc7f6567a1784e007e54c4a0ad0359e6430e03a9115d87a",
+          "gitBlobSha": "cae2849e638ba63614170ee76407d530b3d40208",
+          "bytes": 8071925,
+          "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+          "accessedAt": "2026-11-27T10:17:13.661Z"
+        },
+        {
+          "path": "角色/diandian/02_三视图/dotsb_三视图_含道具.png",
+          "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/diandian/02_%E4%B8%89%E8%A7%86%E5%9B%BE/dotsb_%E4%B8%89%E8%A7%86%E5%9B%BE_%E5%90%AB%E9%81%93%E5%85%B7.png",
+          "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/diandian/02_%E4%B8%89%E8%A7%86%E5%9B%BE/dotsb_%E4%B8%89%E8%A7%86%E5%9B%BE_%E5%90%AB%E9%81%93%E5%85%B7.png",
+          "sourceSha256": "a451006c5d366612554125ce84705eec88e67b35bb201e5fd022c80472aac70c",
+          "gitBlobSha": "637070f20a0e7faf7c14822ff0390d14dc44d25a",
+          "bytes": 6181299,
+          "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+          "accessedAt": "2026-11-27T10:17:15.109Z"
+        }
+      ],
+      "terms": {
+        "path": "版权与授权.md",
+        "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "sourceSha256": "50b17ef47d1ffb316624abc5b8972314281dad431631f89b1bcf00ec91d580eb",
+        "gitBlobSha": "99c0cdd2dea890a599b933752dbc43b904e0aaf8",
+        "bytes": 3790,
+        "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+        "accessedAt": "2026-11-27T10:17:02.692Z"
+      },
+      "previousOriginalEvidence": "content/research/2026-11-23/shi-dots-note-official-identity.json"
+    }
+  ],
+  "longcat": {
+    "files": [
+      {
+        "path": "角色/longcat/设定.md",
+        "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/%E8%AE%BE%E5%AE%9A.md",
+        "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/%E8%AE%BE%E5%AE%9A.md",
+        "sourceSha256": "a3b378fdb6a0b0b3cf48eb83632d3bcf7cb182d4bcd3dcfcedf053a99b3d6806",
+        "gitBlobSha": "7ca4934b41536b0be6511817eefccd263dabcf20",
+        "bytes": 898,
+        "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+        "accessedAt": "2026-11-27T10:17:07.107Z"
+      },
+      {
+        "path": "角色/longcat/01_立绘/longcat b 中.png",
+        "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/01_%E7%AB%8B%E7%BB%98/longcat%20b%20%E4%B8%AD.png",
+        "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/01_%E7%AB%8B%E7%BB%98/longcat%20b%20%E4%B8%AD.png",
+        "sourceSha256": "8f8b6c7ff6b85b74256a348d9248d563db96e514ce38d6718dd7ef4643d678c8",
+        "gitBlobSha": "bd2c7c189ba3da9b84069607f6a9c1d48814c84f",
+        "bytes": 3123602,
+        "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+        "accessedAt": "2026-11-27T10:17:07.883Z"
+      },
+      {
+        "path": "角色/longcat/02_三视图/lca_三视图_含部件.png",
+        "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/02_%E4%B8%89%E8%A7%86%E5%9B%BE/lca_%E4%B8%89%E8%A7%86%E5%9B%BE_%E5%90%AB%E9%83%A8%E4%BB%B6.png",
+        "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/02_%E4%B8%89%E8%A7%86%E5%9B%BE/lca_%E4%B8%89%E8%A7%86%E5%9B%BE_%E5%90%AB%E9%83%A8%E4%BB%B6.png",
+        "sourceSha256": "413aa1bbd70209a5cbd6f6e210698aa900ae20bba9ea8ec68500e90cf87b574b",
+        "gitBlobSha": "d2f0fe3c60c9d7672a535d63f4f4e74e62504734",
+        "bytes": 7675067,
+        "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+        "accessedAt": "2026-11-27T10:17:09.310Z"
+      },
+      {
+        "path": "角色/longcat/02_三视图/lcb_三视图_含部件.png",
+        "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/02_%E4%B8%89%E8%A7%86%E5%9B%BE/lcb_%E4%B8%89%E8%A7%86%E5%9B%BE_%E5%90%AB%E9%83%A8%E4%BB%B6.png",
+        "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/02_%E4%B8%89%E8%A7%86%E5%9B%BE/lcb_%E4%B8%89%E8%A7%86%E5%9B%BE_%E5%90%AB%E9%83%A8%E4%BB%B6.png",
+        "sourceSha256": "8b165565444d5f9f4b2ce9562bcf048154c264f6f4a1b7339f379824edb52caa",
+        "gitBlobSha": "c44356bfffaca842ab4813ca38020d0fcf8a9edc",
+        "bytes": 9624416,
+        "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+        "accessedAt": "2026-11-27T10:17:11.378Z"
+      },
+      {
+        "path": "角色/longcat/01_立绘/longcat a 大.png",
+        "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/01_%E7%AB%8B%E7%BB%98/longcat%20a%20%E5%A4%A7.png",
+        "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/01_%E7%AB%8B%E7%BB%98/longcat%20a%20%E5%A4%A7.png",
+        "sourceSha256": "b7f00ab29ec6d68adb4e6fccb2e4841a05d99a8cb0171a991318997f05ebe349",
+        "gitBlobSha": "a98f8482eabac8a97140e35dfe3850a0a40f973c",
+        "bytes": 3406838,
+        "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+        "accessedAt": "2026-11-27T10:18:18.430Z"
+      },
+      {
+        "path": "角色/longcat/01_立绘/longcat a 中.png",
+        "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/01_%E7%AB%8B%E7%BB%98/longcat%20a%20%E4%B8%AD.png",
+        "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/01_%E7%AB%8B%E7%BB%98/longcat%20a%20%E4%B8%AD.png",
+        "sourceSha256": "691d414b98589ff8d778daec7278a92d20513c71513de77285d38a324737ee6a",
+        "gitBlobSha": "5d331fd4cdfe3d6d2d0db820d14c6d9dd9b7eb4c",
+        "bytes": 2519281,
+        "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+        "accessedAt": "2026-11-27T10:18:19.173Z"
+      },
+      {
+        "path": "角色/longcat/04_Q版/Q版a.png",
+        "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/04_Q%E7%89%88/Q%E7%89%88a.png",
+        "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/04_Q%E7%89%88/Q%E7%89%88a.png",
+        "sourceSha256": "27e6918ffcfec0e8551ca12c883c04756c3fddc506d425528408c39de996cd43",
+        "gitBlobSha": "022fa52402abe49c0611bb9ea7c5b9b02d4dfe54",
+        "bytes": 1645412,
+        "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+        "accessedAt": "2026-11-27T10:18:19.824Z"
+      },
+      {
+        "path": "角色/longcat/04_Q版/Q版b.png",
+        "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/04_Q%E7%89%88/Q%E7%89%88b.png",
+        "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/04_Q%E7%89%88/Q%E7%89%88b.png",
+        "sourceSha256": "6f31f0d43644d2765df04cf99d35a3d80eb2b8d61736931fe8da7d85a53ec6dc",
+        "gitBlobSha": "fc94f7ef0f7abc67b34b6b789cb702b29dae57eb",
+        "bytes": 1771745,
+        "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+        "accessedAt": "2026-11-27T10:18:20.454Z"
+      },
+      {
+        "path": "角色/longcat/05_头像/头像a.png",
+        "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/05_%E5%A4%B4%E5%83%8F/%E5%A4%B4%E5%83%8Fa.png",
+        "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/05_%E5%A4%B4%E5%83%8F/%E5%A4%B4%E5%83%8Fa.png",
+        "sourceSha256": "0bdd27887ed71857de89c45c591d8b88595c8200dc674afdfb2f32c92c3d30e8",
+        "gitBlobSha": "f602b8cd34e7fd5714d2687508b6598cf1856e46",
+        "bytes": 1839748,
+        "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+        "accessedAt": "2026-11-27T10:18:21.155Z"
+      },
+      {
+        "path": "角色/longcat/05_头像/头像b.png",
+        "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/05_%E5%A4%B4%E5%83%8F/%E5%A4%B4%E5%83%8Fb.png",
+        "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/05_%E5%A4%B4%E5%83%8F/%E5%A4%B4%E5%83%8Fb.png",
+        "sourceSha256": "f2ab5621b0b9ef5c761ce0c95bc6361fa490f2db0843dd8253a1492fc47cb2df",
+        "gitBlobSha": "dfd7d3b2f01b77e941b02725b7dd4b3fdec77003",
+        "bytes": 1789029,
+        "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+        "accessedAt": "2026-11-27T10:18:22.015Z"
+      }
+    ],
+    "publicationStatus": "source-only"
+  },
+  "exactArchiveMatches": [
+    {
+      "id": "longcat",
+      "previousEvidence": "content/research/2026-11-22/shi-longcat-revised-design-file-verification.json",
+      "priorFile": {
+        "url": "http://i0.hdslb.com/bfs/new_dyn/841e39eb3ae10afa3bd4ce54652e2de71758596086.png",
+        "position": 4,
+        "httpStatus": 200,
+        "accessedAt": "2026-11-22T15:30:13.007Z",
+        "width": 3628,
+        "height": 3410,
+        "format": "png",
+        "bytes": 9612389,
+        "sourceSha256": "233a6bb6cb017b9e171aec89f044a4dad0daa16c7d68744d427eb5e728a53c9c"
+      },
+      "archiveSourceCopy": {
+        "path": "参考原图/17_LongCat娘_美团龙猫_现代外套/来源原图.png",
+        "url": "https://github.com/lmy414/ai-chan-sheets/blob/220d256404e616158e9d1ef11fde759f08e31eec/%E5%8F%82%E8%80%83%E5%8E%9F%E5%9B%BE/17_LongCat%E5%A8%98_%E7%BE%8E%E5%9B%A2%E9%BE%99%E7%8C%AB_%E7%8E%B0%E4%BB%A3%E5%A4%96%E5%A5%97/%E6%9D%A5%E6%BA%90%E5%8E%9F%E5%9B%BE.png",
+        "rawUrl": "https://raw.githubusercontent.com/lmy414/ai-chan-sheets/220d256404e616158e9d1ef11fde759f08e31eec/%E5%8F%82%E8%80%83%E5%8E%9F%E5%9B%BE/17_LongCat%E5%A8%98_%E7%BE%8E%E5%9B%A2%E9%BE%99%E7%8C%AB_%E7%8E%B0%E4%BB%A3%E5%A4%96%E5%A5%97/%E6%9D%A5%E6%BA%90%E5%8E%9F%E5%9B%BE.png",
+        "sourceSha256": "233a6bb6cb017b9e171aec89f044a4dad0daa16c7d68744d427eb5e728a53c9c",
+        "gitBlobSha": "a289df421cfade3902d0da6346148f036cd0f17a",
+        "bytes": 9612389,
+        "commit": "220d256404e616158e9d1ef11fde759f08e31eec",
+        "accessedAt": "2026-11-27T10:17:18.536Z"
+      },
+      "archiveCredits": {
+        "path": "参考原图/17_LongCat娘_美团龙猫_现代外套/来源信息.json",
+        "url": "https://github.com/lmy414/ai-chan-sheets/blob/220d256404e616158e9d1ef11fde759f08e31eec/%E5%8F%82%E8%80%83%E5%8E%9F%E5%9B%BE/17_LongCat%E5%A8%98_%E7%BE%8E%E5%9B%A2%E9%BE%99%E7%8C%AB_%E7%8E%B0%E4%BB%A3%E5%A4%96%E5%A5%97/%E6%9D%A5%E6%BA%90%E4%BF%A1%E6%81%AF.json",
+        "rawUrl": "https://raw.githubusercontent.com/lmy414/ai-chan-sheets/220d256404e616158e9d1ef11fde759f08e31eec/%E5%8F%82%E8%80%83%E5%8E%9F%E5%9B%BE/17_LongCat%E5%A8%98_%E7%BE%8E%E5%9B%A2%E9%BE%99%E7%8C%AB_%E7%8E%B0%E4%BB%A3%E5%A4%96%E5%A5%97/%E6%9D%A5%E6%BA%90%E4%BF%A1%E6%81%AF.json",
+        "sourceSha256": "b7a43a6fd468f4bcb6764a2c9a05c280dda7d5d7b1121c5f77b04a9fccec803f",
+        "gitBlobSha": "901c13b599fd98497dd4e3d4434360a6016f21bf",
+        "bytes": 882,
+        "commit": "220d256404e616158e9d1ef11fde759f08e31eec",
+        "accessedAt": "2026-11-27T10:17:17.089Z"
+      },
+      "sha256Same": true,
+      "scope": "Exact author Bilibili post image number 4 matches the source copy. Separately pinned creator renderings are not the archived bytes, and the old artwork and depicted branded props are kept as links."
+    },
+    {
+      "id": "mimo",
+      "previousEvidence": "content/research/2026-11-22/fuh-mimo-author-submission.json",
+      "priorFile": {
+        "path": "characters/mimo/turnarounds/fuh-bilibili-1242097128919007239-02.png",
+        "url": "https://raw.githubusercontent.com/shuaizenge/ai-girls/dcd69f5f4f2dff1a9c0031e82deb49e0fe949c76/characters/mimo/turnarounds/fuh-bilibili-1242097128919007239-02.png",
+        "gitBlobSha": "9b256627cb429e53833cb5e78b0b885a0d326773",
+        "archive": true,
+        "httpStatus": 200,
+        "accessedAt": "2026-11-20T17:05:04.115Z",
+        "sourceSha256": "8c0df2f399316d00978e39d5620d056a1d880c4a80bd863d776d2e4d527c56ee",
+        "bytes": 1776826,
+        "width": 1536,
+        "height": 1024,
+        "format": "png"
+      },
+      "archiveSourceCopy": {
+        "path": "参考原图/15_MiMo兔娘_甶丶_机能外套/来源原图.png",
+        "url": "https://github.com/lmy414/ai-chan-sheets/blob/220d256404e616158e9d1ef11fde759f08e31eec/%E5%8F%82%E8%80%83%E5%8E%9F%E5%9B%BE/15_MiMo%E5%85%94%E5%A8%98_%E7%94%B6%E4%B8%B6_%E6%9C%BA%E8%83%BD%E5%A4%96%E5%A5%97/%E6%9D%A5%E6%BA%90%E5%8E%9F%E5%9B%BE.png",
+        "rawUrl": "https://raw.githubusercontent.com/lmy414/ai-chan-sheets/220d256404e616158e9d1ef11fde759f08e31eec/%E5%8F%82%E8%80%83%E5%8E%9F%E5%9B%BE/15_MiMo%E5%85%94%E5%A8%98_%E7%94%B6%E4%B8%B6_%E6%9C%BA%E8%83%BD%E5%A4%96%E5%A5%97/%E6%9D%A5%E6%BA%90%E5%8E%9F%E5%9B%BE.png",
+        "sourceSha256": "8c0df2f399316d00978e39d5620d056a1d880c4a80bd863d776d2e4d527c56ee",
+        "gitBlobSha": "9b256627cb429e53833cb5e78b0b885a0d326773",
+        "bytes": 1776826,
+        "commit": "220d256404e616158e9d1ef11fde759f08e31eec",
+        "accessedAt": "2026-11-27T10:17:16.720Z"
+      },
+      "archiveCredits": {
+        "path": "参考原图/15_MiMo兔娘_甶丶_机能外套/来源信息.json",
+        "url": "https://github.com/lmy414/ai-chan-sheets/blob/220d256404e616158e9d1ef11fde759f08e31eec/%E5%8F%82%E8%80%83%E5%8E%9F%E5%9B%BE/15_MiMo%E5%85%94%E5%A8%98_%E7%94%B6%E4%B8%B6_%E6%9C%BA%E8%83%BD%E5%A4%96%E5%A5%97/%E6%9D%A5%E6%BA%90%E4%BF%A1%E6%81%AF.json",
+        "rawUrl": "https://raw.githubusercontent.com/lmy414/ai-chan-sheets/220d256404e616158e9d1ef11fde759f08e31eec/%E5%8F%82%E8%80%83%E5%8E%9F%E5%9B%BE/15_MiMo%E5%85%94%E5%A8%98_%E7%94%B6%E4%B8%B6_%E6%9C%BA%E8%83%BD%E5%A4%96%E5%A5%97/%E6%9D%A5%E6%BA%90%E4%BF%A1%E6%81%AF.json",
+        "sourceSha256": "534e19581240703b50443e16ef977e693c244ba3b8e50dfbe22ae24dad1ccc5b",
+        "gitBlobSha": "5bcb4b0169301faadf1a22d6ac40c5cf64aeed32",
+        "bytes": 899,
+        "commit": "220d256404e616158e9d1ef11fde759f08e31eec",
+        "accessedAt": "2026-11-27T10:17:16.127Z"
+      },
+      "sha256Same": true,
+      "scope": "The lmy414 source copy matches the early image preserved by shuaizenge. The creator’s fresh GitHub set has different hashes and explicit license terms for the pinned revision."
+    }
+  ]
+}

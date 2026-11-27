@@ -1,0 +1,33 @@
+{
+  "url": "https://anxmusic.lnk.to/AjH3Y4",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:23:49.743Z",
+  "scope": "Release identity verified on the official anime or distributor page. Relationship to the pending BV is based on its retained title. The candidate’s exact audio and recording were not established.",
+  "officialRelease": {
+    "id": "never-forget",
+    "url": "https://anxmusic.lnk.to/AjH3Y4",
+    "finalUrl": "https://anxmusic.lnk.to/AjH3Y4",
+    "title": "結束バンド",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-27T10:23:49.743Z",
+    "domSha256": "4ecb00da456cc3d9993c65c2217dd5aeb6a8c24a9c62b162aca6f1e7dc01082a",
+    "textSha256": "9bbfba9f44c7ff4259ca13c3f6b2609eab26632db6d2f451120ce36e695372f5",
+    "matches": [
+      "結束バンド",
+      "「忘れてやらない」"
+    ]
+  },
+  "candidate": {
+    "bvid": "BV1Z4sP6qE77",
+    "title": "【Video 8】忘れてやらない（绝不会忘记）by白栀、大肥鱼、Claude大小姐、Gemini AI娘乐队【AI MV 大赛】",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Z4sP6qE77",
+    "observedAt": "2026-11-27T09:34:47.098Z",
+    "result": "source-unavailable",
+    "referenceBasis": "Track named in candidate title."
+  },
+  "priorCandidateEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+    "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+    "kind": "browser-metadata-extract"
+  }
+}

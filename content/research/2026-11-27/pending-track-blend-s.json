@@ -1,0 +1,35 @@
+{
+  "url": "https://blend-s.jp/music/",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:23:50.056Z",
+  "scope": "Release identity verified on the official anime or distributor page. Relationship to the pending BV is based on its retained title. The candidate’s exact audio and recording were not established.",
+  "officialRelease": {
+    "id": "blend-s",
+    "url": "https://blend-s.jp/music/",
+    "finalUrl": "https://blend-s.jp/music/",
+    "title": "MUSIC | アニメ「ブレンド・S」公式サイト",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-27T10:23:50.056Z",
+    "domSha256": "e64bc5eeae910517d6c3f1dfb2b32a5f8f7ce9a14274e6af62f2c274c6a14d79",
+    "textSha256": "1af8a97b785cf502d70b08852c685083743fe9468337c4a6e86fd198fbeadc7f",
+    "matches": [
+      "ぼなぺてぃーと♡Ｓ／デタラメなマイナスとプラスにおけるブレンド考",
+      "1. ぼなぺてぃーと♡S",
+      "3. ぼなぺてぃーと♡S〈Instrumental〉",
+      "OP＆ノンクレジットED映像、「ぼなぺてぃーと♡S」ミュージックビデオ収録"
+    ]
+  },
+  "candidate": {
+    "bvid": "BV1dtnF61Erq",
+    "title": "S 代表什么？【属性咖啡厅 OP AI换人复刻｜五位女主×五个模型】",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dtnF61Erq",
+    "observedAt": "2026-11-27T09:34:40.714Z",
+    "result": "source-unavailable",
+    "referenceBasis": "Anime and its opening named in candidate title."
+  },
+  "priorCandidateEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+    "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+    "kind": "browser-metadata-extract"
+  }
+}

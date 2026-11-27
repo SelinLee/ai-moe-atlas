@@ -1,0 +1,41 @@
+{
+  "url": "https://yagakimi.com/products/music.html",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T10:23:51.138Z",
+  "scope": "Release identity verified on the official anime or distributor page. Relationship to the pending BV is based on its retained title. The candidate’s exact audio and recording were not established.",
+  "officialRelease": {
+    "id": "kimi-ni-furete",
+    "url": "https://yagakimi.com/products/music.html",
+    "finalUrl": "https://yagakimi.com/products/music.html",
+    "title": "音楽商品｜TVアニメ「やがて君になる」公式サイト",
+    "httpStatus": 200,
+    "accessedAt": "2026-11-27T10:23:51.138Z",
+    "domSha256": "5ef76e075838a6c36d8fd734f98921556739bfdb8ef0958ae3b3a0fafa0eb306",
+    "textSha256": "d34409ebad46f98e53d3cb1a4f300e887f1fd4ecdabcff5ede97f59475611961",
+    "matches": [
+      "安月名 莉子",
+      "「君にふれて」",
+      "2018.11.28（水）発売",
+      "「君にふれて」",
+      "「君にふれて」instrumental",
+      "表題曲「君にふれて」は、シンガーソングライターのボンジュール鈴木が楽曲提供。TVアニメ「ユリ熊嵐」でみせた繊細で美しいトラックメイクで、少女たちの揺れ動く想いを描きます。アレンジは、家入レオや絢香など数多くのJ-POPアーティストに楽曲提供、サウンドプロデュースを行う鈴木Daichi秀行が担当。",
+      "2018.11.28（水）発売",
+      "配布時期：2018/11/28～",
+      "配布時期：2018/11/28～",
+      "配布時期：2018/11/28～"
+    ]
+  },
+  "candidate": {
+    "bvid": "BV17A4L66EHk",
+    "title": "【DeepSeek×Claude】《君にふれて》｜终将成为你OP",
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17A4L66EHk",
+    "observedAt": "2026-11-27T09:34:45.506Z",
+    "result": "source-unavailable",
+    "referenceBasis": "Track named in candidate title."
+  },
+  "priorCandidateEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-claude-theater-and-covers.json",
+    "sha256": "d9a51181aa8327b999146dc6c0fd75e4b571e247b736a4ee510dc074085ac2ce",
+    "kind": "browser-metadata-extract"
+  }
+}

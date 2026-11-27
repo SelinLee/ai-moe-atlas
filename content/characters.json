@@ -2030,7 +2030,7 @@
   {
     "id": "fuh-mimo",
     "entity": "mimo",
-    "kind": "reference",
+    "kind": "collected",
     "style": "anime",
     "official": false,
     "name": {
@@ -2055,8 +2055,8 @@
     },
     "author": "甶丶",
     "authorUrl": "https://space.bilibili.com/1758596086",
-    "source": "https://www.bilibili.com/opus/1242097128919007239",
-    "sourceTitle": "娘化mimo",
+    "source": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mimo/%E8%AE%BE%E5%AE%9A.md",
+    "sourceTitle": "MiMo 兔娘 · 设定.md",
     "originalPublication": "https://www.bilibili.com/opus/1242097128919007239",
     "sourceStatus": "creator-published",
     "attribution": [
@@ -2068,20 +2068,58 @@
       }
     ],
     "method": "ai-generated",
-    "license": "source-only",
-    "licenseUrl": "https://github.com/lmy414/ai-girl-stickers/issues/35",
-    "downloadable": false,
+    "license": "CC-BY-NC-SA-4.0",
+    "licenseUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+    "downloadable": true,
     "bg": "#f4e7e1",
     "color": "#8d3e28",
-    "verifiedAt": "2026-11-22",
+    "verifiedAt": "2026-11-27",
     "origin": "web-collected",
-    "preview": null,
-    "assets": [],
+    "preview": "collected/fuh-mimo/tech-portrait/preview.webp",
+    "assets": [
+      {
+        "id": "tech-portrait",
+        "label": {
+          "zh": "MiMo · 科技侧立绘",
+          "en": "MiMo · Technology portrait",
+          "ja": "MiMo · 科技側の立ち絵"
+        }
+      },
+      {
+        "id": "fantasy-turnaround",
+        "label": {
+          "zh": "MiMo · 奇幻侧三视图",
+          "en": "MiMo · Fantasy turnaround",
+          "ja": "MiMo · 幻想側の三面図"
+        }
+      },
+      {
+        "id": "tech-turnaround",
+        "label": {
+          "zh": "MiMo · 科技侧三视图",
+          "en": "MiMo · Technology turnaround",
+          "ja": "MiMo · 科技側の三面図"
+        }
+      }
+    ],
     "provenanceNote": {
-      "zh": "作者投稿写明 AI 生成、CC BY-NC（版本未标注），并允许投稿接收站收录和提供下载。图鉴提供原出处。",
-      "en": "The creator marks these as AI-generated and CC BY-NC (version unspecified), and permits the receiving archive to host them for download. The atlas links to the sources.",
-      "ja": "作者投稿に AI 生成、CC BY-NC（版の記載なし）と明記し、投稿先の収録・ダウンロード提供を許可。図鑑では出典を案内。"
-    }
+      "zh": "本包中的三张已校验原图按作者的 CC BY-NC-SA 4.0 提供。限非商业使用，保留作者署名「甶丶（pixiv 72492206）」、固定版出处和许可链接。改动须注明并以相同许可发布。图鉴仅缩放、留边和转换格式。各产品名称与商标沿用权利方条件。",
+      "en": "The three verified originals in this pack are provided under the creator’s CC BY-NC-SA 4.0 terms. Noncommercial use only. Keep the credit 甶丶 (pixiv 72492206), pinned source and license links. Identify changes and distribute adaptations under the same license. Atlas only resizes, pads and converts formats. Product names and trademarks remain subject to their owners’ terms.",
+      "ja": "素材集の確認済み原画3点は作者の CC BY-NC-SA 4.0 条件で提供。非商用に限り、甶丶（pixiv 72492206）・固定版出典・ライセンスへのリンクを保持。変更を示し、改変は同一ライセンスで共有してください。図鑑の加工はリサイズ・余白追加・形式変換のみ。製品名・商標は権利者の条件に従います。"
+    },
+    "licenseLabel": {
+      "zh": "CC BY-NC-SA 4.0 · 署名、非商业、相同方式共享",
+      "en": "CC BY-NC-SA 4.0 · Attribution, noncommercial, ShareAlike",
+      "ja": "CC BY-NC-SA 4.0 · 作者表示、非商用、継承"
+    },
+    "observations": [
+      {
+        "title": "MiMo 兔娘 · Issue #35",
+        "url": "https://github.com/lmy414/ai-girl-stickers/issues/35",
+        "publisher": "甶丶",
+        "reviewedAt": "2026-11-27"
+      }
+    ]
   },
   {
     "id": "ninon-coco",
@@ -2332,10 +2370,18 @@
     "preview": null,
     "assets": [],
     "provenanceNote": {
-      "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
-      "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
-      "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
-    }
+      "zh": "固定仓库设定列明作者的 CC BY-NC-SA 4.0。图中有美团品牌道具，图鉴提供作者原帖与文件出处。",
+      "en": "The pinned creator setting states CC BY-NC-SA 4.0. The images depict Meituan-branded props. The atlas links the original post and source files.",
+      "ja": "固定版の作者設定は CC BY-NC-SA 4.0 を明記。画像には美団ブランドの小道具が含まれます。図鑑では原投稿とファイルの出典を掲載。"
+    },
+    "observations": [
+      {
+        "title": "LongCat 娘（美团 LongCat） · 设定.md",
+        "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/longcat/%E8%AE%BE%E5%AE%9A.md",
+        "publisher": "甶丶",
+        "reviewedAt": "2026-11-27"
+      }
+    ]
   },
   {
     "id": "fuh-hunyuan",
@@ -3132,7 +3178,7 @@
   {
     "id": "fuh-dots-note",
     "entity": "xiaohongshu-dots",
-    "kind": "reference",
+    "kind": "collected",
     "style": "anime",
     "official": false,
     "name": {
@@ -3157,8 +3203,8 @@
     },
     "author": "甶丶",
     "authorUrl": "https://space.bilibili.com/1758596086",
-    "source": "https://www.bilibili.com/opus/1262407612636332038",
-    "sourceTitle": "小红书ai娘化形象",
+    "source": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/diandian/%E8%AE%BE%E5%AE%9A.md",
+    "sourceTitle": "点点 · 设定.md",
     "originalPublication": "https://www.bilibili.com/opus/1262407612636332038",
     "sourceStatus": "creator-published",
     "attribution": [
@@ -3170,19 +3216,49 @@
       }
     ],
     "method": "not-disclosed",
-    "license": "source-only",
-    "licenseUrl": "https://www.bilibili.com/opus/1262407612636332038",
-    "downloadable": false,
+    "license": "CC-BY-NC-SA-4.0",
+    "licenseUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+    "downloadable": true,
     "bg": "#fae9ec",
     "color": "#893a50",
-    "verifiedAt": "2026-11-23",
+    "verifiedAt": "2026-11-27",
     "origin": "web-collected",
-    "preview": null,
-    "assets": [],
+    "preview": "collected/fuh-dots-note/tech-portrait/preview.webp",
+    "assets": [
+      {
+        "id": "tech-portrait",
+        "label": {
+          "zh": "点点 · 科技侧立绘",
+          "en": "Diandian · Technology portrait",
+          "ja": "点点 · 科技側の立ち絵"
+        }
+      },
+      {
+        "id": "fantasy-turnaround",
+        "label": {
+          "zh": "点点 · 奇幻侧三视图与道具",
+          "en": "Diandian · Fantasy turnaround with props",
+          "ja": "点点 · 幻想側の三面図と小道具"
+        }
+      },
+      {
+        "id": "tech-turnaround",
+        "label": {
+          "zh": "点点 · 科技侧三视图与道具",
+          "en": "Diandian · Technology turnaround with props",
+          "ja": "点点 · 科技側の三面図と小道具"
+        }
+      }
+    ],
     "provenanceNote": {
-      "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
-      "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
-      "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+      "zh": "本包中的三张已校验原图按作者的 CC BY-NC-SA 4.0 提供。限非商业使用，保留作者署名「甶丶（pixiv 72492206）」、固定版出处和许可链接。改动须注明并以相同许可发布。图鉴仅缩放、留边和转换格式。各产品名称与商标沿用权利方条件。",
+      "en": "The three verified originals in this pack are provided under the creator’s CC BY-NC-SA 4.0 terms. Noncommercial use only. Keep the credit 甶丶 (pixiv 72492206), pinned source and license links. Identify changes and distribute adaptations under the same license. Atlas only resizes, pads and converts formats. Product names and trademarks remain subject to their owners’ terms.",
+      "ja": "素材集の確認済み原画3点は作者の CC BY-NC-SA 4.0 条件で提供。非商用に限り、甶丶（pixiv 72492206）・固定版出典・ライセンスへのリンクを保持。変更を示し、改変は同一ライセンスで共有してください。図鑑の加工はリサイズ・余白追加・形式変換のみ。製品名・商標は権利者の条件に従います。"
+    },
+    "licenseLabel": {
+      "zh": "CC BY-NC-SA 4.0 · 署名、非商业、相同方式共享",
+      "en": "CC BY-NC-SA 4.0 · Attribution, noncommercial, ShareAlike",
+      "ja": "CC BY-NC-SA 4.0 · 作者表示、非商用、継承"
     }
   },
   {

@@ -1,0 +1,24 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Tr1Fz5Egi/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Tr1Fz5Egi",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:27:45.757Z",
+  "scope": "Verified the same BV and uploader ID, then retained the current identity and publication time from the official view API.",
+  "previousEvidence": {
+    "path": "content/research/2026-11-25/bv1tr1fz5egi.json",
+    "sha256": "f1e021640820f807449cb6d4a8e79a318a2d7758e39aca399ead0c60eebbd61a",
+    "kind": "browser-metadata-extract"
+  },
+  "metadata": {
+    "bvid": "BV1Tr1Fz5Egi",
+    "title": "大肥鱼翻唱《那是你离开了肥鱼的生活》-🐳当用户不再来找我，我在······",
+    "owner": {
+      "name": "我家肥肥的鱼",
+      "mid": 14630212
+    },
+    "pubdate": 1795537629,
+    "duration": 279
+  },
+  "descriptionSha256": "d8d8f7f9333273da77b3d0c346c7285d25847c61ed06f8491b26e51c88b11833"
+}

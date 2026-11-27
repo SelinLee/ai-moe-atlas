@@ -1,0 +1,114 @@
+{
+  "id": "fuh-dots-note",
+  "characterId": "fuh-dots-note",
+  "repository": "fuzhu-ai-chan/ai-chan-designs",
+  "revision": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+  "pageUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/diandian/%E8%AE%BE%E5%AE%9A.md",
+  "originalPublication": "https://www.bilibili.com/opus/1262407612636332038",
+  "collectedAt": "2026-11-27",
+  "attribution": [
+    {
+      "name": "甶丶",
+      "url": "https://space.bilibili.com/1758596086",
+      "role": "original-character",
+      "publication": "https://www.bilibili.com/opus/1262407612636332038"
+    }
+  ],
+  "provenanceStatus": "creator-published-github-file",
+  "rights": {
+    "license": "CC-BY-NC-SA-4.0",
+    "scope": "artwork",
+    "display": true,
+    "redistribute": true,
+    "modify": true,
+    "commercial": false,
+    "evidenceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+    "reviewedBy": "AI Moe Atlas source review",
+    "reviewedAt": "2026-11-27",
+    "terms": {
+      "zh": "本包中的三张已校验原图按作者的 CC BY-NC-SA 4.0 提供。限非商业使用，保留作者署名「甶丶（pixiv 72492206）」、固定版出处和许可链接。改动须注明并以相同许可发布。图鉴仅缩放、留边和转换格式。各产品名称与商标沿用权利方条件。",
+      "en": "The three verified originals in this pack are provided under the creator’s CC BY-NC-SA 4.0 terms. Noncommercial use only. Keep the credit 甶丶 (pixiv 72492206), pinned source and license links. Identify changes and distribute adaptations under the same license. Atlas only resizes, pads and converts formats. Product names and trademarks remain subject to their owners’ terms.",
+      "ja": "素材集の確認済み原画3点は作者の CC BY-NC-SA 4.0 条件で提供。非商用に限り、甶丶（pixiv 72492206）・固定版出典・ライセンスへのリンクを保持。変更を示し、改変は同一ライセンスで共有してください。図鑑の加工はリサイズ・余白追加・形式変換のみ。製品名・商標は権利者の条件に従います。"
+    }
+  },
+  "evidenceFiles": [
+    "版权与授权.md",
+    "LICENSE"
+  ],
+  "evidenceSnapshots": [
+    {
+      "path": "角色/diandian/设定.md",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/diandian/%E8%AE%BE%E5%AE%9A.md",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/diandian/%E8%AE%BE%E5%AE%9A.md",
+      "sourceSha256": "b5307d0474a295d85c3284e6d902e9542704fcc0a794373f92c4856ee5151b0b",
+      "gitBlobSha": "aaedabf44bb39d4482a5444c014fbd626372a35c",
+      "bytes": 922,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:17:11.768Z",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "scope": "Pinned character-specific setting assigns CC BY-NC-SA 4.0 to the creator’s character design and artwork."
+    },
+    {
+      "path": "版权与授权.md",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+      "sourceSha256": "50b17ef47d1ffb316624abc5b8972314281dad431631f89b1bcf00ec91d580eb",
+      "gitBlobSha": "99c0cdd2dea890a599b933752dbc43b904e0aaf8",
+      "bytes": 3790,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:17:02.692Z",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "scope": "The creator’s permission schedule explicitly lists this character. Applies to this pinned file set."
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/LICENSE",
+      "sourceSha256": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11",
+      "gitBlobSha": "baee873b679e36a4123c83b8a29e0fb17fad14eb",
+      "bytes": 19018,
+      "commit": "8ab02ec9823d9da92b5616452c3e84d86f5aa8db",
+      "accessedAt": "2026-11-27T10:17:02.323Z",
+      "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "scope": "Official license text retained from the creator’s fixed revision."
+    },
+    {
+      "url": "https://www.bilibili.com/opus/1262407612636332038",
+      "accessedAt": "2026-11-22T16:38:36.562Z",
+      "evidencePath": "content/research/2026-11-23/shi-dots-note-official-identity.json",
+      "scope": "Earlier original artist post and identity evidence. The pack contains later pinned creator files."
+    }
+  ],
+  "files": [
+    {
+      "id": "tech-portrait",
+      "path": "角色/diandian/01_立绘/dots b 中.png",
+      "sha256": "d1262434ae2848dffc2ef423d3c27fbe00bbcb4ba9b17b13ae9bd5b556e1b47a",
+      "label": {
+        "zh": "点点 · 科技侧立绘",
+        "en": "Diandian · Technology portrait",
+        "ja": "点点 · 科技側の立ち絵"
+      }
+    },
+    {
+      "id": "fantasy-turnaround",
+      "path": "角色/diandian/02_三视图/dots_三视图_含道具.png",
+      "sha256": "387415c3d45527ca1dc7f6567a1784e007e54c4a0ad0359e6430e03a9115d87a",
+      "label": {
+        "zh": "点点 · 奇幻侧三视图与道具",
+        "en": "Diandian · Fantasy turnaround with props",
+        "ja": "点点 · 幻想側の三面図と小道具"
+      }
+    },
+    {
+      "id": "tech-turnaround",
+      "path": "角色/diandian/02_三视图/dotsb_三视图_含道具.png",
+      "sha256": "a451006c5d366612554125ce84705eec88e67b35bb201e5fd022c80472aac70c",
+      "label": {
+        "zh": "点点 · 科技侧三视图与道具",
+        "en": "Diandian · Technology turnaround with props",
+        "ja": "点点 · 科技側の三面図と小道具"
+      }
+    }
+  ]
+}

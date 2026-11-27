@@ -1,0 +1,24 @@
+{
+  "url": "https://www.bilibili.com/video/BV12iy2zgEZq/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12iy2zgEZq",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:28:31.623Z",
+  "scope": "Verified the same BV and uploader ID, then retained the current identity and publication time from the official view API.",
+  "previousEvidence": {
+    "path": "content/research/2026-11-26/bv12iy2zgezq.json",
+    "sha256": "906e4282d6e40450e5b40fcb403fb240cf4c5a64014a555b527a4d4cc13c6b2d",
+    "kind": "browser-metadata-extract"
+  },
+  "metadata": {
+    "bvid": "BV12iy2zgEZq",
+    "title": "大模型vs世纪难题，今天中午吃什么？",
+    "owner": {
+      "name": "蝶月",
+      "mid": 3972402
+    },
+    "pubdate": 1795668515,
+    "duration": 61
+  },
+  "descriptionSha256": "8c3ac28b3fc5cf5bab8e7b910738e6dac080e050e46f65882bfc41eedd6697ca"
+}

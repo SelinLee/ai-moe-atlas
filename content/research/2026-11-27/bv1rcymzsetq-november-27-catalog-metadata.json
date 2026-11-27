@@ -1,0 +1,24 @@
+{
+  "url": "https://www.bilibili.com/video/BV1RCymzsEtQ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RCymzsEtQ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T10:28:50.300Z",
+  "scope": "Verified the same BV and uploader ID, then retained the current identity and publication time from the official view API.",
+  "previousEvidence": {
+    "path": "content/research/2026-11-26/bv1rcymzsetq.json",
+    "sha256": "2257352dfb57138abbc6973bee31579e2d9aa066ca8cffdda409f2d75dbffeec",
+    "kind": "browser-metadata-extract"
+  },
+  "metadata": {
+    "bvid": "BV1RCymzsEtQ",
+    "title": "DeepSeek翻唱-《童年》",
+    "owner": {
+      "name": "渡鸦试作型",
+      "mid": 8526206
+    },
+    "pubdate": 1795657364,
+    "duration": 188
+  },
+  "descriptionSha256": "703375bc7228b4fc30edb7c3fe49346f123a75969d37b288c64d359bb4e2c201"
+}

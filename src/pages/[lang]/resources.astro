@@ -18,6 +18,9 @@ const archiveByPath=new Map(archives.map(archive=>[archive.path,archive]));
 const pendingArchive=archiveByPath.get(registry.pendingAnimationEvidence?.path);
 const sourceStatus=(httpStatus:number)=>[412,429].includes(httpStatus)?s.pendingAnimation.endpointRestricted:s.pendingAnimation.sourceUnavailable;
 const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid,row]));
+const pendingMusicSources=resources.filter(record=>record.category==='sources')
+  .flatMap(record=>record.relations.filter(link=>link.role==='pending-animation-title-reference')
+    .map(link=>({candidate:link.url,record})));
 ---
 <Layout lang={lang} title={s.directory} description={s.directoryIntro} active="resources" route="resources/">
   <section class="page-heading">
@@ -66,24 +69,31 @@ const refreshFailures=new Map(pendingArchive?.refreshFailures.map(row=>[row.bvid
     <summary>{s.pendingAnimation.title} (<span id="pending-animation-count">{pending.length}</span>)</summary>
     <p>{s.pendingAnimation.intro}{pendingArchive&&<> <a class="text-link" href={path(pendingArchive.route)}>{s.snapshot}</a></>}</p>
     <ul>
-      {pending.map(row=><li data-pending-search={[row.discoveredTitle,row.bvid,row.searchIndex?.publisher].filter(Boolean).join(' ')}>
-        <a class="text-link" href={`https://www.bilibili.com/video/${row.bvid}/`} target="_blank" rel="noopener noreferrer">{row.discoveredTitle} ↗</a>
-        <p class="resource-byline">{row.bvid} · {row.status==='source-unavailable'?sourceStatus(row.httpStatus):s.unranked}
-          {' · '}{s.pendingAnimation.checked} <time datetime={row.observedAt}>{beijingTime.format(new Date(row.observedAt))}</time>
-          {' · '}<a class="text-link" href={row.requestUrl} target="_blank" rel="noopener noreferrer">{s.pendingAnimation.query} ↗</a>
-        </p>
-        {row.publicPage?.outcome&&<p class="resource-byline" data-pending-public-page={row.publicPage.outcome}>
-          {s.pendingAnimation.pageOutcome[row.publicPage.outcome as keyof typeof s.pendingAnimation.pageOutcome]}
-          {' · '}<time datetime={row.publicPage.accessedAt}>{beijingTime.format(new Date(row.publicPage.accessedAt))}</time>
-        </p>}
-        {row.searchIndex&&<p class="resource-byline" data-pending-search-index>
-          <a class="text-link" href={row.searchIndex.url} target="_blank" rel="noopener noreferrer">{s.pendingAnimation.searchIndex} ↗</a>
-          {' · '}<time datetime={row.searchIndex.observedAt}>{beijingTime.format(new Date(row.searchIndex.observedAt))}</time>
-          {row.searchIndex.publisher&&<> · {s.pendingAnimation.searchPublisher}{' '}
-            <a class="text-link" data-pending-search-publisher href={row.searchIndex.publisherUrl} target="_blank" rel="noopener noreferrer">{row.searchIndex.publisher}</a>
-          </>}
-        </p>}
-      </li>)}
+      {pending.map(row=>{
+        const candidate=`https://www.bilibili.com/video/${row.bvid}/`;
+        const musicSources=pendingMusicSources.filter(source=>source.candidate===candidate);
+        return <li data-pending-search={[row.discoveredTitle,row.bvid,row.searchIndex?.publisher].filter(Boolean).join(' ')}>
+          <a class="text-link" href={candidate} target="_blank" rel="noopener noreferrer">{row.discoveredTitle} ↗</a>
+          <p class="resource-byline">{row.bvid} · {row.status==='source-unavailable'?sourceStatus(row.httpStatus):s.unranked}
+            {' · '}{s.pendingAnimation.checked} <time datetime={row.observedAt}>{beijingTime.format(new Date(row.observedAt))}</time>
+            {' · '}<a class="text-link" href={row.requestUrl} target="_blank" rel="noopener noreferrer">{s.pendingAnimation.query} ↗</a>
+          </p>
+          {row.publicPage?.outcome&&<p class="resource-byline" data-pending-public-page={row.publicPage.outcome}>
+            {s.pendingAnimation.pageOutcome[row.publicPage.outcome as keyof typeof s.pendingAnimation.pageOutcome]}
+            {' · '}<time datetime={row.publicPage.accessedAt}>{beijingTime.format(new Date(row.publicPage.accessedAt))}</time>
+          </p>}
+          {row.searchIndex&&<p class="resource-byline" data-pending-search-index>
+            <a class="text-link" href={row.searchIndex.url} target="_blank" rel="noopener noreferrer">{s.pendingAnimation.searchIndex} ↗</a>
+            {' · '}<time datetime={row.searchIndex.observedAt}>{beijingTime.format(new Date(row.searchIndex.observedAt))}</time>
+            {row.searchIndex.publisher&&<> · {s.pendingAnimation.searchPublisher}{' '}
+              <a class="text-link" data-pending-search-publisher href={row.searchIndex.publisherUrl} target="_blank" rel="noopener noreferrer">{row.searchIndex.publisher}</a>
+            </>}
+          </p>}
+          {musicSources.map(({record})=><p class="resource-byline" data-pending-original-music>
+            {s.pendingAnimation.titleMusic} · <a class="text-link" href={record.url} target="_blank" rel="noopener noreferrer">{record.title[lang]} ↗</a>
+          </p>)}
+        </li>;
+      })}
     </ul>
   </details>}
   <div class="resource-list" id="resource-list">

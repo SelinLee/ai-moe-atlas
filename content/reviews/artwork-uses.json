@@ -2756,11 +2756,55 @@
   },
   {
     "characterId": "fuh-mimo",
-    "reviewedAt": "2026-11-22",
-    "reviewBasis": "Creator submission declares AI generation and CC BY-NC without a version and allows downloads on the receiving archive. Its attachments match pinned files.",
-    "artworks": [],
-    "evidence": [],
-    "evidenceUrl": "https://github.com/lmy414/ai-girl-stickers/issues/35",
+    "reviewedAt": "2026-11-27",
+    "reviewBasis": "Creator’s fixed character setting and per-character rights schedule explicitly cover the exact three image files. Original Git blob and SHA-256 are retained.",
+    "artworks": [
+      {
+        "assetId": "tech-portrait",
+        "sha256": "911907aa368364e40be08a0c43b2616324f3b0919e7853836b29cd001a5ee8b4"
+      },
+      {
+        "assetId": "fantasy-turnaround",
+        "sha256": "88107be9a8f759c1b20f10d11e87acfd5f7654866a14a511cc83122872c2ac89"
+      },
+      {
+        "assetId": "tech-turnaround",
+        "sha256": "825089065133408a381e7c7811b76ba2cae045fea79eee2cf7a83bcdca16c9f4"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "localPath": "collected/fuh-mimo/evidence/版权与授权.md.txt",
+        "sha256": "50b17ef47d1ffb316624abc5b8972314281dad431631f89b1bcf00ec91d580eb"
+      },
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/LICENSE",
+        "localPath": "collected/fuh-mimo/evidence/LICENSE.txt",
+        "sha256": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/mimo/%E8%AE%BE%E5%AE%9A.md",
+        "localPath": "collected/fuh-mimo/evidence/source-statement-1.json",
+        "sha256": "67efab849513fd8a93b2a5db0872dc51b328a4c0d26ee66d9d9c1cc498c2b0c3"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "localPath": "collected/fuh-mimo/evidence/source-statement-2.json",
+        "sha256": "85b63793446a40da70b0db7739757a792fca649fd229914c0a8c3b1394171456"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/LICENSE",
+        "localPath": "collected/fuh-mimo/evidence/source-statement-3.json",
+        "sha256": "870503f019bb757847d6cfee78cd6b6c94846ed93c006cadc2db9ce646043421"
+      },
+      {
+        "sourceUrl": "https://www.bilibili.com/opus/1242097128919007239",
+        "localPath": "collected/fuh-mimo/evidence/source-statement-4.json",
+        "sha256": "f2f1e57ab554d1ab684a91650ab464842f8ecd98eff7ccc7cc9bfe279f9dcd29"
+      }
+    ],
+    "evidenceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
     "attribution": [
       {
         "name": "甶丶",
@@ -2771,11 +2815,12 @@
     ],
     "uses": {
       "featured": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
+        "reviewedAt": "2026-11-27",
         "conditions": {
-          "zh": "作者投稿写明 AI 生成、CC BY-NC（版本未标注），并允许投稿接收站收录和提供下载。图鉴提供原出处。",
-          "en": "The creator marks these as AI-generated and CC BY-NC (version unspecified), and permits the receiving archive to host them for download. The atlas links to the sources.",
-          "ja": "作者投稿に AI 生成、CC BY-NC（版の記載なし）と明記し、投稿先の収録・ダウンロード提供を許可。図鑑では出典を案内。"
+          "zh": "本包中的三张已校验原图按作者的 CC BY-NC-SA 4.0 提供。限非商业使用，保留作者署名「甶丶（pixiv 72492206）」、固定版出处和许可链接。改动须注明并以相同许可发布。图鉴仅缩放、留边和转换格式。各产品名称与商标沿用权利方条件。",
+          "en": "The three verified originals in this pack are provided under the creator’s CC BY-NC-SA 4.0 terms. Noncommercial use only. Keep the credit 甶丶 (pixiv 72492206), pinned source and license links. Identify changes and distribute adaptations under the same license. Atlas only resizes, pads and converts formats. Product names and trademarks remain subject to their owners’ terms.",
+          "ja": "素材集の確認済み原画3点は作者の CC BY-NC-SA 4.0 条件で提供。非商用に限り、甶丶（pixiv 72492206）・固定版出典・ライセンスへのリンクを保持。変更を示し、改変は同一ライセンスで共有してください。図鑑の加工はリサイズ・余白追加・形式変換のみ。製品名・商標は権利者の条件に従います。"
         }
       },
       "social-cover": {
@@ -2787,27 +2832,30 @@
         }
       },
       "avatar-canvas": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
+        "reviewedAt": "2026-11-27",
         "conditions": {
-          "zh": "作者投稿写明 AI 生成、CC BY-NC（版本未标注），并允许投稿接收站收录和提供下载。图鉴提供原出处。",
-          "en": "The creator marks these as AI-generated and CC BY-NC (version unspecified), and permits the receiving archive to host them for download. The atlas links to the sources.",
-          "ja": "作者投稿に AI 生成、CC BY-NC（版の記載なし）と明記し、投稿先の収録・ダウンロード提供を許可。図鑑では出典を案内。"
+          "zh": "本包中的三张已校验原图按作者的 CC BY-NC-SA 4.0 提供。限非商业使用，保留作者署名「甶丶（pixiv 72492206）」、固定版出处和许可链接。改动须注明并以相同许可发布。图鉴仅缩放、留边和转换格式。各产品名称与商标沿用权利方条件。",
+          "en": "The three verified originals in this pack are provided under the creator’s CC BY-NC-SA 4.0 terms. Noncommercial use only. Keep the credit 甶丶 (pixiv 72492206), pinned source and license links. Identify changes and distribute adaptations under the same license. Atlas only resizes, pads and converts formats. Product names and trademarks remain subject to their owners’ terms.",
+          "ja": "素材集の確認済み原画3点は作者の CC BY-NC-SA 4.0 条件で提供。非商用に限り、甶丶（pixiv 72492206）・固定版出典・ライセンスへのリンクを保持。変更を示し、改変は同一ライセンスで共有してください。図鑑の加工はリサイズ・余白追加・形式変換のみ。製品名・商標は権利者の条件に従います。"
         }
       },
       "full-portrait": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
+        "reviewedAt": "2026-11-27",
         "conditions": {
-          "zh": "作者投稿写明 AI 生成、CC BY-NC（版本未标注），并允许投稿接收站收录和提供下载。图鉴提供原出处。",
-          "en": "The creator marks these as AI-generated and CC BY-NC (version unspecified), and permits the receiving archive to host them for download. The atlas links to the sources.",
-          "ja": "作者投稿に AI 生成、CC BY-NC（版の記載なし）と明記し、投稿先の収録・ダウンロード提供を許可。図鑑では出典を案内。"
+          "zh": "本包中的三张已校验原图按作者的 CC BY-NC-SA 4.0 提供。限非商业使用，保留作者署名「甶丶（pixiv 72492206）」、固定版出处和许可链接。改动须注明并以相同许可发布。图鉴仅缩放、留边和转换格式。各产品名称与商标沿用权利方条件。",
+          "en": "The three verified originals in this pack are provided under the creator’s CC BY-NC-SA 4.0 terms. Noncommercial use only. Keep the credit 甶丶 (pixiv 72492206), pinned source and license links. Identify changes and distribute adaptations under the same license. Atlas only resizes, pads and converts formats. Product names and trademarks remain subject to their owners’ terms.",
+          "ja": "素材集の確認済み原画3点は作者の CC BY-NC-SA 4.0 条件で提供。非商用に限り、甶丶（pixiv 72492206）・固定版出典・ライセンスへのリンクを保持。変更を示し、改変は同一ライセンスで共有してください。図鑑の加工はリサイズ・余白追加・形式変換のみ。製品名・商標は権利者の条件に従います。"
         }
       },
       "technical-canvas": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
+        "reviewedAt": "2026-11-27",
         "conditions": {
-          "zh": "作者投稿写明 AI 生成、CC BY-NC（版本未标注），并允许投稿接收站收录和提供下载。图鉴提供原出处。",
-          "en": "The creator marks these as AI-generated and CC BY-NC (version unspecified), and permits the receiving archive to host them for download. The atlas links to the sources.",
-          "ja": "作者投稿に AI 生成、CC BY-NC（版の記載なし）と明記し、投稿先の収録・ダウンロード提供を許可。図鑑では出典を案内。"
+          "zh": "本包中的三张已校验原图按作者的 CC BY-NC-SA 4.0 提供。限非商业使用，保留作者署名「甶丶（pixiv 72492206）」、固定版出处和许可链接。改动须注明并以相同许可发布。图鉴仅缩放、留边和转换格式。各产品名称与商标沿用权利方条件。",
+          "en": "The three verified originals in this pack are provided under the creator’s CC BY-NC-SA 4.0 terms. Noncommercial use only. Keep the credit 甶丶 (pixiv 72492206), pinned source and license links. Identify changes and distribute adaptations under the same license. Atlas only resizes, pads and converts formats. Product names and trademarks remain subject to their owners’ terms.",
+          "ja": "素材集の確認済み原画3点は作者の CC BY-NC-SA 4.0 条件で提供。非商用に限り、甶丶（pixiv 72492206）・固定版出典・ライセンスへのリンクを保持。変更を示し、改変は同一ライセンスで共有してください。図鑑の加工はリサイズ・余白追加・形式変換のみ。製品名・商標は権利者の条件に従います。"
         }
       },
       "intro-card": {
@@ -2827,11 +2875,12 @@
         }
       },
       "readme-demo": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
+        "reviewedAt": "2026-11-27",
         "conditions": {
-          "zh": "作者投稿写明 AI 生成、CC BY-NC（版本未标注），并允许投稿接收站收录和提供下载。图鉴提供原出处。",
-          "en": "The creator marks these as AI-generated and CC BY-NC (version unspecified), and permits the receiving archive to host them for download. The atlas links to the sources.",
-          "ja": "作者投稿に AI 生成、CC BY-NC（版の記載なし）と明記し、投稿先の収録・ダウンロード提供を許可。図鑑では出典を案内。"
+          "zh": "本包中的三张已校验原图按作者的 CC BY-NC-SA 4.0 提供。限非商业使用，保留作者署名「甶丶（pixiv 72492206）」、固定版出处和许可链接。改动须注明并以相同许可发布。图鉴仅缩放、留边和转换格式。各产品名称与商标沿用权利方条件。",
+          "en": "The three verified originals in this pack are provided under the creator’s CC BY-NC-SA 4.0 terms. Noncommercial use only. Keep the credit 甶丶 (pixiv 72492206), pinned source and license links. Identify changes and distribute adaptations under the same license. Atlas only resizes, pads and converts formats. Product names and trademarks remain subject to their owners’ terms.",
+          "ja": "素材集の確認済み原画3点は作者の CC BY-NC-SA 4.0 条件で提供。非商用に限り、甶丶（pixiv 72492206）・固定版出典・ライセンスへのリンクを保持。変更を示し、改変は同一ライセンスで共有してください。図鑑の加工はリサイズ・余白追加・形式変換のみ。製品名・商標は権利者の条件に従います。"
         }
       }
     }
@@ -4353,11 +4402,55 @@
   },
   {
     "characterId": "fuh-dots-note",
-    "reviewedAt": "2026-11-23",
-    "reviewBasis": "Creator attribution and exact source files verified. The atlas provides the source link.",
-    "artworks": [],
-    "evidence": [],
-    "evidenceUrl": "https://www.bilibili.com/opus/1262407612636332038",
+    "reviewedAt": "2026-11-27",
+    "reviewBasis": "Creator’s fixed character setting and per-character rights schedule explicitly cover the exact three image files. Original Git blob and SHA-256 are retained.",
+    "artworks": [
+      {
+        "assetId": "tech-portrait",
+        "sha256": "d1262434ae2848dffc2ef423d3c27fbe00bbcb4ba9b17b13ae9bd5b556e1b47a"
+      },
+      {
+        "assetId": "fantasy-turnaround",
+        "sha256": "387415c3d45527ca1dc7f6567a1784e007e54c4a0ad0359e6430e03a9115d87a"
+      },
+      {
+        "assetId": "tech-turnaround",
+        "sha256": "a451006c5d366612554125ce84705eec88e67b35bb201e5fd022c80472aac70c"
+      }
+    ],
+    "evidence": [
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "localPath": "collected/fuh-dots-note/evidence/版权与授权.md.txt",
+        "sha256": "50b17ef47d1ffb316624abc5b8972314281dad431631f89b1bcf00ec91d580eb"
+      },
+      {
+        "sourceUrl": "https://raw.githubusercontent.com/fuzhu-ai-chan/ai-chan-designs/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/LICENSE",
+        "localPath": "collected/fuh-dots-note/evidence/LICENSE.txt",
+        "sha256": "600ca4e25fe11762b75a97e714707fab48bb778374e92d24c6ca068791661c11"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E8%A7%92%E8%89%B2/diandian/%E8%AE%BE%E5%AE%9A.md",
+        "localPath": "collected/fuh-dots-note/evidence/source-statement-1.json",
+        "sha256": "9ad8924a16b154fe24938c09c004ae02c90921e8c46af46e8d2fde82005a6997"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
+        "localPath": "collected/fuh-dots-note/evidence/source-statement-2.json",
+        "sha256": "85b63793446a40da70b0db7739757a792fca649fd229914c0a8c3b1394171456"
+      },
+      {
+        "sourceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/LICENSE",
+        "localPath": "collected/fuh-dots-note/evidence/source-statement-3.json",
+        "sha256": "870503f019bb757847d6cfee78cd6b6c94846ed93c006cadc2db9ce646043421"
+      },
+      {
+        "sourceUrl": "https://www.bilibili.com/opus/1262407612636332038",
+        "localPath": "collected/fuh-dots-note/evidence/source-statement-4.json",
+        "sha256": "21d54f95aa47c68db2640c3b6bf5aee0a1dcefa9400872921369b6a92c636391"
+      }
+    ],
+    "evidenceUrl": "https://github.com/fuzhu-ai-chan/ai-chan-designs/blob/8ab02ec9823d9da92b5616452c3e84d86f5aa8db/%E7%89%88%E6%9D%83%E4%B8%8E%E6%8E%88%E6%9D%83.md",
     "attribution": [
       {
         "name": "甶丶",
@@ -4368,11 +4461,12 @@
     ],
     "uses": {
       "featured": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
+        "reviewedAt": "2026-11-27",
         "conditions": {
-          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
-          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
-          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+          "zh": "本包中的三张已校验原图按作者的 CC BY-NC-SA 4.0 提供。限非商业使用，保留作者署名「甶丶（pixiv 72492206）」、固定版出处和许可链接。改动须注明并以相同许可发布。图鉴仅缩放、留边和转换格式。各产品名称与商标沿用权利方条件。",
+          "en": "The three verified originals in this pack are provided under the creator’s CC BY-NC-SA 4.0 terms. Noncommercial use only. Keep the credit 甶丶 (pixiv 72492206), pinned source and license links. Identify changes and distribute adaptations under the same license. Atlas only resizes, pads and converts formats. Product names and trademarks remain subject to their owners’ terms.",
+          "ja": "素材集の確認済み原画3点は作者の CC BY-NC-SA 4.0 条件で提供。非商用に限り、甶丶（pixiv 72492206）・固定版出典・ライセンスへのリンクを保持。変更を示し、改変は同一ライセンスで共有してください。図鑑の加工はリサイズ・余白追加・形式変換のみ。製品名・商標は権利者の条件に従います。"
         }
       },
       "social-cover": {
@@ -4384,19 +4478,21 @@
         }
       },
       "avatar-canvas": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
+        "reviewedAt": "2026-11-27",
         "conditions": {
-          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
-          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
-          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+          "zh": "本包中的三张已校验原图按作者的 CC BY-NC-SA 4.0 提供。限非商业使用，保留作者署名「甶丶（pixiv 72492206）」、固定版出处和许可链接。改动须注明并以相同许可发布。图鉴仅缩放、留边和转换格式。各产品名称与商标沿用权利方条件。",
+          "en": "The three verified originals in this pack are provided under the creator’s CC BY-NC-SA 4.0 terms. Noncommercial use only. Keep the credit 甶丶 (pixiv 72492206), pinned source and license links. Identify changes and distribute adaptations under the same license. Atlas only resizes, pads and converts formats. Product names and trademarks remain subject to their owners’ terms.",
+          "ja": "素材集の確認済み原画3点は作者の CC BY-NC-SA 4.0 条件で提供。非商用に限り、甶丶（pixiv 72492206）・固定版出典・ライセンスへのリンクを保持。変更を示し、改変は同一ライセンスで共有してください。図鑑の加工はリサイズ・余白追加・形式変換のみ。製品名・商標は権利者の条件に従います。"
         }
       },
       "full-portrait": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
+        "reviewedAt": "2026-11-27",
         "conditions": {
-          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
-          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
-          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+          "zh": "本包中的三张已校验原图按作者的 CC BY-NC-SA 4.0 提供。限非商业使用，保留作者署名「甶丶（pixiv 72492206）」、固定版出处和许可链接。改动须注明并以相同许可发布。图鉴仅缩放、留边和转换格式。各产品名称与商标沿用权利方条件。",
+          "en": "The three verified originals in this pack are provided under the creator’s CC BY-NC-SA 4.0 terms. Noncommercial use only. Keep the credit 甶丶 (pixiv 72492206), pinned source and license links. Identify changes and distribute adaptations under the same license. Atlas only resizes, pads and converts formats. Product names and trademarks remain subject to their owners’ terms.",
+          "ja": "素材集の確認済み原画3点は作者の CC BY-NC-SA 4.0 条件で提供。非商用に限り、甶丶（pixiv 72492206）・固定版出典・ライセンスへのリンクを保持。変更を示し、改変は同一ライセンスで共有してください。図鑑の加工はリサイズ・余白追加・形式変換のみ。製品名・商標は権利者の条件に従います。"
         }
       },
       "intro-card": {
@@ -4416,19 +4512,21 @@
         }
       },
       "readme-demo": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
+        "reviewedAt": "2026-11-27",
         "conditions": {
-          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
-          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
-          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+          "zh": "本包中的三张已校验原图按作者的 CC BY-NC-SA 4.0 提供。限非商业使用，保留作者署名「甶丶（pixiv 72492206）」、固定版出处和许可链接。改动须注明并以相同许可发布。图鉴仅缩放、留边和转换格式。各产品名称与商标沿用权利方条件。",
+          "en": "The three verified originals in this pack are provided under the creator’s CC BY-NC-SA 4.0 terms. Noncommercial use only. Keep the credit 甶丶 (pixiv 72492206), pinned source and license links. Identify changes and distribute adaptations under the same license. Atlas only resizes, pads and converts formats. Product names and trademarks remain subject to their owners’ terms.",
+          "ja": "素材集の確認済み原画3点は作者の CC BY-NC-SA 4.0 条件で提供。非商用に限り、甶丶（pixiv 72492206）・固定版出典・ライセンスへのリンクを保持。変更を示し、改変は同一ライセンスで共有してください。図鑑の加工はリサイズ・余白追加・形式変換のみ。製品名・商標は権利者の条件に従います。"
         }
       },
       "technical-canvas": {
-        "decision": "unconfirmed",
+        "decision": "allowed",
+        "reviewedAt": "2026-11-27",
         "conditions": {
-          "zh": "作者公开展示原图。查阅的发布正文未注明改编与再分发条件，此处提供原帖链接。",
-          "en": "The creator published the artwork. The reviewed post text does not specify adaptation or redistribution terms. The original post is linked.",
-          "ja": "作者が原画を公開。確認した投稿本文に改変・再配布条件の記載がなく、原投稿へのリンクを掲載。"
+          "zh": "本包中的三张已校验原图按作者的 CC BY-NC-SA 4.0 提供。限非商业使用，保留作者署名「甶丶（pixiv 72492206）」、固定版出处和许可链接。改动须注明并以相同许可发布。图鉴仅缩放、留边和转换格式。各产品名称与商标沿用权利方条件。",
+          "en": "The three verified originals in this pack are provided under the creator’s CC BY-NC-SA 4.0 terms. Noncommercial use only. Keep the credit 甶丶 (pixiv 72492206), pinned source and license links. Identify changes and distribute adaptations under the same license. Atlas only resizes, pads and converts formats. Product names and trademarks remain subject to their owners’ terms.",
+          "ja": "素材集の確認済み原画3点は作者の CC BY-NC-SA 4.0 条件で提供。非商用に限り、甶丶（pixiv 72492206）・固定版出典・ライセンスへのリンクを保持。変更を示し、改変は同一ライセンスで共有してください。図鑑の加工はリサイズ・余白追加・形式変換のみ。製品名・商標は権利者の条件に従います。"
         }
       }
     }

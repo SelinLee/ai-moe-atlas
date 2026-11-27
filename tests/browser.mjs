@@ -139,7 +139,9 @@ try {
   await mimoCard.locator('a[href$="/characters/fuh-mimo/"]').first().click();
   assert.ok(await page.locator('a[href="https://www.bilibili.com/opus/1242097128919007239"]').first().isVisible());
   assert.ok(await page.locator('a[href="https://github.com/lmy414/ai-girl-stickers/issues/35"]').isVisible());
-  assert.equal(await page.locator('main a[download], .detail-art img').count(),0);
+  assert.ok(await page.locator('.detail-art img').isVisible());
+  assert.ok(await page.locator('main a[download][href$="/packs/fuh-mimo.zip"]').isVisible());
+  assert.equal(await page.locator('main a[download][href$="/original.png"]').count(),3);
   await page.goto(`${origin}/${lang}/?model=hunyuan`,{waitUntil:'domcontentloaded'});
   const hunyuanCards=page.locator('[data-card]:visible');
   assert.equal(await hunyuanCards.count(),3);
