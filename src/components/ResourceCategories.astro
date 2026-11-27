@@ -1,4 +1,6 @@
 ---
+import projectChannels from '../../content/project-video-channels.json';
+import {path,repo} from '../lib/paths';
 import Icon from './Icon.astro';
 import {categories,categoryURL,resourceCounts,categoryIcons} from '../lib/resources';
 import {resourceText} from '../lib/resource-text';
@@ -8,10 +10,17 @@ const {lang}=Astro.props as {lang:Locale};const s=resourceText[lang];
 <section class="resource-navigation" aria-labelledby="resource-categories-title">
   <h2 id="resource-categories-title">{s.categories}</h2>
   <div class="resource-category-grid">
-    {categories.map(category=><a class="resource-category" data-category-link={category} href={categoryURL(category,lang)}>
-      <span class="resource-category-icon"><Icon name={categoryIcons[category]} size={23}/></span>
-      <div><h3>{s.category[category].title}</h3><p>{s.category[category].description}</p></div>
-      <span class="resource-category-count"><strong>{resourceCounts[category]}</strong> {s.category[category].unit}</span>
-    </a>)}
+    {categories.map(category=><div class:list={['resource-group', {'project-works':category==='references'}]}>
+      <a class="resource-category" data-category-link={category} href={categoryURL(category,lang)}>
+        <span class="resource-category-icon"><Icon name={categoryIcons[category]} size={23}/></span>
+        <div><h3>{s.category[category].title}</h3><p>{s.category[category].description}</p></div>
+        <span class="resource-category-count"><strong>{resourceCounts[category]}</strong> {s.category[category].unit}</span>
+      </a>
+      {category==='references' && <nav class="project-work-links" aria-label={s.category.references.title}>
+        <a href={path(`${lang}/chibi/`)}>{s.chibi}</a>
+        <a href={`${repo}/blob/main/docs/DOODLE.${lang}.md`}>{s.doodle}</a>
+        {projectChannels.map(channel=><a href={channel.url}>{channel.title[lang]} ↗</a>)}
+      </nav>}
+    </div>)}
   </div>
 </section>

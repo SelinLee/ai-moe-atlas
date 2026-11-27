@@ -18,6 +18,7 @@ const ranked=registry.records.filter(r=>r.likes).sort((a,b)=>
   b.likes.count-a.likes.count||b.publicationDate.localeCompare(a.publicationDate)||a.id.localeCompare(b.id));
 const interactiveCount=registry.records.filter(r=>r.category==='interactive').length;
 const personas=registry.records.filter(r=>r.category==='personas');
+const projectChannels=JSON.parse(await readFile('content/project-video-channels.json','utf8'));
 const remainingLeads=unlistedSourceLeads(registry.records,leads);
 const sourceCount=registry.records.filter(r=>r.category==='sources').length+remainingLeads.length;
 const origin=process.env.ATLAS_TEST_URL??'http://127.0.0.1:4322/ai-moe-atlas';
@@ -29,6 +30,20 @@ try{
  for(const lang of ['zh','en','ja']){
   const response=await page.goto(`${origin}/${lang}/`,{waitUntil:'networkidle'});assert.equal(response.status(),200);
   assert.equal(await page.locator('[data-category-link]').count(),10);
+  const [project,characters]=await page.locator('[data-category-link]').evaluateAll(links=>links.slice(0,2).map(link=>({
+   key:link.dataset.categoryLink, top:link.getBoundingClientRect().top, bottom:link.getBoundingClientRect().bottom,
+  })));
+  assert.deepEqual([project.key,characters.key],['references','characters']);
+  assert.ok(project.bottom<=characters.top);
+  await page.locator('[data-category-link="references"]').click();
+  const projectWorks=page.locator('#reference-resources');
+  const entries=await page.locator('.project-work-links a').evaluateAll(links=>links.map(link=>link.href));
+  assert.deepEqual(entries, [
+   `${origin}/${lang}/chibi/`, `https://github.com/SelinLee/ai-moe-atlas/blob/main/docs/DOODLE.${lang}.md`,
+   ...projectChannels.map(channel=>channel.url),
+  ]);
+  assert.equal(await projectWorks.locator(`a[href$="/README.md#${lang}"]`).count(),1);
+  await page.evaluate(()=>window.scrollTo({top:0,behavior:'instant'}));
   const collectionOrder=await page.locator('[data-category-link]').evaluateAll(links=>links.slice(4,7).map(link=>link.dataset.categoryLink));
   assert.deepEqual(collectionOrder,['stickers','rigs','comics']);
   assert.equal(await page.locator('main h1').count(),1);

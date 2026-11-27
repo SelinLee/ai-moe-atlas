@@ -1,14 +1,16 @@
 # 主页主视觉 · Q 版二头身三视图
 
-来自 ai_video 的 7 位角色，每张均为正面、左侧面、背面三视图。Gemini、Kimi、Qwen 采用 2026-10-29 更新的 V2，其余采用当前 V1；点击图片查看完整 PNG。
+[来源、署名与使用规范](../public/generated/README.md#zh)
 
-来自 ai_video 的生成派生三视图，非官方形象或作者原图。按维护者指定展示，不新增上游改编或再分发许可，不纳入素材下载包。
+七位社区角色的 Q 版三视图，每张均为正面、左侧面、背面三视图。Gemini、Kimi、Qwen 采用 2026-10-29 更新的 V2，其余采用当前 V1；点击图片查看完整 PNG。
+
+本项目基于社区角色形象，用 AI 制作这套三视图。每张图沿用对应原作的署名与共享条件。
 
 GPT、Gemini、Claude、Kimi、Qwen 的社区设计：ZipZipPipe；DeepSeek：上善无形 → ZipZipPipe。GLM 狐娘依据视频 BV1iDeQ6fEFi，原设计作者尚未确认。
 
 约二头身为目测比例，不计耳、角、帽子与呆毛。设计参考并非精确正交图或动画绑定素材。PNG 原样保留，WebP 预览只等比缩小和转换格式。DeepSeek 保留上游 CC BY-NC-SA 4.0 声明；其他角色的改编许可未确认，GLM 原设计作者及许可另待核实。代码 MIT 许可不覆盖角色图片。
 
-收录日期：2026-10-31。来源项目为本地 ai_video，无 Git 提交；用来源清单快照和 SHA-256 固定本次版本。
+收录日期：2026-10-31。生成时的清单快照和 SHA-256 记录了本次收录的版本。
 
 [文件与处理记录](../public/generated/super-chibi-v1/manifest.json) · [早期 v5 参考图 · 常规比例与 Q 版](REFERENCES.zh.md)
 

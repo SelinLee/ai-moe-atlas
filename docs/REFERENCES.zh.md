@@ -1,8 +1,10 @@
 # ai-models-v5 形象收录
 
+[来源、署名与使用规范](../public/generated/README.md#zh)
+
 [中文](REFERENCES.zh.md) · [English](REFERENCES.en.md) · [日本語](REFERENCES.ja.md)
 
-六套固定形象来自 ai_video，每张包含常规比例与 Q 版；完整收录原始 PNG、生成提示词、视频出处、署名链与 SHA-256。
+本项目制作了六张固定形象参考图，每张包含常规比例与 Q 版；完整收录原始 PNG、生成提示词、视频出处、署名链与 SHA-256。
 
 生成日期：2026-09-28；收录日期：2026-10-08。
 

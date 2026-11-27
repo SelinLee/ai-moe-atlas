@@ -21,6 +21,10 @@
 
 ## 资源目录
 
+<!-- category-picks:references -->
+**[🧸 本项目创作](#references)** · 22 项\
+[角色三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/) · [涂鸦头像](docs/DOODLE.zh.md) · [AI 视频二创 · 抖音主页](https://www.douyin.com/user/MS4wLjABAAAAa3lc_FI5WmPENMLwdN7Ij4r5iNxAM09Ny0rPcB2Ow4E) · [AI 视频二创 · B 站主页](https://space.bilibili.com/3706970263521942)
+
 <!-- category-picks:characters -->
 **[🎨 角色图鉴](#characters)** · 84 个词条\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/) · [Gemini Pro · 原作立绘与表情](https://selinlee.github.io/ai-moe-atlas/zh/characters/qinv-gemini-pro/) · [Cohere · 校园版](https://selinlee.github.io/ai-moe-atlas/zh/characters/school-op-cohere/)
@@ -32,10 +36,6 @@
 <!-- category-picks:songs -->
 **[🎵 歌曲](#songs)** · 127 首曲目\
 [人是猫 · 大肥鱼翻唱](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · 动画 MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [白饭与梦 · 大肥鱼 × Updream](https://www.bilibili.com/video/BV1kxWV6KE6o/)
-
-<!-- category-picks:references -->
-**[🧸 三视图与派生参考](#references)** · 20 张参考图\
-[Claude 角色参考图](https://selinlee.github.io/ai-moe-atlas/zh/references/#claude) · [DeepSeek Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#deepseek) · [千问 Q 版三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/#qwen)
 
 <!-- category-picks:stickers -->
 **[🗨️ 表情包与反应图](#stickers)** · 8 条记录\
@@ -60,6 +60,14 @@
 <!-- category-picks:sources -->
 **[📚 作者作品与出处](#sources)** · 199 条来源\
 [上善无形 · 鲸鱼娘原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini 家族合照](https://www.bilibili.com/opus/1273349110528737288) · [Gemini Pro · 三张原作](https://github.com/lmy414/ai-girl-stickers/issues/118)
+
+<a id="references"></a>
+
+### 🧸 本项目创作
+
+SelinLee 基于社区已有角色形象，用 AI 制作三视图、参考图和涂鸦头像。使用各图时，沿用对应原作的共享条件。视频所用画面和音乐的来源见各作品说明。 [来源、署名与使用规范](public/generated/README.md#zh)
+
+[7 套 Q 版三视图](#chibi-gallery) · [6 套常规比例与 Q 版参考](#v5-gallery) · [7 张角色涂鸦与提示词](#doodle-gallery)
 
 <a id="characters"></a>
 
@@ -143,14 +151,6 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 [四首原曲及《大鱼》改词版本](content/research/2026-11-25/november-25-song-originals-and-versions.json) · [《咏春》等四首原曲与引用出处](content/research/2026-11-25/november-25-composition-and-adaptation-sources.json) · [《LOSER》《九张机》《鸟之诗》及音乐引用出处](content/research/2026-11-25/november-25-original-recording-follow-up.json) · [《一格格》等六首歌曲出处](content/research/2026-11-25/november-25-second-candidate-music-credits.json) · [四首原曲与翻唱核对](content/research/2026-11-25/november-25-third-candidate-music-credits.json) · [三首原曲与两首原创歌曲](content/research/2026-11-25/november-25-fourth-candidate-music-credits.json)
 
 [《千问帮我》等五首原曲与翻唱](content/research/2026-11-23/five-original-songs-and-cover-sources.json)
-
-<a id="references"></a>
-
-### 🧸 三视图与派生参考
-
-20 张均为生成派生展示图，保留参考出处、署名和生成记录。
-
-[7 套 Q 版三视图](#chibi-gallery) · [6 套常规比例与 Q 版参考](#v5-gallery) · [7 张角色涂鸦与提示词](#doodle-gallery)
 
 <a id="stickers"></a>
 
@@ -500,7 +500,7 @@ GPT、Gemini、Claude、Kimi、千问的社区设计出自 ZipZipPipe。DeepSeek
 <details>
 <summary>7 套 Q 版三视图</summary>
 
-来自 ai_video 的 7 位角色，每张均为正面、左侧面、背面三视图。Gemini、Kimi、Qwen 采用 2026-10-29 更新的 V2，其余采用当前 V1；点击图片查看完整 PNG。
+七位社区角色的 Q 版三视图，每张均为正面、左侧面、背面三视图。Gemini、Kimi、Qwen 采用 2026-10-29 更新的 V2，其余采用当前 V1；点击图片查看完整 PNG。
 
 <table>
   <tr>
@@ -523,7 +523,7 @@ GPT、Gemini、Claude、Kimi、千问的社区设计出自 ZipZipPipe。DeepSeek
 
 GPT、Gemini、Claude、Kimi、Qwen 的社区设计：ZipZipPipe；DeepSeek：上善无形 → ZipZipPipe。GLM 狐娘依据视频 BV1iDeQ6fEFi，原设计作者尚未确认。
 
-来自 ai_video 的生成派生三视图，非官方形象或作者原图。按维护者指定展示，不新增上游改编或再分发许可，不纳入素材下载包。
+本项目基于社区角色形象，用 AI 制作这套三视图。每张图沿用对应原作的署名与共享条件。
 
 [三视图、来源与使用说明](docs/CHIBI.zh.md) · [文件与处理记录](public/generated/super-chibi-v1/manifest.json)
 
@@ -534,7 +534,7 @@ GPT、Gemini、Claude、Kimi、Qwen 的社区设计：ZipZipPipe；DeepSeek：�
 <details>
 <summary>早期 v5 参考图 · 常规比例与 Q 版</summary>
 
-六套固定形象来自 ai_video，每张包含常规比例与 Q 版；完整收录原始 PNG、生成提示词、视频出处、署名链与 SHA-256。
+本项目制作了六张固定形象参考图，每张包含常规比例与 Q 版；完整收录原始 PNG、生成提示词、视频出处、署名链与 SHA-256。
 
 | GPT | Gemini | Claude |
 | --- | --- | --- |

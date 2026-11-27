@@ -44,6 +44,11 @@
 .site-header .language-switch { margin-inline-start: auto; }
 body > .footer { flex-wrap: wrap; }
 body > .footer p { margin-right: auto; }
+.resource-group { display: grid; }
+.project-works { grid-column: 1 / -1; border: 1px solid var(--border); border-radius: 12px; }
+.project-works .resource-category { border: 0; }
+.project-work-links { display: flex; flex-wrap: wrap; gap: 8px 20px; padding: 0 16px 14px; }
+.project-work-links a { color: var(--green); text-decoration: underline; text-underline-offset: 3px; font-size: 14px; }
 .resource-category-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; }
 .resource-category { align-items: center; padding: 14px 16px; }
 .resource-category p { margin: 3px 0 0; }

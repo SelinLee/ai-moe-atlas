@@ -1,5 +1,12 @@
 import manifest from '../../public/generated/ai-models-v5/manifest.json';
-export const referenceCollection = manifest;
+export const referenceCollection = {
+  ...manifest,
+  description: {
+    zh: "本项目制作的 v5 形象参考图，每张同时展示常规比例与 Q 版。",
+    en: "The project’s v5 reference sheets show each character in both standard and chibi proportions.",
+    ja: "本プロジェクトが制作した v5 設定画です。各キャラクターの通常頭身とちびキャラを1枚に収録しています。",
+  },
+};
 export const referenceText = {
   zh: { badge:'生成派生参考 · v5', archive:'形象资料与来源', entry:'查看角色词条', source:'参考视频', credit:'社区角色设计', file:'查看完整参考图', record:'完整生成登记', manifest:'来源与文件校验', prompt:'生成提示词（原文）', history:'生成与收录', dates:'生成：2026-09-28 · 收录：2026-10-08', detail:'保留六张输入文件的原始字节；主页预览仅等比缩小并转为 WebP，未裁切或再次生成。上游截图用于身份核对，未作为素材发布。', upstream:'作者作品与条件', terms:'五款角色的改编许可尚未确认；DeepSeek 沿用上游 CC BY-NC-SA 4.0 声明。全部保留署名与非商用条件，不纳入现有下载包。', back:'返回图鉴', evidence:'归档记录', variants:'常规比例 + Q 版' },
   en: { badge:'Generated adaptation · v5', archive:'Identity archive and sources', entry:'View character entry', source:'Reference video', credit:'Community character design', file:'View full reference sheet', record:'Full generation registry', manifest:'Provenance and file hashes', prompt:'Generation prompt (original)', history:'Generation and import', dates:'Generated: 2026-09-28 · Imported: 2026-10-08', detail:'All six input files retain their original bytes. Homepage previews are proportional WebP reductions, with no cropping or new generation. Upstream screenshots support identity checks and are not published as assets.', upstream:'Creator artwork and terms', terms:'Adaptation permission for five designs remains unconfirmed; DeepSeek retains the upstream CC BY-NC-SA 4.0 statement. Attribution and non-commercial conditions remain. These references are separate from existing download packs.', back:'Back to atlas', evidence:'Archive records', variants:'Standard + chibi' },

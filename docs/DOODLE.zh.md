@@ -1,5 +1,7 @@
 # 日系粗糙数字涂鸦 · 提示词模板
 
+[来源、署名与使用规范](../public/generated/README.md#zh)
+
 [中文](DOODLE.zh.md) · [English](DOODLE.en.md) · [日本語](DOODLE.ja.md)
 
 2026-11-03 · 七位现有角色的生成派生展示图，统一为 1254 × 1254 白底半身像。使用内置 image_gen，以当前 Q 版三视图中的正面形象为身份参考。

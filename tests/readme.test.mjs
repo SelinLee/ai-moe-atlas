@@ -11,6 +11,7 @@ const read = path => readFile(new URL(path, root), 'utf8');
 const chibi=JSON.parse(await read('public/generated/super-chibi-v1/manifest.json'));
 const references=JSON.parse(await read('public/generated/ai-models-v5/manifest.json'));
 const doodles=JSON.parse(await read('public/generated/rough-doodle-v1/manifest.json'));
+const projectChannels=JSON.parse(await read('content/project-video-channels.json'));
 const {records}=JSON.parse(await read('content/resources.json'));
 const leads=JSON.parse(await read('content/leads.json'));
 const characters=JSON.parse(await read('content/characters.json'));
@@ -26,7 +27,7 @@ const layouts = [
  ['README.en.md', 'en', 'Resource directory', 'Timeline and open items', 'Character galleries'],
  ['README.ja.md', 'ja', 'リソース一覧', '収録の経緯と今後の調査項目', 'キャラクターギャラリー']
 ];
-const categories = ['characters', 'personas', 'songs', 'references', ...Object.keys(collections), 'animations', 'desktop-pets', 'sources'];
+const categories = ['references', 'characters', 'personas', 'songs', ...Object.keys(collections), 'animations', 'desktop-pets', 'sources'];
 const directEntryLinks = {
  ...Object.fromEntries(Object.entries(collections).map(([category, entries]) =>
   [category, new Set(entries.map(entry => resourceById.get(entry.id).url))])),
@@ -72,17 +73,18 @@ for (const [file, lang, directory, timeline, galleries] of layouts) {
   }),expected.map((row,index)=>[index+1,row.stars,row.url]));
   assert.ok(desktop.includes(`(https://selinlee.github.io/ai-moe-atlas/${lang}/resources/?category=interactive)`));
  });
- test(`${file}: the directory shows three distinct text links beneath each category`,async()=>{
+ test(`${file}: the directory leads with project creations and links each category to its entries`,async()=>{
   const markdown = await read(file);
   const directoryStart = markdown.indexOf(`## ${directory}\n`);
-  const firstSection = markdown.indexOf('<a id="characters"></a>', directoryStart);
+  const firstSection = markdown.indexOf('<a id="references"></a>', directoryStart);
   const contents = markdown.slice(directoryStart, firstSection);
   const categorySections = markdown.slice(firstSection, markdown.indexOf(`## ${timeline}\n`));
+  assert.deepEqual([...contents.matchAll(/<!-- category-picks:([\w-]+) -->/g)].map(m=>m[1]), categories);
   const counts = {
    characters: characters.length,
    personas: directEntryLinks.personas.size,
    songs: songs.length,
-   references: chibi.assets.length + references.assets.length + doodles.assets.length,
+   references: chibi.assets.length + references.assets.length + doodles.assets.length + projectChannels.length,
    ...Object.fromEntries(Object.entries(collections).map(([category, entries]) => [category, entries.length])),
    animations: records.filter(record => record.category === 'animation').length,
    'desktop-pets': records.filter(record => record.category === 'interactive').length,
@@ -96,7 +98,16 @@ for (const [file, lang, directory, timeline, galleries] of layouts) {
    const [label, entries] = block.split('\n');
    assert.match(label, new RegExp(`\\]\\(#${category}\\)\\*\\* · ${counts[category] ?? '\\d+'} `));
    assert.ok(label.endsWith('\\'), category);
-   const links = [...entries.matchAll(/\[[^\]]+\]\((https:\/\/[^)]+)\)/g)].map(([, target]) => {
+   const targets = [...entries.matchAll(/\[[^\]]+\]\(([^)]+)\)/g)].map(match=>match[1]);
+   if (category === 'references') {
+    assert.deepEqual(targets, [
+     `https://selinlee.github.io/ai-moe-atlas/${lang}/chibi/`, `docs/DOODLE.${lang}.md`,
+     ...projectChannels.map(channel=>channel.url),
+    ]);
+    assert.ok(categorySections.includes(`(public/generated/README.md#${lang})`));
+    continue;
+   }
+   const links = targets.map(target => {
     const url = new URL(target);
     if (url.hostname === 'selinlee.github.io') {
      assert.ok(url.pathname.startsWith(`/ai-moe-atlas/${lang}/`), url.href);
@@ -106,10 +117,6 @@ for (const [file, lang, directory, timeline, galleries] of layouts) {
     }
     if (category === 'characters') {
      assert.ok(characters.some(character => url.href === `https://selinlee.github.io/ai-moe-atlas/${lang}/characters/${character.id}/`), url.href);
-    }
-    if (category === 'references') {
-     assert.ok([...references.assets.map(asset => `https://selinlee.github.io/ai-moe-atlas/${lang}/references/#${asset.id}`),
-      ...chibi.assets.map(asset => `https://selinlee.github.io/ai-moe-atlas/${lang}/chibi/#${asset.id}`)].includes(url.href), url.href);
     }
     return url.href;
    });
@@ -131,7 +138,10 @@ for (const [file, lang, directory, timeline, galleries] of layouts) {
   assert.ok(gallery.indexOf('super-chibi-v1')<gallery.indexOf('ai-models-v5'),'Chibi sheets are the primary visual');
   const chibiImages=[...gallery.matchAll(/<img src="(public\/generated\/super-chibi-v1\/[^"]+)"/g)];
   assert.deepEqual(chibiImages.map(i=>i[1]),chibi.assets.map(a=>`public/${a.preview.path}`));
-  assert.ok(gallery.includes(chibi.notice[lang]));
+  const sheetGuide = await read(`docs/CHIBI.${lang}.md`);
+  const notice = sheetGuide.split('\n\n').find(block => block.startsWith({zh:'本项目基于',en:'This project used AI',ja:'本プロジェクトが'}[lang]));
+  assert.ok(notice && gallery.includes(notice));
+  assert.ok(!markdown.includes('ai_video'));
   assert.ok(gallery.includes(chibi.attributionNote[lang]));
   for(const a of chibi.assets){
    assert.ok(gallery.includes(`href="public/${a.original.path}"`),'Full turnaround is linked');

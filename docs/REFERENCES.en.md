@@ -1,8 +1,10 @@
 # ai-models-v5 identity archive
 
+[Sources, credits and usage terms](../public/generated/README.md#en)
+
 [中文](REFERENCES.zh.md) · [English](REFERENCES.en.md) · [日本語](REFERENCES.ja.md)
 
-Six fixed identity sheets from ai_video, each with standard and chibi proportions. Preserved PNGs, prompts, video sources, attribution and SHA-256 records are included.
+Six character sheets made by this project, each with standard and chibi proportions. Preserved PNGs, prompts, video sources, attribution and SHA-256 records are included.
 
 Generated: 2026-09-28; imported: 2026-10-08.
 

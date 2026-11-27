@@ -1,3 +1,4 @@
+import projectChannels from '../../content/project-video-channels.json';
 import { characters, entityName } from './data';
 import { resources, stickerEntries, rigEntries, rigFormats, comicEntries, categories, type Category } from './resources';
 import { chibiCollection } from './chibi';
@@ -97,7 +98,7 @@ export function directoryIndex(lang: Locale) {
         title: `${sheet.name[lang]} · ${label}`,
         by: canShowSheet ? 'CC BY-NC-SA 4.0' : credit,
         categories: ['references'],
-        keywords: [sheet.id, sheet.characterId, ...Object.values(sheet.name)].join(' '),
+        keywords: ['SelinLee ai-moe-atlas', sheet.id, sheet.characterId, ...Object.values(sheet.name)].join(' '),
         href,
         image: canShowSheet ? {
           src: path(sheet.preview.path),
@@ -107,6 +108,16 @@ export function directoryIndex(lang: Locale) {
         action: { label: n.viewImage, href: path(sheet.original.path) },
       });
     }
+  }
+  for (const channel of projectChannels) {
+    rows.push({
+      title: channel.title[lang],
+      by: 'SelinLee · ai-moe-atlas',
+      categories: ['references'],
+      href: channel.url,
+      keywords: [...Object.values(channel.title), channel.url].join(' '),
+      action: { label: rs.visit, href: channel.url },
+    });
   }
   for (const r of resources) {
     const sticker = stickerEntries.get(r.id);

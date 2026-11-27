@@ -1,5 +1,7 @@
 # Rough anime digital doodles · Prompt template
 
+[Sources, credits and usage terms](../public/generated/README.md#en)
+
 [中文](DOODLE.zh.md) · [English](DOODLE.en.md) · [日本語](DOODLE.ja.md)
 
 November 3, 2026 · Generated style adaptations of seven existing characters, each a 1254 × 1254 half-body portrait on white. Created with built-in image_gen using the front view of the current chibi sheets as the identity reference.

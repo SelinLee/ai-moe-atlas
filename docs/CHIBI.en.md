@@ -1,14 +1,16 @@
 # Main visual · Two-head chibi turnarounds
 
-Seven characters from ai_video, each with front, left-profile and back views. Gemini, Kimi and Qwen use V2 updated on October 29, 2026; the others use the current V1. Click a sheet for the full PNG.
+[Sources, credits and usage terms](../public/generated/README.md#en)
 
-Generated turnaround adaptations from ai_video, not official characters or creator originals. Displayed at the maintainer’s request; no new upstream adaptation or redistribution rights are granted. Excluded from asset download packs.
+Seven community characters, each with front, left-profile and back views. Gemini, Kimi and Qwen use V2 updated on October 29, 2026; the others use the current V1. Click a sheet for the full PNG.
+
+This project used AI to create turnarounds of existing community characters. Each sheet retains the credits and sharing terms of its source artwork.
 
 Community designs for GPT, Gemini, Claude, Kimi and Qwen: ZipZipPipe. DeepSeek: 上善无形 → ZipZipPipe. The GLM fox-girl variant follows video BV1iDeQ6fEFi; its original designer remains unverified.
 
 Two-head proportions are visual estimates excluding ears, horns, hats and stray hair. These design references are not calibrated orthographic views or animation rigs. PNG bytes are preserved; WebP previews only resize proportionally and convert format. DeepSeek retains the upstream CC BY-NC-SA 4.0 statement; adaptation permission for other characters remains unconfirmed, with GLM authorship and permission separately unverified. The code MIT license does not cover character artwork.
 
-Imported: October 31, 2026. The local ai_video source project has no Git commit; its manifest snapshot and SHA-256 hashes identify this import.
+Imported: October 31, 2026. The saved generation manifest and SHA-256 hashes identify the archived versions.
 
 [Files and processing records](../public/generated/super-chibi-v1/manifest.json) · [Earlier v5 references · Standard and chibi](REFERENCES.en.md)
 

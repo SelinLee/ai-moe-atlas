@@ -1,3 +1,4 @@
+import projectChannels from '../../content/project-video-channels.json';
 import registry from '../../content/resources.json';
 import collections from '../../content/resource-collections.json';
 import leads from '../../content/leads.json';
@@ -15,7 +16,7 @@ import type { Locale } from './i18n';
 export { byPublicationDate, byPublicationTime, likesObservedDate, beijingTime } from './animation-ranking.mjs';
 
 export const collectionCategories=['stickers','rigs','comics'] as const;
-export const categories=['characters','personas','songs','references',...collectionCategories,'animation','interactive','sources'] as const;
+export const categories=['references','characters','personas','songs',...collectionCategories,'animation','interactive','sources'] as const;
 export type Category=typeof categories[number];
 export const categoryIcons = {
   characters:'character', personas:'chat', songs:'music', references:'assets', stickers:'sticker',
@@ -66,7 +67,7 @@ export const resourceCounts:Record<Category,number>={
   characters:characters.length,songs:songs.length,
   personas:resources.filter(r=>r.category==='personas').length,
   stickers:stickerEntries.size,rigs:rigEntries.size,comics:comicEntries.size,
-  references:chibi.assets.length+references.assets.length+doodles.assets.length,
+  references:chibi.assets.length+references.assets.length+doodles.assets.length+projectChannels.length,
   animation:animations.length,interactive:resources.filter(r=>r.category==='interactive').length,
   sources:resources.filter(r=>r.category==='sources').length,
 };

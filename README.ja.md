@@ -21,6 +21,10 @@
 
 ## リソース一覧
 
+<!-- category-picks:references -->
+**[🧸 プロジェクト制作作品](#references)** · 22 件\
+[キャラクター三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/) · [落書き風アイコン](docs/DOODLE.ja.md) · [AI 二次創作動画 · 抖音ホーム](https://www.douyin.com/user/MS4wLjABAAAAa3lc_FI5WmPENMLwdN7Ij4r5iNxAM09Ny0rPcB2Ow4E) · [AI 二次創作動画 · Bilibili ホーム](https://space.bilibili.com/3706970263521942)
+
 <!-- category-picks:characters -->
 **[🎨 キャラクター図鑑](#characters)** · 84 項目\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/) · [Gemini Pro · 原画と表情](https://selinlee.github.io/ai-moe-atlas/ja/characters/qinv-gemini-pro/) · [Cohere · 学園版](https://selinlee.github.io/ai-moe-atlas/ja/characters/school-op-cohere/)
@@ -32,10 +36,6 @@
 <!-- category-picks:songs -->
 **[🎵 楽曲](#songs)** · 127 曲\
 [人は猫 · 大肥魚カバー](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · アニメーション MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [白ごはんと夢 · 大きな魚 × Updream](https://www.bilibili.com/video/BV1kxWV6KE6o/)
-
-<!-- category-picks:references -->
-**[🧸 三面図と生成派生資料](#references)** · 20 枚\
-[Claude のキャラクター資料](https://selinlee.github.io/ai-moe-atlas/ja/references/#claude) · [DeepSeek のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#deepseek) · [千問のちびキャラ三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/#qwen)
 
 <!-- category-picks:stickers -->
 **[🗨️ スタンプとリアクション画像](#stickers)** · 8 件\
@@ -60,6 +60,14 @@
 <!-- category-picks:sources -->
 **[📚 作者の作品と出典](#sources)** · 199 件\
 [上善无形 · クジラ娘の原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini ファミリー集合絵](https://www.bilibili.com/opus/1273349110528737288) · [Gemini Pro · 原画3枚](https://github.com/lmy414/ai-girl-stickers/issues/118)
+
+<a id="references"></a>
+
+### 🧸 プロジェクト制作作品
+
+SelinLee がコミュニティのキャラクターを基に、AI で三面図・設定画・落書き風アイコンを制作しました。各画像には原作の共有条件が適用されます。動画の映像や楽曲の出典は各作品の説明をご覧ください。 [出典・クレジット・利用条件](public/generated/README.md#ja)
+
+[ちびキャラ三面図7枚](#chibi-gallery) · [通常頭身・ちびキャラ資料6枚](#v5-gallery) · [落書き7枚とプロンプト集](#doodle-gallery)
 
 <a id="characters"></a>
 
@@ -143,14 +151,6 @@ Tokentaker キャラクター設定 · [DeepSeek](https://selinlee.github.io/ai-
 [4曲の原曲と『大魚』の替え歌](content/research/2026-11-25/november-25-song-originals-and-versions.json) · [「詠春」を含む4曲の原曲と参照元](content/research/2026-11-25/november-25-composition-and-adaptation-sources.json) · [LOSER・九張機・鳥の詩と楽曲出典](content/research/2026-11-25/november-25-original-recording-follow-up.json) · [一格格を含む6曲の出典](content/research/2026-11-25/november-25-second-candidate-music-credits.json) · [原曲4曲とカバーの照合](content/research/2026-11-25/november-25-third-candidate-music-credits.json) · [原曲3曲と作者オリジナル2曲](content/research/2026-11-25/november-25-fourth-candidate-music-credits.json)
 
 [『千問、助けて』など5曲の原曲とカバー](content/research/2026-11-23/five-original-songs-and-cover-sources.json)
-
-<a id="references"></a>
-
-### 🧸 三面図と生成派生資料
-
-20枚は生成派生の展示画像です。参照元・作者表示・生成記録を保持しています。
-
-[ちびキャラ三面図7枚](#chibi-gallery) · [通常頭身・ちびキャラ資料6枚](#v5-gallery) · [落書き7枚とプロンプト集](#doodle-gallery)
 
 <a id="stickers"></a>
 
@@ -500,7 +500,7 @@ GPT・Gemini・Claude・Kimi・Qwen のコミュニティデザインは ZipZipP
 <details>
 <summary>ちびキャラ三面図7点</summary>
 
-ai_video の7キャラクターを、正面・左側面・背面の三面図で紹介。Gemini・Kimi・Qwen は2026年10月29日更新の V2、それ以外は現行 V1 です。画像をクリックすると完全な PNG を表示します。
+コミュニティのキャラクター7人を、正面・左側面・背面の三面図で紹介。Gemini・Kimi・Qwen は2026年10月29日更新の V2、それ以外は現行 V1 です。画像をクリックすると完全な PNG を表示します。
 
 <table>
   <tr>
@@ -523,7 +523,7 @@ ai_video の7キャラクターを、正面・左側面・背面の三面図で�
 
 GPT・Gemini・Claude・Kimi・Qwen のコミュニティデザイン：ZipZipPipe。DeepSeek：上善无形 → ZipZipPipe。GLM の狐娘は動画 BV1iDeQ6fEFi に基づき、原デザインの作者は未確認です。
 
-ai_video の生成派生三面図です。公式キャラクターや作者の原図ではありません。管理者の指定による展示で、上流の改変・再配布許可を新たに付与するものではなく、素材パックには含まれません。
+本プロジェクトがコミュニティのキャラクターを基に AI で制作した三面図です。各画像には原作のクレジットと共有条件が適用されます。
 
 [三面図・出典・利用条件](docs/CHIBI.ja.md) · [ファイルと処理記録](public/generated/super-chibi-v1/manifest.json)
 
@@ -534,7 +534,7 @@ ai_video の生成派生三面図です。公式キャラクターや作者の�
 <details>
 <summary>以前の v5 形象資料 · 通常頭身とちびキャラ</summary>
 
-ai_video の固定形象資料6枚。各画像に通常頭身とちびキャラを収録し、元の PNG・プロンプト・参照動画・作者情報・SHA-256 を保存しています。
+本プロジェクト制作のキャラクター設定画6枚。各画像に通常頭身とちびキャラを収録し、元の PNG・プロンプト・参照動画・作者情報・SHA-256 を保存しています。
 
 | GPT | Gemini | Claude |
 | --- | --- | --- |

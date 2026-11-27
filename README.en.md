@@ -21,6 +21,10 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 
 ## Resource directory
 
+<!-- category-picks:references -->
+**[🧸 Project creations](#references)** · 22 entries\
+[Character turnarounds](https://selinlee.github.io/ai-moe-atlas/en/chibi/) · [Doodle avatars](docs/DOODLE.en.md) · [AI fan videos on Douyin](https://www.douyin.com/user/MS4wLjABAAAAa3lc_FI5WmPENMLwdN7Ij4r5iNxAM09Ny0rPcB2Ow4E) · [AI fan videos on Bilibili](https://space.bilibili.com/3706970263521942)
+
 <!-- category-picks:characters -->
 **[🎨 Character atlas](#characters)** · 84 entries\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/) · [Gemini Pro · Portrait and expressions](https://selinlee.github.io/ai-moe-atlas/en/characters/qinv-gemini-pro/) · [Cohere · School Edition](https://selinlee.github.io/ai-moe-atlas/en/characters/school-op-cohere/)
@@ -32,10 +36,6 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 <!-- category-picks:songs -->
 **[🎵 Songs](#songs)** · 127 tracks\
 [Humans Are Cats · Fat Fish cover](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [Let Me Go · Animated MV](https://www.bilibili.com/video/BV1mThC6LEbA/) · [Rice and Dreams · Fat Fish × Updream](https://www.bilibili.com/video/BV1kxWV6KE6o/)
-
-<!-- category-picks:references -->
-**[🧸 Turnarounds & adaptations](#references)** · 20 reference images\
-[Claude reference sheet](https://selinlee.github.io/ai-moe-atlas/en/references/#claude) · [DeepSeek chibi turnaround](https://selinlee.github.io/ai-moe-atlas/en/chibi/#deepseek) · [Qwen chibi turnaround](https://selinlee.github.io/ai-moe-atlas/en/chibi/#qwen)
 
 <!-- category-picks:stickers -->
 **[🗨️ Stickers & reaction images](#stickers)** · 8 entries\
@@ -60,6 +60,14 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 <!-- category-picks:sources -->
 **[📚 Creator works & sources](#sources)** · 199 sources\
 [Shangshan · Whale Girl original](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini family illustration](https://www.bilibili.com/opus/1273349110528737288) · [Gemini Pro · Three originals](https://github.com/lmy414/ai-girl-stickers/issues/118)
+
+<a id="references"></a>
+
+### 🧸 Project creations
+
+SelinLee used AI to make turnarounds, character sheets and doodle avatars from community designs. Each image carries its source artwork’s sharing terms. See individual videos for visual and music credits. [Sources, credits and usage terms](public/generated/README.md#en)
+
+[7 chibi turnarounds](#chibi-gallery) · [6 standard and chibi sheets](#v5-gallery) · [7 doodles and prompt templates](#doodle-gallery)
 
 <a id="characters"></a>
 
@@ -143,14 +151,6 @@ The top ten tracks by the highest total likes on a listed version. Observation t
 [Four original tracks and a new Big Fish adaptation](content/research/2026-11-25/november-25-song-originals-and-versions.json) · [Ode to Spring and three other original tracks](content/research/2026-11-25/november-25-composition-and-adaptation-sources.json) · [LOSER, Jiu Zhang Ji, Tori no Uta and music references](content/research/2026-11-25/november-25-original-recording-follow-up.json) · [One Frame at a Time and five other song sources](content/research/2026-11-25/november-25-second-candidate-music-credits.json) · [Four original recordings and fan versions](content/research/2026-11-25/november-25-third-candidate-music-credits.json) · [Three original recordings and two creator songs](content/research/2026-11-25/november-25-fourth-candidate-music-credits.json)
 
 [Five original songs and their covers, including Qwen, Help Me](content/research/2026-11-23/five-original-songs-and-cover-sources.json)
-
-<a id="references"></a>
-
-### 🧸 Turnarounds & adaptations
-
-All 20 images are generated adaptations with references, credits and generation records.
-
-[7 chibi turnarounds](#chibi-gallery) · [6 standard and chibi sheets](#v5-gallery) · [7 doodles and prompt templates](#doodle-gallery)
 
 <a id="stickers"></a>
 
@@ -500,7 +500,7 @@ Community designs for GPT, Gemini, Claude, Kimi and Qwen are by ZipZipPipe. Deep
 <details>
 <summary>7 chibi turnarounds</summary>
 
-Seven characters from ai_video, each with front, left-profile and back views. Gemini, Kimi and Qwen use V2 updated on October 29, 2026; the others use the current V1. Click a sheet for the full PNG.
+Seven community characters, each with front, left-profile and back views. Gemini, Kimi and Qwen use V2 updated on October 29, 2026; the others use the current V1. Click a sheet for the full PNG.
 
 <table>
   <tr>
@@ -523,7 +523,7 @@ Seven characters from ai_video, each with front, left-profile and back views. Ge
 
 Community designs for GPT, Gemini, Claude, Kimi and Qwen: ZipZipPipe. DeepSeek: 上善无形 → ZipZipPipe. The GLM fox-girl variant follows video BV1iDeQ6fEFi; its original designer remains unverified.
 
-Generated turnaround adaptations from ai_video, not official characters or creator originals. Displayed at the maintainer’s request; no new upstream adaptation or redistribution rights are granted. Excluded from asset download packs.
+This project used AI to create turnarounds of existing community characters. Each sheet retains the credits and sharing terms of its source artwork.
 
 [Turnarounds, sources and usage notes](docs/CHIBI.en.md) · [Files and processing records](public/generated/super-chibi-v1/manifest.json)
 
@@ -534,7 +534,7 @@ Generated turnaround adaptations from ai_video, not official characters or creat
 <details>
 <summary>Earlier v5 references · Standard and chibi</summary>
 
-Six fixed identity sheets from ai_video, each with standard and chibi proportions. Preserved PNGs, prompts, video sources, attribution and SHA-256 records are included.
+Six character sheets made by this project, each with standard and chibi proportions. Preserved PNGs, prompts, video sources, attribution and SHA-256 records are included.
 
 | GPT | Gemini | Claude |
 | --- | --- | --- |
