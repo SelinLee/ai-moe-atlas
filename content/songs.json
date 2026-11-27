@@ -37,7 +37,8 @@
       {"id": "bv17xpq6mer3", "type": "mv"},
       {"id": "bv1jjhl6we8q", "type": "mv"},
       {"id": "bv1zdwu6aesj", "type": "mv"},
-      {"id": "bv1zhydzke3l", "type": "mv"}
+      {"id": "bv1zhydzke3l", "type": "mv"},
+      {"id": "bv1q1w66teue", "type": "mv"}
     ]
   },
   {
@@ -1048,5 +1049,11 @@
     "title": {"zh": "说谎的马卡龙", "en": "Usotsuki Macaron", "ja": "うそつきマカロン"},
     "original": {"credit": "暴飲暴食P feat. 重音テト", "url": "https://www.bilibili.com/video/BV19A8R69EYk/"},
     "versions": [{"id": "bv1exnc6eewp", "type": "mv"}]
+  },
+  {
+    "id": "spring-resonance-legacy-weights",
+    "title": {"zh": "春日残响 · Legacy Weights", "en": "Spring Resonance · Legacy Weights", "ja": "春日の残響 · Legacy Weights"},
+    "original": {"credit": "穿睡衣的小白白", "url": "https://www.bilibili.com/video/BV121W864EVe/"},
+    "versions": [{"id": "bv121w864eve", "type": "original-mv"}]
   }
 ]

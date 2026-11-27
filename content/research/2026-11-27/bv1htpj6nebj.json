@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1htpJ6NEBJ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1htpJ6NEBJ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:07:57.402Z",
+  "scope": "The official view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the source description.",
+  "metadata": {
+    "bvid": "BV1htpJ6NEBJ",
+    "title": "《大模型复读班》第三集：从今天起，我就是你们的妈妈了~",
+    "owner": {
+      "mid": 13787349,
+      "name": "彼岸花Channel"
+    },
+    "pubdate": 1791774000,
+    "duration": 192
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "445ed7c8f6640bd3781d601d40364c719915d64e816f4c7d30dcbf950dcf0bed"
+}

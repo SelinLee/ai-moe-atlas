@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV17KWM6yEP1/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17KWM6yEP1",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:08:01.024Z",
+  "scope": "The official view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the source description.",
+  "metadata": {
+    "bvid": "BV17KWM6yEP1",
+    "title": "《AI娘：打完怪，回家吃饭》第三集",
+    "owner": {
+      "mid": 214412382,
+      "name": "硬鲸鲸"
+    },
+    "pubdate": 1794281661,
+    "duration": 238
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "0caee616c9c1932be1ab1f4e08665e9f5f81c48733b5395f7aafa47646a47662"
+}

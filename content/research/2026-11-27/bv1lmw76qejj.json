@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1LmW76qEjJ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1LmW76qEjJ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:08:11.829Z",
+  "scope": "The official view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the source description.",
+  "metadata": {
+    "bvid": "BV1LmW76qEjJ",
+    "title": "我做了个大肥鱼的同人游戏, 网页就能直接玩",
+    "owner": {
+      "mid": 123778,
+      "name": "抑止之力"
+    },
+    "pubdate": 1794119172,
+    "duration": 172
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-linked-game",
+      "title": "大肥鱼同人小游戏",
+      "url": "https://big-fat-fish.pages.dev/"
+    }
+  ],
+  "descriptionSha256": "987c87ec6851e7c7d8fab0cf51b0da32cc075acd927e53354db121be46058684"
+}

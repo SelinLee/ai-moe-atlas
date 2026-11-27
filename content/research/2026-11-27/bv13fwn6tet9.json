@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV13FWn6TEt9/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13FWn6TEt9",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:08:00.998Z",
+  "scope": "The official view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the source description.",
+  "metadata": {
+    "bvid": "BV13FWn6TEt9",
+    "title": "《AI娘：打完怪，回家吃饭》第二集",
+    "owner": {
+      "mid": 214412382,
+      "name": "硬鲸鲸"
+    },
+    "pubdate": 1794130816,
+    "duration": 309
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "526ac794f129d396ee68c208aeb0b1f3dbdf14e3a4aa7d2da2a7a11762d68691"
+}

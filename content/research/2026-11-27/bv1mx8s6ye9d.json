@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1mx8S6YE9D/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mx8S6YE9D",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:08:10.249Z",
+  "scope": "The official view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the source description.",
+  "metadata": {
+    "bvid": "BV1mx8S6YE9D",
+    "title": "蓝色大肥鱼与glm的趣事",
+    "owner": {
+      "mid": 1949289931,
+      "name": "文刀一鳴"
+    },
+    "pubdate": 1787414571,
+    "duration": 16
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+}

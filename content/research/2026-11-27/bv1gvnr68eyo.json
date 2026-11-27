@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1GvnR68Eyo/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1GvnR68Eyo",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:08:05.125Z",
+  "scope": "The official view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the source description.",
+  "metadata": {
+    "bvid": "BV1GvnR68Eyo",
+    "title": "豆包画出一条鲸，大肥鱼只会「画个圆」｜按下发送之后 番外九《豆包的画笔》",
+    "owner": {
+      "mid": 3690980471474960,
+      "name": "Oo肥鱼O"
+    },
+    "pubdate": 1793012805,
+    "duration": 95
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "b6d30619614b5dc6848ebf0000c6331bb575aaac5ea8fe5e2c6a749cdec31aee"
+}

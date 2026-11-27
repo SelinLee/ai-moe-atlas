@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Zsn16LEB3/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Zsn16LEB3",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:08:06.894Z",
+  "scope": "The official view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the source description.",
+  "metadata": {
+    "bvid": "BV1Zsn16LEB3",
+    "title": "互换衣服，人设也串了？！白龙娘×豆包×DeepSeek【DAY02】",
+    "owner": {
+      "mid": 15983236,
+      "name": "绛璃和珂幽运营ing"
+    },
+    "pubdate": 1792651380,
+    "duration": 101
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "da51255583ae14bfeb595f45a844075f3242bedc8e0435078beb1a1cc2f55c28"
+}

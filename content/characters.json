@@ -5881,5 +5881,285 @@
       "en": "The creator labels this version’s character design and artwork CC BY-NC-SA 4.0. The design incorporates elements from the WorkBuddy desktop icon. The atlas links the creator’s release.",
       "ja": "この版のキャラクターデザインと立ち絵は CC BY-NC-SA 4.0 と作者が明記。設定には WorkBuddy デスクトップアイコンの要素を使用。 図鑑は作者の原公開先にリンクします。"
     }
+  },
+  {
+    "id": "cat-lab-kurono",
+    "entity": "chatgpt",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "クロノ · ChatGPT 猫型拟人",
+      "en": "Kurono · ChatGPT Cat Personification",
+      "ja": "クロノ · ChatGPT の猫型擬人化"
+    },
+    "description": {
+      "zh": "负责帮人梳理任务和分配不同 AI 的工作。",
+      "en": "The coordinator helps organize tasks and decide which AI handles each part.",
+      "ja": "作業の全体像を整理し、AI の役割分担を考える司令塔。"
+    },
+    "story": {
+      "zh": "负责帮人梳理任务和分配不同 AI 的工作。",
+      "en": "The coordinator helps organize tasks and decide which AI handles each part.",
+      "ja": "作業の全体像を整理し、AI の役割分担を考える司令塔。"
+    },
+    "features": {
+      "zh": "作者把 ChatGPT 拟为猫型角色，并给クロノ单列介绍。",
+      "en": "The creator gives this feline ChatGPT character a dedicated profile.",
+      "ja": "猫型に擬人化した ChatGPT。作者がクロノの個別紹介を掲載。"
+    },
+    "author": "ねこ型AI研究所",
+    "authorUrl": "https://note.com/cat_type_ai_lab",
+    "source": "https://note.com/cat_type_ai_lab/n/n7d5acd10c565#746d8833-3743-447e-b2ab-e789fac3df7b",
+    "sourceTitle": "【紹介】研究所、はじめます｜ChatGPT・Gemini・Claudeを使い分ける『型』を集めます",
+    "originalPublication": "https://note.com/cat_type_ai_lab/n/n7d5acd10c565",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ねこ型AI研究所",
+        "url": "https://note.com/cat_type_ai_lab",
+        "role": "original-character",
+        "publication": "https://note.com/cat_type_ai_lab/n/n7d5acd10c565"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/cat_type_ai_lab/n/n7d5acd10c565",
+    "downloadable": false,
+    "bg": "#efe7ea",
+    "color": "#764455",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "两张封面的页面图像版本已校验。图像转载和改编许可待确认。",
+      "en": "Verified two cover renditions served by the pages. Permission to republish or adapt the artwork remains unconfirmed.",
+      "ja": "ページ配信の見出し画像2枚を照合。転載・改変の許可は確認待ち。"
+    }
+  },
+  {
+    "id": "cat-lab-gin",
+    "entity": "gemini",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "ギン · Gemini 猫型拟人",
+      "en": "Gin · Gemini Cat Personification",
+      "ja": "ギン · Gemini の猫型擬人化"
+    },
+    "description": {
+      "zh": "负责调查、比较和整理资料，是研究所的信息参谋。",
+      "en": "The lab’s researcher compares and organizes information.",
+      "ja": "調査・比較・情報整理を担当する情報参謀。"
+    },
+    "story": {
+      "zh": "负责调查、比较和整理资料，是研究所的信息参谋。",
+      "en": "The lab’s researcher compares and organizes information.",
+      "ja": "調査・比較・情報整理を担当する情報参謀。"
+    },
+    "features": {
+      "zh": "作者把 Gemini 拟为猫型角色，并给ギン单列介绍。",
+      "en": "The creator gives this feline Gemini character a dedicated profile.",
+      "ja": "猫型に擬人化した Gemini。作者がギンの個別紹介を掲載。"
+    },
+    "author": "ねこ型AI研究所",
+    "authorUrl": "https://note.com/cat_type_ai_lab",
+    "source": "https://note.com/cat_type_ai_lab/n/n7d5acd10c565#c99a0e9d-3767-4fef-83eb-2828c50d5e5f",
+    "sourceTitle": "【紹介】研究所、はじめます｜ChatGPT・Gemini・Claudeを使い分ける『型』を集めます",
+    "originalPublication": "https://note.com/cat_type_ai_lab/n/n7d5acd10c565",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ねこ型AI研究所",
+        "url": "https://note.com/cat_type_ai_lab",
+        "role": "original-character",
+        "publication": "https://note.com/cat_type_ai_lab/n/n7d5acd10c565"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/cat_type_ai_lab/n/n7d5acd10c565",
+    "downloadable": false,
+    "bg": "#efe7ea",
+    "color": "#764455",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "两张封面的页面图像版本已校验。图像转载和改编许可待确认。",
+      "en": "Verified two cover renditions served by the pages. Permission to republish or adapt the artwork remains unconfirmed.",
+      "ja": "ページ配信の見出し画像2枚を照合。転載・改変の許可は確認待ち。"
+    }
+  },
+  {
+    "id": "cat-lab-miko",
+    "entity": "claude",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "ミコ · Claude 猫型拟人",
+      "en": "Miko · Claude Cat Personification",
+      "ja": "ミコ · Claude の猫型擬人化"
+    },
+    "description": {
+      "zh": "是研究所里负责润色和摘要的角色。",
+      "en": "The lab’s editor polishes and summarizes text.",
+      "ja": "文章の推敲や要約を担当する職人。"
+    },
+    "story": {
+      "zh": "是研究所里负责润色和摘要的角色。",
+      "en": "The lab’s editor polishes and summarizes text.",
+      "ja": "文章の推敲や要約を担当する職人。"
+    },
+    "features": {
+      "zh": "作者把 Claude 拟为猫型角色，并给ミコ单列介绍。",
+      "en": "The creator gives this feline Claude character a dedicated profile.",
+      "ja": "猫型に擬人化した Claude。作者がミコの個別紹介を掲載。"
+    },
+    "author": "ねこ型AI研究所",
+    "authorUrl": "https://note.com/cat_type_ai_lab",
+    "source": "https://note.com/cat_type_ai_lab/n/n7d5acd10c565#f85d6987-2abd-407d-8000-8ef0eb42aae6",
+    "sourceTitle": "【紹介】研究所、はじめます｜ChatGPT・Gemini・Claudeを使い分ける『型』を集めます",
+    "originalPublication": "https://note.com/cat_type_ai_lab/n/n7d5acd10c565",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ねこ型AI研究所",
+        "url": "https://note.com/cat_type_ai_lab",
+        "role": "original-character",
+        "publication": "https://note.com/cat_type_ai_lab/n/n7d5acd10c565"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/cat_type_ai_lab/n/n7d5acd10c565",
+    "downloadable": false,
+    "bg": "#efe7ea",
+    "color": "#764455",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "两张封面的页面图像版本已校验。图像转载和改编许可待确认。",
+      "en": "Verified two cover renditions served by the pages. Permission to republish or adapt the artwork remains unconfirmed.",
+      "ja": "ページ配信の見出し画像2枚を照合。転載・改変の許可は確認待ち。"
+    }
+  },
+  {
+    "id": "kawamura-grok-seven",
+    "entity": "grok",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Grok 7 · カワムラ",
+      "en": "Grok 7 · Kawamura",
+      "ja": "Grok 7 · カワムラ"
+    },
+    "description": {
+      "zh": "カワムラ的漫画教程示例角色，在新干线座位上遇到同样叫 Grok 的 Grok 8。",
+      "en": "A tutorial character by Kawamura who meets Grok 8 on the Shinkansen.",
+      "ja": "カワムラの漫画講座のキャラクター。新幹線で同じ名前の Grok 8 と出会う。"
+    },
+    "story": {
+      "zh": "カワムラ的漫画教程示例角色，在新干线座位上遇到同样叫 Grok 的 Grok 8。",
+      "en": "A tutorial character by Kawamura who meets Grok 8 on the Shinkansen.",
+      "ja": "カワムラの漫画講座のキャラクター。新幹線で同じ名前の Grok 8 と出会う。"
+    },
+    "features": {
+      "zh": "设定图中留红色短发，穿红黑格纹朋克夹克。",
+      "en": "The character sheet shows short red hair and a red-and-black plaid punk jacket.",
+      "ja": "設定画は赤いボブヘアと赤黒チェックのパンク風ジャケット。"
+    },
+    "author": "カワムラ",
+    "authorUrl": "https://note.com/chatgpt_ysd",
+    "source": "https://note.com/chatgpt_ysd/n/ne86ecfd8aec5",
+    "sourceTitle": "Gemini nanobanana2 で漫画を作る方法（初級）AI擬人化漫画　ChatGPTのヨシダ　Grok 編　",
+    "originalPublication": "https://note.com/chatgpt_ysd/n/ne86ecfd8aec5",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "カワムラ",
+        "url": "https://note.com/chatgpt_ysd",
+        "role": "original-character",
+        "publication": "https://note.com/chatgpt_ysd/n/ne86ecfd8aec5"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/chatgpt_ysd/n/ne86ecfd8aec5",
+    "downloadable": false,
+    "bg": "#efe7ea",
+    "color": "#764455",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者在教程中允许复制试用 Grok 7 和 Grok 8 示例，另请读者在使用ヨシダ相关设定前取得许可。分发用图像授权还需核实。",
+      "en": "The author allows readers to copy and try the Grok 7 and Grok 8 examples and asks readers to obtain permission for Yoshida-related settings. Image redistribution terms remain unconfirmed.",
+      "ja": "作者は Grok 7・Grok 8 のサンプルをコピーして試せると案内。ヨシダ関連設定の使用には事前の許可を求めています。画像の再配布条件は確認待ち。"
+    }
+  },
+  {
+    "id": "kawamura-grok-eight",
+    "entity": "grok",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Grok 8 · カワムラ",
+      "en": "Grok 8 · Kawamura",
+      "ja": "Grok 8 · カワムラ"
+    },
+    "description": {
+      "zh": "カワムラ的漫画教程示例角色，与 Grok 7 在新干线相邻而坐。",
+      "en": "A tutorial character by Kawamura who sits beside Grok 7 on the Shinkansen.",
+      "ja": "カワムラの漫画講座のキャラクター。新幹線で Grok 7 の隣に座る。"
+    },
+    "story": {
+      "zh": "カワムラ的漫画教程示例角色，与 Grok 7 在新干线相邻而坐。",
+      "en": "A tutorial character by Kawamura who sits beside Grok 7 on the Shinkansen.",
+      "ja": "カワムラの漫画講座のキャラクター。新幹線で Grok 7 の隣に座る。"
+    },
+    "features": {
+      "zh": "设定图中戴红色针织帽，留金色卷发，穿红色层叠裙。",
+      "en": "The character sheet shows a red knit bonnet, blond curls and a tiered red skirt.",
+      "ja": "設定画は赤いニット帽、金色の巻き髪、段のある赤いスカート。"
+    },
+    "author": "カワムラ",
+    "authorUrl": "https://note.com/chatgpt_ysd",
+    "source": "https://note.com/chatgpt_ysd/n/ne86ecfd8aec5",
+    "sourceTitle": "Gemini nanobanana2 で漫画を作る方法（初級）AI擬人化漫画　ChatGPTのヨシダ　Grok 編　",
+    "originalPublication": "https://note.com/chatgpt_ysd/n/ne86ecfd8aec5",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "カワムラ",
+        "url": "https://note.com/chatgpt_ysd",
+        "role": "original-character",
+        "publication": "https://note.com/chatgpt_ysd/n/ne86ecfd8aec5"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/chatgpt_ysd/n/ne86ecfd8aec5",
+    "downloadable": false,
+    "bg": "#efe7ea",
+    "color": "#764455",
+    "verifiedAt": "2026-11-27",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "作者在教程中允许复制试用 Grok 7 和 Grok 8 示例，另请读者在使用ヨシダ相关设定前取得许可。分发用图像授权还需核实。",
+      "en": "The author allows readers to copy and try the Grok 7 and Grok 8 examples and asks readers to obtain permission for Yoshida-related settings. Image redistribution terms remain unconfirmed.",
+      "ja": "作者は Grok 7・Grok 8 のサンプルをコピーして試せると案内。ヨシダ関連設定の使用には事前の許可を求めています。画像の再配布条件は確認待ち。"
+    }
   }
 ]

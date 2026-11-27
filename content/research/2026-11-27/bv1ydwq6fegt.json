@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1YdWQ6FEGt/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YdWQ6FEGt",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:08:12.053Z",
+  "scope": "The official view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the source description.",
+  "metadata": {
+    "bvid": "BV1YdWQ6FEGt",
+    "title": "如果为大肥鱼做一款游戏",
+    "owner": {
+      "mid": 1272251,
+      "name": "哦不是鲸鲸"
+    },
+    "pubdate": 1794442741,
+    "duration": 27
+  },
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "上善无形",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://www.pixiv.net/users/18604994"
+    }
+  ],
+  "descriptionSha256": "d946768bdea4e2fbd0d51819164b14a8351fe5409cabdfd5a7cd62edab0d6e1f"
+}

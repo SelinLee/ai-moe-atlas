@@ -1,0 +1,56 @@
+{
+  "url": "https://note.com/cat_type_ai_lab/n/n7d5acd10c565",
+  "title": "【紹介】研究所、はじめます｜ChatGPT・Gemini・Claudeを使い分ける『型』を集めます",
+  "httpStatus": 200,
+  "publicationTime": "2026-05-14T20:03:16.000+09:00",
+  "accessedAt": "2026-11-27T11:06:25.082Z",
+  "htmlSha256": "8c77bd277cf762e326ec493b0936332a50a7f292151e30562bb3fdb5d2d0ed4d",
+  "scope": "The creator’s profile article explicitly maps three names to three AI roles. Two cover renditions returned by the articles’ image host were hashed. No artwork-specific reuse terms were verified.",
+  "creator": "ねこ型AI研究所",
+  "creatorProfile": "https://note.com/cat_type_ai_lab",
+  "toolbox": {
+    "url": "https://note.com/cat_type_ai_lab/n/n72ecdf164aaf",
+    "title": "ChatGPT・Gemini・Claudeを使い分ける道具庫｜クロノAI・ギンAI・ミコAI",
+    "httpStatus": 200,
+    "publicationTime": "2026-05-15T21:00:03.000+09:00",
+    "accessedAt": "2026-11-27T11:06:25.083Z",
+    "htmlSha256": "9e001145bdb570e0931c93ff1b579cdcaff00bb607aa556fc449c62c8b42dc0e"
+  },
+  "roleHeadings": [
+    [
+      "746d8833-3743-447e-b2ab-e789fac3df7b",
+      "クロノ｜ChatGPT担当"
+    ],
+    [
+      "c99a0e9d-3767-4fef-83eb-2828c50d5e5f",
+      "ギン｜Gemini担当"
+    ],
+    [
+      "f85d6987-2abd-407d-8000-8ef0eb42aae6",
+      "ミコ｜Claude担当"
+    ]
+  ],
+  "imageScope": "Page-served cover renditions",
+  "files": [
+    {
+      "id": "cat-project-cover",
+      "url": "https://assets.st-note.com/production/uploads/images/276006245/rectangle_large_type_2_fe20714a554491d2df87412b24692ed1.png?width=1200",
+      "accessedAt": "2026-11-27T11:08:49.748Z",
+      "byteLength": 251905,
+      "sha256": "3181266487f87f2ba262df1fc556b7091fb80663769b88e4688ce071567b2919",
+      "format": "png",
+      "width": 1200,
+      "height": 629
+    },
+    {
+      "id": "cat-toolbox-cover",
+      "url": "https://assets.st-note.com/production/uploads/images/276053834/rectangle_large_type_2_3fc33e06366cbd336d5792fe5ec0445c.png?width=1200",
+      "accessedAt": "2026-11-27T11:08:49.581Z",
+      "byteLength": 224354,
+      "sha256": "f79ec8faa565f9092a9b60b0fa6caad6ea61ee8c51141df375de1a6b963215cf",
+      "format": "png",
+      "width": 1200,
+      "height": 628
+    }
+  ]
+}

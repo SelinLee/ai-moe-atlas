@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1oAnH6GEVt/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oAnH6GEVt",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:08:06.878Z",
+  "scope": "The official view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the source description.",
+  "metadata": {
+    "bvid": "BV1oAnH6GEVt",
+    "title": "再吃一顿饭｜白龙娘与大肥鱼的护送之路【DAY03】",
+    "owner": {
+      "mid": 15983236,
+      "name": "绛璃和珂幽运营ing"
+    },
+    "pubdate": 1792687630,
+    "duration": 211
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "658feb75b9584c8486a1439f30152ce86611ed080cf4834f8a7f0c0e64ed14fa"
+}

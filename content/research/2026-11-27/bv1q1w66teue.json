@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1q1W66TEue/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1q1W66TEue",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:08:10.243Z",
+  "scope": "The official view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the source description.",
+  "metadata": {
+    "bvid": "BV1q1W66TEue",
+    "title": "「操作无法完成，因为文件已在“大肥鱼”中打开。」world.execute(me);.mp4【DeepSeek 同人PV】",
+    "owner": {
+      "mid": 3707023734606057,
+      "name": "星野桜夢"
+    },
+    "pubdate": 1794592374,
+    "duration": 236
+  },
+  "sourceLinks": [
+    {
+      "role": "song-author-release",
+      "title": "Mili · world.execute(me);",
+      "url": "https://www.youtube.com/watch?v=ESx_hy1n7HA"
+    }
+  ],
+  "descriptionSha256": "02f7068527fd6f730cc9eb28f4bacde747e15a638e82c55d0ef28a354fcc8da4"
+}

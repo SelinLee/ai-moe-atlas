@@ -1,0 +1,39 @@
+{
+  "url": "https://note.com/chatgpt_ysd/n/ne86ecfd8aec5",
+  "title": "Gemini nanobanana2 で漫画を作る方法（初級）AI擬人化漫画　ChatGPTのヨシダ　Grok 編　",
+  "httpStatus": 200,
+  "publicationTime": "2026-03-15T07:13:19.000+09:00",
+  "accessedAt": "2026-11-27T11:06:25.087Z",
+  "htmlSha256": "fbb7aaede8ee63c858e4cc4055e68b8cbc14679d681334f0aa74c46fcb77cf8f",
+  "scope": "The creator publishes Grok 7 and Grok 8 in two example character sheets and distinguishes tutorial copying from the reserved Yoshida settings. Two page-served image renditions were checked by SHA-256.",
+  "creator": "カワムラ",
+  "creatorProfile": "https://note.com/chatgpt_ysd",
+  "permissionObservation": {
+    "examples": "The author invites readers to copy and try Grok 7 and Grok 8 in the tutorial.",
+    "yoshida": "The author requests permission for use of Yoshida characters and settings.",
+    "republication": "A separate grant covering redistribution or derivative packaging was not established."
+  },
+  "imageScope": "Page-served character sheets",
+  "files": [
+    {
+      "id": "grok-character-sheet",
+      "url": "https://assets.st-note.com/img/1772954545-0FpQ7anWTBtOfUAxygdNIKv4.png?width=1200",
+      "accessedAt": "2026-11-27T11:08:50.372Z",
+      "byteLength": 390431,
+      "sha256": "a1bc0e0c44ea5c6dcc83f4a6f2fecef62a89bdd08fee103cce538f1c4a3a9b60",
+      "format": "png",
+      "width": 1040,
+      "height": 1024
+    },
+    {
+      "id": "grok-alternate-sheet",
+      "url": "https://assets.st-note.com/img/1772958722-uDNYzfUHpE5XA2Ww3yotLaPc.png?width=1200",
+      "accessedAt": "2026-11-27T11:08:50.729Z",
+      "byteLength": 856733,
+      "sha256": "ca37a51a836bf2ebfeab1bca91757f6dc7e693ad470bf74f35df9c0ae2e672f4",
+      "format": "png",
+      "width": 1200,
+      "height": 1181
+    }
+  ]
+}

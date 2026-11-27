@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV15z17zzE8q/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15z17zzE8q",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:07:57.335Z",
+  "scope": "The official view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the source description.",
+  "metadata": {
+    "bvid": "BV15z17zzE8q",
+    "title": "【AI娘短剧】Kimi 展示 3D 生成翻车了，大肥鱼端来自己最爱的白饭……",
+    "owner": {
+      "mid": 3546713342085478,
+      "name": "蓝肥鱼不要涨价啊梁子"
+    },
+    "pubdate": 1795691542,
+    "duration": 16
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+}

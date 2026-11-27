@@ -1,0 +1,62 @@
+{
+  "url": "https://github.com/c-ling/dsh-plugin-pet/blob/672c068626a460268cc3e5514e9ff912dc5630a6/README.md",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T11:06:39.705Z",
+  "scope": "Pinned repository documentation and available permissions text were verified by Git blob and SHA-256. Feature descriptions follow the publisher.",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/c-ling/dsh-plugin-pet/blob/672c068626a460268cc3e5514e9ff912dc5630a6/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/c-ling/dsh-plugin-pet/672c068626a460268cc3e5514e9ff912dc5630a6/README.md",
+    "sourceSha256": "367b8a082608203f21fd7962466fedb0d88ece9d9262aa624762cd1fe6e332af",
+    "gitBlobSha": "7f5a6298ff9b00aa4ec44ec47deb1ed323d4b020",
+    "bytes": 11294,
+    "commit": "672c068626a460268cc3e5514e9ff912dc5630a6",
+    "accessedAt": "2026-11-27T11:06:39.705Z"
+  },
+  "repository": {
+    "full_name": "c-ling/dsh-plugin-pet",
+    "html_url": "https://github.com/c-ling/dsh-plugin-pet",
+    "stargazers_count": 5,
+    "archived": false,
+    "created_at": "2026-08-14T08:45:22Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "672c068626a460268cc3e5514e9ff912dc5630a6",
+    "observedAt": "2026-11-27T11:05:59.839Z",
+    "httpStatus": 200,
+    "metadataSha256": "d747f795162b7389a4634a6463e37e8db70bd566a7c406dea085f260d72d7460",
+    "parent": null
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/c-ling/dsh-plugin-pet/blob/672c068626a460268cc3e5514e9ff912dc5630a6/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/c-ling/dsh-plugin-pet/672c068626a460268cc3e5514e9ff912dc5630a6/README.md",
+      "sourceSha256": "367b8a082608203f21fd7962466fedb0d88ece9d9262aa624762cd1fe6e332af",
+      "gitBlobSha": "7f5a6298ff9b00aa4ec44ec47deb1ed323d4b020",
+      "bytes": 11294,
+      "commit": "672c068626a460268cc3e5514e9ff912dc5630a6",
+      "accessedAt": "2026-11-27T11:06:39.705Z"
+    },
+    {
+      "path": "README-en.md",
+      "url": "https://github.com/c-ling/dsh-plugin-pet/blob/672c068626a460268cc3e5514e9ff912dc5630a6/README-en.md",
+      "rawUrl": "https://raw.githubusercontent.com/c-ling/dsh-plugin-pet/672c068626a460268cc3e5514e9ff912dc5630a6/README-en.md",
+      "sourceSha256": "07a73df703bc58efde011f5052e57607e65856b8c3ed769c8a0081db7ee069aa",
+      "gitBlobSha": "7dc62680a1fd7a4245c88b66614361bbe408cf5d",
+      "bytes": 11536,
+      "commit": "672c068626a460268cc3e5514e9ff912dc5630a6",
+      "accessedAt": "2026-11-27T11:06:40.604Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/c-ling/dsh-plugin-pet/blob/672c068626a460268cc3e5514e9ff912dc5630a6/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/c-ling/dsh-plugin-pet/672c068626a460268cc3e5514e9ff912dc5630a6/LICENSE",
+      "sourceSha256": "883252789e40669f7b6b7e88add2dd7229a151c90c4d569654e03d2ce3d62064",
+      "gitBlobSha": "ea8d9b47212461f0e211c0ade18dd11bca946c43",
+      "bytes": 1065,
+      "commit": "672c068626a460268cc3e5514e9ff912dc5630a6",
+      "accessedAt": "2026-11-27T11:06:41.007Z"
+    }
+  ]
+}

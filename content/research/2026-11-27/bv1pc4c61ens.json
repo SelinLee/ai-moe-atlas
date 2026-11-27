@@ -1,0 +1,46 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Pc4c61ENs/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Pc4c61ENs",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:07:59.185Z",
+  "scope": "The official view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the source description.",
+  "metadata": {
+    "bvid": "BV1Pc4c61ENs",
+    "title": "【AI娘竞技场7】光轮冠军也会卡在仓库？十位AI娘双赛争冠",
+    "owner": {
+      "mid": 38859430,
+      "name": "凯爷Koala"
+    },
+    "pubdate": 1793594007,
+    "duration": 1767
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-cited-original",
+      "title": "喵了个猫了个咪了个猫 · BV1pJnB6iEd7",
+      "url": "https://www.bilibili.com/video/BV1pJnB6iEd7/"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://www.bilibili.com/opus/1233069202138464289"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "上善无形",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "original-competition-rules",
+      "title": "Meow AI Arena · README.md",
+      "url": "https://github.com/chen-006/meow-ai-arena/blob/2dd53d8c5cdff11ee3569a154a85666faf8ffb20/README.md"
+    }
+  ],
+  "descriptionSha256": "45688c674e28aa02eccaef39bf722669878effe0e5c4ff71294fbc4b1bad7c81",
+  "rulesEvidence": {
+    "path": "content/research/2026-11-27/meow-ai-arena-round-seven-rules.json",
+    "sha256": "de807d80b1c62b4d35082f4f74965a7ef348a743f7b450ce883de07d097083e2",
+    "kind": "browser-metadata-extract"
+  }
+}

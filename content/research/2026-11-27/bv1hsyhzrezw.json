@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1hsyHzrEzW/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hsyHzrEzW",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:08:13.641Z",
+  "scope": "The official view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the source description.",
+  "metadata": {
+    "bvid": "BV1hsyHzrEzW",
+    "title": "【AI赛博法庭】控告大肥鱼“服务器繁忙”摸鱼罪！公诉猫娘刚亮铁证，被告反手把老板判了？！【B站AI创造公开赛】",
+    "owner": {
+      "mid": 434173070,
+      "name": "mcochaa"
+    },
+    "pubdate": 1795689000,
+    "duration": 71
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "f4bc8952e3a312f57c3b2e5d41a2a08f7624d9437a8cfd9c79467e695efaa93b"
+}

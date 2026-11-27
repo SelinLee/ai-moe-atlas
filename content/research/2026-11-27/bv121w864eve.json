@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV121W864EVe/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV121W864EVe",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:08:02.814Z",
+  "scope": "The official view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the source description.",
+  "metadata": {
+    "bvid": "BV121W864EVe",
+    "title": "《AiGO!!!!!·雨夜退团》“我从来没觉得组乐队开心过！”大肥鱼退团当客服，前队友找新欢？【HiShorts! × updream AI短片大赛-动画单元】",
+    "owner": {
+      "mid": 10706217,
+      "name": "穿睡衣的小白白"
+    },
+    "pubdate": 1794228643,
+    "duration": 144
+  },
+  "sourceLinks": [
+    {
+      "role": "credited-character-reference",
+      "title": "上善无形",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "credited-character-reference",
+      "title": "ZipZipPipe",
+      "url": "https://www.pixiv.net/users/18604994"
+    }
+  ],
+  "descriptionSha256": "ba604ee7f1688714431361c76c8ab61c6ee8cedcfa95b3928191bae67627ebba"
+}

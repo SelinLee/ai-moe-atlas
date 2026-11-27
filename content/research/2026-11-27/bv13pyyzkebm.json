@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV13pyYzkEBm/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13pyYzkEBm",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:08:08.659Z",
+  "scope": "The official view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the source description.",
+  "metadata": {
+    "bvid": "BV13pyYzkEBm",
+    "title": "大肥鱼的特调咖啡",
+    "owner": {
+      "mid": 3546373584587233,
+      "name": "潜辄"
+    },
+    "pubdate": 1795276686,
+    "duration": 65
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "25bf6d0bb727a26783f6ff1eadf39b25bd382bfec4f1c64b07c52683045e3c5a"
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1B74563Ebt/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1B74563Ebt",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:08:05.125Z",
+  "scope": "The official view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the source description.",
+  "metadata": {
+    "bvid": "BV1B74563Ebt",
+    "title": "鲸鱼娘glagame豆包篇更新",
+    "owner": {
+      "mid": 3546903146924319,
+      "name": "欧码吉利大肥鱼"
+    },
+    "pubdate": 1793989656,
+    "duration": 93
+  },
+  "sourceLinks": [
+    {
+      "role": "project-release",
+      "title": "v0.22.0-preview.1",
+      "url": "https://github.com/870255475-del/sen-to-man-ken/releases/tag/v0.22.0-preview.1"
+    },
+    {
+      "role": "uploader-cited-music",
+      "title": "Kevin MacLeod · Carefree",
+      "url": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400037"
+    }
+  ],
+  "descriptionSha256": "8ae83bbc2ae60bf88f95ef62f3ba704cb73dfc1b59c24229b95f4c15deb4aef5"
+}

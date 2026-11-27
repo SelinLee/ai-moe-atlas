@@ -1,0 +1,46 @@
+{
+  "url": "https://github.com/chen-006/meow-ai-arena/blob/2dd53d8c5cdff11ee3569a154a85666faf8ffb20/README.md",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T11:10:57.629Z",
+  "scope": "Pinned tournament documentation and its license were independently retrieved by Git blob and SHA-256. The animation credits the corresponding official Bilibili upload by the organizer.",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/chen-006/meow-ai-arena/blob/2dd53d8c5cdff11ee3569a154a85666faf8ffb20/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/chen-006/meow-ai-arena/2dd53d8c5cdff11ee3569a154a85666faf8ffb20/README.md",
+    "sourceSha256": "4829f4538507627de16e8c7f11af941e851e3b7a87b88eb7685689b51603ec77",
+    "gitBlobSha": "c888e00d98b2027272b6a752848e7f86e93aeb03",
+    "bytes": 19845,
+    "commit": "2dd53d8c5cdff11ee3569a154a85666faf8ffb20",
+    "accessedAt": "2026-11-27T11:10:57.629Z"
+  },
+  "files": [
+    {
+      "path": "README_en.md",
+      "url": "https://github.com/chen-006/meow-ai-arena/blob/2dd53d8c5cdff11ee3569a154a85666faf8ffb20/README_en.md",
+      "rawUrl": "https://raw.githubusercontent.com/chen-006/meow-ai-arena/2dd53d8c5cdff11ee3569a154a85666faf8ffb20/README_en.md",
+      "sourceSha256": "2104b38f257bc6c26bff1cefd98686523f4b3a5c8e64682a072ec7d381a5384d",
+      "gitBlobSha": "b93b4ae8ec28ef02b326c2adf53c0d480f76d035",
+      "bytes": 20945,
+      "commit": "2dd53d8c5cdff11ee3569a154a85666faf8ffb20",
+      "accessedAt": "2026-11-27T11:10:57.987Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/chen-006/meow-ai-arena/blob/2dd53d8c5cdff11ee3569a154a85666faf8ffb20/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/chen-006/meow-ai-arena/2dd53d8c5cdff11ee3569a154a85666faf8ffb20/LICENSE",
+      "sourceSha256": "7ffaac2d2e27576ee4d8417d8985999a0bcc5b76c9693b42f33f4319252a179a",
+      "gitBlobSha": "34d197c830cf4dbd1acd3a2a0b7f846367977b05",
+      "bytes": 1083,
+      "commit": "2dd53d8c5cdff11ee3569a154a85666faf8ffb20",
+      "accessedAt": "2026-11-27T11:10:58.330Z"
+    }
+  ],
+  "originalVideo": {
+    "bvid": "BV1pJnB6iEd7",
+    "url": "https://www.bilibili.com/video/BV1pJnB6iEd7/",
+    "observedAt": "2026-11-27T11:09:02.986Z",
+    "publisher": "喵了个猫了个咪了个猫",
+    "publisherId": 3747560994900534,
+    "title": "9 个冷门 AI 挑战擂主豆包：写程序对打 + 改屎山代码，谁是区王？｜AI 算法对抗大赛 第 7 集 · 区王争霸赛"
+  }
+}

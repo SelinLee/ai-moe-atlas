@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1dnWU6xE2k/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dnWU6xE2k",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:08:03.255Z",
+  "scope": "The official view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the source description.",
+  "metadata": {
+    "bvid": "BV1dnWU6xE2k",
+    "title": "带着大肥鱼穿越2006年 双十一番外篇【动画短片】",
+    "owner": {
+      "mid": 672414656,
+      "name": "不正经的游戏讲师"
+    },
+    "pubdate": 1794412952,
+    "duration": 81
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "be4dee56f6f5d696fa9849ddd0f4a315aba193a06dd0590d529021ca83fc3d02"
+}

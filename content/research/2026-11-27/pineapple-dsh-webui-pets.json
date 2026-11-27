@@ -1,0 +1,52 @@
+{
+  "url": "https://github.com/pineapple880066/dsh-webUI-pets/blob/71bb3a99f2bd04e0e5139a2d3dcbc591ada703fc/README.md",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-27T11:06:41.804Z",
+  "scope": "Pinned repository documentation and available permissions text were verified by Git blob and SHA-256. Feature descriptions follow the publisher.",
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/pineapple880066/dsh-webUI-pets/blob/71bb3a99f2bd04e0e5139a2d3dcbc591ada703fc/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/pineapple880066/dsh-webUI-pets/71bb3a99f2bd04e0e5139a2d3dcbc591ada703fc/README.md",
+    "sourceSha256": "3a3c5a4a03ea649b3bd532146febc9a8d1437749b44afe21a101de89e72ec3a2",
+    "gitBlobSha": "e3d4ac12b5a6448f6c731c21d4e5e77e3c5fd591",
+    "bytes": 5333,
+    "commit": "71bb3a99f2bd04e0e5139a2d3dcbc591ada703fc",
+    "accessedAt": "2026-11-27T11:06:41.804Z"
+  },
+  "repository": {
+    "full_name": "pineapple880066/dsh-webUI-pets",
+    "html_url": "https://github.com/pineapple880066/dsh-webUI-pets",
+    "stargazers_count": 2,
+    "archived": false,
+    "created_at": "2026-08-14T06:35:49Z",
+    "default_branch": "main",
+    "fork": false,
+    "commit": "71bb3a99f2bd04e0e5139a2d3dcbc591ada703fc",
+    "observedAt": "2026-11-27T11:06:09.096Z",
+    "httpStatus": 200,
+    "metadataSha256": "5923d9056466b477fe9d81eab16f0e522c315aeecf13630233dcf55236e4ae1e",
+    "parent": null
+  },
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/pineapple880066/dsh-webUI-pets/blob/71bb3a99f2bd04e0e5139a2d3dcbc591ada703fc/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/pineapple880066/dsh-webUI-pets/71bb3a99f2bd04e0e5139a2d3dcbc591ada703fc/README.md",
+      "sourceSha256": "3a3c5a4a03ea649b3bd532146febc9a8d1437749b44afe21a101de89e72ec3a2",
+      "gitBlobSha": "e3d4ac12b5a6448f6c731c21d4e5e77e3c5fd591",
+      "bytes": 5333,
+      "commit": "71bb3a99f2bd04e0e5139a2d3dcbc591ada703fc",
+      "accessedAt": "2026-11-27T11:06:41.804Z"
+    },
+    {
+      "path": "README.zh.md",
+      "url": "https://github.com/pineapple880066/dsh-webUI-pets/blob/71bb3a99f2bd04e0e5139a2d3dcbc591ada703fc/README.zh.md",
+      "rawUrl": "https://raw.githubusercontent.com/pineapple880066/dsh-webUI-pets/71bb3a99f2bd04e0e5139a2d3dcbc591ada703fc/README.zh.md",
+      "sourceSha256": "1510263fa7a18e5af488cfaa3c5808ce59797666b31377d764086dce8f9844c7",
+      "gitBlobSha": "153dce99fbf9ea5635762adf07fff3f040123e03",
+      "bytes": 2191,
+      "commit": "71bb3a99f2bd04e0e5139a2d3dcbc591ada703fc",
+      "accessedAt": "2026-11-27T11:06:42.176Z"
+    }
+  ]
+}

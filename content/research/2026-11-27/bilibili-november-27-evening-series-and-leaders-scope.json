@@ -1,0 +1,29 @@
+{
+  "previousEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-moss-and-short-films.json",
+    "sha256": "eaf566a8ae5c6a1285d2c5ee8908613da57e332c4b891f7f229da8ce864cb856",
+    "kind": "browser-metadata-extract"
+  },
+  "currentEvidence": {
+    "path": "content/research/2026-11-27/bilibili-cumulative-likes-november-27-evening-series-and-leaders.json",
+    "sha256": "192591fd1e94d28c8752f6c100c2357974c1b58f774c3c7d5936c2d1a8c92ca5",
+    "kind": "browser-metadata-extract"
+  },
+  "attempted": {
+    "newCandidates": 19,
+    "rankedHead": 15,
+    "sourceVideo": 1
+  },
+  "refreshed": 15,
+  "added": 19,
+  "retainedPending": 13,
+  "sourceVideo": {
+    "bvid": "BV1pJnB6iEd7",
+    "url": "https://www.bilibili.com/video/BV1pJnB6iEd7/",
+    "httpStatus": 200,
+    "code": 0,
+    "checkedAt": "2026-11-27T11:09:02.986Z",
+    "title": "9 个冷门 AI 挑战擂主豆包：写程序对打 + 改屎山代码，谁是区王？｜AI 算法对抗大赛 第 7 集 · 区王争霸赛",
+    "publisher": "喵了个猫了个咪了个猫"
+  }
+}

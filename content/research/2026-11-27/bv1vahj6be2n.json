@@ -1,0 +1,20 @@
+{
+  "url": "https://www.bilibili.com/video/BV1vaHJ6BE2N/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vaHJ6BE2N",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-27T11:08:08.643Z",
+  "scope": "The official view response confirms video identity, publisher, publication date and cumulative likes. Attribution links follow the source description.",
+  "metadata": {
+    "bvid": "BV1vaHJ6BE2N",
+    "title": "〖纸绘动画〗Deepseek鲸鱼娘/豆包；每个人从下往上看都很丑 手书",
+    "owner": {
+      "mid": 3632313615256020,
+      "name": "月饼MnCk"
+    },
+    "pubdate": 1791158400,
+    "duration": 13
+  },
+  "sourceLinks": [],
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+}
