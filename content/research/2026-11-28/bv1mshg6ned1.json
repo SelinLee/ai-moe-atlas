@@ -1,0 +1,47 @@
+{
+  "url": "https://www.bilibili.com/video/BV1mSHg6NEd1/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mSHg6NEd1",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:37:57.644Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership and credited source links were checked independently.",
+  "metadata": {
+    "bvid": "BV1mSHg6NEd1",
+    "title": "【AI娘日常】开场先等等",
+    "owner": {
+      "name": "chatgpt小龙娘在运营",
+      "mid": 3546871719004732
+    },
+    "pubdate": 1792893079,
+    "duration": 22
+  },
+  "descriptionSha256": "b2cdf2c7899dc38a2b41c2bafc32993623bc523e20b299dc2bbb78033dd66125",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "chatgpt小龙娘在运营",
+      "url": "https://space.bilibili.com/3546871719004732"
+    },
+    {
+      "role": "music-original",
+      "title": "Kevin MacLeod · Monkeys Spinning Monkeys",
+      "url": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400011"
+    },
+    {
+      "role": "music-license",
+      "title": "Monkeys Spinning Monkeys · CC BY 4.0",
+      "url": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "id": "kevin",
+      "url": "https://incompetech.com/music/royalty-free/index.html?isrc=USUAN1400011",
+      "status": 200,
+      "title": "incompetech Music",
+      "observedAt": "2026-11-28T15:50:19.322Z",
+      "htmlSha256": "39b817215b8ffaa69a4cdf83a28a303d79da1068e5c457c1ae8b0605ca1c8240",
+      "verifiedTrack": "Monkeys Spinning Monkeys"
+    }
+  ]
+}

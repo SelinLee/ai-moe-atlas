@@ -1,0 +1,56 @@
+{
+  "url": "https://www.bilibili.com/video/BV1S2Wo66Edb/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1S2Wo66Edb",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:37:44.870Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership and credited source links were checked independently.",
+  "metadata": {
+    "bvid": "BV1S2Wo66Edb",
+    "title": "梁祝 || 梁兄，我认得路",
+    "owner": {
+      "name": "彼岸花Channel",
+      "mid": 13787349
+    },
+    "pubdate": 1794709800,
+    "duration": 267
+  },
+  "descriptionSha256": "adb45b36e846ea447075e4c94ae3322560a17feef7aed9f4514d0df69d4a9925",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "彼岸花Channel",
+      "url": "https://space.bilibili.com/13787349"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你好, I'm DS.我喜欢你.【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV15iby6tEQx/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "《大模型复读班 》 第五集： 收到，豆包已上线！",
+      "url": "https://www.bilibili.com/video/BV1tKW363Ety/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "西厢记 || DC宇宙系列|| 八千里路云和月~意气风发大肥鱼！",
+      "url": "https://www.bilibili.com/video/BV1ogyYzDEeC/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Kimi——快帮帮我❗️凌晨3点 ，舞台为你亮起❗️",
+      "url": "https://www.bilibili.com/video/BV1pZ14z7ECE/"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "DS娘长视频故事合集",
+    "titleInPlaylist": "梁祝 · 我认得路",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-design-and-retake-class-playlists.json",
+      "sha256": "0c8c16257cea7f191199cd3c1cd2a8d53469db61bb1092cb1175f89e535ba958",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

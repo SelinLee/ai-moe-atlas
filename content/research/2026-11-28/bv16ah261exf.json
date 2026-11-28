@@ -1,0 +1,56 @@
+{
+  "url": "https://www.bilibili.com/video/BV16Ah261Exf/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16Ah261Exf",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:37:49.662Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership and credited source links were checked independently.",
+  "metadata": {
+    "bvid": "BV16Ah261Exf",
+    "title": "大肥鱼咖啡",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1790337911,
+    "duration": 18
+  },
+  "descriptionSha256": "aa946cca0ed3f8204d476c3876d5fc99787ad57e1e7c7c7f62007d04158f1c94",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "大肥鱼：原来是哈基米~",
+      "url": "https://www.bilibili.com/video/BV1AEh162ETh/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "龙背上的骑兵？鳍背上的龙兵？",
+      "url": "https://www.bilibili.com/video/BV1q7a16gEr1/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥",
+      "url": "https://www.bilibili.com/video/BV1RcyfzQEcH/"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "大肥鱼咖啡",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-design-and-retake-class-playlists.json",
+      "sha256": "0c8c16257cea7f191199cd3c1cd2a8d53469db61bb1092cb1175f89e535ba958",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "url": "https://www.bilibili.com/video/BV1trsf62Evy/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1trsf62Evy",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:37:54.459Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership and credited source links were checked independently.",
+  "metadata": {
+    "bvid": "BV1trsf62Evy",
+    "title": "带大肥鱼逛超市",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1793270684,
+    "duration": 67
+  },
+  "descriptionSha256": "e4373ca51cbfb6ccf9401a95f4180ea4afe5094dfbd2aa22c4c0e9b8a439b628",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "大肥鱼孤独摇滚",
+      "url": "https://www.bilibili.com/video/BV1nsxx6GE8N/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "看千问大小姐跳舞",
+      "url": "https://www.bilibili.com/video/BV1DuxD6bEts/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥",
+      "url": "https://www.bilibili.com/video/BV1RcyfzQEcH/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "带大肥鱼逛超市",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-design-and-retake-class-playlists.json",
+      "sha256": "0c8c16257cea7f191199cd3c1cd2a8d53469db61bb1092cb1175f89e535ba958",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

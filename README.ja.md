@@ -26,16 +26,16 @@
 [キャラクター三面図](https://selinlee.github.io/ai-moe-atlas/ja/chibi/) · [落書き風アイコン](docs/DOODLE.ja.md) · [落書き風スタンプ](https://selinlee.github.io/ai-moe-atlas/ja/emotes/) · [AI 二次創作動画 · 抖音ホーム](https://www.douyin.com/user/MS4wLjABAAAAa3lc_FI5WmPENMLwdN7Ij4r5iNxAM09Ny0rPcB2Ow4E) · [AI 二次創作動画 · Bilibili ホーム](https://space.bilibili.com/3706970263521942)
 
 <!-- category-picks:characters -->
-**[🎨 キャラクター図鑑](#characters)** · 146 項目\
-[GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/) · [Gemini Pro · 原画と表情](https://selinlee.github.io/ai-moe-atlas/ja/characters/qinv-gemini-pro/) · [星野栞 · ふなの三面図](https://selinlee.github.io/ai-moe-atlas/ja/characters/funa-hoshino-shiori/)
+**[🎨 キャラクター図鑑](#characters)** · 150 項目\
+[GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/ja/characters/zipzippipe-chatgpt/) · [Gemini Pro · 原画と表情](https://selinlee.github.io/ai-moe-atlas/ja/characters/qinv-gemini-pro/) · [クロードちゃん · だーの三面図](https://selinlee.github.io/ai-moe-atlas/ja/characters/da-claude-literature-coding/)
 
 <!-- category-picks:personas -->
 **[💬 キャラクター性格プロンプト](#personas)** · 11 件\
 [GLM 狐娘 · ZCode 版](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md) · [Claude 娘「小克」· deslop 執筆カード](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md) · [DeepSeek クジラ娘 · QQ チャット版](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md)
 
 <!-- category-picks:songs -->
-**[🎵 楽曲](#songs)** · 242 曲\
-[人は猫 · 大肥魚カバー](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [我的悲伤是水做的 · 白竜娘の描き直し](https://www.bilibili.com/video/BV14Cnu64ErL/) · [危険なパーティー · 豆包と大きな魚](https://www.bilibili.com/video/BV1WC4G61E3e/)
+**[🎵 楽曲](#songs)** · 243 曲\
+[人は猫 · 大肥魚カバー](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [我的悲伤是水做的 · 白竜娘の描き直し](https://www.bilibili.com/video/BV14Cnu64ErL/) · [How It’s Done · GRUB/X](https://www.bilibili.com/video/BV1Sp4b6PEcb/)
 
 <!-- category-picks:stickers -->
 **[🗨️ スタンプとリアクション画像](#stickers)** · 13 件\
@@ -46,20 +46,20 @@
 [欧鲸鲸 · Live2D 作者配布](https://www.bilibili.com/video/BV1djx46iEuH/) · [水原镜 · 青い大きな魚 MMD モデル配布](https://www.aplaybox.com/details/model/j9z4quaACJV1) · [木子悪魔 · 青い小さな魚 VRM の作者公開ページ](https://www.aplaybox.com/details/model/ayXkRzVflmnd)
 
 <!-- category-picks:comics -->
-**[📖 漫画と連載](#comics)** · 85 作品\
-[AI GIRLS · 初対面 · 原作漫画](https://www.bilibili.com/video/BV15Npa6zE44/) · [カワムラ · 吉田のハロウィン漫画](https://note.com/chatgpt_ysd/n/n43469edeace1) · [そらちゃん · 作者の漫画](https://note.com/nenkoro_life/n/n055d268c466d)
+**[📖 漫画と連載](#comics)** · 87 作品\
+[AI GIRLS · 初対面 · 原作漫画](https://www.bilibili.com/video/BV15Npa6zE44/) · [カワムラ · 吉田のハロウィン漫画](https://note.com/chatgpt_ysd/n/n43469edeace1) · [ヨシダ · 第1話と初期設定](https://note.com/chatgpt_ysd/n/n2e62683ab19a)
 
 <!-- category-picks:animations -->
-**[🎬 アニメ・動画二次創作](#animations)** · 1449 件\
-[チャット画面が彼女の世界のすべてだったら](https://www.bilibili.com/video/BV1xCai6aE9g/) · [大きな魚のシェア生活 · 第2期1〜6話まとめ](https://www.bilibili.com/video/BV14F1uzPEPH/) · [青い大きな魚 · 末儿克丝 Morx](https://www.bilibili.com/video/BV1X1hK69EDJ/)
+**[🎬 アニメ・動画二次創作](#animations)** · 1484 件\
+[チャット画面が彼女の世界のすべてだったら](https://www.bilibili.com/video/BV1xCai6aE9g/) · [大きな魚のシェア生活 · 第2期1〜6話まとめ](https://www.bilibili.com/video/BV14F1uzPEPH/) · [DeepSeek · AI 娘キャラデザイン談義](https://www.bilibili.com/video/BV16qWM6WEfe/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 ペット・インタラクティブ作品](#desktop-pets)** · 235 プロジェクト\
-[dsh-TUI · ピクセルクジラ Deepy](https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/README_ZH.md) · [Copiwaifu · Live2D コーディングペット](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [Senyo · Codex v2 ペット8体](https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/README.md)
+**[🐾 ペット・インタラクティブ作品](#desktop-pets)** · 238 プロジェクト\
+[dsh-TUI · ピクセルクジラ Deepy](https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/README_ZH.md) · [Copiwaifu · Live2D コーディングペット](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [Malou · 茶白の犬のペット](https://github.com/mySebbe/malou-codex-pet/blob/2d26709b57f12e155304a97ced3638ce7be9e48a/README.md)
 
 <!-- category-picks:sources -->
-**[📚 作者の作品と出典](#sources)** · 292 件\
-[上善无形 · クジラ娘の原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini ファミリー集合絵](https://www.bilibili.com/opus/1273349110528737288) · [ProtocolFour · 作者の線画](https://note.com/pfhq/n/n3aab23ac0447)
+**[📚 作者の作品と出典](#sources)** · 297 件\
+[上善无形 · クジラ娘の原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini ファミリー集合絵](https://www.bilibili.com/opus/1273349110528737288) · [だー · Gemini の制作記録](https://note.com/_ttaku/n/n7d0f9897fe5e)
 
 <a id="references"></a>
 
@@ -72,6 +72,8 @@ SelinLee がコミュニティのキャラクターを基に、AI で三面図�
 <a id="characters"></a>
 
 ### 🎨 キャラクター図鑑
+
+だーの Gemini・Claude・ChatGPT と、あすくろの Gemini の設定4件を追加。 [Claude の三面図](https://selinlee.github.io/ai-moe-atlas/ja/characters/da-claude-literature-coding/) · [Gemini の三面図](https://selinlee.github.io/ai-moe-atlas/ja/characters/da-gemini-school-uniform/)
 
 ふなの星野栞、ねんころのそらちゃん、しずくの Gemini と Claude の設定4件を追加。 [星野栞](https://selinlee.github.io/ai-moe-atlas/ja/characters/funa-hoshino-shiori/) · [そらちゃん](https://selinlee.github.io/ai-moe-atlas/ja/characters/nenkoro-sora-chatgpt/)
 
@@ -160,6 +162,8 @@ Tokentaker キャラクター設定 · [DeepSeek](https://selinlee.github.io/ai-
 <a id="songs"></a>
 
 ### 🎵 楽曲
+
+「How It’s Done」の公式版と二次創作「GRUB/X」を掲載。「洛天依投食歌」の初期転載と歌い直しからクレジットを確認。 [How It’s Done](https://selinlee.github.io/ai-moe-atlas/ja/songs/#how-its-done-huntr-x) · [投食歌のクレジット](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1kxtw6depz)
 
 「危険なパーティー」の原曲と振付の参照先を掲載。「Trouble Maker」の二次創作版2件も追加。 [危険なパーティー](https://selinlee.github.io/ai-moe-atlas/ja/songs/#dangerous-party) · [Trouble Maker](https://selinlee.github.io/ai-moe-atlas/ja/songs/#trouble-maker-duo)
 
@@ -272,6 +276,8 @@ Mao绒绒家园 と 狐宫静 の Live2D 原投稿を追加し、神宫凉子 �
 
 ### 📖 漫画と連載
 
+カワムラ「ChatGPTのヨシダ」第1話と、あすくろの4ページ漫画を追加。 [ヨシダ · 第1話](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=comics#kawamura-yoshida-first-episode) · [あすくろ · 4ページ漫画](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=comics#asukuro-gemini-comic-viewer-story)
+
 そらちゃんの初登場漫画としずくの4コマなど、作者の公開先3件を追加しました。 [そらちゃん · 初登場漫画](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=comics#nenkoro-sora-first-comic) · [しずく · 4コマ](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=comics#shizuku-ao-and-sui-comic)
 
 月詠学園の4話短編と、ちゃんすけの Claude と Gemini の編集会議を作者の公開先付きで追加しました。 [月詠学園 · ネクサス登場](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=comics#links-lt-tsukuyomi-nexus-debut) · [Claude と Gemini の編集会議](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=comics#chansuke-claude-gemini-editorial-meeting)
@@ -307,6 +313,8 @@ Workfine の制作回顧、カワムラ と Ali の AI 4コマなど、作者の
 <a id="animations"></a>
 
 ### 🎬 アニメ・動画二次創作
+
+二次創作35件を追加し、40件の累計いいねを更新。「AI娘人设」11本と「大規模モデルの補習クラス」第1〜5話を相互に案内。 [AI 娘のキャラデザイン談義](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv16qwm6wefe) · [大規模モデルの補習クラス](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv15apa6temd) · [いいね観測記録](content/research/2026-11-28/bilibili-cumulative-likes-november-28-retake-class-and-character-notes.json)
 
 二次創作39件を追加し、末儿克丝 Morx「青い大きな魚」の公式プレイリスト20本を揃えました。60件の累計いいねを更新し、新規候補1件は確認待ち。 [青い大きな魚 · リストの最初の投稿](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=animation#bv1nq8u6oeex) · [いいね観測記録](content/research/2026-11-28/bilibili-cumulative-likes-november-28-morx-and-series.json)
 
@@ -393,6 +401,8 @@ Claude の短編やインタラクティブ動画、カバーを含む27件を�
 
 ### 🐾 ペット・インタラクティブ作品
 
+Malou・poteto・Codex Pet Studio を追加し、透過画像7枚を照合。Malou の画像は CC BY-NC 4.0、コードは MIT。 [Malou · 画像と利用条件](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#mysebbe-malou-codex-pet) · [poteto · 衣装4種](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#gentt-poteto-codex-pet)
+
 Senyo のペット集を追加。v2 の透過画像8枚について SHA-256、作者表示、CC BY 4.0 を個別に確認。 [ペット · 画像と利用条件](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#senyo-codex-pets-v2-creator-collection)
 
 GitHub のペット4件とブラウザ版ノベル1件を追加しました。黒毛の画像8枚の SHA-256 を確認し、ブランド素材とインストーラーそれぞれの条件を掲載。 [黒毛 · 画像と利用条件](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#mison-hei-mao-codex-pets) · [AI 学園 · ブラウザ版ビジュアルノベル](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive#tanu-ai-academy-browser-novel)
@@ -430,7 +440,7 @@ dsh-TUI、Table Fridge、BigFatFish など5件を追加。dsh-TUI は Star 8,353
 | 9 | [デスクトップ大きな魚 · dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md) | [3,381](https://github.com/MerZlin/dsh-pet-indesktop) |
 | 10 | [Claude Desktop Buddy · 公式ハードウェア例](https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/README.md) | [2,728](https://github.com/anthropics/claude-desktop-buddy) |
 
-[ペット・インタラクティブ作品の全順位を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive) · [Star 数の確認記録](content/research/2026-11-28/github-interactive-stars-november-28-senyo-codex-pet-catalog.json)
+[ペット・インタラクティブ作品の全順位を見る](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=interactive) · [Star 数の確認記録](content/research/2026-11-28/github-interactive-stars-november-28-malou-poteto-and-pet-studio.json)
 
 <!-- interactive-ranking:end -->
 
@@ -475,6 +485,8 @@ Hermes ペットと macOS スプライト版などを固定版の資料ととも
 <a id="sources"></a>
 
 ### 📚 作者の作品と出典
+
+作者の公開先5件と、画像13枚の SHA-256 を記録。三面図と漫画は作者の記事から閲覧できます。 [だー · Gemini の記事](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=sources#da-gemini-personification-volume-one) · [だー · ChatGPT の記事](https://selinlee.github.io/ai-moe-atlas/ja/resources/?category=sources#da-chatgpt-personification-volume-three)
 
 ZipZipPipe の[出典と利用声明](https://t.bilibili.com/1231980045693616162)も参照できます。
 

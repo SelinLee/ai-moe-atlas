@@ -1,0 +1,52 @@
+{
+  "url": "https://note.com/asukuro/n/n7d1f25c43ff3",
+  "accessedAt": "2026-11-28T15:36:34.526Z",
+  "httpStatus": 200,
+  "title": "コミックビューワを試したくて漫画を描きたかったけど、結局Geminiさんに全部描いてもらった話（プロンプト付き）",
+  "creator": "https://note.com/asukuro",
+  "publishedAt": "2026-04-23T08:45:43.000+09:00",
+  "htmlSha256": "f5783b13fac6bf49ed222cb0ae51df3789c4a267a88fbb6b188df2173c8b2c62",
+  "scope": "Creator post and selected first-party artwork files checked in isolated headless Chrome. Original byte lengths and SHA-256 values are retained.",
+  "files": [
+    {
+      "index": 2,
+      "url": "https://assets.st-note.com/img/1776894698-9NUdmghi3wIQo5ALbHJqKWrn.png",
+      "sha256": "b19ab049b738c0d62872d27998f0b3be253ee73118974bf6619625c2e12e6418",
+      "bytes": 1894596,
+      "width": 1792,
+      "height": 2400,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:37:29.311Z",
+      "creatorCaption": "Geminiさん、かわいい！"
+    },
+    {
+      "index": 3,
+      "url": "https://assets.st-note.com/img/1776894698-OAb5Ln2EpgqDwWtPR8XZvjMy.png",
+      "sha256": "e1150f8e78c77a585bbd112c91f25726af8b17656b1465201faa37f888a9cebd",
+      "bytes": 1526600,
+      "width": 1792,
+      "height": 2400,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:37:29.330Z",
+      "creatorCaption": "現物とは大きく異なる場合があります"
+    }
+  ],
+  "relations": [
+    {
+      "role": "creator-profile",
+      "title": "あすくろ",
+      "url": "https://note.com/asukuro"
+    },
+    {
+      "role": "creator-embedded-comic",
+      "title": "あすくろ · note comic viewer",
+      "url": "https://note.com/embed/slides/semb518bdaee8c28e14f41e2006d"
+    }
+  ],
+  "comicViewer": {
+    "url": "https://note.com/embed/slides/semb518bdaee8c28e14f41e2006d",
+    "httpStatus": 200,
+    "htmlSha256": "b3cebe5525da918d817c0c8a0a7a10507e1e14f10ca32096b48da9faa445add0",
+    "accessedAt": "2026-11-28T15:53:09.694Z"
+  }
+}

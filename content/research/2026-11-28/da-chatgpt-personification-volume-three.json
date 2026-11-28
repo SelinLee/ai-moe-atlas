@@ -1,0 +1,51 @@
+{
+  "url": "https://note.com/_ttaku/n/n13870ac109bc",
+  "accessedAt": "2026-11-28T15:49:27.455Z",
+  "httpStatus": 200,
+  "title": "Nano BananaとGPT Image 1.5で描く「チャッピーちゃん」 AI娘 vol.3",
+  "creator": "https://note.com/_ttaku",
+  "publishedAt": "2025-12-17T19:31:11.000+09:00",
+  "htmlSha256": "de8b17d9c4a9e139fdda9f3eabf6e23af975ff24c78ef37445a09c4d8960c445",
+  "scope": "Creator post and selected first-party artwork files checked in isolated headless Chrome. Original byte lengths and SHA-256 values are retained.",
+  "files": [
+    {
+      "index": 3,
+      "url": "https://assets.st-note.com/img/1765965354-qrg6QhwncmY740UXWIRVz1xs.png",
+      "sha256": "95fa3c34baf51df20d3eb27460cc8aebc488998f36cd80ebc8790f9a3e2a32e3",
+      "bytes": 2291136,
+      "width": 2528,
+      "height": 1696,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:50:14.937Z",
+      "creatorCaption": "チャッピーちゃん"
+    },
+    {
+      "index": 9,
+      "url": "https://assets.st-note.com/img/1765966681-SI1v3tEb6ld95rhZQgXw2FHJ.png",
+      "sha256": "95fa3c34baf51df20d3eb27460cc8aebc488998f36cd80ebc8790f9a3e2a32e3",
+      "bytes": 2291136,
+      "width": 2528,
+      "height": 1696,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:50:14.968Z",
+      "creatorCaption": "完成版"
+    }
+  ],
+  "relations": [
+    {
+      "role": "creator-profile",
+      "title": "だー",
+      "url": "https://note.com/_ttaku"
+    },
+    {
+      "role": "related-creator-series",
+      "title": "AI 擬人化計画 vol.1 · Gemini",
+      "url": "https://note.com/_ttaku/n/n7d0f9897fe5e"
+    },
+    {
+      "role": "related-creator-series",
+      "title": "AI 擬人化計画 vol.2 · Claude",
+      "url": "https://note.com/_ttaku/n/na9ca7cce0fdf"
+    }
+  ]
+}

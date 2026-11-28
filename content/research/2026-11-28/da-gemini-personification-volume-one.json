@@ -1,0 +1,46 @@
+{
+  "url": "https://note.com/_ttaku/n/n7d0f9897fe5e",
+  "accessedAt": "2026-11-28T15:49:27.472Z",
+  "httpStatus": 200,
+  "title": "GeminiとNano Banana Proで擬人化キャラクター「ジェミニちゃん」作ってみた",
+  "creator": "https://note.com/_ttaku",
+  "publishedAt": "2025-11-26T02:26:32.000+09:00",
+  "htmlSha256": "28748daa03a7a7b48de6eec1a4e3f124e93c6fc94aa0c5728405b506c345b64a",
+  "scope": "Creator post and selected first-party artwork files checked in isolated headless Chrome. Original byte lengths and SHA-256 values are retained.",
+  "files": [
+    {
+      "index": 5,
+      "url": "https://assets.st-note.com/img/1764090123-PvbaoL1mnDl5piUFrBhZNOqj.png",
+      "sha256": "60be97aa618c48f6e41354a20faffaad4ff75388598181ecdac98224956dda7f",
+      "bytes": 2044573,
+      "width": 2048,
+      "height": 2048,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:50:12.487Z",
+      "creatorCaption": "完成した三面図"
+    },
+    {
+      "index": 13,
+      "url": "https://assets.st-note.com/img/1764091396-VdiQvU0rxz1OAsoDSqXI8upC.png",
+      "sha256": "c011f78e880e9f5fcc93d9d86a4f0096836ec35645951dabc0ea41dca2013a06",
+      "bytes": 2696503,
+      "width": 2048,
+      "height": 2048,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:50:12.769Z",
+      "creatorCaption": "三面図 神器装備バージョン"
+    }
+  ],
+  "relations": [
+    {
+      "role": "creator-profile",
+      "title": "だー",
+      "url": "https://note.com/_ttaku"
+    },
+    {
+      "role": "related-creator-series",
+      "title": "AI 擬人化計画 vol.2 · Claude",
+      "url": "https://note.com/_ttaku/n/na9ca7cce0fdf"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "historical": false,
+  "full_name": "chadxgpt/codex-pet-studio",
+  "html_url": "https://github.com/chadxgpt/codex-pet-studio",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-07-31T08:34:17Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "b4c6455ad456421aa7c65b748add89e8ec5da582",
+  "observedAt": "2026-11-28T15:36:24.026Z",
+  "httpStatus": 200,
+  "metadataSha256": "f59b9eb0ed6731f7505130534808e5f67c2d4eb73aea3195c2faeb28fe970bf4",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/chadxgpt/codex-pet-studio/blob/b4c6455ad456421aa7c65b748add89e8ec5da582/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/chadxgpt/codex-pet-studio/b4c6455ad456421aa7c65b748add89e8ec5da582/README.md",
+      "sourceSha256": "54f01730d10311b92bdd7de629b464ae30916a1b01433b5936cc80320b8e9602",
+      "gitBlobSha": "0ad9a53bea3539333f9337b5c60d729745849824",
+      "bytes": 5041,
+      "commit": "b4c6455ad456421aa7c65b748add89e8ec5da582",
+      "accessedAt": "2026-11-28T15:37:26.291Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/chadxgpt/codex-pet-studio/blob/b4c6455ad456421aa7c65b748add89e8ec5da582/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/chadxgpt/codex-pet-studio/b4c6455ad456421aa7c65b748add89e8ec5da582/LICENSE",
+      "sourceSha256": "68b06ecab94ee30a2d786894c0835fe60a7bebbf7ea10be6a90212a340b87b6b",
+      "gitBlobSha": "4c415d192cf8da179bcb054f58457021d5f8d03a",
+      "bytes": 10761,
+      "commit": "b4c6455ad456421aa7c65b748add89e8ec5da582",
+      "accessedAt": "2026-11-28T15:37:26.681Z"
+    },
+    {
+      "path": "NOTICE",
+      "url": "https://github.com/chadxgpt/codex-pet-studio/blob/b4c6455ad456421aa7c65b748add89e8ec5da582/NOTICE",
+      "rawUrl": "https://raw.githubusercontent.com/chadxgpt/codex-pet-studio/b4c6455ad456421aa7c65b748add89e8ec5da582/NOTICE",
+      "sourceSha256": "9be5d38a78e4cf56e3944bfbb5a411e6449e08d7ccc3e85e1537d1d7bec78c54",
+      "gitBlobSha": "fb56f58d6953bfc9ffeed72d23990028cfc5746a",
+      "bytes": 447,
+      "commit": "b4c6455ad456421aa7c65b748add89e8ec5da582",
+      "accessedAt": "2026-11-28T15:37:27.054Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T15:37:27.054Z",
+  "scope": "Pinned toolkit documentation, license file and software attribution verified with Git blob and SHA-256 evidence.",
+  "relations": [
+    {
+      "role": "code-license",
+      "title": "Apache-2.0 · Codex Pet Studio software",
+      "url": "https://github.com/chadxgpt/codex-pet-studio/blob/b4c6455ad456421aa7c65b748add89e8ec5da582/LICENSE"
+    },
+    {
+      "role": "software-attribution",
+      "title": "Codex Pet Studio · Jun Meng Tan",
+      "url": "https://github.com/chadxgpt/codex-pet-studio/blob/b4c6455ad456421aa7c65b748add89e8ec5da582/NOTICE"
+    }
+  ],
+  "atlases": []
+}

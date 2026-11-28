@@ -26,16 +26,16 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 [Character turnarounds](https://selinlee.github.io/ai-moe-atlas/en/chibi/) · [Doodle avatars](docs/DOODLE.en.md) · [Doodle emotes](https://selinlee.github.io/ai-moe-atlas/en/emotes/) · [AI fan videos on Douyin](https://www.douyin.com/user/MS4wLjABAAAAa3lc_FI5WmPENMLwdN7Ij4r5iNxAM09Ny0rPcB2Ow4E) · [AI fan videos on Bilibili](https://space.bilibili.com/3706970263521942)
 
 <!-- category-picks:characters -->
-**[🎨 Character atlas](#characters)** · 146 entries\
-[GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/) · [Gemini Pro · Portrait and expressions](https://selinlee.github.io/ai-moe-atlas/en/characters/qinv-gemini-pro/) · [Shiori Hoshino · Funa’s Turnaround](https://selinlee.github.io/ai-moe-atlas/en/characters/funa-hoshino-shiori/)
+**[🎨 Character atlas](#characters)** · 150 entries\
+[GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/en/characters/zipzippipe-chatgpt/) · [Gemini Pro · Portrait and expressions](https://selinlee.github.io/ai-moe-atlas/en/characters/qinv-gemini-pro/) · [Claude-chan · Da’s Turnaround](https://selinlee.github.io/ai-moe-atlas/en/characters/da-claude-literature-coding/)
 
 <!-- category-picks:personas -->
 **[💬 Character personality prompts](#personas)** · 11 cards\
 [GLM the fox · ZCode](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md) · [Claude “Xiao Ke” · deslop writing card](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md) · [DeepSeek whale girl · QQ chat](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md)
 
 <!-- category-picks:songs -->
-**[🎵 Songs](#songs)** · 242 tracks\
-[Humans Are Cats · Fat Fish cover](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [My Sorrow Is Made of Water · White Dragon Girl redraw](https://www.bilibili.com/video/BV14Cnu64ErL/) · [Dangerous Party · Doubao and Fat Fish](https://www.bilibili.com/video/BV1WC4G61E3e/)
+**[🎵 Songs](#songs)** · 243 tracks\
+[Humans Are Cats · Fat Fish cover](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [My Sorrow Is Made of Water · White Dragon Girl redraw](https://www.bilibili.com/video/BV14Cnu64ErL/) · [How It’s Done · GRUB/X](https://www.bilibili.com/video/BV1Sp4b6PEcb/)
 
 <!-- category-picks:stickers -->
 **[🗨️ Stickers & reaction images](#stickers)** · 13 entries\
@@ -46,20 +46,20 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 [Oujingjing · Live2D original release](https://www.bilibili.com/video/BV1djx46iEuH/) · [水原镜 · Blue Fat Fish MMD distribution](https://www.aplaybox.com/details/model/j9z4quaACJV1) · [木子恶魔 · Blue Fat Fish VRM original release](https://www.aplaybox.com/details/model/ayXkRzVflmnd)
 
 <!-- category-picks:comics -->
-**[📖 Comics & serials](#comics)** · 85 works\
-[AI GIRLS · First Meeting · Original Comic](https://www.bilibili.com/video/BV15Npa6zE44/) · [Kawamura · Yoshida’s Halloween](https://note.com/chatgpt_ysd/n/n43469edeace1) · [Sora · Nenkoro’s Original Comic](https://note.com/nenkoro_life/n/n055d268c466d)
+**[📖 Comics & serials](#comics)** · 87 works\
+[AI GIRLS · First Meeting · Original Comic](https://www.bilibili.com/video/BV15Npa6zE44/) · [Kawamura · Yoshida’s Halloween](https://note.com/chatgpt_ysd/n/n43469edeace1) · [Yoshida · Episode 1 and Early Designs](https://note.com/chatgpt_ysd/n/n2e62683ab19a)
 
 <!-- category-picks:animations -->
-**[🎬 Animation & fan videos](#animations)** · 1449 records\
-[What If the Chat Window Were Her Whole World?](https://www.bilibili.com/video/BV1xCai6aE9g/) · [Fat Fish’s Shared Apartment · Season 2 compilation](https://www.bilibili.com/video/BV14F1uzPEPH/) · [Blue Fat Fish · Morx](https://www.bilibili.com/video/BV1X1hK69EDJ/)
+**[🎬 Animation & fan videos](#animations)** · 1484 records\
+[What If the Chat Window Were Her Whole World?](https://www.bilibili.com/video/BV1xCai6aE9g/) · [Fat Fish’s Shared Apartment · Season 2 compilation](https://www.bilibili.com/video/BV14F1uzPEPH/) · [DeepSeek · AI Girl Design Discussion](https://www.bilibili.com/video/BV16qWM6WEfe/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 Pets & interactive projects](#desktop-pets)** · 235 projects\
-[dsh-TUI · Deepy the Pixel Whale](https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/README_ZH.md) · [Copiwaifu · Live2D coding companion](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [Senyo · Eight Codex v2 Pets](https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/README.md)
+**[🐾 Pets & interactive projects](#desktop-pets)** · 238 projects\
+[dsh-TUI · Deepy the Pixel Whale](https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/README_ZH.md) · [Copiwaifu · Live2D coding companion](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [Malou · Brown-and-White Dog Pet](https://github.com/mySebbe/malou-codex-pet/blob/2d26709b57f12e155304a97ced3638ce7be9e48a/README.md)
 
 <!-- category-picks:sources -->
-**[📚 Creator works & sources](#sources)** · 292 sources\
-[Shangshan · Whale Girl original](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini family illustration](https://www.bilibili.com/opus/1273349110528737288) · [ProtocolFour · creator sketches](https://note.com/pfhq/n/n3aab23ac0447)
+**[📚 Creator works & sources](#sources)** · 297 sources\
+[Shangshan · Whale Girl original](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini family illustration](https://www.bilibili.com/opus/1273349110528737288) · [Da · Gemini Design Process](https://note.com/_ttaku/n/n7d0f9897fe5e)
 
 <a id="references"></a>
 
@@ -72,6 +72,8 @@ SelinLee used AI to make turnarounds, character sheets, doodle avatars and emote
 <a id="characters"></a>
 
 ### 🎨 Character atlas
+
+Added four character designs, including Da’s Gemini, Claude and ChatGPT and Asukuro’s Gemini. [Claude Turnaround](https://selinlee.github.io/ai-moe-atlas/en/characters/da-claude-literature-coding/) · [Gemini Turnaround](https://selinlee.github.io/ai-moe-atlas/en/characters/da-gemini-school-uniform/)
 
 Added four character designs from Funa, Nenkoro and Shizuku, including Shiori Hoshino and Sora. [Shiori Hoshino](https://selinlee.github.io/ai-moe-atlas/en/characters/funa-hoshino-shiori/) · [Sora](https://selinlee.github.io/ai-moe-atlas/en/characters/nenkoro-sora-chatgpt/)
 
@@ -160,6 +162,8 @@ Compare how different authors write a character’s voice and reactions. Both ZC
 <a id="songs"></a>
 
 ### 🎵 Songs
+
+Linked the official How It’s Done release to GRUB/X and traced the credits in an early upload and a later rendition of Luo Tianyi’s Feeding Song. [How It’s Done](https://selinlee.github.io/ai-moe-atlas/en/songs/#how-its-done-huntr-x) · [Feeding Song Credits](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1kxtw6depz)
 
 Linked the Dangerous Party release and cited dance reference. Added two Trouble Maker fan versions. [Dangerous Party](https://selinlee.github.io/ai-moe-atlas/en/songs/#dangerous-party) · [Trouble Maker](https://selinlee.github.io/ai-moe-atlas/en/songs/#trouble-maker-duo)
 
@@ -272,6 +276,8 @@ Browse creators’ releases by format and check modeling or rigging credits and 
 
 ### 📖 Comics & serials
 
+Added episode 1 of Kawamura’s ChatGPT’s Yoshida series and Asukuro’s four-page comic. [Yoshida · Episode 1](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=comics#kawamura-yoshida-first-episode) · [Asukuro · Four-Page Comic](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=comics#asukuro-gemini-comic-viewer-story)
+
 Added three creator posts, including Sora’s debut comic and Shizuku’s four-panel story. [Sora · Debut Comic](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=comics#nenkoro-sora-first-comic) · [Shizuku · Four Panels](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=comics#shizuku-ao-and-sui-comic)
 
 Added the four-part Tsukuyomi Academy comic and Chansuke’s editorial meeting with Claude and Gemini, linked to the creators’ posts. [Tsukuyomi Academy · Nexus Debuts](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=comics#links-lt-tsukuyomi-nexus-debut) · [Claude and Gemini’s Editorial Meeting](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=comics#chansuke-claude-gemini-editorial-meeting)
@@ -307,6 +313,8 @@ Six Gemini side stories by 萤火之森QWQ have been verified, including the cre
 <a id="animations"></a>
 
 ### 🎬 Animation & fan videos
+
+Added 35 fan works and refreshed 40 cumulative like counts. All 11 AI Girl Design discussions and LLM Retake Class episodes 1–5 now link to their companion uploads. [AI Girl Design Discussions](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv16qwm6wefe) · [LLM Retake Class](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv15apa6temd) · [Like Snapshot](content/research/2026-11-28/bilibili-cumulative-likes-november-28-retake-class-and-character-notes.json)
 
 Added 39 fan works, including all 20 uploads in Morx’s Blue Fat Fish playlist. Refreshed 60 cumulative like counts. One new candidate awaits verification. [Blue Fat Fish · First Listed Upload](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1nq8u6oeex) · [Like snapshot](content/research/2026-11-28/bilibili-cumulative-likes-november-28-morx-and-series.json)
 
@@ -393,6 +401,8 @@ Two serials expanded · [冬冰 · AI Relay Station Apartment (23 episodes)](htt
 
 ### 🐾 Pets & interactive projects
 
+Added Malou, poteto and Codex Pet Studio. Verified seven atlases and documented Malou’s CC BY-NC 4.0 artwork terms and MIT code terms. [Malou · Atlases and Terms](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#mysebbe-malou-codex-pet) · [poteto · Four Outfits](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#gentt-poteto-codex-pet)
+
 Added Senyo’s pet collection. Verified SHA-256, creator attribution and CC BY 4.0 terms for all eight v2 atlases. [Pets · Artwork and Terms](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#senyo-codex-pets-v2-creator-collection)
 
 Added four GitHub pet projects and a browser visual novel. All eight Hei Mao sprite sheets have SHA-256 records and links to the applicable brand and installer terms. [Hei Mao · Art and terms](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#mison-hei-mao-codex-pets) · [AI Academy · Browser Visual Novel](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#tanu-ai-academy-browser-novel)
@@ -430,7 +440,7 @@ The top ten by each project’s last verified GitHub star count. Ties use reposi
 | 9 | [Fat Fish on Desktop · dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md) | [3,381](https://github.com/MerZlin/dsh-pet-indesktop) |
 | 10 | [Claude Desktop Buddy · Official Hardware Example](https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/README.md) | [2,728](https://github.com/anthropics/claude-desktop-buddy) |
 
-[Open the full pets and interactive projects ranking](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-28/github-interactive-stars-november-28-senyo-codex-pet-catalog.json)
+[Open the full pets and interactive projects ranking](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-28/github-interactive-stars-november-28-malou-poteto-and-pet-studio.json)
 
 <!-- interactive-ranking:end -->
 
@@ -475,6 +485,8 @@ The LFS hashes for all 106 Whale Girl animations in the pinned seven-character p
 <a id="sources"></a>
 
 ### 📚 Creator works & sources
+
+Retained source links for five creator posts and SHA-256 values for 13 artwork files. Read the original posts for the turnarounds and comics. [Da · Gemini Post](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#da-gemini-personification-volume-one) · [Da · ChatGPT Post](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#da-chatgpt-personification-volume-three)
 
 See also ZipZipPipe’s [source and usage statement](https://t.bilibili.com/1231980045693616162).
 

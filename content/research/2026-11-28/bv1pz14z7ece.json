@@ -1,0 +1,46 @@
+{
+  "url": "https://www.bilibili.com/video/BV1pZ14z7ECE/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pZ14z7ECE",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:37:44.899Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership and credited source links were checked independently.",
+  "metadata": {
+    "bvid": "BV1pZ14z7ECE",
+    "title": "Kimi——快帮帮我❗️凌晨3点 ，舞台为你亮起❗️",
+    "owner": {
+      "name": "彼岸花Channel",
+      "mid": 13787349
+    },
+    "pubdate": 1795834800,
+    "duration": 166
+  },
+  "descriptionSha256": "57f65e232cdc6d4ae824274a39604cc96f02bd32af6689f77022ba89dc31dcd6",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "彼岸花Channel",
+      "url": "https://space.bilibili.com/13787349"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你好, I'm DS.我喜欢你.【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV15iby6tEQx/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "西厢记 || DC宇宙系列|| 八千里路云和月~意气风发大肥鱼！",
+      "url": "https://www.bilibili.com/video/BV1ogyYzDEeC/"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "DS娘长视频故事合集",
+    "titleInPlaylist": "Kimi——快帮帮我❗️凌晨3点 ，舞台为你亮起❗️",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-design-and-retake-class-playlists.json",
+      "sha256": "0c8c16257cea7f191199cd3c1cd2a8d53469db61bb1092cb1175f89e535ba958",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

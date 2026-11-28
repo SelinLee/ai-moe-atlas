@@ -1,0 +1,67 @@
+{
+  "url": "https://www.bilibili.com/video/BV1gv4x6bEEk/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gv4x6bEEk",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:37:54.499Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership and credited source links were checked independently.",
+  "metadata": {
+    "bvid": "BV1gv4x6bEEk",
+    "title": "蓝色大肥鱼入侵GPT梦境",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1794104622,
+    "duration": 80
+  },
+  "descriptionSha256": "1e14b14a2fb41e2a754cd9a1f9a204a7e15dc7d72d6a77a74f3e8f0f2dfee56d",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "看千问大小姐跳舞",
+      "url": "https://www.bilibili.com/video/BV1DuxD6bEts/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "蓝色大肥鱼：宠物不能上桌吃饭",
+      "url": "https://www.bilibili.com/video/BV1JXWN61Edv/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥",
+      "url": "https://www.bilibili.com/video/BV1RcyfzQEcH/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "credited-character-contributor",
+      "title": "这个刀子真甜",
+      "url": "https://space.bilibili.com/23315338"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "蓝色大肥鱼入侵GPT梦境",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-design-and-retake-class-playlists.json",
+      "sha256": "0c8c16257cea7f191199cd3c1cd2a8d53469db61bb1092cb1175f89e535ba958",
+      "kind": "browser-metadata-extract"
+    }
+  },
+  "creditedNameAsWritten": "这个刀子真甜"
+}

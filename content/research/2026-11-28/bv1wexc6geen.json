@@ -1,0 +1,56 @@
+{
+  "url": "https://www.bilibili.com/video/BV1wExc6gEEn/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wExc6gEEn",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:37:36.950Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership and credited source links were checked independently.",
+  "metadata": {
+    "bvid": "BV1wExc6gEEn",
+    "title": "《大模型复读班》第四集：家长会！",
+    "owner": {
+      "name": "彼岸花Channel",
+      "mid": 13787349
+    },
+    "pubdate": 1793329800,
+    "duration": 196
+  },
+  "descriptionSha256": "9323d8710a2c93f0632d1067acd20666e314443a621c216e44d4258003b2f4bc",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "彼岸花Channel",
+      "url": "https://space.bilibili.com/13787349"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "《大模型复读班》第一集：画一只骑自行车的鹈鹕",
+      "url": "https://www.bilibili.com/video/BV15apA6tEmd/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "《大模型复读班》第二集：强烈同意！",
+      "url": "https://www.bilibili.com/video/BV1tbHC6ZEXq/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "《大模型复读班》第三集：从今天起，我就是你们的妈妈了~",
+      "url": "https://www.bilibili.com/video/BV1htpJ6NEBJ/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "《大模型复读班 》 第五集： 收到，豆包已上线！",
+      "url": "https://www.bilibili.com/video/BV1tKW363Ety/"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "DS娘长视频故事合集",
+    "titleInPlaylist": "《大模型复读班》第四集：家长会！",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-design-and-retake-class-playlists.json",
+      "sha256": "0c8c16257cea7f191199cd3c1cd2a8d53469db61bb1092cb1175f89e535ba958",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

@@ -8871,5 +8871,229 @@
       "en": "Links the creator’s public post. Separate display, adaptation and redistribution terms await confirmation.",
       "ja": "作者の公開記事へ案内。画像の個別掲載、改変、再配布条件は確認待ち。"
     }
+  },
+  {
+    "id": "da-gemini-school-uniform",
+    "entity": "gemini",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "ジェミニちゃん · だー的设定",
+      "en": "Gemini-chan · Da’s Design",
+      "ja": "ジェミニちゃん · だーの設定"
+    },
+    "description": {
+      "zh": "黑色长发、方框眼镜和有彩色细边的深色制服。作者发布常服和装备版三视图。",
+      "en": "Long black hair, rectangular glasses and a dark uniform with colored trim. The creator shows both standard and equipped turnarounds.",
+      "ja": "黒い長髪、角のある眼鏡、色の縁取りが入った濃色の制服。通常版と装備版の三面図を公開。"
+    },
+    "story": {
+      "zh": "黑色长发、方框眼镜和有彩色细边的深色制服。作者发布常服和装备版三视图。",
+      "en": "Long black hair, rectangular glasses and a dark uniform with colored trim. The creator shows both standard and equipped turnarounds.",
+      "ja": "黒い長髪、角のある眼鏡、色の縁取りが入った濃色の制服。通常版と装備版の三面図を公開。"
+    },
+    "features": {
+      "zh": "黑色长发、方框眼镜和有彩色细边的深色制服。作者发布常服和装备版三视图。",
+      "en": "Long black hair, rectangular glasses and a dark uniform with colored trim. The creator shows both standard and equipped turnarounds.",
+      "ja": "黒い長髪、角のある眼鏡、色の縁取りが入った濃色の制服。通常版と装備版の三面図を公開。"
+    },
+    "author": "だー",
+    "authorUrl": "https://note.com/_ttaku",
+    "source": "https://note.com/_ttaku/n/n7d0f9897fe5e",
+    "sourceTitle": "GeminiとNano Banana Proで擬人化キャラクター「ジェミニちゃん」作ってみた",
+    "originalPublication": "https://note.com/_ttaku/n/n7d0f9897fe5e",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "だー",
+        "url": "https://note.com/_ttaku",
+        "role": "original-character",
+        "publication": "https://note.com/_ttaku/n/n7d0f9897fe5e"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/_ttaku/n/n7d0f9897fe5e",
+    "downloadable": false,
+    "bg": "#eaf1fc",
+    "color": "#304d77",
+    "verifiedAt": "2026-11-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "提供作者公开原帖链接。图件的独立展示、改编和再分发条件待核。",
+      "en": "Links the creator’s public post. Separate display, adaptation and redistribution terms await confirmation.",
+      "ja": "作者の公開記事へ案内。画像の個別掲載、改変、再配布条件は確認待ち。"
+    }
+  },
+  {
+    "id": "da-claude-literature-coding",
+    "entity": "claude",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "クロードちゃん · だー的设定",
+      "en": "Claude-chan · Da’s Design",
+      "ja": "クロードちゃん · だーの設定"
+    },
+    "description": {
+      "zh": "橙色短发、圆眼镜和棕色制服。红色与蓝色的书分别对应文学和编程。",
+      "en": "Orange bob, round glasses and a brown uniform. The red and blue books represent literature and coding.",
+      "ja": "オレンジ色のボブ、丸眼鏡、茶色の制服。赤と青の本はそれぞれ文学とプログラミングを表す。"
+    },
+    "story": {
+      "zh": "橙色短发、圆眼镜和棕色制服。红色与蓝色的书分别对应文学和编程。",
+      "en": "Orange bob, round glasses and a brown uniform. The red and blue books represent literature and coding.",
+      "ja": "オレンジ色のボブ、丸眼鏡、茶色の制服。赤と青の本はそれぞれ文学とプログラミングを表す。"
+    },
+    "features": {
+      "zh": "橙色短发、圆眼镜和棕色制服。红色与蓝色的书分别对应文学和编程。",
+      "en": "Orange bob, round glasses and a brown uniform. The red and blue books represent literature and coding.",
+      "ja": "オレンジ色のボブ、丸眼鏡、茶色の制服。赤と青の本はそれぞれ文学とプログラミングを表す。"
+    },
+    "author": "だー",
+    "authorUrl": "https://note.com/_ttaku",
+    "source": "https://note.com/_ttaku/n/na9ca7cce0fdf",
+    "sourceTitle": "AI擬人化計画 vol.2 〜文学とコードを愛する「クロードちゃん」の誕生〜",
+    "originalPublication": "https://note.com/_ttaku/n/na9ca7cce0fdf",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "だー",
+        "url": "https://note.com/_ttaku",
+        "role": "original-character",
+        "publication": "https://note.com/_ttaku/n/na9ca7cce0fdf"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/_ttaku/n/na9ca7cce0fdf",
+    "downloadable": false,
+    "bg": "#fff0e7",
+    "color": "#7a4932",
+    "verifiedAt": "2026-11-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "提供作者公开原帖链接。图件的独立展示、改编和再分发条件待核。",
+      "en": "Links the creator’s public post. Separate display, adaptation and redistribution terms await confirmation.",
+      "ja": "作者の公開記事へ案内。画像の個別掲載、改変、再配布条件は確認待ち。"
+    }
+  },
+  {
+    "id": "da-chappy-chatgpt",
+    "entity": "chatgpt",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "チャッピーちゃん · だー的设定",
+      "en": "Chappy · Da’s ChatGPT Design",
+      "ja": "チャッピーちゃん · だーの設定"
+    },
+    "description": {
+      "zh": "白发绿尾、绿色耳机与白绿服装，头顶有作者按 OpenAI 标志设计的翘发。",
+      "en": "White hair with green tips, green headphones and a white-and-green outfit, with a tuft of hair based on the OpenAI mark.",
+      "ja": "毛先が緑の白髪、緑のヘッドホン、白と緑の衣装。頭頂の跳ね毛は OpenAI のマークがモチーフ。"
+    },
+    "story": {
+      "zh": "白发绿尾、绿色耳机与白绿服装，头顶有作者按 OpenAI 标志设计的翘发。",
+      "en": "White hair with green tips, green headphones and a white-and-green outfit, with a tuft of hair based on the OpenAI mark.",
+      "ja": "毛先が緑の白髪、緑のヘッドホン、白と緑の衣装。頭頂の跳ね毛は OpenAI のマークがモチーフ。"
+    },
+    "features": {
+      "zh": "白发绿尾、绿色耳机与白绿服装，头顶有作者按 OpenAI 标志设计的翘发。",
+      "en": "White hair with green tips, green headphones and a white-and-green outfit, with a tuft of hair based on the OpenAI mark.",
+      "ja": "毛先が緑の白髪、緑のヘッドホン、白と緑の衣装。頭頂の跳ね毛は OpenAI のマークがモチーフ。"
+    },
+    "author": "だー",
+    "authorUrl": "https://note.com/_ttaku",
+    "source": "https://note.com/_ttaku/n/n13870ac109bc",
+    "sourceTitle": "Nano BananaとGPT Image 1.5で描く「チャッピーちゃん」 AI娘 vol.3",
+    "originalPublication": "https://note.com/_ttaku/n/n13870ac109bc",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "だー",
+        "url": "https://note.com/_ttaku",
+        "role": "original-character",
+        "publication": "https://note.com/_ttaku/n/n13870ac109bc"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/_ttaku/n/n13870ac109bc",
+    "downloadable": false,
+    "bg": "#e8f7ef",
+    "color": "#30694c",
+    "verifiedAt": "2026-11-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "提供作者公开原帖链接。图件的独立展示、改编和再分发条件待核。",
+      "en": "Links the creator’s public post. Separate display, adaptation and redistribution terms await confirmation.",
+      "ja": "作者の公開記事へ案内。画像の個別掲載、改変、再配布条件は確認待ち。"
+    }
+  },
+  {
+    "id": "asukuro-gemini-rainbow-suit",
+    "entity": "gemini",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Gemini さん · あすくろ的设定",
+      "en": "Gemini-san · Asukuro’s Design",
+      "ja": "Gemini さん · あすくろの設定"
+    },
+    "description": {
+      "zh": "和彩色 Gemini 标志呼应的渐变长发、眼镜、白衬衣和藏青西装，佩戴四芒星耳饰。",
+      "en": "Long gradient hair inspired by the Gemini mark, glasses, a white shirt, a navy suit and a four-pointed star earring.",
+      "ja": "Gemini のマークを思わせるグラデーションの長髪、眼鏡、白いシャツ、紺のスーツ、四芒星の耳飾り。"
+    },
+    "story": {
+      "zh": "和彩色 Gemini 标志呼应的渐变长发、眼镜、白衬衣和藏青西装，佩戴四芒星耳饰。",
+      "en": "Long gradient hair inspired by the Gemini mark, glasses, a white shirt, a navy suit and a four-pointed star earring.",
+      "ja": "Gemini のマークを思わせるグラデーションの長髪、眼鏡、白いシャツ、紺のスーツ、四芒星の耳飾り。"
+    },
+    "features": {
+      "zh": "和彩色 Gemini 标志呼应的渐变长发、眼镜、白衬衣和藏青西装，佩戴四芒星耳饰。",
+      "en": "Long gradient hair inspired by the Gemini mark, glasses, a white shirt, a navy suit and a four-pointed star earring.",
+      "ja": "Gemini のマークを思わせるグラデーションの長髪、眼鏡、白いシャツ、紺のスーツ、四芒星の耳飾り。"
+    },
+    "author": "あすくろ",
+    "authorUrl": "https://note.com/asukuro",
+    "source": "https://note.com/asukuro/n/n7d1f25c43ff3",
+    "sourceTitle": "コミックビューワを試したくて漫画を描きたかったけど、結局Geminiさんに全部描いてもらった話（プロンプト付き）",
+    "originalPublication": "https://note.com/asukuro/n/n7d1f25c43ff3",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "あすくろ",
+        "url": "https://note.com/asukuro",
+        "role": "original-character",
+        "publication": "https://note.com/asukuro/n/n7d1f25c43ff3"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/asukuro/n/n7d1f25c43ff3",
+    "downloadable": false,
+    "bg": "#edf0fa",
+    "color": "#42537c",
+    "verifiedAt": "2026-11-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "提供作者公开原帖链接。图件的独立展示、改编和再分发条件待核。",
+      "en": "Links the creator’s public post. Separate display, adaptation and redistribution terms await confirmation.",
+      "ja": "作者の公開記事へ案内。画像の個別掲載、改変、再配布条件は確認待ち。"
+    }
   }
 ]

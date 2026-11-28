@@ -1,0 +1,86 @@
+{
+  "url": "https://www.bilibili.com/video/BV134Wq6XEUi/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV134Wq6XEUi",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:37:33.808Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership and credited source links were checked independently.",
+  "metadata": {
+    "bvid": "BV134Wq6XEUi",
+    "title": "AI娘人设讨论之GLM",
+    "owner": {
+      "name": "一只摸鱼的可莉",
+      "mid": 1773141484
+    },
+    "pubdate": 1794559923,
+    "duration": 218
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "一只摸鱼的可莉",
+      "url": "https://space.bilibili.com/1773141484"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "AI娘人设讨论之DeepSeek",
+      "url": "https://www.bilibili.com/video/BV16qWM6WEfe/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "AI娘人设讨论之Claude",
+      "url": "https://www.bilibili.com/video/BV1E7WT67Eod/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "AI娘人设讨论之GPT",
+      "url": "https://www.bilibili.com/video/BV1CvWg6aEEp/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "AI娘人设讨论之Seed（豆包）",
+      "url": "https://www.bilibili.com/video/BV1JGWj6kEyN/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "AI娘人设讨论之Kimi",
+      "url": "https://www.bilibili.com/video/BV1LGWy6jE6e/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "AI娘人设讨论之千问",
+      "url": "https://www.bilibili.com/video/BV14iWU6jEfM/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "AI娘人设讨论之Grok",
+      "url": "https://www.bilibili.com/video/BV1XeWX6AEja/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "AI娘人设讨论之Gemini",
+      "url": "https://www.bilibili.com/video/BV1GEWY6kEFt/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "AI娘人设讨论之文心",
+      "url": "https://www.bilibili.com/video/BV1TyWr6oELu/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "AI娘人设讨论之Llama",
+      "url": "https://www.bilibili.com/video/BV12Bsn6PEgQ/"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "AI娘人设",
+    "titleInPlaylist": "AI娘人设讨论之GLM",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-design-and-retake-class-playlists.json",
+      "sha256": "0c8c16257cea7f191199cd3c1cd2a8d53469db61bb1092cb1175f89e535ba958",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

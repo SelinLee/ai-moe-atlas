@@ -1,0 +1,51 @@
+{
+  "url": "https://www.bilibili.com/video/BV1RcyfzQEcH/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RcyfzQEcH",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:37:56.059Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership and credited source links were checked independently.",
+  "metadata": {
+    "bvid": "BV1RcyfzQEcH",
+    "title": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1795521517,
+    "duration": 14
+  },
+  "descriptionSha256": "e4373ca51cbfb6ccf9401a95f4180ea4afe5094dfbd2aa22c4c0e9b8a439b628",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "蓝色大肥鱼和智谱小狐娘玩GTA6",
+      "url": "https://www.bilibili.com/video/BV1CDyDzjEqt/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "大肥鱼flash怒斥大肥鱼pro不起床",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-design-and-retake-class-playlists.json",
+      "sha256": "0c8c16257cea7f191199cd3c1cd2a8d53469db61bb1092cb1175f89e535ba958",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

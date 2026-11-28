@@ -1,0 +1,81 @@
+{
+  "url": "https://www.bilibili.com/video/BV1WZhe6nEsr/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WZhe6nEsr",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:37:48.100Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership and credited source links were checked independently.",
+  "metadata": {
+    "bvid": "BV1WZhe6nEsr",
+    "title": "假装找陌生鱼借token，看看什么反应",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1789956574,
+    "duration": 21
+  },
+  "descriptionSha256": "458326d2ef3ce44e1540baa05349cfa1fe569060ca2e394d0eb4cb13f03c1efb",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "太坏了，大肥鱼的盆被抢！",
+      "url": "https://www.bilibili.com/video/BV15DeQ6fErb/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "国产flash模型就是快啊",
+      "url": "https://www.bilibili.com/video/BV1x4hk6CErj/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥",
+      "url": "https://www.bilibili.com/video/BV1RcyfzQEcH/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "credited-source-video",
+      "title": "临沂空少 · 假装找陌生人借寿，看看路人是什么反应",
+      "url": "https://www.bilibili.com/video/BV18SeF6BERw/"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "bvid": "BV18SeF6BERw",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18SeF6BERw",
+      "observedAt": "2026-11-28T15:49:00.043Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "假装找陌生人借寿，看看路人是什么反应",
+      "publisher": "临沂空少",
+      "publisherId": 3546595199028183,
+      "publicationDate": "2026-09-16",
+      "pubdate": 1789533958,
+      "likes": 224588,
+      "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+    }
+  ],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "假装找陌生鱼借token，看看什么反应",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-design-and-retake-class-playlists.json",
+      "sha256": "0c8c16257cea7f191199cd3c1cd2a8d53469db61bb1092cb1175f89e535ba958",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

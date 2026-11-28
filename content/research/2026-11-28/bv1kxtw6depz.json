@@ -1,0 +1,107 @@
+{
+  "url": "https://www.bilibili.com/video/BV1KxtW6DEpZ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KxtW6DEpZ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:37:38.524Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership and credited source links were checked independently.",
+  "metadata": {
+    "bvid": "BV1KxtW6DEpZ",
+    "title": "好饿好饿好饿我真的好饿❗️吃呀吃呀吃呀吃呀吃呀吃❗️",
+    "owner": {
+      "name": "彼岸花Channel",
+      "mid": 13787349
+    },
+    "pubdate": 1788405600,
+    "duration": 186
+  },
+  "descriptionSha256": "1dd7795f00b1cea387b6e4cf6e9cf57fdaf6ae1ddb67eec09274081531faa616",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "彼岸花Channel",
+      "url": "https://space.bilibili.com/13787349"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你好, I'm DS.我喜欢你.【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV15iby6tEQx/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "肥嘟嘟之歌~",
+      "url": "https://www.bilibili.com/video/BV1hLtG6ZEBU/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "龙门算力中转驿——第一集《豆欠龙钱》",
+      "url": "https://www.bilibili.com/video/BV14LHv6vE1a/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Kimi——快帮帮我❗️凌晨3点 ，舞台为你亮起❗️",
+      "url": "https://www.bilibili.com/video/BV1pZ14z7ECE/"
+    },
+    {
+      "role": "music-credited-version",
+      "title": "洛天依投食歌 · 2012 Bilibili repost and creator credit",
+      "url": "https://www.bilibili.com/video/BV1Jx411F7a5/"
+    },
+    {
+      "role": "music-credit-reference",
+      "title": "鬼面P · Luo Tianyi v5 version and credits",
+      "url": "https://www.bilibili.com/video/BV1PY4y1E7zw/"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "aid": 347275,
+      "url": "https://api.bilibili.com/x/web-interface/view?aid=347275",
+      "status": 200,
+      "observedAt": "2026-11-28T15:50:15.233Z",
+      "code": 0,
+      "video": {
+        "bvid": "BV1Jx411F7a5",
+        "title": "【洗脑向翻唱】天依投食歌=w=壮哉我大吃货帝国！【专治各种挑食厌食】",
+        "publisher": "我叫小灰宇",
+        "mid": 373554,
+        "pubdate": 1346232052,
+        "descriptionSha256": "9248faa915b8d8270c6bff10929b6de6c2b78c11152212620c80d6b5861a7878",
+        "credits": {
+          "feedingSongVersion": "西瓜吃柏晓",
+          "melodySource": "ファミマ入店音"
+        }
+      },
+      "metadataSha256": "3cb2a0dbb4be13aa9e03fc5ce7e65e82aa04359c7ec0ad04c8ccdd1bd653837a"
+    },
+    {
+      "aid": 643503493,
+      "url": "https://api.bilibili.com/x/web-interface/view?aid=643503493",
+      "status": 200,
+      "observedAt": "2026-11-28T15:50:15.818Z",
+      "code": 0,
+      "video": {
+        "bvid": "BV1PY4y1E7zw",
+        "title": "【洛天依V5】好饿好饿，我真的好饿！吃货殿下2022重唱《投食歌》，DNA动了！！【原创PV付】",
+        "publisher": "鬼面P",
+        "mid": 12355462,
+        "pubdate": 1658106000,
+        "descriptionSha256": "002abfe8e6f4975a0cc74fd0e0e3544056c6cfc65a0406c6ba1f8ed688ebe796",
+        "credits": {
+          "feedingSongVersion": "西瓜吃柏晓",
+          "melodySource": "ファミマ入店音"
+        }
+      },
+      "metadataSha256": "dcf74923d39971ca7370990ff7d360a03eeec944ffbbed90be9fec56d361c992"
+    }
+  ],
+  "playlist": {
+    "name": "DS娘长视频故事合集",
+    "titleInPlaylist": "好饿好饿好饿我真的好饿❗️吃呀吃呀吃呀吃呀吃呀吃❗️",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-design-and-retake-class-playlists.json",
+      "sha256": "0c8c16257cea7f191199cd3c1cd2a8d53469db61bb1092cb1175f89e535ba958",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

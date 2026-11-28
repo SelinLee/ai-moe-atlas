@@ -1,0 +1,148 @@
+{
+  "historical": false,
+  "full_name": "gentt1024/poteto",
+  "html_url": "https://github.com/gentt1024/poteto",
+  "stargazers_count": 11,
+  "archived": false,
+  "created_at": "2026-10-11T13:41:16Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "6c4902d160fa8d94c4d6835fdf2c765b0194ee9d",
+  "observedAt": "2026-11-28T15:36:19.904Z",
+  "httpStatus": 200,
+  "metadataSha256": "30071028560af0e449cb6e8b83a9290ccd7073a591b7a16a662e95b802b4e0cd",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/gentt1024/poteto/blob/6c4902d160fa8d94c4d6835fdf2c765b0194ee9d/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/gentt1024/poteto/6c4902d160fa8d94c4d6835fdf2c765b0194ee9d/README.md",
+      "sourceSha256": "f0daa5f328b23bf60d09edc58250abceeb2188cbbee64d7785248c2ca31b1d41",
+      "gitBlobSha": "430019c1c55f4db41f7db13f63472f53846b4514",
+      "bytes": 3728,
+      "commit": "6c4902d160fa8d94c4d6835fdf2c765b0194ee9d",
+      "accessedAt": "2026-11-28T15:37:26.291Z"
+    },
+    {
+      "path": "CREDITS.md",
+      "url": "https://github.com/gentt1024/poteto/blob/6c4902d160fa8d94c4d6835fdf2c765b0194ee9d/CREDITS.md",
+      "rawUrl": "https://raw.githubusercontent.com/gentt1024/poteto/6c4902d160fa8d94c4d6835fdf2c765b0194ee9d/CREDITS.md",
+      "sourceSha256": "643b81e85fc49e44070a86f7528891d714ec2b9d27f9201987df237eabc7f29c",
+      "gitBlobSha": "9a55507eaab79844315e9abfbb6de4c53a009989",
+      "bytes": 2306,
+      "commit": "6c4902d160fa8d94c4d6835fdf2c765b0194ee9d",
+      "accessedAt": "2026-11-28T15:37:26.648Z"
+    },
+    {
+      "path": "pet.json",
+      "url": "https://github.com/gentt1024/poteto/blob/6c4902d160fa8d94c4d6835fdf2c765b0194ee9d/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/gentt1024/poteto/6c4902d160fa8d94c4d6835fdf2c765b0194ee9d/pet.json",
+      "sourceSha256": "c46358ec4f60470d0dc108cf00d13f79c540e86dc43f3af19d6c47ca0beb7f69",
+      "gitBlobSha": "dc35d6d62b08496f521cb836753d12cae895fff7",
+      "bytes": 288,
+      "commit": "6c4902d160fa8d94c4d6835fdf2c765b0194ee9d",
+      "accessedAt": "2026-11-28T15:37:27.007Z"
+    },
+    {
+      "path": "skins/yellow-raincoat/pet.json",
+      "url": "https://github.com/gentt1024/poteto/blob/6c4902d160fa8d94c4d6835fdf2c765b0194ee9d/skins/yellow-raincoat/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/gentt1024/poteto/6c4902d160fa8d94c4d6835fdf2c765b0194ee9d/skins/yellow-raincoat/pet.json",
+      "sourceSha256": "19d8b2682e0f12641f4ab8fdf20625d160849e920b264c5c691d4ef4877289a9",
+      "gitBlobSha": "0a3617e412a85ac1789d001098514b757c216d2b",
+      "bytes": 258,
+      "commit": "6c4902d160fa8d94c4d6835fdf2c765b0194ee9d",
+      "accessedAt": "2026-11-28T15:37:27.365Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T15:49:20.424Z",
+  "scope": "Pinned creator documentation, asset-specific terms and transparent atlas files verified with Git blob and SHA-256 evidence.",
+  "relations": [
+    {
+      "role": "artwork-credits-and-terms",
+      "title": "poteto · Creator credits, references and rights",
+      "url": "https://github.com/gentt1024/poteto/blob/6c4902d160fa8d94c4d6835fdf2c765b0194ee9d/CREDITS.md"
+    },
+    {
+      "role": "pet-manifest",
+      "title": "poteto · Base v2 manifest",
+      "url": "https://github.com/gentt1024/poteto/blob/6c4902d160fa8d94c4d6835fdf2c765b0194ee9d/pet.json"
+    },
+    {
+      "role": "pet-manifest",
+      "title": "poteto · Yellow raincoat v2 manifest",
+      "url": "https://github.com/gentt1024/poteto/blob/6c4902d160fa8d94c4d6835fdf2c765b0194ee9d/skins/yellow-raincoat/pet.json"
+    }
+  ],
+  "atlases": [
+    {
+      "repo": "gentt1024/poteto",
+      "commit": "6c4902d160fa8d94c4d6835fdf2c765b0194ee9d",
+      "path": "skins/cream-chef/spritesheet.png",
+      "rawUrl": "https://raw.githubusercontent.com/gentt1024/poteto/6c4902d160fa8d94c4d6835fdf2c765b0194ee9d/skins/cream-chef/spritesheet.png",
+      "bytes": 2730861,
+      "width": 1536,
+      "height": 2288,
+      "format": "png",
+      "hasAlpha": true,
+      "gitBlobSha": "e9c74328d67531c2ae1e1a59d1853872d03ca233",
+      "sha256": "9f157d2f99986800d9517852f2c38f13e284c53a66030126fde3fd460f3037ee",
+      "observedAt": "2026-11-28T15:49:17.577Z"
+    },
+    {
+      "repo": "gentt1024/poteto",
+      "commit": "6c4902d160fa8d94c4d6835fdf2c765b0194ee9d",
+      "path": "skins/green-hoodie/spritesheet.png",
+      "rawUrl": "https://raw.githubusercontent.com/gentt1024/poteto/6c4902d160fa8d94c4d6835fdf2c765b0194ee9d/skins/green-hoodie/spritesheet.png",
+      "bytes": 2646921,
+      "width": 1536,
+      "height": 2288,
+      "format": "png",
+      "hasAlpha": true,
+      "gitBlobSha": "16f86222a38d65370034b940fcbc4e817056a338",
+      "sha256": "3143cc90d42c5c6c31443e8aabb792fabb0790b35a0f1957d03465b377e21fff",
+      "observedAt": "2026-11-28T15:49:18.241Z"
+    },
+    {
+      "repo": "gentt1024/poteto",
+      "commit": "6c4902d160fa8d94c4d6835fdf2c765b0194ee9d",
+      "path": "skins/greige-sleeveless/spritesheet.png",
+      "rawUrl": "https://raw.githubusercontent.com/gentt1024/poteto/6c4902d160fa8d94c4d6835fdf2c765b0194ee9d/skins/greige-sleeveless/spritesheet.png",
+      "bytes": 2672059,
+      "width": 1536,
+      "height": 2288,
+      "format": "png",
+      "hasAlpha": true,
+      "gitBlobSha": "cbb499ddc34d9b4c9c4db6750b7f177ac762d4a4",
+      "sha256": "d1edb8d2ef381e058d11c57cedf005f44a227a8c683173d9effea47d5d20d9df",
+      "observedAt": "2026-11-28T15:49:18.999Z"
+    },
+    {
+      "repo": "gentt1024/poteto",
+      "commit": "6c4902d160fa8d94c4d6835fdf2c765b0194ee9d",
+      "path": "skins/yellow-raincoat/spritesheet.png",
+      "rawUrl": "https://raw.githubusercontent.com/gentt1024/poteto/6c4902d160fa8d94c4d6835fdf2c765b0194ee9d/skins/yellow-raincoat/spritesheet.png",
+      "bytes": 2697242,
+      "width": 1536,
+      "height": 2288,
+      "format": "png",
+      "hasAlpha": true,
+      "gitBlobSha": "f435e39d64b6a78aad8814143f3ade162996ae0e",
+      "sha256": "21b66e81104fff559fba915430baa8971ee46ceb4eed41a5d4c091d3832b9082",
+      "observedAt": "2026-11-28T15:49:19.666Z"
+    },
+    {
+      "repo": "gentt1024/poteto",
+      "commit": "6c4902d160fa8d94c4d6835fdf2c765b0194ee9d",
+      "path": "spritesheet.png",
+      "rawUrl": "https://raw.githubusercontent.com/gentt1024/poteto/6c4902d160fa8d94c4d6835fdf2c765b0194ee9d/spritesheet.png",
+      "bytes": 2608377,
+      "width": 1536,
+      "height": 2288,
+      "format": "png",
+      "hasAlpha": true,
+      "gitBlobSha": "d4e993c864cbfdcbcb020340bfd760da16c2584d",
+      "sha256": "9018f98054e170c1ed459e983a05c37ec4c37d86591fc42305ab87cc336559a3",
+      "observedAt": "2026-11-28T15:49:20.424Z"
+    }
+  ]
+}

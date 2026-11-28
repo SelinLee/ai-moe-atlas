@@ -1,0 +1,87 @@
+{
+  "url": "https://www.bilibili.com/video/BV15AxT6yEEa/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15AxT6yEEa",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:37:52.900Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership and credited source links were checked independently.",
+  "metadata": {
+    "bvid": "BV15AxT6yEEa",
+    "title": "大小姐和她的小不点鱼",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1793065975,
+    "duration": 30
+  },
+  "descriptionSha256": "68f429fefe3e311d8991ceb155a6932a5a39a49161674f9685c34779c7104893",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "没钱养蓝色大肥鱼了怎么办",
+      "url": "https://www.bilibili.com/video/BV1GhpY6rEKE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "雨中的大肥鱼",
+      "url": "https://www.bilibili.com/video/BV1AP4c6CETC/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥",
+      "url": "https://www.bilibili.com/video/BV1RcyfzQEcH/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "music-credited-version",
+      "title": "納納米可愛捏o人o · ～喵呜喵呜喵呜喵呜喵呜喵呜喵呜喵呜喵呜喵呜喵呜～",
+      "url": "https://www.bilibili.com/video/BV1ZXmcBQEVf/"
+    },
+    {
+      "role": "credited-character-contributor",
+      "title": "这个刀子真甜",
+      "url": "https://space.bilibili.com/23315338"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "bvid": "BV1ZXmcBQEVf",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZXmcBQEVf",
+      "observedAt": "2026-11-28T15:49:03.343Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "～喵呜喵呜喵呜喵呜喵呜喵呜喵呜喵呜喵呜喵呜喵呜～",
+      "publisher": "納納米可愛捏o人o",
+      "publisherId": 524752808,
+      "publicationDate": "2025-12-07",
+      "pubdate": 1765103514,
+      "likes": 61759,
+      "descriptionSha256": "9d23b3dc9ba24bb6b85322b091b633e233e67feda094d4638c0a1f32a17de9b1"
+    }
+  ],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "大小姐和她的小不点鱼",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-design-and-retake-class-playlists.json",
+      "sha256": "0c8c16257cea7f191199cd3c1cd2a8d53469db61bb1092cb1175f89e535ba958",
+      "kind": "browser-metadata-extract"
+    }
+  },
+  "creditedNameAsWritten": "这个刀子真甜"
+}

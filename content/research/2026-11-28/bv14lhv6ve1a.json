@@ -1,0 +1,56 @@
+{
+  "url": "https://www.bilibili.com/video/BV14LHv6vE1a/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV14LHv6vE1a",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:37:40.146Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership and credited source links were checked independently.",
+  "metadata": {
+    "bvid": "BV14LHv6vE1a",
+    "title": "龙门算力中转驿——第一集《豆欠龙钱》",
+    "owner": {
+      "name": "彼岸花Channel",
+      "mid": 13787349
+    },
+    "pubdate": 1791080100,
+    "duration": 226
+  },
+  "descriptionSha256": "37a0b423ba1fe1fefc388fb603dcf302817bf7c18f2bacecae04b2cc3bf2e627",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "彼岸花Channel",
+      "url": "https://space.bilibili.com/13787349"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你好, I'm DS.我喜欢你.【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV15iby6tEQx/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "好饿好饿好饿我真的好饿❗️吃呀吃呀吃呀吃呀吃呀吃❗️",
+      "url": "https://www.bilibili.com/video/BV1KxtW6DEpZ/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "白饭与星屑 || 今天也要好好吃饭呀~【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV1F1Yf6pEUH/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Kimi——快帮帮我❗️凌晨3点 ，舞台为你亮起❗️",
+      "url": "https://www.bilibili.com/video/BV1pZ14z7ECE/"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "DS娘长视频故事合集",
+    "titleInPlaylist": "龙门算力中转驿——第一集《豆欠龙钱》",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-design-and-retake-class-playlists.json",
+      "sha256": "0c8c16257cea7f191199cd3c1cd2a8d53469db61bb1092cb1175f89e535ba958",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

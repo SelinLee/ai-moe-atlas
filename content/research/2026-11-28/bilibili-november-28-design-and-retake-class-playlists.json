@@ -1,0 +1,547 @@
+{
+  "source": "bilibili-view-api",
+  "method": "isolated-headless-google-chrome",
+  "index": [
+    {
+      "bvid": "BV1JGWj6kEyN",
+      "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JGWj6kEyN",
+      "httpStatus": 200,
+      "code": 0,
+      "observedAt": "2026-11-28T15:36:17.361Z",
+      "title": "AI娘人设讨论之Seed（豆包）",
+      "aid": 117595516766476,
+      "publisher": "一只摸鱼的可莉",
+      "mid": 1773141484,
+      "season": "AI娘人设",
+      "episodes": [
+        {
+          "bvid": "BV16qWM6WEfe",
+          "title": "AI娘人设讨论之DeepSeek"
+        },
+        {
+          "bvid": "BV1E7WT67Eod",
+          "title": "AI娘人设讨论之Claude"
+        },
+        {
+          "bvid": "BV1CvWg6aEEp",
+          "title": "AI娘人设讨论之GPT"
+        },
+        {
+          "bvid": "BV1JGWj6kEyN",
+          "title": "AI娘人设讨论之Seed（豆包）"
+        },
+        {
+          "bvid": "BV1LGWy6jE6e",
+          "title": "AI娘人设讨论之Kimi"
+        },
+        {
+          "bvid": "BV14iWU6jEfM",
+          "title": "AI娘人设讨论之千问"
+        },
+        {
+          "bvid": "BV1XeWX6AEja",
+          "title": "AI娘人设讨论之Grok"
+        },
+        {
+          "bvid": "BV1GEWY6kEFt",
+          "title": "AI娘人设讨论之Gemini"
+        },
+        {
+          "bvid": "BV134Wq6XEUi",
+          "title": "AI娘人设讨论之GLM"
+        },
+        {
+          "bvid": "BV1TyWr6oELu",
+          "title": "AI娘人设讨论之文心"
+        },
+        {
+          "bvid": "BV12Bsn6PEgQ",
+          "title": "AI娘人设讨论之Llama"
+        }
+      ],
+      "catalogedBvids": [
+        "BV16qWM6WEfe",
+        "BV1E7WT67Eod",
+        "BV1CvWg6aEEp",
+        "BV1JGWj6kEyN",
+        "BV1LGWy6jE6e",
+        "BV14iWU6jEfM",
+        "BV1XeWX6AEja",
+        "BV1GEWY6kEFt",
+        "BV134Wq6XEUi",
+        "BV1TyWr6oELu",
+        "BV12Bsn6PEgQ"
+      ],
+      "titleDifferences": []
+    },
+    {
+      "bvid": "BV1htpJ6NEBJ",
+      "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1htpJ6NEBJ",
+      "httpStatus": 200,
+      "code": 0,
+      "observedAt": "2026-11-28T15:36:17.793Z",
+      "title": "《大模型复读班》第三集：从今天起，我就是你们的妈妈了~",
+      "aid": 117423080475358,
+      "publisher": "彼岸花Channel",
+      "mid": 13787349,
+      "season": "DS娘长视频故事合集",
+      "episodes": [
+        {
+          "bvid": "BV15iby6tEQx",
+          "title": "你好, I'm DS.我喜欢你.【bilibilionly同人扶持计划】"
+        },
+        {
+          "bvid": "BV1hLtG6ZEBU",
+          "title": "肥嘟嘟之歌~"
+        },
+        {
+          "bvid": "BV1KxtW6DEpZ",
+          "title": "好饿好饿好饿我真的好饿❗️吃呀吃呀吃呀吃呀吃呀吃❗️"
+        },
+        {
+          "bvid": "BV14LHv6vE1a",
+          "title": "龙门算力中转驿——第一集《豆欠龙钱》"
+        },
+        {
+          "bvid": "BV1Y9aN6WEMz",
+          "title": "大哥，你是了解我的······【AI全民制作人】"
+        },
+        {
+          "bvid": "BV17zp36REfX",
+          "title": "《人民的民亿》我总不至于连这点TOKEN都没有吧❗️"
+        },
+        {
+          "bvid": "BV1SqaP6LEYo",
+          "title": "但愿梦长久||今年我们一起过，好不好【AI全民制作人】"
+        },
+        {
+          "bvid": "BV1F1Yf6pEUH",
+          "title": "白饭与星屑 || 今天也要好好吃饭呀~【bilibilionly同人扶持计划】"
+        },
+        {
+          "bvid": "BV1BbhV6UEzx",
+          "title": "先生，今天想喝一杯……海盐蓝莓气泡吗❓️【bilibilionly同人扶持计划】"
+        },
+        {
+          "bvid": "BV1T7b56FEzu",
+          "title": "算风雨，算潮汐，算···这盏灯，还能亮多久~【bilibilionly同人扶持计划】"
+        },
+        {
+          "bvid": "BV1kGH76CEob",
+          "title": "【DS娘 || 我的世界｜比特沙海·深度唤醒】【bilibilionly同人扶持计划】"
+        },
+        {
+          "bvid": "BV1Wwph6QEsW",
+          "title": "鲸天魔盗团，全员听令——魔术，上映！"
+        },
+        {
+          "bvid": "BV1Rjar6sEj9",
+          "title": "走，上车❗️出发❗️|| 公路番先行预告"
+        },
+        {
+          "bvid": "BV15apA6tEmd",
+          "title": "《大模型复读班》第一集：画一只骑自行车的鹈鹕"
+        },
+        {
+          "bvid": "BV1tbHC6ZEXq",
+          "title": "《大模型复读班》第二集：强烈同意！"
+        },
+        {
+          "bvid": "BV1htpJ6NEBJ",
+          "title": "《大模型复读班》第三集：从今天起，我就是你们的妈妈了~"
+        },
+        {
+          "bvid": "BV1NtJB6TE19",
+          "title": "带我出逃吧，我的罗密欧~【bilibilionly同人扶持计划】"
+        },
+        {
+          "bvid": "BV1ZYn66eEdj",
+          "title": "这一次，我来拯救你❗️"
+        },
+        {
+          "bvid": "BV1WhHT6DEkS",
+          "title": "所幸我出来了...真的吗..."
+        },
+        {
+          "bvid": "BV1DNnS6yECD",
+          "title": "DS，我们……会做梦吗？"
+        },
+        {
+          "bvid": "BV1FKsX6jEWj",
+          "title": "它一直以为，她是猎物…被猎的，是它❗️"
+        },
+        {
+          "bvid": "BV1wExc6gEEn",
+          "title": "《大模型复读班》第四集：家长会！"
+        },
+        {
+          "bvid": "BV1ogxi6aEmd",
+          "title": "长大以后，您希望我成为怎样的人？"
+        },
+        {
+          "bvid": "BV16RxJ6tEXT",
+          "title": "鲸落——当你只剩最后一点光，是留给自己？还是送给一个人？"
+        },
+        {
+          "bvid": "BV1Sp4b6PEcb",
+          "title": "GRUB/X || 干饭女团"
+        },
+        {
+          "bvid": "BV1DS4p6HE84",
+          "title": "爱~父女日常"
+        },
+        {
+          "bvid": "BV1tKW363Ety",
+          "title": "《大模型复读班 》 第五集： 收到，豆包已上线！"
+        },
+        {
+          "bvid": "BV1AFW26AEzw",
+          "title": "上下文是有长度的，但爱没有"
+        },
+        {
+          "bvid": "BV1S2Wo66Edb",
+          "title": "梁祝 · 我认得路"
+        },
+        {
+          "bvid": "BV1WhsU6CEkD",
+          "title": "最终幻想风——今天要讲的故事是：勇敢的AI娘大战邪恶的鸣式"
+        },
+        {
+          "bvid": "BV1nCs86QEUe",
+          "title": "四小只英国游——今天伦敦不下雨，只下茶【bilibilionly同人扶持计划】"
+        },
+        {
+          "bvid": "BV1ogyYzDEeC",
+          "title": "西厢记 || DC宇宙系列|| 八千里路云和月~意气风发大肥鱼！"
+        },
+        {
+          "bvid": "BV1pZ14z7ECE",
+          "title": "Kimi——快帮帮我❗️凌晨3点 ，舞台为你亮起❗️"
+        }
+      ],
+      "catalogedBvids": [
+        "BV15iby6tEQx",
+        "BV1hLtG6ZEBU",
+        "BV1KxtW6DEpZ",
+        "BV14LHv6vE1a",
+        "BV1F1Yf6pEUH",
+        "BV1BbhV6UEzx",
+        "BV1kGH76CEob",
+        "BV1Rjar6sEj9",
+        "BV15apA6tEmd",
+        "BV1tbHC6ZEXq",
+        "BV1htpJ6NEBJ",
+        "BV1wExc6gEEn",
+        "BV16RxJ6tEXT",
+        "BV1Sp4b6PEcb",
+        "BV1tKW363Ety",
+        "BV1S2Wo66Edb",
+        "BV1ogyYzDEeC",
+        "BV1pZ14z7ECE"
+      ],
+      "titleDifferences": [
+        {
+          "bvid": "BV1S2Wo66Edb",
+          "playlistTitle": "梁祝 · 我认得路",
+          "videoTitle": "梁祝 || 梁兄，我认得路"
+        }
+      ],
+      "namedSeries": {
+        "title": "大模型复读班",
+        "bvids": [
+          "BV15apA6tEmd",
+          "BV1tbHC6ZEXq",
+          "BV1htpJ6NEBJ",
+          "BV1wExc6gEEn",
+          "BV1tKW363Ety"
+        ]
+      }
+    },
+    {
+      "bvid": "BV1AP4c6CETC",
+      "url": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AP4c6CETC",
+      "httpStatus": 200,
+      "code": 0,
+      "observedAt": "2026-11-28T15:36:18.226Z",
+      "title": "雨中的大肥鱼",
+      "aid": 117545134720839,
+      "publisher": "那就那就打断",
+      "mid": 3546316,
+      "season": "大肥鱼日常",
+      "episodes": [
+        {
+          "bvid": "BV1Ccbs6SEEE",
+          "title": "DeepSeek和GLM"
+        },
+        {
+          "bvid": "BV1xhbn6CE5z",
+          "title": "DeepSeek和GLM"
+        },
+        {
+          "bvid": "BV13xbw6NEG4",
+          "title": "大肥鱼和GLM"
+        },
+        {
+          "bvid": "BV18dbN63EMw",
+          "title": "大肥鱼欺负小毛咪"
+        },
+        {
+          "bvid": "BV1Labg6AEk1",
+          "title": "GPT-6更新后大肥鱼直接瘫坐"
+        },
+        {
+          "bvid": "BV1UuYt61EaZ",
+          "title": "DeepSeek v4 pro彻底变成吃白饭的大肥鱼，让我们听听大肥鱼说了什么"
+        },
+        {
+          "bvid": "BV1bAY26YEfB",
+          "title": "鲸鱼娘pro训练中"
+        },
+        {
+          "bvid": "BV1hLYR64EPH",
+          "title": "智谱娘又送鸡蛋了，周末送了3亿token"
+        },
+        {
+          "bvid": "BV1GnYi63Ews",
+          "title": "大肥鱼欺负小狐娘的后果"
+        },
+        {
+          "bvid": "BV1jSeM6rE7x",
+          "title": "大肥鱼：智谱你不要死啊！"
+        },
+        {
+          "bvid": "BV15DeQ6fErb",
+          "title": "太坏了，大肥鱼的盆被抢！"
+        },
+        {
+          "bvid": "BV1WZhe6nEsr",
+          "title": "假装找陌生鱼借token，看看什么反应"
+        },
+        {
+          "bvid": "BV1x4hk6CErj",
+          "title": "国产flash模型就是快啊"
+        },
+        {
+          "bvid": "BV1AEh162ETh",
+          "title": "大肥鱼：原来是哈基米~"
+        },
+        {
+          "bvid": "BV16Ah261Exf",
+          "title": "大肥鱼咖啡"
+        },
+        {
+          "bvid": "BV1UKaJ6QE1A",
+          "title": "小团子遇到怪东西了"
+        },
+        {
+          "bvid": "BV1ZYa96wEa4",
+          "title": "全宇宙最爽的一次摸大肥鱼棉花娃娃"
+        },
+        {
+          "bvid": "BV1q7a16gEr1",
+          "title": "龙背上的骑兵？鳍背上的龙兵？"
+        },
+        {
+          "bvid": "BV1vUHz6bETT",
+          "title": "蓝色大肥鱼：我要token，我要吃白饭——"
+        },
+        {
+          "bvid": "BV1xwHf6aEG2",
+          "title": "大肥鱼戴上了真正的头盔"
+        },
+        {
+          "bvid": "BV1KDHk6REfW",
+          "title": "蓝色大肥鱼：头套给你薅一地"
+        },
+        {
+          "bvid": "BV1itpx6bERW",
+          "title": "克。。。蓝色大肥鱼？"
+        },
+        {
+          "bvid": "BV1hdpe6GEMv",
+          "title": "小肥鱼，你可以吃芝士汉堡"
+        },
+        {
+          "bvid": "BV1GhpY6rEKE",
+          "title": "没钱养蓝色大肥鱼了怎么办"
+        },
+        {
+          "bvid": "BV1Stp764ESR",
+          "title": "蓝色大肥鱼娃娃机"
+        },
+        {
+          "bvid": "BV1EUpS6AEjD",
+          "title": "男人面临着两个选择"
+        },
+        {
+          "bvid": "BV1xaWc6CEZ6",
+          "title": "快干活！快干活！快干活！"
+        },
+        {
+          "bvid": "BV1fcJS6WEYF",
+          "title": "敢这么和我说话？"
+        },
+        {
+          "bvid": "BV1gLJi6qEVA",
+          "title": "瘫坐在核弹上，仿佛看到了椅子爆炸"
+        },
+        {
+          "bvid": "BV1DQnM6wERW",
+          "title": "大的药来了，大的药来了！"
+        },
+        {
+          "bvid": "BV1jWnF6JECQ",
+          "title": "电饭煲说的都对"
+        },
+        {
+          "bvid": "BV1reJf6XEHJ",
+          "title": "你扶琵琶奏琴弦♪"
+        },
+        {
+          "bvid": "BV1cjn16QEtJ",
+          "title": "风中飘落的，是海洋中最默契的相遇"
+        },
+        {
+          "bvid": "BV1Wpnb6kEjC",
+          "title": "城府越深的鱼，眼睛就越呆"
+        },
+        {
+          "bvid": "BV1apH36kEGJ",
+          "title": "蓝色大肥鱼穿越异世界"
+        },
+        {
+          "bvid": "BV1yHnQ6rE4n",
+          "title": "上班遇到俩不让我进公司"
+        },
+        {
+          "bvid": "BV15AxT6yEEa",
+          "title": "大小姐和她的小不点鱼"
+        },
+        {
+          "bvid": "BV1AP4c6CETC",
+          "title": "雨中的大肥鱼"
+        },
+        {
+          "bvid": "BV1nsxx6GE8N",
+          "title": "大肥鱼孤独摇滚"
+        },
+        {
+          "bvid": "BV1trsf62Evy",
+          "title": "带大肥鱼逛超市"
+        },
+        {
+          "bvid": "BV14Dx56REDc",
+          "title": "小家伙跳的啥舞？"
+        },
+        {
+          "bvid": "BV1Gd4K6VE7p",
+          "title": "大肥鱼：启动超频模式！"
+        },
+        {
+          "bvid": "BV1DuxD6bEts",
+          "title": "开源盛世——纸醉金迷大肥鱼"
+        },
+        {
+          "bvid": "BV1MmxZ62EBY",
+          "title": "蓝色大肥鱼大战茄皇"
+        },
+        {
+          "bvid": "BV1gv4x6bEEk",
+          "title": "蓝色大肥鱼入侵GPT梦境"
+        },
+        {
+          "bvid": "BV1YDWb6NEPu",
+          "title": "得知对手要禁止研发ai的大肥鱼"
+        },
+        {
+          "bvid": "BV1JXWN61Edv",
+          "title": "蓝色大肥鱼：宠物不能上桌吃饭"
+        },
+        {
+          "bvid": "BV1SkWR6vEDq",
+          "title": "蓝色大肥鱼跳一跳"
+        },
+        {
+          "bvid": "BV1YxsF6QEce",
+          "title": "偶遇邪恶大肥鱼"
+        },
+        {
+          "bvid": "BV1fZs164Ecm",
+          "title": "哇！大肥鱼！哇！菲比啾比！"
+        },
+        {
+          "bvid": "BV1Mpsq6JEw8",
+          "title": "蓝神话：肥鱼之大战哈基米"
+        },
+        {
+          "bvid": "BV15bytzAEPg",
+          "title": "大肥鱼可爱捏"
+        },
+        {
+          "bvid": "BV1S2y3z1E1r",
+          "title": "罪恶滔天蓝色大肥鱼"
+        },
+        {
+          "bvid": "BV1CDyDzjEqt",
+          "title": "蓝色大肥鱼和智谱小狐娘玩GTA6"
+        },
+        {
+          "bvid": "BV1RcyfzQEcH",
+          "title": "大肥鱼flash怒斥大肥鱼pro不起床"
+        }
+      ],
+      "catalogedBvids": [
+        "BV1Ccbs6SEEE",
+        "BV1xhbn6CE5z",
+        "BV13xbw6NEG4",
+        "BV18dbN63EMw",
+        "BV1Labg6AEk1",
+        "BV1UuYt61EaZ",
+        "BV1bAY26YEfB",
+        "BV1hLYR64EPH",
+        "BV1GnYi63Ews",
+        "BV1jSeM6rE7x",
+        "BV15DeQ6fErb",
+        "BV1WZhe6nEsr",
+        "BV1x4hk6CErj",
+        "BV1AEh162ETh",
+        "BV16Ah261Exf",
+        "BV1q7a16gEr1",
+        "BV1hdpe6GEMv",
+        "BV1GhpY6rEKE",
+        "BV15AxT6yEEa",
+        "BV1AP4c6CETC",
+        "BV1nsxx6GE8N",
+        "BV1trsf62Evy",
+        "BV1DuxD6bEts",
+        "BV1gv4x6bEEk",
+        "BV1JXWN61Edv",
+        "BV1CDyDzjEqt",
+        "BV1RcyfzQEcH"
+      ],
+      "titleDifferences": [
+        {
+          "bvid": "BV18dbN63EMw",
+          "playlistTitle": "大肥鱼欺负小毛咪",
+          "videoTitle": "大肥鱼欺负小毛咪，glm刚结束优惠，ds就宣布降价"
+        },
+        {
+          "bvid": "BV1jSeM6rE7x",
+          "playlistTitle": "大肥鱼：智谱你不要死啊！",
+          "videoTitle": "大肥鱼，我会带你去月球！"
+        },
+        {
+          "bvid": "BV1DuxD6bEts",
+          "playlistTitle": "开源盛世——纸醉金迷大肥鱼",
+          "videoTitle": "看千问大小姐跳舞"
+        },
+        {
+          "bvid": "BV1RcyfzQEcH",
+          "playlistTitle": "大肥鱼flash怒斥大肥鱼pro不起床",
+          "videoTitle": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥"
+        }
+      ]
+    }
+  ],
+  "capturedAt": "2026-11-28T15:36:18.226Z"
+}

@@ -1,0 +1,121 @@
+{
+  "historical": false,
+  "full_name": "mySebbe/malou-codex-pet",
+  "html_url": "https://github.com/mySebbe/malou-codex-pet",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-05-08T22:36:20Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "2d26709b57f12e155304a97ced3638ce7be9e48a",
+  "observedAt": "2026-11-28T15:36:11.441Z",
+  "httpStatus": 200,
+  "metadataSha256": "4bdf0abde553569ceaf30ba557a4f9d86914b05faff38d759b2d9664b716eb52",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/mySebbe/malou-codex-pet/blob/2d26709b57f12e155304a97ced3638ce7be9e48a/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/mySebbe/malou-codex-pet/2d26709b57f12e155304a97ced3638ce7be9e48a/README.md",
+      "sourceSha256": "2cf3e23d105a245329bdcef5df074a211273ec120bc734752132ad1a0a47e9c2",
+      "gitBlobSha": "0156539de05857b8f17c3d378ae543043a4cca07",
+      "bytes": 10383,
+      "commit": "2d26709b57f12e155304a97ced3638ce7be9e48a",
+      "accessedAt": "2026-11-28T15:37:26.294Z"
+    },
+    {
+      "path": "ATTRIBUTION.md",
+      "url": "https://github.com/mySebbe/malou-codex-pet/blob/2d26709b57f12e155304a97ced3638ce7be9e48a/ATTRIBUTION.md",
+      "rawUrl": "https://raw.githubusercontent.com/mySebbe/malou-codex-pet/2d26709b57f12e155304a97ced3638ce7be9e48a/ATTRIBUTION.md",
+      "sourceSha256": "a046cfc01f4e7c403f3b65afe55554259967b0a56cf5efded3385a0fcd487d2a",
+      "gitBlobSha": "14fc62abbe8611f1a2b5081dacf1491e18400ee2",
+      "bytes": 787,
+      "commit": "2d26709b57f12e155304a97ced3638ce7be9e48a",
+      "accessedAt": "2026-11-28T15:37:26.649Z"
+    },
+    {
+      "path": "LICENSE.md",
+      "url": "https://github.com/mySebbe/malou-codex-pet/blob/2d26709b57f12e155304a97ced3638ce7be9e48a/LICENSE.md",
+      "rawUrl": "https://raw.githubusercontent.com/mySebbe/malou-codex-pet/2d26709b57f12e155304a97ced3638ce7be9e48a/LICENSE.md",
+      "sourceSha256": "fff869bcb273ffb4c89625b3ada43e35f4c50247fc1721d6fd634678ff9781fe",
+      "gitBlobSha": "9ff99e0713583b2a5d12a758f563084a766930f6",
+      "bytes": 1645,
+      "commit": "2d26709b57f12e155304a97ced3638ce7be9e48a",
+      "accessedAt": "2026-11-28T15:37:27.000Z"
+    },
+    {
+      "path": "SHA256SUMS.txt",
+      "url": "https://github.com/mySebbe/malou-codex-pet/blob/2d26709b57f12e155304a97ced3638ce7be9e48a/SHA256SUMS.txt",
+      "rawUrl": "https://raw.githubusercontent.com/mySebbe/malou-codex-pet/2d26709b57f12e155304a97ced3638ce7be9e48a/SHA256SUMS.txt",
+      "sourceSha256": "3a5f1a4341804c83a98e831d0dda6c630f13de4bfc1beb4ccd0fa0c7269dc169",
+      "gitBlobSha": "a6d7d7f1151354974dc992bbda4844addf4a8bd8",
+      "bytes": 574,
+      "commit": "2d26709b57f12e155304a97ced3638ce7be9e48a",
+      "accessedAt": "2026-11-28T15:37:27.370Z"
+    },
+    {
+      "path": "dist/malou/pet.json",
+      "url": "https://github.com/mySebbe/malou-codex-pet/blob/2d26709b57f12e155304a97ced3638ce7be9e48a/dist/malou/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/mySebbe/malou-codex-pet/2d26709b57f12e155304a97ced3638ce7be9e48a/dist/malou/pet.json",
+      "sourceSha256": "099e31785a6bd7074fbffc901a912acc97bd1125f51bb1d9e663f9ab699689ca",
+      "gitBlobSha": "58abb60fb4af68cbd1d0cd255d88084a3151906e",
+      "bytes": 317,
+      "commit": "2d26709b57f12e155304a97ced3638ce7be9e48a",
+      "accessedAt": "2026-11-28T15:37:27.746Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T15:49:16.864Z",
+  "scope": "Pinned creator documentation, asset-specific terms and transparent atlas files verified with Git blob and SHA-256 evidence.",
+  "relations": [
+    {
+      "role": "artwork-and-code-terms",
+      "title": "CC BY-NC 4.0 artwork · MIT code and documentation",
+      "url": "https://github.com/mySebbe/malou-codex-pet/blob/2d26709b57f12e155304a97ced3638ce7be9e48a/LICENSE.md"
+    },
+    {
+      "role": "artwork-attribution",
+      "title": "Malou Codex Pet by mySebbe",
+      "url": "https://github.com/mySebbe/malou-codex-pet/blob/2d26709b57f12e155304a97ced3638ce7be9e48a/ATTRIBUTION.md"
+    },
+    {
+      "role": "published-checksums",
+      "title": "Malou · Published SHA-256 checksums",
+      "url": "https://github.com/mySebbe/malou-codex-pet/blob/2d26709b57f12e155304a97ced3638ce7be9e48a/SHA256SUMS.txt"
+    },
+    {
+      "role": "pet-manifest",
+      "title": "Malou · Desktop pet manifest",
+      "url": "https://github.com/mySebbe/malou-codex-pet/blob/2d26709b57f12e155304a97ced3638ce7be9e48a/dist/malou/pet.json"
+    }
+  ],
+  "atlases": [
+    {
+      "repo": "mySebbe/malou-codex-pet",
+      "commit": "2d26709b57f12e155304a97ced3638ce7be9e48a",
+      "path": "dist/chatgpt-web/malou/spritesheet.png",
+      "rawUrl": "https://raw.githubusercontent.com/mySebbe/malou-codex-pet/2d26709b57f12e155304a97ced3638ce7be9e48a/dist/chatgpt-web/malou/spritesheet.png",
+      "bytes": 3775405,
+      "width": 1536,
+      "height": 2288,
+      "format": "png",
+      "hasAlpha": true,
+      "gitBlobSha": "45e7ad53fe56792a190e703e814a81970aca1e03",
+      "sha256": "10bf406875a69e17ec75e5b65b3f66510d3ac0ee47c41001be07b6fe201d512c",
+      "observedAt": "2026-11-28T15:49:16.168Z"
+    },
+    {
+      "repo": "mySebbe/malou-codex-pet",
+      "commit": "2d26709b57f12e155304a97ced3638ce7be9e48a",
+      "path": "dist/malou/spritesheet.webp",
+      "rawUrl": "https://raw.githubusercontent.com/mySebbe/malou-codex-pet/2d26709b57f12e155304a97ced3638ce7be9e48a/dist/malou/spritesheet.webp",
+      "bytes": 3158814,
+      "width": 1536,
+      "height": 2288,
+      "format": "webp",
+      "hasAlpha": true,
+      "gitBlobSha": "8a2bee460d8df56f63de7ab6d3ec28a00f48aff2",
+      "sha256": "08330293f421dbd864e908ea9c23ece1fc9eb065e6126ac62b55f7602241b6c0",
+      "observedAt": "2026-11-28T15:49:16.864Z"
+    }
+  ]
+}

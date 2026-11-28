@@ -1,0 +1,81 @@
+{
+  "url": "https://www.bilibili.com/video/BV1hdpe6GEMv/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hdpe6GEMv",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:37:51.268Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership and credited source links were checked independently.",
+  "metadata": {
+    "bvid": "BV1hdpe6GEMv",
+    "title": "小肥鱼，你可以吃芝士汉堡",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1791594464,
+    "duration": 18
+  },
+  "descriptionSha256": "6e66957b83526a89a7efac8faa92750572195997853ea16b8a34409e13a8c8c0",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "龙背上的骑兵？鳍背上的龙兵？",
+      "url": "https://www.bilibili.com/video/BV1q7a16gEr1/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "没钱养蓝色大肥鱼了怎么办",
+      "url": "https://www.bilibili.com/video/BV1GhpY6rEKE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥",
+      "url": "https://www.bilibili.com/video/BV1RcyfzQEcH/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "music-credited-version",
+      "title": "喵内特洛夫斯基 · 菲比：地道の小曲",
+      "url": "https://www.bilibili.com/video/BV1ubpb6xEr9/"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "bvid": "BV1ubpb6xEr9",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ubpb6xEr9",
+      "observedAt": "2026-11-28T15:49:01.792Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "菲比：地道の小曲",
+      "publisher": "喵内特洛夫斯基",
+      "publisherId": 409670025,
+      "publicationDate": "2026-10-09",
+      "pubdate": 1791545468,
+      "likes": 2358,
+      "descriptionSha256": "97cd9f297a90e11508851a6f77d75344ca810ac5d1b4c86e958ba329a375797e"
+    }
+  ],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "小肥鱼，你可以吃芝士汉堡",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-design-and-retake-class-playlists.json",
+      "sha256": "0c8c16257cea7f191199cd3c1cd2a8d53469db61bb1092cb1175f89e535ba958",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

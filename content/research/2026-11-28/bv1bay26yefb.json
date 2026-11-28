@@ -1,0 +1,61 @@
+{
+  "url": "https://www.bilibili.com/video/BV1bAY26YEfB/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bAY26YEfB",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:37:48.066Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership and credited source links were checked independently.",
+  "metadata": {
+    "bvid": "BV1bAY26YEfB",
+    "title": "鲸鱼娘pro训练中",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1789142305,
+    "duration": 29
+  },
+  "descriptionSha256": "7270ec02263a5fee473e307458bf76f1cd28fbffd2c4a01a2cc4fe73b8662ba4",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek v4 pro彻底变成吃白饭的大肥鱼，让我们听听大肥鱼说了什么",
+      "url": "https://www.bilibili.com/video/BV1UuYt61EaZ/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "智谱娘又送鸡蛋了，周末送了3亿token",
+      "url": "https://www.bilibili.com/video/BV1hLYR64EPH/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥",
+      "url": "https://www.bilibili.com/video/BV1RcyfzQEcH/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "鲸鱼娘pro训练中",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-design-and-retake-class-playlists.json",
+      "sha256": "0c8c16257cea7f191199cd3c1cd2a8d53469db61bb1092cb1175f89e535ba958",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

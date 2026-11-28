@@ -1,0 +1,68 @@
+{
+  "url": "https://note.com/chatgpt_ysd/n/n2e62683ab19a",
+  "accessedAt": "2026-11-28T15:36:34.522Z",
+  "httpStatus": 200,
+  "title": "AIで漫画を描いてみた話。｜ AI擬人化漫画｜ChatGPTのヨシダ｜第1話 ｜",
+  "creator": "https://note.com/chatgpt_ysd",
+  "publishedAt": "2025-11-27T22:05:37.000+09:00",
+  "htmlSha256": "853de881030e91fae88e2c24f62e430ec526c4eabc5792144c316fde7afe02f0",
+  "scope": "Creator post and selected first-party artwork files checked in isolated headless Chrome. Original byte lengths and SHA-256 values are retained.",
+  "files": [
+    {
+      "index": 2,
+      "url": "https://assets.st-note.com/production/uploads/images/232363158/picture_pc_9dd6aacd8f8a98cf778081b06690cfd4.png",
+      "sha256": "887da712b74bcdd49125cc0b21f72455491b497af0b21ef74700574ffe12f611",
+      "bytes": 203273,
+      "width": 832,
+      "height": 1248,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:37:29.984Z",
+      "creatorCaption": "Gemini画伯の描いたChatGPTのヨシダ"
+    },
+    {
+      "index": 3,
+      "url": "https://assets.st-note.com/production/uploads/images/232363743/picture_pc_13fa5c9e449660296f2f94c00c0edd23.png",
+      "sha256": "cb43f45e729c2153aa91cd56ff38138b506207fb8c5a08ebd940cc45b4269b8b",
+      "bytes": 812621,
+      "width": 1280,
+      "height": 1908,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:37:30.509Z",
+      "creatorCaption": "Gemini画伯の描いたクロード"
+    },
+    {
+      "index": 4,
+      "url": "https://assets.st-note.com/production/uploads/images/232364179/picture_pc_c1beae75333af235345958d4baca15a7.png",
+      "sha256": "4803d96a7bef7cc5054ed8c89c2deb08824a6c24a1fb5ffcf1dbf93a5f9f52f7",
+      "bytes": 180962,
+      "width": 832,
+      "height": 1248,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:37:30.017Z",
+      "creatorCaption": "Gemini画伯の描いたジェミニ"
+    },
+    {
+      "index": 5,
+      "url": "https://assets.st-note.com/production/uploads/images/232366224/picture_pc_17edb7c7a685d34427561712f0d00c59.png",
+      "sha256": "99e5636abe36aa62b19e31d722c348e5014f65155fac09d872f5f658cd925537",
+      "bytes": 541393,
+      "width": 832,
+      "height": 1248,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:37:31.771Z",
+      "creatorCaption": "Gemini画伯の初漫画"
+    }
+  ],
+  "relations": [
+    {
+      "role": "creator-profile",
+      "title": "カワムラ",
+      "url": "https://note.com/chatgpt_ysd"
+    },
+    {
+      "role": "related-creator-series",
+      "title": "カワムラ · Later character guide",
+      "url": "https://note.com/chatgpt_ysd/n/n9973fe32a80f"
+    }
+  ]
+}

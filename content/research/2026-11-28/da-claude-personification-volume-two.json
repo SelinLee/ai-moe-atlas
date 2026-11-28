@@ -1,0 +1,62 @@
+{
+  "url": "https://note.com/_ttaku/n/na9ca7cce0fdf",
+  "accessedAt": "2026-11-28T15:36:34.527Z",
+  "httpStatus": 200,
+  "title": "AI擬人化計画 vol.2 〜文学とコードを愛する「クロードちゃん」の誕生〜",
+  "creator": "https://note.com/_ttaku",
+  "publishedAt": "2025-12-14T00:29:58.000+09:00",
+  "htmlSha256": "465270941c7be0a281d16d3b06417ebb36683aaa816bf69ad3f734ddf963b738",
+  "scope": "Creator post and selected first-party artwork files checked in isolated headless Chrome. Original byte lengths and SHA-256 values are retained.",
+  "files": [
+    {
+      "index": 3,
+      "url": "https://assets.st-note.com/img/1765638951-01bfQkCSTExRsUAwp8F2Di5m.png",
+      "sha256": "3df39e442b4003329279fbff1ea5d3a6024c7962bcf160d06ab2757bd2514673",
+      "bytes": 2069350,
+      "width": 2048,
+      "height": 2048,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:37:28.035Z",
+      "creatorCaption": "クロードちゃんver1"
+    },
+    {
+      "index": 4,
+      "url": "https://assets.st-note.com/img/1765639046-lV2O6jgM17akvSIAcQXe4FKf.png",
+      "sha256": "1aba058065fa5be9bb29f45bdeac89830d707fe43adae8f45aa8ceddf5d6512f",
+      "bytes": 2494403,
+      "width": 2048,
+      "height": 2048,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:37:28.552Z",
+      "creatorCaption": "クロードちゃんver2"
+    },
+    {
+      "index": 8,
+      "url": "https://assets.st-note.com/img/1765639614-Ubm8kqj5PuosJYdwRTDt01yF.png",
+      "sha256": "8437af9ccb55d53850ae5960f88ac40142747a318d68da3aca9023d418b13287",
+      "bytes": 2125835,
+      "width": 2048,
+      "height": 2048,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:37:27.211Z",
+      "creatorCaption": "完成版 クロードちゃん三面図"
+    }
+  ],
+  "relations": [
+    {
+      "role": "creator-profile",
+      "title": "だー",
+      "url": "https://note.com/_ttaku"
+    },
+    {
+      "role": "related-creator-series",
+      "title": "AI 擬人化計画 vol.1 · Gemini",
+      "url": "https://note.com/_ttaku/n/n7d0f9897fe5e"
+    },
+    {
+      "role": "related-creator-series",
+      "title": "AI 娘 vol.3 · ChatGPT",
+      "url": "https://note.com/_ttaku/n/n13870ac109bc"
+    }
+  ]
+}
