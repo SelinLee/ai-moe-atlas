@@ -1,0 +1,371 @@
+{
+  "schemaVersion": 1,
+  "metadataVersion": 1,
+  "platform": "manual",
+  "query": "Weekly October 19–24 source-only intake, bounded October 25 review",
+  "searchedAt": "2026-10-25T07:21:28Z",
+  "automaticPublication": false,
+  "reviewScope": "source-metadata-only",
+  "datePolicy": {
+    "zh": "本轮保留原页显示日期；未重新核验 API 偏移，不推测时区或秒数。历史文章本周新入队，不表示本周首发。",
+    "en": "Preserve displayed page dates; API offsets were not refreshed, so timezone and seconds are not inferred. Older articles are newly queued, not newly published this week.",
+    "ja": "表示日付を保持。API 時差は再確認していないため時差・秒は推測しません。今週の新規登録は今週の初公開を意味しません。"
+  },
+  "candidates": [
+    {
+      "id": "note-ttaku-gemini",
+      "title": "GeminiとNano Banana Proで擬人化キャラクター「ジェミニちゃん」作ってみた",
+      "url": "https://note.com/_ttaku/n/n7d0f9897fe5e",
+      "publisher": "だー",
+      "publisherDisplayName": "だー",
+      "publicationDate": "2025-11-26",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": null,
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "だー",
+          "role": "publisher",
+          "url": "https://note.com/_ttaku"
+        }
+      ],
+      "products": [
+        {
+          "product": "Gemini",
+          "entityId": "gemini",
+          "provider": "Google",
+          "characterNames": [
+            "ジェミニちゃん"
+          ],
+          "official": false
+        }
+      ],
+      "grouping": "source-group",
+      "characterCount": 1,
+      "relatedSources": [],
+      "generatorVariants": [],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://note.com/_ttaku/n/n7d0f9897fe5e"
+        ],
+        "note": {
+          "zh": "所查正文未发现图片级使用许可；公开可见与生成工具署名都不等于授权。",
+          "en": "No artwork-specific grant found in the reviewed text; public visibility and generator credit are not permission.",
+          "ja": "確認した本文に画像単位の利用許諾なし。公開や生成ツールの記載は許可ではありません。"
+        }
+      },
+      "verification": {
+        "current": {
+          "attemptedAt": "2026-10-25T07:20:15.741895+00:00",
+          "method": "original-html-http-status-and-public-text-extraction",
+          "httpStatus": 200,
+          "finalUrl": "https://note.com/_ttaku/n/n7d0f9897fe5e",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-10-25T07:20:15.741895+00:00",
+          "limitations": {
+            "zh": "只核验原页 HTTP、可读正文、署名及显示日期。未下载图片或检查像素/完整上游权利链，不证明最早发表或浏览器渲染。",
+            "en": "Original-page HTTP, readable text, publisher and displayed date only. No image download, pixel or complete upstream-rights review; earliest publication and browser rendering are unverified.",
+            "ja": "元ページ HTTP、可読本文、投稿者、表示日付のみ。画像取得・画素・上流権利の全連鎖は未確認。最初の公開とブラウザ描画も未確認。"
+          }
+        }
+      },
+      "note": {
+        "zh": "本次只纳入本页 Gemini；同作者 Claude/ChatGPT 系列留待补充，不把设想与生成迭代另算角色。",
+        "en": "Only Gemini from this page is included; the same-author Claude/ChatGPT series awaits supplementation. Plans and iterations are not additional characters.",
+        "ja": "今回は本ページの Gemini のみ。同作者の Claude/ChatGPT シリーズは追記待ち。構想や反復は別キャラクターに数えません。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、改编、再分发及导出权限仍待审核；不下载或镜像作品。",
+        "en": "Artwork-specific display, adaptation, redistribution and export permissions remain pending; no artwork downloaded or mirrored.",
+        "ja": "画像ごとの表示・改変・再配布・書き出し権限は未確認。画像は取得・転載しません。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false,
+      "sourceType": "illustrated-source"
+    },
+    {
+      "id": "note-gigabit-ai-team",
+      "title": "AIにも個性がある。AIゲーム開発チームキャラクターデザイン",
+      "url": "https://note.com/gigabit_million/n/ne1c08a3d08c3",
+      "publisher": "ギガビット＠ゲームつくるひと",
+      "publisherDisplayName": "ギガビット＠ゲームつくるひと",
+      "publicationDate": "2026-09-24",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": null,
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "ギガビット＠ゲームつくるひと",
+          "role": "publisher",
+          "url": "https://note.com/gigabit_million"
+        }
+      ],
+      "products": [
+        {
+          "product": "Claude",
+          "entityId": "claude",
+          "provider": "Anthropic",
+          "characterNames": [
+            "クロ子"
+          ],
+          "official": false
+        },
+        {
+          "product": "ChatGPT",
+          "entityId": "chatgpt",
+          "provider": "OpenAI",
+          "characterNames": [
+            "チャピ子"
+          ],
+          "official": false
+        },
+        {
+          "product": "Grok",
+          "entityId": "grok",
+          "provider": "xAI",
+          "characterNames": [
+            "ペケ子"
+          ],
+          "official": false
+        },
+        {
+          "product": "Gemini",
+          "entityId": "gemini",
+          "provider": "Google",
+          "characterNames": [
+            "ジェミ子"
+          ],
+          "official": false
+        }
+      ],
+      "grouping": "source-group",
+      "characterCount": 4,
+      "relatedSources": [],
+      "generatorVariants": [],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://note.com/gigabit_million/n/ne1c08a3d08c3"
+        ],
+        "note": {
+          "zh": "作者明确允许参考文章设计创作图片；这不证明原图再分发、下载包、商业用途或完整上游授权。",
+          "en": "The author permits creating images by referencing these designs; this does not establish original-art redistribution, packs, commercial scope or complete upstream permission.",
+          "ja": "作者はデザインを参考にした画像制作を認めていますが、原画再配布・パック・商用範囲・上流権利全体の許諾を示しません。"
+        }
+      },
+      "verification": {
+        "current": {
+          "attemptedAt": "2026-10-25T07:20:21.596603+00:00",
+          "method": "original-html-http-status-and-public-text-extraction",
+          "httpStatus": 200,
+          "finalUrl": "https://note.com/gigabit_million/n/ne1c08a3d08c3",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-10-25T07:20:21.596603+00:00",
+          "limitations": {
+            "zh": "只核验原页 HTTP、可读正文、署名及显示日期。未下载图片或检查像素/完整上游权利链，不证明最早发表或浏览器渲染。",
+            "en": "Original-page HTTP, readable text, publisher and displayed date only. No image download, pixel or complete upstream-rights review; earliest publication and browser rendering are unverified.",
+            "ja": "元ページ HTTP、可読本文、投稿者、表示日付のみ。画像取得・画素・上流権利の全連鎖は未確認。最初の公開とブラウザ描画も未確認。"
+          }
+        }
+      },
+      "note": {
+        "zh": "保留作者的 ChatGPT(Codex) 标签但不增设家族；人类自我形象排除，文章的产品能力/价格判断不作为事实采纳。",
+        "en": "Retain the author’s ChatGPT(Codex) label without adding a family; exclude the human self-insert and do not adopt product capability/price judgments as facts.",
+        "ja": "作者の ChatGPT(Codex) 表記を保持し、別系統には数えません。人間の自画像と製品性能・価格評価は対象外です。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、改编、再分发及导出权限仍待审核；不下载或镜像作品。",
+        "en": "Artwork-specific display, adaptation, redistribution and export permissions remain pending; no artwork downloaded or mirrored.",
+        "ja": "画像ごとの表示・改変・再配布・書き出し権限は未確認。画像は取得・転載しません。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false,
+      "sourceType": "illustrated-source"
+    },
+    {
+      "id": "note-lilysoma-chiho",
+      "title": "ChatGPTの擬人化・画像生成が面白い",
+      "url": "https://note.com/lilysoma0813/n/ne7a5265d4633",
+      "publisher": "もつなべ",
+      "publisherDisplayName": "もつなべ",
+      "publicationDate": "2026-10-03",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": null,
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "もつなべ",
+          "role": "publisher",
+          "url": "https://note.com/lilysoma0813"
+        }
+      ],
+      "products": [
+        {
+          "product": "ChatGPT",
+          "entityId": "chatgpt",
+          "provider": "OpenAI",
+          "characterNames": [
+            "千帆"
+          ],
+          "official": false
+        }
+      ],
+      "grouping": "source-group",
+      "characterCount": 1,
+      "relatedSources": [],
+      "generatorVariants": [],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://note.com/lilysoma0813/n/ne7a5265d4633"
+        ],
+        "note": {
+          "zh": "所查正文未发现图片级使用许可；公开可见与生成工具署名都不等于授权。",
+          "en": "No artwork-specific grant found in the reviewed text; public visibility and generator credit are not permission.",
+          "ja": "確認した本文に画像単位の利用許諾なし。公開や生成ツールの記載は許可ではありません。"
+        }
+      },
+      "verification": {
+        "current": {
+          "attemptedAt": "2026-10-25T07:20:26.559154+00:00",
+          "method": "original-html-http-status-and-public-text-extraction",
+          "httpStatus": 200,
+          "finalUrl": "https://note.com/lilysoma0813/n/ne7a5265d4633",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-10-25T07:20:26.559154+00:00",
+          "limitations": {
+            "zh": "只核验原页 HTTP、可读正文、署名及显示日期。未下载图片或检查像素/完整上游权利链，不证明最早发表或浏览器渲染。",
+            "en": "Original-page HTTP, readable text, publisher and displayed date only. No image download, pixel or complete upstream-rights review; earliest publication and browser rendering are unverified.",
+            "ja": "元ページ HTTP、可読本文、投稿者、表示日付のみ。画像取得・画素・上流権利の全連鎖は未確認。最初の公開とブラウザ描画も未確認。"
+          }
+        }
+      },
+      "note": {
+        "zh": "千帆及其服装/比例变化计同一角色；摩托车与手机拟人排除。上游 Threads 提示词原帖未定位。",
+        "en": "Chiho and costume/proportion variants remain one character; motorcycle and phone personifications are excluded. The upstream Threads prompt post is unlocated.",
+        "ja": "千帆の衣装・頭身差分は同一キャラクター。バイク・携帯の擬人化は対象外。元の Threads プロンプト投稿は未特定。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、改编、再分发及导出权限仍待审核；不下载或镜像作品。",
+        "en": "Artwork-specific display, adaptation, redistribution and export permissions remain pending; no artwork downloaded or mirrored.",
+        "ja": "画像ごとの表示・改変・再配布・書き出し権限は未確認。画像は取得・転載しません。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false,
+      "sourceType": "illustrated-source"
+    },
+    {
+      "id": "note-ai-to-illust-three-ai",
+      "title": "ChatGPTでAIの擬人化絵を描かせてみた",
+      "url": "https://note.com/ai_to_illust/n/n77b2536c5715",
+      "publisher": "AI to Illustration",
+      "publisherDisplayName": "AI to Illustration",
+      "publicationDate": "2026-10-16",
+      "publicationDateBasis": "visible-page-date",
+      "publicationTimeZone": null,
+      "observedDatetime": null,
+      "status": "pending-review",
+      "permissions": "unknown",
+      "usage": "source-only",
+      "originalCreator": null,
+      "attribution": [
+        {
+          "name": "AI to Illustration",
+          "role": "publisher",
+          "url": "https://note.com/ai_to_illust"
+        }
+      ],
+      "products": [
+        {
+          "product": "ChatGPT",
+          "entityId": "chatgpt",
+          "provider": "OpenAI",
+          "characterNames": [],
+          "official": false
+        },
+        {
+          "product": "Gemini",
+          "entityId": "gemini",
+          "provider": "Google",
+          "characterNames": [],
+          "official": false
+        },
+        {
+          "product": "Claude",
+          "entityId": "claude",
+          "provider": "Anthropic",
+          "characterNames": [],
+          "official": false
+        }
+      ],
+      "grouping": "source-group",
+      "characterCount": 3,
+      "relatedSources": [],
+      "generatorVariants": [],
+      "license": {
+        "status": "unknown",
+        "evidenceUrl": null,
+        "checkedUrls": [
+          "https://note.com/ai_to_illust/n/n77b2536c5715"
+        ],
+        "note": {
+          "zh": "所查正文未发现图片级使用许可；公开可见与生成工具署名都不等于授权。",
+          "en": "No artwork-specific grant found in the reviewed text; public visibility and generator credit are not permission.",
+          "ja": "確認した本文に画像単位の利用許諾なし。公開や生成ツールの記載は許可ではありません。"
+        }
+      },
+      "verification": {
+        "current": {
+          "attemptedAt": "2026-10-25T07:20:30.897323+00:00",
+          "method": "original-html-http-status-and-public-text-extraction",
+          "httpStatus": 200,
+          "finalUrl": "https://note.com/ai_to_illust/n/n77b2536c5715",
+          "result": "verified-metadata",
+          "verifiedAt": "2026-10-25T07:20:30.897323+00:00",
+          "limitations": {
+            "zh": "只核验原页 HTTP、可读正文、署名及显示日期。未下载图片或检查像素/完整上游权利链，不证明最早发表或浏览器渲染。",
+            "en": "Original-page HTTP, readable text, publisher and displayed date only. No image download, pixel or complete upstream-rights review; earliest publication and browser rendering are unverified.",
+            "ja": "元ページ HTTP、可読本文、投稿者、表示日付のみ。画像取得・画素・上流権利の全連鎖は未確認。最初の公開とブラウザ描画も未確認。"
+          }
+        }
+      },
+      "note": {
+        "zh": "姐姐/哥哥/学者是作者的三品牌角色设定；ChatGPT 生成的风格迭代不另计角色。作者明确区分此页 AI 输出与其职业矢量插画。",
+        "en": "Sister/brother/scholar are the author’s three-brand roles; ChatGPT-generated style iterations are not separate characters. The author distinguishes this AI output from professional vector work.",
+        "ja": "姉・兄・学者は作者の三ブランド設定。ChatGPT による作風の反復は別キャラクターではなく、職業上のベクター作品とも区別されています。"
+      },
+      "reviewReasons": {
+        "zh": "图片级展示、改编、再分发及导出权限仍待审核；不下载或镜像作品。",
+        "en": "Artwork-specific display, adaptation, redistribution and export permissions remain pending; no artwork downloaded or mirrored.",
+        "ja": "画像ごとの表示・改変・再配布・書き出し権限は未確認。画像は取得・転載しません。"
+      },
+      "downloadable": false,
+      "preview": null,
+      "assets": [],
+      "studioExport": false,
+      "sourceType": "illustrated-source"
+    }
+  ]
+}
