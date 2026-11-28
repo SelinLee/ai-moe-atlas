@@ -1,0 +1,50 @@
+{
+  "url": "https://www.bilibili.com/video/BV1xNx96fELQ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xNx96fELQ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:22:38.541Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership was checked independently of the video title.",
+  "metadata": {
+    "bvid": "BV1xNx96fELQ",
+    "title": "AI中转站：全体降智？！（2）【AI全民制作人】",
+    "owner": {
+      "name": "蒙德砍壬",
+      "mid": 1931150416
+    },
+    "pubdate": 1793797800,
+    "duration": 194
+  },
+  "descriptionSha256": "ba3e8f49ae4f8f48251014d502c5d1a6904af169933a7d188590cc7eb589cb4b",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "蒙德砍壬",
+      "url": "https://space.bilibili.com/1931150416"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "老板来个豆包",
+      "url": "https://www.bilibili.com/video/BV1RWHP6ZEJw/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "⚡大肥鱼饭团，开业胜利结算⚡",
+      "url": "https://www.bilibili.com/video/BV1znno6mEZF/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "playlist": {
+    "name": "AI中转站日常",
+    "titleInPlaylist": "AI中转站：全体降智？！（2）【AI全民制作人】",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-morx-and-related-creator-playlists.json",
+      "sha256": "71d5c2e180f9196eb63ffa0f3ab22ed8d1c0b6cb9d0c38ecd41f017805a879fe",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

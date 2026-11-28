@@ -1,0 +1,49 @@
+{
+  "url": "https://note.com/tofana0911/n/nb89d9401e102",
+  "accessedAt": "2026-11-28T15:21:11.658Z",
+  "httpStatus": 200,
+  "title": "4コマ目をAIパに作ってもらうプロンプトをお借りした話",
+  "creator": "https://note.com/tofana0911",
+  "publishedAt": "2026-08-30T08:01:01.000+09:00",
+  "htmlSha256": "fc2232df726704e1bf5d5c7346273cb2a2880b37c44d000d3ccec17f15ecf875",
+  "scope": "Creator post and selected artwork bytes verified in isolated headless Chrome. Source URLs, original byte lengths and SHA-256 are retained.",
+  "files": [
+    {
+      "index": 2,
+      "url": "https://assets.st-note.com/img/1788002630-QEv2Y7myhzrtIWCLowDSNp8K.png",
+      "sha256": "bdebfa9cdbeed88623125f89b9c67754f4ff91628b227c9254ea471601787e82",
+      "bytes": 443695,
+      "width": 896,
+      "height": 1200,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:22:21.797Z"
+    },
+    {
+      "index": 3,
+      "url": "https://assets.st-note.com/img/1788003317-dS3s7AZyrzhiGNQqvPHlaXCo.png",
+      "sha256": "58d7b8214e8c24bf11dbc7158f76ab8cdba101d05e145feeb5de2c3d4fdfd465",
+      "bytes": 860114,
+      "width": 1008,
+      "height": 1792,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:22:22.675Z"
+    },
+    {
+      "index": 6,
+      "url": "https://assets.st-note.com/img/1788004634-xiaLRrMF31f450TOby2lN6BZ.png",
+      "sha256": "d23d7b959f84c068b452d9402fd8b8a58f5abad16b8388fc8c485afab452981f",
+      "bytes": 840946,
+      "width": 1216,
+      "height": 1632,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:22:22.066Z"
+    }
+  ],
+  "relations": [
+    {
+      "role": "creator-profile",
+      "title": "ゆい",
+      "url": "https://note.com/tofana0911"
+    }
+  ]
+}

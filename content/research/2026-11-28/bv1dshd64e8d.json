@@ -1,0 +1,45 @@
+{
+  "url": "https://www.bilibili.com/video/BV1dSHD64E8d/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dSHD64E8d",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:22:48.095Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership was checked independently of the video title.",
+  "metadata": {
+    "bvid": "BV1dSHD64E8d",
+    "title": "大肥鱼白饭，吃了不烧心🍚",
+    "owner": {
+      "name": "小猪P_",
+      "mid": 2283296
+    },
+    "pubdate": 1791458968,
+    "duration": 127
+  },
+  "descriptionSha256": "f946c9fde69e0b8b75993cc2fdd18553433496c1dc8742e1347a0a59fecef698",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "小猪P_",
+      "url": "https://space.bilibili.com/2283296"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "大肥鱼 vs 豆包",
+      "url": "https://www.bilibili.com/video/BV1nbYN6eE22/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "大肥鱼买瓜",
+      "url": "https://www.bilibili.com/video/BV1AGam6pEVh/"
+    }
+  ],
+  "playlist": {
+    "name": "小猪的AI剧场",
+    "titleInPlaylist": "大肥鱼白饭，吃了不烧心🍚",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-morx-and-related-creator-playlists.json",
+      "sha256": "71d5c2e180f9196eb63ffa0f3ab22ed8d1c0b6cb9d0c38ecd41f017805a879fe",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

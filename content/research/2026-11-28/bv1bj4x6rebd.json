@@ -1,0 +1,32 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Bj4x6rEBd/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Bj4x6rEBd",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:22:51.284Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership was checked independently of the video title.",
+  "metadata": {
+    "bvid": "BV1Bj4x6rEBd",
+    "title": "豆包＆大肥鱼《Trouble Maker》【AI MV大赛】",
+    "owner": {
+      "name": "浪浪山小蛋仔",
+      "mid": 75014708
+    },
+    "pubdate": 1794107964,
+    "duration": 113
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "浪浪山小蛋仔",
+      "url": "https://space.bilibili.com/75014708"
+    },
+    {
+      "role": "music-original",
+      "title": "Trouble Maker · official music video",
+      "url": "https://www.youtube.com/watch?v=s-zRAQmKUkI"
+    }
+  ],
+  "playlist": {}
+}

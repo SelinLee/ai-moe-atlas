@@ -1,0 +1,60 @@
+{
+  "url": "https://www.bilibili.com/video/BV1CDb76AE8T/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1CDb76AE8T",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:22:30.802Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership was checked independently of the video title.",
+  "metadata": {
+    "bvid": "BV1CDb76AE8T",
+    "title": "去隔壁精神病科等我",
+    "owner": {
+      "name": "末儿克丝Morx",
+      "mid": 72589033
+    },
+    "pubdate": 1788626705,
+    "duration": 97
+  },
+  "descriptionSha256": "692d2b7c95d4aefd942e73773e7723ee26570b0dccd1dcf716f7d7d47536a587",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "末儿克丝Morx",
+      "url": "https://space.bilibili.com/72589033"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你又带什么AI回家了",
+      "url": "https://www.bilibili.com/video/BV1NQ8U6oEEX/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "需要一位不吃压力的AI",
+      "url": "https://www.bilibili.com/video/BV1JytU6yELs/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "当你带大肥鱼吃自助餐",
+      "url": "https://www.bilibili.com/video/BV1kWYt6KEeZ/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你犯什么事进来的",
+      "url": "https://www.bilibili.com/video/BV1bXJC6sEAC/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "playlist": {
+    "name": "蓝色大肥鱼",
+    "titleInPlaylist": "去隔壁精神病科等我",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-morx-and-related-creator-playlists.json",
+      "sha256": "71d5c2e180f9196eb63ffa0f3ab22ed8d1c0b6cb9d0c38ecd41f017805a879fe",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

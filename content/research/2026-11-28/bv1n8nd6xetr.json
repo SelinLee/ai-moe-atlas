@@ -1,0 +1,37 @@
+{
+  "url": "https://www.bilibili.com/video/BV1N8nd6XETR/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1N8nd6XETR",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:22:52.811Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership was checked independently of the video title.",
+  "metadata": {
+    "bvid": "BV1N8nd6XETR",
+    "title": "豆包&大肥鱼-《Trouble Maker》【AI MV大赛】",
+    "owner": {
+      "name": "明灯-专注脑洞一百年",
+      "mid": 327838817
+    },
+    "pubdate": 1793003733,
+    "duration": 187
+  },
+  "descriptionSha256": "6b9e69d94c171780cdeb241c03d4512766afa99f2d41c84e45b2101ba13cb4a0",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "明灯-专注脑洞一百年",
+      "url": "https://space.bilibili.com/327838817"
+    },
+    {
+      "role": "music-original",
+      "title": "Trouble Maker · official music video",
+      "url": "https://www.youtube.com/watch?v=s-zRAQmKUkI"
+    },
+    {
+      "role": "credited-original-video",
+      "title": "Bilibili source cited by the uploader",
+      "url": "https://www.bilibili.com/video/BV1oqCrBnEN2/"
+    }
+  ],
+  "playlist": {}
+}

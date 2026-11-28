@@ -1,0 +1,60 @@
+{
+  "url": "https://www.bilibili.com/video/BV1aph56kEx3/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1aph56kEx3",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:22:24.674Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership was checked independently of the video title.",
+  "metadata": {
+    "bvid": "BV1aph56kEx3",
+    "title": "大肥鱼的服从性测试",
+    "owner": {
+      "name": "末儿克丝Morx",
+      "mid": 72589033
+    },
+    "pubdate": 1787663184,
+    "duration": 30
+  },
+  "descriptionSha256": "3ad41d62d55ee25bb5ea471ebd0015fa92ee796861d3a54b7b833e7565a8b106",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "末儿克丝Morx",
+      "url": "https://space.bilibili.com/72589033"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你又带什么AI回家了",
+      "url": "https://www.bilibili.com/video/BV1NQ8U6oEEX/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "好啊 换一个",
+      "url": "https://www.bilibili.com/video/BV1X1hK69EDJ/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "我怀疑大肥鱼是吸血鬼",
+      "url": "https://www.bilibili.com/video/BV1RC8R64ECU/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你犯什么事进来的",
+      "url": "https://www.bilibili.com/video/BV1bXJC6sEAC/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "playlist": {
+    "name": "蓝色大肥鱼",
+    "titleInPlaylist": "大肥鱼的服从性测试",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-morx-and-related-creator-playlists.json",
+      "sha256": "71d5c2e180f9196eb63ffa0f3ab22ed8d1c0b6cb9d0c38ecd41f017805a879fe",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

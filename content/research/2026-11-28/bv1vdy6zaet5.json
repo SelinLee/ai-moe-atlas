@@ -1,0 +1,45 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Vdy6zAET5/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Vdy6zAET5",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:22:40.047Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership was checked independently of the video title.",
+  "metadata": {
+    "bvid": "BV1Vdy6zAET5",
+    "title": "少女们的屋内探险与人变成狗需要几步？【AI娘的日常 04】",
+    "owner": {
+      "name": "Minimax战略型海螺",
+      "mid": 3632315729185392
+    },
+    "pubdate": 1795589310,
+    "duration": 432
+  },
+  "descriptionSha256": "d1c0b483244a4445581c96c625e7855126b564436deb899997e9a8acb612913b",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Minimax战略型海螺",
+      "url": "https://space.bilibili.com/3632315729185392"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "我要把你和你脑袋一样圆的龙虾给捏爆 AI娘的日常02【up动画】",
+      "url": "https://www.bilibili.com/video/BV19RxR65EDu/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "关于在雨天城市道路上遇到鬼这件事 AI娘的日常03",
+      "url": "https://www.bilibili.com/video/BV19msc6xErr/"
+    }
+  ],
+  "playlist": {
+    "name": "AI娘的日常",
+    "titleInPlaylist": "少女们的屋内探险与人变成狗需要几步？【AI娘的日常 04】",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-morx-and-related-creator-playlists.json",
+      "sha256": "71d5c2e180f9196eb63ffa0f3ab22ed8d1c0b6cb9d0c38ecd41f017805a879fe",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

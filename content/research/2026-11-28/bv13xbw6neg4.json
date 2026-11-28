@@ -1,0 +1,60 @@
+{
+  "url": "https://www.bilibili.com/video/BV13xbw6NEG4/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV13xbw6NEG4",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:22:43.156Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership was checked independently of the video title.",
+  "metadata": {
+    "bvid": "BV13xbw6NEG4",
+    "title": "大肥鱼和GLM",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1788751291,
+    "duration": 19
+  },
+  "descriptionSha256": "910ddd2c25df4c072f434cdf2a97255f17a4745d5229286789576811746d5028",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1xhbn6CE5z/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "大肥鱼欺负小毛咪",
+      "url": "https://www.bilibili.com/video/BV18dbN63EMw/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "蓝色大肥鱼和智谱小狐娘玩GTA6",
+      "url": "https://www.bilibili.com/video/BV1CDyDzjEqt/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "大肥鱼和GLM",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-morx-and-related-creator-playlists.json",
+      "sha256": "71d5c2e180f9196eb63ffa0f3ab22ed8d1c0b6cb9d0c38ecd41f017805a879fe",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

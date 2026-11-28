@@ -1,0 +1,568 @@
+{
+  "historical": false,
+  "full_name": "senyo888/codex-pets",
+  "html_url": "https://github.com/senyo888/codex-pets",
+  "stargazers_count": 3,
+  "archived": false,
+  "created_at": "2026-07-12T17:17:32Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "d725e324b44b583cd484423551fe286919edbec6",
+  "observedAt": "2026-11-28T15:21:09.793Z",
+  "httpStatus": 200,
+  "metadataSha256": "417ab317bc5033125d91e9cf31011263e01b740c8f1aac3854720244b223d8fb",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/README.md",
+      "sourceSha256": "107cbca96e8296b371ff0a12bcef48a38b8f8fd4d65210b09fbd5fb656a54f76",
+      "gitBlobSha": "93e0211ba00607fa5fe24a05d8b052713bc8c84b",
+      "bytes": 10959,
+      "commit": "d725e324b44b583cd484423551fe286919edbec6",
+      "accessedAt": "2026-11-28T15:22:19.050Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/LICENSE",
+      "sourceSha256": "9e5f1b3c610b9c2da5c313bf81d577a7d1acec686bdb0384edefa6df0f90cd94",
+      "gitBlobSha": "4ea99c213c5c0c005ae4e80df8e52169d06896ec",
+      "bytes": 18656,
+      "commit": "d725e324b44b583cd484423551fe286919edbec6",
+      "accessedAt": "2026-11-28T15:22:19.394Z"
+    },
+    {
+      "path": "pets/aetherbite/README.md",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aetherbite/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aetherbite/README.md",
+      "sourceSha256": "42574abd40edb355ef4463869652685a61e9043bc74bf48b9ea84a20bee61bc0",
+      "gitBlobSha": "98d0f5a0976866de61ac189b588e65043641312f",
+      "bytes": 3884,
+      "commit": "d725e324b44b583cd484423551fe286919edbec6",
+      "accessedAt": "2026-11-28T15:22:19.764Z"
+    },
+    {
+      "path": "pets/aetherbite/pet.json",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aetherbite/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aetherbite/pet.json",
+      "sourceSha256": "d7804b32bf50b9130164daab62a0b614e427dfdea2a1c95c2590feb99aa6af8a",
+      "gitBlobSha": "e1383cbf5488ba84f891e493a5ec58129397844f",
+      "bytes": 336,
+      "commit": "d725e324b44b583cd484423551fe286919edbec6",
+      "accessedAt": "2026-11-28T15:22:20.119Z"
+    },
+    {
+      "path": "pets/aethercore/README.md",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aethercore/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aethercore/README.md",
+      "sourceSha256": "a228930d21204440558ef8a0ac7139f90743d70203089e092faa0c80b84e1cf8",
+      "gitBlobSha": "c74712b3588dd419a7f9443237b28e43d727d350",
+      "bytes": 3308,
+      "commit": "d725e324b44b583cd484423551fe286919edbec6",
+      "accessedAt": "2026-11-28T15:22:20.449Z"
+    },
+    {
+      "path": "pets/aethercore/pet.json",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aethercore/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aethercore/pet.json",
+      "sourceSha256": "da8ab1aae4f851af6406f5e03f2766811e85b9da74174413e8c9215bddd0acff",
+      "gitBlobSha": "591a233ef9dc2653d44149c10635974aaad28f2b",
+      "bytes": 226,
+      "commit": "d725e324b44b583cd484423551fe286919edbec6",
+      "accessedAt": "2026-11-28T15:22:20.787Z"
+    },
+    {
+      "path": "pets/aethermite/README.md",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aethermite/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aethermite/README.md",
+      "sourceSha256": "bd5eb53260b6248c626e0efc4b2547e78f131d4e2918a092d5195ae8676a86a8",
+      "gitBlobSha": "43f85c5f3aeaafbfa55fb5a3127ad81d209209b5",
+      "bytes": 3459,
+      "commit": "d725e324b44b583cd484423551fe286919edbec6",
+      "accessedAt": "2026-11-28T15:22:21.109Z"
+    },
+    {
+      "path": "pets/aethermite/pet.json",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aethermite/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aethermite/pet.json",
+      "sourceSha256": "8ecdf2963a85645ff52aa9c1baf4ad654b0386f2192973352affc45701f0cf1e",
+      "gitBlobSha": "5a0d97443ac591ffd05c2ad774f168a84ed7aa66",
+      "bytes": 295,
+      "commit": "d725e324b44b583cd484423551fe286919edbec6",
+      "accessedAt": "2026-11-28T15:22:21.440Z"
+    },
+    {
+      "path": "pets/aetherwing/README.md",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aetherwing/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aetherwing/README.md",
+      "sourceSha256": "8c452c789e6aa97f0c374ef6daed6d3c15ecc90906db6b534fcf571657e1d68c",
+      "gitBlobSha": "8bf8ff014eb0a4aaa9a3477dbd08ba002780affb",
+      "bytes": 3515,
+      "commit": "d725e324b44b583cd484423551fe286919edbec6",
+      "accessedAt": "2026-11-28T15:22:21.802Z"
+    },
+    {
+      "path": "pets/aetherwing/pet.json",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aetherwing/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aetherwing/pet.json",
+      "sourceSha256": "44b8635e8892107f7ca8a1e4113b685bbff09289adbe1a21126b8fadee055ec8",
+      "gitBlobSha": "d392719a55119ba8c4a6730111913a4bf06fee17",
+      "bytes": 304,
+      "commit": "d725e324b44b583cd484423551fe286919edbec6",
+      "accessedAt": "2026-11-28T15:22:22.152Z"
+    },
+    {
+      "path": "pets/aureo/README.md",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aureo/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aureo/README.md",
+      "sourceSha256": "2175605d6d814462a0ab8ffe4e057caf0ebf5da3f28fef9ffb59ff81b4bf68d5",
+      "gitBlobSha": "fb8fbef9a7667f4a86f73a60007d1e14833ebe8e",
+      "bytes": 3925,
+      "commit": "d725e324b44b583cd484423551fe286919edbec6",
+      "accessedAt": "2026-11-28T15:22:22.510Z"
+    },
+    {
+      "path": "pets/aureo/pet.json",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aureo/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aureo/pet.json",
+      "sourceSha256": "69a8294e23d9a581221de637164b339504aa4000f9aa9cd3cd091e6eedddc59c",
+      "gitBlobSha": "f49d04bc66ddeb2e66bd9e7a0b0a6316d3310cda",
+      "bytes": 214,
+      "commit": "d725e324b44b583cd484423551fe286919edbec6",
+      "accessedAt": "2026-11-28T15:22:22.903Z"
+    },
+    {
+      "path": "pets/bella/README.md",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/bella/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/bella/README.md",
+      "sourceSha256": "7ea45926fad6d0cbcb14ba6c9d2cd122452b4798eb1c10165eae389cff8ff324",
+      "gitBlobSha": "6acf8b5870f00c721225c42388a7f20f7c7a5a8c",
+      "bytes": 3648,
+      "commit": "d725e324b44b583cd484423551fe286919edbec6",
+      "accessedAt": "2026-11-28T15:22:23.249Z"
+    },
+    {
+      "path": "pets/bella/pet.json",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/bella/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/bella/pet.json",
+      "sourceSha256": "2fe16a98659b56739ea7e35e13e87986af050a238a2ad69767292ccb5e9c12ff",
+      "gitBlobSha": "5d484333ad15044ca97ecd2a1f57911d8c29fa34",
+      "bytes": 253,
+      "commit": "d725e324b44b583cd484423551fe286919edbec6",
+      "accessedAt": "2026-11-28T15:22:23.573Z"
+    },
+    {
+      "path": "pets/calian/README.md",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/calian/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/calian/README.md",
+      "sourceSha256": "d0db7ecc387e5fe9d93193c562634708938516a7c2718f129d15191f3c5fb5ac",
+      "gitBlobSha": "b2502b9a049c6a562a0be98686836eadc5a753c6",
+      "bytes": 3425,
+      "commit": "d725e324b44b583cd484423551fe286919edbec6",
+      "accessedAt": "2026-11-28T15:22:23.890Z"
+    },
+    {
+      "path": "pets/calian/pet.json",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/calian/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/calian/pet.json",
+      "sourceSha256": "d65a72fe18c7c7332a1b88c453b939af3c5c0ddfbacea13712b582d45fd6538d",
+      "gitBlobSha": "3b0daeb04fe6f5355a4b920f3d23d7bf9fb8933b",
+      "bytes": 283,
+      "commit": "d725e324b44b583cd484423551fe286919edbec6",
+      "accessedAt": "2026-11-28T15:22:24.283Z"
+    },
+    {
+      "path": "pets/scarlet/README.md",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/scarlet/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/scarlet/README.md",
+      "sourceSha256": "0181b5110c30d1c416baf31d301f28d2501def35446a6e0034b36253b268726e",
+      "gitBlobSha": "8d3a6b48e83005e67405a418539fd8d01a98bca0",
+      "bytes": 3724,
+      "commit": "d725e324b44b583cd484423551fe286919edbec6",
+      "accessedAt": "2026-11-28T15:22:24.666Z"
+    },
+    {
+      "path": "pets/scarlet/pet.json",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/scarlet/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/scarlet/pet.json",
+      "sourceSha256": "effe3a428030078bb27bc708e603a1816beff0d32956f427ff92dfdade0a6133",
+      "gitBlobSha": "a1d278b5e411ee844506f62e0b0f8a74e706cc5f",
+      "bytes": 318,
+      "commit": "d725e324b44b583cd484423551fe286919edbec6",
+      "accessedAt": "2026-11-28T15:22:24.994Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T15:24:16.819Z",
+  "scope": "Pinned creator pages, artwork-specific CC BY 4.0 terms, eight v2 manifests and the matching eight transparent original atlas files were reviewed against Git blob and SHA-256 evidence.",
+  "relations": [
+    {
+      "role": "artwork-license",
+      "title": "CC BY 4.0 · artwork and animation",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/LICENSE"
+    },
+    {
+      "role": "pet-artwork-credits",
+      "title": "Aetherbite · Senyo",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aetherbite/README.md"
+    },
+    {
+      "role": "pet-artwork-credits",
+      "title": "AetherCore · Senyo",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aethercore/README.md"
+    },
+    {
+      "role": "pet-artwork-credits",
+      "title": "AetherMite · Senyo",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aethermite/README.md"
+    },
+    {
+      "role": "pet-artwork-credits",
+      "title": "AetherWing · Senyo",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aetherwing/README.md"
+    },
+    {
+      "role": "pet-artwork-credits",
+      "title": "Áureo · 0MartinSmith0",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aureo/README.md"
+    },
+    {
+      "role": "pet-artwork-credits",
+      "title": "Bella · Senyo",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/bella/README.md"
+    },
+    {
+      "role": "pet-artwork-credits",
+      "title": "Calian · Senyo",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/calian/README.md"
+    },
+    {
+      "role": "pet-artwork-credits",
+      "title": "Scarlet · Senyo",
+      "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/scarlet/README.md"
+    }
+  ],
+  "spriteCredits": [
+    {
+      "slug": "aetherbite",
+      "name": "Aetherbite",
+      "author": "Senyo",
+      "license": "CC-BY-4.0",
+      "readme": {
+        "path": "pets/aetherbite/README.md",
+        "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aetherbite/README.md",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aetherbite/README.md",
+        "sourceSha256": "42574abd40edb355ef4463869652685a61e9043bc74bf48b9ea84a20bee61bc0",
+        "gitBlobSha": "98d0f5a0976866de61ac189b588e65043641312f",
+        "bytes": 3884,
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "accessedAt": "2026-11-28T15:22:19.764Z"
+      },
+      "manifest": {
+        "path": "pets/aetherbite/pet.json",
+        "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aetherbite/pet.json",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aetherbite/pet.json",
+        "sourceSha256": "d7804b32bf50b9130164daab62a0b614e427dfdea2a1c95c2590feb99aa6af8a",
+        "gitBlobSha": "e1383cbf5488ba84f891e493a5ec58129397844f",
+        "bytes": 336,
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "accessedAt": "2026-11-28T15:22:20.119Z"
+      },
+      "atlas": {
+        "repo": "senyo888/codex-pets",
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "path": "pets/aetherbite/spritesheet.webp",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aetherbite/spritesheet.webp",
+        "bytes": 3802836,
+        "width": 1536,
+        "height": 2288,
+        "format": "webp",
+        "hasAlpha": true,
+        "gitBlobSha": "78c29db445523a5f21c08f84daaaf7f97d4290ae",
+        "sha256": "18ce2adf6e4b30c42b1943cd32398757014d26c729b7f3a63e4d969abed40346",
+        "observedAt": "2026-11-28T15:23:42.386Z"
+      }
+    },
+    {
+      "slug": "aethercore",
+      "name": "AetherCore",
+      "author": "Senyo",
+      "license": "CC-BY-4.0",
+      "readme": {
+        "path": "pets/aethercore/README.md",
+        "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aethercore/README.md",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aethercore/README.md",
+        "sourceSha256": "a228930d21204440558ef8a0ac7139f90743d70203089e092faa0c80b84e1cf8",
+        "gitBlobSha": "c74712b3588dd419a7f9443237b28e43d727d350",
+        "bytes": 3308,
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "accessedAt": "2026-11-28T15:22:20.449Z"
+      },
+      "manifest": {
+        "path": "pets/aethercore/pet.json",
+        "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aethercore/pet.json",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aethercore/pet.json",
+        "sourceSha256": "da8ab1aae4f851af6406f5e03f2766811e85b9da74174413e8c9215bddd0acff",
+        "gitBlobSha": "591a233ef9dc2653d44149c10635974aaad28f2b",
+        "bytes": 226,
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "accessedAt": "2026-11-28T15:22:20.787Z"
+      },
+      "atlas": {
+        "repo": "senyo888/codex-pets",
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "path": "pets/aethercore/spritesheet.webp",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aethercore/spritesheet.webp",
+        "bytes": 2645626,
+        "width": 1536,
+        "height": 2288,
+        "format": "webp",
+        "hasAlpha": true,
+        "gitBlobSha": "81b7a3bf6b4910064e7a2f10bec4367dfd8f5db1",
+        "sha256": "5ad38c56af287375f32e3706f119720a6c9122e8b5490a7fd7d6e07b05fc44dd",
+        "observedAt": "2026-11-28T15:23:47.602Z"
+      }
+    },
+    {
+      "slug": "aethermite",
+      "name": "AetherMite",
+      "author": "Senyo",
+      "license": "CC-BY-4.0",
+      "readme": {
+        "path": "pets/aethermite/README.md",
+        "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aethermite/README.md",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aethermite/README.md",
+        "sourceSha256": "bd5eb53260b6248c626e0efc4b2547e78f131d4e2918a092d5195ae8676a86a8",
+        "gitBlobSha": "43f85c5f3aeaafbfa55fb5a3127ad81d209209b5",
+        "bytes": 3459,
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "accessedAt": "2026-11-28T15:22:21.109Z"
+      },
+      "manifest": {
+        "path": "pets/aethermite/pet.json",
+        "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aethermite/pet.json",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aethermite/pet.json",
+        "sourceSha256": "8ecdf2963a85645ff52aa9c1baf4ad654b0386f2192973352affc45701f0cf1e",
+        "gitBlobSha": "5a0d97443ac591ffd05c2ad774f168a84ed7aa66",
+        "bytes": 295,
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "accessedAt": "2026-11-28T15:22:21.440Z"
+      },
+      "atlas": {
+        "repo": "senyo888/codex-pets",
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "path": "pets/aethermite/spritesheet.webp",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aethermite/spritesheet.webp",
+        "bytes": 3343250,
+        "width": 1536,
+        "height": 2288,
+        "format": "webp",
+        "hasAlpha": true,
+        "gitBlobSha": "40e6727b47b8038f3432280a8290c7c49650ff1e",
+        "sha256": "13869434db6f58f07c0d2571def9d8da624bc77416adc4964727084d23840384",
+        "observedAt": "2026-11-28T15:23:54.004Z"
+      }
+    },
+    {
+      "slug": "aetherwing",
+      "name": "AetherWing",
+      "author": "Senyo",
+      "license": "CC-BY-4.0",
+      "readme": {
+        "path": "pets/aetherwing/README.md",
+        "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aetherwing/README.md",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aetherwing/README.md",
+        "sourceSha256": "8c452c789e6aa97f0c374ef6daed6d3c15ecc90906db6b534fcf571657e1d68c",
+        "gitBlobSha": "8bf8ff014eb0a4aaa9a3477dbd08ba002780affb",
+        "bytes": 3515,
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "accessedAt": "2026-11-28T15:22:21.802Z"
+      },
+      "manifest": {
+        "path": "pets/aetherwing/pet.json",
+        "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aetherwing/pet.json",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aetherwing/pet.json",
+        "sourceSha256": "44b8635e8892107f7ca8a1e4113b685bbff09289adbe1a21126b8fadee055ec8",
+        "gitBlobSha": "d392719a55119ba8c4a6730111913a4bf06fee17",
+        "bytes": 304,
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "accessedAt": "2026-11-28T15:22:22.152Z"
+      },
+      "atlas": {
+        "repo": "senyo888/codex-pets",
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "path": "pets/aetherwing/spritesheet.webp",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aetherwing/spritesheet.webp",
+        "bytes": 2461128,
+        "width": 1536,
+        "height": 2288,
+        "format": "webp",
+        "hasAlpha": true,
+        "gitBlobSha": "44c686c9472e22122bff7cc26c5d50c2debe68e0",
+        "sha256": "c5b03756e270516b8200b75cef811e094f768638633273eadc3ce0c6fa5002fa",
+        "observedAt": "2026-11-28T15:23:58.482Z"
+      }
+    },
+    {
+      "slug": "aureo",
+      "name": "Áureo",
+      "author": "0MartinSmith0",
+      "license": "CC-BY-4.0",
+      "readme": {
+        "path": "pets/aureo/README.md",
+        "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aureo/README.md",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aureo/README.md",
+        "sourceSha256": "2175605d6d814462a0ab8ffe4e057caf0ebf5da3f28fef9ffb59ff81b4bf68d5",
+        "gitBlobSha": "fb8fbef9a7667f4a86f73a60007d1e14833ebe8e",
+        "bytes": 3925,
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "accessedAt": "2026-11-28T15:22:22.510Z"
+      },
+      "manifest": {
+        "path": "pets/aureo/pet.json",
+        "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/aureo/pet.json",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aureo/pet.json",
+        "sourceSha256": "69a8294e23d9a581221de637164b339504aa4000f9aa9cd3cd091e6eedddc59c",
+        "gitBlobSha": "f49d04bc66ddeb2e66bd9e7a0b0a6316d3310cda",
+        "bytes": 214,
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "accessedAt": "2026-11-28T15:22:22.903Z"
+      },
+      "atlas": {
+        "repo": "senyo888/codex-pets",
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "path": "pets/aureo/spritesheet.webp",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/aureo/spritesheet.webp",
+        "bytes": 3115818,
+        "width": 1536,
+        "height": 2288,
+        "format": "webp",
+        "hasAlpha": true,
+        "gitBlobSha": "b10f938e64d2346c0f531321cd8993b6590bec2b",
+        "sha256": "614dabf05306723f15415b2ae7ecae47ba4e9437ffd5083a437303f763e67098",
+        "observedAt": "2026-11-28T15:24:04.269Z"
+      }
+    },
+    {
+      "slug": "bella",
+      "name": "Bella",
+      "author": "Senyo",
+      "license": "CC-BY-4.0",
+      "readme": {
+        "path": "pets/bella/README.md",
+        "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/bella/README.md",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/bella/README.md",
+        "sourceSha256": "7ea45926fad6d0cbcb14ba6c9d2cd122452b4798eb1c10165eae389cff8ff324",
+        "gitBlobSha": "6acf8b5870f00c721225c42388a7f20f7c7a5a8c",
+        "bytes": 3648,
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "accessedAt": "2026-11-28T15:22:23.249Z"
+      },
+      "manifest": {
+        "path": "pets/bella/pet.json",
+        "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/bella/pet.json",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/bella/pet.json",
+        "sourceSha256": "2fe16a98659b56739ea7e35e13e87986af050a238a2ad69767292ccb5e9c12ff",
+        "gitBlobSha": "5d484333ad15044ca97ecd2a1f57911d8c29fa34",
+        "bytes": 253,
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "accessedAt": "2026-11-28T15:22:23.573Z"
+      },
+      "atlas": {
+        "repo": "senyo888/codex-pets",
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "path": "pets/bella/spritesheet.webp",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/bella/spritesheet.webp",
+        "bytes": 2579582,
+        "width": 1536,
+        "height": 2288,
+        "format": "webp",
+        "hasAlpha": true,
+        "gitBlobSha": "3dfe088f977a0661dd8741698572f01ab0baebc8",
+        "sha256": "548cb72d381fcc861f5017f0213c3d794ce2210d4b9781a58ee53331aa43344d",
+        "observedAt": "2026-11-28T15:24:09.385Z"
+      }
+    },
+    {
+      "slug": "calian",
+      "name": "Calian",
+      "author": "Senyo",
+      "license": "CC-BY-4.0",
+      "readme": {
+        "path": "pets/calian/README.md",
+        "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/calian/README.md",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/calian/README.md",
+        "sourceSha256": "d0db7ecc387e5fe9d93193c562634708938516a7c2718f129d15191f3c5fb5ac",
+        "gitBlobSha": "b2502b9a049c6a562a0be98686836eadc5a753c6",
+        "bytes": 3425,
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "accessedAt": "2026-11-28T15:22:23.890Z"
+      },
+      "manifest": {
+        "path": "pets/calian/pet.json",
+        "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/calian/pet.json",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/calian/pet.json",
+        "sourceSha256": "d65a72fe18c7c7332a1b88c453b939af3c5c0ddfbacea13712b582d45fd6538d",
+        "gitBlobSha": "3b0daeb04fe6f5355a4b920f3d23d7bf9fb8933b",
+        "bytes": 283,
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "accessedAt": "2026-11-28T15:22:24.283Z"
+      },
+      "atlas": {
+        "repo": "senyo888/codex-pets",
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "path": "pets/calian/spritesheet.webp",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/calian/spritesheet.webp",
+        "bytes": 1621946,
+        "width": 1536,
+        "height": 2288,
+        "format": "webp",
+        "hasAlpha": true,
+        "gitBlobSha": "2bc401651aacbcb553c0c09def982e8d9f6a6049",
+        "sha256": "4b9ac6125a4222a5e2391ba04ee3bf0a0b6c2fcd98aa07c8f2b2322dd614933b",
+        "observedAt": "2026-11-28T15:24:12.787Z"
+      }
+    },
+    {
+      "slug": "scarlet",
+      "name": "Scarlet",
+      "author": "Senyo",
+      "license": "CC-BY-4.0",
+      "readme": {
+        "path": "pets/scarlet/README.md",
+        "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/scarlet/README.md",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/scarlet/README.md",
+        "sourceSha256": "0181b5110c30d1c416baf31d301f28d2501def35446a6e0034b36253b268726e",
+        "gitBlobSha": "8d3a6b48e83005e67405a418539fd8d01a98bca0",
+        "bytes": 3724,
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "accessedAt": "2026-11-28T15:22:24.666Z"
+      },
+      "manifest": {
+        "path": "pets/scarlet/pet.json",
+        "url": "https://github.com/senyo888/codex-pets/blob/d725e324b44b583cd484423551fe286919edbec6/pets/scarlet/pet.json",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/scarlet/pet.json",
+        "sourceSha256": "effe3a428030078bb27bc708e603a1816beff0d32956f427ff92dfdade0a6133",
+        "gitBlobSha": "a1d278b5e411ee844506f62e0b0f8a74e706cc5f",
+        "bytes": 318,
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "accessedAt": "2026-11-28T15:22:24.994Z"
+      },
+      "atlas": {
+        "repo": "senyo888/codex-pets",
+        "commit": "d725e324b44b583cd484423551fe286919edbec6",
+        "path": "pets/scarlet/spritesheet.webp",
+        "rawUrl": "https://raw.githubusercontent.com/senyo888/codex-pets/d725e324b44b583cd484423551fe286919edbec6/pets/scarlet/spritesheet.webp",
+        "bytes": 2243316,
+        "width": 1536,
+        "height": 2288,
+        "format": "webp",
+        "hasAlpha": true,
+        "gitBlobSha": "b3bdd7d4cf25cd34973c350967c093ade90b835c",
+        "sha256": "f94405dc13396f703b600f4462342d5928ec7716461c86ad96551fec63b54840",
+        "observedAt": "2026-11-28T15:24:16.819Z"
+      }
+    }
+  ]
+}

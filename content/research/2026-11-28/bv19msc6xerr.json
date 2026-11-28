@@ -1,0 +1,50 @@
+{
+  "url": "https://www.bilibili.com/video/BV19msc6xErr/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19msc6xErr",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:22:40.063Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership was checked independently of the video title.",
+  "metadata": {
+    "bvid": "BV19msc6xErr",
+    "title": "关于在雨天城市道路上遇到鬼这件事 【AI娘的日常03】",
+    "owner": {
+      "name": "Minimax战略型海螺",
+      "mid": 3632315729185392
+    },
+    "pubdate": 1794817724,
+    "duration": 307
+  },
+  "descriptionSha256": "9f3c3f01561f326d04a09133a0185d59fdd18acef16273eff8a3971237edcfa5",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Minimax战略型海螺",
+      "url": "https://space.bilibili.com/3632315729185392"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "我要把你和你脑袋一样圆的龙虾给捏爆 AI娘的日常02【up动画】",
+      "url": "https://www.bilibili.com/video/BV19RxR65EDu/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "grok的脑袋被卡进购物车里了！AI娘的日常01【up动画】",
+      "url": "https://www.bilibili.com/video/BV1e3sZ67EA3/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "少女们的屋内探险与人变成狗需要几步？【AI娘的日常 04】",
+      "url": "https://www.bilibili.com/video/BV1Vdy6zAET5/"
+    }
+  ],
+  "playlist": {
+    "name": "AI娘的日常",
+    "titleInPlaylist": "关于在雨天城市道路上遇到鬼这件事 AI娘的日常03",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-morx-and-related-creator-playlists.json",
+      "sha256": "71d5c2e180f9196eb63ffa0f3ab22ed8d1c0b6cb9d0c38ecd41f017805a879fe",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

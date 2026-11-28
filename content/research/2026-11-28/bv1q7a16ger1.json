@@ -1,0 +1,65 @@
+{
+  "url": "https://www.bilibili.com/video/BV1q7a16gEr1/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1q7a16gEr1",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:22:46.433Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership was checked independently of the video title.",
+  "metadata": {
+    "bvid": "BV1q7a16gEr1",
+    "title": "龙背上的骑兵？鳍背上的龙兵？",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1790910603,
+    "duration": 39
+  },
+  "descriptionSha256": "7c9ca2c769102410a5db4a960b28089048b0df6b8202323348dcda8105e32e95",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "大肥鱼：原来是哈基米~",
+      "url": "https://www.bilibili.com/video/BV1AEh162ETh/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "开源盛世——纸醉金迷大肥鱼",
+      "url": "https://www.bilibili.com/video/BV1DuxD6bEts/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "蓝色大肥鱼和智谱小狐娘玩GTA6",
+      "url": "https://www.bilibili.com/video/BV1CDyDzjEqt/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "credited-music",
+      "title": "喵内特洛夫斯基 · credited track",
+      "url": "https://www.bilibili.com/video/BV1bdei6gENL/"
+    }
+  ],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "龙背上的骑兵？鳍背上的龙兵？",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-morx-and-related-creator-playlists.json",
+      "sha256": "71d5c2e180f9196eb63ffa0f3ab22ed8d1c0b6cb9d0c38ecd41f017805a879fe",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

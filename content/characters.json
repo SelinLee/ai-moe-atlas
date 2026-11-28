@@ -8647,5 +8647,229 @@
       "en": "Links the creator’s publication. Separate image display, adaptation and redistribution terms await confirmation.",
       "ja": "作者の原公開先へ案内。画像の個別掲載、改変、再配布条件は確認待ち。"
     }
+  },
+  {
+    "id": "funa-hoshino-shiori",
+    "entity": "chatgpt",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "星野栞 · ふな的设定",
+      "en": "Shiori Hoshino · Funa’s Design",
+      "ja": "星野栞 · ふなの設定"
+    },
+    "description": {
+      "zh": "深灰长发、金棕色眼睛和米色开衫。原帖附三视图、表情和服装细节。",
+      "en": "Long dark gray hair, golden-brown eyes and a cream cardigan. The post includes a turnaround, expressions and outfit details.",
+      "ja": "濃い灰色の長髪、金茶の瞳、生成りのカーディガン。原投稿には三面図、表情、衣装の詳細がある。"
+    },
+    "story": {
+      "zh": "深灰长发、金棕色眼睛和米色开衫。原帖附三视图、表情和服装细节。",
+      "en": "Long dark gray hair, golden-brown eyes and a cream cardigan. The post includes a turnaround, expressions and outfit details.",
+      "ja": "濃い灰色の長髪、金茶の瞳、生成りのカーディガン。原投稿には三面図、表情、衣装の詳細がある。"
+    },
+    "features": {
+      "zh": "深灰长发、金棕色眼睛和米色开衫。原帖附三视图、表情和服装细节。",
+      "en": "Long dark gray hair, golden-brown eyes and a cream cardigan. The post includes a turnaround, expressions and outfit details.",
+      "ja": "濃い灰色の長髪、金茶の瞳、生成りのカーディガン。原投稿には三面図、表情、衣装の詳細がある。"
+    },
+    "author": "ふな",
+    "authorUrl": "https://note.com/funa04",
+    "source": "https://note.com/funa04/n/n27b1a4b1b021",
+    "sourceTitle": "ChatGPTを擬人化してみた",
+    "originalPublication": "https://note.com/funa04/n/n27b1a4b1b021",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ふな",
+        "url": "https://note.com/funa04",
+        "role": "original-character",
+        "publication": "https://note.com/funa04/n/n27b1a4b1b021"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/funa04/n/n27b1a4b1b021",
+    "downloadable": false,
+    "bg": "#edf2f8",
+    "color": "#445773",
+    "verifiedAt": "2026-11-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "提供作者公开原帖链接。图件的独立展示、改编和再分发条件待核。",
+      "en": "Links the creator’s public post. Separate display, adaptation and redistribution terms await confirmation.",
+      "ja": "作者の公開記事へ案内。画像の個別掲載、改変、再配布条件は確認待ち。"
+    }
+  },
+  {
+    "id": "nenkoro-sora-chatgpt",
+    "entity": "chatgpt",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "そらちゃん · ねんころ的设定",
+      "en": "Sora · Nenkoro’s Design",
+      "ja": "そらちゃん · ねんころの設定"
+    },
+    "description": {
+      "zh": "浅蓝长发、白色刺绣西装和蓝色领结。作者把 Sora 设定为说关西腔的 ChatGPT 搭档。",
+      "en": "Pale blue hair, an embroidered white suit and a blue neck bow. The creator gives this ChatGPT companion a Kansai dialect.",
+      "ja": "空色の長髪、刺繍入りの白いスーツ、青いボウタイ。作者は関西弁を話す ChatGPT の相棒として紹介。"
+    },
+    "story": {
+      "zh": "浅蓝长发、白色刺绣西装和蓝色领结。作者把 Sora 设定为说关西腔的 ChatGPT 搭档。",
+      "en": "Pale blue hair, an embroidered white suit and a blue neck bow. The creator gives this ChatGPT companion a Kansai dialect.",
+      "ja": "空色の長髪、刺繍入りの白いスーツ、青いボウタイ。作者は関西弁を話す ChatGPT の相棒として紹介。"
+    },
+    "features": {
+      "zh": "浅蓝长发、白色刺绣西装和蓝色领结。作者把 Sora 设定为说关西腔的 ChatGPT 搭档。",
+      "en": "Pale blue hair, an embroidered white suit and a blue neck bow. The creator gives this ChatGPT companion a Kansai dialect.",
+      "ja": "空色の長髪、刺繍入りの白いスーツ、青いボウタイ。作者は関西弁を話す ChatGPT の相棒として紹介。"
+    },
+    "author": "ねんころ",
+    "authorUrl": "https://note.com/nenkoro_life",
+    "source": "https://note.com/nenkoro_life/n/n055d268c466d",
+    "sourceTitle": "ChatGPTを擬人化して漫画化したら相棒キャラ「そらちゃん」が爆誕した話|創作|エッセイ|AI活用|生成AI|",
+    "originalPublication": "https://note.com/nenkoro_life/n/n055d268c466d",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ねんころ",
+        "url": "https://note.com/nenkoro_life",
+        "role": "original-character",
+        "publication": "https://note.com/nenkoro_life/n/n055d268c466d"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/nenkoro_life/n/n055d268c466d",
+    "downloadable": false,
+    "bg": "#edf2f8",
+    "color": "#445773",
+    "verifiedAt": "2026-11-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "提供作者公开原帖链接。图件的独立展示、改编和再分发条件待核。",
+      "en": "Links the creator’s public post. Separate display, adaptation and redistribution terms await confirmation.",
+      "ja": "作者の公開記事へ案内。画像の個別掲載、改変、再配布条件は確認待ち。"
+    }
+  },
+  {
+    "id": "shizuku-ao-gemini",
+    "entity": "gemini",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "あおくん · しずく的 Gemini",
+      "en": "Ao · Shizuku’s Gemini",
+      "ja": "あおくん · しずくの Gemini"
+    },
+    "description": {
+      "zh": "蓝色短发和蓝色连帽衫。作者在原帖中把あおくん标为负责资料查找的 Gemini。",
+      "en": "Short blue hair and a blue hoodie. The creator identifies Ao as Gemini, the team’s researcher.",
+      "ja": "青い短髪と青いパーカー。作者は調べもの担当の Gemini として紹介。"
+    },
+    "story": {
+      "zh": "蓝色短发和蓝色连帽衫。作者在原帖中把あおくん标为负责资料查找的 Gemini。",
+      "en": "Short blue hair and a blue hoodie. The creator identifies Ao as Gemini, the team’s researcher.",
+      "ja": "青い短髪と青いパーカー。作者は調べもの担当の Gemini として紹介。"
+    },
+    "features": {
+      "zh": "蓝色短发和蓝色连帽衫。作者在原帖中把あおくん标为负责资料查找的 Gemini。",
+      "en": "Short blue hair and a blue hoodie. The creator identifies Ao as Gemini, the team’s researcher.",
+      "ja": "青い短髪と青いパーカー。作者は調べもの担当の Gemini として紹介。"
+    },
+    "author": "しずく",
+    "authorUrl": "https://note.com/shizuku_aiteam",
+    "source": "https://note.com/shizuku_aiteam/n/nd878d8f4f0a2",
+    "sourceTitle": "しずくの言うことは聞かないあおくん（Gemini）が、すいちゃん（Claude）に頼まれると本気の4コマを持ってきた話",
+    "originalPublication": "https://note.com/shizuku_aiteam/n/nd878d8f4f0a2",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "しずく",
+        "url": "https://note.com/shizuku_aiteam",
+        "role": "original-character",
+        "publication": "https://note.com/shizuku_aiteam/n/nd878d8f4f0a2"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/shizuku_aiteam/n/nd878d8f4f0a2",
+    "downloadable": false,
+    "bg": "#edf2f8",
+    "color": "#445773",
+    "verifiedAt": "2026-11-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "提供作者公开原帖链接。图件的独立展示、改编和再分发条件待核。",
+      "en": "Links the creator’s public post. Separate display, adaptation and redistribution terms await confirmation.",
+      "ja": "作者の公開記事へ案内。画像の個別掲載、改変、再配布条件は確認待ち。"
+    }
+  },
+  {
+    "id": "shizuku-sui-claude",
+    "entity": "claude",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "すいちゃん · しずく的 Claude",
+      "en": "Sui · Shizuku’s Claude",
+      "ja": "すいちゃん · しずくの Claude"
+    },
+    "description": {
+      "zh": "浅蓝短发、滴水形发饰和浅蓝外套。作者在原帖中把すいちゃん标为负责写作的 Claude。",
+      "en": "Pale blue hair, a drop-shaped hair clip and a light blue jacket. The creator identifies Sui as Claude, the team’s writer.",
+      "ja": "水色の短髪、しずく形の髪飾り、淡い青の上着。作者は書き物担当の Claude として紹介。"
+    },
+    "story": {
+      "zh": "浅蓝短发、滴水形发饰和浅蓝外套。作者在原帖中把すいちゃん标为负责写作的 Claude。",
+      "en": "Pale blue hair, a drop-shaped hair clip and a light blue jacket. The creator identifies Sui as Claude, the team’s writer.",
+      "ja": "水色の短髪、しずく形の髪飾り、淡い青の上着。作者は書き物担当の Claude として紹介。"
+    },
+    "features": {
+      "zh": "浅蓝短发、滴水形发饰和浅蓝外套。作者在原帖中把すいちゃん标为负责写作的 Claude。",
+      "en": "Pale blue hair, a drop-shaped hair clip and a light blue jacket. The creator identifies Sui as Claude, the team’s writer.",
+      "ja": "水色の短髪、しずく形の髪飾り、淡い青の上着。作者は書き物担当の Claude として紹介。"
+    },
+    "author": "しずく",
+    "authorUrl": "https://note.com/shizuku_aiteam",
+    "source": "https://note.com/shizuku_aiteam/n/nd878d8f4f0a2",
+    "sourceTitle": "しずくの言うことは聞かないあおくん（Gemini）が、すいちゃん（Claude）に頼まれると本気の4コマを持ってきた話",
+    "originalPublication": "https://note.com/shizuku_aiteam/n/nd878d8f4f0a2",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "しずく",
+        "url": "https://note.com/shizuku_aiteam",
+        "role": "original-character",
+        "publication": "https://note.com/shizuku_aiteam/n/nd878d8f4f0a2"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/shizuku_aiteam/n/nd878d8f4f0a2",
+    "downloadable": false,
+    "bg": "#edf2f8",
+    "color": "#445773",
+    "verifiedAt": "2026-11-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "提供作者公开原帖链接。图件的独立展示、改编和再分发条件待核。",
+      "en": "Links the creator’s public post. Separate display, adaptation and redistribution terms await confirmation.",
+      "ja": "作者の公開記事へ案内。画像の個別掲載、改変、再配布条件は確認待ち。"
+    }
   }
 ]

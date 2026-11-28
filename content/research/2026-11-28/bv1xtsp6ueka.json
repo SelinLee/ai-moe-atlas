@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Xtsp6UEka/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Xtsp6UEka",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:22:49.611Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership was checked independently of the video title.",
+  "metadata": {
+    "bvid": "BV1Xtsp6UEka",
+    "title": "豆包＆claude＆大肥鱼 踏浪 ［AI MV大赛］本地制作 瑕疵无法避免 见谅",
+    "owner": {
+      "name": "hellcrystal",
+      "mid": 28281570
+    },
+    "pubdate": 1794736405,
+    "duration": 62
+  },
+  "descriptionSha256": "6ede90beb000598cb7d52ac43963b8dc43ddfa8205a20aa9df81c725696b1012",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "hellcrystal",
+      "url": "https://space.bilibili.com/28281570"
+    }
+  ],
+  "playlist": {}
+}

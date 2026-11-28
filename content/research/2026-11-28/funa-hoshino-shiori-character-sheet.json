@@ -1,0 +1,64 @@
+{
+  "url": "https://note.com/funa04/n/n27b1a4b1b021",
+  "accessedAt": "2026-11-28T15:21:11.799Z",
+  "httpStatus": 200,
+  "title": "ChatGPTを擬人化してみた",
+  "creator": "https://note.com/funa04",
+  "publishedAt": "2026-04-08T16:00:00.000+09:00",
+  "htmlSha256": "223d2f354c99b8a3b4597c4b257e696a19640b8fa87c278d09d7bd26c1258a5e",
+  "scope": "Creator post and selected artwork bytes verified in isolated headless Chrome. Source URLs, original byte lengths and SHA-256 are retained.",
+  "files": [
+    {
+      "index": 2,
+      "url": "https://assets.st-note.com/img/1775579740-PjBFUn76AgOSuR4dliwWtsEQ.png",
+      "sha256": "3f4d29df9a06c2ad53f4a4390472e662e5b67c2b11a282bc673b8f409387ad97",
+      "bytes": 540202,
+      "width": 1456,
+      "height": 816,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:22:19.991Z"
+    },
+    {
+      "index": 4,
+      "url": "https://assets.st-note.com/img/1775579741-1B5LHPkNn8rz3VDME4vlWcRy.png",
+      "sha256": "8e5d540fb7a91d4d80ed4b61ebc92db7cebb02c2dddc9bcce8d6a1464354137b",
+      "bytes": 1404297,
+      "width": 2744,
+      "height": 1536,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:22:20.447Z"
+    },
+    {
+      "index": 8,
+      "url": "https://assets.st-note.com/img/1775579740-EJOmuA0SbWvgxGynfpPQZTw1.png",
+      "sha256": "1c2246a4e80c9e4ab33e2be4b1117f0a9907eee8b82f52d6cd5561eb8f3fcdeb",
+      "bytes": 493757,
+      "width": 1456,
+      "height": 816,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:22:19.600Z"
+    },
+    {
+      "index": 9,
+      "url": "https://assets.st-note.com/img/1775579740-CPA87BLdieS19z02soX3mp6t.png",
+      "sha256": "9f9c6fa83b50a763315946ddbe448e17c534d4c9942ea6195d4da474076f197f",
+      "bytes": 307889,
+      "width": 1024,
+      "height": 573,
+      "format": "png",
+      "accessedAt": "2026-11-28T15:22:19.873Z"
+    }
+  ],
+  "relations": [
+    {
+      "role": "creator-profile",
+      "title": "ふな",
+      "url": "https://note.com/funa04"
+    },
+    {
+      "role": "credited-creator-inspiration",
+      "title": "ねんころ · Sora’s original release",
+      "url": "https://note.com/nenkoro_life/n/n055d268c466d"
+    }
+  ]
+}

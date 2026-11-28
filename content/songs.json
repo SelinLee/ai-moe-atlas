@@ -458,7 +458,7 @@
     "id": "trouble-maker-duo",
     "title": {"zh": "Trouble Maker", "en": "Trouble Maker", "ja": "Trouble Maker"},
     "original": {"credit": "Trouble Maker · HyunA & Jang Hyun-seung", "url": "https://music.apple.com/us/album/trouble-maker-ep/1343137845"},
-    "versions": [{"id": "bv1stsz6iesz", "type": "mv"}, {"id": "bv1nc4c61ewf", "type": "mv"}, {"id": "bv1jvyyzeeer", "type": "dance"}, {"id": "bv179xi6aezo", "type": "mv"}]
+    "versions": [{"id": "bv1stsz6iesz", "type": "mv"}, {"id": "bv1nc4c61ewf", "type": "mv"}, {"id": "bv1jvyyzeeer", "type": "dance"}, {"id": "bv179xi6aezo", "type": "mv"}, {"id": "bv1bj4x6rebd", "type": "mv"}, {"id": "bv1n8nd6xetr", "type": "mv"}]
   },
   {
     "id": "friends-wine",
@@ -1519,5 +1519,11 @@
     "title": {"zh": "晚夜微雨问海棠", "en": "Begonias in the Night Rain", "ja": "夜雨に海棠を問う"},
     "original": {"credit": "陈亦洺 · 喧笑lirz · 镜予歌", "url": "https://www.youtube.com/watch?v=wiDe4GYJ-0c"},
     "versions": [{"id": "bv1jps26weee", "type": "cover"}]
+  },
+  {
+    "id": "dangerous-party",
+    "title": {"zh": "危险派对", "en": "Dangerous Party", "ja": "危険なパーティー"},
+    "original": {"credit": "王以太 · 刘至佳", "url": "https://www.youtube.com/watch?v=75pGDyo3Z5g"},
+    "versions": [{"id": "bv1wc4g61e3e", "type": "mv"}]
   }
 ]

@@ -1,0 +1,60 @@
+{
+  "url": "https://www.bilibili.com/video/BV1znno6mEZF/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1znno6mEZF",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:22:38.548Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership was checked independently of the video title.",
+  "metadata": {
+    "bvid": "BV1znno6mEZF",
+    "title": "⚡大肥鱼饭团，开业胜利结算⚡",
+    "owner": {
+      "name": "蒙德砍壬",
+      "mid": 1931150416
+    },
+    "pubdate": 1793059200,
+    "duration": 51
+  },
+  "descriptionSha256": "a6b34a4cc3c45acf8c3d4427b5165c0e34b4353891d11cdf94356ad780b505c9",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "蒙德砍壬",
+      "url": "https://space.bilibili.com/1931150416"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "老板来个豆包",
+      "url": "https://www.bilibili.com/video/BV1RWHP6ZEJw/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "AI中转站：全体降智？！（2）【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1xNx96fELQ/"
+    },
+    {
+      "role": "credited-motion-reference",
+      "title": "Bilibili · motion reference",
+      "url": "https://www.bilibili.com/video/BV1uM4R66EqA/"
+    },
+    {
+      "role": "credited-motion-reference",
+      "title": "Bilibili · motion reference",
+      "url": "https://www.bilibili.com/video/BV1Xbn864EYK/"
+    },
+    {
+      "role": "credited-music",
+      "title": "若叶睦子米Official · credited track",
+      "url": "https://www.bilibili.com/video/BV1fPpP6vENi/"
+    }
+  ],
+  "playlist": {
+    "name": "AI中转站日常",
+    "titleInPlaylist": "⚡大肥鱼饭团，开业胜利结算⚡",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-morx-and-related-creator-playlists.json",
+      "sha256": "71d5c2e180f9196eb63ffa0f3ab22ed8d1c0b6cb9d0c38ecd41f017805a879fe",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

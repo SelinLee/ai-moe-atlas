@@ -1,0 +1,60 @@
+{
+  "url": "https://www.bilibili.com/video/BV1jSeM6rE7x/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jSeM6rE7x",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:22:43.185Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership was checked independently of the video title.",
+  "metadata": {
+    "bvid": "BV1jSeM6rE7x",
+    "title": "大肥鱼，我会带你去月球！",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1789612542,
+    "duration": 38
+  },
+  "descriptionSha256": "0f07a161f91a20503f2f39f6dddb4dead58cc3ae5d77951e149c9384769b8bab",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "大肥鱼欺负小狐娘的后果",
+      "url": "https://www.bilibili.com/video/BV1GnYi63Ews/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "太坏了，大肥鱼的盆被抢！",
+      "url": "https://www.bilibili.com/video/BV15DeQ6fErb/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "蓝色大肥鱼和智谱小狐娘玩GTA6",
+      "url": "https://www.bilibili.com/video/BV1CDyDzjEqt/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "大肥鱼：智谱你不要死啊！",
+    "indexEvidence": {
+      "path": "content/research/2026-11-28/bilibili-november-28-morx-and-related-creator-playlists.json",
+      "sha256": "71d5c2e180f9196eb63ffa0f3ab22ed8d1c0b6cb9d0c38ecd41f017805a879fe",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

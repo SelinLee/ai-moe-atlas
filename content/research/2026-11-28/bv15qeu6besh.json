@@ -1,0 +1,37 @@
+{
+  "url": "https://www.bilibili.com/video/BV15qeu6BESH/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15qeu6BESH",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:22:52.781Z",
+  "scope": "Bilibili view metadata verifies the publication, uploader and cumulative likes. Playlist membership was checked independently of the video title.",
+  "metadata": {
+    "bvid": "BV15qeu6BESH",
+    "title": "豆包VS大肥鱼丨宿命对决",
+    "owner": {
+      "name": "拉了个帮",
+      "mid": 109244487
+    },
+    "pubdate": 1789638300,
+    "duration": 59
+  },
+  "descriptionSha256": "665bbfeeb0f4d52934e524238b8cc84d5296214fa90a396f0b91a800ff1d480d",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "拉了个帮",
+      "url": "https://space.bilibili.com/109244487"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "credited-original-character",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    }
+  ],
+  "playlist": {}
+}
