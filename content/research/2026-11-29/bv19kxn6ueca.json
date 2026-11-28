@@ -1,0 +1,32 @@
+{
+  "url": "https://www.bilibili.com/video/BV19kxN6uECA/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19kxN6uECA",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:25:06.450Z",
+  "scope": "Bilibili view metadata verifies the uploader, publication timestamp and cumulative likes. Links establish only the indicated relationships.",
+  "metadata": {
+    "bvid": "BV19kxN6uECA",
+    "title": "大肥鱼、克小姐、豆包等6位AI姬唱《心愿》：那些永远的誓言，一遍一遍",
+    "owner": {
+      "name": "包拯小作坊",
+      "mid": 45818805
+    },
+    "pubdate": 1793078673,
+    "duration": 162
+  },
+  "descriptionSha256": "c90319d4345d1ca6d58e285452807666ae03af6b81b1254916be59cd839bfa76",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "包拯小作坊",
+      "url": "https://space.bilibili.com/45818805"
+    }
+  ],
+  "sourceChecks": [],
+  "uploaderMusicCredits": {
+    "title": "心愿",
+    "writer": "王泽",
+    "originalPerformance": "四个女生"
+  }
+}

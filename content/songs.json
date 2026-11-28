@@ -11,7 +11,7 @@
     "title": {"zh": "Let Me Go · 大肥鱼摸鱼歌", "en": "Let Me Go · Fat Fish’s Slacking Song", "ja": "Let Me Go · 大きな魚のサボり歌"},
     "original": {"credit": "星落落_oi", "url": "https://www.bilibili.com/video/BV13SYr6dEiQ/"},
     "image": {"path": "collected/shangshan-whale/portrait/preview.webp", "kind": "characterReference", "credit": "上善无形", "source": "https://www.bilibili.com/opus/1231977657712771073"},
-    "versions": [{"id": "let-me-go-music-source", "type": "arrangement"}, {"id": "bv1xm4i6oegk", "type": "mv"}, {"id": "bv19j4y6qerj", "type": "mv"}, {"id": "bv1c7h16jehj", "type": "mv"}, {"id": "bv1qhn46bebc", "type": "mv"}, {"id": "bv1exnv6je1j", "type": "mv"}, {"id": "bv1mthc6leba", "type": "mv"}, {"id": "bv1tepx6nen9", "type": "mv"}, {"id": "bv1o5sr6me6f", "type": "arrangement"}, {"id": "bv1pueu6cefg", "type": "mv"}, {"id": "bv1m9n46cewk", "type": "cover"}]
+    "versions": [{"id": "let-me-go-music-source", "type": "arrangement"}, {"id": "bv1xm4i6oegk", "type": "mv"}, {"id": "bv19j4y6qerj", "type": "mv"}, {"id": "bv1c7h16jehj", "type": "mv"}, {"id": "bv1qhn46bebc", "type": "mv"}, {"id": "bv1exnv6je1j", "type": "mv"}, {"id": "bv1mthc6leba", "type": "mv"}, {"id": "bv1tepx6nen9", "type": "mv"}, {"id": "bv1o5sr6me6f", "type": "arrangement"}, {"id": "bv1pueu6cefg", "type": "mv"}, {"id": "bv1m9n46cewk", "type": "cover"}, {"id": "bv1hxnq6nedc", "type": "mv"}]
   },
   {
     "id": "world-execute-me",
@@ -787,7 +787,7 @@
     "id": "kawaikute-gomen",
     "title": {"zh": "可愛くてごめん", "en": "Sorry for Being Cute", "ja": "可愛くてごめん"},
     "original": {"credit": "HoneyWorks feat. かぴ", "url": "https://www.youtube.com/watch?v=a3FgmTfvJhA"},
-    "versions": [{"id": "bv1q6yrzweez", "type": "dance"}]
+    "versions": [{"id": "bv1q6yrzweez", "type": "dance"}, {"id": "bv1r1nk6peb6", "type": "dance"}]
   },
   {
     "id": "childhood",
@@ -1538,5 +1538,17 @@
     "title": {"zh": "Kimi，快帮帮我 · 凌晨三点", "en": "Kimi, Help Me · 3 a.m.", "ja": "Kimi、助けて · 午前3時"},
     "original": {"credit": "彼岸花Channel", "url": "https://www.bilibili.com/video/BV1pZ14z7ECE/"},
     "versions": [{"id": "bv1pz14z7ece", "type": "original-mv"}]
+  },
+  {
+    "id": "rbb-red-velvet",
+    "title": {"zh": "RBB (Really Bad Boy)", "en": "RBB (Really Bad Boy)", "ja": "RBB (Really Bad Boy)"},
+    "original": {"credit": "Red Velvet", "url": "https://www.youtube.com/watch?v=IWJUPY-2EIM"},
+    "versions": [{"id": "bv1jenf62ekm", "type": "cover"}]
+  },
+  {
+    "id": "kill-me-baby-dance-ending",
+    "title": {"zh": "爱杀宝贝片尾曲 · ふたりのきもちのほんとのひみつ", "en": "The True Secret of Our Feelings · Kill Me Baby Ending", "ja": "ふたりのきもちのほんとのひみつ"},
+    "original": {"credit": "やすなとソーニャ · 赤﨑千夏・田村睦心", "url": "https://www.youtube.com/watch?v=ZCYRmJvEv_U"},
+    "versions": [{"id": "bv19rn26ceeu", "type": "dance"}]
   }
 ]

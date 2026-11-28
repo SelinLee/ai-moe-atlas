@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bilibili.com/video/BV1fPsU6cET2/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fPsU6cET2",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:25:04.878Z",
+  "scope": "Bilibili view metadata verifies the uploader, publication timestamp and cumulative likes. Links establish only the indicated relationships.",
+  "metadata": {
+    "bvid": "BV1fPsU6cET2",
+    "title": "豆包检索到了什么视频让她对大肥鱼充满恐惧？",
+    "owner": {
+      "name": "阿瑟妈",
+      "mid": 76741769
+    },
+    "pubdate": 1795080000,
+    "duration": 130
+  },
+  "descriptionSha256": "581b2816955826aaff5087eb589daba5bd4e3f46491aea01023dd445397c8430",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "阿瑟妈",
+      "url": "https://space.bilibili.com/76741769"
+    }
+  ],
+  "sourceChecks": []
+}

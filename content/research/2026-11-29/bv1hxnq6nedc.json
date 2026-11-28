@@ -1,0 +1,37 @@
+{
+  "url": "https://www.bilibili.com/video/BV1hXnQ6nEDc/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hXnQ6nEDc",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:25:09.528Z",
+  "scope": "Bilibili view metadata verifies the uploader, publication timestamp and cumulative likes. Links establish only the indicated relationships.",
+  "metadata": {
+    "bvid": "BV1hXnQ6nEDc",
+    "title": "大肥鱼单曲 - Let Me Go 现实PV 【AI MV大赛】",
+    "owner": {
+      "name": "枫青衡",
+      "mid": 370269586
+    },
+    "pubdate": 1792987200,
+    "duration": 132
+  },
+  "descriptionSha256": "de5a8fe5a091e0cb7e8140bedb08a98be0125db994e97b520098d9be7968d08e",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "枫青衡",
+      "url": "https://space.bilibili.com/370269586"
+    },
+    {
+      "role": "music-credited-version",
+      "title": "罐装毕加索 · Let Me Go co-creation version",
+      "url": "https://www.bilibili.com/video/BV1XbY66nEWr/"
+    },
+    {
+      "role": "music-original",
+      "title": "星落落_oi · Let Me Go",
+      "url": "https://www.bilibili.com/video/BV13SYr6dEiQ/"
+    }
+  ],
+  "sourceChecks": []
+}

@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bilibili.com/video/BV1TSno6ZEvA/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TSno6ZEvA",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:25:07.985Z",
+  "scope": "Bilibili view metadata verifies the uploader, publication timestamp and cumulative likes. Links establish only the indicated relationships.",
+  "metadata": {
+    "bvid": "BV1TSno6ZEvA",
+    "title": "大肥鱼零元购大白饭【AI MV大赛】",
+    "owner": {
+      "name": "梦的回响AIGC",
+      "mid": 296483
+    },
+    "pubdate": 1793027283,
+    "duration": 73
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "梦的回响AIGC",
+      "url": "https://space.bilibili.com/296483"
+    }
+  ],
+  "sourceChecks": []
+}

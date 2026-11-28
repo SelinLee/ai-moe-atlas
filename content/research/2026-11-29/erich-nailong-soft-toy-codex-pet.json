@@ -1,0 +1,104 @@
+{
+  "historical": false,
+  "full_name": "erich207/nailong-codex-pet",
+  "html_url": "https://github.com/erich207/nailong-codex-pet",
+  "stargazers_count": 16,
+  "archived": false,
+  "created_at": "2026-07-13T06:50:22Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "760155afeb7773b734f006e6cf5f8ef939482d92",
+  "observedAt": "2026-11-28T16:24:36.018Z",
+  "httpStatus": 200,
+  "metadataSha256": "edf1ce57e015debd372029027e7aa31bfc5463679779a1d6d5df7aca5f2b9a1e",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/erich207/nailong-codex-pet/blob/760155afeb7773b734f006e6cf5f8ef939482d92/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/erich207/nailong-codex-pet/760155afeb7773b734f006e6cf5f8ef939482d92/README.md",
+      "sourceSha256": "f949b0698fc0722da15e5e366da97c3424e5d5d94f8ce1b7ffb3632c69035297",
+      "gitBlobSha": "87843151609ee536765926cbe186d24dd8e99929",
+      "bytes": 1572,
+      "commit": "760155afeb7773b734f006e6cf5f8ef939482d92",
+      "accessedAt": "2026-11-28T16:26:08.389Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/erich207/nailong-codex-pet/blob/760155afeb7773b734f006e6cf5f8ef939482d92/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/erich207/nailong-codex-pet/760155afeb7773b734f006e6cf5f8ef939482d92/LICENSE",
+      "sourceSha256": "0c0bf4090cd14a3e7d7bc0da1b1bd31793a1c28e3bb797fba669e63d776277f4",
+      "gitBlobSha": "9736ce796a0efde9804e7e5fd57e701adf1fa1e5",
+      "bytes": 1066,
+      "commit": "760155afeb7773b734f006e6cf5f8ef939482d92",
+      "accessedAt": "2026-11-28T16:26:08.759Z"
+    },
+    {
+      "path": "NOTICE.md",
+      "url": "https://github.com/erich207/nailong-codex-pet/blob/760155afeb7773b734f006e6cf5f8ef939482d92/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/erich207/nailong-codex-pet/760155afeb7773b734f006e6cf5f8ef939482d92/NOTICE.md",
+      "sourceSha256": "ed82379f40dee6b7a3c1465622cd56aad90a0239e3b4de96d2efdda42914d837",
+      "gitBlobSha": "4f26a8c943abba42cc7c390233698057a69b548e",
+      "bytes": 243,
+      "commit": "760155afeb7773b734f006e6cf5f8ef939482d92",
+      "accessedAt": "2026-11-28T16:26:09.090Z"
+    },
+    {
+      "path": "pet.json",
+      "url": "https://github.com/erich207/nailong-codex-pet/blob/760155afeb7773b734f006e6cf5f8ef939482d92/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/erich207/nailong-codex-pet/760155afeb7773b734f006e6cf5f8ef939482d92/pet.json",
+      "sourceSha256": "5cb21f8e0b160fb30eac2077d3623e00dca3e5025ad015472d2e967f7998d92b",
+      "gitBlobSha": "ab85feb6f5c2bd21212b9e61586f3e5fa38b5481",
+      "bytes": 231,
+      "commit": "760155afeb7773b734f006e6cf5f8ef939482d92",
+      "accessedAt": "2026-11-28T16:26:09.424Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T16:29:26.840Z",
+  "scope": "Pinned repository documentation, declared artwork terms and the transparent atlas were checked. Any publisher terms are specific to the assets and rights they identify.",
+  "atlas": {
+    "repo": "erich207/nailong-codex-pet",
+    "path": "spritesheet.webp",
+    "url": "https://raw.githubusercontent.com/erich207/nailong-codex-pet/760155afeb7773b734f006e6cf5f8ef939482d92/spritesheet.webp",
+    "commit": "760155afeb7773b734f006e6cf5f8ef939482d92",
+    "width": 1536,
+    "height": 2288,
+    "format": "webp",
+    "hasAlpha": true,
+    "version": 2,
+    "sha256": "919fcf29b9f1412f23a5dc659a536f43aa03b5e07a3c4d5daab5f3e79d91a93c",
+    "bytes": 1875690,
+    "gitBlobSha": "49c3d7c29f49d6bcfde85deb36689f4ded8cdf62",
+    "observedAt": "2026-11-28T16:29:22.872Z"
+  },
+  "originalCharacter": {
+    "id": "nailong",
+    "url": "https://www.nailoong.com/",
+    "title": "第七印象官方网站-奶龙Nailoong",
+    "httpStatus": 200,
+    "observedAt": "2026-11-28T16:29:26.840Z",
+    "htmlSha256": "5ad9fb04818854969d00177b524edb3d8956ba4f21446aa109a2a998e4d44548"
+  },
+  "relations": [
+    {
+      "role": "repository-license",
+      "title": "Published license and scope",
+      "url": "https://github.com/erich207/nailong-codex-pet/blob/760155afeb7773b734f006e6cf5f8ef939482d92/LICENSE"
+    },
+    {
+      "role": "pet-manifest",
+      "title": "Codex pet manifest · v2",
+      "url": "https://github.com/erich207/nailong-codex-pet/blob/760155afeb7773b734f006e6cf5f8ef939482d92/pet.json"
+    },
+    {
+      "role": "asset-provenance",
+      "title": "Creator’s notice and provenance",
+      "url": "https://github.com/erich207/nailong-codex-pet/blob/760155afeb7773b734f006e6cf5f8ef939482d92/NOTICE.md"
+    },
+    {
+      "role": "original-character-publication",
+      "title": "Seventh Impression · Nailong official IP site",
+      "url": "https://www.nailoong.com/"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://note.com/boku_chappy/n/n4a40663b57ba",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-28T16:24:38.902Z",
+  "publishedAt": "2026-10-06T20:59:21.000+09:00",
+  "title": "AIが夢で共同作戦！？ ChatGPTとClaude、別の会社の相棒🔰 【ショート動画・第3話】",
+  "htmlSha256": "4e49a5725a967750e40051185023f178a9ea4ad065990f0ce5e3de9dc3fd8e00",
+  "creator": "https://note.com/boku_chappy",
+  "scope": "Creator original publication checked in isolated headless Chrome. Selected original artwork files, captions and SHA-256 values were retained.",
+  "files": [
+    {
+      "index": 0,
+      "url": "https://assets.st-note.com/production/uploads/images/321506455/rectangle_large_type_2_44ba087b6fdf2f2fe18f52a209cb5c5b.jpg",
+      "sha256": "23150a165cf776083403367fed386ce019d72d40fe93de2e3d1b3efc41beb829",
+      "bytes": 250522,
+      "width": 1280,
+      "height": 670,
+      "format": "jpeg",
+      "accessedAt": "2026-11-28T16:26:12.231Z",
+      "creatorCaption": null
+    }
+  ],
+  "relations": [
+    {
+      "role": "creator-profile",
+      "title": "僕とチャッピーの成長記録🔰",
+      "url": "https://note.com/boku_chappy"
+    },
+    {
+      "role": "creator-embedded-video",
+      "title": "Short episode 3 · YouTube player embedded by the creator",
+      "url": "https://www.youtube.com/watch?v=FGj5CwvVwe4"
+    }
+  ],
+  "embeddedPlayer": "https://www.youtube.com/embed/FGj5CwvVwe4?rel=0"
+}

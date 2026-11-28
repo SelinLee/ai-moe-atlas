@@ -1,0 +1,76 @@
+{
+  "historical": false,
+  "full_name": "RayshineRen/fubao-codex-pet",
+  "html_url": "https://github.com/RayshineRen/fubao-codex-pet",
+  "stargazers_count": 2,
+  "archived": false,
+  "created_at": "2026-07-24T08:36:29Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "fe2d9eea14a1215500001938403ee23dbb512989",
+  "observedAt": "2026-11-28T16:24:36.047Z",
+  "httpStatus": 200,
+  "metadataSha256": "f5afc0fde47095ab035de302f9170462c65049c766016b59459113f59c04d95f",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/RayshineRen/fubao-codex-pet/blob/fe2d9eea14a1215500001938403ee23dbb512989/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/RayshineRen/fubao-codex-pet/fe2d9eea14a1215500001938403ee23dbb512989/README.md",
+      "sourceSha256": "aeed6107685b5b021f0351dde3a08de3c423f140c337f5154a0ac0eb740b427b",
+      "gitBlobSha": "f29145f60de4c29b2364ab94ca68e593a55453ac",
+      "bytes": 1779,
+      "commit": "fe2d9eea14a1215500001938403ee23dbb512989",
+      "accessedAt": "2026-11-28T16:26:08.583Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/RayshineRen/fubao-codex-pet/blob/fe2d9eea14a1215500001938403ee23dbb512989/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/RayshineRen/fubao-codex-pet/fe2d9eea14a1215500001938403ee23dbb512989/LICENSE",
+      "sourceSha256": "f5b745ef98087f531e719ee8ca6a96809444573ecc7173c6fa68eaad39b3cc3f",
+      "gitBlobSha": "10fabd90118f7ce38bb2e4753e105e744442a429",
+      "bytes": 18658,
+      "commit": "fe2d9eea14a1215500001938403ee23dbb512989",
+      "accessedAt": "2026-11-28T16:26:08.970Z"
+    },
+    {
+      "path": "pet.json",
+      "url": "https://github.com/RayshineRen/fubao-codex-pet/blob/fe2d9eea14a1215500001938403ee23dbb512989/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/RayshineRen/fubao-codex-pet/fe2d9eea14a1215500001938403ee23dbb512989/pet.json",
+      "sourceSha256": "7abf69c66913378ba9bb5b5a71d089dd6a5ca1b50c9c5f5d306ccc0bf09d4022",
+      "gitBlobSha": "3108b082cd3e731f3d5fbdfaef90e0baaea632b3",
+      "bytes": 218,
+      "commit": "fe2d9eea14a1215500001938403ee23dbb512989",
+      "accessedAt": "2026-11-28T16:26:09.298Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T16:29:23.008Z",
+  "scope": "Pinned repository documentation, declared artwork terms and the transparent atlas were checked. Any publisher terms are specific to the assets and rights they identify.",
+  "atlas": {
+    "repo": "RayshineRen/fubao-codex-pet",
+    "path": "spritesheet.webp",
+    "url": "https://raw.githubusercontent.com/RayshineRen/fubao-codex-pet/fe2d9eea14a1215500001938403ee23dbb512989/spritesheet.webp",
+    "commit": "fe2d9eea14a1215500001938403ee23dbb512989",
+    "width": 1536,
+    "height": 2288,
+    "format": "webp",
+    "hasAlpha": true,
+    "version": 2,
+    "sha256": "2bb7d82af617d78b0c2080081f7d6b75832b069411618912155ee8fc406dd6e3",
+    "bytes": 2814846,
+    "gitBlobSha": "170c1f3f373d2c8054dcf64697faf0d32c7e0a6f",
+    "observedAt": "2026-11-28T16:29:23.008Z"
+  },
+  "relations": [
+    {
+      "role": "artwork-license",
+      "title": "Published license and scope",
+      "url": "https://github.com/RayshineRen/fubao-codex-pet/blob/fe2d9eea14a1215500001938403ee23dbb512989/LICENSE"
+    },
+    {
+      "role": "pet-manifest",
+      "title": "Codex pet manifest · v2",
+      "url": "https://github.com/RayshineRen/fubao-codex-pet/blob/fe2d9eea14a1215500001938403ee23dbb512989/pet.json"
+    }
+  ]
+}

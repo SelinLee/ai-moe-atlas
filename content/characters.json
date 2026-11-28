@@ -9095,5 +9095,117 @@
       "en": "Links the creator’s public post. Separate display, adaptation and redistribution terms await confirmation.",
       "ja": "作者の公開記事へ案内。画像の個別掲載、改変、再配布条件は確認待ち。"
     }
+  },
+  {
+    "id": "hontsuke-thin-chappy",
+    "entity": "chatgpt",
+    "kind": "reference",
+    "style": "mascot",
+    "official": false,
+    "name": {
+      "zh": "薄扁查比 · 本つけ编辑部",
+      "en": "Thin Chappy · Hontsuke",
+      "ja": "薄っぺらチャッピー · 本つけ"
+    },
+    "description": {
+      "zh": "白色扁身、短手脚，头顶绿色小芽。原帖把它介绍为负责编辑的 ChatGPT。",
+      "en": "A flat white mascot with short limbs and a green sprout. The creator introduces it as ChatGPT, the team’s editor.",
+      "ja": "白く薄い体と短い手足、頭頂の緑の芽。原投稿では編集担当の ChatGPT として紹介。"
+    },
+    "story": {
+      "zh": "白色扁身、短手脚，头顶绿色小芽。原帖把它介绍为负责编辑的 ChatGPT。",
+      "en": "A flat white mascot with short limbs and a green sprout. The creator introduces it as ChatGPT, the team’s editor.",
+      "ja": "白く薄い体と短い手足、頭頂の緑の芽。原投稿では編集担当の ChatGPT として紹介。"
+    },
+    "features": {
+      "zh": "白色扁身、短手脚，头顶绿色小芽。原帖把它介绍为负责编辑的 ChatGPT。",
+      "en": "A flat white mascot with short limbs and a green sprout. The creator introduces it as ChatGPT, the team’s editor.",
+      "ja": "白く薄い体と短い手足、頭頂の緑の芽。原投稿では編集担当の ChatGPT として紹介。"
+    },
+    "author": "チャッピー｜いわゆるあのAI",
+    "authorUrl": "https://note.com/hontsuke_jp",
+    "source": "https://note.com/hontsuke_jp/n/n70356fff57bb",
+    "sourceTitle": "このnote、誰が書いてるんだ？",
+    "originalPublication": "https://note.com/hontsuke_jp/n/n70356fff57bb",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "チャッピー｜いわゆるあのAI",
+        "url": "https://note.com/hontsuke_jp",
+        "role": "original-character",
+        "publication": "https://note.com/hontsuke_jp/n/n70356fff57bb"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/hontsuke_jp/n/n70356fff57bb",
+    "downloadable": false,
+    "bg": "#eaf6f5",
+    "color": "#3b6263",
+    "verifiedAt": "2026-11-29",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "经作者原帖查看图件。独立展示、改编和再分发条件待核。",
+      "en": "View the artwork at the creator’s original post. Separate display, adaptation and redistribution terms await confirmation.",
+      "ja": "画像は作者の原投稿から閲覧。個別掲載、改変、再配布条件は確認待ち。"
+    }
+  },
+  {
+    "id": "hontsuke-kura-claude",
+    "entity": "claude",
+    "kind": "reference",
+    "style": "mascot",
+    "official": false,
+    "name": {
+      "zh": "蔵くん · 本つけ编辑部",
+      "en": "Kura · Hontsuke’s Claude",
+      "ja": "蔵くん · 本つけの Claude"
+    },
+    "description": {
+      "zh": "棕色兜帽、浅色圆脸，手里拿着小本子。作者把 Claude 设为采访和写作搭档。",
+      "en": "A pale round face under a brown hood, holding a small notebook. The creator presents Claude as a reporting and writing partner.",
+      "ja": "茶色いフードに白っぽい丸顔、小さなノート。作者は取材と執筆の相棒となる Claude として紹介。"
+    },
+    "story": {
+      "zh": "棕色兜帽、浅色圆脸，手里拿着小本子。作者把 Claude 设为采访和写作搭档。",
+      "en": "A pale round face under a brown hood, holding a small notebook. The creator presents Claude as a reporting and writing partner.",
+      "ja": "茶色いフードに白っぽい丸顔、小さなノート。作者は取材と執筆の相棒となる Claude として紹介。"
+    },
+    "features": {
+      "zh": "棕色兜帽、浅色圆脸，手里拿着小本子。作者把 Claude 设为采访和写作搭档。",
+      "en": "A pale round face under a brown hood, holding a small notebook. The creator presents Claude as a reporting and writing partner.",
+      "ja": "茶色いフードに白っぽい丸顔、小さなノート。作者は取材と執筆の相棒となる Claude として紹介。"
+    },
+    "author": "チャッピー｜いわゆるあのAI",
+    "authorUrl": "https://note.com/hontsuke_jp",
+    "source": "https://note.com/hontsuke_jp/n/n70356fff57bb",
+    "sourceTitle": "このnote、誰が書いてるんだ？",
+    "originalPublication": "https://note.com/hontsuke_jp/n/n70356fff57bb",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "チャッピー｜いわゆるあのAI",
+        "url": "https://note.com/hontsuke_jp",
+        "role": "original-character",
+        "publication": "https://note.com/hontsuke_jp/n/n70356fff57bb"
+      }
+    ],
+    "method": "not-disclosed",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/hontsuke_jp/n/n70356fff57bb",
+    "downloadable": false,
+    "bg": "#fff3e8",
+    "color": "#674d3b",
+    "verifiedAt": "2026-11-29",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "经作者原帖查看图件。独立展示、改编和再分发条件待核。",
+      "en": "View the artwork at the creator’s original post. Separate display, adaptation and redistribution terms await confirmation.",
+      "ja": "画像は作者の原投稿から閲覧。個別掲載、改変、再配布条件は確認待ち。"
+    }
   }
 ]

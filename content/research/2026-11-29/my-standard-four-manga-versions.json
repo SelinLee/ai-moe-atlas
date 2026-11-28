@@ -1,0 +1,85 @@
+{
+  "url": "https://note.com/my_standard_jp/n/n012413b0c29d",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-28T16:24:38.907Z",
+  "publishedAt": "2026-11-15T21:40:30.000+09:00",
+  "title": "同じ台本で、4つのAIが漫画を描いたら",
+  "htmlSha256": "c97befc5468f25884aa220225e8d4bcd7f50808a0ff36657843f0be8aa6e09e6",
+  "creator": "https://note.com/my_standard_jp",
+  "scope": "Creator original publication checked in isolated headless Chrome. Selected original artwork files, captions and SHA-256 values were retained.",
+  "files": [
+    {
+      "index": 2,
+      "url": "https://assets.st-note.com/img/1794640039-r6EyHUVgFuxAXoZmjdMqia80.png",
+      "sha256": "c6c62f6fa55f944451ddb4e2e418c111b5ff84415ad58a2c35eb1b7f7dc9b5b9",
+      "bytes": 382755,
+      "width": 1080,
+      "height": 1983,
+      "format": "png",
+      "accessedAt": "2026-11-28T16:26:10.495Z",
+      "creatorCaption": ""
+    },
+    {
+      "index": 3,
+      "url": "https://assets.st-note.com/img/1794640051-DsghQC4eEdPqoL617vz2VlTZ.png",
+      "sha256": "0a911fe20bf677481397aa07ac87edc4051c9afe12fb8a4e98c3fc9229abb39a",
+      "bytes": 315684,
+      "width": 1080,
+      "height": 1772,
+      "format": "png",
+      "accessedAt": "2026-11-28T16:26:10.557Z",
+      "creatorCaption": ""
+    },
+    {
+      "index": 6,
+      "url": "https://assets.st-note.com/img/1794644943-YtjoWUswEMXFDCaTuGdNI4xR.png",
+      "sha256": "2db0ead123d0e61c660fe59efdf7f7faed590003ee798d3355e2758c4b6edb37",
+      "bytes": 290747,
+      "width": 1080,
+      "height": 2154,
+      "format": "png",
+      "accessedAt": "2026-11-28T16:26:11.588Z",
+      "creatorCaption": ""
+    },
+    {
+      "index": 8,
+      "url": "https://assets.st-note.com/img/1794640365-4gTSh16ClXIBOQzVZM3FRxHf.png",
+      "sha256": "33f6e7a81ae5573eca56b78889a83dadb9537d1acd8bb6429eebbf99537a0858",
+      "bytes": 385355,
+      "width": 1080,
+      "height": 2693,
+      "format": "png",
+      "accessedAt": "2026-11-28T16:26:11.721Z",
+      "creatorCaption": ""
+    },
+    {
+      "index": 10,
+      "url": "https://assets.st-note.com/img/1794640849-ZFjkd1enoxuJ2AOL67GrKstS.png",
+      "sha256": "37d20922781a247f9bd8c6166c742751ba9016b869e1cbabf0e7f171cbe7d7a6",
+      "bytes": 137159,
+      "width": 1080,
+      "height": 1215,
+      "format": "png",
+      "accessedAt": "2026-11-28T16:26:11.368Z",
+      "creatorCaption": ""
+    },
+    {
+      "index": 14,
+      "url": "https://assets.st-note.com/img/1794641106-fvrFj1CMJ4Z7uQHmDxybkeYc.png",
+      "sha256": "5a42073f5826eeea9fa555d67fa85985a3059d415793c0659838f2addb191721",
+      "bytes": 229134,
+      "width": 1400,
+      "height": 1636,
+      "format": "png",
+      "accessedAt": "2026-11-28T16:26:11.589Z",
+      "creatorCaption": ""
+    }
+  ],
+  "relations": [
+    {
+      "role": "creator-profile",
+      "title": "マイスタ編集部",
+      "url": "https://note.com/my_standard_jp"
+    }
+  ]
+}

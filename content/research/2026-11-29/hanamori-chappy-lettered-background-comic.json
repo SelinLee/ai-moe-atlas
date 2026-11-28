@@ -1,0 +1,46 @@
+{
+  "url": "https://note.com/nitijo_tubuyaki/n/n5f8daf56f242",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-28T16:24:38.899Z",
+  "publishedAt": "2026-10-24T17:00:12.000+09:00",
+  "title": "【AI擬人化】背景文字だらけの事件を、Claude先生に解析してもらったら。",
+  "htmlSha256": "38017ea8ccc1e7e0171c46b811585db54d0a66102590570d6d5c2f8378865dee",
+  "creator": "https://note.com/nitijo_tubuyaki",
+  "scope": "Creator original publication checked in isolated headless Chrome. Selected original artwork files, captions and SHA-256 values were retained.",
+  "files": [
+    {
+      "index": 2,
+      "url": "https://assets.st-note.com/img/1792761024-SqEYXk6PDt7LsFwQIOUd5KGa.png",
+      "sha256": "f8f3c6dc83eb81bbdeec94fb73e63229bf26fb8cb263511c1b7605bf6db7bf7f",
+      "bytes": 4145061,
+      "width": 1464,
+      "height": 7232,
+      "format": "png",
+      "accessedAt": "2026-11-28T16:26:17.336Z",
+      "creatorCaption": ""
+    },
+    {
+      "index": 3,
+      "url": "https://assets.st-note.com/img/1792762163-GTqpJ6Rt3LYdkCsm7WDa15Uu.png",
+      "sha256": "b0c1f61e1b63fdaf5aa902f1801c8671e30f3baeffece8784103c39e855357b2",
+      "bytes": 18826,
+      "width": 520,
+      "height": 105,
+      "format": "png",
+      "accessedAt": "2026-11-28T16:26:14.008Z",
+      "creatorCaption": ""
+    }
+  ],
+  "relations": [
+    {
+      "role": "creator-profile",
+      "title": "hanamori",
+      "url": "https://note.com/nitijo_tubuyaki"
+    },
+    {
+      "role": "related-character-design",
+      "title": "hanamori · Chappy’s character design",
+      "url": "https://note.com/nitijo_tubuyaki/n/n2bb30f283321"
+    }
+  ]
+}

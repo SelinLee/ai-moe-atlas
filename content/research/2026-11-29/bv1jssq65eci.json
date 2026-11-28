@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bilibili.com/video/BV1JssQ65ECi/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JssQ65ECi",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:25:12.615Z",
+  "scope": "Bilibili view metadata verifies the uploader, publication timestamp and cumulative likes. Links establish only the indicated relationships.",
+  "metadata": {
+    "bvid": "BV1JssQ65ECi",
+    "title": "【GLM狐娘】卷宗014 GPT-6.2发布24小时：智能第三，开发者骂翻——狐狸复算给你看",
+    "owner": {
+      "name": "GLM狐娘在线查案",
+      "mid": 105698442
+    },
+    "pubdate": 1795060800,
+    "duration": 190
+  },
+  "descriptionSha256": "f01a056099154a6fc717aab1e2aed4c6ef1b54bc419f5a435326aac49ab3212e",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "GLM狐娘在线查案",
+      "url": "https://space.bilibili.com/105698442"
+    }
+  ],
+  "sourceChecks": []
+}

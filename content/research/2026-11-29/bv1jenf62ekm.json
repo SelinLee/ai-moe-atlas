@@ -1,0 +1,32 @@
+{
+  "url": "https://www.bilibili.com/video/BV1jenf62Ekm/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jenf62Ekm",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:25:06.461Z",
+  "scope": "Bilibili view metadata verifies the uploader, publication timestamp and cumulative likes. Links establish only the indicated relationships.",
+  "metadata": {
+    "bvid": "BV1jenf62Ekm",
+    "title": "大肥鱼&Claude&ChatGPT&哈基米&GLM&豆包~们激情演唱RBB (Really Bad Boy)",
+    "owner": {
+      "name": "喵呜大人不气馁",
+      "mid": 493998794
+    },
+    "pubdate": 1793042501,
+    "duration": 55
+  },
+  "descriptionSha256": "a2b44415919a0659b902b16b1e414a6924562fab976338e3321a35dcde5b825a",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "喵呜大人不气馁",
+      "url": "https://space.bilibili.com/493998794"
+    },
+    {
+      "role": "music-original",
+      "title": "Red Velvet · RBB (Really Bad Boy) · SMTOWN",
+      "url": "https://www.youtube.com/watch?v=IWJUPY-2EIM"
+    }
+  ],
+  "sourceChecks": []
+}

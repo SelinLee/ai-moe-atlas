@@ -1,0 +1,46 @@
+{
+  "url": "https://www.bilibili.com/video/BV1sRs76dEmN/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sRs76dEmN",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:25:04.895Z",
+  "scope": "Bilibili view metadata verifies the uploader, publication timestamp and cumulative likes. Links establish only the indicated relationships.",
+  "metadata": {
+    "bvid": "BV1sRs76dEmN",
+    "title": "肥鱼45° 【AI MV大赛】",
+    "owner": {
+      "name": "化身能吃的鲸",
+      "mid": 3546556976335014
+    },
+    "pubdate": 1794717562,
+    "duration": 89
+  },
+  "descriptionSha256": "e3229d852caec254ce583ecfca3043e98e489bb260e2b705c1685929e6ac6d04",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "化身能吃的鲸",
+      "url": "https://space.bilibili.com/3546556976335014"
+    },
+    {
+      "role": "creator-cited-reference",
+      "title": "尾八Ka · 魔圆45°",
+      "url": "https://www.bilibili.com/video/BV1K34y1J7jG/"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "bvid": "BV1K34y1J7jG",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1K34y1J7jG",
+      "observedAt": "2026-11-28T16:26:45.533Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "魔圆45°",
+      "publisher": "尾八Ka",
+      "publisherId": 100813184,
+      "publicationDate": "2022-07-15",
+      "pubdate": 1657844222,
+      "likes": 36538
+    }
+  ]
+}

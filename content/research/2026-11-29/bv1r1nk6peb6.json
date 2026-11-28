@@ -1,0 +1,37 @@
+{
+  "url": "https://www.bilibili.com/video/BV1R1nk6PEb6/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1R1nk6PEb6",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:25:11.076Z",
+  "scope": "Bilibili view metadata verifies the uploader, publication timestamp and cumulative likes. Links establish only the indicated relationships.",
+  "metadata": {
+    "bvid": "BV1R1nk6PEb6",
+    "title": "一觉醒来，四个美少女给我了舞一段（大肥鱼这么可爱真是抱歉）【AI MV大赛】",
+    "owner": {
+      "name": "兰斯的画室LanceStudio",
+      "mid": 3546866685839722
+    },
+    "pubdate": 1792611180,
+    "duration": 72
+  },
+  "descriptionSha256": "dd2e2976144802a9bbc1c82c1595354dd32f8422079a22d51a08cdc7e649ed95",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "兰斯的画室LanceStudio",
+      "url": "https://space.bilibili.com/3546866685839722"
+    },
+    {
+      "role": "music-original",
+      "title": "HoneyWorks · 可愛くてごめん",
+      "url": "https://www.youtube.com/watch?v=a3FgmTfvJhA"
+    },
+    {
+      "role": "music-official-release",
+      "title": "HoneyWorks · ちゅーたん（CV：早見沙織）",
+      "url": "https://honeyworks.jp/news/8830/"
+    }
+  ],
+  "sourceChecks": []
+}

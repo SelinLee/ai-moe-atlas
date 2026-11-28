@@ -1,0 +1,32 @@
+{
+  "url": "https://www.bilibili.com/video/BV19Rn26CEeU/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV19Rn26CEeU",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:25:09.536Z",
+  "scope": "Bilibili view metadata verifies the uploader, publication timestamp and cumulative likes. Links establish only the indicated relationships.",
+  "metadata": {
+    "bvid": "BV19Rn26CEeU",
+    "title": "⚡️AI杀宝贝舞，大肥鱼版⚡️【AI MV大赛】",
+    "owner": {
+      "name": "凡人柳玉",
+      "mid": 3546926083475628
+    },
+    "pubdate": 1792663757,
+    "duration": 81
+  },
+  "descriptionSha256": "0fd279de5f1d89f907a7b665a73a54cc8bd33f6c9f14604c8a9355c8396c823d",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "凡人柳玉",
+      "url": "https://space.bilibili.com/3546926083475628"
+    },
+    {
+      "role": "music-original",
+      "title": "やすなとソーニャ · ふたりのきもちのほんとのひみつ · ポニーキャニオン",
+      "url": "https://www.youtube.com/watch?v=ZCYRmJvEv_U"
+    }
+  ],
+  "sourceChecks": []
+}

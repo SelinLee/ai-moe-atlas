@@ -1,0 +1,114 @@
+{
+  "historical": false,
+  "full_name": "Kai527-1/yangyang-codex-pet",
+  "html_url": "https://github.com/Kai527-1/yangyang-codex-pet",
+  "stargazers_count": 1,
+  "archived": false,
+  "created_at": "2026-07-18T07:57:20Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "2fbd0de9ef2a20d091c9141a2d8232fc46a9f382",
+  "observedAt": "2026-11-28T16:24:36.038Z",
+  "httpStatus": 200,
+  "metadataSha256": "f08663017aaa38cee81787ad32b09e8edc84aacf042b06681c04b596a796c0b9",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/Kai527-1/yangyang-codex-pet/blob/2fbd0de9ef2a20d091c9141a2d8232fc46a9f382/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Kai527-1/yangyang-codex-pet/2fbd0de9ef2a20d091c9141a2d8232fc46a9f382/README.md",
+      "sourceSha256": "ec04aa77e7fb9a76e0f33e1be1879380eceaf16fa8b3a1d3115c6cc3b394f22d",
+      "gitBlobSha": "72124c26624add85484047912588a2811f968b8c",
+      "bytes": 4840,
+      "commit": "2fbd0de9ef2a20d091c9141a2d8232fc46a9f382",
+      "accessedAt": "2026-11-28T16:26:08.398Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/Kai527-1/yangyang-codex-pet/blob/2fbd0de9ef2a20d091c9141a2d8232fc46a9f382/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Kai527-1/yangyang-codex-pet/2fbd0de9ef2a20d091c9141a2d8232fc46a9f382/LICENSE",
+      "sourceSha256": "8c146265a411f4c340a09d64374f04a2923c8b31b07e78ded0caf527c733d057",
+      "gitBlobSha": "4be8edcf96023d58499290b47bd50c13749f4224",
+      "bytes": 1198,
+      "commit": "2fbd0de9ef2a20d091c9141a2d8232fc46a9f382",
+      "accessedAt": "2026-11-28T16:26:08.747Z"
+    },
+    {
+      "path": "ASSET-LICENSE.md",
+      "url": "https://github.com/Kai527-1/yangyang-codex-pet/blob/2fbd0de9ef2a20d091c9141a2d8232fc46a9f382/ASSET-LICENSE.md",
+      "rawUrl": "https://raw.githubusercontent.com/Kai527-1/yangyang-codex-pet/2fbd0de9ef2a20d091c9141a2d8232fc46a9f382/ASSET-LICENSE.md",
+      "sourceSha256": "790ad980f22094b7b2604d03c69588db445d349a58fb1559ff94e61b828c6321",
+      "gitBlobSha": "1b24fb58d472f761382763cc3351ff7709c08f6a",
+      "bytes": 1480,
+      "commit": "2fbd0de9ef2a20d091c9141a2d8232fc46a9f382",
+      "accessedAt": "2026-11-28T16:26:09.102Z"
+    },
+    {
+      "path": "NOTICE.md",
+      "url": "https://github.com/Kai527-1/yangyang-codex-pet/blob/2fbd0de9ef2a20d091c9141a2d8232fc46a9f382/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/Kai527-1/yangyang-codex-pet/2fbd0de9ef2a20d091c9141a2d8232fc46a9f382/NOTICE.md",
+      "sourceSha256": "81d006cf915fcf30a0d1eb66f248800673d89faebfc6dff4adea0556735c82bf",
+      "gitBlobSha": "00315581c4a875f4b3ef62960c3fc8236fb0bb76",
+      "bytes": 872,
+      "commit": "2fbd0de9ef2a20d091c9141a2d8232fc46a9f382",
+      "accessedAt": "2026-11-28T16:26:09.424Z"
+    },
+    {
+      "path": "pet.json",
+      "url": "https://github.com/Kai527-1/yangyang-codex-pet/blob/2fbd0de9ef2a20d091c9141a2d8232fc46a9f382/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/Kai527-1/yangyang-codex-pet/2fbd0de9ef2a20d091c9141a2d8232fc46a9f382/pet.json",
+      "sourceSha256": "70a6104bf407d8788d0c165995416c514da3b51fb925b94a7c7c5dd5fe5e2f3a",
+      "gitBlobSha": "ffbd3c2cfae1077adff6edf3ff5c81924ad0ae3f",
+      "bytes": 167,
+      "commit": "2fbd0de9ef2a20d091c9141a2d8232fc46a9f382",
+      "accessedAt": "2026-11-28T16:26:09.768Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T16:29:31.143Z",
+  "scope": "Pinned repository documentation, declared artwork terms and the transparent atlas were checked. Any publisher terms are specific to the assets and rights they identify.",
+  "atlas": {
+    "repo": "Kai527-1/yangyang-codex-pet",
+    "path": "spritesheet.webp",
+    "url": "https://raw.githubusercontent.com/Kai527-1/yangyang-codex-pet/2fbd0de9ef2a20d091c9141a2d8232fc46a9f382/spritesheet.webp",
+    "commit": "2fbd0de9ef2a20d091c9141a2d8232fc46a9f382",
+    "width": 1536,
+    "height": 1872,
+    "format": "webp",
+    "hasAlpha": true,
+    "version": 1,
+    "sha256": "79bdb7acdfbc3506e39cead6bf31e8009ba0cbe96dcab68954739728abfce50d",
+    "bytes": 1862552,
+    "gitBlobSha": "4c057b3a92465130b3aa2c58a88a4eb38d02f5a9",
+    "observedAt": "2026-11-28T16:29:22.650Z"
+  },
+  "originalCharacter": {
+    "id": "yangyang",
+    "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/162",
+    "title": "Developer's Notes - Resonators of First Encounter -Wuthering Waves Official Website",
+    "httpStatus": 200,
+    "observedAt": "2026-11-28T16:29:31.143Z",
+    "htmlSha256": "63402157dda64d8bce153b05c0e86eb3614e212302b5375d5ea27508fb755eda"
+  },
+  "relations": [
+    {
+      "role": "declared-artwork-scope",
+      "title": "Published license and scope",
+      "url": "https://github.com/Kai527-1/yangyang-codex-pet/blob/2fbd0de9ef2a20d091c9141a2d8232fc46a9f382/ASSET-LICENSE.md"
+    },
+    {
+      "role": "pet-manifest",
+      "title": "Codex pet manifest · v1",
+      "url": "https://github.com/Kai527-1/yangyang-codex-pet/blob/2fbd0de9ef2a20d091c9141a2d8232fc46a9f382/pet.json"
+    },
+    {
+      "role": "asset-provenance",
+      "title": "Creator’s notice and provenance",
+      "url": "https://github.com/Kai527-1/yangyang-codex-pet/blob/2fbd0de9ef2a20d091c9141a2d8232fc46a9f382/NOTICE.md"
+    },
+    {
+      "role": "original-character-publication",
+      "title": "Kuro Games · Yangyang character design",
+      "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/162"
+    }
+  ]
+}

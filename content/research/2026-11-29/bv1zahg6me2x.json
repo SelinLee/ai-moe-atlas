@@ -1,0 +1,37 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ZaHg6mE2x/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZaHg6mE2x",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:25:12.600Z",
+  "scope": "Bilibili view metadata verifies the uploader, publication timestamp and cumulative likes. Links establish only the indicated relationships.",
+  "metadata": {
+    "bvid": "BV1ZaHg6mE2x",
+    "title": "Claude：大肥鱼，你记一下，我作如下部署调整",
+    "owner": {
+      "name": "喏喏不糯糯",
+      "mid": 3546923493493081
+    },
+    "pubdate": 1792901050,
+    "duration": 50
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "喏喏不糯糯",
+      "url": "https://space.bilibili.com/3546923493493081"
+    },
+    {
+      "role": "related-creator-upload",
+      "title": "Claude：你不准伤害大肥鱼！",
+      "url": "https://www.bilibili.com/video/BV1LNnk6aE2Q/"
+    },
+    {
+      "role": "related-creator-upload",
+      "title": "大肥鱼误入Claude和GPT的黑心中转站",
+      "url": "https://www.bilibili.com/video/BV1XXnJ6cEwH/"
+    }
+  ],
+  "sourceChecks": []
+}

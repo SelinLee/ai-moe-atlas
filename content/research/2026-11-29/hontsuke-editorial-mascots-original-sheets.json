@@ -1,0 +1,46 @@
+{
+  "url": "https://note.com/hontsuke_jp/n/n70356fff57bb",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-28T16:24:38.902Z",
+  "publishedAt": "2026-10-07T07:45:11.000+09:00",
+  "title": "このnote、誰が書いてるんだ？",
+  "htmlSha256": "1a91bfd4b30944a021685212dfa980ebe98a6e63076c56145f979de3c4aeda8c",
+  "creator": "https://note.com/hontsuke_jp",
+  "scope": "Creator original publication checked in isolated headless Chrome. Selected original artwork files, captions and SHA-256 values were retained.",
+  "files": [
+    {
+      "index": 2,
+      "url": "https://assets.st-note.com/img/1791322230-zAjaE6eyv3xcS0IJQXOp84KB.png",
+      "sha256": "04e6d74a553395273729faa8af42b1d0b128b40184da5b8da4e753b75f488ec5",
+      "bytes": 731051,
+      "width": 1536,
+      "height": 1024,
+      "format": "png",
+      "accessedAt": "2026-11-28T16:26:08.979Z",
+      "creatorCaption": "なぜかキャラ設定まで作られた「チャッピー」"
+    },
+    {
+      "index": 3,
+      "url": "https://assets.st-note.com/img/1791322258-Sz2atOU9QMZbcCYPw618y7gm.png",
+      "sha256": "cf30cd1cca0c75d613cc2db174c31eb0019a92db3abf663a342d4acb2d96053e",
+      "bytes": 804559,
+      "width": 1734,
+      "height": 907,
+      "format": "png",
+      "accessedAt": "2026-11-28T16:26:09.049Z",
+      "creatorCaption": "こちらもなぜかキャラ設定がある「蔵くん」"
+    }
+  ],
+  "relations": [
+    {
+      "role": "creator-profile",
+      "title": "チャッピー｜いわゆるあのAI",
+      "url": "https://note.com/hontsuke_jp"
+    },
+    {
+      "role": "publisher-project",
+      "title": "本つけ · Publisher site",
+      "url": "https://hontsuke.jp/"
+    }
+  ]
+}

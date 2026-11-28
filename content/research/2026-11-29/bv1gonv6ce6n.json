@@ -1,0 +1,27 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Gonv6CE6n/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Gonv6CE6n",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:25:14.142Z",
+  "scope": "Bilibili view metadata verifies the uploader, publication timestamp and cumulative likes. Links establish only the indicated relationships.",
+  "metadata": {
+    "bvid": "BV1Gonv6CE6n",
+    "title": "大肥鱼和小克欺负没额度的GPT，GPT吃到token了，这下大肥鱼和小克可惨了……",
+    "owner": {
+      "name": "安保不是安宝",
+      "mid": 324021038
+    },
+    "pubdate": 1792548242,
+    "duration": 21
+  },
+  "descriptionSha256": "00fc806c67737c8413789eb2f2eeb1476e9095c196c964155c6fb0cdb447af6b",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "安保不是安宝",
+      "url": "https://space.bilibili.com/324021038"
+    }
+  ],
+  "sourceChecks": []
+}
