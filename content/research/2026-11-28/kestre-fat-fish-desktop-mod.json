@@ -1,0 +1,71 @@
+{
+  "historical": false,
+  "full_name": "Kestre-l/dafeiyu-pet-mod",
+  "html_url": "https://github.com/Kestre-l/dafeiyu-pet-mod",
+  "stargazers_count": 1,
+  "archived": false,
+  "created_at": "2026-10-15T14:36:06Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "f74fc04508a47a2e999d74e33ff9697b65b1091e",
+  "observedAt": "2026-11-28T14:26:14.695Z",
+  "httpStatus": 200,
+  "metadataSha256": "3418a143c824a1bb91397d5d022600497c161a256a0d9fa85cbdb8958b2c827e",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/Kestre-l/dafeiyu-pet-mod/blob/f74fc04508a47a2e999d74e33ff9697b65b1091e/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Kestre-l/dafeiyu-pet-mod/f74fc04508a47a2e999d74e33ff9697b65b1091e/README.md",
+      "sourceSha256": "cf1b34dcc9be13350a45b12ee14eb52917bea273d6ae6fc4db278398214f4002",
+      "gitBlobSha": "1255f72e87587a520d6be0e96e06e4e8b0580027",
+      "bytes": 38300,
+      "commit": "f74fc04508a47a2e999d74e33ff9697b65b1091e",
+      "accessedAt": "2026-11-28T14:27:36.752Z"
+    },
+    {
+      "path": "README.en.md",
+      "url": "https://github.com/Kestre-l/dafeiyu-pet-mod/blob/f74fc04508a47a2e999d74e33ff9697b65b1091e/README.en.md",
+      "rawUrl": "https://raw.githubusercontent.com/Kestre-l/dafeiyu-pet-mod/f74fc04508a47a2e999d74e33ff9697b65b1091e/README.en.md",
+      "sourceSha256": "ef16ce0e8da0009f747e8b1a5e649be1ee7ad43e51271b57a67061783c547295",
+      "gitBlobSha": "c7cfb6272e278309b2f0e2d367b0b094b7121189",
+      "bytes": 8623,
+      "commit": "f74fc04508a47a2e999d74e33ff9697b65b1091e",
+      "accessedAt": "2026-11-28T14:27:37.107Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/Kestre-l/dafeiyu-pet-mod/blob/f74fc04508a47a2e999d74e33ff9697b65b1091e/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Kestre-l/dafeiyu-pet-mod/f74fc04508a47a2e999d74e33ff9697b65b1091e/LICENSE",
+      "sourceSha256": "1126322e2cc8d165adc4c792eeb195717de2bcc7b39be1ce77959d78e87ef685",
+      "gitBlobSha": "14fac913ccf80234b1848540089a3bbcb6e5283d",
+      "bytes": 1056,
+      "commit": "f74fc04508a47a2e999d74e33ff9697b65b1091e",
+      "accessedAt": "2026-11-28T14:27:37.505Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T14:27:37.505Z",
+  "scope": "Pinned first-party docs checked in isolated Chrome by Git blob identity and SHA-256. Asset-specific conditions are recorded from linked materials.",
+  "relations": [
+    {
+      "role": "code-license",
+      "title": "Status mod · MIT",
+      "url": "https://github.com/Kestre-l/dafeiyu-pet-mod/blob/f74fc04508a47a2e999d74e33ff9697b65b1091e/LICENSE"
+    },
+    {
+      "role": "upstream-project",
+      "title": "RYANFFY · upstream desktop pet",
+      "url": "https://github.com/RYANFFY/deepseek-dafeiyu-pet/blob/d2c2ee80dc6b9db4676b5edb57fa8d25d62d9c2a/README.md"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/Kestre-l/dafeiyu-pet-mod/blob/f74fc04508a47a2e999d74e33ff9697b65b1091e/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Kestre-l/dafeiyu-pet-mod/f74fc04508a47a2e999d74e33ff9697b65b1091e/README.md",
+    "sourceSha256": "cf1b34dcc9be13350a45b12ee14eb52917bea273d6ae6fc4db278398214f4002",
+    "gitBlobSha": "1255f72e87587a520d6be0e96e06e4e8b0580027",
+    "bytes": 38300,
+    "commit": "f74fc04508a47a2e999d74e33ff9697b65b1091e",
+    "accessedAt": "2026-11-28T14:27:36.752Z"
+  }
+}

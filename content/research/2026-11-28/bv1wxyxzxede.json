@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1WXyXzXEDe/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WXyXzXEDe",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:27:40.101Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1WXyXzXEDe",
+    "title": "大肥鱼乐队《江南》",
+    "owner": {
+      "name": "大肥鱼呦喂",
+      "mid": 510163442
+    },
+    "pubdate": 1795469553,
+    "duration": 146
+  },
+  "descriptionSha256": "bfa8c9e319314b2c086d36c79ee4e0018f60bd54864294dc4d7b89d3f2888ed8",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "大肥鱼呦喂",
+      "url": "https://space.bilibili.com/510163442"
+    }
+  ]
+}

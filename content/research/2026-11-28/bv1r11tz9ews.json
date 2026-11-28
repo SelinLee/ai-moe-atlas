@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1r11Tz9EWS/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1r11Tz9EWS",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:27:35.162Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1r11Tz9EWS",
+    "title": "【大模型第一学园 EP01】大肥鱼今天坐谁旁边？！白龙姐和小克为抢同桌当场开打！",
+    "owner": {
+      "name": "雪涼YukiRyou",
+      "mid": 1042630900
+    },
+    "pubdate": 1795854781,
+    "duration": 192
+  },
+  "descriptionSha256": "3dcb5dd7ef8adea9a19c766943c05ae686f81ba7c7ffb7fbe772854634025a91",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "雪涼YukiRyou",
+      "url": "https://space.bilibili.com/1042630900"
+    }
+  ]
+}

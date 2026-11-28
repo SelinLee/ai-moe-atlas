@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1C11uzaEwD/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1C11uzaEwD",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:27:35.493Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1C11uzaEwD",
+    "title": "馋奶茶的gemini开启委托，大肥鱼长椅赞美太阳",
+    "owner": {
+      "name": "Mistral法棍猫在运营",
+      "mid": 9126506
+    },
+    "pubdate": 1795868467,
+    "duration": 54
+  },
+  "descriptionSha256": "70d028bcbd23d51205f05240aa35397969285bdd5d956c563692dbf9d60ed80b",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Mistral法棍猫在运营",
+      "url": "https://space.bilibili.com/9126506"
+    }
+  ]
+}

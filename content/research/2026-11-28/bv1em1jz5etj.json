@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Em1jz5EtJ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Em1jz5EtJ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:27:40.100Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1Em1jz5EtJ",
+    "title": "大肥鱼，你怎么穿着Claude的衣服？",
+    "owner": {
+      "name": "現場不監督",
+      "mid": 646341116
+    },
+    "pubdate": 1795699007,
+    "duration": 23
+  },
+  "descriptionSha256": "eb20aa04dbea3959ef8a17b03a87e869edb7fd0fb036643d1d1dfdd5c1a2d4a5",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "現場不監督",
+      "url": "https://space.bilibili.com/646341116"
+    }
+  ]
+}

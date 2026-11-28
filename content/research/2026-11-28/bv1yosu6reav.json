@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1YosU6REAV/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YosU6REAV",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:27:28.673Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1YosU6REAV",
+    "title": "大肥鱼的合租日常 第二季先行PV",
+    "owner": {
+      "name": "呆毛的星野",
+      "mid": 3537113121294356
+    },
+    "pubdate": 1795009563,
+    "duration": 60
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "呆毛的星野",
+      "url": "https://space.bilibili.com/3537113121294356"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "大肥鱼的合租日常，第二季（1），你们可以一起睡啊( •̀ ω •́ )✧",
+      "url": "https://www.bilibili.com/video/BV1tqyWz3EKF/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "大肥鱼的合租日常第二季 1-6合集",
+      "url": "https://www.bilibili.com/video/BV14F1uzPEPH/"
+    }
+  ]
+}

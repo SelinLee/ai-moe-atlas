@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Wj1KzRE81/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Wj1KzRE81",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:27:37.019Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1Wj1KzRE81",
+    "title": "大肥鱼：Claude大小姐，公交坐过站了怎么办！？【AI整活放映厅】",
+    "owner": {
+      "name": "一颗佩佩",
+      "mid": 3546731790731931
+    },
+    "pubdate": 1795853100,
+    "duration": 173
+  },
+  "descriptionSha256": "36e229cf148dabddb7e4e0a7073fe884c7996aa52320281546f4efca4214555a",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "一颗佩佩",
+      "url": "https://space.bilibili.com/3546731790731931"
+    }
+  ]
+}

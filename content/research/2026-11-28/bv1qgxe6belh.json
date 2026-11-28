@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1QgxE6BELH/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QgxE6BELH",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:27:38.559Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1QgxE6BELH",
+    "title": "[原创歌曲] [AI少女乐队]《まだ、しゃべり足りない》（还想再说一点）",
+    "owner": {
+      "name": "-Azazel-",
+      "mid": 421906
+    },
+    "pubdate": 1793325339,
+    "duration": 210
+  },
+  "descriptionSha256": "9c9fe8c914c6851490365ff84b025f4537fce7897ae9ce7289b1f900868ec58c",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "-Azazel-",
+      "url": "https://space.bilibili.com/421906"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "url": "https://www.bilibili.com/video/BV1tiWq62ErA/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tiWq62ErA",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:27:22.477Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1tiWq62ErA",
+    "title": "【Claude小姐的工作日常】第8集：新的领导登场，他是？【AI全民制作人】",
+    "owner": {
+      "name": "Claude小姐的日常",
+      "mid": 3747574548793768
+    },
+    "pubdate": 1794616200,
+    "duration": 97
+  },
+  "descriptionSha256": "fdb802be3c2776a0b2b92336ae08cb09cbb9b0ef23582847be682eeee2657b5d",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude小姐的日常",
+      "url": "https://space.bilibili.com/3747574548793768"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "【Claude小姐的工作日常】第0集：日常的开篇【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV15rxx6hEpS/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "【Claude小姐的工作日常】第7集：令人安心？上司登场【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1SaW26gEwB/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "【Claude小姐的工作日常】第9集：Deepseek的开放日-上【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1tgsQ69EyR/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "【Claude小姐的工作日常】第11集：发怒的达里奥",
+      "url": "https://www.bilibili.com/video/BV17XyyzDE1A/"
+    }
+  ]
+}

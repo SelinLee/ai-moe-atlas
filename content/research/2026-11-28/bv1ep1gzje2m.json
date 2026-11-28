@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1eP1gzJE2M/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1eP1gzJE2M",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:27:33.581Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1eP1gzJE2M",
+    "title": "大肥鱼妈妈和鲸鲸女儿的日常以及大肥鱼假装是gemini",
+    "owner": {
+      "name": "Mistral法棍猫在运营",
+      "mid": 9126506
+    },
+    "pubdate": 1795869596,
+    "duration": 33
+  },
+  "descriptionSha256": "fbf811e77557b0b33be4a7b3d4e8127007905e995126b020f4a04e80d77fbdae",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Mistral法棍猫在运营",
+      "url": "https://space.bilibili.com/9126506"
+    }
+  ]
+}

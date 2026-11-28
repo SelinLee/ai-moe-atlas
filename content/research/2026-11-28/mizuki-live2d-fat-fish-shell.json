@@ -1,0 +1,96 @@
+{
+  "historical": false,
+  "full_name": "mizuki5101/dsh-dafyfish-pet",
+  "html_url": "https://github.com/mizuki5101/dsh-dafyfish-pet",
+  "stargazers_count": 3,
+  "archived": false,
+  "created_at": "2026-10-17T05:04:37Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "c22bf4bd7263ee0d9a08405296bcef3d56c52b99",
+  "observedAt": "2026-11-28T14:26:14.689Z",
+  "httpStatus": 200,
+  "metadataSha256": "1d4bfbc423f90b34b540705112ff6e1d51e7d892ab26d5e03ba728e296e93f78",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/mizuki5101/dsh-dafyfish-pet/blob/c22bf4bd7263ee0d9a08405296bcef3d56c52b99/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/mizuki5101/dsh-dafyfish-pet/c22bf4bd7263ee0d9a08405296bcef3d56c52b99/README.md",
+      "sourceSha256": "3b46a0da12e4badbae2949f755fd833aab816fe4f10aead1dab93808905563f8",
+      "gitBlobSha": "e2ac360177ecfa6eb7d73ec5c25cc1e6b68122d6",
+      "bytes": 16327,
+      "commit": "c22bf4bd7263ee0d9a08405296bcef3d56c52b99",
+      "accessedAt": "2026-11-28T14:27:36.734Z"
+    },
+    {
+      "path": "CREDITS.md",
+      "url": "https://github.com/mizuki5101/dsh-dafyfish-pet/blob/c22bf4bd7263ee0d9a08405296bcef3d56c52b99/CREDITS.md",
+      "rawUrl": "https://raw.githubusercontent.com/mizuki5101/dsh-dafyfish-pet/c22bf4bd7263ee0d9a08405296bcef3d56c52b99/CREDITS.md",
+      "sourceSha256": "f286413b10d4ac9470407110bf5824fc9d38e1812b56b8da0eb7f6f333e6d84e",
+      "gitBlobSha": "66bbffa478155c4d8ad4282cd74e7c37f3c74ec4",
+      "bytes": 2353,
+      "commit": "c22bf4bd7263ee0d9a08405296bcef3d56c52b99",
+      "accessedAt": "2026-11-28T14:27:37.098Z"
+    },
+    {
+      "path": "NOTICE.md",
+      "url": "https://github.com/mizuki5101/dsh-dafyfish-pet/blob/c22bf4bd7263ee0d9a08405296bcef3d56c52b99/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/mizuki5101/dsh-dafyfish-pet/c22bf4bd7263ee0d9a08405296bcef3d56c52b99/NOTICE.md",
+      "sourceSha256": "6074131d7f2f44f4cfd6e271602328206ba9d11c6e72ecaba1b5621e143fe364",
+      "gitBlobSha": "335bae0dd1f3904278e3bbca7bd842c99655f3e7",
+      "bytes": 2249,
+      "commit": "c22bf4bd7263ee0d9a08405296bcef3d56c52b99",
+      "accessedAt": "2026-11-28T14:27:37.505Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/mizuki5101/dsh-dafyfish-pet/blob/c22bf4bd7263ee0d9a08405296bcef3d56c52b99/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/mizuki5101/dsh-dafyfish-pet/c22bf4bd7263ee0d9a08405296bcef3d56c52b99/LICENSE",
+      "sourceSha256": "bc316d2afdbddd9d2ffcb26c42876571c524b483f1a58b2d1fa48509a7d23576",
+      "gitBlobSha": "19c67f988f8553ec9ae87eb6b85bbdd44985b38c",
+      "bytes": 1395,
+      "commit": "c22bf4bd7263ee0d9a08405296bcef3d56c52b99",
+      "accessedAt": "2026-11-28T14:27:37.954Z"
+    },
+    {
+      "path": "pet-plugin/assets/model/README.md",
+      "url": "https://github.com/mizuki5101/dsh-dafyfish-pet/blob/c22bf4bd7263ee0d9a08405296bcef3d56c52b99/pet-plugin/assets/model/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/mizuki5101/dsh-dafyfish-pet/c22bf4bd7263ee0d9a08405296bcef3d56c52b99/pet-plugin/assets/model/README.md",
+      "sourceSha256": "d6cea752b046ae30ca1d5029dc386d92a8e28a3b5ce05cb7991739799a16111f",
+      "gitBlobSha": "c0f25f3d899fff4a153c5713f8f0847848e16068",
+      "bytes": 2592,
+      "commit": "c22bf4bd7263ee0d9a08405296bcef3d56c52b99",
+      "accessedAt": "2026-11-28T14:27:38.314Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T14:27:38.314Z",
+  "scope": "Pinned first-party docs checked in isolated Chrome by Git blob identity and SHA-256. Asset-specific conditions are recorded from linked materials.",
+  "relations": [
+    {
+      "role": "separate-license-terms",
+      "title": "Code, artwork and runtime notice",
+      "url": "https://github.com/mizuki5101/dsh-dafyfish-pet/blob/c22bf4bd7263ee0d9a08405296bcef3d56c52b99/NOTICE.md"
+    },
+    {
+      "role": "asset-specific-terms",
+      "title": "Pinned model documentation",
+      "url": "https://github.com/mizuki5101/dsh-dafyfish-pet/blob/c22bf4bd7263ee0d9a08405296bcef3d56c52b99/pet-plugin/assets/model/README.md"
+    },
+    {
+      "role": "rigger-original-release",
+      "title": "Mao绒绒家园 · original Live2D release",
+      "url": "https://www.bilibili.com/video/BV1yep465EQz/"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/mizuki5101/dsh-dafyfish-pet/blob/c22bf4bd7263ee0d9a08405296bcef3d56c52b99/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/mizuki5101/dsh-dafyfish-pet/c22bf4bd7263ee0d9a08405296bcef3d56c52b99/README.md",
+    "sourceSha256": "3b46a0da12e4badbae2949f755fd833aab816fe4f10aead1dab93808905563f8",
+    "gitBlobSha": "e2ac360177ecfa6eb7d73ec5c25cc1e6b68122d6",
+    "bytes": 16327,
+    "commit": "c22bf4bd7263ee0d9a08405296bcef3d56c52b99",
+    "accessedAt": "2026-11-28T14:27:36.734Z"
+  }
+}

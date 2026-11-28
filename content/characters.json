@@ -7919,5 +7919,117 @@
       "en": "The post did not specify illustration copying, adaptation or redistribution terms.",
       "ja": "記事にはイラストの転載・改変・再配布に関する許諾の記載が見当たらない。"
     }
+  },
+  {
+    "id": "hanamori-chappy-cream-shirt",
+    "entity": "chatgpt",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Chappy · hanamori 的漫画设定",
+      "en": "Chappy · Hanamori’s Comic Design",
+      "ja": "チャッピー · hanamori の漫画設定"
+    },
+    "description": {
+      "zh": "深色短发和浅色衬衫。漫画标作 Chappy，作者说明形象源自 Grok 生成的早期拟人图。",
+      "en": "Dark short hair and a light shirt. The comic labels him Chappy, and the creator traces his appearance to an earlier portrait generated with Grok.",
+      "ja": "暗色の短髪と淡いシャツ。漫画ではチャッピーと呼ばれ、作者は Grok が作った初期擬人化画像を原案と説明。"
+    },
+    "story": {
+      "zh": "深色短发和浅色衬衫。漫画标作 Chappy，作者说明形象源自 Grok 生成的早期拟人图。",
+      "en": "Dark short hair and a light shirt. The comic labels him Chappy, and the creator traces his appearance to an earlier portrait generated with Grok.",
+      "ja": "暗色の短髪と淡いシャツ。漫画ではチャッピーと呼ばれ、作者は Grok が作った初期擬人化画像を原案と説明。"
+    },
+    "features": {
+      "zh": "深色短发和浅色衬衫。漫画标作 Chappy，作者说明形象源自 Grok 生成的早期拟人图。",
+      "en": "Dark short hair and a light shirt. The comic labels him Chappy, and the creator traces his appearance to an earlier portrait generated with Grok.",
+      "ja": "暗色の短髪と淡いシャツ。漫画ではチャッピーと呼ばれ、作者は Grok が作った初期擬人化画像を原案と説明。"
+    },
+    "author": "hanamori",
+    "authorUrl": "https://note.com/nitijo_tubuyaki",
+    "source": "https://note.com/nitijo_tubuyaki/n/n2bb30f283321",
+    "sourceTitle": "【AI擬人化】最近の画像生成、だいたいこれ😂",
+    "originalPublication": "https://note.com/nitijo_tubuyaki/n/n2bb30f283321",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "hanamori",
+        "url": "https://note.com/nitijo_tubuyaki",
+        "role": "original-character",
+        "publication": "https://note.com/nitijo_tubuyaki/n/n2bb30f283321"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/nitijo_tubuyaki/n/n2bb30f283321",
+    "downloadable": false,
+    "bg": "#f1f0f6",
+    "color": "#464662",
+    "verifiedAt": "2026-11-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "公开条目链接作者原帖。图件独立展示、改编和再分发条件待确认。",
+      "en": "The atlas links the creators’ publications. Separate display, adaptation and redistribution terms are unconfirmed.",
+      "ja": "作者の原公開先を案内。画像の個別掲載、改変、再配布の条件は確認待ち。"
+    }
+  },
+  {
+    "id": "hanamori-gemini-colorful-portrait",
+    "entity": "gemini",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Gemini · hanamori 的彩色造型",
+      "en": "Gemini · Hanamori’s Colorful Design",
+      "ja": "Gemini · hanamori のカラフルな造形"
+    },
+    "description": {
+      "zh": "原文合照标为 Gemini。彩色长发与花纹外套相配，手持平板。",
+      "en": "The group portrait labels the character Gemini, with multicolored long hair, a patterned jacket and a tablet.",
+      "ja": "集合絵で Gemini と明記。多色の長髪、柄入りの上着、手にはタブレット。"
+    },
+    "story": {
+      "zh": "原文合照标为 Gemini。彩色长发与花纹外套相配，手持平板。",
+      "en": "The group portrait labels the character Gemini, with multicolored long hair, a patterned jacket and a tablet.",
+      "ja": "集合絵で Gemini と明記。多色の長髪、柄入りの上着、手にはタブレット。"
+    },
+    "features": {
+      "zh": "原文合照标为 Gemini。彩色长发与花纹外套相配，手持平板。",
+      "en": "The group portrait labels the character Gemini, with multicolored long hair, a patterned jacket and a tablet.",
+      "ja": "集合絵で Gemini と明記。多色の長髪、柄入りの上着、手にはタブレット。"
+    },
+    "author": "hanamori",
+    "authorUrl": "https://note.com/nitijo_tubuyaki",
+    "source": "https://note.com/nitijo_tubuyaki/n/n2bb30f283321",
+    "sourceTitle": "【AI擬人化】最近の画像生成、だいたいこれ😂",
+    "originalPublication": "https://note.com/nitijo_tubuyaki/n/n2bb30f283321",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "hanamori",
+        "url": "https://note.com/nitijo_tubuyaki",
+        "role": "original-character",
+        "publication": "https://note.com/nitijo_tubuyaki/n/n2bb30f283321"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/nitijo_tubuyaki/n/n2bb30f283321",
+    "downloadable": false,
+    "bg": "#f1f0f6",
+    "color": "#464662",
+    "verifiedAt": "2026-11-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "公开条目链接作者原帖。图件独立展示、改编和再分发条件待确认。",
+      "en": "The atlas links the creators’ publications. Separate display, adaptation and redistribution terms are unconfirmed.",
+      "ja": "作者の原公開先を案内。画像の個別掲載、改変、再配布の条件は確認待ち。"
+    }
   }
 ]

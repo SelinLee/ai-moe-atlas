@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Ss1Nz8ES3/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ss1Nz8ES3",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:27:37.025Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1Ss1Nz8ES3",
+    "title": "【神圣克劳德MV】我最后说一次大肥鱼，智能要开始加速了（Crucified·时间加速的小曲）",
+    "owner": {
+      "name": "牢蛋和零零鲸的共研社",
+      "mid": 295262755
+    },
+    "pubdate": 1795849694,
+    "duration": 210
+  },
+  "descriptionSha256": "39b1800bb5c28292a59933b7d09be297cc1227f62d7444e4e06ff7afac7144c7",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "牢蛋和零零鲸的共研社",
+      "url": "https://space.bilibili.com/295262755"
+    },
+    {
+      "role": "music-original",
+      "title": "Army of Lovers · Crucified",
+      "url": "https://www.youtube.com/watch?v=ptfZ3IPkAOY"
+    }
+  ]
+}

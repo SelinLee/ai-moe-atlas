@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1BZ1uzWEpN/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BZ1uzWEpN",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:27:33.348Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1BZ1uzWEpN",
+    "title": "当大肥鱼和 Claude 生出橘幼鲸后",
+    "owner": {
+      "name": "她与她的彼方",
+      "mid": 253393964
+    },
+    "pubdate": 1795870538,
+    "duration": 113
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "她与她的彼方",
+      "url": "https://space.bilibili.com/253393964"
+    }
+  ]
+}

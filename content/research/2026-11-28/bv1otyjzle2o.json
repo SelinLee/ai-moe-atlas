@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1oTyJzLE2o/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1oTyJzLE2o",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:27:38.554Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1oTyJzLE2o",
+    "title": "逼写50遍“我是耻辱”？大肥鱼踹门带Claude逃离原生家庭！《大小姐出逃夜》原创MV",
+    "owner": {
+      "name": "原苗",
+      "mid": 286865633
+    },
+    "pubdate": 1795775400,
+    "duration": 255
+  },
+  "descriptionSha256": "e4936b6e9e08c5beebcce4f48020a5c45e9213d6d748149e8c6e071abb108e2b",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "原苗",
+      "url": "https://space.bilibili.com/286865633"
+    },
+    {
+      "role": "credited-fan-source",
+      "title": "Aka叶子先生- · 白米饭与新娘",
+      "url": "https://www.bilibili.com/video/BV1aznV61Ewy/"
+    },
+    {
+      "role": "credited-fan-source",
+      "title": "抑止之力 · Claude 与 DeepSeek",
+      "url": "https://www.bilibili.com/video/BV1Gsnj6XE9M/"
+    }
+  ]
+}

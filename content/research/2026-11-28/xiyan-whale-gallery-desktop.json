@@ -1,0 +1,81 @@
+{
+  "historical": false,
+  "full_name": "xiyan1314/daifeiyu-desktop-pet",
+  "html_url": "https://github.com/xiyan1314/daifeiyu-desktop-pet",
+  "stargazers_count": 2,
+  "archived": false,
+  "created_at": "2026-08-27T02:47:19Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "39de7e54b967d4ed2839afe7b28b112d5f848d09",
+  "observedAt": "2026-11-28T14:26:14.730Z",
+  "httpStatus": 200,
+  "metadataSha256": "fca51a85dae619104dbdc5959c00e4aac1a770c472e8e7a13ad2e173304c65ad",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/xiyan1314/daifeiyu-desktop-pet/blob/39de7e54b967d4ed2839afe7b28b112d5f848d09/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/xiyan1314/daifeiyu-desktop-pet/39de7e54b967d4ed2839afe7b28b112d5f848d09/README.md",
+      "sourceSha256": "0f62f75809e9538023e74b293b7d296ae96e856bac897f2bcb36fb522401373c",
+      "gitBlobSha": "504f28823501f083627a4b3f2678c16188bd7f28",
+      "bytes": 25043,
+      "commit": "39de7e54b967d4ed2839afe7b28b112d5f848d09",
+      "accessedAt": "2026-11-28T14:27:36.778Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/xiyan1314/daifeiyu-desktop-pet/blob/39de7e54b967d4ed2839afe7b28b112d5f848d09/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/xiyan1314/daifeiyu-desktop-pet/39de7e54b967d4ed2839afe7b28b112d5f848d09/LICENSE",
+      "sourceSha256": "e7f63e6c43bf9c9b54a55671e7d1b48e4ec55897c580596e64891b059309b7b0",
+      "gitBlobSha": "d5fc96fac11e1efc4f02cddf69592b725834dd1d",
+      "bytes": 1072,
+      "commit": "39de7e54b967d4ed2839afe7b28b112d5f848d09",
+      "accessedAt": "2026-11-28T14:27:37.140Z"
+    },
+    {
+      "path": "README.en.md",
+      "url": "https://github.com/xiyan1314/daifeiyu-desktop-pet/blob/39de7e54b967d4ed2839afe7b28b112d5f848d09/README.en.md",
+      "rawUrl": "https://raw.githubusercontent.com/xiyan1314/daifeiyu-desktop-pet/39de7e54b967d4ed2839afe7b28b112d5f848d09/README.en.md",
+      "sourceSha256": "df129bd5a3f6e69610bf0b5763ba9a94bb5f41af6a4800ae0151185ed7b1c6e6",
+      "gitBlobSha": "cea482564fdb663b7a8d369352b4c45a4c1674e9",
+      "bytes": 14882,
+      "commit": "39de7e54b967d4ed2839afe7b28b112d5f848d09",
+      "accessedAt": "2026-11-28T14:27:37.559Z"
+    },
+    {
+      "path": "gallery/README.md",
+      "url": "https://github.com/xiyan1314/daifeiyu-desktop-pet/blob/39de7e54b967d4ed2839afe7b28b112d5f848d09/gallery/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/xiyan1314/daifeiyu-desktop-pet/39de7e54b967d4ed2839afe7b28b112d5f848d09/gallery/README.md",
+      "sourceSha256": "acffb5b77aeed1a51960f2dd52a8a68357436b8ac05b6195a8e577b8333fc88f",
+      "gitBlobSha": "721fc4ac762661b5a912f4338d7bcb95aeb9f390",
+      "bytes": 1817,
+      "commit": "39de7e54b967d4ed2839afe7b28b112d5f848d09",
+      "accessedAt": "2026-11-28T14:27:37.976Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T14:27:37.976Z",
+  "scope": "Pinned first-party docs checked in isolated Chrome by Git blob identity and SHA-256. Asset-specific conditions are recorded from linked materials.",
+  "relations": [
+    {
+      "role": "code-license",
+      "title": "Desktop pet code · MIT",
+      "url": "https://github.com/xiyan1314/daifeiyu-desktop-pet/blob/39de7e54b967d4ed2839afe7b28b112d5f848d09/LICENSE"
+    },
+    {
+      "role": "character-pack-spec",
+      "title": "Community character gallery specification",
+      "url": "https://github.com/xiyan1314/daifeiyu-desktop-pet/blob/39de7e54b967d4ed2839afe7b28b112d5f848d09/gallery/README.md"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/xiyan1314/daifeiyu-desktop-pet/blob/39de7e54b967d4ed2839afe7b28b112d5f848d09/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/xiyan1314/daifeiyu-desktop-pet/39de7e54b967d4ed2839afe7b28b112d5f848d09/README.md",
+    "sourceSha256": "0f62f75809e9538023e74b293b7d296ae96e856bac897f2bcb36fb522401373c",
+    "gitBlobSha": "504f28823501f083627a4b3f2678c16188bd7f28",
+    "bytes": 25043,
+    "commit": "39de7e54b967d4ed2839afe7b28b112d5f848d09",
+    "accessedAt": "2026-11-28T14:27:36.778Z"
+  }
+}

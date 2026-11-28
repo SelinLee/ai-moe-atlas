@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV15rxx6hEpS/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15rxx6hEpS",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:27:28.641Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV15rxx6hEpS",
+    "title": "【Claude小姐的工作日常】第0集：日常的开篇【AI全民制作人】",
+    "owner": {
+      "name": "Claude小姐的日常",
+      "mid": 3747574548793768
+    },
+    "pubdate": 1793538697,
+    "duration": 70
+  },
+  "descriptionSha256": "fdb802be3c2776a0b2b92336ae08cb09cbb9b0ef23582847be682eeee2657b5d",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude小姐的日常",
+      "url": "https://space.bilibili.com/3747574548793768"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "【Claude小姐的工作日常】第1集：不管了，你不对劲【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1Eaxx6qE8Z/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "【Claude小姐的工作日常】第11集：发怒的达里奥",
+      "url": "https://www.bilibili.com/video/BV17XyyzDE1A/"
+    }
+  ]
+}

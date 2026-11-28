@@ -1,0 +1,782 @@
+{
+  "historical": false,
+  "full_name": "LUOSHUI319/dafeiyu-pet-android",
+  "html_url": "https://github.com/LUOSHUI319/dafeiyu-pet-android",
+  "stargazers_count": 8,
+  "archived": false,
+  "created_at": "2026-10-17T08:34:28Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "8567b2e59ea8840bc21282d2a9d89ed8e7620fec",
+  "observedAt": "2026-11-28T14:26:14.699Z",
+  "httpStatus": 200,
+  "metadataSha256": "eb084f1498912ed5bbc7e9655ea710c6bd786258f6fab389c47b68f7396f7af8",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/LUOSHUI319/dafeiyu-pet-android/blob/8567b2e59ea8840bc21282d2a9d89ed8e7620fec/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/LUOSHUI319/dafeiyu-pet-android/8567b2e59ea8840bc21282d2a9d89ed8e7620fec/README.md",
+      "sourceSha256": "f9e9caf329a3d2ba79be84030480a33495dc9cf3961c00b6a39682122a9b0773",
+      "gitBlobSha": "1e7defb795179e61f6941c14b28d70a20a5c85e2",
+      "bytes": 5649,
+      "commit": "8567b2e59ea8840bc21282d2a9d89ed8e7620fec",
+      "accessedAt": "2026-11-28T14:27:36.729Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/LUOSHUI319/dafeiyu-pet-android/blob/8567b2e59ea8840bc21282d2a9d89ed8e7620fec/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/LUOSHUI319/dafeiyu-pet-android/8567b2e59ea8840bc21282d2a9d89ed8e7620fec/LICENSE",
+      "sourceSha256": "d9ec656ab73538a89de70841141c7e5108d5213295f0a69da70c7d84f9bdeee0",
+      "gitBlobSha": "afa92f45b48517c5e2c3aa459cba194f84e79685",
+      "bytes": 1815,
+      "commit": "8567b2e59ea8840bc21282d2a9d89ed8e7620fec",
+      "accessedAt": "2026-11-28T14:27:37.110Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T14:27:37.110Z",
+  "scope": "Pinned first-party docs checked in isolated Chrome by Git blob identity and SHA-256. Asset-specific conditions are recorded from linked materials.",
+  "relations": [
+    {
+      "role": "code-license",
+      "title": "Android port code · MIT",
+      "url": "https://github.com/LUOSHUI319/dafeiyu-pet-android/blob/8567b2e59ea8840bc21282d2a9d89ed8e7620fec/LICENSE"
+    },
+    {
+      "role": "verified-desktop-upstream",
+      "title": "luweiyabo · pinned matching desktop version",
+      "url": "https://github.com/luweiyabo/dsh-whale-pet/blob/0bc1bc42a3e89b9bfa157a3f7ef429380ddafcee/README.md"
+    },
+    {
+      "role": "credited-upstream",
+      "title": "vlln · credited Web plug-in",
+      "url": "https://github.com/vlln/whale-girl/blob/9c32d7a39a45148076f8ad2fdaad2dc2420eedb3/README.zh.md"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/LUOSHUI319/dafeiyu-pet-android/blob/8567b2e59ea8840bc21282d2a9d89ed8e7620fec/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/LUOSHUI319/dafeiyu-pet-android/8567b2e59ea8840bc21282d2a9d89ed8e7620fec/README.md",
+    "sourceSha256": "f9e9caf329a3d2ba79be84030480a33495dc9cf3961c00b6a39682122a9b0773",
+    "gitBlobSha": "1e7defb795179e61f6941c14b28d70a20a5c85e2",
+    "bytes": 5649,
+    "commit": "8567b2e59ea8840bc21282d2a9d89ed8e7620fec",
+    "accessedAt": "2026-11-28T14:27:36.729Z"
+  },
+  "desktopCommit": "0bc1bc42a3e89b9bfa157a3f7ef429380ddafcee",
+  "vllnComparisonCommit": "9c32d7a39a45148076f8ad2fdaad2dc2420eedb3",
+  "matchedFiles": [
+    {
+      "path": "app/src/main/assets/www/assets/clicks/arrival_wave.webm",
+      "desktopPath": "assets/thumb/clicks/arrival_wave.webm",
+      "gitBlobSha": "8b4feae23304d88198ce188246279ff0803272d0",
+      "bytes": 978966,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/clicks/cheerful_wave.webm",
+      "desktopPath": "assets/thumb/clicks/cheerful_wave.webm",
+      "gitBlobSha": "f60556f06c386cfb569f76b0cfa2e34e34fdc362",
+      "bytes": 421669,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/clicks/happy_hop.webm",
+      "desktopPath": "assets/thumb/clicks/happy_hop.webm",
+      "gitBlobSha": "fb614abf8d19c650fb5bd4727b2585282733a996",
+      "bytes": 538110,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/clicks/shy_surprise.webm",
+      "desktopPath": "assets/thumb/clicks/shy_surprise.webm",
+      "gitBlobSha": "499b73c42844bd0268bff9044e0523fcae1c1b27",
+      "bytes": 538281,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/clicks/ticklish_giggle.webm",
+      "desktopPath": "assets/thumb/clicks/ticklish_giggle.webm",
+      "gitBlobSha": "d896eb9a91ca8eafa7f0af35a3073dc04a397742",
+      "bytes": 425393,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/clicks/tsundere_pout.webm",
+      "desktopPath": "assets/thumb/clicks/tsundere_pout.webm",
+      "gitBlobSha": "77c6461a1f8ced2dc7272f44192f37dd682becf8",
+      "bytes": 392336,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/daily/attentive_listening.webm",
+      "desktopPath": "assets/thumb/daily/attentive_listening.webm",
+      "gitBlobSha": "faabe7324271b98d1760b6faeaa8289827d32500",
+      "bytes": 854920,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/daily/big_stretch.webm",
+      "desktopPath": "assets/thumb/daily/big_stretch.webm",
+      "gitBlobSha": "689e04f120f9f678a9424dac6cadf4b6a0bd6e6b",
+      "bytes": 396987,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/daily/gentle_spin.webm",
+      "desktopPath": "assets/thumb/daily/gentle_spin.webm",
+      "gitBlobSha": "915feb453f11f0267693109b3e847a850cdb1ec7",
+      "bytes": 585715,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/daily/maid_curtsy.webm",
+      "desktopPath": "assets/thumb/daily/maid_curtsy.webm",
+      "gitBlobSha": "0bcac6ada85e78527fcce020db73bf0b6eff41d3",
+      "bytes": 365712,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/daily/mirror_check.webm",
+      "desktopPath": "assets/thumb/daily/mirror_check.webm",
+      "gitBlobSha": "f9ead4a5e1ab6cb702bd349794264f398f470867",
+      "bytes": 504127,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/daily/morning_brushing.webm",
+      "desktopPath": "assets/thumb/daily/morning_brushing.webm",
+      "gitBlobSha": "66581dbd88c72bcba960d551b9cdcb0239da7d2f",
+      "bytes": 425460,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/daily/outfit_color_try_on.webm",
+      "desktopPath": "assets/thumb/daily/outfit_color_try_on.webm",
+      "gitBlobSha": "abd198a8d1e4e67f09d86e4a5bdc99859e61098e",
+      "bytes": 524724,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/daily/quick_nap.webm",
+      "desktopPath": "assets/thumb/daily/quick_nap.webm",
+      "gitBlobSha": "9b258545a841647a11ffdc5882ad8b2bb808a343",
+      "bytes": 433769,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/daily/sleepy_yawn.webm",
+      "desktopPath": "assets/thumb/daily/sleepy_yawn.webm",
+      "gitBlobSha": "63da356fa373ecf6256bc8f4deb9709577e2f18e",
+      "bytes": 424352,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/daily/startled_awake.webm",
+      "desktopPath": "assets/thumb/daily/startled_awake.webm",
+      "gitBlobSha": "e5c5759895274e1f7c4017dce9c9c51beec44e51",
+      "bytes": 454028,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/drag/dragged_in_midair.webm",
+      "desktopPath": "assets/thumb/drag/dragged_in_midair.webm",
+      "gitBlobSha": "728f04b2997aa9ec4bdb87d1b9b14d7910bc7fd6",
+      "bytes": 464764,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/drag/turn_into_ball.webm",
+      "desktopPath": "assets/thumb/drag/turn_into_ball.webm",
+      "gitBlobSha": "60d2645e41cdb882ba802e8c3e03619ff4566bd1",
+      "bytes": 465933,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/chongyang_chrysanthemums.webm",
+      "desktopPath": "assets/thumb/festivals/chongyang_chrysanthemums.webm",
+      "gitBlobSha": "7e2976e00317dfd681279890ab48f3a68ceb03f9",
+      "bytes": 486358,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/cute_little_ghost.webm",
+      "desktopPath": "assets/thumb/festivals/cute_little_ghost.webm",
+      "gitBlobSha": "cae5ebbca8634591a49daf5f7a4bc56fa369a7bf",
+      "bytes": 421990,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/decorating_a_christmas_tree.webm",
+      "desktopPath": "assets/thumb/festivals/decorating_a_christmas_tree.webm",
+      "gitBlobSha": "1217c9625c3a682732bc4398108ce7c4ae2a07f6",
+      "bytes": 818456,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/eating_chongyang_cake.webm",
+      "desktopPath": "assets/thumb/festivals/eating_chongyang_cake.webm",
+      "gitBlobSha": "cc54c1f82bb5c4b8e366fba6433b6534bedcf4fc",
+      "bytes": 468951,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/eating_dumplings.webm",
+      "desktopPath": "assets/thumb/festivals/eating_dumplings.webm",
+      "gitBlobSha": "2dee24954bae172a20ef1e0d44b34d7105872851",
+      "bytes": 554828,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/eating_laba_congee.webm",
+      "desktopPath": "assets/thumb/festivals/eating_laba_congee.webm",
+      "gitBlobSha": "c20156c0de0863832d7bc10fb65153559de388be",
+      "bytes": 460665,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/eating_qingtuan.webm",
+      "desktopPath": "assets/thumb/festivals/eating_qingtuan.webm",
+      "gitBlobSha": "00031236d476501f71b3f03f978a4b79952e5097",
+      "bytes": 377524,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/eating_rice_cake.webm",
+      "desktopPath": "assets/thumb/festivals/eating_rice_cake.webm",
+      "gitBlobSha": "7b4473435dfa219428f5bb2e1dbf34fe83b59190",
+      "bytes": 451257,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/eating_tangyuan.webm",
+      "desktopPath": "assets/thumb/festivals/eating_tangyuan.webm",
+      "gitBlobSha": "eac65950006cf0814e6e4f1ebe1c73b9e36a8791",
+      "bytes": 437152,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/eating_zongzi.webm",
+      "desktopPath": "assets/thumb/festivals/eating_zongzi.webm",
+      "gitBlobSha": "6ad057c473cbaf209de8d4ec91781d9bc759cda9",
+      "bytes": 446268,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/halloween_trick_or_treat.webm",
+      "desktopPath": "assets/thumb/festivals/halloween_trick_or_treat.webm",
+      "gitBlobSha": "3a17ac14fba449e8d7bb0e0d38085825b068a9e1",
+      "bytes": 483293,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/lion_dance.webm",
+      "desktopPath": "assets/thumb/festivals/lion_dance.webm",
+      "gitBlobSha": "b16d549ec2572f5d693bdc7691e3247544ccb88e",
+      "bytes": 632110,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/moon_festival.webm",
+      "desktopPath": "assets/thumb/festivals/moon_festival.webm",
+      "gitBlobSha": "48beff57ddc5b3c7e1c0387348e33ce8e3a5b819",
+      "bytes": 512341,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/opening_a_gift.webm",
+      "desktopPath": "assets/thumb/festivals/opening_a_gift.webm",
+      "gitBlobSha": "01445f708db3e19b707e6d1609902dd4da9c0ade",
+      "bytes": 517803,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/qixi_needlework.webm",
+      "desktopPath": "assets/thumb/festivals/qixi_needlework.webm",
+      "gitBlobSha": "f78881f4e996d5160ce4910ed06646b5b9d5bd60",
+      "bytes": 480887,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/receiving_a_red_envelope.webm",
+      "desktopPath": "assets/thumb/festivals/receiving_a_red_envelope.webm",
+      "gitBlobSha": "ca07f8792572e3b182b2077b768fbcf9ece4ee91",
+      "bytes": 472277,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/releasing_a_river_lantern.webm",
+      "desktopPath": "assets/thumb/festivals/releasing_a_river_lantern.webm",
+      "gitBlobSha": "2827fd308393a036201bc85dca0a9b2cc9f3ee13",
+      "bytes": 379124,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/releasing_a_sky_lantern.webm",
+      "desktopPath": "assets/thumb/festivals/releasing_a_sky_lantern.webm",
+      "gitBlobSha": "ca554c0df5fb9cd2f35ad9eb54957b9e1dfcd2cf",
+      "bytes": 594144,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/setting_off_fireworks.webm",
+      "desktopPath": "assets/thumb/festivals/setting_off_fireworks.webm",
+      "gitBlobSha": "3a1bcd38b00b170b619e42b76ab8c9ea9225903a",
+      "bytes": 1330462,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/writing_the_fu_character.webm",
+      "desktopPath": "assets/thumb/festivals/writing_the_fu_character.webm",
+      "gitBlobSha": "b7aa9ce458b6e8d1c9513b5e4b059a07ca143f88",
+      "bytes": 500314,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/food/caught_snacking.webm",
+      "desktopPath": "assets/thumb/food/caught_snacking.webm",
+      "gitBlobSha": "9f50ed6c3ba1a3f96b614e34ecaaf067ef6ab9cd",
+      "bytes": 432201,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/food/eating_breakfast.webm",
+      "desktopPath": "assets/thumb/food/eating_breakfast.webm",
+      "gitBlobSha": "6691dc43900e3f906b6576cc6eb7e0f23b0e2702",
+      "bytes": 441484,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/food/eating_candied_haw.webm",
+      "desktopPath": "assets/thumb/food/eating_candied_haw.webm",
+      "gitBlobSha": "def3fa70022f6b728f0d0b3ebbfcff601c406c57",
+      "bytes": 469809,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/food/eating_dinner.webm",
+      "desktopPath": "assets/thumb/food/eating_dinner.webm",
+      "gitBlobSha": "14f9eee2a361a592fd55c95979f5810b7b8dcd03",
+      "bytes": 741965,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/food/eating_hairy_crab.webm",
+      "desktopPath": "assets/thumb/food/eating_hairy_crab.webm",
+      "gitBlobSha": "f8e0774d6b4b38f27adfecdfc591dd40812f5e38",
+      "bytes": 545299,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/food/eating_hotpot.webm",
+      "desktopPath": "assets/thumb/food/eating_hotpot.webm",
+      "gitBlobSha": "d3e99cf6d8694b5e83a3957793f8fc7a0fc2cc2a",
+      "bytes": 466547,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/food/eating_longevity_noodles.webm",
+      "desktopPath": "assets/thumb/food/eating_longevity_noodles.webm",
+      "gitBlobSha": "ac71008a07686f858627e7f7f69e77448941bb97",
+      "bytes": 489038,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/food/eating_lunch.webm",
+      "desktopPath": "assets/thumb/food/eating_lunch.webm",
+      "gitBlobSha": "83618038d3d4fe98b9f42d0fd7ae1b7a24f686b3",
+      "bytes": 495122,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/food/eating_rice.webm",
+      "desktopPath": "assets/thumb/food/eating_rice.webm",
+      "gitBlobSha": "0f400023c2f036e6edc28033083d49f68686d347",
+      "bytes": 459590,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/food/eating_snacks.webm",
+      "desktopPath": "assets/thumb/food/eating_snacks.webm",
+      "gitBlobSha": "ab57e48e28d0e0fb832549e1b546bed28f2eb3df",
+      "bytes": 806998,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/food/eating_watermelon.webm",
+      "desktopPath": "assets/thumb/food/eating_watermelon.webm",
+      "gitBlobSha": "ffa2c36e86e9056a7e965c73364a50c1fd8bb192",
+      "bytes": 482918,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/food/melting_ice_cream.webm",
+      "desktopPath": "assets/thumb/food/melting_ice_cream.webm",
+      "gitBlobSha": "c696cf2f61366cd9ba973aae1526dbf920c3d85d",
+      "bytes": 509816,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/fun/animal_parade.webm",
+      "desktopPath": "assets/thumb/fun/animal_parade.webm",
+      "gitBlobSha": "44722e0afb7ef4c1cd85c5c98eadd9b4ade2fea9",
+      "bytes": 981435,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/fun/butterflies_and_blossoms.webm",
+      "desktopPath": "assets/thumb/fun/butterflies_and_blossoms.webm",
+      "gitBlobSha": "6f39bb90fd8349d5f23d0912a4bc01c2c06470f2",
+      "bytes": 852828,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/fun/desk_tap.webm",
+      "desktopPath": "assets/thumb/fun/desk_tap.webm",
+      "gitBlobSha": "c7e55e6f83c1847a45d81d60c04de2a167680c92",
+      "bytes": 403033,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/fun/gravity_squash.webm",
+      "desktopPath": "assets/thumb/fun/gravity_squash.webm",
+      "gitBlobSha": "67acb52f7e7c49e77b000730b3bff9a65fb21a10",
+      "bytes": 215047,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/fun/inflating_a_balloon.webm",
+      "desktopPath": "assets/thumb/fun/inflating_a_balloon.webm",
+      "gitBlobSha": "3a632cd91c409ed1b889f0313ae1394113c0d7c0",
+      "bytes": 751040,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/fun/jump_and_smash.webm",
+      "desktopPath": "assets/thumb/fun/jump_and_smash.webm",
+      "gitBlobSha": "b45cdcb57340f12fff1b40ea9391bdd1d3c2845a",
+      "bytes": 619282,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/fun/jump_scare.webm",
+      "desktopPath": "assets/thumb/fun/jump_scare.webm",
+      "gitBlobSha": "a7afe71ed72990bbace7026abb1ef69ae7e3706c",
+      "bytes": 282771,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/fun/petting_a_cat.webm",
+      "desktopPath": "assets/thumb/fun/petting_a_cat.webm",
+      "gitBlobSha": "466044675ea20b863db850373aab8a6c2b7c11a8",
+      "bytes": 348432,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/fun/three_ball_juggling.webm",
+      "desktopPath": "assets/thumb/fun/three_ball_juggling.webm",
+      "gitBlobSha": "a76228cb5f42fa159e3ec565b8ef969a7d289dca",
+      "bytes": 549316,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/games/gaming_rage.webm",
+      "desktopPath": "assets/thumb/games/gaming_rage.webm",
+      "gitBlobSha": "a3375c2980634529e84ba2ee61a57776ea8205e9",
+      "bytes": 525022,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/games/kicking_a_shuttlecock.webm",
+      "desktopPath": "assets/thumb/games/kicking_a_shuttlecock.webm",
+      "gitBlobSha": "1a0586564e58e6a60e4f151d2bf161e975673e30",
+      "bytes": 531015,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/games/playground_swing.webm",
+      "desktopPath": "assets/thumb/games/playground_swing.webm",
+      "gitBlobSha": "41c61429405139344b13875135468edb25b6f28e",
+      "bytes": 644126,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/games/playing_gomoku.webm",
+      "desktopPath": "assets/thumb/games/playing_gomoku.webm",
+      "gitBlobSha": "63295b32e6a0522dac3840abb74a5af7b1431a08",
+      "bytes": 514704,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/games/playing_with_a_toy_car.webm",
+      "desktopPath": "assets/thumb/games/playing_with_a_toy_car.webm",
+      "gitBlobSha": "9a4ba01b33e6fba841a99ebf55631433651cdcd3",
+      "bytes": 505114,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/games/rocking_horse.webm",
+      "desktopPath": "assets/thumb/games/rocking_horse.webm",
+      "gitBlobSha": "b578f4c951a11c3fe97bdbd609315d3e72fe6827",
+      "bytes": 697580,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/games/solving_a_rubiks_cube.webm",
+      "desktopPath": "assets/thumb/games/solving_a_rubiks_cube.webm",
+      "gitBlobSha": "d2730f4c17e8ccb793973929c237b4fb32d8e3fc",
+      "bytes": 442948,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/games/spinning_a_top.webm",
+      "desktopPath": "assets/thumb/games/spinning_a_top.webm",
+      "gitBlobSha": "1a0cd6a9447c3a36b068fb9db46fd56447520a73",
+      "bytes": 521068,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/games/water_gun_play.webm",
+      "desktopPath": "assets/thumb/games/water_gun_play.webm",
+      "gitBlobSha": "70cabac39a03ab1738540fdb9a9581ae523de463",
+      "bytes": 523346,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/idle/breathing.webm",
+      "desktopPath": "assets/thumb/idle/breathing.webm",
+      "gitBlobSha": "fd64a428a2be1d3b4ff6cd7f9867dfe978ba0bbb",
+      "bytes": 441437,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/magic/card_magic.webm",
+      "desktopPath": "assets/thumb/magic/card_magic.webm",
+      "gitBlobSha": "2e33efead726dff587fa0ca46adef5ecb5d0b7c9",
+      "bytes": 461997,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/magic/dove_magic.webm",
+      "desktopPath": "assets/thumb/magic/dove_magic.webm",
+      "gitBlobSha": "150abd9011b3c9fec7229fa2b30418958040a7ad",
+      "bytes": 509462,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/magic/flower_conjuring.webm",
+      "desktopPath": "assets/thumb/magic/flower_conjuring.webm",
+      "gitBlobSha": "085fe6d74ddfc268670be32b7c3f78c6806b68f1",
+      "bytes": 620252,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/memes/eating_tokens.webm",
+      "desktopPath": "assets/thumb/memes/eating_tokens.webm",
+      "gitBlobSha": "619722b50ea75fcb3c18b3de5d996ce4e87a7893",
+      "bytes": 574754,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/memes/yeah_what_should_we_eat.webm",
+      "desktopPath": "assets/thumb/memes/yeah_what_should_we_eat.webm",
+      "gitBlobSha": "e347b7574b4dca0d65bdd34bf9af0a176fbb15a1",
+      "bytes": 588163,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/moves/crab_walk.webm",
+      "desktopPath": "assets/thumb/moves/crab_walk.webm",
+      "gitBlobSha": "6ff80136295718a2e866e70d90fa8a0bada333dd",
+      "bytes": 596902,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/moves/floating_steps.webm",
+      "desktopPath": "assets/thumb/moves/floating_steps.webm",
+      "gitBlobSha": "d700e4fdd38e8795b88f6d81418e8fc196fe80ed",
+      "bytes": 591446,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/moves/running_trip.webm",
+      "desktopPath": "assets/thumb/moves/running_trip.webm",
+      "gitBlobSha": "d9b6611b32065a7937878a5467cd84d47a1be543",
+      "bytes": 614526,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/moves/target_point_run.webm",
+      "desktopPath": "assets/thumb/moves/target_point_run.webm",
+      "gitBlobSha": "cb376f7f257d38f00095989ae17246a17da331b2",
+      "bytes": 1240787,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/music/carefree_humming.webm",
+      "desktopPath": "assets/thumb/music/carefree_humming.webm",
+      "gitBlobSha": "01bd5c202583ef634de424904e76f2906f7289d3",
+      "bytes": 584008,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/music/cute_otaku_dance.webm",
+      "desktopPath": "assets/thumb/music/cute_otaku_dance.webm",
+      "gitBlobSha": "0b96ac0de6fa7afe72f256148dd719698769043c",
+      "bytes": 576307,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/music/elegant_maid_dance.webm",
+      "desktopPath": "assets/thumb/music/elegant_maid_dance.webm",
+      "gitBlobSha": "390c504dfb0b56bb647f0253782a91ee705f8933",
+      "bytes": 578915,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/music/light_sway_dance.webm",
+      "desktopPath": "assets/thumb/music/light_sway_dance.webm",
+      "gitBlobSha": "596558b14cacee0d96f5e9d3942fd5731be49718",
+      "bytes": 542928,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/music/playing_the_flute.webm",
+      "desktopPath": "assets/thumb/music/playing_the_flute.webm",
+      "gitBlobSha": "fd57f820116b72c35e7b50ee3cdb5c20e775062b",
+      "bytes": 768350,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/music/playing_the_violin.webm",
+      "desktopPath": "assets/thumb/music/playing_the_violin.webm",
+      "gitBlobSha": "2de1533cd0f2d7a72e0099f9ac6f816353f3912f",
+      "bytes": 605350,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/seasonal/building_a_snowman.webm",
+      "desktopPath": "assets/thumb/seasonal/building_a_snowman.webm",
+      "gitBlobSha": "ce8e8be3b7e5c0dfbdebf15f5a8fd70e2836ee0f",
+      "bytes": 519196,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/seasonal/buried_in_autumn_leaves.webm",
+      "desktopPath": "assets/thumb/seasonal/buried_in_autumn_leaves.webm",
+      "gitBlobSha": "1e35fff171fb8856bd89de91329ef357c7d33e65",
+      "bytes": 766832,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/seasonal/cooling_with_a_hand_fan.webm",
+      "desktopPath": "assets/thumb/seasonal/cooling_with_a_hand_fan.webm",
+      "gitBlobSha": "bbb9b8344e6c30579c967a27831ad85f19db1002",
+      "bytes": 510022,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/seasonal/flying_a_kite.webm",
+      "desktopPath": "assets/thumb/seasonal/flying_a_kite.webm",
+      "gitBlobSha": "000eba2f49a11beb21aa63ddc64c4d1522afa27e",
+      "bytes": 770134,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/special/blue_whale_appears.webm",
+      "desktopPath": "assets/thumb/special/blue_whale_appears.webm",
+      "gitBlobSha": "eb62a155d056d35a16b1d4e961d5ff10c109f684",
+      "bytes": 482896,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/special/whale_bubbles.webm",
+      "desktopPath": "assets/thumb/special/whale_bubbles.webm",
+      "gitBlobSha": "4848e28f2c4fde323025a03a7980b75f1c56f98e",
+      "bytes": 452096,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/special/whale_tail_slap.webm",
+      "desktopPath": "assets/thumb/special/whale_tail_slap.webm",
+      "gitBlobSha": "822a7c41f795906ca46e2f1757c63e6633d39214",
+      "bytes": 352213,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/turn/looking_around.webm",
+      "desktopPath": "assets/thumb/turn/looking_around.webm",
+      "gitBlobSha": "3ba4edb2cc647c51edd41b5a6c71eeee8c418ed0",
+      "bytes": 427005,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/work/coding.webm",
+      "desktopPath": "assets/thumb/work/coding.webm",
+      "gitBlobSha": "47902f235c11fadd22134dd71d2fbcc3a36a13fc",
+      "bytes": 383960,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/work/deep_thought.webm",
+      "desktopPath": "assets/thumb/work/deep_thought.webm",
+      "gitBlobSha": "a4082cf30b60e02b4928c501c5416cbe14519724",
+      "bytes": 458027,
+      "exactBytesAlsoFoundAtVllnPin": false
+    },
+    {
+      "path": "app/src/main/assets/www/assets/work/taking_notes.webm",
+      "desktopPath": "assets/thumb/work/taking_notes.webm",
+      "gitBlobSha": "d0c1bc670b74450e53019b36366edbe54056a363",
+      "bytes": 447726,
+      "exactBytesAlsoFoundAtVllnPin": false
+    }
+  ],
+  "samples": [
+    {
+      "path": "app/src/main/assets/www/assets/clicks/arrival_wave.webm",
+      "copies": [
+        {
+          "url": "https://raw.githubusercontent.com/LUOSHUI319/dafeiyu-pet-android/8567b2e59ea8840bc21282d2a9d89ed8e7620fec/app/src/main/assets/www/assets/clicks/arrival_wave.webm",
+          "sourceSha256": "3dcae02f85d92b8996aa7b235ab19a63e7c2b384bdb3eee3d096e6dbf4884be6",
+          "accessedAt": "2026-11-28T14:30:41.071Z"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/luweiyabo/dsh-whale-pet/0bc1bc42a3e89b9bfa157a3f7ef429380ddafcee/assets/thumb/clicks/arrival_wave.webm",
+          "sourceSha256": "3dcae02f85d92b8996aa7b235ab19a63e7c2b384bdb3eee3d096e6dbf4884be6",
+          "accessedAt": "2026-11-28T14:30:41.679Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/main/assets/www/assets/festivals/opening_a_gift.webm",
+      "copies": [
+        {
+          "url": "https://raw.githubusercontent.com/LUOSHUI319/dafeiyu-pet-android/8567b2e59ea8840bc21282d2a9d89ed8e7620fec/app/src/main/assets/www/assets/festivals/opening_a_gift.webm",
+          "sourceSha256": "6f781e7eac2b295417c80ff9468902280fdcf3ae5921d59977daa8dab537940c",
+          "accessedAt": "2026-11-28T14:30:40.921Z"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/luweiyabo/dsh-whale-pet/0bc1bc42a3e89b9bfa157a3f7ef429380ddafcee/assets/thumb/festivals/opening_a_gift.webm",
+          "sourceSha256": "6f781e7eac2b295417c80ff9468902280fdcf3ae5921d59977daa8dab537940c",
+          "accessedAt": "2026-11-28T14:30:41.474Z"
+        }
+      ]
+    },
+    {
+      "path": "app/src/main/assets/www/assets/work/taking_notes.webm",
+      "copies": [
+        {
+          "url": "https://raw.githubusercontent.com/LUOSHUI319/dafeiyu-pet-android/8567b2e59ea8840bc21282d2a9d89ed8e7620fec/app/src/main/assets/www/assets/work/taking_notes.webm",
+          "sourceSha256": "1da04162fed5cd52bd4a6a6027a6902f50bda0969d34465bc2d332cf3679bbd5",
+          "accessedAt": "2026-11-28T14:30:40.922Z"
+        },
+        {
+          "url": "https://raw.githubusercontent.com/luweiyabo/dsh-whale-pet/0bc1bc42a3e89b9bfa157a3f7ef429380ddafcee/assets/thumb/work/taking_notes.webm",
+          "sourceSha256": "1da04162fed5cd52bd4a6a6027a6902f50bda0969d34465bc2d332cf3679bbd5",
+          "accessedAt": "2026-11-28T14:30:41.469Z"
+        }
+      ]
+    }
+  ]
+}

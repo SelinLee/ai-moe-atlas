@@ -1,0 +1,46 @@
+{
+  "url": "https://www.bilibili.com/video/BV1psyezFEaQ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1psyezFEaQ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:27:30.221Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1psyezFEaQ",
+    "title": "大肥鱼的合租日常，第二季（2）开心去商场啦ヾ(≧▽≦*)o“你们都喜欢看我穿什么类型的呀！”",
+    "owner": {
+      "name": "呆毛的星野",
+      "mid": 3537113121294356
+    },
+    "pubdate": 1795262471,
+    "duration": 156
+  },
+  "descriptionSha256": "571c6cfec1ce59373199fbea5d2b722babe89101c87f6766860afac7e123a9e4",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "呆毛的星野",
+      "url": "https://space.bilibili.com/3537113121294356"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "大肥鱼的合租日常 第二季先行PV",
+      "url": "https://www.bilibili.com/video/BV1YosU6REAV/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "大肥鱼的合租日常，第二季（1），你们可以一起睡啊( •̀ ω •́ )✧",
+      "url": "https://www.bilibili.com/video/BV1tqyWz3EKF/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "大肥鱼的合租日常第二季（3），”出发！大白饭学院ヾ(≧▽≦*)o“",
+      "url": "https://www.bilibili.com/video/BV1QZyQz8EdY/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "大肥鱼的合租日常第二季 1-6合集",
+      "url": "https://www.bilibili.com/video/BV14F1uzPEPH/"
+    }
+  ]
+}
