@@ -1,0 +1,61 @@
+{
+  "url": "https://www.bilibili.com/video/BV15bytzAEPg/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV15bytzAEPg",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:05:18.318Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV15bytzAEPg",
+    "title": "小不点大肥鱼",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1795227435,
+    "duration": 64
+  },
+  "descriptionSha256": "012fb3a879a90cc6aaf6ea583d12429e3a59b5d8fbd1f9982fc2aedb661683fc",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "蓝神话：肥鱼之大战哈基米",
+      "url": "https://www.bilibili.com/video/BV1Mpsq6JEw8/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "罪恶滔天大肥鱼",
+      "url": "https://www.bilibili.com/video/BV1S2y3z1E1r/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥",
+      "url": "https://www.bilibili.com/video/BV1RcyfzQEcH/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "大肥鱼可爱捏",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

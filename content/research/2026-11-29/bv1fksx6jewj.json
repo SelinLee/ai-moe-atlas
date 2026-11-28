@@ -1,0 +1,56 @@
+{
+  "url": "https://www.bilibili.com/video/BV1FKsX6jEWj/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1FKsX6jEWj",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:04:53.213Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1FKsX6jEWj",
+    "title": "它一直以为，她是猎物…被猎的，是它❗️",
+    "owner": {
+      "name": "彼岸花Channel",
+      "mid": 13787349
+    },
+    "pubdate": 1793244000,
+    "duration": 132
+  },
+  "descriptionSha256": "d0c99ddd30ffa47aa6eb75030f7dddc133ded27aa1ba238fc72d5c538731aaf5",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "彼岸花Channel",
+      "url": "https://space.bilibili.com/13787349"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你好, I'm DS.我喜欢你.【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV15iby6tEQx/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DS，我们……会做梦吗？",
+      "url": "https://www.bilibili.com/video/BV1DNnS6yECD/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "《大模型复读班》第四集：家长会！",
+      "url": "https://www.bilibili.com/video/BV1wExc6gEEn/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Kimi——快帮帮我❗️凌晨3点 ，舞台为你亮起❗️",
+      "url": "https://www.bilibili.com/video/BV1pZ14z7ECE/"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "DS娘长视频故事合集",
+    "titleInPlaylist": "它一直以为，她是猎物…被猎的，是它❗️",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

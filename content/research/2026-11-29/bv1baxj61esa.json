@@ -1,0 +1,52 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Baxj61ESa/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Baxj61ESa",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:06:14.606Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1Baxj61ESa",
+    "title": "【AI翻唱】雨爱（司凤版）· 大鲸鱼版",
+    "owner": {
+      "name": "美味的肥鱼饭团",
+      "mid": 3747575681256315
+    },
+    "pubdate": 1793170500,
+    "duration": 141
+  },
+  "descriptionSha256": "353254a5f11ffd0640377bd286a590d838eec5101c9591912ad207d6da83e5f5",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "美味的肥鱼饭团",
+      "url": "https://space.bilibili.com/3747575681256315"
+    },
+    {
+      "role": "music-credited-version",
+      "title": "随安SuiAan · 「雨爱 (司凤版)」|“邦吧邦吧邦吧”|  \"听完感觉老通透了\"",
+      "url": "https://www.bilibili.com/video/BV1faak6AEzm/"
+    },
+    {
+      "role": "music-original",
+      "title": "楊丞琳 · Rainie Love",
+      "url": "https://www.youtube.com/watch?v=oec9R5ypf-o"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "bvid": "BV1faak6AEzm",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1faak6AEzm",
+      "observedAt": "2026-11-28T16:08:05.171Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "「雨爱 (司凤版)」|“邦吧邦吧邦吧”|  \"听完感觉老通透了\"",
+      "publisher": "随安SuiAan",
+      "publisherId": 3546966858401857,
+      "publicationDate": "2026-10-02",
+      "pubdate": 1790906400,
+      "likes": 356644,
+      "descriptionSha256": "b5815f104c5c7f132e5d0be0a82229d71195d623a51a66b697ddca84d0a0a364"
+    }
+  ]
+}

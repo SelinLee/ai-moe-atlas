@@ -1,0 +1,78 @@
+{
+  "url": "https://www.bilibili.com/video/BV1SqaP6LEYo/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SqaP6LEYo",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:04:48.589Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1SqaP6LEYo",
+    "title": "但愿梦长久||今年我们一起过，好不好【AI全民制作人】",
+    "owner": {
+      "name": "彼岸花Channel",
+      "mid": 13787349
+    },
+    "pubdate": 1790388600,
+    "duration": 246
+  },
+  "descriptionSha256": "aafbba0d13d140f86b7f4d3e24ddb498f57b9715d7c93e3d39b9e89112c32ea6",
+  "detailProof": {
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1SqaP6LEYo",
+    "observedAt": "2026-11-28T16:06:15.253Z",
+    "tags": [
+      "AI夏日小剧场",
+      "月饼",
+      "中秋节",
+      "DS娘",
+      "豆包娘",
+      "claude娘",
+      "智谱娘",
+      "Grok娘",
+      "大肥鱼"
+    ],
+    "pages": [
+      {
+        "title": "但愿梦长久||今年我们一起过，好不好【AI全民制作人】",
+        "cid": 42169666341,
+        "duration": 246
+      }
+    ]
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "彼岸花Channel",
+      "url": "https://space.bilibili.com/13787349"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你好, I'm DS.我喜欢你.【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV15iby6tEQx/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "《人民的民亿》我总不至于连这点TOKEN都没有吧❗️",
+      "url": "https://www.bilibili.com/video/BV17zp36REfX/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "白饭与星屑 || 今天也要好好吃饭呀~【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV1F1Yf6pEUH/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Kimi——快帮帮我❗️凌晨3点 ，舞台为你亮起❗️",
+      "url": "https://www.bilibili.com/video/BV1pZ14z7ECE/"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "DS娘长视频故事合集",
+    "titleInPlaylist": "但愿梦长久||今年我们一起过，好不好【AI全民制作人】",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

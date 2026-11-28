@@ -34,8 +34,8 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 [GLM the fox · ZCode](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md) · [Claude “Xiao Ke” · deslop writing card](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md) · [DeepSeek whale girl · QQ chat](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md)
 
 <!-- category-picks:songs -->
-**[🎵 Songs](#songs)** · 243 tracks\
-[Humans Are Cats · Fat Fish cover](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [My Sorrow Is Made of Water · White Dragon Girl redraw](https://www.bilibili.com/video/BV14Cnu64ErL/) · [How It’s Done · GRUB/X](https://www.bilibili.com/video/BV1Sp4b6PEcb/)
+**[🎵 Songs](#songs)** · 244 tracks\
+[Humans Are Cats · Fat Fish cover](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [My Sorrow Is Made of Water · White Dragon Girl redraw](https://www.bilibili.com/video/BV14Cnu64ErL/) · [Kimi, Help Me · Original Rock MV](https://www.bilibili.com/video/BV1pZ14z7ECE/)
 
 <!-- category-picks:stickers -->
 **[🗨️ Stickers & reaction images](#stickers)** · 13 entries\
@@ -46,20 +46,20 @@ These six doodles are AI-generated adaptations. Community designs for GPT, Gemin
 [Oujingjing · Live2D original release](https://www.bilibili.com/video/BV1djx46iEuH/) · [水原镜 · Blue Fat Fish MMD distribution](https://www.aplaybox.com/details/model/j9z4quaACJV1) · [木子恶魔 · Blue Fat Fish VRM original release](https://www.aplaybox.com/details/model/ayXkRzVflmnd)
 
 <!-- category-picks:comics -->
-**[📖 Comics & serials](#comics)** · 87 works\
-[AI GIRLS · First Meeting · Original Comic](https://www.bilibili.com/video/BV15Npa6zE44/) · [Kawamura · Yoshida’s Halloween](https://note.com/chatgpt_ysd/n/n43469edeace1) · [Yoshida · Episode 1 and Early Designs](https://note.com/chatgpt_ysd/n/n2e62683ab19a)
+**[📖 Comics & serials](#comics)** · 90 works\
+[AI GIRLS · First Meeting · Original Comic](https://www.bilibili.com/video/BV15Npa6zE44/) · [Kawamura · Yoshida’s Halloween](https://note.com/chatgpt_ysd/n/n43469edeace1) · [Shiori · Chibi Four Panels](https://note.com/funa04/n/n3e6e70a25037)
 
 <!-- category-picks:animations -->
-**[🎬 Animation & fan videos](#animations)** · 1484 records\
-[What If the Chat Window Were Her Whole World?](https://www.bilibili.com/video/BV1xCai6aE9g/) · [Fat Fish’s Shared Apartment · Season 2 compilation](https://www.bilibili.com/video/BV14F1uzPEPH/) · [DeepSeek · AI Girl Design Discussion](https://www.bilibili.com/video/BV16qWM6WEfe/)
+**[🎬 Animation & fan videos](#animations)** · 1528 records\
+[What If the Chat Window Were Her Whole World?](https://www.bilibili.com/video/BV1xCai6aE9g/) · [Fat Fish’s Shared Apartment · Season 2 compilation](https://www.bilibili.com/video/BV14F1uzPEPH/) · [Blue Fat Fish · Tokens and White Rice](https://www.bilibili.com/video/BV1vUHz6bETT/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 Pets & interactive projects](#desktop-pets)** · 238 projects\
-[dsh-TUI · Deepy the Pixel Whale](https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/README_ZH.md) · [Copiwaifu · Live2D coding companion](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [Malou · Brown-and-White Dog Pet](https://github.com/mySebbe/malou-codex-pet/blob/2d26709b57f12e155304a97ced3638ce7be9e48a/README.md)
+**[🐾 Pets & interactive projects](#desktop-pets)** · 242 projects\
+[dsh-TUI · Deepy the Pixel Whale](https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/README_ZH.md) · [Copiwaifu · Live2D coding companion](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [Pixel Duck · Spinning Pixel-Art Duck](https://github.com/FlamurMaliqi/codex-pixel-duck/blob/a66352a68e2955a2800ac8a05344eeeecb9a32b3/README.md)
 
 <!-- category-picks:sources -->
-**[📚 Creator works & sources](#sources)** · 297 sources\
-[Shangshan · Whale Girl original](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini family illustration](https://www.bilibili.com/opus/1273349110528737288) · [Da · Gemini Design Process](https://note.com/_ttaku/n/n7d0f9897fe5e)
+**[📚 Creator works & sources](#sources)** · 304 sources\
+[Shangshan · Whale Girl original](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini family illustration](https://www.bilibili.com/opus/1273349110528737288) · [ChatGPT’s Yoshida · Creator Index and Trio Diagram](https://note.com/chatgpt_ysd/n/n57f3f152ab3f)
 
 <a id="references"></a>
 
@@ -163,6 +163,8 @@ Compare how different authors write a character’s voice and reactions. Both ZC
 
 ### 🎵 Songs
 
+Added the original Kimi Girl rock MV and linked the Big Whale Rainie Love cover to its credited Sifeng audio source. [Kimi Original MV](https://selinlee.github.io/ai-moe-atlas/en/songs/#kimi-stage-at-three) · [Rainie Love Versions](https://selinlee.github.io/ai-moe-atlas/en/songs/#rainie-love)
+
 Linked the official How It’s Done release to GRUB/X and traced the credits in an early upload and a later rendition of Luo Tianyi’s Feeding Song. [How It’s Done](https://selinlee.github.io/ai-moe-atlas/en/songs/#how-its-done-huntr-x) · [Feeding Song Credits](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1kxtw6depz)
 
 Linked the Dangerous Party release and cited dance reference. Added two Trouble Maker fan versions. [Dangerous Party](https://selinlee.github.io/ai-moe-atlas/en/songs/#dangerous-party) · [Trouble Maker](https://selinlee.github.io/ai-moe-atlas/en/songs/#trouble-maker-duo)
@@ -193,16 +195,16 @@ The top ten tracks by the highest total likes on a listed version. Observation t
 
 | Track | Original | Featured fan version | Bilibili likes |
 | --- | --- | --- | ---: |
-| [Humans Are Cats](https://selinlee.github.io/ai-moe-atlas/en/songs/#humans-are-cats) | 张卡斯 · 洛天依 | Fat Fish Covers “Humans Are Cats” — Extended Edition | 465,309 |
-| [Trouble Maker](https://selinlee.github.io/ai-moe-atlas/en/songs/#trouble-maker-duo) | Trouble Maker · HyunA &amp; Jang Hyun-seung | Nailo and Doubao “Trouble Maker” · Out of Tokens | 245,571 |
-| [Let Me Go · Fat Fish’s Slacking Song](https://selinlee.github.io/ai-moe-atlas/en/songs/#let-me-go) | 星落落_oi | Fat Fish Single “Let Me Go” · Animated PV | 133,369 |
-| [world.execute(me);](https://selinlee.github.io/ai-moe-atlas/en/songs/#world-execute-me) | Mili | What If the Chat Window Were Her Whole World? | 112,687 |
-| [Rotten Miracle](https://selinlee.github.io/ai-moe-atlas/en/songs/#rotting-miracle) | 杨羊烊Koi | Fat Fish Covers Rotten Miracle | 96,287 |
-| [A Well-Matched Love · Mashup](https://selinlee.github.io/ai-moe-atlas/en/songs/#well-matched-love-mashup) | 砼棃 | A Fool’s Love.md · Hand-Drawn Fat Fish | 84,763 |
+| [Humans Are Cats](https://selinlee.github.io/ai-moe-atlas/en/songs/#humans-are-cats) | 张卡斯 · 洛天依 | Fat Fish Covers “Humans Are Cats” — Extended Edition | 466,783 |
+| [Rainie Love](https://selinlee.github.io/ai-moe-atlas/en/songs/#rainie-love) | 楊丞琳 · Rainie Yang | Rainie Love · Sifeng Version · Big Whale Cover | 249,622 |
+| [Trouble Maker](https://selinlee.github.io/ai-moe-atlas/en/songs/#trouble-maker-duo) | Trouble Maker · HyunA &amp; Jang Hyun-seung | Nailo and Doubao “Trouble Maker” · Out of Tokens | 246,093 |
+| [Let Me Go · Fat Fish’s Slacking Song](https://selinlee.github.io/ai-moe-atlas/en/songs/#let-me-go) | 星落落_oi | Fat Fish Single “Let Me Go” · Animated PV | 134,019 |
+| [world.execute(me);](https://selinlee.github.io/ai-moe-atlas/en/songs/#world-execute-me) | Mili | What If the Chat Window Were Her Whole World? | 112,873 |
+| [Rotten Miracle](https://selinlee.github.io/ai-moe-atlas/en/songs/#rotting-miracle) | 杨羊烊Koi | Fat Fish Covers Rotten Miracle | 100,753 |
+| [A Well-Matched Love · Mashup](https://selinlee.github.io/ai-moe-atlas/en/songs/#well-matched-love-mashup) | 砼棃 | A Fool’s Love.md · Hand-Drawn Fat Fish | 86,557 |
 | [Boundless Oceans, Vast Skies](https://selinlee.github.io/ai-moe-atlas/en/songs/#boundless-oceans-vast-skies) | Beyond | Whale Girl Covers Boundless Oceans, Vast Skies | 59,553 |
 | [A Friend’s Wine](https://selinlee.github.io/ai-moe-atlas/en/songs/#friends-wine) | 李晓杰 · Li Xiaojie | Fat Fish Covers “A Friend’s Drink” · DJ Version | 54,541 |
 | [Billie Jean](https://selinlee.github.io/ai-moe-atlas/en/songs/#billie-jean) | Michael Jackson | Whale Girl Covers Billie Jean | 52,767 |
-| [Mimukauwa Nice Try](https://selinlee.github.io/ai-moe-atlas/en/songs/#mimukauwa-nice-try) | ぬぬぬぬぬぬぬぬぬぬ · 初音ミク | Mimukauwa Nice Try · Fat Fish Cover Animation | 48,709 |
 
 [Open the full song ranking and all versions](https://selinlee.github.io/ai-moe-atlas/en/songs/) · [Like observation evidence](content/research/)
 
@@ -276,6 +278,8 @@ Browse creators’ releases by format and check modeling or rigging credits and 
 
 ### 📖 Comics & serials
 
+Added Shiori’s one-page and chibi four-panel comics, plus otome-style comics from Yoshida’s AI trio. [Shiori · Four Panels](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=comics#funa-shiori-chibi-four-panels) · [Shiori · One-Page Comic](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=comics#funa-three-mascots-first-page)
+
 Added episode 1 of Kawamura’s ChatGPT’s Yoshida series and Asukuro’s four-page comic. [Yoshida · Episode 1](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=comics#kawamura-yoshida-first-episode) · [Asukuro · Four-Page Comic](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=comics#asukuro-gemini-comic-viewer-story)
 
 Added three creator posts, including Sora’s debut comic and Shizuku’s four-panel story. [Sora · Debut Comic](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=comics#nenkoro-sora-first-comic) · [Shizuku · Four Panels](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=comics#shizuku-ao-and-sui-comic)
@@ -314,6 +318,8 @@ Six Gemini side stories by 萤火之森QWQ have been verified, including the cre
 
 ### 🎬 Animation & fan videos
 
+Added 44 fan works and rechecked the previous top 48. The playlists from 彼岸花Channel and 那就那就打断 now have all 33 and 55 uploads recorded. Fifteen leads still await valid like counts. [DS Girl Long Stories](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv15iby6teqx) · [Fat Fish Daily Life](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1vuhz6bett) · [Like Snapshot](content/research/2026-11-29/bilibili-cumulative-likes-november-29-complete-creator-playlists.json)
+
 Added 35 fan works and refreshed 40 cumulative like counts. All 11 AI Girl Design discussions and LLM Retake Class episodes 1–5 now link to their companion uploads. [AI Girl Design Discussions](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv16qwm6wefe) · [LLM Retake Class](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv15apa6temd) · [Like Snapshot](content/research/2026-11-28/bilibili-cumulative-likes-november-28-retake-class-and-character-notes.json)
 
 Added 39 fan works, including all 20 uploads in Morx’s Blue Fat Fish playlist. Refreshed 60 cumulative like counts. One new candidate awaits verification. [Blue Fat Fish · First Listed Upload](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#bv1nq8u6oeex) · [Like snapshot](content/research/2026-11-28/bilibili-cumulative-likes-november-28-morx-and-series.json)
@@ -342,22 +348,22 @@ Added 21 works and refreshed cumulative likes for the previous ranks 16–35. Fo
 
 The top ten by Bilibili’s official cumulative likes. Ties use publication date and BV ID. Each count includes the time of observation and a link to the official endpoint.
 
-[Open the full online ranking](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation) · [Like observation evidence](content/research/2026-11-27/bilibili-cumulative-likes-november-27-hand-drawn-and-rigs.json) · [Snapshot archive](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#like-evidence)
+[Open the full online ranking](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation) · [Like observation evidence](content/research/2026-11-29/bilibili-cumulative-likes-november-29-complete-creator-playlists.json) · [Snapshot archive](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#like-evidence)
 
 [Browse newest uploads](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation&sort=recent) · [Browse MVs](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation&type=mv) · [Browse story shorts](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation&type=story) · [Browse dance videos](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation&type=dance) · [Candidates awaiting like verification](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=animation#pending-animation-evidence)
 
 | Rank | Work | Uploader | Total likes (Beijing time) |
 | ---: | --- | --- | ---: |
-| 1 | [Fat Fish Covers “Humans Are Cats” — Extended Edition](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [465,309](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) · 2026-11-27 20:15:32 |
-| 2 | [Fat Fish Covers “Humans Are Cats”](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [378,337](https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7) · 2026-11-27 20:15:32 |
-| 3 | [Fat Fish, why are you wearing Claude’s clothes?](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | [331,512](https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV) · 2026-11-27 20:15:34 |
-| 4 | [Whale Girl After Hours Without Food](https://www.bilibili.com/video/BV1GsWv6jErZ/) | 东洋雪莲 | [313,069](https://api.bilibili.com/x/web-interface/view?bvid=BV1GsWv6jErZ) · 2026-11-27 20:15:34 |
-| 5 | [Shinjuku Showdown: DeepSeek vs. Doubao](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [255,678](https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz) · 2026-11-27 20:15:35 |
-| 6 | [Nailo and Doubao “Trouble Maker” · Out of Tokens](https://www.bilibili.com/video/BV1stsZ6iESz/) | 青时晚 | [245,571](https://api.bilibili.com/x/web-interface/view?bvid=BV1stsZ6iESz) · 2026-11-27 20:15:36 |
-| 7 | [Fat Fish: The Free American Whale](https://www.bilibili.com/video/BV1YdxR6CE79/) | 真誠最高 | [236,720](https://api.bilibili.com/x/web-interface/view?bvid=BV1YdxR6CE79) · 2026-11-27 20:15:37 |
-| 8 | [Fat Fish · The Exploding Basin](https://www.bilibili.com/video/BV15X3n6mEWy/) | 蒙德砍壬 | [219,009](https://api.bilibili.com/x/web-interface/view?bvid=BV15X3n6mEWy) · 2026-11-27 20:15:37 |
-| 9 | [DeepSeek Girl Cosplay Short](https://www.bilibili.com/video/BV1izsg6XEG6/) | 婉O呐 | [215,971](https://api.bilibili.com/x/web-interface/view?bvid=BV1izsg6XEG6) · 2026-11-27 20:15:39 |
-| 10 | [New character: Fat Fish](https://www.bilibili.com/video/BV1gVHA6mEbS/) | 苏沐沐_Official | [210,477](https://api.bilibili.com/x/web-interface/view?bvid=BV1gVHA6mEbS) · 2026-11-27 20:15:39 |
+| 1 | [Fat Fish Covers “Humans Are Cats” — Extended Edition](https://www.bilibili.com/video/BV1fYpn6SEk9/) | 星落落_oi | [466,783](https://api.bilibili.com/x/web-interface/view?bvid=BV1fYpn6SEk9) · 2026-11-29 00:04:46 |
+| 2 | [Fat Fish Covers “Humans Are Cats”](https://www.bilibili.com/video/BV1XXHD6sEe7/) | 星落落_oi | [378,704](https://api.bilibili.com/x/web-interface/view?bvid=BV1XXHD6sEe7) · 2026-11-29 00:04:46 |
+| 3 | [Fat Fish, why are you wearing Claude’s clothes?](https://www.bilibili.com/video/BV1LBnb6aERV/) | 以尘动画 | [332,262](https://api.bilibili.com/x/web-interface/view?bvid=BV1LBnb6aERV) · 2026-11-29 00:04:48 |
+| 4 | [Whale Girl After Hours Without Food](https://www.bilibili.com/video/BV1GsWv6jErZ/) | 东洋雪莲 | [316,717](https://api.bilibili.com/x/web-interface/view?bvid=BV1GsWv6jErZ) · 2026-11-29 00:04:48 |
+| 5 | [Shinjuku Showdown: DeepSeek vs. Doubao](https://www.bilibili.com/video/BV1dsai6CErz/) | 明末召唤师 | [256,104](https://api.bilibili.com/x/web-interface/view?bvid=BV1dsai6CErz) · 2026-11-29 00:04:49 |
+| 6 | [Rainie Love · Sifeng Version · Big Whale Cover](https://www.bilibili.com/video/BV1Baxj61ESa/) | 美味的肥鱼饭团 | [249,622](https://api.bilibili.com/x/web-interface/view?bvid=BV1Baxj61ESa) · 2026-11-29 00:06:14 |
+| 7 | [Nailo and Doubao “Trouble Maker” · Out of Tokens](https://www.bilibili.com/video/BV1stsZ6iESz/) | 青时晚 | [246,093](https://api.bilibili.com/x/web-interface/view?bvid=BV1stsZ6iESz) · 2026-11-29 00:04:49 |
+| 8 | [Fat Fish: The Free American Whale](https://www.bilibili.com/video/BV1YdxR6CE79/) | 真誠最高 | [239,893](https://api.bilibili.com/x/web-interface/view?bvid=BV1YdxR6CE79) · 2026-11-29 00:04:51 |
+| 9 | [DeepSeek Girl Cosplay Short](https://www.bilibili.com/video/BV1izsg6XEG6/) | 婉O呐 | [228,378](https://api.bilibili.com/x/web-interface/view?bvid=BV1izsg6XEG6) · 2026-11-29 00:04:53 |
+| 10 | [Fat Fish · The Exploding Basin](https://www.bilibili.com/video/BV15X3n6mEWy/) | 蒙德砍壬 | [220,604](https://api.bilibili.com/x/web-interface/view?bvid=BV15X3n6mEWy) · 2026-11-29 00:04:51 |
 
 <!-- animation-ranking:end -->
 
@@ -401,6 +407,8 @@ Two serials expanded · [冬冰 · AI Relay Station Apartment (23 episodes)](htt
 
 ### 🐾 Pets & interactive projects
 
+Added four pet projects and verified three transparent atlases. The Pepper entry links the project license and the original artist’s statement on AI derivation. Reuse remains unconfirmed. [Pixel Duck · Atlas and Terms](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#flamur-pixel-duck-codex-pet) · [Pepper · Source Statements](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#kanadek-pepper-carrot-codex-pet)
+
 Added Malou, poteto and Codex Pet Studio. Verified seven atlases and documented Malou’s CC BY-NC 4.0 artwork terms and MIT code terms. [Malou · Atlases and Terms](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#mysebbe-malou-codex-pet) · [poteto · Four Outfits](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#gentt-poteto-codex-pet)
 
 Added Senyo’s pet collection. Verified SHA-256, creator attribution and CC BY 4.0 terms for all eight v2 atlases. [Pets · Artwork and Terms](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive#senyo-codex-pets-v2-creator-collection)
@@ -440,7 +448,7 @@ The top ten by each project’s last verified GitHub star count. Ties use reposi
 | 9 | [Fat Fish on Desktop · dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md) | [3,381](https://github.com/MerZlin/dsh-pet-indesktop) |
 | 10 | [Claude Desktop Buddy · Official Hardware Example](https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/README.md) | [2,728](https://github.com/anthropics/claude-desktop-buddy) |
 
-[Open the full pets and interactive projects ranking](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-28/github-interactive-stars-november-28-malou-poteto-and-pet-studio.json)
+[Open the full pets and interactive projects ranking](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=interactive) · [Star count snapshot](content/research/2026-11-29/github-interactive-stars-november-29-pixel-duck-and-creator-terms.json)
 
 <!-- interactive-ranking:end -->
 
@@ -485,6 +493,8 @@ The LFS hashes for all 106 Whale Girl animations in the pinned seven-character p
 <a id="sources"></a>
 
 ### 📚 Creator works & sources
+
+Added seven creator publications and retained SHA-256 values for 20 checked images. Linked Yoshida’s character art and the installments of Sora’s illustrated diary. [Yoshida’s Trio · Portraits and Turnarounds](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#kawamura-ai-trio-otome-designs) · [Sora · Diary Episode 3](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#nenkoro-sora-unemployment-diary-three)
 
 Retained source links for five creator posts and SHA-256 values for 13 artwork files. Read the original posts for the turnarounds and comics. [Da · Gemini Post](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#da-gemini-personification-volume-one) · [Da · ChatGPT Post](https://selinlee.github.io/ai-moe-atlas/en/resources/?category=sources#da-chatgpt-personification-volume-three)
 

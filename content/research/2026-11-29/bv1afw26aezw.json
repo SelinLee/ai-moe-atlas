@@ -1,0 +1,56 @@
+{
+  "url": "https://www.bilibili.com/video/BV1AFW26AEzw/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AFW26AEzw",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:04:56.315Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1AFW26AEzw",
+    "title": "唯爱永恒",
+    "owner": {
+      "name": "彼岸花Channel",
+      "mid": 13787349
+    },
+    "pubdate": 1794537000,
+    "duration": 215
+  },
+  "descriptionSha256": "e40a88f6a8b36995568dab0a081c0affca87f44bf4132d29376383189d0e4b86",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "彼岸花Channel",
+      "url": "https://space.bilibili.com/13787349"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你好, I'm DS.我喜欢你.【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV15iby6tEQx/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "《大模型复读班 》 第五集： 收到，豆包已上线！",
+      "url": "https://www.bilibili.com/video/BV1tKW363Ety/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "梁祝 || 梁兄，我认得路",
+      "url": "https://www.bilibili.com/video/BV1S2Wo66Edb/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Kimi——快帮帮我❗️凌晨3点 ，舞台为你亮起❗️",
+      "url": "https://www.bilibili.com/video/BV1pZ14z7ECE/"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "DS娘长视频故事合集",
+    "titleInPlaylist": "上下文是有长度的，但爱没有",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

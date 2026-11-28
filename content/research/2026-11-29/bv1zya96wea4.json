@@ -1,0 +1,84 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ZYa96wEa4/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZYa96wEa4",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:04:59.464Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1ZYa96wEa4",
+    "title": "全宇宙最爽的一次摸大肥鱼棉花娃娃",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1790733808,
+    "duration": 26
+  },
+  "descriptionSha256": "0fbb7cdd5622e7205a3321d5df076735117c338ac137f445b1c45b9611bf94df",
+  "detailProof": {
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1ZYa96wEa4",
+    "observedAt": "2026-11-28T16:06:14.559Z",
+    "tags": [
+      "发现《Way down We Go》",
+      "生化危机3",
+      "可爱",
+      "zcode",
+      "蓝色大肥鱼",
+      "智谱娘",
+      "GLM",
+      "鲸鱼娘",
+      "棉花娃娃",
+      "DeepSeek"
+    ],
+    "pages": [
+      {
+        "title": "生化危机3",
+        "cid": 42323479837,
+        "duration": 26
+      }
+    ]
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "小团子遇到怪东西了",
+      "url": "https://www.bilibili.com/video/BV1UKaJ6QE1A/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "龙背上的骑兵？鳍背上的龙兵？",
+      "url": "https://www.bilibili.com/video/BV1q7a16gEr1/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥",
+      "url": "https://www.bilibili.com/video/BV1RcyfzQEcH/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "全宇宙最爽的一次摸大肥鱼棉花娃娃",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

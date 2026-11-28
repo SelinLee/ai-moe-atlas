@@ -1,0 +1,85 @@
+{
+  "url": "https://www.bilibili.com/video/BV1T7b56FEzu/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1T7b56FEzu",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:04:48.589Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1T7b56FEzu",
+    "title": "算风雨，算潮汐，算···这盏灯，还能亮多久~【bilibilionly同人扶持计划】",
+    "owner": {
+      "name": "彼岸花Channel",
+      "mid": 13787349
+    },
+    "pubdate": 1789182600,
+    "duration": 259
+  },
+  "descriptionSha256": "e2ae945c1dde9f738ad6eff6d5fd7669b7221aef27f80724942577a3f54fc996",
+  "detailProof": {
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1T7b56FEzu",
+    "observedAt": "2026-11-28T16:06:16.050Z",
+    "tags": [
+      "发现《剧情影视温馨浪漫愉悦 - SpringWaltz》",
+      "原创角色Bonly创作挑战",
+      "DS娘",
+      "GPT娘",
+      "咖啡店",
+      "全民制作人"
+    ],
+    "pages": [
+      {
+        "title": "算风雨，算潮汐，算···这盏灯，还能亮多久~【bilibilionly同人扶持计划】",
+        "cid": 41693218482,
+        "duration": 259
+      }
+    ]
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "彼岸花Channel",
+      "url": "https://space.bilibili.com/13787349"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你好, I'm DS.我喜欢你.【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV15iby6tEQx/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "先生，今天想喝一杯……海盐蓝莓气泡吗❓️【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV1BbhV6UEzx/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "【DS娘 || 我的世界｜比特沙海·深度唤醒】【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV1kGH76CEob/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Kimi——快帮帮我❗️凌晨3点 ，舞台为你亮起❗️",
+      "url": "https://www.bilibili.com/video/BV1pZ14z7ECE/"
+    },
+    {
+      "role": "credited-contributor",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "credited-contributor",
+      "title": "这个刀子真甜",
+      "url": "https://space.bilibili.com/23315338"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "DS娘长视频故事合集",
+    "titleInPlaylist": "算风雨，算潮汐，算···这盏灯，还能亮多久~【bilibilionly同人扶持计划】",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

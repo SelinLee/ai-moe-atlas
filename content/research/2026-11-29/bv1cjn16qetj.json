@@ -1,0 +1,61 @@
+{
+  "url": "https://www.bilibili.com/video/BV1cjn16QEtJ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1cjn16QEtJ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:05:08.934Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1cjn16QEtJ",
+    "title": "大肥鱼与菲比鲨相遇",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1792647464,
+    "duration": 31
+  },
+  "descriptionSha256": "3760be078e53b7af830bb0381b88e305425c9e610b9e97382edf12b4c3e3062f",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你扶琵琶奏琴弦♪",
+      "url": "https://www.bilibili.com/video/BV1reJf6XEHJ/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "城府越深的鱼，眼睛就越呆",
+      "url": "https://www.bilibili.com/video/BV1Wpnb6kEjC/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥",
+      "url": "https://www.bilibili.com/video/BV1RcyfzQEcH/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "风中飘落的，是海洋中最默契的相遇",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

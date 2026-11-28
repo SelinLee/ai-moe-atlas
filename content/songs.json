@@ -54,7 +54,8 @@
       {"id": "bv1evsb6fevj", "type": "mv"},
       {"id": "bv13yyazbe7m", "type": "cover"},
       {"id": "bv1xv1czhe8q", "type": "cover"},
-      {"id": "bv1na476bebw", "type": "cover"}
+      {"id": "bv1na476bebw", "type": "cover"},
+      {"id": "bv1baxj61esa", "type": "cover"}
     ]
   },
   {
@@ -1531,5 +1532,11 @@
     "title": {"zh": "How It’s Done", "en": "How It’s Done", "ja": "How It’s Done"},
     "original": {"credit": "HUNTR/X · EJAE · AUDREY NUNA · REI AMI", "url": "https://www.youtube.com/watch?v=QGsevnbItdU"},
     "versions": [{"id": "bv1sp4b6pecb", "type": "mv"}]
+  },
+  {
+    "id": "kimi-stage-at-three",
+    "title": {"zh": "Kimi，快帮帮我 · 凌晨三点", "en": "Kimi, Help Me · 3 a.m.", "ja": "Kimi、助けて · 午前3時"},
+    "original": {"credit": "彼岸花Channel", "url": "https://www.bilibili.com/video/BV1pZ14z7ECE/"},
+    "versions": [{"id": "bv1pz14z7ece", "type": "original-mv"}]
   }
 ]

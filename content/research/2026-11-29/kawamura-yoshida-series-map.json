@@ -1,0 +1,46 @@
+{
+  "url": "https://note.com/chatgpt_ysd/n/n57f3f152ab3f",
+  "accessedAt": "2026-11-28T16:06:37.992Z",
+  "httpStatus": 200,
+  "publishedAt": "2026-01-05T00:00:20.000+09:00",
+  "title": "【ChatGPTのヨシダ　サイトマップ】　生成AI  学習漫画|擬人化AIトリオの紹介| ChatGPT Claude  Gemini",
+  "creator": "https://note.com/chatgpt_ysd",
+  "htmlSha256": "3da1be103728055f1ffe9d30de7bc234884f09be73ee0e6c85341df52117a554",
+  "scope": "Creator-published source checked in isolated headless Chrome. Selected original artwork files were retained unchanged and hashed.",
+  "artwork": [
+    {
+      "index": 2,
+      "url": "https://assets.st-note.com/production/uploads/images/241396073/picture_pc_33fe509e9ae0393c31f73e527316025c.png",
+      "sha256": "8b666e7fca7075c15fa4f0405d44fd61d058ceb840888577318adec86ecac3db",
+      "bytes": 548237,
+      "width": 720,
+      "height": 1488,
+      "format": "png",
+      "accessedAt": "2026-11-28T16:11:26.369Z",
+      "creatorCaption": "AI擬人化トリオの自己紹介😑😆🤓"
+    },
+    {
+      "index": 3,
+      "url": "https://assets.st-note.com/production/uploads/images/246605017/picture_pc_e170bb4847839916ec58f097a8a00708.png",
+      "sha256": "01093879cb03b91484066bf89ce308f0d3d836bd8f2381e11acfe71b4e98f572",
+      "bytes": 402760,
+      "width": 1280,
+      "height": 561,
+      "format": "png",
+      "accessedAt": "2026-11-28T16:11:26.045Z",
+      "creatorCaption": "AI擬人化トリオ3人の相関図"
+    }
+  ],
+  "relations": [
+    {
+      "role": "creator-profile",
+      "title": "カワムラ",
+      "url": "https://note.com/chatgpt_ysd"
+    },
+    {
+      "role": "related-character-design",
+      "title": "カワムラ · Yoshida character guide",
+      "url": "https://note.com/chatgpt_ysd/n/n9973fe32a80f"
+    }
+  ]
+}

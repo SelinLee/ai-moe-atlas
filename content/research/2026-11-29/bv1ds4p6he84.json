@@ -1,0 +1,76 @@
+{
+  "url": "https://www.bilibili.com/video/BV1DS4p6HE84/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1DS4p6HE84",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:04:54.748Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1DS4p6HE84",
+    "title": "爱~父女日常",
+    "owner": {
+      "name": "彼岸花Channel",
+      "mid": 13787349
+    },
+    "pubdate": 1794106800,
+    "duration": 61
+  },
+  "descriptionSha256": "0c26a3da53de04fa2bb00ff498d289216f364b3635ad4e6da444882c1b7354f7",
+  "detailProof": {
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1DS4p6HE84",
+    "observedAt": "2026-11-28T16:06:13.857Z",
+    "tags": [
+      "我推的拟人",
+      "拟人",
+      "治愈",
+      "deepseek拟人",
+      "梁圣",
+      "父女日常",
+      "大肥鱼"
+    ],
+    "pages": [
+      {
+        "title": "爱~父女日常",
+        "cid": 43416358445,
+        "duration": 61
+      }
+    ]
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "彼岸花Channel",
+      "url": "https://space.bilibili.com/13787349"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你好, I'm DS.我喜欢你.【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV15iby6tEQx/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "GRUB/X || 干饭女团",
+      "url": "https://www.bilibili.com/video/BV1Sp4b6PEcb/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "《大模型复读班 》 第五集： 收到，豆包已上线！",
+      "url": "https://www.bilibili.com/video/BV1tKW363Ety/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Kimi——快帮帮我❗️凌晨3点 ，舞台为你亮起❗️",
+      "url": "https://www.bilibili.com/video/BV1pZ14z7ECE/"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "DS娘长视频故事合集",
+    "titleInPlaylist": "爱~父女日常",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

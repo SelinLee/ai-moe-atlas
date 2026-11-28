@@ -1,0 +1,157 @@
+{
+  "url": "https://www.bilibili.com/video/BV1YDWb6NEPu/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YDWb6NEPu",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:05:15.223Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1YDWb6NEPu",
+    "title": "得知对手要禁止研发ai的大肥鱼",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1794237936,
+    "duration": 29
+  },
+  "descriptionSha256": "7ca40897bb5406e6915936a6974c26c9d7928b9c404fd573c3917a7cc4e2d376",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "蓝色大肥鱼入侵GPT梦境",
+      "url": "https://www.bilibili.com/video/BV1gv4x6bEEk/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "蓝色大肥鱼：宠物不能上桌吃饭",
+      "url": "https://www.bilibili.com/video/BV1JXWN61Edv/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥",
+      "url": "https://www.bilibili.com/video/BV1RcyfzQEcH/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "credited-borrowed-source",
+      "title": "QqpP千万 · 梁武锋被邀请去美国参加学术交流",
+      "url": "https://www.bilibili.com/video/BV1EG4c6MEMM/"
+    },
+    {
+      "role": "credited-borrowed-source",
+      "title": "小张0610 · ⚡他们都叫我梁圣 deepseek 世界巡演 ⚡【AI MV大赛】",
+      "url": "https://www.bilibili.com/video/BV1FFpi6bECk/"
+    },
+    {
+      "role": "credited-borrowed-source",
+      "title": "Wjerry07_ · DeepSeek下次更新之后Belike",
+      "url": "https://www.bilibili.com/video/BV1syp96HEbR/"
+    },
+    {
+      "role": "credited-borrowed-source",
+      "title": "Henrik_Abel · Deepseek结算画面，看到 v4 flash核弹爆炸的梁文峰!",
+      "url": "https://www.bilibili.com/video/BV16jGG6PEhM/"
+    },
+    {
+      "role": "credited-borrowed-source",
+      "title": "屿仙人 · DeepSeek：优势在我",
+      "url": "https://www.bilibili.com/video/BV177ph6rE9T/"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "bvid": "BV1EG4c6MEMM",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1EG4c6MEMM",
+      "observedAt": "2026-11-28T16:06:16.126Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "梁武锋被邀请去美国参加学术交流",
+      "publisher": "QqpP千万",
+      "publisherId": 79589717,
+      "publicationDate": "2026-11-02",
+      "pubdate": 1793596432,
+      "likes": 15914,
+      "descriptionSha256": "542ef9289863fcd699c3efc40b5fb4b38ea94fffd480fc2a0ba808eee87f5638"
+    },
+    {
+      "bvid": "BV1FFpi6bECk",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1FFpi6bECk",
+      "observedAt": "2026-11-28T16:06:16.126Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "⚡他们都叫我梁圣 deepseek 世界巡演 ⚡【AI MV大赛】",
+      "publisher": "小张0610",
+      "publisherId": 399595516,
+      "publicationDate": "2026-10-10",
+      "pubdate": 1791611383,
+      "likes": 7681,
+      "descriptionSha256": "e84838ea06b0388b3f957850007c0a52390c8afb786de48b2f56eded3a96bb3e"
+    },
+    {
+      "bvid": "BV1syp96HEbR",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1syp96HEbR",
+      "observedAt": "2026-11-28T16:06:17.625Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "DeepSeek下次更新之后Belike",
+      "publisher": "Wjerry07_",
+      "publisherId": 1092231252,
+      "publicationDate": "2026-10-12",
+      "pubdate": 1791799266,
+      "likes": 27422,
+      "descriptionSha256": "1a743208a177eb6e16c498408b5ced40d4c8d1706674fabaa7b2911477d36a75"
+    },
+    {
+      "bvid": "BV16jGG6PEhM",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16jGG6PEhM",
+      "observedAt": "2026-11-28T16:06:17.633Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "Deepseek结算画面，看到 v4 flash核弹爆炸的梁文峰!",
+      "publisher": "Henrik_Abel",
+      "publisherId": 325144582,
+      "publicationDate": "2026-08-01",
+      "pubdate": 1785593146,
+      "likes": 6143,
+      "descriptionSha256": "876a8ea1acb9d8d7a36cbf513b19d0dd455dae5e520a184bc8965cd7b5aa4f7a"
+    },
+    {
+      "bvid": "BV177ph6rE9T",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV177ph6rE9T",
+      "observedAt": "2026-11-28T16:06:19.133Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "DeepSeek：优势在我",
+      "publisher": "屿仙人",
+      "publisherId": 214189575,
+      "publicationDate": "2026-10-10",
+      "pubdate": 1791564200,
+      "likes": 68340,
+      "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112"
+    }
+  ],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "得知对手要禁止研发ai的大肥鱼",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

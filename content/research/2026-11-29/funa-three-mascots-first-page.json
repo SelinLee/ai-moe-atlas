@@ -1,0 +1,40 @@
+{
+  "url": "https://note.com/funa04/n/n9a4f74d11481",
+  "accessedAt": "2026-11-28T16:08:33.274Z",
+  "httpStatus": 200,
+  "publishedAt": "2026-05-02T16:00:00.000+09:00",
+  "title": "GPT Images2.0で1P漫画を作ってみた！ | 作成したキャラと向き合った話",
+  "creator": "https://note.com/funa04",
+  "htmlSha256": "a40fd7e054623f7313057f28469544330b7d45b4f9ad62f425c0c11bd36ec0f3",
+  "scope": "Creator-published source checked in isolated headless Chrome. Selected original artwork files were retained unchanged and hashed.",
+  "artwork": [
+    {
+      "index": 2,
+      "url": "https://assets.st-note.com/img/1777659119-fqGhQV10Mc7UeyE5P86gsak2.png",
+      "sha256": "fbf93b4a5e1816110d62dcb9f544e3ee55c1d8c470e5ea96e7703ae00d7002ae",
+      "bytes": 1112207,
+      "width": 1024,
+      "height": 1536,
+      "format": "png",
+      "accessedAt": "2026-11-28T16:11:27.849Z",
+      "creatorCaption": "よろしくお願いします！"
+    }
+  ],
+  "relations": [
+    {
+      "role": "creator-profile",
+      "title": "ふな",
+      "url": "https://note.com/funa04"
+    },
+    {
+      "role": "related-character-design",
+      "title": "ふな · 星野栞 · original character sheet",
+      "url": "https://note.com/funa04/n/n27b1a4b1b021"
+    },
+    {
+      "role": "related-creator-series",
+      "title": "ふな · Shiori and Funa’s four-panel comic",
+      "url": "https://note.com/funa04/n/n3e6e70a25037"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "historical": false,
+  "full_name": "cllongkun/maomao-codex-pet",
+  "html_url": "https://github.com/cllongkun/maomao-codex-pet",
+  "stargazers_count": 1,
+  "archived": false,
+  "created_at": "2026-07-15T08:12:36Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "a69278b7382bd782dac6c1352d499d63240a6b11",
+  "observedAt": "2026-11-28T16:05:12.220Z",
+  "httpStatus": 200,
+  "metadataSha256": "fe9c5a2ecc91ad907132f8f6a9364ed708e13006df6edb07e18d5b9aa23e3f07",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/cllongkun/maomao-codex-pet/blob/a69278b7382bd782dac6c1352d499d63240a6b11/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/cllongkun/maomao-codex-pet/a69278b7382bd782dac6c1352d499d63240a6b11/README.md",
+      "sourceSha256": "464d8807d5686237954e98260ffc8f71734b9a362f32d5b83d1f2a9634c4096a",
+      "gitBlobSha": "f5d7cee993f49f7de61b4e8c0751b77612037f46",
+      "bytes": 4327,
+      "commit": "a69278b7382bd782dac6c1352d499d63240a6b11",
+      "accessedAt": "2026-11-28T16:06:09.414Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/cllongkun/maomao-codex-pet/blob/a69278b7382bd782dac6c1352d499d63240a6b11/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/cllongkun/maomao-codex-pet/a69278b7382bd782dac6c1352d499d63240a6b11/LICENSE",
+      "sourceSha256": "cf4be0f4bf88b9abd976d810df4ef8830249d8fe63d8cd100da197318bceea0f",
+      "gitBlobSha": "623778d7a60b3081cbc24f15a297c7c237992f9c",
+      "bytes": 1289,
+      "commit": "a69278b7382bd782dac6c1352d499d63240a6b11",
+      "accessedAt": "2026-11-28T16:06:09.742Z"
+    },
+    {
+      "path": "LICENSE-ASSETS.md",
+      "url": "https://github.com/cllongkun/maomao-codex-pet/blob/a69278b7382bd782dac6c1352d499d63240a6b11/LICENSE-ASSETS.md",
+      "rawUrl": "https://raw.githubusercontent.com/cllongkun/maomao-codex-pet/a69278b7382bd782dac6c1352d499d63240a6b11/LICENSE-ASSETS.md",
+      "sourceSha256": "33c8f421900d8313cea3778c36f0f087d3222f3aad0b0628a11b54a4bcd54256",
+      "gitBlobSha": "689fb0f75ff15a6bc04340554bd1966da734cfa9",
+      "bytes": 2488,
+      "commit": "a69278b7382bd782dac6c1352d499d63240a6b11",
+      "accessedAt": "2026-11-28T16:06:10.068Z"
+    },
+    {
+      "path": "pet/pet.json",
+      "url": "https://github.com/cllongkun/maomao-codex-pet/blob/a69278b7382bd782dac6c1352d499d63240a6b11/pet/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/cllongkun/maomao-codex-pet/a69278b7382bd782dac6c1352d499d63240a6b11/pet/pet.json",
+      "sourceSha256": "d64d322e08c8d533822acd8aa23d7d18d5c497bc485cacd5b6a2ad79cbbbe848",
+      "gitBlobSha": "2f2242a1bf2f3350736fe578a4b62dcdd651efba",
+      "bytes": 220,
+      "commit": "a69278b7382bd782dac6c1352d499d63240a6b11",
+      "accessedAt": "2026-11-28T16:06:10.409Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T16:08:07.680Z",
+  "scope": "Pinned creator documentation, artwork-specific terms and the matching transparent atlas were verified with Git blob and SHA-256 evidence.",
+  "relations": [
+    {
+      "role": "code-license",
+      "title": "MIT · source code",
+      "url": "https://github.com/cllongkun/maomao-codex-pet/blob/a69278b7382bd782dac6c1352d499d63240a6b11/LICENSE"
+    },
+    {
+      "role": "pet-manifest",
+      "title": "Codex pet manifest · v2",
+      "url": "https://github.com/cllongkun/maomao-codex-pet/blob/a69278b7382bd782dac6c1352d499d63240a6b11/pet/pet.json"
+    },
+    {
+      "role": "artwork-license",
+      "title": "CC BY 4.0 · published artwork terms",
+      "url": "https://github.com/cllongkun/maomao-codex-pet/blob/a69278b7382bd782dac6c1352d499d63240a6b11/LICENSE-ASSETS.md"
+    }
+  ],
+  "atlas": {
+    "repo": "cllongkun/maomao-codex-pet",
+    "commit": "a69278b7382bd782dac6c1352d499d63240a6b11",
+    "path": "pet/spritesheet.webp",
+    "rawUrl": "https://raw.githubusercontent.com/cllongkun/maomao-codex-pet/a69278b7382bd782dac6c1352d499d63240a6b11/pet/spritesheet.webp",
+    "bytes": 2290518,
+    "width": 1536,
+    "height": 2288,
+    "format": "webp",
+    "hasAlpha": true,
+    "gitBlobSha": "2776005b4c4b05110d38a1f65dcff91c38078b46",
+    "sha256": "191f54df1f1ecf078877c57f87c8e1525019c61537c9a91ac06a95c690ea5275",
+    "observedAt": "2026-11-28T16:08:07.680Z",
+    "spriteVersion": 2
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "url": "https://www.bilibili.com/video/BV1xwHf6aEG2/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1xwHf6aEG2",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:05:00.999Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1xwHf6aEG2",
+    "title": "蓝色大肥鱼戴上了真正的头盔",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1791250476,
+    "duration": 11
+  },
+  "descriptionSha256": "e9e3c5e3e7f68353b019c665b789fa737213897b4b576fcc8f9c486cedf98a33",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "蓝色大肥鱼：我要token，我要吃白饭——",
+      "url": "https://www.bilibili.com/video/BV1vUHz6bETT/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "蓝色大肥鱼往事",
+      "url": "https://www.bilibili.com/video/BV1KDHk6REfW/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥",
+      "url": "https://www.bilibili.com/video/BV1RcyfzQEcH/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "music-credited-version",
+      "title": "喵内特洛夫斯基 · 🎵来去菲比🎵",
+      "url": "https://www.bilibili.com/video/BV1S7Kh6XEPD/"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "bvid": "BV1S7Kh6XEPD",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1S7Kh6XEPD",
+      "observedAt": "2026-11-28T16:06:14.629Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "🎵来去菲比🎵",
+      "publisher": "喵内特洛夫斯基",
+      "publisherId": 409670025,
+      "publicationDate": "2026-07-21",
+      "pubdate": 1784639127,
+      "likes": 12893,
+      "descriptionSha256": "3a3c4ccb11525ae51f4f48a08bebb5bad388fbd635e9347747159ed3980ad11e"
+    }
+  ],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "大肥鱼戴上了真正的头盔",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Stp764ESR/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Stp764ESR",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:05:02.562Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1Stp764ESR",
+    "title": "蓝色大肥鱼娃娃机",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1791689769,
+    "duration": 31
+  },
+  "descriptionSha256": "277488e09a799aa98a8b54616aa9b77785aa82eb0f5726e2d8fd69f96ef79e34",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "没钱养蓝色大肥鱼了怎么办",
+      "url": "https://www.bilibili.com/video/BV1GhpY6rEKE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "男人面临着两个选择",
+      "url": "https://www.bilibili.com/video/BV1EUpS6AEjD/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥",
+      "url": "https://www.bilibili.com/video/BV1RcyfzQEcH/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "蓝色大肥鱼娃娃机",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

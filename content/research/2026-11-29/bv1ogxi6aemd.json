@@ -1,0 +1,61 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ogxi6aEmd/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ogxi6aEmd",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:04:54.774Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1ogxi6aEmd",
+    "title": "我只希望——你吃得饱，睡得好，开开心心地活着",
+    "owner": {
+      "name": "彼岸花Channel",
+      "mid": 13787349
+    },
+    "pubdate": 1793412600,
+    "duration": 77
+  },
+  "descriptionSha256": "6a8a2ad9e30c203dd663f51e144ac456ce2347e3e46fc0f36e5c2f12f979ff14",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "彼岸花Channel",
+      "url": "https://space.bilibili.com/13787349"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你好, I'm DS.我喜欢你.【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV15iby6tEQx/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "《大模型复读班》第四集：家长会！",
+      "url": "https://www.bilibili.com/video/BV1wExc6gEEn/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "鲸落——当你只剩最后一点光，是留给自己？还是送给一个人？",
+      "url": "https://www.bilibili.com/video/BV16RxJ6tEXT/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Kimi——快帮帮我❗️凌晨3点 ，舞台为你亮起❗️",
+      "url": "https://www.bilibili.com/video/BV1pZ14z7ECE/"
+    },
+    {
+      "role": "story-reference",
+      "title": "Wuthering Waves · Aemeath · official character video",
+      "url": "https://www.youtube.com/watch?v=ORA0QG5nOGk"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "DS娘长视频故事合集",
+    "titleInPlaylist": "长大以后，您希望我成为怎样的人？",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

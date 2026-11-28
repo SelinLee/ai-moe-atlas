@@ -1,0 +1,106 @@
+{
+  "historical": false,
+  "full_name": "Octane0411/maodie-codex-pet",
+  "html_url": "https://github.com/Octane0411/maodie-codex-pet",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-07-13T08:55:11Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7",
+  "observedAt": "2026-11-28T16:05:12.148Z",
+  "httpStatus": 200,
+  "metadataSha256": "36e72e0072c6dffda06b44838362a930aec36f0805766b8873aeeb6fe3f2c357",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/Octane0411/maodie-codex-pet/blob/1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Octane0411/maodie-codex-pet/1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7/README.md",
+      "sourceSha256": "ae3db20f9c81569c44983548f138f67350aa4d8f1973467bac69d8e03d9b1d67",
+      "gitBlobSha": "05104c0eb880f904f58511ef645d5e93ed264045",
+      "bytes": 2537,
+      "commit": "1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7",
+      "accessedAt": "2026-11-28T16:06:09.392Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/Octane0411/maodie-codex-pet/blob/1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/Octane0411/maodie-codex-pet/1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7/LICENSE",
+      "sourceSha256": "33a6a07192c2869fd0ad9d8c6360e6d30a4bd489c59c5970f20a3f7873869a80",
+      "gitBlobSha": "c695fd324b908ee2faffb4f63de4393329e2c122",
+      "bytes": 1063,
+      "commit": "1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7",
+      "accessedAt": "2026-11-28T16:06:09.726Z"
+    },
+    {
+      "path": "LICENSE-ASSETS",
+      "url": "https://github.com/Octane0411/maodie-codex-pet/blob/1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7/LICENSE-ASSETS",
+      "rawUrl": "https://raw.githubusercontent.com/Octane0411/maodie-codex-pet/1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7/LICENSE-ASSETS",
+      "sourceSha256": "6fa87908191c7dbe77a4c9ebb7607761ba743ccce82f3dc0ab7dd790023feac8",
+      "gitBlobSha": "892ae2c66dfbbc3618e908689c87815716347c12",
+      "bytes": 814,
+      "commit": "1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7",
+      "accessedAt": "2026-11-28T16:06:10.054Z"
+    },
+    {
+      "path": "NOTICE.md",
+      "url": "https://github.com/Octane0411/maodie-codex-pet/blob/1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/Octane0411/maodie-codex-pet/1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7/NOTICE.md",
+      "sourceSha256": "4f31877dd7910317e9900057545de82da7eb5bec0abc678fe09137fee6e3cfad",
+      "gitBlobSha": "0f1fd30c8872af0599a51135e508f947d147ca1e",
+      "bytes": 1043,
+      "commit": "1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7",
+      "accessedAt": "2026-11-28T16:06:10.391Z"
+    },
+    {
+      "path": "pet.json",
+      "url": "https://github.com/Octane0411/maodie-codex-pet/blob/1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/Octane0411/maodie-codex-pet/1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7/pet.json",
+      "sourceSha256": "40c8593868bfa4380c30be71a1937f966db2e05d13f769654a3b476381ab1825",
+      "gitBlobSha": "46ef26eecb9465105efc623b69084cad9ba5e9dc",
+      "bytes": 207,
+      "commit": "1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7",
+      "accessedAt": "2026-11-28T16:06:10.715Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T16:08:07.711Z",
+  "scope": "Pinned creator documentation, artwork-specific terms and the matching transparent atlas were verified with Git blob and SHA-256 evidence.",
+  "relations": [
+    {
+      "role": "code-license",
+      "title": "MIT · source code",
+      "url": "https://github.com/Octane0411/maodie-codex-pet/blob/1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7/LICENSE"
+    },
+    {
+      "role": "pet-manifest",
+      "title": "Codex pet manifest · v2",
+      "url": "https://github.com/Octane0411/maodie-codex-pet/blob/1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7/pet.json"
+    },
+    {
+      "role": "artwork-license",
+      "title": "CC BY 4.0 · published artwork terms",
+      "url": "https://github.com/Octane0411/maodie-codex-pet/blob/1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7/LICENSE-ASSETS"
+    },
+    {
+      "role": "artwork-attribution",
+      "title": "Artwork credits and declared terms",
+      "url": "https://github.com/Octane0411/maodie-codex-pet/blob/1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7/NOTICE.md"
+    }
+  ],
+  "atlas": {
+    "repo": "Octane0411/maodie-codex-pet",
+    "commit": "1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7",
+    "path": "spritesheet.webp",
+    "rawUrl": "https://raw.githubusercontent.com/Octane0411/maodie-codex-pet/1a16df2b4fa6dc61d3396c68f05a88ece0ee90f7/spritesheet.webp",
+    "bytes": 2547270,
+    "width": 1536,
+    "height": 2288,
+    "format": "webp",
+    "hasAlpha": true,
+    "gitBlobSha": "3a9f9894867bcde61227e7bc5d20132050e49663",
+    "sha256": "eb819e188df3efc8dc7c0ac11d6533fb01cfe869a56a80835fd44fc6882517d5",
+    "observedAt": "2026-11-28T16:08:07.711Z",
+    "spriteVersion": 2
+  }
+}

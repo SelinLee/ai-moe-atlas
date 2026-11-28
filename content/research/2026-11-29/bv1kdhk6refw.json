@@ -1,0 +1,61 @@
+{
+  "url": "https://www.bilibili.com/video/BV1KDHk6REfW/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KDHk6REfW",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:05:01.030Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1KDHk6REfW",
+    "title": "蓝色大肥鱼往事",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1791370854,
+    "duration": 38
+  },
+  "descriptionSha256": "e4373ca51cbfb6ccf9401a95f4180ea4afe5094dfbd2aa22c4c0e9b8a439b628",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "蓝色大肥鱼戴上了真正的头盔",
+      "url": "https://www.bilibili.com/video/BV1xwHf6aEG2/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "克。。。蓝色大肥鱼？",
+      "url": "https://www.bilibili.com/video/BV1itpx6bERW/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥",
+      "url": "https://www.bilibili.com/video/BV1RcyfzQEcH/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "蓝色大肥鱼：头套给你薅一地",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

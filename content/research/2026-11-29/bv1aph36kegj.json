@@ -1,0 +1,61 @@
+{
+  "url": "https://www.bilibili.com/video/BV1apH36kEGJ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1apH36kEGJ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:05:10.527Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1apH36kEGJ",
+    "title": "造饭魔法",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1792892541,
+    "duration": 166
+  },
+  "descriptionSha256": "d2639247547304a77c67a39e277fb2fea7c66392a48e69d5ec0fd665b3a4f934",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "城府越深的鱼，眼睛就越呆",
+      "url": "https://www.bilibili.com/video/BV1Wpnb6kEjC/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "上班遇到俩不让我进公司",
+      "url": "https://www.bilibili.com/video/BV1yHnQ6rE4n/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥",
+      "url": "https://www.bilibili.com/video/BV1RcyfzQEcH/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "蓝色大肥鱼穿越异世界",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

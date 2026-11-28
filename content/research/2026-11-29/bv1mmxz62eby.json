@@ -1,0 +1,81 @@
+{
+  "url": "https://www.bilibili.com/video/BV1MmxZ62EBY/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1MmxZ62EBY",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:05:13.669Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1MmxZ62EBY",
+    "title": "蓝色大肥鱼大战茄皇",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1793844643,
+    "duration": 61
+  },
+  "descriptionSha256": "8cb3c1e7b4a2afe9677aa8e219beb8e9d8915819f6d50cde0e54a68de9348a0a",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "看千问大小姐跳舞",
+      "url": "https://www.bilibili.com/video/BV1DuxD6bEts/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "蓝色大肥鱼入侵GPT梦境",
+      "url": "https://www.bilibili.com/video/BV1gv4x6bEEk/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥",
+      "url": "https://www.bilibili.com/video/BV1RcyfzQEcH/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "music-credited-version",
+      "title": "美味的肥鱼饭团 · 【AI翻唱】雨爱（司凤版）· 大鲸鱼版",
+      "url": "https://www.bilibili.com/video/BV1Baxj61ESa/"
+    }
+  ],
+  "sourceChecks": [
+    {
+      "bvid": "BV1Baxj61ESa",
+      "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Baxj61ESa",
+      "observedAt": "2026-11-28T16:06:14.606Z",
+      "httpStatus": 200,
+      "code": 0,
+      "title": "【AI翻唱】雨爱（司凤版）· 大鲸鱼版",
+      "publisher": "美味的肥鱼饭团",
+      "publisherId": 3747575681256315,
+      "publicationDate": "2026-10-28",
+      "pubdate": 1793170500,
+      "likes": 249622,
+      "descriptionSha256": "353254a5f11ffd0640377bd286a590d838eec5101c9591912ad207d6da83e5f5"
+    }
+  ],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "蓝色大肥鱼大战茄皇",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

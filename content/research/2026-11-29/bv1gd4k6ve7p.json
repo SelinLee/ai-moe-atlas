@@ -1,0 +1,66 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Gd4K6VE7p/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Gd4K6VE7p",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:05:13.629Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1Gd4K6VE7p",
+    "title": "大肥鱼：已启动超频模式",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1793669921,
+    "duration": 75
+  },
+  "descriptionSha256": "3d4557b9c9c9532d79dfba4fc0b7aea1d11876abf335687ffe6363281d151340",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "小家伙跳的啥舞？",
+      "url": "https://www.bilibili.com/video/BV14Dx56REDc/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "看千问大小姐跳舞",
+      "url": "https://www.bilibili.com/video/BV1DuxD6bEts/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥",
+      "url": "https://www.bilibili.com/video/BV1RcyfzQEcH/"
+    },
+    {
+      "role": "credited-character-designer",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "credited-character-contributor",
+      "title": "这个刀子真甜",
+      "url": "https://space.bilibili.com/23315338"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "大肥鱼：启动超频模式！",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

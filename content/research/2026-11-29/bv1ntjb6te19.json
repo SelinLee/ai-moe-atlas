@@ -1,0 +1,56 @@
+{
+  "url": "https://www.bilibili.com/video/BV1NtJB6TE19/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NtJB6TE19",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:04:50.117Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1NtJB6TE19",
+    "title": "带我出逃吧，我的罗密欧~【bilibilionly同人扶持计划】",
+    "owner": {
+      "name": "彼岸花Channel",
+      "mid": 13787349
+    },
+    "pubdate": 1792290000,
+    "duration": 257
+  },
+  "descriptionSha256": "31b97629d56cf52da5e1f0151f47ef669a49a5514fcc557058c73e2df9cb8f94",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "彼岸花Channel",
+      "url": "https://space.bilibili.com/13787349"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你好, I'm DS.我喜欢你.【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV15iby6tEQx/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "《大模型复读班》第三集：从今天起，我就是你们的妈妈了~",
+      "url": "https://www.bilibili.com/video/BV1htpJ6NEBJ/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "这一次，我来拯救你❗️",
+      "url": "https://www.bilibili.com/video/BV1ZYn66eEdj/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Kimi——快帮帮我❗️凌晨3点 ，舞台为你亮起❗️",
+      "url": "https://www.bilibili.com/video/BV1pZ14z7ECE/"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "DS娘长视频故事合集",
+    "titleInPlaylist": "带我出逃吧，我的罗密欧~【bilibilionly同人扶持计划】",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

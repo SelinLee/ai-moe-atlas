@@ -1,0 +1,91 @@
+{
+  "historical": false,
+  "full_name": "FlamurMaliqi/codex-pixel-duck",
+  "html_url": "https://github.com/FlamurMaliqi/codex-pixel-duck",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-07-19T09:26:27Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "a66352a68e2955a2800ac8a05344eeeecb9a32b3",
+  "observedAt": "2026-11-28T16:05:11.976Z",
+  "httpStatus": 200,
+  "metadataSha256": "b5e4e38bc4add19fb0f752bb37cb414a5a9e01546654e7b8bdfd97dd554e2cf9",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/FlamurMaliqi/codex-pixel-duck/blob/a66352a68e2955a2800ac8a05344eeeecb9a32b3/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/FlamurMaliqi/codex-pixel-duck/a66352a68e2955a2800ac8a05344eeeecb9a32b3/README.md",
+      "sourceSha256": "a87ee6959390f81c78c6f4865aa0440f079d5cd9babf584d642099a8cbf15608",
+      "gitBlobSha": "a9870e0fdc4e8daeae1aec7037ac3f96bcfb6da4",
+      "bytes": 2046,
+      "commit": "a66352a68e2955a2800ac8a05344eeeecb9a32b3",
+      "accessedAt": "2026-11-28T16:06:09.429Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/FlamurMaliqi/codex-pixel-duck/blob/a66352a68e2955a2800ac8a05344eeeecb9a32b3/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/FlamurMaliqi/codex-pixel-duck/a66352a68e2955a2800ac8a05344eeeecb9a32b3/LICENSE",
+      "sourceSha256": "7bea699e5273f3bfaf3965cf05547d9db1a832910722154ea99430181888fd46",
+      "gitBlobSha": "977a7e79eb74abe0238d116eaa3912260118e55d",
+      "bytes": 1070,
+      "commit": "a66352a68e2955a2800ac8a05344eeeecb9a32b3",
+      "accessedAt": "2026-11-28T16:06:09.961Z"
+    },
+    {
+      "path": "ASSET-NOTICE.md",
+      "url": "https://github.com/FlamurMaliqi/codex-pixel-duck/blob/a66352a68e2955a2800ac8a05344eeeecb9a32b3/ASSET-NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/FlamurMaliqi/codex-pixel-duck/a66352a68e2955a2800ac8a05344eeeecb9a32b3/ASSET-NOTICE.md",
+      "sourceSha256": "3007a4b6e9009569950332a99db432534a66011bec916715e5bf71612315bad1",
+      "gitBlobSha": "885af3884064d6e2090671f25e76cafc68477d68",
+      "bytes": 840,
+      "commit": "a66352a68e2955a2800ac8a05344eeeecb9a32b3",
+      "accessedAt": "2026-11-28T16:06:10.289Z"
+    },
+    {
+      "path": "pet.json",
+      "url": "https://github.com/FlamurMaliqi/codex-pixel-duck/blob/a66352a68e2955a2800ac8a05344eeeecb9a32b3/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/FlamurMaliqi/codex-pixel-duck/a66352a68e2955a2800ac8a05344eeeecb9a32b3/pet.json",
+      "sourceSha256": "e22789338906347e727cb04e6990ecff775b8531b22b587c8aa664ec0755ef8c",
+      "gitBlobSha": "268d1738d9b47c4ca6eb9491ee03ecca431d3fb8",
+      "bytes": 213,
+      "commit": "a66352a68e2955a2800ac8a05344eeeecb9a32b3",
+      "accessedAt": "2026-11-28T16:06:10.635Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T16:08:06.965Z",
+  "scope": "Pinned creator documentation, artwork-specific terms and the matching transparent atlas were verified with Git blob and SHA-256 evidence.",
+  "relations": [
+    {
+      "role": "code-license",
+      "title": "MIT · source code",
+      "url": "https://github.com/FlamurMaliqi/codex-pixel-duck/blob/a66352a68e2955a2800ac8a05344eeeecb9a32b3/LICENSE"
+    },
+    {
+      "role": "pet-manifest",
+      "title": "Codex pet manifest · v1",
+      "url": "https://github.com/FlamurMaliqi/codex-pixel-duck/blob/a66352a68e2955a2800ac8a05344eeeecb9a32b3/pet.json"
+    },
+    {
+      "role": "artwork-license",
+      "title": "CC BY 4.0 · published artwork terms",
+      "url": "https://github.com/FlamurMaliqi/codex-pixel-duck/blob/a66352a68e2955a2800ac8a05344eeeecb9a32b3/ASSET-NOTICE.md"
+    }
+  ],
+  "atlas": {
+    "repo": "FlamurMaliqi/codex-pixel-duck",
+    "commit": "a66352a68e2955a2800ac8a05344eeeecb9a32b3",
+    "path": "spritesheet.webp",
+    "rawUrl": "https://raw.githubusercontent.com/FlamurMaliqi/codex-pixel-duck/a66352a68e2955a2800ac8a05344eeeecb9a32b3/spritesheet.webp",
+    "bytes": 169480,
+    "width": 1536,
+    "height": 1872,
+    "format": "webp",
+    "hasAlpha": true,
+    "gitBlobSha": "40effcb8e5e7c08de5868d9fe1cd9f33d2903ed5",
+    "sha256": "88ca26717528fe1d01fcba2a649cc5633e40ea886e3b028ffab25654787a87da",
+    "observedAt": "2026-11-28T16:08:06.965Z",
+    "spriteVersion": 1
+  }
+}

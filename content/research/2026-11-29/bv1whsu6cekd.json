@@ -1,0 +1,79 @@
+{
+  "url": "https://www.bilibili.com/video/BV1WhsU6CEkD/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1WhsU6CEkD",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:04:56.295Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1WhsU6CEkD",
+    "title": "最终幻想风——今天要讲的故事是：勇敢的AI娘大战邪恶的鸣式",
+    "owner": {
+      "name": "彼岸花Channel",
+      "mid": 13787349
+    },
+    "pubdate": 1795058400,
+    "duration": 129
+  },
+  "descriptionSha256": "394629d13f1ad87ce47b005b1e7ed69d3919d61ffc8ea6d1e30641e6f50ca1c1",
+  "detailProof": {
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1WhsU6CEkD",
+    "observedAt": "2026-11-28T16:06:16.712Z",
+    "tags": [
+      "我推的拟人",
+      "最终幻想",
+      "DS娘",
+      "GPT娘",
+      "claude娘",
+      "千问娘",
+      "智谱娘",
+      "grok娘",
+      "updream大肥鱼挑战",
+      "哈基米"
+    ],
+    "pages": [
+      {
+        "title": "最终幻想风——今天要讲的故事是：勇敢的AI娘大战邪恶的鸣式",
+        "cid": 43717953309,
+        "duration": 129
+      }
+    ]
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "彼岸花Channel",
+      "url": "https://space.bilibili.com/13787349"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你好, I'm DS.我喜欢你.【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV15iby6tEQx/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "梁祝 || 梁兄，我认得路",
+      "url": "https://www.bilibili.com/video/BV1S2Wo66Edb/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "四小只英国游——今天伦敦不下雨，只下茶【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV1nCs86QEUe/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Kimi——快帮帮我❗️凌晨3点 ，舞台为你亮起❗️",
+      "url": "https://www.bilibili.com/video/BV1pZ14z7ECE/"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "DS娘长视频故事合集",
+    "titleInPlaylist": "最终幻想风——今天要讲的故事是：勇敢的AI娘大战邪恶的鸣式",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

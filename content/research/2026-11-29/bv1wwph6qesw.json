@@ -1,0 +1,84 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Wwph6QEsW/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Wwph6QEsW",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:04:50.136Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1Wwph6QEsW",
+    "title": "鲸天魔盗团，全员听令——魔术，上映！",
+    "owner": {
+      "name": "彼岸花Channel",
+      "mid": 13787349
+    },
+    "pubdate": 1791598200,
+    "duration": 219
+  },
+  "descriptionSha256": "1972fb242738f609c00bd4a6fada09aef2ab940b55a7d6429380f07c1423edae",
+  "detailProof": {
+    "requestUrl": "https://api.bilibili.com/x/web-interface/view/detail?bvid=BV1Wwph6QEsW",
+    "observedAt": "2026-11-28T16:06:17.401Z",
+    "tags": [
+      "发现《C'mon (Catch 'Em By Surprise)》",
+      "AI动画周更挑战",
+      "魔术",
+      "惊天魔盗团",
+      "DS娘",
+      "DeepSeek拟人",
+      "claude娘",
+      "智谱娘",
+      "鲸天魔盗团",
+      "grok娘"
+    ],
+    "pages": [
+      {
+        "title": "鲸天魔盗团，全员听令——魔术，上映！",
+        "cid": 42603970859,
+        "duration": 219
+      }
+    ]
+  },
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "彼岸花Channel",
+      "url": "https://space.bilibili.com/13787349"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你好, I'm DS.我喜欢你.【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV15iby6tEQx/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "【DS娘 || 我的世界｜比特沙海·深度唤醒】【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV1kGH76CEob/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "走，上车❗️出发❗️|| 公路番先行预告",
+      "url": "https://www.bilibili.com/video/BV1Rjar6sEj9/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Kimi——快帮帮我❗️凌晨3点 ，舞台为你亮起❗️",
+      "url": "https://www.bilibili.com/video/BV1pZ14z7ECE/"
+    },
+    {
+      "role": "platform-identified-track",
+      "title": "Tiësto · Diplo · Busta Rhymes · C’mon (Catch ’Em by Surprise)",
+      "url": "https://www.youtube.com/watch?v=j6SSTMpIRFI"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "DS娘长视频故事合集",
+    "titleInPlaylist": "鲸天魔盗团，全员听令——魔术，上映！",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

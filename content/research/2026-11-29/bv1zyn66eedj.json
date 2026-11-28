@@ -1,0 +1,56 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ZYn66eEdj/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ZYn66eEdj",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:04:51.654Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1ZYn66eEdj",
+    "title": "这一次，我来拯救你❗️",
+    "owner": {
+      "name": "彼岸花Channel",
+      "mid": 13787349
+    },
+    "pubdate": 1792639800,
+    "duration": 329
+  },
+  "descriptionSha256": "fb7ff79e405d16d0539ae14b31e1c17a7c19ce8711011a5939976d3378c2dd86",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "彼岸花Channel",
+      "url": "https://space.bilibili.com/13787349"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你好, I'm DS.我喜欢你.【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV15iby6tEQx/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "带我出逃吧，我的罗密欧~【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV1NtJB6TE19/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "所幸我出来了...真的吗...",
+      "url": "https://www.bilibili.com/video/BV1WhHT6DEkS/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Kimi——快帮帮我❗️凌晨3点 ，舞台为你亮起❗️",
+      "url": "https://www.bilibili.com/video/BV1pZ14z7ECE/"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "DS娘长视频故事合集",
+    "titleInPlaylist": "这一次，我来拯救你❗️",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

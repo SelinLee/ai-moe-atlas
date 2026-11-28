@@ -1,0 +1,56 @@
+{
+  "url": "https://www.bilibili.com/video/BV1fZs164Ecm/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fZs164Ecm",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:05:16.767Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1fZs164Ecm",
+    "title": "哇！大肥鱼！哇！菲比啾比！",
+    "owner": {
+      "name": "那就那就打断",
+      "mid": 3546316
+    },
+    "pubdate": 1794969916,
+    "duration": 39
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "那就那就打断",
+      "url": "https://space.bilibili.com/3546316"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek和GLM",
+      "url": "https://www.bilibili.com/video/BV1Ccbs6SEEE/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "偶遇邪恶蓝色大肥鱼",
+      "url": "https://www.bilibili.com/video/BV1YxsF6QEce/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "蓝神话：肥鱼之大战哈基米",
+      "url": "https://www.bilibili.com/video/BV1Mpsq6JEw8/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "DeepSeek v4.1pro不更新被大肥鱼flash怒斥",
+      "url": "https://www.bilibili.com/video/BV1RcyfzQEcH/"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "大肥鱼日常",
+    "titleInPlaylist": "哇！大肥鱼！哇！菲比啾比！",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "url": "https://www.bilibili.com/video/BV17zp36REfX/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17zp36REfX",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:04:46.830Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV17zp36REfX",
+    "title": "《人民的民亿》我总不至于连这点TOKEN都没有吧❗️",
+    "owner": {
+      "name": "彼岸花Channel",
+      "mid": 13787349
+    },
+    "pubdate": 1791685800,
+    "duration": 117
+  },
+  "descriptionSha256": "aaf3fc77f63ffaabf2fd18874314e1d01aa9ed1934c4c02231a79b234e7234b2",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "彼岸花Channel",
+      "url": "https://space.bilibili.com/13787349"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你好, I'm DS.我喜欢你.【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV15iby6tEQx/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "大哥，你是了解我的······【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1Y9aN6WEMz/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "但愿梦长久||今年我们一起过，好不好【AI全民制作人】",
+      "url": "https://www.bilibili.com/video/BV1SqaP6LEYo/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Kimi——快帮帮我❗️凌晨3点 ，舞台为你亮起❗️",
+      "url": "https://www.bilibili.com/video/BV1pZ14z7ECE/"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "DS娘长视频故事合集",
+    "titleInPlaylist": "《人民的民亿》我总不至于连这点TOKEN都没有吧❗️",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

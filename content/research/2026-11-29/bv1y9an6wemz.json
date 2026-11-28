@@ -1,0 +1,56 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Y9aN6WEMz/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Y9aN6WEMz",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T16:04:46.808Z",
+  "scope": "Bilibili view metadata verifies publisher, publication timestamp and cumulative likes. Official playlist membership and explicitly credited links were checked separately.",
+  "metadata": {
+    "bvid": "BV1Y9aN6WEMz",
+    "title": "大哥，你是了解我的······【AI全民制作人】",
+    "owner": {
+      "name": "彼岸花Channel",
+      "mid": 13787349
+    },
+    "pubdate": 1790302200,
+    "duration": 152
+  },
+  "descriptionSha256": "534fc93e86ecd8c590f3a1d7fc93223a6496f4b22d1b90e187848a3afc27ec6e",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "彼岸花Channel",
+      "url": "https://space.bilibili.com/13787349"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "你好, I'm DS.我喜欢你.【bilibilionly同人扶持计划】",
+      "url": "https://www.bilibili.com/video/BV15iby6tEQx/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "龙门算力中转驿——第一集《豆欠龙钱》",
+      "url": "https://www.bilibili.com/video/BV14LHv6vE1a/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "《人民的民亿》我总不至于连这点TOKEN都没有吧❗️",
+      "url": "https://www.bilibili.com/video/BV17zp36REfX/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Kimi——快帮帮我❗️凌晨3点 ，舞台为你亮起❗️",
+      "url": "https://www.bilibili.com/video/BV1pZ14z7ECE/"
+    }
+  ],
+  "sourceChecks": [],
+  "playlist": {
+    "name": "DS娘长视频故事合集",
+    "titleInPlaylist": "大哥，你是了解我的······【AI全民制作人】",
+    "indexEvidence": {
+      "path": "content/research/2026-11-29/bilibili-november-29-two-complete-creator-playlists.json",
+      "sha256": "9aacff57d67cd5101b630dec4d8eec410284685e86437b477b775bb43dc0537c",
+      "kind": "browser-metadata-extract"
+    }
+  }
+}

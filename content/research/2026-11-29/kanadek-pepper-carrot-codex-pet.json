@@ -1,0 +1,118 @@
+{
+  "historical": false,
+  "full_name": "KanadeK/pepper-carrot-codex-pet",
+  "html_url": "https://github.com/KanadeK/pepper-carrot-codex-pet",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-08-12T10:39:41Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "bc44cbe2eeccd21ad49cd1bbb8534242266623f4",
+  "observedAt": "2026-11-28T16:05:12.062Z",
+  "httpStatus": 200,
+  "metadataSha256": "76944c54147f0bb1abd179d9ef8165ce325194832299c8e0ed0277e64955bc36",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/KanadeK/pepper-carrot-codex-pet/blob/bc44cbe2eeccd21ad49cd1bbb8534242266623f4/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/KanadeK/pepper-carrot-codex-pet/bc44cbe2eeccd21ad49cd1bbb8534242266623f4/README.md",
+      "sourceSha256": "010484b843f0e2c3d8dcaf8ff01d97fcb154dbc4c2e2d74d90c2c56d29e24aeb",
+      "gitBlobSha": "d80196a7385ff1a262537aaa07f8cd30be40cba6",
+      "bytes": 6380,
+      "commit": "bc44cbe2eeccd21ad49cd1bbb8534242266623f4",
+      "accessedAt": "2026-11-28T16:06:09.455Z"
+    },
+    {
+      "path": "NOTICE.md",
+      "url": "https://github.com/KanadeK/pepper-carrot-codex-pet/blob/bc44cbe2eeccd21ad49cd1bbb8534242266623f4/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/KanadeK/pepper-carrot-codex-pet/bc44cbe2eeccd21ad49cd1bbb8534242266623f4/NOTICE.md",
+      "sourceSha256": "f6e0e32b1ce05bb25a279a8dd6612c3ee5d2c061e8ab7c9406ea4ff3179c5f27",
+      "gitBlobSha": "c3a5ebc96806237c67dc64896553d8d7b66ca0a8",
+      "bytes": 1715,
+      "commit": "bc44cbe2eeccd21ad49cd1bbb8534242266623f4",
+      "accessedAt": "2026-11-28T16:06:09.783Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/KanadeK/pepper-carrot-codex-pet/blob/bc44cbe2eeccd21ad49cd1bbb8534242266623f4/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/KanadeK/pepper-carrot-codex-pet/bc44cbe2eeccd21ad49cd1bbb8534242266623f4/LICENSE",
+      "sourceSha256": "17a20307c83fda9e7598b2d2147e2d9d51f92f4189108259475746bcd5bf51db",
+      "gitBlobSha": "c2e5bb58a68313e67544067b80b15292a842f122",
+      "bytes": 1064,
+      "commit": "bc44cbe2eeccd21ad49cd1bbb8534242266623f4",
+      "accessedAt": "2026-11-28T16:06:10.121Z"
+    },
+    {
+      "path": "artwork/source/README.md",
+      "url": "https://github.com/KanadeK/pepper-carrot-codex-pet/blob/bc44cbe2eeccd21ad49cd1bbb8534242266623f4/artwork/source/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/KanadeK/pepper-carrot-codex-pet/bc44cbe2eeccd21ad49cd1bbb8534242266623f4/artwork/source/README.md",
+      "sourceSha256": "bfb8baaa9c99a88d5c1f8892b3111169218fa9903dce6861ac80b97622b9ac6e",
+      "gitBlobSha": "f278847e5801ba303cdf2d3a55089e421bdbd822",
+      "bytes": 1478,
+      "commit": "bc44cbe2eeccd21ad49cd1bbb8534242266623f4",
+      "accessedAt": "2026-11-28T16:06:10.448Z"
+    },
+    {
+      "path": "pet/provenance.json",
+      "url": "https://github.com/KanadeK/pepper-carrot-codex-pet/blob/bc44cbe2eeccd21ad49cd1bbb8534242266623f4/pet/provenance.json",
+      "rawUrl": "https://raw.githubusercontent.com/KanadeK/pepper-carrot-codex-pet/bc44cbe2eeccd21ad49cd1bbb8534242266623f4/pet/provenance.json",
+      "sourceSha256": "ff95a8049442222cc37e2e224737e32630cce8d2946ab1d4db11eba806bda121",
+      "gitBlobSha": "74fd37d815ba8ab92674b753b6b921341a6aec07",
+      "bytes": 2464,
+      "commit": "bc44cbe2eeccd21ad49cd1bbb8534242266623f4",
+      "accessedAt": "2026-11-28T16:06:10.832Z"
+    },
+    {
+      "path": "pet/pet.json",
+      "url": "https://github.com/KanadeK/pepper-carrot-codex-pet/blob/bc44cbe2eeccd21ad49cd1bbb8534242266623f4/pet/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/KanadeK/pepper-carrot-codex-pet/bc44cbe2eeccd21ad49cd1bbb8534242266623f4/pet/pet.json",
+      "sourceSha256": "b3bc819438bfe63b6644b31fa6e4a619c19ed5c00ded517e96a1f465157df45f",
+      "gitBlobSha": "e1d0bd0589153d04783fd1b772e3d88ac335565f",
+      "bytes": 290,
+      "commit": "bc44cbe2eeccd21ad49cd1bbb8534242266623f4",
+      "accessedAt": "2026-11-28T16:06:11.221Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T16:08:09.475Z",
+  "scope": "Pinned project notice identifies the source model sheet. David Revoy’s exact source page contains an AI-derivation restriction. The record links both declarations pending clarification of derivative reuse.",
+  "relations": [
+    {
+      "role": "code-license",
+      "title": "MIT · source code",
+      "url": "https://github.com/KanadeK/pepper-carrot-codex-pet/blob/bc44cbe2eeccd21ad49cd1bbb8534242266623f4/LICENSE"
+    },
+    {
+      "role": "pet-manifest",
+      "title": "Codex pet manifest · v2",
+      "url": "https://github.com/KanadeK/pepper-carrot-codex-pet/blob/bc44cbe2eeccd21ad49cd1bbb8534242266623f4/pet/pet.json"
+    },
+    {
+      "role": "artwork-attribution",
+      "title": "Artwork credits and declared terms",
+      "url": "https://github.com/KanadeK/pepper-carrot-codex-pet/blob/bc44cbe2eeccd21ad49cd1bbb8534242266623f4/NOTICE.md"
+    },
+    {
+      "role": "source-artwork-terms",
+      "title": "David Revoy · 2017 Pepper model sheet and usage statement",
+      "url": "https://www.peppercarrot.com/sb/viewer/sketchbook-src__2017-08-06_Pepper_s-model-sheet_by-David-Revoy.html"
+    },
+    {
+      "role": "project-provenance",
+      "title": "KanadeK · derivative provenance",
+      "url": "https://github.com/KanadeK/pepper-carrot-codex-pet/blob/bc44cbe2eeccd21ad49cd1bbb8534242266623f4/pet/provenance.json"
+    }
+  ],
+  "upstreamSource": {
+    "url": "https://www.peppercarrot.com/sb/viewer/sketchbook-src__2017-08-06_Pepper_s-model-sheet_by-David-Revoy.html",
+    "observedAt": "2026-11-28T16:08:09.475Z",
+    "httpStatus": 200,
+    "htmlSha256": "c42bf3ebdd96b4cb67f334830541ee2f0dc3236de4bcb767e280e4538fca1591",
+    "markers": [
+      "\"Pepper s model sheet\" by David Revoy − CC-BY 4.0 − AI derivation prohibited",
+      "\"Pepper s model sheet\" by David Revoy − CC-BY 4.0 − AI derivation prohibited",
+      "AI derivation prohibited"
+    ]
+  },
+  "derivativeRights": "pending"
+}
