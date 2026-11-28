@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1yMWz6CEcb/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1yMWz6CEcb",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:20.586Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1yMWz6CEcb",
+    "title": "【DeepSeek大肥鱼】等等，我再想想（完整版）",
+    "owner": {
+      "name": "相貌平平雨宫莲OFFICIAL",
+      "mid": 325756
+    },
+    "pubdate": 1794574786,
+    "duration": 111
+  },
+  "descriptionSha256": "87c54f97953f526c02c1c68eea666b5eb4d14a23100316cf480879974b76d5d2",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "相貌平平雨宫莲OFFICIAL",
+      "url": "https://space.bilibili.com/325756"
+    }
+  ]
+}

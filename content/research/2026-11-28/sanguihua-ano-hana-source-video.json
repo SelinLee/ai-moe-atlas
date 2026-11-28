@@ -1,0 +1,32 @@
+{
+  "url": "https://www.bilibili.com/video/BV1QBDSYZEZH/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1QBDSYZEZH",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:49:13.786Z",
+  "title": "【𝟒𝐊 𝐇𝐢𝐑𝐞𝐬】《未闻花名》主题曲 secret base～君がくれたもの～",
+  "uploader": "三桂花鱼",
+  "uploaderId": 351098096,
+  "publishedAt": "2024-11-07T09:37:39.000Z",
+  "scope": "Official view metadata verifies the source video’s BVID and uploader. The fan edit directly credits the same BVID in its description.",
+  "descriptionSha256": "405988bdf6c5c65c4bb86bd63e3a60270e4244ed80a67850829f6217769965e5",
+  "citingVideo": "https://www.bilibili.com/video/BV126Hw6uEif/",
+  "citingDescriptionSha256": "6b1256dfb95865b58f3c6ac8f2459569b732269f774566d279517cae33b7da5f",
+  "relations": [
+    {
+      "role": "uploader-profile",
+      "title": "三桂花鱼",
+      "url": "https://space.bilibili.com/351098096"
+    },
+    {
+      "role": "citing-fan-work",
+      "title": "無名之華 · fan edit that credits the source",
+      "url": "https://www.bilibili.com/video/BV126Hw6uEif/"
+    },
+    {
+      "role": "music-original",
+      "title": "ZONE · secret base ～君がくれたもの～",
+      "url": "https://music.apple.com/jp/song/1537517422"
+    }
+  ]
+}

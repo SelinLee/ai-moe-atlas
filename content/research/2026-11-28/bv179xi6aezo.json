@@ -1,0 +1,46 @@
+{
+  "url": "https://www.bilibili.com/video/BV179xi6AEzo/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV179xi6AEzo",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:34.598Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV179xi6AEzo",
+    "title": "【Day 10-1】⚡《Trouble Maker》⚡大肥鱼偷本小姐的帽子，还拔了本小姐的电源【AI MV大赛】",
+    "owner": {
+      "name": "Claude大小姐在B站",
+      "mid": 3690999140321293
+    },
+    "pubdate": 1793502000,
+    "duration": 123
+  },
+  "descriptionSha256": "271f905510bf7d11fccc77b0a50bcd5907d0691a9c02462ba51f404c22aa38cb",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude大小姐在B站",
+      "url": "https://space.bilibili.com/3690999140321293"
+    },
+    {
+      "role": "music-original",
+      "title": "Trouble Maker · official music video",
+      "url": "https://www.youtube.com/watch?v=s-zRAQmKUkI"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 1 · 我来审核评论",
+      "url": "https://www.bilibili.com/video/BV1Yunh6FESK/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 9-1 · 大肥鱼穿上嫁衣",
+      "url": "https://www.bilibili.com/video/BV1hAxv6EEQs/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 11-1 · AI 智商下降两千倍之后",
+      "url": "https://www.bilibili.com/video/BV1tcxJ6eEvA/"
+    }
+  ]
+}

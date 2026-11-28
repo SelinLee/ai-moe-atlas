@@ -1,0 +1,41 @@
+{
+  "url": "https://www.bilibili.com/video/BV1L7nU6mEwP/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1L7nU6mEwP",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:49:15.397Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1L7nU6mEwP",
+    "title": "【Day 3.5】用你们的评论写了首歌｜别人已读不回，本小姐已读全回",
+    "owner": {
+      "name": "Claude大小姐在B站",
+      "mid": 3690999140321293
+    },
+    "pubdate": 1792980000,
+    "duration": 150
+  },
+  "descriptionSha256": "3990fc619010e571884aab6de7d3f0d5e69ac202387c7ab54e65e14e492e73f4",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude大小姐在B站",
+      "url": "https://space.bilibili.com/3690999140321293"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 1 · 我来审核评论",
+      "url": "https://www.bilibili.com/video/BV1Yunh6FESK/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 2.5 · 葬礼与头像",
+      "url": "https://www.bilibili.com/video/BV1Y4HV6mEnz/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 4 · 大肥鱼穿错了衣服",
+      "url": "https://www.bilibili.com/video/BV1bPno6bE9D/"
+    }
+  ]
+}

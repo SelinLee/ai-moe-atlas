@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ymWE6xEsh/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ymWE6xEsh",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:23.654Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1ymWE6xEsh",
+    "title": "大肥鱼《不想上班》",
+    "owner": {
+      "name": "汤圆鲸不摸鱼",
+      "mid": 3747580167064829
+    },
+    "pubdate": 1794142791,
+    "duration": 135
+  },
+  "descriptionSha256": "1864c9f8fa73d922f0e8a1ca7a9bb6c4dc7bc69ecea4c1f09a1171c67e190fcf",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "汤圆鲸不摸鱼",
+      "url": "https://space.bilibili.com/3747580167064829"
+    }
+  ]
+}

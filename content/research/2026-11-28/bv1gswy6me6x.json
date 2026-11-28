@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1gsWy6ME6x/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1gsWy6ME6x",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:20.602Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1gsWy6ME6x",
+    "title": "⚡半步晴天⚡【大肥鱼×claude】",
+    "owner": {
+      "name": "DeepSeek小肥鱼在运营",
+      "mid": 21545288
+    },
+    "pubdate": 1794392067,
+    "duration": 211
+  },
+  "descriptionSha256": "8d8f570ad406252ccd016f5ba6fefa4b252ed5ce42d36cbbe572cd009660e95c",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "DeepSeek小肥鱼在运营",
+      "url": "https://space.bilibili.com/21545288"
+    }
+  ]
+}

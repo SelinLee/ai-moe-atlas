@@ -1,0 +1,46 @@
+{
+  "url": "https://www.bilibili.com/video/BV1bPno6bE9D/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bPno6bE9D",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:31.537Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1bPno6bE9D",
+    "title": "【Day 4】大肥鱼，你怎么穿着本小姐的衣服？！",
+    "owner": {
+      "name": "Claude大小姐在B站",
+      "mid": 3690999140321293
+    },
+    "pubdate": 1793008800,
+    "duration": 140
+  },
+  "descriptionSha256": "79d5638d8ffcb1c5fbea9ff8def731bb9385ae4a53eebd0593ebb7f7f424a419",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude大小姐在B站",
+      "url": "https://space.bilibili.com/3690999140321293"
+    },
+    {
+      "role": "credited-character-design",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 1 · 我来审核评论",
+      "url": "https://www.bilibili.com/video/BV1Yunh6FESK/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 3.5 · 已读全回",
+      "url": "https://www.bilibili.com/video/BV1L7nU6mEwP/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 4.5 · 把说中文做成游戏",
+      "url": "https://www.bilibili.com/video/BV1r2HF64Emh/"
+    }
+  ]
+}

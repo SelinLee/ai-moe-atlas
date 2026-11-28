@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1SEsZ6kEzi/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SEsZ6kEzi",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:31.553Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1SEsZ6kEzi",
+    "title": "🐳🐳我的大肥鱼不可能这么可爱【bilibilionly同人扶持计划】",
+    "owner": {
+      "name": "视画深空",
+      "mid": 28137085
+    },
+    "pubdate": 1793250670,
+    "duration": 68
+  },
+  "descriptionSha256": "cb962d3cba5988450a05f8629adb17e775a3decfa5d4999d0938dfcc990bcefe",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "视画深空",
+      "url": "https://space.bilibili.com/28137085"
+    }
+  ]
+}

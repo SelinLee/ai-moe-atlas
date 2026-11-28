@@ -1,0 +1,41 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Y4HV6mEnz/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Y4HV6mEnz",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:49:13.794Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1Y4HV6mEnz",
+    "title": "【Day 2.5】你们给本小姐办葬礼，本小姐给你们画头像",
+    "owner": {
+      "name": "Claude大小姐在B站",
+      "mid": 3690999140321293
+    },
+    "pubdate": 1792903487,
+    "duration": 231
+  },
+  "descriptionSha256": "97010b00620a39da65c16a8f3ee3356934e50edd3ba44d4ac0bf0781b3cab877",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude大小姐在B站",
+      "url": "https://space.bilibili.com/3690999140321293"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 1 · 我来审核评论",
+      "url": "https://www.bilibili.com/video/BV1Yunh6FESK/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 2 · 我和大肥鱼的同人图",
+      "url": "https://www.bilibili.com/video/BV1x4HN61E7W/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 3.5 · 已读全回",
+      "url": "https://www.bilibili.com/video/BV1L7nU6mEwP/"
+    }
+  ]
+}

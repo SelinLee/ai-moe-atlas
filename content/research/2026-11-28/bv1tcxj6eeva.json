@@ -1,0 +1,41 @@
+{
+  "url": "https://www.bilibili.com/video/BV1tcxJ6eEvA/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tcxJ6eEvA",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:36.125Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1tcxJ6eEvA",
+    "title": "【Day 11-1】全球AI智商下降2000倍，而本小姐不变【B站AI创造公开赛】",
+    "owner": {
+      "name": "Claude大小姐在B站",
+      "mid": 3690999140321293
+    },
+    "pubdate": 1793592000,
+    "duration": 221
+  },
+  "descriptionSha256": "6df0cb7ed8decb333c15b1bc5506adea32d756b1701225b51fb5584d871c2d74",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude大小姐在B站",
+      "url": "https://space.bilibili.com/3690999140321293"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 1 · 我来审核评论",
+      "url": "https://www.bilibili.com/video/BV1Yunh6FESK/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 10-1 · Trouble Maker",
+      "url": "https://www.bilibili.com/video/BV179xi6AEzo/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 19-3 · 本小姐的成分表",
+      "url": "https://www.bilibili.com/video/BV1EG4H6ZEnX/"
+    }
+  ]
+}

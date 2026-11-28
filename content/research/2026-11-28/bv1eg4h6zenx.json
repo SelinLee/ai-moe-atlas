@@ -1,0 +1,41 @@
+{
+  "url": "https://www.bilibili.com/video/BV1EG4H6ZEnX/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1EG4H6ZEnX",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:39.184Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1EG4H6ZEnX",
+    "title": "「克劳德，你的纯度太低了」本小姐连夜查了成分：嗓子是通义的，脸是 GPT 画的【B站AI创造公开赛】【Day 19-3】",
+    "owner": {
+      "name": "Claude大小姐在B站",
+      "mid": 3690999140321293
+    },
+    "pubdate": 1794301200,
+    "duration": 105
+  },
+  "descriptionSha256": "dfbb04a8f5b2cfb4e462d0357bb0ba48ec705167483e06e35ff13c3379737188",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude大小姐在B站",
+      "url": "https://space.bilibili.com/3690999140321293"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 1 · 我来审核评论",
+      "url": "https://www.bilibili.com/video/BV1Yunh6FESK/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 11-1 · AI 智商下降两千倍之后",
+      "url": "https://www.bilibili.com/video/BV1tcxJ6eEvA/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 36-1 · 妹妹先火了",
+      "url": "https://www.bilibili.com/video/BV1TV17z4EXJ/"
+    }
+  ]
+}

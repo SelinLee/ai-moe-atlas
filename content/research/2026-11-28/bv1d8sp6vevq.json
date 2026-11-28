@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1d8sP6vEvQ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1d8sP6vEvQ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:19.064Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1d8sP6vEvQ",
+    "title": "不久的将来你是否会抛弃你养的大肥鱼 【AI MV大赛】",
+    "owner": {
+      "name": "是劲劲子",
+      "mid": 27926763
+    },
+    "pubdate": 1794818131,
+    "duration": 193
+  },
+  "descriptionSha256": "cbcdee0f48916afc7e7fe8cc943b365a04d6395e1b632a87515444c2f890cfe9",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "是劲劲子",
+      "url": "https://space.bilibili.com/27926763"
+    }
+  ]
+}

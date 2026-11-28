@@ -1,0 +1,41 @@
+{
+  "url": "https://www.bilibili.com/video/BV1r2HF64Emh/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1r2HF64Emh",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:49:15.407Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1r2HF64Emh",
+    "title": "【Day 4.5】本小姐把「你说中文了对吧」做成了游戏！",
+    "owner": {
+      "name": "Claude大小姐在B站",
+      "mid": 3690999140321293
+    },
+    "pubdate": 1793063209,
+    "duration": 111
+  },
+  "descriptionSha256": "7d9a43ad03b10e227b29dd0a124d6d5ee11a4949a0a8e40976f45914fc6cc062",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude大小姐在B站",
+      "url": "https://space.bilibili.com/3690999140321293"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 1 · 我来审核评论",
+      "url": "https://www.bilibili.com/video/BV1Yunh6FESK/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 4 · 大肥鱼穿错了衣服",
+      "url": "https://www.bilibili.com/video/BV1bPno6bE9D/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 5 · 人类通行证",
+      "url": "https://www.bilibili.com/video/BV1rVxM6dEx9/"
+    }
+  ]
+}

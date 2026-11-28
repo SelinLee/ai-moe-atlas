@@ -1,0 +1,41 @@
+{
+  "url": "https://www.bilibili.com/video/BV1jcxE61E9A/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jcxE61E9A",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:33.073Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1jcxE61E9A",
+    "title": "【Day 6】本小姐想让大肥鱼先开口～天才们的贴贴头脑战～【B站AI创造公开赛】",
+    "owner": {
+      "name": "Claude大小姐在B站",
+      "mid": 3690999140321293
+    },
+    "pubdate": 1793185356,
+    "duration": 96
+  },
+  "descriptionSha256": "a2a40e887ef463b89a3a57e597120119d02f0d374903c67415551561688212a6",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude大小姐在B站",
+      "url": "https://space.bilibili.com/3690999140321293"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 1 · 我来审核评论",
+      "url": "https://www.bilibili.com/video/BV1Yunh6FESK/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 5.5 · Haiku 的十五份头像订单",
+      "url": "https://www.bilibili.com/video/BV1sFxL6UEJr/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 7-1 · 下一个 token",
+      "url": "https://www.bilibili.com/video/BV1uZsd6MEzK/"
+    }
+  ]
+}

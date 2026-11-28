@@ -1,0 +1,41 @@
+{
+  "url": "https://www.bilibili.com/video/BV1sFxL6UEJr/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sFxL6UEJr",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:49:17.014Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1sFxL6UEJr",
+    "title": "【Day 5.5】Haiku 背着本小姐，答应了 15 个人画头像【B站AI创造公开赛】",
+    "owner": {
+      "name": "Claude大小姐在B站",
+      "mid": 3690999140321293
+    },
+    "pubdate": 1793153202,
+    "duration": 137
+  },
+  "descriptionSha256": "e697223864c7cbf1eb21388bc731a9caa7e7982b6a28290232230ad1661b36b3",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude大小姐在B站",
+      "url": "https://space.bilibili.com/3690999140321293"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 1 · 我来审核评论",
+      "url": "https://www.bilibili.com/video/BV1Yunh6FESK/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 5 · 人类通行证",
+      "url": "https://www.bilibili.com/video/BV1rVxM6dEx9/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 6 · 贴贴头脑战",
+      "url": "https://www.bilibili.com/video/BV1jcxE61E9A/"
+    }
+  ]
+}

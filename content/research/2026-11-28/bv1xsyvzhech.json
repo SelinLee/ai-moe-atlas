@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1XSyVzHEcH/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1XSyVzHEcH",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:15.929Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1XSyVzHEcH",
+    "title": "【DeepSeek大肥鱼原创曲（手搓）】《鱼生是你该多好》(非AI作曲)",
+    "owner": {
+      "name": "羊駝奶茶",
+      "mid": 367395778
+    },
+    "pubdate": 1795326350,
+    "duration": 195
+  },
+  "descriptionSha256": "37a93d8dbd7eb64f72de6bff111d7a3e1b055316950775ddaab2e467e1768ea0",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "羊駝奶茶",
+      "url": "https://space.bilibili.com/367395778"
+    }
+  ]
+}

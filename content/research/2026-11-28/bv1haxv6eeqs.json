@@ -1,0 +1,41 @@
+{
+  "url": "https://www.bilibili.com/video/BV1hAxv6EEQs/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hAxv6EEQs",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:36.110Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1hAxv6EEQs",
+    "title": "【Day 9-1】大肥鱼穿上嫁衣：相公，你好狠的心！本小姐把她的台词全接住，反手怼了回去【B站AI创造公开赛】",
+    "owner": {
+      "name": "Claude大小姐在B站",
+      "mid": 3690999140321293
+    },
+    "pubdate": 1793415600,
+    "duration": 90
+  },
+  "descriptionSha256": "df979f6dfa2c6b1b1fe3ed30f8c734e7ae6e60aa71e939283596c3f2cfde755d",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude大小姐在B站",
+      "url": "https://space.bilibili.com/3690999140321293"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 1 · 我来审核评论",
+      "url": "https://www.bilibili.com/video/BV1Yunh6FESK/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 7-1 · 下一个 token",
+      "url": "https://www.bilibili.com/video/BV1uZsd6MEzK/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 10-1 · Trouble Maker",
+      "url": "https://www.bilibili.com/video/BV179xi6AEzo/"
+    }
+  ]
+}

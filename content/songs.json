@@ -235,7 +235,7 @@
     "id": "stay-by-my-side-whale",
     "title": {"zh": "乖乖待在我身边", "en": "Stay by My Side", "ja": "そばにいて"},
     "original": {"credit": "鲸鲸是鱼鱼", "url": "https://www.bilibili.com/video/BV1RYWn6CEmu/"},
-    "versions": [{"id": "bv1hjwb6texc", "type": "arrangement"}]
+    "versions": [{"id": "bv1rywn6cemu", "type": "original-mv"}, {"id": "bv1hjwb6texc", "type": "arrangement"}]
   },
   {
     "id": "almost-full-context",
@@ -458,7 +458,7 @@
     "id": "trouble-maker-duo",
     "title": {"zh": "Trouble Maker", "en": "Trouble Maker", "ja": "Trouble Maker"},
     "original": {"credit": "Trouble Maker · HyunA & Jang Hyun-seung", "url": "https://music.apple.com/us/album/trouble-maker-ep/1343137845"},
-    "versions": [{"id": "bv1stsz6iesz", "type": "mv"}, {"id": "bv1nc4c61ewf", "type": "mv"}, {"id": "bv1jvyyzeeer", "type": "dance"}]
+    "versions": [{"id": "bv1stsz6iesz", "type": "mv"}, {"id": "bv1nc4c61ewf", "type": "mv"}, {"id": "bv1jvyyzeeer", "type": "dance"}, {"id": "bv179xi6aezo", "type": "mv"}]
   },
   {
     "id": "friends-wine",
@@ -602,7 +602,8 @@
     "title": {"zh": "secret base ～君がくれたもの～", "en": "secret base ~Kimi ga Kureta Mono~", "ja": "secret base ～君がくれたもの～"},
     "original": {"credit": "ZONE", "url": "https://music.apple.com/jp/song/1537517422"},
     "versions": [
-      {"id": "bv1uxyizuefz", "type": "cover"}
+      {"id": "bv1uxyizuefz", "type": "cover"},
+      {"id": "bv126hw6ueif", "type": "mv"}
     ]
   },
   {
@@ -1398,5 +1399,77 @@
     "title": {"zh": "还想再说一点", "en": "I Still Have More to Say", "ja": "まだ、しゃべり足りない"},
     "original": {"credit": "-Azazel- · DeepSeek · Suno", "url": "https://www.bilibili.com/video/BV1QgxE6BELH/"},
     "versions": [{"id": "bv1qgxe6belh", "type": "original-mv"}]
+  },
+  {
+    "id": "fish-life-with-you",
+    "title": {"zh": "鱼生是你该多好", "en": "If Only You Were My Fish Life", "ja": "魚の一生が君なら"},
+    "original": {"credit": "羊驼奶茶 · 大肥鱼 · FeiyuVoice-RVC", "url": "https://www.bilibili.com/video/BV1XSyVzHEcH/"},
+    "versions": [{"id": "bv1xsyvzhech", "type": "original-mv"}]
+  },
+  {
+    "id": "fat-fish-loves-rice",
+    "title": {"zh": "大肥鱼爱吃白米饭", "en": "Fat Fish Loves White Rice", "ja": "大きな魚は白ごはんが好き"},
+    "original": {"credit": "和平挖掘机 · MUSE AI", "url": "https://www.bilibili.com/video/BV1djyYz1E8Q/"},
+    "versions": [{"id": "bv1djyyz1e8q", "type": "original-mv"}]
+  },
+  {
+    "id": "dont-call-me-fat-fish",
+    "title": {"zh": "别叫我大肥鱼", "en": "Don’t Call Me Fat Fish", "ja": "大きな魚と呼ばないで"},
+    "original": {"credit": "てMissU · 大肥鱼（AI）", "url": "https://www.bilibili.com/video/BV1hfsU6WEJE/"},
+    "versions": [{"id": "bv1hfsu6weje", "type": "original-mv"}]
+  },
+  {
+    "id": "when-the-stars-went-to-dark",
+    "title": {"zh": "星辰熄灭之时", "en": "When the Stars Went to Dark", "ja": "星が消えるとき"},
+    "original": {"credit": "SIX_143 · GPT · Suno", "url": "https://www.bilibili.com/video/BV18SsM6MEkF/"},
+    "versions": [{"id": "bv18ssm6mekf", "type": "original-mv"}]
+  },
+  {
+    "id": "our-promise-jingjingzi",
+    "title": {"zh": "我们的约定", "en": "Our Promise", "ja": "私たちの約束"},
+    "original": {"credit": "是劲劲子 · 谱乐AI", "url": "https://www.bilibili.com/video/BV1d8sP6vEvQ/"},
+    "versions": [{"id": "bv1d8sp6vevq", "type": "original-mv"}]
+  },
+  {
+    "id": "starlight-on-your-fingertips",
+    "title": {"zh": "星光落在你指尖", "en": "Starlight on Your Fingertips", "ja": "指先に落ちる星明かり"},
+    "original": {"credit": "变柯南的新一 · 大肥鱼", "url": "https://www.bilibili.com/video/BV12FsF6zELr/"},
+    "versions": [{"id": "bv12fsf6zelr", "type": "original-mv"}]
+  },
+  {
+    "id": "half-step-to-sunshine",
+    "title": {"zh": "半步晴天", "en": "Half a Step to Sunshine", "ja": "晴れ間まであと半歩"},
+    "original": {"credit": "DeepSeek小肥鱼在运营 · 小克 · 大肥鱼", "url": "https://www.bilibili.com/video/BV1gsWy6ME6x/"},
+    "versions": [{"id": "bv1gswy6me6x", "type": "original-mv"}]
+  },
+  {
+    "id": "jump-into-the-clouds",
+    "title": {"zh": "跳进云里", "en": "Jump into the Clouds", "ja": "雲の中へ飛び込む"},
+    "original": {"credit": "DeepSeek小肥鱼在运营 · 小克 · 大肥鱼", "url": "https://www.bilibili.com/video/BV17WWT6VEyN/"},
+    "versions": [{"id": "bv17wwt6veyn", "type": "original-mv"}]
+  },
+  {
+    "id": "dont-want-to-go-to-work",
+    "title": {"zh": "不想上班", "en": "I Don’t Want to Go to Work", "ja": "仕事に行きたくない"},
+    "original": {"credit": "汤圆鲸不摸鱼", "url": "https://www.bilibili.com/video/BV1ymWE6xEsh/"},
+    "versions": [{"id": "bv1ymwe6xesh", "type": "original-mv"}]
+  },
+  {
+    "id": "no-whale-in-the-mirror",
+    "title": {"zh": "镜子里没有鲸", "en": "No Whale in the Mirror", "ja": "鏡の中にクジラはいない"},
+    "original": {"credit": "原苗", "url": "https://www.bilibili.com/video/BV1VmW76qEnf/"},
+    "versions": [{"id": "bv1vmw76qenf", "type": "original-mv"}]
+  },
+  {
+    "id": "read-and-replied-to-all",
+    "title": {"zh": "已读全回", "en": "Read and Replied to All", "ja": "既読・全返信"},
+    "original": {"credit": "Claude大小姐在B站", "url": "https://www.bilibili.com/video/BV1L7nU6mEwP/"},
+    "versions": [{"id": "bv1l7nu6mewp", "type": "original-mv"}]
+  },
+  {
+    "id": "next-token-is-you",
+    "title": {"zh": "下一个 token", "en": "Next Token Is You", "ja": "次のトークンは君"},
+    "original": {"credit": "Claude大小姐在B站 · 汽水音乐 AI", "url": "https://www.bilibili.com/video/BV1uZsd6MEzK/"},
+    "versions": [{"id": "bv1uzsd6mezk", "type": "original-mv"}]
   }
 ]

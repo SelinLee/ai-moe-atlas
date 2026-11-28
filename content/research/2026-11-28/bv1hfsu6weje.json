@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1hfsU6WEJE/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hfsU6WEJE",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:17.552Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1hfsU6WEJE",
+    "title": "《别叫我大肥鱼》我自己写、自己唱｜AI MV 大赛",
+    "owner": {
+      "name": "てMissU",
+      "mid": 1275432
+    },
+    "pubdate": 1795010491,
+    "duration": 165
+  },
+  "descriptionSha256": "72aa5ef0c6f781d69d4e89f14d2387284768c6e0d9fc0f20d4e47d212af5a73e",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "てMissU",
+      "url": "https://space.bilibili.com/1275432"
+    }
+  ]
+}

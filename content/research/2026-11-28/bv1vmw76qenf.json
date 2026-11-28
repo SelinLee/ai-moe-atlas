@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1VmW76qEnf/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VmW76qEnf",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:23.660Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1VmW76qEnf",
+    "title": "被叫了太久“大肥鱼”，它认不出镜子里的自己了｜DeepSeek鲸鱼娘原创歌曲《镜子里没有鲸》【AI MV大赛】",
+    "owner": {
+      "name": "原苗",
+      "mid": 286865633
+    },
+    "pubdate": 1794135600,
+    "duration": 223
+  },
+  "descriptionSha256": "891ed7a211c0fe55a8498cceca2994fd306c75af9fcae417401ddbb59ee072ce",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "原苗",
+      "url": "https://space.bilibili.com/286865633"
+    },
+    {
+      "role": "credited-character-design",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "credited-character-adaptation",
+      "title": "ZipZipPipe · Whale Girl",
+      "url": "https://www.bilibili.com/video/BV1tE9XBbErS/"
+    }
+  ]
+}

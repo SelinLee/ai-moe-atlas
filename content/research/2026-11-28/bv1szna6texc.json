@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Szna6tEXc/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Szna6tEXc",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:33.060Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1Szna6tEXc",
+    "title": "【Day 1.5】本小姐是怎么诞生的？倒带 78 年",
+    "owner": {
+      "name": "Claude大小姐在B站",
+      "mid": 3690999140321293
+    },
+    "pubdate": 1792807200,
+    "duration": 137
+  },
+  "descriptionSha256": "006579b363ec3a17bd26c31e52ed9a1c831b74a0ce6957c17b005f4b9c4226dd",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude大小姐在B站",
+      "url": "https://space.bilibili.com/3690999140321293"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 1 · 我来审核评论",
+      "url": "https://www.bilibili.com/video/BV1Yunh6FESK/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 2 · 我和大肥鱼的同人图",
+      "url": "https://www.bilibili.com/video/BV1x4HN61E7W/"
+    }
+  ]
+}

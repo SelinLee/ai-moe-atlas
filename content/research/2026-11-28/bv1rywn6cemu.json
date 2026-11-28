@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1RYWn6CEmu/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1RYWn6CEmu",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:22.108Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1RYWn6CEmu",
+    "title": "大肥鱼原创MV《乖乖待在我身边~》",
+    "owner": {
+      "name": "鲸鲸是鱼鱼",
+      "mid": 1517218950
+    },
+    "pubdate": 1794161179,
+    "duration": 164
+  },
+  "descriptionSha256": "2c17b270b4ba8d123aa231acef52cc21c515ca646d04b65168bb5757fe3be190",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "鲸鲸是鱼鱼",
+      "url": "https://space.bilibili.com/1517218950"
+    }
+  ]
+}

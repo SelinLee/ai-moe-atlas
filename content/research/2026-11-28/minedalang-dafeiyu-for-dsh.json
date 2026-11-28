@@ -1,0 +1,86 @@
+{
+  "historical": false,
+  "full_name": "minedalang/dafeiyu-for-dsh",
+  "html_url": "https://github.com/minedalang/dafeiyu-for-dsh",
+  "stargazers_count": 1,
+  "archived": false,
+  "created_at": "2026-10-24T01:12:37Z",
+  "default_branch": "master",
+  "fork": false,
+  "commit": "3d17610b8019c2c9cc7d09db06f870e57714a689",
+  "observedAt": "2026-11-28T14:47:12.002Z",
+  "httpStatus": 200,
+  "metadataSha256": "da08dfe71b55831f4e509e5e737fd170e0a3cdfc8c68d6d19078ec0b68c44891",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/minedalang/dafeiyu-for-dsh/blob/3d17610b8019c2c9cc7d09db06f870e57714a689/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/minedalang/dafeiyu-for-dsh/3d17610b8019c2c9cc7d09db06f870e57714a689/README.md",
+      "sourceSha256": "637bbf3119781db19e1b24bf7acf5e99c5c6c5003e6d577bc84fd55c201f62e2",
+      "gitBlobSha": "d029146e2436e923865a7c72e0965eb9b941f22d",
+      "bytes": 8243,
+      "commit": "3d17610b8019c2c9cc7d09db06f870e57714a689",
+      "accessedAt": "2026-11-28T14:48:42.298Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/minedalang/dafeiyu-for-dsh/blob/3d17610b8019c2c9cc7d09db06f870e57714a689/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/minedalang/dafeiyu-for-dsh/3d17610b8019c2c9cc7d09db06f870e57714a689/LICENSE",
+      "sourceSha256": "044c8113b0e735ea1eb7b030d5d375697fb86fa04df408c12cef74dbe2317fa4",
+      "gitBlobSha": "93a9c1bdb5a355346717d784517ecb3697237599",
+      "bytes": 1064,
+      "commit": "3d17610b8019c2c9cc7d09db06f870e57714a689",
+      "accessedAt": "2026-11-28T14:48:42.559Z"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "url": "https://github.com/minedalang/dafeiyu-for-dsh/blob/3d17610b8019c2c9cc7d09db06f870e57714a689/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/minedalang/dafeiyu-for-dsh/3d17610b8019c2c9cc7d09db06f870e57714a689/THIRD_PARTY_NOTICES.md",
+      "sourceSha256": "4e9d14d78fdae087c4d547c6cd91f3effdd5e70d66606c46082fe1b4a7d7c65f",
+      "gitBlobSha": "bd4501175c404b05113ae2c75c381003c62b10b4",
+      "bytes": 19713,
+      "commit": "3d17610b8019c2c9cc7d09db06f870e57714a689",
+      "accessedAt": "2026-11-28T14:48:42.839Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T14:48:42.839Z",
+  "scope": "GitHub REST tree and pinned public files verified in isolated headless Chrome, with Git blob IDs and SHA-256. The atlas records artwork terms separately.",
+  "relations": [
+    {
+      "role": "code-license",
+      "title": "DSH desktop edition · MIT code license",
+      "url": "https://github.com/minedalang/dafeiyu-for-dsh/blob/3d17610b8019c2c9cc7d09db06f870e57714a689/LICENSE"
+    },
+    {
+      "role": "asset-specific-terms",
+      "title": "Whale motion notice",
+      "url": "https://github.com/minedalang/dafeiyu-for-dsh/blob/3d17610b8019c2c9cc7d09db06f870e57714a689/THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "role": "upstream-project",
+      "title": "MerZlin · desktop upstream",
+      "url": "https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md"
+    },
+    {
+      "role": "credited-motion-upstream",
+      "title": "PC2005-cloud · credited motion source",
+      "url": "https://github.com/PC2005-cloud/dsh-pet/blob/29a5af50f60a63caeeace66a514f47ed3198d0fa/README.md"
+    },
+    {
+      "role": "successor-project",
+      "title": "minedalang · dsh-dafeiyu-life",
+      "url": "https://github.com/minedalang/dsh-dafeiyu-life/blob/178885958036f88878b8330bfcba94a5e48f1d85/README.md"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/minedalang/dafeiyu-for-dsh/blob/3d17610b8019c2c9cc7d09db06f870e57714a689/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/minedalang/dafeiyu-for-dsh/3d17610b8019c2c9cc7d09db06f870e57714a689/README.md",
+    "sourceSha256": "637bbf3119781db19e1b24bf7acf5e99c5c6c5003e6d577bc84fd55c201f62e2",
+    "gitBlobSha": "d029146e2436e923865a7c72e0965eb9b941f22d",
+    "bytes": 8243,
+    "commit": "3d17610b8019c2c9cc7d09db06f870e57714a689",
+    "accessedAt": "2026-11-28T14:48:42.298Z"
+  }
+}

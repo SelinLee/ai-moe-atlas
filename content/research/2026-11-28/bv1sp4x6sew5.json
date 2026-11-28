@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1sP4x6SEW5/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1sP4x6SEW5",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:25.169Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1sP4x6SEW5",
+    "title": "大肥鱼成精了！DeepSeek在线陪你加班【AI原创MV】",
+    "owner": {
+      "name": "阿瑞liuliu",
+      "mid": 224816518
+    },
+    "pubdate": 1794105836,
+    "duration": 128
+  },
+  "descriptionSha256": "90a1c2fbba50e68a0889bd5c6a8494c054d09d249fba94c82de8b1bb3c879a45",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "阿瑞liuliu",
+      "url": "https://space.bilibili.com/224816518"
+    }
+  ]
+}

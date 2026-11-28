@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV126Hw6uEif/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV126Hw6uEif",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:28.222Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV126Hw6uEif",
+    "title": "AI娘小动画_大肥鱼✖Claude《未闻花名》",
+    "owner": {
+      "name": "無名之華",
+      "mid": 392667569
+    },
+    "pubdate": 1792812012,
+    "duration": 349
+  },
+  "descriptionSha256": "6b1256dfb95865b58f3c6ac8f2459569b732269f774566d279517cae33b7da5f",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "無名之華",
+      "url": "https://space.bilibili.com/392667569"
+    },
+    {
+      "role": "credited-inspiration",
+      "title": "黑猫勇者 · workflow and inspiration",
+      "url": "https://www.bilibili.com/video/BV1Gpau6wEHE/"
+    },
+    {
+      "role": "credited-video-source",
+      "title": "三桂花鱼 · source video",
+      "url": "https://www.bilibili.com/video/BV1QBDSYZEZH/"
+    }
+  ]
+}

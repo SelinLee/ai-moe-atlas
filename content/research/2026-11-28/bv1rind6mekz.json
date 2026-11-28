@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1rind6mEkZ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1rind6mEkZ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:25.171Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1rind6mEkZ",
+    "title": "【白龙娘的小窝04】猫娘？鲸鱼娘？你们认错龙啦！",
+    "owner": {
+      "name": "白龙营业中",
+      "mid": 3706967912614103
+    },
+    "pubdate": 1793006632,
+    "duration": 68
+  },
+  "descriptionSha256": "95e074821fdfe7975637d84a6db1f0a3c802ba2e69d1c767319abcc897d489e5",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "白龙营业中",
+      "url": "https://space.bilibili.com/3706967912614103"
+    }
+  ]
+}

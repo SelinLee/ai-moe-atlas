@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1TV17z4EXJ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1TV17z4EXJ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:39.189Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1TV17z4EXJ",
+    "title": "双胞胎妹妹先火了，本小姐坐不住了【Day 36-1】",
+    "owner": {
+      "name": "Claude大小姐在B站",
+      "mid": 3690999140321293
+    },
+    "pubdate": 1795752000,
+    "duration": 98
+  },
+  "descriptionSha256": "8d02a685054c9e14db903ef49ce719d86fafc7d9a3b8bae47fd337d390b48a29",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude大小姐在B站",
+      "url": "https://space.bilibili.com/3690999140321293"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 1 · 我来审核评论",
+      "url": "https://www.bilibili.com/video/BV1Yunh6FESK/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 19-3 · 本小姐的成分表",
+      "url": "https://www.bilibili.com/video/BV1EG4H6ZEnX/"
+    }
+  ]
+}

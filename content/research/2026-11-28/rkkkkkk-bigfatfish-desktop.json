@@ -1,0 +1,242 @@
+{
+  "historical": false,
+  "full_name": "RKKKKK/BigFatFish",
+  "html_url": "https://github.com/RKKKKK/BigFatFish",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-11-06T07:27:09Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "ffbe5d8fc0cc91d637c27880fba3d0da09a377c0",
+  "observedAt": "2026-11-28T14:46:11.529Z",
+  "httpStatus": 200,
+  "metadataSha256": "3f7fa319f48abcd271588b103c4d18de7be555e0ffb2462875fa1cc463c3a7fe",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/RKKKKK/BigFatFish/blob/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/RKKKKK/BigFatFish/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/README.md",
+      "sourceSha256": "51ffa6a2aeabe844f77773c87f79ef60f66f4d0d52df5161a3aff9b19597bb42",
+      "gitBlobSha": "e73dd1a225261a7104437338e49ca77d8fb40cd0",
+      "bytes": 25613,
+      "commit": "ffbe5d8fc0cc91d637c27880fba3d0da09a377c0",
+      "accessedAt": "2026-11-28T14:48:42.314Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/RKKKKK/BigFatFish/blob/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/RKKKKK/BigFatFish/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/LICENSE",
+      "sourceSha256": "a1e46acc1349f63e9d1e26a8a600823e010fedcaff20fc1eceb6564432bf829b",
+      "gitBlobSha": "e347bcdf559e0ab4f5a2ea83cf9b027f7426341c",
+      "bytes": 1066,
+      "commit": "ffbe5d8fc0cc91d637c27880fba3d0da09a377c0",
+      "accessedAt": "2026-11-28T14:48:42.569Z"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "url": "https://github.com/RKKKKK/BigFatFish/blob/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/RKKKKK/BigFatFish/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/THIRD_PARTY_NOTICES.md",
+      "sourceSha256": "634e6707ddd6acc73aa42a09975e12e82281cfaf993eca6b1ddb81483bf637fc",
+      "gitBlobSha": "872aa20482d927d48a82f0a93f119ae655093e62",
+      "bytes": 1217,
+      "commit": "ffbe5d8fc0cc91d637c27880fba3d0da09a377c0",
+      "accessedAt": "2026-11-28T14:48:42.828Z"
+    },
+    {
+      "path": "PROVENANCE.md",
+      "url": "https://github.com/RKKKKK/BigFatFish/blob/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/PROVENANCE.md",
+      "rawUrl": "https://raw.githubusercontent.com/RKKKKK/BigFatFish/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/PROVENANCE.md",
+      "sourceSha256": "0fa6d72648254357c2cf78c905bd8a6f4b6a3566b8f19152470ba49821d3dcc7",
+      "gitBlobSha": "a524644ec9fe3c850e45248bb0c91b42622f2ce2",
+      "bytes": 4576,
+      "commit": "ffbe5d8fc0cc91d637c27880fba3d0da09a377c0",
+      "accessedAt": "2026-11-28T14:48:43.200Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T14:48:43.200Z",
+  "scope": "GitHub REST tree and pinned public files verified in isolated headless Chrome, with Git blob IDs and SHA-256. The atlas records artwork terms separately.",
+  "relations": [
+    {
+      "role": "asset-provenance",
+      "title": "BigFatFish · pinned provenance",
+      "url": "https://github.com/RKKKKK/BigFatFish/blob/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/PROVENANCE.md"
+    },
+    {
+      "role": "code-license",
+      "title": "BigFatFish · MIT code license",
+      "url": "https://github.com/RKKKKK/BigFatFish/blob/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/LICENSE"
+    },
+    {
+      "role": "asset-specific-terms",
+      "title": "Images, sounds and third-party components",
+      "url": "https://github.com/RKKKKK/BigFatFish/blob/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/THIRD_PARTY_NOTICES.md"
+    },
+    {
+      "role": "verified-upstream",
+      "title": "MeteorNOX · For-Codex 0.2.4 source commit",
+      "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/tree/8de181abf5593247f32d57995567dd9f4063e049"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/RKKKKK/BigFatFish/blob/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/RKKKKK/BigFatFish/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/README.md",
+    "sourceSha256": "51ffa6a2aeabe844f77773c87f79ef60f66f4d0d52df5161a3aff9b19597bb42",
+    "gitBlobSha": "e73dd1a225261a7104437338e49ca77d8fb40cd0",
+    "bytes": 25613,
+    "commit": "ffbe5d8fc0cc91d637c27880fba3d0da09a377c0",
+    "accessedAt": "2026-11-28T14:48:42.314Z"
+  },
+  "comparisons": [
+    {
+      "path": "assets/D1.mp3",
+      "original": {
+        "repo": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+        "commit": "8de181abf5593247f32d57995567dd9f4063e049",
+        "url": "https://raw.githubusercontent.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/8de181abf5593247f32d57995567dd9f4063e049/assets/D1.mp3",
+        "bytes": 3294,
+        "gitBlobSha": "0bf91192d11b4923ad7e270457bdd5b2bf974f81",
+        "sourceSha256": "626c0fb5dbfb2529331b98b80fa29961efbcbef6a454b36328481b61d8a0c7be",
+        "accessedAt": "2026-11-28T14:53:50.636Z"
+      },
+      "branch": {
+        "repo": "RKKKKK/BigFatFish",
+        "commit": "ffbe5d8fc0cc91d637c27880fba3d0da09a377c0",
+        "url": "https://raw.githubusercontent.com/RKKKKK/BigFatFish/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/assets/D1.mp3",
+        "bytes": 3294,
+        "gitBlobSha": "0bf91192d11b4923ad7e270457bdd5b2bf974f81",
+        "sourceSha256": "626c0fb5dbfb2529331b98b80fa29961efbcbef6a454b36328481b61d8a0c7be",
+        "accessedAt": "2026-11-28T14:53:50.943Z"
+      }
+    },
+    {
+      "path": "assets/D2.mp3",
+      "original": {
+        "repo": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+        "commit": "8de181abf5593247f32d57995567dd9f4063e049",
+        "url": "https://raw.githubusercontent.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/8de181abf5593247f32d57995567dd9f4063e049/assets/D2.mp3",
+        "bytes": 4232,
+        "gitBlobSha": "3efbd5ad630fb510bbb726e4cf5fd27b1c32d18d",
+        "sourceSha256": "8327a07da3ec17f42ec6dddec8f6e2862055c7bfa5e15e3908442c517fd0f22d",
+        "accessedAt": "2026-11-28T14:53:51.328Z"
+      },
+      "branch": {
+        "repo": "RKKKKK/BigFatFish",
+        "commit": "ffbe5d8fc0cc91d637c27880fba3d0da09a377c0",
+        "url": "https://raw.githubusercontent.com/RKKKKK/BigFatFish/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/assets/D2.mp3",
+        "bytes": 4232,
+        "gitBlobSha": "3efbd5ad630fb510bbb726e4cf5fd27b1c32d18d",
+        "sourceSha256": "8327a07da3ec17f42ec6dddec8f6e2862055c7bfa5e15e3908442c517fd0f22d",
+        "accessedAt": "2026-11-28T14:53:51.353Z"
+      }
+    },
+    {
+      "path": "assets/DSH2.png",
+      "original": {
+        "repo": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+        "commit": "8de181abf5593247f32d57995567dd9f4063e049",
+        "url": "https://raw.githubusercontent.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/8de181abf5593247f32d57995567dd9f4063e049/assets/DSH2.png",
+        "bytes": 1103533,
+        "gitBlobSha": "1fe9b9fc8caf260d34920bae95466139b0ad8970",
+        "sourceSha256": "9286302f2d8729c35576800640333e7f171deca78b1bec0a9b8d25cb83cc437b",
+        "accessedAt": "2026-11-28T14:53:52.916Z"
+      },
+      "branch": {
+        "repo": "RKKKKK/BigFatFish",
+        "commit": "ffbe5d8fc0cc91d637c27880fba3d0da09a377c0",
+        "url": "https://raw.githubusercontent.com/RKKKKK/BigFatFish/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/assets/DSH2.png",
+        "bytes": 1103533,
+        "gitBlobSha": "1fe9b9fc8caf260d34920bae95466139b0ad8970",
+        "sourceSha256": "9286302f2d8729c35576800640333e7f171deca78b1bec0a9b8d25cb83cc437b",
+        "accessedAt": "2026-11-28T14:53:53.022Z"
+      }
+    },
+    {
+      "path": "assets/DSniang02.png",
+      "original": {
+        "repo": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+        "commit": "8de181abf5593247f32d57995567dd9f4063e049",
+        "url": "https://raw.githubusercontent.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/8de181abf5593247f32d57995567dd9f4063e049/assets/DSniang02.png",
+        "bytes": 466452,
+        "gitBlobSha": "e0967d97aea9519b52e9033a7aa7585f9e804958",
+        "sourceSha256": "bfcdac201b183bd31cc154a9d5425dfa5c946fbbc4d6584b890b7e538776eb0d",
+        "accessedAt": "2026-11-28T14:53:53.654Z"
+      },
+      "branch": {
+        "repo": "RKKKKK/BigFatFish",
+        "commit": "ffbe5d8fc0cc91d637c27880fba3d0da09a377c0",
+        "url": "https://raw.githubusercontent.com/RKKKKK/BigFatFish/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/assets/DSniang02.png",
+        "bytes": 466452,
+        "gitBlobSha": "e0967d97aea9519b52e9033a7aa7585f9e804958",
+        "sourceSha256": "bfcdac201b183bd31cc154a9d5425dfa5c946fbbc4d6584b890b7e538776eb0d",
+        "accessedAt": "2026-11-28T14:53:53.646Z"
+      }
+    },
+    {
+      "path": "assets/DSniang1.png",
+      "original": {
+        "repo": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+        "commit": "8de181abf5593247f32d57995567dd9f4063e049",
+        "url": "https://raw.githubusercontent.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/8de181abf5593247f32d57995567dd9f4063e049/assets/DSniang1.png",
+        "bytes": 255988,
+        "gitBlobSha": "f46b232152ede43630407f3a38de29c07a91be91",
+        "sourceSha256": "dcc456613dbb1102a4b7ef636a8b622371e33b763489d6249c434fb54248ba5c",
+        "accessedAt": "2026-11-28T14:53:54.117Z"
+      },
+      "branch": {
+        "repo": "RKKKKK/BigFatFish",
+        "commit": "ffbe5d8fc0cc91d637c27880fba3d0da09a377c0",
+        "url": "https://raw.githubusercontent.com/RKKKKK/BigFatFish/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/assets/DSniang1.png",
+        "bytes": 255988,
+        "gitBlobSha": "f46b232152ede43630407f3a38de29c07a91be91",
+        "sourceSha256": "dcc456613dbb1102a4b7ef636a8b622371e33b763489d6249c434fb54248ba5c",
+        "accessedAt": "2026-11-28T14:53:54.088Z"
+      }
+    },
+    {
+      "path": "assets/Ya1.mp3",
+      "original": {
+        "repo": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+        "commit": "8de181abf5593247f32d57995567dd9f4063e049",
+        "url": "https://raw.githubusercontent.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/8de181abf5593247f32d57995567dd9f4063e049/assets/Ya1.mp3",
+        "bytes": 6370,
+        "gitBlobSha": "a4a566f788042c18b9372f77fcaaaac44377f5d5",
+        "sourceSha256": "0ad8f934ae5fa3cbd42745e086a56aa6532766618c6a620b860a795bdc7689f9",
+        "accessedAt": "2026-11-28T14:53:54.475Z"
+      },
+      "branch": {
+        "repo": "RKKKKK/BigFatFish",
+        "commit": "ffbe5d8fc0cc91d637c27880fba3d0da09a377c0",
+        "url": "https://raw.githubusercontent.com/RKKKKK/BigFatFish/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/assets/Ya1.mp3",
+        "bytes": 6370,
+        "gitBlobSha": "a4a566f788042c18b9372f77fcaaaac44377f5d5",
+        "sourceSha256": "0ad8f934ae5fa3cbd42745e086a56aa6532766618c6a620b860a795bdc7689f9",
+        "accessedAt": "2026-11-28T14:53:54.504Z"
+      }
+    },
+    {
+      "path": "assets/Ya2.mp3",
+      "original": {
+        "repo": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+        "commit": "8de181abf5593247f32d57995567dd9f4063e049",
+        "url": "https://raw.githubusercontent.com/MeteorNOX/DeepSeek-Balance-Whale-Widget/8de181abf5593247f32d57995567dd9f4063e049/assets/Ya2.mp3",
+        "bytes": 2976,
+        "gitBlobSha": "77e9397beb69837fec05ca1cb02c30eff3b34763",
+        "sourceSha256": "1a8998077e5e306c3088bb442ce36617261dd58200754f457469a520801c565b",
+        "accessedAt": "2026-11-28T14:53:54.879Z"
+      },
+      "branch": {
+        "repo": "RKKKKK/BigFatFish",
+        "commit": "ffbe5d8fc0cc91d637c27880fba3d0da09a377c0",
+        "url": "https://raw.githubusercontent.com/RKKKKK/BigFatFish/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/assets/Ya2.mp3",
+        "bytes": 2976,
+        "gitBlobSha": "77e9397beb69837fec05ca1cb02c30eff3b34763",
+        "sourceSha256": "1a8998077e5e306c3088bb442ce36617261dd58200754f457469a520801c565b",
+        "accessedAt": "2026-11-28T14:53:54.858Z"
+      }
+    }
+  ],
+  "originalTreeSha256": "bf1a14d41294433861e04564c4e017ac9aef12c6e0e8f197abe50110a88a1eba",
+  "branchTreeSha256": "992db32d5a56c0ae554f35435f7712711be55882c16e1b728e01124531c6bca3"
+}

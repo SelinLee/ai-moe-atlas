@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV12FsF6zELr/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12FsF6zELr",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:19.076Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV12FsF6zELr",
+    "title": "《星光落在你指尖》两条大肥鱼的深情告白【AI MV大赛】",
+    "owner": {
+      "name": "变柯南的新一",
+      "mid": 27992903
+    },
+    "pubdate": 1794797991,
+    "duration": 224
+  },
+  "descriptionSha256": "d02187c5c38656aa325f7a810a257abdaa31c2034e70893c5c837dee623cc2a8",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "变柯南的新一",
+      "url": "https://space.bilibili.com/27992903"
+    }
+  ]
+}

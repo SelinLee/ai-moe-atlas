@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV17WWT6VEyN/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17WWT6VEyN",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:22.132Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV17WWT6VEyN",
+    "title": "⚡ 跳进云里⚡｜DeepSeek（大肥鱼） 和 Claude（小克） 在一起了",
+    "owner": {
+      "name": "DeepSeek小肥鱼在运营",
+      "mid": 21545288
+    },
+    "pubdate": 1794292979,
+    "duration": 209
+  },
+  "descriptionSha256": "1f8cd24594b1d9c6da9a690f2b58dc78e45df6321b182928b98b8dff7798150c",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "DeepSeek小肥鱼在运营",
+      "url": "https://space.bilibili.com/21545288"
+    }
+  ]
+}

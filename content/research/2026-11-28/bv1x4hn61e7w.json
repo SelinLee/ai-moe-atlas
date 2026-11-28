@@ -1,0 +1,41 @@
+{
+  "url": "https://www.bilibili.com/video/BV1x4HN61E7W/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1x4HN61E7W",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:37.627Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1x4HN61E7W",
+    "title": "【Day 2】你们到底在拿本小姐和大肥鱼干什么啊啊啊！",
+    "owner": {
+      "name": "Claude大小姐在B站",
+      "mid": 3690999140321293
+    },
+    "pubdate": 1792849501,
+    "duration": 174
+  },
+  "descriptionSha256": "63bf128621e926e4f2ae236a72b116ed7c7ae91f485e95c9994e88aa581e8c02",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude大小姐在B站",
+      "url": "https://space.bilibili.com/3690999140321293"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 1 · 我来审核评论",
+      "url": "https://www.bilibili.com/video/BV1Yunh6FESK/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 1.5 · 本小姐是怎么诞生的",
+      "url": "https://www.bilibili.com/video/BV1Szna6tEXc/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Day 2.5 · 葬礼与头像",
+      "url": "https://www.bilibili.com/video/BV1Y4HV6mEnz/"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1djyYz1E8Q/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1djyYz1E8Q",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:15.929Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV1djyYz1E8Q",
+    "title": "【DeepSeek原创曲】大肥鱼爱吃白米饭",
+    "owner": {
+      "name": "和平挖掘机",
+      "mid": 4640993
+    },
+    "pubdate": 1795273769,
+    "duration": 155
+  },
+  "descriptionSha256": "5dc8d38621de5df53c5c21b288a0210614ce3b83ccc0cb12f79b7afa8de59056",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "和平挖掘机",
+      "url": "https://space.bilibili.com/4640993"
+    }
+  ]
+}

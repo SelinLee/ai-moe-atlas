@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV18SsM6MEkF/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18SsM6MEkF",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:47:17.553Z",
+  "scope": "Bilibili view metadata verifies publication identity, publisher and cumulative likes. Credits follow the uploader description.",
+  "metadata": {
+    "bvid": "BV18SsM6MEkF",
+    "title": "星辰熄灭之时 When the Stars Went to Dark【deepseek同人曲】",
+    "owner": {
+      "name": "SIX_143",
+      "mid": 674765064
+    },
+    "pubdate": 1794906000,
+    "duration": 358
+  },
+  "descriptionSha256": "2a4b23350590c36ee3d3746d87eb635b17598b2da667c89dde1c805e72da4b11",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "SIX_143",
+      "url": "https://space.bilibili.com/674765064"
+    }
+  ]
+}
