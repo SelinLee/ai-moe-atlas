@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1D1yCziETP/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1D1yCziETP",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:23.826Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV1D1yCziETP",
+    "title": "暖冬里的大肥鱼和大肥龙",
+    "owner": {
+      "name": "悠暗是鸽子",
+      "mid": 403967974
+    },
+    "pubdate": 1795644000,
+    "duration": 46
+  },
+  "descriptionSha256": "bb63f9167f660c6294b64b806dfcee72397452f4230edeea79297180852c7441",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "悠暗是鸽子",
+      "url": "https://space.bilibili.com/403967974"
+    },
+    {
+      "role": "credited-character-design",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    },
+    {
+      "role": "credited-character-design",
+      "title": "ZipZipPipe · Whale Girl",
+      "url": "https://www.bilibili.com/video/BV1tE9XBbErS/"
+    }
+  ]
+}

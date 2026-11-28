@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1HiWJ6XEKs/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HiWJ6XEKs",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:20.710Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV1HiWJ6XEKs",
+    "title": "大肥鱼和白龙娘的笨笨小日常",
+    "owner": {
+      "name": "没有昵称的我1111",
+      "mid": 1753525836
+    },
+    "pubdate": 1794135240,
+    "duration": 31
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "没有昵称的我1111",
+      "url": "https://space.bilibili.com/1753525836"
+    }
+  ]
+}

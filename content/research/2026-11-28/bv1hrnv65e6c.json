@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1hrnV65E6c/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hrnV65E6c",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:34.474Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV1hrnV65E6c",
+    "title": "《赛博朋克2026》主演：克劳德 / 大肥鱼 |  你看起来有点龙丽，我可以给你很多token~",
+    "owner": {
+      "name": "火海vol2",
+      "mid": 2424803
+    },
+    "pubdate": 1792335265,
+    "duration": 27
+  },
+  "descriptionSha256": "297c41b817b8e3d10ecd812acd6e1a517930297102f8301c274ffe4f48cd1caa",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "火海vol2",
+      "url": "https://space.bilibili.com/2424803"
+    },
+    {
+      "role": "credited-character-design",
+      "title": "ZipZipPipe · creator’s AI character gallery",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

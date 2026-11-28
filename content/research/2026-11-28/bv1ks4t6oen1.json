@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1KS4t6oEN1/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KS4t6oEN1",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:31.463Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV1KS4t6oEN1",
+    "title": "三只大肥鱼组团出道了！｜鲸鱼团出道专辑《大肥鱼之歌》【AI MV大赛】",
+    "owner": {
+      "name": "二次元贾维斯",
+      "mid": 3747575156968901
+    },
+    "pubdate": 1793881493,
+    "duration": 137
+  },
+  "descriptionSha256": "6676a167705ac28cee003555937145b3239d7cff460e49da80ebcbf5f3452b90",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "二次元贾维斯",
+      "url": "https://space.bilibili.com/3747575156968901"
+    }
+  ]
+}

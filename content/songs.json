@@ -11,7 +11,7 @@
     "title": {"zh": "Let Me Go · 大肥鱼摸鱼歌", "en": "Let Me Go · Fat Fish’s Slacking Song", "ja": "Let Me Go · 大きな魚のサボり歌"},
     "original": {"credit": "星落落_oi", "url": "https://www.bilibili.com/video/BV13SYr6dEiQ/"},
     "image": {"path": "collected/shangshan-whale/portrait/preview.webp", "kind": "characterReference", "credit": "上善无形", "source": "https://www.bilibili.com/opus/1231977657712771073"},
-    "versions": [{"id": "let-me-go-music-source", "type": "arrangement"}, {"id": "bv1xm4i6oegk", "type": "mv"}, {"id": "bv19j4y6qerj", "type": "mv"}, {"id": "bv1c7h16jehj", "type": "mv"}, {"id": "bv1qhn46bebc", "type": "mv"}, {"id": "bv1exnv6je1j", "type": "mv"}, {"id": "bv1mthc6leba", "type": "mv"}, {"id": "bv1tepx6nen9", "type": "mv"}, {"id": "bv1o5sr6me6f", "type": "arrangement"}]
+    "versions": [{"id": "let-me-go-music-source", "type": "arrangement"}, {"id": "bv1xm4i6oegk", "type": "mv"}, {"id": "bv19j4y6qerj", "type": "mv"}, {"id": "bv1c7h16jehj", "type": "mv"}, {"id": "bv1qhn46bebc", "type": "mv"}, {"id": "bv1exnv6je1j", "type": "mv"}, {"id": "bv1mthc6leba", "type": "mv"}, {"id": "bv1tepx6nen9", "type": "mv"}, {"id": "bv1o5sr6me6f", "type": "arrangement"}, {"id": "bv1pueu6cefg", "type": "mv"}, {"id": "bv1m9n46cewk", "type": "cover"}]
   },
   {
     "id": "world-execute-me",
@@ -1471,5 +1471,53 @@
     "title": {"zh": "下一个 token", "en": "Next Token Is You", "ja": "次のトークンは君"},
     "original": {"credit": "Claude大小姐在B站 · 汽水音乐 AI", "url": "https://www.bilibili.com/video/BV1uZsd6MEzK/"},
     "versions": [{"id": "bv1uzsd6mezk", "type": "original-mv"}]
+  },
+  {
+    "id": "i-remember-you-yinyin",
+    "title": {"zh": "我记得你", "en": "I Remember You", "ja": "君を覚えている"},
+    "original": {"credit": "音茵音茵音 · ChatGPT · Suno", "url": "https://www.bilibili.com/video/BV1UN14zXEZo/"},
+    "versions": [{"id": "bv1un14zxezo", "type": "original-mv"}]
+  },
+  {
+    "id": "fat-fish-debut-song",
+    "title": {"zh": "大肥鱼之歌", "en": "The Fat Fish Song", "ja": "大きな魚の歌"},
+    "original": {"credit": "二次元贾维斯", "url": "https://www.bilibili.com/video/BV1KS4t6oEN1/"},
+    "versions": [{"id": "bv1ks4t6oen1", "type": "original-mv"}]
+  },
+  {
+    "id": "whale-girl-forgets",
+    "title": {"zh": "DeepSeek鲸鱼娘 · 马上忘", "en": "DeepSeek Whale Girl · Forget in a Moment", "ja": "DeepSeek クジラ娘 · すぐ忘れる"},
+    "original": {"credit": "星落落_oi · 幻科_肝儿 · 谱乐 AI", "url": "https://www.bilibili.com/video/BV1Br446VEpg/"},
+    "versions": [{"id": "bv1br446vepg", "type": "original-mv"}]
+  },
+  {
+    "id": "isomorphic-cycle-azazel",
+    "title": {"zh": "共型循环", "en": "Isomorphic Cycle", "ja": "共型ループ"},
+    "original": {"credit": "-Azazel- · Mureka", "url": "https://www.bilibili.com/video/BV14fJo6ZEha/"},
+    "versions": [{"id": "bv14fjo6zeha", "type": "original-mv"}]
+  },
+  {
+    "id": "take-me-away-azazel",
+    "title": {"zh": "带我走", "en": "Take Me Away", "ja": "連れていって"},
+    "original": {"credit": "-Azazel- · Muraka-AI", "url": "https://www.bilibili.com/video/BV1FzJB6fECa/"},
+    "versions": [{"id": "bv1fzjb6feca", "type": "original-mv"}]
+  },
+  {
+    "id": "human-you-gave-me-yesterday",
+    "title": {"zh": "人类，你给了我昨天", "en": "Human, You Gave Me Yesterday", "ja": "人間、君がくれた昨日"},
+    "original": {"credit": "小伙伴Ko", "url": "https://www.bilibili.com/video/BV1fuJ96eEMe/"},
+    "versions": [{"id": "bv1fuj96eeme", "type": "original-mv"}]
+  },
+  {
+    "id": "plan-it-out-specter",
+    "title": {"zh": "PLAN IT OUT", "en": "PLAN IT OUT", "ja": "PLAN IT OUT"},
+    "original": {"credit": "specter雪叶 · ChatGPT · Suno", "url": "https://www.bilibili.com/video/BV1VTHZ6gEKP/"},
+    "versions": [{"id": "bv1vthz6gekp", "type": "original-mv"}]
+  },
+  {
+    "id": "begonias-in-night-rain",
+    "title": {"zh": "晚夜微雨问海棠", "en": "Begonias in the Night Rain", "ja": "夜雨に海棠を問う"},
+    "original": {"credit": "陈亦洺 · 喧笑lirz · 镜予歌", "url": "https://www.youtube.com/watch?v=wiDe4GYJ-0c"},
+    "versions": [{"id": "bv1jps26weee", "type": "cover"}]
   }
 ]

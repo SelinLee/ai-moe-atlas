@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1pMyUzMEah/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pMyUzMEah",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:19.069Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV1pMyUzMEah",
+    "title": "傻傻的claude和傻傻的白龙娘（黎曼猜想前珍贵视频）",
+    "owner": {
+      "name": "todearuuu",
+      "mid": 1764362935
+    },
+    "pubdate": 1795686110,
+    "duration": 30
+  },
+  "descriptionSha256": "152d6e174ce2e7eb5f97bdac8b5e7c71ec656be8f2bb43340e347012a3500628",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "todearuuu",
+      "url": "https://space.bilibili.com/1764362935"
+    }
+  ]
+}

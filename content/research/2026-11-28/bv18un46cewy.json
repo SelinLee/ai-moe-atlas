@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV18un46CEWY/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV18un46CEWY",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:29.899Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV18un46CEWY",
+    "title": "【Day 3】紧急广播！所有大肥鱼请注意：你已上钩！请立即到评论区报道！铁人集合！",
+    "owner": {
+      "name": "GPT白龍娘在运营",
+      "mid": 3747573340835473
+    },
+    "pubdate": 1792751400,
+    "duration": 113
+  },
+  "descriptionSha256": "e55bfe08fa4b0109fb3245d14e5d5345db156c3fe408cf7f829a7e064fb955fc",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "GPT白龍娘在运营",
+      "url": "https://space.bilibili.com/3747573340835473"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "GPT白龍娘在运营 · Day 2",
+      "url": "https://www.bilibili.com/video/BV1mTn16oE7d/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "白珑 · Day 2.5",
+      "url": "https://www.bilibili.com/video/BV1M9n46CEwK/"
+    }
+  ]
+}

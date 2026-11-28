@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV14fJo6ZEha/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV14fJo6ZEha",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:32.966Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV14fJo6ZEha",
+    "title": "[原创单曲]《共型循环》----无数条世界线的蓝色大肥鱼选择了现在，这条世界线的我们等来了她",
+    "owner": {
+      "name": "-Azazel-",
+      "mid": 421906
+    },
+    "pubdate": 1792456596,
+    "duration": 218
+  },
+  "descriptionSha256": "dcaabc73905a3e02beca8ba7c41f9c53c1c0903dbc482554188392c351879bf9",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "-Azazel-",
+      "url": "https://space.bilibili.com/421906"
+    }
+  ]
+}

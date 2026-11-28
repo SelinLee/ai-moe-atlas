@@ -1,0 +1,120 @@
+{
+  "historical": false,
+  "full_name": "dxlian/codex-pets",
+  "html_url": "https://github.com/dxlian/codex-pets",
+  "stargazers_count": 1,
+  "archived": false,
+  "created_at": "2026-10-27T14:17:44Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "527000ee2cbb26aa6934c93657c7075df2bc9b53",
+  "observedAt": "2026-11-28T15:04:30.810Z",
+  "httpStatus": 200,
+  "metadataSha256": "76e528f4374736846c6bcd504fd06d58dfbef79ecd85b7c1f235a1c54c5f6810",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/dxlian/codex-pets/blob/527000ee2cbb26aa6934c93657c7075df2bc9b53/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/dxlian/codex-pets/527000ee2cbb26aa6934c93657c7075df2bc9b53/README.md",
+      "sourceSha256": "9d040937b12872e6df2394f8f33a52f8955d3125cbeb43b6449e8cc109f43c74",
+      "gitBlobSha": "1185cdd5e34439478d2769082f7dd41aef3f929a",
+      "bytes": 17817,
+      "commit": "527000ee2cbb26aa6934c93657c7075df2bc9b53",
+      "accessedAt": "2026-11-28T15:05:30.285Z"
+    },
+    {
+      "path": "README.en.md",
+      "url": "https://github.com/dxlian/codex-pets/blob/527000ee2cbb26aa6934c93657c7075df2bc9b53/README.en.md",
+      "rawUrl": "https://raw.githubusercontent.com/dxlian/codex-pets/527000ee2cbb26aa6934c93657c7075df2bc9b53/README.en.md",
+      "sourceSha256": "9868abe7e8af6b049cef4c2ae9b457ffd3388ce136cee538947b3ea01e7e891c",
+      "gitBlobSha": "27bbfe12ff050fc3c8b3b4b7fabce57fb7f75710",
+      "bytes": 16728,
+      "commit": "527000ee2cbb26aa6934c93657c7075df2bc9b53",
+      "accessedAt": "2026-11-28T15:05:30.685Z"
+    },
+    {
+      "path": "pets/song-yu/pet.json",
+      "url": "https://github.com/dxlian/codex-pets/blob/527000ee2cbb26aa6934c93657c7075df2bc9b53/pets/song-yu/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/dxlian/codex-pets/527000ee2cbb26aa6934c93657c7075df2bc9b53/pets/song-yu/pet.json",
+      "sourceSha256": "bce448ef54912e59abaaddda7c5f265af909d7ee562781b593542a62a0431497",
+      "gitBlobSha": "f4cea402edbf8097ddacc0f9c478a23111ba5302",
+      "bytes": 263,
+      "commit": "527000ee2cbb26aa6934c93657c7075df2bc9b53",
+      "accessedAt": "2026-11-28T15:05:31.013Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T15:08:24.247Z",
+  "scope": "Pinned public GitHub documentation verified by Git blob identity and SHA-256 in isolated Chrome. Listed sprite sheets were checked against the same Git tree.",
+  "relations": [
+    {
+      "role": "creator-original-release",
+      "title": "dxlian · Erdu",
+      "url": "https://petdex.dev/pets/erdu"
+    },
+    {
+      "role": "creator-original-release",
+      "title": "dxlian · Caicai",
+      "url": "https://petdex.dev/pets/caicai"
+    },
+    {
+      "role": "creator-original-release",
+      "title": "dxlian · Gulu",
+      "url": "https://petdex.dev/pets/gulu"
+    }
+  ],
+  "pinnedReadme": {
+    "path": "README.md",
+    "url": "https://github.com/dxlian/codex-pets/blob/527000ee2cbb26aa6934c93657c7075df2bc9b53/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/dxlian/codex-pets/527000ee2cbb26aa6934c93657c7075df2bc9b53/README.md",
+    "sourceSha256": "9d040937b12872e6df2394f8f33a52f8955d3125cbeb43b6449e8cc109f43c74",
+    "gitBlobSha": "1185cdd5e34439478d2769082f7dd41aef3f929a",
+    "bytes": 17817,
+    "commit": "527000ee2cbb26aa6934c93657c7075df2bc9b53",
+    "accessedAt": "2026-11-28T15:05:30.285Z"
+  },
+  "spriteSheets": [
+    {
+      "repo": "dxlian/codex-pets",
+      "commit": "527000ee2cbb26aa6934c93657c7075df2bc9b53",
+      "path": "pets/caicai/spritesheet.webp",
+      "rawUrl": "https://raw.githubusercontent.com/dxlian/codex-pets/527000ee2cbb26aa6934c93657c7075df2bc9b53/pets/caicai/spritesheet.webp",
+      "bytes": 2384510,
+      "width": 1536,
+      "height": 1872,
+      "format": "webp",
+      "hasAlpha": true,
+      "gitBlobSha": "a4f799aeb00f984a514ffb7e9ae998569a2de78a",
+      "sha256": "f898a4639a259614803c31dbbbaba16e3b0f7101ab338c86bb5dab5fa0eac634",
+      "observedAt": "2026-11-28T15:08:23.008Z"
+    },
+    {
+      "repo": "dxlian/codex-pets",
+      "commit": "527000ee2cbb26aa6934c93657c7075df2bc9b53",
+      "path": "pets/erdu/spritesheet.webp",
+      "rawUrl": "https://raw.githubusercontent.com/dxlian/codex-pets/527000ee2cbb26aa6934c93657c7075df2bc9b53/pets/erdu/spritesheet.webp",
+      "bytes": 2010646,
+      "width": 1536,
+      "height": 1872,
+      "format": "webp",
+      "hasAlpha": true,
+      "gitBlobSha": "4f4653af2b194f4ee49202d49fd5653a8858b56d",
+      "sha256": "761c69f2cb952976fd12fee67f1d2c53a8f1b3f8eb8bf8eeef0cf69cb3af6a55",
+      "observedAt": "2026-11-28T15:08:23.599Z"
+    },
+    {
+      "repo": "dxlian/codex-pets",
+      "commit": "527000ee2cbb26aa6934c93657c7075df2bc9b53",
+      "path": "pets/gulu/spritesheet.webp",
+      "rawUrl": "https://raw.githubusercontent.com/dxlian/codex-pets/527000ee2cbb26aa6934c93657c7075df2bc9b53/pets/gulu/spritesheet.webp",
+      "bytes": 2211750,
+      "width": 1536,
+      "height": 1872,
+      "format": "webp",
+      "hasAlpha": true,
+      "gitBlobSha": "8d2a02d4dc4a3103ff8cddeda17474639af4cf4d",
+      "sha256": "6c753a4ea87ab59ef2560c4577f9784f73fe4c40890d0bba0930dde2db3f80e6",
+      "observedAt": "2026-11-28T15:08:24.247Z"
+    }
+  ]
+}

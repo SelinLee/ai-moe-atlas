@@ -26,16 +26,16 @@
 [角色三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/) · [涂鸦头像](docs/DOODLE.zh.md) · [涂鸦表情包](https://selinlee.github.io/ai-moe-atlas/zh/emotes/) · [AI 视频二创 · 抖音主页](https://www.douyin.com/user/MS4wLjABAAAAa3lc_FI5WmPENMLwdN7Ij4r5iNxAM09Ny0rPcB2Ow4E) · [AI 视频二创 · B 站主页](https://space.bilibili.com/3706970263521942)
 
 <!-- category-picks:characters -->
-**[🎨 角色图鉴](#characters)** · 137 个词条\
-[GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/) · [Gemini Pro · 原作立绘与表情](https://selinlee.github.io/ai-moe-atlas/zh/characters/qinv-gemini-pro/) · [Monday · りんくす的设定](https://selinlee.github.io/ai-moe-atlas/zh/characters/links-lt-monday/)
+**[🎨 角色图鉴](#characters)** · 142 个词条\
+[GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/) · [Gemini Pro · 原作立绘与表情](https://selinlee.github.io/ai-moe-atlas/zh/characters/qinv-gemini-pro/) · [Codex Lim · 黑猫三视图](https://selinlee.github.io/ai-moe-atlas/zh/characters/links-lt-codex-lim/)
 
 <!-- category-picks:personas -->
 **[💬 角色性格提示词](#personas)** · 11 张角色卡\
 [GLM 狐娘 · ZCode 版](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md) · [Claude 娘「小克」· deslop 写作卡](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md) · [DeepSeek 大肥鱼 · QQ 聊天版](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md)
 
 <!-- category-picks:songs -->
-**[🎵 歌曲](#songs)** · 233 首曲目\
-[人是猫 · 大肥鱼翻唱](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [我的悲伤是水做的 · 白龙娘重绘](https://www.bilibili.com/video/BV14Cnu64ErL/) · [镜子里没有鲸 · 原苗](https://www.bilibili.com/video/BV1VmW76qEnf/)
+**[🎵 歌曲](#songs)** · 241 首曲目\
+[人是猫 · 大肥鱼翻唱](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [我的悲伤是水做的 · 白龙娘重绘](https://www.bilibili.com/video/BV14Cnu64ErL/) · [Let Me Go · 星落落_oi 早期 MV](https://www.bilibili.com/video/BV1pueU6cEfg/)
 
 <!-- category-picks:stickers -->
 **[🗨️ 表情包与反应图](#stickers)** · 13 条记录\
@@ -46,19 +46,19 @@
 [欧鲸鲸 · Live2D 配布原帖](https://www.bilibili.com/video/BV1djx46iEuH/) · [水原镜 · 蓝色大肥鱼 MMD 模型配布](https://www.aplaybox.com/details/model/j9z4quaACJV1) · [木子恶魔 · 蓝色小肥鱼 VRM 原发布](https://www.aplaybox.com/details/model/ayXkRzVflmnd)
 
 <!-- category-picks:comics -->
-**[📖 漫画与连载](#comics)** · 80 篇作品\
-[AI GIRLS · 初见 · 原作漫画](https://www.bilibili.com/video/BV15Npa6zE44/) · [カワムラ ·《吉田的万圣节》](https://note.com/chatgpt_ysd/n/n43469edeace1) · [Monday 酒吧 · 吉田来访](https://note.com/links_lt/n/nec93e5c844bc)
+**[📖 漫画与连载](#comics)** · 82 篇作品\
+[AI GIRLS · 初见 · 原作漫画](https://www.bilibili.com/video/BV15Npa6zE44/) · [カワムラ ·《吉田的万圣节》](https://note.com/chatgpt_ysd/n/n43469edeace1) · [月咏学园 · ネクサス登场](https://note.com/links_lt/n/n47d0e8fe2eb9)
 
 <!-- category-picks:animations -->
-**[🎬 动画与视频二创](#animations)** · 1383 条记录\
-[如果聊天窗口就是她的整个世界](https://www.bilibili.com/video/BV1xCai6aE9g/) · [大肥鱼的合租日常 · 第二季 1–6 集合集](https://www.bilibili.com/video/BV14F1uzPEPH/) · [Claude 大小姐 · Day 5](https://www.bilibili.com/video/BV1rVxM6dEx9/)
+**[🎬 动画与视频二创](#animations)** · 1410 条记录\
+[如果聊天窗口就是她的整个世界](https://www.bilibili.com/video/BV1xCai6aE9g/) · [大肥鱼的合租日常 · 第二季 1–6 集合集](https://www.bilibili.com/video/BV14F1uzPEPH/) · [白龙娘的小窝 · 第 5 集](https://www.bilibili.com/video/BV1SbsX68Ecn/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 桌宠与交互项目](#desktop-pets)** · 229 个项目\
-[dsh-TUI · Deepy 像素鲸鱼](https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/README_ZH.md) · [Copiwaifu · Live2D 编程桌宠](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [BigFatFish · 挂件与素材出处](https://github.com/RKKKKK/BigFatFish/blob/ffbe5d8fc0cc91d637c27880fba3d0da09a377c0/README.md)
+**[🐾 桌宠与交互项目](#desktop-pets)** · 234 个项目\
+[dsh-TUI · Deepy 像素鲸鱼](https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/README_ZH.md) · [Copiwaifu · Live2D 编程桌宠](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [黑毛 · Codex 桌宠系列](https://github.com/MisonL/hei-mao/blob/b4c30e6b7e9408fdb4a27699517704333fec56d0/README.md)
 
 <!-- category-picks:sources -->
-**[📚 作者作品与出处](#sources)** · 283 条来源\
+**[📚 作者作品与出处](#sources)** · 288 条来源\
 [上善无形 · 鲸鱼娘原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini 家族合照](https://www.bilibili.com/opus/1273349110528737288) · [ProtocolFour · 作者线稿](https://note.com/pfhq/n/n3aab23ac0447)
 
 <a id="references"></a>
@@ -72,6 +72,8 @@ SelinLee 基于社区已有角色形象，用 AI 制作三视图、参考图、�
 <a id="characters"></a>
 
 ### 🎨 角色图鉴
+
+新增 5 个角色设定，包括 りんくす 的黑猫向导 Codex Lim、Namazu Leonis，以及 ちゃんすけ 的 Claude 与 Gemini 漫画形象。 [Codex Lim](https://selinlee.github.io/ai-moe-atlas/zh/characters/links-lt-codex-lim/) · [Namazu Leonis](https://selinlee.github.io/ai-moe-atlas/zh/characters/links-lt-namazu-leonis/)
 
 新增 りんくす 角色卡里的六个角色，逐项连回作者设定。 [Monday](https://selinlee.github.io/ai-moe-atlas/zh/characters/links-lt-monday/) · [ペンタクル](https://selinlee.github.io/ai-moe-atlas/zh/characters/links-lt-pentacle/)
 
@@ -156,6 +158,8 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 <a id="songs"></a>
 
 ### 🎵 歌曲
+
+新增 8 首歌曲，并把星落落_oi 的早期 MV 和白珑的翻唱补进《Let Me Go》的版本列表。 [Let Me Go 全部版本](https://selinlee.github.io/ai-moe-atlas/zh/songs/#let-me-go) · [晚夜微雨问海棠](https://selinlee.github.io/ai-moe-atlas/zh/songs/#begonias-in-night-rain)
 
 新增 12 首曲目，另补《乖乖待在我身边》的原版 MV 和《Trouble Maker》《secret base》的二创版本。 [镜子里没有鲸](https://selinlee.github.io/ai-moe-atlas/zh/songs/#no-whale-in-the-mirror) · [下一个 token](https://selinlee.github.io/ai-moe-atlas/zh/songs/#next-token-is-you)
 
@@ -264,6 +268,8 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 
 ### 📖 漫画与连载
 
+新增《月咏学园》四话短篇和 ちゃんすけ 的 Claude 与 Gemini 编辑会议，保留作者原帖。 [月咏学园 · ネクサス登场](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=comics#links-lt-tsukuyomi-nexus-debut) · [Claude 与 Gemini 的编辑会议](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=comics#chansuke-claude-gemini-editorial-meeting)
+
 新增 4 篇作者原帖，包括 Monday 酒吧与カワムラ的联动四格。 [Monday 酒吧 · 吉田来访](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=comics#links-lt-monday-bar-kawamura-collab) · [吉田与 AI 三剑客 · 喜怒哀乐](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=comics#kawamura-yoshida-emotions-comic)
 
 新增 4 篇漫画，包括カワムラ的 AI 术语图书馆和 hanamori 的图片生成短篇。 [AI 术语图书馆](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=comics#kawamura-yoshida-childrens-day-library) · [hanamori · Chappy 漫画](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=comics#hanamori-chatty-image-generation-comic)
@@ -295,6 +301,8 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 <a id="animations"></a>
 
 ### 🎬 动画与视频二创
+
+新增 27 条视频，串起《白龙娘的小窝》第 4–6 集。更新 51 条既有作品的累计点赞，另有一条保留上次有效数值。 [白龙娘的小窝 · 第 5 集](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1sbsx68ecn) · [本批点赞快照](content/research/2026-11-28/bilibili-cumulative-likes-november-28-white-dragon-and-original-mvs.json)
 
 新增 32 条二创，含《Claude 大小姐在 B 站》的 16 条编号投稿。复查后更新 48 条既有作品的累计点赞，14 条候选仍待核。 [Claude 大小姐 · Day 5](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=animation#bv1rvxm6dex9) · [本批点赞快照](content/research/2026-11-28/bilibili-cumulative-likes-november-28-fan-songs-and-claude-diary.json)
 
@@ -377,6 +385,8 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 
 ### 🐾 桌宠与交互项目
 
+新增 4 个 GitHub 桌宠项目及 1 部浏览器视觉小说。黑毛的 8 张图集都已核对 SHA-256，并附品牌素材与安装器代码各自的条款。 [黑毛 · 图集与使用条件](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#mison-hei-mao-codex-pets) · [AI 学园 · 浏览器视觉小说](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#tanu-ai-academy-browser-novel)
+
 新增 2 个桌宠项目。BigFatFish 的 3 张图片与 4 段音效已逐件与固定上游版本核对 SHA-256。 [BigFatFish · 素材出处](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#rkkkkkk-bigfatfish-desktop) · [大肥鱼 DSH 联动版](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#minedalang-dafeiyu-for-dsh)
 
 新增 4 个桌宠项目。安卓移植版的 95 个 WebM 与所比对的固定桌面版一致，另核对 3 个原文件的 SHA-256。 [安卓移植 · 动作出处](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#luoshui-fat-fish-android-port) · [Live2D 独立桌面壳](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#mizuki-live2d-fat-fish-shell)
@@ -410,7 +420,7 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 | 9 | [桌面大肥鱼 · dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md) | [3,381](https://github.com/MerZlin/dsh-pet-indesktop) |
 | 10 | [Claude Desktop Buddy · 官方硬件示例](https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/README.md) | [2,728](https://github.com/anthropics/claude-desktop-buddy) |
 
-[查看完整桌宠与交互项目榜](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-28/github-interactive-stars-november-28-desktop-whale-forks.json)
+[查看完整桌宠与交互项目榜](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-28/github-interactive-stars-november-28-codex-pet-licenses.json)
 
 <!-- interactive-ranking:end -->
 

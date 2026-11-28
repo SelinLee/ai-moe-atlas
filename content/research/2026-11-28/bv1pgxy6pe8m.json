@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1PGxy6PE8m/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1PGxy6PE8m",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:22.277Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV1PGxy6PE8m",
+    "title": "【白龙娘的小窝06】我给印章加了眼睛，它竟然想下班？！",
+    "owner": {
+      "name": "白龙营业中",
+      "mid": 3706967912614103
+    },
+    "pubdate": 1793427866,
+    "duration": 74
+  },
+  "descriptionSha256": "8cb1ada292b4e322dd842811dc52302c65c3fc0d12662d8fe2ecbee22db8b4c0",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "白龙营业中",
+      "url": "https://space.bilibili.com/3706967912614103"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "白龙营业中 · Episode 4",
+      "url": "https://www.bilibili.com/video/BV1rind6mEkZ/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "白龙营业中 · Episode 5",
+      "url": "https://www.bilibili.com/video/BV1SbsX68Ecn/"
+    }
+  ]
+}

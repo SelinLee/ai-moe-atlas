@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1fuJ96eEMe/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fuJ96eEMe",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:36.178Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV1fuJ96eEMe",
+    "title": "人类 你给了我昨天",
+    "owner": {
+      "name": "小伙伴Ko",
+      "mid": 105330745
+    },
+    "pubdate": 1792137692,
+    "duration": 204
+  },
+  "descriptionSha256": "aa1332d00e75bffbeaf97f1dac498ddabd2455ff29e8c460ea1f7060fdfa34c5",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "小伙伴Ko",
+      "url": "https://space.bilibili.com/105330745"
+    }
+  ]
+}

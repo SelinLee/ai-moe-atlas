@@ -1,0 +1,116 @@
+{
+  "historical": false,
+  "full_name": "AG9898/buddy",
+  "html_url": "https://github.com/AG9898/buddy",
+  "stargazers_count": 2,
+  "archived": false,
+  "created_at": "2026-05-21T21:04:43Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6",
+  "observedAt": "2026-11-28T15:04:07.527Z",
+  "httpStatus": 200,
+  "metadataSha256": "067f432645d65734a102a8138cbff83a1ee8d2af15e2214e3ee47935d9425a57",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/AG9898/buddy/blob/d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/AG9898/buddy/d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6/README.md",
+      "sourceSha256": "59e94cdf795150a6259bef1e55cb3ee43d4a842d4ebe99b1c9fd7cd9a5d2d6e2",
+      "gitBlobSha": "b040f40983f752497513e48615618dbd6de29d56",
+      "bytes": 16018,
+      "commit": "d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6",
+      "accessedAt": "2026-11-28T15:05:30.323Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/AG9898/buddy/blob/d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/AG9898/buddy/d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6/LICENSE",
+      "sourceSha256": "6f0f5a9734e639ab9b34e9cec3512a5b362c9aadfeea022754ea39d058825b94",
+      "gitBlobSha": "0b68c53239f6a616ea5d36e3011e7f263bfc9eb5",
+      "bytes": 1063,
+      "commit": "d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6",
+      "accessedAt": "2026-11-28T15:05:30.683Z"
+    },
+    {
+      "path": "pets/default/pet.json",
+      "url": "https://github.com/AG9898/buddy/blob/d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6/pets/default/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/AG9898/buddy/d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6/pets/default/pet.json",
+      "sourceSha256": "288588f64295bba495e7d44d3f44f0a118fe3a73995b28d9fd2539ff8760ac8e",
+      "gitBlobSha": "aa601a0e968067586921b542c912c372ab74c7ab",
+      "bytes": 5325,
+      "commit": "d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6",
+      "accessedAt": "2026-11-28T15:05:31.042Z"
+    },
+    {
+      "path": "pets/penguin/pet.json",
+      "url": "https://github.com/AG9898/buddy/blob/d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6/pets/penguin/pet.json",
+      "rawUrl": "https://raw.githubusercontent.com/AG9898/buddy/d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6/pets/penguin/pet.json",
+      "sourceSha256": "1b191b260f48cf05bf32bd34abfc7cdcf07bc18dde076f331a53182c39a2c6b8",
+      "gitBlobSha": "a41023e1ead4ad1add8f9413fd39d505a4fc8efc",
+      "bytes": 5325,
+      "commit": "d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6",
+      "accessedAt": "2026-11-28T15:05:31.468Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T15:08:25.379Z",
+  "scope": "Pinned public GitHub documentation verified by Git blob identity and SHA-256 in isolated Chrome. Listed sprite sheets were checked against the same Git tree.",
+  "relations": [
+    {
+      "role": "code-license",
+      "title": "Buddy repository license",
+      "url": "https://github.com/AG9898/buddy/blob/d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6/LICENSE"
+    },
+    {
+      "role": "character-manifest",
+      "title": "Ragdoll motion manifest",
+      "url": "https://github.com/AG9898/buddy/blob/d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6/pets/default/pet.json"
+    },
+    {
+      "role": "character-manifest",
+      "title": "Penguin motion manifest",
+      "url": "https://github.com/AG9898/buddy/blob/d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6/pets/penguin/pet.json"
+    }
+  ],
+  "pinnedReadme": {
+    "path": "README.md",
+    "url": "https://github.com/AG9898/buddy/blob/d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/AG9898/buddy/d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6/README.md",
+    "sourceSha256": "59e94cdf795150a6259bef1e55cb3ee43d4a842d4ebe99b1c9fd7cd9a5d2d6e2",
+    "gitBlobSha": "b040f40983f752497513e48615618dbd6de29d56",
+    "bytes": 16018,
+    "commit": "d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6",
+    "accessedAt": "2026-11-28T15:05:30.323Z"
+  },
+  "spriteSheets": [
+    {
+      "repo": "AG9898/buddy",
+      "commit": "d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6",
+      "path": "pets/default/spritesheet.webp",
+      "rawUrl": "https://raw.githubusercontent.com/AG9898/buddy/d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6/pets/default/spritesheet.webp",
+      "bytes": 2022990,
+      "width": 1536,
+      "height": 1872,
+      "format": "webp",
+      "hasAlpha": true,
+      "gitBlobSha": "7447cb8bedb5c5628efcb24779dfbbe7fd40e8d8",
+      "sha256": "c7b09c92f9d37cf59061d9802ff86a8ae45d625a9e6587b4e1234d09cbc7f5ae",
+      "observedAt": "2026-11-28T15:08:24.861Z"
+    },
+    {
+      "repo": "AG9898/buddy",
+      "commit": "d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6",
+      "path": "pets/penguin/spritesheet.webp",
+      "rawUrl": "https://raw.githubusercontent.com/AG9898/buddy/d0b1aa07c5d4cc2174a5df1a677d3cc6fe23d8b6/pets/penguin/spritesheet.webp",
+      "bytes": 1310250,
+      "width": 1536,
+      "height": 1872,
+      "format": "webp",
+      "hasAlpha": true,
+      "gitBlobSha": "c6c682bdcf57cb24422054c1002344ef36902773",
+      "sha256": "e7c45b4a4ac23d1f0fc0eab397b14aadb82b6f480692905abf340635be92afb9",
+      "observedAt": "2026-11-28T15:08:25.379Z"
+    }
+  ]
+}

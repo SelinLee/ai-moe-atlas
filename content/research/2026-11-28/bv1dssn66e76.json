@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1dSsN66E76/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1dSsN66E76",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:26.828Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV1dSsN66E76",
+    "title": "大肥鱼：你宁愿想要一条大肥龙？！",
+    "owner": {
+      "name": "23班熊猫",
+      "mid": 628568211
+    },
+    "pubdate": 1794841762,
+    "duration": 55
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "23班熊猫",
+      "url": "https://space.bilibili.com/628568211"
+    }
+  ]
+}

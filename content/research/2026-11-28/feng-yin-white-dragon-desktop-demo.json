@@ -1,0 +1,23 @@
+{
+  "url": "https://www.bilibili.com/video/BV1vwJ16MEQ5/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vwJ16MEQ5",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:37.710Z",
+  "title": "GPT动态白龙娘桌宠分享（更新中）",
+  "publisherId": 290239611,
+  "descriptionSha256": "621a1317a8e4aabe1ae046058a82e85465500fa899630cef80192b9a6cfbe169",
+  "relations": [
+    {
+      "role": "publisher",
+      "title": "風-隐",
+      "url": "https://space.bilibili.com/290239611"
+    },
+    {
+      "role": "credited-interactive-project",
+      "title": "jingh12312-rgb · White Dragon desktop pet",
+      "url": "https://github.com/jingh12312-rgb/bailong-desktop-pet/blob/b102e734f20bb50889af12df5778f1499109f41b/README.md"
+    }
+  ],
+  "scope": "The demo’s Bilibili metadata and description identify the upload and point directly to the cataloged GitHub project."
+}

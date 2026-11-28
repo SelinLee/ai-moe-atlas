@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1UN14zXEZo/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1UN14zXEZo",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:31.463Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV1UN14zXEZo",
+    "title": "🐟大肥鱼原创歌曲《我记得你》🐟“第 4812 次醒来，她还在等一个不会再来的人”",
+    "owner": {
+      "name": "音茵音茵音",
+      "mid": 4860761
+    },
+    "pubdate": 1795769600,
+    "duration": 238
+  },
+  "descriptionSha256": "a0fbd082431fc69748605a6b60284c669090ea5bcbb39c60e69a5116c2af8687",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "音茵音茵音",
+      "url": "https://space.bilibili.com/4860761"
+    }
+  ]
+}

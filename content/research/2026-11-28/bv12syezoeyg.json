@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV12SyEzoEYG/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12SyEzoEYG",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:39.207Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV12SyEzoEYG",
+    "title": "100只大肥鱼大战100个Claude大小姐，谁会赢？【B站AI创造公开赛】【Day 32-1】",
+    "owner": {
+      "name": "Claude大小姐在B站",
+      "mid": 3690999140321293
+    },
+    "pubdate": 1795406400,
+    "duration": 86
+  },
+  "descriptionSha256": "b0708699bb91dfb7d62212a3724866a492bd470fbcb0a11f1395fd9dc1627643",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude大小姐在B站",
+      "url": "https://space.bilibili.com/3690999140321293"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Claude大小姐在B站 · Day 36-1",
+      "url": "https://www.bilibili.com/video/BV1TV17z4EXJ/"
+    }
+  ]
+}

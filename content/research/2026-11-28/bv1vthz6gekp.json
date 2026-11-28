@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1VTHZ6gEKP/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1VTHZ6gEKP",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:36.173Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV1VTHZ6gEKP",
+    "title": "谁说只有你大肥鱼有BGM，GPT龙娘单曲震撼发布！！《PLAN IT OUT》",
+    "owner": {
+      "name": "specter雪叶",
+      "mid": 475662164
+    },
+    "pubdate": 1791259712,
+    "duration": 117
+  },
+  "descriptionSha256": "6ef36cf916ceb4d30479064fc61ec19fdf8606140b5e85a46159a6f5a8c6bd34",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "specter雪叶",
+      "url": "https://space.bilibili.com/475662164"
+    }
+  ]
+}

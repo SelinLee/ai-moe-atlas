@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1h2sh6zEsC/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1h2sh6zEsC",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:19.064Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV1h2sh6zEsC",
+    "title": "傻傻的大肥鱼和傻傻的白龙娘",
+    "owner": {
+      "name": "todearuuu",
+      "mid": 1764362935
+    },
+    "pubdate": 1795083356,
+    "duration": 27
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "todearuuu",
+      "url": "https://space.bilibili.com/1764362935"
+    }
+  ]
+}

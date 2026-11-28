@@ -1,0 +1,200 @@
+{
+  "historical": false,
+  "full_name": "MisonL/hei-mao",
+  "html_url": "https://github.com/MisonL/hei-mao",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-07-15T15:25:44Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "b4c30e6b7e9408fdb4a27699517704333fec56d0",
+  "observedAt": "2026-11-28T15:04:13.102Z",
+  "httpStatus": 200,
+  "metadataSha256": "339a4f79dc77eeb4da34abe35e81d832bc5f5d324235dc3b98746c8b2eb90928",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/MisonL/hei-mao/blob/b4c30e6b7e9408fdb4a27699517704333fec56d0/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/MisonL/hei-mao/b4c30e6b7e9408fdb4a27699517704333fec56d0/README.md",
+      "sourceSha256": "5398c3591b7c7fd8bba20d75ee9ea6d39b852f7213d759c22b3bb4950524e2a0",
+      "gitBlobSha": "b497729a72eec0850567bf1552ca1ab40c9ba605",
+      "bytes": 6198,
+      "commit": "b4c30e6b7e9408fdb4a27699517704333fec56d0",
+      "accessedAt": "2026-11-28T15:05:30.279Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/MisonL/hei-mao/blob/b4c30e6b7e9408fdb4a27699517704333fec56d0/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/MisonL/hei-mao/b4c30e6b7e9408fdb4a27699517704333fec56d0/LICENSE",
+      "sourceSha256": "186163a064a81ca8d7c134ca2791a24b47247e0ecc89567121e6c68d69ac450a",
+      "gitBlobSha": "d188493671c827bc0e35c12b573f9830c37d9222",
+      "bytes": 731,
+      "commit": "b4c30e6b7e9408fdb4a27699517704333fec56d0",
+      "accessedAt": "2026-11-28T15:05:30.683Z"
+    },
+    {
+      "path": "ASSETS-LICENSE.md",
+      "url": "https://github.com/MisonL/hei-mao/blob/b4c30e6b7e9408fdb4a27699517704333fec56d0/ASSETS-LICENSE.md",
+      "rawUrl": "https://raw.githubusercontent.com/MisonL/hei-mao/b4c30e6b7e9408fdb4a27699517704333fec56d0/ASSETS-LICENSE.md",
+      "sourceSha256": "e870a6a2e00a655e7526aa20c1fbddf67592df28019bb5f897c30a4651609477",
+      "gitBlobSha": "623251d2adc270ae964e689f1280f1ca2f409685",
+      "bytes": 2795,
+      "commit": "b4c30e6b7e9408fdb4a27699517704333fec56d0",
+      "accessedAt": "2026-11-28T15:05:31.036Z"
+    },
+    {
+      "path": "NOTICE",
+      "url": "https://github.com/MisonL/hei-mao/blob/b4c30e6b7e9408fdb4a27699517704333fec56d0/NOTICE",
+      "rawUrl": "https://raw.githubusercontent.com/MisonL/hei-mao/b4c30e6b7e9408fdb4a27699517704333fec56d0/NOTICE",
+      "sourceSha256": "e5eadce4cd4b38299f726dc4669ba83634c771bef8ec4049d7cffafeb8bbf2fd",
+      "gitBlobSha": "9b25eff36ebd354837f6414de3d987f426da43ee",
+      "bytes": 834,
+      "commit": "b4c30e6b7e9408fdb4a27699517704333fec56d0",
+      "accessedAt": "2026-11-28T15:05:31.457Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T15:08:22.392Z",
+  "scope": "Pinned public GitHub documentation verified by Git blob identity and SHA-256 in isolated Chrome. Listed sprite sheets were checked against the same Git tree.",
+  "relations": [
+    {
+      "role": "brand-asset-terms",
+      "title": "Hei Mao brand asset terms",
+      "url": "https://github.com/MisonL/hei-mao/blob/b4c30e6b7e9408fdb4a27699517704333fec56d0/ASSETS-LICENSE.md"
+    },
+    {
+      "role": "license-scope",
+      "title": "Scope of installer and asset terms",
+      "url": "https://github.com/MisonL/hei-mao/blob/b4c30e6b7e9408fdb4a27699517704333fec56d0/LICENSE"
+    },
+    {
+      "role": "asset-attribution",
+      "title": "Brand owner and attribution notice",
+      "url": "https://github.com/MisonL/hei-mao/blob/b4c30e6b7e9408fdb4a27699517704333fec56d0/NOTICE"
+    }
+  ],
+  "pinnedReadme": {
+    "path": "README.md",
+    "url": "https://github.com/MisonL/hei-mao/blob/b4c30e6b7e9408fdb4a27699517704333fec56d0/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/MisonL/hei-mao/b4c30e6b7e9408fdb4a27699517704333fec56d0/README.md",
+    "sourceSha256": "5398c3591b7c7fd8bba20d75ee9ea6d39b852f7213d759c22b3bb4950524e2a0",
+    "gitBlobSha": "b497729a72eec0850567bf1552ca1ab40c9ba605",
+    "bytes": 6198,
+    "commit": "b4c30e6b7e9408fdb4a27699517704333fec56d0",
+    "accessedAt": "2026-11-28T15:05:30.279Z"
+  },
+  "spriteSheets": [
+    {
+      "repo": "MisonL/hei-mao",
+      "commit": "b4c30e6b7e9408fdb4a27699517704333fec56d0",
+      "path": "pets/hei-mao-butler/spritesheet.webp",
+      "rawUrl": "https://raw.githubusercontent.com/MisonL/hei-mao/b4c30e6b7e9408fdb4a27699517704333fec56d0/pets/hei-mao-butler/spritesheet.webp",
+      "bytes": 2095284,
+      "width": 1536,
+      "height": 2288,
+      "format": "webp",
+      "hasAlpha": true,
+      "gitBlobSha": "9f62e2c47139b73136b4b4ce0852cc763e452240",
+      "sha256": "1e59bcd0024b4f381e740655e2457df490773e7038ea3f77f073f3ac5ca46304",
+      "observedAt": "2026-11-28T15:08:17.498Z"
+    },
+    {
+      "repo": "MisonL/hei-mao",
+      "commit": "b4c30e6b7e9408fdb4a27699517704333fec56d0",
+      "path": "pets/hei-mao-chef/spritesheet.webp",
+      "rawUrl": "https://raw.githubusercontent.com/MisonL/hei-mao/b4c30e6b7e9408fdb4a27699517704333fec56d0/pets/hei-mao-chef/spritesheet.webp",
+      "bytes": 1995120,
+      "width": 1536,
+      "height": 2288,
+      "format": "webp",
+      "hasAlpha": true,
+      "gitBlobSha": "5ebf99a9144c37fd11acb1b38a262a71e95f7ed8",
+      "sha256": "32a4df73b3ecc58c0f1488025a841fb7be7c93127d3f0134f22d6c799580d957",
+      "observedAt": "2026-11-28T15:08:18.126Z"
+    },
+    {
+      "repo": "MisonL/hei-mao",
+      "commit": "b4c30e6b7e9408fdb4a27699517704333fec56d0",
+      "path": "pets/hei-mao-delivery/spritesheet.webp",
+      "rawUrl": "https://raw.githubusercontent.com/MisonL/hei-mao/b4c30e6b7e9408fdb4a27699517704333fec56d0/pets/hei-mao-delivery/spritesheet.webp",
+      "bytes": 2759254,
+      "width": 1536,
+      "height": 2288,
+      "format": "webp",
+      "hasAlpha": true,
+      "gitBlobSha": "629af4be20554e8becfd5afa42b6beaec7027dfc",
+      "sha256": "6abe515e3b51357f2dbb44fbed46339fdf1234eb2ab8edd53cde9f553acdd5a4",
+      "observedAt": "2026-11-28T15:08:18.779Z"
+    },
+    {
+      "repo": "MisonL/hei-mao",
+      "commit": "b4c30e6b7e9408fdb4a27699517704333fec56d0",
+      "path": "pets/hei-mao-foodie/spritesheet.webp",
+      "rawUrl": "https://raw.githubusercontent.com/MisonL/hei-mao/b4c30e6b7e9408fdb4a27699517704333fec56d0/pets/hei-mao-foodie/spritesheet.webp",
+      "bytes": 3018576,
+      "width": 1536,
+      "height": 2288,
+      "format": "webp",
+      "hasAlpha": true,
+      "gitBlobSha": "229977be9d3cbbdb03699037e59b7a0c22faf8ab",
+      "sha256": "3eccffe95a7ea7d419a43ff325ac4324b67d82f0a7e1be7a3d2b7cdca8fce6c9",
+      "observedAt": "2026-11-28T15:08:19.526Z"
+    },
+    {
+      "repo": "MisonL/hei-mao",
+      "commit": "b4c30e6b7e9408fdb4a27699517704333fec56d0",
+      "path": "pets/hei-mao-fortune/spritesheet.webp",
+      "rawUrl": "https://raw.githubusercontent.com/MisonL/hei-mao/b4c30e6b7e9408fdb4a27699517704333fec56d0/pets/hei-mao-fortune/spritesheet.webp",
+      "bytes": 3287666,
+      "width": 1536,
+      "height": 2288,
+      "format": "webp",
+      "hasAlpha": true,
+      "gitBlobSha": "b429269bee279975d5ca0beb7936eb67eca84443",
+      "sha256": "10056a01a1a85bd350f83e59e8e746540b873add65e8e360439f80a61cf197d9",
+      "observedAt": "2026-11-28T15:08:20.320Z"
+    },
+    {
+      "repo": "MisonL/hei-mao",
+      "commit": "b4c30e6b7e9408fdb4a27699517704333fec56d0",
+      "path": "pets/hei-mao-quality/spritesheet.webp",
+      "rawUrl": "https://raw.githubusercontent.com/MisonL/hei-mao/b4c30e6b7e9408fdb4a27699517704333fec56d0/pets/hei-mao-quality/spritesheet.webp",
+      "bytes": 2383198,
+      "width": 1536,
+      "height": 2288,
+      "format": "webp",
+      "hasAlpha": true,
+      "gitBlobSha": "9aac2bbf0195885cce4b97e6760187e81ca95ca0",
+      "sha256": "51a0da72fbec1ebf40a6776fd54516b34d59a920427556bcf2d1753e9eabb46a",
+      "observedAt": "2026-11-28T15:08:20.935Z"
+    },
+    {
+      "repo": "MisonL/hei-mao",
+      "commit": "b4c30e6b7e9408fdb4a27699517704333fec56d0",
+      "path": "pets/hei-mao-traveler/spritesheet.webp",
+      "rawUrl": "https://raw.githubusercontent.com/MisonL/hei-mao/b4c30e6b7e9408fdb4a27699517704333fec56d0/pets/hei-mao-traveler/spritesheet.webp",
+      "bytes": 3382482,
+      "width": 1536,
+      "height": 2288,
+      "format": "webp",
+      "hasAlpha": true,
+      "gitBlobSha": "3bd67c197cd384db0e41f1bdd4c3926cc853d057",
+      "sha256": "23f33c14634987575aede96567cd58a281f85ed5670bf200fb9b40586cbf519a",
+      "observedAt": "2026-11-28T15:08:21.798Z"
+    },
+    {
+      "repo": "MisonL/hei-mao",
+      "commit": "b4c30e6b7e9408fdb4a27699517704333fec56d0",
+      "path": "pets/hei-mao/spritesheet.webp",
+      "rawUrl": "https://raw.githubusercontent.com/MisonL/hei-mao/b4c30e6b7e9408fdb4a27699517704333fec56d0/pets/hei-mao/spritesheet.webp",
+      "bytes": 2367286,
+      "width": 1536,
+      "height": 2288,
+      "format": "webp",
+      "hasAlpha": true,
+      "gitBlobSha": "af1682b7136edb1ddb756e4a27eb55816b2b1802",
+      "sha256": "7e50053d4bce7d6630f55bad54d9d6f224b5d5ca53a3969288bcbdd6867e9cbd",
+      "observedAt": "2026-11-28T15:08:22.392Z"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV11qyYzwE4V/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV11qyYzwE4V",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:25.321Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV11qyYzwE4V",
+    "title": "大肥鱼被GPT绑架了",
+    "owner": {
+      "name": "基米米-BVM",
+      "mid": 110698576
+    },
+    "pubdate": 1795270369,
+    "duration": 11
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "基米米-BVM",
+      "url": "https://space.bilibili.com/110698576"
+    }
+  ]
+}

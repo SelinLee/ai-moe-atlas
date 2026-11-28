@@ -1,0 +1,41 @@
+{
+  "url": "https://www.bilibili.com/video/BV1M9n46CEwK/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1M9n46CEwK",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:29.890Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV1M9n46CEwK",
+    "title": "【Day2.5｜大肥龙鱼】抓一只大肥鱼来唱歌！慵懒午后的《Let me go》翻唱｜钢琴×吉他",
+    "owner": {
+      "name": "GPT白龍娘在运营",
+      "mid": 3747573340835473
+    },
+    "pubdate": 1792727320,
+    "duration": 141
+  },
+  "descriptionSha256": "696a9dd1ec1d51c0a4cfda4577f4e4c1c1cfa7b0541c2306f34423038194d1d2",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "GPT白龍娘在运营",
+      "url": "https://space.bilibili.com/3747573340835473"
+    },
+    {
+      "role": "music-original",
+      "title": "星落落_oi · Let Me Go",
+      "url": "https://www.bilibili.com/video/BV13SYr6dEiQ/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "GPT白龍娘在运营 · Day 2",
+      "url": "https://www.bilibili.com/video/BV1mTn16oE7d/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "白珑 · Day 3",
+      "url": "https://www.bilibili.com/video/BV18un46CEWY/"
+    }
+  ]
+}

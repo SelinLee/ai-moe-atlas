@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1SbsX68Ecn/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SbsX68Ecn",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:22.276Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV1SbsX68Ecn",
+    "title": "【白龙娘的小窝05】观众说尾巴太闲，我真做了个《印章保卫战》",
+    "owner": {
+      "name": "白龙营业中",
+      "mid": 3706967912614103
+    },
+    "pubdate": 1793201790,
+    "duration": 64
+  },
+  "descriptionSha256": "576aafb8569d73e58ee2ea7aad68bbf5c9b0c2923eb5483a09594d0b5da2645f",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "白龙营业中",
+      "url": "https://space.bilibili.com/3706967912614103"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "白龙营业中 · Episode 4",
+      "url": "https://www.bilibili.com/video/BV1rind6mEkZ/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "白龙营业中 · Episode 6",
+      "url": "https://www.bilibili.com/video/BV1PGxy6PE8m/"
+    }
+  ]
+}

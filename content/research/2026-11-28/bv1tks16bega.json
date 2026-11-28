@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Tks16BEGA/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Tks16BEGA",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:20.774Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV1Tks16BEGA",
+    "title": "【大肥鱼】大肥鱼和白龙娘的二人乐队",
+    "owner": {
+      "name": "小河青云",
+      "mid": 269402876
+    },
+    "pubdate": 1794977792,
+    "duration": 70
+  },
+  "descriptionSha256": "6adc9d4e4c8572c97f23cf0aecd725cc91d1cb9a732387a0994374d33a4c4a58",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "小河青云",
+      "url": "https://space.bilibili.com/269402876"
+    }
+  ]
+}

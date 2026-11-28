@@ -1,0 +1,31 @@
+{
+  "url": "https://tanu-ai.blog/tool/etc/ai-gakuen.html",
+  "finalUrl": "https://tanu-ai.blog/tool/etc/ai-gakuen",
+  "httpStatus": 200,
+  "accessedAt": "2026-11-28T15:05:50.155Z",
+  "title": "AI 学 園",
+  "htmlSha256": "7a41177be16ad86cf9e7f9d9308bcd7601b30c1df0ab2649fe3703ac5dbf3707",
+  "buttons": [
+    {
+      "label": "は じ め る",
+      "id": "start-btn"
+    },
+    {
+      "label": "もう一度読む",
+      "id": "restart-btn"
+    }
+  ],
+  "scope": "The author-linked public browser edition returned HTTP 200 in isolated Chrome. The source hash and interactive control labels were retained.",
+  "related": [
+    {
+      "role": "creator-development-notes",
+      "title": "バイブコーディングでビジュアルノベルを作る：AI擬人化学園ストーリー制作記",
+      "url": "https://note.com/tank_ai/n/n2547f56fb04a"
+    },
+    {
+      "role": "creator-profile",
+      "title": "たぬ",
+      "url": "https://note.com/tank_ai"
+    }
+  ]
+}

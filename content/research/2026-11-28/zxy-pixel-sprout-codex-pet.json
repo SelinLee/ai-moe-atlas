@@ -1,0 +1,107 @@
+{
+  "historical": false,
+  "full_name": "zxy19960316/codex-pet-desktop",
+  "html_url": "https://github.com/zxy19960316/codex-pet-desktop",
+  "stargazers_count": 1,
+  "archived": false,
+  "created_at": "2026-07-15T01:52:42Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2",
+  "observedAt": "2026-11-28T15:04:26.171Z",
+  "httpStatus": 200,
+  "metadataSha256": "6fba1e4b25fb115d103f2ce0b950fa651ec18b2f085a2115b959fea65f3313fe",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/zxy19960316/codex-pet-desktop/blob/c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/zxy19960316/codex-pet-desktop/c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2/README.md",
+      "sourceSha256": "4c39b5e6a95e314876b11ab313e1a1d1690e92fe193c8ca40611fc5308fb3a24",
+      "gitBlobSha": "aca1af615e925381fab50f04a1209b0589cfc8c9",
+      "bytes": 9308,
+      "commit": "c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2",
+      "accessedAt": "2026-11-28T15:05:30.322Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/zxy19960316/codex-pet-desktop/blob/c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/zxy19960316/codex-pet-desktop/c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2/LICENSE",
+      "sourceSha256": "cd3d476fe1b2e8b1f34a4a06b0362a69051860e7735c9989181c15f598116d26",
+      "gitBlobSha": "725da306370e2bb20b56aba808bec7066dfab2d4",
+      "bytes": 4621,
+      "commit": "c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2",
+      "accessedAt": "2026-11-28T15:05:30.683Z"
+    },
+    {
+      "path": "ASSET_POLICY.md",
+      "url": "https://github.com/zxy19960316/codex-pet-desktop/blob/c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2/ASSET_POLICY.md",
+      "rawUrl": "https://raw.githubusercontent.com/zxy19960316/codex-pet-desktop/c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2/ASSET_POLICY.md",
+      "sourceSha256": "07a1131ba012f288d55a4a889a31862beaa35b6d8bd1ab087abc37da6bf10cdd",
+      "gitBlobSha": "a7e7d91f013e38ed2861bb3e97a09f1270c29434",
+      "bytes": 2261,
+      "commit": "c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2",
+      "accessedAt": "2026-11-28T15:05:31.045Z"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "url": "https://github.com/zxy19960316/codex-pet-desktop/blob/c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2/THIRD_PARTY_NOTICES.md",
+      "rawUrl": "https://raw.githubusercontent.com/zxy19960316/codex-pet-desktop/c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2/THIRD_PARTY_NOTICES.md",
+      "sourceSha256": "31f0c3e472bae1f80438d5a06d94c71f07b94d4b467cf8f1d9bb0ee4b75123e4",
+      "gitBlobSha": "0cc47a85c44d0938071f83a7af98e06347f5e96f",
+      "bytes": 458,
+      "commit": "c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2",
+      "accessedAt": "2026-11-28T15:05:31.563Z"
+    },
+    {
+      "path": "pets/example-original-pet/README.md",
+      "url": "https://github.com/zxy19960316/codex-pet-desktop/blob/c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2/pets/example-original-pet/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/zxy19960316/codex-pet-desktop/c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2/pets/example-original-pet/README.md",
+      "sourceSha256": "3ad39878e3e1e0bf4b32f5397765c3359a62bb536b76347b5f477a4fa9a71167",
+      "gitBlobSha": "5afc155c73aad907f1bf363c5af31cff89ab0193",
+      "bytes": 561,
+      "commit": "c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2",
+      "accessedAt": "2026-11-28T15:05:31.897Z"
+    },
+    {
+      "path": "pets/example-original-pet/LICENSE",
+      "url": "https://github.com/zxy19960316/codex-pet-desktop/blob/c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2/pets/example-original-pet/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/zxy19960316/codex-pet-desktop/c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2/pets/example-original-pet/LICENSE",
+      "sourceSha256": "45a2e6669821d77a20f577095068074047c77bc9092e4ecc8ee57bd4c840381c",
+      "gitBlobSha": "56e65cd09e6ab81e69c670e55a33931d9e78ea11",
+      "bytes": 466,
+      "commit": "c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2",
+      "accessedAt": "2026-11-28T15:05:32.237Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T15:05:32.237Z",
+  "scope": "Pinned public GitHub documentation verified by Git blob identity and SHA-256 in isolated Chrome. Listed sprite sheets were checked against the same Git tree.",
+  "relations": [
+    {
+      "role": "versioned-license",
+      "title": "Codex Pet Desktop license",
+      "url": "https://github.com/zxy19960316/codex-pet-desktop/blob/c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2/LICENSE"
+    },
+    {
+      "role": "asset-specific-terms",
+      "title": "Versioned code, bundled and imported asset policy",
+      "url": "https://github.com/zxy19960316/codex-pet-desktop/blob/c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2/ASSET_POLICY.md"
+    },
+    {
+      "role": "third-party-terms",
+      "title": "Third-party notices",
+      "url": "https://github.com/zxy19960316/codex-pet-desktop/blob/c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2/THIRD_PARTY_NOTICES.md"
+    }
+  ],
+  "pinnedReadme": {
+    "path": "README.md",
+    "url": "https://github.com/zxy19960316/codex-pet-desktop/blob/c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/zxy19960316/codex-pet-desktop/c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2/README.md",
+    "sourceSha256": "4c39b5e6a95e314876b11ab313e1a1d1690e92fe193c8ca40611fc5308fb3a24",
+    "gitBlobSha": "aca1af615e925381fab50f04a1209b0589cfc8c9",
+    "bytes": 9308,
+    "commit": "c2f5a072a9c7341bb6290229cfb35ca7bd34cfd2",
+    "accessedAt": "2026-11-28T15:05:30.322Z"
+  },
+  "spriteSheets": []
+}

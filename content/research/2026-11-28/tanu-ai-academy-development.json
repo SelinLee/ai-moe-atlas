@@ -1,0 +1,60 @@
+{
+  "url": "https://note.com/tank_ai/n/n2547f56fb04a",
+  "accessedAt": "2026-11-28T15:04:10.740Z",
+  "httpStatus": 200,
+  "title": "バイブコーディングでビジュアルノベルを作る：AI擬人化学園ストーリー制作記",
+  "creator": "https://note.com/tank_ai",
+  "publishedAt": "2026-02-23T13:00:00.000+09:00",
+  "htmlSha256": "86c2ac0beacfdeaf03b8c3d6d60084ee28ece5c0f3547dcfc48b5dad30251f27",
+  "scope": "Original creator posts and selected image bytes checked in isolated Chrome. The evidence records attribution, source URLs and original SHA-256 hashes.",
+  "files": [
+    {
+      "index": 2,
+      "url": "https://assets.st-note.com/production/uploads/images/253897862/picture_pc_78a3cbf40bc2ca35b5df1daaf6e2f6bd.gif",
+      "sha256": "45a39df3d60f047bfbe83fc61d28063188be502011ebdcff18efa81ccc5e10d4",
+      "bytes": 3572445,
+      "width": 427,
+      "height": 236,
+      "format": "gif",
+      "accessedAt": "2026-11-28T15:08:38.339Z"
+    }
+  ],
+  "headings": [
+    [
+      "",
+      "目次"
+    ],
+    [
+      "bb0b6a3b-a244-41fc-9c0f-2a0e4dbf0d5c",
+      "1. HTML一枚で完結するビジュアルノベル"
+    ],
+    [
+      "07f15562-5a96-449c-a7b1-1830cdb14906",
+      "2. Sonnet 4.6とSVG描画の品質"
+    ],
+    [
+      "bcc17d7e-0ab9-4039-9648-ff818a9d3d44",
+      "3. ストーリーと演出の設計"
+    ],
+    [
+      "78bd70bf-d238-449e-a8e6-e3b042c3a3ea",
+      "4. 開発中のトラブル：消えた関数と劣化した教室"
+    ],
+    [
+      "a5b96550-27c8-497b-b06c-8a65f17eec07",
+      "まとめ"
+    ]
+  ],
+  "relations": [
+    {
+      "role": "creator-profile",
+      "title": "たぬ",
+      "url": "https://note.com/tank_ai"
+    },
+    {
+      "role": "creator-original-game",
+      "title": "たぬ · AI 学園",
+      "url": "https://tanu-ai.blog/tool/etc/ai-gakuen.html"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1e71tzeE6g/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1e71tzeE6g",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:39.302Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV1e71tzeE6g",
+    "title": "大肥鱼每吃一碗饭，就大一倍【B站AI创造公开赛】【Day 37-1】",
+    "owner": {
+      "name": "Claude大小姐在B站",
+      "mid": 3690999140321293
+    },
+    "pubdate": 1795838400,
+    "duration": 115
+  },
+  "descriptionSha256": "c517feb4e6912b93b5b832b442616eb446f8301e2c078746d5e43fe63b1c3aaf",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude大小姐在B站",
+      "url": "https://space.bilibili.com/3690999140321293"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Claude大小姐在B站 · Day 36-1",
+      "url": "https://www.bilibili.com/video/BV1TV17z4EXJ/"
+    }
+  ]
+}

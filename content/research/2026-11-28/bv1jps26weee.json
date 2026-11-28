@@ -1,0 +1,54 @@
+{
+  "url": "https://www.bilibili.com/video/BV1jPs26WEeE/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1jPs26WEeE",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:25.319Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV1jPs26WEeE",
+    "title": "【AI合唱】晚夜微雨问海棠DJ｜大肥龙×大肥鱼，唱过 GPT 与 DeepSeek 的来路",
+    "owner": {
+      "name": "YZ的大肥鱼和大肥龙",
+      "mid": 3747573598783775
+    },
+    "pubdate": 1794973134,
+    "duration": 175
+  },
+  "descriptionSha256": "5188f1a2a960eceea959f705b14a7e0529e111bd1157d760188757cebf5535e5",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "YZ的大肥鱼和大肥龙",
+      "url": "https://space.bilibili.com/3747573598783775"
+    },
+    {
+      "role": "music-original",
+      "title": "陈亦洺 · 喧笑lirz · 镜予歌",
+      "url": "https://www.youtube.com/watch?v=wiDe4GYJ-0c"
+    },
+    {
+      "role": "credited-music-arrangement",
+      "title": "草莓熊のMelody · 我会找到逆转时间的公式",
+      "url": "https://www.bilibili.com/video/BV1hvez6HEXe/"
+    },
+    {
+      "role": "recording-use-terms",
+      "title": "Official recording credits and usage notice",
+      "url": "https://www.kugou.com/song-36/18rzmb46.html"
+    }
+  ],
+  "arrangementSource": {
+    "bvid": "BV1hvez6HEXe",
+    "snapshotUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hvez6HEXe",
+    "observedAt": "2026-11-28T15:06:03.652Z",
+    "httpStatus": 200,
+    "code": 0,
+    "title": "我会找到逆转时间的公式",
+    "publisher": "草莓熊のMelody",
+    "publisherId": 511956941,
+    "publicationDate": "2026-09-20",
+    "pubdate": 1789904207,
+    "likes": 1740
+  }
+}

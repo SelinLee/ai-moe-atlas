@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1FzJB6fECa/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1FzJB6fECa",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:34.514Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV1FzJB6fECa",
+    "title": "大肥鱼单曲 - 《带我走》原创歌曲 (已换源歌词版）",
+    "owner": {
+      "name": "-Azazel-",
+      "mid": 421906
+    },
+    "pubdate": 1792245920,
+    "duration": 253
+  },
+  "descriptionSha256": "a41738a25cb14b95a39a15ed7cff205b2990a532e937930cfb62f2fb717b3ebe",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "-Azazel-",
+      "url": "https://space.bilibili.com/421906"
+    }
+  ]
+}

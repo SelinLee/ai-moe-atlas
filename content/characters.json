@@ -8367,5 +8367,285 @@
       "en": "The atlas links the creator’s post. Terms for separate image display, adaptation and redistribution await confirmation.",
       "ja": "作者の原公開先へ案内。画像の個別掲載・改変・再配布の条件は確認待ち。"
     }
+  },
+  {
+    "id": "links-lt-nexus",
+    "entity": "chatgpt",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "ネクサス · 月咏学园",
+      "en": "Nexus · Tsukuyomi Academy",
+      "ja": "ネクサス · 月詠学園"
+    },
+    "description": {
+      "zh": "红色短发、蓝眼睛，穿带金色纹样的深色学院服。作者在四格原帖中标明是新角色。",
+      "en": "Red hair, blue eyes and a dark school uniform with gold trim. The creator introduces Nexus as a new character in the four-panel comic.",
+      "ja": "赤い短髪と青い目、金の模様が入る濃色の制服。作者が4コマの新キャラとして紹介。"
+    },
+    "story": {
+      "zh": "红色短发、蓝眼睛，穿带金色纹样的深色学院服。作者在四格原帖中标明是新角色。",
+      "en": "Red hair, blue eyes and a dark school uniform with gold trim. The creator introduces Nexus as a new character in the four-panel comic.",
+      "ja": "赤い短髪と青い目、金の模様が入る濃色の制服。作者が4コマの新キャラとして紹介。"
+    },
+    "features": {
+      "zh": "红色短发、蓝眼睛，穿带金色纹样的深色学院服。作者在四格原帖中标明是新角色。",
+      "en": "Red hair, blue eyes and a dark school uniform with gold trim. The creator introduces Nexus as a new character in the four-panel comic.",
+      "ja": "赤い短髪と青い目、金の模様が入る濃色の制服。作者が4コマの新キャラとして紹介。"
+    },
+    "author": "りんくす",
+    "authorUrl": "https://note.com/links_lt",
+    "source": "https://note.com/links_lt/n/n47d0e8fe2eb9",
+    "sourceTitle": "私立月詠学園の四天王たち｜新キャラ登場",
+    "originalPublication": "https://note.com/links_lt/n/n47d0e8fe2eb9",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "りんくす",
+        "url": "https://note.com/links_lt",
+        "role": "original-character",
+        "publication": "https://note.com/links_lt/n/n47d0e8fe2eb9"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/links_lt/n/n47d0e8fe2eb9",
+    "downloadable": false,
+    "bg": "#eef0f8",
+    "color": "#444f69",
+    "verifiedAt": "2026-11-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "收录作者原帖链接。角色图件的独立展示、改编与再分发条件待确认。",
+      "en": "Links the creator’s publication. Separate image display, adaptation and redistribution terms await confirmation.",
+      "ja": "作者の原公開先へ案内。画像の個別掲載、改変、再配布条件は確認待ち。"
+    }
+  },
+  {
+    "id": "links-lt-namazu-leonis",
+    "entity": "sakana-namazu",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Namazu Leonis · りんくす设定",
+      "en": "Namazu Leonis · Links’s Design",
+      "ja": "ナマズ・レオニス · りんくすの設定"
+    },
+    "description": {
+      "zh": "作者将名字追溯到 Sakana AI 的 Namazu 和狮子座。原帖造型有蓝色鳞片、鱼鳍与狮子元素。",
+      "en": "The creator derives the name from Sakana AI’s Namazu and Leo. The reference combines blue scales, fish fins and lion motifs.",
+      "ja": "作者は Sakana AI の Namazu と獅子座を名前の由来に挙げる。原投稿の造形は青い鱗、ひれ、ライオンを組み合わせる。"
+    },
+    "story": {
+      "zh": "作者将名字追溯到 Sakana AI 的 Namazu 和狮子座。原帖造型有蓝色鳞片、鱼鳍与狮子元素。",
+      "en": "The creator derives the name from Sakana AI’s Namazu and Leo. The reference combines blue scales, fish fins and lion motifs.",
+      "ja": "作者は Sakana AI の Namazu と獅子座を名前の由来に挙げる。原投稿の造形は青い鱗、ひれ、ライオンを組み合わせる。"
+    },
+    "features": {
+      "zh": "作者将名字追溯到 Sakana AI 的 Namazu 和狮子座。原帖造型有蓝色鳞片、鱼鳍与狮子元素。",
+      "en": "The creator derives the name from Sakana AI’s Namazu and Leo. The reference combines blue scales, fish fins and lion motifs.",
+      "ja": "作者は Sakana AI の Namazu と獅子座を名前の由来に挙げる。原投稿の造形は青い鱗、ひれ、ライオンを組み合わせる。"
+    },
+    "author": "りんくす",
+    "authorUrl": "https://note.com/links_lt",
+    "source": "https://note.com/links_lt/n/n601a51725cf0",
+    "sourceTitle": "AIでオリジナルキャラを作る方法|PolloAIで具現化　プロンプト公開",
+    "originalPublication": "https://note.com/links_lt/n/n601a51725cf0",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "りんくす",
+        "url": "https://note.com/links_lt",
+        "role": "original-character",
+        "publication": "https://note.com/links_lt/n/n601a51725cf0"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/links_lt/n/n601a51725cf0",
+    "downloadable": false,
+    "bg": "#eef0f8",
+    "color": "#444f69",
+    "verifiedAt": "2026-11-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "收录作者原帖链接。角色图件的独立展示、改编与再分发条件待确认。",
+      "en": "Links the creator’s publication. Separate image display, adaptation and redistribution terms await confirmation.",
+      "ja": "作者の原公開先へ案内。画像の個別掲載、改変、再配布条件は確認待ち。"
+    }
+  },
+  {
+    "id": "links-lt-codex-lim",
+    "entity": "codex",
+    "kind": "reference",
+    "style": "mascot",
+    "official": false,
+    "name": {
+      "zh": "Codex Lim · 黑猫向导",
+      "en": "Codex Lim · Black Cat Guide",
+      "ja": "Codex Lim · 黒猫の案内役"
+    },
+    "description": {
+      "zh": "作者发布黑猫三视图。Lim 披黑色短斗篷，戴圆铃，负责引导访客穿过四扇门。",
+      "en": "The creator publishes a black-cat turnaround with a short cloak and round bell. Lim guides visitors to four doors.",
+      "ja": "作者が黒猫の三面図を公開。短い黒マントと丸い鈴を着け、訪ねてきた人を4つの扉へ案内する。"
+    },
+    "story": {
+      "zh": "作者发布黑猫三视图。Lim 披黑色短斗篷，戴圆铃，负责引导访客穿过四扇门。",
+      "en": "The creator publishes a black-cat turnaround with a short cloak and round bell. Lim guides visitors to four doors.",
+      "ja": "作者が黒猫の三面図を公開。短い黒マントと丸い鈴を着け、訪ねてきた人を4つの扉へ案内する。"
+    },
+    "features": {
+      "zh": "作者发布黑猫三视图。Lim 披黑色短斗篷，戴圆铃，负责引导访客穿过四扇门。",
+      "en": "The creator publishes a black-cat turnaround with a short cloak and round bell. Lim guides visitors to four doors.",
+      "ja": "作者が黒猫の三面図を公開。短い黒マントと丸い鈴を着け、訪ねてきた人を4つの扉へ案内する。"
+    },
+    "author": "りんくす",
+    "authorUrl": "https://note.com/links_lt",
+    "source": "https://note.com/links_lt/n/n601a51725cf0",
+    "sourceTitle": "AIでオリジナルキャラを作る方法|PolloAIで具現化　プロンプト公開",
+    "originalPublication": "https://note.com/links_lt/n/n601a51725cf0",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "りんくす",
+        "url": "https://note.com/links_lt",
+        "role": "original-character",
+        "publication": "https://note.com/links_lt/n/n601a51725cf0"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/links_lt/n/n601a51725cf0",
+    "downloadable": false,
+    "bg": "#eef0f8",
+    "color": "#444f69",
+    "verifiedAt": "2026-11-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "收录作者原帖链接。角色图件的独立展示、改编与再分发条件待确认。",
+      "en": "Links the creator’s publication. Separate image display, adaptation and redistribution terms await confirmation.",
+      "ja": "作者の原公開先へ案内。画像の個別掲載、改変、再配布条件は確認待ち。"
+    }
+  },
+  {
+    "id": "chansuke-claude-editor",
+    "entity": "claude",
+    "kind": "reference",
+    "style": "anime",
+    "official": false,
+    "name": {
+      "zh": "Claude · ちゃんすけ的编辑角色",
+      "en": "Claude · Chansuke’s Editor",
+      "ja": "Claude · ちゃんすけの編集役"
+    },
+    "description": {
+      "zh": "深蓝发、眼镜与深色马甲。作者在第 0 章结尾明确这个造型是 Claude。",
+      "en": "Dark blue hair, glasses and a dark waistcoat. The creator identifies him as Claude at the end of Chapter 0.",
+      "ja": "濃い青の髪、メガネ、濃色のベスト。作者が第0章の結末で Claude と明記。"
+    },
+    "story": {
+      "zh": "深蓝发、眼镜与深色马甲。作者在第 0 章结尾明确这个造型是 Claude。",
+      "en": "Dark blue hair, glasses and a dark waistcoat. The creator identifies him as Claude at the end of Chapter 0.",
+      "ja": "濃い青の髪、メガネ、濃色のベスト。作者が第0章の結末で Claude と明記。"
+    },
+    "features": {
+      "zh": "深蓝发、眼镜与深色马甲。作者在第 0 章结尾明确这个造型是 Claude。",
+      "en": "Dark blue hair, glasses and a dark waistcoat. The creator identifies him as Claude at the end of Chapter 0.",
+      "ja": "濃い青の髪、メガネ、濃色のベスト。作者が第0章の結末で Claude と明記。"
+    },
+    "author": "ちゃんすけ",
+    "authorUrl": "https://note.com/chansuke098",
+    "source": "https://note.com/chansuke098/n/nb19c6ecab6dd",
+    "sourceTitle": "ClaudeとGeminiに会議させてみた話〜「へたくそでびっくり！！」から生まれたAI交流〜",
+    "originalPublication": "https://note.com/chansuke098/n/nb19c6ecab6dd",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ちゃんすけ",
+        "url": "https://note.com/chansuke098",
+        "role": "original-character",
+        "publication": "https://note.com/chansuke098/n/nb19c6ecab6dd"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/chansuke098/n/nb19c6ecab6dd",
+    "downloadable": false,
+    "bg": "#eef0f8",
+    "color": "#444f69",
+    "verifiedAt": "2026-11-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "收录作者原帖链接。角色图件的独立展示、改编与再分发条件待确认。",
+      "en": "Links the creator’s publication. Separate image display, adaptation and redistribution terms await confirmation.",
+      "ja": "作者の原公開先へ案内。画像の個別掲載、改変、再配布条件は確認待ち。"
+    }
+  },
+  {
+    "id": "chansuke-gemini-hoodie-spirit",
+    "entity": "gemini",
+    "kind": "reference",
+    "style": "mascot",
+    "official": false,
+    "name": {
+      "zh": "Gemini · ちゃんすけ的蓝色精灵",
+      "en": "Gemini · Chansuke’s Blue Spirit",
+      "ja": "Gemini · ちゃんすけの青い精霊"
+    },
+    "description": {
+      "zh": "浅蓝色小精灵，有星形触角，穿蓝色连帽衫。作者在第 0 章结尾把它标为 Gemini。",
+      "en": "A light-blue spirit with star-tipped antennae and a blue hoodie. The creator identifies it as Gemini at the end of Chapter 0.",
+      "ja": "星形の触角と青いパーカーの水色の精霊。作者が第0章の結末で Gemini と明記。"
+    },
+    "story": {
+      "zh": "浅蓝色小精灵，有星形触角，穿蓝色连帽衫。作者在第 0 章结尾把它标为 Gemini。",
+      "en": "A light-blue spirit with star-tipped antennae and a blue hoodie. The creator identifies it as Gemini at the end of Chapter 0.",
+      "ja": "星形の触角と青いパーカーの水色の精霊。作者が第0章の結末で Gemini と明記。"
+    },
+    "features": {
+      "zh": "浅蓝色小精灵，有星形触角，穿蓝色连帽衫。作者在第 0 章结尾把它标为 Gemini。",
+      "en": "A light-blue spirit with star-tipped antennae and a blue hoodie. The creator identifies it as Gemini at the end of Chapter 0.",
+      "ja": "星形の触角と青いパーカーの水色の精霊。作者が第0章の結末で Gemini と明記。"
+    },
+    "author": "ちゃんすけ",
+    "authorUrl": "https://note.com/chansuke098",
+    "source": "https://note.com/chansuke098/n/nb19c6ecab6dd",
+    "sourceTitle": "ClaudeとGeminiに会議させてみた話〜「へたくそでびっくり！！」から生まれたAI交流〜",
+    "originalPublication": "https://note.com/chansuke098/n/nb19c6ecab6dd",
+    "sourceStatus": "creator-published",
+    "attribution": [
+      {
+        "name": "ちゃんすけ",
+        "url": "https://note.com/chansuke098",
+        "role": "original-character",
+        "publication": "https://note.com/chansuke098/n/nb19c6ecab6dd"
+      }
+    ],
+    "method": "ai-generated",
+    "license": "source-only",
+    "licenseUrl": "https://note.com/chansuke098/n/nb19c6ecab6dd",
+    "downloadable": false,
+    "bg": "#eef0f8",
+    "color": "#444f69",
+    "verifiedAt": "2026-11-28",
+    "origin": "web-collected",
+    "preview": null,
+    "assets": [],
+    "provenanceNote": {
+      "zh": "收录作者原帖链接。角色图件的独立展示、改编与再分发条件待确认。",
+      "en": "Links the creator’s publication. Separate image display, adaptation and redistribution terms await confirmation.",
+      "ja": "作者の原公開先へ案内。画像の個別掲載、改変、再配布条件は確認待ち。"
+    }
   }
 ]

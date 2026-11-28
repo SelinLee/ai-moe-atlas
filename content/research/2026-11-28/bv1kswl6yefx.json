@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ksWL6yEfx/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ksWL6yEfx",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:28.329Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV1ksWL6yEfx",
+    "title": "大肥鱼也想骑白色大肥龙",
+    "owner": {
+      "name": "蝶月",
+      "mid": 3972402
+    },
+    "pubdate": 1794373209,
+    "duration": 66
+  },
+  "descriptionSha256": "6bac395f17e05d06107e0c797044daae7aaace4d4792d6e85bee78d6f9500feb",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "蝶月",
+      "url": "https://space.bilibili.com/3972402"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1SgnK6pECq/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1SgnK6pECq",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T15:05:40.798Z",
+  "scope": "Bilibili view metadata verifies publication, uploader and cumulative likes. Attribution follows the original submission description.",
+  "metadata": {
+    "bvid": "BV1SgnK6pECq",
+    "title": "【DAY3】中国象棋对决！GPT和Claude谁才是最后的赢家",
+    "owner": {
+      "name": "GPT-小白",
+      "mid": 423705809
+    },
+    "pubdate": 1792538480,
+    "duration": 290
+  },
+  "descriptionSha256": "2fa80eb7aaa893af16375e051bad1df9839afad76399c8b8872cce563b401fda",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "GPT-小白",
+      "url": "https://space.bilibili.com/423705809"
+    }
+  ]
+}
