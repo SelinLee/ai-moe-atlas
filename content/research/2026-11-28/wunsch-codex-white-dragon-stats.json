@@ -1,0 +1,106 @@
+{
+  "historical": false,
+  "full_name": "Wunsch2048/codex-bailong-desktop-pet",
+  "html_url": "https://github.com/Wunsch2048/codex-bailong-desktop-pet",
+  "stargazers_count": 385,
+  "archived": false,
+  "created_at": "2026-10-21T04:17:15Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "96c3c02a01049263e1aac0141a8820b2574588e4",
+  "observedAt": "2026-11-28T13:56:03.571Z",
+  "httpStatus": 200,
+  "metadataSha256": "224b2f9dbdc773cee049bb5d7ac1ff6f9ae5cb0b59089015d235d6270c3b21d3",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/Wunsch2048/codex-bailong-desktop-pet/blob/96c3c02a01049263e1aac0141a8820b2574588e4/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Wunsch2048/codex-bailong-desktop-pet/96c3c02a01049263e1aac0141a8820b2574588e4/README.md",
+      "sourceSha256": "f4442d554fd67364830e0d182c304cae1894a9c09d9c5b0c45060a4570c8535b",
+      "gitBlobSha": "7037d91a1be061ed502b38a4da31f53f80e90e43",
+      "bytes": 6159,
+      "commit": "96c3c02a01049263e1aac0141a8820b2574588e4",
+      "accessedAt": "2026-11-28T13:59:27.040Z"
+    },
+    {
+      "path": "NOTICE.md",
+      "url": "https://github.com/Wunsch2048/codex-bailong-desktop-pet/blob/96c3c02a01049263e1aac0141a8820b2574588e4/NOTICE.md",
+      "rawUrl": "https://raw.githubusercontent.com/Wunsch2048/codex-bailong-desktop-pet/96c3c02a01049263e1aac0141a8820b2574588e4/NOTICE.md",
+      "sourceSha256": "6a832074b369855c10aa2512b07965d26ed83ac93cec462a4d3f83ec5f535727",
+      "gitBlobSha": "cf2cf2a9cc85e23182672286109aa59fdcd34634",
+      "bytes": 1581,
+      "commit": "96c3c02a01049263e1aac0141a8820b2574588e4",
+      "accessedAt": "2026-11-28T13:59:27.250Z"
+    },
+    {
+      "path": "app/licenses/upstream-v0.4.1-assets.txt",
+      "url": "https://github.com/Wunsch2048/codex-bailong-desktop-pet/blob/96c3c02a01049263e1aac0141a8820b2574588e4/app/licenses/upstream-v0.4.1-assets.txt",
+      "rawUrl": "https://raw.githubusercontent.com/Wunsch2048/codex-bailong-desktop-pet/96c3c02a01049263e1aac0141a8820b2574588e4/app/licenses/upstream-v0.4.1-assets.txt",
+      "sourceSha256": "2e656f45f9536668895d6e704776a106db4eb2caaba52f9776587c8c2723dddb",
+      "gitBlobSha": "bfb86599ff3e3bc9cd298a50a4f97dfc13534dfe",
+      "bytes": 568,
+      "commit": "96c3c02a01049263e1aac0141a8820b2574588e4",
+      "accessedAt": "2026-11-28T13:59:27.468Z"
+    },
+    {
+      "path": "docs/upstream/README.md",
+      "url": "https://github.com/Wunsch2048/codex-bailong-desktop-pet/blob/96c3c02a01049263e1aac0141a8820b2574588e4/docs/upstream/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Wunsch2048/codex-bailong-desktop-pet/96c3c02a01049263e1aac0141a8820b2574588e4/docs/upstream/README.md",
+      "sourceSha256": "6d3a9e79df7007c80c0ee9e9dd2e1cb3194db82978769f4aaec9099f798b1795",
+      "gitBlobSha": "d04fc1ced185caa33895309d6e160a7e3f4bce79",
+      "bytes": 6017,
+      "commit": "96c3c02a01049263e1aac0141a8820b2574588e4",
+      "accessedAt": "2026-11-28T13:59:27.682Z"
+    },
+    {
+      "path": "docs/upstream/ASSETS-v0.4.1.md",
+      "url": "https://github.com/Wunsch2048/codex-bailong-desktop-pet/blob/96c3c02a01049263e1aac0141a8820b2574588e4/docs/upstream/ASSETS-v0.4.1.md",
+      "rawUrl": "https://raw.githubusercontent.com/Wunsch2048/codex-bailong-desktop-pet/96c3c02a01049263e1aac0141a8820b2574588e4/docs/upstream/ASSETS-v0.4.1.md",
+      "sourceSha256": "77c5857dbfc0f8d3dba2e7da9d9ce52a93a3b2cb1f34babd89c493c4fdfda97d",
+      "gitBlobSha": "5089554de4119b252689815c131357f4258985c6",
+      "bytes": 176,
+      "commit": "96c3c02a01049263e1aac0141a8820b2574588e4",
+      "accessedAt": "2026-11-28T13:59:28.020Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T13:59:28.020Z",
+  "scope": "First-party documents and selected fixed source files checked in isolated Chrome against Git blob identities and SHA-256.",
+  "relations": [
+    {
+      "role": "uploader-attribution",
+      "title": "Wunsch2048 · source and scope",
+      "url": "https://github.com/Wunsch2048/codex-bailong-desktop-pet/blob/96c3c02a01049263e1aac0141a8820b2574588e4/NOTICE.md"
+    },
+    {
+      "role": "asset-specific-terms",
+      "title": "Pinned upstream v0.4.1 asset notice",
+      "url": "https://github.com/Wunsch2048/codex-bailong-desktop-pet/blob/96c3c02a01049263e1aac0141a8820b2574588e4/docs/upstream/ASSETS-v0.4.1.md"
+    },
+    {
+      "role": "upstream-release",
+      "title": "jingh · pinned v0.4.1 README",
+      "url": "https://github.com/jingh12312-rgb/bailong-desktop-pet/blob/cc3bee332fcf9a7024fe1479782a5b543aaeb153/README.md"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/Wunsch2048/codex-bailong-desktop-pet/blob/96c3c02a01049263e1aac0141a8820b2574588e4/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Wunsch2048/codex-bailong-desktop-pet/96c3c02a01049263e1aac0141a8820b2574588e4/README.md",
+    "sourceSha256": "f4442d554fd67364830e0d182c304cae1894a9c09d9c5b0c45060a4570c8535b",
+    "gitBlobSha": "7037d91a1be061ed502b38a4da31f53f80e90e43",
+    "bytes": 6159,
+    "commit": "96c3c02a01049263e1aac0141a8820b2574588e4",
+    "accessedAt": "2026-11-28T13:59:27.040Z"
+  },
+  "referencedRelease": {
+    "path": "README.md",
+    "url": "https://github.com/jingh12312-rgb/bailong-desktop-pet/blob/cc3bee332fcf9a7024fe1479782a5b543aaeb153/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/jingh12312-rgb/bailong-desktop-pet/cc3bee332fcf9a7024fe1479782a5b543aaeb153/README.md",
+    "sourceSha256": "fb4dd654451310a2d242828505cc393456f737f7178ad48b69d41072244dc776",
+    "gitBlobSha": "3c7dfc2a3509fefd026ac6468b48ed94cc79a20d",
+    "bytes": 143,
+    "commit": "cc3bee332fcf9a7024fe1479782a5b543aaeb153",
+    "accessedAt": "2026-11-28T13:59:27.155Z"
+  }
+}

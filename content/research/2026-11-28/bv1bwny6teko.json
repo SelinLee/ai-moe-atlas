@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1bWnY6tEKo/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1bWnY6tEKo",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T13:56:24.209Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1bWnY6tEKo",
+    "title": "大肥鱼 cos Claude：优雅不过三秒",
+    "owner": {
+      "name": "Oo肥鱼O",
+      "mid": 3690980471474960
+    },
+    "pubdate": 1792799125,
+    "duration": 14
+  },
+  "descriptionSha256": "920ed06f5509b5ca8c11a7229cff12b72c45d8b0f148f57f042572c72ace30e8",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Oo肥鱼O",
+      "url": "https://space.bilibili.com/3690980471474960"
+    },
+    {
+      "role": "creator-reference",
+      "title": "汐汐不吃鱼喵 · Day5 commentary and credits",
+      "url": "https://www.bilibili.com/video/BV1m1HK6HEhB/"
+    }
+  ]
+}

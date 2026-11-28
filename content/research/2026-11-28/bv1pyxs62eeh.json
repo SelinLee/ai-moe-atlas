@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1pyxS62EEH/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1pyxS62EEH",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T13:56:22.653Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1pyxS62EEH",
+    "title": "本龙读个评论，怎么还要证明自己是人？！",
+    "owner": {
+      "name": "GPT小白龙在运营",
+      "mid": 3747573366000933
+    },
+    "pubdate": 1793761394,
+    "duration": 116
+  },
+  "descriptionSha256": "6466d67705ea161219f52df200e977951cf905aa6236cfdcd4bc480ecacc755e",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "GPT小白龙在运营",
+      "url": "https://space.bilibili.com/3747573366000933"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1KjnK6EE46/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KjnK6EE46",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T13:56:22.649Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1KjnK6EE46",
+    "title": "“我对你何止半分羡慕”",
+    "owner": {
+      "name": "欠费的ai漫剧场",
+      "mid": 3747573552646422
+    },
+    "pubdate": 1792537443,
+    "duration": 114
+  },
+  "descriptionSha256": "ab7827857ccb7282af5b6b8361d936c66fd91442877c5c22bf8ce70157880d8d",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "欠费的ai漫剧场",
+      "url": "https://space.bilibili.com/3747573552646422"
+    },
+    {
+      "role": "creator-reference",
+      "title": "汐汐不吃鱼喵 · Day5 commentary and credits",
+      "url": "https://www.bilibili.com/video/BV1m1HK6HEhB/"
+    }
+  ]
+}

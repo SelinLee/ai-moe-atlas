@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV16MyWzcEuw/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16MyWzcEuw",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T13:56:27.739Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV16MyWzcEuw",
+    "title": "大肥鱼｜我与你之间的红线，永不割离",
+    "owner": {
+      "name": "荔梦魇悠",
+      "mid": 1997128022
+    },
+    "pubdate": 1795167661,
+    "duration": 23
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "荔梦魇悠",
+      "url": "https://space.bilibili.com/1997128022"
+    }
+  ]
+}

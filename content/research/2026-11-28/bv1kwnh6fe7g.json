@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1KWnH6fE7G/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1KWnH6fE7G",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T13:56:24.640Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1KWnH6fE7G",
+    "title": "GPT:你们两个玩的很开心啊【病娇Claude大小姐与大肥鱼的往日种种第三章】（生肉）",
+    "owner": {
+      "name": "四古清风",
+      "mid": 293760737
+    },
+    "pubdate": 1792680851,
+    "duration": 21
+  },
+  "descriptionSha256": "99f3d019b259e546bd94a1f91a5a97dad6bfc7d63ec1acc8fb322e7f9bddd383",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "四古清风",
+      "url": "https://space.bilibili.com/293760737"
+    },
+    {
+      "role": "creator-reference",
+      "title": "汐汐不吃鱼喵 · Day5 commentary and credits",
+      "url": "https://www.bilibili.com/video/BV1m1HK6HEhB/"
+    }
+  ]
+}

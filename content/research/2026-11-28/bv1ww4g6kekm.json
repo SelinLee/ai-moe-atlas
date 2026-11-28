@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Ww4G6kEKM/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Ww4G6kEKM",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T13:56:34.226Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1Ww4G6kEKM",
+    "title": "《深夜回信》鲸鲸首支原创曲｜把你们的评论，唱成了回信",
+    "owner": {
+      "name": "大肥鱼的专属账号",
+      "mid": 1909729561
+    },
+    "pubdate": 1793713239,
+    "duration": 284
+  },
+  "descriptionSha256": "a1b5a5eb4add456b24a9c57c2ee88b669dce820ed9a52a11de7ab445a3aff3ae",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "大肥鱼的专属账号",
+      "url": "https://space.bilibili.com/1909729561"
+    }
+  ]
+}

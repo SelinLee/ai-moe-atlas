@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1tVnb6UEUF/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tVnb6UEUF",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T13:56:37.363Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1tVnb6UEUF",
+    "title": "【4K】【DeepSeek角色主题曲】大肥鱼MV（2/3版）｜我只是翻了个身",
+    "owner": {
+      "name": "小伙伴Ko",
+      "mid": 105330745
+    },
+    "pubdate": 1792742512,
+    "duration": 119
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "小伙伴Ko",
+      "url": "https://space.bilibili.com/105330745"
+    },
+    {
+      "role": "alternate-version",
+      "title": "同曲 · 作者先发布的版本",
+      "url": "https://www.bilibili.com/video/BV136ni65EdC/"
+    }
+  ]
+}

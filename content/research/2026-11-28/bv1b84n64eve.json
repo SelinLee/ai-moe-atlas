@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1B84n64EVe/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1B84n64EVe",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T13:56:32.631Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1B84n64EVe",
+    "title": "《小蓝鲸的立冬应答》大肥鱼立冬原创曲·AI MV",
+    "owner": {
+      "name": "咕嘎的一天",
+      "mid": 3747566795622447
+    },
+    "pubdate": 1794053337,
+    "duration": 149
+  },
+  "descriptionSha256": "89fee68a54aa25aca57ba09de6499df6246103c8f643388744518710cc98f809",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "咕嘎的一天",
+      "url": "https://space.bilibili.com/3747566795622447"
+    }
+  ]
+}

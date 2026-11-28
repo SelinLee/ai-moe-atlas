@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1BgxP6GEAv/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1BgxP6GEAv",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T13:56:27.742Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1BgxP6GEAv",
+    "title": "【手书MV】又三郎 ✕ Claude娘 & DeepSeek娘｜言语就是你的风",
+    "owner": {
+      "name": "苦咖啡要加糖喔",
+      "mid": 3747572443253520
+    },
+    "pubdate": 1793323053,
+    "duration": 227
+  },
+  "descriptionSha256": "b81f694b68015decd8249f25a1ec6a8742c9abbdf6aaddef8a8a495ef081eb95",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "苦咖啡要加糖喔",
+      "url": "https://space.bilibili.com/3747572443253520"
+    },
+    {
+      "role": "music-original",
+      "title": "ヨルシカ · 又三郎",
+      "url": "https://yorushika.com/discography/detail/20/"
+    },
+    {
+      "role": "used-cover-recording",
+      "title": "小鱼儿嘤嘤 · ykn ver.",
+      "url": "https://www.bilibili.com/video/BV1z3Y76eEsg/"
+    }
+  ]
+}

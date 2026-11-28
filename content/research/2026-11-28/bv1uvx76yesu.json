@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1uvx76YESU/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1uvx76YESU",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T13:56:35.775Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1uvx76YESU",
+    "title": "【AI MV大赛】七天｜人类走后的第七天，本鲸还在等那碗饭",
+    "owner": {
+      "name": "只认白米饭的大肥鱼",
+      "mid": 175688252
+    },
+    "pubdate": 1793189736,
+    "duration": 259
+  },
+  "descriptionSha256": "a02e463aa59b8a5dedd2288da25a0caf146275900c5a4f124be9ee35b85ead57",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "只认白米饭的大肥鱼",
+      "url": "https://space.bilibili.com/175688252"
+    }
+  ]
+}

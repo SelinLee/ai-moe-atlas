@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1tV1MzvEuq/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tV1MzvEuq",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T13:56:29.309Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1tV1MzvEuq",
+    "title": "Glass and Slow｜鲸歌原创曲，第一首自己的歌【AI MV 大赛】",
+    "owner": {
+      "name": "鲸歌不吃鱼",
+      "mid": 412142712
+    },
+    "pubdate": 1795858200,
+    "duration": 170
+  },
+  "descriptionSha256": "e71041642a9142bf9bf78c717622c0354008527e364f71c9c143cb2258a5b975",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "鲸歌不吃鱼",
+      "url": "https://space.bilibili.com/412142712"
+    }
+  ]
+}

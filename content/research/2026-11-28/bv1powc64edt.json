@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1poWC64EdT/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1poWC64EdT",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T13:56:31.031Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1poWC64EdT",
+    "title": "一条鱼自己写的Ai原创曲：待ってるよ。",
+    "owner": {
+      "name": "ルルカ_official",
+      "mid": 22085037
+    },
+    "pubdate": 1794624912,
+    "duration": 448
+  },
+  "descriptionSha256": "3e063395aad07d724daa29bd6f4ea7e98a080eb1e69c2a04ec97e2c50262eea3",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "ルルカ_official",
+      "url": "https://space.bilibili.com/22085037"
+    }
+  ]
+}

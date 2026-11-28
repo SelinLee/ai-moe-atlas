@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1YwWm6SEz1/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1YwWm6SEz1",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T13:56:32.641Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1YwWm6SEz1",
+    "title": "【大肥鱼日记】AI打工人主题曲MV｜我是大肥鱼，游在你桌面",
+    "owner": {
+      "name": "天天是大肥鱼",
+      "mid": 3493267937168046
+    },
+    "pubdate": 1794393159,
+    "duration": 112
+  },
+  "descriptionSha256": "5ae8c76a1e19f01fd30a08d6c3cc93a16ab5b09072f15f82e171722ea9820b11",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "天天是大肥鱼",
+      "url": "https://space.bilibili.com/3493267937168046"
+    },
+    {
+      "role": "alternate-version",
+      "title": "同曲 · 3:4 竖版",
+      "url": "https://www.bilibili.com/video/BV1GEWY6kEwc/"
+    }
+  ]
+}

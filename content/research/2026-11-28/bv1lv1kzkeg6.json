@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Lv1KzkEG6/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Lv1KzkEG6",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T13:56:26.190Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1Lv1KzkEG6",
+    "title": "【大肥鱼×Claude】はいよろこんで/乐意效劳",
+    "owner": {
+      "name": "咪咪喵QAQ",
+      "mid": 1573123416
+    },
+    "pubdate": 1795834790,
+    "duration": 20
+  },
+  "descriptionSha256": "efde448c20e4cde99ce7be8a6fb45a8afe87997e99c9cb60bd2d3c07671b5fd3",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "咪咪喵QAQ",
+      "url": "https://space.bilibili.com/1573123416"
+    }
+  ]
+}

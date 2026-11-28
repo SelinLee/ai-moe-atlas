@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1wFpB6TEjs/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1wFpB6TEjs",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T13:56:39.017Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1wFpB6TEjs",
+    "title": "【4K】【Claude角色主题曲】世界还在写｜Opus 5.5 写给自己MV【AI MV大赛】",
+    "owner": {
+      "name": "小伙伴Ko",
+      "mid": 105330745
+    },
+    "pubdate": 1791887357,
+    "duration": 89
+  },
+  "descriptionSha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "小伙伴Ko",
+      "url": "https://space.bilibili.com/105330745"
+    }
+  ]
+}

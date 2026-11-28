@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1NSno6ZEp5/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1NSno6ZEp5",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T13:56:26.193Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1NSno6ZEp5",
+    "title": "【11月新番】《大肥鱼与克劳德》【4K】",
+    "owner": {
+      "name": "貓是液體這件事",
+      "mid": 660261003
+    },
+    "pubdate": 1793027528,
+    "duration": 64
+  },
+  "descriptionSha256": "71e1f185dede67575525149d36d3526f620815d22fac4efa39aa1888b3c965ec",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "貓是液體這件事",
+      "url": "https://space.bilibili.com/660261003"
+    }
+  ]
+}

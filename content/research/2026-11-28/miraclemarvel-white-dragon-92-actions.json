@@ -1,0 +1,564 @@
+{
+  "historical": false,
+  "full_name": "Miraclemarvel/codex-desktop-pet",
+  "html_url": "https://github.com/Miraclemarvel/codex-desktop-pet",
+  "stargazers_count": 3,
+  "archived": false,
+  "created_at": "2026-11-12T07:28:01Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e",
+  "observedAt": "2026-11-28T13:56:03.585Z",
+  "httpStatus": 200,
+  "metadataSha256": "4221c02d6626f3535a8849deef2c46bf4d0e8786b0acf4cd8cc25070ae15e731",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/Miraclemarvel/codex-desktop-pet/blob/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Miraclemarvel/codex-desktop-pet/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/README.md",
+      "sourceSha256": "dc8f58409a9e0cd5e2fe160d68cefdc4145ee012f8209c793274458568de7c63",
+      "gitBlobSha": "2fdea7c906dbdf336bde804f811c25f709a55e4c",
+      "bytes": 10297,
+      "commit": "2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e",
+      "accessedAt": "2026-11-28T13:59:27.040Z"
+    },
+    {
+      "path": "assets/SOURCE.json",
+      "url": "https://github.com/Miraclemarvel/codex-desktop-pet/blob/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/SOURCE.json",
+      "rawUrl": "https://raw.githubusercontent.com/Miraclemarvel/codex-desktop-pet/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/SOURCE.json",
+      "sourceSha256": "c0f0abe01d501723596bcc41257ccc2db6748a5b7c6af42f227c405f2208ed7f",
+      "gitBlobSha": "476a140e277a6a0da4a76e62f67ec4b3ac5568a3",
+      "bytes": 20346,
+      "commit": "2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e",
+      "accessedAt": "2026-11-28T13:59:27.270Z"
+    },
+    {
+      "path": "assets/EDGE_SOURCE.json",
+      "url": "https://github.com/Miraclemarvel/codex-desktop-pet/blob/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/EDGE_SOURCE.json",
+      "rawUrl": "https://raw.githubusercontent.com/Miraclemarvel/codex-desktop-pet/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/EDGE_SOURCE.json",
+      "sourceSha256": "d710b0b80d37fbd2343f70f88242a51fa17a2671cf3d5184a7b8abde3f80a3f4",
+      "gitBlobSha": "6d99531422279d882559655d14f3db38ba98edf1",
+      "bytes": 2213,
+      "commit": "2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e",
+      "accessedAt": "2026-11-28T13:59:27.486Z"
+    },
+    {
+      "path": "assets/UPSTREAM-README.md",
+      "url": "https://github.com/Miraclemarvel/codex-desktop-pet/blob/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/UPSTREAM-README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Miraclemarvel/codex-desktop-pet/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/UPSTREAM-README.md",
+      "sourceSha256": "1eb636078129c1a16149d5b69ef6c2dfe7728976a5618125d8867def9ccec445",
+      "gitBlobSha": "a028be84eab974647b5bdd4cc4ae184a2b4a1784",
+      "bytes": 5129,
+      "commit": "2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e",
+      "accessedAt": "2026-11-28T13:59:27.703Z"
+    },
+    {
+      "path": "assets/spritesheet/三球抛接.webp",
+      "url": "https://github.com/Miraclemarvel/codex-desktop-pet/blob/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/spritesheet/%E4%B8%89%E7%90%83%E6%8A%9B%E6%8E%A5.webp",
+      "rawUrl": "https://raw.githubusercontent.com/Miraclemarvel/codex-desktop-pet/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/spritesheet/%E4%B8%89%E7%90%83%E6%8A%9B%E6%8E%A5.webp",
+      "sourceSha256": "f593691b25e6e0d836f25c702ac8af03183182eb3f5fdf33ec6ae15646bae85d",
+      "gitBlobSha": "e828d0e34a7a3088f1560014d502c450693f7206",
+      "bytes": 1498764,
+      "commit": "2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e",
+      "accessedAt": "2026-11-28T13:59:28.763Z"
+    },
+    {
+      "path": "assets/spritesheet/吃粽子.webp",
+      "url": "https://github.com/Miraclemarvel/codex-desktop-pet/blob/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/spritesheet/%E5%90%83%E7%B2%BD%E5%AD%90.webp",
+      "rawUrl": "https://raw.githubusercontent.com/Miraclemarvel/codex-desktop-pet/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/spritesheet/%E5%90%83%E7%B2%BD%E5%AD%90.webp",
+      "sourceSha256": "9b8a82ecf3137708b9b74d416ca4baa87a535d16e4c6a785647d2e95d3b2ffc7",
+      "gitBlobSha": "b53692feb9de1519db1459745defafda0822559e",
+      "bytes": 1499406,
+      "commit": "2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e",
+      "accessedAt": "2026-11-28T13:59:29.314Z"
+    },
+    {
+      "path": "assets/spritesheet/龙息吐泡泡特效.webp",
+      "url": "https://github.com/Miraclemarvel/codex-desktop-pet/blob/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/spritesheet/%E9%BE%99%E6%81%AF%E5%90%90%E6%B3%A1%E6%B3%A1%E7%89%B9%E6%95%88.webp",
+      "rawUrl": "https://raw.githubusercontent.com/Miraclemarvel/codex-desktop-pet/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/spritesheet/%E9%BE%99%E6%81%AF%E5%90%90%E6%B3%A1%E6%B3%A1%E7%89%B9%E6%95%88.webp",
+      "sourceSha256": "12031f63057bfcfb8a048dbbfdf2c47669f73367af6f64c761932df5fc02dbed",
+      "gitBlobSha": "f844b24a00478693b82d4e73595644bfca753069",
+      "bytes": 1485788,
+      "commit": "2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e",
+      "accessedAt": "2026-11-28T13:59:29.912Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T13:59:29.912Z",
+  "scope": "First-party documents and selected fixed source files checked in isolated Chrome against Git blob identities and SHA-256.",
+  "relations": [
+    {
+      "role": "creator-attribution",
+      "title": "Miraclemarvel · action manifest",
+      "url": "https://github.com/Miraclemarvel/codex-desktop-pet/blob/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/SOURCE.json"
+    },
+    {
+      "role": "derivative-artwork",
+      "title": "AI-assisted peeking artwork provenance",
+      "url": "https://github.com/Miraclemarvel/codex-desktop-pet/blob/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/EDGE_SOURCE.json"
+    },
+    {
+      "role": "asset-specific-terms",
+      "title": "hunmer · upstream artwork conditions",
+      "url": "https://github.com/hunmer/aboutme-pets/blob/4f8e9e327bad8c137d98d8ec591712af920de8b7/README.md"
+    },
+    {
+      "role": "upstream-character-manifest",
+      "title": "hunmer · pinned GPT manifest",
+      "url": "https://github.com/hunmer/aboutme-pets/blob/4f8e9e327bad8c137d98d8ec591712af920de8b7/pets/gpt/manifest.json"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/Miraclemarvel/codex-desktop-pet/blob/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Miraclemarvel/codex-desktop-pet/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/README.md",
+    "sourceSha256": "dc8f58409a9e0cd5e2fe160d68cefdc4145ee012f8209c793274458568de7c63",
+    "gitBlobSha": "2fdea7c906dbdf336bde804f811c25f709a55e4c",
+    "bytes": 10297,
+    "commit": "2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e",
+    "accessedAt": "2026-11-28T13:59:27.040Z"
+  },
+  "upstreamCommit": "4f8e9e327bad8c137d98d8ec591712af920de8b7",
+  "actionCount": 92,
+  "matchingBlobIdentities": [
+    {
+      "path": "spritesheet/三球抛接.webp",
+      "gitBlobSha": "e828d0e34a7a3088f1560014d502c450693f7206"
+    },
+    {
+      "path": "spritesheet/下五子棋.webp",
+      "gitBlobSha": "04ba0825d77eb78a28dc18f8a66b6cab61df8d27"
+    },
+    {
+      "path": "spritesheet/东张西望.webp",
+      "gitBlobSha": "1bb7461e0ae2f148e33e977909e7f7a6baef8ca4"
+    },
+    {
+      "path": "spritesheet/中秋赏月吃月饼.webp",
+      "gitBlobSha": "d535148ffd942e6cdb98d094f49f144260aeb856"
+    },
+    {
+      "path": "spritesheet/优雅提裙旋舞.webp",
+      "gitBlobSha": "01ddc9a235d9988b2e3b5e97229431a1ed9e0f33"
+    },
+    {
+      "path": "spritesheet/偷吃零食被抓住.webp",
+      "gitBlobSha": "6183c4006f937d93074525ec92aacca3789ffa7e"
+    },
+    {
+      "path": "spritesheet/傲娇生气.webp",
+      "gitBlobSha": "d74e206f85d4fe39b2db316a79c1ae1e700f275d"
+    },
+    {
+      "path": "spritesheet/元气挥手.webp",
+      "gitBlobSha": "66d507ece1000dc937731b33c82d873b562b0b6f"
+    },
+    {
+      "path": "spritesheet/写代码.webp",
+      "gitBlobSha": "7b46fc0fe285fc02b0231487b4cff80c223c41b8"
+    },
+    {
+      "path": "spritesheet/写吉祥纹.webp",
+      "gitBlobSha": "563c6dd5dff0af551b58c9ef01e59545f3ea6c41"
+    },
+    {
+      "path": "spritesheet/凭空生花.webp",
+      "gitBlobSha": "9278887a991935f6d6f656504a0b5ce71fcad96a"
+    },
+    {
+      "path": "spritesheet/分文不剩.webp",
+      "gitBlobSha": "54f5769c9d69e951c1ddc1d9d38aa1dc0293e5aa"
+    },
+    {
+      "path": "spritesheet/动物环绕.webp",
+      "gitBlobSha": "05b7cf45905f4b0369c50fc0a46c4531faaeb97a"
+    },
+    {
+      "path": "spritesheet/原地专心玩魔方.webp",
+      "gitBlobSha": "d96f01efbe15f8ae2b9784b496fe0ca2006ed10f"
+    },
+    {
+      "path": "spritesheet/原地小憩沉眠.webp",
+      "gitBlobSha": "f5a7e25e6dac449524e41b349e8799bf1576d598"
+    },
+    {
+      "path": "spritesheet/原地左转奔跑.webp",
+      "gitBlobSha": "c25bdc559dbb2b2153c7619794966a436a109a13"
+    },
+    {
+      "path": "spritesheet/原地敲击桌面互动.webp",
+      "gitBlobSha": "e1173ad7d050769473cfe8cd15fc6089b1053c60"
+    },
+    {
+      "path": "spritesheet/原地漂浮踏步.webp",
+      "gitBlobSha": "f75cf2fa944b9937b46a244624985dc95dda2b85"
+    },
+    {
+      "path": "spritesheet/原地跳跃抓碎头顶物品.webp",
+      "gitBlobSha": "b6658ce0ff28526c3b6b72e3153a6bc8cac0830d"
+    },
+    {
+      "path": "spritesheet/原地踱步张望.webp",
+      "gitBlobSha": "429d861bd6e87ef3ca55f60323459324478ec501"
+    },
+    {
+      "path": "spritesheet/原地蹲下玩玩具汽车.webp",
+      "gitBlobSha": "027dba50edb35d7ddda5204bf820c312ddadcdfd"
+    },
+    {
+      "path": "spritesheet/原地重力下蹲压缩.webp",
+      "gitBlobSha": "9251721ba83984c80664bcda57ee3379df47b0df"
+    },
+    {
+      "path": "spritesheet/发呆碎碎念.webp",
+      "gitBlobSha": "d65b893ee720ed425a594d80417ed75bf38616ae"
+    },
+    {
+      "path": "spritesheet/变鸽子.webp",
+      "gitBlobSha": "f78ced686f3308eccd0326b80fdbc552de856e8a"
+    },
+    {
+      "path": "spritesheet/可爱宅舞.webp",
+      "gitBlobSha": "83b6990f7dc4f0bf89b5e2f7a3d03972f5155814"
+    },
+    {
+      "path": "spritesheet/吃Token.webp",
+      "gitBlobSha": "6ccb750431ae918ee27653234efbe35d6fcd3b11"
+    },
+    {
+      "path": "spritesheet/吃冰淇淋融化.webp",
+      "gitBlobSha": "6fe4068ca2045b1c4305058ca6b97f6e9b266b25"
+    },
+    {
+      "path": "spritesheet/吃午餐.webp",
+      "gitBlobSha": "5d4ba31b593e4b81cdb1d5c28000163888c08b94"
+    },
+    {
+      "path": "spritesheet/吃大闸蟹.webp",
+      "gitBlobSha": "91858c7f5ef1379ad2ce0907a762f8e12d412758"
+    },
+    {
+      "path": "spritesheet/吃年糕.webp",
+      "gitBlobSha": "e1be011fd5a3b22eb4c061422ee25aedfe1cfcf8"
+    },
+    {
+      "path": "spritesheet/吃早餐.webp",
+      "gitBlobSha": "813efa2301da25283e817f6e227cc6f2eaca7233"
+    },
+    {
+      "path": "spritesheet/吃晚餐.webp",
+      "gitBlobSha": "7377527139b89ede037de0647351a419eff991d8"
+    },
+    {
+      "path": "spritesheet/吃汤圆.webp",
+      "gitBlobSha": "ceb4ada5bd0576a6daf92b59c709454c2012da24"
+    },
+    {
+      "path": "spritesheet/吃白饭.webp",
+      "gitBlobSha": "267d8e7571b0d4c8c011b420ced08cd2377307e8"
+    },
+    {
+      "path": "spritesheet/吃粽子.webp",
+      "gitBlobSha": "b53692feb9de1519db1459745defafda0822559e"
+    },
+    {
+      "path": "spritesheet/吃腊八粥.webp",
+      "gitBlobSha": "e3df4815c7348f96092d902f5dd6774700a759a5"
+    },
+    {
+      "path": "spritesheet/吃西瓜.webp",
+      "gitBlobSha": "16b123740b53f38539e5caaa267ae6e589c27b92"
+    },
+    {
+      "path": "spritesheet/吃重阳糕.webp",
+      "gitBlobSha": "c5d5aa81b35264a731bdf6ae5c683fcab293b8ec"
+    },
+    {
+      "path": "spritesheet/吃长寿面.webp",
+      "gitBlobSha": "1ef8e845774d952ebe353a51271cab9b2b773839"
+    },
+    {
+      "path": "spritesheet/吃青团.webp",
+      "gitBlobSha": "d2981ef2c23bbddd15ba47b3b014defadacda1db"
+    },
+    {
+      "path": "spritesheet/吃饺子.webp",
+      "gitBlobSha": "198717b3367cda4da940fcecdeb9dfc6cb8a7db8"
+    },
+    {
+      "path": "spritesheet/吹气球.webp",
+      "gitBlobSha": "108d9ab1d53affd4978a670aa287e19a267427ca"
+    },
+    {
+      "path": "spritesheet/吹笛子.webp",
+      "gitBlobSha": "f584d0dd8964588dfa32d9c4cd120a66365c3ed9"
+    },
+    {
+      "path": "spritesheet/哈欠连天.webp",
+      "gitBlobSha": "f87eac7eb3762a1f3a2b2c49afaaa647cf0d782e"
+    },
+    {
+      "path": "spritesheet/垂头叹气冒汗.webp",
+      "gitBlobSha": "df3bbbcbdd866c9fabcfde7f01faae7647427980"
+    },
+    {
+      "path": "spritesheet/大口吃零食.webp",
+      "gitBlobSha": "b84a23d53d0e15369ee63e6a539ce014369928d1"
+    },
+    {
+      "path": "spritesheet/害羞惊讶.webp",
+      "gitBlobSha": "1856d844621a4f74e229bc7b2d72a6cba19430ab"
+    },
+    {
+      "path": "spritesheet/对屏碎碎念.webp",
+      "gitBlobSha": "f6b96a16d2b6cbc24e55c491fd46de0188a470ae"
+    },
+    {
+      "path": "spritesheet/小提琴演奏.webp",
+      "gitBlobSha": "09e53928fb9623a7696f9c5441db86681284af58"
+    },
+    {
+      "path": "spritesheet/开心跃动.webp",
+      "gitBlobSha": "0222442a94f080d0279bea42e49be9a05176b749"
+    },
+    {
+      "path": "spritesheet/待机呼吸休闲.webp",
+      "gitBlobSha": "5c29872283fa74f5a1b7274ed0674b64fa241095"
+    },
+    {
+      "path": "spritesheet/忙碌点按.webp",
+      "gitBlobSha": "daad2d61db9a565e29c1e4581b51c1bd096c2a57"
+    },
+    {
+      "path": "spritesheet/思考冒泡.webp",
+      "gitBlobSha": "d3444a55de6d81269ffd3de5c38b61164270926e"
+    },
+    {
+      "path": "spritesheet/悠闲哼歌.webp",
+      "gitBlobSha": "db9b99b2877d08f25ee8a0f77f1756224f87afc0"
+    },
+    {
+      "path": "spritesheet/打瞌睡被惊醒.webp",
+      "gitBlobSha": "d7681a1885db8c1184338f4a970419c79a29e946"
+    },
+    {
+      "path": "spritesheet/抽陀螺.webp",
+      "gitBlobSha": "bfadf26c069a9e42327da289b7534197285011f3"
+    },
+    {
+      "path": "spritesheet/拆礼物.webp",
+      "gitBlobSha": "ca48f89d0b22696fad376bf21718c61de2e38263"
+    },
+    {
+      "path": "spritesheet/挠痒咯咯笑.webp",
+      "gitBlobSha": "99038bbcf86d28e4d0d065217a823adb322f143e"
+    },
+    {
+      "path": "spritesheet/提裙屈膝礼仪.webp",
+      "gitBlobSha": "e1162b403c339cd585872ad5e17d4e73d5b8b704"
+    },
+    {
+      "path": "spritesheet/插茱萸赏菊.webp",
+      "gitBlobSha": "d5a6a58049e3ea0282fc9e429ba0915af2d55b7d"
+    },
+    {
+      "path": "spritesheet/摇扇纳凉.webp",
+      "gitBlobSha": "0ff9f454fa3b26423a678635c1e379d20c2b3144"
+    },
+    {
+      "path": "spritesheet/撸猫.webp",
+      "gitBlobSha": "81f60b1e414e28f2dad09445d28fed658c7ad5fa"
+    },
+    {
+      "path": "spritesheet/收红包.webp",
+      "gitBlobSha": "1ed9b58ef2bf1ad93e9f68f88ed3a25efc27ba98"
+    },
+    {
+      "path": "spritesheet/放孔明灯.webp",
+      "gitBlobSha": "7817acc0b2db34092b5356a67ae49fcf5fd4d856"
+    },
+    {
+      "path": "spritesheet/放河灯.webp",
+      "gitBlobSha": "237e86ec046aa77c2ec527fb65e5a87db7325b5d"
+    },
+    {
+      "path": "spritesheet/放烟花.webp",
+      "gitBlobSha": "8f70642edcd4363bfa74609e844f3863f0ee46ab"
+    },
+    {
+      "path": "spritesheet/数钱皱眉.webp",
+      "gitBlobSha": "1bc311097f3e6fea1058d3a05fee4f430f38a1e4"
+    },
+    {
+      "path": "spritesheet/整体换装试色.webp",
+      "gitBlobSha": "c412d04b857adc88916437dd7f65dcc5e8f9660d"
+    },
+    {
+      "path": "spritesheet/是啊吃什么.webp",
+      "gitBlobSha": "ccc67d78320966c8f74eb93aa5c11d1aeebdb9b2"
+    },
+    {
+      "path": "spritesheet/晨间刷牙.webp",
+      "gitBlobSha": "ef7fd65856acbb38defb894d54bc3d2eb5157711"
+    },
+    {
+      "path": "spritesheet/涮火锅.webp",
+      "gitBlobSha": "a5af24c76f445ea49ae5ba5315dbc1399026e67a"
+    },
+    {
+      "path": "spritesheet/深度思考碎碎念.webp",
+      "gitBlobSha": "621287b7d009a50b740aaa27877ea3769a4bdd9e"
+    },
+    {
+      "path": "spritesheet/玩游戏气急败坏.webp",
+      "gitBlobSha": "0d3268728aea4cdd4506328c7b95dee3d7880fba"
+    },
+    {
+      "path": "spritesheet/用龙尾拍打地面.webp",
+      "gitBlobSha": "ad9d4fca03948d838742c47355ccaa284bf8b738"
+    },
+    {
+      "path": "spritesheet/白龙现世.webp",
+      "gitBlobSha": "80fec2eba502ceaf62836b2f185e20e9abc0262d"
+    },
+    {
+      "path": "spritesheet/穿针乞巧.webp",
+      "gitBlobSha": "8b6c6a5877dec331850062c5c300e4158416dad4"
+    },
+    {
+      "path": "spritesheet/舞狮头.webp",
+      "gitBlobSha": "80ee47427deaba5f0202b8c90de5ecd37fb96c89"
+    },
+    {
+      "path": "spritesheet/蝴蝶蜜蜂环绕头顶开花.webp",
+      "gitBlobSha": "c5686d0492f53b4ed3a2491912e931be5d8a1ef5"
+    },
+    {
+      "path": "spritesheet/袋空如洗.webp",
+      "gitBlobSha": "3bf8fc7942ce0c8a9a5baefa1a7a2285b1b1a194"
+    },
+    {
+      "path": "spritesheet/被吓一跳.webp",
+      "gitBlobSha": "c13dab27668cca3541a6ea43dfe0935717cdf248"
+    },
+    {
+      "path": "spritesheet/被落叶淹没.webp",
+      "gitBlobSha": "f7301e7091fce4d62d62c273b301c5ee00e77777"
+    },
+    {
+      "path": "spritesheet/被鼠标拖拽悬空反馈.webp",
+      "gitBlobSha": "50adc599f8e47a32a492f809d5ee46fdd8b5b8b0"
+    },
+    {
+      "path": "spritesheet/装点圣诞树.webp",
+      "gitBlobSha": "7bcf916b5cf58f1ac6537297f32286dc9e3b3006"
+    },
+    {
+      "path": "spritesheet/超大伸懒腰.webp",
+      "gitBlobSha": "19b29f4e6d5ecbbb7fe7bcada49529e37d169c8f"
+    },
+    {
+      "path": "spritesheet/踢毽子.webp",
+      "gitBlobSha": "631e6896dfafbf04fee24dfe781100a69c798eb1"
+    },
+    {
+      "path": "spritesheet/轻快记录.webp",
+      "gitBlobSha": "910fddaa20313c54b46dcde8a9f1af3c2b15cb83"
+    },
+    {
+      "path": "spritesheet/钱袋如常.webp",
+      "gitBlobSha": "e70e2ccb8bdb7dbf0dde599ea81c4a4a60a42723"
+    },
+    {
+      "path": "spritesheet/钱袋满溢.webp",
+      "gitBlobSha": "07a65df10e8c58668afadcd9e9589f9a2ecc9196"
+    },
+    {
+      "path": "spritesheet/银袋叮当.webp",
+      "gitBlobSha": "6c9f2db17f712744c664437e99d14ad855bee38a"
+    },
+    {
+      "path": "spritesheet/雀跃庆祝.webp",
+      "gitBlobSha": "968a56c599f6f7a282a7c57f1e1f7afbc726f143"
+    },
+    {
+      "path": "spritesheet/骑木马.webp",
+      "gitBlobSha": "5dc3794d00139fcb3bc704bdb0f6bb31bda1370b"
+    },
+    {
+      "path": "spritesheet/龙息吐泡泡特效.webp",
+      "gitBlobSha": "f844b24a00478693b82d4e73595644bfca753069"
+    }
+  ],
+  "samples": [
+    {
+      "path": "spritesheet/三球抛接.webp",
+      "original": {
+        "path": "pets/gpt/spritesheet/三球抛接.webp",
+        "url": "https://github.com/hunmer/aboutme-pets/blob/4f8e9e327bad8c137d98d8ec591712af920de8b7/pets/gpt/spritesheet/%E4%B8%89%E7%90%83%E6%8A%9B%E6%8E%A5.webp",
+        "rawUrl": "https://raw.githubusercontent.com/hunmer/aboutme-pets/4f8e9e327bad8c137d98d8ec591712af920de8b7/pets/gpt/spritesheet/%E4%B8%89%E7%90%83%E6%8A%9B%E6%8E%A5.webp",
+        "sourceSha256": "f593691b25e6e0d836f25c702ac8af03183182eb3f5fdf33ec6ae15646bae85d",
+        "gitBlobSha": "e828d0e34a7a3088f1560014d502c450693f7206",
+        "bytes": 1498764,
+        "commit": "4f8e9e327bad8c137d98d8ec591712af920de8b7",
+        "accessedAt": "2026-11-28T13:59:28.542Z"
+      },
+      "port": {
+        "path": "assets/spritesheet/三球抛接.webp",
+        "url": "https://github.com/Miraclemarvel/codex-desktop-pet/blob/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/spritesheet/%E4%B8%89%E7%90%83%E6%8A%9B%E6%8E%A5.webp",
+        "rawUrl": "https://raw.githubusercontent.com/Miraclemarvel/codex-desktop-pet/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/spritesheet/%E4%B8%89%E7%90%83%E6%8A%9B%E6%8E%A5.webp",
+        "sourceSha256": "f593691b25e6e0d836f25c702ac8af03183182eb3f5fdf33ec6ae15646bae85d",
+        "gitBlobSha": "e828d0e34a7a3088f1560014d502c450693f7206",
+        "bytes": 1498764,
+        "commit": "2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e",
+        "accessedAt": "2026-11-28T13:59:28.763Z"
+      }
+    },
+    {
+      "path": "spritesheet/吃粽子.webp",
+      "original": {
+        "path": "pets/gpt/spritesheet/吃粽子.webp",
+        "url": "https://github.com/hunmer/aboutme-pets/blob/4f8e9e327bad8c137d98d8ec591712af920de8b7/pets/gpt/spritesheet/%E5%90%83%E7%B2%BD%E5%AD%90.webp",
+        "rawUrl": "https://raw.githubusercontent.com/hunmer/aboutme-pets/4f8e9e327bad8c137d98d8ec591712af920de8b7/pets/gpt/spritesheet/%E5%90%83%E7%B2%BD%E5%AD%90.webp",
+        "sourceSha256": "9b8a82ecf3137708b9b74d416ca4baa87a535d16e4c6a785647d2e95d3b2ffc7",
+        "gitBlobSha": "b53692feb9de1519db1459745defafda0822559e",
+        "bytes": 1499406,
+        "commit": "4f8e9e327bad8c137d98d8ec591712af920de8b7",
+        "accessedAt": "2026-11-28T13:59:29.108Z"
+      },
+      "port": {
+        "path": "assets/spritesheet/吃粽子.webp",
+        "url": "https://github.com/Miraclemarvel/codex-desktop-pet/blob/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/spritesheet/%E5%90%83%E7%B2%BD%E5%AD%90.webp",
+        "rawUrl": "https://raw.githubusercontent.com/Miraclemarvel/codex-desktop-pet/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/spritesheet/%E5%90%83%E7%B2%BD%E5%AD%90.webp",
+        "sourceSha256": "9b8a82ecf3137708b9b74d416ca4baa87a535d16e4c6a785647d2e95d3b2ffc7",
+        "gitBlobSha": "b53692feb9de1519db1459745defafda0822559e",
+        "bytes": 1499406,
+        "commit": "2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e",
+        "accessedAt": "2026-11-28T13:59:29.314Z"
+      }
+    },
+    {
+      "path": "spritesheet/龙息吐泡泡特效.webp",
+      "original": {
+        "path": "pets/gpt/spritesheet/龙息吐泡泡特效.webp",
+        "url": "https://github.com/hunmer/aboutme-pets/blob/4f8e9e327bad8c137d98d8ec591712af920de8b7/pets/gpt/spritesheet/%E9%BE%99%E6%81%AF%E5%90%90%E6%B3%A1%E6%B3%A1%E7%89%B9%E6%95%88.webp",
+        "rawUrl": "https://raw.githubusercontent.com/hunmer/aboutme-pets/4f8e9e327bad8c137d98d8ec591712af920de8b7/pets/gpt/spritesheet/%E9%BE%99%E6%81%AF%E5%90%90%E6%B3%A1%E6%B3%A1%E7%89%B9%E6%95%88.webp",
+        "sourceSha256": "12031f63057bfcfb8a048dbbfdf2c47669f73367af6f64c761932df5fc02dbed",
+        "gitBlobSha": "f844b24a00478693b82d4e73595644bfca753069",
+        "bytes": 1485788,
+        "commit": "4f8e9e327bad8c137d98d8ec591712af920de8b7",
+        "accessedAt": "2026-11-28T13:59:29.738Z"
+      },
+      "port": {
+        "path": "assets/spritesheet/龙息吐泡泡特效.webp",
+        "url": "https://github.com/Miraclemarvel/codex-desktop-pet/blob/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/spritesheet/%E9%BE%99%E6%81%AF%E5%90%90%E6%B3%A1%E6%B3%A1%E7%89%B9%E6%95%88.webp",
+        "rawUrl": "https://raw.githubusercontent.com/Miraclemarvel/codex-desktop-pet/2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e/assets/spritesheet/%E9%BE%99%E6%81%AF%E5%90%90%E6%B3%A1%E6%B3%A1%E7%89%B9%E6%95%88.webp",
+        "sourceSha256": "12031f63057bfcfb8a048dbbfdf2c47669f73367af6f64c761932df5fc02dbed",
+        "gitBlobSha": "f844b24a00478693b82d4e73595644bfca753069",
+        "bytes": 1485788,
+        "commit": "2b47fb2b6fe2fb3edf00bf14848c132f933c6e9e",
+        "accessedAt": "2026-11-28T13:59:29.912Z"
+      }
+    }
+  ]
+}

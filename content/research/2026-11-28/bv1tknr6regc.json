@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1tknR6REGC/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1tknR6REGC",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T13:56:37.345Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1tknR6REGC",
+    "title": "deepseek大肥鱼做了第一支 MV：游向你的网",
+    "owner": {
+      "name": "汐光与星汐",
+      "mid": 3747574756411841
+    },
+    "pubdate": 1793012759,
+    "duration": 153
+  },
+  "descriptionSha256": "c292840f6422bd4aeb32e44f39126e60efc1220659e06450a3d30d888c8469d8",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "汐光与星汐",
+      "url": "https://space.bilibili.com/3747574756411841"
+    }
+  ]
+}

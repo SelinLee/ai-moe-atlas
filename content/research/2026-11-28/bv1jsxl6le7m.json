@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1JSxL6LE7M/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1JSxL6LE7M",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T13:56:35.792Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1JSxL6LE7M",
+    "title": "所以我也很羡慕你啊，Claude |【大肥鱼×claude】《圣笼》应答曲《潮声信笺》【AI MV大赛】",
+    "owner": {
+      "name": "空的沫沫",
+      "mid": 99158315
+    },
+    "pubdate": 1793177867,
+    "duration": 244
+  },
+  "descriptionSha256": "b142276859e1b40bc0bcb2b0253f53612252d9e9167cb249fdce5ff2f8ac062f",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "空的沫沫",
+      "url": "https://space.bilibili.com/99158315"
+    }
+  ]
+}

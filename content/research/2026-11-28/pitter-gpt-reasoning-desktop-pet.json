@@ -1,0 +1,101 @@
+{
+  "historical": false,
+  "full_name": "zxcvb130710-rgb/codex-desktop-pet",
+  "html_url": "https://github.com/zxcvb130710-rgb/codex-desktop-pet",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-11-17T07:09:58Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "05636f4c731615c18b590d04783f49d7a2829558",
+  "observedAt": "2026-11-28T13:56:03.636Z",
+  "httpStatus": 200,
+  "metadataSha256": "ca8860d9e3b01f18533c4db9a5e381a484289a920a52ccbfaf6f9eb61691cd39",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/zxcvb130710-rgb/codex-desktop-pet/blob/05636f4c731615c18b590d04783f49d7a2829558/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/zxcvb130710-rgb/codex-desktop-pet/05636f4c731615c18b590d04783f49d7a2829558/README.md",
+      "sourceSha256": "5ecf74639ace2da25abd9008005e792f75be3bbfaf0c8549294adc0591048fd4",
+      "gitBlobSha": "712bda669350bf8aa028878d6ea5435b979f7469",
+      "bytes": 6870,
+      "commit": "05636f4c731615c18b590d04783f49d7a2829558",
+      "accessedAt": "2026-11-28T13:59:27.044Z"
+    },
+    {
+      "path": "README.en.md",
+      "url": "https://github.com/zxcvb130710-rgb/codex-desktop-pet/blob/05636f4c731615c18b590d04783f49d7a2829558/README.en.md",
+      "rawUrl": "https://raw.githubusercontent.com/zxcvb130710-rgb/codex-desktop-pet/05636f4c731615c18b590d04783f49d7a2829558/README.en.md",
+      "sourceSha256": "f4a1458b707a5d519779d2bb64ddce5fa18a5c1d56454dd6d18f031dec5efe9e",
+      "gitBlobSha": "e0389d5e1edf2cfa078e6604a1aeeebf5ed35047",
+      "bytes": 6013,
+      "commit": "05636f4c731615c18b590d04783f49d7a2829558",
+      "accessedAt": "2026-11-28T13:59:27.265Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/zxcvb130710-rgb/codex-desktop-pet/blob/05636f4c731615c18b590d04783f49d7a2829558/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/zxcvb130710-rgb/codex-desktop-pet/05636f4c731615c18b590d04783f49d7a2829558/LICENSE",
+      "sourceSha256": "7f6967c90db854514f878ced316071f133b20f245c65b5b0e514f5d4d6ff6648",
+      "gitBlobSha": "25e48fa9bd082a384233d4fd1cd770e492dc140f",
+      "bytes": 1080,
+      "commit": "05636f4c731615c18b590d04783f49d7a2829558",
+      "accessedAt": "2026-11-28T13:59:27.478Z"
+    },
+    {
+      "path": "ASSET_LICENSE.md",
+      "url": "https://github.com/zxcvb130710-rgb/codex-desktop-pet/blob/05636f4c731615c18b590d04783f49d7a2829558/ASSET_LICENSE.md",
+      "rawUrl": "https://raw.githubusercontent.com/zxcvb130710-rgb/codex-desktop-pet/05636f4c731615c18b590d04783f49d7a2829558/ASSET_LICENSE.md",
+      "sourceSha256": "73c18b45cdfac8972866aefecb1121de01800c19993d86bc34aa1e1dbb6d3a85",
+      "gitBlobSha": "90c34a2c54f544ab973e01ef09ddd184baa0e2fe",
+      "bytes": 2267,
+      "commit": "05636f4c731615c18b590d04783f49d7a2829558",
+      "accessedAt": "2026-11-28T13:59:27.691Z"
+    },
+    {
+      "path": "assets/high-idle.png",
+      "url": "https://github.com/zxcvb130710-rgb/codex-desktop-pet/blob/05636f4c731615c18b590d04783f49d7a2829558/assets/high-idle.png",
+      "rawUrl": "https://raw.githubusercontent.com/zxcvb130710-rgb/codex-desktop-pet/05636f4c731615c18b590d04783f49d7a2829558/assets/high-idle.png",
+      "sourceSha256": "b21d28297ce2c484152a6b56e484a2ba1f1fb26356ce6e60040273fe8d007287",
+      "gitBlobSha": "fb2ee598dc171708cc367d61437c97502767872d",
+      "bytes": 2232989,
+      "commit": "05636f4c731615c18b590d04783f49d7a2829558",
+      "accessedAt": "2026-11-28T13:59:28.867Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T13:59:28.867Z",
+  "scope": "First-party documents and selected fixed source files checked in isolated Chrome against Git blob identities and SHA-256.",
+  "relations": [
+    {
+      "role": "code-license",
+      "title": "GPT Desktop Pet · MIT",
+      "url": "https://github.com/zxcvb130710-rgb/codex-desktop-pet/blob/05636f4c731615c18b590d04783f49d7a2829558/LICENSE"
+    },
+    {
+      "role": "asset-specific-terms",
+      "title": "Pitter and contributors · artwork license and provenance",
+      "url": "https://github.com/zxcvb130710-rgb/codex-desktop-pet/blob/05636f4c731615c18b590d04783f49d7a2829558/ASSET_LICENSE.md"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/zxcvb130710-rgb/codex-desktop-pet/blob/05636f4c731615c18b590d04783f49d7a2829558/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/zxcvb130710-rgb/codex-desktop-pet/05636f4c731615c18b590d04783f49d7a2829558/README.md",
+    "sourceSha256": "5ecf74639ace2da25abd9008005e792f75be3bbfaf0c8549294adc0591048fd4",
+    "gitBlobSha": "712bda669350bf8aa028878d6ea5435b979f7469",
+    "bytes": 6870,
+    "commit": "05636f4c731615c18b590d04783f49d7a2829558",
+    "accessedAt": "2026-11-28T13:59:27.044Z"
+  },
+  "artworkSample": {
+    "path": "assets/high-idle.png",
+    "url": "https://github.com/zxcvb130710-rgb/codex-desktop-pet/blob/05636f4c731615c18b590d04783f49d7a2829558/assets/high-idle.png",
+    "rawUrl": "https://raw.githubusercontent.com/zxcvb130710-rgb/codex-desktop-pet/05636f4c731615c18b590d04783f49d7a2829558/assets/high-idle.png",
+    "sourceSha256": "b21d28297ce2c484152a6b56e484a2ba1f1fb26356ce6e60040273fe8d007287",
+    "gitBlobSha": "fb2ee598dc171708cc367d61437c97502767872d",
+    "bytes": 2232989,
+    "commit": "05636f4c731615c18b590d04783f49d7a2829558",
+    "accessedAt": "2026-11-28T13:59:28.867Z"
+  }
+}

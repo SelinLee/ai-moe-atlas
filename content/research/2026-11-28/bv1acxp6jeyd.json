@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1AcxP6JEYD/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1AcxP6JEYD",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T13:56:34.193Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1AcxP6JEYD",
+    "title": "【DeepSeek娘原创曲】《干饭歌》｜一碗饭，两碗饭，白饭给满就是干！",
+    "owner": {
+      "name": "大湿Mastwet",
+      "mid": 5428016
+    },
+    "pubdate": 1793327100,
+    "duration": 202
+  },
+  "descriptionSha256": "01f3c27f687056867594a8af327cfe76e6779b90cce3174aec464e74d5ad52b4",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "大湿Mastwet",
+      "url": "https://space.bilibili.com/5428016"
+    }
+  ]
+}
