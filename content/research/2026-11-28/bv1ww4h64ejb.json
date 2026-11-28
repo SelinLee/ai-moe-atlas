@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1ww4h64EJb/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1ww4h64EJb",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:58.270Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1ww4h64EJb",
+    "title": "鲸鸣（原创曲）-想在你家吃饭【AI音乐】",
+    "owner": {
+      "name": "Torasemide",
+      "mid": 578063888
+    },
+    "pubdate": 1793893256,
+    "duration": 222
+  },
+  "descriptionSha256": "f1f1236df8e0691f93fd59c7c9951617c058f936f2d145cd7657f4fba17b199d",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Torasemide",
+      "url": "https://space.bilibili.com/578063888"
+    },
+    {
+      "role": "character-original",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-adaptation",
+      "title": "ZipZipPipe · AI girls",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

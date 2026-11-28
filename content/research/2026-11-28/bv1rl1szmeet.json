@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1rL1szMEet/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1rL1szMEet",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:46.098Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1rL1szMEet",
+    "title": "大肥鱼这下可惨了，小克：“大炮已组装”",
+    "owner": {
+      "name": "黑猫勇者",
+      "mid": 69180811
+    },
+    "pubdate": 1795759320,
+    "duration": 66
+  },
+  "descriptionSha256": "ac06df1b6f368d66da0a48860f92fa22db3cf9da038ca5f653572f2660ff6ff6",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "黑猫勇者",
+      "url": "https://space.bilibili.com/69180811"
+    }
+  ]
+}

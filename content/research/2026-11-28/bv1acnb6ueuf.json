@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1acnB6UEUf/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1acnB6UEUf",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:52.185Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1acnB6UEUf",
+    "title": "[4K/60] Claude × 大肥鱼 动态壁纸",
+    "owner": {
+      "name": "努力在爬の咸鱼",
+      "mid": 3707005204171247
+    },
+    "pubdate": 1792560304,
+    "duration": 6
+  },
+  "descriptionSha256": "e02951f3c9710f852e43441170b4caac9199b8ab2e46f29c2210593ce59f6b56",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "努力在爬の咸鱼",
+      "url": "https://space.bilibili.com/3707005204171247"
+    },
+    {
+      "role": "creator-source",
+      "title": "Inanis404 · wallpaper repository",
+      "url": "https://github.com/Inanis404/Live2d_shares"
+    }
+  ]
+}

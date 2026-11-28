@@ -1,0 +1,103 @@
+{
+  "historical": false,
+  "full_name": "qw823091677/dafeiyu-stickers",
+  "html_url": "https://github.com/qw823091677/dafeiyu-stickers",
+  "stargazers_count": 0,
+  "archived": false,
+  "created_at": "2026-10-23T17:50:41Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "b6ba1361dd2bde0f2bdf3c45adae8ce2ff34be7e",
+  "observedAt": "2026-11-28T14:11:14.009Z",
+  "httpStatus": 200,
+  "metadataSha256": "042ea17660ecee8d661d5de3fd4032c966ba7c5e48d2a2eda6f892442b6d831a",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/qw823091677/dafeiyu-stickers/blob/b6ba1361dd2bde0f2bdf3c45adae8ce2ff34be7e/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/qw823091677/dafeiyu-stickers/b6ba1361dd2bde0f2bdf3c45adae8ce2ff34be7e/README.md",
+      "sourceSha256": "57fd0b62f473f36d9c200876f86df126b2699308726c763c62ad230ff3bca63a",
+      "gitBlobSha": "3fbbda354a53c30c498c45d519ac6c649fbb92fd",
+      "bytes": 16859,
+      "commit": "b6ba1361dd2bde0f2bdf3c45adae8ce2ff34be7e",
+      "accessedAt": "2026-11-28T14:15:50.064Z"
+    },
+    {
+      "path": "CREDITS.md",
+      "url": "https://github.com/qw823091677/dafeiyu-stickers/blob/b6ba1361dd2bde0f2bdf3c45adae8ce2ff34be7e/CREDITS.md",
+      "rawUrl": "https://raw.githubusercontent.com/qw823091677/dafeiyu-stickers/b6ba1361dd2bde0f2bdf3c45adae8ce2ff34be7e/CREDITS.md",
+      "sourceSha256": "37517b93749888a968fe7b288bf16782f349d4fc64fc706a0079766d9b1f6f32",
+      "gitBlobSha": "61fbdee83d9c37d7031221cf22994c4d6b525923",
+      "bytes": 5400,
+      "commit": "b6ba1361dd2bde0f2bdf3c45adae8ce2ff34be7e",
+      "accessedAt": "2026-11-28T14:15:50.281Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/qw823091677/dafeiyu-stickers/blob/b6ba1361dd2bde0f2bdf3c45adae8ce2ff34be7e/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/qw823091677/dafeiyu-stickers/b6ba1361dd2bde0f2bdf3c45adae8ce2ff34be7e/LICENSE",
+      "sourceSha256": "72ac78799bc7367a105e3e5ce0eb19a4111100a8f39c1aac0c6a3f653dcbb543",
+      "gitBlobSha": "050156534983a62c35085b0a0b0355155d12eb29",
+      "bytes": 1086,
+      "commit": "b6ba1361dd2bde0f2bdf3c45adae8ce2ff34be7e",
+      "accessedAt": "2026-11-28T14:15:50.492Z"
+    },
+    {
+      "path": "data/index.json",
+      "url": "https://github.com/qw823091677/dafeiyu-stickers/blob/b6ba1361dd2bde0f2bdf3c45adae8ce2ff34be7e/data/index.json",
+      "rawUrl": "https://raw.githubusercontent.com/qw823091677/dafeiyu-stickers/b6ba1361dd2bde0f2bdf3c45adae8ce2ff34be7e/data/index.json",
+      "sourceSha256": "73f010a3a9c4dc8358c72a595f4a39eb592509e207a9be5474e6112f250fc686",
+      "gitBlobSha": "85fadb77bb2390fb7c10edf257a213a449f80a08",
+      "bytes": 251563,
+      "commit": "b6ba1361dd2bde0f2bdf3c45adae8ce2ff34be7e",
+      "accessedAt": "2026-11-28T14:15:50.830Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T14:15:50.830Z",
+  "scope": "Fixed first-party documentation and selected files were checked using Git blob identity and SHA-256 via isolated Chrome.",
+  "relations": [
+    {
+      "role": "asset-index",
+      "title": "Pinned sticker credits and hashes",
+      "url": "https://github.com/qw823091677/dafeiyu-stickers/blob/b6ba1361dd2bde0f2bdf3c45adae8ce2ff34be7e/data/index.json"
+    },
+    {
+      "role": "asset-specific-terms",
+      "title": "Sticker source and author notes",
+      "url": "https://github.com/qw823091677/dafeiyu-stickers/blob/b6ba1361dd2bde0f2bdf3c45adae8ce2ff34be7e/CREDITS.md"
+    },
+    {
+      "role": "code-license",
+      "title": "Search tool · MIT",
+      "url": "https://github.com/qw823091677/dafeiyu-stickers/blob/b6ba1361dd2bde0f2bdf3c45adae8ce2ff34be7e/LICENSE"
+    },
+    {
+      "role": "upstream-index",
+      "title": "EDMOK · Blue Fish Archive",
+      "url": "https://github.com/EDMOK/blue-fish-archive/blob/40789a1e8a641bdb00906cd8d989127e118383aa/README.md"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/qw823091677/dafeiyu-stickers/blob/b6ba1361dd2bde0f2bdf3c45adae8ce2ff34be7e/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/qw823091677/dafeiyu-stickers/b6ba1361dd2bde0f2bdf3c45adae8ce2ff34be7e/README.md",
+    "sourceSha256": "57fd0b62f473f36d9c200876f86df126b2699308726c763c62ad230ff3bca63a",
+    "gitBlobSha": "3fbbda354a53c30c498c45d519ac6c649fbb92fd",
+    "bytes": 16859,
+    "commit": "b6ba1361dd2bde0f2bdf3c45adae8ce2ff34be7e",
+    "accessedAt": "2026-11-28T14:15:50.064Z"
+  },
+  "indexedCount": 264,
+  "selfMadeCount": 5,
+  "sampleObservation": {
+    "id": "deepseek-dui-zhe-diannao-tu-she",
+    "url": "https://fisharchive.cc/media/deepseek-dui-zhe-diannao-tu-she.png",
+    "accessedAt": "2026-11-28T14:16:19.513Z",
+    "httpStatus": 200,
+    "bytes": 2071242,
+    "sha256": "e46e1ca079dee4cf0e973d5498e70cf510d3c05052de4bb985179a144e1febe8",
+    "expectedSha256": "e46e1ca079dee4cf0e973d5498e70cf510d3c05052de4bb985179a144e1febe8",
+    "matches": true
+  }
+}

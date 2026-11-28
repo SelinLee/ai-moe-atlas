@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Zk446kE7j/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Zk446kE7j",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:56.754Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1Zk446kE7j",
+    "title": "GPT-6.2发布前夜：我都躲山洞里了，你们还要问？！",
+    "owner": {
+      "name": "尹紫鹭幻想社",
+      "mid": 1008958826
+    },
+    "pubdate": 1793874600,
+    "duration": 15
+  },
+  "descriptionSha256": "720ce789df627fe84e04e8ff5dd3522d78d8227324f9c1576ec940866ed78876",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "尹紫鹭幻想社",
+      "url": "https://space.bilibili.com/1008958826"
+    },
+    {
+      "role": "character-original",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-adaptation",
+      "title": "ZipZipPipe · AI girls",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

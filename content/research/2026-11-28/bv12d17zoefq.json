@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV12d17zoEFQ/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV12d17zoEFQ",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:46.105Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV12d17zoEFQ",
+    "title": "大肥鱼的合租日常 第二季（5），后排靠窗，王的故乡[]~(￣▽￣)~*",
+    "owner": {
+      "name": "呆毛的星野",
+      "mid": 3537113121294356
+    },
+    "pubdate": 1795688421,
+    "duration": 193
+  },
+  "descriptionSha256": "3f68c92d0fdf4b0eec9acafb5ad2e7e99c70d8664c952c694cc6403f9ce45754",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "呆毛的星野",
+      "url": "https://space.bilibili.com/3537113121294356"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Season 2 · EP 4",
+      "url": "https://www.bilibili.com/video/BV1fc1cz8EcG/"
+    },
+    {
+      "role": "related-series-episode",
+      "title": "Season 2 · EP 6",
+      "url": "https://www.bilibili.com/video/BV1xR14zJEFV/"
+    }
+  ]
+}

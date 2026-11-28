@@ -1,0 +1,81 @@
+{
+  "historical": false,
+  "full_name": "hellodigua/dsh-emoji",
+  "html_url": "https://github.com/hellodigua/dsh-emoji",
+  "stargazers_count": 56,
+  "archived": false,
+  "created_at": "2026-08-12T16:16:29Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "f14b8c804ab87487ec331de62b3912c39ce75329",
+  "observedAt": "2026-11-28T14:11:13.963Z",
+  "httpStatus": 200,
+  "metadataSha256": "010b3e0eee5dc07085fee4f62b9170f2d6a5f19c0b25d0616761d6b24f4c06cf",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/hellodigua/dsh-emoji/blob/f14b8c804ab87487ec331de62b3912c39ce75329/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/hellodigua/dsh-emoji/f14b8c804ab87487ec331de62b3912c39ce75329/README.md",
+      "sourceSha256": "d8a45b86004aca05fa75fdfa8859ba400948b1e886da297cd7f890d6c2381be7",
+      "gitBlobSha": "72d13d3ebdba1cad2a727f6ed0292fc9e5cbf1df",
+      "bytes": 5581,
+      "commit": "f14b8c804ab87487ec331de62b3912c39ce75329",
+      "accessedAt": "2026-11-28T14:15:50.047Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/hellodigua/dsh-emoji/blob/f14b8c804ab87487ec331de62b3912c39ce75329/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/hellodigua/dsh-emoji/f14b8c804ab87487ec331de62b3912c39ce75329/LICENSE",
+      "sourceSha256": "9be7861ca73b87ce8d6cf4365d09585a16825ba5e2158dee591bc41c79c052dc",
+      "gitBlobSha": "5c82eb171bdc8400894febbe08dd55d17290a759",
+      "bytes": 1082,
+      "commit": "f14b8c804ab87487ec331de62b3912c39ce75329",
+      "accessedAt": "2026-11-28T14:15:50.255Z"
+    },
+    {
+      "path": "ASSETS.md",
+      "url": "https://github.com/hellodigua/dsh-emoji/blob/f14b8c804ab87487ec331de62b3912c39ce75329/ASSETS.md",
+      "rawUrl": "https://raw.githubusercontent.com/hellodigua/dsh-emoji/f14b8c804ab87487ec331de62b3912c39ce75329/ASSETS.md",
+      "sourceSha256": "82b59c5248bead5a20ca215aae23dd214be9decdc5f64e601dcd9d8e896dbd07",
+      "gitBlobSha": "7a1a3253ea5af10f9dabefc40956129349a2cb87",
+      "bytes": 1985,
+      "commit": "f14b8c804ab87487ec331de62b3912c39ce75329",
+      "accessedAt": "2026-11-28T14:15:50.466Z"
+    },
+    {
+      "path": "assets/emoji/deepseek/ds_01.png",
+      "url": "https://github.com/hellodigua/dsh-emoji/blob/f14b8c804ab87487ec331de62b3912c39ce75329/assets/emoji/deepseek/ds_01.png",
+      "rawUrl": "https://raw.githubusercontent.com/hellodigua/dsh-emoji/f14b8c804ab87487ec331de62b3912c39ce75329/assets/emoji/deepseek/ds_01.png",
+      "sourceSha256": "3410d39280c1f53234a6e968118fa777388c7572f8a4c26f0f9218cc741402a2",
+      "gitBlobSha": "579a0bbd65f513775ba0e3f816c6863ecd21a3a0",
+      "bytes": 18447,
+      "commit": "f14b8c804ab87487ec331de62b3912c39ce75329",
+      "accessedAt": "2026-11-28T14:15:50.733Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T14:15:50.733Z",
+  "scope": "Fixed first-party documentation and selected files were checked using Git blob identity and SHA-256 via isolated Chrome.",
+  "relations": [
+    {
+      "role": "asset-specific-terms",
+      "title": "DSH Emoji · bundled artwork terms",
+      "url": "https://github.com/hellodigua/dsh-emoji/blob/f14b8c804ab87487ec331de62b3912c39ce75329/ASSETS.md"
+    },
+    {
+      "role": "code-license",
+      "title": "DSH Emoji · MIT",
+      "url": "https://github.com/hellodigua/dsh-emoji/blob/f14b8c804ab87487ec331de62b3912c39ce75329/LICENSE"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/hellodigua/dsh-emoji/blob/f14b8c804ab87487ec331de62b3912c39ce75329/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/hellodigua/dsh-emoji/f14b8c804ab87487ec331de62b3912c39ce75329/README.md",
+    "sourceSha256": "d8a45b86004aca05fa75fdfa8859ba400948b1e886da297cd7f890d6c2381be7",
+    "gitBlobSha": "72d13d3ebdba1cad2a727f6ed0292fc9e5cbf1df",
+    "bytes": 5581,
+    "commit": "f14b8c804ab87487ec331de62b3912c39ce75329",
+    "accessedAt": "2026-11-28T14:15:50.047Z"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1aeMy6TECn/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1aeMy6TECn",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:55.230Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1aeMy6TECn",
+    "title": "为什么大家都喜欢DeepSeek？",
+    "owner": {
+      "name": "尹紫鹭幻想社",
+      "mid": 1008958826
+    },
+    "pubdate": 1785932521,
+    "duration": 12
+  },
+  "descriptionSha256": "cbbe9f97f8b44415cbd7eb4e8bb665131d2d378fccd901fa53ce794f13936c79",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "尹紫鹭幻想社",
+      "url": "https://space.bilibili.com/1008958826"
+    },
+    {
+      "role": "character-original",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-adaptation",
+      "title": "ZipZipPipe · AI girls",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

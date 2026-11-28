@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV16daw6sEis/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV16daw6sEis",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:53.687Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV16daw6sEis",
+    "title": "大肥鱼的变装秀",
+    "owner": {
+      "name": "拉了个帮",
+      "mid": 109244487
+    },
+    "pubdate": 1790244619,
+    "duration": 50
+  },
+  "descriptionSha256": "015024f7512fa0ce5438000f082c1521779f734a77ce4f99a0a8d4e1a994e1b1",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "拉了个帮",
+      "url": "https://space.bilibili.com/109244487"
+    },
+    {
+      "role": "character-original",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-adaptation",
+      "title": "ZipZipPipe · AI girls",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

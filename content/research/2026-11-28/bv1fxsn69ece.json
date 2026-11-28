@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1fXsn69EcE/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1fXsn69EcE",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:56.737Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1fXsn69EcE",
+    "title": "【克劳德】打了一个星期的BOSS发现有二阶段...",
+    "owner": {
+      "name": "尹紫鹭幻想社",
+      "mid": 1008958826
+    },
+    "pubdate": 1794720688,
+    "duration": 33
+  },
+  "descriptionSha256": "84e5de613f1dcf2adcc86bf608d375b2cba8b9638cfe9a5dada07d928e93c67b",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "尹紫鹭幻想社",
+      "url": "https://space.bilibili.com/1008958826"
+    },
+    {
+      "role": "character-original",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-adaptation",
+      "title": "ZipZipPipe · AI girls",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

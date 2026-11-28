@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1HVx96WEEb/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1HVx96WEEb",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:49.150Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1HVx96WEEb",
+    "title": "蓝色大肥鱼角色介绍｜24秒快节奏贴纸拼贴动画【自制】",
+    "owner": {
+      "name": "微云Clouds",
+      "mid": 401973448
+    },
+    "pubdate": 1793796183,
+    "duration": 24
+  },
+  "descriptionSha256": "6ee5ccf981aac1607c57e8ef3a03d8105faddbf838d7c9087dd7b886fd4c4311",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "微云Clouds",
+      "url": "https://space.bilibili.com/401973448"
+    },
+    {
+      "role": "sticker-source",
+      "title": "EDMOK · fisharchive.cc",
+      "url": "https://fisharchive.cc/"
+    }
+  ]
+}

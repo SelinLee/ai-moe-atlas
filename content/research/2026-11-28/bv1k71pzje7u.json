@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1k71PzjE7u/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1k71PzjE7u",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:44.555Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1k71PzjE7u",
+    "title": "小克被大肥鱼捉弄",
+    "owner": {
+      "name": "小波awosgen",
+      "mid": 618085025
+    },
+    "pubdate": 1795838400,
+    "duration": 62
+  },
+  "descriptionSha256": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "小波awosgen",
+      "url": "https://space.bilibili.com/618085025"
+    }
+  ]
+}

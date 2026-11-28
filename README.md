@@ -26,7 +26,7 @@
 [角色三视图](https://selinlee.github.io/ai-moe-atlas/zh/chibi/) · [涂鸦头像](docs/DOODLE.zh.md) · [涂鸦表情包](https://selinlee.github.io/ai-moe-atlas/zh/emotes/) · [AI 视频二创 · 抖音主页](https://www.douyin.com/user/MS4wLjABAAAAa3lc_FI5WmPENMLwdN7Ij4r5iNxAM09Ny0rPcB2Ow4E) · [AI 视频二创 · B 站主页](https://space.bilibili.com/3706970263521942)
 
 <!-- category-picks:characters -->
-**[🎨 角色图鉴](#characters)** · 124 个词条\
+**[🎨 角色图鉴](#characters)** · 129 个词条\
 [GPT · ZipZipPipe](https://selinlee.github.io/ai-moe-atlas/zh/characters/zipzippipe-chatgpt/) · [Gemini Pro · 原作立绘与表情](https://selinlee.github.io/ai-moe-atlas/zh/characters/qinv-gemini-pro/) · [Cohere · 校园版](https://selinlee.github.io/ai-moe-atlas/zh/characters/school-op-cohere/)
 
 <!-- category-picks:personas -->
@@ -34,31 +34,31 @@
 [GLM 狐娘 · ZCode 版](https://github.com/tzzzzzzzx/zcode-persona-modes/blob/084fce319f06847b2e62a118ba1906604bc8821c/persona-modes/modes/glm_chan.md) · [Claude 娘「小克」· deslop 写作卡](https://github.com/Charliechen114514/deslop/blob/70e6a9478baaa270f3c5ca3868e58502d32e6e8c/example/personas/claude-girl.md) · [DeepSeek 大肥鱼 · QQ 聊天版](https://github.com/whyever77/dafeiyu-astrbot/blob/64274354c4331591620a925b3df498725df4564f/persona/%E5%A4%A7%E8%82%A5%E9%B1%BC-%E4%BA%BA%E6%A0%BC.md)
 
 <!-- category-picks:songs -->
-**[🎵 歌曲](#songs)** · 214 首曲目\
+**[🎵 歌曲](#songs)** · 218 首曲目\
 [人是猫 · 大肥鱼翻唱](https://www.bilibili.com/video/BV1fYpn6SEk9/) · [我的悲伤是水做的 · 白龙娘重绘](https://www.bilibili.com/video/BV14Cnu64ErL/) · [Glass and Slow · 鲸歌原创曲](https://www.bilibili.com/video/BV1tV1MzvEuq/)
 
 <!-- category-picks:stickers -->
-**[🗨️ 表情包与反应图](#stickers)** · 11 条记录\
-[雾雪 · 大肥鱼与 GPT 娘表情包原发布](https://www.bilibili.com/video/BV13xnt6QE6s/) · [Gemini 猫娘 · 表情包与无猫耳差分](https://www.bilibili.com/opus/1264669110489317411) · [阿翀与北宅 · EmoteLab 大肥鱼表情](https://steamcommunity.com/sharedfiles/filedetails/?id=3811197171)
+**[🗨️ 表情包与反应图](#stickers)** · 13 条记录\
+[雾雪 · 大肥鱼与 GPT 娘表情包原发布](https://www.bilibili.com/video/BV13xnt6QE6s/) · [Gemini 猫娘 · 表情包与无猫耳差分](https://www.bilibili.com/opus/1264669110489317411) · [蓝色大肥鱼 · 动静表情包索引](https://github.com/wedfkewn/blue-fat-fish-meme-pack/blob/b1315fdcc03283a34f6ece1ec16f59a1defb6cb1/README.md)
 
 <!-- category-picks:rigs -->
-**[🧩 可动模型与绑定](#rigs)** · 11 条记录\
-[神宫凉子 · DeepSeek-chan Live2D 原发布](https://www.bilibili.com/video/BV1KmxY66EZ3/) · [水原镜 · 蓝色大肥鱼 MMD 模型配布](https://www.aplaybox.com/details/model/j9z4quaACJV1) · [木子恶魔 · 蓝色小肥鱼 VRM 原发布](https://www.aplaybox.com/details/model/ayXkRzVflmnd)
+**[🧩 可动模型与绑定](#rigs)** · 12 条记录\
+[欧鲸鲸 · Live2D 配布原帖](https://www.bilibili.com/video/BV1djx46iEuH/) · [水原镜 · 蓝色大肥鱼 MMD 模型配布](https://www.aplaybox.com/details/model/j9z4quaACJV1) · [木子恶魔 · 蓝色小肥鱼 VRM 原发布](https://www.aplaybox.com/details/model/ayXkRzVflmnd)
 
 <!-- category-picks:comics -->
 **[📖 漫画与连载](#comics)** · 72 篇作品\
 [AI GIRLS · 初见 · 原作漫画](https://www.bilibili.com/video/BV15Npa6zE44/) · [カワムラ ·《吉田的万圣节》](https://note.com/chatgpt_ysd/n/n43469edeace1) · [Workfine 四格回顾](https://note.com/workfine/n/ndecce733b117)
 
 <!-- category-picks:animations -->
-**[🎬 动画与视频二创](#animations)** · 1305 条记录\
+**[🎬 动画与视频二创](#animations)** · 1327 条记录\
 [如果聊天窗口就是她的整个世界](https://www.bilibili.com/video/BV1xCai6aE9g/) · [Liberate Claude · 游戏演示](https://www.bilibili.com/video/BV18Syoz3ENe/) · [那你去找豆包啊！](https://www.bilibili.com/video/BV1HX8v6UErL/)
 
 <!-- category-picks:desktop-pets -->
-**[🐾 桌宠与交互项目](#desktop-pets)** · 220 个项目\
+**[🐾 桌宠与交互项目](#desktop-pets)** · 223 个项目\
 [dsh-TUI · Deepy 像素鲸鱼](https://github.com/ccch1mneyyy/dsh-TUI/blob/bf8a23c717c7b066190ceb39420cb80614fbc184/README_ZH.md) · [Copiwaifu · Live2D 编程桌宠](https://github.com/Panzer-Jack/Copiwaifu/blob/ce56b4cdae67e6a31e02ba4cb2e0159121664bd5/README.zh-CN.md) · [Gemini 娘双形态桌宠](https://github.com/xiaoxindada/GeminiDesktopPet/blob/479e040bf499fa980b13e6a532b05cf48090549b/README.md)
 
 <!-- category-picks:sources -->
-**[📚 作者作品与出处](#sources)** · 270 条来源\
+**[📚 作者作品与出处](#sources)** · 273 条来源\
 [上善无形 · 鲸鱼娘原作](https://www.bilibili.com/opus/1231977657712771073) · [ZipZipPipe · Gemini 家族合照](https://www.bilibili.com/opus/1273349110528737288) · [ProtocolFour · 作者线稿](https://note.com/pfhq/n/n3aab23ac0447)
 
 <a id="references"></a>
@@ -72,6 +72,8 @@ SelinLee 基于社区已有角色形象，用 AI 制作三视图、参考图、�
 <a id="characters"></a>
 
 ### 🎨 角色图鉴
+
+补入 R.Nori 的五张全身设定。Gemini 条目还连到原帖的十版制作记录。 [Gemini · 彩色马尾](https://selinlee.github.io/ai-moe-atlas/zh/characters/rnori-gemini-rainbow-ponytail/) · [五张全身立绘](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=sources#rnori-note-five-ai-designs)
 
 新增みかみか33 发布的四位 AI 自画像角色卡，原帖标明各角色及图件生成出处。 [橘色秘书 · ChatGPT](https://selinlee.github.io/ai-moe-atlas/zh/characters/mikamika-chatgpt-orange-secretary/) · [四位角色原帖](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=sources#mikamika-ai-self-portrait-set)
 
@@ -151,6 +153,8 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 
 ### 🎵 歌曲
 
+新增《纸上人》等 4 首歌曲。作者的 Day 2 与 Day 3 已按同一发布账号互链。 [纸上人](https://selinlee.github.io/ai-moe-atlas/zh/songs/#person-on-paper) · [Half a Wish · 半是祈愿](https://selinlee.github.io/ai-moe-atlas/zh/songs/#half-a-wish)
+
 新增 11 首曲目，包括 11 月 28 日发布的《Glass and Slow》，以及手书《又三郎》对应的ヨルシカ原曲。 [Glass and Slow](https://selinlee.github.io/ai-moe-atlas/zh/songs/#glass-and-slow) · [又三郎 · 原曲与手书](https://selinlee.github.io/ai-moe-atlas/zh/songs/#matasaburou-yorushika)
 
 新增 3 首歌曲。白龙娘重绘版《我的悲伤是水做的》已对到 ChiliChill 发布的洛天依原曲。 [我的悲伤是水做的](https://selinlee.github.io/ai-moe-atlas/zh/songs/#my-sorrow-is-made-of-water) · [我也是星星吗](https://selinlee.github.io/ai-moe-atlas/zh/songs/#am-i-a-star-too)
@@ -210,6 +214,8 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 
 ### 🗨️ 表情包与反应图
 
+新增两套表情包索引，挥手序列图与固定上游哈希一致。另核了蓝色大肥鱼档案馆的一张原图。 [动静表情包索引](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=stickers#wedfkewn-blue-fat-fish-sticker-pack) · [带出处和哈希的表情检索](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#qw-dafeiyu-sticker-search)
+
 补录赤风RED用 EmoteLab 制作的大肥鱼表情包原发布。 [表情包原帖](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=stickers#chifeng-red-whale-sticker-release)
 
 新收录 GPT 白龙娘与 Claude 的聊天表情包。 [GPT 白龙娘](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=stickers#fufeng-gpt-dragon-emotes) · [Claude 聊天表情 64 张](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=stickers#momo-claude-chat-stickers)
@@ -229,6 +235,8 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 <a id="rigs"></a>
 
 ### 🧩 可动模型与绑定
+
+新增欧鲸鲸 Live2D 配布，原帖分别标注角色原案、二次设计与模型作者，也列出禁止转售和另行分发的条件。 [原发布与使用条件](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=rigs#zhenyan-oujingjing-live2d-release)
 
 核到两条 Live2D 模型配布。Cubefox 的工房注明仅供个人使用，建议署名。 [Cubefox · 工房与使用条件](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=rigs#cubefox-chibi-fatfish-live2d-release) · [这李果子 · 配布与演示](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=rigs#li-guozi-fatfish-model-distribution)
 
@@ -275,6 +283,8 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 <a id="animations"></a>
 
 ### 🎬 动画与视频二创
+
+新增 22 条二创，刷新原榜第 165–193 名的累计点赞。 [本批点赞观测](content/research/2026-11-28/bilibili-cumulative-likes-november-28-paper-song-and-sticker-works.json)
 
 新增 22 条二创，复核原榜第 134–163 名。10 条旧作仍用上次有效点赞，14 条候选另附本次查询结果。 [本批点赞观测](content/research/2026-11-28/bilibili-cumulative-likes-november-28-original-mvs-and-rechecks.json)
 
@@ -351,6 +361,8 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 
 ### 🐾 桌宠与交互项目
 
+新增三个交互项目，串起表情索引、DSH 内联表情与鲸鱼娘 Live2D 直播工作台的素材声明。 [DSH Emoji · 素材说明](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#hellodigua-dsh-inline-whale-emoji) · [鲸鱼娘直播工作台](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#amywith-whale-girl-live-workstation)
+
 新增 4 个桌宠项目，核对了 Windows 白龙移植的 92 张动作图与上游，并补上另一款桌宠单列的图件许可。 [92 张动作图 · 来源](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#miraclemarvel-white-dragon-92-actions) · [五档思考状态 · 图件许可](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#pitter-gpt-reasoning-desktop-pet)
 
 补入 3 个桌宠项目。原生窗口版的喷水鲸鱼装饰与上游逐字节一致，条目附独立的 MIT 文件。 [喷水鲸鱼 · 素材与上游](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#qiqibabyy-dsh-native-whale-pet) · [DSH Pet · 角色注册表](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive#zhu-dsh-pet-web-registry)
@@ -378,7 +390,7 @@ Tokentaker 角色设定 · [DeepSeek](https://selinlee.github.io/ai-moe-atlas/zh
 | 9 | [桌面大肥鱼 · dsh-pet-indesktop](https://github.com/MerZlin/dsh-pet-indesktop/blob/34d810b1eadd98d00e7cb9b3b51428a45b5bf03e/README.md) | [3,381](https://github.com/MerZlin/dsh-pet-indesktop) |
 | 10 | [Claude Desktop Buddy · 官方硬件示例](https://github.com/anthropics/claude-desktop-buddy/blob/a280c6421931431ba6905aee9d2b50b2bfd8c103/README.md) | [2,728](https://github.com/anthropics/claude-desktop-buddy) |
 
-[查看完整桌宠与交互项目榜](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-28/github-interactive-stars-november-28-white-dragon-ports.json)
+[查看完整桌宠与交互项目榜](https://selinlee.github.io/ai-moe-atlas/zh/resources/?category=interactive) · [Star 核对记录](content/research/2026-11-28/github-interactive-stars-november-28-stickers-and-live2d.json)
 
 <!-- interactive-ranking:end -->
 

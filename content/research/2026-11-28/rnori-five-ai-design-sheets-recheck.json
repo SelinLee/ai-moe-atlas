@@ -1,0 +1,94 @@
+{
+  "url": "https://note.com/modern_peony538/n/nb19b2c2811c6",
+  "accessedAt": "2026-11-28T14:12:04.463Z",
+  "httpStatus": 200,
+  "title": "AIを美少女にしていたら、休日が溶けた。",
+  "creator": "https://note.com/modern_peony538",
+  "publishedAt": "2026-11-10T13:05:07.000+09:00",
+  "htmlSha256": "08487cad43dbeb844e48e44168bc7d2b133a4b69f47d014589a9d1a84eb77899",
+  "scope": "The creator post captions each full-body image with its character name. Original CDN bytes were obtained in isolated headless Chrome, retained locally and verified by SHA-256.",
+  "previousEvidence": {
+    "path": "content/research/2026-11-18/rnori-note-five-ai-designs.json",
+    "sha256": "19b22a9af14880bbb1ba3fe4872b463f3df744175b34c21b21ee5a6fb6d6503c",
+    "kind": "browser-metadata-extract"
+  },
+  "files": [
+    {
+      "index": 2,
+      "url": "https://assets.st-note.com/img/1794280178-RHZ0ewnUd9b3oP6hENGBO8rk.jpg",
+      "sha256": "d520d250f20552ccc3fb216bd2d6eb834a21cea0628af1a331f79088a618b6d8",
+      "bytes": 278922,
+      "width": 1170,
+      "height": 658,
+      "format": "jpeg",
+      "accessedAt": "2026-11-28T14:12:42.449Z",
+      "caption": "5人のAIたちと、記事バナー"
+    },
+    {
+      "index": 4,
+      "url": "https://assets.st-note.com/img/1794184809-cnXoMTq3VsEIrmh8Yx5t2SDf.jpg",
+      "sha256": "11cb45d2b27d021c4af2a45172f3ee6f82df71c64c7bcade50a435a65d2708ac",
+      "bytes": 112120,
+      "width": 1024,
+      "height": 1536,
+      "format": "jpeg",
+      "accessedAt": "2026-11-28T14:12:42.291Z",
+      "caption": "ChatGPTの全身立ち絵"
+    },
+    {
+      "index": 5,
+      "url": "https://assets.st-note.com/img/1794184843-g9dzvfDFEAh7Xqe83CRMtNPQ.jpg",
+      "sha256": "764a050d88dff15de908429cfc63892aa06601fb0fe4765bfbaa1755cb5f1744",
+      "bytes": 146160,
+      "width": 1024,
+      "height": 1536,
+      "format": "jpeg",
+      "accessedAt": "2026-11-28T14:12:42.277Z",
+      "caption": "Claudeの全身立ち絵"
+    },
+    {
+      "index": 6,
+      "url": "https://assets.st-note.com/img/1794184872-2zBGCNjheItdOag9wuDsHJVk.jpg",
+      "sha256": "777fea4639e26a37b994268d6e56f1423d631d82f0e9aed2b93ad6638c9e6dad",
+      "bytes": 151019,
+      "width": 1024,
+      "height": 1536,
+      "format": "jpeg",
+      "accessedAt": "2026-11-28T14:12:42.411Z",
+      "caption": "Geminiの全身立ち絵"
+    },
+    {
+      "index": 7,
+      "url": "https://assets.st-note.com/img/1794184902-T9QyfMVZzcYoOiWFla5pLhbg.jpg",
+      "sha256": "abf1469e8dafb3f9628b95f5cf19fbbb2def9c7bb203bc0045f6bd57d67c63bb",
+      "bytes": 142450,
+      "width": 1024,
+      "height": 1536,
+      "format": "jpeg",
+      "accessedAt": "2026-11-28T14:12:42.382Z",
+      "caption": "Museの全身立ち絵"
+    },
+    {
+      "index": 8,
+      "url": "https://assets.st-note.com/img/1794184932-VjB2NPKx3QUILdSiRHfMcXkT.jpg",
+      "sha256": "c03a261ae6a705a764c99f9418766c674b16950d8dccf055d8f59270b17c53fd",
+      "bytes": 133129,
+      "width": 1024,
+      "height": 1536,
+      "format": "jpeg",
+      "accessedAt": "2026-11-28T14:12:42.382Z",
+      "caption": "Grokの全身立ち絵"
+    },
+    {
+      "index": 9,
+      "url": "https://assets.st-note.com/img/1794185666-EJzhjF8ym9ApUiIZdf7Q5x1a.jpg",
+      "sha256": "b49c31ab19071456ace1c5d37108b84cd789c6169c812836a1efd7035fbcc9bc",
+      "bytes": 227711,
+      "width": 1170,
+      "height": 2510,
+      "format": "jpeg",
+      "accessedAt": "2026-11-28T14:12:42.461Z",
+      "caption": "Geminiちゃんの立ち絵メイキング（初稿→最終稿、全10版）"
+    }
+  ]
+}

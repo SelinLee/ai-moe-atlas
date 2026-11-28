@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Dhpk6hEYo/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Dhpk6hEYo",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:59.794Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1Dhpk6hEYo",
+    "title": "《Half a Wish · 半是祈愿》｜原创曲",
+    "owner": {
+      "name": "吃土的西风",
+      "mid": 23282911
+    },
+    "pubdate": 1791940190,
+    "duration": 176
+  },
+  "descriptionSha256": "5b057cbdfc7e007fda6ab484e763f3f1366d6cf74f3c04c0f4d0ced9341e203c",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "吃土的西风",
+      "url": "https://space.bilibili.com/23282911"
+    }
+  ]
+}

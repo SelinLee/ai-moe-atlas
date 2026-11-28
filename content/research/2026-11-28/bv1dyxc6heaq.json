@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Dyxc6HEAq/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Dyxc6HEAq",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:58.275Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1Dyxc6HEAq",
+    "title": "鲸鸣（原创曲）-写给百年后的“他”-深海有信【AI音乐】",
+    "owner": {
+      "name": "Torasemide",
+      "mid": 578063888
+    },
+    "pubdate": 1793283063,
+    "duration": 203
+  },
+  "descriptionSha256": "e49910d71057ad1c28594f7d73a7d6f6b47478d260367524c67122d518710a47",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Torasemide",
+      "url": "https://space.bilibili.com/578063888"
+    },
+    {
+      "role": "character-original",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-adaptation",
+      "title": "ZipZipPipe · AI girls",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1hauq6EEhU/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1hauq6EEhU",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:55.223Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1hauq6EEhU",
+    "title": "DeepSeek大肥鱼在偷摸儿搜什么呢？",
+    "owner": {
+      "name": "尹紫鹭幻想社",
+      "mid": 1008958826
+    },
+    "pubdate": 1786442400,
+    "duration": 11
+  },
+  "descriptionSha256": "c19b22d285612b0f465c01df8092b07d8d2512142b1c740f384d10ae0b294532",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "尹紫鹭幻想社",
+      "url": "https://space.bilibili.com/1008958826"
+    },
+    {
+      "role": "character-original",
+      "title": "上善无形 · 溟月",
+      "url": "https://www.bilibili.com/opus/1231977657712771073"
+    },
+    {
+      "role": "character-adaptation",
+      "title": "ZipZipPipe · AI girls",
+      "url": "https://www.pixiv.net/artworks/148186519"
+    }
+  ]
+}

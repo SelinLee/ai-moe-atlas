@@ -110,6 +110,32 @@
         "chat",
         "variants"
       ]
+    },
+    {
+      "id": "wedfkewn-blue-fat-fish-sticker-pack",
+      "characters": [
+        "DeepSeek"
+      ],
+      "tags": [
+        "solo",
+        "happy",
+        "meme"
+      ]
+    },
+    {
+      "id": "xinxiangshiicheng-whale-sticker-and-merch-index",
+      "characters": [
+        "DeepSeek",
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "Grok",
+        "Qwen"
+      ],
+      "tags": [
+        "variants",
+        "meme"
+      ]
     }
   ],
   "rigs": [
@@ -155,6 +181,10 @@
     },
     {
       "id": "li-guozi-fatfish-model-distribution",
+      "format": "live2d"
+    },
+    {
+      "id": "zhenyan-oujingjing-live2d-release",
       "format": "live2d"
     }
   ],

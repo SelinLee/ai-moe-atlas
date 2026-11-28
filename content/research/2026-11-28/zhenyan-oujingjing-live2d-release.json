@@ -1,0 +1,24 @@
+{
+  "url": "https://www.bilibili.com/video/BV1djx46iEuH/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1djx46iEuH",
+  "accessedAt": "2026-11-28T14:11:52.179Z",
+  "httpStatus": 200,
+  "code": 0,
+  "scope": "Bilibili official view response identifies the rigger and release description. Asset-specific sharing restrictions and upstream credits are recorded from the creator’s publication.",
+  "metadata": {
+    "bvid": "BV1djx46iEuH",
+    "title": "【免费模型】蓝色大肥鱼Live2D模型！欧鲸鲸！Deepseek",
+    "owner": {
+      "name": "无故事王国的针眼画师",
+      "mid": 232662322
+    },
+    "pubdate": 1793528846
+  },
+  "descriptionSha256": "309c1149fbc81d8a2b0ee9c63882559df74cf3354065f0bd1931c3afa9fe9a91",
+  "terms": {
+    "creditRequired": true,
+    "resale": "prohibited",
+    "reupload": "prohibited",
+    "furtherModelSharing": "prohibited"
+  }
+}

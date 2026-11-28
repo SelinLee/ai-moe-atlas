@@ -1,0 +1,36 @@
+{
+  "url": "https://www.bilibili.com/video/BV1f9sC6HEDr/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1f9sC6HEDr",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:50.653Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1f9sC6HEDr",
+    "title": "大肥鱼Live2D桌宠🐟｜更生动的大肥鱼！",
+    "owner": {
+      "name": "午時時時",
+      "mid": 16524993
+    },
+    "pubdate": 1794993300,
+    "duration": 130
+  },
+  "descriptionSha256": "c075ccd8e2432e5e1b12d4f1d0d6b3c4af236529e9f79b33c4ec2f2d7c1fc8e1",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "午時時時",
+      "url": "https://space.bilibili.com/16524993"
+    },
+    {
+      "role": "creator-project",
+      "title": "Rockau · DeepFish",
+      "url": "https://github.com/Rockau/DeepFish-desktop-pet"
+    },
+    {
+      "role": "voice-extension",
+      "title": "ICEAXEMAN · DeepFish Voice",
+      "url": "https://github.com/ICEAXEMAN/DeepFish-voice"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1mB1uzTEaL/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mB1uzTEaL",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:43.053Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1mB1uzTEaL",
+    "title": "当你把权限都交给大肥鱼",
+    "owner": {
+      "name": "小雪豹今天也很乖",
+      "mid": 2017309866
+    },
+    "pubdate": 1795872859,
+    "duration": 16
+  },
+  "descriptionSha256": "11943b9892b1f200d61378ba44bd785aead2b5d1900e6c10ad394fe419ca61a5",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "小雪豹今天也很乖",
+      "url": "https://space.bilibili.com/2017309866"
+    }
+  ]
+}

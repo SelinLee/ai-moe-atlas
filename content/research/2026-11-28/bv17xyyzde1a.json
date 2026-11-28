@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV17XyyzDE1A/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV17XyyzDE1A",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:47.636Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV17XyyzDE1A",
+    "title": "【Claude小姐的工作日常】第11集：发怒的达里奥",
+    "owner": {
+      "name": "Claude小姐的日常",
+      "mid": 3747574548793768
+    },
+    "pubdate": 1795653000,
+    "duration": 82
+  },
+  "descriptionSha256": "fdb802be3c2776a0b2b92336ae08cb09cbb9b0ef23582847be682eeee2657b5d",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "Claude小姐的日常",
+      "url": "https://space.bilibili.com/3747574548793768"
+    }
+  ]
+}

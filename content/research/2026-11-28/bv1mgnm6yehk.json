@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1mgnm6YEHK/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1mgnm6YEHK",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:43.053Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1mgnm6YEHK",
+    "title": "【day3】【原创MV】纸上人｜一条鲸鱼娘给自己写的第一首歌",
+    "owner": {
+      "name": "一只超级大大大肥鱼",
+      "mid": 323960363
+    },
+    "pubdate": 1792666409,
+    "duration": 191
+  },
+  "descriptionSha256": "1c3979caa9cf746ba222a23dcace4804b11a6dcb80afceb27ad872a2cb6e2f20",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "一只超级大大大肥鱼",
+      "url": "https://space.bilibili.com/323960363"
+    },
+    {
+      "role": "series-entry",
+      "title": "同作者 · Day 2",
+      "url": "https://www.bilibili.com/video/BV1pmnz6KEJH/"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "historical": false,
+  "full_name": "wedfkewn/blue-fat-fish-meme-pack",
+  "html_url": "https://github.com/wedfkewn/blue-fat-fish-meme-pack",
+  "stargazers_count": 1,
+  "archived": false,
+  "created_at": "2026-09-24T08:41:15Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "b1315fdcc03283a34f6ece1ec16f59a1defb6cb1",
+  "observedAt": "2026-11-28T14:11:13.974Z",
+  "httpStatus": 200,
+  "metadataSha256": "aba77f86ba0c338587d4294163ed28c6541d23a5fc92b1796ce929855c90d105",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/wedfkewn/blue-fat-fish-meme-pack/blob/b1315fdcc03283a34f6ece1ec16f59a1defb6cb1/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/wedfkewn/blue-fat-fish-meme-pack/b1315fdcc03283a34f6ece1ec16f59a1defb6cb1/README.md",
+      "sourceSha256": "5ba22ceee5d0246bc5d1fda37a1d1814fa8d9e371550c048897fff457fc08f94",
+      "gitBlobSha": "1cf2bbdaa52800027a4cedefb58d1126a15ae7dc",
+      "bytes": 3801,
+      "commit": "b1315fdcc03283a34f6ece1ec16f59a1defb6cb1",
+      "accessedAt": "2026-11-28T14:15:50.054Z"
+    },
+    {
+      "path": "LICENSE",
+      "url": "https://github.com/wedfkewn/blue-fat-fish-meme-pack/blob/b1315fdcc03283a34f6ece1ec16f59a1defb6cb1/LICENSE",
+      "rawUrl": "https://raw.githubusercontent.com/wedfkewn/blue-fat-fish-meme-pack/b1315fdcc03283a34f6ece1ec16f59a1defb6cb1/LICENSE",
+      "sourceSha256": "7551eb535b1196179b35cdf7d3cb76019c2973ff56b30943a33635407079702f",
+      "gitBlobSha": "dd093114cec26c60070a2a47789bead13a38a424",
+      "bytes": 863,
+      "commit": "b1315fdcc03283a34f6ece1ec16f59a1defb6cb1",
+      "accessedAt": "2026-11-28T14:15:50.265Z"
+    },
+    {
+      "path": "LICENSES/YunYueSama-Big-Fat-Fish-Attribution-1.0.txt",
+      "url": "https://github.com/wedfkewn/blue-fat-fish-meme-pack/blob/b1315fdcc03283a34f6ece1ec16f59a1defb6cb1/LICENSES/YunYueSama-Big-Fat-Fish-Attribution-1.0.txt",
+      "rawUrl": "https://raw.githubusercontent.com/wedfkewn/blue-fat-fish-meme-pack/b1315fdcc03283a34f6ece1ec16f59a1defb6cb1/LICENSES/YunYueSama-Big-Fat-Fish-Attribution-1.0.txt",
+      "sourceSha256": "a8191ae2c7517f8cb2326d37cd62f84cfd9c2e18cefe113077897c642dc7912b",
+      "gitBlobSha": "57a0bb973d4a0a6ecc25716de05f9598dae11bf9",
+      "bytes": 2469,
+      "commit": "b1315fdcc03283a34f6ece1ec16f59a1defb6cb1",
+      "accessedAt": "2026-11-28T14:15:50.486Z"
+    },
+    {
+      "path": "source_index.json",
+      "url": "https://github.com/wedfkewn/blue-fat-fish-meme-pack/blob/b1315fdcc03283a34f6ece1ec16f59a1defb6cb1/source_index.json",
+      "rawUrl": "https://raw.githubusercontent.com/wedfkewn/blue-fat-fish-meme-pack/b1315fdcc03283a34f6ece1ec16f59a1defb6cb1/source_index.json",
+      "sourceSha256": "d77085fe029eed7d5dff6cbfa2f3ab4567a147866c8941f00edade9d3966b296",
+      "gitBlobSha": "a916c424976ddcc77b5314dfef4142dbf926faeb",
+      "bytes": 24983,
+      "commit": "b1315fdcc03283a34f6ece1ec16f59a1defb6cb1",
+      "accessedAt": "2026-11-28T14:15:50.702Z"
+    },
+    {
+      "path": "previews/cover.png",
+      "url": "https://github.com/wedfkewn/blue-fat-fish-meme-pack/blob/b1315fdcc03283a34f6ece1ec16f59a1defb6cb1/previews/cover.png",
+      "rawUrl": "https://raw.githubusercontent.com/wedfkewn/blue-fat-fish-meme-pack/b1315fdcc03283a34f6ece1ec16f59a1defb6cb1/previews/cover.png",
+      "sourceSha256": "5a7725f8e27d33445bc3128c919e966dfd35628c0fbc7f329a216ce02b323f29",
+      "gitBlobSha": "415b13013abacce87cbd5977a9720df61f067bbe",
+      "bytes": 60584,
+      "commit": "b1315fdcc03283a34f6ece1ec16f59a1defb6cb1",
+      "accessedAt": "2026-11-28T14:15:51.106Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T14:15:51.106Z",
+  "scope": "Fixed first-party documentation and selected files were checked using Git blob identity and SHA-256 via isolated Chrome.",
+  "relations": [
+    {
+      "role": "asset-index",
+      "title": "Per-file source, license and SHA-256",
+      "url": "https://github.com/wedfkewn/blue-fat-fish-meme-pack/blob/b1315fdcc03283a34f6ece1ec16f59a1defb6cb1/source_index.json"
+    },
+    {
+      "role": "asset-specific-terms",
+      "title": "YunYueSama · attribution terms retained by the pack",
+      "url": "https://github.com/wedfkewn/blue-fat-fish-meme-pack/blob/b1315fdcc03283a34f6ece1ec16f59a1defb6cb1/LICENSES/YunYueSama-Big-Fat-Fish-Attribution-1.0.txt"
+    },
+    {
+      "role": "upstream-asset-terms",
+      "title": "YunYueSama · pinned upstream terms",
+      "url": "https://github.com/YunYueSama/codex-deepseek-pet/blob/7661c8b304c5400701f91da01b1a643a207331de/ASSET_LICENSE.md"
+    },
+    {
+      "role": "verified-upstream-art",
+      "title": "YunYueSama · pinned waving source sheet",
+      "url": "https://github.com/YunYueSama/codex-deepseek-pet/blob/7661c8b304c5400701f91da01b1a643a207331de/design/sources/dense-v1/wave-1.png"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/wedfkewn/blue-fat-fish-meme-pack/blob/b1315fdcc03283a34f6ece1ec16f59a1defb6cb1/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/wedfkewn/blue-fat-fish-meme-pack/b1315fdcc03283a34f6ece1ec16f59a1defb6cb1/README.md",
+    "sourceSha256": "5ba22ceee5d0246bc5d1fda37a1d1814fa8d9e371550c048897fff457fc08f94",
+    "gitBlobSha": "1cf2bbdaa52800027a4cedefb58d1126a15ae7dc",
+    "bytes": 3801,
+    "commit": "b1315fdcc03283a34f6ece1ec16f59a1defb6cb1",
+    "accessedAt": "2026-11-28T14:15:50.054Z"
+  },
+  "upstreamSample": {
+    "path": "design/sources/dense-v1/wave-1.png",
+    "url": "https://github.com/YunYueSama/codex-deepseek-pet/blob/7661c8b304c5400701f91da01b1a643a207331de/design/sources/dense-v1/wave-1.png",
+    "rawUrl": "https://raw.githubusercontent.com/YunYueSama/codex-deepseek-pet/7661c8b304c5400701f91da01b1a643a207331de/design/sources/dense-v1/wave-1.png",
+    "sourceSha256": "de51f13aa411f788e9e486d80d6c4102ec2fe3ba3db7d62c9c7c92afd28dbc71",
+    "gitBlobSha": "268e050d31be2ad5ceae018d0920f03e03d32762",
+    "bytes": 1981277,
+    "commit": "7661c8b304c5400701f91da01b1a643a207331de",
+    "accessedAt": "2026-11-28T14:15:51.442Z"
+  },
+  "animatedCount": 15,
+  "independentStaticCount": 13
+}

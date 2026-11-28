@@ -1,0 +1,61 @@
+{
+  "historical": false,
+  "full_name": "Amywith/whale-girl-live",
+  "html_url": "https://github.com/Amywith/whale-girl-live",
+  "stargazers_count": 2,
+  "archived": false,
+  "created_at": "2026-11-01T09:23:56Z",
+  "default_branch": "main",
+  "fork": false,
+  "commit": "86f8bc338934fcf1b28af1ced4350a1a9a029fae",
+  "observedAt": "2026-11-28T14:11:48.258Z",
+  "httpStatus": 200,
+  "metadataSha256": "638894b1710d135a03e8837cec85a9c42b650d29f6f758fa08683163a66b9e2c",
+  "parent": null,
+  "files": [
+    {
+      "path": "README.md",
+      "url": "https://github.com/Amywith/whale-girl-live/blob/86f8bc338934fcf1b28af1ced4350a1a9a029fae/README.md",
+      "rawUrl": "https://raw.githubusercontent.com/Amywith/whale-girl-live/86f8bc338934fcf1b28af1ced4350a1a9a029fae/README.md",
+      "sourceSha256": "506e6a73b351d993e729391dfd4790cfd357c3c4b36293ee5e674b56621c1219",
+      "gitBlobSha": "4a0f1b3d521503a1392de9a5042f9568f6cfa89a",
+      "bytes": 8947,
+      "commit": "86f8bc338934fcf1b28af1ced4350a1a9a029fae",
+      "accessedAt": "2026-11-28T14:15:50.061Z"
+    },
+    {
+      "path": "直播预览/assets/live2d/模型使用须知.txt",
+      "url": "https://github.com/Amywith/whale-girl-live/blob/86f8bc338934fcf1b28af1ced4350a1a9a029fae/%E7%9B%B4%E6%92%AD%E9%A2%84%E8%A7%88/assets/live2d/%E6%A8%A1%E5%9E%8B%E4%BD%BF%E7%94%A8%E9%A1%BB%E7%9F%A5.txt",
+      "rawUrl": "https://raw.githubusercontent.com/Amywith/whale-girl-live/86f8bc338934fcf1b28af1ced4350a1a9a029fae/%E7%9B%B4%E6%92%AD%E9%A2%84%E8%A7%88/assets/live2d/%E6%A8%A1%E5%9E%8B%E4%BD%BF%E7%94%A8%E9%A1%BB%E7%9F%A5.txt",
+      "sourceSha256": "11a09fc7bb10176ef479d71302ff32c9ed30f7b959caea0c97bd95eaae56e515",
+      "gitBlobSha": "c7efb42c5800a973f2ef64418179f46306333684",
+      "bytes": 201,
+      "commit": "86f8bc338934fcf1b28af1ced4350a1a9a029fae",
+      "accessedAt": "2026-11-28T14:15:50.272Z"
+    }
+  ],
+  "accessedAt": "2026-11-28T14:15:50.272Z",
+  "scope": "Fixed first-party documentation and selected files were checked using Git blob identity and SHA-256 via isolated Chrome.",
+  "relations": [
+    {
+      "role": "asset-specific-terms",
+      "title": "Pinned model usage note",
+      "url": "https://github.com/Amywith/whale-girl-live/blob/86f8bc338934fcf1b28af1ced4350a1a9a029fae/%E7%9B%B4%E6%92%AD%E9%A2%84%E8%A7%88/assets/live2d/%E6%A8%A1%E5%9E%8B%E4%BD%BF%E7%94%A8%E9%A1%BB%E7%9F%A5.txt"
+    },
+    {
+      "role": "rigger-profile",
+      "title": "氵六青 · creator profile",
+      "url": "https://space.bilibili.com/11272072"
+    }
+  ],
+  "pinnedDocument": {
+    "path": "README.md",
+    "url": "https://github.com/Amywith/whale-girl-live/blob/86f8bc338934fcf1b28af1ced4350a1a9a029fae/README.md",
+    "rawUrl": "https://raw.githubusercontent.com/Amywith/whale-girl-live/86f8bc338934fcf1b28af1ced4350a1a9a029fae/README.md",
+    "sourceSha256": "506e6a73b351d993e729391dfd4790cfd357c3c4b36293ee5e674b56621c1219",
+    "gitBlobSha": "4a0f1b3d521503a1392de9a5042f9568f6cfa89a",
+    "bytes": 8947,
+    "commit": "86f8bc338934fcf1b28af1ced4350a1a9a029fae",
+    "accessedAt": "2026-11-28T14:15:50.061Z"
+  }
+}

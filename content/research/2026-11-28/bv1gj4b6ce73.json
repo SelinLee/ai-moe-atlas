@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV1Gj4B6cE73/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1Gj4B6cE73",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:50.666Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1Gj4B6cE73",
+    "title": "[开源3D模型] Claude Code 做的大肥鱼有力气｜妄想天使 MMD",
+    "owner": {
+      "name": "不想待在银河系",
+      "mid": 6415162
+    },
+    "pubdate": 1793950741,
+    "duration": 16
+  },
+  "descriptionSha256": "463f25d085c5fb6eb626ed6d80b786026a62fef6b957b39f43f1014dac809c5e",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "不想待在银河系",
+      "url": "https://space.bilibili.com/6415162"
+    }
+  ]
+}

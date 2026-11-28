@@ -1,0 +1,26 @@
+{
+  "url": "https://www.bilibili.com/video/BV11DyrzsEAE/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV11DyrzsEAE",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:47.613Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV11DyrzsEAE",
+    "title": "大肥鱼和小克，谁才是妈妈？",
+    "owner": {
+      "name": "像素柠柠檬",
+      "mid": 187656225
+    },
+    "pubdate": 1795612785,
+    "duration": 110
+  },
+  "descriptionSha256": "010e1eb1ec4c2a9738100517d1e603d95a433f97bbcb8407b275492d30465862",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "像素柠柠檬",
+      "url": "https://space.bilibili.com/187656225"
+    }
+  ]
+}

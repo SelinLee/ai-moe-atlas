@@ -1,0 +1,31 @@
+{
+  "url": "https://www.bilibili.com/video/BV1vSh964EPw/",
+  "requestUrl": "https://api.bilibili.com/x/web-interface/view?bvid=BV1vSh964EPw",
+  "httpStatus": 200,
+  "code": 0,
+  "accessedAt": "2026-11-28T14:11:53.695Z",
+  "scope": "Official Bilibili view metadata verifies identity, publication and cumulative likes. Credit follows the uploader description.",
+  "metadata": {
+    "bvid": "BV1vSh964EPw",
+    "title": "网址居然是中文？我做了个AI娘表情包站，还冲上贴吧热搜第2",
+    "owner": {
+      "name": "镜花Mirror",
+      "mid": 321480847
+    },
+    "pubdate": 1790423994,
+    "duration": 126
+  },
+  "descriptionSha256": "81847079e492daf0d5d78487235ff13f59b43173023123cc73f0fd440ef55fcf",
+  "sourceLinks": [
+    {
+      "role": "uploader-profile",
+      "title": "镜花Mirror",
+      "url": "https://space.bilibili.com/321480847"
+    },
+    {
+      "role": "creator-project",
+      "title": "镜花Mirror · website source",
+      "url": "https://github.com/lmy414/bluedafeiyu"
+    }
+  ]
+}
